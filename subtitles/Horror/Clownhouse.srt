@@ -1,0 +1,632 @@
+{1}{1}23.976
+{5945}{6040}Honey, you know how big|and empty this place feels without you.
+{6051}{6140}{Y:i}Look, there's some things going on|right now that will get really complicated.
+{6142}{6178}What's that supposed to mean?
+{6181}{6264}{Y:i}Well, new territories,|Philadelphia, maybe even Cleveland.
+{6266}{6316}When will we start living|like a normal family?
+{6318}{6376}{Y:i}- When will we start fixing this place up?|-Like?
+{6378}{6421}For one thing...
+{6423}{6509}I'd like to walk out of my bedroom|without a serious concussion every day.
+{6512}{6608}{Y:i}-Honey, I told you. It's that heating thing.|- I don't care what it is.
+{6610}{6699}Casey's the only one short enough|to get under it without clobbering himself.
+{6733}{6770}Come on, you guys. Up!
+{6773}{6796}Yeah?
+{6919}{6988}- Stay the hell out of my room!|- That thing's gonna fall off.
+{7174}{7207}Again, Case?
+{7290}{7346}I thought we were all through with that.
+{7396}{7467}Let's get these wet sheets|out of here before Mom sees them.
+{7470}{7533}You ever walk in on me again,|I'll step on your face.
+{7535}{7559}Sorry.
+{7598}{7646}You're sleeping bare-assed now?
+{7667}{7733}Mom would love that. What's this?
+{7746}{7792}It's nothing. Forget it.
+{7866}{7903}Hey, Mom!
+{7910}{7957}Casey wet the bed again!
+{8009}{8055}Hurry up and get dressed.
+{8446}{8497}All right. Check it out.
+{8524}{8599}"Center ring. Showtime, 7:00 p.m."
+{8607}{8655}Be there or be square.
+{8658}{8764}I don't care what you guys do tonight,|but whatever it is, it's gonna be together.
+{8790}{8869}Casey didn't like the circus last year.|Remember, Mom?
+{8880}{8918}It scared him.
+{9005}{9049}That was last year, right, Case?
+{9180}{9229}- Whose bus?|- Mine.
+{9245}{9281}Take a lunch.
+{9302}{9364}- You got practice tonight?|- It's Friday.
+{9367}{9405}Home right after.
+{9555}{9584}Randy...
+{9609}{9667}what's that thing still doing out there?
+{9686}{9752}Mom, it's for Halloween. Give me a break.
+{9754}{9819}Halloween is two weeks away. It's gross.
+{9832}{9875}You know what your problem is, Mom?
+{9878}{9941}- You got no sense of humor.|- Take it down. Now.
+{10277}{10315}Why can't I go with you?
+{10318}{10395}Honey, your Aunt Mia's 75 years old.|You'd be bored stiff.
+{10398}{10456}- She doesn't like us anyway.|- She doesn't?
+{10458}{10522}She said boys|were made for the chopping block.
+{10542}{10639}Casey, you want to tell me|why you really don't want to go tonight?
+{10676}{10710}Are you sure?
+{11327}{11406}- I'm sitting with Marci, got it?|- Thought you didn't like her anymore.
+{11409}{11497}- She'll be there with Melissa, peewee.|- We can sit alone. We don't care.
+{11500}{11562}Right, have little bawl-baby here|fink on me later?
+{11565}{11621}No way. We can all sit together.
+{11633}{11675}We can all hold hands.
+{11715}{11773}I'll bet you'll need someone|to hold your hand.
+{11775}{11834}I'm not afraid of the stupid circus,|so, shut up.
+{11837}{11886}- Maybe not all of it.|- Lighten up!
+{11889}{11937}Maybe not the lions, Casey?
+{11949}{11990}- Or the elephants.|- Shut up.
+{11993}{12068}Or the fat lady, the strong man.
+{12074}{12134}- Just shut up.|- But, Case...
+{12151}{12237}But what about those clowns?
+{12253}{12324}You think I'll ever forget you running|from that stupid clown?
+{12326}{12379}- No one's ever going to forget.|- Knock it off!
+{12382}{12453}- That was hilarious.|- I was just a little kid.
+{12482}{12515}Just shut up!
+{12518}{12571}Why you going, Casey?|You know you're scared.
+{12574}{12609}He can't stay home. You know that.
+{12612}{12693}Too bad! Have to face|the big clowns all by yourself.
+{12695}{12776}- I'm not scared, so, shut up.|- You better sit next to Geoffrey.
+{12778}{12836}I don't want you peeing your pants on me.
+{13241}{13281}Trouble at that nuthouse.
+{13295}{13343}Where the crazy people live.
+{13347}{13389}What the hell's going on?
+{13419}{13473}Maybe they tried to break out.
+{13519}{13550}You know?
+{13622}{13670}Maybe to go to the circus.
+{13914}{13945}I'm crazy!
+{14432}{14485}{Y:i}Showtime at 7:00 p.m.!
+{14487}{14549}{Y:i}It'll be great fun for the whole family!
+{14558}{14630}{Y:i}Lions, tigers, and bears. Oh, my!
+{14677}{14735}- The bearded lady was so fake.|- Right.
+{14738}{14804}- She was. You could tell.|- And you kissed her, I guess?
+{14806}{14902}{Y:i}That's right, I'm talking to you!|Do you know who I am?
+{14905}{14992}{Y:i}I'm Jolly Ollie.|The Jolly Brothers Circus clown.
+{15000}{15080}{Y:i}And tonight, there's super|spectacular circus fun...
+{15082}{15136}{Y:i}that I don't want you to miss.
+{15138}{15246}{Y:i}Showtime at 7:00 p.m.|And it'll be great fun for the whole family.
+{15255}{15330}{Y:i}Lions and tigers and bears. Oh, my!
+{15435}{15477}{Y:i}Welcome to the big top!
+{15906}{15994}- Geoffrey, Casey.|- You think we like being with you either?
+{15997}{16048}What I think is you better watch your mouth.
+{16050}{16079}That.
+{16092}{16160}- That what?|- That's what I wanna do.
+{16162}{16208}- You know what that is?|- Fortunetelling?
+{16210}{16265}You're kidding me.|That's a bunch of bullshit.
+{16267}{16323}- It's phony, like everything here.|- It's his money.
+{16326}{16381}You want your fortune told? Give me $1.|I'll tell you.
+{16383}{16454}- You're ugly. You'll pee in your bed again.|- Randy, shut up!
+{16470}{16497}What?
+{16511}{16558}You forgetting something, Geoffrey?
+{16573}{16664}- Like who can bash your face?|- Come on, Geoff.
+{16979}{17038}- Go on, Case.|- There's no one in here.
+{17078}{17118}Casey, just go in.
+{17255}{17326}You're wasting your time.|They're probably on a coffee break.
+{17329}{17359}Yes.
+{17695}{17730}You wanted it.
+{17813}{17866}This is my little brother, Casey.
+{17875}{17923}He wants his fortune told.
+{18326}{18356}Come, Casey...
+{18371}{18402}your hand.
+{18571}{18603}Soft hand.
+{18627}{18725}It is good to be soft, but dangerous, too.
+{18737}{18778}You know what I say?
+{18804}{18841}Now, Casey.
+{18863}{18911}First, your line of wisdom.
+{18929}{18982}It is long and curving.
+{19002}{19038}That is very good.
+{19060}{19115}You have a great potential...
+{19123}{19185}to bring wisdom and happiness...
+{19194}{19266}to first yourself and then to others.
+{19274}{19363}And this, Casey, is your love line.
+{19385}{19429}- Still small.|- Like his pecker.
+{19431}{19467}But very deep.
+{19470}{19541}Now, most important...
+{19550}{19587}the life line.
+{19602}{19626}You see?
+{19639}{19687}It's starts here...
+{19706}{19774}and around it...
+{20106}{20141}Severed.
+{20234}{20263}You see?
+{20266}{20316}That's where your stitches were, wasn't it?
+{20318}{20379}- A scar?|- His right hand had stitches.
+{20382}{20469}- No, it was his left.|- lf it is a scar, there is no worry.
+{20472}{20587}- What if it isn't?|- Something very soon is cutting through...
+{20601}{20631}your lifeline.
+{20634}{20716}- That's a bunch of bullshit! Come on.|- Come on, Casey. Let's go.
+{20746}{20800}You must take great care.
+{20802}{20867}- Come on, let's go.|- Beware.
+{20881}{20979}In the darkest of dark,|though the flesh is young...
+{20993}{21039}and the hearts are strong...
+{21050}{21117}precious life cannot be long...
+{21128}{21223}when darkest death has left its mark.
+{21250}{21293}Go on! Get out of here!
+{21345}{21403}You know, lady, you got a real problem!
+{21488}{21538}What's the matter with you?
+{21770}{21826}- A-plus, Geoff!|- She wasn't supposed to say that.
+{21829}{21930}I told you it was bullshit.|Put your goddamn hand down.
+{21934}{21996}I wish Mom could see this.|You walked him right into it.
+{21998}{22046}She's not supposed to say that, all right?
+{22048}{22120}Every time, man.|Is he still your best brother, Case?
+{22133}{22212}Every time, man. I get blamed,|and you, little goody two-shoes...
+{22214}{22280}walks him in there,|and scares him more than a clown would.
+{22282}{22314}You don't give a shit about him.
+{22317}{22417}I'm tired of this baby crap!|I'm not your babysitter! You got that?
+{22630}{22695}All right, listen.|You're gonna sit in there...
+{22710}{22759}and you're gonna watch the show.
+{22774}{22822}And I'm gonna sit with Melissa.
+{22843}{22930}And I don't want to even know|I've got two little brothers.
+{22991}{23022}All right?
+{23056}{23101}All right, walk behind me.
+{24234}{24294}{Y:i}The amazing Torchetto!
+{24306}{24357}{Y:i}And now, in the center ring...
+{24377}{24437}{Y:i}the wondrous, the incredible...
+{24440}{24498}{Y:i}Gapino Brothers.
+{25970}{26011}{Y:i}What the...
+{26027}{26067}{Y:i}Wait just a minute.
+{26070}{26151}{Y:i}Cheezo. Ladies and gentlemen,|Cheezo the Clown!
+{26157}{26264}{Y:i}You want to do|what the amazing Gapino Brothers do?
+{26375}{26449}{Y:i}You can't do it alone.|There's got to be more than one.
+{26651}{26701}{Y:i}You've got to be kidding.
+{26703}{26772}{Y:i}This is the rest of your trapeze act?
+{26799}{26843}{Y:i}Bippo and Dippo?
+{26898}{26998}{Y:i}All right, Cheezo, what are you waiting for?|Go on, get up there.
+{27054}{27101}{Y:i}No, what?
+{27158}{27225}{Y:i}Ladies and gentlemen, boys and girls...
+{27227}{27281}{Y:i}they want a volunteer.
+{27283}{27373}{Y:i}They must be crazy. A volunteer?
+{27590}{27666}{Y:i}Ladies and gentlemen,|apparently Cheezo the Clown...
+{27669}{27780}{Y:i}has found some unlucky person|to be that fourth performer.
+{27782}{27857}{Y:i}Is it a little boy? A little girl?
+{28362}{28393}No way.
+{28588}{28619}No!
+{29094}{29192}...over there, Randy.|What's he doing? Where's he going?
+{29579}{29621}It's just a man, Case.
+{29644}{29673}I know.
+{29684}{29752}- With paint on his face.|- Pretty funny?
+{29783}{29807}No.
+{29906}{29985}Know what I used to be afraid of?|I still, sort of, am.
+{29995}{30026}The Wolfman.
+{30052}{30088}I don't know why.
+{30110}{30144}I know he's fake...
+{30166}{30197}but still...
+{30215}{30272}That's what I don't like about clowns.
+{30282}{30350}Their faces are fake. Big happy eyes.
+{30382}{30446}Big painted smiles. It's not real.
+{30530}{30589}You never know what they really are.
+{30709}{30762}You're never gonna live this down,|you know.
+{30765}{30815}The whole damn town was watching.
+{30863}{30965}Anyone gives you any trouble,|you just come and get me, okay?
+{31018}{31051}Wanna go back in?
+{31092}{31124}Come on, then.
+{31174}{31238}We'll let Randy slobber over old Melissa...
+{31249}{31310}while you and me play some more games.
+{31339}{31389}Maybe we can win something for Mom.
+{31392}{31433}You're good at pitching baseballs, right?
+{31436}{31496}- A little.|- Well, sometimes...
+{31787}{31845}One more time. Here you go, kid, come on!
+{31920}{31973}Check this kid out. Seven in a row.
+{31975}{32045}Come on, one more time|and you win the grand prize.
+{32064}{32120}It's the wind-up, it's the pitch.
+{32166}{32203}Here you go.
+{32224}{32291}You deserve this. What's your secret, kid?
+{32304}{32346}Never think straight.
+{32636}{32701}Hi there, folks, what can I do for you?
+{32727}{32796}- Tell him what you want.|- I want a blue rabbit.
+{32798}{32864}That's a great animal.|Let me get that for you.
+{33714}{33746}Hey, Randy!
+{33847}{33909}Where have you guys been?|The show's been out 20 minutes.
+{33911}{33991}You'll never guess what Casey won.|Never in a million years.
+{34021}{34059}What the hell is that?
+{34062}{34104}What are you so hot about?
+{34110}{34156}- I want to get out of here.|- Where's Melissa?
+{34158}{34220}Shut up.|You got no right to say anything, bawl-baby.
+{34222}{34283}This goddamn town|thinks you're as chicken as they come.
+{34286}{34342}Mom and Dad find out,|they'll put you back in diapers.
+{34345}{34382}Shut up, Randy!
+{34389}{34435}Haven't you ever been scared before?
+{34438}{34499}Scared of how bad I'll bash you,|talk to me like that.
+{34502}{34580}- Do we still have to walk behind you?|- Just move your ass.
+{35082}{35154}Coco sounds like|she caught the old man cheating again.
+{35167}{35232}Little bastard could've broken my rib cage.
+{35234}{35305}Swell, you would've bled whiskey|all over the ring.
+{35307}{35394}- Yeah, gave him quite a scare.|- A little stage fright.
+{35415}{35489}Most kids are dying to get up there|with the rest of us.
+{35555}{35590}Now it's old Murray.
+{35593}{35664}{Y:i}Tired of working for peanuts
+{35666}{35695}Yeah.
+{35744}{35804}What the hell is going on out there?
+{35879}{35913}What the hell?
+{36474}{36513}Kids, probably.
+{36518}{36585}Want to catch the clowns|with their pants down.
+{36587}{36673}And I will show them|something what they don't want to see.
+{36679}{36730}I'm sure you would, Charlie.
+{36862}{36953}- Get away from the tent, please!|- Show's over!
+{37736}{37764}Hello?
+{38078}{38105}Georgie?
+{38534}{38571}Oh, my God!
+{41757}{41792}What are you doing?
+{41795}{41871}I'm trying to figure out|if this is a whisker or a zit.
+{41879}{41956}You guys wanna show you|really got some hair? Casey?
+{42007}{42080}You wanna show you really got hair|where it counts?
+{42082}{42108}What?
+{42123}{42191}Since we're all feeling so brave tonight...
+{42204}{42253}and Mom won't be home till late...
+{42292}{42349}we could have some real scary fun.
+{42418}{42448}Remember?
+{42482}{42556}- Remember, Casey?|- Ghost stories.
+{42577}{42614}Yeah.
+{42642}{42675}You wanna?
+{42688}{42720}Wanna, Geoffrey?
+{42818}{42850}Midnight...
+{42868}{42915}or just thereabouts.
+{42971}{43001}Midnight...
+{43026}{43064}a time...
+{43078}{43169}for something awful, something evil...
+{43201}{43239}something real...
+{43275}{43302}or not.
+{43357}{43423}He was too scared to tell.
+{43475}{43574}It was that tingly feeling|on the back of his neck...
+{43598}{43642}that told him...
+{43742}{43770}they...
+{43852}{43888}were out there.
+{44118}{44158}What did they want?
+{44190}{44225}Why were they here?
+{44244}{44278}To scare him?
+{44298}{44350}To kill him?
+{44389}{44429}Alone and helpless.
+{44450}{44509}Sure, he had his ax...
+{44536}{44598}but what would that really bring him?
+{44634}{44699}Just more blood.
+{44871}{44919}He knew they would find him.
+{44934}{45001}All of them, their faces...
+{45017}{45071}{Y:i}like painted nightmares.
+{45088}{45163}{Y:i}Sure as anything real...
+{45166}{45222}{Y:i}they would find him.
+{45238}{45333}{Y:i}It was kind of like|they were already inside of him...
+{45344}{45424}{Y:i}so they would always know...
+{45434}{45490}{Y:i}where he was hiding.
+{45510}{45589}They're coming, Geoffrey.
+{45627}{45703}They're coming, Casey.
+{45926}{46029}- The clowns!|- The clowns are coming!
+{46031}{46085}They're coming to get you!
+{46104}{46181}They're gonna get us all!
+{46185}{46297}- On a stormy night.|- They're gonna get you, Casey, Randy!
+{46599}{46664}The clowns. They're coming!
+{46707}{46761}They're coming to get you, Randy!
+{47564}{47638}What's the matter, Case?|Think they're really coming to get us?
+{47641}{47739}I got that feeling, that tingly feeling|on the back of my neck.
+{47751}{47792}It's probably what's behind you.
+{47796}{47862}- Shut up!|- Made you look!
+{47876}{47945}- Mom said the kitchen's off-limits.|- So?
+{47947}{48015}You want to get our butts whipped|for a lousy bowl of popcorn?
+{48018}{48078}The only way we'll get our butts whipped...
+{48376}{48452}Remember last time?|The eggs in the microwave?
+{48466}{48508}Right. Whose fault was that?
+{49201}{49253}- You guys.|- I didn't hear her.
+{49256}{49286}Good. Then, you make it.
+{49289}{49365}No. You're the one who won't get in trouble.|She never yells at you.
+{49368}{49400}You guys?
+{49668}{49761}- Ghost story really worked on you, didn't it?|- Casey, what was it?
+{49764}{49841}Something real, or not, Case?
+{49859}{49911}Or are you too scared to tell?
+{50087}{50181}I say we make popcorn, and if we|catch hell for it, we all take the blame.
+{50210}{50260}Deal. Okay, Case?
+{50286}{50317}Clown-boy?
+{50330}{50359}Popcorn?
+{50732}{50817}{Y:i}Don't be afraid of the dark, sweetheart
+{50820}{50914}{Y:i}See, baby, lurking in the shadows of love
+{50932}{50980}{Y:i}Oh, baby
+{50982}{51062}Oh, man! Casey! Geoffrey! Come here!
+{51192}{51225}You're kidding.
+{51234}{51285}- Maybe there's more.|- There's not.
+{51287}{51336}Who was the last one using the popcorn?
+{51338}{51417}- Who used the last of the popcorn?|- Mom said I could.
+{51421}{51492}- She just didn't get any more.|- That takes care of that.
+{51494}{51521}Like hell.
+{51545}{51614}- Petrie's is open.|- It's almost 11:00. We'll never make it.
+{51617}{51654}We would on old Jones Road.
+{51657}{51721}No one's walking old Jones Road|in the middle of the night.
+{51723}{51756}You are, Geoffrey.
+{51768}{51816}- You and Casey.|- No way.
+{51849}{51885}All right, Casey...
+{51915}{51945}then you go.
+{51974}{52023}- Forget it.|- He's kidding.
+{52026}{52053}You go.
+{52103}{52154}- Me?|- Yeah.
+{52248}{52349}Okay. You guys gonna stay here|and feel each other up while I'm gone?
+{52352}{52403}- No.|- Are you scared to go alone?
+{52406}{52445}- No.|- Says you.
+{52457}{52515}Says you. You're full of shit, Geoffrey.
+{52525}{52624}{Y:i}You've been watching too many Creature|Features. They're starting to rot your brain.
+{52626}{52666}Maybe we should all go.
+{52673}{52777}Yeah, then we can all be murdered|by the big, bad bogeyman clowns out there.
+{52779}{52822}Don't say that, Randy.
+{52828}{52858}You coming?
+{53032}{53095}- I'm going with Randy.|- What? Why?
+{53098}{53177}- Let's all go.|- Geoffrey's afraid to go, Case.
+{53230}{53292}- Come on, we're going.|- We'll be right back.
+{53319}{53361}Why are you going with him, Case?
+{53454}{53489}We'll be right back.
+{54746}{54835}{Y:i}So don't be afraid of the dark
+{54852}{54887}{Y:i}sweetheart
+{54906}{54941}{Y:i}Oh, baby
+{55244}{55282}- Don't!|- I'll race you!
+{55285}{55366}We got to make it to Petrie's|in seven minutes, buddy. Let's go.
+{55369}{55433}The dark's scary if you run through it.
+{55437}{55509}Will you grow up, Casey?|What's out there that's gonna grab us?
+{55512}{55590}Just 'cause it's dark doesn't mean|there's something awful out there.
+{55593}{55694}- It means you can't tell if there is.|- That's baby thinking, Casey. Grow up.
+{55708}{55788}- Okay? Let's go. Come on!|- Randy, don't make me run, please?
+{55823}{55908}I'll buy you a bag of jellybeans|if you beat me there, all right?
+{55919}{55943}No!
+{56053}{56087}I'm not running!
+{56100}{56141}Randy! Wait!
+{56252}{56280}Listen!
+{56779}{56827}There's someone behind me!
+{56888}{56937}Randy, you ran all the way?
+{57029}{57062}Randy, help!
+{57118}{57154}I'm gonna kill him.
+{57268}{57349}Get off me, you little shit.|What the hell's the matter with you?
+{57351}{57421}- There's somebody behind me, chasing me.|- My ass.
+{57430}{57469}Shut up, there was.
+{57471}{57536}You came barreling|in here like a freight train.
+{57585}{57623}Look at this mess.
+{57718}{57773}I'm gonna kill you, you little turd.
+{57782}{57825}I'll take care of this, Jasper.
+{57828}{57912}- You go and pull those crates...|- Hear me? I'm gonna tear you to pieces.
+{57914}{57953}...first thing in the morning.
+{57966}{58015}I'll be heading on home, then, Ellie.
+{58018}{58111}- Fine and dandy. You go on, then.|- Good night, boys.
+{58129}{58197}Casey, old man. Slow down, you hear?
+{58390}{58432}Let's get you cleaned up.
+{58911}{58952}Who the hell is in there?
+{59135}{59169}Is someone in here?
+{60432}{60469}Who the hell is that?
+{63150}{63232}{Y:i}KOBA News, every hour on the hour.|More on the grisly murder...
+{63234}{63317}{Y:i}and apparent breakout only hours ago|at the Poho County State Hospital...
+{63320}{63361}{Y:i}where three mental patients escaped...
+{63364}{63448}{Y:i}after what authorities there said|was a denial of their circus privileges.
+{63450}{63513}{Y:i}The Jolly Brothers Circus|at Hanksville tonight...
+{63515}{63576}{Y:i}was attended|by a majority of the institution's inmates.
+{63578}{63636}{Y:i}Police began|an intense three-county search...
+{65030}{65094}{Y:i}Casey's walkin', walkin' scared
+{65097}{65165}{Y:i}'Tween his legs, he's got no hair
+{65168}{65197}{Y:i}'Fraid of clowns
+{65200}{65237}Wait up, Randy, I mean it.
+{65240}{65291}{Y:i}He'll pee the bed, so better beware
+{65302}{65331}Please!
+{65353}{65382}{Y:i}One, two
+{65385}{65443}- Randy, wait up!|- Hurry up, soldier.
+{65446}{65509}You're an embarrassment|to this platoon, mister.
+{65511}{65581}- You're not funny, Randy!|- Do you understand me?
+{65589}{65636}I mean it, Randy. You're not...
+{65749}{65789}You're not funny, Randy.
+{65807}{65890}I know you're hiding.|You'll jump out and try and scare me.
+{65893}{65947}It's not gonna work, so forget it.
+{67468}{67503}They're here, Randy!
+{67545}{67640}What the hell are you talking about?|What are you talking about? Who?
+{67713}{67781}The clowns, Randy. They're here.
+{67862}{67935}Casey, you are|the weirdest brother I've ever had.
+{67941}{68008}Let's go home, Randy.|Hold my hand, please?
+{68044}{68079}Randy, please?
+{68532}{68581}Don't ever leave me again, Randy.
+{68584}{68645}- Please? Ever.|- Just keep walking.
+{68654}{68730}- Promise?|- Walk, Casey. I'm not leaving anyone.
+{69030}{69058}Funny.
+{69093}{69177}Real funny. Little jerk-off Geoffrey|put the dummy back up again.
+{69180}{69236}- That's so scary.|- Randy.
+{69238}{69292}What do you think|of your best brother now?
+{69294}{69347}Randy, Geoffrey wouldn't do that.
+{69359}{69393}He wouldn't?
+{69466}{69516}Those are Geoffrey's clothes.
+{69535}{69642}Randy, if Geoffrey wanted to scare us,|he'd use some of our clothes, wouldn't he?
+{69652}{69717}What are you trying to tell me?|You think this is Geoffrey?
+{69719}{69765}You think he's dead, Case?
+{69774}{69846}You think the clowns took him up|and hung him in the yard?
+{69849}{69928}Yeah. That's what happened.|I'll bet that's what happened.
+{69930}{70008}And this is gonna be|Geoffrey's cold, dead body...
+{70020}{70058}waiting to grab me...
+{70078}{70118}from beyond the...
+{70169}{70247}Son of a bitch! What the hell|do you think you're doing, asshole?
+{70250}{70306}You were scared, Randy.
+{70309}{70371}- Yeah?|- Yeah. How does it feel?
+{70379}{70466}You're sick, you little shit.|I ought to fucking kill you.
+{70469}{70561}I just wanted you to get a little scared.|You know, like Casey.
+{70583}{70664}You want any of this,|you're gonna have to kill me for it.
+{70822}{70870}I didn't mean to scare you, Case.
+{70890}{70926}He was crying, almost.
+{70929}{70998}He's probably going upstairs|to change his underwear.
+{71001}{71045}Maybe you shouldn't have done it.
+{71047}{71090}He deserves a lot worse than that.
+{71093}{71153}Maybe stuff like that just makes him meaner.
+{71156}{71211}I didn't know you could get any meaner.
+{71214}{71257}They really are out tonight.
+{71270}{71315}- Who are?|- The clowns.
+{71437}{71472}They are?
+{71491}{71516}Yeah.
+{71596}{71640}Come on. Let's get inside.
+{73090}{73130}Would you shut up, please?
+{73422}{73448}Make me.
+{73564}{73598}Jesus, Randy!
+{73856}{73881}Shit!
+{73896}{73968}- The tape's ruined.|- That's really too bad.
+{73971}{74005}- Yeah?|- Yeah.
+{74042}{74083}What did you do, Randy?
+{74106}{74147}Let me tell you something.
+{74155}{74192}When I get you...
+{74195}{74260}it's gonna be good, real good.
+{74302}{74329}Go check the fuse box.
+{74332}{74370}- You go check it.|- Why me?
+{74373}{74470}'Cause Daddy only showed his favorite little|boy how to change the goddamn things.
+{74492}{74536}What's the matter, Geoffrey?
+{74550}{74611}A little afraid of a big dark house?
+{74736}{74767}What was that?
+{74898}{74930}Downstairs.
+{74950}{74974}Nothing.
+{74982}{75028}No. That was the front door.
+{75046}{75077}How do you know?
+{75084}{75143}I've heard Dad sneak in a million times.
+{75232}{75284}It's got to be Dad.
+{75314}{75399}- We should just go look.|- All right, go. You're the oldest.
+{75402}{75464}So, Casey's the youngest,|does that mean he should go?
+{75466}{75495}No way.
+{75499}{75541}You a little scared, big brother?
+{75685}{75743}- We should call the police.|- Yeah, it's 911.
+{75746}{75778}- The phone's down the hall.|- Go.
+{75781}{75872}Fuck you! I'm an asshole until there's|something to do that scares you. You go!
+{76022}{76104}I'll go, but you've got to say|I'm braver than you.
+{76129}{76193}Say it! Say "Geoffrey's braver than Randy."
+{76294}{76376}- How'd you like me to call an ambulance...|- You're scared and you know it.
+{76378}{76443}You made Case feel like shit tonight|'cause he was scared.
+{76446}{76513}You took him to a freaky fortune lady|who scared the shit...
+{76516}{76546}Come on, guys, stop it!
+{76549}{76624}- You're a chicken-shit little wimp.|- I know you are, but what am I?
+{76626}{76663}You're a little dick.
+{76666}{76732}Come on, call the police.|Call Officer Friendly.
+{76734}{76814}It's probably nothing, not a goddamn thing.|A fuse goes out...
+{76817}{76901}all of a sudden you guys are freaking out.|You're freaking me out.
+{76938}{76961}No.
+{77008}{77045}Call Officer Friendly.
+{77063}{77144}What will you tell him?|The lights went out, I heard a noise?
+{77146}{77208}What are we to do?|Everyone's chicken to go to the attic.
+{77210}{77257}Stay here, piss in your pants all night.
+{77259}{77325}I say we draw straws|and see who fixes the fuse.
+{77376}{77400}Case?
+{77474}{77550}- Casey can't go up there alone.|- No. We're all men, we all draw.
+{77553}{77613}We all take the same chance. You got that?
+{78414}{78494}All right. The shortest one fixes the fuse.
+{78514}{78563}No feeling around. Just take one.
+{78693}{78733}All right. Let's see them.
+{78830}{78888}Looks like you're elected, Geoff, old bro.
+{78890}{78949}I think you might be my best brother, too.
+{79005}{79060}You got the shortest straw,|Randy, you cheater!
+{79062}{79153}You taught me everything I know!|Is the shortest straw gonna go fix the fuse...
+{79155}{79224}or are we gonna stand around|in the dark all night?
+{79235}{79260}You see me going?
+{79263}{79344}No. Being a little wet in the Jockeys|slow you down a little?
+{79365}{79402}You got amnesia, little buddy?
+{79405}{79488}You better shut your goddamn mouth|or I'm gonna bash you to shit.
+{79568}{79638}You're gonna be sorry this night|ever happened, little buddy!
+{79641}{79678}I promise you that.
+{79902}{79953}- Think you can go to bed?|- No way!
+{79966}{80006}What are you looking for?
+{80058}{80116}Come on, then. Let's go read some comics.
+{80118}{80173}- Not scary ones.|- Right.
+{80201}{80265}Just trying to get me|under Casey's Revenge?
+{82617}{82652}"Get back, both of you!
+{82654}{82741}"But they could not hear.|They could only stare, akimbo and agog.
+{82749}{82848}"Wait! Come back!|Don't go out there! Don't you see?
+{82858}{82914}"Don't you see how awful that thing is?
+{82925}{82971}"Before anyone could suggest help...
+{83040}{83095}{Y:i}"'How could he not see it? '|the others thought.
+{83098}{83173}{Y:i}"'How could something so evil|and so awful be so near...
+{83382}{83422}{Y:i}"'and not draw attention? '
+{83480}{83545}"The green gob|of monstrous mucous moved.
+{83639}{83697}"Guns blazed, but it did not stop.
+{83702}{83771}"The boys thought for sure all was lost.
+{83807}{83855}"No, no, not now!"
+{84245}{84303}We're coming to get you!
+{84466}{84528}- Randy.|- Why don't you come down and see me?
+{84576}{84650}That is, if you're not too scared!
+{84674}{84730}We're coming, Geoffrey!
+{84782}{84836}We're all coming!
+{84897}{84956}We're all coming in, boys!
+{84963}{85000}Can you hear us?
+{85168}{85227}Just forget him, Case, he can't get in.
+{86570}{86634}Randy, what the hell|are you doing down there?
+{87028}{87103}You stay here|and don't unlock the door for anyone...
+{87106}{87147}unless you're sure it's me.
+{87149}{87177}No way.
+{87213}{87249}I'm going with you.
+{87279}{87361}- You know he's just gonna try to scare us.|- I'm going with you!
+{87413}{87465}All right. But you stay close.
+{87662}{87717}Randy, goddamn it, answer!
+{87780}{87828}Randy, you're being a jerk!
+{87898}{87961}Randy, you jump out at us,|you're an asshole!
+{88021}{88062}You are such a dick!
+{88426}{88472}Randy, you hear me?
+{88909}{88937}Go away.
+{88952}{88977}What?
+{91964}{91999}Jesus, Casey.
+{92116}{92178}Geoffrey, what are we gonna do?
+{92208}{92244}Who the hell are they?
+{92254}{92289}My nightmare.
+{92653}{92700}They did something to the doors.
+{92769}{92819}- What about Randy?|- Shut up, Casey.
+{92822}{92900}- He's still in here, someplace.|- We've to get out of here and get help!
+{92902}{92960}Geoffrey! What if he's dead?
+{93113}{93161}Casey! Get the hell out of here!
+{93320}{93353}- No way!|- The den window!
+{93356}{93407}- Too dark.|- I want you to go to Mrs. Appleby's...
+{93409}{93434}tell her to call the cops.
+{93437}{93496}- What if she's dead?|- Go to the James' and tell them!
+{93498}{93524}The James' are on vacation.
+{93527}{93593}Then go to the nearest other people|and get help.
+{93978}{94014}Never think straight!
+{94218}{94269}That was Mom's favorite lamp, Casey.
+{95204}{95275}They really do know|where I'm hiding, Geoffrey?
+{95298}{95335}I don't know, Case.
+{95347}{95408}We got to get out of here.|We got to get help.
+{95445}{95480}There's three.
+{95491}{95538}There's one more, Geoffrey.
+{95637}{95683}Case, the den window.
+{95721}{95750}Come on!
+{95866}{95907}Geoffrey, it's open.
+{96008}{96056}He wants us to go out there.
+{96068}{96118}Cheezo, he wants us to go outside.
+{96133}{96201}- It's a trap.|- It's our only chance to get out.
+{96204}{96279}We got to run for it, you got it?|We got to run our ass off.
+{96282}{96308}Wait.
+{96590}{96641}- What?|- The dummy.
+{96692}{96720}It's Randy.
+{96790}{96873}- It can't be, it's got clown stuff on.|- It's him, I know it.
+{96876}{96933}Wait, Casey. No.
+{96960}{97049}Casey, I want you to run.|Right now. Run to Mrs. Appleby's.
+{97077}{97138}Do you hear me? Casey, I want you to run.
+{97155}{97204}Right now. Tell her to call the police.
+{97207}{97245}Stay there. Casey!
+{97474}{97560}What the hell's the matter with you?|Are you crazy?
+{97569}{97619}You can't go back into that house.
+{97621}{97669}We're going to get help. Okay?
+{97695}{97735}You listening to me?
+{97773}{97807}All right. Come on.
+{97844}{97871}No!
+{97873}{97956}Mrs. Appleby! Mr. James!|Please! Come help! Quick!
+{98207}{98245}Where is he, Geoffrey?
+{98281}{98313}Where's Randy?
+{98333}{98367}I don't know.
+{99488}{99531}I think he's dead, Geoffrey.
+{99550}{99604}For Christ's sake,|now will you go get help?
+{99606}{99651}We got to get him out of here.
+{99673}{99715}We'll put him back in the closet.
+{99717}{99767}They already know he's in there.
+{99783}{99838}- We got to get help!|- Put him in the den.
+{99857}{99932}- Goddamn it, Casey!|- Got to put him where he'll be safe.
+{100241}{100330}- Casey, I need your help.|- I think that was a police car.
+{100350}{100380}Hurry up.
+{100442}{100474}Come on, Case.
+{100734}{100771}I think he's alive.
+{100821}{100854}Come on, Casey.
+{100873}{100955}I need your help.|It's darker than dark in here.
+{102347}{102429}{Y:i}If you'd like to make a call,|please hang up and try again.
+{102437}{102517}{Y:i}If you need help,|hang up and then dial your operator.
+{103223}{103289}{Y:i}-Police, emergency.|- Officer Friendly?
+{103296}{103373}{Y:i}-I'm sorry. Who did you want?|- Officer Friendly. Please hurry.
+{103376}{103471}{Y:i}-Roger, it's some kid.|-This is Lt. Corman, can I help you?
+{103478}{103552}{Y:i}- Is this Officer Friendly?|-That's right. Who's this?
+{103557}{103654}This is Casey Collins.|I live at 12 Oak, Oak Tree Circle.
+{103686}{103739}{Y:i}Hello, Casey.|What seems to be the trouble?
+{103741}{103791}The clowns are trying to get me.
+{103805}{103846}{Y:i}Clowns, did you say?
+{103873}{103905}Hurry, please.
+{103907}{103980}{Y:i}What do you mean "clowns," Casey?|You mean circus clowns?
+{104007}{104078}{Y:i}Casey, do you have any idea|what time it is right now?
+{104081}{104131}{Y:i}- 3:00.|That's right, Casey.
+{104133}{104208}{Y:i}You know, this is the police.|Do you think maybe...
+{104211}{104317}{Y:i}you might just have woken up,|you know, like maybe it's just a nightmare?
+{104351}{104414}{Y:i}Where are your parents, Casey?|Can you tell me that?
+{104424}{104500}My mom's at my Aunt Mia's,|and my dad's in Cleveland.
+{104510}{104603}{Y:i}Casey, I'd like you to hang up this phone|right now, and your nightmare's gone.
+{104605}{104678}{Y:i}Go ahead. Try it.|If that doesn't work...
+{110797}{110841}Nightmare's over, Case.

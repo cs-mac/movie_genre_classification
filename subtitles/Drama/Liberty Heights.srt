@@ -1,0 +1,1740 @@
+{1}{1}25.000
+{1046}{1150}{Y:i}I grew up in the northwest section|of Baltimore. It was all Jewish.
+{1155}{1219}{Y:i}In fact, I didn't even think of it|in those terms.
+{1224}{1270}{Y:i}I just assumed everyone was Jewish.
+{1275}{1296}{Y:i}Abrams.
+{1334}{1382}{Y:i}The whole world was Jewish.
+{1387}{1412}Ackerman.
+{1417}{1474}{Y:i}I remember when I was|in the second grade...
+{1479}{1560}{Y:i}...the first clue that some people|were different occurred to me then.
+{1631}{1653}Cohen.
+{1699}{1734}Cohen.
+{1766}{1800}Der.
+{1822}{1900}{Y:i}I even thought Ping Der was Jewish.
+{1905}{1999}{Y:i}The "Ping" part didn't sound Jewish,|but I assumed it was a nickname.
+{2010}{2110}{Y:i}Her brother's name was Minhuey,|and that definitely sounded Jewish.
+{2123}{2197}{Y:i}I sensed there was a world beyond|what I knew...
+{2202}{2254}{Y:i}...when I had lunch at|Butch Johnson's house.
+{2267}{2292}Something wrong, Ben?
+{2297}{2402}No. This is fine.|I just never had raw bread before.
+{2428}{2491}We always cook it.|You know, toast it.
+{2497}{2519}I can do that.
+{2525}{2606}There's too much white here.|The milk's white, the bread's white.
+{2611}{2639}It's all white stuff.
+{2644}{2680}What do you normally have?
+{2685}{2729}Not this.
+{2734}{2767}{Y:i}What was on the bread?
+{2773}{2848}Luncheon meat.|I've never heard of it.
+{2853}{2917}Not bologna? Not salami?
+{2924}{3009}No, luncheon meat|with mayonnaise and milk.
+{3014}{3042}Everything was white.
+{3050}{3118}Well, they must not be Jewish.
+{3144}{3193}They're the other kind.
+{3199}{3261}{Y:i}A couple of years later,|I began to realize...
+{3266}{3347}{Y:i}...that the other kind was|about 99% of the world.
+{3352}{3408}{Y:i}I went to school thinking|everyone was Jewish.
+{3433}{3495}Now I know almost no one is Jewish.
+{3500}{3553}The other kind.
+{3563}{3664}{Y:i}I was reminded of that revelation the|summer Murray, Sheldon and myself...
+{3669}{3727}{Y:i}...went to the|Turkey Hills Swim Club.
+{3808}{3881}She's gotta be the most|beautiful girl on earth.
+{3906}{3973}Look at those cigarettes. So sexy.
+{3978}{4018}So sexy.
+{4053}{4159}She's gotta be wild. If she's doing|that with a pack of cigarettes...
+{4169}{4215}...she's gotta be wild.
+{4604}{4656}- How'd they come up with that order?|- What?
+{4662}{4707}That Jews should be first.
+{4712}{4815}Yeah, I would've thought it'd be dogs,|coloreds, then Jews.
+{4821}{4911}Must've been some meeting to come up|with that. Some guy had to say:
+{4916}{4982}"I have to say, Jews bother me|more than the dogs. "
+{4987}{5066}{Y:i}So now a dog goes there.|Does he read the sign and leave?
+{5072}{5104}{Y:i}I would've put dogs first.
+{5114}{5181}A dog can take a piss.|You're walking barefoot.
+{5186}{5259}A Jew's not gonna lift his leg|and pee on the wall.
+{5264}{5356}You know, I've never seen a colored|person swim or sunbathe, period.
+{5361}{5384}Did you?
+{5417}{5480}Now that you mention it,|I don't think I have.
+{5486}{5575}I'm thinking Atlantic City.|That's a lot of people on that beach.
+{5590}{5626}Never seen a colored on the beach.
+{5631}{5696}This is definitely directed|more at the Jews then.
+{5708}{5756}{Y:i}The school year begins in one week...
+{5761}{5839}{Y:i}...and all schools will implement|the new integration law.
+{5844}{5937}{Y:i}Baltimore school district officials|do not anticipate any problems...
+{5942}{5979}{Y:i}...implementing the new law.
+{6113}{6184}{Y:i}Summer faded away.
+{6189}{6241}The "summer faded away" and what?
+{6258}{6286}The end of summer.
+{6291}{6342}{Y:i}A composition|of what you did last summer.
+{6347}{6380}It's hard to read.
+{6406}{6450}What's that word?
+{6517}{6539}"Jewish. "
+{6547}{6618}{Y:i}- "Jewish, " I think.|- "Jewish"?
+{6899}{6946}I'll be back in a little while.
+{7966}{8065}Like clockwork. If it's Rosh Hashanah,|Nate and Charlie must pay a visit.
+{8071}{8116}What can I say? It's tradition.
+{8122}{8184}The cantor sings, that's our cue|to see the new Caddy.
+{8189}{8232}Pretty. Pretty in green.
+{8237}{8275}They call it "mist green. "
+{8286}{8318}Is that what they call it?
+{8324}{8379}I thought you'd look|at the convertible.
+{8384}{8448}Ada keeps talking four doors,|convenience.
+{8471}{8568}Carl Zeitsoff was in. I told him you|were coming to see the new Caddies.
+{8574}{8642}6-9-9. He always bets|the same number.
+{8648}{8700}For 10 years it is the same number.
+{8705}{8771}It would've been a shock|if it was another number.
+{8776}{8812}Any price increase this year?
+{8817}{8910}Let's look at the paperwork.|I haven't had a chance to look it over.
+{8915}{8966}It just literally came in.
+{9061}{9092}Get a haircut.
+{9097}{9154}I'm letting it grow like Samson's.
+{9159}{9216}How are the coloreds doing in school?
+{9222}{9313}They're doing good. They're getting|better grades than I am.
+{9318}{9342}Girl’s attractive.
+{9358}{9386}What?
+{9406}{9438}She's attractive.
+{9443}{9530}Just kill me now. Just kill me now.
+{9542}{9566}What?
+{9571}{9603}What do you mean?
+{9626}{9651}Pretty.
+{9656}{9684}Oh, my God!
+{9689}{9782}I said she was attractive.|That doesn't mean I'm attracted to her.
+{9787}{9834}She's attractive.
+{9857}{9906}Where's the jawbone of the ass?
+{9949}{9999}The jawbone of the ass. Where is it?
+{10014}{10066}Is he crazy?|What talk is this?
+{10078}{10124}Your ass does not have a jawbone.
+{10130}{10198}Samson fought the Philistines|with the jawbone of an ass.
+{10203}{10296}- Not your ass. An animal.|- There's an animal called an "ass"?
+{10301}{10340}Such a mouth.
+{10349}{10417}{Y:i}Look, I loved Samson and Delilah.
+{10423}{10467}I hope they bring that movie back.
+{10486}{10546}"He slew hundreds with|the jawbone of an ass. "
+{10551}{10594}Do you believe this stuff?
+{10607}{10630}I don't know.
+{10635}{10682}What do you mean?|It's in the Bible.
+{10687}{10714}That makes it true?
+{10719}{10772}It's in the Bible. A story.
+{10777}{10804}Yeah, a true story?
+{10809}{10862}It's not the question if it's true.
+{10867}{10932}If it's in the Bible,|it's for a reason.
+{10937}{10958}What reason?
+{10964}{10990}A good reason!
+{10999}{11031}That's the reason?
+{11036}{11115}It's there. He had long hair.|He was strong.
+{11121}{11209}{Y:i}He knocked the building down.|He killed the goyim.
+{11214}{11313}- Finish of the story.|- There weren't gentiles yet. Pagans.
+{11318}{11431}{Y:i}Pagans, schmagans, gentiles.|Something, but not Jewish.
+{11436}{11496}We know. If they're|not Jewish, they're...
+{11504}{11542}...the other kind.
+{11551}{11594}Go make yourselves busy.
+{11599}{11704}Your father's not gonna be home for|almost an hour. Go watch television.
+{12156}{12228}- They call it "mist green. "|- I think it's "green mist. "
+{12241}{12335}Tell Louie to park the car in back.|We'll be coming out for dinner.
+{12340}{12423}- Do Ada and the boys like it?|- Benny likes convertibles.
+{12727}{12754}Can I help you?
+{12766}{12842}I'm here to see the-the-the...
+{12847}{12871}The physician.
+{12935}{12976}- What's the thought?|- I don't know.
+{12988}{13032}But burlesque is finished.
+{13037}{13074}TV puts us in the shithouse.
+{13079}{13137}How often can you watch|Milton Berle wear a dress?
+{13143}{13216}{Y:i}There's a lot of good shows.|Did you see Marty?
+{13225}{13289}"What do you wanna do, Marty?"|"What do you wanna do?"
+{13305}{13352}What are you talking about?
+{13357}{13429}Guy can't get a date.|He's shy. He's a butcher.
+{13434}{13483}- Do I care?|- I thought you saw it.
+{13488}{13587}"Ma, I'm an ugly man.|I'm a butcher. Nobody wants me. "
+{13592}{13652}Don't you understand|the problem I've got?
+{13657}{13709}I have to declare to the IRS|that I make more...
+{13714}{13764}...with this burlesque house|than I do...
+{13769}{13866}...to keep them off my ass, or they'll|start looking at what else I do.
+{13871}{13947}Last time I looked, running|a numbers racket was illegal.
+{13952}{14034}God forbid they look in the audience,|see how many people we have.
+{14039}{14070}To be a realist...
+{14075}{14134}...we've got two years|in this joint, tops.
+{14139}{14218}So where are they-?|Where are you from?
+{14251}{14340}Don't get personal.|Let me listen to your heart.
+{14492}{14578}The new Caddy this year costs more.|Next year, more still.
+{14583}{14656}Same dollars from our take|on the numbers is not good business.
+{14661}{14709}Everybody, put on|your thinking caps...
+{14714}{14772}...and figure how we can|raise the revenue.
+{14777}{14813}I think we can do better.
+{14818}{14889}Everybody's waiting for me|on a Rosh Hashanah dinner.
+{14894}{14918}I got an idea.
+{14923}{14987}Put on your thinking caps.|We don't need an answer now.
+{14992}{15028}Nate, I got something good.
+{15040}{15069}Make it quick.
+{15075}{15137}We introduce a fourth digit|as a bonus number.
+{15142}{15163}Double the pot.
+{15168}{15200}How do you pay for it?
+{15205}{15261}It's 10 percent of the original bet.
+{15266}{15353}{Y:i}If it's 50 cents, it's an additional|5 cents; 60 cents, 6 cents...
+{15358}{15439}{Y:i}...70 cents, 7 cents;|a buck, 10 cents...
+{15690}{15780}If a person is a Communist|or a Socialist, what does that mean?
+{15786}{15851}If you're a Communist|and wanna blow up a building...
+{15856}{15918}...or sell secrets to a spy,|that's different.
+{15927}{16011}{Y:i}But if you believe in different|economics, it should have no effect.
+{16026}{16077}- Period.|- Well, I can't write that.
+{16082}{16119}I could. You just can't read it.
+{16125}{16201}Such a sloppy writer. It won't look|good if you get older.
+{16206}{16262}I have no idea what this has to do|with McCarthy.
+{16267}{16318}McCarthy pushes|his ideals and beliefs...
+{16324}{16392}...with intimidation,|and that is very dangerous.
+{16402}{16434}What do I wear for Halloween?
+{16439}{16533}You always change the subject.|Why do you always go off on a tangent?
+{16542}{16597}I'm thinking McCarthy, witch hunts...
+{16602}{16662}...witches, Halloween.|What do I wear?
+{16667}{16693}Go as a pirate.
+{16698}{16766}See? Your grandmother has|the perfect solution.
+{16826}{16935}{Y:i}Yea, though I walk through|the valley of the shadow of death...
+{16951}{17035}...I will fear no evil,|for Thou art with me.
+{17040}{17134}Thy rod and Thy staff,|they comfort me.
+{17153}{17222}Thou preparest a table before me...
+{17227}{17282}...in the presence of mine enemies.
+{17301}{17370}Thou anointest my head with oil...
+{17375}{17425}{Y:i}You stuck on Sylvia?
+{17430}{17486}{Y:i}I saw you eyeing her|during the 23rd Psalm.
+{17491}{17536}{Y:i}I was watching her pray.
+{17578}{17613}She was really into it.
+{17618}{17689}I mean, her head was bowed,|her eyes were closed.
+{17694}{17748}She was really praying.
+{17785}{17833}- Would you take her out?|- You kidding?
+{17838}{17914}Not in public. You know,|on the sly or something.
+{17919}{17984}Look, Sheldon,|I was watching her pray.
+{17989}{18071}I was wondering what she was thinking.|I was curious.
+{18076}{18131}You know, colored girls are|great with sex.
+{18136}{18174}- That so?|- Proven fact.
+{18179}{18268}- Where do you get your facts?|- I accumulate this information.
+{18274}{18330}{Y:i}For one, colored guys|got huge schlongs.
+{18338}{18386}Twice the size of a white guy's.
+{18404}{18442}Where do you come up with this?
+{18447}{18491}Unless you haven't noticed...
+{18503}{18577}...we got a colored guy in our class.|Wilbert Mosley.
+{18589}{18622}I took a shower with him.
+{18627}{18713}Mine's all shriveled up|from the water. I got maybe an inch.
+{18721}{18792}His is halfway down to his knees,|I swear to God.
+{18798}{18821}Give me a break.
+{18826}{18917}I swear to God, his knees. It was|giving me an inferiority complex.
+{18923}{18988}So I'm thinking this|circumcision thing we have done...
+{18994}{19056}...it's not just about clipping|innocent foreskin.
+{19061}{19097}It's about stunting its growth.
+{19102}{19129}You gotta be kidding.
+{19134}{19191}{Y:i}- I'm talking about Wilbert's schlong.|- Humongous.
+{19197}{19230}He didn't believe me.
+{19238}{19267}See that girl?
+{19278}{19325}Wilbert could tap her from here.
+{19335}{19387}It's tied to his leg|when it's not in use.
+{19392}{19453}Good guy. Smart as shit.|Lets me cheat off him.
+{19458}{19494}Ben is taken with Sylvia.
+{19499}{19538}Would you give it a rest?
+{19548}{19606}- My parents would die.|- Your parents?
+{19611}{19698}Her father's a big doctor|at Provident Hospital. Wealthy.
+{19703}{19800}You're way too low-class. You try to|take her out, her father would flip.
+{19814}{19842}Plus you're Jewish.
+{19862}{19906}Give it 45 minutes.
+{19913}{19962}You gotta take a shower with Wilbert.
+{19971}{20012}You will be amazed.
+{20039}{20065}You gotta be kidding.
+{20338}{20375}See you later, Ma.
+{20463}{20487}Ben's upstairs.
+{20492}{20531}You're not getting dressed?
+{20536}{20560}I'm a beatnik.
+{20572}{20599}That's some outfit.
+{20817}{20858}Ben, let's go!
+{20880}{20931}You're gonna go as reindeers?
+{20942}{20987}- We're Vikings.|- Vikings?
+{21016}{21052}They're from here?
+{21102}{21142}Oh, my God.
+{21148}{21221}Oh, my God! Ada! Oh, my God.
+{21317}{21367}Have you lost your mind?
+{21379}{21438}Have you completely lost your mind?
+{21443}{21487}What do you mean?|It's Halloween.
+{21492}{21561}There's something wrong with this boy.|He's a lunatic.
+{21566}{21614}{Y:i}Bubbe, the war was over forever ago.
+{21628}{21656}I can't breathe.
+{21666}{21712}Where do you think you're going?
+{21722}{21762}To a party. It's Halloween.
+{21767}{21835}You are not leaving this house|dressed as Adolf Hitler!
+{21840}{21887}It's Halloween. That's the joke.
+{21892}{21972}Couldn't you have gone as a pirate?|Or a reindeer?
+{21990}{22090}Take that off, or I call your father.|You are not going out of this house!
+{22096}{22150}It took me forever|to get this costume.
+{22155}{22245}I had to go to Sunny Surplus downtown|to get boots like these!
+{22277}{22316}Adolf Hitler is in the hallway.
+{22322}{22401}I'm calling your father now.|You are not going out.
+{22406}{22443}What do you guys think?
+{22476}{22519}It might be a tad too much.
+{22634}{22712}If we got this new system worked out|with the numbers...
+{22717}{22746}...we should start.
+{22751}{22850}It's the end of October. We should go|with it second week in November.
+{22855}{22923}Let me see if we can|nail down a date.
+{22963}{22984}Gaiety.
+{22994}{23042}Pete, put Nate on the phone.
+{23259}{23303}He looks like Adolf Hitler?
+{23355}{23453}He can stay in the house all night.|He's not going out dressed as Hitler.
+{23458}{23528}Your father says you're not going out|dressed that way.
+{23537}{23568}And I'm not changing.
+{23606}{23656}He says he's not changing.
+{23662}{23694}I wanna talk to Hitler.
+{23700}{23799}He has a swastika on his arm|and big black boots!
+{23805}{23844}He's wearing big black boots!
+{23849}{23914}He came down the stairs in them|with swastikas all over!
+{23919}{23956}{Y:i}Put the Führer on the phone.
+{24000}{24051}Your father wants to talk to you.
+{24338}{24367}Sorry.
+{24786}{24847}You guys can go without me.
+{24865}{24899}You sure?
+{24907}{24967}Yeah, I'm having Halloween here.
+{24983}{25023}What's wrong with boys today?
+{25028}{25075}They have no sense of history.
+{25080}{25165}The war ended when he was 7.|It's now nine years later.
+{25171}{25242}To a kid, that's a lifetime.|To us, it's a blink of an eye.
+{25248}{25302}Why does my kid have to dress up|like Hitler?
+{25307}{25354}- He's not going trick-or-treating?|- No.
+{25359}{25409}"Trick or treat. Hitler's here. "
+{25414}{25467}That'd look great|in our neighborhood.
+{25473}{25496}That's good.
+{25523}{25585}We have to cross Falls Road|to get to this party.
+{25590}{25610}Yeah, so?
+{25622}{25661}Gentile turf.
+{25666}{25738}Nick Campbell said this is gonna be|a good party.
+{25759}{25850}I don't know. Across Falls Road.|Oh, boy.
+{25894}{25966}Get ready, folks! Jews are a-coming!
+{26894}{26931}So where do you live?
+{26936}{26956}Forest Park.
+{26967}{26987}Forest Park?
+{26992}{27037}Off Liberty Heights.
+{27042}{27082}That's Jewish, isn't it?
+{27119}{27174}Damn near, yeah. Lot of Jews.
+{27179}{27271}Seems more is moving in too, you know?
+{27286}{27327}It's getting that way.
+{27814}{27847}{Y:i}Halt!
+{27891}{27955}{Y:i}Do not shpritz on the general!
+{28021}{28076}I go to the University of Baltimore.
+{28081}{28111}That's nice.
+{28135}{28193}My major is economics.
+{28199}{28256}It's sort of a set subject.
+{28261}{28321}Not much room for expressionism,|you know?
+{28336}{28366}Yeah, right.
+{28372}{28425}I don't get to talk to people much.
+{28430}{28471}Do you know everyone here?
+{28476}{28510}These are all your friends?
+{28515}{28574}Yes, we all go to school together.
+{28579}{28616}- Pretty much.|- Nice people.
+{28827}{28856}Excuse me.
+{29042}{29080}Oh, my God!
+{29307}{29382}Say, does that magic wand make|any wish come true?
+{29387}{29431}It hasn't worked yet.
+{29466}{29496}What did you wish for?
+{29507}{29559}Well, that's too personal a question.
+{29607}{29661}I didn't mean to be too personal.|Sorry.
+{29666}{29714}Are you afraid of being too intimate?
+{29741}{29786}Or do you prefer small talk?
+{29874}{29910}Kind of got me off guard.
+{29925}{29973}Should I be more predictable?
+{30035}{30093}Be whatever your heart desires.
+{30128}{30158}Close your eyes.
+{30232}{30272}Make a wish.
+{30474}{30504}Was that it?
+{30548}{30582}How you doing?
+{30644}{30676}You didn't know?
+{30686}{30764}Okay. She's your girl.|I'm very sorry. I didn't know.
+{30769}{30843}There isn't a guy who doesn't know|that I go with Mary.
+{30849}{30914}Here I am. You found one, okay?|No hard feelings.
+{30919}{30968}Wait a minute, smart guy.
+{31000}{31030}Got a question.
+{31048}{31072}Where you from?
+{31091}{31129}I'm from Forest Park.
+{31160}{31192}Jewish?
+{31225}{31251}What's your point?
+{31256}{31286}It's just a question.
+{31291}{31352}- Do you have a point?|- It's just a question.
+{31357}{31424}I'm not here to answer|your stupid questions.
+{31450}{31491}Stop it! Ted, it was nothing!
+{31496}{31556}I'm just asking if he was Jewish.|No big deal.
+{31561}{31594}Fuck you, Tab Hunter.
+{31660}{31699}- Stop it, Ted!|- Get off me!
+{31732}{31784}Not inside! Outside! Outside.
+{31818}{31843}Fine. Outside.
+{31902}{31958}Jesus! He won't even say he's Jewish.
+{31969}{32001}Oh, shit.
+{32034}{32083}- Give me a beer.|- Get me one too.
+{32430}{32460}Not now.
+{32471}{32515}Van, we got trouble.
+{32524}{32553}It's YusseI.
+{32596}{32649}I'm sorry, excuse me.|I'll be right back.
+{32654}{32699}I'm gonna kill you guys.
+{32862}{32898}Okay, listen up.
+{32903}{32986}This is between us, all right?|Nobody interferes.
+{33019}{33118}Hold on a second, all right?|Come here. What are you doing?
+{33186}{33215}What did I tell you?
+{33235}{33268}What did I tell you?
+{33273}{33334}I said that crossing Falls Road|was a mistake!
+{33339}{33383}I'll get you out of this.
+{33388}{33450}Will you relax?|Stop. What are you doing?
+{33455}{33482}Stop acting like this.
+{33487}{33575}I'm gonna bury this blond bastard,|and then we'll get out of here.
+{33712}{33787}Come on. I'm just gonna slap you.|Come on.
+{34321}{34368}It's a really simple question.
+{34377}{34406}Are you Jewish?
+{34611}{34650}Get up! Come on!
+{34681}{34743}All you have to do is say it,|and it's over.
+{34765}{34842}It's really a simple question.|Are you Jewish?
+{34874}{34922}You say it, it's over. Okay?
+{35116}{35155}That's enough, Ted!
+{35201}{35226}Say it!
+{35231}{35279}Say it! Say it, and it's over!
+{36561}{36590}Jesus Christ!
+{36662}{36733}What kind of party is this?|Let's go, slugger.
+{36750}{36810}No, I'm okay. I had him set up,|believe me.
+{36815}{36842}Some great strategy.
+{36930}{36986}Trey!|Trey, are you all right?
+{37018}{37038}You okay?
+{37062}{37095}I'm good.
+{37100}{37135}The night is young.
+{37140}{37194}He was getting winded.
+{37200}{37224}Where's that girl?
+{37230}{37299}Forget that girl.|Let's get the hell out of here.
+{37304}{37354}What girl’s he talking about?
+{37359}{37407}What are you doing? Let's go.
+{37431}{37458}Let's go!
+{37475}{37531}You missed a little fisticuff|back there.
+{37540}{37586}This is very unfortunate.
+{37623}{37715}You know, it's obvious the smiling|pumpkins distracted me.
+{37848}{37872}Cinderella!
+{37896}{37953}Okay, let's go, let's go. Now.
+{37959}{37999}We gotta get out of here!
+{38009}{38048}Does this thing open?
+{38056}{38085}What are you doing?
+{38090}{38123}Can I see you sometime?
+{38128}{38154}Let's go. Now.
+{38165}{38247}You know, that- Will you guys|give me a break for a minute?
+{38252}{38280}Wait a minute!
+{38294}{38328}Cinderella!
+{38372}{38408}I'm gonna kill you.
+{38459}{38518}- Got any beer?|- I know they have hard liquor.
+{38524}{38572}Let's see what we can dig up.
+{38835}{38889}Sorry I'm late for the ball,|sweetheart.
+{38894}{38939}Well, that's a first for you.
+{39115}{39155}Little cut there.
+{39176}{39214}Tried to park.
+{39410}{39451}I didn't even get her name.
+{40031}{40130}Story's all over the place. This guy|talked his date into blowing a horse.
+{40135}{40188}How do you talk her|into blowing a horse?
+{40193}{40248}- Don't believe it, then.|- Get back to logic.
+{40253}{40330}Where's a horse in Washington,|unless it's a police horse?
+{40336}{40370}And where's the cop?
+{40375}{40404}Exactly.
+{40504}{40549}Nice feathers, boys. Where's Ben?
+{40554}{40635}- He's at home celebrating.|- I knew they wouldn't let him out.
+{40640}{40670}He's stubborn.
+{40675}{40733}- Tell me about it.|- You hear about Sinatra?
+{40738}{40799}We're going to the movie,|getting out of the car.
+{40810}{40867}He says, "Can't get out|until Sinatra finishes. "
+{40872}{40976}I tried to get out. He grabs me and|yells, "No one walks out on Sinatra. "
+{40982}{41040}We had to listen to the song,|then go.
+{41046}{41108}- Like I don't know.|- We were late for the movie.
+{41113}{41173}I didn't understand it|until two hours into it.
+{41178}{41215}- That's impossible.|- It is.
+{41247}{41330}You think about it. Why spend|a night with any kind of horse...
+{41335}{41397}...when you can have|Francis the Talking Mule?
+{41402}{41430}He's a mule.
+{41435}{41470}- A mule!|- That's another thing.
+{41475}{41522}It's not as big a feat|if you blow a mule.
+{41527}{41561}Is a mule or horse bigger?
+{41566}{41671}I'd have to say a horse, because mules|are incapable of reproducing.
+{41676}{41722}How do they reproduce?
+{41727}{41786}They're incapable of reproducing.|They don't.
+{41791}{41818}Do they have sperm?
+{41835}{41927}- How do they make more mules?|- They breed horses and donkeys.
+{42012}{42088}- How could you not get her name?|- I was flummoxed.
+{42109}{42203}- She did the thing with the wand-|- Good luck finding her.
+{42208}{42297}I got a bad case of blue balls|right now. I love this girl.
+{42302}{42359}You'll be in love alone.|She's history.
+{42364}{42426}I am not going back over there...
+{42431}{42508}...with that Tab Hunter.|That son of a bitch.
+{42603}{42629}He wanted to know.
+{42634}{42727}When was the last time you wanted|to know if someone was Catholic?
+{42736}{42803}Or Episcopalian or Methodist?|Who gives a shit?
+{42808}{42870}What's the difference between|all those groups?
+{42875}{42919}They all pray to Christ.
+{42930}{42988}It's fine to have a Jew|hanging over the bed.
+{42993}{43054}Just don't have him come through|the front door.
+{43059}{43138}A dead Jew is okay.|I think that's the operative word.
+{43143}{43193}Go figure. They all pray to a Jew.
+{43199}{43257}In a way, they're all|reformed Jews at heart.
+{43262}{43305}I gotta find this girl.
+{43310}{43354}You're gonna have to pray to God.
+{43366}{43401}A gentile God, mind you.
+{43406}{43505}{Y:i}The Lord is my shepherd,|I shall not want.
+{43514}{43610}{Y:i}He maketh me to lie down|in green pastures.
+{43615}{43699}He leadeth me beside the still waters.
+{43706}{43767}He restoreth my soul.
+{43780}{43858}He leadeth me in the paths|of righteousness...
+{43864}{43918}...for His name's sake.
+{43929}{44035}{Y:i}Yea, though I walk through|the valley of the shadow of death...
+{44040}{44088}{Y:i}...I will fear no evil...
+{44097}{44143}...for Thou art with me.
+{44152}{44240}Thy rod and Thy staff,|they comfort me.
+{44262}{44291}Thou preparest...
+{44296}{44386}{Y:i}...a table before me|in the presence of mine enemies.
+{44421}{44491}Thou anointest my head with oil.
+{44504}{44553}My cup runneth over.
+{44815}{44931}{Y:i}- goodness and mercy shall follow me|all the days of my life...
+{44952}{45019}{Y:i}...and I will dwell|in the house of the Lord...
+{45025}{45059}...forever.
+{45064}{45100}Amen.
+{45156}{45214}You got into a real brouhaha|this weekend.
+{45223}{45253}You already heard?
+{45258}{45304}I had a police officer at my door.
+{45309}{45349}Why? That fight was no big deal.
+{45354}{45406}No, about the car crash.
+{45411}{45478}- Why's a cop come and see you?|- About you guys.
+{45483}{45511}Us? Why?
+{45516}{45622}The cop said he heard that you were|eyewitnesses to the accident.
+{45627}{45689}A lot of people saw that.|Why do they need us?
+{45694}{45731}I don't know.
+{45736}{45782}The guys must be goofing with us.
+{45787}{45847}A lot of people saw this.|They don't need us.
+{45852}{45928}The cops said Trey Travelstead was|driving recklessly...
+{45933}{45981}...and running pumpkins over.
+{45986}{46089}He ran through the patio, and there were|three guys from another part of town.
+{46094}{46117}I knew names.
+{46123}{46179}What, you gave the cops our names?
+{46191}{46227}It wasn't a big deal.
+{46232}{46280}That's terrific, you know?|Come here.
+{46319}{46426}There was this girl there. I flipped|out on her. She was incredible.
+{46431}{46493}- What's her name?|- I don't know.
+{46500}{46558}You know them.|Maybe you could ask around.
+{46563}{46601}What does she look like?
+{46615}{46700}She's gorgeous. Blond.|She looked like Cinderella.
+{46705}{46787}She dressed like Cinderella.|She had a magic wand and everything.
+{46792}{46843}Cinderella didn't have a magic wand.
+{46858}{46941}It's not important if Cinderella|had a wand. This girl had one.
+{46947}{47006}Help me find this girl|with the magic wand.
+{47011}{47094}She's gorgeous, blond|and carries a magic wand.
+{48505}{48562}I'm Ben. I'm in your homeroom.
+{48567}{48598}I know.
+{48718}{48783}Where are you going?|I thought you lived around school.
+{48788}{48864}Downtown. I'm going downtown.
+{48953}{49002}Can I ask you a question?
+{49007}{49048}I guess.
+{49068}{49167}I always watch you say the 23rd Psalm,|and you seem so...
+{49174}{49220}...you seem so absorbed.
+{49225}{49256}Why?
+{49268}{49300}Why do you ask?
+{49306}{49375}I've never seen someone|so reverential, I guess.
+{49386}{49454}For me, it's just a moment to myself,|that's all.
+{49459}{49499}The big question is you.
+{49506}{49530}Me?
+{49535}{49642}Yeah, well, you're Jewish. So what's|the 23rd Psalm about for you?
+{49673}{49731}I never really thought of it|as religious.
+{49736}{49808}It's just something I've been saying|since first grade.
+{49813}{49843}And?
+{49856}{49974}Well, I always thought of the|23rd Psalm like the national anthem.
+{49979}{50051}It's just something you say|before the game starts.
+{50056}{50125}He maketh me to lie down|in green pastures.
+{50130}{50182}What does that mean to you?
+{50190}{50223}Honestly?
+{50231}{50264}No idea.
+{50269}{50296}No idea?
+{50346}{50389}Nobody's making me lie down...
+{50394}{50458}...and I don't know where|these green pastures are.
+{50507}{50562}Has anyone ever anointed your head|with oil?
+{50612}{50656}Has your cup ever runneth over?
+{50669}{50717}No, it hasn't.
+{51066}{51104}I'm going downtown.
+{51236}{51264}It's my stop.
+{51281}{51334}I thought you lived downtown.
+{51339}{51388}Is that where I'm supposed to live?
+{51457}{51485}Wait!
+{51626}{51681}Sylvia, wait. Can I walk with you?
+{51715}{51758}Can I walk with you?
+{51980}{52036}I don't know if this is a good idea.
+{52041}{52096}I mean, we're getting close|to my house.
+{52101}{52160}My father comes home|in the afternoon on occasion.
+{52165}{52250}He would not be thrilled to see me|walking home with a white boy.
+{52255}{52283}I understand.
+{52288}{52334}- Sorry.|- It's okay.
+{52635}{52676}You know what? Wait here.
+{52683}{52779}I'll get my mom's car and pick you up.|Get in fast, and get on the floor.
+{52987}{53026}I talked with our guys.
+{53031}{53098}I'm getting great feedback|on the bonus bet.
+{53107}{53148}Mr. Kurtzman?
+{53164}{53229}My costume didn't arrive here.|What should I do?
+{53237}{53269}Did you call suppliers?
+{53274}{53359}They said it should be here,|but it's not, so I think it's lost.
+{53372}{53442}You'll just have to make do|with what's in storage.
+{53448}{53554}No. I only wear my own outfits,|and they're very expensive.
+{53573}{53598}What can I tell you?
+{53603}{53652}I'm not wearing...
+{53657}{53725}...anybody else's costume on my body.
+{53904}{53930}Do I need this?
+{53996}{54021}Get in.
+{54027}{54079}Hurry up. Come on.
+{54187}{54223}- Get on the floor.|- What?
+{54228}{54261}Get on the floor.
+{54268}{54301}Is this really necessary?
+{54793}{54819}He's really good.
+{54834}{54879}You never heard him before?
+{54890}{54955}No, I only listen to|the regular radio.
+{54969}{55009}You listen to "regular radio"?
+{55014}{55062}What is this?|What am I listening to?
+{55113}{55199}The other kind of-|The other radio stations.
+{55304}{55372}There's a place near the zoo.|No one will see us there.
+{55426}{55477}I think we should go to the zoo.
+{55482}{55531}Yeah, great. Good. The zoo.
+{55719}{55772}Does your dad know Cab Calloway?
+{55777}{55818}Why would you ask that?
+{55824}{55903}Well, he went to Douglass High.|You know, the Negro school.
+{55910}{55951}No, he doesn't.
+{55956}{55996}What about Billie Holiday?
+{56017}{56105}What, just because we're Negro,|we should know all the Negroes?
+{56113}{56142}I don't know. Maybe.
+{56148}{56200}Do you know Albert Einstein, then?
+{56223}{56328}No, but I think my family knows|some of the Einsteins.
+{56367}{56405}Are you serious?
+{57169}{57218}You think she could find one outfit?
+{57224}{57270}She's got some germ thing.
+{57275}{57333}She doesn't like to wear|anybody else's stuff.
+{57655}{57683}This is very unique.
+{57697}{57779}I've got a stripper who's dressed|like my cousin Marcia.
+{57956}{58054}This is nuts. The odds on finding|this girl are like one in a million.
+{58059}{58155}Trust me, okay?|I have a feeling she's there.
+{58172}{58218}We have to find the neighborhood...
+{58224}{58279}...and she has to be coincidentally...
+{58284}{58326}...walking around at this time.
+{58331}{58422}Nick Campbell is checking her out.|You can't give him time?
+{58427}{58502}I can't. I can't wait.|She's on my mind all the time.
+{58507}{58547}What are we supposed to do?
+{58552}{58615}Just look for the glow|of the girl’s tiara?
+{58621}{58689}I think I see somebody|with a magic wand.
+{58694}{58778}If you guys would stop talking|and look around, please.
+{58783}{58836}She'll be the one person|walking around?
+{59009}{59058}I hope she doesn't hurt herself.
+{59157}{59223}Where the hell are we right now?|Where are we?
+{59257}{59305}I don't know.|We must've left the area.
+{59310}{59344}- Great!|- I'm sorry.
+{59350}{59402}I have other things on my mind.
+{59407}{59455}This neighborhood makes me nervous.
+{59460}{59513}Three guys were walking around|with tools.
+{59518}{59551}I'll get us out of here.
+{59558}{59624}You know, there's no such thing|as a dream girl.
+{59629}{59742}Do you think that my father thought|that my mother was a dream girl?
+{59748}{59775}No way!
+{59811}{59866}Let me tell you something.|This girl-
+{59872}{59951}I am obsessed-|This is meant to be. Preordained.
+{59962}{60053}Dream girls were invented by God|to tease the apparatus. That's all.
+{60069}{60099}You settle for less.
+{60104}{60140}- That's not the point.|- What is?
+{60155}{60179}Dream girls.
+{60184}{60257}I'd rather not be|looking for my dream girl...
+{60262}{60328}...which I had to leave|because you were fighting!
+{60337}{60389}Do me a favor. Lose my number.
+{60394}{60471}I don't know if I wanna|continue this relationship.
+{60611}{60651}Come on! Come on!
+{60656}{60735}I think she's gonna go too far.|We're going to jail.
+{60750}{60787}Damn good act.
+{60997}{61053}Some show. Best in years.
+{61058}{61143}If she starts showing breasts|without tassels, kill the spot.
+{61180}{61242}If she takes off her underwear,|kill the spot.
+{61247}{61299}Nate, no! Nate, but-
+{61304}{61339}No "buts. "
+{61400}{61441}This is some act.
+{61460}{61499}For 23 people.
+{62051}{62103}I wasn't finished yet.
+{62191}{62233}That's as much as you can show.
+{62238}{62326}I wasn't gonna show more.|I was gonna give it a proper ending.
+{62331}{62355}Do it tomorrow.
+{62360}{62413}My costume should be here by then.
+{62418}{62468}This is your costume from now on.
+{62574}{62597}You like?
+{62611}{62634}I like.
+{62658}{62679}You?
+{62726}{62747}He likes.
+{62875}{62902}I like.
+{63118}{63174}I don't want you going out tonight.
+{63179}{63221}Just going on the porch.
+{63353}{63440}So what's the news?|What's the big secret?
+{63476}{63517}I was with Sylvia.
+{63616}{63641}In her car.
+{63654}{63681}No, her car?
+{63686}{63724}Her mother's car.
+{63744}{63777}You got laid.
+{63787}{63808}Bare tit?
+{63814}{63860}You ever hear Negro music?
+{63888}{63924}I need details.
+{63930}{63996}No, it was nothing like that.|The music's great.
+{64003}{64036}What the hell did you do?
+{64041}{64065}We talked.
+{64071}{64107}Talked? Bullshit.
+{64114}{64172}No. I mean, we talked.
+{64197}{64233}I hear they got soft skin.
+{64238}{64276}I didn't touch her.
+{64310}{64359}No details, I'm going home.
+{64364}{64423}No. We talked a lot.
+{64429}{64518}I mean, we talked about|Negro singers and comics.
+{64524}{64564}It was great, unbelievable.
+{64599}{64623}She blew you.
+{64693}{64762}- I don't believe you.|- Why would I tell you I was with her?
+{64767}{64791}I don't know.
+{64797}{64871}You talked with a colored girl|about comedy and music.
+{64876}{64914}That's bullshit.
+{65021}{65062}{Y:i}All in all, the take is up 9%.
+{65067}{65091}{Y:i}Good, good.
+{65096}{65132}Get a chair.
+{65137}{65189}We're even getting|some white business.
+{65194}{65299}Coloreds and white betting numbers|together. Does the heart good.
+{65304}{65338}Look. Germantown, good.
+{65343}{65438}Greektown, good. Even Pigtown.|All white areas, they all show a bump.
+{65450}{65528}I hear the state is thinking|of a lottery.
+{65533}{65598}Lukie Saperstein's been pushing that|since the war.
+{65603}{65666}It's popular in Annapolis.|They want new revenue.
+{65672}{65753}They should legalize gambling.|Vegas is going through the roof.
+{65758}{65832}They've already got slots|in Anne Arundel County.
+{65837}{65924}{Y:i}The farchadat government. They think|they could run a numbers racket?
+{65929}{65979}Lottery! It's unconstitutional.
+{65984}{66057}They're taking money out of the mouth|of the entrepreneur.
+{66062}{66105}Smacks of socialism.
+{66110}{66196}The government integrates the|golf course in '51 and schools in '54.
+{66201}{66237}Where's their priorities?
+{66242}{66333}They integrated cricket in '50.|Can't find a colored playing cricket.
+{66338}{66401}That was part of the|separate-but-equal ruling.
+{66406}{66454}Coloreds could only play on Tuesdays.
+{66459}{66568}{Y:i}You can't find one to play on Tuesday,|Wednesday or kiss-my-tochis day.
+{66574}{66661}You can't find a white person|who wants to play cricket.
+{66666}{66750}It makes no sense. How many players|do you need? They use a mallet?
+{66755}{66796}- Is that with hoops?|- That's croquet.
+{66801}{66863}- Croquet is something you eat.|- Everything is something you eat.
+{66868}{66899}I saw it in the menu.
+{66904}{66990}Charlie, keep an eye on this.|Just what we need. A state lottery.
+{67001}{67046}Who is gonna testify first?
+{67051}{67101}It's alphabetical, I guess.
+{67106}{67223}You know, I tell you, I still cannot|believe that we have to testify.
+{67228}{67306}{Y:i}Trey Travelstead must've come|on the Mayflower with Pilgrims.
+{67312}{67426}You know, that whole Pilgrim thing|makes me very uneasy. Very uneasy.
+{67453}{67490}Alan, what time you got?
+{67510}{67594}It's 12:30.|We have to be in court at 2.
+{67634}{67677}Let me ask you a stupid question.
+{67682}{67771}{Y:i}You know all these lawyer shows.|Perry Mason, the others.
+{67782}{67848}They say in court,|"Do you swear to tell the truth...
+{67853}{67924}...the whole truth, nothing but|the truth, so help you God?"
+{67929}{67971}The witness always says, "Yeah. "
+{67986}{68018}What if you say "no"?
+{68024}{68047}What do you mean?
+{68052}{68122}"I'll tell you what I know,|but I won't swear to God. "
+{68129}{68160}What happens?
+{68166}{68200}Got me.
+{68205}{68258}Interesting.|I'll ask a law student.
+{68266}{68309}Let's try it today.
+{68318}{68339}Who?
+{68344}{68376}Whoever's called first.
+{68390}{68432}- It's good by me.|- It's good by you?
+{68437}{68461}Yeah, why not?
+{68466}{68523}- No, that's good by me.|- He's in.
+{68533}{68612}{Y:i}Prosecution calls Sylvan Kurtzman|to the stand.
+{68842}{68927}Put your left hand on this Bible.|Raise your right hand.
+{68935}{69009}You swear to tell the truth,|the whole truth, so help you God?
+{69042}{69062}No.
+{69110}{69130}What?
+{69140}{69160}No.
+{69210}{69250}What's going on here?
+{69266}{69327}You're a Communist!|Nothing but a Commie!
+{69402}{69466}Your Honor, he's a Red!|I'm telling you...
+{69472}{69506}...he's godless!
+{69608}{69640}- Order!|- You're a pinko!
+{69646}{69671}Order! Order!
+{69676}{69704}You're a Communist!
+{69747}{69783}Order in the court!
+{69871}{69966}I'd like to call a 10-minute recess.|Counselors, see me in chambers.
+{69987}{70051}- You may step down.|- Thank you, sir.
+{70155}{70233}The guy's got some serious balls.|Gotta give him credit.
+{70257}{70335}{Y:i}Every year, 50 or 60 Negroes|pass for white.
+{70341}{70407}{Y:i}You can't tell them apart,|because they don't smile...
+{70412}{70458}{Y:i}...so you can't see their gums.
+{70474}{70542}{Y:i}So if you got a white friend|that talks like this:
+{70548}{70614}{Y:i}"Haven't seen you|in a long time, pal. "
+{70619}{70691}{Y:i}You open that sucker's mouth up,|it might be one of them.
+{70779}{70873}{Y:i}I didn't go to college myself,|but I saw a lot of people go.
+{70893}{70934}{Y:i}No, I didn't dig school.
+{70939}{71006}{Y:i}Knowing when Washington crossed|the Delaware...
+{71011}{71062}{Y:i}...wouldn't help me|in a brick fight.
+{71144}{71218}{Y:i}They got nothing about|ducking bricks in history.
+{71272}{71327}I've never heard anything like this.
+{71332}{71371}It's great, isn't it?
+{71384}{71428}Unbelievable. Unbelievable.
+{71441}{71504}{Y:i}No matter what color you are,|when the lights go out...
+{71509}{71575}{Y:i}...it becomes a question|of "Who washed?"
+{71688}{71762}Mr. Kurtzman, you could be held|in contempt of court...
+{71767}{71810}...and I may have ruled so...
+{71815}{71907}...but the prosecution has decided|not to pursue this action.
+{71913}{71982}- So you may step down.|- Thank you, Your Honor.
+{71990}{72062}Court calls Alan Zuckerman|to the stand.
+{72254}{72315}- State your full name.|- Alan Joseph Zuckerman.
+{72321}{72381}Place your left hand on this Bible.|Raise your right hand.
+{72386}{72470}Do you swear to tell the truth,|the whole truth, so help you God?
+{72475}{72504}Yes.
+{72509}{72541}Be seated.
+{72547}{72634}Where were you on the night|of October 28, 1954?
+{72656}{72716}- The night of the accident?|- Objection.
+{72722}{72791}We have not established the nature|of the accident...
+{72798}{72852}...or that an accident did|in fact occur.
+{72862}{72903}Objection sustained.
+{72913}{72951}Answer the question.
+{72962}{73054}Well, if that wasn't|the night of the accident...
+{73059}{73123}...then I don't know where I was.
+{73175}{73260}You gotta give me some kind of hint.|Was that Halloween?
+{73361}{73416}I just wanted to thank you|for helping out.
+{73422}{73461}It wasn't really about you.
+{73466}{73538}If there's anything I can do|for you, don't hesitate.
+{73543}{73590}I certainly feel indebted.
+{73614}{73682}Look, we'd like to offer an apology|to your friend.
+{73703}{73742}Ted was out of line.
+{73747}{73818}- I didn't mean the way it came across.|- Forget about it.
+{73823}{73880}You know what?|Maybe you can help me.
+{73893}{73971}There was this girl at the party|who was a knockout.
+{73976}{74063}I don't know her name,|but I'd really like to find out.
+{74068}{74144}- What did she look like?|- She was beautiful.
+{74150}{74254}Blond. She was wearing this princess|or Cinderella kind of costume.
+{74259}{74291}You found her attractive?
+{74299}{74347}She knocked me out.
+{74356}{74376}Sound familiar?
+{74394}{74428}I guess.
+{74450}{74489}We'll ask around.|Give me your number.
+{74494}{74515}Yeah, sure thing.
+{74521}{74590}She's blond. Had a magic wand.
+{74610}{74642}Thanks.
+{74665}{74697}I'll call.
+{74706}{74733}Great.
+{74809}{74843}What are you doing?
+{74849}{74918}He was talking about Dubbie.|Your girl, last time I asked.
+{74923}{74952}He's a good guy.
+{74999}{75062}We'll get another girl.|There must be one he'd like.
+{75067}{75127}What about Maggie?|She's to die for.
+{75134}{75214}Maggie, Caroline, Megan, one of them.
+{76191}{76234}One bed, one record.
+{77244}{77303}I'm sorry. Did I do that?
+{77330}{77359}Well...
+{77394}{77442}I'm sorry.
+{77523}{77568}Does it happen that easily?
+{77574}{77624}Not that I know of. No.
+{77629}{77691}It just goes off like that?
+{77710}{77761}Well, I think...
+{77780}{77871}...I've been worked up,|you know, all along, and...
+{77918}{77953}You don't like the records?
+{77962}{78034}No. I like the records.
+{78078}{78121}I just think if it's...
+{78142}{78209}...well, been percolating|for a long time...
+{78258}{78302}...it's got no place to go.
+{78311}{78354}You have to use the bathroom?
+{78394}{78485}It's right over there.|Around the corner.
+{78490}{78531}I'll be right back.
+{79037}{79119}So do you think maybe we could|do this tomorrow?
+{79126}{79178}Well, I hope so. If my mom's out.
+{79249}{79298}Oh, my God. It's my father.
+{79303}{79352}- What do I do?|- Get in the closet.
+{79475}{79522}What are you doing?|Don't you have homework?
+{79527}{79572}I was just taking a break.
+{79582}{79615}- Your mother call?|- No.
+{79626}{79699}But she said this morning|to expect her early evening.
+{79722}{79766}Get back to your homework.
+{79923}{79952}What's going on?
+{80018}{80047}I have a boy over.
+{80062}{80152}But it was nothing. We were just|listening to records. That's it.
+{80165}{80199}And where is he?
+{80223}{80277}He's in the closet.
+{80306}{80366}If nothing went on,|why is he in the closet?
+{80404}{80440}Because he's white.
+{80535}{80573}How could you do such a thing?
+{80594}{80623}We didn't do anything.
+{80628}{80651}What's his name?
+{80675}{80702}Ben Kurtzman.
+{80742}{80793}- Mr. Kurtzman?|- Yes, sir.
+{80799}{80894}Sylvia is not allowed to be with|a white boy. It's not respectful.
+{80900}{80930}I was respectful, sir.
+{80935}{81013}- You're in my daughter's bedroom.|- Yes, sir.
+{81046}{81086}Mr. Kurtzman.
+{81106}{81158}Would you come out of the closet?
+{81163}{81190}Yes, sir.
+{81258}{81282}Now?
+{81365}{81443}I don't ever wanna see you|with my daughter again.
+{81448}{81523}At school you will be|respectful and cordial...
+{81528}{81594}...but no activities outside school.|Is that clear?
+{81600}{81638}Yes, sir. I just don't think-
+{81643}{81725}It's very clear to my daughter.|Don't you agree, Sylvia?
+{81752}{81776}Yes.
+{81799}{81842}Now, will you please leave?
+{81850}{81893}He needs a ride home.
+{81933}{82008}I'll drive him.|Sylvia, you will remain here.
+{82481}{82528}- This is your house?|- Yes, sir.
+{82569}{82613}Shouldn't you be getting out?
+{82618}{82662}It's Sinatra, sir.
+{82682}{82708}So?
+{82726}{82785}You don't walk out on Frank, sir.
+{82790}{82843}I mean, it would be too disrespectful.
+{83118}{83139}I gotta go.
+{83510}{83548}Okay, it's over now.
+{83769}{83805}Good night, sir.
+{84031}{84088}This is it. 2-2-3.|The bonus was 4.
+{84093}{84153}Listen. Do you know what|that means on $50?
+{84158}{84193}- $ 100,000.|- We're screwed!
+{84199}{84234}Screwed is not the word.
+{84239}{84318}- Who bets $50 on a number?|- Nobody bets $50.
+{84346}{84377}Nobody bets $50.
+{84382}{84418}What do we got in reserve?
+{84424}{84477}We don't have enough|to cover the bet.
+{84482}{84522}Tell him, but he's at dinner!
+{84527}{84577}I will call. All right?
+{84598}{84644}- He's gonna kill me.|- It's ringing.
+{84657}{84685}Thanks, Ma.
+{84713}{84734}What's up?
+{84739}{84786}You're not gonna believe this.
+{84810}{84864}I'm sick to my stomach.
+{84874}{84901}Charlie, what?
+{84908}{84971}Somebody hit the number and the bonus.
+{85048}{85096}The payout is $ 100,000.
+{85108}{85158}A hundred thousand-?!
+{85190}{85248}Oh, my God. Are you sure?
+{85253}{85304}I checked it six times over.
+{85316}{85342}Jesus!
+{85348}{85401}We don't have that kind of money.
+{85406}{85447}I'm coming down.
+{85551}{85580}What's happening?
+{85617}{85647}I've gotta go.
+{85652}{85714}We've got problems.
+{86610}{86693}He's Little Melvin. Colored|drug dealer on Pennsylvania Avenue.
+{86698}{86755}Sells reefer. Strictly smalltime.
+{86760}{86820}Bets 50 to celebrate|his mother's birthday.
+{86825}{86866}This wipes me out.
+{86872}{86966}Little Melvin called.|He's coming by to pick up his haul.
+{86972}{87011}- You didn't let on?|- No, no.
+{87016}{87095}Listen, Nate, I feel responsible.|The bonus was my idea.
+{87100}{87140}To hell with this apology shit.
+{87146}{87219}I bought the idea.|Nobody bets 50 on a number.
+{87224}{87280}A nickel, a dime, a buck.|Five, tops.
+{87285}{87342}$50, never. It's unheard of!
+{87348}{87372}What'll we do?
+{87377}{87444}We don't have a lot of time|to find a solution.
+{87503}{87577}So how come we never talk|about what Dad does?
+{87582}{87626}Because it's illegal.
+{87675}{87712}But not that bad.
+{87717}{87764}Is everything gonna be all right?
+{87802}{87848}Your father takes care of himself.
+{87886}{87958}{Y:i}Why don't you tell them|about Patterson Park?
+{87971}{88022}{Y:i}What about Patterson Park?
+{88087}{88180}{Y:i}When your father was a teenager,|he went over to Patterson Park.
+{88185}{88219}{Y:i}Why, I'll never know.
+{88243}{88335}{Y:i}He saw some guys playing ball,|and he tried to get into the game.
+{88360}{88461}One of the guys asked if your father|was Jewish. He said he was.
+{88466}{88549}One thing led to another,|and your father was beaten up.
+{88560}{88596}Black and blue.
+{88663}{88761}After that, he went to the J. C. C.|every day after school to learn to box.
+{88766}{88858}For six months, he trained every day.
+{88882}{88939}Then he went back to Patterson Park.
+{88966}{89027}Got up on a car and yelled:
+{89049}{89106}"There's a Jew in the neighborhood!
+{89111}{89186}Anyone who doesn't like it, step up. "
+{89241}{89300}He beat up seven guys that day.
+{89365}{89426}Your father takes care of himself.
+{89832}{89908}The Lord is my shepherd,|I shall not want.
+{89917}{90003}He maketh me to lie down|in green pastures.
+{90012}{90087}He leadeth me beside still waters.
+{90114}{90162}{Y:i}He restoreth my soul.
+{90855}{90936}- and I will dwell in the house|of the Lord forever.
+{90947}{90982}Amen.
+{91036}{91074}Mr. Melvin.
+{91256}{91346}I'm thinking of giving you|the southeast territory.
+{91351}{91417}You take over the numbers.|Long-term dollars.
+{91448}{91501}You trying to Jew me out my money?
+{91523}{91548}Watch your tongue.
+{91553}{91602}I don't take shit from no Heb.
+{91607}{91666}You coon, I'll put my fist|down your throat!
+{91671}{91753}You hook-nosed kike! Little Melvin|don't take shit from nobody!
+{91758}{91818}You're a dead man,|you bush-monkey burrhead!
+{91824}{91858}I ain't scared of nobody!
+{91864}{91901}Back him up! Back him up!
+{91906}{91931}Stop it!
+{91940}{91977}Goddamn it! Stop it!
+{91982}{92006}Stop it!
+{92011}{92072}We've all come too far|to stoop to this.
+{92094}{92151}Charlie, get Little Melvin his money.
+{92162}{92216}He won't see the big picture,|that's his problem.
+{92319}{92351}What's my problem?
+{92356}{92414}I apologize.|You make yourself comfortable.
+{92419}{92472}Charlie's gonna get your money.
+{92666}{92736}Exactly how big a picture is|this here big picture?
+{92834}{92921}The southeast territory generates|just under 10 grand a month.
+{92926}{92975}In less than a year,|you've got payback.
+{92980}{93088}After that, it's "ka-ching," day in,|day out. That's what I had in mind.
+{93147}{93180}Week in, week out?
+{93201}{93266}It's your call.|You go for the short-term money...
+{93272}{93327}...or you go for the long haul.
+{93419}{93481}All mine, now?|Clean? No middleman?
+{93664}{93728}Why you giving up the territory then?
+{93733}{93829}Look, there's no question that 100,000|cuts into my cash flow.
+{93834}{93868}I can live with that.
+{93884}{93956}But this burlesque,|it's too time-consuming.
+{93961}{94044}You get a little older,|your priorities change.
+{94728}{94759}{Y:i}That was a good decision.
+{94764}{94846}{Y:i}You better keep a leash|on the Pillsbury Jew-boy over there.
+{94858}{94921}- The money?|- Bigger things on the horizon.
+{94926}{95027}{Y:i}How can we give him the southeast|territory? The wops own it.
+{95032}{95089}{Y:i}Wait a couple days,|call Little Melvin...
+{95094}{95150}{Y:i}...say the southeast territory|won't work out.
+{95155}{95203}{Y:i}We have to put a new deal|on the table.
+{95208}{95297}{Y:i}And let him pick the meeting spot.|Make him feel good.
+{95396}{95430}Phone book.
+{95662}{95709}All right, students, settle down.
+{95714}{95758}Put your books on your head.
+{95833}{95872}I slipped you two tickets.
+{95877}{95956}The Royal, Friday night.|I think you'll like the acts.
+{95964}{96051}For the two of us? I mean,|isn't that a colored place?
+{96059}{96142}Bring a friend, and I'll go with|a friend. We won't sit together.
+{96154}{96183}Is it safe?
+{96201}{96234}Don't worry.
+{96249}{96324}Do you think if a bomb fell,|this book would save my life?
+{96339}{96412}I don't know. Last year,|we had to lie on the floor.
+{96417}{96455}It's a different position now.
+{96469}{96551}One time, it was the atomic bomb.|Another time, the hydrogen bomb.
+{96556}{96608}Hydrogen can't get through this book.
+{96708}{96749}Come to the Royal.
+{96835}{96907}Sylvia got me two tickets|to see James Brown at the Royal.
+{96912}{96958}- Who?|- James Brown.
+{96975}{96996}Who's he?
+{97010}{97028}He's a singer.
+{97033}{97096}- The Royal. Isn't that...?|- A colored theater?
+{97101}{97160}Problem is,|I can only take one of you.
+{97174}{97254}I don't wanna make the decision,|so you guys can battle that out.
+{97259}{97318}- Yeah, well...|- Doesn't matter.
+{97324}{97392}She's taking a friend,|and I have to choose a friend.
+{97398}{97428}I don't wanna choose.
+{97433}{97475}She's taking a friend?
+{97480}{97507}A colored girl?
+{97517}{97542}I assume so.
+{97547}{97582}- Do you think-?|- I'll go.
+{97587}{97614}You wanna go?
+{97621}{97660}You think she'd put out?
+{97694}{97715}I don't know.
+{97721}{97759}I'm really into James Burn.
+{97764}{97800}James Brown.
+{97811}{97889}We're going to the show.|I'll sit with one of you guys.
+{97894}{97953}She'll sit with her friend.|We all go home.
+{97960}{98003}There's probably time for-
+{98010}{98051}A little putting out.
+{98072}{98115}We're not even sitting together.
+{98121}{98194}- I'm sure she'll put out.|- You're sure of this?
+{98212}{98266}Sheldon told me all colored girls...
+{98272}{98318}It's not that kind of thing.
+{98324}{98418}Well, you know what would make it|that kind of thing?
+{98447}{98486}Something called "Spanish fly. "
+{98492}{98561}- Spanish fly?|- They will go nuts for us.
+{98566}{98627}Give them Spanish fly?|We're not sitting together.
+{98632}{98667}That stuff is dangerous.
+{98673}{98767}There was this girl in Highlandtown.|She rubbed that all over her body.
+{98773}{98802}You don't rub-
+{98807}{98844}You take the pill.
+{98851}{98898}In Highlandtown, they rub it.
+{98903}{98979}The point of the story is,|she rubs it all over her body.
+{98984}{99060}She gets so wild, she mounts|a stick shift in the car.
+{99066}{99134}She dies. She died, Sheldon.
+{99139}{99180}Which one of you will it be?
+{99185}{99232}- Me.|- We'll flip a coin.
+{99242}{99271}- Heads.|- Tails.
+{99400}{99431}Who is it?
+{99436}{99480}Trey Travelstop.
+{99488}{99525}You know a name like this?
+{99622}{99660}Yes, I'll accept.
+{99740}{99771}Where are you?
+{99784}{99842}I didn't know you go|to Washington and Lee.
+{99873}{99912}When? Tomorrow?
+{99934}{99980}Yeah, that sounds like fun.
+{99990}{100049}{Y:i}Get off the phone, Bubbe.|Off the phone.
+{100086}{100158}I'll meet you at your house.|Give me the address.
+{100171}{100227}Yeah, well, hope she's there.
+{100271}{100308}All right, see you, Trey.
+{100403}{100442}Hope she's there.
+{100510}{100577}{Y:i}Your mind
+{100614}{100668}{Y:i}I'd have to say
+{100698}{100765}{Y:i}It's kind of wonderful
+{100782}{100832}There's $40,000 there.
+{100852}{100903}You about 60 grand shy, ain't you?
+{100908}{101006}Well, we've got a problem.|That's just to show our good faith.
+{101021}{101084}First, the southeast territory|don't work out.
+{101090}{101136}Now you come here with this shit?
+{101190}{101238}You some tricky guys, ain't you?
+{101246}{101299}I've got a car that's worth 3600...
+{101304}{101394}...a home that's worth 18 to 20|thousand. I've got nothing to hide.
+{101400}{101494}I'm letting you hold the deed,|and each week you'll get 2000.
+{101534}{101597}I won straight up!|This here's some bullshit.
+{101602}{101647}I'll call the Better Business Bureau.
+{101655}{101690}That'll work.
+{101699}{101738}It's the best I can do.
+{101749}{101790}This about the grocery-bag test?
+{101802}{101827}What's that mean?
+{101846}{101958}Skin darker than the bag is low-class.|Man don't get the respect he deserves.
+{101963}{102046}They say if you wear|a horseshoe ring in that direction...
+{102051}{102138}...all the good luck tends to run out.
+{102218}{102294}That's the way you see it.|I see it a whole different way.
+{102306}{102415}If white men get luck in one direction,|colored men get luck a different way.
+{102421}{102462}And that is a fact.
+{102474}{102575}{Y:i}And you've got|Those baby eyes
+{102586}{102631}- Did he go for it?|- We'll see.
+{102642}{102714}Nice Caddy.|I ain't seen this color before.
+{102723}{102755}Do you like it?
+{102766}{102807}Take it. Louie, call us a cab.
+{102814}{102882}I want my money.|And I want all of it.
+{102888}{102923}You can't buy me off.
+{102929}{102966}I'm doing the best I can.
+{102972}{103049}Now, if you'll excuse me,|I'm having dinner with my family.
+{103054}{103084}Let's go.
+{103089}{103128}You don't take me seriously.
+{103134}{103214}A man in my position makes|his presence felt.
+{103219}{103256}Get your hands off me.
+{103858}{103880}What?
+{104199}{104238}Dad, can I take the Cadillac?
+{104252}{104278}Where you going?
+{104283}{104306}Out!
+{104326}{104397}- All right, but drive carefully.|- Thanks!
+{104405}{104441}Not too late!
+{104447}{104474}Yeah, Mom.
+{104576}{104627}I'm here to see Trey Travelstead.
+{104899}{104957}You said that his family had money.
+{104962}{105000}They got a butler.
+{105005}{105088}Look at these rugs.|They couldn't get wall-to-wall?
+{105168}{105205}Squeaky floors.
+{105210}{105272}With wall-to-wall,|you don't have this problem.
+{105277}{105331}These are piece-of-shit throw rugs.
+{105355}{105391}Look at this piece of crap.
+{105397}{105429}Look at this piece of crap.
+{105434}{105542}You know, this has to be 80 years old,|if it's a day.
+{105547}{105616}You know?|They can't spring for a new one?
+{105623}{105689}No wonder they have money.|They must save every nickel.
+{105694}{105774}- They must like this old stuff.|- It's old. It's very old.
+{105779}{105834}When did they last make|a purchase? 1906?
+{105892}{105941}From bad to worse.
+{105947}{105984}Look at this.
+{106044}{106112}You know what my parents just got?|A Formica table.
+{106119}{106175}Get anything on that,|and it cleans right up.
+{106204}{106225}Nice hair.
+{106244}{106284}You guys ready to roll?
+{106323}{106375}I know what I'm doing.
+{106736}{106824}You realize we're|the only white people here, right?
+{106834}{106864}Really?
+{106878}{106927}There's Sylvia and her friend.
+{106960}{107006}Don't draw attention.
+{107042}{107070}What's your name?
+{107075}{107110}This is Gail.
+{107342}{107389}Let me ask you guys a question.
+{107394}{107455}{Y:i}We just finished reading|Death of a Salesman.
+{107460}{107519}Is that a play about a Jewish family?
+{107525}{107552}I don't know.
+{107557}{107615}Arthur Miller wrote it,|and he's Jewish.
+{107621}{107679}I mean, Willy Loman, salesman.
+{107688}{107750}Except the boys' names.|Biff and Happy?
+{107755}{107827}That's a crazy name, "Biff. "
+{107858}{107911}He wanted to avoid|that whole Jewish thing.
+{107916}{107955}- What thing?|- You know.
+{107960}{107984}What do they say?
+{107990}{108034}"What was that play that we saw?
+{108040}{108131}That Jewish play that we saw? It was|good. About the Jewish family. "
+{108136}{108205}Not a salesman play.|A Jewish salesman play.
+{108210}{108258}He wanted to make it universal.
+{108275}{108342}I'll grant you this,|there are few Jewish ballplayers.
+{108347}{108373}True. Very true.
+{108378}{108439}You'll never hear,|"Ground ball to short.
+{108444}{108528}Flo Ziegfield scoops it to|Leonard Bernstein at second...
+{108533}{108613}...who fires to first. George|Gershwin stretches. Double play! "
+{108618}{108652}That's not gonna happen.
+{108708}{108779}This is a much larger party|than that Halloween thing.
+{108784}{108847}We were just slumming at that one.
+{108852}{108890}That was slumming?
+{108896}{108949}When do we slum again? This is nice.
+{109002}{109033}This is some farm.
+{109038}{109089}I believe it's a land grant|from the king.
+{109094}{109168}Grant. Kings don't grant Jews shit.
+{109174}{109218}Not now, okay? Not now.
+{109223}{109258}That's Maggie Ridgley.
+{109347}{109386}I'd pop her.
+{109392}{109440}Sally Breckenridge.|Her dad's with DuPont.
+{109451}{109498}I'd pop her too. She would see.
+{109506}{109527}She would know.
+{109532}{109591}The one in the white hat|is Anne Whittier.
+{109597}{109630}That's your best bet.
+{109656}{109699}- Very easy.|- Fabulous.
+{109734}{109789}I don't see the little princess.
+{109794}{109834}I'm getting something to drink.
+{109868}{109894}Do me a favor.
+{109902}{109973}Don't call me YusseI tonight.
+{109978}{110038}- What do you want me to call you?|- Yates.
+{110080}{110151}The Royal should be jumping tonight.
+{110162}{110199}Sure enough.
+{110286}{110362}Wait a minute.|That look like Kurtzman's car.
+{110394}{110471}He got that nice Caddy,|and he won't give up the cash?
+{110478}{110522}He got you on the layaway plan.
+{110527}{110575}Don't make me moody, all right?
+{110594}{110632}Believe me.
+{110643}{110696}He'd pay the whites off on the spot.
+{110710}{110768}It's a damn nice color,|though, ain't it?
+{110807}{110884}- You should've asked him for the car.|- He offered.
+{110893}{110947}Threw me the keys and everything.
+{110962}{111016}- Hell, I should have.|- Damn right.
+{111040}{111113}Let me find that son of a bitch,|take him up on that offer.
+{111153}{111199}Man takes advantage.
+{111207}{111271}Yeah, well, I'm gonna take|that goddamn car.
+{111282}{111333}He got to be around here somewhere.
+{111342}{111388}What he doing down here anyway?
+{111394}{111475}I don't know. White boy like that|stick out like a sore thumb.
+{111818}{111930}I'm glad to be here at the Royal|in beautiful Baltimore, Maryland!
+{112007}{112076}How you doing? Any whites inside?
+{112084}{112112}Saw two.
+{112144}{112225}You mind if I take a look?|I'll be right back.
+{112230}{112275}- Go ahead.|- Thank you kindly.
+{112310}{112342}Stay there.
+{112388}{112432}I can't go in the show?
+{112482}{112535}You're looking lovely this evening.
+{112540}{112590}You look like a double scoop|of chocolate.
+{112600}{112636}And I got a sweet tooth.
+{112642}{112679}And you still can't go in.
+{114856}{114924}Yeah, so let me ask you, Yates?
+{114932}{115018}- It's a very unusual name.|- It is. It's Scandinavian actually.
+{115025}{115101}My mom was born in Norway.|My father was born in Denmark.
+{115106}{115205}They met in Sweden. So it sort of|covers the whole Nordic spectrum.
+{115210}{115236}It sure does.
+{115282}{115326}The shit just hit the fan.
+{115331}{115408}- Thought she went to Paris.|- That's what she told me.
+{115618}{115653}Wish me luck.
+{115658}{115692}You're gonna need it.
+{115927}{115984}So this is Paris.
+{116036}{116085}Just couldn't bring myself to go.
+{116090}{116139}Yeah, well, Paris is tough.
+{116144}{116186}Please don't be snide.
+{116199}{116277}It's my father. I just can't|deal with him right now.
+{116292}{116323}He looks familiar.
+{116328}{116382}I saw him when I came riding in.
+{116405}{116455}Think Halloween.
+{116462}{116504}He's crazy for you.
+{116538}{116602}The night you stood me up|for most of the evening.
+{116608}{116689}- I flirted with him for amusement.|- You did quite a job.
+{116694}{116721}He's salivating for you.
+{116751}{116779}How do you know?
+{116784}{116810}I brought him here.
+{116828}{116866}Does he know we go together?
+{116888}{116931}Didn't wanna break his heart.
+{116944}{117014}Please. Spare me your sensitive side.
+{117029}{117075}Say hello. I won't get jealous.
+{117110}{117147}Screw you.
+{117490}{117539}I don't get it.|Love her? Hate her?
+{117544}{117624}Can't live without her?|Never wanna see her again?
+{117629}{117670}Ain't it romantic?
+{117675}{117731}You're too much.|Guys would die for her.
+{117736}{117777}I think I will.
+{117908}{117949}Hello, stranger.
+{117964}{117991}You remembered.
+{117997}{118050}Certainly. How could I forget?
+{118142}{118194}Let's get something to drink.
+{118258}{118310}So where are you coming on a horse?
+{118432}{118517}- Did I say James Brown was my cousin?|- Is that right?
+{118523}{118570}He should've left you a ticket.
+{118599}{118642}You just stay right out here.
+{118764}{118853}Couple of white kids.|One of them probably Kurtzman's kid.
+{118862}{118888}What do you wanna do?
+{119006}{119047}You should've asked for the car.
+{119052}{119096}Don't make me moody, all right?
+{119164}{119197}Hold on, now.
+{119299}{119347}What if I take his kid?
+{119416}{119494}He got my money. I got his kid.
+{119561}{119621}Right about now,|I'd like to do a song...
+{119628}{119687}...that I hope to record real soon.
+{119709}{119761}Hope to make it my very first record.
+{119779}{119811}Fellas, are you ready?
+{119835}{119894}Building, you ready?|We're gonna tear you down.
+{120029}{120070}{Y:i}Please! Please!
+{120084}{120138}{Y:i}Please! Please!
+{120371}{120408}{Y:i}Darling, please
+{120416}{120466}{Y:i}Don't go
+{120558}{120602}{Y:i}I love you so
+{120682}{120737}{Y:i}Baby, you did me wrong
+{120873}{120922}{Y:i}You done me wrong
+{121000}{121062}{Y:i}Told you darling|You done me wrong
+{121154}{121234}{Y:i}Took my love|And now you're gone
+{121518}{121548}I love you!
+{121975}{122051}I'm sorry. I didn't know|about you and Trey.
+{122091}{122161}Trey should've said something,|but that's Trey.
+{122166}{122209}He really should've...
+{122223}{122300}...because it really would've saved me|a lot of aggravation.
+{122407}{122525}You know, that night when I saw you|in the basement, I was so...
+{122673}{122727}It wasn't a real magic wand.
+{122815}{122846}Guess not.
+{123652}{123746}Teach him who he dicking with. A man|win big, and he can't get his due?
+{123751}{123789}And it ain't kidnapping.
+{123794}{123839}It's more tit for tat.
+{123849}{123902}You do nothing on your own.
+{123973}{124049}I've never seen anything like that|in my life.
+{124076}{124125}Wait. Careful.
+{124134}{124218}I'm really glad you liked it.|It was worth it, wasn't it?
+{124224}{124276}{Y:i}Please, please
+{124291}{124321}Where are you parked?
+{124326}{124368}Just through the alley.
+{124374}{124397}We're up here.
+{124402}{124433}How about we get someone...
+{124438}{124522}...to buy us a six-pack of beer|and drink it in your car?
+{124527}{124554}Drink it in my car?
+{124559}{124616}We could just sit in the car.
+{124622}{124669}I have a curfew. I can't do that.
+{124675}{124719}We don't have to go anywhere.
+{124725}{124763}Please. I don't think so.
+{124768}{124799}{Y:i}Please, please
+{124805}{124855}How you all doing this evening?
+{124886}{124931}Which one is Nate Kurtzman's kid?
+{124936}{124956}Me.
+{124961}{125000}That so?
+{125062}{125094}Get in the car.
+{125113}{125151}You all take a walk.
+{125161}{125186}No.
+{125199}{125238}Get your ass out of here.
+{125244}{125301}I'm not leaving him here.
+{125334}{125406}You can either get in the car|or get out of here.
+{125417}{125457}- I'll get in the car.|- Right.
+{125462}{125506}Everybody get in the car.
+{125890}{125958}- Then what? 3?|-3-0-4.
+{126109}{126173}{Y:i}Shalom. Is Mr. Kurtzman there?
+{126200}{126230}{Y:i}He just left?
+{126235}{126281}{Y:i}Well, when will he be back?
+{126304}{126330}{Y:i}Got it.
+{126394}{126462}Went down to the Gaiety.|Should be there soon.
+{126467}{126531}If my dad had the money,|he'd give it to you.
+{126553}{126603}Two black, two white.
+{126610}{126654}- You all dating?|- No.
+{126659}{126739}We happened to meet. Ben, Sheldon|and I go to the same school.
+{126748}{126778}I go to Douglass.
+{126786}{126836}Cab Calloway went to Douglass.
+{126951}{126998}Something going on between you two?
+{127003}{127042}We're just friends.
+{127047}{127080}Friends?
+{127085}{127190}White guy, colored girl, friends?|I ain't never heard of such a thing.
+{127196}{127234}New to me too.
+{127272}{127306}You plugging her?
+{127341}{127417}- Why not? She good-looking.|- We're just friends.
+{127423}{127485}I never had a white friend|in my entire life.
+{127492}{127539}Now, I done work for white...
+{127544}{127599}...and I been messed over by white.
+{127624}{127673}But we ain't never been friends.
+{127682}{127751}I don't get to be|in the business world like you Jews.
+{127760}{127810}Jews are a minority too, you know.
+{127818}{127862}Oh, that so?
+{127906}{127982}Did you know there are less Jews|in the world than Negroes?
+{128046}{128094}But you ain't got the skin thing.
+{128109}{128167}Slaves, slaves.
+{128182}{128219}Jews were slaves.
+{128238}{128261}Bullshit!
+{128266}{128301}Who built the pyramids?
+{128306}{128356}How in the hell should I know?
+{128380}{128414}The Jews.
+{128519}{128552}Jews built the pyramids?
+{128557}{128587}I didn't know that.
+{128599}{128635}Pull them big stones?|Jews?
+{128640}{128672}It's true.
+{128701}{128725}When was that?
+{128760}{128822}3500 years ago,|something like that.
+{128827}{128925}3500?! Don't you tell me about no|slave thing happened 3500 years ago.
+{128930}{128987}I'm talking about|my granddaddy was a slave!
+{128992}{129049}Thousands of years ago,|dinosaurs roamed the earth...
+{129054}{129099}...and stuff was coming|out of the dirt.
+{129172}{129229}Don't you make fun of my suffering.
+{129433}{129463}Oh, come on!
+{129542}{129600}I'm going with Dubbie.
+{129605}{129636}You know your way back?
+{129641}{129696}What'll you do?|Ride off on the horse?
+{129710}{129758}We're staying here|with some friends.
+{129785}{129818}That's depressing.
+{129823}{129898}I'm sorry about all this.|I didn't know she'd be here.
+{129903}{129939}I thought you'd spark|to someone else.
+{129944}{130021}That's all right.|Maybe next time, you know?
+{130038}{130098}I'll let you know|about the next to-do.
+{130103}{130149}- Thanks.|- I'm sorry.
+{130161}{130201}I'll see you later, paI.
+{130250}{130291}Looks like YusseI's doing fine.
+{130306}{130342}Maybe I should dye my hair.
+{130352}{130403}Maybe. See you.
+{130704}{130766}I'm glad you see it that way,|Mr. Kurtzman.
+{130778}{130861}Just a negotiation. Tit for tat.
+{130910}{130967}It's nice doing business with you too.
+{130990}{131077}No. No. I'll call you back|about the meeting place.
+{131163}{131222}Scribbles, go let them three kids out.
+{131227}{131271}It'll be over in a minute.
+{131498}{131524}Little children.
+{131565}{131642}All three of you out.|Kurtzman, you stay.
+{131656}{131698}Come on, now. Get out, girl.
+{131718}{131751}I'll wait.
+{131756}{131810}Let's take a ride in the Pontiac.
+{131879}{131954}- How old are you, little girl?|- How much do you weigh?
+{131978}{132026}That's a sassy one.
+{132099}{132126}Ain't you loyal!
+{132131}{132174}I don't want anything to happen.
+{132179}{132250}Ain't nothing gonna happen,|his father pays.
+{132285}{132328}You sure you're not plugging her?
+{132333}{132421}- Yeah, I'm sure.|- You gotta find her good-looking.
+{132466}{132499}I do.
+{132531}{132554}Touch her titty.
+{132571}{132606}- What?|- No.
+{132611}{132644}Go on, touch her titty.
+{132758}{132805}This says yes.
+{132874}{132899}Don't give me shit.
+{132913}{132962}Ain't like it's a naked titty.
+{133126}{133162}Think about it.
+{133222}{133289}There's nothing to think about. No.
+{133339}{133406}If you want your money,|you'd better call again.
+{133423}{133472}I was getting ready to do that.
+{133482}{133554}I was just having a moment|of entertainment.
+{133990}{134023}Thank you.
+{134085}{134159}But I'm not sure it would've been|worth dying for.
+{134251}{134314}Anything goes wrong,|I'll never forgive myself.
+{134319}{134402}- He's not gonna hurt him.|- Should've been straight with him.
+{134407}{134478}It'll be all right.|It's not the way this guy operates.
+{135424}{135507}- It's yours.|- Can't take this. Your car.
+{135726}{135758}Little Kurtzman.
+{136104}{136160}Didn't have to give him|the entire numbers business.
+{136165}{136232}Could've gone 50-50. Or kill him.
+{136239}{136326}Gotta love the guineas. Colored guy|steals something from them...
+{136331}{136412}...they find him dead|on his own doorstep two days later.
+{136427}{136466}A subtle warning.
+{136471}{136525}He didn't steal. He hit the number.
+{136530}{136588}He won it fair and square.|It's his money.
+{136755}{136789}And you.
+{136866}{136900}You wanna explain this?
+{136905}{136942}She's in my class.
+{136958}{137010}She came out of the Royal|when it happened.
+{137015}{137081}You went to the Royal. Why?
+{137103}{137175}James Brown. He's amazing.
+{137185}{137232}Is this that rock 'n' roll?
+{137237}{137279}It's great music.
+{137302}{137383}Well, maybe you should get her|in the car.
+{137418}{137454}This is my dad.
+{137617}{137642}Frightening night.
+{137651}{137689}Yeah, somewhat.
+{137694}{137729}Did you call your parents?
+{137734}{137800}They think I'm sleeping over|at Gail’s house tonight.
+{137805}{137857}That saves a complicated explanation.
+{137862}{137925}I don't know how I'd tell my father.
+{138083}{138123}Dubbie, hey.
+{138147}{138175}Trey?
+{138208}{138234}How serious?
+{138280}{138331}When did he go into surgery?
+{138386}{138490}421 Springdale Avenue.|It's right off Liberty Heights.
+{138658}{138758}Friend of mine was just in a really|bad car accident. He's in Virginia.
+{138763}{138786}Why's he there?
+{138794}{138842}He goes to Washington and Lee.
+{138848}{138884}{Y:i}Wealthy goyim?
+{138903}{138950}His dad works for|Lawrence and Lebbe.
+{138955}{139056}Big law firm. Very connected.|Is he gonna be all right?
+{139061}{139156}I don't know. She said they're|worried about him being paralyzed.
+{139162}{139207}How terrible!
+{139235}{139327}By the way, what's the name "Dubbie"?|I never heard such a name.
+{139564}{139657}Thank you for coming.|I didn't wanna do this alone.
+{139662}{139744}You know, we can take turns driving,|in case you get tired.
+{139929}{139989}People, may I have your attention,|please?
+{139994}{140059}I need to see the following students:
+{140074}{140131}Ackerman, Blume...
+{140136}{140202}...D. Cohen, R. Cohen...
+{140210}{140262}So where are you going to school?
+{140267}{140296}Spelman.
+{140329}{140368}A Negro school?
+{140384}{140468}Why are you going there?|I mean, you can go anywhere now.
+{140473}{140532}Just because we can|doesn't mean we have to.
+{140537}{140629}And my mother went there, her mother|went there. It's tradition.
+{140636}{140731}No such thing for Sylvan and I.|We're the first ones to go to college.
+{140736}{140757}Why?
+{140762}{140866}My family couldn't afford it.|My dad went to work when he was 14.
+{140951}{140974}Take a mulligan.
+{140979}{141039}Heavy rumors about Little Melvin.
+{141044}{141071}And?
+{141078}{141128}He's having trouble|running the numbers.
+{141133}{141154}How so?
+{141162}{141258}Can't get organized.|He's running it into the ground.
+{141300}{141346}So golf's not your game.
+{141364}{141453}I ran into him over at Globus.|I was having lunch.
+{141482}{141513}Comes over to my table.
+{141542}{141592}I don't think it was a coincidence.
+{141691}{141716}Better.
+{141732}{141789}He can't work with|white numbers runners...
+{141794}{141866}...and white shop owners|can't work with black runners.
+{141874}{141942}- Think we can cut a deal?|- I think he has no choice.
+{141954}{142009}{Y:i}That was my plan all along.
+{142048}{142108}- So you and Trey fight a lot?|- All the time.
+{142113}{142139}- About what?|- Everything.
+{142144}{142166}Such as?
+{142178}{142239}Well, he thinks I'm too possessive.
+{142244}{142297}I think he drinks way too much.
+{142302}{142373}And he thinks I'm too demanding|concerning sex.
+{142407}{142440}Really?
+{142474}{142505}I mean, I love sex...
+{142510}{142602}...but Trey seems to think I get|a little out of control sometimes.
+{142662}{142702}Out of control.
+{142876}{142937}Trey Travelstead.|We came down from Baltimore.
+{142942}{143009}Travelstead is on the second floor.
+{143014}{143066}Only one visitor at a time.
+{143073}{143116}I can go upstairs, though, right?
+{143916}{143958}He'd like to see you.
+{144071}{144177}I'm glad Dubbie was able to get ahold|of you. Thanks for coming down.
+{144241}{144269}What's the word?
+{144290}{144336}It's worse than it looks.
+{144374}{144408}Will you walk?
+{144414}{144504}Sure. Maybe a little limp,|but that could be romantic.
+{144509}{144626}You know, mysterious. I need|whatever I can to add to the mystique.
+{144644}{144703}Dubbie looked a little disturbed.
+{144730}{144836}You know, if you still got a thing|for her, this could be your chance.
+{144854}{144916}It isn't gonna work out|with the two of us.
+{144947}{144990}We'll talk about this later.
+{144995}{145015}It's over.
+{145102}{145157}It's over, it's over, it's over.
+{145407}{145461}This could be your chance, Van.
+{145474}{145518}But she comes with a warning.
+{145557}{145582}What?
+{145605}{145716}You gotta read the fine print:|"Dangerous. Handle with care. "
+{146181}{146257}So, gentlemen, where do we begin?
+{146262}{146298}Here's the shorthand.
+{146303}{146364}You screwed up the business.|You need help.
+{146419}{146455}I'm thinking...
+{146462}{146566}...thinking, mind you, of bringing you|back into the business.
+{146579}{146615}Thirty percent of the take.
+{146653}{146676}Pass.
+{146690}{146744}Thirty percent is better than nothing.
+{146755}{146852}Soon, your 100% won't be worth shit.|How's that for arithmetic?
+{146874}{146899}Forty percent.
+{146907}{146938}I'm insulted.
+{146965}{147007}- Fifty.|- Eighty.
+{147067}{147100}Take it or leave it.
+{147185}{147211}Done.
+{147307}{147350}Couple of other things.
+{147355}{147426}Don't come to my office.|I don't wanna see you.
+{147431}{147477}I want nothing to do with you.
+{147502}{147538}I can live with that.
+{147678}{147722}You won't wait for your drinks?
+{147752}{147799}Too much work to get done.
+{147960}{148025}Let's go, boys. We're back.
+{148030}{148098}- Music to my ears.|- Yes, sirree.
+{148265}{148298}Scribbles...
+{148304}{148337}...what I pay you for?
+{148342}{148443}I'm over here negotiating business for|you and me, and you're eating pie.
+{148449}{148534}You sit over there and negotiate.|I sit over here, out your way.
+{148539}{148608}You're ordering pie|while I'm losing the business...
+{148613}{148662}...and I don't see a ounce of remorse.
+{148689}{148757}Don't make me moody, understand?|Go sit outside.
+{149193}{149218}Do you speak French?
+{149236}{149290}No. Do you?
+{149331}{149436}Not as well as my father's boyfriend|does, but then again, he is French.
+{149523}{149560}That's a secret.
+{149576}{149618}Are your parents divorced?
+{149641}{149694}Absolutely not.
+{149703}{149773}They have an "understanding. "
+{149793}{149827}Because of religion?
+{149849}{149940}Religion? No, no. Nothing like that.
+{149946}{150022}It's just more like|a convenient arrangement.
+{150094}{150132}Your mom lives in Baltimore.
+{150183}{150242}Let's talk about something|more pleasant.
+{150341}{150374}What about Trey?
+{150429}{150473}That was pleasant...
+{150509}{150612}...but all good things must come to|an end, fortunately or unfortunately.
+{150617}{150671}Seems like a nice guy, though.
+{150686}{150730}That's only half of it.
+{150768}{150801}Are you tired?
+{150806}{150846}You know, I can drive.
+{150927}{150978}We could stop at a motel.
+{151038}{151062}Sure.
+{151096}{151173}We could do that. Sure.
+{151994}{152031}You're sure about this?
+{152414}{152458}How much do you want me?
+{152610}{152704}I haven't been able to get you off|my mind since the moment I met you.
+{152709}{152746}How exciting.
+{152778}{152872}I feel like I've died|and gone to heaven.
+{153104}{153139}A toast.
+{153440}{153492}It seems to be all gone.
+{153516}{153579}Fear not. I have backup.
+{153588}{153644}I have it around here somewhere.
+{153650}{153688}We can do without that now.
+{153693}{153766}I'm just so damn happy,|we've gotta have a drink.
+{153842}{153867}You all right?
+{154259}{154302}It really wasn't that funny.
+{154386}{154437}- You all right?|- I'm fine.
+{154648}{154682}Wait a minute.
+{154748}{154791}Hey, what's the matter?
+{154879}{154913}What's wrong?
+{154923}{154953}I'm fine.
+{155000}{155042}What's wrong?
+{155047}{155081}Make love to me.
+{155086}{155132}- What?|- Make love to me.
+{155137}{155178}Listen, calm down, okay?
+{155268}{155312}Make love to me.
+{155394}{155450}What's wrong, Dubbie? What's wrong?
+{155514}{155570}I don't need this crap. Screw you.
+{155575}{155613}What are you talking about?
+{155618}{155655}I'm fine.
+{155678}{155729}Everything is fine.
+{155848}{155897}I don't know what's going on here.
+{155902}{155948}I don't need this crap.
+{156040}{156086}I don't understand.
+{156126}{156160}You don't understand?
+{156165}{156221}I don't understand|what just happened.
+{156275}{156350}I have everything. Every thing!
+{156357}{156472}And it's just wonderful! I'm happy!|I have everything!
+{156486}{156551}How can you not understand?
+{157686}{157738}How do you like me so far?
+{159594}{159638}{Y:i}Lewd and lascivious behavior?
+{159643}{159698}What part of Annie's act was|lewd and lascivious?
+{159703}{159750}No bare tit, no bush.|Don't get it.
+{159755}{159810}It isn't about Annie.|It's about Little Melvin.
+{159815}{159836}What?
+{159841}{159889}You run numbers,|they turn their backs.
+{159894}{159955}Burlesque is an institution|on the block. Fine.
+{159960}{160035}{Y:i}But not so fine your partnership|with a dealing schvartzer.
+{160040}{160082}I've nothing to do with drugs.
+{160088}{160176}You've got a partner that deals.|What the hell is wrong with you?
+{160181}{160231}- I'm supposed to kill him?|- Too late for that.
+{160243}{160310}- What does that mean?|- I can get you off this charge.
+{160315}{160376}Nothing to it. But not the FBI.
+{160391}{160416}What?
+{160422}{160506}They're gonna charge you|with a violation of the Mann Act.
+{160511}{160614}What? What kind of a crazy charge|is that? What is the Mann Act?
+{160619}{160728}Transportation across state lines for|illegal sexual activity. Prostitution.
+{160733}{160771}Where'd they come up with that?
+{160776}{160830}How many girls do you bring|into the state for shows?
+{160835}{160867}Who can count?
+{160872}{160942}Any one of those girls involved|in prostitution?
+{160948}{161034}Who in the hell knows? They could be.|I don't know what they do.
+{161039}{161139}They get one of them to testify,|one, and it's goodbye.
+{161163}{161187}Do they?
+{161198}{161235}They've obviously got someone.
+{161339}{161451}Over the years, in my business,|you watch enough shows, you learn.
+{161513}{161604}A good performer knows|when to get off the stage.
+{161676}{161706}What are you thinking?
+{161776}{161814}I don't know.
+{161858}{161893}I don't know yet.
+{162555}{162629}All right, boys, stand together.|You look like a hood.
+{162634}{162683}Stand up. Stand together.
+{162690}{162748}Come on, pull yourselves together.
+{162754}{162794}Like you know each other.
+{162800}{162861}- We are so proud of you.|- Thank you, Dad.
+{162866}{162948}What do you say we get something|to eat? You wanna go out to eat?
+{162953}{162993}It's your day. You pick it.
+{162999}{163033}Don't make me do that.
+{163038}{163094}Why don't we take a drive|in the country?
+{163099}{163179}First place we get to, we'll stop.|That's where we'll eat.
+{163184}{163287}Sure. Whatever. You guys|work it out. I'll be right back.
+{163295}{163356}- Sylvia, what are you-|- I'll be right back.
+{163531}{163603}- Wait. Where are you going?|- I'll be right back.
+{163608}{163635}I'll be right back.
+{163659}{163686}Spelman.
+{163711}{163744}University of Maryland.
+{163948}{163982}We'll keep in touch.
+{164122}{164179}What would happen|if I gave you a kiss?
+{164201}{164243}I think our parents would die.
+{164293}{164315}Probably.
+{164323}{164355}Definitely.
+{164417}{164456}Take care of yourself.
+{164466}{164491}You too, Ben.
+{164998}{165023}Nate, talk to him.
+{165030}{165063}What was that?
+{165072}{165118}I was saying goodbye to my friend.
+{165124}{165148}With a kiss?
+{165153}{165226}You talk to him now.|Did you see what he just did?
+{165231}{165272}I don't wanna cause a scene.
+{165277}{165359}I'm not causing a scene.|Your son just caused a scene.
+{165372}{165406}I'm not taking pictures.
+{165411}{165459}Let's go. Come on, let's go.
+{165464}{165505}I'm in trouble now?
+{165561}{165615}I'm not gonna take another picture!
+{165898}{165960}{Y:i}It's 78 degrees|in downtown Baltimore.
+{165966}{166059}{Y:i}You're listening to WCBM,|680 on your radio dial.
+{166064}{166111}{Y:i}This is the Jewish hour.
+{167529}{167619}It's good to get a little sun on|the last day before college starts.
+{168048}{168090}Not bad.
+{168095}{168133}I hate to give up the cane.
+{168138}{168202}A little sympathy works wonders|with the girls.
+{168207}{168247}You want some coffee?
+{168276}{168343}I talked with Dubbie.|She's transferred to Bennington.
+{168361}{168384}She all right?
+{168394}{168469}You know, she told me|about the motel.
+{168516}{168541}She did?
+{168667}{168714}Oh, come on. She loves drama.
+{168719}{168790}That's how it is with thoroughbreds.|Too high-strung.
+{168795}{168901}Tend to get spooked easily. Hope it|doesn't turn you off to the breed.
+{168917}{168951}That was a crazy night.
+{168961}{168994}I bet.
+{169019}{169066}Find anything out from your dad?
+{169075}{169171}Here's the story on that.|I got an uncle. He works at Justice.
+{169176}{169286}They're gonna prosecute your father on|the Mann Act and income tax evasion.
+{169382}{169416}That's what he expected.
+{169422}{169510}It's a hell of a thing.|Sorry. Sorry, sorry, sorry.
+{169541}{169586}He wasn't partners with the guy.
+{169625}{169685}{Y:i}- He's not involved with drugs.|- They know.
+{169690}{169775}{Y:i}They love to make an example.|Love to go after Jews and coloreds.
+{169788}{169860}They still have an adrenaline rush|from the Rosenberg executions.
+{169886}{169922}So my father asked if...
+{169934}{169972}{Y:i}...your father could help.
+{170017}{170042}{Y:i}What?
+{170069}{170103}{Y:i}To see if they'll wait...
+{170108}{170181}...to arrest him until after|the Rosh Hashanah services...
+{170186}{170242}...and after he sees the new Cadillac.
+{170281}{170336}Is that part of the religious service?
+{170376}{170401}It is with him.
+{170418}{170450}I'll see what I can do.
+{170732}{170758}Them new shoes?
+{170763}{170804}Threw my old ones away.
+{170809}{170862}- Why?|- Bad luck. That's why I got arrested.
+{170882}{170948}My lawyer's saying I'll get|six to eight months.
+{170953}{170997}That's it? What about Kurtzman?
+{171010}{171071}Eight to 10 years. Federal.
+{171076}{171111}Fed time?
+{171127}{171155}Man.
+{171168}{171261}Since I'm gonna be gone, you need to|look for another line of work.
+{171266}{171370}I've been thinking. I wanna become|an announcer for the Baltimore Colts.
+{171375}{171419}- A colored announcer?|- First one.
+{171442}{171526}I practice at home. I got|a couple of plays. You wanna hear?
+{171560}{171671}It's a beautiful day at Baltimore's|Memorial Stadium. It's 76 degrees.
+{171680}{171738}{Y:i}Birds chirping and such...
+{171783}{171882}It's hot. I'm gonna sit,|and I'm gonna sweat.
+{171906}{171947}Indian summer.
+{172039}{172064}Where's Dad?
+{172069}{172106}In a minute.
+{172118}{172162}He wants to talk to you boys.
+{172175}{172228}- What's wrong?|- He'll tell you.
+{172233}{172295}What do you mean?|He's about to be arrested.
+{172300}{172358}I know. I thought|it was something else.
+{172363}{172402}What else could there be?
+{172565}{172632}{Y:i}I don't know how much to tell you.
+{172662}{172739}{Y:i}You won't see me for a while.|Everything has been taken care of.
+{172744}{172836}{Y:i}There's money for your college|educations. Everything is provided.
+{173393}{173462}{Y:i}I expect you both...
+{173468}{173542}...to get your diplomas,|to be responsible...
+{173559}{173610}...to give back to the community.
+{173666}{173748}I'll miss you,|but it won't be too long.
+{173784}{173883}We're a family,|and nothing can interfere with that.
+{173998}{174038}I'm proud of you boys.
+{174174}{174205}{Y:i}My boys.
+{174271}{174318}It's time, Nate.
+{174330}{174375}It's time for services.
+{175849}{175956}{Y:i}Life is made up of a few big moments|and a lot of little ones.
+{175975}{176047}{Y:i}I still remember the first time|I kissed Sylvia...
+{176058}{176137}{Y:i}...or the last time I hugged my father|before he died.
+{176162}{176209}{Y:i}I still remember that white bread...
+{176214}{176310}{Y:i}...and that blond dancing girl|with the cigarette pack on her thigh.
+{176351}{176394}{Y:i}But a lot of images fade...
+{176413}{176472}{Y:i}...and no matter how hard I try...
+{176477}{176527}{Y:i}...I can't get them back.
+{176579}{176629}{Y:i}I had a relative who once said:
+{176658}{176728}{Y:i}"If I knew things|would no longer be...
+{176753}{176813}{Y:i}...I would've tried|to remember better. "
+{177580}{177699}{Y:i}Had I been|The toast of Paris
+{177742}{177861}{Y:i}Had I sailed|Down the Nile
+{177912}{177976}{Y:i}All the wonders I could see
+{177990}{178068}{Y:i}Could fulfill most any dream
+{178081}{178137}{Y:i}And hold you
+{178151}{178218}{Y:i}For a while
+{178258}{178314}{Y:i}But when love...
+{178338}{178371}{Y:i}...walked...
+{178387}{178434}{Y:i}...in|Pick it up a little.
+{178450}{178510}{Y:i}There was nothing...
+{178536}{178610}{Y:i}...I could do
+{178644}{178702}{Y:i}Only to try...
+{178740}{178796}{Y:i}...and keep my head...
+{183342}{183367}English Subtitles by|Gelula/SDI

@@ -1,0 +1,452 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Show_Title,Open Sans Semibold,27,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,13,13,160,1
+Style: Ep_Title,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H006E56C6,1,0,0,0,100,100,0,0,1,0,2,1,127,13,127,1
+Style: Likes/Comments,Open Sans Semibold,18,&H00A2A5A4,&H000000FF,&H00EFF1F1,&H00EFF1F1,0,0,0,0,100,100,0,0,1,2,1,1,317,448,13,1
+Style: Hashtags,Open Sans Semibold,18,&H00A2A5A4,&H000000FF,&H00EFF1F1,&H00EFF1F1,1,0,0,0,100,100,0,0,1,2,1,1,440,56,24,1
+Style: sign_21817_323_Orange,Open Sans Semibold,36,&H00736673,&H000000FF,&H00151051,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,652,91,115,1
+Style: sign_21817_324_Reserved_Today_A,Open Sans Semibold,21,&H007D8891,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,128,457,129,1
+Style: sign_21817_325_Sexy_Delicious__,Open Sans Semibold,21,&H00336682,&H000000FF,&H005DDCE5,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,232,484,201,1
+Style: sign_6829_70_High_School_Girl,Open Sans Semibold,21,&H00383C37,&H000000FF,&H00C4D3CD,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,169,452,27,1
+Style: blackboard,Open Sans Semibold,21,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,4,0,7,27,13,27,1
+Style: sign_218_1_Watch_Duty,Open Sans Semibold,27,&H003F3836,&H000000FF,&H00BFB7AD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,340,377,132,1
+Style: sign_218_2_Tamaki_Miyake,Open Sans Semibold,27,&H003F3836,&H000000FF,&H00CDCFD0,&H00524391,0,0,0,0,100,100,0,0,1,3,2,2,312,456,135,1
+Style: sign_218_3_Himi,Open Sans Semibold,27,&H00231A19,&H000000FF,&H00848581,&H00524391,0,0,0,0,100,100,0,0,1,3,2,8,744,55,116,1
+Style: sign_513_9_Beef_Trash,Open Sans Semibold,36,&H0060575B,&H000000FF,&H00E1E7E8,&H00000000,1,0,0,0,100,100,0,0,1,4,0,2,257,421,104,1
+Style: sign_678_13_Today_s_Menu,Open Sans Semibold,27,&H005E5E53,&H000000FF,&H00E2E5DC,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,296,403,51,1
+Style: sign_678_14_Antarctic_Style_,Open Sans Semibold,27,&H00B47870,&H000000FF,&H00F3EDF0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,261,360,148,1
+Style: sign_678_15_Eat_your_dried_s,Open Sans Semibold,18,&H00A39677,&H000000FF,&H00FEF8F9,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,160,471,181,1
+Style: sign_678_16_Pork_on_rice_and,Open Sans Semibold,18,&H00A39677,&H000000FF,&H00FEF8F9,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,344,177,157,1
+Style: sign_678_17_Cleaning_duty__T,Open Sans Semibold,18,&H00A39677,&H000000FF,&H00FEF8F9,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,420,257,80,1
+Style: sign_1687_32_The_summer_team_,Open Sans Semibold,36,&H00696157,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,391,57,113,1
+Style: sign_2903_50_Island_Stroll,Open Sans Semibold,21,&H00ACB467,&H000000FF,&H00E4ECED,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,471,276,212,1
+Style: sign_2903_51_Grotto,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H00A28F4B,&H00000000,1,0,0,0,100,100,0,0,1,3,0,2,453,328,136,1
+Style: sign_5661_93_Soumen,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H006E3F29,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,495,264,53,1
+Style: sign_1368_16_needs_fill,Open Sans Semibold,18,&H0082764E,&H000000FF,&H00EEDFA2,&H00EFF1F1,1,0,0,0,100,100,0,0,1,4,0,2,224,507,117,1
+Style: sign_12251_174_Lavatory___Bath_,Open Sans Semibold,18,&H0082764E,&H000000FF,&H00EEDFA2,&H00EFF1F1,1,0,0,0,100,100,0,0,1,4,0,2,197,528,117,1
+Style: sign_12793_183_Good_work__Summe,Open Sans Semibold,36,&H0082786F,&H000000FF,&H00F0F5F5,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,207,207,24,1
+Style: sign_12997_187_Challenge_for_An,Open Sans Semibold,24,&H007C6955,&H000000FF,&H00E5D5A7,&H00000000,1,0,0,0,100,100,0,0,1,2,0,5,284,284,0,1
+Style: sign_13019_188_Remember_us_when,Open Sans Semibold,24,&H006C6463,&H000000FF,&H00EEF0F0,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,189,311,137,1
+Style: sign_20548_268_CD_Cover,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H0068A79D,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,27,1
+Style: sign_31205_351_Kobuchizawa_Shir,Open Sans Semibold,24,&H00474D50,&H000000FF,&H00E9E7E5,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,243,385,83,1
+Style: sign_24348_308_Inbox_Kobuchizaw,Open Sans Semibold,24,&H00474D50,&H000000FF,&H00E9E7E5,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,575,27,1
+Style: sign_27652_336_Mail__________To,Open Sans Semibold,24,&H00474D50,&H000000FF,&H00E9E7E5,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,244,27,1
+Style: sign_31708_357_Treasure,Open Sans Semibold,24,&H003B444D,&H000000FF,&H00777C7B,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,392,369,247,1
+Style: sign_32755_366_Missing_sign,Open Sans Semibold,36,&H0015223D,&H000000FF,&H00354E77,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,379,281,180,1
+Style: sign_33390_371_Megu_chan,Open Sans Semibold,18,&H00B4B1B5,&H000000FF,&H004E4033,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,359,411,85,1
+Style: sign_33390_372_Missing,Open Sans Semibold,18,&H00000000,&H000000FF,&H0073D072,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,472,267,133,1
+Style: sign_33390_373_Missing,Open Sans Semibold,18,&H00000000,&H000000FF,&H0073D072,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,457,267,200,1
+Style: sign_33390_374_I_m_back_,Open Sans Semibold,18,&H00474D50,&H000000FF,&H00A79769,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,448,331,209,1
+Style: sign_33406_375_Oh__too_bad_,Open Sans Semibold,18,&H00000000,&H000000FF,&H0073D072,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,444,311,127,1
+Style: sign_33500_376_Right_now__I_m_i,Open Sans Semibold,18,&H00000000,&H000000FF,&H00F3FAFB,&H00000000,0,0,0,0,100,100,0,0,1,4,0,1,299,343,127,1
+Style: sign_33588_377_Megu_chan,Open Sans Semibold,24,&H00DEDBCB,&H000000FF,&H00B39C6D,&H00000000,1,0,0,0,100,100,0,0,1,4,0,7,344,393,13,1
+Style: sign_33631_378_Right_now__I_m_i,Open Sans Semibold,18,&H00000000,&H000000FF,&H00DFE9E9,&H00000000,0,0,0,0,100,100,0,0,1,4,0,1,197,444,151,1
+Style: sign_34069_383_Missing_Sign,Open Sans Semibold,27,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,13,13,80,1
+Style: sign_33390_374_I_m_back_ - Copy,Open Sans Semibold,18,&H00474D50,&H000000FF,&H00A79769,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,448,331,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:09.07,0:00:11.69,sign_218_1_Watch_Duty,sign,0000,0000,0000,,Watch Duty
+Dialogue: 0,0:00:09.07,0:00:11.69,sign_218_2_Tamaki_Miyake,sign,0000,0000,0000,,Tamaki\NMiyake
+Dialogue: 0,0:00:09.07,0:00:11.69,sign_218_3_Himi,sign,0000,0000,0000,,Himi
+Dialogue: 0,0:00:10.18,0:00:11.69,Main,kima,0000,0000,0000,,Good morning!
+Dialogue: 0,0:00:11.69,0:00:12.86,Main,hina,0000,0000,0000,,You're late.
+Dialogue: 0,0:00:13.05,0:00:16.01,Main,yumi,0000,0000,0000,,Being late for watch duty \Nmakes trouble for everyone.
+Dialogue: 0,0:00:16.01,0:00:16.59,Main,kima,0000,0000,0000,,Yes ma'am!
+Dialogue: 0,0:00:16.59,0:00:18.86,Main,hina,0000,0000,0000,,Today's menu, if you would.
+Dialogue: 0,0:00:21.37,0:00:23.37,sign_513_9_Beef_Trash,,0000,0000,0000,,Food Waste
+Dialogue: 0,0:00:21.90,0:00:23.37,Main,kima,0000,0000,0000,,"Leftover special."
+Dialogue: 0,0:00:23.64,0:00:25.00,Main,hina,0000,0000,0000,,That's too honest!
+Dialogue: 0,0:00:25.20,0:00:28.25,Main,yumi,0000,0000,0000,,At times like these, \Nwe go with you-know-what!
+Dialogue: 0,0:00:28.25,0:00:30.25,sign_678_13_Today_s_Menu,sign,0000,0000,0000,,Today's Menu
+Dialogue: 0,0:00:28.25,0:00:30.25,sign_678_14_Antarctic_Style_,sign,0000,0000,0000,,Antarctic Style {\c&H8D887D&}Pork
+Dialogue: 0,0:00:28.25,0:00:30.25,sign_678_15_Eat_your_dried_s,sign,0000,0000,0000,,Eat your dried sardines, too!
+Dialogue: 0,0:00:28.25,0:00:30.25,sign_678_16_Pork_on_rice_and,sign,0000,0000,0000,,Pork-on-rice {\c&H66615B&}and pork soup sets available!!
+Dialogue: 0,0:00:28.25,0:00:30.25,sign_678_17_Cleaning_duty__T,sign,0000,0000,0000,,Cleaning {\c&H8B847C&}duty: Team {\c&H6B5CD9&}B
+Dialogue: 0,0:00:31.42,0:00:32.96,Main,kima,0000,0000,0000,,That's it for the watch report.
+Dialogue: 0,0:00:32.96,0:00:34.51,Main,kima,0000,0000,0000,,Is there any other business to address?
+Dialogue: 0,0:00:34.51,0:00:39.12,Main,nobu,0000,0000,0000,,Um, I was thinking the premade \NCalpis is too thin...
+Dialogue: 0,0:00:39.66,0:00:41.38,Main,hona,0000,0000,0000,,It's too strong, isn't it?
+Dialogue: 0,0:00:40.95,0:00:42.07,Main,yume,0000,0000,0000,,Poor man's Calpis.
+Dialogue: 0,0:00:42.07,0:00:44.03,Main,hona,0000,0000,0000,,Don't call me "poor."
+Dialogue: 0,0:00:44.03,0:00:46.35,Main,,0000,0000,0000,,
+Dialogue: 0,0:00:46.35,0:00:47.42,Main,kima,0000,0000,0000,,Person on duty there?
+Dialogue: 0,0:00:47.42,0:00:52.74,Main,hina,0000,0000,0000,,Well, the person on duty \Nyesterday made it, not me,
+Dialogue: 0,0:00:52.74,0:00:54.28,Main,hina,0000,0000,0000,,but I'll do what I can.
+Dialogue: 0,0:00:54.97,0:00:56.20,Main,kima,0000,0000,0000,,It's cold!
+Dialogue: 0,0:00:56.20,0:00:59.10,Main,hina,0000,0000,0000,,They did say it would be windy...
+Dialogue: 0,0:00:59.10,0:01:00.80,Main,kima,0000,0000,0000,,What are we supposed to do after this?
+Dialogue: 0,0:01:01.33,0:01:03.58,Main,hina,0000,0000,0000,,Clean the bathrooms!
+Dialogue: 0,0:01:10.34,0:01:14.97,sign_1687_32_The_summer_team_,sign,0000,0000,0000,,The summer team leaves\Nin {\c&H654FAB&}3 {\c&H696157&}days!
+Dialogue: 0,0:01:15.57,0:01:19.14,Main,hona,0000,0000,0000,,I told you I hate hijiki!
+Dialogue: 0,0:01:19.30,0:01:21.15,Main,hina,0000,0000,0000,,Just eat it.
+Dialogue: 0,0:01:21.15,0:01:24.12,Main,hina,0000,0000,0000,,I'm told you've been a little \Nanemic lately, Honami-san.
+Dialogue: 0,0:01:24.12,0:01:25.65,Main,hona,0000,0000,0000,,Meanie!
+Dialogue: 0,0:01:26.86,0:01:30.46,Main,hona,0000,0000,0000,,Those high school girls \Nwere so cute at the start.
+Dialogue: 0,0:01:30.46,0:01:32.59,Main,yume,0000,0000,0000,,They weren't doing anything then.
+Dialogue: 0,0:01:32.59,0:01:33.74,Main,kima,0000,0000,0000,,Want some tea?
+Dialogue: 0,0:01:34.43,0:01:38.60,Main,hona,0000,0000,0000,,After so much time in Antarctica, \Nyou'll never reintegrate into society.
+Dialogue: 0,0:01:38.60,0:01:39.87,Main,hona,0000,0000,0000,,Like that.
+Dialogue: 0,0:01:40.07,0:01:41.29,Main,shira,0000,0000,0000,,Chisou, ron.
+Dialogue: 0,0:01:41.50,0:01:43.90,Main,shira,0000,0000,0000,,Riisoku, jyunchansanshiki, dora dora...
+Dialogue: 0,0:01:43.90,0:01:46.83,Main,shira,0000,0000,0000,,Sorry... with uraura, that's a sanbai man.
+Dialogue: 0,0:01:47.30,0:01:49.85,Main,kane,0000,0000,0000,,{\an8}I told you not to rely on the suji!
+Dialogue: 0,0:01:48.77,0:01:51.29,Main,kima,0000,0000,0000,,I think that's a different thing, actually...
+Dialogue: 0,0:01:53.26,0:01:56.91,Main,kima,0000,0000,0000,,Doesn't the sound of a vacuum cleaner \Njust make you think of home?
+Dialogue: 0,0:01:58.02,0:01:59.20,Main,hina,0000,0000,0000,,Where have you been?
+Dialogue: 0,0:01:59.20,0:02:01.06,Main,yuzu,0000,0000,0000,,They invited me out, \Nso I did some interviews.
+Dialogue: 0,0:02:01.05,0:02:02.68,sign_2903_50_Island_Stroll,,0000,0000,0000,,Island Stroll
+Dialogue: 0,0:02:01.05,0:02:02.68,sign_2903_51_Grotto,,0000,0000,0000,,Grotto
+Dialogue: 0,0:02:02.32,0:02:03.91,Main,kima,0000,0000,0000,,Oh, the island stroll?
+Dialogue: 0,0:02:03.91,0:02:04.54,Main,yuzu,0000,0000,0000,,Yes.
+Dialogue: 0,0:02:04.54,0:02:07.44,Main,kima,0000,0000,0000,,They took Shirase-chan and I \Nout for that yesterday.
+Dialogue: 0,0:02:07.68,0:02:09.19,Main,all,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:09.19,0:02:11.19,Main,hina,0000,0000,0000,,Why didn't you tell me?!
+Dialogue: 0,0:02:11.38,0:02:13.62,Main,yuzu,0000,0000,0000,,Because you were on watch duty today!
+Dialogue: 0,0:02:13.62,0:02:15.11,Main,kima,0000,0000,0000,,Odd man out!
+Dialogue: 0,0:02:15.11,0:02:15.74,Main,hina,0000,0000,0000,,Shut up!
+Dialogue: 0,0:02:15.74,0:02:16.58,Main,kima,0000,0000,0000,,Ow!
+Dialogue: 0,0:02:17.68,0:02:19.28,Main,hina,0000,0000,0000,,Who cares about some island stroll?
+Dialogue: 0,0:02:19.28,0:02:22.53,Main,hina,0000,0000,0000,,I'm going out on the ice operation later!
+Dialogue: 0,0:02:22.53,0:02:24.33,Main,kima,0000,0000,0000,,That's right! I gotta hurry!
+Dialogue: 0,0:02:24.50,0:02:26.59,Main,yuzu,0000,0000,0000,,It's almost time for the meetup!
+Dialogue: 0,0:02:26.59,0:02:27.31,Main,hina,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:27.31,0:02:30.00,Main,shira,0000,0000,0000,,We're all going on the ice operation.
+Dialogue: 0,0:02:30.96,0:02:33.88,sign_2903_50_Island_Stroll,,0000,0000,0000,,Island Stroll
+Dialogue: 0,0:02:30.96,0:02:33.88,sign_2903_51_Grotto,,0000,0000,0000,,Grotto
+Dialogue: 0,0:02:31.88,0:02:33.03,Main,hina,0000,0000,0000,,Really?
+Dialogue: 0,0:02:34.64,0:02:38.94,Main,kima,0000,0000,0000,,The four of us will be heading out \Nto join the ice operation. Over.
+Dialogue: 0,0:02:38.94,0:02:41.34,Italics,vo,0000,0000,0000,,Roger that. Be safe.
+Dialogue: 0,0:02:42.31,0:02:44.19,Main,yuzu,0000,0000,0000,,Which should we take?
+Dialogue: 0,0:02:46.26,0:02:48.61,Main,yumi,0000,0000,0000,,Hi!
+Dialogue: 0,0:02:55.59,0:02:57.43,Main,yuzu,0000,0000,0000,,I could just die!
+Dialogue: 0,0:03:01.00,0:03:03.79,Main,yuzu,0000,0000,0000,,Wow! Glaciers!
+Dialogue: 0,0:03:04.26,0:03:07.66,Main,yuzu,0000,0000,0000,,You're shaving from these big blocks of ice?
+Dialogue: 0,0:03:08.13,0:03:10.29,Main,kana,0000,0000,0000,,It's forbidden to remove \Nthings from Antarctica,
+Dialogue: 0,0:03:10.29,0:03:13.54,Main,kana,0000,0000,0000,,so it's the only souvenir \Nwe're allowed to take freely.
+Dialogue: 0,0:03:14.23,0:03:19.14,Main,kana,0000,0000,0000,,This ice is full of air that's \Ntens of thousands of years old,
+Dialogue: 0,0:03:19.14,0:03:22.01,Main,kana,0000,0000,0000,,so as it melts, it pops.
+Dialogue: 0,0:03:22.74,0:03:23.76,Main,kana,0000,0000,0000,,Want to eat some?
+Dialogue: 0,0:03:23.96,0:03:25.10,Main,all,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:30.42,0:03:32.97,Main,kima,0000,0000,0000,,So this is how thousand-year-old air tastes!
+Dialogue: 0,0:03:32.97,0:03:34.09,Main,yuzu,0000,0000,0000,,You can distinguish it?
+Dialogue: 0,0:03:34.09,0:03:36.82,Main,kima,0000,0000,0000,,When I grow up, I've gotta \Ndrink alcohol with this.
+Dialogue: 0,0:03:36.82,0:03:39.14,Main,hina,0000,0000,0000,,I bet you'd be a loud drunk, Kimari.
+Dialogue: 0,0:03:39.14,0:03:39.74,Main,kima,0000,0000,0000,,You think?
+Dialogue: 0,0:03:40.84,0:03:44.87,Main,kana,0000,0000,0000,,When this starts up, it really hits \Nhome that summer's almost over.
+Dialogue: 0,0:03:45.40,0:03:47.12,Main,yuzu,0000,0000,0000,,Really?
+Dialogue: 0,0:03:47.51,0:03:50.56,Main,kana,0000,0000,0000,,Soon, it'll be autumn, then winter...
+Dialogue: 0,0:03:50.56,0:03:51.62,Main,kima,0000,0000,0000,,The winter team!
+Dialogue: 0,0:03:51.96,0:03:54.46,Main,hina,0000,0000,0000,,What do you do during winter?
+Dialogue: 0,0:03:54.78,0:03:58.84,Main,kana,0000,0000,0000,,All kinds of things. \NWe play games, drink booze...
+Dialogue: 0,0:03:56.09,0:03:58.84,sign_5661_93_Soumen,,0000,0000,0000,,Soumen
+Dialogue: 0,0:04:00.85,0:04:04.35,Main,kana,0000,0000,0000,,Of course, research and \Ninvestigation is important,
+Dialogue: 0,0:04:04.77,0:04:08.80,Main,kana,0000,0000,0000,,but when we hit June, it's nighttime all day.
+Dialogue: 0,0:04:09.32,0:04:10.60,Main,hina,0000,0000,0000,,I see...
+Dialogue: 0,0:04:10.60,0:04:12.78,Main,kima,0000,0000,0000,,"Polar night," right?
+Dialogue: 0,0:04:13.33,0:04:16.71,Main,kana,0000,0000,0000,,During the day, there's a faint \Nbrightness around the horizon,
+Dialogue: 0,0:04:17.10,0:04:19.86,Main,kana,0000,0000,0000,,but that's the only change you see.
+Dialogue: 0,0:04:19.86,0:04:23.62,Main,kana,0000,0000,0000,,Otherwise, it just stays \Nnight for a long, long time.
+Dialogue: 0,0:04:23.96,0:04:25.87,Main,hina,0000,0000,0000,,Perpetual night, huh?
+Dialogue: 0,0:04:26.19,0:04:28.75,Main,kana,0000,0000,0000,,But that just makes the stars \Nall the more more beautiful!
+Dialogue: 0,0:04:29.17,0:04:30.70,Main,kana,0000,0000,0000,,You can see the aurora, too!
+Dialogue: 0,0:04:30.70,0:04:31.75,Main,kima,0000,0000,0000,,The aurora...
+Dialogue: 0,0:04:32.87,0:04:34.39,Main,kima,0000,0000,0000,,That's right, we never saw it!
+Dialogue: 0,0:04:34.39,0:04:37.16,Main,hina,0000,0000,0000,,Because we only get a tiny bit of night.
+Dialogue: 0,0:04:37.16,0:04:39.86,Main,kima,0000,0000,0000,,We got a photo with penguins, \Nate shaved ice...
+Dialogue: 0,0:04:39.86,0:04:41.97,Main,kima,0000,0000,0000,,we haven't gotten the aurora \Nor the Antarctic stars!
+Dialogue: 0,0:04:41.97,0:04:43.91,Main,hina,0000,0000,0000,,Because the sun doesn't \Ngo down, like I told you.
+Dialogue: 0,0:04:43.91,0:04:45.13,Main,shira,0000,0000,0000,,Help!
+Dialogue: 0,0:04:45.35,0:04:46.16,Main,shira,0000,0000,0000,,Help!
+Dialogue: 0,0:04:46.16,0:04:49.90,Main,shira,0000,0000,0000,,But I'm happy! But they stink! But I'm happy!
+Dialogue: 0,0:04:50.28,0:04:51.83,Main,hina,0000,0000,0000,,What's she doing?
+Dialogue: 0,0:04:50.28,0:04:52.86,Main,hina,0000,0000,0000,,{\a6}But they stink! But I'm happy!
+Dialogue: 0,0:04:52.74,0:04:54.88,Main,kana,0000,0000,0000,,I need to get back to work.
+Dialogue: 0,0:04:54.88,0:04:56.90,Main,kana,0000,0000,0000,,You guys take it easy.
+Dialogue: 0,0:04:54.88,0:04:58.04,Main,kana,0000,0000,0000,,{\a6}But they stink! But I'm happy!
+Dialogue: 0,0:04:56.90,0:04:59.20,Main,kana,0000,0000,0000,,This'll be your last day \Non the frozen sea, right?
+Dialogue: 0,0:05:05.26,0:05:07.26,Main,,0000,0000,0000,,But they stink!
+Dialogue: 0,0:05:07.26,0:05:08.45,Main,kima,0000,0000,0000,,That's right...
+Dialogue: 0,0:05:08.45,0:05:10.26,Main,,0000,0000,0000,,But I'm happy!
+Dialogue: 0,0:05:10.57,0:05:12.08,Main,shira,0000,0000,0000,,I told you to help me!
+Dialogue: 0,0:05:12.08,0:05:14.69,Main,hina,0000,0000,0000,,Sorry, I can't get within\Nfive meters of them...
+Dialogue: 0,0:05:14.69,0:05:15.70,Main,,0000,0000,0000,,Do something!
+Dialogue: 0,0:05:15.70,0:05:17.37,Main,,0000,0000,0000,,Sorry, I can't!
+Dialogue: 0,0:05:17.37,0:05:20.34,Main,yuzu,0000,0000,0000,,We've really gotten used \Nto it all, haven't we?
+Dialogue: 0,0:05:21.22,0:05:22.60,Main,yuzu,0000,0000,0000,,This scenery, too...
+Dialogue: 0,0:05:26.90,0:05:28.31,Main,kima,0000,0000,0000,,Hey, just hypothetically...
+Dialogue: 0,0:05:31.30,0:05:32.85,Main,kima,0000,0000,0000,,Hypothetically...
+Dialogue: 0,0:05:35.84,0:05:38.09,Main,kima,0000,0000,0000,,Well, no one else needs the rooms.
+Dialogue: 0,0:05:38.09,0:05:40.73,Main,kima,0000,0000,0000,,And we can keep sending \Nvideo from here, right?
+Dialogue: 0,0:05:40.73,0:05:43.62,Main,kima,0000,0000,0000,,So there's no reason we {\i1}have {\i0}\Nto leave right now, is there?
+Dialogue: 0,0:05:47.92,0:05:49.74,Main,kima,0000,0000,0000,,You're going to hurt me!
+Dialogue: 0,0:05:49.74,0:05:51.34,Main,hina,0000,0000,0000,,I'm not, I'm not.
+Dialogue: 0,0:05:53.57,0:05:55.71,Main,kima,0000,0000,0000,,{\an8}Liar!
+Dialogue: 0,0:05:54.19,0:05:58.40,Main,hina,0000,0000,0000,,What did you think? If we don't go \Nback now, we're stuck here all year.
+Dialogue: 0,0:05:58.40,0:06:00.59,Main,kima,0000,0000,0000,,I know that. It'll be fine.
+Dialogue: 0,0:06:00.59,0:06:04.06,Main,kima,0000,0000,0000,,I bet that once it gets \Ndark I could sleep forever.
+Dialogue: 0,0:06:04.06,0:06:08.28,Main,shira,0000,0000,0000,,What about school? By the time we get \Nback, everyone will have graduated.
+Dialogue: 0,0:06:08.28,0:06:09.57,Main,kima,0000,0000,0000,,Well...
+Dialogue: 0,0:06:09.57,0:06:11.28,Main,yuzu,0000,0000,0000,,What about our families?
+Dialogue: 0,0:06:11.28,0:06:12.88,Main,hina,0000,0000,0000,,And Yuzu's drama?
+Dialogue: 0,0:06:17.30,0:06:21.54,Main,yuzu,0000,0000,0000,,Well, I do understand not \Nwanting to go back...
+Dialogue: 0,0:06:21.54,0:06:23.06,Main,kima,0000,0000,0000,,You'll come back, then?
+Dialogue: 0,0:06:23.06,0:06:24.23,Main,yuzu,0000,0000,0000,,What? Sure...
+Dialogue: 0,0:06:24.23,0:06:26.45,Main,kima,0000,0000,0000,,For the winter stay. All four of us!
+Dialogue: 0,0:06:26.45,0:06:27.49,Main,hina,0000,0000,0000,,Fine.
+Dialogue: 0,0:06:27.49,0:06:30.37,Main,kima,0000,0000,0000,,You'd better mean it! \NYou'd better not let me down!
+Dialogue: 0,0:06:30.37,0:06:31.87,Main,shira,0000,0000,0000,,Yeah, yeah...
+Dialogue: 0,0:06:32.98,0:06:34.62,Main,kima,0000,0000,0000,,I'm asking seriously.
+Dialogue: 0,0:06:35.35,0:06:36.87,Main,shira,0000,0000,0000,,I'm answering seriously.
+Dialogue: 0,0:06:39.58,0:06:40.83,Main,kima,0000,0000,0000,,Okay, then!
+Dialogue: 0,0:06:49.06,0:06:51.26,Main,yuzu,0000,0000,0000,,But... what are we going to do?
+Dialogue: 0,0:06:52.33,0:06:54.72,Main,yuzu,0000,0000,0000,,Remember what the captain said?
+Dialogue: 0,0:06:54.72,0:06:57.89,Main,yuzu,0000,0000,0000,,If there was anything we wanted to do \Nbefore we leave, we should tell her.
+Dialogue: 0,0:07:03.22,0:07:04.58,Main,kima,0000,0000,0000,,Before we leave, huh?
+Dialogue: 0,0:07:08.11,0:07:09.95,Main,gin,0000,0000,0000,,Are you sure that's all you want?
+Dialogue: 0,0:07:09.95,0:07:14.25,Main,kima,0000,0000,0000,,Yeah. Before we leave, we want \Nto play with everyone here!
+Dialogue: 0,0:07:15.83,0:07:17.79,Main,kima,0000,0000,0000,,Hey! Let 'er rip!
+Dialogue: 0,0:07:18.06,0:07:20.25,Main,,0000,0000,0000,,You can do it!
+Dialogue: 0,0:07:18.75,0:07:22.17,Main,,0000,0000,0000,,Let's do this!
+Dialogue: 0,0:07:22.75,0:07:26.43,Main,toshi,0000,0000,0000,,Captain! If I hit it out of the park, \Nwill you consider my offer?
+Dialogue: 0,0:07:28.24,0:07:28.93,Main,gin,0000,0000,0000,,Sure.
+Dialogue: 0,0:07:29.83,0:07:31.56,Main,toshi,0000,0000,0000,,I'm holding you to that!
+Dialogue: 0,0:07:31.56,0:07:33.84,Main,yumi,0000,0000,0000,,He still hasn't given up?
+Dialogue: 0,0:07:33.84,0:07:35.15,Main,shira,0000,0000,0000,,Can he hit it?
+Dialogue: 0,0:07:35.15,0:07:40.20,Main,kana,0000,0000,0000,,I doubt it. Gin-chan is known as \Nthe "Antarctic 19-in-Pinstripes."
+Dialogue: 0,0:07:40.20,0:07:42.06,Main,kana,0000,0000,0000,,Her pitches are first-rate.
+Dialogue: 0,0:07:42.06,0:07:42.93,Main,kana,0000,0000,0000,,And...
+Dialogue: 0,0:07:47.27,0:07:48.87,Main,kana,0000,0000,0000,,No one can dodge them.
+Dialogue: 0,0:07:48.87,0:07:49.96,Main,kima,0000,0000,0000,,No way...
+Dialogue: 0,0:07:50.50,0:07:52.11,Main,kana,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:07:52.30,0:07:54.85,Main,kana,0000,0000,0000,,Takako could still hit them.
+Dialogue: 0,0:08:08.25,0:08:08.76,Italics,gin,0000,0000,0000,,Takako...
+Dialogue: 0,0:08:12.45,0:08:13.39,Italics,gin,0000,0000,0000,,You're watching, right?
+Dialogue: 0,0:08:19.78,0:08:21.02,Main,yuzu,0000,0000,0000,,Hinata-san!
+Dialogue: 0,0:08:30.94,0:08:34.95,sign_12251_174_Lavatory___Bath_,,0000,0000,0000,,Lavatory | Bath\NWashroom
+Dialogue: 0,0:08:33.53,0:08:34.95,Main,hina,0000,0000,0000,,What, now?
+Dialogue: 0,0:08:35.27,0:08:37.72,Main,hina,0000,0000,0000,,If you were gonna cut it, you should \Nhave done it when we arrived.
+Dialogue: 0,0:08:37.72,0:08:39.20,Main,shira,0000,0000,0000,,I just got the urge to cut it.
+Dialogue: 0,0:08:39.20,0:08:40.13,Main,kima,0000,0000,0000,,Should I do it?
+Dialogue: 0,0:08:40.13,0:08:41.79,Main,yuzu,0000,0000,0000,,Kimari-san, please stand back.
+Dialogue: 0,0:08:41.79,0:08:43.08,Main,kima,0000,0000,0000,,Aw...
+Dialogue: 0,0:08:43.32,0:08:44.42,Main,hina,0000,0000,0000,,Up to where?
+Dialogue: 0,0:08:48.21,0:08:49.05,Main,hina,0000,0000,0000,,Seriously?
+Dialogue: 0,0:08:52.25,0:08:53.07,Main,shira,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:53.55,0:08:55.05,sign_12793_183_Good_work__Summe,,0000,0000,0000,,{\fad(650,1)}Farewell, {\c&HDDB780&}Summer Team{\c&H783DA0&}!
+Dialogue: 0,0:08:55.32,0:08:59.20,Main,toshi,0000,0000,0000,,You can't keep putting it off. \NShe's really going, you know...
+Dialogue: 0,0:09:02.06,0:09:03.48,sign_12793_183_Good_work__Summe,sign,0000,0000,0000,,{\fad(1,500)}Farewell, {\c&HDDB780&}Summer Team{\c&H783DA0&}!
+Dialogue: 0,0:09:02.06,0:09:04.69,sign_12997_187_Challenge_for_An,sign,0000,0000,0000,,{\fad(1,2500)}Challenge for Antarctica \NHigh School Girl Reporters
+Dialogue: 0,0:09:02.98,0:09:06.82,sign_13019_188_Remember_us_when,sign,0000,0000,0000,,{\fad(1500,1)}Remember us when you're home
+Dialogue: 0,0:09:04.50,0:09:05.45,Main,kana,0000,0000,0000,,There.
+Dialogue: 0,0:09:07.90,0:09:09.83,Main,yuzu,0000,0000,0000,,Is this flag handmade?
+Dialogue: 0,0:09:09.83,0:09:11.40,Main,kana,0000,0000,0000,,The guests of honor are here.
+Dialogue: 0,0:09:11.40,0:09:12.48,Main,kana,0000,0000,0000,,Come on, line up here!
+Dialogue: 0,0:09:12.48,0:09:13.60,Main,all,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:18.03,0:09:18.65,Main,kana,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:24.67,0:09:26.92,Main,shira,0000,0000,0000,,Well? Does it look good on me?
+Dialogue: 0,0:09:30.19,0:09:31.68,Main,gin,0000,0000,0000,,You really are your mother's daughter.
+Dialogue: 0,0:09:32.47,0:09:34.36,Main,gin,0000,0000,0000,,You look just like her when you smile.
+Dialogue: 0,0:09:34.93,0:09:36.47,Main,hona,0000,0000,0000,,What happened? Broken heart?
+Dialogue: 0,0:09:36.47,0:09:37.56,Main,kima,0000,0000,0000,,No.
+Dialogue: 0,0:09:37.56,0:09:39.75,Main,hina,0000,0000,0000,,But maybe, in a way...
+Dialogue: 0,0:09:39.75,0:09:40.75,Main,hona,0000,0000,0000,,In a way?
+Dialogue: 0,0:09:40.75,0:09:41.81,Main,yume,0000,0000,0000,,Use your imagination.
+Dialogue: 0,0:09:41.81,0:09:44.06,Main,hona,0000,0000,0000,,I don't get it!
+Dialogue: 0,0:09:44.98,0:09:48.96,Main,kana,0000,0000,0000,,Normally, we'd be changing \Nplaces with the winter team,
+Dialogue: 0,0:09:48.96,0:09:51.07,Main,kana,0000,0000,0000,,but there's no one swapping in this time,
+Dialogue: 0,0:09:51.07,0:09:53.61,Main,kana,0000,0000,0000,,so it's just a farewell party \Nfor the departing summer team.
+Dialogue: 0,0:09:54.10,0:09:55.34,Main,kana,0000,0000,0000,,Well, Captain?
+Dialogue: 0,0:10:00.28,0:10:02.25,Main,gin,0000,0000,0000,,You've done an excellent job, everyone.
+Dialogue: 0,0:10:02.81,0:10:06.96,Main,gin,0000,0000,0000,,This morning, the weather is nice. \NIt's an excellent morning for a departure.
+Dialogue: 0,0:10:08.41,0:10:11.49,Main,gin,0000,0000,0000,,In particular, I'd like to talk about
+Dialogue: 0,0:10:11.49,0:10:14.74,Main,gin,0000,0000,0000,,Japan's first high school-aged \NAntarctic research team members.
+Dialogue: 0,0:10:15.44,0:10:17.77,Main,gin,0000,0000,0000,,This was a major experiment.
+Dialogue: 0,0:10:18.41,0:10:20.42,Main,gin,0000,0000,0000,,I'm sure they were all nervous.
+Dialogue: 0,0:10:20.94,0:10:23.75,Main,gin,0000,0000,0000,,We were all very, very nervous, too.
+Dialogue: 0,0:10:25.19,0:10:29.92,Main,gin,0000,0000,0000,,But they did an excellent \Njob as expedition members.
+Dialogue: 0,0:10:30.36,0:10:32.41,Main,gin,0000,0000,0000,,The male team members' internal wishing
+Dialogue: 0,0:10:32.41,0:10:36.08,Main,gin,0000,0000,0000,,for them to stay has been \Nso loud, it's audible.
+Dialogue: 0,0:10:37.13,0:10:40.85,Main,gin,0000,0000,0000,,But they are going home.
+Dialogue: 0,0:10:41.49,0:10:42.83,Main,gin,0000,0000,0000,,It's time to give up on them.
+Dialogue: 0,0:10:46.74,0:10:47.83,Main,gin,0000,0000,0000,,Lastly...
+Dialogue: 0,0:10:51.12,0:10:52.68,Main,gin,0000,0000,0000,,Thank you for everything.
+Dialogue: 0,0:10:53.71,0:10:58.70,Main,gin,0000,0000,0000,,Even after you go home, I hope \Nyou'll occasionally think of us,
+Dialogue: 0,0:10:58.70,0:11:04.14,Main,gin,0000,0000,0000,,here in the darkness, far over the horizon, \Nsilently lasting through the winter.
+Dialogue: 0,0:11:05.52,0:11:08.24,Main,gin,0000,0000,0000,,Let's meet again here some day.
+Dialogue: 0,0:11:16.63,0:11:19.15,Main,kana,0000,0000,0000,,Now, as a representative of the summer team,
+Dialogue: 0,0:11:19.15,0:11:20.81,Main,kana,0000,0000,0000,,Kobuchizawa Shirase-san.
+Dialogue: 0,0:11:21.40,0:11:22.28,Main,shira,0000,0000,0000,,Yes ma'am.
+Dialogue: 0,0:11:27.52,0:11:28.47,Main,shira,0000,0000,0000,,Everyone.
+Dialogue: 0,0:11:29.59,0:11:31.05,Main,shira,0000,0000,0000,,Good morning.
+Dialogue: 0,0:11:33.08,0:11:34.96,Main,shira,0000,0000,0000,,As you all know,
+Dialogue: 0,0:11:35.44,0:11:38.55,Main,shira,0000,0000,0000,,my mother was a member of \Nyour Antarctic expedition.
+Dialogue: 0,0:11:39.54,0:11:44.51,Main,shira,0000,0000,0000,,She loved Antarctica, and left \Nour house in her obsession.
+Dialogue: 0,0:11:45.04,0:11:46.17,Main,shira,0000,0000,0000,,When I looked at her,
+Dialogue: 0,0:11:46.17,0:11:49.78,Main,shira,0000,0000,0000,,to be honest, it was hard for me to have \Npositive feelings about Antarctica.
+Dialogue: 0,0:11:50.58,0:11:56.19,Main,shira,0000,0000,0000,,I think wanting to change that \Nfeeling was the reason I came here.
+Dialogue: 0,0:11:59.89,0:12:01.87,Main,shira,0000,0000,0000,,A place further than the universe.
+Dialogue: 0,0:12:02.43,0:12:08.53,Main,shira,0000,0000,0000,,Mom... rather, my mother called it that.
+Dialogue: 0,0:12:09.82,0:12:12.32,Main,shira,0000,0000,0000,,It's a place that strips everything bare.
+Dialogue: 0,0:12:13.04,0:12:16.77,Main,shira,0000,0000,0000,,Time, life, hearts...
+Dialogue: 0,0:12:17.59,0:12:21.24,Main,shira,0000,0000,0000,,It's a place with nothing to \Nprotect you and nowhere to hide.
+Dialogue: 0,0:12:22.38,0:12:26.04,Main,shira,0000,0000,0000,,It's an environment that exposes \Neverything we're embarrassed about,
+Dialogue: 0,0:12:26.04,0:12:29.07,Main,shira,0000,0000,0000,,and everything we want to hide,
+Dialogue: 0,0:12:29.44,0:12:33.87,Main,shira,0000,0000,0000,,and so naked and crying, we're forced to \Ncome face-to-face with who we really are.
+Dialogue: 0,0:12:34.78,0:12:38.17,Main,shira,0000,0000,0000,,We've overcome trial after trial together.
+Dialogue: 0,0:12:39.45,0:12:41.07,Main,shira,0000,0000,0000,,And from that, I think I now understand...
+Dialogue: 0,0:12:42.80,0:12:48.80,Main,shira,0000,0000,0000,,the reason my mother loved this place was \Nnot just this scenery, this sky, this wind,
+Dialogue: 0,0:12:48.80,0:12:55.09,Main,shira,0000,0000,0000,,but also the time she spent here, \Novercoming things with her team.
+Dialogue: 0,0:12:56.29,0:12:58.00,Main,shira,0000,0000,0000,,She loved this atmosphere,
+Dialogue: 0,0:12:58.00,0:13:00.84,Main,shira,0000,0000,0000,,where you have no choice but to \Novercome things with your team,
+Dialogue: 0,0:13:00.84,0:13:02.60,Main,shira,0000,0000,0000,,with nothing else to get in the way.
+Dialogue: 0,0:13:04.10,0:13:06.08,Main,shira,0000,0000,0000,,I love this place.
+Dialogue: 0,0:13:06.67,0:13:08.10,Main,shira,0000,0000,0000,,Good luck over the winter.
+Dialogue: 0,0:13:09.35,0:13:12.23,Main,shira,0000,0000,0000,,I'll be back again, I swear.
+Dialogue: 0,0:13:26.24,0:13:27.23,Main,kana,0000,0000,0000,,Are you crying?
+Dialogue: 0,0:13:44.80,0:13:45.51,Main,yumi,0000,0000,0000,,Here.
+Dialogue: 0,0:13:46.84,0:13:48.22,Main,kima,0000,0000,0000,,You made these for us?
+Dialogue: 0,0:13:48.42,0:13:50.06,Main,yumi,0000,0000,0000,,With leftovers, of course.
+Dialogue: 0,0:13:50.06,0:13:51.12,Main,nobu,0000,0000,0000,,Um...
+Dialogue: 0,0:13:52.31,0:13:54.36,Main,hina,0000,0000,0000,,Wow, thanks...
+Dialogue: 0,0:13:54.61,0:13:58.36,Main,nobu,0000,0000,0000,,Could you take this back to Yu-kun? \NHe's waiting in Japan?
+Dialogue: 0,0:13:59.68,0:14:00.61,Main,hina,0000,0000,0000,,What?
+Dialogue: 0,0:14:00.61,0:14:02.47,Main,hona,0000,0000,0000,,Don't go!
+Dialogue: 0,0:14:02.47,0:14:03.99,Main,shira,0000,0000,0000,,You smell of alcohol...
+Dialogue: 0,0:14:03.99,0:14:06.13,Main,hona,0000,0000,0000,,Of course I do! I've been drinking!
+Dialogue: 0,0:14:06.13,0:14:08.49,Main,yume,0000,0000,0000,,Don't worry. Have this.
+Dialogue: 0,0:14:10.71,0:14:12.72,Main,yuzu,0000,0000,0000,,Shirase-san, thank her! Thank her!
+Dialogue: 0,0:14:12.72,0:14:14.62,Main,toshi,0000,0000,0000,,Just go already!
+Dialogue: 0,0:14:17.00,0:14:20.13,sign_20548_268_CD_Cover,shira,0000,0000,0000,,The Follow Backs Won't Stop
+Dialogue: 0,0:14:18.36,0:14:20.13,Main,kima,0000,0000,0000,,So that's your signature, Yuzuki-chan?
+Dialogue: 0,0:14:20.13,0:14:21.50,Main,shira,0000,0000,0000,,Looks like an idol's.
+Dialogue: 0,0:14:21.50,0:14:23.26,Main,hina,0000,0000,0000,,How many of these did you sell?
+Dialogue: 0,0:14:23.26,0:14:25.64,Main,yuzu,0000,0000,0000,,Would you please cease your babbling?
+Dialogue: 0,0:14:25.92,0:14:26.68,Main,yuzu,0000,0000,0000,,Here.
+Dialogue: 0,0:14:30.21,0:14:31.03,Main,dai,0000,0000,0000,,Um...
+Dialogue: 0,0:14:31.52,0:14:32.39,Main,yuzu,0000,0000,0000,,Yes?
+Dialogue: 0,0:14:32.61,0:14:35.04,Main,dai,0000,0000,0000,,I'm looking forward to your drama.
+Dialogue: 0,0:14:35.04,0:14:36.90,Main,dai,0000,0000,0000,,Though I won't get to see \Nit until I get back...
+Dialogue: 0,0:14:38.78,0:14:39.64,Main,yuzu,0000,0000,0000,,Okay...
+Dialogue: 0,0:14:44.33,0:14:45.80,Main,,0000,0000,0000,,{\a6}How'd it go?
+Dialogue: 0,0:14:44.91,0:14:48.66,Main,yuzu,0000,0000,0000,,There really are people \Nlooking forward to it...
+Dialogue: 0,0:14:48.87,0:14:49.89,Main,hina,0000,0000,0000,,Of course there are!
+Dialogue: 0,0:14:49.89,0:14:51.04,Main,kima,0000,0000,0000,,You'd better work hard!
+Dialogue: 0,0:14:53.00,0:14:53.77,Main,yuzu,0000,0000,0000,,Okay!
+Dialogue: 0,0:15:00.10,0:15:01.86,Main,kana,0000,0000,0000,,It's time to go!
+Dialogue: 0,0:15:02.44,0:15:03.89,Main,all,0000,0000,0000,,Okay!
+Dialogue: 0,0:15:05.93,0:15:06.93,Main,kana,0000,0000,0000,,Take care.
+Dialogue: 0,0:15:06.93,0:15:08.43,Main,all,0000,0000,0000,,Thank you!
+Dialogue: 0,0:15:08.89,0:15:10.55,Main,kana,0000,0000,0000,,Actually, I should be thanking you...
+Dialogue: 0,0:15:10.92,0:15:14.07,Main,kana,0000,0000,0000,,Do you remember what we talked \Nabout in the van that first day?
+Dialogue: 0,0:15:15.48,0:15:20.19,Main,kana,0000,0000,0000,,Talking with you then really \Ngave me a lot of courage.
+Dialogue: 0,0:15:20.97,0:15:24.91,Main,kana,0000,0000,0000,,When I saw your faces, I realized I \Ncouldn't let our plans be canceled.
+Dialogue: 0,0:15:24.91,0:15:26.74,Main,yuzu,0000,0000,0000,,You were thinking they might?
+Dialogue: 0,0:15:26.74,0:15:27.78,Main,kana,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:27.78,0:15:31.89,Main,kana,0000,0000,0000,,For adults, there's a moment \Nwhen you shouldn't be honest.
+Dialogue: 0,0:15:34.71,0:15:37.21,Main,shira,0000,0000,0000,,Take care of the captain.
+Dialogue: 0,0:15:37.79,0:15:38.65,Main,kana,0000,0000,0000,,You heard her.
+Dialogue: 0,0:15:38.65,0:15:40.04,Main,gin,0000,0000,0000,,Well, listen to you.
+Dialogue: 0,0:15:41.15,0:15:42.57,Main,kana,0000,0000,0000,,Go on, get in!
+Dialogue: 0,0:15:42.57,0:15:44.05,Main,all,0000,0000,0000,,Okay!
+Dialogue: 0,0:15:44.59,0:15:46.07,Main,shira,0000,0000,0000,,And take this.
+Dialogue: 0,0:15:49.00,0:15:52.76,Main,shira,0000,0000,0000,,I think my mother would be mad if you \Ndidn't let her stay for the winter.
+Dialogue: 0,0:15:54.68,0:15:55.69,Main,gin,0000,0000,0000,,But...
+Dialogue: 0,0:15:55.92,0:15:58.94,Main,shira,0000,0000,0000,,I don't need it anymore.
+Dialogue: 0,0:16:04.98,0:16:05.85,Main,gin,0000,0000,0000,,Understood.
+Dialogue: 0,0:16:08.24,0:16:09.18,Main,hina,0000,0000,0000,,Let's go.
+Dialogue: 0,0:16:43.72,0:16:44.99,Main,hona,0000,0000,0000,,They're gone.
+Dialogue: 0,0:16:47.14,0:16:49.71,Main,toshi,0000,0000,0000,,The average age here just jumped.
+Dialogue: 0,0:16:49.71,0:16:50.31,Main,toshi,0000,0000,0000,,Ouch!
+Dialogue: 0,0:16:50.31,0:16:53.24,Main,yumi,0000,0000,0000,,Well, we've got a lot of time ahead of us!
+Dialogue: 0,0:16:55.50,0:16:57.24,sign_24348_308_Inbox_Kobuchizaw,sign,0000,0000,0000,,Inbox\NKobuchizawa Shirase\N{\c&HC5A489&}Dear Mom\N{\c&H474D50&}Kobuchizawa Shirase\N{\c&HC5A489&}Dear Mom\N{\c&H474D50&}Kobuchizawa Shirase\N{\c&HC5A489&}Dear Mom
+Dialogue: 0,0:17:04.50,0:17:07.50,sign_24348_308_Inbox_Kobuchizaw,sign,0000,0000,0000,,Kobuchizawa Takako\NInbox (1483)\NSaved Drafts\NSent Mail\NTrash\NOutbox (1)
+Dialogue: 0,0:17:20.85,0:17:24.44,Main,shira,0000,0000,0000,,When we first came here, \Nit seemed so far away...
+Dialogue: 0,0:17:24.79,0:17:27.56,Main,hina,0000,0000,0000,,Well, that's what a journey is.
+Dialogue: 0,0:17:27.56,0:17:29.45,Main,yuzu,0000,0000,0000,,It's not over yet.
+Dialogue: 0,0:17:29.45,0:17:32.17,Main,yuzu,0000,0000,0000,,There's still the 60 degrees, \Nthe 50 degrees, the 40 degrees...
+Dialogue: 0,0:17:32.17,0:17:33.54,Main,kima,0000,0000,0000,,Screaming!
+Dialogue: 0,0:17:33.54,0:17:35.66,Main,yuzu,0000,0000,0000,,I'll probably throw up again.
+Dialogue: 0,0:17:35.66,0:17:36.98,Main,kima,0000,0000,0000,,It's okay.
+Dialogue: 0,0:17:36.98,0:17:41.19,Main,kima,0000,0000,0000,,Barfing and barfing, \Nthinking "I'm so sick, I'm gonna die..."
+Dialogue: 0,0:17:41.19,0:17:44.04,Main,hina,0000,0000,0000,,That's fine. That's part of the journey, too.
+Dialogue: 0,0:17:46.64,0:17:50.25,Main,yuzu,0000,0000,0000,,Do you think we've gotten a little stronger?
+Dialogue: 0,0:17:50.25,0:17:52.75,Main,shira,0000,0000,0000,,Or maybe we've gotten sloppier...
+Dialogue: 0,0:17:52.75,0:17:56.52,Main,hina,0000,0000,0000,,It's because everything is bigger here.
+Dialogue: 0,0:18:00.77,0:18:01.96,Main,yuzu,0000,0000,0000,,Is this what we're wearing?
+Dialogue: 0,0:18:01.96,0:18:04.65,Main,kima,0000,0000,0000,,It's the last one! \NWe need to make it special!
+Dialogue: 0,0:18:04.65,0:18:09.09,Main,shira,0000,0000,0000,,Let's see... This will be my final \Ncatchy, witty, sensational report...
+Dialogue: 0,0:18:09.09,0:18:11.53,Main,yuzu,0000,0000,0000,,Maybe you should put down the script?
+Dialogue: 0,0:18:11.53,0:18:13.28,Main,hina,0000,0000,0000,,Okay, let's go!
+Dialogue: 0,0:18:13.72,0:18:16.66,Main,shira,0000,0000,0000,,Wait! It's the last one! \NI need a little more time!
+Dialogue: 0,0:18:27.99,0:18:29.55,Main,kima,0000,0000,0000,,The aurora!
+Dialogue: 0,0:18:31.84,0:18:33.05,Main,yuzu,0000,0000,0000,,You're right!
+Dialogue: 0,0:18:33.05,0:18:35.02,Main,hina,0000,0000,0000,,Oh, no! I can't get it to show up!
+Dialogue: 0,0:18:35.02,0:18:36.84,Main,kima,0000,0000,0000,,It's okay.
+Dialogue: 0,0:18:37.55,0:18:39.73,Main,kima,0000,0000,0000,,If that happens once in a while.
+Dialogue: 0,0:19:05.00,0:19:07.00,sign_24348_308_Inbox_Kobuchizaw,sign,0000,0000,0000,,{\fs14}Mail          Now\NMom\N{\fs12}The real thing is ten thousand times more be
+Dialogue: 0,0:19:10.37,0:19:11.58,Main,shira,0000,0000,0000,,Mom...
+Dialogue: 0,0:19:12.38,0:19:13.30,Main,kima,0000,0000,0000,,No way!
+Dialogue: 0,0:19:13.30,0:19:17.55,sign_27652_336_Mail__________To,sign,0000,0000,0000,,Mail          Now\NMom\NThe real thing is ten thousand times more beautiful
+Dialogue: 0,0:19:26.50,0:19:27.72,Main,shira,0000,0000,0000,,I know.
+Dialogue: 0,0:19:44.75,0:19:45.58,Main,kima,0000,0000,0000,,That's it!
+Dialogue: 0,0:19:45.88,0:19:48.26,Main,kima,0000,0000,0000,,That's the South Star! I'm calling it!
+Dialogue: 0,0:19:48.26,0:19:50.91,Main,shira,0000,0000,0000,,I don't think it's that bright...
+Dialogue: 0,0:21:19.97,0:21:20.59,Main,kima,0000,0000,0000,,Hey.
+Dialogue: 0,0:21:21.88,0:21:23.24,Main,kima,0000,0000,0000,,Let's say goodbye here.
+Dialogue: 0,0:21:24.22,0:21:25.14,Main,shira,0000,0000,0000,,Kimari...
+Dialogue: 0,0:21:25.93,0:21:29.21,Main,yuzu,0000,0000,0000,,Does that mean we won't \Nbe together anymore?
+Dialogue: 0,0:21:29.21,0:21:33.67,Main,kima,0000,0000,0000,,The opposite. It means that even when \Nwe're not together, we can be together.
+Dialogue: 0,0:21:33.67,0:21:36.90,Main,kima,0000,0000,0000,,After all... we're still who we are.
+Dialogue: 0,0:21:37.25,0:21:40.59,Main,yuzu,0000,0000,0000,,Who's that a quote from? Hinata-san?
+Dialogue: 0,0:21:40.59,0:21:41.91,Main,hina,0000,0000,0000,,It's not bad, though.
+Dialogue: 0,0:21:42.36,0:21:43.31,Main,kima,0000,0000,0000,,Right?
+Dialogue: 0,0:21:43.99,0:21:46.89,Main,shira,0000,0000,0000,,We still have a lot we have to do, right?
+Dialogue: 0,0:21:46.89,0:21:50.64,Main,kima,0000,0000,0000,,Yeah. When we're done doing that, \Nlet's go on another journey.
+Dialogue: 0,0:21:50.91,0:21:52.01,Main,kima,0000,0000,0000,,The four of us.
+Dialogue: 0,0:21:52.01,0:21:53.59,Main,kima,0000,0000,0000,,The four of us, yes.
+Dialogue: 0,0:21:53.59,0:21:57.00,Main,kima,0000,0000,0000,,Well, Shirase still has her million yen. \NI've got my savings, too...
+Dialogue: 0,0:21:57.00,0:21:58.04,Main,shira,0000,0000,0000,,That's gone now.
+Dialogue: 0,0:21:59.55,0:22:00.74,Main,shira,0000,0000,0000,,I left it there.
+Dialogue: 0,0:22:02.09,0:22:06.35,sign_31708_357_Treasure,sign,0000,0000,0000,,{\fad(1000,1)}Treasure
+Dialogue: 0,0:22:03.37,0:22:05.37,Main,shira,0000,0000,0000,,In the place further than the universe.
+Dialogue: 0,0:22:11.75,0:22:14.86,Italics,kima,0000,0000,0000,,When you go on a journey, there are \Nthings you learn for the first time.
+Dialogue: 0,0:22:16.21,0:22:20.36,Italics,shira,0000,0000,0000,,That this scenery is indispensable.
+Dialogue: 0,0:22:21.05,0:22:25.37,Italics,yuzu,0000,0000,0000,,That people change, the world changes, \Neven when you're not looking.
+Dialogue: 0,0:22:26.39,0:22:30.87,Italics,hina,0000,0000,0000,,That there's no such \Nthing as a "nothing" day.
+Dialogue: 0,0:22:32.02,0:22:34.37,Italics,kima,0000,0000,0000,,That your house has its own smell.
+Dialogue: 0,0:22:36.69,0:22:40.13,Italics,shira,0000,0000,0000,,If you want to learn those things, \Nyou've got to get moving.
+Dialogue: 0,0:22:41.27,0:22:46.14,Italics,shira,0000,0000,0000,,Then just keep moving until you see \Nsomething you've never seen before.
+Dialogue: 0,0:22:46.13,0:22:47.88,sign_32755_366_Missing_sign,,0000,0000,0000,,Offerings
+Dialogue: 0,0:22:46.88,0:22:50.39,Italics,hina,0000,0000,0000,,No matter how far you go, \Nthe world is so big...
+Dialogue: 0,0:22:50.58,0:22:53.55,Italics,hina,0000,0000,0000,,You'll definitely find something new.
+Dialogue: 0,0:22:55.65,0:22:58.74,Italics,yuzu,0000,0000,0000,,It's a little scary, \Nbut I know you can do it.
+Dialogue: 0,0:23:00.16,0:23:01.12,Italics,kima,0000,0000,0000,,Because...
+Dialogue: 0,0:23:12.62,0:23:13.28,sign_33390_372_Missing,sign,0000,0000,0000,,Off to the airport
+Dialogue: 0,0:23:12.62,0:23:13.28,sign_33390_373_Missing,sign,0000,0000,0000,,Almost home
+Dialogue: 0,0:23:12.62,0:23:13.28,sign_33390_374_I_m_back_,sign,0000,0000,0000,,I'm back!
+Dialogue: 0,0:23:12.62,0:23:19.62,sign_33390_371_Megu_chan,sign,0000,0000,0000,,Megu-chan
+Dialogue: 0,0:23:13.28,0:23:17.16,sign_33390_374_I_m_back_ - Copy,sign,0000,0000,0000,,I'm back!
+Dialogue: 0,0:23:13.28,0:23:17.16,sign_33406_375_Oh__too_bad_,sign,0000,0000,0000,,I'm home—
+Dialogue: 0,0:23:17.20,0:23:18.66,sign_33500_376_Right_now__I_m_i,sign,0000,0000,0000,,Oh, too bad.
+Dialogue: 0,0:23:20.87,0:23:22.67,sign_33588_377_Megu_chan,,0000,0000,0000,,Megu-chan
+Dialogue: 0,0:23:22.67,0:23:24.88,sign_33631_378_Right_now__I_m_i,sign,0000,0000,0000,,Right now, I'm in the Arctic
+Dialogue: 0,0:23:28.85,0:23:29.95,Main,kima,0000,0000,0000,,Why?
+Dialogue: 0,0:23:30.95,0:23:32.12,Main,kima,0000,0000,0000,,Why?
+Dialogue: 0,0:23:32.63,0:23:36.39,Italics,kima,0000,0000,0000,,People who feel the same way \Nwill find you right away.
+Dialogue: 0,0:23:37.14,0:23:39.35,Main,kima,0000,0000,0000,,Why?!
+Dialogue: 0,0:23:40.94,0:23:45.02,sign_34069_383_Missing_Sign,,0000,0000,0000,,We'll Go On Another Journey Someday

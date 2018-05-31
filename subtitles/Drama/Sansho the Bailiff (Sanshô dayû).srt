@@ -1,0 +1,1399 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]16,[FONT]Arial
+00:00:11.80,00:00:16.23
+Sansho the Bailiff
+
+00:00:20.80,00:00:23.15
+Produced by Masaichi Nagata
+
+00:00:23.52,00:00:26.08
+Based on a story by Ogai Mori
+
+00:00:26.24,00:00:27.71
+Screenplay by Fuji Yahiro & Yoshikata Yoda
+
+00:00:28.96,00:00:31.52
+Director of Photography Kazuo Miyagawa
+
+00:00:31.68,00:00:33.39
+Art Direction: Kisaku Ito
+
+00:00:34.40,00:00:36.96
+Music: Fumio Hayasaka
+
+00:00:54.48,00:00:55.99
+The Cast...
+
+00:00:56.72,00:00:59.60
+Tamaki : Kinuyo Tanaka
+
+00:00:59.76,00:01:02.80
+Zushio, his son : Yoshiaki Hanayagi
+
+00:01:03.64,00:01:06.36
+Anju, his daughter : Kyoko Kagawa
+
+00:01:06.52,00:01:09.87
+Sansho, The Bailiff : Eitaro Shindo
+
+00:01:10.52,00:01:13.56
+Taro, his son : Akitake Kono
+
+00:01:13.72,00:01:16.08
+Masauji Taira : Masao Shimizu
+
+00:01:16.24,00:01:19.96
+Prime Minister Fujiwara : Ken Mitsuda
+
+00:01:20.76,00:01:23.96
+Norimuna, The Judge : Kazukimi Okuni
+
+00:01:24.20,00:01:27.00
+Kohagi : Yôko Kosono
+
+00:01:27.54,00:01:30.600
+Namiji, The Slave : Noriko Tachibana
+
+00:01:40.88,00:01:43.99
+Directed by Kenji Mizoguchi
+
+00:01:51.96,00:02:01.55
+The origin of this legend of Sanshô dayû[br](The Bailiff) goes back to medieval times.
+
+00:02:02.55,00:02:09.00
+Japan had not yet emerged from the Dark[br]Ages and mankind had yet to awaken as human beings.
+
+00:02:09.80,00:02:15.67
+It has been retold by the people for centuries...
+
+00:02:16.00,00:02:21.00
+and is treasured today as one of the[br]epic folk tales of our history.
+
+00:02:53.04,00:02:55.39
+- Zushio, be careful.[br]- Okay
+
+00:03:11.00,00:03:13.53
+- Mother![br]- What is it, dear?
+
+00:03:14.28,00:03:18.79
+How did it happen that Father[br]ended up in faraway Tsukushi?
+
+00:03:23.40,00:03:26.11
+He's a great man, isn't he?
+
+00:03:27.00,00:03:31.19
+Certainly. He is a man of justice,[br]a fine man.
+
+00:03:31.40,00:03:32.95
+I thought so!
+
+00:03:33.60,00:03:35.31
+Father!
+
+00:03:48.00,00:03:51.00
+Zushio-sama! Zushio-sama!
+
+00:03:51.72,00:03:53.99
+We want to see the Master!
+
+00:04:03.56,00:04:05.91
+Don't be wild! Step back!
+
+00:04:06.24,00:04:08.23
+We're not trying to do anything wild.
+
+00:04:08.34,00:04:09.63
+We came to appeal.
+
+00:04:09.84,00:04:11.95
+Then calm down!
+
+00:04:12.20,00:04:14.87
+You're the General?
+
+00:04:15.36,00:04:17.31
+Master, please show us your face!
+
+00:04:17.52,00:04:19.79
+We're all here for you!
+
+00:04:20.04,00:04:21.15
+What good will that do?
+
+00:04:21.32,00:04:24.27
+We'll have Master's transfer cancelled!
+
+00:04:24.52,00:04:27.47
+Transfer is a pretence![br]It means exile!
+
+00:04:27.87,00:04:29.47
+What kind of nonsense is that?
+
+00:04:30.00,00:04:33.87
+They punished him because of us![br]We can't be silent!
+
+00:04:34.37,00:04:36.30
+Let's all go to the General's office!
+
+00:04:37.44,00:04:38.39
+Wait, hold it!
+
+00:04:38.60,00:04:42.27
+I know you love our Master.
+
+00:04:42.48,00:04:44.51
+But this would be against his wish!
+
+00:04:45.44,00:04:47.23
+Be sensible and listen to me.
+
+00:04:47.76,00:04:51.67
+For thirteen years,[br]famine has caused you suffering.
+
+00:04:52.48,00:04:56.91
+To live,[br]you need every working man here.
+
+00:04:58.00,00:04:59.79
+That was why the Master[br]opposed the General's demand...
+
+00:05:00.04,00:05:02.71
+for more soldiers,[br]and more rice to tax.
+
+00:05:02.92,00:05:06.03
+His attempt to help you was overruled.
+
+00:05:08.04,00:05:10.39
+If you make a false step now,[br]you too will be punished!
+
+00:05:10.60,00:05:12.39
+That's right!
+
+00:05:12.60,00:05:14.39
+If you riot, he'll be blamed!
+
+00:05:16.48,00:05:20.83
+He'll be accused of rebellion!
+
+00:05:21.60,00:05:24.03
+So return to your homes!
+
+00:05:30.16,00:05:34.43
+You're too lenient![br]This is a revolt!
+
+00:05:34.92,00:05:36.31
+Kill them!
+
+00:05:36.52,00:05:37.71
+Madness!
+
+00:05:37.92,00:05:40.11
+I prohibit such injustice!
+
+00:05:43.04,00:05:45.99
+What insolence![br]You are no longer Governor here!
+
+00:05:46.84,00:05:48.99
+Do not interfere again!
+
+00:06:46.80,00:06:48.27
+Master Zushio!
+
+00:06:51.80,00:06:52.95
+It's cooked nicely.
+
+00:07:18.76,00:07:21.63
+I'm sorry I've caused you[br]trouble, Uncle.
+
+00:07:21.80,00:07:23.83
+You've involved us all.
+
+00:07:24.04,00:07:26.99
+Aren't you sorry for[br]your wife and children?
+
+00:07:28.28,00:07:32.17
+Peasants are to be pitied as well.
+
+00:07:32.25,00:07:33.27
+What nonsense!
+
+00:07:33.84,00:07:36.95
+Peasants are peasants!
+
+00:07:37.80,00:07:39.51
+You fool!
+
+00:07:51.24,00:07:56.75
+- Take the children to your parents' home.[br]- Yes.
+
+00:07:58.12,00:08:03.61
+Tell them... I'm sorry that[br]they trusted a man like me.
+
+00:08:06.96,00:08:12.63
+Zushio. Will you become[br]a stubborn man like me?
+
+00:08:14.52,00:08:19.64
+You may be too young to understand.[br]But listen.
+
+00:08:20.40,00:08:24.91
+Without mercy,[br]a man is not a human being.
+
+00:08:25.32,00:08:28.83
+Be hard on yourself,[br]but merciful to others.
+
+00:08:29.08,00:08:34.91
+Men are created equal.[br]Everyone is entitled to happiness.
+
+00:08:55.20,00:08:57.99
+Our family treasure..
+
+00:08:58.44,00:09:01.31
+The Goddess of Mercy.
+
+00:09:02.56,00:09:07.47
+Keep it as a remembrance of[br]my principles...and of me.
+
+00:09:10.40,00:09:12.51
+Now repeat what I've just told you.
+
+00:09:12.88,00:09:17.07
+Without mercy,[br]a man is not a human being.
+
+00:09:17.40,00:09:21.39
+Be hard on yourself,[br]but merciful to others.
+
+00:09:34.64,00:09:38.31
+Men are created equal.
+
+00:09:39.60,00:09:42.43
+Everyone is entitled to happiness.
+
+00:09:46.16,00:09:50.23
+- Do you remember father's face?[br]- Yes, Mother.
+
+00:09:51.96,00:09:56.03
+- And his teachings too?[br]- Yes, Mother.
+
+00:10:30.28,00:10:34.15
+Zushio, you have to say[br]goodbye to Father now.
+
+00:10:36.60,00:10:40.11
+You will be a lovely lady, Anju.
+
+00:10:43.20,00:10:45.79
+- Take care of your sister and mother.[br]- Yes, Father.
+
+00:10:56.20,00:10:58.55
+We're not parting forever.
+
+00:10:58.96,00:11:01.63
+Be hopeful and brave.
+
+00:11:05.96,00:11:10.07
+I never dreamed that I might[br]have to leave this province.
+
+00:11:24.16,00:11:27.19
+Governor![br]Master!
+
+00:11:27.56,00:11:30.83
+Master, don't leave!
+
+00:12:42.24,00:12:44.03
+Come on, let's hurry!
+
+00:12:45.04,00:12:47.71
+We must find an inn for the night.
+
+00:12:56.80,00:13:02.95
+We are travelling, children,[br]the road that Father walked.
+
+00:13:06.95,00:13:07.95
+Father...
+
+00:13:19.95,00:13:20.95
+My lady!
+
+00:13:22.55,00:13:23.35
+My lady!
+
+00:13:28.80,00:13:32.55
+No lodging is available in this area.
+
+00:13:32.80,00:13:34.83
+Why is that?
+
+00:13:35.44,00:13:39.03
+Bandits and slavers frequent this place,[br]posing as travellers.
+
+00:13:39.20,00:13:42.23
+They've been kidnapping[br]women and children.
+
+00:13:42.68,00:13:47.27
+So the Governor has prohibited[br]accommodating travellers.
+
+00:13:48.48,00:13:50.51
+Bandits and slave dealers?
+
+00:14:03.72,00:14:05.91
+What trouble we're in.
+
+00:14:06.24,00:14:07.95
+What can we do?
+
+00:14:08.16,00:14:12.67
+Let's find a place to camp.[br]We have no other choice.
+
+00:14:13.04,00:14:15.15
+Camp, ma'am?
+
+00:14:15.32,00:14:20.91
+Yes. Let's build a[br]shelter before it gets dark.
+
+00:14:22.12,00:14:25.71
+Zushio, Anju, will you help us?
+
+00:15:05.20,00:15:07.39
+- Here you go.[br]- Mother, do you need more?
+
+00:15:08.08,00:15:11.83
+Yes, get more thatch[br]and soft grass for our beds.
+
+00:15:14.20,00:15:16.15
+- Come, Anju.[br]- Yes, Brother.
+
+00:15:52.16,00:15:54.51
+This branch, Brother.
+
+00:15:54.96,00:15:57.07
+You can't break it by yourself, Anju.
+
+00:16:09.88,00:16:11.43
+Mother is calling us.
+
+00:16:11.72,00:16:13.99
+- Come on, it's just the the wind.[br]- No, it's Mother!
+
+00:16:17.32,00:16:19.43
+Anju
+
+00:16:19.88,00:16:22.63
+Come back here quickly!
+
+00:16:25.48,00:16:27.43
+Zushio!
+
+00:16:45.12,00:16:47.39
+You two must be famished.
+
+00:16:47.68,00:16:50.35
+This should help some.
+
+00:16:55.84,00:16:57.15
+What's that?
+
+00:16:57.48,00:16:59.75
+Wolves, ma'am.
+
+00:17:00.44,00:17:04.71
+Don't worry.[br]They won't come near a fire.
+
+00:17:05.20,00:17:07.63
+Stop worrying.[br]It's all right, dear.
+
+00:17:20.80,00:17:25.07
+I'm sorry we have no hot food.
+
+00:17:32.52,00:17:35.95
+I'll get some rice gruel[br]from a farmer.
+
+00:17:37.44,00:17:40.63
+And some bedding, if I can.
+
+00:17:43.60,00:17:45.71
+I'll be right back.
+
+00:17:46.48,00:17:48.27
+I appreciate your effort.
+
+00:18:34.16,00:18:35.35
+Who is it?
+
+00:18:42.60,00:18:45.43
+What on earth are you doing here?
+
+00:18:47.76,00:18:49.63
+We are travellers.
+
+00:18:50.24,00:18:53.11
+We're here because[br]no lodging is available.
+
+00:18:54.84,00:18:57.47
+Oh, I'm so sorry.
+
+00:18:58.12,00:19:02.31
+The cold night wind[br]is harmful to children.
+
+00:19:05.32,00:19:07.51
+Come to my place.
+
+00:19:07.72,00:19:10.28
+I can give you some hot gruel.
+
+00:19:10.52,00:19:15.95
+I appreciate your kindness.[br]But I don't want to involve you.
+
+00:19:16.20,00:19:19.07
+Just come quietly.
+
+00:19:19.36,00:19:23.47
+The authorities will overlook us,[br]if it's only for a night, I'm sure.
+
+00:19:23.76,00:19:25.71
+Come, quickly.
+
+00:19:25.88,00:19:27.67
+Thank you.
+
+00:19:28.08,00:19:30.51
+But there is one more person with us.
+
+00:19:30.68,00:19:32.63
+Another person?
+
+00:19:33.40,00:19:37.43
+Is this person...[br]a man or a woman?
+
+00:19:37.72,00:19:40.91
+A woman, the children's nurse.
+
+00:19:42.52,00:19:47.91
+Then it's all right.[br]Imagine a man lodging with a priestess!
+
+00:19:51.32,00:19:55.99
+I was able to get straw mats,[br]but no food, my lady.
+
+00:19:56.32,00:19:57.79
+That's all right.
+
+00:19:57.96,00:20:02.79
+The priestess has generously[br]offered us shelter.
+
+00:20:05.16,00:20:07.11
+- Oh, really?[br]- All right, let's go.
+
+00:20:07.48,00:20:08.87
+Thank you.
+
+00:20:09.04,00:20:11.87
+We are so very grateful to you.
+
+00:20:20.12,00:20:22.79
+How can I ever thank you enough!
+
+00:20:23.00,00:20:24.55
+No problem.
+
+00:20:24.84,00:20:28.51
+Better than wasting my time[br]serving God...
+
+00:20:29.20,00:20:32.23
+Even my family can no longer help us.
+
+00:20:33.70,00:20:35.23
+Hard times...
+
+00:20:40.32,00:20:45.67
+You spent six years at your[br]brother's house in Iwashiro?
+
+00:20:46.22,00:20:47.77
+That's right.
+
+00:20:49.24,00:20:53.59
+Even brothers and sisters,[br]when they get married...
+
+00:20:53.92,00:20:58.35
+Thanks to your meal,[br]they could fall asleep.
+
+00:21:05.40,00:21:08.59
+Do you plan to go by road[br]in the morning?
+
+00:21:10.00,00:21:10.70
+Yes.
+
+00:21:10.84,00:21:13.95
+Go by sea.[br]By land it's impossible.
+
+00:21:14.40,00:21:17.35
+Huge waves snatch the travellers[br]away from the shore road.
+
+00:21:17.52,00:21:21.19
+And the hills are infested with bandits.
+
+00:21:21.52,00:21:23.55
+Is the sea quite safe?
+
+00:21:23.80,00:21:26.95
+Certainly.[br]I know reliable boatmen.
+
+00:21:28.06,00:21:30.57
+- I'll ask them for you.[br]- Thank you.
+
+00:21:35.96,00:21:41.27
+I made the arrangements while you slept.
+
+00:21:42.36,00:21:45.19
+How can we thank you?
+
+00:21:45.36,00:21:46.87
+Not at all.
+
+00:22:06.28,00:22:10.87
+Here they are.[br]Please take good care of them.
+
+00:22:13.52,00:22:15.43
+Come this way.
+
+00:22:33.20,00:22:35.07
+Please get on the boat.
+
+00:22:35.32,00:22:37.88
+I'll never forget your kindness.
+
+00:22:38.28,00:22:41.11
+Zushio, Anju, thank the lady.
+
+00:22:41.28,00:22:43.47
+- Thank you, ma'am.[br]- Farewell.
+
+00:22:44.12,00:22:45.67
+Farewell.
+
+00:22:45.84,00:22:49.75
+I'll be praying for your safe voyage.
+
+00:22:51.00,00:22:53.27
+Come, lady, you are first.
+
+00:23:04.24,00:23:07.11
+Miss Anju, Master Zushio. Hurry.
+
+00:23:07.28,00:23:09.55
+Get back, I'll help the children.
+
+00:23:10.60,00:23:13.29
+The children will ride this boat.[br]Sailing is faster with fewer people.
+
+00:23:13.48,00:23:17.23
+That won't do.[br]We must all ride in the same boat.
+
+00:23:18.52,00:23:21.08
+- Please![br]- Shut up!
+
+00:23:22.56,00:23:26.23
+Priestess,[br]are you sure they're reliable?
+
+00:23:26.44,00:23:28.55
+You'll be taken together[br]to the right place!
+
+00:23:39.24,00:23:41.35
+I'll give you all the money.[br]Please go back.
+
+00:23:41.60,00:23:43.79
+Please row back. Please!
+
+00:23:52.92,00:23:55.48
+Row back. Please!
+
+00:24:01.44,00:24:04.11
+Mother! Mother!
+
+00:24:24.96,00:24:26.51
+Those kids.
+
+00:24:35.02,00:24:37.43
+These kids?[br]They're too small!
+
+00:24:37.68,00:24:41.19
+They're smart, very useful.
+
+00:24:41.28,00:24:41.99
+How much?
+
+00:24:42.16,00:24:45.19
+Four-fifty for one.[br]Eighty for two.
+
+00:24:45.52,00:24:47.07
+They look weak.
+
+00:24:52.80,00:24:55.55
+They're sick! No way.
+
+00:24:59.36,00:25:01.71
+Enough sobbing.
+
+00:25:02.12,00:25:04.15
+Your Ma's been sold to Sado Island.
+
+00:25:04.52,00:25:07.47
+She can't hear your crying.
+
+00:25:08.00,00:25:11.27
+Stop it![br]Or you'll get no food!
+
+00:25:20.00,00:25:22.87
+Please, I must be rid of them.[br]Have a heart!
+
+00:25:23.36,00:25:26.63
+Go to Tango. See Bailiff Sansho.
+
+00:25:26.92,00:25:28.03
+Bailiff Sansho?
+
+00:25:28.24,00:25:31.11
+He's the richest there.
+
+00:25:32.76,00:25:35.03
+He'll buy from you.[br]Don't waste your time here.
+
+00:25:45.80,00:25:47.19
+Hurry! Don't stand around!
+
+00:26:13.92,00:26:16.11
+The kids are here.
+
+00:26:26.62,00:26:28.01
+Bow to Master.
+
+00:26:29.04,00:26:32.79
+I paid for these weaklings?[br]You fool?
+
+00:26:33.32,00:26:35.03
+What can they do?
+
+00:26:35.88,00:26:40.95
+They're unfit for rough work, Pa.[br]Let them sweep the yard.
+
+00:26:41.24,00:26:45.35
+No; they cost me money.
+
+00:26:45.76,00:26:46.87
+They have to work!
+
+00:26:48.40,00:26:49.67
+What are your names?
+
+00:26:50.40,00:26:52.27
+They won't tell, Master.
+
+00:26:52.76,00:26:54.15
+Why not?
+
+00:26:54.36,00:26:56.79
+Stubborn kids, eh?[br]Take them away.
+
+00:27:00.72,00:27:03.23
+Stand up! Go!
+
+00:27:04.60,00:27:06.47
+Have no mercy on them!
+
+00:27:15.64,00:27:17.11
+Walk! Walk!
+
+00:27:21.12,00:27:22,23
+The new meat...
+
+00:27:22.50,00:27:24.03
+- Brother![br]- Anju!
+
+00:27:26.13,00:27:27.50
+Brother!
+
+00:27:32.80,00:27:36.47
+Where are you going?[br]Get over there!
+
+00:27:39.20,00:27:41.23
+Kayano, get this newcomer started.
+
+00:27:41.64,00:27:43.51
+- She should be playing with dolls![br]- What?
+
+00:27:45.08,00:27:47.09
+Don't argue and put her to work.
+
+00:27:47.49,00:27:49.09
+I can't believe this!
+
+00:27:56.32,00:27:58.43
+- Come try.[br]- Okay.
+
+00:28:01.20,00:28:02.99
+- Can you walk?[br]- Yes.
+
+00:28:04.16,00:28:06.35
+Beast! That heartless demon!
+
+00:28:14.36,00:28:16.79
+I don't know who sold you, but...
+
+00:28:18.60,00:28:19.95
+Poor thing!
+
+00:29:07.24,00:29:08.95
+Get up. Come on.
+
+00:29:22.72,00:29:24.43
+Brother!
+
+00:29:52.20,00:29:53.59
+Forgive me please! I beg you!
+
+00:29:59.44,00:30:01.23
+I wasn't trying to escape!
+
+00:30:01.40,00:30:03.75
+I really wasn't!
+
+00:30:04.96,00:30:06.75
+Those kids reminded me of[br]my own back home.
+
+00:30:07.16,00:30:10.27
+I just went to the third gate.
+
+00:30:11.84,00:30:14.19
+Fool![br]That's as bad as trying to escape!
+
+00:30:14.72,00:30:16.99
+Forgive me! Forgive me!
+
+00:30:21.44,00:30:23.31
+What are you going to do?
+
+00:30:23.52,00:30:26.03
+Give her what's due, of course.
+
+00:30:29.60,00:30:31.31
+Namiji, eh?
+
+00:30:32.20,00:30:33.67
+Will they kill her?
+
+00:30:34.12,00:30:37.95
+Of course not. They won't kill us.[br]They hate to lose a worker.
+
+00:30:38.28,00:30:39.31
+Confine her?
+
+00:30:39.52,00:30:44.71
+Don't you know what a runaway gets?[br]Look at this.
+
+00:30:50.00,00:30:52.95
+I won't do it again!
+
+00:30:53.96,00:30:57.63
+She's apologizing.[br]You don't need to stigmatise her!
+
+00:30:58.04,00:31:00.83
+Those ones should be given a lesson. 
+
+00:31:01.08,00:31:02.79
+You do it, Taro.
+
+00:31:04.44,00:31:06.39
+You weakling.
+
+00:31:21.68,00:31:23.11
+Don't look.
+
+00:31:27.40,00:31:29.83
+Eat your supper and[br]start your night work!
+
+00:31:47.68,00:31:50.24
+You can stay in here.
+
+00:31:54.68,00:31:56.11
+Where were you sold from?
+
+00:31:56.92,00:31:58.31
+Come here... Tell me.
+
+00:31:59.64,00:32:01.27
+Don't be afraid.
+
+00:32:09.48,00:32:13.15
+You got parents?[br]They sold you?
+
+00:32:13.44,00:32:15.71
+My father never would!
+
+00:32:16.48,00:32:18.67
+"Father" you say?
+
+00:32:19.00,00:32:21.27
+Evidently no peasant's kids.
+
+00:32:21.44,00:32:25.11
+How were you sold?[br]Tell me everything.
+
+00:32:35.60,00:32:37.95
+Here, have some rice cake.
+
+00:32:39.64,00:32:41.59
+It's well cooked.
+
+00:32:53.36,00:32:54.87
+When a messenger from[br]the Minister of the Right comes,
+
+00:32:55.84,00:33:00.43
+Taro chooses to disappear!
+
+00:33:01.03,00:33:02.73
+Hey, Kichiji!
+
+00:33:04.68,00:33:07.55
+Where is Taro?[br]Go find him!
+
+00:33:07.84,00:33:12.03
+The visitor will be here any moment.[br]Bring the women; put some make-up on them!
+
+00:33:22.40,00:33:24.01
+Bring some sake!
+
+00:33:25.40,00:33:27.52
+Children like you are bought and sold...
+
+00:33:28.28,00:33:32.35
+...treated like animals[br]and nobody questions it.
+
+00:33:33.88,00:33:35.67
+What a horrible world!
+
+00:33:41.92,00:33:44.87
+Tell me your father's words again.
+
+00:33:46.00,00:33:49.67
+"Without mercy,[br]man is not a human being."
+
+00:33:50.16,00:33:53.91
+"Be hard on yourself,[br]but merciful to others."
+
+00:34:07.44,00:34:09.47
+I wish I could get you[br]to your parents.
+
+00:34:09.64,00:34:14.15
+But Sado is far,[br]and Tsukushi is further. 
+
+00:34:14.88,00:34:17.23
+Too far for children.
+
+00:34:18.88,00:34:23.47
+Wait until you grow up![br]Meanwhile, be patient!
+
+00:34:27.72,00:34:32.07
+I see why you kept your name secret.
+
+00:34:32.72,00:34:37.39
+But you'll need names just the same.[br]I'll name you.
+
+00:34:38.52,00:34:43.67
+You're... Young Mutsu,[br]after your birthplace.
+
+00:34:44.84,00:34:49.59
+You'll have hardships to bear,[br]so Shinobu, "to endure".
+
+00:34:51.40,00:34:53.30
+- Alright?[br]- Yes
+
+00:34:58.16,00:34:59.95
+Master Taro!
+
+00:35:03.28,00:35:06.23
+The messenger from the Minister is coming.
+
+00:35:06.52,00:35:08.07
+You have to go back to the Hall.
+
+00:35:08.28,00:35:09.71
+Tell my father that you couldn't find me.
+
+00:35:09.88,00:35:13.31
+He's an important guest from Kyoto!
+
+00:35:16.72,00:35:18.67
+Come with me.
+
+00:35:23.32,00:35:28.07
+I thought you came unannounced[br]to reprimand us, sir.
+
+00:35:28.28,00:35:32.03
+Nonsense. Why reprimand you?[br]We have to thank you.
+
+00:35:32.52,00:35:34.95
+You collect our rice and[br]taxes most efficiently.
+
+00:35:35.48,00:35:42.19
+You send us more and more gifts[br]and bribes each year.
+
+00:35:43.19,00:35:45.19
+I feel honoured, sir.
+
+00:35:46.36,00:35:51.03
+You're the most trusted man[br]among all his bailiffs.
+
+00:35:52.04,00:35:57.63
+I've been instructed to study[br]your handling of men.
+
+00:35:59.03,00:36:00.62
+Oh, heavens...
+
+00:36:00.92,00:36:02.95
+I hardly deserve such praise.
+
+00:36:03.44,00:36:08.95
+I'm only doing my duty[br]managing his Lordship's manor.
+
+00:36:09.20,00:36:11.95
+Which is seldom done nowadays.
+
+00:36:12.32,00:36:14.91
+The Minister appreciates[br]your work so much...
+
+00:36:15.16,00:36:19.91
+...he said he'd like to[br]invite you to Kyoto as a reward.
+
+00:36:16.88,00:36:19.91
+
+00:36:20.88,00:36:22.59
+- Oh, is that right, sir?[br]- Yes.
+
+00:36:23.89,00:36:25.59
+My goodness!
+
+00:36:26.89,00:36:28.89
+I appreciate his kindness.
+
+00:36:31.44,00:36:34.39
+Kichiji, bring the chest here!
+
+00:36:42.56,00:36:46.31
+As a humble token of my gratitude, sir.
+
+00:36:46.96,00:36:48.47
+I appreciate it.
+
+00:36:49.20,00:36:50.99
+May I present my son Taro.
+
+00:36:51.52,00:36:53.23
+I offer cordial thanks.
+
+00:36:53.88,00:36:56.23
+You are lucky to have[br]such a good father.
+
+00:36:56.44,00:36:58.31
+Be a dutiful son.
+
+00:36:59.36,00:37:01.55
+Begin your dance, girls.
+
+00:38:21.36,00:38:23.07
+Gone to sleep?
+
+00:38:51.28,00:38:53.07
+Take care of yourselves.
+
+00:39:03.76,00:39:05.23
+Open the gate.
+
+00:39:05.60,00:39:08.03
+- Where to so late?[br]- Shut up.
+
+00:39:39.88,00:39:43.15
+After ten years,
+
+00:39:43.40,00:39:47.43
+The children have developed sturdily,[br]despite their long hardship and misery.
+
+00:39:47.84,00:39:51.03
+The winter finds Zushio,[br]alias Mutsu, 23 years old.
+
+00:39:51.84,00:39:55.03
+Anju, known as Shinobu, is 18.
+
+00:40:21.48,00:40:22.95
+Brother, brother.
+
+00:40:23.78,00:40:26.35
+- What?[br]- The alarm.
+
+00:41:02.04,00:41:06.15
+- That way! He ran that way![br]- This way! This way!
+
+00:41:24.20,00:41:25.00
+Let me go!
+
+00:41:26.50,00:41:27.50
+Let me escape!
+
+00:41:28.70,00:41:30.55
+I've worked here for fifty years!
+
+00:41:31.50,00:41:34.85
+I'm seventy.[br]My days are numbered!
+
+00:41:35.70,00:41:37.03
+Let me die a free man...
+
+00:41:43.70,00:41:45.03
+Let me die a free man...
+
+00:41:45.70,00:41:47.03
+...even in a ditch.
+
+00:41:49.92,00:41:51.55
+Young Mutsu, you handle this.
+
+00:42:12.04,00:42:13.15
+Who did the branding?
+
+00:42:13.68,00:42:15.31
+Young Mutsu.
+
+00:42:15.64,00:42:17.91
+How cruel of him!
+
+00:42:18.36,00:42:20.87
+He'll die a miserable death.
+
+00:42:21.16,00:42:23.03
+Mutsu is a bad one.
+
+00:42:23.32,00:42:25.03
+Must be the son of a bandit or brigand.
+
+00:42:39.12,00:42:42.71
+You're not to blame,[br]so stop worrying.
+
+00:42:44.28,00:42:47.55
+- Instruct this newcomer.[br]- Pleased to meet you.
+
+00:42:55.16,00:42:56.59
+Take care of her.
+
+00:43:20.00,00:43:21.79
+Look. This way...
+
+00:43:23.40,00:43:25.11
+Try it.
+
+00:43:33.16,00:43:35.91
+- What's your name?[br]- Kohagi.
+
+00:43:36.08,00:43:38.67
+- Your age?[br]- 16.
+
+00:43:38.84,00:43:40.95
+- From a peasant family?[br]- Yes.
+
+00:43:42.12,00:43:44.39
+- Where were you sold from?[br]- Sado.
+
+00:43:45.40,00:43:46.83
+Sado?
+
+00:43:48.00,00:43:52.19
+- Do you know a woman named Tamaki?[br]- No.
+
+00:43:53.60,00:43:57.67
+She was sold to Sado ten years ago.
+
+00:43:57.96,00:44:00.47
+She was thirty-five...[br]She must be forty-five by now.
+
+00:44:00.68,00:44:04.87
+I don't know. Sado is a big island.
+
+00:44:17.44,00:44:19.87
+Feeling pain again Namiji?
+
+00:44:20.44,00:44:23.71
+I feel as though[br]a heavy stone's in my stomach.
+
+00:44:23.92,00:44:25.87
+But you're getting worse...
+
+00:44:26.44,00:44:29.31
+We can't rest until we die.
+
+00:44:29.80,00:44:32.67
+We're not human beings.
+
+00:44:35.64,00:44:39.51
+Why does the rest of[br]the world turn its back on us?
+
+00:44:40.68,00:44:44.75
+Don't be silly.[br]You're talking like a newcomer.
+
+00:44:48.52,00:44:51.63
+Now work hard or you too will be...
+
+00:45:09.64,00:45:13.07
+"How I long for you, Zushio..."
+
+00:45:13.44,00:45:17.87
+"Isn't life a torture..?"
+
+00:45:23.40,00:45:28.07
+"How I long for you, Anju..."
+
+00:45:39.12,00:45:42.63
+"Isn't it so hard?"
+
+00:45:44.52,00:45:47.15
+One moment.[br]What was that song?
+
+00:45:49.24,00:45:51.35
+Sing it again, will you?
+
+00:45:51.88,00:45:55.15
+It goes,[br]"How I long for you, Zushio and Anju."
+
+00:45:55.40,00:45:57.35
+Who taught you that?
+
+00:45:57.56,00:45:59.67
+It was once popular in Sado.
+
+00:45:59.88,00:46:02.71
+Who first sang such a sad song?
+
+00:46:02.88,00:46:04.00
+A courtesan, they say.
+
+00:46:04.28,00:46:07.99
+- Courtesan?[br]- One named Nakagimi.
+
+00:46:08.36,00:46:11.87
+Do you think she's still alive?
+
+00:46:13.72,00:46:15.51
+Well...I don't know.
+
+00:46:15.76,00:46:18.71
+You say it goes... 
+
+00:46:18.76,00:46:20.81
+"How I long for you, Zushio and Anju"
+
+00:46:20.96,00:46:22.71
+- Right?[br]- Yes.
+
+00:46:23.00,00:46:24.87
+- Sing it again.[br]- Yes.
+
+00:46:27.88,00:46:31.87
+"How I long for you, Zushio..."
+
+00:46:43.04,00:46:47.15
+"Isn't life a torture..?"
+
+00:46:52.00,00:46:56.67
+"How I long for you, Anju..."
+
+00:47:11.28,00:47:12.75
+It's Mother!
+
+00:47:16.24,00:47:20.67
+"Isn't it so hard?"
+
+00:48:10.88,00:48:12.27
+Wait for me![br]Wait for me!
+
+00:48:15.52,00:48:18.19
+Take me along![br]Please take me!
+
+00:48:19.04,00:48:21.71
+Here, take this!
+
+00:48:22.34,00:48:25.11
+Row off quickly![br]Quick! Please!
+
+00:48:31.92,00:48:34.55
+Too bad Nakagimi.[br]You won't see the mainland today!
+
+00:48:40.92,00:48:42.56
+She's impossible!
+
+00:48:43.28,00:48:45.31
+Cut her tendon so she can't run away.
+
+00:48:47.48,00:48:51.91
+Please, Boss I won't do it again![br]Have mercy on me!
+
+00:49:16.88,00:49:21.23
+Shut up!
+
+00:50:00.56,00:50:01.99
+Forgive me!
+
+00:50:02.40,00:50:05.27
+Watch this, girls.[br]All runaways meet this fate.
+
+00:51:33.72,00:51:35.19
+Stop it, Anju!
+
+00:51:35.96,00:51:37.91
+It's useless!
+
+00:51:40.12,00:51:43.39
+That was the first news about Mother.
+
+00:51:44.48,00:51:46.43
+You speak with cruelty.
+
+00:51:46.76,00:51:49.63
+Don't you think of Father[br]and Mother anymore?
+
+00:51:50.96,00:51:52.67
+Don't you long for them?
+
+00:51:53.48,00:51:55.83
+What's the use of longing for them?
+
+00:51:58.28,00:52:01.47
+If we escape from here...[br]there'll be...
+
+00:52:01.64,00:52:03.07
+How?
+
+00:52:03.32,00:52:07.27
+Without any money,[br]how will we look for them?
+
+00:52:07.88,00:52:11.15
+Look at us now![br]Better not to see them at all.
+
+00:52:11.48,00:52:14.15
+So, we'll go to Kyoto first[br]and become somebodies.
+
+00:52:14.48,00:52:15.51
+Somebodies? Fantastic.
+
+00:52:15.68,00:52:20.11
+We're servants, despite our birth.
+
+00:52:20.28,00:52:21.59
+Slaves!
+
+00:52:21.96,00:52:23.99
+Who'd bother with us?
+
+00:52:25.48,00:52:28.43
+You'd be sold to a brothel.
+
+00:52:28.60,00:52:32.03
+I'd become a thief.[br]Or we'd both be beggars.
+
+00:52:32.60,00:52:37.67
+You've the heart of a bandit already![br]A soul baser than that of a beggar!
+
+00:52:39.64,00:52:42.20
+How could you brand[br]a man's forehead like that?
+
+00:52:42.36,00:52:47.87
+How could you be so brutal?
+
+00:52:48.84,00:52:50.79
+Did you forget Father's words?
+
+00:52:51.08,00:52:53.95
+Aren't you ashamed before the image[br]you keep close to your heart?
+
+00:53:00.92,00:53:03.03
+Zushio! How could you?
+
+00:53:03.20,00:53:05.76
+The goodness did me no good!
+
+00:53:06.60,00:53:11.19
+It's better to be loyal to[br]the Bailiff and look for his favour.
+
+00:53:12.16,00:53:15.27
+You have changed.
+
+00:53:42.40,00:53:43.91
+Namiji is past cure.
+
+00:53:44.08,00:53:47.11
+Dump her in the forest.
+
+00:54:00.76,00:54:03.79
+Namiji is like our sister.
+
+00:54:05.20,00:54:07.79
+Please let her breathe her last here.
+
+00:54:14.80,00:54:16.51
+- Take her, Mutsu.[br]- Yes.
+
+00:54:18.40,00:54:20.59
+Don't take her, Brother.
+
+00:54:21.44,00:54:25.55
+She's still alive.[br]Don't give her to wild birds.
+
+00:54:25.76,00:54:27.95
+It's the Bailiff's order.
+
+00:55:02.56,00:55:04.27
+Another dead one?
+
+00:55:05.68,00:55:07.63
+This one's still alive.
+
+00:55:08.63,00:55:10.76
+- You take her![br]- Yes!
+
+00:55:13.76,00:55:15.19
+Open the gate.
+
+00:55:30.84,00:55:32.79
+Not you!
+
+00:55:42.76,00:55:47.75
+Next time you're reborn,[br]come to a family like the Bailiff's!
+
+00:55:50.84,00:55:53.71
+Remember![br]Be reborn to a rich family.
+
+00:56:22.00,00:56:23.87
+Hey, hurry up.
+
+00:56:33.56,00:56:38.71
+I tied this to the Buddha,[br]so hold it tight.
+
+00:56:45.12,00:56:48.15
+And this is an image of[br]the Goddess of Mercy!
+
+00:56:48.56,00:56:52.83
+You'll be reborn fortunate[br]in the world to come.
+
+00:57:10.60,00:57:11.35
+Ready?
+
+00:57:11.52,00:57:17.11
+That's too ruthless.[br]Can't I cover her against the frost?
+
+00:57:18.04,00:57:20.31
+Then, do it quickly.
+
+00:57:20.76,00:57:22.55
+Brother...

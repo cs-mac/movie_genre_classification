@@ -1,0 +1,1221 @@
+{3420}{3505}Do you have some valid reasons|for wanting a divorce?
+{3590}{3640}Excuse me.
+{3660}{3730}My sinuses are very sensitive to irritants.
+{3755}{3800}Mm!
+{3847}{3912}In the past five months,...
+{3915}{4040}..I think I've breathed freely,|with both sides working, maybe a week total.
+{4042}{4130}I gotta cut this out. It's gonna kill me.
+{4285}{4347}I hadn't smoked for 13 years.
+{4402}{4470}I kept the last cigarette from my last pack.
+{4502}{4580}I said if I never smoke this One cigarette...
+{4582}{4640}..I'll never smoke again, period.
+{4672}{4735}13 years I kept that cigarette.
+{4775}{4825}Here.
+{4892}{4960}I had this little case made for it.
+{4960}{5010}See?
+{5090}{5140}13 years.
+{5197}{5267}And then, one Thursday afternoon,...
+{5302}{5352}..Barbara came to see me.
+{5390}{5465}And when she left...
+{5557}{5622}you know where I am|if you change your mind.
+{5945}{6000}Barbara and Oliver Rose.
+{6047}{6167}you'd have heard of 'em, except I kept|what happened out of the papers.
+{6170}{6265}I think you should hear the story, though.|It might matter to you.
+{6267}{6335}I won't start the clock yet.
+{6335}{6400}My fee is $450 an hour.
+{6402}{6520}When a man who makes $450 an hour|wants to tell you something for free,...
+{6522}{6580}..you should listen.
+{6647}{6715}They met... Great.
+{6717}{6765}They agreed on that.
+{6767}{6885}But, the way I saw it,|the poor bastards never had a chance.
+{6960}{7040}It was the final day of the season|in Nantucket.
+{7087}{7180}A nor'easter was blowing|the last of the tourists off the island.
+{8640}{8780}The next item up for bid|is an exquisite Japanese carving, circa 1700.
+{8782}{8885}A rare relief of a Shinto goddess,|very richly detailed.
+{8887}{8955}- The intricacies of the Orient...|- $10!
+{8955}{9035}I have $10 from the premature young man|in the grey raincoat.
+{9047}{9092}- Do I hear 15?|- 11.
+{9095}{9175}$11. Ladies and gentlemen,|please, do I hear 15?
+{9177}{9290}- 20.|- $20. I have $20, ladies and gentlemen.
+{9290}{9370}Do I hear 25 for this|exceptionally exotic item?
+{9372}{9430}- $30.|- 31.
+{9432}{9560}$31. All right, I have $31,|ladies and gentlemen. Is this my final offer?
+{9562}{9615}Ladies and gentlemen, 31, going once...
+{9615}{9720}- $40.|- $40! 40. Do I hear 45?
+{9722}{9840}- 50. Five-0.|- $50. I have $50. Do I hear 60?
+{9860}{9950}- $50, going once. Going twice.
+{9950}{10032}Sold... to the pretty lady in the white sweater.
+{10100}{10185}- Do you know how much it's worth?|- Doesn't matter. I'm not selling.
+{10185}{10235}$250.
+{10262}{10312}Well, I guess I have a good eye.
+{10315}{10365}I gotta catch the last ferry.
+{10367}{10450}Wait a minute. Let me carry that for you.|Here. Put this on.
+{10452}{10477}Oh!
+{10502}{10577}- I love the rain.|- God, I love it, too.
+{10647}{10755}I know what you're thinking. Harvard Law,|woo, woo, woo! But I got a scholarship.
+{10770}{10840}I'm not rich or anything. I'm brilliant.
+{10842}{10900}- What about you?|- I'm not rich or brilliant.
+{10900}{10995}- Where are you going to school?|- Madison. I got a scholarship. Gymnastics.
+{10997}{11070}I don't know, though.|My body's getting kinda big.
+{11072}{11117}It looks, uh...
+{11120}{11190}Like a pendulum -|the longer it is, the slower you move.
+{11190}{11285}My vaults and tumbling aren't what|they were. My strength moves are good.
+{11287}{11347}your strength moves?
+{11585}{11645}- I love Nantucket.
+{11700}{11750}Oh! I'm gonna miss the ferry.
+{11795}{11867}- Thanks for walking me. Bye.|- Wait! What's your name?
+{11887}{11937}Barbara!
+{11967}{12030}Barbara!
+{12032}{12095}Wait a second! I've got a great idea!
+{12140}{12190}-
+{12435}{12492}I'm sorry! I'm sorry!
+{12512}{12602}Never, never, never apologise|for being multiorgasmic.
+{12630}{12695}I honestly didn't know I was.
+{12725}{12775}Oh, bless you!
+{12865}{12915}Bless you.
+{13155}{13215}If we end up together,...
+{13215}{13310}..then this is the most romantic day|of my whole life.
+{13337}{13395}And if we don't,...
+{13395}{13445}..then I'm a complete slut.
+{13610}{13695}This is the story|we're gonna tell our grandchildren.
+{14002}{14055}- Uh-oh.
+{14082}{14132}Uh-oh!
+{14155}{14255}It's the return of the bald avenger.
+{14472}{14522}-
+{14625}{14675} And a happy New Year
+{14680}{14795} We wish you a merry Christmas|We wish you a merry Christmas
+{14800}{14915} We wish you a merry Christmas|On Sesame Street
+{14915}{14995}OK, that's the sixth time.|Now turn it off, honey.
+{14997}{15050}Merry Christmas, Bird.
+{15052}{15105}-
+{15265}{15357}- Honey, give me those papers.|- Say please.
+{15405}{15460}- Please.|- No.
+{15665}{15745}- Where are they?|- I don't got.
+{16010}{16070}- Nice try.|- Thanks.
+{16107}{16165}-
+{16220}{16305}Hello! Mom's home!
+{16307}{16392}- Get over here, you squeezy! Squozy!
+{16395}{16450}Ohh, up we go!
+{16452}{16487}Come on, you.
+{16540}{16587}- All right.|- Hi, honey.
+{16590}{16650}Yeah, now you go in that chair. Got it?
+{16652}{16725}Well, you're gonna go in this one, lady.
+{16732}{16837}- Hey! I got you...|- Is that for me?
+{16840}{16897}- There's green for you.|- Oh, thanks.
+{16900}{16955}And it's red for you.
+{16957}{17037}- It's not a good idea to give them sweets.|- Oh, no. It is.
+{17040}{17137}I read that kids who are deprived|of sweets and candies all the time,...
+{17140}{17210}..they get obsessed by it|and they turn out to be obese.
+{17210}{17295}Kids who get it all the time,|it's no big deal - they turn out normal.
+{17295}{17340}And... here.
+{17342}{17435}Being a waitress on Christmas Eve's|very profitable.
+{17472}{17542}- What do you think, guys?|- Ah! Nice!
+{17545}{17595}OK.
+{17632}{17715}I have to put it on the tree! Josh, look!
+{17800}{17850}What do you think?
+{17852}{17902}Hmm...
+{17927}{18015}- Looks like tin foil.|- No, you're right. It doesn't make it.
+{18017}{18067}I'll learn.
+{18090}{18147}- Let's go for a walk.|- I gotta finish this.
+{18150}{18240}- Just a quick stroll. Come on.|- It's freezing outside. It's snowing.
+{18240}{18307}Yes. And I'm still asking you to take a walk.
+{18310}{18355}Why, huh?
+{18357}{18410}- Where are we going?|- Just to the corner.
+{18410}{18517}Barbara, I have work to do.|I can't be walking around here in the snow.
+{18595}{18685}OK, we're at the corner.|So what do you wanna do now? Walk back?
+{18687}{18780}- No, I wanna go for a ride in your car.|- I don't have a car.
+{18897}{18940}- You got me a Morgan?|- Yes!
+{18942}{18980}Oh, ho, ho!
+{18982}{19075}I don't believe it! A Morgan! A Morgan!
+{19077}{19192}- The cook's brother brought it from England.|- It's got a little rust. I'll restore it.
+{19195}{19260}- How much you pay?|- It's a present. I used my money.
+{19260}{19317}Your money is our money.|Can we afford this?
+{19320}{19430}You are gonna be so successful, this may be|our last opportunity to worry about money.
+{19432}{19535}Come on! Here. Get in.|It's a right-hand drive.
+{19557}{19650}- Well, are you happy?|- I'm more than happy. I'm way past happy.
+{19652}{19702}I'm married.
+{20142}{20220}Sounds like a fairy tale, doesn't it?
+{20222}{20272}And it was.
+{20320}{20440}My father used to say: "There are four things|that tell the world who a man is."
+{20442}{20542}"His house, his car, his wife, and his shoes."
+{20567}{20672}Oliver didn't have the house yet,|but he was definitely moving up in the world.
+{20675}{20735}He'd only been with the firm six months...
+{20735}{20840}..when he decided to have the senior partners|over to his new apartment for dinner.
+{20840}{20900}He had his eye on the future.
+{20902}{20947}So did I.
+{20950}{21032}Pretty lady, lovely lady
+{21055}{21125} May I have this dance with you?
+{21162}{21195} Can I hold...
+{21265}{21315}Ah, what a night!
+{21347}{21402}Elke, Elke. Wait a minute.
+{21405}{21480}We're eating with elderly people now.|Keep that closed.
+{21482}{21547}- Where you been? Come on!|- Oliver, this is Elke.
+{21550}{21592}- Elke, this is Oliver.|- Hi.
+{21595}{21637}Come on. Come on.
+{21640}{21710}Here is to Oliver and Gavin...
+{21710}{21797}..for a job well done|on Kentucky versus Brunswick Coal.
+{21800}{21825}Hear, hear!
+{21827}{21880}- Hell of a litigation.|- Thank you.
+{21880}{21935}I couldn't have done it without you, Oliver.
+{21937}{22022}This man has a face|juries can't help but believe.
+{22045}{22135}Gavin told the state attorney general|that if he didn't settle,...
+{22137}{22197}..next election he'd be running as a gelding.
+{22200}{22245}-
+{22245}{22302}Well, let's drink up.
+{22360}{22447}- Good night, Mom.|- Oh! Good night, sweethearts.
+{22450}{22485}- Mom?|- Yeah?
+{22487}{22542}Can I take some more dessert to our room?
+{22545}{22600}OK! Time for bed. Let's go.
+{22602}{22685}- Guess not.|- Kiss... Kiss.
+{22687}{22740}Kiss Daddy.
+{22740}{22802}- Good night, sweetheart.|- Good night.
+{22815}{22870}- Good night, buddy.|- Good night, Dad.
+{22870}{22910}Sleep well.
+{22977}{23037}I used to be chubby as a kid. Yeah.
+{23040}{23102}- Let's eat.|- Yeah.
+{23315}{23372}Oh, my!
+{23382}{23432}Whatever flavour is this?
+{23450}{23565}No, don't tell me. Let me think now. Uh...
+{23592}{23675}- It isn't apples.|- You make something with apples.
+{23677}{23745}- No. Unless you mean baked apples?|- Prunes?
+{23747}{23845}No. Wait a minute. Um...|This is a very special taste...
+{23847}{23922}- Raisins!|- It isn't pears.
+{23985}{24090}Um... fresh fig with, uh... a little cognac.
+{24102}{24252}- Figs! I never would have thought of figs!|- I never would have guessed.
+{24260}{24365}- Mm. It's fantastic, isn't it, Elke?|- Mm-hm.
+{24365}{24420}It's absolutely spectacular.
+{24422}{24505}- Mrs Marshall, more wine?|- Please.
+{24522}{24577}- Your crystal is lovely.|- Thank you.
+{24580}{24635}- It's not Waterford.|- Baccarat.
+{24690}{24747}Then we are paying our associates too much!
+{24750}{24800}-
+{24820}{24875}Actually, we got it quite reasonably.
+{24875}{24952}It's... It's kind of an interesting story.
+{24970}{25032}Why don't you tell it, Barb?
+{25142}{25210}-
+{25290}{25350}Well... we were in Paris...
+{25357}{25407}It was our fifth anniversary.
+{25410}{25442}Mm.
+{25445}{25565}We'd had lunch in this wonderful place in|the market district, called the Pa-day Crishon.
+{25567}{25630}- Pied de Cochon.|- Thanks.
+{25632}{25722}We were wandering around|and we came upon the...
+{25732}{25797}..Rue de Paradis,...
+{25800}{25885}..where the Baccarat|has its factory and museum.
+{25885}{25952}I didn't know about this before I met Oliver.
+{25962}{26025}My mother bought her glasses at the A&P.
+{26025}{26132}You know, the kind with the raised flowers|that always chipped off after a few weeks.
+{26135}{26200}- They were always yellow, remember?|- Heh-heh-heh!
+{26200}{26320}Anyway, here we were in this immense room|filled with all that Baccarat had ever made.
+{26322}{26445}A field of crystal. It was so... so pretty.
+{26455}{26505}I mean, I felt...
+{26562}{26615}..whatever the word.
+{26615}{26705}And suddenly, from the next room,|we heard the sound of glass breaking.
+{26705}{26820}Well, I looked at Oliver and Oliver|looked at me, and then... Oh, ye... No.
+{26822}{26895}Before that,|there was this big, black limousine.
+{26897}{26970}Now, this is important.|Well, before the limousine...
+{26972}{27075}To make a long story short, a couple|had ordered a design for their anniversary.
+{27075}{27135}When it was ready,|they were getting a divorce.
+{27137}{27185}The woman had smashed her half,...
+{27187}{27275}..and I convinced the man to sell us|his half cheap -just to spite her.
+{27277}{27340}Heh-heh-heh-heh!
+{27382}{27482}And, uh... that's our Baccarat story.
+{27747}{27820}Well, I think everybody|had a great time, don't you?
+{27820}{27947}- To make a long story short, no.|- I'm sorry. you were just rambling on...
+{27950}{28047}Tell your own story next time you care|so desperately what everybody thinks.
+{28050}{28100}Fuckface!
+{28127}{28195}- They're my bosses.|- They're Gavin's bosses, too.
+{28195}{28260}It didn't stop him|from getting a footjob at dinner.
+{28262}{28385}Gavin doesn't care about making partner.|He doesn't have a wife and kids. I do.
+{28447}{28500}You wanna keep living in this apartment?
+{28502}{28590}Because you do not buy a house|on an associate's salary.
+{28592}{28665}At least, not the kind of house that we want.
+{28667}{28760}OK, I care what they think.|I care, all right? I care.
+{28785}{28835}Shoot me.
+{28837}{28895}And that phoney laugh.
+{28897}{28972}- "Heh-heh-heh..."|- That was a genuine laugh.
+{28975}{29022}"Heh-heh-heh-heh..."
+{29025}{29090}OK. All right, all right! Maybe I overdid it.
+{29110}{29180}I was just trying to keep things going.
+{29367}{29450}God, I hope they didn't notice|what a jerk I am.
+{29480}{29540}They never seem to.
+{29587}{29637}-
+{29740}{29790}"Dear Homeowner,...
+{29790}{29852}..I love your house!"
+{29855}{30005}"If you ever consider selling,|please... contact me."
+{30005}{30050}"Barbara Rose."
+{30050}{30140}Mom! I'm gonna be late for practice!
+{30142}{30215}You've been doing this for a year|and nobody's called.
+{30217}{30300}This is a great house. I love this house.
+{30302}{30352}It's a waste of time.
+{30355}{30422}I bet I get this house. Five bucks.
+{30425}{30475}Five bucks.
+{30622}{30665}Man...!
+{30752}{30820}- Hello.|- Oh! I was just leaving a note.
+{30822}{30887}How kind. Please, won't you come in?
+{30890}{30940}All right.
+{30987}{31052}-
+{31135}{31195}I don't believe we've met.
+{31197}{31252}- Barbara Rose.|- I'm Maureen.
+{31255}{31365}I don't remember Mother mentioning you,|but she had so many friends.
+{31420}{31485}Oh! Oh, I'm very sorry.
+{31485}{31550}Thank you. She went peacefully.
+{31552}{31610}What am I going to do with this old place?
+{31610}{31750}I just can't bear to put it up for sale and have|a bunch of strangers tromping through it.
+{31752}{31860}If I could just find someone|who would love it as much as Mom did.
+{31862}{31962}That's more important to me|than whatever money we get for it.
+{31965}{32022}If you know anybody|who might be interested...
+{32055}{32182}Can we go up and pick our rooms?|- We can do whatever we want. It's our house.
+{32185}{32255}Who gets first pick? As if I had to ask.
+{32280}{32360}Oh, don't get scared. We'll do it together.
+{32362}{32415}I just feel kind of strange.
+{32417}{32480}I mean, this house is so beautiful...
+{32482}{32532}..and we live here.
+{32535}{32607}This is who we are? This is me?
+{32707}{32732}Mmm!
+{32735}{32787}- I'll be home early.|- Where are you going?
+{32790}{32880}To work. I wish I didn't have to,|but somebody's got to pay for all this.
+{32882}{32965}- It's Saturday.|- Come on, this is a great day.
+{32995}{33055}You got the fun part!
+{33250}{33300}Kitchen first.
+{33382}{33442}Everything was working for the Roses.
+{33462}{33512}Let me restate that.
+{33535}{33610}The Roses were working for everything.
+{33612}{33717}Over the next six years, Oliver dug in.|Made senior partner.
+{33720}{33787}The kids lopped off 70, 80 pounds.
+{33790}{33852}And Barbara laboured seven days a week...
+{33855}{33955}..to create the perfect home|that Oliver always dreamed of.
+{33970}{34035}Not easy for a girl who grew up|drinking her milk...
+{34037}{34115}..from glasses with chipped, yellow flowers.
+{34115}{34225}There were a million choices...|and she sweated every one of 'em.
+{34240}{34305}She refinished all the tables herself.
+{34305}{34397}It took six months|to get the floors exactly right.
+{34407}{34512}A hundred Sundays to find the perfect|Staffordshire figures and plates...
+{34515}{34580}..that she put over the fireplace.
+{34582}{34642}When you work that hard on something,...
+{34645}{34755}..eventually you have to finish|and face the awful question:
+{34755}{34805}"What's left to do?"
+{34945}{35000}- Are you working?|- Yes. Is it important?
+{35002}{35075}Yes. Kind of. I hope so.
+{35100}{35187}Stephanie Mayes called|to say thank you for dinner the other night.
+{35190}{35280}She said the pâté I made was so good|I should go into business.
+{35282}{35355}So I asked her if she really meant it|and she said she did,...
+{35357}{35425}..so I took a pound over to her|and collected $35.
+{35460}{35550}I'd almost forgotten|what it felt like to make money.
+{35552}{35660}- You sold liver to our friends?|- She paid me in cash, Oliver.
+{35662}{35760}Somehow that felt different|from the money I get cashing a cheque.
+{35762}{35865}It made me feel like...|trading in the Volvo on one of those...
+{35865}{36000}..four-wheel drive things with the big,|knobby tyres and the 200-horsepower engine.
+{36000}{36067}So I did. I'm gonna pick it up tomorrow.
+{36115}{36175}Thank you so much for telling me.
+{36207}{36322}And you think that you... need this?|I mean, the Volvo was a fine car.
+{36332}{36425}- I'll pay for it with my own money.|- How much does it cost?
+{36427}{36525}All right, I know it was kind of crazy|but I just... wanted it, OK?
+{36550}{36605}25,000.
+{36642}{36737}So you only have to sell|700 more pounds of pâté.
+{36767}{36847}Maybe I will. Maybe I'm starting a business.
+{36885}{36980}- But if you don't want me to, uh...|- No. No, no, no, no. you do it.
+{36982}{37032}Do it. Do it.
+{37207}{37257}I'm doing it.
+{37352}{37387}-
+{37395}{37490}Wait a minute. Wait one minute.|I do not understand. What's the, uh...
+{37492}{37550}..what's the attitude?
+{37550}{37600}I told you I would handle it.
+{37602}{37720}Yeah, and I didn't see anything happening|so I went to Ed and I set up the interview.
+{37722}{37825}- I would have done it.|- Yeah, but sometimes you need a little push.
+{37845}{37905}We all need a little push.
+{37937}{38000}We agreed that,|if you're doing this liver bit,...
+{38002}{38080}..we would need someone|to take care of the house, right?
+{38082}{38132}Right, Oliver. Right again.
+{38135}{38245}Oh, come on. Let's not argue, OK?|Just think about it for a minute!
+{38335}{38427}If you don't want to interview the lady,|I will send her home.
+{38430}{38507}I'm only trying to make your life easier.
+{38680}{38782}Somehow the thought of a stranger living|in my house just seems weird, you know?
+{38785}{38865}Doesn't it? I don't mean just for us,|but for you, too.
+{38880}{38955}- Oh, but then I guess you do this all the time.|- No, no.
+{38965}{39067}I try this as a means of finding|room and board and a little money.
+{39092}{39185}I'm also attending a few classes|at William and Mary College.
+{39197}{39277}- But that won't interfere with my duties.|- Well...
+{39280}{39340}That's great. I'm happy for you - really.
+{39350}{39447}- So, do I get the job?|- The fact is, Susan, I don't need a live-in.
+{39482}{39532}This was my husband's suggestion.
+{39535}{39625}I have raised two kids on my own|and now they're about to go off to college.
+{39627}{39715}- They were both accepted at Harvard.|- Mm, that's a nice school, too.
+{39717}{39755}Thanks.
+{39755}{39822}So anyway, it'll just be|Oliver and me here at home.
+{39825}{39895}Although I am getting going|my own catering business.
+{39897}{39965}But let's face it,|I don't need to work for the money.
+{39967}{40075}And that does not make me one of these|women who is married to a successful man...
+{40075}{40152}..and has dedicated her life|to him and her children...
+{40155}{40277}..and then has to validate herself as a human|being, because her children are leaving her,...
+{40280}{40340}..by studying photography|or opening an art gallery...
+{40342}{40440}..or going into interior design|in her husband's office. No!
+{40457}{40555}I have a wonderful house,|crammed with beautiful things.
+{40555}{40640}I did this house myself. I did a great job.
+{40642}{40715}Not that I am necessarily|a slave to materialism. No.
+{40740}{40835}But I am proud|of what I have accomplished,...
+{40835}{40962}..although I suppose some people find my life|disgusting. Disgusting is too strong a word.
+{40965}{41092}No, I would not say that many people|would respect the choices I have made,...
+{41095}{41170}..although women would. Women like me.
+{41197}{41290}But then I don't care what they think|because I can't stand who they are.
+{41292}{41387}What I'm trying to say, Susan,|is that I don't need a live-in.
+{41460}{41597}Well... thanks for the interview|and good luck, and God bless you.
+{41617}{41670}I would like you to understand...
+{41672}{41755}..that, if I were to hire you,|my life would probably change.
+{41757}{41817}you would be this new element in the house.
+{41820}{41870}-
+{41872}{41922}Well...
+{41940}{41992}Let me show you where your room is.
+{42172}{42257}Hey. Hey! Hey, Bennie. Dumb dog.
+{42460}{42497}Hey, Bennie!
+{42500}{42570}- Come on. Let's see if he'll go for it again.
+{42570}{42645}Bennie! Hi-yah!
+{42700}{42750}Yeah, dumb.
+{42830}{42885}-
+{43045}{43142}Oh, the Bennie boy.|The Bennie-Bennie-Bennie boy. Yes.
+{43145}{43217}He's the best boy. He's the best boy!|We love our good boy.
+{43220}{43270}He's a good boy! We love our Bennie boy.
+{43272}{43330}Yes, a pretty dog! He's a pretty dog!
+{43927}{43987}-
+{43995}{44055}Rose residence.
+{44057}{44142}- Susan, is that for me?|- It's for Josh.
+{44145}{44232}- Are you expecting a call?|- Jason Larrabee said he'd confirm lunch.
+{44235}{44300}I'm trying to land him as a client.
+{44302}{44390}The word around town is he's up|for a Cabinet post. I wish he'd call.
+{44395}{44457}He will.
+{44505}{44575}Did you get a chance|to look over that contract for me?
+{44577}{44670}- What contract?|- On the consulate luncheon I'm doing.
+{44685}{44772}- Oh, yeah. No, but I'll read it this weekend.|- OK.
+{44780}{44835}No. No, not OK.
+{44835}{44940}I have to sign it tomorrow. I gave it|to you last week, but it's probably fine.
+{44942}{45015}- I'll read it now.|- Oh, no, don't bother.
+{45022}{45072}No. Get it.
+{45157}{45207}Sure.
+{45480}{45535}What? What is it?
+{45535}{45585}It's a fly. Where'd it go?
+{45615}{45665}On the fridge.
+{45700}{45765}Stay upwind of him.
+{45835}{45905}Aha! How about that?
+{45940}{45992}Not bad, huh?
+{45995}{46077}- I admire your technique.
+{46142}{46175}Hello.
+{46177}{46287}Mr Larrabee, hi. How are you?|No! No, no, it's not too late.
+{46290}{46370}Could you hang on just one second|while I use the other phone?
+{46380}{46427}Thank you.
+{46502}{46567}Yes, sir. I'm looking forward to that, too.
+{46582}{46640}No, no, no. Course you're not bothering me.
+{46642}{46707}Lawyers, we never sleep. Heh-heh-heh!
+{46747}{46800}I'm available to you, sir, 24 hours a...
+{46955}{47015}-
+{47295}{47387}Who left the appliances on in the kitchen?|It sounds like who knows what!
+{47390}{47515}I must have hit some switches when I was|cleaning up. You know how that can happen.
+{47517}{47567}I got great news.
+{47570}{47622}Lunch is on tomorrow with Larrabee.
+{47650}{47735}I'm gonna meet him|at his club in Philadelphia.
+{47735}{47785}He's mine!
+{47787}{47862}Look how crazy you are|about yourself right now.
+{47865}{47932}- I'm sorry.|- Don't apologise.
+{47935}{48065}I live with the assumption that all guys|owe an apology to the woman they live with.
+{48097}{48135}You're so full of shit.
+{48162}{48240}So, where's that little contract of yours?
+{48242}{48317}Maybe I can up your price, huh?
+{48320}{48370}Where is it?
+{48385}{48447}- You sure it's all right?|- My fee's going up.
+{48450}{48507}Better get me while you can afford me.
+{48605}{48680}- I don't want you to read it.|- Let me have it.
+{48860}{48917}I got you|and I'm not gonna let you get away!
+{48920}{48967}-
+{48970}{49020}Let me go.
+{49020}{49080}Let me go! Let go!
+{49132}{49182}Let go of it! Let go!
+{49205}{49255}-
+{49340}{49390}Ah, Jesus!
+{49417}{49480}Whoo! Whoo, whoo!
+{49482}{49532}- Ooh!
+{49642}{49722}You think you're pretty strong,|don't you?
+{49905}{49970}What the hell is wrong with you?
+{50082}{50185}If you're with a woman for any length of time,|eventually you'll ask her that question.
+{50185}{50247}If she doesn't answer, that's trouble.
+{50250}{50360}And when trouble begins, it comes at you|from directions you'd never expect.
+{50360}{50402}Oliver was a sitting duck.
+{50405}{50480}I think you're gonna be|very well served by our firm,...
+{50480}{50537}..especially if the rumours are true.
+{50540}{50642}Well, there may be a Senate|confirmation hearing in my future.
+{50645}{50740}- We could definitely be of help with that.|- Yes. Waiter... Ohh!
+{50742}{50820}- What's the matter?|- Nothing. I'm fine.
+{50822}{50902}- Could I have some more coffee, please?|- Certainly, sir.
+{50905}{50967}Regarding your Senate confirmation,...
+{50970}{51070}..it may not be a bad idea for us|to have your personal asset liability...
+{51072}{51105}-
+{51107}{51162}- Oliver?
+{51165}{51230}Do you think you're having a heart attack?
+{51317}{51397}- Call an ambulance!|- Wipe that stuff off his chin.
+{51400}{51460}- Hang in there, Oliver.|- Call my wife.
+{51462}{51512}-
+{51635}{51685}You're doing just fine.
+{51687}{51780}- Somebody called for the defibrillator.|- Right here.
+{51880}{51935}How's it goin'?
+{51935}{52000}You may be the only person|I'm doing better than.
+{52042}{52107}The wife stabbed me in the stomach.
+{52140}{52205}With a nail file this time.
+{52207}{52265}- She's training to be a manicurist.|- Oh.
+{52265}{52387}- They make good money, you know?|- I'm trying to get a doctor for you, babe.
+{52390}{52440}They always feel bad after.
+{52442}{52507}Mr Rose? I'm Dr Gordon.|This is my associate.
+{52510}{52595}- Dr Hillerman. Jason Larrabee called us.|- How are his vital signs?
+{52597}{52670}- We were here first.|- We'll be with you in just a moment.
+{52672}{52765}Babes, take it easy.|Can't you see the guy's dying over here?
+{52767}{52817}- Did someone call my wife?|- Yes.
+{52820}{52912}I need to write her a note...|in case she doesn't get here in time.
+{52915}{52990}- Let's get him to CICU.|- Jeff, let's go.
+{53025}{53077}I'll get the pen back once we get there.
+{53130}{53185}- Is my wife here?|- I don't think so.
+{53185}{53212}-
+{53215}{53277}Get me some pictures. Upper GI.
+{53280}{53420}You're gonna have to swallow some barium.|But you'll like it. It's peppermint flavoured.
+{53472}{53540}Nothing is more important|than the hors d'oeuvres.
+{53540}{53602}That's where people|make their first judgment.
+{53605}{53707}Perdóname, señora. La señora Rose|ha recibido una llamada urgente.
+{53710}{53780}- There's an urgent phone call for you.|- Oh.
+{53815}{53850}Hello?
+{53850}{53895}Oh, God!
+{53897}{53967}Oh, my God! All right. I'm leaving right now.
+{53982}{54067}- My husband's had a heart attack.|- That happened to my mother.
+{54070}{54187}Don't worry. your luncheon's gonna|be terrific. Everything's gonna be great.
+{54205}{54310}The x-rays showed an oesophageal tear.|It's commonly known as a hiatal hernia.
+{54315}{54357}Right there.
+{54360}{54417}The pain symptoms are identical to angina.
+{54420}{54500}Stress, coffee, spicy foods, gas.
+{54502}{54622}Your nerve endings get irritated. You know|what that's like. Not pleasant, but not fatal.
+{54625}{54680}Could you get this hiatal hernia, say...
+{54682}{54770}..by being squeezed|between someone's legs?
+{54825}{54855}No.
+{54855}{54940}- So I'm not going to die?|- Eventually, but not today.
+{54940}{54990}-
+{55025}{55080}Thank you.
+{55132}{55190}- You can wait right here.|- Thank you.
+{55337}{55395}Oliver! You're alive!
+{55395}{55492}Yeah, it was something else.|It wasn't the heart, it was a rip. A tear.
+{55495}{55545}You're alive!
+{55562}{55635}- So what are you gonna do?|- Wait for Barbara to pick me up.
+{55635}{55692}- I'll wait with you.|- Good.
+{55752}{55877}Think we can get that nurse to come|back here with a bottle of musk oil?
+{55965}{56035}- She should be here any minute.|- Yeah.
+{56155}{56215}It's stuffy in these places.
+{56507}{56597}- I got us enough booze for the whole trip.|- Thanks.
+{56600}{56707}I couldn't remember whether you wanted|a twist, so I got you some just in case.
+{56710}{56760}Thank you, Gavin.
+{56865}{56922}- Salud.|- Salud.
+{57175}{57232}All those lives going on out there...
+{57235}{57352}People we'll never meet...|experiencing things we'll never know.
+{57387}{57450}We can't know.
+{57450}{57595}In your own life, by this point,|you think you know what's gonna be but...
+{57610}{57685}- But you don't know.|- You don't know.
+{57727}{57802}It's always just when you think|you got it figured out...
+{57805}{57905}..when, bingo, something comes along|and knocks you right on your ass.
+{57927}{58015}Why do you think Barbara|didn't come to the hospital?
+{58040}{58137}I don't know.|She probably had a good reason.
+{58712}{58762}-
+{58810}{58870}Hiya, Bennie. Come here, sweetheart.
+{58900}{58972}Where is everybody, huh?
+{58975}{59087}I guess you're the only one who|gives a damn about me in this family.
+{59420}{59470}-
+{59610}{59640}Oliver!
+{59640}{59725}You don't know how happy I am to see you!
+{59770}{59852}- You didn't come to the hospital.|- No.
+{59855}{59920}No. Well, I called and...
+{59920}{60002}..well, everything seemed to be...|under control.
+{60005}{60067}I just... I didn't want to disturb you.
+{60070}{60170}Disturb me?|Well, I wasn't doing much. Just dying.
+{60172}{60230}Oliver! You weren't dying.
+{60250}{60325}- You didn't even call.|- Of course I did. I talked to someone.
+{60327}{60395}- Not to me.|- Well, I talked to a nurse and...
+{60397}{60452}..she said that you weren't dying.
+{60455}{60517}Well, I thought I was dying!
+{60590}{60685}I wrote you a note...|in case you didn't get there in time.
+{60780}{60845}I can't read your handwriting.
+{60867}{60992}I was on a gurney being rushed|to Intensive Care in excruciating pain.
+{61025}{61075}It says:
+{61110}{61222}"My love, by the time you|receive this, I may be gone."
+{61225}{61290}"My life was... fun...
+{61290}{61365}..full... beyond my dreams."
+{61452}{61545}"All I have... and all I am, I owe to you."
+{61602}{61687}"You gave me courage|to surpass what I know I am,...
+{61690}{61740}..the strength to..."
+{61760}{61817}Oh, this is where I had a spasm.
+{61820}{61912}Uh... I can't read it, but the next line says:
+{61915}{62012}"I lie here, feeling my life ebb away."
+{62040}{62100}"I cling to your image."
+{62102}{62165}"I will take you with me to eternity."
+{62210}{62260}"I cherish you."
+{62320}{62382}"I thank merciful God for you."
+{62450}{62512}I didn't have the strength to sign it.
+{62617}{62682}I'm... I'm sure they, um...
+{62702}{62775}..they would've told me who it was from.
+{62915}{62985}I can't believe|you didn't call us at school, Mother.
+{62985}{63100}I didn't see any point in alarming you until|there was something to be alarmed about.
+{63175}{63255}Your mother|didn't want to disturb anybody today.
+{63265}{63330}Yeah, well, you still should have called.
+{63360}{63410}You should have.
+{63412}{63487}I'm sure your mother didn't want|to worry you needlessly.
+{63490}{63560}The important thing is your father is alive.
+{63745}{63817}We've always been a family|that communicated.
+{63820}{63922}If anything important happens,|everyone should know about it.
+{63955}{64010}That's the rule.
+{64062}{64112}Yeah.
+{64240}{64355} Only you
+{64357}{64500} Can make this world seem right
+{64525}{64667} Only you, and you alone
+{64680}{64832} Can thrill me like you do
+{64840}{64922} And fill my heart with love
+{64925}{64950}-
+{64952}{65075} For only you...
+{65122}{65172}-
+{65205}{65280}- What's going on?|- I'm very upset.
+{65385}{65482}It's 3 o'clock in the morning.|Turn the television off.
+{65557}{65655}I wasn't sure why I didn't go to the hospital,|but now I think I know.
+{65657}{65722}I'd just like to put today behind us, OK?
+{65725}{65775}OK.
+{65840}{65930}I was gonna drive to the hospital,|but I knew you were OK.
+{65955}{66105}Cos I never think that anything really terrible|could happen to me or the kids or you.
+{66145}{66205}And I was getting on the expressway,...
+{66207}{66302}..and suddenly I had|this very strong feeling that you were dead.
+{66340}{66432}And I knew what it would feel like|to be alone in this house,...
+{66435}{66485}..to not have you in my life.
+{66507}{66587}And I got so scared, I had to pull over.
+{66600}{66650}Oh.
+{66685}{66760}Well, you don't have to be scared any more.
+{66845}{66897}I got scared because I felt happy.
+{67320}{67382}You were happy because I was dead?
+{67407}{67472}I was happy to be free.
+{67475}{67540}Like a weight had been lifted.
+{67565}{67635}- Like a weight had been lifted?|- Yeah.
+{67697}{67812}So, how am I supposed to respond?|You tell me you wished I was dead?
+{67830}{67900}I thought it was important.
+{68080}{68137}-
+{68577}{68652}I think you owe me an apology, Barbara.
+{68655}{68732}If you have something to say,|I'd like to hear it.
+{68862}{68920}I want a divorce.
+{69017}{69070}No, you don't.
+{69072}{69125}You can't have one!
+{69160}{69220}I've thought about this a lot.
+{69222}{69285}I really don't want|to be married to you any more.
+{69475}{69535}Why do you want a divorce?
+{69537}{69635}Did... did I do something?|Did I... did I not do something?
+{69675}{69740}I can't give you specifics, Oliver.
+{69775}{69840}- Well, try!|- I don't want to try!
+{69965}{70042}Is there somebody else? Another man?
+{70050}{70085}No.
+{70085}{70155}- A woman?|- You wish.
+{70180}{70230}I should be the one asking for a divorce!
+{70232}{70297}I was rushed to hospital|suffering from severe...
+{70300}{70365}- Indigestion.|- Oh-hoh-hoh...
+{70370}{70455}Oh, you're such an expert|at making me look like ajerk.
+{70470}{70535}OK, OK, OK. I'm sorry.
+{70537}{70615}I'm the bad person.|Let's just blame me for this.
+{70620}{70695}No! No. I think I need...
+{70697}{70747}I think you owe me,...
+{70750}{70855}..after this many pretty goddamn good|years of marriage, a solid reason.
+{70855}{70960}I worked my ass off to make enough money|to provide you with a good life,...
+{70962}{71032}..and you owe me a reason that makes sense.
+{71055}{71145}So let's hear it.|Come on. Let's hear it. Let's hear it!
+{71167}{71227}Because...
+{71230}{71292}..when I watch you eat,...
+{71295}{71357}..when I see you asleep,...
+{71360}{71422}..when I look at you lately,...
+{71425}{71480}..I just wanna smash your face in.
+{71570}{71680}Come on, smash my face.|Come on. You wanna smash my face?
+{72125}{72200}The next time... I hit back.
+{72270}{72357}And you'd better get yourself|a damn good lawyer.
+{72375}{72440}The best your money can buy.
+{73025}{73077}- What does she want?|- Child support.
+{73080}{73127}I've always taken care of my kids.
+{73130}{73230}And they will be 18 in one year,|which makes it nice for you.
+{73232}{73375}- What about alimony?|- Barbara, against my advice, waives alimony.
+{73375}{73480}I'm making money with my business.|I get a lot of referrals. I can support myself.
+{73487}{73540}Well, I'm a lucky guy.
+{73542}{73612}My client is being more than fair, Mr Rose.
+{73615}{73730}She's waived alimony and she's willing to|waive her rights against your law practice...
+{73732}{73862}..in exchange for the house and all of|its contents, except your shaving gear and...
+{73880}{73937}..his clothing?
+{73945}{74045}- Everything I made went into that house.|- I found that house.
+{74047}{74140}Every piece of furniture is where it is|because I put it there. It is my house.
+{74140}{74215}If your client has finished yammering,|explain to her...
+{74217}{74315}..that a wife does not|automatically get the house.
+{74325}{74450}I thought you told her that|she was entitled to anything and everything.
+{74452}{74515}- I told her what?|- Yes.
+{74540}{74587}Here it is.
+{74590}{74647}I quote: "My love,...
+{74667}{74725}..by the time you..."
+{74725}{74775}Boy, what a handwriting.
+{74790}{74882}"By the time you receive this, I may be gone."
+{74900}{74962}Uh... Blah, blah, blah...
+{74980}{75095}"All I am and all I have, I owe to you."
+{75132}{75197}You wrote this, Mr Rose?
+{75260}{75407}Excuse me, Mr Thurmont, you tiny,|little, worm-like, infinitesimal prick,...
+{75410}{75497}..could I have a word with my wife, please?
+{75520}{75567}Certainly.
+{75672}{75755}If this is a who-can-sink-lowest-fastest|contest, you won.
+{75780}{75832}By showing him my letter,...
+{75835}{75945}..you have sunk below|the deepest layer of prehistoric frog shit...
+{75947}{76012}..at the bottom of a New Jersey scum swamp.
+{76090}{76165}I may have let you have the house,|but now...
+{76165}{76220}..you'll never get it.
+{76222}{76292}You will never get that house.
+{76315}{76370}Do you understand?
+{76392}{76475}You will never get that house.
+{76555}{76660}- We'll see.|- Yeah... we'll see.
+{76902}{76962}Maybe I shouldn't have|let you see that letter.
+{76965}{77027}Dear girl, by the time this is all over,...
+{77030}{77107}..you'll think of today|as one of your lighter moments.
+{77175}{77215}-
+{77225}{77332}What do you call 500 lawyers|at the bottom of the ocean?
+{77335}{77392}An excellent start.
+{77435}{77502}I used to resent jokes like that.
+{77545}{77610}Now I see them as simple truths.
+{77660}{77725}- Lawyers...
+{77805}{77857}Hello.
+{77860}{77932}Honey, I can't talk right now.|I'm with a client.
+{77935}{78007}Love you, miss you, want you... Bye!
+{78110}{78165}I recently married.
+{78212}{78337}Which is the last thing I ever thought|I'd do after what happened to the Roses.
+{78340}{78462}When it comes to women...|I hope I'm a better man now than I was.
+{78507}{78602}I know I'm a better lawyer,|when it comes to divorce.
+{78635}{78730}I'll never make another mistake|like I made with Oliver.
+{78777}{78845}Let's just concentrate on the job at hand.
+{78847}{78900}She wants the house. You want the house.
+{78912}{79002}- I'm the one who's living in a hotel room!|- Not for long.
+{79005}{79080}- She claims she found the house.|- She did find it, right?
+{79080}{79190}Yeah, but that's not the point. She says|she made it what it is. She didn't. She didn't.
+{79200}{79310}I'm not keeping score but, if I were,|it'd be about 83 to 6 in my favour.
+{79312}{79370}Of all the really... good stuff.
+{79372}{79445}Those wonderful Staffordshire dogs...
+{79445}{79560}In fact, most of the Staffordshires, I found.|And that Art-Deco rug and, uh...
+{79560}{79665}And that stove in the kitchen? She wouldn't|have bought it if I hadn't pushed her!
+{79675}{79730}Shoes. That's what she's good at buying.
+{79732}{79825}I gotta have shelves in the closet|or she'd have them all over the place!
+{79832}{79902}Here we go. You're gonna love this.
+{79905}{79985}Civil Code, Title 16-9-0-4, Section C.
+{79987}{80115}I used this once for a freebie divorce|I did for my cousin Paulie. Total loser.
+{80115}{80152}Read.
+{80155}{80235}"For the purposes of subsections|one and two of paragraphs..."
+{80237}{80330}Here. Skip down to...|"Parties who have pursued separate lives..."
+{80330}{80422}"Parties who have pursued separate|lives sharing neither bed nor board...
+{80425}{80475}..shall be deemed to have lived apart...
+{80477}{80560}..even though they reside|under the same roof..."
+{80610}{80675}Even though they reside|under the same roof?
+{80677}{80747}Yeah. The law was put on the books|for poor people:
+{80750}{80840}folks who couldn't afford|separate residences. But we can use it.
+{80845}{80925}- So I can move back in.|- If your divorce is settled in court,...
+{80927}{81040}..it shows you're committed to the property.|Plus, you can see she doesn't sell the assets.
+{81042}{81100}I can work on her,|get her to fold on the house.
+{81102}{81195}No. No, Oliver, you don't even|deal with her. You avoid her.
+{81197}{81247}Women can be a lot meaner than we think.
+{81250}{81322}Never underestimate her as an adversary.|Don't talk to her.
+{81325}{81400}No, no, no, I won't. Don't worry about me.
+{81402}{81495}- Gavin... thank you.|- All right.
+{81517}{81612}- All right, go on. Go home.
+{81620}{81715}- This is the stupidest thing you've ever done!|- Second stupidest.
+{81717}{81785}- You can't stay here!|- The law says I can.
+{81785}{81880}Title 16-9-0-4, Section C.
+{81907}{81972}Look it up, tootsie pie.
+{82002}{82057}-
+{82110}{82170} Tis the season to be jolly
+{82170}{82227} Fa la la la-la la-la la-la
+{82230}{82305} Don we now our gay apparel...
+{82307}{82355}OK, Mom, you're on.
+{82410}{82460}Let me see that bag.
+{82685}{82760}Is that what you're gonna put on top?
+{82762}{82810}- Yes, it is.|- Fine.
+{82810}{82885}- Josh, plug it in, please.|- All right.
+{83302}{83352}- It's a short.|- It's not a short.
+{83355}{83430}One of the ornaments|is touching the sockets.
+{83517}{83580}Fine.
+{83582}{83652}You take care of it, Oliver.
+{83750}{83825}Come on, it's Christmas time.|Let's get festive.
+{83847}{83922}- I have to go out.|- I got stuff I gotta do in my room.
+{84477}{84550}- Oh, God, my house is on fire!|- Mine too, babe!
+{84552}{84607}Really, you idiot!
+{84682}{84725}Wait up, babe!
+{84747}{84790}Oh, my God!
+{84797}{84840}Omar, do something!
+{84840}{84890}- Fire!|- Mom!
+{84892}{84952}Fire! Fire!
+{84970}{85025}Call the police! I'll get the extinguisher!
+{85025}{85105}991. 999. 911.
+{85135}{85185}- Stay out of the way!|- Coming through!
+{85185}{85287}"One: store in a cool place.|Two: hold upright, pull pin out." OK.
+{85290}{85377}- "Three: stand back, aim away from face."|- Do it!
+{85380}{85455}- Dad, hurry!|- All right! OK, OK! All right. OK, OK.
+{85562}{85622}Dad! The curtain!
+{86035}{86105}It's over. Thank God I was here!
+{86135}{86185}The whole house could have gone up.
+{86187}{86295}OK, OK. I'll get a sponge|and start cleaning up.
+{86312}{86385}Maybe a rake... or a bulldozer.
+{86887}{86940}It might not have been the lights.
+{86965}{87025}You always know.
+{87490}{87595}Rather than argue about who supposedly|did what, I'd like to reach some accord.
+{87597}{87670}- Time is passing.|- I'd love to be done with this, too.
+{87672}{87765}Right. If we leave settlement to the court,|the lawyers get everything!
+{87765}{87822}So I've come up with a fair solution.
+{87825}{87875}- You wanna hear it?|- Yes.
+{87875}{87987}Now, I understand your point of view.|you've invested 18 years in this marriage.
+{87990}{88100}That's worth a lot.|A tremendous amount. $163,800.
+{88125}{88200}- How did you arrive at that number?|- Fairly.
+{88200}{88315}- You do almost the same things as Susan.|- No! She's in college. She should make more.
+{88317}{88355}Barbara!
+{88357}{88450}There is no comparison whatsoever|between what she does and...
+{88452}{88535}Her salary is a base, so I doubled it.
+{88535}{88600}And that wasn't enough,|and then I tripled it,...
+{88602}{88672}..and that's how I came up with this figure.
+{88675}{88765}$490,633, approximately.
+{88767}{88830}I shall give you that in cash. It won't be easy.
+{88832}{88895}It'll be harder than hell,|but I'm gonna do it.
+{88897}{88982}You just have to, you know,|agree to give up the house.
+{88985}{89085}You owe me. You've gotten more out of|knowing me than I've got out of knowing you.
+{89087}{89215}I'm not even gonna ask you what that means.|I found this house! I bought everything in it!
+{89217}{89307}With my money! It's a lot easier to spend it|than it is to make it, honeybun!
+{89310}{89382}You might not have made it|if not for me, sweet cakes!
+{89385}{89447}You weren't even multiorgasmic|before you met me!
+{89475}{89540}You expect me to keep|reassuring you sexually,...
+{89540}{89605}..even now when we disgust each other?
+{89715}{89770}-
+{89835}{89920}Don't let this bother you.|It's all gonna work out.
+{90027}{90095}The red areas are hers.
+{90097}{90160}The yellow areas are mine.
+{90162}{90210}Green is neutral.
+{90222}{90332}The kitchen was difficult, but Barbara|came up with the idea of time allotment.
+{90370}{90437}This seems rational to you both?
+{90455}{90505}Yeah.
+{90537}{90587}Oliver, my father used to say...
+{90590}{90680}..that a man could never outdo a woman|when it came to love or revenge.
+{90680}{90787}Why don't you let her have the house?|There are other houses. And other women.
+{90790}{90897}No, no, no. I'm going to win because|I've got her to accept the ground rules.
+{90900}{91020}Oliver, there is no winning in this.|It's only degrees of losing.
+{91060}{91130}I got more square footage.
+{91300}{91350}-
+{91420}{91470}-
+{91740}{91852}Sorry to disturb you, but I was wondering|if I could borrow a sleeping tablet.
+{91885}{91972}- Did Oliver send you for it?|- No. Actually, no.
+{92042}{92092}All right, you got me there.
+{92095}{92175}Which is good,|because I'm uncomfortable with the charade.
+{92185}{92287}It's nice to see somebody|still caring for somebody in this house.
+{92307}{92390}- Good night, Susan.|- So, there will be no pills?
+{92405}{92482}- Oh, kitty. Kitty, wait.
+{92485}{92535}Kitty, kitty...
+{92957}{93032}Do you want me to call around|to find an open drugstore?
+{93035}{93082}I'll find one.
+{93115}{93180}- Should I come?|- It's up to you.
+{93205}{93272}- These are my favourite kind of cars.|- It's a Morgan.
+{93275}{93327}Of course.
+{93505}{93560}-
+{93562}{93612}-
+{93655}{93712}It's cosy.
+{94100}{94145}-
+{94162}{94220}- What was that?|- A bump of some sort.
+{94325}{94387}Oh, Kitty! Oh, mein gott.
+{94512}{94627}Look, why don't you go into the house|and find a large Ziploc bag?
+{94630}{94697}- Ziploc?|- Yeah.
+{94710}{94777}Oh, kitty. Kitty, kitty, kitty.
+{94780}{94842}So much for the nine lives myth.
+{95180}{95247}Here, kitty. Here, kitty, kitty, kitty.
+{95250}{95275}Pss, pss, pss!
+{95277}{95317}Here, kitty, kitty, kitty!
+{95320}{95357}Here, puss, puss, puss!
+{95370}{95420}Here, puss, puss, puss!
+{95422}{95467}Pss, pss, pss.
+{95470}{95555}Here, kitty, kitty, kitty.|Here, kitty, kitty, kitty.
+{95580}{95637}Have you see my cat?
+{95640}{95705}Are you talking to me?
+{95927}{95997}Here, kitty, kitty, kitty. Come on, kitty.
+{96000}{96055}Here, puss, puss, puss, puss.
+{96057}{96122}Where are you, kitty? Come on!
+{96125}{96177}Here, kitty, kitty!
+{96180}{96227}Come on, kitty, kitty. Come on.
+{96230}{96280}Here, puss, puss, puss.
+{96282}{96380}Here, kitty. Here, kitty, kitty, kitty...
+{96775}{96860}- What did you do with my cat?|- You're letting the heat out.
+{96915}{97022}I know something happened. Instead|of playing this game, what happened?
+{97025}{97107}- You killed your cat, Barbara.|- What?
+{97145}{97252}Yes. One damn Dalmane|and your kitty would be alive.
+{97255}{97387}I had to get up in the middle of the night,|looking for Sominex, and I backed out the...
+{97560}{97627}-
+{97905}{97965}That supposed to scare me?
+{98060}{98132}If you're looking for trouble, Barbara,|you found it!
+{98427}{98472}Oh, God.
+{98475}{98522}Oh...
+{98730}{98780}-
+{99062}{99165}What do you expect?|You killed my cat! You're making me nuts!
+{99165}{99222}Will you please...? I'm asking you to leave!
+{99250}{99310}No, it's my house...
+{99312}{99382}..and I'm going to stay.
+{99595}{99660}-
+{99662}{99722}-
+{99867}{99962}Frankly, I'm concerned|about you, Oliver. You look haggard.
+{100015}{100070}I feel great.
+{100072}{100152}I'll take time off|after the Larrabee confirmation hearings.
+{100155}{100212}Why don't you take time before?
+{100220}{100322}It's vital to the firm this comes off|without a hitch. I want you at your best.
+{100325}{100347}-
+{100350}{100440}I'm at my best. I won't let you down.
+{100442}{100505}I'm in fantastic shape.
+{100550}{100602}I thank you so much for caring.
+{101370}{101450}- Mr D'Amato. There's someone in your office.|- Who?
+{101482}{101550}- Use words, Mary Ann.|- Mrs Rose.
+{101552}{101655}I didn't think I should leave her|in reception. What with all the... you know.
+{101657}{101727}Yeah, I know... Yeah, I know!
+{101805}{101862}Barbara.
+{101892}{102000}You really shouldn't be here because|it might be viewed by some as unethical.
+{102005}{102097}Well, I am here... ethical or not.
+{102180}{102237}You don't mind if I tape this...
+{102240}{102335}..just so no one gets confused|about what was said?
+{102412}{102470}What's on your mind?
+{102492}{102607}Well, since you're the one|who advised Oliver to move back in,...
+{102610}{102670}..I thought you would advise him|to move out.
+{102677}{102745}Why? Sounds like you two|have things worked out,...
+{102747}{102812}..with the red areas and the green areas.
+{102815}{102910}Gavin, ever since this thing started,|I've had trouble sleeping.
+{102927}{102995}Most mornings I wake up sobbing.
+{103005}{103057}I'm sorry. That's shitty.
+{103072}{103152}But this morning... I woke up screaming.
+{103177}{103230}And I couldn't stop.
+{103232}{103337}I need this to end. This has to end!
+{103347}{103407}- I suggested selling the house...|- No!
+{103432}{103505}OK. You both seem to agree on that.
+{103512}{103557}Gavin.
+{103560}{103662}I don't have much money,|but I could pay you.
+{103695}{103760}That'd be illegal.
+{103970}{104025}Besides money,...
+{104107}{104202}..what would it take|to get you to help me, Gavin?
+{104230}{104322}Put your shoes on, Barbara.|I haven't been into feet since '82.
+{104325}{104397}- Have you ever made angry love?|- Is there any other way?
+{104400}{104427}Hey, hey!
+{104447}{104507}Stop it!
+{104510}{104587}This is ridiculous. Button up!
+{104590}{104697}You wanna settle this? Let's all sit down|and work it out, find some compromise.
+{104710}{104787}- There is no compromise.|- Then I can't help you.
+{105025}{105075}Worth a shot.
+{105290}{105352}You know where I am|if you change your mind.
+{106172}{106272}Sometimes I wonder what might have|happened... if I'd taken her offer.
+{106330}{106377}But I didn't.
+{106427}{106547}I should have seen her toes|in the pit of my crotch as a cry for help.
+{106587}{106637}- Stinking bitch.|- Dumb bastard.
+{106640}{106680}- Slut.|- Scum.
+{106682}{106730}- Filth.|- Faggot.
+{106732}{106775}- Morning, Susan.|- Morning.
+{106777}{106862}-
+{106950}{107022}- I made you some sandwiches for the trip.|- I'm not hungry.
+{107025}{107112}You may be hungry later.|Why don't you wrap these up?
+{107172}{107265}There's some things I should tell you.|You're going off to college.
+{107267}{107327}- You told me you loved me.|- Yes, I do love you.
+{107330}{107440}And about drugs - don't do 'em. And sex -|don't catch anything. What else is there?
+{107442}{107502}Just... about women.
+{107547}{107597}Don't be led by your emotions.
+{107625}{107745}Just cos you screwed up doesn't mean I will,|so don't try and put your shit off on me.
+{107747}{107817}Josh. Don't leave like this.
+{107835}{107927}- I'm pissed at you!|- So what do you want to do about it?
+{107930}{107985}You wanna take a swing at me?
+{108010}{108097}Is that gonna make you feel better?|Then go ahead.
+{108347}{108432}What are you and Dad gonna do|to each other once we're not around?
+{108435}{108480}Don't be silly.
+{108482}{108560}Your father and I need some time alone|to work things out.
+{108585}{108657}By the time summer school starts,|we'll have it settled.
+{108660}{108772}Then I'll make a celebration dinner|and I'll bring it up - or you can come here.
+{108775}{108830}We'll work it out.
+{108832}{108887}- You promise?|- Sure.
+{108935}{108990}You know I love you.
+{109017}{109092}- My sweet girl.|- So...
+{109095}{109145}I'll be back for my things.
+{109150}{109215}I will be thinking the best for you.
+{109252}{109302}So long.
+{109305}{109375}- Take care, Susan.|- Goodbye!
+{109547}{109620}- You have a great time, kids.|- Don't worry about us.
+{109622}{109672}Bye!
+{109795}{109842}Here, Bennie.
+{110090}{110212}At 15, I became an evolutionist,|and it all became clear.
+{110215}{110260}We came from mud.
+{110260}{110385}And after 3.8 billion years of evolution,|at our core is still mud.
+{110410}{110465}No divorce lawyer can doubt that.
+{110545}{110647}We can nail her. She's having|a black-tie dinner at 8 o'clock tonight.
+{110650}{110727}The food critic from The Post|called to confirm the time.
+{110730}{110797}She sent me this phoney|exterminator's notice...
+{110800}{110902}..saying the house is being gassed|for termites, so I'd stay away.
+{110905}{111015}- She can have dinner parties.|- She lied about the exterminator.
+{111015}{111062}She can lie.
+{111065}{111127}She took two of my Staffordshire figures.
+{111130}{111197}Any dealer would give you|at least $1,000 for them.
+{111200}{111262}She is financing her dinner with my things.
+{111265}{111352}I want to file criminal charges|and I want her thrown in jail.
+{111370}{111480}- Unless you have proof, there aren't grounds.|- Wait a minute. Whose side are you on?
+{111482}{111530}Did she get to you?
+{111532}{111592}- Did you bang her?|- Not at all!
+{111637}{111722}She was great. She was a gymnast.
+{111790}{111845}She was?
+{111865}{111920}Yeah.
+{111922}{111977}Look, Oliver...
+{111980}{112025}I lost my train of thought.
+{112027}{112082}Come on, Gavin. Let's have her arrested.
+{112085}{112197}I don't think you should stay in the house.|Sell the house and divide the proceeds.
+{112220}{112342}No. You're selling me out. You don't|think I got the guts to go to the mat.
+{112345}{112400}You don't want to go to this mat, Oliver.
+{112402}{112517}Look. I respect you, Oliver.|You're a professional. I'm a professional.
+{112520}{112607}As a professional and a friend,|I'm telling you, one way or another,...
+{112610}{112670}..you're gonna lose. Give it up.
+{112705}{112755}I understand what you're saying.
+{112845}{112895}You're fired.
+{113050}{113115}Now, some of the dishes tonight are new.
+{113115}{113182}Some, I've no doubt made for you before.
+{113185}{113327}But they are all my favourite dishes|as you are all my favourite clients.
+{113425}{113487}Hello, darling. Sorry I'm late.
+{113505}{113625}Well, I guess I'd better not sit too close|to anybody because I have a bit of a cold.
+{113627}{113677}Atchoo!
+{113680}{113727}-
+{113972}{114027}-
+{114030}{114102}Now I guess I'll go in and piss on the fish.
+{114275}{114365}Oliver, these people are my clients.|you are messing with my business.
+{114367}{114442}I have the food editor|from The Post out there.
+{114460}{114512}Is everything all right?
+{114605}{114702}- I would never humiliate you like this.|- You're not equipped to, honey.
+{114910}{114970}Leaving so soon, baby doll? Huh?
+{114980}{115035}A family tiff seems to be developing.
+{115037}{115167}I don't know if we should leave, but|I definitely advise skipping the fish course.
+{115170}{115217}-
+{115430}{115470}No!
+{115660}{115730}What...? What...? What are you doing?
+{115732}{115792}What...? What are you doing?
+{115822}{115900}Do you see what she's doing?|Do you see that?
+{116100}{116180}-
+{116632}{116665}-
+{117192}{117255}-
+{117597}{117665}Get out of the car, hon.
+{117727}{117782}you're gonna have to kill me.
+{117845}{117897}I mean it, Oliver.
+{117900}{117957}You don't have the guts!
+{117965}{118025}Come on. Come on!
+{118755}{118812}This is absurd. It's just absurd.
+{119295}{119345}OK, the gloves are off.
+{119440}{119510}Look, I don't wanna create a scene.
+{119512}{119590}I mean, I, uh,|live in this neighbourhood, too.
+{119590}{119642}But the gloves are off!
+{119825}{119875}Chickenshit.
+{119915}{119962}-
+{120367}{120432}Your guests would have loved this.
+{120552}{120630}I expected a little more imagination|from you, Ollie.
+{120757}{120815}Guess I'll go clean up.
+{121055}{121102}-
+{121342}{121402}Not the Staffordshires.
+{121457}{121542}- You love them as much as I do.|- More.
+{122460}{122515}Don't you touch that.
+{122567}{122617}What are you doing?
+{122810}{122855}- Give that to me!|- Let go!
+{122857}{122905}- Give it to me!
+{122987}{123037}Ugh!
+{123145}{123195}Good night.
+{123700}{123750}Bennie?
+{123797}{123842}Bennie!
+{123845}{123910}-
+{123912}{123962}Bennie?
+{124165}{124270}The Bermuda high-pressure system is|keeping hot weather in the Potomac area.
+{124272}{124322}Look for a high today of 92 degrees.
+{124325}{124382}Not a good day|to do strenuous exercise.
+{124385}{124472}Good advice, especially|if you have respiratory problems.
+{124475}{124527}Sara Murphy is at the Pentagon...
+{124530}{124615}..with a report on whether women|still find uniforms sexy for men.
+{124617}{124687}So far, it was a pretty normal|divorce scenario.
+{124690}{124782}A few bruises, some broken dishes,|a pissed-on fish.
+{124785}{124880}But I think you should have|a drink for this next part.
+{124920}{125032}There are two dilemmas...|that rattle the human skull.
+{125035}{125092}-
+{125095}{125182}How do you hold onto someone|who won't stay?
+{125217}{125312}And how do you get rid of someone|who won't go?
+{126507}{126587}I opened a great old one, to let it breathe.
+{126727}{126785}You look beautiful.
+{126797}{126850}- I feel good.|- I do, too.
+{126852}{126932}The Larrabee confirmation hearing|went very well today.
+{127002}{127125}I was surprised, happily surprised,|by your invitation.
+{127167}{127267}Thank you for the wine.|I hope it's not poisoned.
+{127560}{127610}Same here.
+{128565}{128635}- We've made a mess of things, Oliver.|- We sure have.
+{128650}{128752}- I want to start living a normal life again.|- I do too, Barbara.
+{128765}{128892}Sitting here like this,|it's... it's hard to believe we can't be happy.
+{128915}{128997}We can be happy... just not together.
+{129020}{129092}I want to ask you one last time to leave.
+{129140}{129210}I can't do that. I won't.
+{129252}{129312}You make so much money, Oliver.
+{129315}{129380}You can buy another house|and replace everything.
+{129385}{129435}Except you.
+{129455}{129577}You may find this hard to believe...|but I still love you.
+{129580}{129642}I still...
+{129645}{129692}..want you.
+{129735}{129850}- I find it hard to believe.|- What you can't believe is I don't want you.
+{129905}{129990}Well, I... Yeah, I have|a problem with that. I mean,...
+{129992}{130050}..I think I'm a good person, as people go...
+{130115}{130185}What can we do to patch things up?
+{130227}{130302}- I don't know.|- Tell me.
+{130305}{130367}- I can't.|- Please.
+{130370}{130462}- I don't know.|- Please tell me. Please?
+{130465}{130522}- Just tell me.|- Stop it!
+{130590}{130650}I guess you don't wanna talk about it.
+{130652}{130705}No, I don't wanna talk about it.
+{130707}{130750}Oliver,...
+{130752}{130870}..if you don't get out of here now,|you have no idea how far I'll go.
+{130875}{130922}How far? Tell me.
+{130925}{131007}We've been horrible to each other,|but we had something - we still do.
+{131010}{131065}We haven't passed any point of no return.
+{131097}{131182}- I have.|- I'm not convinced.
+{131185}{131275}Nobody who makes pâté this good|can be all bad.
+{131295}{131345}-
+{131397}{131480}That depends on what the pâté is made of.
+{131727}{131782}Woof.
+{131990}{132032}Bennie?
+{132102}{132165}A good dog to the last bite.
+{132350}{132410}Goddamn you!
+{132460}{132525}Jesus Christ!
+{133402}{133510}-
+{133630}{133680}-
+{133752}{133802}I'll give you the chandelier.
+{133847}{133910}-
+{134205}{134250}Barbara?
+{134285}{134322}Shit!
+{134325}{134422}You can't get out!|I'm gonna find you, sweetness.
+{134435}{134490}I know this house too well!
+{134522}{134572}Where the hell is she?
+{134650}{134700}-
+{134777}{134840}-
+{136717}{136792}I guess I'm on top now. And you're helpless.
+{136812}{136880}I can do anything I want.
+{136882}{136930}Stop it! I mean it! Stop it!
+{136932}{136982}-
+{137022}{137115}Oh! Oh, God. Oh, you smell so dirty-sweet.
+{137170}{137247}Oh, Barbie... Oh, we need this, Barbie. Yeah...
+{137250}{137300}No, don't talk!
+{137302}{137357}Don't talk. Oliver,...
+{137380}{137487}..I want to say hello to the|bald avenger. Please.
+{137562}{137615}You haven't called him that in years.
+{137617}{137667}-
+{137685}{137757}Oh, Barbara! Oh, Barbara! Oh!
+{137805}{137852}Oh, yes!
+{137855}{137905}-
+{137947}{138015}Oh, Barbara... Ba...
+{138017}{138107}-
+{138120}{138202}Oh, God! Agh!
+{138555}{138607}Was it as good for you as it was for me?
+{138650}{138700}-
+{138800}{138850}-
+{138890}{138945}-
+{139035}{139092}-
+{139662}{139715}Oh, what's going on here?
+{139742}{139797}-
+{140300}{140350}Oh!
+{140380}{140420}-
+{140560}{140610}Oh, I'm sorry.
+{140612}{140662}I thought you were Barbara.
+{140680}{140767}Mr Rose, what's going on here? Are you OK?
+{140790}{140847}I'm... I'm fine. Fine.
+{140875}{140920}Listen, Susan,...
+{140920}{141025}..I'm in the middle of something now.|I... I... I really can't talk about it.
+{141027}{141075}Let me get the door for you.
+{141077}{141165}- Is Mrs Rose all right?|- Yes, she's fine.
+{141190}{141277}Where is she? Is she OK?|You're sure she's all right?
+{141280}{141367}Barbara. Susan's here!
+{141370}{141455}- She wants to know if you're OK.|- Never better.
+{141560}{141617}Thank you for dropping by, Susan.
+{141635}{141692}Come outside with me, Mr Rose.
+{141695}{141745}Let's go.
+{141847}{141900}Wait a minute. I forgot something.
+{141917}{141967}What?
+{141970}{142017}- Barbara.|- No!
+{142020}{142102}- Mr Rose! Mr Rose!
+{142120}{142167}Oh, no!
+{142232}{142312}Oh, mein Gott. Mrs Rose!
+{142717}{142767}-
+{142770}{142837}-
+{142840}{143087} Only you
+{143152}{143202} Can
+{143502}{143555} Can
+{143627}{143685}What fresh hell is this?
+{143815}{143865} Only
+{143942}{143992} you
+{144080}{144127} Can
+{144525}{144572}Hi.
+{144635}{144690}I brought you a surprise.
+{145767}{145857} Nah-nah na nah-nah na
+{145912}{145957}You are a jerk.
+{146127}{146177}I'll tell you what.
+{146212}{146272}You say it's mine...
+{146275}{146347}..and you can have everything in this house.
+{146385}{146432}OK.
+{146435}{146480}It's mine.
+{147242}{147297}- Barbara.
+{147375}{147467}Barbara! Barbara, I'm sorry.|Are you all right? You OK?
+{147470}{147500}You OK?
+{148565}{148620}Well, well, well!
+{148705}{148800}I'd be glad to help you...|in exchange for the house.
+{148827}{148865}No.
+{148865}{148960}Please don't break|the terrazzo floor when you land.
+{149155}{149212}Oh! That's better.
+{149360}{149442}I'm gonna save you whether you like it or not.
+{149445}{149500}That won't work.
+{149517}{149577}It's too heavy. It'll pull you off.
+{149585}{149642}It'll work.
+{149670}{149720}-
+{150060}{150095}Oliver!
+{150505}{150552}Almost.
+{150590}{150650}All right. All right.
+{150685}{150757}I think I can swing this over to the balcony.
+{150760}{150812}- Stop it! Stop it! Stop it!|- What?
+{150867}{150960}I loosened the bolt.|I was gonna drop it on you.
+{150962}{151022}Ooh! Ooh, that's a good one.
+{151190}{151242}Gavin! Gavin!
+{151272}{151362}- Gavin...|- Uh, Susan, let me stop the car first!
+{151365}{151445}Thank God you're here!|I thought you'd never arrive.
+{151445}{151505}They're in there. They're over the edge!
+{151545}{151667}I guess at this point, there's no|reason to be anything but absolutely honest.
+{151697}{151802}Through all that's happened...|I always loved you.
+{151870}{151920}I know.
+{151977}{152045}And through all this,...
+{152047}{152107}..you loved me too, didn't you?
+{152195}{152252}-
+{152310}{152365}Get that, would you, Oliver?
+{152427}{152507}- No?|- No, no. OK, we go in.
+{152595}{152632}Oh, mein Gott.
+{152652}{152720}Oliver! Barbara!
+{152720}{152760}- Gavin!|- Gavin!
+{152767}{152847}- Gavin, get a ladder!|- OK!
+{152947}{153005}I knew everything would be all right.
+{153135}{153180}-
+{153205}{153242}Gavin!
+{153302}{153375}- Gavin!|- Gavin!
+{153450}{153505}-
+{153555}{153635}We're gonna be all right.|you see those two wires?
+{153637}{153667}Yeah.
+{153672}{153777}Each of them can hold... at least 200 pounds.
+{154760}{154820}-
+{155545}{155597}We're coming!
+{157090}{157162}Mein Gott. They are dead.
+{157200}{157250}-
+{157675}{157722}Some story, huh?
+{157842}{157907}What's the moral?
+{157910}{158010}Other than dog people should marry|dog people and cat people, cat people.
+{158070}{158137}I don't know.
+{158140}{158200}It could be just this:
+{158202}{158300}..a civilised divorce|is a contradiction in terms.
+{158347}{158430}Maybe because of what happened,|I've become too traditional.
+{158432}{158527}Maybe it's not natural|to stay married to one person for life.
+{158545}{158597}My parents did it.
+{158600}{158650}63 years.
+{158665}{158730}A few of 'em good!
+{158815}{158875}So, look. Here it is.
+{158877}{158942}We can begin.
+{158945}{158995}When it comes to your wife,...
+{158997}{159130}..I'm going to urge you to be generous|to the point of night sweats.
+{159152}{159285}The all-important thing is to get you through|this as quickly and cleanly as possible...
+{159287}{159365}..so that you can begin rebuilding your life.
+{159365}{159415}OK?
+{159477}{159527}Or...
+{159590}{159642}..you can get up...
+{159645}{159700}..and go home,...
+{159702}{159802}..and try to find some shred...
+{159805}{159907}..of what you once loved|about the sweetheart of your youth.
+{160037}{160087}It's your life.
+{160157}{160212}Take a minute.
+{161080}{161170}Hi, what are you doing?|I'm coming home. Love you. Bye.

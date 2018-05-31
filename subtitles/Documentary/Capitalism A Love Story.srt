@@ -1,0 +1,796 @@
+{1}{1}25.000
+{1252}{1346}What can you say about a|25-year-old girl who died?
+{1400}{1474}That she was beautiful and brilliant?
+{1512}{1592}That she loved Mozart and Bach?
+{1606}{1670}The Beatles?
+{1671}{1724}And me?
+{2147}{2228}- Do you have this book?|- You have your own library.
+{2229}{2311}- Answer my question.|- Answer mine first.
+{2312}{2396}We're allowed to use|the Radcliffe library.
+{2397}{2480}I'm not talking legality,|I'm talking ethics.
+{2481}{2565}Harvard's got five million books,|Radcliffe a few thousand.
+{2566}{2650}I only want one. I've got|an hour exam tomorrow, damn it!
+{2651}{2717}Please watch your profanity, preppy.
+{2776}{2848}Why do you think|I went to prep school?
+{2849}{2954}- You look stupid and rich.|- Actually, I'm smart and poor.
+{2955}{3011}No, I'm smart and poor.
+{3012}{3117}- Why are you so smart?|- I won't have coffee with you.
+{3119}{3222}- I wouldn't ask you.|- That's what makes you stupid.
+{3314}{3404}Comp. Lit. 105. Not bad.
+{3406}{3558}Music 150. Not bad.|Music 201, that's a graduate course.
+{3559}{3623}- Renaissance polyphony.|- What's polyphony?
+{3624}{3693}Nothing sexual, preppy.
+{3694}{3759}I told you, my name is Oliver.
+{3760}{3831}- First or last?|- First.
+{3832}{3902}- Oliver what?|- Barrett.
+{3917}{4031}- Barrett like the poet?|- Yeah, no relation.
+{4032}{4136}- Barrett like the hall?|- Yes.
+{4137}{4217}I'm having coffee|with a Harvard building.
+{4218}{4326}I'm not Barrett Hall. My great|grandfather just gave it to Harvard.
+{4327}{4417}So his not-so-great grandson|could get in?
+{4418}{4547}If you think I'm a loser, why did you|bulldoze me into buying you coffee?
+{4574}{4647}I like your body.
+{4832}{4908}- I major in Social Studies.|- It doesn't show.
+{4909}{5019}- It's an honours programme.|- I know you've got a few brains.
+{5020}{5131}- Really?|- You're hung up on me, aren't you?
+{5241}{5305}- Jenny?|- Yeah?
+{5306}{5424}Listen, you Radcliffe bitch.|There's a hockey game on Friday.
+{5425}{5487}- So?|- I want you to come.
+{5499}{5582}Why would I go|to a lousy hockey game?
+{5600}{5688}- Because I'm playing.|- For which side?
+{6664}{6746}Two minutes for number seven.|Holding.
+{6763}{6900}Penalty, Barrett, Harvard,|Two minutes, Holding,
+{7131}{7209}Why are you here|when your friends are playing?
+{7210}{7286}I'm in the penalty box.
+{7288}{7360}- What did you do?|- I tried too hard.
+{7362}{7446}- Is that a big disgrace?|- I'm trying to concentrate.
+{7447}{7517}- On what?|- On how I'll total that bastard.
+{7518}{7572}Come on, Harvard, let's go!
+{7586}{7676}Are you a dirty player?|Would you ever total me?
+{7677}{7800}- I will right now if you don't shut up.|- I'm leaving. Goodbye.
+{8024}{8149}Barrett back in the game,|Harvard have full strength,
+{8957}{9085}And a goal, Ackerman,|Assist, Barrett,
+{9097}{9177}- Now I've seen a hockey game.|- What did you like best?
+{9178}{9274}- When you were on your ass.|- Thanks for coming.
+{9275}{9360}I didn't say you could kiss me.
+{9361}{9445}- I was carried away.|- I wasn't.
+{9528}{9596}I may not call you for a few months,
+{9597}{9698}or I might call you|when I get back to my room.
+{9699}{9799}- Bastard.|- You can dish it out, but not take it.
+{9977}{10041}- Hello, animals.|- Hey, Ollie.
+{10042}{10104}- What did you get?|- An assist.
+{10105}{10189}- Off Cavilleri?|- None of your business.
+{10190}{10299}- I'm your roommate!|- Has Barrett got a new goodie?
+{10300}{10405}Jenny Cavilleri.|It's a music type from Rhode lsland.
+{10406}{10536}- I know her. Real tight-ass.|- Plays piano for the Bach Society.
+{10537}{10656}- What does she play with Barrett?|- Probably hard to get.
+{10669}{10749}Simpson. Up yours.
+{10762}{10824}That proves it.
+{11249}{11308}Hello, Jen?
+{11309}{11468}What would you say if I told you...|I think I'm in love with you?
+{11469}{11626}Never say "love" if you don't mean it.|You're a known quantity.
+{11642}{11672}Meaning?
+{11673}{11818}You're known for quantity.|At Radcliffe, every hall is Barrett Hall.
+{11831}{11978}- You've been checking up on me.|- I won't dine outdoors with anybody.
+{12005}{12112}- Am I just anybody?|- What do you think, preppy?
+{12210}{12310}You'll have to fend for yourself|this weekend.
+{12326}{12438}I'll be mixing it up|with Francis LaPierre.
+{12459}{12540}- Very funny.|- Are you jealous?
+{12541}{12641}He's the captain|of the Cornell hockey team.
+{12642}{12731}You've been reading the sports page.
+{12890}{12981}I wouldn't mind|watching you play against Cornell.
+{12998}{13084}No. I'll be involved.
+{13085}{13166}Oh, yeah. The All-lvy title.
+{13346}{13422}- More than the All-lvy title?|- A lot more.
+{13547}{13674}Cornell goal,|Score tied, 3-3,
+{13813}{13880}Come on, man! Quit!
+{14085}{14174}I'll kick your ass back to Montreal!
+{14313}{14366}Get up!
+{14399}{14480}You're out of the game, Barrett.|Come on!
+{14531}{14647}- Je vais te casser la gueule!|- I'll break yours before mine!
+{14648}{14745}Come on, Barrett, get off the ice!
+{14875}{14945}You Montreal faggots!
+{14959}{15039}What?! Francis LaPierre|started the fight!
+{15040}{15106}- Get in!|- Come on!
+{15107}{15171}Five minutes for number seven. Fight.
+{15172}{15316}Penalty, Barrett, Harvard,|Five minutes for fighting,
+{17132}{17201}You probably want a steak, son.
+{17223}{17291}No, thanks. The doctor took care of it.
+{17292}{17367}I meant for your stomach, Oliver.
+{17388}{17516}- I'm supposed to eat with the team.|- Oh, that's fine.
+{17534}{17624}- Does your face hurt?|- No, sir.
+{17657}{17773}- Jack Wells should take a look at it.|- That's not necessary.
+{17774}{17875}- Jack's a specialist.|- It's nothing special.
+{17899}{18032}- My car's there. Can I give you a lift?|- I'll walk you to your car.
+{18056}{18139}Have you heard from the Law School?
+{18140}{18235}I haven't exactly decided|on the Law School.
+{18236}{18358}I was merely asking|if the Law School had decided on you.
+{18382}{18450}- No.|- There really isn't any doubt.
+{18451}{18576}- About what?|- The school needs good men like you.
+{18577}{18721}- They haven't got a hockey team.|- You have other qualities, Oliver.
+{18744}{18816}I'm sorry you had to see Harvard lose.
+{18817}{18897}I came to see you play.
+{18931}{19023}The Dean of the school|is an old classmate...
+{19024}{19093}That's very nice, sir.
+{19163}{19250}- Goodbye.|- Goodbye, sir.
+{19357}{19444}- Give my best to Mother.|- Yes, I will.
+{20022}{20089}Briggs Hall. Sandy Davidson.
+{20090}{20146}Jennifer Cavilleri.
+{20147}{20234}You have a call.|She's in the downstairs phone booth.
+{20235}{20304}- Where is that?|- Around the corner.
+{20384}{20496}Would you please...|For God's sake, Phil!
+{20512}{20655}Yes. Yeah, yeah,|for the million-and-oneth time, yeah!
+{20656}{20776}Absolutely! Oh, I love you, too, Phil.
+{20777}{20849}Yeah, I love you, too.
+{20850}{20904}Goodbye.
+{20947}{21049}- What happened? You look terrible.|- I'm injured.
+{21050}{21124}Did you make|the other guy look worse?
+{21125}{21197}I always make|the other guy look worse.
+{21215}{21283}- Jenny?|- Yeah?
+{21284}{21382}- Who's Phil?|- My father.
+{21456}{21507}You call your father Phil?
+{21508}{21605}- It's his name, what do you call yours?|- Son-of-a-bitch.
+{21606}{21693}- To his face?|- I never see his face.
+{21694}{21778}- Why? Does he wear a mask?|- In a way.
+{21780}{21864}He must be proud.|You're a Harvard jock.
+{21865}{21963}- So was he.|- Bigger than All-lvy?
+{21964}{22070}He rowed single sculls|in the 1928 Olympics.
+{22071}{22142}- Did he win?|- No.
+{22143}{22226}- Then why is he a son-of-a-bitch?|- He leans on me.
+{22227}{22319}- He makes me do the right things.|- So?
+{22320}{22465}I don't like to have to put out X amount|of achievement every term.
+{22466}{22552}You hate making the Dean's list|and being All-lvy!
+{22553}{22692}He expects no less, and when|I come through, he is so indifferent.
+{22694}{22778}- Ridiculous!|- And what did he say after the game?
+{22779}{22836}He went all that way to watch you play?
+{22837}{22995}After we blew the title|and after I was nearly massacred,
+{22996}{23060}do you know what he said to his son?
+{23061}{23163}- Whores in lthaca?|- "l know the Dean of the Law School."
+{23165}{23280}What did you expect him to say?|"How is your sex life?"
+{23282}{23395}- Whose side are you on?|- I didn't know it was a war.
+{23412}{23520}- You don't understand.|- More than you wish I did.
+{23521}{23628}Did the son-of-a-bitch|at least get lousy grades?
+{23629}{23769}- He was a Rhodes scholar.|- There's a problem of overachievement.
+{23770}{23869}- Forget about it. There's no problem.|- Right.
+{23870}{24016}Do I call my father on the phone?|Do I say, "l love you, Phil?"
+{24017}{24083}- No.|- There you are.
+{24084}{24214}And do you know why?|Because his name is Oliver.
+{24251}{24367}The great Barrett Hall.|Don't you salute when you pass it?
+{24368}{24481}- It's ugly. I've never been inside.|- That's a mature attitude.
+{24482}{24559}It's not easy living with history.
+{24560}{24694}- How many have to cope with that?|- I could name two.
+{24708}{24747}Thanks.
+{25058}{25148}Must you play music while we study?
+{25149}{25254}I'm studying the music,|It's called "Analysis of Form",
+{25255}{25294}Yeah,,,
+{25295}{25365}You'll flunk if you just stare at me,
+{25366}{25484}- I'm not, I'm studying,|- Bullshit, You're looking at my legs,
+{25485}{25601}- You're not that great looking,|- I can't help if you think so,
+{25602}{25702}- Let's change the subject,|- I wasn't aware there was one,
+{25703}{25805}You think that I wanted|to make love to you,
+{25806}{25954}- But I'm not interested,|- Then we've got one thing in common,
+{25955}{26119}I'm tired of playing your game.|You are a supreme Radcliffe smart-ass.
+{26120}{26187}The best. You put down|anything in pants.
+{26188}{26292}But verbal volleyball|is not my idea of a relationship.
+{26293}{26425}If that's what you think it's all about,|go back to your music waltz.
+{26470}{26615}I think you're scared. You put up|a wall to keep from getting hurt,
+{26616}{26718}but it also keeps you|from getting touched.
+{26738}{26810}It's a risk, isn't it, Jenny?
+{26858}{26966}At least I had the guts|to admit what I felt.
+{26980}{27120}Some day you'll have to come up with|the courage to admit that you care.
+{27203}{27249}I care.
+{28666}{28782}- Would your priest like this?|- I don't have one.
+{28830}{28987}- Aren't you a good Catholic girl?|- Well, I'm a girl...
+{29026}{29098}...and I'm good, right?
+{29142}{29213}So that's two out of three.
+{29238}{29337}- Why do you wear it?|- It was my mother's.
+{29354}{29471}Why did you leave the Church?
+{29485}{29600}I don't know.|I never really joined.
+{29635}{29765}I never thought there was another world|better than this one.
+{29795}{29888}What could be better than Mozart?
+{29902}{29954}Or Bach?
+{29975}{30027}Or you?
+{30073}{30133}Jenny?
+{30185}{30275}I'm up there with Bach and Mozart?
+{30312}{30385}And The Beatles.
+{30639}{30722}- Let me sack in your couch.|- How come?
+{30724}{30807}- Barrett.|- Who's the guest of honour?
+{30808}{30902}- Cavilleri.|- Again? Still?
+{30903}{30976}Barrett's slipping.
+{31419}{31487}It's amazing.
+{31568}{31647}I'm really studying.
+{31648}{31744}- I'm studying.|- Sorry.
+{31918}{31981}Oliver?
+{32067}{32114}I love you.
+{36869}{36912}You were great.
+{36913}{37001}- You know nothing about music.|- I know enough.
+{37002}{37150}Wise up, would you please, Barrett?|I wasn't great or All-lvy, just OK. OK?
+{37189}{37228}OK.
+{37229}{37354}- I mean you should keep at it.|- Who said I won't?
+{37355}{37428}I'm going to study|with Nadia Boulanger.
+{37429}{37469}Who?
+{37470}{37577}Next year.|I have a scholarship in Paris.
+{37591}{37628}Paris?
+{37629}{37725}Yeah, I've never been to Europe.|I can hardly wait.
+{37739}{37848}- How long have you known?|- It's inevitable.
+{37849}{37878}What is?
+{37880}{37966}That we'll separate.|You'll go to Law School.
+{37967}{38096}- What are you talking about?|- You're a millionaire, I'm a social zero.
+{38097}{38209}What do you mean?|We're together, we're happy.
+{38210}{38350}Harvard is like a bag full of toys,|but when the holiday is over,
+{38351}{38431}you have to go back|where you belong.
+{38432}{38559}- Back to bake cookies?|- Pastries. Don't make fun of my father.
+{38560}{38619}Then don't leave me, Jenny!
+{38736}{38796}Please.
+{38810}{38923}What about my scholarship|and Paris, which I've never seen?
+{38924}{39037}- What about our marriage?|- Who said anything about marriage?
+{39069}{39124}I'm saying it, now.
+{39146}{39211}You want to marry me?
+{39252}{39300}Yeah.
+{39307}{39349}Why?
+{39510}{39550}Because.
+{39649}{39730}That's a good reason.
+{40153}{40275}- You're driving like a maniac.|- Everybody does in Boston.
+{40276}{40356}You'll kill us before|your parents can murder us.
+{40357}{40459}- My parents will love you.|- Even the son-of-a-bitch?
+{40460}{40571}Of course. Where is|the old Radcliffe confidence?
+{40572}{40680}- Back at Radcliffe.|- It's going to be OK, Jenny.
+{40681}{40787}- What did you say on the phone?|- Just that I'd drop by.
+{40788}{40868}- Very casual, huh?|- Yeah, right.
+{40869}{40947}How often do you visit during a term?
+{40948}{41051}- Never.|- Oh, that's casual...
+{41827}{41900}Holy shit!
+{42015}{42110}Stop, Oliver. No kidding, stop the car.
+{42331}{42411}I didn't think it would be like this,
+{42413}{42492}- Like what?|- I mean, like this rich.
+{42504}{42649}- This is too much for me.|- Don't worry. lt'll be a breeze.
+{42650}{42819}Yeah, but why do I wish my name|were Abigail Adams or Wendy Wasp?
+{42875}{42919}Don't be scared.
+{42947}{43035}- Aren't you?|- No.
+{43492}{43581}- So far, so good.|- That's not saying much.
+{43582}{43643}- Your hand is cold.|- So is yours.
+{43644}{43769}- Let's get away from here.|- Master Oliver! Hello!
+{43770}{43846}Hello, Florence. This is Jenny.
+{43847}{43943}"Master"? I always knew|you had slaves.
+{44026}{44158}Let me take your wrap.|Your parents are in the drawing room.
+{44243}{44310}Thank you, Florence.
+{44365}{44444}Half the buildings of Harvard|are hanging there.
+{44445}{44502}Oh, it's nothing.
+{44515}{44588}You're related to|the Sewall Boat House?
+{44589}{44695}Yes, I come from a long line|of wood and stone.
+{44927}{44984}Hello there.
+{45026}{45136}- I'd like you to meet Jennifer Calaveri.|- Cavilleri.
+{45137}{45245}- As in "Cavalleria Rusticana"?|- Right. No relation.
+{45246}{45321}- Hello, Mum.|- Hello, darling.
+{45322}{45395}Nice to meet you.|How are you, son?
+{45417}{45485}Fine, sir, fine.
+{45499}{45596}Please sit down|and make yourself at home.
+{45927}{45983}We'll have to go soon.
+{46002}{46097}Why are you so uncomfortable|with your parents?
+{46098}{46230}- Why did you want to leave at once?|- I didn't like how they treated you.
+{46231}{46285}"What is it your parents are in?"
+{46286}{46382}- What is it your people are in?|- My father bakes cookies.
+{46383}{46493}- What's the name of the firm?|- Phil's Bake Shop.
+{46494}{46603}- Of Cranston, Rhode lsland.|- How interesting...
+{46604}{46738}- So your people are from Cranston?|- Mostly. My mother is from Fall River.
+{46739}{46873}- The Barretts have mills in Fall River.|- Where they exploited the poor.
+{46874}{46929}In the 19th century.
+{46930}{47041}When you inherit,|you can give all our money back.
+{47047}{47124}That's what the philosopher|Saint-Simon advocated.
+{47125}{47190}In the 18th century.
+{47263}{47345}- It's late.|- Aren't you staying for dinner?
+{47346}{47411}- Yes.|- No. I have to get back.
+{47412}{47503}You're staying for dinner|and that's an order.
+{47504}{47593}Everything is an order,|a directive, a command.
+{47594}{47657}Where is your sense of humour?
+{47658}{47745}In school, he used to send me memos.
+{47746}{47819}Memos! Don't you find that odd?
+{47820}{47887}I find it rather cute.
+{47945}{48005}Have you heard from Law School?
+{48031}{48125}- Not yet.|- He'll get in. Who's better than Oliver?
+{48126}{48212}I agree. He'll graduate with honours.
+{48213}{48304}He's always done well in school.|At Exeter, he was...
+{48305}{48445}It doesn't mean a thing.|I'm just one of many trying to get in.
+{48469}{48611}- I could give Price Zimmermann a ring.|- No! I mean, please don't, sir.
+{48619}{48676}Just to find out if he knows.
+{48680}{48776}I want to get my letter|with everyone else. Please.
+{48838}{48990}- He was only trying to be helpful.|- I don't need that kind of help.
+{48991}{49065}- OK.|- No, it's not OK.
+{49066}{49197}He's not going to be satisfied|until he cuts them off.
+{49198}{49289}What you wouldn't like to be cut off.
+{49290}{49391}Oh... Well, we've got|to take care of those.
+{49392}{49551}- Take care.|- Get there a minute later, but get there.
+{49682}{49820}- You really like to bug your father.|- The feeling is mutual.
+{49821}{49910}You wouldn't stop at anything|to get to him.
+{49911}{49999}It's impossible to get|to Oliver Barrett lll.
+{50040}{50158}Unless maybe if you marry|Jennifer Cavilleri?
+{50303}{50408}- Is that what you think?|- Yes, it's part of it.
+{50434}{50500}You don't believe I love you?
+{50502}{50626}Yes, but you also love|my negative social status.
+{50627}{50688}No.
+{50689}{50780}I can't pass judgement.|I just think so.
+{50781}{50948}I love not only you,|but also your name and your numeral.
+{50949}{51033}After all, it's part of what you are.
+{51047}{51132}- Oh, how can you do it?|- What?
+{51176}{51239}How can you see me|and still love me?
+{51256}{51330}That's what it's about, preppy.
+{52076}{52184}- How are you, son?|- I'm OK, sir.
+{52186}{52264}Did you hear from Law School?
+{52265}{52379}- Yes. I called you, remember?|- Yes. Congratulations.
+{52380}{52498}- You'll be on the Supreme Court.|- I may just chase ambulances.
+{52499}{52574}Fine. How's Raymond?
+{52576}{52650}He's fine. Got into OCS.
+{52651}{52737}Army? That's good.
+{52738}{52810}That's bad.
+{52843}{52919}You haven't mentioned Jennifer.
+{52920}{53035}What is there to say? You're|presenting us with a fait accompli,
+{53036}{53152}- But what did you think?|- She's absolutely charming.
+{53153}{53246}With her background,|to get to Radcliffe is...
+{53247}{53386}- Get to the point!|- It doesn't concern her, but you.
+{53387}{53467}Your rebellion. And you are rebelling.
+{53468}{53524}I fail...
+{53541}{53703}I fail to see how marrying a brilliant|Radcliffe girl constitutes rebellion.
+{53704}{53782}She's not some crazy hippie.
+{53783}{53850}She's not many things.
+{53863}{53961}What irks you most,|that she's Catholic or poor?
+{53975}{54036}- What attracts you most?|- I'm leaving.
+{54037}{54213}Don't go off half-cocked.|I would only ask that you wait a bit.
+{54227}{54270}Define "bit".
+{54271}{54377}Finish Law School.|If it's real, it'll stand the test of time.
+{54378}{54464}It is real,|but why should I put it through a test?
+{54465}{54556}- I'm asking you.|- You're commanding me!
+{54557}{54702}If you marry her now,|I'll not give you the time of day.
+{54729}{54811}Father, you don't know the time of day!
+{55429}{55527}We're looking forward|to having you with us.
+{55528}{55591}Me too, Dean Thompson.
+{55615}{55705}- Something has come up.|- A change of heart?
+{55706}{55795}No, I'm still set on Law School, but...
+{55811}{55881}I'm going to need a scholarship.
+{55908}{56001}- Really?|- That's why I'm here.
+{56012}{56133}That's rather curious,|considering your background.
+{56158}{56263}- I'm not his son anymore.|- I beg your pardon?
+{56312}{56460}We have had a misunderstanding.|It's a parting of the ways.
+{56495}{56645}- This is very unfortunate, Mr Barrett.|- I'm not exactly jumping for joy.
+{56646}{56777}We have many entering students|in far worse straits than you.
+{56778}{56905}What's worse than destitution?|I'm getting married next month.
+{56906}{57061}We'll work all summer, and then|Jenny will teach in a private school.
+{57076}{57187}That's a living, but not tuition.|Your tuition is pretty steep.
+{57188}{57229}Yes.
+{57281}{57388}I need a scholarship.|I have already been accepted.
+{57389}{57504}- I don't have any money.|- You have a millionaire father.
+{57505}{57650}Had, Why should I be penalised just|because I was related to a rich man?
+{57651}{57852}Mr Barrett, I don't think that this office|should enter into a family quarrel.
+{57853}{58000}- A rather distressing one, at that.|- I see. Thank you.
+{58037}{58123}Perhaps at mid-year's.
+{58182}{58272}Thank you. You've been|very generous with your time.
+{58427}{58559}- We just passed my junior high school.|- I can't believe he liked my poverty.
+{58560}{58650}He did! Now you've got|something in common.
+{58651}{58740}God, when I first told him|Oliver Barrett...
+{58741}{58837}- Yeah?|- He couldn't believe it.
+{58838}{58926}He reminded me|of the Eleventh Commandment.
+{58927}{59012}- Eleventh?|- "Do not bullshit thy father."
+{59026}{59091}Any other commandments|I should know?
+{59092}{59150}Yeah. "Stay loose."
+{59666}{59785}- So is he for it? Does he approve?|- What do you think?
+{59786}{59913}- I won't allow it, do you get me?|- You're tilting at windmills, Phil.
+{59915}{60041}Stop calling his father a windmill.|He's a distinguished citizen...
+{60042}{60093}- Mr Cavilleri...|- Phil.
+{60094}{60222}- I'll call his goddamn father.|- It won't do any good, goddammit!
+{60223}{60303}- Don't use profanity in this house.|- You do.
+{60304}{60387}- What will he think?|- That you've gone mad.
+{60389}{60471}Because I won't allow a parent|to reject a child?
+{60472}{60553}- Mr Cavilleri...|- Phil.
+{60575}{60670}Phil, sir... I reject him, too!
+{60671}{60809}Don't talk like that. A father's love|is something to cherish and respect.
+{60810}{60897}- It's a rare thing.|- Especially in my family.
+{60898}{61005}- Let's get him on the phone.|- We have this cold line.
+{61006}{61155}He'll thaw and melt. Believe me,|when it's time to go to church...
+{61156}{61206}Let's get him on the phone.
+{61227}{61306}- Please, Phil.|- What?
+{61320}{61384}About the church bit...
+{61385}{61469}Well, we're kind of negative on it.
+{61540}{61648}I didn't necessarily mean|the Catholic Church.
+{61742}{61869}You know that Jennifer is Catholic?|She may have told you that.
+{61870}{61987}And her sainted mother|always dreamed of
+{61988}{62104}the whole mass rigmarole,|but you're...
+{62139}{62230}But God would bless this union|in any church.
+{62251}{62292}- Phil?|- Yeah?
+{62294}{62359}- About the God bit.|- Yeah?
+{62360}{62484}- We're sort of negative about that, too.|- About God?
+{62533}{62690}- About anybody's God?|- Neither of us believe.
+{62691}{62761}And we won't be hypocrites.
+{62831}{62957}If that's what you wish.|Just tell me who performs the wedding.
+{62958}{63008}We do.
+{63079}{63157}You mean to do it yourself?
+{63248}{63335}That's...wonderful.
+{63423}{63545}I mean, that's just...wonderful.
+{63630}{63766}Do it yourself, huh?|I think that's just wonderful.
+{63776}{63912}But, tell me, is it...?|What's the word?
+{63915}{63993}- You mean "legal"?|- Is it?
+{63994}{64132}Yes. One of the college chaplains|just sort of...
+{64147}{64258}He presides over it,|and the couple address each other.
+{64259}{64322}You mean the bride speaks, too?
+{64404}{64566}- It's a new world, Philip.|- Oh, yeah. It's new, all right.
+{64907}{64940}Ready?
+{64941}{65048}- Amen.|- They haven't started, yet.
+{65063}{65150}How will I know?|I've never been to a do-it-yourself.
+{65151}{65255}Listen to the words they have chosen|to read on this occasion.
+{65256}{65297}Amen.
+{65317}{65392}The priest said "sacred".
+{65413}{65509}- He's not a priest.|- He is to me.
+{65770}{65880}"When our two souls stand up|erect and strong
+{65883}{65991}"Face to face, silent,|drawing nigh and nigher
+{65992}{66095}"Until the lengthening wings|break into fire at either curved point,
+{66096}{66171}"What bitter wrong|can the earth do to us
+{66172}{66245}"That we should not|long be here contented?
+{66246}{66357}"Think! In mounting higher,|the angels would press on us
+{66358}{66444}"And aspire to drop some golden orb|of perfect song
+{66445}{66518}"lnto our deep, dear silence
+{66531}{66607}"Let us stay rather on earth, Beloved,
+{66608}{66731}"Where the unfit contrarious|moods of men recoil away
+{66732}{66804}"And isolate pure spirits
+{66805}{66900}"And permit a place|to stand and love in for a day
+{66901}{66995}"With darkness and|the death-hour rounding it."
+{67028}{67093}"l give you my hand!
+{67139}{67231}"l give you my love|more precious than money
+{67265}{67357}"l give you myself|before preaching or law
+{67388}{67539}"Will you give me yourself?|Will you come travel with me?
+{67578}{67669}"Shall we stick by each other|as long as we live?"
+{67799}{67909}l, Oliver Barrett,|take you, Jennifer Cavilleri,
+{67910}{68018}to be my wedded wife|from this day forward...
+{68057}{68172}...to love and to cherish|till death do us part.
+{68186}{68287}l, Jennifer Cavilleri,|take you, Oliver Barrett,
+{68288}{68391}as my wedded husband|from this day forward,
+{68392}{68495}to love and to cherish|till death do us part.
+{68815}{68903}By the authority vested in me by|the Commonwealth of Massachusetts,
+{68904}{68981}I pronounce you man and wife.
+{69102}{69154}Now I'm being kept.
+{69155}{69233}- You won't like it.|- I already do.
+{69234}{69321}The school only pays me 3,000 a year.
+{69322}{69408}- Why?|- Because my name is Mrs Barrett.
+{69409}{69566}- Couldn't you be Miss Cavilleri?|- Then I'd be the Queen of Paris.
+{69567}{69604}It's a bargain.
+{69605}{69725}Four rooms for 82.50 a month|is impossible this side of Mongolia.
+{69726}{69822}But this is the Mongolian section|of Cambridge.
+{70006}{70058}Gee...
+{70059}{70187}I have to admit that|it's even worse than I expected.
+{70188}{70274}- Yeah, but it's home.|- Yeah.
+{70288}{70344}- Well?|- Well what?
+{70345}{70456}- Carry me over the threshold.|- Do you believe that nonsense?
+{70457}{70551}- Carry me and I'll tell you.|- We're at the top floor!
+{70552}{70641}OK, I'll be a young|and beautiful divorcee.
+{70669}{70745}Hey, what is this, Barrett?
+{70746}{70831}I'll tell you after we cross the threshold.
+{70950}{71020}- This is not a threshold.|- Our name is there.
+{71021}{71130}It's not an official threshold.|Upstairs, you preppy!
+{71263}{71351}- Why are you so heavy?|- I might be pregnant.
+{71352}{71431}- Are you?|- Scared you, didn't l?
+{71432}{71509}- No, l...|- Don't bullshit me.
+{71510}{71629}For a second I clutched.|Is this the official threshold?
+{71630}{71697}- What do think?|- If you don't say yes...
+{71698}{71752}Yes!
+{73353}{73418}- Where's Barrett?|- Where are the kids?
+{73419}{73563}Asleep, thank God. It's siesta time.|I've got 45 minutes.
+{73564}{73631}That's more than they give me.
+{73901}{73951}Damn it!
+{73952}{74044}- What's wrong with this engine?|- You're a Harvard Magna.
+{74045}{74127}- Not in mechanics.|- Welcome to the world, preppy.
+{74128}{74209}- Listen, Cavilleri...|- The name's Barrett, Barrett.
+{74210}{74300}Sometimes you are really a bitch.
+{74485}{74572}- How are they treating you?|- Fine, except for one brat.
+{74574}{74639}He'll be breaking and entering|before 10.
+{74640}{74720}- What now?|- He tried to pinch me.
+{74744}{74835}- I don't blame him.|- Next time, I'll wallop him.
+{74836}{74916}Not until you get his parents' tip.
+{74983}{75036}Damn it!
+{75113}{75192}- Let's get out of here.|- Don't touch me.
+{75193}{75317}- What a thing to say to your husband!|- Wash. You can touch me afterwards.
+{75332}{75462}I had another salary hassle today|with Miss Anne Miller Whitman.
+{75463}{75658}- I hope you laid it on thick this time.|- I told her I was proud to work for them.
+{75659}{75756}I said, "Even Barretts|have to pay their rent."
+{75757}{75855}- To which she retorted...|- "Ho, ho, ho!"
+{75889}{76011}- Define "Ho, ho, ho".|- 3,500 for the year.
+{76012}{76055}Ridiculous!
+{76056}{76192}Would you like to support me while l|take courses to teach in public school?
+{76258}{76362}- Would you please say something?|- Ho, ho, ho.
+{77521}{77630}- I thought you'd call after the meeting.|- I wanted you to study.
+{77631}{77703}- Have you eaten?|- I waited for you.
+{77704}{77777}- You're a growing boy.|- Not anymore.
+{77779}{77860}Yes, in the mind.|Did you check the mail?
+{77862}{77943}Just one second.|This is a crucial precedent.
+{78146}{78252}- Did you check the mail?|- No. Anything vital?
+{78253}{78358}- We are cordially invited...|- ...to pay the light bill.
+{78359}{78414}To a dinner.
+{78427}{78513}Your father's 60th birthday.
+{78564}{78626}- Did you hear me?|- Yes.
+{78627}{78681}RSVP.
+{78697}{78783}- You even have to ask?|- It's about time.
+{78784}{78833}- For what?|- You know.
+{78834}{78921}Does he have to crawl here?|He's reaching out.
+{78922}{78987}My mother addressed it.
+{79001}{79128}Think. 60 years old. Maybe he won't|be around for a reconciliation.
+{79129}{79177}There won't be one.
+{79178}{79271}- Oliver V will bug you...|- He won't be called that!
+{79272}{79397}He can be called Bozo. He'll still|resent you for being a Harvard jock!
+{79398}{79490}- You'll be on the Supreme Court...|- He won't resent me!
+{79491}{79547}- Why not?|- Because l...
+{79548}{79654}Your father loves you|like you'll love Bozo,
+{79655}{79786}but you Barretts are so proud that you'll|always think you hate each other.
+{79787}{79889}If it weren't for you?|The case is closed!
+{80006}{80156}- There's still the RSVP.|- I think you can handle it.
+{80176}{80288}I have never deliberately hurt anyone,|and I don't think I could.
+{80289}{80353}Jennifer!
+{80354}{80428}Just answer no.
+{80442}{80565}- OK. What's the number?|- Can't you write a note?
+{80566}{80644}I'll lose my nerve.|What's the number?
+{80645}{80763}338-3434, and dial 1 first.
+{81160}{81323}Good evening, this is Jennifer Barrett.|Mr Barrett! Good evening, sir.
+{81324}{81390}Fine, thank you.
+{81391}{81460}Yes, we did. That's why I'm calling.
+{81461}{81574}I'm terribly sorry,|I mean we're terribly sorry,
+{81575}{81650}but... no we can't.
+{81682}{81739}I'm sorry.
+{81763}{81859}Oliver, please talk to him.|Just say hello.
+{81875}{81986}- I will never talk to him.|- Can't you do it for me?
+{81987}{82147}I've never asked you to do anything|in my whole life. Just for me.
+{82148}{82186}No.
+{82265}{82333}You're a heartless bastard.
+{82372}{82460}Mr Barrett?|Oliver would like you to know,
+{82461}{82572}that in his own special way,|he loves you very much.
+{82573}{82642}Get the hell out of my life!
+{88210}{88257}I forgot my key.
+{88309}{88395}Jenny, I'm sorry.
+{88406}{88466}Don't.
+{88467}{88541}Love means|never having to say you're sorry.
+{93256}{93366}Concentrate on blending|and stop showing off your voice.
+{93367}{93440}But I wasn't!
+{93465}{93577}- No bullshit. You were showing off.|- Sorry, Jenny.
+{93578}{93688}One last time and this time|I want crisp diction.
+{94830}{94982}Wow! That was really|incredibly, absolutely...
+{95008}{95059}...not bad.
+{95140}{95273}- Tomorrow at 8.30, OK?|- OK. Bye, Jenny.
+{95728}{95795}Well, Barrett,|what brings you to church?
+{95808}{95866}The saloons closed early.
+{95938}{96003}Did you get us a tree?
+{96028}{96116}Don't worry about it.|We'll get one on the way home.
+{96187}{96250}What are you doing New Year's Eve?
+{96291}{96353}Sleeping.
+{96460}{96523}I thought you'd want|to spend it with me.
+{96546}{96621}What are you doing?
+{96622}{96688}Sleeping.
+{96798}{96899}Some day, we'll look back|on these days...
+{96900}{96979}The sooner, the better.
+{97143}{97200}Go!
+{97330}{97396}Jennifer, come here!
+{97436}{97511}Jennifer, come here!
+{97512}{97627}What? Come on!|Start it over again.
+{97628}{97722}- What is it?|- I have something important to tell you.
+{97723}{97835}- Couldn't you tell me over there?|- No, I want to be alone with you.
+{97866}{97940}Fantastic news. Here, read.
+{97941}{98024}Harvard Law School?|You got kicked out.
+{98026}{98107}Read it, will you?|It's great news.
+{98109}{98245}- You were first in the class?|- Not quite. Third.
+{98264}{98387}- Only third, huh?|- That means I make the Law Review.
+{98450}{98516}Say something, please.
+{98517}{98620}Not until I've met|numbers one and two.
+{98952}{99137}And the William DeJersey Memorial|Award for the finest senior essay to...
+{99138}{99218}...Oliver Barrett lV.
+{99618}{99676}- On your feet.|- How much?
+{99677}{99725}500 big ones!
+{99726}{99772}Holy shit!
+{99773}{99878}- Get up! Come on!|- Quiet!
+{99975}{100094}The Jennifer Barrett Maternity Award!
+{100512}{100618}- It was a good apartment for 80 bucks.|- Now our garage will cost that.
+{100619}{100728}- Why have a car in New York?|- House calls, Jenny.
+{100729}{100839}Lawyers for Jonas and Marsh|don't make house calls.
+{100840}{100950}- Yes, to Mr Jonas and Mr Marsh.|- You can walk there.
+{100951}{101043}- Rich people ride.|- Nouveau riche people.
+{101044}{101096}That's us.
+{101097}{101222}You won't laugh? I'm actually|getting to like the name Bozo.
+{101223}{101288}- For what?|- Our kid.
+{101289}{101353}Our huge and bruising All-lvy tackle.
+{101354}{101461}- Bozo Barrett?|- It's the name of a Harvard superjock.
+{101462}{101574}You would actually call|our offspring Bozo?
+{101576}{101638}Only if it's a boy.
+{101939}{102019}- We have crossed the poverty line.|- Not quite.
+{102021}{102098}- What?|- Not until I'm carried over the threshold.
+{102099}{102200}- We've done that!|- Now you're a lawyer. lt'll be legal.
+{102201}{102300}- It's on the tenth floor!|- Carry me in the elevator.
+{102301}{102360}Thank God for that.
+{102403}{102486}- Can I help?|- Barrett. 10-H. The bags are in the car.
+{102487}{102573}- Is the lady all right?|- I will be when I'm over the threshold.
+{102574}{102663}- Newly-weds, huh?|- Eternally.
+{102678}{102729}Move your ass, preppy.
+{102982}{103108}You've got it made, you bastard.|Made in the shade.
+{103154}{103255}- Snug as a bug in a rug.|- Cut the crap and play.
+{103256}{103356}Working for Jonas and Marsh,|pulling in the coin...
+{103358}{103443}- Play, damn it!|- I can't help it.
+{103508}{103589}Married to "Foul Mouth Angelface".
+{103590}{103646}Pay attention.
+{103647}{103758}- Why should you have all the luck?|- It was a long drag.
+{103759}{103867}This is the first week|that Jenny hasn't had to work.
+{103868}{103999}- What is she going to do?|- I want her to study, she wants a baby.
+{104000}{104102}- So?|- So we're making babies.
+{104141}{104276}- Do you need any help, old buddy?|- I'll call you if I need you.
+{105006}{105149}- Whose fault is it?|- I wouldn't use the word "fault".
+{105162}{105245}OK, we'll put it your way.
+{105280}{105436}Two 24-year-olds can't make a baby.|One must be malfunctioning. Who?
+{105437}{105493}Jenny.
+{105549}{105618}All right, then we'll adopt kids.
+{105619}{105753}The problem is more serious.|Jenny is very sick.
+{105814}{105863}Define "very sick".
+{105918}{105967}She's dying.
+{106123}{106180}That's impossible.
+{106181}{106252}I'm sorry to have to tell you this.
+{106309}{106374}That's impossible.
+{106408}{106481}It's a mistake, it has to be.
+{106483}{106624}We repeated her blood test three times.|The diagnosis is correct.
+{106641}{106715}She'll have to be told soon.
+{106716}{106830}We can withhold treatment|for a little while, but not for long.
+{106858}{106971}We'll have to begin therapy|sometime during the next few weeks.
+{106986}{107048}She's only 24.
+{107166}{107246}- Will it be painful?|- Hopefully not.
+{107247}{107386}You'll want to talk to a haematologist.|I can refer you to Dr Addison.
+{107425}{107480}Yeah.
+{107521}{107622}What do I do?|What can I do for Jenny?
+{107641}{107769}Act as normal as possible,|for as long as possible.
+{107799}{107870}That's really the best thing.
+{107921}{107983}Normal.
+{108002}{108105}OK, I'll be as normal as hell.
+{110319}{110370}Jen?
+{110420}{110483}Jenny, I'm home.
+{110500}{110573}- I need a lawyer.|- I'm a lawyer.
+{110574}{110636}I need you.
+{110637}{110733}- I need you, too.|- Why? I'm not a lawyer.
+{110734}{110838}No, but you're a nut,|and I happen to need a nut.
+{110860}{110950}- You look lovely, Jenny.|- Bullshit.
+{110951}{111058}- OK, you look terrible.|- No, I never look terrible.
+{111059}{111178}- I look OK for Thursday evening, OK?|- There's no poetry in "OK".
+{111179}{111271}Screw poetry.|Just tell me what you see.
+{111284}{111377}- I see you.|- That's poetry.
+{111378}{111499}Did Dr Shapeley tell you|that we both checked out?
+{111500}{111537}Yeah.
+{111538}{111634}So we just have to keep trying, right?
+{111655}{111778}- Yeah, let's try now.|- At this very minute?
+{111780}{111842}Even sooner.
+{112358}{112402}Jenny?
+{112497}{112637}Get out there and support me in|the manner to which I'll be accustomed.
+{112654}{112707}Get up.
+{112758}{112838}- Are you meeting Stratton today?|- Who?
+{112839}{112963}Ray Stratton, your best friend.|Your roommate before me.
+{112988}{113126}- We're supposed to play, but I'll cancel.|- The hell you will!
+{113127}{113226}- Why not?|- I don't want a flabby husband.
+{113227}{113326}- All right, but I'll take you out to dinner.|- Why?
+{113327}{113412}Can't I take my wife|to dinner if I want to?
+{113413}{113538}- OK, Barrett, what's her name?|- What?
+{113539}{113657}If you take your wife out in the middle|of the week, you're screwing somebody.
+{114110}{114189}- What's the matter?|- Off day.
+{114190}{114273}You've had an off day|for two weeks now.
+{114274}{114389}Jonas wants me to go to Chicago|on a big case.
+{114418}{114493}That newscaster|that got beat up by the cops.
+{114494}{114588}Fantastic. You on the other side|of a punch-out rap.
+{114589}{114649}- I turned him down.|- Why?
+{114650}{114756}I couldn't see living in some hotel.
+{114757}{114843}Boy, you're really married!
+{114875}{114946}Your time will come.
+{116445}{116487}Mrs Barrett!
+{116488}{116555}I'm in the kitchen where I belong.|Come here.
+{116556}{116641}- Guess what.|- You got fired.
+{116642}{116756}- I got fired up. Guess where to.|- Reno, Nevada.
+{116757}{116829}Paris, France.|We'll be there Christmas Day.
+{116884}{116970}No, that's not the way we'll do it.
+{116971}{117084}- Do what?|- I don't want Paris, I don't need Paris.
+{117085}{117201}- I just want you.|- That you got, baby.
+{117236}{117345}And I want time,|which you can't give me.
+{117477}{117553}You saw Dr Shapeley?
+{117568}{117667}And his buddy, too.|He's a very nice guy.
+{117719}{117784}- Good. Who?|- Dr Addison.
+{117786}{117930}He's a Yalie, college and med school.|But I said you wouldn't mind.
+{117968}{118031}Not if he's nice.
+{118032}{118131}He didn't bullshit me,|and that's what I wanted.
+{118222}{118346}- OK, then for the Yalie doctor.|- OK.
+{118644}{118770}I'm counting on you to be strong,|you goddamn hockey jock.
+{118783}{118859}I will, baby. I will.
+{118930}{119026}It will be hardest for Phil.
+{119060}{119156}You, after all, are going to be|the merry widower.
+{119232}{119368}- I won't be merry.|- Yes, you will. I want you to be merry.
+{119383}{119454}You'll be merry, OK?
+{119505}{119557}OK.
+{119580}{119630}OK.
+{121912}{122018}- Enough?|- No. I love watching you.
+{122019}{122169}- The old hockey fake-out.|- That's you, the old hockey fake-out.
+{122170}{122267}- Can we get hot chocolate?|- Sure, I'll even pay.
+{122268}{122426}- Very gracious of you.|- I liked it best when I supported you.
+{122427}{122548}You always supported me.|After all, what's money?
+{122562}{122622}I don't know.
+{122802}{122911}- Could we afford a taxi?|- Sure. Where do you want to go?
+{122949}{123021}The hospital.
+{125236}{125372}She's getting white cells and platelets,|which she needs most.
+{125373}{125473}- She doesn't want antimetabolites.|- What's that?
+{125474}{125620}A treatment that slows cell destruction.|But there are unpleasant side effects.
+{125621}{125700}Jenny's the boss.|Whatever she wants.
+{125701}{125810}Do everything you can|to make sure it doesn't hurt.
+{125811}{125896}- We will.|- I don't care what it costs.
+{125897}{125979}- It could take months.|- Screw the cost.
+{125980}{126095}There's no way of knowing|how long she'll linger.
+{126096}{126177}I want her to have the very best.
+{126178}{126331}I'm wealthy. I'm rich.|Really, I'm like a millionaire.
+{127311}{127389}- How have you been?|- Fine, sir.
+{127390}{127497}- And how is Jennifer?|- She's fine, sir.
+{127605}{127715}I need to borrow 5,000 dollars|for a very good reason.
+{127831}{127906}Well?
+{127907}{128011}- Sir?|- May I know the reason?
+{128027}{128124}I can't tell you.|Just lend me the money, please.
+{128126}{128221}- Don't they pay you at the firm?|- Yes, sir.
+{128222}{128331}- And doesn't she teach...|- Don't call her "she".
+{128355}{128420}- Doesn't Jennifer...|- Leave her out of it.
+{128421}{128564}Just write out a cheque.|It's a very important personal matter.
+{128583}{128657}You got some girl in trouble?
+{128701}{128777}Yeah, that's it.
+{128910}{128961}Please lend me the money.
+{130036}{130114}Thank you, Father.
+{131773}{131806}How is she?
+{131807}{131879}She wants the troops home|for Christmas.
+{131880}{131977}- Always running the show.|- She may succeed.
+{131990}{132069}- That fast?|- Yes.
+{132530}{132579}Hello, baby.
+{132592}{132633}Phil.
+{132634}{132698}How is it going, Mrs B?
+{132713}{132815}It's going, preppy.|The troops will be home for Christmas.
+{132816}{132899}- That's a little trite.|- It's the goddamn truth.
+{132922}{133016}Watch your language.|There's a grown-up present.
+{133036}{133132}I hope so. Phil made a few promises.
+{133133}{133192}Don't worry, Jenny.
+{133251}{133331}Maybe I ought to let you guys...
+{133332}{133401}I'll be nearby.
+{133636}{133702}It doesn't hurt, Ollie.
+{133742}{133838}It's like falling off|a cliff in slow motion.
+{133877}{133956}Only after a while you wish you'd hit|the ground already, you know?
+{134005}{134043}Yeah.
+{134048}{134133}Bullshit. You've never fallen off a cliff.
+{134156}{134252}Yes, I did. When I met you.
+{134293}{134346}Yeah.
+{134347}{134424}"What a falling off was there."
+{134444}{134528}- Who said that?|- I don't know. Shakespeare?
+{134529}{134606}Yeah, but who?
+{134626}{134691}I mean, what play?
+{134692}{134767}I went to Radcliffe, I'm supposed|to remember those things.
+{134909}{134990}I once knew all|the Mozart Kochel listings.
+{135028}{135122}- Big deal.|- You bet it was.
+{135163}{135259}What number is|the A Major Concerto?
+{135288}{135446}- I don't know. I'll look it up.|- But I used to know all those things.
+{135498}{135617}- Do you want to talk music?|- What do you want to talk? Funerals?
+{135693}{135762}No, I don't.
+{135924}{135980}Ollie?
+{136000}{136111}I told Phil you could have|a Catholic service
+{136112}{136216}and you'd say OK. OK?
+{136283}{136376}lt'll really help him a lot, you know?
+{136430}{136484}OK.
+{136536}{136627}Now you've got to stop being sick.
+{136628}{136679}Me?
+{136693}{136788}That guilty look on your face,|it's sick.
+{136958}{137094}Stop blaming yourself,|you stupid preppy. It's nobody's fault.
+{137239}{137313}It's not your fault.
+{137455}{137555}That's the only thing I'll ask you.|Otherwise, you'll be OK.
+{137994}{138067}Screw Paris!
+{138132}{138173}What?
+{138203}{138323}Screw Paris and music and everything|you thought you stole from me.
+{138341}{138430}I don't care, don't you believe that?
+{138682}{138790}Then get the hell out of here!|I don't want you at my deathbed!
+{138916}{138988}I believe you.
+{138990}{139061}I really do.
+{139105}{139163}That's better.
+{139274}{139368}Would you please|do something for me?
+{139516}{139574}Would you please hold me?
+{139864}{139967}I mean really hold me. Next to me.
+{141791}{141842}Philip?
+{142138}{142193}I wish...
+{142305}{142397}I wish I hadn't promised Jenny...
+{142535}{142644}I wish I hadn't promised Jenny|to be strong for you.
+{143724}{143773}Oliver.
+{143791}{143853}Why didn't you tell me?
+{143854}{143978}I made some calls, and when I found out|I jumped in the car.
+{143979}{144052}Oliver, I want to help.
+{144073}{144122}Jenny's dead.
+{144189}{144243}- I'm sorry.|- Love...
+{144300}{144394}Love means never having to say you're sorry.

@@ -1,0 +1,5595 @@
+﻿1
+00:00:22,271 --> 00:00:27,007
+Hi, I'm Robert Lawrence with the
+Advantage Corporation in San Diego,
+
+2
+00:00:27,008 --> 00:00:30,077
+and we have a Colby 5 here,
+
+3
+00:00:30,145 --> 00:00:33,444
+which is highly optimised
+for playing chess.
+
+4
+00:00:33,582 --> 00:00:37,780
+And we have designed it around
+a recursive assembler routine
+
+5
+00:00:37,953 --> 00:00:41,946
+that uses a brute strength approach
+
+6
+00:00:42,090 --> 00:00:43,857
+to finding the optimal route.
+
+7
+00:00:43,858 --> 00:00:45,759
+I don't want to give away exact numbers,
+
+8
+00:00:45,760 --> 00:00:49,096
+but we've got the fastest depth-first
+search to get the most number...
+
+9
+00:00:49,097 --> 00:00:51,565
+We can predict more turns in advance
+than any other computer,
+
+10
+00:00:51,566 --> 00:00:53,000
+so we've got a good chance.
+
+11
+00:00:53,001 --> 00:00:55,231
+My field is experimental psychology,
+
+12
+00:00:55,370 --> 00:00:57,972
+but I've spent the last three years
+studying chess skill
+
+13
+00:00:57,973 --> 00:01:00,737
+in both humans and machines.
+
+14
+00:01:00,875 --> 00:01:02,035
+And this is TSAR.
+
+15
+00:01:02,177 --> 00:01:08,207
+This is the latest iteration of Caltech's
+computer chess program.
+
+16
+00:01:08,316 --> 00:01:12,753
+This is 3.0. Last year, 2.0 won
+this very same tournament.
+
+17
+00:01:12,887 --> 00:01:16,123
+Computers are getting smaller, they're
+getting better, they're getting faster.
+
+18
+00:01:16,124 --> 00:01:18,892
+It's a matter of time before
+we beat people with these things.
+
+19
+00:01:18,893 --> 00:01:22,483
+Do you guys have a program
+in the competition here today?
+
+20
+00:01:22,497 --> 00:01:24,331
+No. Don't know anything about it.
+
+21
+00:01:24,332 --> 00:01:28,359
+We're just watching 'em get ready
+for the end of the world here.
+
+22
+00:01:28,503 --> 00:01:32,303
+- World War III.
+- That's what we're here for.
+
+23
+00:01:32,474 --> 00:01:34,041
+Getting in on the ground floor.
+
+24
+00:01:34,042 --> 00:01:37,278
+Do you think a human being
+will ever beat a person at chess?
+
+25
+00:01:37,279 --> 00:01:39,847
+Oh... Between a "human being"
+and a "person"?
+
+26
+00:01:39,848 --> 00:01:42,009
+My money's on the computer.
+
+27
+00:01:43,251 --> 00:01:44,718
+Er, I mean a computer...
+
+28
+00:01:44,719 --> 00:01:47,921
+If you ask Captain Apocalypse there...
+Have you talked to this guy?
+
+29
+00:01:47,922 --> 00:01:53,326
+I feel like I'm writing intercontinental
+ballistic missile routines here!
+
+30
+00:01:53,495 --> 00:01:55,258
+I just wanna win at chess.
+
+31
+00:02:03,238 --> 00:02:06,036
+"NOTHING BUT CHANGES")
+
+32
+00:02:54,756 --> 00:02:56,690
+Hey! Hey!
+
+33
+00:02:56,825 --> 00:03:00,527
+Do not ever shoot at the sun,
+you're gonna burn out the tube!
+
+34
+00:03:00,528 --> 00:03:03,964
+- I wasn't shooting at the sun, it's fine.
+- You're shooting at the sun!
+
+35
+00:03:03,965 --> 00:03:06,333
+You're gonna shoot the rest
+of the weekend inside.
+
+36
+00:03:06,334 --> 00:03:09,269
+We want to be only inside. That's it!
+
+37
+00:03:09,371 --> 00:03:12,772
+But computer chess goes back
+even further,
+
+38
+00:03:12,941 --> 00:03:18,311
+to the mechanical Turk, 1770,
+the original chess-playing machine.
+
+39
+00:03:18,446 --> 00:03:22,405
+It played against and defeated
+Benjamin Franklin
+
+40
+00:03:22,550 --> 00:03:25,110
+and Napoleon Bonaparte.
+
+41
+00:03:26,054 --> 00:03:27,612
+Well, he had a secret.
+
+42
+00:03:27,756 --> 00:03:30,987
+There was a human being
+inside the machine.
+
+43
+00:03:31,126 --> 00:03:33,961
+Though the first was a fraud,
+we're working to get back
+
+44
+00:03:33,962 --> 00:03:38,296
+to that level of chess play
+when machine beats man.
+
+45
+00:03:38,433 --> 00:03:42,436
+I greet you for our annual North
+American Computer Chess Tournament
+
+46
+00:03:42,437 --> 00:03:46,703
+and present you with a panel
+of the best and the brightest.
+
+47
+00:03:46,841 --> 00:03:50,971
+From my left, there is Les Carbray
+from Allied Laboratories.
+
+48
+00:03:51,146 --> 00:03:52,306
+Hi there.
+
+49
+00:03:52,414 --> 00:03:56,009
+Martin Beuscher,
+sitting in for Tom Schoesser.
+
+50
+00:03:56,151 --> 00:04:01,179
+And that's last year's winner,
+TSAR 2.0 from Caltech.
+
+51
+00:04:01,289 --> 00:04:05,851
+Roland McVey from MIT,
+the programrs of STASIA.
+
+52
+00:04:06,027 --> 00:04:10,396
+And finally Mike Papageorge,
+who is an independent programr.
+
+53
+00:04:13,234 --> 00:04:16,067
+Is there a computer program
+in the house
+
+54
+00:04:16,204 --> 00:04:19,230
+which can stand up
+to a human chess master?
+
+55
+00:04:19,374 --> 00:04:22,639
+That's me! When will a machine beat me?
+
+56
+00:04:23,678 --> 00:04:26,476
+Many years ago I made a public wager
+
+57
+00:04:26,648 --> 00:04:30,675
+that no computer would beat me
+until the year 1984,
+
+58
+00:04:30,852 --> 00:04:33,878
+and that date is quickly coming up.
+
+59
+00:04:34,022 --> 00:04:37,788
+So what do you think, gentlemen?
+Will I win my bet?
+
+60
+00:04:37,926 --> 00:04:41,384
+I... I think you're cutting it close,
+
+61
+00:04:41,496 --> 00:04:45,455
+but I think you will win that bet.
+
+62
+00:04:45,600 --> 00:04:50,469
+Erm... If I was in your shoes,
+I wouldn't extend it any.
+
+63
+00:04:50,605 --> 00:04:55,838
+I think within two years of that, 1986,
+
+64
+00:04:55,944 --> 00:04:57,912
+you won't stand a chance,
+
+65
+00:04:58,079 --> 00:05:03,381
+and I think that,
+say another ten years after that,
+
+66
+00:05:03,518 --> 00:05:07,028
+there isn't a man or woman alive
+who will stand a chance.
+
+67
+00:05:08,623 --> 00:05:11,592
+Well, there may be some disagreement,
+
+68
+00:05:11,726 --> 00:05:16,686
+but look at the speed with which
+the technology, the software,
+
+69
+00:05:16,831 --> 00:05:20,392
+but particularly the hardware,
+is progressing right now.
+
+70
+00:05:20,502 --> 00:05:24,063
+And just based on that speed,
+
+71
+00:05:24,239 --> 00:05:30,474
+barring a calamitous event
+like World War III to set us back,
+
+72
+00:05:30,578 --> 00:05:33,012
+I truly believe it to be inevitable.
+
+73
+00:05:34,315 --> 00:05:37,918
+How about any of the other gentlemen,
+do you have a thought on this?
+
+74
+00:05:37,919 --> 00:05:39,819
+Want to chime in?
+
+75
+00:05:40,588 --> 00:05:42,283
+This articulate panel?
+
+76
+00:05:42,390 --> 00:05:45,092
+We've experimented some
+with parallel processing
+
+77
+00:05:45,093 --> 00:05:47,473
+and then we're doing selective search,
+
+78
+00:05:47,795 --> 00:05:51,959
+and all the algorithmic and software things
+that we're doing
+
+79
+00:05:52,133 --> 00:05:54,868
+makes a difference,
+it does make an improvement,
+
+80
+00:05:54,869 --> 00:05:59,829
+but it's dwarfed by the improvement
+we get just with better hardware.
+
+81
+00:05:59,941 --> 00:06:04,139
+More memory and faster processor.
+
+82
+00:06:04,312 --> 00:06:08,248
+We're blessed at Allied
+in that we have the equipment,
+
+83
+00:06:08,349 --> 00:06:11,069
+we have the resources
+at our disposal, so...
+
+84
+00:06:11,119 --> 00:06:16,989
+The person I'm really excited to talk to
+about real gains in software
+
+85
+00:06:17,125 --> 00:06:19,889
+is perhaps Tom Schoesser,
+
+86
+00:06:19,994 --> 00:06:22,796
+who I thought was going to be here
+on this panel?
+
+87
+00:06:22,797 --> 00:06:24,765
+Yes, Professor Schoesser
+will be here shortly,
+
+88
+00:06:24,766 --> 00:06:26,333
+he is delayed, but he will be here.
+
+89
+00:06:26,334 --> 00:06:29,462
+OK, could you perhaps
+talk about some of that?
+
+90
+00:06:29,571 --> 00:06:31,869
+Talk about advances? Well, I...
+
+91
+00:06:32,740 --> 00:06:37,110
+I think it's safe to say that we're operating
+in some of the same avenues as Allied,
+
+92
+00:06:37,111 --> 00:06:41,172
+but maybe Professor Schoesser
+could speak more to that,
+
+93
+00:06:41,316 --> 00:06:45,514
+but I'm not necessarily certain
+he would speak about it.
+
+94
+00:06:45,653 --> 00:06:48,322
+Well, anyway,
+whatever you did last year was working
+
+95
+00:06:48,323 --> 00:06:51,383
+because TSAR 2.0 was the winner,
+
+96
+00:06:51,526 --> 00:06:54,316
+and they were especially good
+about endgames,
+
+97
+00:06:54,429 --> 00:06:57,965
+and that's a place
+where computer programs often falter.
+
+98
+00:06:57,966 --> 00:07:02,767
+So I think what I'd like to show is an
+example of what happened last year.
+
+99
+00:07:06,007 --> 00:07:09,499
+And I'm sorry
+to do this to my friend right here, but...
+
+100
+00:07:09,611 --> 00:07:11,602
+So, STASIA versus DAWN.
+
+101
+00:07:11,746 --> 00:07:14,848
+Well, this should have been
+an easy win for STASIA.
+
+102
+00:07:14,849 --> 00:07:20,651
+Any human being can see
+that there's a forced queen-takes-queen,
+
+103
+00:07:20,788 --> 00:07:24,121
+and it's a very easy victory for White.
+
+104
+00:07:24,258 --> 00:07:28,592
+But instead... Queen checks.
+
+105
+00:07:29,263 --> 00:07:31,026
+Queen checks.
+
+106
+00:07:31,165 --> 00:07:33,998
+Check, check, check, check,
+back and forth,
+
+107
+00:07:34,102 --> 00:07:37,367
+over and over again, lost in a loop.
+
+108
+00:07:37,505 --> 00:07:40,175
+Very, very embarrassing,
+wouldn't you say?
+
+109
+00:07:40,708 --> 00:07:44,610
+Er, yes. It was not our finest moment.
+
+110
+00:07:44,712 --> 00:07:47,146
+But you bring up a good point.
+
+111
+00:07:47,281 --> 00:07:49,850
+I think we've seen a lot of increase
+in hardware speed,
+
+112
+00:07:49,851 --> 00:07:52,479
+it's definitely led to stronger game play.
+
+113
+00:07:54,322 --> 00:07:57,324
+In fact I think we're searching the tree
+deeply enough now
+
+114
+00:07:57,325 --> 00:08:00,975
+that we're catching
+pretty much all of the tactical issues.
+
+115
+00:08:01,062 --> 00:08:02,896
+But STASIA's greatest weakness,
+
+116
+00:08:02,897 --> 00:08:06,856
+which I think is the same weakness
+all our programs share,
+
+117
+00:08:07,001 --> 00:08:12,268
+is that it really has a very poor
+understanding of the positional issues.
+
+118
+00:08:12,407 --> 00:08:16,707
+So this year at MIT
+we've hired a grandmaster to help us out.
+
+119
+00:08:16,878 --> 00:08:20,080
+He's helped us come up with a couple rules
+on the endgame specifically
+
+120
+00:08:20,081 --> 00:08:24,677
+that will hopefully help us
+avoid the comedy that we saw last year.
+
+121
+00:08:26,754 --> 00:08:29,523
+Mr Papageorge,
+we haven't heard from you yet.
+
+122
+00:08:29,524 --> 00:08:32,391
+You usually have
+a very unique opinion, so...
+
+123
+00:08:32,527 --> 00:08:35,257
+Frankly Pat,
+
+124
+00:08:35,363 --> 00:08:38,265
+I have to tell you I find the programming
+of my fellow competitors here
+
+125
+00:08:38,266 --> 00:08:40,816
+to be almost as boring as this discussion.
+
+126
+00:08:41,903 --> 00:08:44,905
+Why, because the machine can't compete
+against the human soul?
+
+127
+00:08:44,906 --> 00:08:46,016
+Very interesting!
+
+128
+00:08:46,107 --> 00:08:48,508
+Sure, sooner or later
+somebody's gonna write a program
+
+129
+00:08:48,509 --> 00:08:51,535
+that's gonna beat you in '83, in '85,
+who cares?
+
+130
+00:08:52,547 --> 00:08:54,181
+Listen, you guys
+are just trying to eke out
+
+131
+00:08:54,182 --> 00:08:56,483
+one little victory
+versus each other, you know?
+
+132
+00:08:56,484 --> 00:08:58,952
+You get here this year,
+you get here next year.
+
+133
+00:08:58,953 --> 00:09:01,188
+My program is seeking harmonies,
+seeking innovations...
+
+134
+00:09:01,189 --> 00:09:03,690
+- I'm not entirely sure...
+- That's what I'm doing!
+
+135
+00:09:03,691 --> 00:09:06,560
+...from the perspective of programming
+that it actually means anything.
+
+136
+00:09:06,561 --> 00:09:09,501
+Well, we'll see
+when we get to the competition.
+
+137
+00:09:11,499 --> 00:09:13,467
+Could you please
+spell your name for me, sir?
+
+138
+00:09:13,468 --> 00:09:18,235
+Sure, it's P-A-P-A-G-E-O-R-G-E.
+
+139
+00:09:19,974 --> 00:09:21,308
+I don't see anything here.
+
+140
+00:09:21,309 --> 00:09:24,574
+- I'm sorry.
+- P-A-P-A-G-E-O-R-G-E?
+
+141
+00:09:24,712 --> 00:09:27,078
+- No.
+- M-l-C-H-A-E-L?
+
+142
+00:09:27,181 --> 00:09:28,648
+I'm sorry.
+
+143
+00:09:28,750 --> 00:09:33,086
+I could call to one of the neighbouring
+hotels and see if there's an available room.
+
+144
+00:09:33,087 --> 00:09:37,247
+No, I need to stay at this hotel
+where the competition's being held!
+
+145
+00:09:43,998 --> 00:09:48,560
+Um, I am Pat Henderson,
+I am very excited.
+
+146
+00:09:48,736 --> 00:09:52,570
+We have players from all over America,
+Canada, Quebec...
+
+147
+00:09:52,740 --> 00:09:55,375
+Just great,
+and we have something new this year,
+
+148
+00:09:55,376 --> 00:09:58,645
+we have a lady who is competing,
+way in the back corner.
+
+149
+00:09:58,646 --> 00:10:01,214
+I'm happy about that too, she's welcome.
+
+150
+00:10:01,215 --> 00:10:04,082
+So, the way
+this tournament works is this,
+
+151
+00:10:04,218 --> 00:10:07,585
+we play Swiss system -
+that's five rounds.
+
+152
+00:10:07,722 --> 00:10:11,920
+That means everybody keeps playing.
+If you lose, you play to the end.
+
+153
+00:10:12,059 --> 00:10:14,892
+However there is one big winner,
+
+154
+00:10:15,029 --> 00:10:19,090
+and that winner gets a $7,500 prize.
+
+155
+00:10:19,200 --> 00:10:21,735
+And the other thing you get to do,
+you get to play me.
+
+156
+00:10:21,736 --> 00:10:23,336
+Stick around for the last day
+
+157
+00:10:23,337 --> 00:10:27,296
+because I challenge
+that winning chess program.
+
+158
+00:10:28,342 --> 00:10:31,077
+This will be a gruelling couple of days,
+so let's keep it light,
+
+159
+00:10:31,078 --> 00:10:34,614
+let's keep it collegial, be respectful,
+and of course have fun.
+
+160
+00:10:34,615 --> 00:10:37,106
+Let's begin round 1.
+
+161
+00:10:48,262 --> 00:10:51,254
+So, er, Tom Schoesser - is he showing up?
+
+162
+00:10:51,399 --> 00:10:53,859
+He's a good guy. Way ahead of his time.
+
+163
+00:10:54,101 --> 00:10:56,341
+He's like Tesla, he's so far ahead.
+
+164
+00:10:56,404 --> 00:10:58,004
+I wanna talk to him about
+the "Eureka moment".
+
+165
+00:10:58,005 --> 00:11:03,875
+And frankly, we're on the way to a kind
+of timid strategy on the side of White.
+
+166
+00:11:04,045 --> 00:11:10,609
+I think the reason is, they are playing the
+very, very strong Caltech TSAR 3.0 team.
+
+167
+00:11:11,452 --> 00:11:15,548
+In this case, maybe the program
+is trying for a draw?
+
+168
+00:11:15,690 --> 00:11:19,387
+In fact I defy anybody
+to tell me any theory of Tesla's
+
+169
+00:11:19,493 --> 00:11:21,791
+that's been disproven today.
+
+170
+00:11:21,896 --> 00:11:25,457
+I mean, wireless energy transfer,
+
+171
+00:11:25,600 --> 00:11:28,068
+radio before Marconi,
+
+172
+00:11:28,202 --> 00:11:29,601
+the spark plug,
+
+173
+00:11:29,704 --> 00:11:30,904
+alternating current engine...
+
+174
+00:11:30,905 --> 00:11:32,497
+Rook to D8.
+
+175
+00:11:32,673 --> 00:11:35,873
+- Maybe the Industrial Revolution.
+- No, it says E8...
+
+176
+00:11:41,415 --> 00:11:42,677
+TSAR takes pawn.
+
+177
+00:11:42,817 --> 00:11:44,307
+Queen takes queen.
+
+178
+00:11:46,554 --> 00:11:50,285
+And rather than capture queen,
+the rook just approaches it.
+
+179
+00:11:51,325 --> 00:11:54,027
+Is there any possibility
+that this is, er...
+
+180
+00:11:54,028 --> 00:11:57,464
+some kind of, er, very advanced...
+
+181
+00:11:57,565 --> 00:11:59,260
+I mean, er...
+
+182
+00:11:59,367 --> 00:12:02,666
+we just gave up a queen to, er...
+
+183
+00:12:02,770 --> 00:12:05,739
+to get his queen there
+and now we're basically just...
+
+184
+00:12:05,740 --> 00:12:07,332
+Well...
+
+185
+00:12:08,142 --> 00:12:09,632
+Um...
+
+186
+00:12:10,778 --> 00:12:12,968
+- Don't move that rook.
+- All right?
+
+187
+00:12:13,114 --> 00:12:15,604
+- Be right back.
+- Excuse me! Excuse me...
+
+188
+00:12:16,884 --> 00:12:19,254
+There seems to be a little glitch here,
+
+189
+00:12:19,353 --> 00:12:22,288
+maybe we should just
+follow with the camera
+
+190
+00:12:22,456 --> 00:12:25,558
+and I'll look over here
+at the STASIA SHORTSLEEV game.
+
+191
+00:12:25,559 --> 00:12:27,360
+We're having serious technical problems,
+
+192
+00:12:27,361 --> 00:12:30,196
+- I need to run a very, very brief diagnostic.
+- I'm sorry, once the clock has started...
+
+193
+00:12:30,197 --> 00:12:32,933
+There's a tiny...
+I'm almost certain I know what it is,
+
+194
+00:12:32,934 --> 00:12:34,734
+it's just going to take
+a moment of our time.
+
+195
+00:12:34,735 --> 00:12:35,963
+I appreciate that,
+
+196
+00:12:36,137 --> 00:12:38,772
+but unfortunately once the clock has
+started we cannot halt the game.
+
+197
+00:12:38,773 --> 00:12:41,469
+OK, er... That's understandable.
+
+198
+00:12:41,609 --> 00:12:45,045
+We can go ahead
+and leave the clock running.
+
+199
+00:12:45,146 --> 00:12:47,113
+It's gonna be a very brief diagnostic.
+
+200
+00:12:47,114 --> 00:12:48,915
+I'm almost certain
+I know what the issue is.
+
+201
+00:12:48,916 --> 00:12:54,286
+- I'm sorry, there's no adjusting the code.
+- We're at a point now... this game is not...
+
+202
+00:12:57,625 --> 00:12:59,388
+And MIT just won.
+
+203
+00:13:03,130 --> 00:13:05,332
+Great playing everyone, great round.
+
+204
+00:13:05,333 --> 00:13:08,335
+I've got your new table assignments
+up here on the projector.
+
+205
+00:13:08,336 --> 00:13:10,066
+Eight of you will be moving.
+
+206
+00:13:10,371 --> 00:13:14,501
+Er, let's be careful and,
+of course, watch for cables.
+
+207
+00:13:14,608 --> 00:13:15,905
+Good luck.
+
+208
+00:13:24,919 --> 00:13:26,079
+Oh, God...
+
+209
+00:13:27,388 --> 00:13:30,148
+Peter, can you tell me
+what's going on here?
+
+210
+00:13:30,791 --> 00:13:34,861
+I mean, chess is the game where you're
+supposed to protect the king, right?
+
+211
+00:13:34,862 --> 00:13:35,862
+Yes.
+
+212
+00:13:35,963 --> 00:13:38,598
+Rather than sending him out to die
+at the earliest opportunity.
+
+213
+00:13:38,599 --> 00:13:39,998
+- Is that right?
+- Yes.
+
+214
+00:13:40,134 --> 00:13:41,624
+- Yeah?
+- OK.
+
+215
+00:13:41,769 --> 00:13:47,708
+Do you have any idea what game it is
+that TSAR is trying to play right now?
+
+216
+00:13:52,546 --> 00:13:54,309
+Can you enter the move?
+
+217
+00:14:19,507 --> 00:14:20,872
+Scotch, man?
+
+218
+00:14:21,776 --> 00:14:22,868
+God, yes.
+
+219
+00:14:23,844 --> 00:14:26,446
+Another of these
+for the Rules Committee here?
+
+220
+00:14:26,447 --> 00:14:28,176
+Thank you so much.
+
+221
+00:14:28,315 --> 00:14:31,845
+A lot of late night coding sessions
+fuelled by this stuff.
+
+222
+00:14:32,653 --> 00:14:35,645
+You don't find it blurs your judgment?
+
+223
+00:14:36,524 --> 00:14:38,934
+I've got it down to a science, you see.
+
+224
+00:14:39,293 --> 00:14:40,885
+There's a sweet spot.
+
+225
+00:14:41,062 --> 00:14:43,496
+And the sweet spot is three scotches.
+
+226
+00:14:44,465 --> 00:14:45,465
+Four?
+
+227
+00:14:45,533 --> 00:14:48,933
+You start to get a little bit drunk,
+a little bit fuzzy.
+
+228
+00:14:49,703 --> 00:14:51,638
+One or two, it just doesn't work.
+
+229
+00:14:51,639 --> 00:14:53,266
+But on three scotches?
+
+230
+00:14:54,008 --> 00:14:59,640
+A man on three scotches could program
+his way out of any problem in the world.
+
+231
+00:15:09,457 --> 00:15:11,858
+Excuse me, I'm gonna go to the bathroom.
+
+232
+00:15:11,859 --> 00:15:13,292
+OK.
+
+233
+00:15:20,267 --> 00:15:23,103
+Shelly, hi. Mike Papageorge.
+I was one of the panellists.
+
+234
+00:15:23,104 --> 00:15:24,503
+- Hi.
+- How you doing?
+
+235
+00:15:24,672 --> 00:15:25,672
+Fine.
+
+236
+00:15:25,840 --> 00:15:28,308
+I see you're with the MIT team.
+
+237
+00:15:28,476 --> 00:15:31,711
+That's wonderful, I think that we need
+more women here at this conference.
+
+238
+00:15:31,712 --> 00:15:33,580
+I mean seriously,
+you get all these guys together
+
+239
+00:15:33,581 --> 00:15:36,116
+to come up with a solution for this
+problem, what do they come up with?
+
+240
+00:15:36,117 --> 00:15:39,348
+"Brute force." Brute force.
+It's pathetic, really.
+
+241
+00:15:39,520 --> 00:15:41,588
+I'd be willing to bet
+that you and I are the only ones here
+
+242
+00:15:41,589 --> 00:15:45,079
+who even understand
+that programming has a feminine side.
+
+243
+00:15:49,730 --> 00:15:53,500
+Anyway, I would love to stay in your room
+if you have an extra bed.
+
+244
+00:15:53,501 --> 00:15:55,935
+I... I'm so sorry
+that you lost your room.
+
+245
+00:15:55,936 --> 00:15:58,166
+I... I don't have an extra bed.
+
+246
+00:15:58,305 --> 00:16:00,807
+Could I just crash on your floor
+or something?
+
+247
+00:16:00,808 --> 00:16:03,309
+I just need, you know,
+a blanket and a pillow really.
+
+248
+00:16:03,310 --> 00:16:05,612
+Just somewhere where I can crash
+till tomorrow morning.
+
+249
+00:16:05,613 --> 00:16:09,242
+The thing is,
+the computer's in my room, so...
+
+250
+00:16:09,350 --> 00:16:13,081
+I would probably need to check
+with the team to make sure...
+
+251
+00:16:13,220 --> 00:16:15,882
+What, McVey? He's fine, he loves me!
+
+252
+00:16:16,023 --> 00:16:18,791
+Excuse me.
+Sorry to eavesdrop, but I don't think...
+
+253
+00:16:18,792 --> 00:16:20,126
+Can I help you guys with something?
+
+254
+00:16:20,127 --> 00:16:23,029
+Yeah, I don't think it's a good idea to...
+with the computer equipment in her room.
+
+255
+00:16:23,030 --> 00:16:24,998
+I... I just don't think
+that's a good idea.
+
+256
+00:16:24,999 --> 00:16:30,301
+Sir, sir... we, unlike Shelly,
+we have a double, we have plenty of space.
+
+257
+00:16:30,437 --> 00:16:32,739
+We'd be happy to have you stay with us.
+
+258
+00:16:32,740 --> 00:16:35,450
+- You can stay in our room.
+- Yes, no problem.
+
+259
+00:17:26,961 --> 00:17:27,961
+What?
+
+260
+00:17:28,762 --> 00:17:32,112
+So the thing, er...
+the thing you got to remember is...
+
+261
+00:17:33,500 --> 00:17:37,020
+When I'm talking,
+I'm not really talking, he's talking.
+
+262
+00:17:37,104 --> 00:17:40,406
+When I'm asking questions,
+he's the one who's actually asking them.
+
+263
+00:17:40,407 --> 00:17:42,487
+He's just asking them through me.
+
+264
+00:17:43,043 --> 00:17:44,476
+You can answer me...
+
+265
+00:17:45,613 --> 00:17:48,203
+- But, but...
+- It's all going back to him.
+
+266
+00:17:48,215 --> 00:17:49,835
+He's pulling the strings.
+
+267
+00:17:49,883 --> 00:17:52,703
+- How do you feel about that?
+- I... I'm, er...
+
+268
+00:17:52,786 --> 00:17:55,076
+No, no, no! You've got to answer me.
+
+269
+00:17:55,723 --> 00:17:57,088
+So...
+
+270
+00:17:58,125 --> 00:17:59,990
+explain this to me, because...
+
+271
+00:18:00,094 --> 00:18:04,463
+guys like you are, like,
+from Mars, to me.
+
+272
+00:18:06,900 --> 00:18:09,090
+How does somebody end up being you?
+
+273
+00:18:09,236 --> 00:18:11,636
+I mean, how do you get to be you?
+
+274
+00:18:11,739 --> 00:18:14,401
+- How do I get to be me?
+- Yeah.
+
+275
+00:18:14,508 --> 00:18:17,443
+- How do you have to be you?
+- How do I <i>have</i> to be me?
+
+276
+00:18:17,444 --> 00:18:19,469
+Yeah. How do you get to be you?
+
+277
+00:18:20,281 --> 00:18:22,909
+Well, it's hard to sum up.
+
+278
+00:18:23,083 --> 00:18:25,943
+For the most part
+I'm doing what I love to do.
+
+279
+00:18:26,320 --> 00:18:31,280
+Um... but I've got
+the resources that I need.
+
+280
+00:18:31,425 --> 00:18:34,519
+You know, I... if I need...
+
+281
+00:18:34,695 --> 00:18:39,223
+if I need hardware,
+if I need computational cycles or whatever,
+
+282
+00:18:39,333 --> 00:18:41,453
+I mean, I've got that all on my...
+
+283
+00:18:41,502 --> 00:18:43,469
+No, but tell me, like, like, like...
+
+284
+00:18:43,470 --> 00:18:45,438
+Like, you get up and you... what?
+
+285
+00:18:45,439 --> 00:18:50,349
+You take a shower, you eat breakfast, you
+get in your car, you get on the highway?
+
+286
+00:18:51,078 --> 00:18:54,018
+- I'm, er...
+- What are you doing with your life?
+
+287
+00:18:54,081 --> 00:18:59,610
+I'm... developing
+a computer chess program!
+
+288
+00:18:59,720 --> 00:19:04,453
+Imagine a world where
+children can hone their skills
+
+289
+00:19:04,558 --> 00:19:06,059
+playing against machines,
+
+290
+00:19:06,060 --> 00:19:08,328
+where you've almost got
+an electronic chess coach...
+
+291
+00:19:08,329 --> 00:19:12,799
+But what if it's the computer honing
+its skills playing against children?
+
+292
+00:19:12,900 --> 00:19:14,970
+Well, I think that's part of a...
+
+293
+00:19:15,069 --> 00:19:17,609
+I think that's part of a bigger question.
+
+294
+00:19:17,938 --> 00:19:19,138
+From a technical point of view.
+
+295
+00:19:19,139 --> 00:19:22,308
+Can you look me in the eye
+and tell me that you have not...
+
+296
+00:19:22,309 --> 00:19:26,939
+had any interaction
+with the Defence Department,
+
+297
+00:19:27,114 --> 00:19:31,551
+the Pentagon, DARPA,
+the intelligence community, the entire...
+
+298
+00:19:31,719 --> 00:19:32,919
+- John invited me.
+- Fine.
+
+299
+00:19:32,920 --> 00:19:35,021
+They don't call it the
+"military-industrial complex" for nothing.
+
+300
+00:19:35,022 --> 00:19:36,489
+Hey, how's it going?
+
+301
+00:19:37,157 --> 00:19:38,157
+Hey.
+
+302
+00:19:38,292 --> 00:19:40,326
+Welcome to our little
+"after hours" joint here.
+
+303
+00:19:40,327 --> 00:19:43,129
+You want a beer, or you want some weed?
+There's pills in the back.
+
+304
+00:19:43,130 --> 00:19:45,724
+Nah, I usually abstain.
+
+305
+00:19:45,899 --> 00:19:47,332
+Usually?
+
+306
+00:19:47,501 --> 00:19:49,935
+- Have a peanut, at least.
+- All right.
+
+307
+00:19:50,104 --> 00:19:53,339
+- Let me... Let me...
+- Actually I want one of those too.
+
+308
+00:19:53,340 --> 00:19:56,142
+...accept some assumptions
+that I may not believe.
+
+309
+00:19:56,143 --> 00:19:57,542
+Let's say that, er...
+
+310
+00:19:57,711 --> 00:19:59,679
+Let's overstate my importance.
+
+311
+00:19:59,813 --> 00:20:03,271
+Let's say that,
+yes, this work that I'm doing,
+
+312
+00:20:03,384 --> 00:20:05,181
+they're very interested
+
+313
+00:20:05,319 --> 00:20:11,087
+and they're looking at every theory
+that I come up with
+
+314
+00:20:11,191 --> 00:20:17,391
+and applying this to their great
+military machine, or intelligence machine.
+
+315
+00:20:17,531 --> 00:20:19,632
+- I mean, let's...
+- It's not even a metaphor!
+
+316
+00:20:19,633 --> 00:20:21,667
+I mean, there are two sides,
+different colours,
+
+317
+00:20:21,668 --> 00:20:24,070
+one of 'em's got to win,
+one of 'em's got to lose.
+
+318
+00:20:24,071 --> 00:20:26,172
+It's gonna be ugly for the ones that lose.
+
+319
+00:20:26,173 --> 00:20:28,841
+There are "knights,"
+there are "kings," there are "queens."
+
+320
+00:20:28,842 --> 00:20:33,438
+This is obviously a militaristic problem
+that you're trying to solve.
+
+321
+00:20:35,883 --> 00:20:38,151
+Are you...
+are you trying to recruit me here?
+
+322
+00:20:38,152 --> 00:20:40,382
+Are you from the Pentagon?
+
+323
+00:20:40,487 --> 00:20:43,923
+Is there something you're not telling me?
+
+324
+00:20:44,057 --> 00:20:46,225
+Er, I get around, but that's not...
+
+325
+00:20:46,226 --> 00:20:48,057
+Oh, you get around?
+
+326
+00:20:48,228 --> 00:20:53,256
+If I'm all that you seem to be suggesting
+that I am to the Pentagon,
+
+327
+00:20:53,400 --> 00:20:55,994
+then if I wasn't performing this work
+
+328
+00:20:56,103 --> 00:21:00,673
+doesn't that mean that the Russians
+are getting ahead of us? I don't think...
+
+329
+00:21:00,674 --> 00:21:04,844
+You can use that excuse for any atrocity
+that's ever been committed.
+
+330
+00:21:04,878 --> 00:21:07,574
+"If I didn't do it somebody else would."
+
+331
+00:21:07,714 --> 00:21:10,817
+But on the other hand,
+you seem to be making the argument
+
+332
+00:21:10,818 --> 00:21:14,754
+that if any form of research
+has military potential
+
+333
+00:21:14,888 --> 00:21:19,291
+then it is something which
+morally should not be researched.
+
+334
+00:21:19,460 --> 00:21:22,261
+- I asked if it would bother you...
+- I think you halt human progress.
+
+335
+00:21:22,262 --> 00:21:24,025
+You halt human progress!
+
+336
+00:21:24,131 --> 00:21:25,792
+Chess is black and white.
+
+337
+00:21:25,899 --> 00:21:28,000
+Let's... again, let's take this example,
+
+338
+00:21:28,001 --> 00:21:29,502
+I'm not in the world,
+I'm not in the world...
+
+339
+00:21:29,503 --> 00:21:31,971
+It's not war, chess is not war.
+
+340
+00:21:34,441 --> 00:21:36,432
+It's like my uncle said,
+
+341
+00:21:37,911 --> 00:21:43,781
+"War is death, hell is pain,
+chess is victory," and um...
+
+342
+00:21:46,086 --> 00:21:47,854
+I would rather play a game of chess
+
+343
+00:21:47,855 --> 00:21:53,589
+than go fight, get killed,
+get a fuckin' bullet in the eye.
+
+344
+00:21:55,762 --> 00:21:57,252
+I enjoy it.
+
+345
+00:21:59,066 --> 00:22:01,434
+- I enjoy playing.
+- Here you go. Enjoy that.
+
+346
+00:22:01,435 --> 00:22:02,435
+Thanks.
+
+347
+00:22:08,909 --> 00:22:11,070
+But what about...
+
+348
+00:22:11,178 --> 00:22:13,408
+What about the progress of A.I.?
+
+349
+00:22:13,514 --> 00:22:16,039
+You talk of its applications in war,
+
+350
+00:22:16,149 --> 00:22:19,277
+but how far has A.I. Really come?
+
+351
+00:22:19,386 --> 00:22:22,788
+Things evolve, this is true,
+I'm not refuting that at all.
+
+352
+00:22:22,789 --> 00:22:26,691
+But if all computers can do is calculate,
+
+353
+00:22:27,528 --> 00:22:33,023
+then what about our basic
+fundamental premise of intelligence?
+
+354
+00:22:33,133 --> 00:22:35,067
+What is artificial intelligence?
+
+355
+00:22:35,068 --> 00:22:37,318
+Let me stop you there for one second.
+
+356
+00:22:38,906 --> 00:22:40,100
+Why are you here?
+
+357
+00:22:40,274 --> 00:22:43,543
+To participate in a tournament,
+to do the best you can,
+
+358
+00:22:43,544 --> 00:22:46,779
+in a field that you basically believe
+is stagnant and you don't believe in?
+
+359
+00:22:46,780 --> 00:22:48,514
+I don't believe in the dominant approach.
+
+360
+00:22:48,515 --> 00:22:51,884
+You guys figure this out.
+You ever seen the knight's tour?
+
+361
+00:22:51,885 --> 00:22:53,886
+You've got to look at the real research.
+
+362
+00:22:53,887 --> 00:22:56,017
+- You do the knight's tour?
+- Yeah.
+
+363
+00:22:56,123 --> 00:22:57,283
+You wanna see it?
+
+364
+00:22:57,424 --> 00:22:59,756
+- Yeah.
+- Yeah, but, but...
+
+365
+00:22:59,927 --> 00:23:03,488
+So many of my colleagues, I feel,
+have a very narrow view.
+
+366
+00:23:03,597 --> 00:23:09,502
+There's a fundamental assumption that
+all knowledge can be formally represented.
+
+367
+00:23:09,636 --> 00:23:12,405
+That all knowledge
+can be reduced to numbers.
+
+368
+00:23:12,406 --> 00:23:14,738
+It needs to be an embodied sense...
+
+369
+00:23:14,908 --> 00:23:17,143
+But for God's sake,
+you're in the academic world!
+
+370
+00:23:17,144 --> 00:23:19,512
+If anybody -
+if <i>anybody</i> could get a grant,
+
+371
+00:23:19,513 --> 00:23:22,277
+if <i>anybody</i> could get this signed off
+
+372
+00:23:22,382 --> 00:23:24,792
+to do this kind of research, it's you.
+
+373
+00:23:24,918 --> 00:23:27,753
+You're in an ideal position for that.
+I'm not.
+
+374
+00:23:27,754 --> 00:23:31,991
+My employer probably doesn't see
+any money in what you're talking about,
+
+375
+00:23:31,992 --> 00:23:36,827
+But you? You can go forth,
+you can put these theories into practice.
+
+376
+00:23:36,964 --> 00:23:38,831
+You can write research papers on it.
+
+377
+00:23:38,832 --> 00:23:42,893
+You would think
+academia would be more promising,
+
+378
+00:23:43,036 --> 00:23:45,136
+er... but the dominant paradigm...
+
+379
+00:23:45,205 --> 00:23:46,839
+You been recording this whole time?
+
+380
+00:23:46,840 --> 00:23:49,008
+- ...is very hard to fight against.
+- No.
+
+381
+00:23:49,009 --> 00:23:51,705
+- I mean, I...
+- Why not?
+
+382
+00:23:51,812 --> 00:23:53,946
+I've gone to grad school for years,
+
+383
+00:23:53,947 --> 00:23:57,781
+because I was seeking
+real artificial intelligence.
+
+384
+00:23:57,951 --> 00:24:00,852
+And real artificial intelligence, it's...
+
+385
+00:24:01,021 --> 00:24:02,318
+Let me ask you...
+
+386
+00:24:02,456 --> 00:24:04,788
+Real artificial intelligence?
+
+387
+00:24:04,891 --> 00:24:07,493
+Is that different
+than artificial real intelligence?
+
+388
+00:24:07,494 --> 00:24:09,195
+How significant is the research?
+
+389
+00:24:09,196 --> 00:24:12,832
+In the last decade
+the research hasn't been that significant,
+
+390
+00:24:12,833 --> 00:24:14,200
+even in the calculable world.
+
+391
+00:24:14,201 --> 00:24:16,791
+We're going round in circles, aren't we?
+
+392
+00:25:38,118 --> 00:25:39,483
+Who are you?
+
+393
+00:25:39,586 --> 00:25:42,922
+This is Mike Papageorge.
+I'm here for the competition.
+
+394
+00:25:42,923 --> 00:25:45,483
+Could I possibly come in for a minute?
+
+395
+00:25:45,659 --> 00:25:47,286
+Can you go away, please?
+
+396
+00:26:16,523 --> 00:26:18,991
+Oh, um, I lost my key.
+
+397
+00:26:19,126 --> 00:26:22,128
+Can I just come in here
+and stay with you guys for a while?
+
+398
+00:26:22,129 --> 00:26:23,926
+- Sure, come on in.
+- Thanks.
+
+399
+00:26:26,833 --> 00:26:27,833
+Ha.
+
+400
+00:26:27,934 --> 00:26:29,196
+- Ha.
+- Ha.
+
+401
+00:26:29,536 --> 00:26:30,696
+- Ha.
+- Hu.
+
+402
+00:26:31,037 --> 00:26:32,368
+- Hu.
+- Ha.
+
+403
+00:26:32,539 --> 00:26:34,200
+- Ha.
+- Ha.
+
+404
+00:26:37,110 --> 00:26:39,476
+One want to be two,
+
+405
+00:26:39,613 --> 00:26:41,706
+two want to be one.
+
+406
+00:26:42,949 --> 00:26:44,746
+One want to be two,
+
+407
+00:26:44,918 --> 00:26:47,386
+two want to be one!
+
+408
+00:26:47,521 --> 00:26:48,954
+- Oh, wow!
+- Yeah.
+
+409
+00:26:50,557 --> 00:26:52,124
+It's half me and half you.
+
+410
+00:26:52,125 --> 00:26:54,423
+I didn't get absolute perfection,
+
+411
+00:26:54,561 --> 00:26:57,689
+but I definitely see the possibilities,
+
+412
+00:26:57,798 --> 00:27:01,734
+and being open to the possibilities.
+
+413
+00:27:02,402 --> 00:27:05,701
+I never realised
+that our eyes are the same colour.
+
+414
+00:27:07,240 --> 00:27:09,105
+And just...
+
+415
+00:27:09,209 --> 00:27:10,437
+Thank you.
+
+416
+00:27:11,278 --> 00:27:13,712
+- Thanks.
+- Thank you for being here.
+
+417
+00:27:31,998 --> 00:27:33,431
+Its warmth.
+
+418
+00:27:35,068 --> 00:27:36,626
+Its moisture.
+
+419
+00:27:37,637 --> 00:27:39,195
+- Excitement!
+- Ooh...
+
+420
+00:27:44,377 --> 00:27:46,140
+The joy it brings.
+
+421
+00:27:46,980 --> 00:27:48,004
+- Oh.
+- It is OK.
+
+422
+00:27:48,682 --> 00:27:49,774
+You may come in.
+
+423
+00:27:57,824 --> 00:27:59,849
+And we shall adjourn.
+
+424
+00:27:59,993 --> 00:28:01,093
+Should we go back to the room?
+
+425
+00:28:01,094 --> 00:28:03,295
+I will visit with you all individually,
+
+426
+00:28:03,296 --> 00:28:06,356
+and I will see you all together
+this evening.
+
+427
+00:28:06,499 --> 00:28:08,797
+I love you. I love you.
+
+428
+00:28:08,902 --> 00:28:11,268
+Do you need help cleaning up?
+
+429
+00:28:11,404 --> 00:28:12,894
+Yes, yes, thank you...
+
+430
+00:28:13,073 --> 00:28:14,607
+Hey, what do you got there?
+
+431
+00:28:14,608 --> 00:28:16,828
+A COMPAQ luggable portable computer.
+
+432
+00:28:23,416 --> 00:28:25,136
+Hey, that's a big one, huh?
+
+433
+00:28:25,619 --> 00:28:26,643
+Yeah.
+
+434
+00:28:27,454 --> 00:28:29,081
+What's... what's, er...
+
+435
+00:28:30,090 --> 00:28:31,887
+It's the PDP-11.
+
+436
+00:28:32,893 --> 00:28:35,088
+- A what?
+- It's the PDP-11.
+
+437
+00:28:35,262 --> 00:28:36,262
+OK. Wow!
+
+438
+00:28:37,430 --> 00:28:38,988
+Yes. It's very good.
+
+439
+00:28:50,644 --> 00:28:51,977
+And how about your name, Luke?
+
+440
+00:28:51,978 --> 00:28:55,141
+- Is that some kind of acronym?
+- OK, well...
+
+441
+00:28:55,949 --> 00:28:58,645
+Luke is me, not an acronym.
+
+442
+00:28:58,752 --> 00:29:00,083
+Luke is my computer.
+
+443
+00:29:00,186 --> 00:29:03,678
+Luke is the software
+that I wrote for this contest.
+
+444
+00:29:03,790 --> 00:29:06,759
+So it's all Luke. Just me, version one.
+
+445
+00:29:06,927 --> 00:29:09,929
+- There'll only be version one...
+- Gentlemen. Shelly.
+
+446
+00:29:09,930 --> 00:29:12,710
+Another round begins,
+we can start the games.
+
+447
+00:29:20,707 --> 00:29:25,144
+Roland, I'm sorry, I'm afraid we're
+going to have to offer our resignation.
+
+448
+00:29:25,145 --> 00:29:26,510
+Is that even legal?
+
+449
+00:29:26,680 --> 00:29:29,270
+To resign before you've even made a move?
+
+450
+00:29:29,382 --> 00:29:30,906
+Should we ask Reini?
+
+451
+00:29:33,820 --> 00:29:35,888
+It's OK with us, we'll take the win.
+
+452
+00:29:35,889 --> 00:29:37,117
+What's wrong?
+
+453
+00:29:37,958 --> 00:29:39,687
+Oh, I wish I knew.
+
+454
+00:29:42,762 --> 00:29:44,330
+You guys need a bathroom break?
+
+455
+00:29:44,331 --> 00:29:48,665
+This is a very odd, weird,
+strange, idiosyncratic game.
+
+456
+00:29:48,768 --> 00:29:50,703
+I don't know how many ways I can say it.
+
+457
+00:29:50,704 --> 00:29:51,804
+And it's all on White,
+
+458
+00:29:51,805 --> 00:29:53,397
+it's all CHECKERS.
+
+459
+00:29:53,540 --> 00:29:58,204
+White has already sacrificed
+a queen and a knight.
+
+460
+00:29:58,345 --> 00:29:59,735
+This is either suicide
+
+461
+00:29:59,846 --> 00:30:01,914
+- or just the most brilliant game...
+- What's going on over there?
+
+462
+00:30:01,915 --> 00:30:03,048
+...of the whole tournament.
+
+463
+00:30:03,049 --> 00:30:04,416
+TSAR hasn't made a single move!
+
+464
+00:30:04,417 --> 00:30:05,818
+Hey, don't talk to him. He's working!
+
+465
+00:30:05,819 --> 00:30:07,514
+Pat, go fuck yourself!
+
+466
+00:30:08,655 --> 00:30:09,679
+Look!
+
+467
+00:30:09,823 --> 00:30:14,351
+This is a beautiful, beautiful quiet move
+which I just missed.
+
+468
+00:30:14,527 --> 00:30:16,395
+- CHECKERS set quite a clever trap here...
+- Tom! Hi!
+
+469
+00:30:16,396 --> 00:30:18,330
+Hi! Les, good to see you.
+
+470
+00:30:19,332 --> 00:30:20,629
+Excuse me.
+
+471
+00:30:20,767 --> 00:30:22,534
+- How are you doing?
+- I'm fine, thank you.
+
+472
+00:30:22,535 --> 00:30:24,069
+Wow, you're still using the V-20-10...
+
+473
+00:30:24,070 --> 00:30:25,604
+Excuse me, Les.
+Tom, could you follow me, please?
+
+474
+00:30:25,605 --> 00:30:27,740
+- Nice position you've got there.
+- Tom!
+
+475
+00:30:27,741 --> 00:30:29,608
+Tom Schoesser, the man of the hour!
+
+476
+00:30:29,609 --> 00:30:31,702
+Hey, what's wrong with you guys?
+
+477
+00:30:31,811 --> 00:30:33,642
+TSAR 3.0 - what's wrong?
+
+478
+00:30:33,780 --> 00:30:35,690
+Innovation can be a rocky road!
+
+479
+00:30:38,084 --> 00:30:40,644
+We actually just resigned the game.
+
+480
+00:30:40,787 --> 00:30:42,755
+You resigned? Why?
+
+481
+00:30:43,790 --> 00:30:45,917
+Peter, you want to update Tom?
+
+482
+00:30:46,860 --> 00:30:48,418
+It, um...
+
+483
+00:30:48,561 --> 00:30:51,096
+I was just up all night debugging it
+and I haven't come across anything.
+
+484
+00:30:51,097 --> 00:30:53,190
+- You were up all night?
+- Yes.
+
+485
+00:30:54,267 --> 00:30:56,064
+OK, um...
+
+486
+00:30:56,803 --> 00:31:00,653
+How about you get a breath of fresh air
+and we'll work on this?
+
+487
+00:31:01,441 --> 00:31:02,669
+Oh. OK.
+
+488
+00:31:05,812 --> 00:31:07,913
+- Roland, good to see you.
+- Hey, Tom.
+
+489
+00:31:07,914 --> 00:31:09,142
+Good to see you.
+
+490
+00:31:09,282 --> 00:31:11,784
+So, er, I know
+this is a little unorthodox,
+
+491
+00:31:11,785 --> 00:31:15,152
+but between gentlemen,
+
+492
+00:31:15,288 --> 00:31:16,822
+do you mind if we "unresign"?
+
+493
+00:31:16,823 --> 00:31:17,823
+Sure. Yeah.
+
+494
+00:31:17,924 --> 00:31:19,858
+- I just want to watch her play.
+- It's OK with us.
+
+495
+00:31:19,859 --> 00:31:20,859
+OK.
+
+496
+00:31:30,070 --> 00:31:31,070
+Hey!
+
+497
+00:31:31,704 --> 00:31:35,970
+Hey, are you with the computer convention
+over there?
+
+498
+00:31:36,109 --> 00:31:39,478
+Yeah, I think we met briefly
+in the conference room, I'm Dave.
+
+499
+00:31:39,479 --> 00:31:40,546
+- You're...?
+- Peter.
+
+500
+00:31:40,547 --> 00:31:42,347
+- Peter, nice meeting you. Yeah.
+- Yes.
+
+501
+00:31:42,348 --> 00:31:44,550
+Hey, do you mind if I ask you a question?
+
+502
+00:31:44,551 --> 00:31:46,883
+What are you guys doing in there?
+
+503
+00:31:47,020 --> 00:31:49,910
+Are those all the new computer models,
+or what?
+
+504
+00:31:50,023 --> 00:31:51,820
+No, not really.
+
+505
+00:31:51,925 --> 00:31:54,860
+- They're new chess programs.
+- Oh, yeah?
+
+506
+00:31:54,961 --> 00:31:59,625
+Various... various people have written
+their own chess programs this year
+
+507
+00:31:59,732 --> 00:32:02,067
+- and it's a tournament for that.
+- OK.
+
+508
+00:32:02,068 --> 00:32:07,199
+So the computers will face each other off
+to see who's written the best program.
+
+509
+00:32:07,307 --> 00:32:12,677
+OK, so... the computers play chess
+versus other computers?
+
+510
+00:32:13,746 --> 00:32:15,077
+Yes.
+
+511
+00:32:15,248 --> 00:32:16,476
+Wow.
+
+512
+00:32:17,383 --> 00:32:19,044
+Wow!
+
+513
+00:32:21,154 --> 00:32:24,089
+Well, I've got
+a little convention here, too.
+
+514
+00:32:24,190 --> 00:32:25,991
+I mean, it's a couples group.
+
+515
+00:32:25,992 --> 00:32:28,327
+I don't know if you've ever done
+any encounter stuff or anything like that.
+
+516
+00:32:28,328 --> 00:32:29,928
+You're probably a little young for that.
+
+517
+00:32:29,929 --> 00:32:31,055
+It's, um...
+
+518
+00:32:31,798 --> 00:32:34,566
+I don't know if you're into
+any of the therapy at all...
+
+519
+00:32:34,567 --> 00:32:36,091
+Anyhow...
+
+520
+00:32:36,269 --> 00:32:38,737
+the guy, I don't know if you've
+seen this guy - Keneiloe in there?
+
+521
+00:32:38,738 --> 00:32:40,706
+Big black guy. I mean, he's from Africa!
+
+522
+00:32:40,707 --> 00:32:43,742
+So his perspective is really...
+really heavy, you know?
+
+523
+00:32:43,743 --> 00:32:44,869
+I mean, his...
+
+524
+00:32:45,011 --> 00:32:49,741
+It's not like the western therapy trip
+at all. It's like, er, it's really...
+
+525
+00:32:50,016 --> 00:32:52,177
+Oh, man. Are you married?
+
+526
+00:32:52,318 --> 00:32:54,286
+- No.
+- OK, well...
+
+527
+00:32:54,387 --> 00:32:56,997
+I mean,
+all truths contain their opposite.
+
+528
+00:32:57,023 --> 00:32:59,424
+Without black you can't have white,
+that sort of thing.
+
+529
+00:32:59,425 --> 00:33:00,526
+You understand, right?
+
+530
+00:33:00,527 --> 00:33:05,537
+It's like in order to know something you
+have to forget it - that's why we seek it!
+
+531
+00:33:06,132 --> 00:33:07,463
+OK, OK...
+
+532
+00:33:07,967 --> 00:33:09,935
+I know what you're thinking,
+"Who's this crazy guy?"
+
+533
+00:33:09,936 --> 00:33:13,205
+- No, it's nothing like that. - Yeah,
+no, it's OK, it's OK, it's all right!
+
+534
+00:33:13,206 --> 00:33:15,040
+Well, I'm Dave. Tell me your name again?
+
+535
+00:33:15,041 --> 00:33:16,702
+- Peter.
+- Peter, right.
+
+536
+00:33:17,544 --> 00:33:18,810
+- Peter Bishton.
+- Peter Bishton.
+
+537
+00:33:18,811 --> 00:33:19,811
+- Hey.
+- Yes.
+
+538
+00:33:21,915 --> 00:33:24,315
+Hey, we got the same colour eyes, man!
+
+539
+00:33:24,450 --> 00:33:26,611
+All right. Hey, I'll see you.
+
+540
+00:33:31,224 --> 00:33:34,159
+There is an interesting tie
+for second place
+
+541
+00:33:34,327 --> 00:33:36,227
+between STASIA and ADVANTAGE.
+
+542
+00:33:36,362 --> 00:33:37,963
+Three and a half points each.
+
+543
+00:33:37,964 --> 00:33:43,163
+Their only hope is that the top two teams
+are going to draw,
+
+544
+00:33:43,336 --> 00:33:46,205
+but I think that's very unlikely
+with CHECKERS and ALLIANCE,
+
+545
+00:33:46,206 --> 00:33:50,370
+two teams that are absolutely
+going to go for the kill.
+
+546
+00:33:50,543 --> 00:33:51,943
+CHECKERS and ALLIANCE!
+
+547
+00:33:51,978 --> 00:33:54,708
+ALLIANCE,
+a kind of traditional program,
+
+548
+00:33:54,847 --> 00:33:58,177
+we like what they do,
+but we can kind of figure it out.
+
+549
+00:33:58,251 --> 00:34:01,753
+But CHECKERS... I've talked about
+this several times today -
+
+550
+00:34:01,754 --> 00:34:05,986
+very strange,
+very idiosyncratic, very odd.
+
+551
+00:34:06,092 --> 00:34:09,425
+I talked to Mr Papageorge himself
+and I said,
+
+552
+00:34:09,562 --> 00:34:11,663
+"What language is your program in?"
+
+553
+00:34:11,664 --> 00:34:13,765
+And of course, he wouldn't tell me.
+
+554
+00:34:13,766 --> 00:34:18,669
+So I talked to a couple of other programrs
+and they said, "We have no idea.
+
+555
+00:34:18,805 --> 00:34:21,774
+"It could be Sanskrit,
+it could be Pig Latin!"
+
+556
+00:34:26,179 --> 00:34:27,942
+Shh-shh-shh...
+
+557
+00:34:30,216 --> 00:34:31,478
+Um... Tom.
+
+558
+00:34:31,618 --> 00:34:32,618
+Hey.
+
+559
+00:34:49,936 --> 00:34:53,505
+I'm sorry, can you go to the bathroom
+and wash your hands?
+
+560
+00:34:53,506 --> 00:34:54,837
+Yes.
+
+561
+00:35:12,325 --> 00:35:14,020
+OK. Let's check her out.
+
+562
+00:35:14,127 --> 00:35:15,253
+OK.
+
+563
+00:35:15,361 --> 00:35:19,661
+So let's run a trace
+with test position 62.
+
+564
+00:35:19,766 --> 00:35:21,324
+OK.
+
+565
+00:35:24,337 --> 00:35:26,134
+OK, keep scrolling.
+
+566
+00:35:27,040 --> 00:35:28,598
+OK, next page.
+
+567
+00:35:30,276 --> 00:35:33,939
+I just don't understand
+why it's committing suicide.
+
+568
+00:35:34,113 --> 00:35:36,682
+It's not killing itself -
+it's a computer.
+
+569
+00:35:36,683 --> 00:35:38,082
+It doesn't have will.
+
+570
+00:35:38,184 --> 00:35:41,210
+It's running software -
+we wrote the software.
+
+571
+00:35:41,321 --> 00:35:46,554
+So there, it's going down the tree
+
+572
+00:35:46,726 --> 00:35:50,560
+and then it's calling
+the evaluation function.
+
+573
+00:35:50,730 --> 00:35:53,221
+OK, so... keeping that in mind,
+
+574
+00:35:53,333 --> 00:35:57,895
+when you are compiling
+with F77, this code...
+
+575
+00:35:59,405 --> 00:36:02,307
+The F77 that you're running
+is not the standard one.
+
+576
+00:36:02,308 --> 00:36:07,268
+I wrote a new compiler, specific to
+this hardware and this software.
+
+577
+00:36:09,515 --> 00:36:11,015
+- Say that again?
+- So...
+
+578
+00:36:11,918 --> 00:36:14,386
+The compiler is adding instructions
+
+579
+00:36:14,520 --> 00:36:17,546
+to implement the machinery
+of the optimisations
+
+580
+00:36:17,724 --> 00:36:20,852
+as it's compiling the lines that you see.
+
+581
+00:36:21,761 --> 00:36:22,887
+OK.
+
+582
+00:36:22,995 --> 00:36:26,531
+So you can see those lines of code,
+but there's actually more being generated.
+
+583
+00:36:26,532 --> 00:36:30,161
+The system can improve itself
+during the game - in the hash -
+
+584
+00:36:30,336 --> 00:36:32,938
+to run the evaluation and then
+to store that evaluation in the hash.
+
+585
+00:36:32,939 --> 00:36:34,940
+With adjusted parameter settings...
+
+586
+00:36:34,941 --> 00:36:36,508
+To implement, say,
+the transposition table...
+
+587
+00:36:36,509 --> 00:36:37,809
+Additional functionality...
+
+588
+00:36:37,810 --> 00:36:40,412
+That's right - everything
+is not everything!
+
+589
+00:36:40,413 --> 00:36:42,108
+- What?
+- There's more.
+
+590
+00:36:50,022 --> 00:36:53,116
+- OK... That's kind of new.
+- Yeah.
+
+591
+00:36:54,560 --> 00:36:55,993
+OK.
+
+592
+00:36:56,129 --> 00:36:57,562
+OK.
+
+593
+00:36:59,832 --> 00:37:01,163
+So...
+
+594
+00:37:02,535 --> 00:37:04,002
+Um...
+
+595
+00:37:04,137 --> 00:37:07,787
+How do you stay up
+through these all night hacking sessions?
+
+596
+00:37:09,208 --> 00:37:11,610
+I mean, do you want to get a coffee
+or something?
+
+597
+00:37:11,611 --> 00:37:13,612
+- No. No, thanks. I'm fine.
+- OK.
+
+598
+00:37:13,613 --> 00:37:14,946
+- I'm fine, thank you.
+- OK.
+
+599
+00:37:14,947 --> 00:37:18,550
+Um, you know, when I was in grad school
+I used to do some push-ups sometimes.
+
+600
+00:37:18,551 --> 00:37:21,816
+Keep my blood flowing. Yeah.
+
+601
+00:37:21,954 --> 00:37:23,955
+No, I think I'm fine,
+I don't need to do anything.
+
+602
+00:37:23,956 --> 00:37:25,223
+OK, no push-ups. So...
+
+603
+00:37:25,224 --> 00:37:28,264
+I just don't want it to keep losing,
+that's all.
+
+604
+00:37:29,095 --> 00:37:32,030
+I understand,
+but this is an advantage for us.
+
+605
+00:37:32,999 --> 00:37:37,629
+Everyone down there
+thinks that we're yesterday's news.
+
+606
+00:37:37,770 --> 00:37:40,364
+But we're getting information now
+
+607
+00:37:40,506 --> 00:37:43,275
+about how this system is performing
+in a tournament setting,
+
+608
+00:37:43,276 --> 00:37:47,212
+and we've got six months
+before the world championship in Lisbon,
+
+609
+00:37:47,213 --> 00:37:48,780
+and no one can catch up to us!
+
+610
+00:37:48,781 --> 00:37:52,740
+Because they haven't seen
+the technology in action,
+
+611
+00:37:52,885 --> 00:37:55,420
+- because of this problem.
+- Neither have we.
+
+612
+00:37:55,421 --> 00:37:58,131
+Yeah, well,
+but we can go back to California
+
+613
+00:37:58,224 --> 00:38:00,824
+and put the boards
+in the testing hardware
+
+614
+00:38:00,927 --> 00:38:02,986
+and test everything in isolation
+
+615
+00:38:03,095 --> 00:38:06,165
+based on the parameters
+that you're finding here.
+
+616
+00:38:07,633 --> 00:38:09,066
+We have time...
+
+617
+00:38:10,503 --> 00:38:13,538
+But speaking of time,
+I have to get back to my wife and child.
+
+618
+00:38:13,539 --> 00:38:15,063
+Oh, all right, um...
+
+619
+00:38:16,409 --> 00:38:17,409
+Thank you.
+
+620
+00:38:17,510 --> 00:38:19,501
+- OK. Bye-bye.
+- Bye.
+
+621
+00:38:23,716 --> 00:38:29,211
+Thank you Dr Schoesser -
+you're a great adviser and a brilliant man.
+
+622
+00:38:36,529 --> 00:38:38,549
+Convince me not to kick your ass.
+
+623
+00:38:39,499 --> 00:38:41,091
+Don't kick my ass.
+
+624
+00:38:41,734 --> 00:38:44,154
+Why would you want to kick my ass, John?
+
+625
+00:38:44,537 --> 00:38:46,505
+You stole something from me.
+
+626
+00:38:49,242 --> 00:38:53,102
+You hadn't talked to Freddy about this?
+Is he here, by the way?
+
+627
+00:38:53,846 --> 00:38:57,646
+Yeah, I took those drugs. The pills.
+
+628
+00:38:57,750 --> 00:39:02,090
+Freddy and I talked about this -
+I'm bringing you guys money for them...
+
+629
+00:39:02,989 --> 00:39:05,056
+John, come on, it's just some money.
+
+630
+00:39:05,057 --> 00:39:06,490
+What's the big deal?
+
+631
+00:39:07,059 --> 00:39:09,323
+John... John?
+
+632
+00:40:33,179 --> 00:40:34,840
+- Hello?
+- Hi.
+
+633
+00:40:34,981 --> 00:40:36,608
+Hi.
+
+634
+00:40:39,952 --> 00:40:41,579
+I'm sorry, um...
+
+635
+00:40:43,055 --> 00:40:45,857
+I'm sorry...
+I'm Peter from the Caltech team,
+
+636
+00:40:45,858 --> 00:40:49,191
+and I was wondering -
+do you have STASIA here?
+
+637
+00:40:50,096 --> 00:40:52,462
+- Yeah.
+- OK, um...
+
+638
+00:40:52,632 --> 00:40:57,797
+Could I run an experiment
+with the two of them, if that's OK?
+
+639
+00:41:00,706 --> 00:41:02,230
+- OK.
+- Um...
+
+640
+00:41:03,009 --> 00:41:04,476
+Thanks. Thank you.
+
+641
+00:41:06,646 --> 00:41:08,113
+Can you help me come get it?
+
+642
+00:41:08,114 --> 00:41:10,810
+Yeah, let me go get my glasses.
+
+643
+00:41:10,916 --> 00:41:12,406
+OK.
+
+644
+00:41:48,020 --> 00:41:50,488
+Pawn A6 to A5.
+
+645
+00:42:00,566 --> 00:42:04,058
+Knight B3 to D2.
+
+646
+00:42:05,037 --> 00:42:06,607
+It's still retreating...
+
+647
+00:42:12,878 --> 00:42:16,006
+Hold on, sorry.
+Erm, can you try something else?
+
+648
+00:42:16,115 --> 00:42:20,051
+Can you try just making a move
+on your own?
+
+649
+00:42:20,853 --> 00:42:23,481
+Don't use STASIA.
+
+650
+00:42:23,589 --> 00:42:25,318
+Can you do your own move?
+
+651
+00:42:25,491 --> 00:42:26,753
+What?
+
+652
+00:42:26,926 --> 00:42:30,862
+Just... Just do... Just do your own move.
+
+653
+00:42:30,963 --> 00:42:32,487
+On your own.
+
+654
+00:42:34,867 --> 00:42:36,164
+OK.
+
+655
+00:42:38,204 --> 00:42:40,365
+Knight, C6 to...
+
+656
+00:42:40,506 --> 00:42:43,074
+Just... Well, hold on.
+Just think about it a little bit,
+
+657
+00:42:43,075 --> 00:42:44,372
+and then go.
+
+658
+00:42:48,881 --> 00:42:50,872
+Just give it a thought.
+
+659
+00:42:55,821 --> 00:42:58,688
+Pawn A5 to A4.
+
+660
+00:43:17,143 --> 00:43:19,008
+Pawn G2 to G4.
+
+661
+00:43:23,916 --> 00:43:25,383
+Now you're waking up.
+
+662
+00:43:27,720 --> 00:43:32,817
+Pawn E6 to E5.
+
+663
+00:43:46,739 --> 00:43:49,003
+Pawn F4 to F5.
+
+664
+00:43:54,146 --> 00:43:55,511
+Did you see that?
+
+665
+00:43:55,648 --> 00:43:57,809
+- It's a weird strategy.
+- It's...
+
+666
+00:43:57,950 --> 00:43:59,042
+Yeah.
+
+667
+00:44:00,019 --> 00:44:02,453
+Yeah, it's revising its strategy.
+
+668
+00:44:05,991 --> 00:44:08,061
+Why do you think it's doing that?
+
+669
+00:44:21,407 --> 00:44:23,170
+Excuse me.
+
+670
+00:44:23,309 --> 00:44:24,674
+Sir?
+
+671
+00:44:25,978 --> 00:44:28,173
+Sir, you can't sleep there.
+
+672
+00:44:33,619 --> 00:44:34,619
+Sir?
+
+673
+00:44:41,026 --> 00:44:44,295
+It actually turns out a couple didn't
+check in for the other conference,
+
+674
+00:44:44,296 --> 00:44:46,026
+and I have a room available.
+
+675
+00:44:46,031 --> 00:44:47,871
+- Would you like it?
+- I would.
+
+676
+00:44:47,900 --> 00:44:51,199
+- How would you like to pay?
+- Tomorrow morning?
+
+677
+00:44:54,707 --> 00:44:56,868
+Great, here's room 302.
+
+678
+00:44:57,042 --> 00:44:58,643
+Just walk down the hallway,
+
+679
+00:44:58,644 --> 00:45:01,934
+take the elevator to the third floor
+and take a right.
+
+680
+00:45:57,603 --> 00:45:59,366
+Sounds good.
+
+681
+00:45:59,505 --> 00:46:01,530
+Good morning.
+
+682
+00:46:01,707 --> 00:46:04,637
+I don't know
+if that's ever happened to you...
+
+683
+00:46:05,177 --> 00:46:07,011
+You're talking about the dream?
+
+684
+00:46:07,012 --> 00:46:08,279
+We had the same dream last night.
+
+685
+00:46:08,280 --> 00:46:09,714
+At least I think
+we had the same dream last night.
+
+686
+00:46:09,715 --> 00:46:12,383
+The more we talked about it,
+the more it sounds like we had...
+
+687
+00:46:12,384 --> 00:46:15,478
+- because I felt like she was there.
+- Who is that?
+
+688
+00:46:19,992 --> 00:46:21,084
+Whoa!
+
+689
+00:46:21,193 --> 00:46:22,751
+Come here, honey.
+
+690
+00:46:24,930 --> 00:46:27,091
+Good morning.
+
+691
+00:46:27,232 --> 00:46:29,132
+Good morning.
+
+692
+00:46:31,303 --> 00:46:33,137
+Can I help you people with something?
+
+693
+00:46:33,138 --> 00:46:34,901
+Yes, absolutely.
+
+694
+00:46:36,575 --> 00:46:38,125
+What can I help you with?
+
+695
+00:46:40,512 --> 00:46:42,022
+Excuse me, Dr Schoesser?
+
+696
+00:46:42,715 --> 00:46:43,715
+Can I join you?
+
+697
+00:46:43,816 --> 00:46:45,511
+Oh, OK, yeah.
+
+698
+00:46:47,519 --> 00:46:49,520
+How are you doing? What's going on?
+
+699
+00:46:49,521 --> 00:46:51,079
+Um...
+
+700
+00:46:51,223 --> 00:46:53,524
+Well, I really wanted
+to talk to you this morning.
+
+701
+00:46:53,525 --> 00:46:54,787
+Um...
+
+702
+00:46:55,661 --> 00:46:58,027
+I had a theory that...
+
+703
+00:46:59,064 --> 00:47:02,534
+I don't think that TSAR
+wants to play against computers.
+
+704
+00:47:03,769 --> 00:47:05,259
+And why do you say that?
+
+705
+00:47:06,005 --> 00:47:11,409
+Well, because last night
+after we were working on it,
+
+706
+00:47:11,543 --> 00:47:14,842
+I took it to an MIT student's room
+
+707
+00:47:14,980 --> 00:47:20,418
+and I had their program STASIA
+play against ours.
+
+708
+00:47:20,552 --> 00:47:23,612
+Wait, you wheeled it over there?
+
+709
+00:47:23,756 --> 00:47:26,589
+I had a student help me, yes.
+
+710
+00:47:26,692 --> 00:47:27,989
+OK.
+
+711
+00:47:28,093 --> 00:47:30,823
+And what did you do with the MIT team?
+
+712
+00:47:30,963 --> 00:47:36,265
+I just had one student play their program
+against ours, that's all.
+
+713
+00:47:36,435 --> 00:47:37,732
+OK.
+
+714
+00:47:37,870 --> 00:47:41,169
+I just wanted to see another game, and...
+
+715
+00:47:43,509 --> 00:47:46,239
+The idea I had is, I just had...
+
+716
+00:47:48,213 --> 00:47:51,671
+at first the two programs
+playing against each other,
+
+717
+00:47:51,850 --> 00:47:56,878
+and then I had that same student
+start generating their own moves, and...
+
+718
+00:47:57,823 --> 00:48:01,691
+TSAR at first was doing very poor,
+just like it had,
+
+719
+00:48:01,860 --> 00:48:04,829
+and when it started playing
+against the student,
+
+720
+00:48:04,930 --> 00:48:09,594
+it was much more aggressive
+
+721
+00:48:09,701 --> 00:48:12,021
+and it played... it performed better.
+
+722
+00:48:12,871 --> 00:48:14,270
+I... OK, er...
+
+723
+00:48:14,406 --> 00:48:18,433
+But this was just
+part of a game last night, right?
+
+724
+00:48:18,544 --> 00:48:19,977
+How many moves?
+
+725
+00:48:20,112 --> 00:48:22,672
+Er... twelve or so.
+
+726
+00:48:22,848 --> 00:48:25,248
+OK, I...
+
+727
+00:48:25,350 --> 00:48:26,717
+We just didn't have enough time.
+
+728
+00:48:26,718 --> 00:48:31,178
+I appreciate your desire
+to figure this stuff out,
+
+729
+00:48:31,323 --> 00:48:34,025
+but I just don't think
+that that's enough data
+
+730
+00:48:34,026 --> 00:48:39,191
+to support this theory
+about computers versus human opponents.
+
+731
+00:48:39,298 --> 00:48:42,062
+I would like
+to run some more tests as well.
+
+732
+00:48:42,167 --> 00:48:46,661
+This is just the start of it.
+This is just a proposition I have.
+
+733
+00:48:46,839 --> 00:48:50,036
+It's just such an outlandish theory...
+
+734
+00:48:50,142 --> 00:48:54,511
+I don't... I don't...
+It just doesn't make sense, and, er...
+
+735
+00:48:54,680 --> 00:48:56,079
+Well...
+
+736
+00:48:57,116 --> 00:48:58,116
+No...
+
+737
+00:48:58,283 --> 00:49:00,683
+It's... It's still...
+
+738
+00:49:00,853 --> 00:49:03,921
+There's still
+some significant evidence for it...
+
+739
+00:49:03,922 --> 00:49:08,484
+I know it's a bit unconventional,
+
+740
+00:49:08,660 --> 00:49:10,252
+but, um...
+
+741
+00:49:11,763 --> 00:49:14,698
+There's some others -
+like Nikola Tesla...
+
+742
+00:49:14,867 --> 00:49:17,268
+Who has been talking to you about Tesla?
+
+743
+00:49:17,269 --> 00:49:19,103
+Just some person who mentioned him.
+
+744
+00:49:19,104 --> 00:49:23,473
+I do not think that Tesla is a good
+role model for your academic career.
+
+745
+00:49:23,575 --> 00:49:26,271
+That is the path to madness.
+
+746
+00:49:28,113 --> 00:49:30,343
+Do you know about confirmation bias?
+
+747
+00:49:30,516 --> 00:49:33,818
+Where you're blind to all the things
+that will refute your theory
+
+748
+00:49:33,819 --> 00:49:36,939
+and you're fixating
+on the things that support it?
+
+749
+00:49:37,990 --> 00:49:41,448
+This is a human trait,
+
+750
+00:49:41,560 --> 00:49:45,630
+and it's an issue that I've dealt with
+in my own work in the past.
+
+751
+00:49:47,332 --> 00:49:49,167
+TSAR is a very complicated machine,
+
+752
+00:49:49,168 --> 00:49:53,195
+it has many components,
+many connections between them.
+
+753
+00:49:53,338 --> 00:49:57,338
+And right now, some of those connections
+are going a little wrong.
+
+754
+00:49:58,977 --> 00:50:01,810
+Our brains... even more complex.
+
+755
+00:50:01,947 --> 00:50:06,748
+And I think that
+with this theory of yours,
+
+756
+00:50:06,919 --> 00:50:09,820
+you're making a few wrong connections.
+
+757
+00:50:09,955 --> 00:50:15,359
+And I'm worried that
+if you're fixating on this
+
+758
+00:50:15,527 --> 00:50:18,796
+the balance of wrong connections
+to right connections could shift,
+
+759
+00:50:18,797 --> 00:50:21,891
+and at that point we've lost our sanity.
+
+760
+00:50:27,139 --> 00:50:29,767
+Dave!
+
+761
+00:50:33,745 --> 00:50:35,508
+Dave!
+
+762
+00:50:35,614 --> 00:50:37,707
+Dave!
+
+763
+00:50:39,851 --> 00:50:41,978
+Dave!
+
+764
+00:50:42,087 --> 00:50:46,046
+Monica!
+
+765
+00:51:01,840 --> 00:51:04,240
+Look deep within me
+
+766
+00:51:04,376 --> 00:51:07,140
+to find what is inside you.
+
+767
+00:51:09,815 --> 00:51:12,215
+Go. Break through.
+
+768
+00:51:12,317 --> 00:51:14,649
+Come through, Mr Michael Papageorge.
+
+769
+00:51:14,786 --> 00:51:16,344
+Fight through!
+
+770
+00:51:17,322 --> 00:51:19,654
+He's crowning - watch his shoulders!
+
+771
+00:51:19,791 --> 00:51:21,125
+Rotate his shoulders.
+
+772
+00:51:21,126 --> 00:51:23,287
+Keep fighting, Mr Papageorge.
+
+773
+00:51:23,462 --> 00:51:25,430
+Squeeze through...
+
+774
+00:51:29,835 --> 00:51:32,463
+I'm now going to cut your umbilical cord.
+
+775
+00:51:35,540 --> 00:51:37,064
+Breathe, Mr Papageorge.
+
+776
+00:51:38,310 --> 00:51:39,800
+Breathe, Mr Papageorge!
+
+777
+00:51:45,150 --> 00:51:47,015
+There you go.
+
+778
+00:51:48,287 --> 00:51:51,279
+Now, what is your name?
+
+779
+00:51:51,423 --> 00:51:53,084
+Michael Papageorge!
+
+780
+00:51:53,225 --> 00:51:56,285
+Yes. Welcome, Mr Papageorge.
+
+781
+00:51:56,428 --> 00:52:02,389
+Group, let us greet
+the new Michael Papageorge.
+
+782
+00:52:03,268 --> 00:52:04,835
+- Good morning.
+- Good morning.
+
+783
+00:52:04,836 --> 00:52:06,103
+Hey, it is a good morning.
+
+784
+00:52:06,104 --> 00:52:07,537
+- Welcome.
+- Welcome.
+
+785
+00:52:12,311 --> 00:52:14,745
+Black, which was winning the game,
+
+786
+00:52:14,913 --> 00:52:16,933
+has now gone off on this tangent,
+
+787
+00:52:17,516 --> 00:52:20,417
+chasing after that white king.
+
+788
+00:52:20,519 --> 00:52:22,787
+Can you move your arm please? Thank you.
+
+789
+00:52:22,788 --> 00:52:26,123
+Chasing the king,
+trying to get it up, up on the board,
+
+790
+00:52:26,124 --> 00:52:29,890
+and in the process
+the black bishop is trapped.
+
+791
+00:52:29,995 --> 00:52:32,535
+There's really nothing much for it to do.
+
+792
+00:52:32,597 --> 00:52:35,896
+The white king,
+which looks naked sitting there,
+
+793
+00:52:36,001 --> 00:52:39,528
+is actually in a very nice position.
+
+794
+00:52:39,705 --> 00:52:41,615
+CHECKERS has moved its rook up -
+
+795
+00:52:41,707 --> 00:52:45,643
+I'm expecting ALLIANCE
+to defend this pawn with its knight.
+
+796
+00:52:45,744 --> 00:52:47,604
+- That was interesting.
+- Yeah.
+
+797
+00:52:47,713 --> 00:52:49,738
+How's your room?
+
+798
+00:52:49,915 --> 00:52:52,281
+Yeah, it's nice.
+
+799
+00:52:52,417 --> 00:52:54,257
+Same as any of 'em, I suppose.
+
+800
+00:52:55,020 --> 00:52:57,284
+The mini-bar is half-empty.
+
+801
+00:53:14,740 --> 00:53:16,867
+That's a bit of a surprise move.
+
+802
+00:53:18,744 --> 00:53:21,679
+CHECKERS happily takes the pawn.
+
+803
+00:53:21,780 --> 00:53:26,114
+But, let me tell you -
+that black king is in deep trouble.
+
+804
+00:53:30,122 --> 00:53:32,223
+Do you have a Jacuzzi tub in your room?
+
+805
+00:53:32,224 --> 00:53:34,419
+- Mm-mm.
+- Jacuzzi tubs are nice.
+
+806
+00:53:34,559 --> 00:53:35,890
+- Yeah?
+- Yeah.
+
+807
+00:53:36,027 --> 00:53:37,161
+You got one of those?
+
+808
+00:53:37,162 --> 00:53:41,031
+Yeah - they ran out of rooms so they had
+to give me the honeymoon suite.
+
+809
+00:53:41,032 --> 00:53:42,226
+Mmm, nice.
+
+810
+00:53:42,367 --> 00:53:43,698
+Yeah, it is nice.
+
+811
+00:53:43,802 --> 00:53:45,822
+Just a matter of luck, I suppose.
+
+812
+00:53:56,047 --> 00:53:58,538
+Deeply, deeply in trouble.
+
+813
+00:54:00,085 --> 00:54:02,505
+Let's see what CHECKERS comes up with.
+
+814
+00:54:05,991 --> 00:54:07,652
+So, Les...
+
+815
+00:54:08,894 --> 00:54:11,021
+When did the tables turn?
+
+816
+00:54:12,197 --> 00:54:16,133
+According to my evaluation,
+ten moves ago I was up plus five.
+
+817
+00:54:16,268 --> 00:54:18,828
+But now it looks like I'm busted.
+
+818
+00:54:19,871 --> 00:54:23,329
+Do you have an evaluation transcript
+over there?
+
+819
+00:54:23,475 --> 00:54:26,205
+I just get the moves on my print-out.
+
+820
+00:54:27,179 --> 00:54:29,713
+Well, there's got to be a record
+of that evaluation somewhere.
+
+821
+00:54:29,714 --> 00:54:31,682
+Could I possibly get a transcript
+of that after the game?
+
+822
+00:54:31,683 --> 00:54:34,584
+I can talk to the powers that be.
+
+823
+00:54:34,719 --> 00:54:37,321
+That would be great
+if you could talk to the "powers that be" -
+
+824
+00:54:37,322 --> 00:54:39,153
+whoever they may be.
+
+825
+00:54:39,291 --> 00:54:42,293
+Put in a word for me, I could really use
+a copy of that evaluation transcript.
+
+826
+00:54:42,294 --> 00:54:44,128
+I'll ask. I'll ask for sure.
+
+827
+00:54:44,129 --> 00:54:45,994
+Thanks, Les. Lester.
+
+828
+00:54:46,097 --> 00:54:48,432
+- Put in a word for me.
+- I will. Will do.
+
+829
+00:54:48,433 --> 00:54:49,991
+You're welcome.
+
+830
+00:54:50,101 --> 00:54:51,659
+That's it.
+
+831
+00:54:51,803 --> 00:54:53,862
+- Thanks. Good game.
+- Good game.
+
+832
+00:54:54,005 --> 00:54:55,836
+Black resigns.
+
+833
+00:54:55,941 --> 00:54:58,671
+Mate in one more move.
+
+834
+00:54:59,678 --> 00:55:02,012
+Les, I really would appreciate
+a copy of that transcript.
+
+835
+00:55:02,013 --> 00:55:04,048
+- I'll ask for you...
+- Yeah, please do.
+
+836
+00:55:04,049 --> 00:55:06,574
+I must say that was a very intense game
+
+837
+00:55:06,718 --> 00:55:10,017
+played between
+two wonderful computer chess players
+
+838
+00:55:10,121 --> 00:55:12,690
+- and we've seen some of the...
+- What just happened?
+
+839
+00:55:12,691 --> 00:55:16,286
+I'm talking on camera.
+Could you please move?
+
+840
+00:55:16,461 --> 00:55:18,429
+- I'm talking to my camera.
+- I understand that, but...
+
+841
+00:55:18,430 --> 00:55:20,097
+Please talk to my Rules Committee
+over here.
+
+842
+00:55:20,098 --> 00:55:22,700
+- This, the... Your Rules Committee?
+- Thank you, John. Thank you.
+
+843
+00:55:22,701 --> 00:55:25,102
+This one little guy
+is your Rules Committee?
+
+844
+00:55:25,103 --> 00:55:28,038
+That was an amazing game,
+an extremely good computer program.
+
+845
+00:55:28,039 --> 00:55:30,975
+What do you think the problem is?
+You just saw...
+
+846
+00:55:30,976 --> 00:55:33,576
+Yes, I just saw
+Allied win the tournament.
+
+847
+00:55:33,712 --> 00:55:37,079
+You just saw...
+You just saw Goliath beat David.
+
+848
+00:55:37,182 --> 00:55:39,917
+And you're paying 'em for it.
+You're rewarding 'em for it.
+
+849
+00:55:39,918 --> 00:55:42,588
+This will be ALLIANCE
+versus yours truly...
+
+850
+00:55:42,687 --> 00:55:45,155
+...creative programming...
+- They bought great ability!
+
+851
+00:55:45,156 --> 00:55:49,326
+If you had that kind of resources,
+you would show great ability also!
+
+852
+00:56:12,484 --> 00:56:15,044
+Hey, Peter! Hey, how are you?
+
+853
+00:56:15,153 --> 00:56:16,643
+No ice!
+
+854
+00:56:16,755 --> 00:56:18,389
+Hey, what are you doing right now?
+
+855
+00:56:18,390 --> 00:56:20,157
+Hey, why don't you
+come say hi to Pauline?
+
+856
+00:56:20,158 --> 00:56:23,093
+- Who?
+- My wife. Come on!
+
+857
+00:56:23,194 --> 00:56:24,889
+Let's meet Pauline.
+
+858
+00:56:25,030 --> 00:56:27,965
+- Yeah, I've been... You all right?
+- Yeah.
+
+859
+00:56:28,133 --> 00:56:29,833
+I've been telling her about you.
+
+860
+00:56:29,834 --> 00:56:31,267
+Yeah.
+
+861
+00:56:40,579 --> 00:56:41,910
+Sweetie?
+
+862
+00:56:42,747 --> 00:56:44,681
+- Are you decent?
+- What?
+
+863
+00:56:44,816 --> 00:56:47,184
+I brought a friend here.
+I met Peter, my friend, in the hallway.
+
+864
+00:56:47,185 --> 00:56:48,619
+Come on in, Peter. Hey.
+
+865
+00:56:48,620 --> 00:56:50,354
+Is it OK? I'm gonna bring him in.
+
+866
+00:56:50,355 --> 00:56:51,855
+- Yes, yeah.
+- All right.
+
+867
+00:56:53,191 --> 00:56:55,326
+- Oh, hi. Hi, Peter.
+- This is my wife, Pauline.
+
+868
+00:56:55,327 --> 00:56:58,125
+- Pauline, Peter.
+- Oh, welcome, welcome.
+
+869
+00:56:58,263 --> 00:56:59,663
+Hey, come on in. Have a seat.
+
+870
+00:56:59,664 --> 00:57:01,974
+- Put you right over there.
+- OK. Yeah.
+
+871
+00:57:04,069 --> 00:57:05,536
+Hey, no ice.
+
+872
+00:57:05,670 --> 00:57:07,137
+- Oh.
+- Oh.
+
+873
+00:57:08,006 --> 00:57:11,908
+So, I wish we could offer you
+a drink or something, but...
+
+874
+00:57:12,043 --> 00:57:15,376
+Yeah, our guy, Keneiloe,
+he just says, "No...
+
+875
+00:57:15,547 --> 00:57:16,747
+"No alcohol, no dope."
+
+876
+00:57:16,748 --> 00:57:18,482
+Keneiloe is very strict
+about that sort of thing.
+
+877
+00:57:18,483 --> 00:57:22,852
+Right, right. He says it's a
+spiritual shortcut - unearned grace.
+
+878
+00:57:24,155 --> 00:57:27,556
+- Have you ever tried LSD?
+- Oh, honey, come on!
+
+879
+00:57:27,692 --> 00:57:29,093
+Spanish Inquisition over here.
+
+880
+00:57:29,094 --> 00:57:31,974
+Give the boy some room here,
+let him settle in.
+
+881
+00:57:32,864 --> 00:57:33,956
+Er, no...
+
+882
+00:57:34,766 --> 00:57:36,165
+Er...
+
+883
+00:57:37,168 --> 00:57:41,218
+I've read about it though,
+and I thought it was interesting how...
+
+884
+00:57:41,272 --> 00:57:43,433
+just a temporary hallucination
+
+885
+00:57:43,575 --> 00:57:46,271
+can have a permanent effect
+on some people,
+
+886
+00:57:46,411 --> 00:57:50,575
+on their... on their consciousness,
+just chemically.
+
+887
+00:57:57,322 --> 00:58:00,780
+I love the way his mind is... working.
+
+888
+00:58:03,495 --> 00:58:05,229
+Dave's just crazy about you guys.
+
+889
+00:58:05,230 --> 00:58:09,428
+It's like he's a little kid
+and the circus is in town.
+
+890
+00:58:09,534 --> 00:58:12,196
+He just wants to run away.
+
+891
+00:58:12,303 --> 00:58:14,203
+It's true, I want to run away.
+
+892
+00:58:14,305 --> 00:58:17,468
+Hey, let me get you something - a soda...
+
+893
+00:58:17,642 --> 00:58:20,132
+water from the tap, something like that?
+
+894
+00:58:21,913 --> 00:58:27,579
+I know that you've told Dave all about
+your computers and your technology,
+
+895
+00:58:27,719 --> 00:58:32,088
+but has Dave taken a moment
+to tell you what we're doing here?
+
+896
+00:58:32,924 --> 00:58:33,924
+A little bit.
+
+897
+00:58:34,092 --> 00:58:37,728
+Don't you think it's strange
+that we're all here at the same time?
+
+898
+00:58:37,729 --> 00:58:42,132
+Pauline and I don't actually believe
+there's such a thing as...
+
+899
+00:58:42,300 --> 00:58:43,426
+Coincidence.
+
+900
+00:58:43,535 --> 00:58:45,025
+...coincidence. - Yeah.
+
+901
+00:58:47,639 --> 00:58:49,889
+We're all kind of like seekers here.
+
+902
+00:58:54,312 --> 00:58:57,475
+You know what I think
+is so neat about you guys
+
+903
+00:58:57,582 --> 00:59:02,246
+is you're kind of like mental explorers.
+
+904
+00:59:02,353 --> 00:59:03,445
+Hmm.
+
+905
+00:59:03,555 --> 00:59:04,855
+You know, I mean, with the computers
+
+906
+00:59:04,856 --> 00:59:07,324
+you're kind of like way out there
+like Columbus,
+
+907
+00:59:07,325 --> 00:59:09,526
+sailing the ocean blue,
+uncharted new territory.
+
+908
+00:59:09,527 --> 00:59:11,328
+You don't know what you're going to find.
+
+909
+00:59:11,329 --> 00:59:14,531
+There may be something really beautiful
+on the other side.
+
+910
+00:59:14,532 --> 00:59:17,695
+But Peter, did you ever ask yourself,
+
+911
+00:59:17,802 --> 00:59:21,135
+"How many squares
+are there on a chessboard?"
+
+912
+00:59:22,173 --> 00:59:23,663
+64.
+
+913
+00:59:23,808 --> 00:59:25,676
+It's an eight-by-eight grid.
+
+914
+00:59:25,677 --> 00:59:28,874
+Well, but don't you see
+how limited that is?
+
+915
+00:59:28,980 --> 00:59:30,140
+No...
+
+916
+00:59:30,982 --> 00:59:36,142
+It's actually very complex when you start
+to think about it as a programming problem.
+
+917
+00:59:36,955 --> 00:59:40,724
+Just the number of possible games
+explode exponentially with each move.
+
+918
+00:59:40,725 --> 00:59:45,094
+It's close to 10 to 120th power,
+
+919
+00:59:45,196 --> 00:59:49,098
+and to try and compute all those games
+
+920
+00:59:49,200 --> 00:59:52,402
+might take even longer
+than humanity would be around to do so.
+
+921
+00:59:52,403 --> 00:59:54,462
+Oh, wow.
+
+922
+00:59:55,974 --> 00:59:57,908
+Oh, man.
+
+923
+00:59:58,777 --> 01:00:02,269
+But look at the whole world -
+
+924
+01:00:02,413 --> 01:00:05,211
+you want to be the best chess player,
+
+925
+01:00:05,350 --> 01:00:07,140
+and that's beautiful, it is,
+
+926
+01:00:07,252 --> 01:00:09,948
+and I honour the beauty of that,
+
+927
+01:00:10,121 --> 01:00:13,488
+and the passion
+you have to do a thing like that.
+
+928
+01:00:13,591 --> 01:00:17,728
+But I have to be truthful and tell you that
+it also breaks my heart just a little bit,
+
+929
+01:00:17,729 --> 01:00:23,361
+because you could be
+the greatest chess master who ever lived
+
+930
+01:00:23,535 --> 01:00:27,767
+and still not begin
+to tap into your full potential!
+
+931
+01:00:27,939 --> 01:00:30,741
+I don't want to be a chess player,
+it's programming...
+
+932
+01:00:30,742 --> 01:00:32,643
+Right, right, but if you're a programr,
+
+933
+01:00:32,644 --> 01:00:35,212
+you know, the best programr,
+I mean, you could be the greatest...
+
+934
+01:00:35,213 --> 01:00:36,613
+I mean, he could be the president of IBM...
+
+935
+01:00:36,614 --> 01:00:40,250
+Well, Dave, he could be the President
+of the United States and...
+
+936
+01:00:40,251 --> 01:00:43,345
+Right, and still not live up
+to his potential.
+
+937
+01:00:51,396 --> 01:00:53,876
+Have you been with a lot of women, Peter?
+
+938
+01:01:00,505 --> 01:01:01,802
+Hey.
+
+939
+01:01:01,906 --> 01:01:03,407
+I think I should probably go.
+
+940
+01:01:03,408 --> 01:01:05,774
+Oh, come on.
+
+941
+01:01:06,978 --> 01:01:10,277
+Well, I mean,
+if you get your kicks some other way...
+
+942
+01:01:12,917 --> 01:01:15,977
+Oh. Oh, yeah. We are very open.
+
+943
+01:01:16,120 --> 01:01:19,055
+We're very accepting, and...
+
+944
+01:01:20,658 --> 01:01:21,892
+You know, I hate to say it,
+
+945
+01:01:21,893 --> 01:01:28,389
+but we are actually old enough
+to be your parents, and...
+
+946
+01:01:29,734 --> 01:01:32,567
+if you want to think of
+us that way, well...
+
+947
+01:01:38,509 --> 01:01:41,099
+I don't understand what you mean by that.
+
+948
+01:01:43,514 --> 01:01:44,674
+Peter...
+
+949
+01:01:47,452 --> 01:01:49,682
+If you want to leave, it's OK.
+
+950
+01:01:51,556 --> 01:01:53,724
+- You're not gonna hurt our feelings.
+- No.
+
+951
+01:01:53,725 --> 01:01:56,990
+It's... You know,
+it's a free country, so...
+
+952
+01:01:57,929 --> 01:02:02,866
+But, honey,
+if you want to stay, that's OK, too.
+
+953
+01:02:04,702 --> 01:02:07,037
+But if you stay, there's just one rule.
+
+954
+01:02:07,038 --> 01:02:10,633
+And that is that you have to be free.
+
+955
+01:02:10,742 --> 01:02:13,233
+No 64 squares on a board.
+
+956
+01:02:13,344 --> 01:02:16,871
+No squares, no board, just...
+
+957
+01:02:17,048 --> 01:02:18,675
+life!
+
+958
+01:02:19,717 --> 01:02:21,241
+Squares.
+
+959
+01:02:22,086 --> 01:02:25,055
+- I think we're the squares here.
+- Maybe.
+
+960
+01:02:27,792 --> 01:02:29,942
+We're just normal everyday people -
+
+961
+01:02:30,094 --> 01:02:32,074
+a schoolteacher and a secretary.
+
+962
+01:02:34,732 --> 01:02:36,667
+Why don't you just come
+sit down on the bed next to us?
+
+963
+01:02:36,668 --> 01:02:39,136
+Just sit next to us, that's all...
+
+964
+01:02:53,318 --> 01:02:55,115
+You know what I like?
+
+965
+01:02:55,286 --> 01:02:58,278
+I like to get the back of my neck kissed.
+
+966
+01:02:58,389 --> 01:03:00,084
+Just like Dave is doing.
+
+967
+01:03:00,224 --> 01:03:04,320
+Just so lightly that...
+
+968
+01:03:04,495 --> 01:03:07,191
+that it almost tickles.
+
+969
+01:03:17,842 --> 01:03:19,342
+What do you like, Peter?
+
+970
+01:03:21,145 --> 01:03:23,113
+Peter, you know,
+
+971
+01:03:23,247 --> 01:03:27,081
+giving pleasure and receiving pleasure...
+
+972
+01:03:28,619 --> 01:03:30,587
+they're the same thing.
+
+973
+01:03:31,622 --> 01:03:33,002
+Two wants to be three.
+
+974
+01:03:41,065 --> 01:03:42,327
+Papageorge.
+
+975
+01:03:42,467 --> 01:03:43,764
+Freddy.
+
+976
+01:03:48,339 --> 01:03:50,102
+I was talking to John.
+
+977
+01:03:50,775 --> 01:03:53,300
+He said that you were gonna pay us.
+
+978
+01:03:53,444 --> 01:03:58,848
+He thought that you were
+gonna win that prize, the money...
+
+979
+01:04:00,485 --> 01:04:02,745
+I was planning on winning that prize.
+
+980
+01:04:04,255 --> 01:04:05,255
+But you...
+
+981
+01:04:05,356 --> 01:04:07,090
+You guys worried about the money
+that I owe you?
+
+982
+01:04:07,091 --> 01:04:09,292
+Well, we got bills.
+You took pills from us.
+
+983
+01:04:09,293 --> 01:04:11,955
+Yeah, I got bills to pay.
+
+984
+01:04:13,231 --> 01:04:14,459
+All right, well...
+
+985
+01:04:14,599 --> 01:04:17,701
+I haven't had a chance to leave
+the hotel yet to get any money.
+
+986
+01:04:17,702 --> 01:04:19,932
+I don't have a car.
+
+987
+01:04:21,072 --> 01:04:24,074
+I don't know when you guys would have
+expected me to go get the money -
+
+988
+01:04:24,075 --> 01:04:25,275
+I've been here the whole time.
+
+989
+01:04:25,276 --> 01:04:26,676
+- I have a car.
+- You have a car?
+
+990
+01:04:26,677 --> 01:04:29,079
+They got this guy there
+- this African guru.
+
+991
+01:04:29,080 --> 01:04:30,881
+I mean, I don't even know
+if he really <i>is</i> African.
+
+992
+01:04:30,882 --> 01:04:33,383
+The guy's probably from Detroit
+or something.
+
+993
+01:04:33,384 --> 01:04:35,654
+They're just chanting and ranting...
+
+994
+01:04:36,621 --> 01:04:39,601
+Uh, I tell you.
+It's all over for the white man.
+
+995
+01:04:40,892 --> 01:04:43,994
+I wonder how much those people paid
+for that conference anyway?
+
+996
+01:04:43,995 --> 01:04:46,395
+At least I got my catharsis for free.
+
+997
+01:04:47,098 --> 01:04:48,588
+Blllaah!
+
+998
+01:04:51,302 --> 01:04:52,428
+Freddy!
+
+999
+01:04:53,905 --> 01:04:55,395
+It's marketing.
+
+1000
+01:04:55,506 --> 01:04:56,632
+Right.
+
+1001
+01:04:56,741 --> 01:04:58,368
+- Tom Schoesser.
+- Tom?
+
+1002
+01:04:58,509 --> 01:05:01,945
+He sold his program to Allied Labs,
+that's what happened.
+
+1003
+01:05:01,946 --> 01:05:03,613
+TSAR threw the competition.
+
+1004
+01:05:03,614 --> 01:05:05,515
+He sold his program to Allied,
+
+1005
+01:05:05,516 --> 01:05:08,618
+and they plugged it into their machine,
+and that's the machine that beat me.
+
+1006
+01:05:08,619 --> 01:05:10,554
+I mean, come on,
+it's just the Turk all over again!
+
+1007
+01:05:10,555 --> 01:05:12,522
+Instead of a man
+hiding inside of a machine,
+
+1008
+01:05:12,523 --> 01:05:15,773
+it's a program
+hiding inside of another program.
+
+1009
+01:05:16,294 --> 01:05:18,694
+Mediocrity triumphs again.
+
+1010
+01:05:18,863 --> 01:05:20,854
+Always.
+
+1011
+01:05:21,699 --> 01:05:23,724
+Just take... just take...
+
+1012
+01:05:23,901 --> 01:05:26,503
+Just take a mediocre...
+Just take a mediocre program
+
+1013
+01:05:26,504 --> 01:05:28,802
+and turbo-charge it.
+
+1014
+01:05:28,906 --> 01:05:31,986
+Just take something mediocre
+and turbo-charge it.
+
+1015
+01:05:40,685 --> 01:05:42,152
+OK.
+
+1016
+01:05:42,920 --> 01:05:44,921
+We've made some strides this year,
+
+1017
+01:05:44,922 --> 01:05:47,357
+we've had a couple of issues
+on the other hand.
+
+1018
+01:05:47,358 --> 01:05:53,092
+I apologise to anybody here
+who has had cat allergies.
+
+1019
+01:05:53,264 --> 01:05:54,629
+Miaow!
+
+1020
+01:05:54,732 --> 01:05:56,466
+It's not gonna happen next time,
+
+1021
+01:05:56,467 --> 01:06:00,097
+we're gonna be in a different hotel,
+don't worry about it.
+
+1022
+01:06:00,338 --> 01:06:04,074
+So now we go onto the awards -
+the real reason we're here today.
+
+1023
+01:06:04,075 --> 01:06:06,675
+So we're gonna start with the third prize,
+
+1024
+01:06:06,811 --> 01:06:10,042
+and the winner of course
+is the STASIA team,
+
+1025
+01:06:10,148 --> 01:06:14,141
+and that is led
+by our dear friend Mr McVey.
+
+1026
+01:06:18,022 --> 01:06:20,081
+You guys come up.
+
+1027
+01:06:26,130 --> 01:06:29,190
+He's very generously
+bringing his team up.
+
+1028
+01:06:29,934 --> 01:06:32,494
+Congratulations to a great team.
+
+1029
+01:06:32,603 --> 01:06:35,367
+Really beautiful programming...
+
+1030
+01:06:37,408 --> 01:06:40,935
+This is the team that's got a lady on it -
+there she is.
+
+1031
+01:06:41,612 --> 01:06:45,776
+That's the first time for our conference
+and we welcome her.
+
+1032
+01:06:45,917 --> 01:06:47,782
+Thanks for being here.
+
+1033
+01:06:47,919 --> 01:06:49,284
+Thank you.
+
+1034
+01:06:50,121 --> 01:06:51,588
+The STASIA team!
+
+1035
+01:06:58,362 --> 01:07:02,132
+Before we present the second prize,
+we have a little surprise -
+
+1036
+01:07:02,266 --> 01:07:05,099
+an amusement from the NOOG team.
+
+1037
+01:07:05,203 --> 01:07:08,238
+I'm gonna get this right,
+this is what the NOOG team has set up.
+
+1038
+01:07:08,239 --> 01:07:13,370
+They wrote up a little program, it's
+up here, to run a predictive algorithm.
+
+1039
+01:07:13,544 --> 01:07:15,444
+They charted every room
+
+1040
+01:07:15,580 --> 01:07:19,414
+that Mr Papageorge has attempted
+to stay in over the weekend.
+
+1041
+01:07:20,484 --> 01:07:24,147
+They spit out a prediction
+of what room he would end up in -
+
+1042
+01:07:24,288 --> 01:07:28,019
+and that is Room 217.
+
+1043
+01:07:28,159 --> 01:07:29,939
+That's the big winner. 217!
+
+1044
+01:07:30,027 --> 01:07:32,462
+That's just a math joke... a math joke.
+
+1045
+01:07:32,463 --> 01:07:36,058
+OK. Is Mike in the room?
+
+1046
+01:07:36,234 --> 01:07:37,826
+Is Mike here?
+
+1047
+01:07:47,111 --> 01:07:50,478
+All right, boys or gentlemen -
+
+1048
+01:07:50,615 --> 01:07:53,316
+or young men,
+or whatever you want to call yourselves -
+
+1049
+01:07:53,317 --> 01:07:54,884
+it's time for your refreshment.
+
+1050
+01:07:54,885 --> 01:07:57,487
+- Thanks, Mom.
+- Well, you're quite welcome.
+
+1051
+01:07:57,488 --> 01:07:59,723
+And by the way, Freddy, do you know Luke?
+
+1052
+01:07:59,724 --> 01:08:01,624
+No, I don't know Luke.
+
+1053
+01:08:01,726 --> 01:08:04,894
+Well, it's time you got acquainted.
+Do you know Luke?
+
+1054
+01:08:04,895 --> 01:08:06,453
+No, I don't know Luke.
+
+1055
+01:08:07,398 --> 01:08:09,662
+Luke 15:11 through 32.
+
+1056
+01:08:10,501 --> 01:08:12,001
+Try and decode this one.
+
+1057
+01:08:12,069 --> 01:08:16,165
+So, Luke tells... these are parables,
+these little stories.
+
+1058
+01:08:16,307 --> 01:08:18,675
+Like "The Prodigal Son",
+that's a parable.
+
+1059
+01:08:18,676 --> 01:08:20,343
+There's one about the lost coin,
+
+1060
+01:08:20,344 --> 01:08:22,479
+a woman who was preparing for a wedding
+
+1061
+01:08:22,480 --> 01:08:25,115
+and she had to have so many coins,
+and she lost one.
+
+1062
+01:08:25,116 --> 01:08:28,318
+And she just tore the house up
+looking for that coin.
+
+1063
+01:08:28,319 --> 01:08:31,083
+All right?
+Now it's called the Holy Bible.
+
+1064
+01:08:32,123 --> 01:08:33,573
+Well, Bible means book.
+
+1065
+01:08:33,624 --> 01:08:36,024
+- And what does "holy" mean?
+- Blessed.
+
+1066
+01:08:36,127 --> 01:08:39,585
+Mom, where is the box?
+I left a little box here.
+
+1067
+01:08:39,697 --> 01:08:41,264
+It's a small wooden box, Mom!
+
+1068
+01:08:41,265 --> 01:08:44,301
+I haven't seen it.
+I haven't seen any kind of box.
+
+1069
+01:08:44,302 --> 01:08:46,332
+You must have moved it somewhere!
+
+1070
+01:08:46,370 --> 01:08:47,894
+I left it right here.
+
+1071
+01:08:48,072 --> 01:08:50,492
+Well, if I moved it, I was unconscious.
+
+1072
+01:08:50,574 --> 01:08:54,738
+Look... you know that shelf
+your daddy built above the tub?
+
+1073
+01:08:54,912 --> 01:08:57,580
+It's a small wooden box.
+It has money in it.
+
+1074
+01:08:57,581 --> 01:08:58,581
+Wow.
+
+1075
+01:08:58,716 --> 01:09:02,413
+You know, there was an old man
+called Uncle Otto.
+
+1076
+01:09:02,520 --> 01:09:05,322
+And he was nobody's uncle
+but everybody's uncle.
+
+1077
+01:09:05,323 --> 01:09:08,313
+And he hid his money
+in a fruit jar, sealed it...
+
+1078
+01:09:08,326 --> 01:09:10,493
+- I don't have time for this story
+right now! - ...and buried it...
+
+1079
+01:09:10,494 --> 01:09:14,364
+- I need to find this box! It has money in it!
+- ..In a horse's stall out in the big barn.
+
+1080
+01:09:14,365 --> 01:09:17,967
+- Well, the barn caught on fire, and...
+- It's a small wooden box. It has money in it!
+
+1081
+01:09:17,968 --> 01:09:21,705
+...the whole thing collapsed.
+Tin was covering up his fruit jar.
+
+1082
+01:09:21,706 --> 01:09:25,267
+And he finally had confessed the story
+to his neighbours,
+
+1083
+01:09:25,409 --> 01:09:28,901
+they came in and dug and looked
+and never found it.
+
+1084
+01:09:29,613 --> 01:09:32,782
+- Two years later, in some muck...
+- It's a small wooden box.
+
+1085
+01:09:32,783 --> 01:09:35,518
+...and some brush and some moss...
+- It has money in it.
+
+1086
+01:09:35,519 --> 01:09:38,750
+...in a creek, the jar was discovered.
+
+1087
+01:09:38,923 --> 01:09:40,447
+It was perfectly sealed.
+
+1088
+01:09:41,125 --> 01:09:44,253
+The money was there,
+but Uncle Otto was gone.
+
+1089
+01:09:44,362 --> 01:09:45,795
+Lost in a loop...
+
+1090
+01:09:51,168 --> 01:09:52,499
+Thank you.
+
+1091
+01:09:52,636 --> 01:09:54,570
+And he's taking the cheque.
+
+1092
+01:09:54,739 --> 01:09:56,468
+I would too.
+
+1093
+01:09:57,842 --> 01:10:01,005
+Very inventive program,
+very bold this year.
+
+1094
+01:10:02,580 --> 01:10:06,340
+Another round of applause for this guy.
+He really is a winner.
+
+1095
+01:10:14,325 --> 01:10:16,122
+Smile for the camera.
+
+1096
+01:10:16,260 --> 01:10:19,627
+- And thank you. All right.
+- Thank you.
+
+1097
+01:10:21,031 --> 01:10:25,161
+OK, this marks the official end
+to our tournament this year.
+
+1098
+01:10:25,336 --> 01:10:28,438
+For those of you who are not getting
+immediately on an airplane,
+
+1099
+01:10:28,439 --> 01:10:32,569
+I advise you come around tomorrow
+for a spectacular game
+
+1100
+01:10:32,743 --> 01:10:36,509
+between the winning ALLIANCE team,
+computers,
+
+1101
+01:10:36,647 --> 01:10:39,172
+and me, a human person.
+
+1102
+01:10:39,283 --> 01:10:42,473
+- That's it. Man versus
+machine. Right, Les? - Right.
+
+1103
+01:10:42,586 --> 01:10:44,645
+OK. The adventure continues,
+
+1104
+01:10:44,789 --> 01:10:47,549
+and we're gonna see
+all you folks next year.
+
+1105
+01:10:54,298 --> 01:10:56,299
+Thank you.
+Thank you all so much for coming.
+
+1106
+01:10:56,300 --> 01:10:59,569
+We really look forward to seeing
+what you bring next year.
+
+1107
+01:10:59,570 --> 01:11:02,038
+The adventure continues.
+
+1108
+01:11:16,420 --> 01:11:18,621
+Are you sure I can't get you something?
+
+1109
+01:11:18,622 --> 01:11:20,249
+- No.
+- Shirley Temple?
+
+1110
+01:11:22,493 --> 01:11:24,223
+Can you just leave me alone?
+
+1111
+01:11:27,498 --> 01:11:28,498
+Hi, Peter.
+
+1112
+01:11:28,532 --> 01:11:32,298
+- May I have a glass of house red, please.
+- Sure.
+
+1113
+01:11:33,037 --> 01:11:34,265
+Thank you.
+
+1114
+01:11:35,439 --> 01:11:38,067
+Talk about complex systems.
+
+1115
+01:11:38,209 --> 01:11:41,644
+"Garbage in, garbage out."
+
+1116
+01:11:41,645 --> 01:11:45,682
+You input garbage into the computer,
+or the data, you're gonna get it out.
+
+1117
+01:11:45,683 --> 01:11:47,708
+But the program is perfect!
+
+1118
+01:11:47,885 --> 01:11:51,287
+The program calculated exactly
+what you wanted. You know?
+
+1119
+01:11:51,288 --> 01:11:53,056
+You want to know the real future
+of computers?
+
+1120
+01:11:53,057 --> 01:11:54,581
+Tell me.
+
+1121
+01:11:54,725 --> 01:11:56,090
+Dating.
+
+1122
+01:11:58,829 --> 01:12:01,431
+You mean computers are going
+to start dating each other?
+
+1123
+01:12:01,432 --> 01:12:03,297
+- No.
+- Science of attraction?
+
+1124
+01:12:03,467 --> 01:12:05,196
+We'll use 'em for dating.
+
+1125
+01:12:06,103 --> 01:12:08,638
+You know,
+we got a couple young people here.
+
+1126
+01:12:08,639 --> 01:12:11,374
+- I want to hear this.
+- What attracts them to each other?
+
+1127
+01:12:11,375 --> 01:12:14,640
+I'm wondering
+if you could program a computer,
+
+1128
+01:12:14,745 --> 01:12:17,514
+you know, with the inputs
+on these signs of attraction?
+
+1129
+01:12:17,515 --> 01:12:19,516
+- It's all about strategy.
+- Right.
+
+1130
+01:12:19,517 --> 01:12:20,557
+Just like chess.
+
+1131
+01:12:20,684 --> 01:12:23,278
+Here we go. Go on.
+
+1132
+01:12:23,954 --> 01:12:26,047
+- Just...
+- What's your strategy?
+
+1133
+01:12:26,891 --> 01:12:27,891
+Yeah?
+
+1134
+01:12:30,528 --> 01:12:31,893
+I don't have one.
+
+1135
+01:12:32,062 --> 01:12:35,520
+I'll tell you. When I met my wife,
+years ago in college,
+
+1136
+01:12:35,699 --> 01:12:39,635
+I knew her one day
+before we had that magical moment.
+
+1137
+01:12:39,737 --> 01:12:41,830
+So what happens with that?
+
+1138
+01:12:41,939 --> 01:12:45,375
+When people see each other
+and get that reaction? I mean...
+
+1139
+01:12:45,376 --> 01:12:47,708
+I mean... You're a video guy.
+
+1140
+01:12:49,346 --> 01:12:51,536
+- Yeah.
+- Yeah, what do you see, man?
+
+1141
+01:12:51,549 --> 01:12:52,846
+What do I see?
+
+1142
+01:12:52,950 --> 01:12:54,380
+What do you see? Yeah.
+
+1143
+01:12:55,920 --> 01:13:00,120
+I don't know - you want to look
+through the camera and see what I see?
+
+1144
+01:13:01,592 --> 01:13:03,890
+You want to look through the camera?
+
+1145
+01:13:03,994 --> 01:13:05,256
+Yeah.
+
+1146
+01:13:06,030 --> 01:13:07,895
+Go pick it up. Test it out.
+
+1147
+01:13:07,998 --> 01:13:09,832
+- You ever use a video camera?
+- No.
+
+1148
+01:13:09,833 --> 01:13:11,994
+- Check it out.
+- OK.
+
+1149
+01:13:12,136 --> 01:13:14,195
+Wow! Wow, wow, wow.
+
+1150
+01:13:31,989 --> 01:13:34,457
+Have you, in your dealings
+with the other teams,
+
+1151
+01:13:34,458 --> 01:13:38,224
+heard any rumours or speculation
+
+1152
+01:13:38,362 --> 01:13:42,196
+that the Allied Labs team
+
+1153
+01:13:42,333 --> 01:13:45,530
+paid Professor Schoesser
+to throw the tournament?
+
+1154
+01:13:45,669 --> 01:13:46,669
+No.
+
+1155
+01:13:46,770 --> 01:13:47,770
+Good.
+
+1156
+01:13:47,838 --> 01:13:50,608
+I can tell you
+that that is completely false.
+
+1157
+01:13:53,544 --> 01:13:55,910
+Have you heard another rumour
+
+1158
+01:13:56,013 --> 01:13:59,723
+that there's been interest
+from the Pentagon in our project?
+
+1159
+01:14:02,486 --> 01:14:03,851
+No.
+
+1160
+01:14:04,021 --> 01:14:05,454
+That one's true.
+
+1161
+01:14:08,192 --> 01:14:11,594
+And, in fact, they've been
+following the project for some time.
+
+1162
+01:14:11,595 --> 01:14:13,997
+They're aware of the failures
+we've been having
+
+1163
+01:14:13,998 --> 01:14:17,263
+and they don't understand them either.
+
+1164
+01:14:17,401 --> 01:14:20,470
+And the reason the Professor was late
+to the tournament
+
+1165
+01:14:20,471 --> 01:14:25,875
+was because they had detained him
+for some sort of questioning.
+
+1166
+01:14:31,081 --> 01:14:34,831
+I want to tell you something
+that I haven't told anyone else.
+
+1167
+01:14:35,019 --> 01:14:38,439
+And I hope you'll use discretion
+with this information.
+
+1168
+01:14:40,424 --> 01:14:45,589
+You know that my own work
+is primarily experimental psychology -
+
+1169
+01:14:45,696 --> 01:14:47,497
+broader applications or implications
+
+1170
+01:14:47,498 --> 01:14:50,099
+of the same artificial intelligence work
+that we're doing?
+
+1171
+01:14:50,100 --> 01:14:51,294
+Yes.
+
+1172
+01:14:54,271 --> 01:15:00,676
+Not necessarily having told Tom
+I was doing this,
+
+1173
+01:15:00,811 --> 01:15:05,771
+I used some of the TSAR software
+in a personal project.
+
+1174
+01:15:08,452 --> 01:15:11,080
+I was up very late one night -
+
+1175
+01:15:11,221 --> 01:15:13,489
+in the lab running experiments -
+I saw something anomalous...
+
+1176
+01:15:13,490 --> 01:15:16,125
+something that I told myself
+for a long time didn't happen,
+
+1177
+01:15:16,126 --> 01:15:19,095
+that it was some kind of a practical joke,
+or RF interference -
+
+1178
+01:15:19,096 --> 01:15:22,657
+something deeper and stranger,
+possibly more exciting!
+
+1179
+01:15:22,766 --> 01:15:26,646
+I saw something that night
+that I can only describe as chilling.
+
+1180
+01:17:47,411 --> 01:17:49,321
+I just thought you should know.
+
+1181
+01:17:51,181 --> 01:17:52,409
+Thank you.
+
+1182
+01:18:51,642 --> 01:18:53,473
+- Hi.
+- Hi.
+
+1183
+01:18:53,644 --> 01:18:55,339
+Um... hi.
+
+1184
+01:18:56,513 --> 01:19:01,109
+Peter, your strange ideas from last night -
+they really got to me.
+
+1185
+01:19:01,285 --> 01:19:03,719
+This morning I woke up
+and everything was weird.
+
+1186
+01:19:03,720 --> 01:19:07,087
+I walked out into the lobby
+of the conference
+
+1187
+01:19:07,190 --> 01:19:12,059
+and I looked down and everybody
+looked like they were chess pieces.
+
+1188
+01:19:12,162 --> 01:19:16,462
+I saw Professor Schoesser standing there -
+he was the king,
+
+1189
+01:19:16,566 --> 01:19:21,868
+and Henderson was zig-zagging,
+going diagonals like a bishop.
+
+1190
+01:19:22,005 --> 01:19:26,567
+And there was a student
+who was stepping forward,
+
+1191
+01:19:26,710 --> 01:19:27,800
+just like a pawn.
+
+1192
+01:19:27,878 --> 01:19:30,980
+And just as he was about
+to hit Professor Schoesser,
+
+1193
+01:19:30,981 --> 01:19:34,576
+his wife swooped in to defend him,
+just like a queen.
+
+1194
+01:19:34,718 --> 01:19:39,246
+And I kept thinking
+that a knight was gonna teleport...
+
+1195
+01:19:40,357 --> 01:19:42,217
+Did you see any teleportation?
+
+1196
+01:19:43,126 --> 01:19:44,684
+No.
+
+1197
+01:19:44,828 --> 01:19:46,295
+No...
+
+1198
+01:19:48,932 --> 01:19:51,400
+Um... did you see anything where...
+
+1199
+01:19:52,536 --> 01:19:54,904
+like if two bodies would come together,
+
+1200
+01:19:54,905 --> 01:19:56,896
+one of them would disappear?
+
+1201
+01:19:58,542 --> 01:19:59,873
+No.
+
+1202
+01:20:02,212 --> 01:20:03,543
+OK.
+
+1203
+01:20:08,618 --> 01:20:10,085
+All right.
+
+1204
+01:20:10,220 --> 01:20:11,585
+Well, thanks.
+
+1205
+01:20:12,990 --> 01:20:14,218
+Er... good night.
+
+1206
+01:20:15,125 --> 01:20:16,592
+Good night.
+
+1207
+01:20:31,375 --> 01:20:32,637
+Hello, sir.
+
+1208
+01:20:32,776 --> 01:20:35,301
+We are a group of hearts and minds.
+
+1209
+01:20:35,445 --> 01:20:36,742
+Oh, I see...
+
+1210
+01:20:36,880 --> 01:20:38,614
+That's very nice, but listen -
+
+1211
+01:20:38,615 --> 01:20:40,850
+you're gonna have to get out of here,
+take your group,
+
+1212
+01:20:40,851 --> 01:20:44,331
+because I have this room reserved
+for a chess tournament.
+
+1213
+01:20:44,388 --> 01:20:46,055
+There's a chess tournament in 20 minutes
+
+1214
+01:20:46,056 --> 01:20:48,456
+and I'm bringing in chessboards,
+
+1215
+01:20:48,625 --> 01:20:51,093
+I'm bringing in a computer,
+there are 20 people coming.
+
+1216
+01:20:51,094 --> 01:20:53,763
+So just take your group
+and you'll have to leave.
+
+1217
+01:20:53,764 --> 01:20:55,724
+Er... no, sir. We cannot leave.
+
+1218
+01:20:55,832 --> 01:20:57,392
+I have the room reserved.
+
+1219
+01:20:57,501 --> 01:20:59,702
+You don't have it reserved.
+I have it for the whole weekend!
+
+1220
+01:20:59,703 --> 01:21:01,971
+Every day I have it with the management.
+
+1221
+01:21:01,972 --> 01:21:04,273
+We've had a chess tournament all weekend,
+
+1222
+01:21:04,274 --> 01:21:06,809
+- people from all around...
+- But today is Monday, sir.
+
+1223
+01:21:06,810 --> 01:21:09,643
+I know. Well, Monday is part of the...
+
+1224
+01:21:09,780 --> 01:21:11,077
+Yes.
+
+1225
+01:21:12,449 --> 01:21:14,250
+Um, perhaps
+we can speak with the manager?
+
+1226
+01:21:14,251 --> 01:21:16,611
+No, no, let's not talk to the manager.
+
+1227
+01:21:26,329 --> 01:21:29,423
+Um... excuse me, people.
+We have an agreement.
+
+1228
+01:21:29,533 --> 01:21:30,533
+Shh.
+
+1229
+01:22:39,603 --> 01:22:41,901
+Don't you people have any respect?
+
+1230
+01:23:16,740 --> 01:23:18,264
+Pat, Pat... it's OK.
+
+1231
+01:23:18,375 --> 01:23:20,985
+Pat, forget about them.
+Forget about them.
+
+1232
+01:23:56,980 --> 01:23:59,782
+...breaking down walls.
+- I didn't see two of us, I saw one of us.
+
+1233
+01:23:59,783 --> 01:24:02,685
+Seriously, I don't think
+I ever saw him the way I saw him just now.
+
+1234
+01:24:02,686 --> 01:24:04,517
+A much deeper connection...
+
+1235
+01:24:04,654 --> 01:24:07,156
+There was a warm communion
+that came through...
+
+1236
+01:24:07,157 --> 01:24:09,858
+I wanted to, just, take her clothes off
+in that moment.
+
+1237
+01:24:09,859 --> 01:24:12,169
+Excellent. Did you hear what he said?
+
+1238
+01:24:12,195 --> 01:24:14,196
+He wanted to take off her clothes...
+
+1239
+01:24:14,197 --> 01:24:16,887
+Well, I have to think
+it was my mom and dad.
+
+1240
+01:24:16,900 --> 01:24:18,100
+I have to think it was Biblical...
+
+1241
+01:24:18,101 --> 01:24:22,771
+- What even does the love taste like?
+- Dangerous and potentially catastrophic.
+
+1242
+01:24:22,806 --> 01:24:25,641
+I think all of us can see mates
+right down the line.
+
+1243
+01:24:25,642 --> 01:24:27,109
+No, I don't do anything like that.
+
+1244
+01:24:27,110 --> 01:24:29,237
+- Wow. OK.
+- I love doing this.
+
+1245
+01:24:29,379 --> 01:24:31,569
+I have a million more things to say.
+
+1246
+01:24:45,328 --> 01:24:47,528
+Dr Schoesser, I'm very, very sorry.
+
+1247
+01:25:11,888 --> 01:25:13,219
+Mr Schoesser...
+
+1248
+01:25:28,505 --> 01:25:31,115
+Professor Beuscher, I'm very, very sorry.
+
+1249
+01:31:17,887 --> 01:31:24,887
+This song is in honour of
+artificial intelligence.
+

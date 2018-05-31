@@ -1,0 +1,914 @@
+{1}{1}23.976
+{150}{218}[ Cawing ]
+{284}{352}[ Bell Tolling ]
+{598}{642}[ Squeaking ]
+{1261}{1313}He's inside.
+{1317}{1381}- Get him!|- He's gone!
+{1384}{1456}- Search the room.|- Hey, a party. Am I invited?
+{1460}{1522}"John Smith,|in the name of the king,
+{1526}{1582}you are under arrest|for treason in Jamestown."
+{1586}{1634}Treason?|You must be looking for Ratcliffe.
+{1638}{1714}- [ Grunts ]|- [ Soldiers Yelling ]
+{1768}{1812}Don't let him get away!
+{1872}{1916}After him!
+{2005}{2079}[ Blows Landing ]
+{2083}{2136}- [ Yells ]|- Thanks for droppin' in.
+{2140}{2197}Anyone else care|to join him?
+{2285}{2329}Cut him off!
+{2399}{2459}I've got him now!
+{2512}{2548}Oh, he's jumped!
+{2609}{2655}[ Grunts ]
+{2659}{2734}The king believed|my story.
+{2738}{2853}Pity. I so would have preferred|to see you hanged.
+{2881}{2924}[ Groans, Gasps ]
+{2988}{3037}[ Water Splashing ]
+{3281}{3351}[ Chuckling, Sobbing ]
+{3355}{3451}I did everything I could|to save him.
+{3455}{3557}And that is the death|of John Smith.
+{3561}{3668}- I wanted him alive!|- As did I.
+{3672}{3771}But, your majesty, you don't need him|to confirm what I've already told you.
+{3775}{3873}We must wait until John Rolfe returns|with the chief of these Indians.
+{3877}{3991}The chief will only tell you|more heathen lies. War is the only way.
+{3995}{4095}Very well, Ratcliffe.|Prepare your armada, then.
+{4099}{4199}But we will await the return|of John Rolfe... and the Indian chief.
+{4608}{4654}[ Calling ]
+{5248}{5325}[ Laughter ]
+{5328}{5426}[ Indians Chattering|In Native Language ]
+{5504}{5568}[ Trilling, Barking ]
+{5684}{5736}[ Howls, Growls ]
+{5828}{5880}- [ Giggling ]|- [ Meeko Munching ]
+{5942}{6004}- [ Grunts ]|- [ Laughs ]
+{6094}{6150}[ Squeaking ]
+{6178}{6222}[ Grumbles ]
+{6250}{6294}[ Grunts ]
+{6298}{6374}[ Gasps, Squeals ]
+{6457}{6509}[ Screaming, Laughing ]
+{6572}{6616}[ Snowy Thud ]
+{6682}{6752}- [ Sighs ]|- [ Giggling ]
+{7011}{7112}Oh, much time has passed|since the news of John Smith's death.
+{7116}{7178}Perhaps it's time|to put this behind you.
+{7182}{7286}I know you are right.|It's just hard to say goodbye.
+{7453}{7536}[ Munching, Snarling ]
+{7770}{7831}[ Barking, Growling ]
+{7835}{7888}[ Barking Continues ]
+{8077}{8141}[ Groans ]
+{8248}{8334}[ Whimpers, Gasps ]
+{8338}{8402}[ Growls, Barks ]
+{8405}{8495}[ Squeaking ]
+{8786}{8856}[ Trills ]
+{8930}{8986}[ Whimpers, Growls ]
+{9124}{9232}The earth is cold|The fields are bare
+{9236}{9364}The branches fold against the wind|that's everywhere
+{9417}{9513}The birds move on so they survive
+{9517}{9604}When snow's so deep|the bears all sleep
+{9608}{9706}- To keep themselves alive|- [ Growling ]
+{9710}{9772}They do what they must|for now
+{9776}{9864}And trust in their plan
+{9868}{9991}If I trust in mine|somehow I might find
+{9995}{10080}Who I am
+{10084}{10200}But where do I go from here
+{10204}{10275}So many voices
+{10279}{10363}Ringing in my ear
+{10367}{10426}Which is the voice
+{10430}{10521}That I was meant to hear
+{10525}{10596}How will I know
+{10600}{10668}Where do I go
+{10672}{10756}From here
+{10760}{10816}[ Panting, Trilling ]
+{10854}{10933}My world has changed|and so have I
+{10937}{11068}I've learned to choose|and even learned to say goodbye
+{11072}{11152}The path ahead|so hard to see
+{11156}{11230}It winds and bends|but where it ends
+{11234}{11316}Depends on only me
+{11320}{11394}In my heart|I don't feel part
+{11398}{11476}Of so much I've known
+{11480}{11551}Now it seems|it's time to start
+{11555}{11688}A new life on my own
+{11692}{11832}But where do I go|from here
+{11836}{11972}So many voices|ringing in my ear
+{11976}{12040}Which is the voice
+{12044}{12136}That I was meant to hear
+{12140}{12202}How will I know
+{12206}{12328}Where do I go
+{12332}{12480}- From here|- [ Trilling ]
+{12527}{12571}[ Squeaks ]
+{12748}{12792}[ Boom ]
+{12918}{12988}[ Man ] Ship ahoy!|Ship's coming!
+{12992}{13048}Ship's coming!
+{13052}{13140}[ Excited Chattering ]
+{13202}{13246}Open the gate!
+{13412}{13471}[ Indistinct Shouting ]
+{13475}{13544}Cast a line!
+{13548}{13607}Put your backs into it!|Together, men!
+{13761}{13805}Easy left!
+{13881}{13970}- [ Man Speaking In Native Language ]|- [ Crowd Chattering ]
+{13974}{14018}[ Squeaks ]
+{14346}{14398}[ Man ]|Stations!
+{14454}{14497}Attention!
+{14525}{14585}[ Whinnies ]
+{14721}{14777}[ Speaking Native Language ]
+{14829}{14885}- [ Squeaks ]|- [ Gasps ]
+{14917}{14963}Filthy barbarian.
+{14967}{15021}[ Squeaking Angrily ]
+{15117}{15161}[ Slurps, Trills ]
+{15195}{15251}[ Barks ]
+{15298}{15355}Huh?
+{15359}{15419}- [ Barking ]|- [ Whinnies ]
+{15511}{15595}Whoa, boy!|Steady! Whoa!
+{15599}{15663}- [ Squeaking ]|- Down, boy!
+{15667}{15715}[ Crowd Gasps ]
+{15719}{15764}- [ Groans ]|- [ Whinnies ]
+{15805}{15878}- [ Screaming ]|- [ Man ] Runaway horse!
+{15882}{15935}[ Grunts ]
+{15963}{16007}Filthy savage!
+{16011}{16091}[ Shouting ]
+{16207}{16251}[ Whooping ]
+{16311}{16377}No, wait!
+{16409}{16469}- Wait!|- Stand down!
+{16529}{16573}[ Speaking Native Language ]
+{16577}{16691}It's all right now.|I've taken care of it.
+{16695}{16773}The settlers need to know|they can trust us to do the right thing.
+{16777}{16867}- You should not have interfered.|- I beg your pardon?
+{16871}{16935}All right. You have it.
+{16939}{17028}- I was trying to help.|- I did not ask for your help.
+{17032}{17076}Well, you didn't say|"thank you" either.
+{17080}{17139}- Whatever happened to manners and etiquette?|- Well,
+{17143}{17223}since you are new here|I don't expect you to have them yet.
+{17335}{17379}Women!
+{17383}{17425}[ Squeaks ]
+{17476}{17520}[ Gasping ]
+{17563}{17629}[ Woman ]|I fear the Indians may wage war.
+{17633}{17724}[ Woman #2 ] Oh, my dear,|Pocahontas would never allow that.
+{17728}{17785}- [ Horse Whinnies ]|- Pocahontas?
+{17789}{17873}- Hmm.|- John Rolfe, your horse, sir.
+{17877}{17941}Oh, there you are.|Thank you.
+{17944}{18054}It's time I met|this Chief Pocahontas.
+{18076}{18142}[ Playing Music, Chanting ]
+{18341}{18385}[ Trilling ]
+{18389}{18433}[ Munching ]
+{18540}{18656}- [ Whooping ]|- [ Laughing ]
+{19000}{19044}[ Gasping ]
+{19048}{19092}[ Hushed Chatter ]
+{19128}{19228}Great chief,|I am John Rolfe.
+{19232}{19312}According to the customs--
+{19364}{19478}- How do you do?|- [ Man ] Let him pass.
+{19482}{19562}According to the customs of Greater|Britain, I would like to present...
+{19566}{19634}this horse as a gift of peace|to the mighty Pocahontas.
+{19638}{19724}- Daughter,|- You?
+{19728}{19810}this beast is for you.
+{19814}{19884}No, I'm sorry.|It's my fault.
+{19888}{19940}This horse,|it's meant for--
+{19944}{20034}- Pocahontas, your king said. Or did he speak falsely?|- No!
+{20038}{20125}Never. [ Chuckles ]|It's just that-- This is--
+{20159}{20213}No, th-this is|perfectly fine.
+{20246}{20333}- Hmm. Good job, Rolfe.|- [ Nickers ]
+{20337}{20406}- [ Trills ]|- [ Snorts ]
+{20410}{20512}I believe we can prosper together in this|great land under King James' gracious rule.
+{20516}{20573}To build trust,|I would like you...
+{20577}{20657}to sail back with me...|to meet my king.
+{20661}{20774}I do not want|the pale chief's land. He wants mine.
+{20778}{20845}Why doesn't he cross|the salt water to see me?
+{20849}{20905}I'm afraid|that simply isn't done,
+{20909}{20959}Your Grand "Chiefliness."
+{20963}{21048}Your kind are barbarians.|They only want our land!
+{21052}{21133}- They mean to destroy our sacred--|- Is that what they want?
+{21161}{21209}You don't know.
+{21213}{21300}Father, someone must go.
+{21304}{21390}You speak with the tongue of a pale one.|You belong with them.
+{21394}{21478}- Perhaps you should go.|- [ Rolfe ] No!
+{21482}{21562}This is a matter of diplomacy.|You can't handle a job like this.
+{21657}{21704}- I will go.|- Daughter--
+{21708}{21782}Father, please.|I can do this.
+{21850}{21934}You have|your mother's spirit.
+{21938}{22012}- Very well. It is decided.|- But--
+{22062}{22108}[ Sighs ]|Grand.
+{22337}{22382}[ Growls, Whimpers ]
+{22451}{22515}[ Nickers ]
+{22519}{22580}[ Trills, Squawks ]
+{22741}{22817}Grandmother Willow,|I need to speak with you.
+{22871}{22915}[ Blows ]
+{22919}{22981}Is that my Pocahontas?
+{22985}{23057}[ Sniffs, Yelps ]
+{23061}{23139}My, what is it, child?
+{23143}{23229}You are concerned|about crossing the salt water.
+{23233}{23311}What if I can't bring peace?|What if I'm destined to fail?
+{23315}{23393}- What if I make things worse?|- What-What if?
+{23397}{23507}- What if the sky turns to fire and your nose falls off?|- [ Gasps ]
+{23511}{23631}Long ago I told you|to listen with your heart.
+{23635}{23724}It is time|to listen to your heart.
+{23728}{23800}- But the spirits around me--|- Can help,
+{23804}{23905}but only the spirit within|can guide you.
+{23967}{24055}Listen to the spirit within.
+{24128}{24192}Listen to the spirit within.
+{24371}{24435}[ Flit Fluttering, Squeaking ]
+{24475}{24584}- [ Continues Squeaking ]|- [ Meeko Munching ]
+{24620}{24684}[ Percy Snarls, Growls ]
+{24728}{24812}[ Animal Noises Continue ]
+{24816}{24874}- [ Whinnies ]|- [ Growls ]
+{24905}{24960}- [ Noises Continue ]|- [ Gasping ]
+{24964}{25016}Grandmother Willow,|it doesn't work.
+{25020}{25078}Grandmother Willow?
+{25449}{25495}- [ Bell Rings ]|- [ Man ] Easy up, men!
+{25499}{25554}[ Sailor's Voices ] Here we go.|Righto. Over here. Easy.
+{25558}{25619}- To the starboard.|- Hoist away!
+{25623}{25707}[ Powhatan ] I will honour my vow not|to break the peace with the pale ones...
+{25711}{25772}but we must know|their strength.
+{25776}{25885}Cut a notch in this staff|for every pale face you see.
+{25983}{26054}[ Powhatan ]|Watch over my daughter.
+{26058}{26117}- [ Sailors Shouting ]|- [ Trilling ]
+{26568}{26636}[ Whining ]
+{26728}{26818}- [ Laughs ] I can't take you this time.|- [ Slurps ]
+{26822}{26876}[ Squeaking ]
+{26880}{27000}- Stay out of mischief and look after one another.|- [ Chirping ]
+{27107}{27184}[ Whimpering ]
+{27229}{27302}[ Sobbing ]
+{27747}{27832}Do not forget this land.
+{27836}{27881}You will always be with me.
+{28801}{28846}Wait. What's this?
+{28850}{28909}This is Uttamatomakkin.
+{28913}{28970}- [ Grunts ]|- Well, is Uttama-- Uttamakk--
+{28974}{29025}Is he coming with us?|Are you coming with us?
+{29029}{29097}I say, are you--|Hello? Can you hear me?
+{29101}{29150}- Can he-- Can he hear me?|- [ Unsheathing ]
+{29355}{29399}Oh yes, of course.|This was a good idea, wasn't it?
+{29403}{29468}This will be fine!|Fantastic.
+{29472}{29521}- [ Bell Rings ]|- [ Man ] All hands on deck!
+{29525}{29569}[ Man #2 ] Anchor ahoy!
+{29637}{29685}- [ Officer ] Undo the sails!|- [ Sailor ] Aye, sir!
+{29765}{29825}[ Nickers ]
+{29877}{29917}Ah-nah, Father.
+{30697}{30745}[ Creaking, Rustling ]
+{30933}{31001}[ Sneezes, Hiccups ]
+{31005}{31049}[ Growling, Hiccuping ]
+{31130}{31220}- [ Squeaking ]|- [ Whimpering ]
+{31349}{31409}- [ Trilling ]|- [ Squeaking ]
+{31605}{31717}All right, of course, yes.|Swab the deck. Swab the deck.
+{31721}{31845}I mean that's all we do|around here.
+{31849}{31949}It's always clean anyway. I mean,|what are we swabbing the deck for?
+{31953}{32028}It looks clean to me down here.|I don't see any dirt.
+{32032}{32076}[ Gurgling ]
+{32108}{32158}Swabbing the deck--|I'm swabbing!
+{32162}{32268}- [ Chattering ]|- Did anybody notice I'm swabbing?
+{32272}{32316}- [ Screaming ]|- [ Screaming ]
+{32405}{32473}[ Sailors ] Hey! Hey!|What is that? What's goin'--
+{32477}{32561}- [ Squeaking ]|-Get him! That's it!
+{32565}{32617}- Uh!|- Doh!
+{32689}{32736}[ Gagging ]
+{32740}{32784}[ Vomiting ]
+{32813}{32861}[ Sighing ]
+{32865}{32965}[ Chuckling ]|Oh, Meeko! What are you doing here?
+{32969}{33013}[ Hiccuping ]
+{33301}{33358}[ Captain ]|What's all this then?
+{33362}{33441}Look, missy, I don't|cotton to stowaways,
+{33445}{33498}and I'll not have you|disruptin' my crew.
+{33502}{33573}You can take|this voyage below...
+{33609}{33671}or in the brig.
+{33675}{33765}- You're-- - A guest of the king,|and is to be treated as such.
+{33769}{33822}Am I clear, Captain?
+{33856}{33952}Wh-Why would you do that?
+{33956}{34011}Because, like it or not,|you are the envoy...
+{34015}{34057}and I am honour-bound|to protect you.
+{34061}{34174}And honour, Pocahontas,|is the backbone of our civilization.
+{34202}{34249}Thank you.
+{35146}{35214}[ Sailor ] Land ho!
+{35218}{35262}[ Cannon Booming ]
+{35290}{35346}[ Booming Continues ]
+{35376}{35419}[ Man Shouting ]|Full sails!
+{35900}{35948}[ Groaning ]
+{36148}{36240}[ Sailor ] Heave ho!|Keep 'em taut. Here we go.
+{36244}{36296}[ Grunting, Sighing ]
+{36300}{36360}[ Gasping ]
+{36388}{36436}Welcome to London.
+{36584}{36663}[ Barking, Snuffling ]
+{36716}{36773}- [ Barking ]|- [ Trilling ]
+{36808}{36872}Shall we?
+{36876}{36925}Suit yourself.
+{37225}{37322}[ Yawns ]|The sun comes up, the lamps go down
+{37326}{37393}The day begins|in London town
+{37397}{37469}- There's tea to brew|- And buns to bake
+{37473}{37548}[ Together ]|And some who just refuse to wake
+{37552}{37613}While shops are stocked|and flocks are fed
+{37617}{37668}The midnight men|drift home to bed
+{37672}{37729}School bells chime|and church bells ring
+{37733}{37836}Children whine|Peddlers sing
+{37840}{37928}What a day in London|Come and see who's here
+{37932}{37984}Everyone knows someone
+{37988}{38033}They've come|from far and near
+{38037}{38085}They bring their geese|Their finest fleece
+{38089}{38136}To please the keenest eye
+{38140}{38192}And hope and pray|someone will say
+{38196}{38249}There's something|they might buy
+{38253}{38332}- [ Peddlers Shouting ]|- Pocahontas, wait!
+{38336}{38389}With pigs to slop|and fish to gut
+{38393}{38440}It ain't exactly heaven but
+{38444}{38493}We thank the Lord|and kiss the ground
+{38497}{38548}For bed and board|in London town
+{38552}{38599}The upper crust|lie fast asleep
+{38603}{38649}But some of us|got floors to sweep
+{38653}{38704}[ Together ]|One day's like the day before
+{38708}{38800}- Can't complain [ Hiccups ]|- If there's no war
+{38804}{38891}What a day in London|Everything's for sale
+{38895}{38945}Cabbages and onions
+{38949}{39052}- [ Gasps ] Look up!|- Who's that That girl up in the tree
+{39056}{39108}It's not a tree|It's moving, see
+{39112}{39189}- Good grief what can it be|- Look there, I swear
+{39193}{39237}- [ Gasps ]|- She's flying through the air
+{39241}{39287}She must be wild
+{39291}{39345}- She's just a child|- Pocahontas--
+{39349}{39405}I wish I had her hair
+{39409}{39485}Wouldn't you care to join me, here?|On the ground? This instant?
+{39489}{39569}My heart is pounding like a drum|I can't believe my eyes
+{39573}{39661}- [ Gasping ]|- In London people seem to come in every shape and size
+{39665}{39757}- So many paths, I wonder how they find their way|- [ Squeaking ]
+{39761}{39893}So many signs, I wonder|what they really say
+{39934}{40017}London is everything|I've heard and more
+{40021}{40109}London is nothing|like I've seen before
+{40113}{40195}Music and feathered hats|and roofs that shine
+{40199}{40281}With flags flying higher|than a pine
+{40285}{40333}She seems so sweet|she means us well
+{40337}{40384}- Size 20 feet|- How can you tell
+{40388}{40432}We'll rue this day|You wait and see
+{40436}{40497}What is to be|or not to be
+{40544}{40593}How do they build|their huts so tall
+{40597}{40657}Can this be all one tribe|The things they sell
+{40661}{40726}The things I smell|I never could describe
+{40730}{40809}These cakes taste just like|berries picked this very day
+{40813}{40891}The sound a river makes|still takes my breath
+{40895}{40973}Away
+{41011}{41088}London's as busy|as a hive of bees
+{41092}{41173}Grandmother Willow would|just love these trees
+{41177}{41261}Crowded and loud|but so exciting too
+{41265}{41344}With colours|I never even knew
+{41348}{41433}What a day in London|Nothing strange at all
+{41437}{41533}'Cept a girl with someone|maybe ten feet tall
+{41537}{41617}This day's become a day|no one is likely to forget
+{41621}{41705}A day we'll all remember as|the day two worlds have met
+{41709}{41796}- London is everything I've heard and more|- Such beauty's rare.
+{41800}{41840}- London is nothing|- The strength of ten, I've heard.
+{41844}{41889}- Like I've seen before|- She's won the men, my word!
+{41893}{41929}- A brave young thing, to venture here.|- Music and feathered hats
+{41933}{41979}- And roofs that shine|- It will be an adventure.
+{41983}{42027}- And flags flying higher|- Perhaps some brew to quench your thirst?
+{42031}{42069}- Than a pine|- But not with you-- I saw her first!
+{42073}{42157}What a day in London|History was made
+{42161}{42248}Take away the mystery|then you're not afraid
+{42252}{42336}- We've seen a girl|- I've seen a world
+{42340}{42424}- I never dreamed I'd see|-[ Crowd ] We never dreamed we'd see
+{42428}{42509}- And what an extra special day Unique in truly every way|- Unique in truly every way
+{42513}{42569}[ With Crowd ]|How wonderful this London day
+{42573}{42689}[ All ]|Turned out to be
+{42732}{42784}[ Crowd Shouting ]
+{43041}{43117}[ Yelping, Whimpering ]
+{43165}{43229}[ Gasps ] You!
+{43303}{43378}Well done, Rolfe,|bringing back a heathen as an example.
+{43382}{43460}Look at her. [ Chuckles ]|She sticks out like a sore thumb.
+{43464}{43525}Pocahontas is here as|an emissary of her people.
+{43529}{43588}- A personal guest of the king.|- The king has appointed me...
+{43592}{43637}to lead an armada|against the savages.
+{43641}{43749}Don't tell me you didn't know?|The king wants his gold.
+{43753}{43838}- There is no gold.|- Another barbarian lie.
+{43842}{43904}As soon as the ships|are armed, I set sail...
+{43908}{44002}to destroy the heathens|and reclaim Jamestown for James.
+{44044}{44088}[ Whip Cracks,|Horse Whinnies ]
+{44092}{44200}We must stop him!|Warn your king of his lies!
+{44204}{44300}But he wasn't lying.|The parchment bore the king's seal.
+{44304}{44409}What? Then your king's promise|to meet me was the lie.
+{44413}{44501}- A king doesn't lie!|- They cannot both be true.
+{44505}{44597}No. It-It's just a misunderstanding.|It has to be.
+{44634}{44701}I can straighten this out.|Come on.
+{44909}{44957}Are you riding or running?
+{45449}{45501}- Mrs Jenkins!|- [ Glass Shatters ]
+{45546}{45641}Oh! Oh! Oh!|Gads-me-gracious, is that my Johnny?
+{45645}{45702}- [ Trilling ]|- [ Laughing ]
+{45706}{45757}[ Loud Smooching ]
+{45761}{45813}[ Sniffing ] Eww!
+{45817}{45918}Eww, Johnny,|you need a bath.
+{45922}{45996}- [ Laughing ] Oh, oh, Johnny!|- Look at you.
+{46000}{46066}[ Laughing Continues ]
+{46070}{46203}- Oh, you.|- Mrs Jenkins, I would like to introduce Pocahontas.
+{46207}{46257}Pocahontas, Mrs Jenkins.
+{46261}{46316}The Jenkinses have been|with the Rolfes for generations.
+{46320}{46394}- Careful. She's about to put on some tea.|- I'll put on some tea.
+{46398}{46442}Oh! Ooh.
+{46505}{46560}[ Rolfe ]|Oh, and Uttamatomakkin.
+{46564}{46685}Ooh, I'll put on|lots and lots of tea.
+{46689}{46765}- I'm off to see the king.|- I want to go with you.
+{46769}{46884}Uh, Pocahontas, the conventions|in England are very complex.
+{46888}{46960}- I must go alone.|- But-- But--
+{46964}{47013}Now, I promise I will arrange|for you to see the king.
+{47017}{47108}- My word as a gentleman. Trust me.|- [ Door Closes ]
+{47112}{47160}[ Humming ]
+{47230}{47275}[ Sniffing ]
+{47313}{47357}Mm!
+{47393}{47437}[ Trilling ]
+{47546}{47590}Uh-oh.
+{47637}{47689}[ Continues Humming ]
+{47736}{47801}Mm.
+{47805}{47866}Mm! [ Giggles ]
+{47870}{47984}I must find a way to warn my people,|to stop this.
+{47988}{48040}Leave it to Johnny.
+{48044}{48133}He gave you his word|as a gentleman, my dear.
+{48137}{48192}You can stake|your life on that.
+{48198}{48292}[ Rolfe ] I didn't exactly|bring the Indian chief--
+{48296}{48396}No, no, no, no. I told you, I would meet|with the chief and no one less.
+{48400}{48461}Knight to bishop three.
+{48465}{48577}- Sire, I gave these people your word you would meet.|- [ Ripping ]
+{48581}{48649}- Are we not honour-bound-- - [|Ratcliffe ] The king is bound to nothing,
+{48653}{48697}when you cannot|fulfil your mission.
+{48701}{48792}You were sent for the savage leader|and yet you bring back a woman.
+{48796}{48902}- A woman! - Your Highness,|she is royalty-- a princess.
+{48906}{48971}She is the daughter of a great chief|who has travelled...
+{48975}{49044}far from her homeland|in the interests of peace.
+{49048}{49095}Meet with her, Your Majesty.
+{49099}{49156}May I suggest she attend|the hunt ball?
+{49160}{49221}Let her go back to Virginia|having witnessed...
+{49225}{49325}the royal might and majesty|of English society.
+{49329}{49397}Sire, she doesn't know|our customs.
+{49401}{49496}- To subject her to this kind of scrutiny|would be-- - I don't understand, Rolfe.
+{49500}{49581}If she's not a savage,|then why shouldn't she fit in?
+{49585}{49717}Excellent idea, Ratcliffe. Rolfe,|you will bring her to the hunt ball.
+{49721}{49808}Prove to me she is as civilized|as you claim, and...
+{49812}{49902}I will stop my armada;|if not, the armada sails.
+{49906}{49958}- But sire--|- It is decided!
+{49986}{50040}Pawn to king!
+{50044}{50085}Check.
+{50128}{50174}- [ Gasps ] - [|Shattering ] -Of all the--
+{50178}{50235}- How did it go?|- A disaster!
+{50239}{50363}- She's invited to the hunt ball!|- Flabberdy-jacks.
+{50572}{50645}You were successful?|When do I see the king?
+{50649}{50708}Our meeting with the king|has been corrupted.
+{50712}{50787}- You're now invited to the hunt ball.|- I don't understand.
+{50791}{50880}Oh, it's a trap!|Ratcliffe manipulated the king!
+{50884}{50958}He's saying that if you're|civilized you can fit right in.
+{50962}{51053}But it's the elite of British society--|etiquette and manners.
+{51057}{51134}There's a million ways you can insult|someone. Believe me, I know.
+{51138}{51208}And if you slip up, just once,|Ratcliffe can convince the king that--
+{51212}{51280}Then I must not "slip up."
+{51284}{51386}I can't learn your ways alone,|but you can help me.
+{51390}{51434}What must I do?
+{51440}{51497}[ Humming ]
+{51906}{51950}- [ Pocahontas ] John Rolfe!|- [ Gasps ]
+{51994}{52038}[ Giggling ] How do I look?
+{52042}{52144}Hm? Oh, lovely...|in your... underwear.
+{52148}{52238}Didn't Mrs Jenkins exp--|Uh, Mrs Jenkins!
+{52242}{52294}[ China Smashes ]
+{52298}{52342}Oh, my dear!
+{52346}{52432}Oh, come along, now.|Let's go finish your dressing.
+{52436}{52503}- [ Giggles ]|- [ Chuckles ]
+{52774}{52869}Have no fear|We're all right
+{52873}{52958}- You've got me, dear to see you're a lady tonight|- [ Gasps ]
+{52962}{53036}- What seems strange is just new|- [ Trilling ]
+{53040}{53133}People change every day|till they find their own way
+{53137}{53206}So can you
+{53210}{53308}And wait till he sees you|after you're dressed
+{53312}{53396}I think the king|will be very impressed
+{53400}{53484}Wait till he sees you|walking with ease
+{53488}{53570}He'll be so pleased|you came down from the trees
+{53574}{53648}You'll be fine|I can tell
+{53652}{53738}- It's a very good sign that you're doing so well|- [ Gasps, Giggles ]
+{53742}{53810}- One more tuck, one more bow|- [ Sniffs, Squawks ]
+{53814}{53896}Don't get stuck on that clasp|Johnny's lucky they asked
+{53900}{53968}- You to go|- [ Sneezes ]
+{53972}{54090}'Cause wait till he sees you|He'll be so proud
+{54094}{54178}Maybe he'll smile|if he thinks he's allowed
+{54182}{54272}Wait till he sees you|there in your curls
+{54276}{54360}John's always had|such a fondness for girls
+{54364}{54408}With curls
+{54412}{54462}And wait
+{54466}{54546}Wait till you're out|on the floor
+{54550}{54636}Show them what|dancing is for
+{54640}{54726}Music is all you need|See where a dance can lead
+{54730}{54810}You two might come to see|You were meant to be
+{54814}{54897}So much more
+{54901}{54981}Wait till he sees you|Wait till tonight
+{54985}{55069}Fate has a way|of arranging what's right
+{55073}{55153}After he sees you|in your new clothes
+{55157}{55248}A lady of grace|from your head to your toes
+{55252}{55325}Pretty and pink|as the roses he grows
+{55329}{55398}Who knows|Who knows
+{55402}{55446}I can't wait!
+{55510}{55574}Oh, I've got something for you.
+{55720}{55772}[ Squawks ]
+{55776}{55846}- [ Fussing ]|- Flit, stop it!
+{55850}{55936}- [ Squeaking ]|- It doesn't belong here any more.
+{56118}{56162}[ Sighs ]
+{56166}{56220}It's beautiful!
+{56348}{56404}[ Sighs ]
+{56659}{56718}[ Growling ]
+{56722}{56767}- [ Nickers ]|- [ Bell Tolls ]
+{56985}{57084}I have personally taken charge|of the entertainment for the hunt ball.
+{57088}{57201}I want to make sure|nothing... goes... right.
+{57280}{57360}Well, how do I look?|Pretty good, eh?
+{57364}{57429}Say, I thought you were|getting dressed.
+{57479}{57523}You're right.|You look great.
+{57527}{57583}Just don't talk so much tonight|and we'll be fine.
+{57623}{57687}[ Footsteps ]
+{58124}{58185}It's called powder.
+{58224}{58282}You look beautiful.
+{58490}{58566}[ Panting,|Squeaking, Trilling ]
+{58611}{58655}[ Gasping, Grunting ]
+{58659}{58717}I'll put on some tea!
+{58721}{58789}[ Squeaking Rhythmically ]
+{58793}{58861}[ Grumbling ]
+{58900}{58944}Ohh.
+{58962}{58970}- [ Whinnies ]|- [ Bell Tolls ]
+{59092}{59167}[ Man ]|The Duke of Edinburgh.
+{59171}{59278}Lady Grey.|Sir Thomas Ellery.
+{59324}{59408}Lord Raymond|and Lady Theresa.
+{59442}{59494}The Earl of Essex.
+{59546}{59647}The Duke of Buckingham|and Lady Buckingham.
+{59734}{59868}- John Rolfe and Princess Pocahontas...|- [ All Gasp ]
+{59872}{59968}and Utam-- Uttata--
+{59972}{60048}- Ultimatum-- Old tomato--|- Try "Uti."
+{60052}{60108}Oh, thank you, sir.
+{60112}{60177}And Uti.
+{60181}{60240}Jacket required, sir.
+{60244}{60298}- [ Cloth Ripping ]|- [ Herald Gasps ] Oh, dear.
+{60344}{60429}[ Crowd Chattering ]
+{60543}{60627}- [ Man, Gasping ] Goodness!|- Oh, my.
+{60631}{60679}[ Whispering ]|Hello, Your Excellent-ness.
+{60683}{60743}Your Great, Good-Good Highness.
+{60747}{60807}Greetings,|Your Magnificence-cy.
+{60811}{60859}Uh--
+{61135}{61178}Hmm.
+{61209}{61253}Welcome to England,|Pocahontas.
+{61310}{61370}Thank you, Your Grace.
+{61374}{61460}What do you think|of my kingdom, hmm?
+{61464}{61556}I think you must be a great king|to have so many subjects, Your Majesty,
+{61560}{61614}and the loyalty|of so many good men.
+{61618}{61694}Did you hear that?|She thinks I am a great king!
+{61698}{61762}[ Laughing ]|Oh, what a delightful child!
+{61765}{61822}Charming! Absolutely charming!
+{61826}{61877}Your Excellency,|please stop this armada.
+{61881}{62007}Oh, yes, yes, yes, yes. But right now I|can't be rude and ignore my guests, can I?
+{62011}{62071}No! So we shall|discuss it later.
+{62075}{62177}For now, my dear,|enjoy the ball. [ Chuckles ]
+{62181}{62235}Go on! Enjoy!
+{62367}{62448}-[ Sighs ] Thank goodness.|-[ Slurring ] Rolfie! Rolfie, old boy!
+{62452}{62524}Listen, we're having|some friends out to the estate.
+{62528}{62609}Do come. Oh, yes,|bring your delightful...
+{62613}{62669}[ Jabbering ] guest.
+{62673}{62740}Oh, Miss--|[ Stammers ] Hontas.
+{62744}{62800}How drippingly marvellous|to see you!
+{62804}{62868}[ Ladies Gasp, Giggle ]
+{62872}{62927}Enchanting! Charming!
+{62931}{62975}Fabulous jewellery!
+{62979}{63066}[ Giggling,|Fussing Continue ]
+{63096}{63144}[ Man ]|May the dance begin!
+{63148}{63227}- [ Orchestra Plays ]|- [ Clears Throat ] May I?
+{63545}{63605}[ Giggling ]
+{64287}{64413}In one night you will have done more for|the cause of peace than a hundred diplomats.
+{64512}{64564}[ Giggling ]
+{64568}{64624}My, you look lovely.
+{64628}{64692}I can't even see|the real you under there.
+{64696}{64752}I do hope|no one else does.
+{64756}{64811}I was going to say|the same about you.
+{64815}{64886}It's a very good thing|Smith is dead.
+{64890}{64970}Seeing how disloyal your heart is|would certainly kill him.
+{65055}{65099}[ Sighs ]
+{65103}{65192}[ Rings Bell ]|Dinner is served!
+{65342}{65386}Oh, no, madam.
+{65390}{65498}The guest of honour is always on|the king's right hand.
+{65636}{65718}- Your Grace, perhaps now we|might discuss-- - [ Fanfare ]
+{65722}{65816}Your Royal Highnesses,|Lords and Ladies of the Court...
+{65820}{65944}and our distinguished guest|from the forests of the New World.
+{65948}{66024}Things are not|what they appear
+{66028}{66113}As tonight will make|quite clear
+{66117}{66234}But what is real will be revealed|I can feel the moment's near
+{66280}{66352}Things are never|what they seem
+{66356}{66410}That will be|this evening's theme
+{66414}{66476}Amusing sights|for your delight
+{66480}{66558}Perhaps a few|to make you scream
+{66562}{66622}You'll be surprised|to see whose disguise
+{66626}{66684}Is the cleverest one|of the lot
+{66688}{66770}After our show|the whole world will know
+{66774}{66854}Who's pretending to be|what they're not
+{66858}{66966}If a jester's grin or a dancer's spin|should be pleasing
+{66970}{67018}- Please say Yea|- [ All ] Yea!
+{67022}{67094}If a juggler's feat|should be incomplete
+{67098}{67178}- He's the one to greet with Nay|- Nay!
+{67182}{67258}If the fools we see|look like you and me
+{67262}{67336}Then before the night goes by
+{67340}{67428}- Ask why, why, why, why|- [ Giggling Maniacally ]
+{67432}{67510}- Why Why?|- [ All Gasp ]
+{67514}{67598}Things are not|what they appear
+{67602}{67666}And the finest proof's|right here
+{67670}{67786}How I regret when first we met|I believed my own worst fear
+{67790}{67878}Things are never|what they seem
+{67882}{67954}So in keeping|with our theme
+{67958}{68008}A change of hair|a dress to wear
+{68012}{68066}And our nightmare's|now a dream
+{68070}{68144}Shoeless and wild|I saw this sweet child
+{68148}{68220}As a danger|to one and to all
+{68224}{68302}Savage, I thought|What could Rolfe have brought
+{68306}{68390}Now I see she's|the belle of the ball
+{68394}{68478}- Things are never what they seem|- He's right! He's right!
+{68482}{68556}- Many don't say what they mean|- He's right! He's right!
+{68560}{68674}- A powdered face is just the place|- To conceal an ugly scheme
+{68722}{68800}Only one thing's really clear
+{68804}{68915}Things are not|what they appear
+{68919}{68973}[ Crowd Gasps ]
+{68977}{69043}[ Growling ]
+{69047}{69153}[ Laughs Dementedly ]
+{69157}{69235}- [ Gasps ]|- Sire, please stop this! She doesn't understand!
+{69239}{69336}Oh, nonsense!|Everybody loves a good bear-baiting.
+{69340}{69416}- [ Crowd Chatters ]|- [ Laughing Evilly ]
+{69420}{69492}- [ Roars ]|- [ Crowd Laughs ]
+{69556}{69624}[ Laughing ]
+{69660}{69705}- No!|- [ Crowd Gasps ]
+{69709}{69805}Stop this!
+{69809}{69905}- This is torture! - [ Chuckles ]|This is an animal-- nothing more.
+{69909}{70006}- A helpless animal.|- Sit down at once...
+{70010}{70060}and we will overlook|this savage behaviour.
+{70064}{70115}Your behaviour is savage.
+{70119}{70174}You and your people are|the barbarians!
+{70178}{70222}- What?|- Sire,
+{70226}{70281}don't let the savage|get away with this.
+{70285}{70371}- Seize her!|- [ Soldiers Shouting ]
+{70447}{70491}Savages!
+{70495}{70544}[ Crowd Screaming ]
+{70548}{70596}- Keep her away!|- Get her!
+{70715}{70775}Take them to the tower!
+{70779}{70878}No! Your Majesty, please!|It was a misunderstanding!
+{70882}{70994}Push me no farther...|or face treason.
+{70998}{71070}Where exactly do|your loyalties lie?
+{71106}{71163}Let go!|Let go of me!
+{71167}{71245}- John Rolfe! John Rolfe!|- [ Door Slams ]
+{71386}{71442}[ Patrons Chattering ]
+{71513}{71589}- Oi, you're cheatin'!|- No, I'm not.
+{71593}{71637}I'll play that card there.
+{71696}{71763}The least you could do|is put a head on it.
+{71767}{71864}- How much do I have to pay to get good beer here?|- You say it's not true?
+{71868}{71975}But I just heard meself|from a guard what was there.
+{71979}{72059}The king's gonna have her head.
+{72063}{72140}That savage.|[ Laughs ]
+{72144}{72244}Aye, I bet you old John Rolfe|wishes he never laid eyes...
+{72248}{72309}on the likes of Pocahontas.
+{72313}{72373}Aye! [ Laughs ]
+{72377}{72421}- [ Door Slams ]|- Oh!
+{72425}{72493}- [ Whinnies ]|- What's got into him?
+{72647}{72707}[ Bird Trills ]
+{72764}{72820}[ Sighs ]
+{72824}{72888}[ Animals Sigh ]
+{72892}{72964}Ah, I think|I'll put on some tea.
+{73313}{73381}What am I to do?
+{73477}{73575}Who are you?|What do you want?
+{73665}{73733}[ Water Splashing ]
+{74031}{74107}Halt! Who goes there?
+{74111}{74171}John Rolfe.|I have a prisoner.
+{74213}{74302}[ Chuckling Evilly ]|Open the gate.
+{74501}{74560}[ Chuckling ]
+{74564}{74613}Hmm. [ Gasps ]
+{74617}{74675}[ Groans ]
+{74679}{74741}He's escaping! Catch him!
+{74816}{74860}Now find her, Flit.
+{74892}{74944}- [ Trills ]|- [ Growls, Barks ]
+{74948}{74993}[ Whimpers ]
+{75245}{75289}[ Soldiers Shouting ]
+{75379}{75423}[ Growling, Whimpering ]
+{75709}{75753}[ Squeaking ]
+{75788}{75832}- [ Squeaking ]|- Flit!
+{75836}{75886}- [ Door Opens ]|- John!
+{75921}{75968}I knew you'd come!
+{76043}{76087}There's no time.|We must go.
+{76223}{76295}[ Gasps ]|John Smith?
+{76375}{76427}I-I thought you were dead.
+{76431}{76483}- Greatly exaggerated.|- [ Soldiers Shouting ]
+{76487}{76531}Let's go!
+{76564}{76617}There!
+{76705}{76762}[ Trills ]
+{76851}{76899}Enjoy the accommodations.
+{76951}{77011}I'll take care of it.
+{77214}{77269}- Pardon me.|- [ Soldiers Shouting ]
+{77377}{77421}Oh, very stylish.
+{77555}{77626}[ Grunting ]
+{77724}{77778}- Riding or running?|- After them! They're getting away!
+{77782}{77826}Close the gate!
+{77944}{77992}[ Yelping ]
+{78197}{78241}- [ Yelps ]|- Blast it! They got away!
+{78269}{78333}[ Yelping Rhythmically ]
+{78495}{78563}[ Pocahontas ]|What happened to you?
+{78567}{78616}[ Smith ] Ratcliffe convinced the king|I was the traitor.
+{78620}{78701}I had to stay hidden-- let them|continue to believe that I was dead.
+{78705}{78811}- I missed you so much.|- I've thought of you every day.
+{78815}{78906}All this time.|Why didn't you ever write to me?
+{78910}{78996}I wanted to. I must have started|a thousand letters.
+{79000}{79091}Pocahontas, all that matters|is that we're together again.
+{79095}{79153}[ Rattling ]
+{79157}{79201}What about my people?
+{79205}{79249}Once the armada sails,|they won't stand a chance.
+{79253}{79297}How will her|getting killed save them?
+{79301}{79357}Well, are you suggesting|she turn her back on them?
+{79361}{79405}Are you suggesting|she die for them?
+{79409}{79477}- She can't just sit back and watch.|- She has no choice!
+{79481}{79539}Of course she has a choice!
+{79543}{79587}Pocahontas!
+{80006}{80087}- Let her go.|- You may not care about her safety--
+{80091}{80140}Don't you dare tell me|I don't care about her!
+{80235}{80279}You love her.
+{80673}{80749}[ Nakoma's Voice ]|Do not forget this land.
+{81045}{81113}[ Pocahontas ]|In some new place on some new face
+{81117}{81185}I've never seen
+{81189}{81325}I might find|where I belong someday
+{81329}{81469}And there may even be|another dream for me
+{81473}{81598}Waiting there|somewhere along the way
+{81602}{81673}Listen to the spirit within.
+{81677}{81797}Who knows|where I go from here
+{81801}{81865}So many voices
+{81869}{81922}Only one thing's clear
+{81926}{82006}There's nothing to lose
+{82010}{82077}Nothing to fear
+{82081}{82150}The past is gone
+{82154}{82228}I must move on
+{82232}{82366}From here
+{82402}{82447}[ Trilling, Murmuring ]
+{82797}{82873}- I'm going back.|- They'll hang you.
+{82877}{82941}Then I will be|but the first to fall.
+{82945}{83021}They're not going to listen to you.|Look at you.
+{83025}{83102}How can they respect my culture|if they haven't seen it?
+{83106}{83209}This is insane! Nuts!|Tell her she's crazy.
+{83288}{83345}You're crazy.
+{83385}{83436}I thought you may need|whatever power...
+{83440}{83498}this holds for you.
+{83502}{83586}I think it's time|you taught society a lesson.
+{83590}{83645}I have decided.
+{83883}{83941}[ Man ]|Hear ye! Hear ye!
+{83945}{84067}The High Court of King James|will herewith commence.
+{84071}{84145}- Presenting the first order|of business-- - [ Door Opens ]
+{84149}{84196}[ All Gasp ]
+{84256}{84335}Pocahontas!|Guards! Guards!
+{84372}{84417}[ Crowd Gasping ]
+{84421}{84499}Surely His Majesty|would not refuse an audience...
+{84503}{84549}with a visiting princess.
+{84553}{84601}[ Queen Anne ]|James.
+{84657}{84741}[ Tense Groaning ]
+{84745}{84815}Your Grace,|if you insist on war...
+{84819}{84893}my people will fight|to the last warrior.
+{84897}{85028}There is nothing to be gained|but much to be lost, for all of us.
+{85032}{85097}There is no gold, is there?
+{85101}{85169}- No. Ratcliffe assured me--|- [ Smith] That I was dead?
+{85173}{85220}- [ Crowd Murmuring ]|- Was it true?
+{85224}{85276}[ Murmuring Continues ]
+{85280}{85347}Ratcliffe has lied to you|about everything.
+{85449}{85517}There are many voices|around you...
+{85521}{85585}but you must listen|to your own voice.
+{85589}{85649}Why do you speak out|when so many doubt you,
+{85653}{85725}even when it could mean|your life?
+{85729}{85788}Because I speak the truth.
+{85792}{85858}[ Crowd Murmuring ]
+{85862}{85913}[ King James ]|Silence!
+{85917}{86013}-Ratcliffe has left! We must stop him!|-But it's too late.
+{86017}{86073}We must try.
+{86153}{86252}[ Ratcliffe ] You are the best soldiers|in the civilized world.
+{86256}{86304}[ Men ]|Hear, hear!
+{86308}{86416}We sail to scour the world|of the savage vermin. Are you with me?
+{86420}{86460}[ Shouting Approval ]
+{86464}{86533}- [ Man] Riders Approaching!|- [ Groans ]
+{86569}{86625}Smith!|[ Gasps ]
+{86629}{86705}- Raise anchor! Cast off!|- [ Sailor ] Lift anchor!
+{86709}{86760}[ Sailor #2 ]|Drop the maintop!
+{86825}{86889}- [ Sailors Whimpering ]|- It's John Smith!
+{86892}{86967}- I thought he was dead!|- I'm the ghost of John Smith.
+{86971}{87045}- Run for your lives!|- [ Sailors Yelling ]
+{87177}{87259}[ Shrieks, Whimpers ]
+{87263}{87307}[ Trilling ]
+{87364}{87407}[ Relieved Sigh ]
+{87440}{87499}- [ Shrieking ]|- [ Splashing ]
+{87661}{87717}[ Grunting ]
+{87824}{87880}Who started the party|without me?
+{87993}{88073}- You call this a party?|- You're not having any fun?
+{88077}{88139}[ Thunderclap ]
+{88245}{88292}[ Screams ]
+{88296}{88364}- [ Trills ]|- [ All Yelling ]
+{88396}{88444}- [ Snarling ]|- [ Screaming ]
+{88448}{88491}[ Squeaking ]
+{88495}{88539}- [ Yelling ]|- [ Water Splashing ]
+{88543}{88615}- [ Sailors Whimpering ]|- [ Water Splashing ]
+{88709}{88745}[ Groans ]
+{88749}{88815}- Ha-ha!|- Drop the anchor!
+{88943}{89023}[ Man ] All aboard!|Clear the mast! Clear the mast!
+{89027}{89073}Prepare to crash!
+{89111}{89159}[ Yelling ]
+{89347}{89397}[ Snarling ]
+{89401}{89493}Now I can finally|get rid of you, you savage!
+{89497}{89545}- [ Grunts ]|- Mind if I cut in?
+{89549}{89606}[ Grunting ]
+{89767}{89821}Trying to make a point?
+{89825}{89865}[ Groaning ]
+{90140}{90221}[ Groaning ]|Please, don't hurt me, Smith.
+{90225}{90281}- I was just doing my duty.|- Sheath your sword.
+{90285}{90365}Surely you know that a good soldier|always follows orders.
+{90369}{90485}If it were I, I would have|killed you years ago.
+{90489}{90580}As I was saying,|I never liked you, Smith.
+{90584}{90653}I hereby sentence you to death.
+{90657}{90701}Goodbye, Smith.
+{90705}{90757}[ Screaming ]
+{90844}{90909}- Very stylish.|- I learned it from the best.
+{90913}{90996}- [ Groaning ]|- Pity. I so would have preferred to see you hang.
+{91000}{91065}[ Yelling Louder ]
+{91069}{91141}[ Screaming ]
+{91169}{91213}[ Sputtering ]
+{91261}{91337}- [ Trilling ]|- [ Whimpering ]
+{91413}{91483}[ Groaning And Spitting ]
+{91548}{91600}[ Panting ]
+{91604}{91694}Huh? Your Majesty,|the fugitives are getting away!
+{91698}{91780}They've sabotaged the armada.|Stop them!
+{91784}{91848}No more lies.
+{91852}{91907}Arrest him.
+{92025}{92133}[ Crowd Cheering ]
+{92137}{92203}- John Smith, what a heroic return.|- Why, thank you, my lady.
+{92207}{92277}- How did you escape?|- [ Woman ] John, we thought you were dead.
+{92281}{92325}[ Man ]|Bravo, John!
+{92329}{92387}[ Cheering Continues ]
+{92609}{92675}Lord Advisor to the Royal Court.
+{92679}{92723}What a wonderful honour.
+{92727}{92781}[ Squeaking ]
+{92785}{92865}- It's what you've always wanted.|- [ Sarcastic Squeak ]
+{92869}{92968}And you, you've done everything|you've set out to do...
+{92972}{93047}- and more.|- [ Trills ]
+{93078}{93133}Your people will|be very proud.
+{93187}{93265}Yes. It-It will be good|to see them again.
+{93269}{93337}Well, perhaps one day|you'll return to London.
+{93341}{93385}- Pocahontas--|- John, I--
+{93389}{93448}The king has given me a ship!|This is my dream!
+{93452}{93504}Ours.
+{93508}{93564}Every day a new adventure.|New lands to discover.
+{93568}{93612}I'll chart a new course.
+{93616}{93675}Uh, and you'll be|at my side, naturally.
+{93679}{93764}A ship of our own!|I'll put a crew together immediately!
+{93768}{93829}- [ Animals Sighing ]|- We'll set sail right away!
+{93857}{93921}What?
+{93925}{93991}That's... not what|you want, is it?
+{93995}{94071}We walked the same path once.
+{94075}{94145}I have found where I belong.
+{94183}{94257}I hope you will also|find happiness.
+{94261}{94345}May the Great Spirit|always be with you.
+{94805}{94865}[ People Chattering ]
+{95053}{95104}[ Trilling ]
+{95173}{95248}[ Mrs Jenkins ]|Pocahontas! Pocahontas!
+{95252}{95296}[ Whimpering ]
+{95300}{95345}- [ Man ] Look smart, men!|- [ Boy ] I don't see anything.
+{95349}{95401}Oh, my-- Oh!
+{95405}{95449}Mrs Jenkins!
+{95453}{95529}Oh, there you are, dear.
+{95533}{95585}- Over here.|- [ Chuckling ]
+{95589}{95633}- Ooh.|- Aww.
+{95637}{95729}Mrs Jenkins, thank you so much|for everything.
+{95733}{95852}- Is John Rolfe here?|- I haven't seen him, dear. I thought he was with you.
+{95856}{95985}Maybe he hates goodbyes as much as I do.|Goodbye, dear.
+{96208}{96298}[ Trilling Sadly ]
+{96337}{96412}- [ Man Shouting, Indistinct ]|- [ People Cheering ]
+{96473}{96521}[ Sighing ]
+{96525}{96600}[ Rolfe ] Well, perhaps one day|we'll return to London.
+{96633}{96687}John!
+{96731}{96779}What about your duty|to the king?
+{96783}{96861}I have a duty to honour|what is in my heart, Pocahontas.
+{96865}{96940}[ Trilling, Squeaking,|Surprised Growling ]
+{96944}{97012}Ta-ta, pip-pip.
+{97016}{97094}Come on, Uti.|Let's put on some tea.
+{97098}{97159}And you,|mind your manners.
+{97163}{97207}[ Growls ]
+{97211}{97255}[ Woman ] Ohh!
+{97259}{97306}Let's go home.
+{97645}{97732}[ Woman ]|Two hopeful hearts
+{97736}{97829}Two lands apart
+{97833}{97893}Together there's no end
+{97897}{98031}To what a dream can start
+{98035}{98107}Like two eagles soar as one
+{98111}{98218}Upon the river of the wind
+{98222}{98302}With the promise of forever
+{98306}{98357}We will take the past
+{98361}{98497}And learn how to begin
+{98501}{98570}And we'll build|a bridge of love
+{98574}{98690}Between two worlds
+{98757}{98842}[ Man ]|With every kiss
+{98846}{98937}We'll promise this
+{98941}{98985}We'll find a way
+{98989}{99033}To light the dawn
+{99037}{99153}Of all we wish
+{99157}{99239}Across the stream of stars|we'll reach
+{99243}{99333}An island in the sky
+{99337}{99403}With the moon|to guide our way
+{99407}{99494}I know that we can|find a home
+{99498}{99605}For you and I
+{99609}{99681}And we'll build|a bridge of love
+{99685}{99805}Between two worlds
+{99809}{99891}Miles and miles
+{99895}{99978}Away
+{99982}{100049}Though the journey|takes us far
+{100053}{100191}Our love has found|a place to stay
+{100195}{100284}- If we believe|- If we believe
+{100288}{100377}- There is no sea|- There is no sea
+{100381}{100427}That's wide enough
+{100431}{100550}To keep us from our destiny
+{100589}{100674}Like the snows|of every winter melt
+{100678}{100770}And blossom into spring
+{100774}{100861}As the seasons pass|we'll live as one
+{100865}{100952}No matter what|the years ahead
+{100956}{101051}May bring
+{101055}{101139}No night is long enough
+{101143}{101234}To end this light|that shines on us
+{101238}{101305}We have built|a bridge of love
+{101309}{101423}Between two worlds
+{101427}{101520}Yes, we have built a love
+{101524}{101710}Between two worlds

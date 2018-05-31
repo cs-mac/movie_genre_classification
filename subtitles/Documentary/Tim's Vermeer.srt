@@ -1,0 +1,3940 @@
+1
+00:01:24,646 --> 00:01:31,443
+You know, sometimes
+when I'm laying in bed at night
+
+2
+00:01:31,527 --> 00:01:34,231
+trying to get to sleep,
+
+3
+00:01:34,321 --> 00:01:40,904
+all I can think about is this goal
+of trying to paint a Vermeer.
+
+4
+00:01:40,993 --> 00:01:44,444
+You know, really, I'm gonna try
+to paint a Vermeer.
+
+5
+00:01:44,538 --> 00:01:50,575
+And, at the face of it,
+that seems almost impossible.
+
+6
+00:01:50,668 --> 00:01:53,669
+And I don't know if I could do it.
+
+7
+00:01:55,923 --> 00:01:59,042
+You know, it'll be pretty remarkable if I can,
+
+8
+00:02:00,343 --> 00:02:02,382
+because I'm not a painter.
+
+9
+00:02:13,521 --> 00:02:16,770
+The Vermeer he's talking about
+is Johannes Vermeer,
+
+10
+00:02:16,857 --> 00:02:19,430
+the Dutch artist from the 1600s.
+
+11
+00:02:19,526 --> 00:02:23,108
+Some consider him the greatest painter
+of all time.
+
+12
+00:02:23,195 --> 00:02:27,940
+When you look at a Vermeer,
+it seems like more than paint on canvas.
+
+13
+00:02:28,033 --> 00:02:32,943
+It seems to glow like the image on
+a movie screen.
+
+14
+00:02:33,079 --> 00:02:38,618
+That magical quality has mystified
+the world for 350 years.
+
+15
+00:02:38,708 --> 00:02:40,784
+How did Vermeer do it?
+
+16
+00:02:40,877 --> 00:02:43,284
+Dutch artists typically learnt
+by apprenticeship
+
+17
+00:02:43,379 --> 00:02:47,079
+and they kept written records
+to prove their training.
+
+18
+00:02:47,174 --> 00:02:50,756
+But no such documents have ever
+been found about Vermeer.
+
+19
+00:02:50,844 --> 00:02:54,923
+And strangely, when you x-ray
+these intricate images,
+
+20
+00:02:55,014 --> 00:02:58,631
+you don't find the usual
+artist's sketches underneath.
+
+21
+00:02:58,725 --> 00:03:02,259
+It's as if Vermeer were
+some unfathomable genius
+
+22
+00:03:02,353 --> 00:03:07,145
+who could just walk up to a canvas
+and magically paint with light.
+
+23
+00:03:10,151 --> 00:03:12,903
+It's possible that Vermeer
+was using technology
+
+24
+00:03:12,987 --> 00:03:15,063
+to make these beautiful paintings.
+
+25
+00:03:15,156 --> 00:03:18,987
+If he did that, and, of course,
+there's no documentation that he did this,
+
+26
+00:03:19,076 --> 00:03:25,789
+it's possible he could paint some pretty
+remarkable pictures without a lot of training.
+
+27
+00:03:25,873 --> 00:03:31,163
+It's possible that he was more
+of an experimenter,
+
+28
+00:03:31,252 --> 00:03:33,624
+more of a tinkerer, more of a geek.
+
+29
+00:03:33,713 --> 00:03:37,710
+And, in that way, I feel a kinship with him,
+because I'm a computer graphics guy,
+
+30
+00:03:37,800 --> 00:03:41,298
+and we use technology
+to make a realistic, beautiful image,
+
+31
+00:03:41,386 --> 00:03:44,137
+and it's possible that's exactly
+what Vermeer was doing.
+
+32
+00:03:45,681 --> 00:03:48,682
+Tim Jenison is not a painter,
+he's an inventor.
+
+33
+00:03:48,809 --> 00:03:52,058
+He's always had a talent for figuring out
+how things work.
+
+34
+00:03:52,145 --> 00:03:56,059
+When Tim was growing up in lowa,
+he got a broken player piano,
+
+35
+00:03:56,148 --> 00:03:58,817
+repaired it, and taught himself
+to play swing music
+
+36
+00:03:58,901 --> 00:04:03,277
+by slowing down the piano rolls
+so he could follow Fats Waller's fingers.
+
+37
+00:04:03,446 --> 00:04:06,980
+Tim played keyboards in a rock band
+for a couple of years
+
+38
+00:04:07,074 --> 00:04:10,692
+and taught himself to fix anything electronic
+that broke.
+
+39
+00:04:10,869 --> 00:04:12,363
+The amazing wizard!
+
+40
+00:04:12,537 --> 00:04:14,862
+He got married, had a family,
+
+41
+00:04:14,956 --> 00:04:19,083
+and built a business repairing
+pinball machines and video games.
+
+42
+00:04:19,209 --> 00:04:23,621
+Then, around 1990, he invented
+a way to turn personal computers
+
+43
+00:04:23,713 --> 00:04:26,204
+into TVstudios for live broadcasting.
+
+44
+00:04:26,549 --> 00:04:30,000
+He called it the Video Toaster,
+and it won him an Emmy.
+
+45
+00:04:30,093 --> 00:04:33,592
+That led him to other amazing achievements
+like LightWave,
+
+46
+00:04:33,680 --> 00:04:36,170
+a program for rendering 3D images,
+
+47
+00:04:36,265 --> 00:04:40,559
+which won an Emmy for his company,
+NewTek, in 2003.
+
+48
+00:04:40,894 --> 00:04:43,811
+Tim's now based in San Antonio, Texas,
+
+49
+00:04:43,897 --> 00:04:46,518
+and his company produces the TriCaster,
+
+50
+00:04:46,607 --> 00:04:50,190
+used in broadcast, web,
+and live performance.
+
+51
+00:04:50,903 --> 00:04:54,852
+All this has given Tim the money
+and free time to make things like this,
+
+52
+00:04:56,616 --> 00:04:58,822
+Frankie, his lip-syncing duck.
+
+53
+00:05:02,079 --> 00:05:07,582
+A plane made entirely of stuff from
+a home improvement store.
+
+54
+00:05:07,667 --> 00:05:08,698
+It's an electric moth.
+
+55
+00:05:08,793 --> 00:05:10,500
+His electric moth.
+
+56
+00:05:10,586 --> 00:05:14,369
+As you raise the light,
+it comes up off the floor,
+
+57
+00:05:14,464 --> 00:05:17,963
+and it stays at exactly the same distance
+under the light.
+
+58
+00:05:19,301 --> 00:05:21,128
+And this.
+
+59
+00:05:32,062 --> 00:05:35,727
+Here's the pipe organ Tim put together
+from four different churches.
+
+60
+00:05:35,815 --> 00:05:38,436
+Once I got started,
+you have to have more pipes,
+
+61
+00:05:38,526 --> 00:05:42,143
+because it's never quite enough,
+so I've got three pipe organs here,
+
+62
+00:05:42,279 --> 00:05:45,647
+plus an electronic organ
+that I'm using for the keyboard.
+
+63
+00:05:45,740 --> 00:05:49,073
+Tim and I have been friends
+for a really long time.
+
+64
+00:05:49,160 --> 00:05:52,077
+If there was an artist,
+he would draw it, what you see...
+
+65
+00:05:52,162 --> 00:05:54,914
+We've cried together
+at space shuttle launches.
+
+66
+00:05:54,998 --> 00:05:57,239
+We flew his Learjet down to Cabo San Lucas
+
+67
+00:05:57,333 --> 00:05:59,906
+to see the total eclipse of the sun.
+
+68
+00:06:00,002 --> 00:06:01,876
+So, the devil's in there.
+
+69
+00:06:01,962 --> 00:06:06,090
+This is Penn, the last day he was able to see
+
+70
+00:06:06,174 --> 00:06:10,041
+before he lost God's most precious gift
+looking at the eclipse.
+
+71
+00:06:10,845 --> 00:06:13,928
+Tim's been weightless
+in an astronaut-training plane
+
+72
+00:06:14,014 --> 00:06:16,469
+and he arranged for me to try it, too.
+
+73
+00:06:16,558 --> 00:06:19,843
+I vomited into my own hair.
+
+74
+00:06:19,936 --> 00:06:24,264
+Tim was not and is not a painter.
+
+75
+00:06:24,523 --> 00:06:28,816
+So I didn't know he had
+this whole little sub-obsession
+
+76
+00:06:28,901 --> 00:06:31,474
+with Vermeer.
+
+77
+00:06:31,695 --> 00:06:35,775
+Tim's Vermeer project started
+11 years back, in 2002,
+
+78
+00:06:35,866 --> 00:06:40,278
+when his daughter gave him a copy
+of David Hockney's book, Secret Knowledge.
+
+79
+00:06:40,369 --> 00:06:44,616
+Hockney wrote that
+when pictures started to look less like this,
+
+80
+00:06:44,706 --> 00:06:46,284
+and more like this,
+
+81
+00:06:46,374 --> 00:06:49,957
+that was because artists had found
+new tools to help them.
+
+82
+00:06:50,044 --> 00:06:55,204
+In 17th-century Holland, high quality lenses
+and mirrors were in use everywhere.
+
+83
+00:06:55,299 --> 00:06:57,457
+Telescopes were all the rage
+
+84
+00:06:57,550 --> 00:07:02,425
+and science hobbyists were experimenting
+with ways to project live images.
+
+85
+00:07:02,513 --> 00:07:05,466
+Hockney challenged conventional wisdom
+by suggesting
+
+86
+00:07:05,557 --> 00:07:09,257
+that when artists of Vermeer's day
+began to paint more accurately,
+
+87
+00:07:09,352 --> 00:07:13,396
+they were no longer using just their eyes
+and their imaginations.
+
+88
+00:07:13,481 --> 00:07:18,023
+They were secretly getting help from
+optical machines, like the camera obscura.
+
+89
+00:07:18,109 --> 00:07:22,486
+Camera obscura is Latin for "dark room".
+
+90
+00:07:22,697 --> 00:07:24,488
+Build a box, any size.
+
+91
+00:07:24,573 --> 00:07:26,482
+Could be the size of a shoebox,
+
+92
+00:07:26,575 --> 00:07:29,445
+but let's make this one big enough
+to stand inside.
+
+93
+00:07:29,536 --> 00:07:31,409
+It's a dark room.
+
+94
+00:07:31,537 --> 00:07:35,830
+Drill a little hole in one side of the box
+and you see something surprising.
+
+95
+00:07:35,916 --> 00:07:39,450
+The image of whatever is outside the box,
+in the light,
+
+96
+00:07:39,544 --> 00:07:44,620
+is projected on the wall opposite the hole,
+only it's upside down and backwards.
+
+97
+00:07:44,757 --> 00:07:48,836
+You can make the image brighter and clearer
+by putting a lens in the hole,
+
+98
+00:07:48,927 --> 00:07:51,797
+and you can change
+the size of the image on the wall
+
+99
+00:07:51,888 --> 00:07:55,090
+by changing the curvature
+and position of the lens.
+
+100
+00:07:57,893 --> 00:08:00,727
+Here's David Hockney on a TVspecial.
+
+101
+00:08:00,812 --> 00:08:03,100
+He's inside a camera obscura,
+
+102
+00:08:03,189 --> 00:08:07,435
+tracing the image of a live model
+projected through a lens.
+
+103
+00:08:10,028 --> 00:08:11,937
+Hockney was mostly focused on
+
+104
+00:08:12,030 --> 00:08:15,445
+how a painter could have traced images
+through a lens.
+
+105
+00:08:16,283 --> 00:08:21,988
+To me, what was most striking
+about the Vermeers, as a video guy,
+
+106
+00:08:22,080 --> 00:08:25,282
+I'm looking at this image,
+and I see a video signal.
+
+107
+00:08:25,374 --> 00:08:30,534
+I see something that looks like
+it came out of a video camera.
+
+108
+00:08:30,629 --> 00:08:35,539
+So I thought about how a painter
+could actually copy that.
+
+109
+00:08:35,633 --> 00:08:40,875
+Now, most people that have played
+with a camera obscura
+
+110
+00:08:40,971 --> 00:08:45,513
+got the idea that they could take that
+projected image and somehow paint on it.
+
+111
+00:08:45,641 --> 00:08:49,638
+Well, I've tried that and a lot of people
+have tried it, it's impossible.
+
+112
+00:08:49,770 --> 00:08:53,019
+What happens is it actually fights you,
+it works against you,
+
+113
+00:08:53,106 --> 00:08:54,564
+it's worse than nothing at all.
+
+114
+00:08:55,232 --> 00:08:57,439
+Painting on a projection just doesn't work.
+
+115
+00:08:57,526 --> 00:09:01,108
+Here's a blue that matches very closely
+the blue in the projection.
+
+116
+00:09:01,196 --> 00:09:03,069
+Imagine this is wet paint.
+
+117
+00:09:03,156 --> 00:09:07,200
+When you put it into the projection,
+it looks way too dark.
+
+118
+00:09:07,326 --> 00:09:09,567
+On the other hand, here's a perfect match.
+
+119
+00:09:09,661 --> 00:09:12,827
+The colour that matches
+the projected colour just right.
+
+120
+00:09:12,914 --> 00:09:15,950
+The only colour that'll ever do that is white.
+
+121
+00:09:18,919 --> 00:09:21,623
+Tim went around
+the world studying Vermeer.
+
+122
+00:09:26,676 --> 00:09:29,510
+They called it "painting with light."
+Vermeer "painted with light."
+
+123
+00:09:29,595 --> 00:09:32,132
+You can't paint with light,
+you have to paint with paint.
+
+124
+00:09:32,222 --> 00:09:37,927
+And so what they're really talking about
+is this verisimilitude that Vermeer has,
+
+125
+00:09:38,018 --> 00:09:41,434
+that it just pops.
+
+126
+00:09:41,521 --> 00:09:46,266
+You see it from across the room
+and it looks like a slide,
+
+127
+00:09:46,359 --> 00:09:49,359
+it looks like a colour slide of Kodachrome.
+
+128
+00:10:10,504 --> 00:10:14,501
+Seeing the Vermeers in person
+was a revelation.
+
+129
+00:10:14,591 --> 00:10:17,840
+It reinforced to me that
+I was on the right track.
+
+130
+00:10:17,927 --> 00:10:23,466
+That what I was seeing was an accurate
+representation of the colour in that room.
+
+131
+00:10:25,808 --> 00:10:32,474
+I just had a hunch that there must be a way
+to actually get the colours accurate,
+
+132
+00:10:32,564 --> 00:10:33,975
+with mechanical means.
+
+133
+00:10:34,065 --> 00:10:36,307
+Some way you could do that
+in the 17th century.
+
+134
+00:10:36,526 --> 00:10:41,816
+I remember just having this vague idea
+of comparing two colours with a mirror,
+
+135
+00:10:41,905 --> 00:10:44,443
+and it didn't go any farther than that
+for a long time.
+
+136
+00:10:44,532 --> 00:10:45,813
+Sitting in the bathtub,
+
+137
+00:10:45,909 --> 00:10:48,992
+you know, that's I guess where you have
+your eureka moments,
+
+138
+00:10:49,078 --> 00:10:52,612
+but, I don't know,
+there's something about bath water...
+
+139
+00:10:52,706 --> 00:10:54,579
+It's just very, very relaxing.
+
+140
+00:10:54,666 --> 00:10:58,745
+And I was just picturing that mirror
+hanging there in space,
+
+141
+00:10:58,836 --> 00:11:02,252
+and I pictured what I would see,
+and there it was.
+
+142
+00:11:02,339 --> 00:11:07,000
+And so I grabbed a piece of paper,
+being careful not to get it wet,
+
+143
+00:11:07,093 --> 00:11:10,793
+made a sketch, and that was where I realised
+
+144
+00:11:10,888 --> 00:11:14,932
+Vermeer could have used a mirror
+to paint those paintings.
+
+145
+00:11:19,103 --> 00:11:23,764
+To test this I propped up a high school
+photograph of my father-in-law on the table.
+
+146
+00:11:23,857 --> 00:11:26,811
+I put a piece of Masonite down here
+to paint on.
+
+147
+00:11:26,901 --> 00:11:30,768
+I set a small mirror at a 45-degree angle.
+
+148
+00:11:32,448 --> 00:11:36,148
+And for the first time in my life,
+I did just what Vermeer may have done.
+
+149
+00:11:36,284 --> 00:11:39,735
+I picked up some oil paints and a brush.
+
+150
+00:11:39,829 --> 00:11:42,201
+In Vermeer's camera
+this would be a projection,
+
+151
+00:11:42,289 --> 00:11:44,282
+a lens is projecting this image.
+
+152
+00:11:44,374 --> 00:11:47,873
+But to show the actual
+mirror painting process,
+
+153
+00:11:47,961 --> 00:11:49,419
+we're using a photograph here.
+
+154
+00:11:49,504 --> 00:11:55,007
+You can see that there's a reflection,
+and then there's my canvas down here.
+
+155
+00:11:55,092 --> 00:11:59,302
+And right at the edge of the mirror,
+I can see both things at once.
+
+156
+00:11:59,387 --> 00:12:01,011
+I'm just going to apply paint
+
+157
+00:12:01,097 --> 00:12:05,509
+and either darken or lighten the paint
+until it's the same exact colour.
+
+158
+00:12:05,600 --> 00:12:08,767
+And at that point,
+when it's exactly the same colour,
+
+159
+00:12:08,853 --> 00:12:10,845
+the edge of the mirror will disappear.
+
+160
+00:12:10,938 --> 00:12:15,018
+All right, and I'm an idiot at this,
+
+161
+00:12:15,108 --> 00:12:20,647
+I have done this process
+exactly twice in my life before.
+
+162
+00:12:23,073 --> 00:12:26,940
+What I'm doing is
+I'm moving my head up and down
+
+163
+00:12:27,035 --> 00:12:30,735
+so that I can see first the original
+and then my canvas.
+
+164
+00:12:30,830 --> 00:12:34,115
+I'm looking at both things at the same time.
+
+165
+00:12:34,208 --> 00:12:36,580
+Right on the forehead,
+you can see that they match,
+
+166
+00:12:36,668 --> 00:12:38,993
+because you can't really see
+the edge of the mirror.
+
+167
+00:12:39,087 --> 00:12:42,253
+That's, that's your clue that
+you've matched the paint exactly.
+
+168
+00:12:42,340 --> 00:12:46,040
+It's not subjective, it's objective.
+
+169
+00:12:46,134 --> 00:12:50,630
+I'm a piece of human photographic film
+at that point.
+
+170
+00:12:53,557 --> 00:12:56,344
+What you're doing here
+is you're essentially blending?
+
+171
+00:12:56,435 --> 00:13:03,053
+Yep, I am either darkening or lightening
+the paint that's already on the surface.
+
+172
+00:13:03,149 --> 00:13:06,849
+You aren't tracing any lines,
+'cause there are no lines.
+
+173
+00:13:06,944 --> 00:13:11,818
+Yeah, that's a characteristic of the Vermeers
+that makes them unusual,
+
+174
+00:13:11,906 --> 00:13:13,448
+is that there weren't lines,
+
+175
+00:13:13,532 --> 00:13:16,782
+and there weren't any lines
+drawn underneath the paint either.
+
+176
+00:13:17,619 --> 00:13:20,952
+It looks like there's these blobs
+that are emerging into a picture.
+
+177
+00:13:21,039 --> 00:13:22,948
+It doesn't look like...
+
+178
+00:13:23,040 --> 00:13:26,456
+The order you're doing stuff in is not a...
+
+179
+00:13:26,543 --> 00:13:28,251
+It's not being done mentally.
+
+180
+00:13:28,337 --> 00:13:29,416
+No, it's...
+
+181
+00:13:29,504 --> 00:13:31,295
+And that's what's so nutty about it.
+
+182
+00:13:31,381 --> 00:13:35,248
+You know, if I was better at this,
+it may be more systematic,
+
+183
+00:13:35,342 --> 00:13:38,711
+I may evolve into doing it
+more systematically, but...
+
+184
+00:13:38,804 --> 00:13:40,511
+No matter what I've tried,
+
+185
+00:13:40,597 --> 00:13:44,890
+if I just spend enough time
+comparing the mirror to the canvas
+
+186
+00:13:44,975 --> 00:13:49,304
+and stirring the paint around,
+it ends up looking like a photograph.
+
+187
+00:13:54,650 --> 00:13:57,900
+And this was the result of Tim's experiment,
+
+188
+00:13:57,986 --> 00:14:00,559
+it took him five hours.
+
+189
+00:14:03,241 --> 00:14:05,992
+Not bad for a first oil painting.
+
+190
+00:14:14,208 --> 00:14:19,794
+The father-in-law picture was proof enough
+in my mind that Vermeer probably did this.
+
+191
+00:14:19,880 --> 00:14:25,039
+However, my father-in-law doesn't look like
+a 17th-century Dutch woman,
+
+192
+00:14:25,134 --> 00:14:29,961
+so I don't think it would be very
+convincing evidence for a lot of people.
+
+193
+00:14:30,055 --> 00:14:34,052
+So, I thought the best way would be
+to really do a Vermeer.
+
+194
+00:14:34,142 --> 00:14:37,640
+I had the suspicion that it was exactly
+the same thing.
+
+195
+00:14:37,728 --> 00:14:40,764
+If I could do the father-in-law,
+I could paint a Vermeer.
+
+196
+00:14:40,856 --> 00:14:45,019
+It seemed to me the most powerful
+demonstration of the idea.
+
+197
+00:14:45,109 --> 00:14:50,529
+The reason I chose The Music Lesson
+is probably because, of all the paintings,
+
+198
+00:14:50,614 --> 00:14:54,658
+I think The Music Lesson
+is a great little laboratory,
+
+199
+00:14:54,742 --> 00:14:59,404
+because it's so complete
+and so self-contained.
+
+200
+00:14:59,496 --> 00:15:02,616
+You know where the windows are,
+you know how big the windows are,
+
+201
+00:15:02,707 --> 00:15:06,158
+you can reconstruct the harpsichord
+independent of the painting,
+
+202
+00:15:06,252 --> 00:15:10,960
+the Spanish chair, the viola da gamba,
+the rug, all these things could be procured,
+
+203
+00:15:11,048 --> 00:15:16,172
+and their appearance is gonna be what it is,
+independent of Vermeer's painting.
+
+204
+00:15:18,679 --> 00:15:22,178
+It's a little scientific experiment
+waiting to happen.
+
+205
+00:15:28,020 --> 00:15:29,929
+Before Tim went to all that trouble,
+
+206
+00:15:30,022 --> 00:15:32,939
+we thought he should run
+his idea by a working artist.
+
+207
+00:15:33,024 --> 00:15:34,269
+So we called up our friend,
+
+208
+00:15:34,359 --> 00:15:37,608
+Los Angeles-based painter
+and entertainer, Martin Mull,
+
+209
+00:15:37,695 --> 00:15:42,440
+and asked him to meet Tim
+at a studio in Las Vegas and see his gizmo.
+
+210
+00:15:42,532 --> 00:15:45,070
+Oh, my God.
+
+211
+00:15:45,160 --> 00:15:48,610
+Oh, my God.
+
+212
+00:15:52,165 --> 00:15:53,446
+Holy cow.
+
+213
+00:15:53,542 --> 00:15:57,206
+Took me about half an hour
+to learn how to operate a paintbrush.
+
+214
+00:15:57,295 --> 00:16:00,628
+Good for you, it took me 40 years.
+
+215
+00:16:00,714 --> 00:16:06,384
+Well, and the beauty of this technique
+is that you can make mistakes
+
+216
+00:16:06,469 --> 00:16:10,632
+and see what you did wrong instantly
+and try to fix it.
+
+217
+00:16:10,723 --> 00:16:12,680
+This is astounding.
+
+218
+00:16:12,766 --> 00:16:14,557
+So this is a camera obscura,
+
+219
+00:16:14,643 --> 00:16:19,138
+typical of the type
+that could be found in the 1600's.
+
+220
+00:16:19,230 --> 00:16:22,396
+This type of camera obscura
+is called a "box camera obscura".
+
+221
+00:16:22,483 --> 00:16:24,724
+It generally had a ground glass like this.
+
+222
+00:16:24,818 --> 00:16:28,151
+It has the ability to refocus
+by moving the lens in and out.
+
+223
+00:16:28,237 --> 00:16:32,021
+The general consensus of people
+that believe Vermeer used optics
+
+224
+00:16:32,116 --> 00:16:36,860
+was that he may have looked at that image
+and been inspired by it.
+
+225
+00:16:36,953 --> 00:16:37,984
+Yeah.
+
+226
+00:16:38,079 --> 00:16:39,193
+And that's the end of the story.
+
+227
+00:16:42,082 --> 00:16:44,655
+So now that we know there's a way
+to copy the colours exactly,
+
+228
+00:16:44,751 --> 00:16:46,660
+I'm proposing an alternate history
+of Vermeer.
+
+229
+00:16:46,753 --> 00:16:47,784
+Okay.
+
+230
+00:16:47,879 --> 00:16:50,001
+His father's an art dealer,
+he knows something about art,
+
+231
+00:16:50,089 --> 00:16:51,631
+he wants to make a painting.
+
+232
+00:16:52,007 --> 00:16:53,466
+He looks at this image...
+
+233
+00:16:53,550 --> 00:16:54,629
+Okay.
+
+234
+00:16:54,718 --> 00:16:56,924
+There's my daughter, Natalie.
+
+235
+00:16:57,178 --> 00:17:01,507
+What if Vermeer took the camera,
+turned it sideways, and now it's vertical,
+
+236
+00:17:01,599 --> 00:17:04,172
+- like my father-in-law picture.
+- Okay.
+
+237
+00:17:05,268 --> 00:17:07,640
+He takes his canvas,
+
+238
+00:17:09,272 --> 00:17:13,221
+and, the secret ingredient,
+
+239
+00:17:13,317 --> 00:17:14,479
+the mirror.
+
+240
+00:17:14,568 --> 00:17:15,943
+He positions the mirror here.
+
+241
+00:17:16,027 --> 00:17:17,687
+Which corrects the inversion?
+
+242
+00:17:17,779 --> 00:17:20,020
+- Yeah, it brings it back...
+- And everything...
+
+243
+00:17:20,114 --> 00:17:23,483
+And there it is! Clear as can be.
+
+244
+00:17:23,575 --> 00:17:27,655
+So if he's in his living room,
+he puts up some curtains,
+
+245
+00:17:27,746 --> 00:17:28,990
+controls the light,
+
+246
+00:17:29,080 --> 00:17:32,116
+and now picks up his brush
+and starts to paint.
+
+247
+00:17:33,709 --> 00:17:38,287
+My guess is that the Girl with the Red Hat
+is that first painting.
+
+248
+00:17:38,380 --> 00:17:40,835
+- Wow.
+- It's painted over the top of another painting.
+
+249
+00:17:40,923 --> 00:17:43,877
+We can x-ray it and see that
+there's something else underneath,
+
+250
+00:17:43,968 --> 00:17:45,960
+so maybe this was just
+a throwaway experiment.
+
+251
+00:18:00,732 --> 00:18:03,222
+So I understand, Tim,
+that when you go back to Texas,
+
+252
+00:18:03,317 --> 00:18:09,817
+you're going to construct a replica
+of the exact room where Vermeer painted?
+
+253
+00:18:09,906 --> 00:18:11,020
+Yeah.
+
+254
+00:18:11,115 --> 00:18:17,235
+And you're going
+to do a painting in his stead,
+
+255
+00:18:17,329 --> 00:18:18,574
+am I right?
+
+256
+00:18:18,663 --> 00:18:19,742
+Yep.
+
+257
+00:18:19,831 --> 00:18:23,413
+Many of Vermeer's paintings appear
+to have been painted in the same room,
+
+258
+00:18:23,501 --> 00:18:25,244
+likely the north-facing room
+
+259
+00:18:25,336 --> 00:18:28,004
+on the second floor
+of the house Vermeer lived in.
+
+260
+00:18:28,088 --> 00:18:31,670
+That's the room Tim plans to construct.
+
+261
+00:18:31,799 --> 00:18:37,919
+I really hope to see firsthand
+what Vermeer was up against,
+
+262
+00:18:38,013 --> 00:18:40,338
+if he was using this technique.
+
+263
+00:18:42,308 --> 00:18:47,728
+And try to get some idea
+
+264
+00:18:47,813 --> 00:18:49,639
+of how long it would take,
+
+265
+00:18:49,731 --> 00:18:52,304
+just to get the conditions right...
+
+266
+00:18:52,400 --> 00:18:55,603
+Just mundane things like how much
+usable lighting do you get in a day.
+
+267
+00:18:55,694 --> 00:18:57,568
+So you're not going to use any artificial light.
+
+268
+00:18:57,654 --> 00:18:58,733
+That's right.
+
+269
+00:18:58,822 --> 00:19:02,404
+And I'm only going to use materials
+that Vermeer would have had.
+
+270
+00:19:02,492 --> 00:19:03,571
+Okay.
+
+271
+00:19:03,659 --> 00:19:06,150
+So, I'm going to force myself
+into the constraint
+
+272
+00:19:06,245 --> 00:19:10,871
+of having to grind the pigments
+and, you know, make the paint,
+
+273
+00:19:10,957 --> 00:19:15,037
+and use only pigments that he had access to
+or that he used in his paintings.
+
+274
+00:19:15,127 --> 00:19:19,670
+For his experiment, Tim wanted
+to recreate, as closely as possible,
+
+275
+00:19:19,756 --> 00:19:22,329
+the conditions that Vermeer
+was working with.
+
+276
+00:19:22,425 --> 00:19:25,212
+Back then you couldn't just run down
+to the paint store
+
+277
+00:19:25,303 --> 00:19:26,796
+and pick up a tube of paint,
+
+278
+00:19:26,887 --> 00:19:30,053
+so Tim had to learn how to grind
+and mix the pigments,
+
+279
+00:19:30,140 --> 00:19:33,140
+which I'm now talking about
+something I know nothing about,
+
+280
+00:19:33,226 --> 00:19:37,057
+but of grinding the pigments
+and adding in the oil
+
+281
+00:19:37,187 --> 00:19:38,765
+and however you make paint.
+
+282
+00:19:38,856 --> 00:19:41,856
+If it were left to me to make paint,
+there would be no paint.
+
+283
+00:19:43,067 --> 00:19:44,858
+I also learnt how to make lenses.
+
+284
+00:19:44,944 --> 00:19:47,731
+I couldn't use a modern lens,
+they're too good.
+
+285
+00:19:47,821 --> 00:19:49,150
+So I had to build one.
+
+286
+00:19:49,239 --> 00:19:53,402
+So I had to make the form on a lathe,
+I had to melt the glass,
+
+287
+00:19:53,493 --> 00:19:56,992
+I had to polish it with
+various grades of abrasives,
+
+288
+00:19:57,079 --> 00:20:00,863
+just the way they made lenses
+in the 17th century.
+
+289
+00:20:00,957 --> 00:20:03,115
+To be sure he was getting everything right,
+
+290
+00:20:03,209 --> 00:20:06,376
+Tim took some time off of work
+to fly to Holland.
+
+291
+00:20:06,462 --> 00:20:09,712
+He visited Delft,
+the city where Vermeer had lived,
+
+292
+00:20:09,798 --> 00:20:12,253
+and studied the light and the architecture.
+
+293
+00:20:12,342 --> 00:20:15,841
+So this is it, this is where Vermeer painted
+those magical light pictures.
+
+294
+00:20:15,928 --> 00:20:19,213
+He learnt to read Dutch,
+he consulted with experts,
+
+295
+00:20:19,306 --> 00:20:23,599
+measured furniture in museums,
+and immersed himself in Vermeer's world.
+
+296
+00:20:30,983 --> 00:20:33,604
+All right, so move it in. Okay, good.
+
+297
+00:20:54,919 --> 00:20:59,415
+I would like to get one exactly like this.
+Do you think you could make one?
+
+298
+00:20:59,507 --> 00:21:00,704
+That's possible, yes.
+
+299
+00:21:27,572 --> 00:21:31,900
+When he got back to San Antonio,
+Tim rented a warehouse that faced North,
+
+300
+00:21:31,992 --> 00:21:33,534
+just like Vermeer's studio,
+
+301
+00:21:33,618 --> 00:21:36,489
+and invited Professor Philip Steadman
+over from London
+
+302
+00:21:36,579 --> 00:21:38,737
+to look over his experiment.
+
+303
+00:21:38,831 --> 00:21:42,081
+While some believe that Vermeer
+painted from his imagination,
+
+304
+00:21:42,167 --> 00:21:46,247
+Steadman found evidence that
+Vermeer used optics.
+
+305
+00:21:46,337 --> 00:21:49,421
+Steadman is the author of Vermeer's Camera.
+
+306
+00:21:49,507 --> 00:21:53,089
+In this book, Steadman analyses six
+of Vermeer's paintings
+
+307
+00:21:53,177 --> 00:21:55,928
+to determine the layout of Vermeer's studio.
+
+308
+00:21:56,012 --> 00:21:58,254
+Then he uses geometry to figure out
+
+309
+00:21:58,348 --> 00:22:01,514
+where the lens in a camera obscura
+would have to go
+
+310
+00:22:01,600 --> 00:22:04,055
+to match each painting's viewpoint.
+
+311
+00:22:04,144 --> 00:22:07,927
+Now he calculates the size of the projection
+on Vermeer's back wall,
+
+312
+00:22:08,022 --> 00:22:12,315
+and compares that to the size
+of the corresponding painting.
+
+313
+00:22:13,944 --> 00:22:17,229
+For all six, the sizes match exactly.
+
+314
+00:22:18,281 --> 00:22:21,317
+It doesn't seem like
+that would happen by chance.
+
+315
+00:22:21,784 --> 00:22:25,235
+Pretty convincing evidence
+that Vermeer used a lens.
+
+316
+00:22:27,414 --> 00:22:29,322
+Well, tell me about what you're doing.
+
+317
+00:22:29,415 --> 00:22:32,451
+Steadman's discovery fit perfectly
+with Tim's mirror,
+
+318
+00:22:32,543 --> 00:22:35,164
+so now Tim set up a test that would use both.
+
+319
+00:22:35,253 --> 00:22:38,586
+And this, we will make
+an attempt at painting this.
+
+320
+00:22:38,673 --> 00:22:40,831
+- Okay.
+- Using the mirror.
+
+321
+00:22:40,925 --> 00:22:42,383
+So, now let's go inside the booth.
+
+322
+00:22:42,468 --> 00:22:43,463
+Yeah.
+
+323
+00:22:43,552 --> 00:22:45,794
+He and Steadman would try to paint a jug
+
+324
+00:22:45,887 --> 00:22:49,635
+using his comparator mirror
+inside a camera obscura,
+
+325
+00:22:49,724 --> 00:22:52,096
+as Tim thought Vermeer had done.
+
+326
+00:22:55,979 --> 00:22:57,603
+They take turns painting.
+
+327
+00:22:57,731 --> 00:23:00,304
+It doesn't matter who does the brushstrokes,
+
+328
+00:23:00,400 --> 00:23:02,273
+the process is objective,
+
+329
+00:23:02,360 --> 00:23:05,858
+and any painter who uses it,
+gets the same result.
+
+330
+00:23:10,283 --> 00:23:12,952
+David Hockney's book came out
+just after mine.
+
+331
+00:23:13,035 --> 00:23:14,992
+What do you remember about the reaction?
+
+332
+00:23:15,079 --> 00:23:20,072
+There was quite a controversy around
+both books, wasn't there?
+
+333
+00:23:20,166 --> 00:23:22,242
+Enormous, yes, yes.
+
+334
+00:23:22,335 --> 00:23:27,577
+There was a lot of upset, a really deep
+anguish amongst the art historians.
+
+335
+00:23:27,672 --> 00:23:31,966
+The painters were relaxed.
+
+336
+00:23:32,093 --> 00:23:36,006
+They said, you know,
+"This is a technology, fine, okay."
+
+337
+00:23:36,096 --> 00:23:41,849
+But there was something, a really deep
+hurt amongst some of the art historians
+
+338
+00:23:41,934 --> 00:23:47,355
+which was to do with intrusion
+of amateurs and crass rationalists
+
+339
+00:23:47,439 --> 00:23:50,689
+into the preserves of art history.
+
+340
+00:23:50,775 --> 00:23:55,686
+It was to do with a misunderstanding
+of the nature of art
+
+341
+00:23:55,779 --> 00:23:58,614
+and cheating and genius,
+
+342
+00:23:58,698 --> 00:24:03,525
+and the idea that an optical method
+is some sort of cheat,
+
+343
+00:24:03,619 --> 00:24:05,327
+because these are very accurate,
+measured perspectives.
+
+344
+00:24:05,412 --> 00:24:10,239
+So, there are two ways you can do them.
+You can produce them optically,
+
+345
+00:24:10,583 --> 00:24:12,741
+or you can set them up geometrically.
+
+346
+00:24:13,211 --> 00:24:18,002
+If you set them up geometrically,
+you're using the standard methods,
+
+347
+00:24:18,090 --> 00:24:21,292
+it's a machine, it's an algorithm,
+you apply the rules.
+
+348
+00:24:21,384 --> 00:24:23,044
+Why is that not cheating?
+
+349
+00:24:23,136 --> 00:24:25,673
+- Exactly.
+- Strange, isn't it?
+
+350
+00:24:27,514 --> 00:24:31,891
+So, the only legitimate way to make
+a painting is to just walk up to the canvas,
+
+351
+00:24:31,976 --> 00:24:34,549
+and alla prima paint it.
+
+352
+00:24:34,645 --> 00:24:38,263
+But the reason it isn't cheating
+is that it's hard.
+
+353
+00:24:38,357 --> 00:24:40,598
+- Yes.
+- It's geometry, it's mathematics.
+
+354
+00:24:40,692 --> 00:24:43,895
+- Well, this certainly is not easy.
+- This is not easy, no.
+
+355
+00:24:43,986 --> 00:24:47,437
+- If Vermeer did this, it wasn't a time saver.
+- No, indeed.
+
+356
+00:24:47,531 --> 00:24:53,900
+I can't comprehend that someone
+could paint that from their imagination.
+
+357
+00:24:55,162 --> 00:24:56,241
+No. Of course not.
+
+358
+00:24:56,330 --> 00:24:59,117
+A human being is pretty
+remarkable sometimes.
+
+359
+00:24:59,208 --> 00:25:03,121
+To get objects at their true sizes,
+
+360
+00:25:03,211 --> 00:25:08,168
+and to get all the kind of luminous effects...
+
+361
+00:25:08,257 --> 00:25:13,167
+Painters can do miraculous things,
+it's difficult to say, "This is impossible,"
+
+362
+00:25:13,261 --> 00:25:17,044
+but some things are more impossible
+than others.
+
+363
+00:25:30,108 --> 00:25:32,943
+I was gonna go right off the edge there.
+
+364
+00:25:33,778 --> 00:25:34,857
+So.
+
+365
+00:25:34,946 --> 00:25:38,480
+- Great. Well, congratulations.
+- And you.
+
+366
+00:25:38,574 --> 00:25:39,819
+Fantastic.
+
+367
+00:25:42,661 --> 00:25:46,989
+I want to think that
+this simple, elegant device
+
+368
+00:25:47,081 --> 00:25:50,200
+is something that Vermeer could have used.
+
+369
+00:25:50,292 --> 00:25:53,458
+There's no doubt it's practical,
+and it's simple.
+
+370
+00:25:53,545 --> 00:25:54,920
+You know, it's a plain mirror.
+
+371
+00:25:55,004 --> 00:25:57,839
+This is a 17th-century technology,
+they knew all about mirrors,
+
+372
+00:25:57,923 --> 00:26:01,921
+and you can imagine him perhaps thinking
+of something like what Tim has thought of,
+
+373
+00:26:02,010 --> 00:26:05,509
+but we know nothing from
+a documentary point of view
+
+374
+00:26:05,597 --> 00:26:08,383
+of how Vermeer worked,
+there are no descriptions by him,
+
+375
+00:26:08,474 --> 00:26:11,759
+by other people, there are no drawings...
+
+376
+00:26:11,852 --> 00:26:13,643
+We know very little about his life.
+
+377
+00:26:13,728 --> 00:26:18,935
+So the only real source of information
+to answer a question like that
+
+378
+00:26:19,024 --> 00:26:20,602
+would be the paintings themselves.
+
+379
+00:26:20,693 --> 00:26:23,361
+Using Tim's device, it isn't easy,
+
+380
+00:26:23,445 --> 00:26:27,193
+but somehow it does turn you
+into a machine.
+
+381
+00:26:27,281 --> 00:26:30,448
+You become a machine.
+Was Vermeer a machine?
+
+382
+00:26:31,827 --> 00:26:35,776
+Maybe Vermeer was strong-minded enough
+to think, "I'll become a machine".
+
+383
+00:26:38,332 --> 00:26:39,874
+That little picture of the jug
+
+384
+00:26:39,959 --> 00:26:43,659
+took Tim and Steadman
+eight and a half hours to paint,
+
+385
+00:26:43,754 --> 00:26:45,545
+and Tim's method worked.
+
+386
+00:26:45,630 --> 00:26:49,378
+But they were painting in black and white,
+and using powerful electric light
+
+387
+00:26:49,467 --> 00:26:52,218
+that wouldn't have been around
+in Vermeer's day.
+
+388
+00:26:52,302 --> 00:26:55,718
+Would Tim's mirror work well enough
+to paint The Music Lesson,
+
+389
+00:26:55,805 --> 00:26:58,557
+in full colour, in natural light?
+
+390
+00:26:58,641 --> 00:27:02,887
+To find that out Tim would need
+Vermeer's room, and everything in it.
+
+391
+00:27:03,478 --> 00:27:09,729
+But museums don't loan stuff from the 1600s
+to video engineers with a wacky hobby.
+
+392
+00:27:10,985 --> 00:27:14,733
+It would be nice if I could have hired
+somebody to build all this
+
+393
+00:27:14,821 --> 00:27:17,110
+but it was kind of an interactive process,
+
+394
+00:27:17,198 --> 00:27:22,571
+you know, I had to first model the room
+in LightWave 3D,
+
+395
+00:27:23,829 --> 00:27:27,612
+working from the painting to get
+the dimensions and the shapes right.
+
+396
+00:27:27,707 --> 00:27:31,122
+Even though it was a lot of work,
+it was just easier for me to do it,
+
+397
+00:27:31,210 --> 00:27:33,202
+because as I went I could make sure
+
+398
+00:27:33,295 --> 00:27:36,498
+that the furniture looked like
+the furniture in the Vermeers.
+
+399
+00:27:36,923 --> 00:27:39,295
+But Tim is not a dressmaker.
+
+400
+00:27:39,717 --> 00:27:40,880
+Or a framer.
+
+401
+00:27:41,510 --> 00:27:43,716
+Or a carpenter. Upholsterer.
+
+402
+00:27:44,137 --> 00:27:45,217
+Glazier.
+
+403
+00:27:46,056 --> 00:27:49,175
+Builder of virginals,
+which is a type of harpsichord.
+
+404
+00:27:49,517 --> 00:27:50,762
+Metalsmith.
+
+405
+00:27:50,851 --> 00:27:52,132
+Furniture maker.
+
+406
+00:27:52,228 --> 00:27:53,722
+Plasterer.
+
+407
+00:27:53,854 --> 00:27:55,016
+Tile layer.
+
+408
+00:27:55,105 --> 00:27:57,346
+Or a lens maker.
+
+409
+00:27:57,440 --> 00:27:59,065
+But he's not an artist either.
+
+410
+00:27:59,567 --> 00:28:02,733
+He used what he was, a technologist,
+
+411
+00:28:02,820 --> 00:28:05,524
+to help him become
+all those things he wasn't,
+
+412
+00:28:05,614 --> 00:28:08,401
+so that he could build his room.
+
+413
+00:28:48,567 --> 00:28:49,811
+This is fun.
+
+414
+00:28:50,818 --> 00:28:56,737
+I mean, this is the real thing.
+
+415
+00:29:45,072 --> 00:29:47,610
+Is it safe for there to be that much smoke?
+
+416
+00:29:47,699 --> 00:29:50,190
+I don't know, I've never done this before!
+
+417
+00:29:50,285 --> 00:29:52,610
+Could it heat up and catch fire?
+
+418
+00:29:52,704 --> 00:29:57,080
+- Well, I guess. I don't know.
+- Whatever!
+
+419
+00:29:57,166 --> 00:29:59,621
+It's kind of cool. Okay, here we go.
+
+420
+00:30:27,399 --> 00:30:30,684
+Okay, I got a problem with the virginals leg.
+
+421
+00:30:30,777 --> 00:30:34,193
+It's supposed to be 36 and a half inches long,
+
+422
+00:30:34,280 --> 00:30:38,692
+but my lathe only goes
+
+423
+00:30:39,701 --> 00:30:42,488
+about 34 inches.
+
+424
+00:30:42,829 --> 00:30:45,367
+I mean, I could make the leg in two pieces.
+
+425
+00:30:45,456 --> 00:30:48,872
+But I think what I'm gonna do
+is I'm going to cut the lathe in two.
+
+426
+00:31:00,636 --> 00:31:06,839
+Generally, you don't take a fine
+precision machine tool and saw it in half,
+
+427
+00:31:07,266 --> 00:31:10,432
+but power tools are made to be jury-rigged.
+
+428
+00:31:57,934 --> 00:31:59,392
+Yeah, it's a big guitar.
+
+429
+00:32:02,437 --> 00:32:08,226
+Viola da gamba is called a "viola da gamba"
+because "gamba" means leg,
+
+430
+00:32:08,693 --> 00:32:10,768
+and you play it between your legs.
+
+431
+00:32:22,454 --> 00:32:23,569
+I like it.
+
+432
+00:32:46,349 --> 00:32:48,342
+I don't know much about woodworking.
+
+433
+00:32:50,478 --> 00:32:56,729
+So I'm doing this, not out
+of love for woodworking,
+
+434
+00:32:56,816 --> 00:32:58,441
+but out of necessity
+
+435
+00:32:58,526 --> 00:33:04,694
+because you just can't buy these
+stupid chairs anywhere,
+
+436
+00:33:04,781 --> 00:33:06,275
+and I need one.
+
+437
+00:34:30,520 --> 00:34:33,853
+David Hockney is one
+of Britain's greatest artists.
+
+438
+00:34:33,939 --> 00:34:36,560
+He's famous for paintings like this.
+
+439
+00:34:36,650 --> 00:34:40,232
+Since his optical theory got
+Tim started on this journey,
+
+440
+00:34:40,320 --> 00:34:44,531
+he seemed the ideal person for Tim to talk to.
+
+441
+00:34:44,615 --> 00:34:48,114
+Hockney invited us to visit,
+so we all went to England.
+
+442
+00:34:50,662 --> 00:34:56,248
+What I knew about David Hockney
+was that he was a famous artist.
+
+443
+00:34:56,333 --> 00:34:59,832
+But, reading his book, I could see
+that he wasn't a typical artist,
+
+444
+00:34:59,920 --> 00:35:03,169
+that he was somewhat a scientist.
+
+445
+00:35:03,423 --> 00:35:07,883
+Philip Steadman and David Hockney,
+to my mind,
+
+446
+00:35:09,261 --> 00:35:11,633
+to the mind of a sceptic,
+
+447
+00:35:11,721 --> 00:35:18,470
+prove that Vermeer used some sort of device.
+
+448
+00:35:18,560 --> 00:35:24,313
+But Secret Knowledge,
+and all the Philip Steadman work,
+
+449
+00:35:24,440 --> 00:35:30,442
+are this wonderful, exciting, tingly whodunit,
+that never tells you who did it.
+
+450
+00:35:30,946 --> 00:35:33,863
+Hockney showed
+that artists were using lenses.
+
+451
+00:35:33,948 --> 00:35:36,569
+Steadman argued that
+Vermeer was using a lens.
+
+452
+00:35:36,659 --> 00:35:40,442
+I believed that Vermeer must have
+been using more than just a lens.
+
+453
+00:35:40,537 --> 00:35:44,451
+The reason to go see Hockney was
+to bounce this idea off him
+
+454
+00:35:44,540 --> 00:35:46,912
+and see if he thought it was plausible.
+
+455
+00:35:47,293 --> 00:35:49,748
+How did you figure this out?
+What are you, a...
+
+456
+00:35:49,836 --> 00:35:52,753
+Well, I started thinking about it
+after I read your book, and...
+
+457
+00:35:52,839 --> 00:35:54,796
+Are you an optical... I mean...
+
+458
+00:35:54,882 --> 00:35:56,211
+I design television equipment.
+
+459
+00:35:56,300 --> 00:35:57,628
+- That's my job.
+- I see.
+
+460
+00:35:57,718 --> 00:36:01,762
+So I know a bit about colour and imagery.
+
+461
+00:36:01,847 --> 00:36:05,974
+And I suspected looking at these
+old pictures from the Golden Age,
+
+462
+00:36:06,058 --> 00:36:11,099
+Caravaggio, Vermeer, van Eyck,
+
+463
+00:36:11,188 --> 00:36:16,561
+that there must have been
+a way to copy the tones.
+
+464
+00:36:16,692 --> 00:36:20,392
+Because that's what's quite remarkable,
+actually. Yes, it is.
+
+465
+00:36:20,487 --> 00:36:23,653
+I need to stand on that side
+of the table for a second.
+
+466
+00:36:23,740 --> 00:36:27,073
+So it's a mirror on a stick.
+
+467
+00:36:27,159 --> 00:36:28,190
+All right.
+
+468
+00:36:28,285 --> 00:36:32,993
+This is what I saw when I was painting,
+if you look straight down.
+
+469
+00:36:33,164 --> 00:36:35,370
+And of course I started with a blank...
+
+470
+00:36:35,458 --> 00:36:36,786
+I see, yes. Yeah, yeah.
+
+471
+00:36:36,876 --> 00:36:41,087
+And you can move your head up and down
+and you can see different parts of the image.
+
+472
+00:36:41,171 --> 00:36:44,753
+And that's how you work your way
+from one part to the other.
+
+473
+00:36:44,841 --> 00:36:49,965
+Now right at the edge of the mirror,
+where you see both images,
+
+474
+00:36:50,054 --> 00:36:53,837
+you can do a direct comparison of the tone.
+
+475
+00:36:53,932 --> 00:36:55,260
+Yeah, yeah, yeah, yeah.
+
+476
+00:36:55,350 --> 00:36:58,054
+And your eye can instantly see,
+because they're together,
+
+477
+00:36:58,144 --> 00:37:02,057
+can see any contrast, and the edge
+of the mirror basically disappears.
+
+478
+00:37:02,147 --> 00:37:06,014
+When you have the right colour
+and only when you have the right colour.
+
+479
+00:37:07,360 --> 00:37:11,108
+Yeah, yeah, yeah, I see.
+This is very ingenious.
+
+480
+00:37:11,530 --> 00:37:15,361
+So you notice that there is no parallax
+when you move your head,
+
+481
+00:37:15,450 --> 00:37:16,529
+there is no shifting.
+
+482
+00:37:16,618 --> 00:37:18,526
+- That's it, no.
+- The two images stay locked together.
+
+483
+00:37:18,619 --> 00:37:19,947
+- Why is that?
+- Want to look through it?
+
+484
+00:37:20,037 --> 00:37:22,113
+- How is that?
+- I know, it's very clever.
+
+485
+00:37:22,206 --> 00:37:26,831
+I must say, the idea that the Italians,
+when you think about the Italians,
+
+486
+00:37:26,918 --> 00:37:31,413
+they love pictures,
+the idea that they didn't use this
+
+487
+00:37:31,505 --> 00:37:36,843
+because this would have been cheating,
+I find childish, absolutely childish.
+
+488
+00:37:36,926 --> 00:37:41,054
+There's also this modern idea that
+art and technology must never meet.
+
+489
+00:37:41,180 --> 00:37:44,963
+You know, you go to school for technology
+or you go to school for art
+
+490
+00:37:45,058 --> 00:37:46,766
+but never for both.
+
+491
+00:37:46,851 --> 00:37:49,768
+But in the Golden Age,
+they were one and the same person.
+
+492
+00:37:49,854 --> 00:37:50,933
+Yeah.
+
+493
+00:37:51,021 --> 00:37:54,306
+The interesting thing is that
+if this was around then,
+
+494
+00:37:54,816 --> 00:37:57,521
+we are seeing photographs.
+
+495
+00:37:57,986 --> 00:38:02,362
+If they were using this
+and exactly copying that colour.
+
+496
+00:38:02,448 --> 00:38:04,819
+Yeah, well, I mean...
+
+497
+00:38:04,908 --> 00:38:08,193
+- It's a photo.
+- Yeah.
+
+498
+00:38:08,286 --> 00:38:14,157
+After seeing this, I mean,
+it's not a complicated piece of equipment,
+
+499
+00:38:14,249 --> 00:38:19,041
+but how likely do you think it is
+that they may have done this?
+
+500
+00:38:19,128 --> 00:38:21,251
+- I think it's very likely.
+- Really.
+
+501
+00:38:21,338 --> 00:38:23,829
+Very likely. Yeah, yeah, absolutely likely.
+
+502
+00:38:23,924 --> 00:38:27,339
+I mean, I'm pretty positive optics...
+
+503
+00:38:27,427 --> 00:38:30,593
+I mean, there's no explanation
+for the paintings without optics.
+
+504
+00:38:33,098 --> 00:38:35,885
+But, you know, historical evidence,
+
+505
+00:38:35,976 --> 00:38:41,016
+it'd be great to find a lost letter
+from Johannes Vermeer...
+
+506
+00:38:41,105 --> 00:38:42,599
+Wait a minute.
+
+507
+00:38:42,982 --> 00:38:45,519
+I put a joke letter in Secret Knowledge.
+
+508
+00:38:45,609 --> 00:38:46,640
+You did?
+
+509
+00:38:46,735 --> 00:38:48,015
+A joke letter.
+
+510
+00:38:48,111 --> 00:38:52,986
+This is what historians were looking for.
+From Hugo van der Goes to van Eyck.
+
+511
+00:38:55,284 --> 00:39:00,360
+"Could you go to ye
+Brugge Mirror Supply Company"
+
+512
+00:39:00,455 --> 00:39:05,246
+"and get one of those makeup mirrors
+for my wife, you know what I mean?"
+
+513
+00:39:06,877 --> 00:39:09,083
+Well, I said,
+"You'll never find a letter like that."
+
+514
+00:39:09,170 --> 00:39:10,830
+- Yeah.
+- They never wrote down...
+
+515
+00:39:10,922 --> 00:39:15,133
+Van Eyck would not write down
+the formulas for the paint
+
+516
+00:39:16,176 --> 00:39:18,927
+for the simple reason
+that somebody might read them.
+
+517
+00:39:19,012 --> 00:39:20,506
+And there were other people
+
+518
+00:39:20,597 --> 00:39:22,221
+that wouldn't write 'em down.
+
+519
+00:39:22,306 --> 00:39:27,548
+People were sworn to secrecy,
+oaths that they took very seriously.
+
+520
+00:39:28,145 --> 00:39:31,513
+You won't, you never...
+It's naive to think you'll find something.
+
+521
+00:39:31,606 --> 00:39:34,939
+Paintings are documents, aren't they?
+Aren't they telling you a lot?
+
+522
+00:39:36,777 --> 00:39:38,401
+Paintings are documents.
+
+523
+00:39:38,487 --> 00:39:40,894
+They contain the story of their own creation.
+
+524
+00:39:40,989 --> 00:39:44,024
+Every brushstroke, every layer of colour,
+every shadow
+
+525
+00:39:44,116 --> 00:39:46,868
+represents another piece of information.
+
+526
+00:39:47,119 --> 00:39:51,745
+To the trained eye, a painting can be read
+as accurately as any written text.
+
+527
+00:39:52,290 --> 00:39:53,867
+And you don't need a trained eye
+
+528
+00:39:53,958 --> 00:39:57,457
+to see that Vermeer's look different
+from his contemporaries.
+
+529
+00:39:57,544 --> 00:40:00,035
+They look like video images.
+
+530
+00:40:00,130 --> 00:40:02,501
+He painted the way a camera sees.
+
+531
+00:40:05,134 --> 00:40:06,877
+Ever since photography was invented,
+
+532
+00:40:06,969 --> 00:40:10,218
+people have been noticing optical things
+about Vermeer.
+
+533
+00:40:10,305 --> 00:40:11,633
+On the Girl with the Red Hat,
+
+534
+00:40:11,723 --> 00:40:14,807
+there's this lion's head
+in the foreground that's fuzzy.
+
+535
+00:40:14,892 --> 00:40:17,679
+Your eye naturally refocuses
+on whatever you're looking at,
+
+536
+00:40:17,769 --> 00:40:19,228
+so something in the foreground
+
+537
+00:40:19,312 --> 00:40:22,147
+is not going to appear to your eye
+as out of focus.
+
+538
+00:40:22,232 --> 00:40:26,478
+But it could be out of focus
+if the image was projected with a lens.
+
+539
+00:40:27,319 --> 00:40:29,027
+The so-called pointilles,
+
+540
+00:40:29,112 --> 00:40:34,984
+these little circles of paint,
+look similar to what you get in a bad lens.
+
+541
+00:40:35,659 --> 00:40:40,202
+You look at the back of her jacket
+and there's a faint blue line.
+
+542
+00:40:40,288 --> 00:40:46,491
+And that looks a lot like chromatic aberration
+which is what happens in a crude lens.
+
+543
+00:40:47,378 --> 00:40:51,161
+The edges of objects can develop
+this rainbow fringe around them.
+
+544
+00:40:51,965 --> 00:40:56,092
+This falloff of light from the window
+to the opposite corner
+
+545
+00:40:56,177 --> 00:40:59,960
+is something that an artist really cannot see
+the way a camera sees it.
+
+546
+00:41:00,055 --> 00:41:01,597
+It's impossible to see it.
+
+547
+00:41:01,681 --> 00:41:05,263
+But Vermeer painted it
+the way a camera sees it.
+
+548
+00:41:05,768 --> 00:41:10,595
+Is it possible that
+some people can see absolute brightness,
+
+549
+00:41:10,689 --> 00:41:12,349
+and most people, can't?
+
+550
+00:41:12,440 --> 00:41:15,013
+You know, the way a musician
+might have perfect pitch?
+
+551
+00:41:16,027 --> 00:41:19,477
+You know, that's a question for a doctor.
+
+552
+00:41:19,738 --> 00:41:23,023
+I'm Colin Blakemore.
+I'm a professor at Oxford.
+
+553
+00:41:23,241 --> 00:41:25,814
+Or a scientist
+that specialises in human vision.
+
+554
+00:41:25,910 --> 00:41:31,200
+And I've spent most of my career studying
+vision and the functions of the brain.
+
+555
+00:41:31,373 --> 00:41:33,863
+Is Vermeer maybe some sort of a savant
+
+556
+00:41:33,958 --> 00:41:36,034
+that's different
+from the rest of the human race?
+
+557
+00:41:36,127 --> 00:41:38,249
+What if someone said,
+
+558
+00:41:38,337 --> 00:41:43,876
+"Maybe there's a savant who is so smart,
+that he could figure that out."
+
+559
+00:41:43,967 --> 00:41:47,051
+Well, he's not smart. I mean,
+he'd have to have a very strange retina.
+
+560
+00:41:47,178 --> 00:41:49,217
+Our retinas are made the way they're made.
+
+561
+00:41:49,430 --> 00:41:51,837
+The retina is an outgrowth of the brain.
+
+562
+00:41:51,932 --> 00:41:55,929
+It's a very complicated structure
+in terms of its nervous organisation.
+
+563
+00:41:56,019 --> 00:41:58,426
+The signals go through
+a complicated network,
+
+564
+00:41:58,521 --> 00:42:01,806
+several layers
+of different types of nerve cells,
+
+565
+00:42:01,898 --> 00:42:05,646
+before they finally get back
+to the last cells in the chain
+
+566
+00:42:05,735 --> 00:42:08,308
+whose fibres make up the optic nerve.
+
+567
+00:42:08,612 --> 00:42:14,033
+The optic nerve has limited bandwidth,
+so the signals have to be compressed.
+
+568
+00:42:14,117 --> 00:42:16,405
+One thing we lose in that compression
+
+569
+00:42:16,494 --> 00:42:21,202
+is the ability to record absolute brightness
+the way a light metre can.
+
+570
+00:42:23,125 --> 00:42:27,667
+When we see two values side by side,
+it's easy to compare them.
+
+571
+00:42:28,212 --> 00:42:31,663
+But when we split them,
+that ability goes away.
+
+572
+00:42:33,425 --> 00:42:37,636
+There just isn't any mechanism
+in the human nervous system
+
+573
+00:42:38,221 --> 00:42:41,506
+to turn the eye into a light metre.
+
+574
+00:42:41,807 --> 00:42:44,344
+And this is a very clever trick
+for reducing information,
+
+575
+00:42:44,434 --> 00:42:48,348
+but it's a disaster if you really want to know
+about the appearance of the scene
+
+576
+00:42:48,437 --> 00:42:50,928
+because you just can't do it with your brain.
+
+577
+00:42:51,732 --> 00:42:55,396
+Look at the light on the back wall
+of The Music Lesson.
+
+578
+00:42:55,485 --> 00:43:00,858
+Every subtlety of brightness is recorded
+with absolute photographic precision.
+
+579
+00:43:01,949 --> 00:43:05,115
+The unaided human eye
+is not equipped to do that.
+
+580
+00:43:05,493 --> 00:43:09,028
+But if Vermeer used something
+like Tim's device,
+
+581
+00:43:09,121 --> 00:43:11,328
+the painting becomes possible.
+
+582
+00:43:12,291 --> 00:43:14,960
+The Queen of England
+owns Vermeer's Music Lesson
+
+583
+00:43:15,043 --> 00:43:17,166
+and she has it there in Buckingham Palace.
+
+584
+00:43:17,253 --> 00:43:21,961
+We thought since we were in England,
+we'd stop by the palace and check it out.
+
+585
+00:43:22,383 --> 00:43:26,629
+But the Queen said no.
+So we shot a whole tirade against the Queen.
+
+586
+00:43:35,602 --> 00:43:36,633
+But then...
+
+587
+00:43:36,728 --> 00:43:39,432
+Well, I just came out of that building.
+
+588
+00:43:40,231 --> 00:43:42,307
+That's where the painting is,
+Buckingham Palace.
+
+589
+00:43:42,399 --> 00:43:46,977
+The day before Tim returned home,
+the Queen changed her Royal mind.
+
+590
+00:43:47,529 --> 00:43:51,395
+She granted Tim a private audience
+with The Music Lesson.
+
+591
+00:43:51,824 --> 00:43:54,445
+He had 30 minutes to study the painting.
+
+592
+00:43:54,535 --> 00:43:58,579
+The deal was, he could only record
+the experience in his head,
+
+593
+00:43:58,663 --> 00:44:00,572
+no photography allowed.
+
+594
+00:44:00,665 --> 00:44:02,823
+And it was a great 30 minutes.
+
+595
+00:44:04,460 --> 00:44:06,416
+The painting is amazing.
+
+596
+00:44:06,920 --> 00:44:10,004
+It's very different than I thought it would be.
+
+597
+00:44:10,339 --> 00:44:13,506
+The reproductions
+don't do it any justice at all.
+
+598
+00:44:14,760 --> 00:44:16,088
+The colours are more muted.
+
+599
+00:44:16,178 --> 00:44:20,175
+It's slightly darker,
+it's got a kind of an overall bluish cast.
+
+600
+00:44:23,309 --> 00:44:27,092
+But the astounding thing
+is the amount of detail.
+
+601
+00:44:27,312 --> 00:44:29,684
+I put on my magnifying binoculars
+
+602
+00:44:30,815 --> 00:44:35,108
+and looked at the virginals, and every stroke
+
+603
+00:44:35,569 --> 00:44:38,107
+of that decoration is there.
+
+604
+00:44:39,197 --> 00:44:42,114
+The Persian carpet,
+you can see the individual knots.
+
+605
+00:44:44,243 --> 00:44:50,280
+The amount of devotion, or dedication,
+or obsession
+
+606
+00:44:50,999 --> 00:44:53,205
+to get that amount of detail
+
+607
+00:44:53,292 --> 00:44:56,542
+that just makes a general impression
+on the viewer,
+
+608
+00:44:57,879 --> 00:45:02,587
+but must have taken months of hard work.
+
+609
+00:45:06,595 --> 00:45:09,216
+I don't know if I can even come close.
+
+610
+00:45:11,432 --> 00:45:15,382
+When Tim got back to San Antonio,
+he was in trouble.
+
+611
+00:45:19,064 --> 00:45:21,056
+When he looked directly at the virginals,
+
+612
+00:45:21,149 --> 00:45:26,273
+he could see the intricate pattern of
+interlocking seahorses that Vermeer painted.
+
+613
+00:45:28,405 --> 00:45:31,109
+When he looked at the projection
+in his camera obscura,
+
+614
+00:45:31,199 --> 00:45:35,362
+all those delicate little lines were too fuzzy
+and dim to paint.
+
+615
+00:45:36,036 --> 00:45:37,614
+It was a deal-killer.
+
+616
+00:45:37,704 --> 00:45:40,277
+I had visions of a failed experiment.
+
+617
+00:45:40,915 --> 00:45:43,240
+Tim knew there was something
+he was missing.
+
+618
+00:45:44,252 --> 00:45:49,458
+He experimented with increasingly
+complex arrangements of lenses and mirrors.
+
+619
+00:45:49,798 --> 00:45:51,458
+But nothing worked.
+
+620
+00:45:51,674 --> 00:45:53,963
+Then Tim had an inspiration.
+
+621
+00:45:54,552 --> 00:45:58,798
+He held a mirror against the wall
+where the image was being projected.
+
+622
+00:45:59,806 --> 00:46:03,850
+Now he could see a small circle of the room
+sharp and clear
+
+623
+00:46:03,935 --> 00:46:06,260
+and hundreds of times brighter.
+
+624
+00:46:06,896 --> 00:46:11,936
+By tilting the mirror around, he could see
+any part of the room he needed to paint.
+
+625
+00:46:12,942 --> 00:46:17,568
+Then he realised if he just replaced
+the flat mirror with a concave mirror,
+
+626
+00:46:17,655 --> 00:46:19,647
+like a shaving mirror,
+
+627
+00:46:19,740 --> 00:46:23,606
+he could make the bright circle much larger.
+
+628
+00:46:24,619 --> 00:46:27,572
+So I realised
+that if I could have an image that bright,
+
+629
+00:46:27,663 --> 00:46:29,371
+I didn't have to have this darkroom,
+
+630
+00:46:29,456 --> 00:46:34,082
+I could paint in daylight,
+which is a huge, huge breakthrough.
+
+631
+00:46:34,919 --> 00:46:37,125
+Tim started in the dark room.
+
+632
+00:46:37,254 --> 00:46:38,997
+But the room is gone.
+
+633
+00:46:39,089 --> 00:46:41,496
+The back wall is a concave mirror.
+
+634
+00:46:41,675 --> 00:46:45,672
+All that's left
+of the traditional camera obscura is the lens.
+
+635
+00:46:50,599 --> 00:46:56,553
+Tim had invented a new optical instrument
+or, perhaps, rediscovered a lost one.
+
+636
+00:46:57,188 --> 00:47:01,600
+In it, he could see well enough
+to attempt Vermeer's level of detail.
+
+637
+00:47:02,817 --> 00:47:05,688
+He had his room. He had his machine.
+
+638
+00:47:05,778 --> 00:47:08,020
+He was now ready to paint.
+
+639
+00:48:00,407 --> 00:48:01,652
+Oh, boy.
+
+640
+00:48:38,022 --> 00:48:40,643
+Boy, you know, I'm not trying
+to make this look like a Vermeer,
+
+641
+00:48:40,733 --> 00:48:42,393
+but it really looks like a Vermeer.
+
+642
+00:49:08,423 --> 00:49:13,131
+I was cleaning up,
+and getting ready to put my palette away,
+
+643
+00:49:13,218 --> 00:49:16,753
+call it a day's work,
+and I looked up at the monitor.
+
+644
+00:49:19,015 --> 00:49:24,353
+I thought, "Man, that camera got pointed in
+the wrong direction, it's pointed at the room."
+
+645
+00:49:24,436 --> 00:49:25,895
+"How did that happen?"
+
+646
+00:49:25,979 --> 00:49:29,928
+And that's the thought that went through
+my head for just a couple milliseconds
+
+647
+00:49:30,024 --> 00:49:33,309
+before I realised,
+"No, I'm looking at the painting."
+
+648
+00:49:34,278 --> 00:49:36,353
+And it was just kind of like a...
+
+649
+00:50:21,484 --> 00:50:25,315
+You know, this project
+is a lot like watching paint dry.
+
+650
+00:51:17,823 --> 00:51:20,859
+I can paint the costumes
+by putting them on mannequins.
+
+651
+00:51:20,951 --> 00:51:24,200
+But to paint faces and hands,
+I need to use people.
+
+652
+00:51:26,872 --> 00:51:29,541
+I do everything I can to help them hold still.
+
+653
+00:51:30,792 --> 00:51:32,416
+It sort of works.
+
+654
+00:51:36,213 --> 00:51:38,834
+My daughter Claire is home for a month
+from college.
+
+655
+00:51:39,174 --> 00:51:41,250
+And it's time to paint the girl,
+
+656
+00:51:41,468 --> 00:51:45,299
+so I put two and two together,
+and used Claire.
+
+657
+00:51:45,388 --> 00:51:48,637
+Her two sisters, are also in town,
+Luren and Natalie.
+
+658
+00:51:48,724 --> 00:51:52,673
+So they worked on fitting the costume
+and doing her hair
+
+659
+00:51:52,769 --> 00:51:55,722
+so that it looks like the girl in the picture.
+
+660
+00:51:55,813 --> 00:52:00,309
+When they got all that on,
+she was a dead ringer for the little Dutch girl.
+
+661
+00:52:00,567 --> 00:52:04,232
+With that completed,
+we put her in the head clamp,
+
+662
+00:52:05,738 --> 00:52:07,814
+and positioned her just right.
+
+663
+00:52:45,688 --> 00:52:49,270
+Few students have ever been happier
+to go back to school.
+
+664
+00:53:01,243 --> 00:53:02,951
+I may repaint that.
+
+665
+00:53:08,249 --> 00:53:11,415
+Excuse me a second.
+The wind's trying to blow my shade down.
+
+666
+00:53:11,502 --> 00:53:14,502
+I thought you were having a ghost visitation.
+
+667
+00:53:27,890 --> 00:53:29,088
+Fucker!
+
+668
+00:53:34,104 --> 00:53:35,598
+Piece of shit.
+
+669
+00:53:37,982 --> 00:53:39,725
+We're gonna have to go to plan B here.
+
+670
+00:53:39,817 --> 00:53:44,644
+The frame that has my window,
+and my shades and stuff, it came loose
+
+671
+00:53:44,738 --> 00:53:47,857
+and it fell over and I think everything's okay.
+
+672
+00:53:51,285 --> 00:53:52,316
+All right.
+
+673
+00:53:52,411 --> 00:53:56,242
+I tend to build things
+until they're just barely good enough.
+
+674
+00:53:56,790 --> 00:53:59,825
+And sometimes that envelope gets exceeded.
+
+675
+00:54:00,710 --> 00:54:05,335
+So if anything falls askew,
+your painting's in no danger, is that correct?
+
+676
+00:54:05,964 --> 00:54:07,956
+No, I wouldn't say that.
+
+677
+00:54:08,341 --> 00:54:10,547
+- Okay.
+- But, you know, I can always start over.
+
+678
+00:54:59,342 --> 00:55:01,548
+Another interesting thing happened.
+
+679
+00:55:01,636 --> 00:55:03,628
+What I noticed while I was looking at this,
+
+680
+00:55:03,721 --> 00:55:07,634
+I can see the straight lines
+of the seahorse there,
+
+681
+00:55:07,724 --> 00:55:12,848
+and I can see the straight lines
+that I've ruled already on the canvas,
+
+682
+00:55:12,937 --> 00:55:16,388
+the framework of the virginals.
+
+683
+00:55:16,898 --> 00:55:20,730
+All those are perfectly straight lines
+because I laid 'em out with a straight edge
+
+684
+00:55:20,818 --> 00:55:22,478
+before I painted them.
+
+685
+00:55:22,570 --> 00:55:28,323
+Well, when I am trying to align this
+very close now, within a tiny fraction,
+
+686
+00:55:28,408 --> 00:55:33,568
+I can see that this straight line
+isn't quite straight
+
+687
+00:55:34,371 --> 00:55:35,534
+in the reflection.
+
+688
+00:55:35,622 --> 00:55:37,828
+It's ever so slightly curved.
+
+689
+00:55:38,959 --> 00:55:43,169
+Probably not enough to throw me off
+now that I'm aware of it,
+
+690
+00:55:43,254 --> 00:55:47,251
+but if I had just literally painted
+that seahorse pattern,
+
+691
+00:55:47,924 --> 00:55:50,629
+it would have ended up curved like this.
+
+692
+00:55:52,595 --> 00:55:58,430
+And, so, I don't know why, but I went over
+and I picked up the Vermeer print.
+
+693
+00:56:00,727 --> 00:56:05,969
+And I go,
+"Well, obviously Vermeer had no trouble"
+
+694
+00:56:07,149 --> 00:56:09,474
+"painting those lines straight."
+
+695
+00:56:12,320 --> 00:56:15,273
+And then, I held the painting sideways
+like this
+
+696
+00:56:15,364 --> 00:56:18,199
+and I'm looking down these straight lines.
+
+697
+00:56:23,121 --> 00:56:25,576
+And there's something really crazy
+about this.
+
+698
+00:56:25,748 --> 00:56:29,827
+The top and the bottom of the virginals
+are absolutely straight.
+
+699
+00:56:29,918 --> 00:56:33,002
+Because when I look at it down here
+at an angle,
+
+700
+00:56:33,921 --> 00:56:36,459
+I can see that it's a straight line.
+
+701
+00:56:37,299 --> 00:56:39,505
+The seahorse motif is curved.
+
+702
+00:56:42,011 --> 00:56:43,671
+It goes like this.
+
+703
+00:56:44,639 --> 00:56:48,089
+You can't really tell until you look at it
+
+704
+00:56:49,434 --> 00:56:51,640
+right down those lines, but...
+
+705
+00:56:55,439 --> 00:56:56,684
+There is a curvature in there.
+
+706
+00:56:56,774 --> 00:56:59,940
+And there's really no logical explanation
+for that
+
+707
+00:57:01,278 --> 00:57:04,029
+unless he was using something like this.
+
+708
+00:57:06,449 --> 00:57:10,944
+Tim calls that bend in the seahorse pattern
+the "seahorse smile."
+
+709
+00:57:11,369 --> 00:57:14,204
+It's a flaw in Vermeer's painting.
+
+710
+00:57:14,289 --> 00:57:20,160
+A mistake that nobody noticed for 350 years,
+and then Tim almost made the same mistake.
+
+711
+00:57:20,252 --> 00:57:26,170
+Tim is not looking for something
+that will duplicate Vermeer's mistake.
+
+712
+00:57:26,966 --> 00:57:29,883
+You know,
+he doesn't know Vermeer's mistake is there.
+
+713
+00:57:29,968 --> 00:57:33,135
+That's either a remarkable coincidence
+
+714
+00:57:33,221 --> 00:57:38,013
+or Vermeer was using Tim's machine,
+or something very much like Tim's machine
+
+715
+00:57:38,100 --> 00:57:39,215
+to do his painting.
+
+716
+00:57:39,310 --> 00:57:42,808
+As Hockney said, paintings are documents,
+
+717
+00:57:42,896 --> 00:57:44,972
+and here's a little bit of evidence.
+
+718
+00:58:39,527 --> 00:58:42,397
+Today I painted the seahorse motif.
+
+719
+00:58:42,488 --> 00:58:47,113
+It was a lot of work. I couldn't really sit here
+for more than 15, 20 minutes at a time.
+
+720
+00:58:47,575 --> 00:58:50,113
+Your back just gets extremely tense.
+
+721
+00:58:50,369 --> 00:58:56,869
+I tried to sit in the most relaxed position
+I could find, which is like this.
+
+722
+00:58:58,376 --> 00:59:03,452
+It's just really nerve-wracking, meticulous,
+demanding work.
+
+723
+00:59:03,547 --> 00:59:07,129
+I'm not looking forward
+to doing the rest of the instrument,
+
+724
+00:59:07,217 --> 00:59:09,090
+but at least I know it's doable.
+
+725
+01:00:10,478 --> 01:00:14,427
+What I painted today is maybe, I expect
+
+726
+01:00:14,523 --> 01:00:19,480
+will turn out to be the hardest part
+of the painting, physically, to do.
+
+727
+01:02:02,780 --> 01:02:03,859
+Man.
+
+728
+01:02:21,171 --> 01:02:25,547
+Well, yeah this is going to be short
+because it's about 40 degrees in here.
+
+729
+01:02:25,633 --> 01:02:30,709
+So Karl and I came in here this morning,
+and looked at each other, like,
+
+730
+01:02:32,555 --> 01:02:35,556
+"No." You know, it's really cold in here.
+
+731
+01:02:35,975 --> 01:02:41,313
+So I go, "Wait, I've got this heater
+in the garage that I never assembled."
+
+732
+01:02:41,396 --> 01:02:45,892
+"I got it for Christmas a few years ago,
+it's one of those patio heaters."
+
+733
+01:02:48,027 --> 01:02:51,727
+So, Karl said,
+"Hey, I'll put it together, let's go get it."
+
+734
+01:02:52,405 --> 01:02:55,489
+So we went and got it, and put it together,
+it's over there.
+
+735
+01:02:55,575 --> 01:02:59,738
+And fired it up and it worked great.
+It's nice and toasty, you know?
+
+736
+01:03:00,287 --> 01:03:02,860
+Karl was sittin' over there with his computer,
+
+737
+01:03:02,956 --> 01:03:09,124
+and I said, "Hey, look up on there
+to see if it's safe to use these indoors."
+
+738
+01:03:12,464 --> 01:03:14,124
+And Karl looks up and says,
+
+739
+01:03:14,215 --> 01:03:18,212
+"Yeah, you know it says here
+it's absolutely not safe to use indoors."
+
+740
+01:03:19,261 --> 01:03:23,093
+And I said, "Okay. Well, let's just run it"
+
+741
+01:03:24,140 --> 01:03:27,094
+"and we'll be careful, okay?"
+
+742
+01:03:27,185 --> 01:03:33,352
+"So if we notice any symptoms
+of carbon monoxide poisoning, you know,"
+
+743
+01:03:33,440 --> 01:03:35,562
+"we'll shut it off."
+
+744
+01:03:35,650 --> 01:03:40,940
+So I start painting, and I actually painted
+an elephant on The Music Lesson.
+
+745
+01:03:41,780 --> 01:03:45,860
+I don't know why I put it there,
+but it seemed like a good idea at the time.
+
+746
+01:03:45,950 --> 01:03:49,947
+Karl actually, he put his head down,
+
+747
+01:03:51,538 --> 01:03:53,614
+and he said, "I need a nap."
+
+748
+01:03:53,707 --> 01:03:56,280
+I said, "What did you say?"
+He said, "I need a nap."
+
+749
+01:03:56,376 --> 01:04:00,539
+I said, "Okay, let's leave right now."
+
+750
+01:04:01,964 --> 01:04:04,122
+"Let's shut this thing off and go get lunch."
+
+751
+01:04:04,216 --> 01:04:06,753
+And on the way to lunch, driving to lunch,
+
+752
+01:04:06,843 --> 01:04:09,879
+everything sort of cleared up again,
+you know, we were in a fog.
+
+753
+01:04:09,970 --> 01:04:11,346
+So anyway, that was a bad idea.
+
+754
+01:04:57,802 --> 01:04:59,711
+It was kind of a weird day.
+
+755
+01:05:01,347 --> 01:05:04,550
+I came in and started painting
+this lower cushion,
+
+756
+01:05:04,641 --> 01:05:08,425
+and sort of a wave of revulsion
+swept over me.
+
+757
+01:05:10,771 --> 01:05:15,516
+I just wanted to do anything in the world
+but sit here and paint for some reason.
+
+758
+01:05:17,193 --> 01:05:19,601
+I don't know, just one of those things.
+
+759
+01:05:20,446 --> 01:05:24,230
+But I am pretty much ready
+for this painting to be finished.
+
+760
+01:05:26,368 --> 01:05:28,277
+If we weren't making a film, would I quit?
+
+761
+01:05:28,370 --> 01:05:32,497
+Yeah, I definitely would. Yeah.
+I'd find something else to do right now.
+
+762
+01:05:36,793 --> 01:05:40,921
+Well, yesterday
+when I was painting this chair, I was almost
+
+763
+01:05:44,216 --> 01:05:45,461
+repulsed by it.
+
+764
+01:05:45,551 --> 01:05:49,761
+I think maybe subconsciously
+I knew that it was wrong.
+
+765
+01:05:52,765 --> 01:05:57,510
+And it just didn't look like
+it belonged in the painting to me,
+
+766
+01:05:57,602 --> 01:06:00,603
+and I couldn't
+put my finger on the reason why.
+
+767
+01:06:01,397 --> 01:06:04,979
+And as I was trying to get to sleep last night,
+
+768
+01:06:05,067 --> 01:06:08,685
+I was just sort of laying there
+and I was visualizing that chair
+
+769
+01:06:08,778 --> 01:06:11,186
+and I could see it in my mind.
+
+770
+01:06:11,281 --> 01:06:14,447
+And I go,
+"You know, that's just the wrong blue."
+
+771
+01:06:15,909 --> 01:06:18,151
+"I should darken the legs."
+
+772
+01:06:19,579 --> 01:06:22,496
+The top of the chair
+can't possibly be tilted to the left.
+
+773
+01:06:22,582 --> 01:06:26,116
+It's like I'm seeing it
+and that can't possibly be right.
+
+774
+01:06:26,210 --> 01:06:29,495
+I realised that
+I had bumped the lens out of position
+
+775
+01:06:29,588 --> 01:06:32,671
+and that's why
+the chair's perspective was wrong.
+
+776
+01:06:33,299 --> 01:06:35,172
+It was totally a subconscious thing.
+
+777
+01:06:35,259 --> 01:06:41,131
+Maybe I do have an inner artist
+that knew that was wrong.
+
+778
+01:07:29,429 --> 01:07:34,256
+I thought that the rug would be
+a little more free-form painting.
+
+779
+01:07:34,350 --> 01:07:39,011
+But this rug is close enough
+to the optical equipment here
+
+780
+01:07:39,104 --> 01:07:42,686
+that I can clearly see all those little stitches.
+
+781
+01:07:42,774 --> 01:07:47,898
+And since I can see that, and since my rule
+is "paint what you see in the mirror,"
+
+782
+01:07:47,987 --> 01:07:50,275
+if I want to get that kind of detail,
+
+783
+01:07:50,364 --> 01:07:55,488
+I'm gonna have to
+sort of make like the harpsichord here
+
+784
+01:07:56,327 --> 01:07:58,284
+and just go for the detail.
+
+785
+01:08:28,062 --> 01:08:30,101
+So, another day, more dots.
+
+786
+01:08:30,189 --> 01:08:31,351
+Ditto yesterday.
+
+787
+01:08:31,857 --> 01:08:33,232
+Just painting more dots.
+
+788
+01:09:29,488 --> 01:09:33,153
+You know, it gets old painting this carpet.
+
+789
+01:10:03,976 --> 01:10:05,351
+Oh, my God.
+
+790
+01:10:12,733 --> 01:10:13,978
+We're on.
+
+791
+01:10:15,902 --> 01:10:19,271
+Okay, so I've been
+frantically running around here,
+
+792
+01:10:21,115 --> 01:10:22,775
+setting up lights.
+
+793
+01:10:27,078 --> 01:10:28,537
+And it shows.
+
+794
+01:10:30,581 --> 01:10:33,747
+Today is the denouement, of sorts.
+
+795
+01:10:34,543 --> 01:10:35,788
+The varnish job.
+
+796
+01:10:36,044 --> 01:10:40,670
+For the last several months
+I've been promising myself
+
+797
+01:10:40,756 --> 01:10:43,461
+that all would be better
+when the varnish went on.
+
+798
+01:10:43,551 --> 01:10:49,006
+Because as the paint dries,
+it gets light, it gets chalky, it desaturates.
+
+799
+01:10:49,097 --> 01:10:51,504
+I've been very anxious to do this.
+
+800
+01:10:53,684 --> 01:10:58,974
+I went along slowly with a small brush
+and finally I just grabbed a giant brush,
+
+801
+01:10:59,647 --> 01:11:03,230
+sloshed it in the varnish
+and just started going to town.
+
+802
+01:11:03,484 --> 01:11:06,650
+And everywhere I touched was magic.
+
+803
+01:11:09,322 --> 01:11:11,149
+It's pretty astounding.
+
+804
+01:11:20,456 --> 01:11:22,413
+Well, you know, today...
+
+805
+01:11:28,380 --> 01:11:31,001
+Today's the day I've been waiting for.
+
+806
+01:11:42,308 --> 01:11:43,636
+I'm sorry.
+
+807
+01:11:52,483 --> 01:11:54,523
+I can't believe it's finished.
+
+808
+01:11:58,697 --> 01:12:02,694
+We took Tim's painting back to England
+to show Hockney and Steadman.
+
+809
+01:12:05,661 --> 01:12:07,238
+Well, that's it.
+
+810
+01:12:14,585 --> 01:12:20,836
+So, you know, it's my first ambitious attempt
+at oil painting,
+
+811
+01:12:22,383 --> 01:12:25,586
+and that's kind of part of the experiment,
+that I'm not a painter,
+
+812
+01:12:25,678 --> 01:12:28,251
+but I was trying to show
+the power of the concept.
+
+813
+01:12:28,347 --> 01:12:29,426
+Yeah.
+
+814
+01:12:30,891 --> 01:12:33,049
+This is terrific, I must say.
+
+815
+01:12:33,268 --> 01:12:39,103
+We noticed this
+when we were doing our lens experiments.
+
+816
+01:12:39,439 --> 01:12:44,231
+We noticed
+that especially on these kind of cloths,
+
+817
+01:12:44,735 --> 01:12:48,400
+on the projection you saw every weave
+
+818
+01:12:48,489 --> 01:12:52,106
+that you couldn't in the real one,
+and you get that in Vermeer.
+
+819
+01:12:52,200 --> 01:12:54,738
+Now that's very, very effective.
+Anybody looking at this...
+
+820
+01:12:54,827 --> 01:12:57,579
+- I think this is better than Vermeer.
+- Better than Vermeer?
+
+821
+01:12:57,663 --> 01:13:01,114
+You do feel the weave of the carpet.
+
+822
+01:13:01,208 --> 01:13:02,618
+Yeah, you really do.
+
+823
+01:13:02,709 --> 01:13:04,417
+It looks actually woolly, doesn't it?
+
+824
+01:13:04,502 --> 01:13:06,044
+Amazing, actually.
+
+825
+01:13:07,671 --> 01:13:10,376
+It had to be something similar, it had to be.
+
+826
+01:13:10,716 --> 01:13:13,633
+I mean, there's no doubt
+that you've proved one thing, Tim,
+
+827
+01:13:13,718 --> 01:13:18,878
+that you can paint a painting
+of this degree of detail and precision in...
+
+828
+01:13:18,973 --> 01:13:22,804
+Well, it's not exactly a camera obscura,
+but it's an optical machine.
+
+829
+01:13:22,892 --> 01:13:26,557
+And that's really what I set out to prove,
+is that it could have been done that way.
+
+830
+01:13:26,646 --> 01:13:28,104
+Sure. I mean there's no doubt about that.
+
+831
+01:13:28,189 --> 01:13:30,311
+There's no way
+that it proves that Vermeer did.
+
+832
+01:13:30,399 --> 01:13:34,396
+That's the second question obviously, yes.
+Did Vermeer work that way?
+
+833
+01:13:34,486 --> 01:13:38,814
+Yeah, but it makes you rather convinced
+that's what he did.
+
+834
+01:13:38,906 --> 01:13:42,072
+I'm getting a little more convinced
+all the time.
+
+835
+01:13:42,242 --> 01:13:44,863
+I would say I'm about 90% there.
+
+836
+01:13:45,411 --> 01:13:50,653
+But, you know,
+if there was some historical record...
+
+837
+01:13:50,749 --> 01:13:54,793
+I mean, the idea
+that a painting isn't a historical record
+
+838
+01:13:54,878 --> 01:14:00,215
+is from literary people who seem to just
+not look at pictures and just read texts.
+
+839
+01:14:00,424 --> 01:14:02,250
+This is a document in itself.
+
+840
+01:14:02,342 --> 01:14:05,212
+I know people are going on
+about documents.
+
+841
+01:14:05,303 --> 01:14:08,506
+Paintings and drawings are documents,
+they tell you a great deal.
+
+842
+01:14:08,597 --> 01:14:11,930
+You've made a document
+that's proving something, it is.
+
+843
+01:14:12,017 --> 01:14:14,175
+It's fascinating.
+
+844
+01:14:14,686 --> 01:14:17,437
+I mean, you set out to do some research.
+
+845
+01:14:17,647 --> 01:14:22,806
+I think you've succeeded and, well,
+you've shown it's possible to do it.
+
+846
+01:14:23,985 --> 01:14:27,484
+- As I say, if you've recorded it very well...
+- Yeah, yeah.
+
+847
+01:14:27,572 --> 01:14:29,979
+I think it might disturb quite a lot of people.
+
+848
+01:14:30,074 --> 01:14:32,944
+- I certainly hope so.
+- Which is fine, that's fine. Why not?
+
+849
+01:14:51,383 --> 01:14:53,708
+My friend Tim painted a Vermeer.
+
+850
+01:14:54,386 --> 01:14:57,552
+In a warehouse, in San Antonio.
+
+851
+01:14:57,639 --> 01:14:59,465
+He painted a Vermeer.
+
+852
+01:15:00,933 --> 01:15:03,850
+And is Tim an artist, or is Tim an inventor?
+
+853
+01:15:04,061 --> 01:15:07,892
+I think the problem is not trying
+to pick one of those two for Tim to be,
+
+854
+01:15:07,981 --> 01:15:11,147
+but the problem is
+that we have that distinction.
+
+855
+01:15:12,359 --> 01:15:17,186
+What Tim has done
+is given us an image of Vermeer
+
+856
+01:15:17,280 --> 01:15:23,993
+as a man who is much more real,
+and in that way much more amazing.
+
+857
+01:15:25,662 --> 01:15:29,991
+I mean, unfathomable genius
+doesn't really mean anything.
+
+858
+01:15:30,666 --> 01:15:32,824
+Now he's a fathomable genius.
+
+859
+01:15:44,011 --> 01:15:48,672
+If there's any great merit in this picture
+as a work of art, it's Vermeer's.
+
+860
+01:15:49,515 --> 01:15:54,224
+It's Vermeer's composition
+and it's Vermeer's invention.
+
+861
+01:15:54,686 --> 01:15:58,434
+It's just been forgotten for 350 years.
+

@@ -1,0 +1,3335 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:03:01.21,00:03:04.04
+God save King Edward the Fourth!
+
+00:03:05.05,00:03:07.95
+Long live King Edward the Fourth!
+
+00:03:08.95,00:03:13.25
+May the king live forever!
+
+00:04:59.76,00:05:02.39
+Once more we sit[br]in England's royal throne...
+
+00:05:02.46,00:05:04.62
+repurchased[br]with the blood of enemies.
+
+00:05:04.70,00:05:06.76
+Hurrah!
+
+00:05:23.15,00:05:25.18
+Come hither, Bess.
+
+00:05:29.82,00:05:32.05
+And let me kiss my boy.
+
+00:05:35.23,00:05:37.16
+Young Ned...
+
+00:05:37.23,00:05:39.63
+for thee thine uncles and myself...
+
+00:05:39.70,00:05:42.30
+have in our armors watched[br]the winter's night...
+
+00:05:42.37,00:05:44.60
+went all afoot[br]in summer's scalding heat...
+
+00:05:44.67,00:05:47.07
+that thou mightst repossess[br]the crown in peace.
+
+00:05:47.14,00:05:50.08
+And from our labors,[br]thou shall reap the gain.
+
+00:05:51.08,00:05:53.64
+Clarence and Gloucester...
+
+00:05:53.72,00:05:55.84
+love my lovely queen.
+
+00:05:56.85,00:05:59.25
+And kiss your princely nephew,[br]Brothers both.
+
+00:06:00.25,00:06:02.85
+The duty that I owe unto Your Majesty...
+
+00:06:02.92,00:06:06.16
+I seal upon the lips of this sweet babe.
+
+00:06:08.23,00:06:10.42
+Thanks, noble Clarence.
+
+00:06:10.50,00:06:13.26
+And that I love the tree[br]from whence thou sprang'st...
+
+00:06:13.33,00:06:16.63
+witness the loving kiss[br]I give the fruit.
+
+00:06:17.64,00:06:19.61
+Worthy Brother, thanks.
+
+00:06:22.61,00:06:25.94
+And now what rests but that we spend[br]the time with stately triumphs...
+
+00:06:26.01,00:06:28.24
+mirthful comic shows...
+
+00:06:28.32,00:06:31.41
+such as befit the pleasure[br]of the court.
+
+00:06:32.49,00:06:34.85
+Sound drums and trumpets!
+
+00:06:34.92,00:06:37.45
+Farewell sour annoy...
+
+00:06:37.53,00:06:40.22
+for here, I hope,[br]begins our lasting joy.
+
+00:08:40.68,00:08:43.55
+Now is the winter of our discontent...
+
+00:08:43.62,00:08:46.31
+made glorious summer...
+
+00:08:46.39,00:08:50.02
+by this sun of York.
+
+00:08:50.09,00:08:52.96
+And all the clouds[br]that lowered upon our house...
+
+00:08:53.03,00:08:55.62
+in the deep bosom of the ocean...
+
+00:08:55.70,00:08:57.63
+buried.
+
+00:08:57.70,00:09:01.29
+Now are our brows[br]bound with victorious wreaths...
+
+00:09:01.37,00:09:04.70
+our bruised arms[br]hung up for monuments...
+
+00:09:04.77,00:09:08.47
+our stern alarums[br]changed to merry meetings...
+
+00:09:08.54,00:09:12.27
+our dreadful marches[br]to delightful measures.
+
+00:09:13.45,00:09:18.54
+Grim-visaged war[br]has smoothed his wrinkled front.
+
+00:09:18.62,00:09:21.25
+And now,[br]instead of mounting barbed steeds...
+
+00:09:21.32,00:09:24.49
+- to fright the souls of fearful adversaries...
+
+00:09:24.56,00:09:27.69
+he capers nimbly in a lady's chamber...
+
+00:09:27.76,00:09:30.79
+to the lascivious pleasing...
+
+00:09:30.87,00:09:32.86
+of a lute.
+
+00:09:35.10,00:09:39.23
+But I, that am not shaped[br]for sportive tricks...
+
+00:09:39.31,00:09:42.50
+nor made to court[br]an amorous looking-glass -
+
+00:09:42.58,00:09:46.21
+I, that am rudely stamped,[br]and want love's majesty...
+
+00:09:46.28,00:09:50.61
+to strut before[br]a wanton ambling nymph -
+
+00:09:50.69,00:09:53.68
+I, that am curtailed[br]of this fair proportion...
+
+00:09:53.75,00:09:56.52
+cheated of feature[br]by dissembling nature...
+
+00:09:57.73,00:10:00.66
+deformed, unfinished...
+
+00:10:00.73,00:10:05.72
+sent before my time[br]into this breathing world scarce half made up...
+
+00:10:05.80,00:10:08.56
+and that so lamely and unfashionable...
+
+00:10:08.64,00:10:12.20
+that dogs bark at me[br]as I halt by them.
+
+00:10:13.87,00:10:18.37
+Why, love forswore me[br]in my mother's womb.
+
+00:10:18.45,00:10:21.07
+And, for I should not deal[br]in her soft laws...
+
+00:10:21.15,00:10:24.05
+she did corrupt frail nature[br]with some bribe...
+
+00:10:24.12,00:10:27.85
+to shrimp mine arm up[br]like a withered shrub...
+
+00:10:27.92,00:10:30.45
+to heap an envious mountain[br]on my back...
+
+00:10:30.52,00:10:33.43
+to shape my legs of an unequal size...
+
+00:10:33.49,00:10:36.43
+to disproportion me in every part...
+
+00:10:36.50,00:10:40.46
+like to a chaos[br]or an unlicked bear whelp...
+
+00:10:40.53,00:10:43.40
+that carries no impression[br]like the dam!
+
+00:10:44.44,00:10:46.37
+Why...
+
+00:10:46.44,00:10:51.14
+I, in this weak piping time of peace...
+
+00:10:51.21,00:10:54.61
+have no delight to pass away the time...
+
+00:10:54.68,00:10:57.88
+unless to spy my shadow in the sun...
+
+00:10:57.95,00:11:01.44
+and descant on mine own deformity.
+
+00:11:04.06,00:11:09.12
+Then, since this earth affords[br]no joy to me...
+
+00:11:09.20,00:11:11.93
+but to command, to check...
+
+00:11:12.00,00:11:16.23
+to o'erbear such[br]as are of better person than myself...
+
+00:11:16.30,00:11:19.10
+I'll make my heaven to dream...
+
+00:11:20.81,00:11:23.37
+upon the crown...
+
+00:11:24.71,00:11:27.77
+and, whiles I live,[br]to account this world but hell...
+
+00:11:27.85,00:11:31.15
+until this misshaped trunk[br]that bears this head...
+
+00:11:31.22,00:11:34.15
+be round impaled with a glorious -
+
+00:11:36.16,00:11:38.13
+crown.
+
+00:11:39.26,00:11:41.29
+But yet I know not[br]how to get the crown...
+
+00:11:41.36,00:11:44.92
+for many lives[br]stand between me and home.
+
+00:11:45.00,00:11:47.80
+And I, like one lost in a thorny wood...
+
+00:11:47.87,00:11:50.96
+that rends the thorns[br]and is rent with the thorns...
+
+00:11:51.04,00:11:53.70
+seeking a way[br]and straying from the way...
+
+00:11:53.77,00:11:56.00
+not knowing how to find the open air...
+
+00:11:56.08,00:11:58.20
+but toiling desperately to find it out...
+
+00:11:58.28,00:12:01.15
+torment myself to catch[br]the English crown!
+
+00:12:01.22,00:12:03.78
+And from that torment[br]I will free myself...
+
+00:12:03.85,00:12:07.22
+or hew my way out with a bloody ax!
+
+00:12:12.89,00:12:14.95
+Why...
+
+00:12:15.03,00:12:17.46
+I can smile...
+
+00:12:17.53,00:12:20.33
+and murder whiles I smile...
+
+00:12:20.40,00:12:23.23
+and cry ''Content''[br]to that which grieves my heart...
+
+00:12:23.30,00:12:25.53
+and wet my cheeks[br]with artificial tears...
+
+00:12:25.61,00:12:28.80
+and frame my face to all occasions.
+
+00:12:32.18,00:12:36.01
+I'll drown more sailors[br]than the mermaid shall.
+
+00:12:36.08,00:12:38.98
+I'll play the orator as well as Nestor...
+
+00:12:39.05,00:12:41.85
+deceive more slyly than Ulysses could...
+
+00:12:41.92,00:12:44.82
+and, like a Sinon, take another Troy.
+
+00:12:44.89,00:12:47.49
+I can add colors to the chameleon...
+
+00:12:47.56,00:12:50.43
+change shapes with Proteus[br]for advantages...
+
+00:12:50.50,00:12:53.76
+and set the murderous Machiavel[br]to school!
+
+00:12:55.20,00:12:58.73
+Can I do this and cannot get a crown?
+
+00:13:02.68,00:13:05.47
+Tut, were it further off,[br]I'll pluck it down.
+
+00:13:20.56,00:13:23.59
+Meantime, I'll marry...
+
+00:13:23.66,00:13:25.79
+with the Lady Anne.
+
+00:13:29.24,00:13:31.23
+And here she comes...
+
+00:13:33.91,00:13:36.88
+lamenting her lost love...
+
+00:13:37.88,00:13:39.81
+Edward, prince of Wales...
+
+00:13:39.88,00:13:42.28
+whom I some small time since...
+
+00:13:42.35,00:13:45.68
+stabbed in my angry mood[br]at Tewksbury.
+
+00:13:45.75,00:13:50.28
+A sweeter and a lovelier gentleman[br]this spacious world cannot again afford.
+
+00:13:50.36,00:13:53.52
+And made her widow to a woeful bed...
+
+00:13:53.59,00:13:57.89
+that from his loins[br]no hopeful branch might spring...
+
+00:13:57.97,00:14:00.56
+to cross me from the golden time...
+
+00:14:01.64,00:14:03.63
+I look for.
+
+00:14:43.74,00:14:46.44
+Set down...
+
+00:14:46.51,00:14:49.11
+set down your honorable load...
+
+00:14:50.22,00:14:53.24
+whilst I awhile obsequiously lament...
+
+00:14:53.32,00:14:56.38
+the pale ashes[br]of the house of Lancaster.
+
+00:15:15.94,00:15:19.94
+Thou bloodless remnant[br]of that royal blood.
+
+00:15:23.08,00:15:27.32
+Be it lawful that I invocate thy ghost...
+
+00:15:27.39,00:15:30.85
+to hear the lamentations of poor Anne.
+
+00:15:35.13,00:15:37.06
+Lo...
+
+00:15:37.13,00:15:40.16
+in these windows[br]that let forth thy life...
+
+00:15:41.47,00:15:44.87
+I pour the helpless balm[br]of my poor eyes.
+
+00:15:48.61,00:15:52.74
+Cursed be the hand[br]that made these fatal holes!
+
+00:15:53.91,00:15:57.91
+Cursed be the heart[br]that had the heart to do it!
+
+00:15:57.99,00:16:01.89
+Cursed the blood[br]that let this blood from hence!
+
+00:16:04.49,00:16:07.95
+If ever he have wife,[br]let her be made...
+
+00:16:08.03,00:16:11.66
+more miserable[br]by the death of him...
+
+00:16:11.73,00:16:14.83
+than I am made...
+
+00:16:14.90,00:16:17.43
+by my young lord.
+
+00:16:17.50,00:16:20.47
+Aye, thee.
+
+00:16:49.80,00:16:53.03
+<i>Stay,you that bear the corse...</i>
+
+00:16:53.11,00:16:55.04
+and set it down.
+
+00:16:55.11,00:16:57.04
+What black magician[br]conjures up this fiend...
+
+00:16:57.11,00:16:59.05
+to stop devoted charitable deeds?
+
+00:16:59.11,00:17:02.74
+Villains, set down the corse, or, by Saint Paul,[br]I'll make a corse of him that disobeys.
+
+00:17:02.82,00:17:06.45
+- My lord, stand back, and let the coffin pass.[br]- Unmannered dog![br]Stand thou, when I command.
+
+00:17:06.52,00:17:08.45
+Advance thy halberd[br]higher than my breast...
+
+00:17:08.52,00:17:10.62
+or, by Saint Paul,[br]I'll strike thee to my foot...
+
+00:17:10.69,00:17:12.63
+and spurn upon thee, beggar,[br]for thy boldness.
+
+00:17:12.69,00:17:15.46
+What, do you tremble?[br]Are you all afraid?
+
+00:17:15.53,00:17:17.86
+Alas, I blame you not,[br]for you are mortal...
+
+00:17:17.93,00:17:20.92
+and mortal eyes[br]cannot endure the devil.
+
+00:17:21.00,00:17:23.27
+Avaunt, thou dreadful minister of hell!
+
+00:17:23.34,00:17:25.67
+Thou hadst but power[br]over his mortal body...
+
+00:17:25.74,00:17:28.67
+his soul thou canst not have,[br]therefore be gone.
+
+00:17:28.74,00:17:30.97
+Sweet saint, for charity,[br]be not so cursed.
+
+00:17:31.05,00:17:34.50
+Foul devil, for God's sake,[br]hence, and trouble us not.
+
+00:17:35.55,00:17:37.71
+If thou delight to view[br]thy heinous deed...
+
+00:17:37.79,00:17:41.95
+behold this pattern of thy butcheries.
+
+00:17:42.02,00:17:45.58
+Blush, blush,[br]thou lump of foul deformity.
+
+00:17:45.66,00:17:47.79
+Vouchsafe, divine perfection[br]of a woman...
+
+00:17:47.86,00:17:49.80
+of these supposed crimes,[br]to give me leave...
+
+00:17:49.86,00:17:51.85
+by circumstance, but to acquit myself.
+
+00:17:51.93,00:17:55.70
+- I did not kill your husband.[br]- Why, then he is alive.
+
+00:17:55.77,00:17:58.43
+O, he was gentle, mild and virtuous.
+
+00:17:58.51,00:18:02.34
+The fitter for the King of Heaven, that hath him,[br]for he was fitter for that place than earth.
+
+00:18:02.41,00:18:05.04
+And thou unfit for any place but hell.
+
+00:18:08.72,00:18:12.58
+Yes, one place else,[br]if you will hear me name it.
+
+00:18:12.65,00:18:14.99
+Some dungeon.
+
+00:18:15.99,00:18:18.08
+- Your bedchamber.
+
+00:18:30.54,00:18:33.34
+On now, good people,[br]with your holy load.
+
+00:19:21.52,00:19:23.49
+I'll have her...
+
+00:19:25.03,00:19:27.62
+but I will not keep her long.
+
+00:19:27.69,00:19:30.89
+What though I killed her husband...[br]and her father...
+
+00:19:30.96,00:19:33.02
+the readiest way to make[br]the wench amends...
+
+00:19:33.10,00:19:36.26
+is to become her husband and her father-[br]the which will I.
+
+00:19:36.34,00:19:39.03
+Not all so much for love...
+
+00:19:39.11,00:19:41.44
+as for another secret close intent...
+
+00:19:41.51,00:19:43.81
+by marrying her...
+
+00:19:43.88,00:19:45.87
+which I must reach unto.
+
+00:19:50.02,00:19:52.28
+But yet I run before my horse to market.
+
+00:19:53.29,00:19:55.45
+Clarence still breathes...
+
+00:19:56.52,00:19:59.01
+Edward still lives...
+
+00:19:59.09,00:20:01.22
+and reigns.
+
+00:20:01.30,00:20:03.46
+When they are gone...
+
+00:20:03.53,00:20:06.16
+then must I count my gains.
+
+00:20:12.04,00:20:14.41
+<i>Clarence, beware.</i>
+
+00:20:14.47,00:20:17.07
+<i>Thou keepest me from the light.</i>
+
+00:20:17.14,00:20:20.60
+<i>But I will plan a pitchy day for thee...</i>
+
+00:20:20.68,00:20:23.21
+<i>and I will buzz abroad</i>[br]<i>such prophecies...</i>
+
+00:20:23.28,00:20:26.34
+<i>that Edward shall be fearful</i>[br]<i>ofhis life.</i>
+
+00:20:26.42,00:20:29.18
+<i>And then, to purge his fear...</i>
+
+00:20:29.26,00:20:31.22
+<i>I'll be thy death.</i>
+
+00:21:28.78,00:21:30.72
+<i>Where is the duke of Clarence?</i>
+
+00:21:30.78,00:21:33.18
+<i>At hand, my lord.</i>[br]<i>He waits Your Highness'pleasure.</i>
+
+00:21:33.25,00:21:35.48
+<i>Let him be arraigned...</i>
+
+00:21:35.56,00:21:37.55
+<i>and brought before us.</i>
+
+00:21:44.46,00:21:46.66
+Plots have I laid...
+
+00:21:46.73,00:21:48.67
+inductions dangerous...
+
+00:21:48.74,00:21:52.47
+with lies well steeled[br]with weighty arguments...
+
+00:21:52.54,00:21:54.47
+by drunken prophecies...
+
+00:21:54.54,00:21:56.91
+libels... and dreams...
+
+00:21:56.98,00:21:59.88
+to set my brother Clarence[br]and the king...
+
+00:21:59.95,00:22:02.41
+in deadly hate[br]the one against the other.
+
+00:22:04.85,00:22:07.08
+<i>Oh, passing traitor...</i>
+
+00:22:07.15,00:22:09.09
+perjured and unjust!
+
+00:22:09.16,00:22:12.06
+What have I done that seems[br]disgracious in my brother's -
+
+00:22:12.13,00:22:14.39
+And if King Edward be as true and just...
+
+00:22:14.46,00:22:17.59
+as I am subtle, false and treacherous...
+
+00:22:17.66,00:22:20.66
+this day should Clarence[br]closely be mewed up...
+
+00:22:20.73,00:22:24.14
+about a prophecy,[br]which says that ''G''...
+
+00:22:24.20,00:22:27.14
+of Edward's heirs[br]the murderer shall be.
+
+00:22:28.58,00:22:32.53
+And if I fail not in my deep intent,[br]Clarence hath not another day to live.
+
+00:22:32.61,00:22:35.34
+What Clarence but a quicksand of deceit?
+
+00:22:35.42,00:22:37.38
+Away with him!
+
+00:22:51.47,00:22:53.49
+He cannot live...
+
+00:22:53.57,00:22:55.59
+I hope...
+
+00:22:55.67,00:22:59.54
+and must not die till George[br]be packed with post-horse up to heaven.
+
+00:23:01.04,00:23:04.10
+Dive, thoughts, down to my soul -[br]George Clarence comes.
+
+00:23:08.85,00:23:11.51
+- Brother![br]- Oh.
+
+00:23:11.59,00:23:13.52
+<i>Good day.</i>
+
+00:23:13.59,00:23:16.32
+What means this armed guard[br]that waits upon Your Grace?
+
+00:23:16.39,00:23:18.62
+His Majesty,[br]tendering my person's safety...
+
+00:23:18.69,00:23:21.18
+hath appointed this conduct[br]to convey me to the Tower.
+
+00:23:21.26,00:23:25.20
+- Upon what cause?[br]- Because my name is George.
+
+00:23:25.27,00:23:27.53
+Alas, milord,[br]that fault is none of yours.
+
+00:23:27.60,00:23:30.04
+He should, for that, commit your godfathers.
+
+00:23:30.10,00:23:32.20
+O, belike his majesty hath some intent...
+
+00:23:32.27,00:23:34.40
+that you shall be new-christened[br]in the Tower, eh?
+
+00:23:34.47,00:23:37.27
+Ah, but what's the matter, Clarence?
+
+00:23:37.34,00:23:39.97
+- May I know?[br]- Yea, Richard, when I know...
+
+00:23:40.05,00:23:42.07
+for I protest as yet I do not.
+
+00:23:42.15,00:23:44.08
+But as I can learn...
+
+00:23:44.15,00:23:47.38
+he hearkens[br]after prophecies and dreams.
+
+00:23:47.45,00:23:50.75
+And from the crossrow[br]plucks the letter ''G''...
+
+00:23:50.82,00:23:53.62
+and says a wizard told him that by ''G''...
+
+00:23:53.69,00:23:56.18
+his issue disinherited should be.
+
+00:23:56.26,00:23:58.70
+And, for my name of George[br]begins with ''G''...
+
+00:23:58.77,00:24:01.36
+it follows in his thoughts[br]that I am he.
+
+00:24:01.44,00:24:04.67
+These, as I learn,[br]and suchlike toys as these...
+
+00:24:04.74,00:24:07.87
+have moved His Highness[br]to commit me now.
+
+00:24:07.94,00:24:10.84
+Why, thus it is[br]when men are ruled by women.
+
+00:24:10.91,00:24:13.18
+'Tis not the king[br]that sends you to the Tower.
+
+00:24:13.25,00:24:15.58
+Our upstart queen -[br]his wife, Clarence, 'tis she...
+
+00:24:15.65,00:24:17.58
+that tempers him to this extremity.
+
+00:24:17.65,00:24:20.48
+Was it not she[br]and that good man of worship...
+
+00:24:20.55,00:24:22.49
+Anthony Rivers, her brother there...
+
+00:24:22.56,00:24:24.68
+that made him send[br]Lord Hastings to the Tower...
+
+00:24:24.76,00:24:26.95
+from whence this present day[br]he is delivered?
+
+00:24:27.03,00:24:29.89
+We are not safe, Clarence.[br]We are not safe.
+
+00:24:29.96,00:24:31.99
+I beseech Your Graces both[br]to pardon me.
+
+00:24:32.07,00:24:35.26
+His Majesty hath straitly given in charge[br]that no man shall have private conference...
+
+00:24:35.34,00:24:37.27
+of what degree soever[br]with your brother.
+
+00:24:37.34,00:24:39.40
+We know thy charge, Brackenbury,[br]and will obey.
+
+00:24:39.47,00:24:41.94
+We are the queen's abjects[br]and must obey.
+
+00:24:42.01,00:24:44.24
+Brother, farewell. I will unto the king...
+
+00:24:44.31,00:24:48.08
+and whatsoe'er you will employ me in,[br]I will perform it to enfranchise you.
+
+00:24:48.15,00:24:50.38
+Meantime, this deep disgrace[br]in brotherhood...
+
+00:24:50.45,00:24:52.38
+touches me deeper[br]than you can imagine.
+
+00:24:52.45,00:24:55.58
+- I know it pleaseth neither of us well.[br]- Well...
+
+00:24:55.66,00:24:57.71
+your imprisonment shall not be long.
+
+00:24:57.79,00:25:01.28
+I will deliver you,[br]or else lie for you.
+
+00:25:01.36,00:25:04.23
+- Meantime, have patience.[br]- I must perforce.
+
+00:25:05.23,00:25:07.22
+Farewell.
+
+00:25:21.98,00:25:25.35
+Go, tread the path[br]that thou shalt ne'er return.
+
+00:25:25.42,00:25:27.75
+Simple, plain Clarence.
+
+00:25:28.79,00:25:32.25
+I do love thee so,[br]that I will shortly send thy soul to heaven...
+
+00:25:32.33,00:25:34.69
+if heaven will take the present[br]at our hands.
+
+00:26:18.20,00:26:20.20
+Gentle Lady Anne...
+
+00:26:21.21,00:26:24.80
+is not the causer of the untimely death[br]of your brave prince...
+
+00:26:24.88,00:26:26.81
+as blameful as the executioner?
+
+00:26:26.88,00:26:31.65
+Thou art the cause...[br]and most accursed effect.
+
+00:26:31.72,00:26:34.78
+Your beauty[br]was the cause of that effect.
+
+00:26:35.96,00:26:39.41
+Your beauty,[br]which did haunt me in my sleep...
+
+00:26:39.49,00:26:41.55
+to undertake the death[br]of all the world...
+
+00:26:41.63,00:26:45.00
+so I might live one hour[br]in your sweet bosom.
+
+00:26:45.07,00:26:49.02
+If I thought that,[br]I tell thee, homicide...
+
+00:26:49.10,00:26:51.94
+these nails should rend that beauty[br]from my cheeks.
+
+00:26:52.01,00:26:53.94
+He that bereft thee, lady,[br]of thy husband...
+
+00:26:54.01,00:26:55.94
+did it to help thee to a better husband.
+
+00:26:56.01,00:26:58.00
+His better does not breathe[br]upon the earth.
+
+00:26:58.08,00:27:00.95
+Go to. He lives that loves you[br]better than he could.
+
+00:27:01.01,00:27:03.01
+Where is he?
+
+00:27:04.25,00:27:06.18
+Here.
+
+00:27:12.43,00:27:14.95
+Why dost thou spit...
+
+00:27:15.03,00:27:16.96
+at me?
+
+00:27:17.03,00:27:19.52
+Would it were mortal poison,[br]for thy sake.
+
+00:27:19.60,00:27:22.03
+Never came poison[br]from so sweet a place.
+
+00:27:22.10,00:27:25.00
+Never hung poison on a fouler toad.
+
+00:27:30.14,00:27:32.13
+Out of my sight.
+
+00:27:33.78,00:27:35.71
+Thou dost infect mine eyes.
+
+00:27:35.78,00:27:38.34
+Thine eyes, sweet lady,[br]have infected mine.
+
+00:27:39.35,00:27:43.29
+Those eyes of thine[br]from mine have drawn salt tears...
+
+00:27:43.36,00:27:46.35
+shamed their aspects[br]with store of childish drops.
+
+00:27:46.43,00:27:50.16
+These eyes that never shed[br]remorseful tear.
+
+00:27:50.23,00:27:53.79
+No. When thy warlike father,[br]like a child...
+
+00:27:53.87,00:27:56.73
+told the sad story[br]of my father's death...
+
+00:27:56.80,00:27:59.83
+and 20 times made pause[br]to sob and weep...
+
+00:27:59.91,00:28:02.43
+that all the standers-by[br]had wet their cheeks...
+
+00:28:02.51,00:28:05.00
+like trees bedashed with rain -
+
+00:28:06.01,00:28:07.95
+in that sad time...
+
+00:28:08.01,00:28:10.98
+my manly eyes[br]did scorn an humble tear.
+
+00:28:11.05,00:28:13.25
+And what these sorrows[br]could not thence bring forth...
+
+00:28:13.32,00:28:15.25
+thy beauty hath...
+
+00:28:15.32,00:28:18.09
+and made them blind[br]with weeping.
+
+00:28:22.46,00:28:25.23
+I never sued to friend nor enemy.
+
+00:28:25.30,00:28:27.99
+My tongue could never learn[br]sweet smoothing word.
+
+00:28:28.07,00:28:30.50
+But now thy beauty is proposed my fee.
+
+00:28:30.57,00:28:33.70
+My proud heart sues[br]and prompts my tongue to speak.
+
+00:28:35.64,00:28:38.37
+Teach not thy lip such scorn...
+
+00:28:38.45,00:28:41.18
+for it was made for kissing, lady...
+
+00:28:41.25,00:28:43.24
+not for such contempt.
+
+00:28:45.59,00:28:49.42
+If thy revengeful heart cannot forgive...
+
+00:28:49.49,00:28:52.08
+lo, here I lend thee[br]this sharp-pointed sword...
+
+00:28:52.16,00:28:56.12
+which if thou please to hide in this true breast[br]and let the soul forth that adoreth thee...
+
+00:28:56.20,00:28:59.39
+I lay it naked to the deadly stroke[br]and humbly beg the death upon my knee!
+
+00:28:59.47,00:29:02.03
+Nay, do not pause,[br]for I did kill Prince Edward...
+
+00:29:02.10,00:29:04.04
+but 'twas thy beauty that provoked me.
+
+00:29:04.10,00:29:06.63
+Nay, now dispatch.[br]'Twas I that stabbed your husband...
+
+00:29:06.71,00:29:09.90
+but 'twas thy heavenly face[br]that set me on.
+
+00:29:23.49,00:29:25.75
+Take up the sword again...
+
+00:29:25.83,00:29:28.02
+or take up me.
+
+00:29:31.77,00:29:35.70
+Arise, dissembler.
+
+00:29:36.74,00:29:39.00
+Though I wish thy death...
+
+00:29:39.07,00:29:41.63
+I will not be thy executioner.
+
+00:29:41.71,00:29:43.77
+<i>Then bid me kill myself,</i>[br]<i>and I will do it.</i>
+
+00:29:43.84,00:29:46.68
+- I have already.[br]- That was in thy rage.
+
+00:29:46.75,00:29:48.68
+Speak it again,[br]and, even with the word...
+
+00:29:48.75,00:29:51.22
+this hand,[br]which for thy love did kill thy love...
+
+00:29:51.28,00:29:53.72
+shall for thy love kill a far truer love.
+
+00:29:53.79,00:29:55.76
+To both their deaths[br]shalt thou be accessory.
+
+00:29:55.82,00:29:58.31
+- I would I knew thy heart.[br]- 'Tis figured in my tongue.
+
+00:29:58.39,00:30:00.83
+- I fear me both are false.[br]- Then never man was true.
+
+00:30:00.89,00:30:02.92
+Well, well...
+
+00:30:06.37,00:30:09.30
+put up your sword.
+
+00:30:09.37,00:30:11.96
+Say, then, my peace is made.
+
+00:30:12.04,00:30:14.01
+That shalt thou know hereafter.
+
+00:30:14.07,00:30:18.74
+- But shall I live in hope?[br]- All men, I hope, live so.
+
+00:30:18.81,00:30:21.80
+Vouchsafe to wear this ring.
+
+00:30:25.95,00:30:30.12
+To take... is not to give.
+
+00:30:31.66,00:30:33.75
+Look...
+
+00:30:33.83,00:30:37.13
+how my ring encompasseth thy finger.
+
+00:30:38.36,00:30:41.33
+Even so thy breast[br]encloseth my poor heart.
+
+00:30:42.67,00:30:44.64
+Wear both of them...
+
+00:30:44.70,00:30:46.73
+for both of them are thine.
+
+00:30:50.11,00:30:52.10
+Bid me farewell.
+
+00:31:58.65,00:32:01.44
+Was ever woman in this humor wooed?
+
+00:32:02.45,00:32:04.81
+Was ever woman in this humor won?
+
+00:32:13.29,00:32:15.32
+My dukedom to a widow's chastity...
+
+00:32:15.40,00:32:18.26
+I do mistake my person all this while.
+
+00:32:18.33,00:32:20.60
+Upon my life, she finds,[br]although I cannot...
+
+00:32:20.67,00:32:24.36
+myself to be a marvelous proper man.
+
+00:32:28.51,00:32:31.31
+I'll be at charges for a looking glass...
+
+00:32:31.38,00:32:33.78
+and entertain[br]some score or two of tailors...
+
+00:32:33.85,00:32:36.37
+to study fashions to adorn my body.
+
+00:32:37.38,00:32:40.32
+Since I am crept in favor with myself...
+
+00:32:40.39,00:32:43.79
+I will maintain it to some little cost.
+
+00:32:44.86,00:32:47.88
+Shine out, fair sun...
+
+00:32:47.96,00:32:50.56
+till I have bought a glass...
+
+00:32:50.63,00:32:53.29
+that I may see my shadow...
+
+00:32:53.37,00:32:55.36
+as I pass.
+
+00:33:21.49,00:33:24.22
+Have patience, madam.[br]There's no doubt His Majesty...
+
+00:33:24.30,00:33:26.60
+will soon recover[br]his accustomed health.
+
+00:33:26.67,00:33:29.29
+In that you brook it ill,[br]it makes him worse.
+
+00:33:29.37,00:33:32.57
+Therefore, for God's sake,[br]entertain good comfort...
+
+00:33:32.64,00:33:34.70
+and cheer His Grace...
+
+00:33:34.77,00:33:36.77
+with quick and merry words.
+
+00:33:36.84,00:33:38.83
+If he were dead,[br]what would betide of me?
+
+00:33:38.91,00:33:40.97
+No other harm but loss of such a lord.
+
+00:33:41.05,00:33:43.14
+The loss of such a lord includes all harm.
+
+00:33:43.22,00:33:46.88
+The heavens have blessed you with a goodly son[br]to be your comforter when he is gone.
+
+00:33:46.95,00:33:49.08
+Oh, he is young and his minority...
+
+00:33:49.16,00:33:51.62
+is put unto the trust[br]of Richard Gloucester-
+
+00:33:51.69,00:33:54.56
+a man that loves not me,[br]nor none of you.
+
+00:33:56.26,00:33:58.23
+Is it concluded he shall be protector?
+
+00:33:58.30,00:34:00.79
+It is intended, not concluded yet.
+
+00:34:00.87,00:34:03.93
+But so it must be[br]if the king miscarry.
+
+00:34:11.48,00:34:14.78
+This is a special warrant[br]for the duke of Clarence.
+
+00:34:14.85,00:34:17.15
+A summary order to deliver him...
+
+00:34:17.22,00:34:19.74
+to execution and the hand of death.
+
+00:35:01.66,00:35:03.60
+Which done...
+
+00:35:03.66,00:35:06.00
+God take King Edward to his mercy...
+
+00:35:06.07,00:35:08.63
+and leave the world for me...
+
+00:35:08.70,00:35:10.69
+to bustle in.
+
+00:36:06.73,00:36:08.75
+Oh.
+
+00:36:10.40,00:36:13.92
+Why looks Your Grace so heavily today?
+
+00:36:14.00,00:36:16.63
+Oh, I have passed a miserable night.
+
+00:36:19.64,00:36:23.94
+So full of ugly sights,[br]of ghastly dreams...
+
+00:36:25.31,00:36:27.84
+that as I am a Christian faithful man...
+
+00:36:27.91,00:36:30.78
+I would not spend[br]another such a night...
+
+00:36:30.85,00:36:34.22
+though 'twere to buy[br]a world of happy days...
+
+00:36:35.22,00:36:38.35
+so full of dismal terror was the time.
+
+00:36:38.42,00:36:40.89
+What was this dream?
+
+00:36:40.96,00:36:42.95
+I pray you tell it me.
+
+00:36:44.20,00:36:46.50
+Methought that I had broken[br]from the Tower...
+
+00:36:46.57,00:36:49.13
+and was embarked to cross to Burgundy.
+
+00:36:50.30,00:36:54.07
+And in my company,[br]my brother Gloucester...
+
+00:36:55.31,00:36:59.01
+who from my cabin tempted me[br]to walk upon the hatches.
+
+00:37:00.61,00:37:03.58
+Thence we looked towards England...
+
+00:37:03.65,00:37:06.24
+and cited up a thousand fearful times...
+
+00:37:06.32,00:37:09.81
+during the wars of York and Lancaster[br]that had befallen us.
+
+00:37:11.79,00:37:14.92
+As we paced along[br]upon the giddy footing of the hatches...
+
+00:37:15.96,00:37:18.59
+methought that Gloucester stumbled...
+
+00:37:19.67,00:37:22.16
+and, in falling...
+
+00:37:22.24,00:37:26.97
+struck me,[br]that thought to stay him...
+
+00:37:27.04,00:37:30.27
+overboard,[br]into the tumbling billows of the main.
+
+00:37:32.11,00:37:34.77
+Lord, Lord!
+
+00:37:34.85,00:37:38.31
+Methought what pain it was to drown.
+
+00:37:38.38,00:37:40.85
+What dreadful noise of water[br]in mine ears.
+
+00:37:40.92,00:37:44.82
+What ugly sights of death[br]within mine eyes.
+
+00:37:44.89,00:37:48.09
+Methought I saw[br]a thousand fearful wrecks...
+
+00:37:48.16,00:37:52.49
+1 0,000 men[br]that fishes gnawed upon...
+
+00:37:52.57,00:37:55.23
+wedges of gold,[br]great anchors, heaps of pearl...
+
+00:37:55.30,00:37:58.74
+inestimable stones,[br]unvalued jewels...
+
+00:37:58.80,00:38:00.83
+all scattered at the bottom of the sea.
+
+00:38:00.91,00:38:03.84
+Had you such leisure[br]in the time of death...
+
+00:38:03.91,00:38:06.43
+to gaze upon the secrets of the deep?
+
+00:38:08.48,00:38:11.42
+Methought I had,[br]and often did I strive...
+
+00:38:11.48,00:38:13.61
+to yield the ghost.
+
+00:38:13.69,00:38:16.92
+But still the envious flood[br]kept in my soul...
+
+00:38:16.99,00:38:20.76
+and would not let it forth[br]to find the empty, vast and wandering air...
+
+00:38:20.83,00:38:23.80
+but smothered it[br]within my panting bulk...
+
+00:38:23.86,00:38:27.53
+which almost burst[br]to belch it in the sea.
+
+00:38:27.60,00:38:30.30
+Awoke you not with this sore agony?
+
+00:38:30.37,00:38:34.20
+Oh, no, my dream[br]was lengthened after life.
+
+00:38:35.21,00:38:37.80
+Oh, then began the tempest to my soul.
+
+00:38:39.58,00:38:41.77
+I crossed, methought,[br]the melancholy flood...
+
+00:38:41.85,00:38:45.08
+with that grim ferryman[br]that poets write of...
+
+00:38:45.15,00:38:48.31
+into the kingdom of perpetual night.
+
+00:38:48.39,00:38:50.95
+The first that there[br]did greet my stranger soul...
+
+00:38:51.02,00:38:53.58
+was my great father-in-law,[br]renowned Warwick...
+
+00:38:53.66,00:38:55.59
+who cried aloud...
+
+00:38:55.66,00:39:00.43
+''What scourge for perjury[br]can this dark monarchy afford false Clarence?''
+
+00:39:02.87,00:39:05.00
+And so he vanished.
+
+00:39:06.01,00:39:09.77
+Then came wandering by[br]a shadow like an angel...
+
+00:39:09.84,00:39:13.01
+with bright hair dabbled with blood.
+
+00:39:13.08,00:39:15.91
+And he shrieked out aloud...
+
+00:39:15.98,00:39:19.14
+''Clarence is come![br]False, fleeting, perjured Clarence...
+
+00:39:19.22,00:39:21.88
+''that stabbed me in the field[br]by Tewksbury!
+
+00:39:21.95,00:39:25.55
+Seize on him, Furies![br]Take him to your torments!''
+
+00:39:28.43,00:39:32.02
+With that, methought[br]a legion of foul fiends environed me...
+
+00:39:32.10,00:39:35.53
+and howled in mine ears[br]such hideous cries...
+
+00:39:35.60,00:39:39.44
+that with the very noise[br]I trembling waked...
+
+00:39:42.21,00:39:45.23
+and for a season after...
+
+00:39:45.31,00:39:48.64
+could not believe[br]but that I was in hell...
+
+00:39:48.71,00:39:52.21
+such terrible impression[br]made my dream.
+
+00:39:54.65,00:39:57.75
+No marvel, my lord,[br]that it affrighted you.
+
+00:39:57.82,00:40:00.85
+I promise you,[br]I am afraid to hear you tell it.
+
+00:40:02.53,00:40:04.93
+Oh, Brackenbury,[br]I have done those things...
+
+00:40:05.00,00:40:07.59
+which now bear evidence[br]against my soul...
+
+00:40:08.60,00:40:10.54
+for Edward's sake...
+
+00:40:11.54,00:40:13.56
+and see how he requites me.
+
+00:40:23.22,00:40:27.52
+Oh, God, if my deep prayers[br]will not appease thee...
+
+00:40:27.59,00:40:30.49
+but thou wilt be avenged[br]on my misdeeds...
+
+00:40:31.49,00:40:34.62
+yet execute thy wrath on me alone.
+
+00:40:35.66,00:40:40.10
+Oh, spare my guiltless wife[br]and my poor children.
+
+00:40:41.13,00:40:44.36
+I pray thee, gentle keeper, stay with me.
+
+00:40:45.57,00:40:47.90
+My soul is heavy...
+
+00:40:47.97,00:40:50.44
+and I fain would sleep.
+
+00:40:51.61,00:40:53.64
+I will, my lord.
+
+00:40:57.28,00:40:59.22
+God give Your Grace...
+
+00:41:00.22,00:41:02.19
+good rest.
+
+00:41:15.20,00:41:17.73
+<i>Good time of day unto Your Royal Grace.</i>
+
+00:41:19.27,00:41:22.07
+Oh, princely Buckingham. I kiss thy hand.
+
+00:41:22.14,00:41:25.30
+- Good morrow, Catesby.[br]- God make Your Grace as joyful as you have been.
+
+00:41:25.38,00:41:29.78
+But now the duke of Buckingham and I[br]have come from visiting His Majesty.
+
+00:41:29.85,00:41:33.95
+He hath revoked the order[br]for the execution of the duke, your brother.
+
+00:41:40.63,00:41:43.75
+What likelihood[br]of his amendment, lords?
+
+00:41:43.83,00:41:45.99
+But who comes here?
+
+00:42:09.79,00:42:11.81
+By heaven,[br]I think there's no man secure...
+
+00:42:11.89,00:42:14.36
+but the queen's kindred[br]and night-walking heralds...
+
+00:42:14.43,00:42:18.06
+that trudge betwixt the king[br]and Mistress Shore.
+
+00:42:18.13,00:42:22.43
+Heard you not what an humble suppliant[br]Lord Hastings was to her for his delivery?
+
+00:42:22.50,00:42:25.83
+Humbly complaining to her deity[br]got my Lord Chamberlain his liberty.
+
+00:42:25.91,00:42:28.00
+I'll tell you what.[br]I think it is our way...
+
+00:42:28.07,00:42:31.94
+if we will keep in favor with the king[br]to be her men and wear her livery.
+
+00:42:32.01,00:42:34.17
+The jealous fading queen[br]and Mistress Shore...
+
+00:42:34.25,00:42:36.74
+<i>since that our brother</i>[br]<i>dubbed them gentlewomen...</i>
+
+00:42:36.82,00:42:39.15
+<i>are mighty gossips in our monarchy.</i>
+
+00:42:43.99,00:42:45.92
+I beseech Your Graces[br]both to pardon me.
+
+00:42:45.99,00:42:49.43
+His Majesty hath straitly given in charge[br]that no man shall have private conference...
+
+00:42:49.50,00:42:51.43
+of what degree soever[br]with your brother.
+
+00:42:51.50,00:42:53.93
+Even so, an't please[br]your worship, Brackenbury...
+
+00:42:54.00,00:42:55.93
+you may partake of anything we say.
+
+00:42:56.00,00:42:59.73
+We speak no treason, man.[br]We say the king is wise and virtuous...
+
+00:42:59.81,00:43:04.33
+and his noble queen[br]well struck in years, fair and not jealous.
+
+00:43:04.41,00:43:07.74
+We say that Shore's wife[br]hath a pretty foot...
+
+00:43:07.81,00:43:09.87
+a cherry lip, a bonny eye...
+
+00:43:09.95,00:43:13.11
+a passing pIeasing tongue[br]and that the queen's kindred are made gentIefoIks.
+
+00:43:13.19,00:43:15.12
+How say you, sir?[br]Can you deny all this?
+
+00:43:15.19,00:43:19.28
+- With this, my lord, myself have naught to do.[br]- Naught to do with Mistress Shore?
+
+00:43:19.36,00:43:23.45
+I tell thee, fellow, he that doth naught with her,[br]excepting one, were best to do it secretly, alone.
+
+00:43:23.53,00:43:26.02
+- What one, my lord?[br]- Her husband, knave. Wouldst thou betray me?
+
+00:43:26.10,00:43:28.33
+I beseech Your Graces both to pardon me...
+
+00:43:28.40,00:43:30.96
+and withal forbear all conference[br]with the duke of Clarence.
+
+00:43:31.04,00:43:34.03
+I cannot tell. The world is grown so bad...
+
+00:43:34.11,00:43:36.13
+that wrens may prey[br]where eagles dare not perch.
+
+00:43:36.21,00:43:39.41
+Since everyJack became a gentleman,[br]there's many a gentle person made a Jack.
+
+00:43:39.48,00:43:41.41
+But who comes here?
+
+00:43:41.48,00:43:43.41
+The new-delivered Hastings.
+
+00:43:43.48,00:43:45.81
+Good time of day[br]unto my gracious lord.
+
+00:43:45.88,00:43:47.82
+As much unto[br]my good Lord Chamberlain.
+
+00:43:47.89,00:43:49.98
+Well are you welcome to this open air.
+
+00:43:50.06,00:43:53.75
+- How hath your Iordship brooked imprisonment?[br]- With patience, good Catesby, as prisoners must.
+
+00:43:53.83,00:43:55.76
+- My lord.[br]- Farewell, good Brackenbury.
+
+00:43:55.83,00:43:59.73
+But I shall live, my lord, to give them thanks[br]that were the cause of my imprisonment.
+
+00:43:59.80,00:44:02.10
+No doubt, no doubt.[br]And so shall Clarence, too.
+
+00:44:02.17,00:44:04.16
+For they that were[br]your enemies are his...
+
+00:44:04.24,00:44:06.20
+and have prevailed[br]as much on him as you.
+
+00:44:06.27,00:44:08.60
+More pity that the eagle[br]should be mewed...
+
+00:44:08.67,00:44:11.47
+while kites and buzzards[br]prey at liberty.
+
+00:44:11.54,00:44:14.77
+- What news abroad?[br]- No news so bad abroad as this at home.
+
+00:44:14.85,00:44:18.61
+The king is sickly, weak and melancholy,[br]and his physicians fear him mightily.
+
+00:44:18.68,00:44:20.85
+Now, by Saint Paul,[br]that news is bad indeed.
+
+00:44:20.92,00:44:23.65
+Hmm. He hath kept an evil diet long...
+
+00:44:23.72,00:44:26.32
+and overmuch consumed[br]his royal person.
+
+00:44:27.63,00:44:31.08
+'Tis very grievous to be thought upon.
+
+00:44:31.16,00:44:33.15
+Where is he, Catesby,[br]in his bed?
+
+00:44:33.23,00:44:35.53
+- He is.[br]- God grant him health.
+
+00:44:37.94,00:44:40.03
+- Did you confer with him?[br]- We did, my lord...
+
+00:44:40.11,00:44:44.06
+and he desires to make atonement[br]betwixt the duke of Gloucester[br]and the brothers of the queen.
+
+00:44:44.14,00:44:46.17
+And betwixt them and you,[br]my good Lord Chamberlain...
+
+00:44:46.25,00:44:48.18
+and sent to warn you[br]to his royal presence.
+
+00:44:48.25,00:44:50.18
+They do me wrong...
+
+00:44:50.25,00:44:52.44
+and I will not endure it.
+
+00:44:52.52,00:44:54.49
+Who are they[br]that complain unto the king...
+
+00:44:54.55,00:44:57.02
+that I, forsooth, am stern[br]and love them not?
+
+00:44:57.09,00:45:01.36
+By holy Paul, they love His Grace but lightly[br]that fill his ears with such dissentious rumors.
+
+00:45:01.43,00:45:03.52
+Because I cannot flatter[br]and speak fair...
+
+00:45:03.60,00:45:06.86
+smile in men's faces,[br]smooth, deceive and cog...
+
+00:45:06.93,00:45:09.03
+duck with French nods[br]and apish courtesy...
+
+00:45:09.10,00:45:11.04
+I must be held a rancorous enemy.
+
+00:45:11.10,00:45:13.73
+Cannot a plain man[br]live and think no harm...
+
+00:45:13.81,00:45:16.33
+but thus his simple truth[br]must be abused...
+
+00:45:16.41,00:45:18.74
+by silken, sly, insinuating Jacks?
+
+00:45:18.81,00:45:22.71
+- To whom in all this presence speaks Your Grace?[br]- To thee, that hast nor honesty nor grace.
+
+00:45:22.78,00:45:25.41
+When have I injured thee?[br]When done thee wrong? Or thee? Or thee?
+
+00:45:25.48,00:45:27.92
+Or any of your faction?[br]A plague upon you all.
+
+00:45:27.99,00:45:30.72
+His Royal Grace, whom God preserve[br]better than you would wish...
+
+00:45:30.79,00:45:32.72
+cannot be quiet[br]scarce a breathing-while...
+
+00:45:32.79,00:45:35.02
+but you must trouble him[br]with lewd complaints.
+
+00:45:35.09,00:45:37.39
+Come, come, we know your meaning,[br]Brother Gloucester.
+
+00:45:37.46,00:45:39.90
+You envy my advancement[br]and my friends'.
+
+00:45:39.97,00:45:41.90
+God grant we never may have[br]need of you!
+
+00:45:41.97,00:45:44.46
+Meantime, God grants[br]that we have need of you.
+
+00:45:44.54,00:45:46.60
+Our brother is imprisoned[br]by your means...
+
+00:45:46.67,00:45:49.40
+myself disgraced and the nobility[br]held in contempt...
+
+00:45:49.48,00:45:52.14
+while great promotions[br]are daily given to ennoble those...
+
+00:45:52.21,00:45:54.81
+that scarce some two days since[br]were worth a noble.
+
+00:45:54.88,00:45:57.11
+By God who raised me[br]to this careful height...
+
+00:45:57.18,00:45:59.21
+from that contented hap[br]which I enjoyed...
+
+00:45:59.28,00:46:02.15
+I never did incense his majesty[br]against the duke of Clarence...
+
+00:46:02.22,00:46:04.92
+but have been an earnest advocate[br]to plead for him.
+
+00:46:04.99,00:46:08.65
+My lord, you do me shameful injury[br]falsely to draw me in these vile suspects.
+
+00:46:08.73,00:46:12.13
+You may deny that you were not the cause[br]of my Lord Hastings' late imprisonment.
+
+00:46:12.20,00:46:14.17
+- She may, my lord -[br]- She may, Lord Rivers.
+
+00:46:14.23,00:46:17.46
+Why, who knows not so?[br]She may do more, sir, than denying that.
+
+00:46:17.54,00:46:21.06
+She may help you to many fair preferments[br]and then deny her aiding hand therein...
+
+00:46:21.14,00:46:23.17
+and lay those honors[br]on your high desert.
+
+00:46:23.24,00:46:26.08
+Ha! What may she not?[br]She may, aye, marry, may she -
+
+00:46:26.15,00:46:28.98
+- What, marry, may she?[br]- ''What, marry, may she?'' Marry with a king...
+
+00:46:29.05,00:46:30.98
+a bachelor[br]and a handsome stripling, too.
+
+00:46:31.05,00:46:33.88
+I guess your grandam[br]had a worser match.
+
+00:46:33.95,00:46:36.32
+My lord of Gloucester,[br]I have too long borne...
+
+00:46:36.39,00:46:38.86
+your blunt upbraidings[br]and your bitter scoffs.
+
+00:46:38.92,00:46:40.89
+By heaven,[br]I will acquaint His Majesty...
+
+00:46:40.96,00:46:42.95
+with those gross taunts[br]I often have endured.
+
+00:46:43.03,00:46:46.99
+<i>What? Threat you me with telling of the king?</i>[br]<i>Tell him and spare not.</i>
+
+00:46:47.07,00:46:49.73
+Look, what I have said[br]I will avouch in presence of the king.
+
+00:46:49.80,00:46:53.50
+I dare adventure to be sent to the Tower.[br]'Tis time to speak, my pains are quite forgot.
+
+00:46:53.57,00:46:57.17
+I had rather be a country servant-maid[br]than a great queen, with this condition...
+
+00:46:57.24,00:47:00.14
+to be thus baited,[br]scorned and stormed at.
+
+00:47:00.21,00:47:02.51
+Small joy have I[br]in being England's queen.
+
+00:47:02.58,00:47:04.95
+Ere you were queen, aye,[br]or your husband king...
+
+00:47:05.02,00:47:06.95
+I was a packhorse[br]in his great affairs...
+
+00:47:07.02,00:47:10.39
+a weeder-out of his proud adversaries,[br]a liberal rewarder of his friends.
+
+00:47:10.46,00:47:12.75
+To royalize his blood I spilt mine own.
+
+00:47:12.83,00:47:15.23
+In all which time you[br]and your late husband...
+
+00:47:15.29,00:47:17.23
+together with his son Dorset here...
+
+00:47:17.30,00:47:20.06
+were factious for the house of Lancaster-[br]and, Rivers, so were you.
+
+00:47:20.13,00:47:23.93
+Let me put in your minds, if you forget,[br]what you have been ere this, and what you are.
+
+00:47:24.00,00:47:25.94
+Withal, what I have been,[br]and what I am.
+
+00:47:26.00,00:47:28.23
+Poor Clarence did forsake[br]his father-in-law, Warwick-
+
+00:47:28.31,00:47:30.47
+Aye, and forswore himself-[br]which Jesu pardon -
+
+00:47:30.54,00:47:32.48
+to fight on Edward's party[br]for the crown.
+
+00:47:32.54,00:47:35.04
+And for his meed,[br]poor lord, he is mewed up.
+
+00:47:35.11,00:47:37.27
+I would to God[br]my heart were flint, like Edward's...
+
+00:47:37.35,00:47:39.28
+or Edward's soft and pitiful,[br]like mine.
+
+00:47:39.35,00:47:41.29
+I am too childish-foolish[br]for this world.
+
+00:47:41.35,00:47:43.82
+My lord of Gloucester,[br]in those busy days...
+
+00:47:43.89,00:47:45.91
+which here you urge[br]to prove us enemies...
+
+00:47:45.99,00:47:48.59
+we followed then our lord,[br]our lawful king.
+
+00:47:48.66,00:47:51.82
+So should we you,[br]if you should be our king.
+
+00:47:51.90,00:47:53.92
+If I should be?[br]I'd rather be a peddler.
+
+00:47:54.00,00:47:56.09
+Far be it from my heart,[br]the thought thereof.
+
+00:47:56.17,00:47:58.10
+As little joy, my lord,[br]as you suppose...
+
+00:47:58.17,00:48:01.26
+you should enjoy,[br]were you this country's king...
+
+00:48:01.34,00:48:04.31
+as little I enjoy,[br]being the queen thereof.
+
+00:48:04.38,00:48:06.31
+Dispute not with him.[br]He is lunatic.
+
+00:48:06.38,00:48:08.61
+Peace, Master Marquess,[br]you are malapert.
+
+00:48:08.68,00:48:10.91
+Your fire-new stamp of honor[br]is scarce current.
+
+00:48:10.98,00:48:15.58
+- What doth he say, my lord of Stanley?[br]- Nothing that I respect, my gracious lord.
+
+00:48:15.65,00:48:18.65
+They that stand high[br]have many blasts to shake them.
+
+00:48:18.72,00:48:21.75
+And when they fall,[br]they dash themselves to pieces.
+
+00:48:21.83,00:48:24.76
+Good counsel.[br]Marry, learn it, Marquess. Learn it.
+
+00:48:24.83,00:48:28.39
+- It touches you, my lord, as much as me.[br]- Aye...
+
+00:48:28.47,00:48:30.83
+and much more.
+
+00:48:30.90,00:48:33.87
+But I was born so high.
+
+00:48:33.94,00:48:35.91
+I was too hot to do somebody good...
+
+00:48:35.97,00:48:38.31
+that is too cold in thinking of it now.
+
+00:48:38.38,00:48:40.31
+Marry, as for Clarence,[br]he is well repaid.
+
+00:48:40.38,00:48:42.44
+He is franked up[br]to fatting for his pains.
+
+00:48:42.51,00:48:44.45
+God pardon them[br]that are the cause thereof.
+
+00:48:44.52,00:48:46.75
+A virtuous[br]and a Christian-like conclusion...
+
+00:48:46.82,00:48:48.75
+to pray for them[br]that have done wrong to us.
+
+00:48:48.82,00:48:50.98
+So do I ever,[br]being well-advised.
+
+00:48:51.06,00:48:53.32
+For had I cursed now,[br]I had cursed myself.
+
+00:48:53.39,00:48:57.33
+Madam, His Majesty doth call for you[br]and for Your Grace and you, my noble lords.
+
+00:48:57.40,00:49:00.19
+Catesby, we come.[br]Lords, will you go with us?
+
+00:49:00.27,00:49:02.39
+Madam, we will attend Your Grace.
+
+00:49:03.44,00:49:05.77
+Go you before, and I will follow you.
+
+00:49:08.67,00:49:09.64
+But soft...
+
+00:49:09.64,00:49:11.04
+But soft...
+
+00:49:11.11,00:49:13.24
+here come my executioners.
+
+00:49:18.05,00:49:21.35
+How now, my hardy, stout[br]resolved mates!
+
+00:49:21.42,00:49:23.41
+Are you now going[br]to dispatch this thing?
+
+00:49:23.49,00:49:26.95
+We are, milord, and come to have the warrant[br]that we may be admitted where he is.
+
+00:49:27.03,00:49:29.55
+Well thought upon.[br]I have it here about me.
+
+00:49:29.63,00:49:31.62
+Uh -
+
+00:49:35.77,00:49:39.40
+But, sirs, be sudden in the execution...
+
+00:49:39.47,00:49:42.80
+withal obdurate,[br]do not hear him plead...
+
+00:49:42.87,00:49:46.87
+for Clarence is well-spoken and perhaps[br]may move your hearts to pity if you mark him.
+
+00:49:46.95,00:49:49.71
+Tush! Fear not, milord,[br]we will not stand to prate.
+
+00:49:49.78,00:49:51.75
+Talkers are no good doers.
+
+00:49:51.82,00:49:54.34
+Be assured we come to use our hands[br]and not our tongues.
+
+00:49:54.42,00:49:58.38
+Your eyes drop millstones[br]when fools' eyes drop tears, eh?
+
+00:50:01.43,00:50:05.12
+I like you, lads. About your business straight.
+
+00:50:05.20,00:50:07.29
+- Go, go, dispatch.[br]- We will, my noble lord.
+
+00:50:14.64,00:50:17.04
+In God's name, who are you,[br]and how came you hither?
+
+00:50:17.11,00:50:19.81
+I would speak with Clarence,[br]and I came hither on my legs.
+
+00:50:19.88,00:50:22.61
+- Be you so brief?[br]- O, sir, 'tis better to be brief than tedious.
+
+00:50:22.68,00:50:25.12
+Show him our commission[br]and talk no more.
+
+00:50:31.29,00:50:35.09
+I am, in this, commanded to deliver[br]the noble duke of Clarence to your hands.
+
+00:50:36.33,00:50:40.92
+I will not reason what is meant thereby,[br]because I will be guiltless of the meaning.
+
+00:50:43.70,00:50:45.80
+Here is the key.
+
+00:50:45.87,00:50:48.93
+There lies the duke asleep.
+
+00:50:49.01,00:50:53.10
+I'll to His Majesty and certify His Grace[br]that thus I have resigned my charge to you.
+
+00:50:53.18,00:50:56.55
+You may, sir.[br]It is a point of wisdom. Fare you well.
+
+00:50:59.62,00:51:01.85
+<i>I know thy charge, Brackenbury...</i>
+
+00:51:01.92,00:51:03.91
+and will take it.
+
+00:51:38.32,00:51:41.45
+Clout him over the head[br]with the hilts of thy weapon...
+
+00:51:41.53,00:51:44.62
+and then chop him[br]in the malmsey butt in the next room.
+
+00:51:44.70,00:51:47.46
+Aye, make a sop of him.
+
+00:51:54.27,00:51:56.57
+Where art thou, keeper?
+
+00:52:00.25,00:52:02.61
+Give me a cup of wine.
+
+00:52:10.72,00:52:13.52
+You shall have wine enough,[br]my lord, anon.
+
+00:53:13.92,00:53:16.39
+Why, so.
+
+00:53:16.45,00:53:20.05
+Now have I done a good day's work.
+
+00:53:20.13,00:53:23.69
+You peers,[br]continue this united league.
+
+00:53:23.76,00:53:26.36
+Madam, my mother...
+
+00:53:26.43,00:53:28.83
+I do crave your blessing.
+
+00:53:28.90,00:53:32.03
+I every day expect a summons[br]from my Redeemer...
+
+00:53:32.10,00:53:34.04
+to redeem me hence...
+
+00:53:34.11,00:53:36.04
+and now...
+
+00:53:36.11,00:53:38.41
+in peace my soul[br]shall part for heaven...
+
+00:53:38.48,00:53:42.28
+since I have left my friends[br]at peace on earth.
+
+00:53:42.35,00:53:45.01
+Rivers, Hastings...
+
+00:53:46.05,00:53:48.02
+take each other's hand.
+
+00:53:48.09,00:53:50.55
+Dissemble not your hatred...
+
+00:53:50.62,00:53:52.92
+swear your love.
+
+00:53:52.99,00:53:56.29
+By heaven, my heart is purged[br]from grudging hate...
+
+00:53:56.36,00:53:59.13
+and with my hand I seal[br]my true heart's love.
+
+00:53:59.20,00:54:02.10
+So thrive I, as I truly swear the like.
+
+00:54:02.17,00:54:05.23
+Take heed you dally not[br]before your king...
+
+00:54:05.30,00:54:08.14
+lest he that is[br]the supreme King of Kings...
+
+00:54:08.21,00:54:10.14
+confound your hidden falsehood...
+
+00:54:10.21,00:54:12.70
+and award either of you[br]to be the other's end.
+
+00:54:12.78,00:54:15.44
+So prosper I,[br]as I swear perfect love.
+
+00:54:15.51,00:54:18.41
+And I, as I love Hastings[br]with my heart.
+
+00:54:19.78,00:54:23.52
+Madam, yourself are not[br]exempt in this...
+
+00:54:23.59,00:54:25.61
+nor you, young Dorset -
+
+00:54:25.69,00:54:27.82
+Buckingham, nor you.
+
+00:54:27.89,00:54:31.33
+You have been factious[br]one against the other.
+
+00:54:31.40,00:54:35.23
+Wife, love Lord Hastings.
+
+00:54:36.57,00:54:39.13
+Let him kiss your hand.
+
+00:54:39.20,00:54:42.33
+And what you do, do it unfeignedly.
+
+00:54:42.41,00:54:47.07
+There, Hastings. I will never more[br]remember our former hatred...
+
+00:54:47.15,00:54:49.31
+so thrive I and mine.
+
+00:54:50.32,00:54:52.48
+Dorset, embrace him.
+
+00:54:54.55,00:54:56.92
+Hastings, love Lord Marquess.
+
+00:55:03.03,00:55:06.96
+This interchange of love, I here protest,[br]upon my part shall be inviolable.
+
+00:55:07.03,00:55:09.66
+And so swear I, my lord.
+
+00:55:09.73,00:55:12.90
+Now, princely Buckingham,[br]seal thou this league...
+
+00:55:12.97,00:55:16.43
+with thy embracement[br]to my wife's allies...
+
+00:55:16.51,00:55:18.81
+and make me happy in your unity.
+
+00:55:18.88,00:55:22.40
+Whenever Buckingham doth turn[br]his hate on you or yours...
+
+00:55:22.48,00:55:26.51
+God punish me with hate in those[br]where I expect most love.
+
+00:55:27.59,00:55:30.25
+When I have most need[br]to employ a friend...
+
+00:55:30.32,00:55:32.42
+and most assured[br]that he is a friend...
+
+00:55:32.49,00:55:35.52
+deep, hollow, treacherous[br]and full of guile...
+
+00:55:35.59,00:55:37.53
+be he unto me.
+
+00:55:37.60,00:55:39.53
+This do I beg of God...
+
+00:55:39.60,00:55:43.29
+when I am cold in zeal[br]to you or yours.
+
+00:55:44.80,00:55:47.97
+<i>Apleasing cordial, princely Buckingham...</i>
+
+00:55:48.04,00:55:51.17
+<i>is this thy vow unto my sickly heart.</i>
+
+00:55:52.24,00:55:55.21
+There wanteth now[br]our brother Gloucester here...
+
+00:55:55.28,00:55:57.94
+to make the perfect period[br]of this peace.
+
+00:55:58.95,00:56:02.55
+And in good time here comes the noble duke.
+
+00:56:02.62,00:56:05.95
+Good morrow[br]to my sovereign king... and queen...
+
+00:56:06.02,00:56:08.55
+and, princely peers,[br]a happy time of day.
+
+00:56:08.63,00:56:11.12
+Happy, indeed,[br]as we have spent the day.
+
+00:56:11.20,00:56:13.22
+Brother, we have done[br]deeds of charity...
+
+00:56:13.30,00:56:15.32
+made peace of enmity,[br]fair love of hate...
+
+00:56:15.40,00:56:17.87
+between these swelling[br]wrong-incensed peers.
+
+00:56:17.94,00:56:20.56
+A blessed labor,[br]my most sovereign liege.
+
+00:56:23.44,00:56:25.74
+Among this princely heap...
+
+00:56:25.81,00:56:28.71
+if any here,[br]by false intelligence...
+
+00:56:28.78,00:56:31.87
+or wrong surmise,[br]hold me a foe -
+
+00:56:31.95,00:56:34.08
+If I unwittingly, or in my rage...
+
+00:56:34.15,00:56:37.45
+have aught committed that is hardly borne[br]by any in this presence...
+
+00:56:37.52,00:56:40.82
+I desire to reconcile me[br]to his friendly peace.
+
+00:56:40.89,00:56:43.16
+'Tis death to me to be at enmity.
+
+00:56:43.23,00:56:46.93
+I hate it,[br]and desire all good men's love.
+
+00:56:47.00,00:56:49.87
+First, madam,[br]I entreat true peace of you...
+
+00:56:49.93,00:56:52.84
+which I will purchase[br]with my duteous service.
+
+00:56:54.27,00:56:56.24
+Of you,[br]my noble cousin Buckingham...
+
+00:56:56.31,00:56:58.67
+if ever any grudge[br]were lodged between us -
+
+00:56:58.74,00:57:03.44
+of you, <i>Lord</i> Rivers,[br]and, <i>Lord</i> Grey, of you -
+
+00:57:03.52,00:57:06.92
+of you, my noble Marquess,[br]<i>lord</i> of Dorset -
+
+00:57:06.99,00:57:09.32
+that all without desert[br]have frowned on me -
+
+00:57:09.39,00:57:12.75
+dukes, earls, lords, gentlemen...
+
+00:57:12.82,00:57:14.76
+indeed, of all.
+
+00:57:14.83,00:57:18.42
+I do not know that Englishman alive[br]with whom my soul is any jot at odds...
+
+00:57:18.50,00:57:20.90
+more than the infant[br]that is born tonight.
+
+00:57:22.27,00:57:24.46
+I thank my God for my humility.
+
+00:57:24.54,00:57:27.44
+A holy day[br]shall this be kept hereafter.
+
+00:57:27.51,00:57:30.53
+I would to God all strifes[br]were well compounded.
+
+00:57:30.61,00:57:34.10
+My sovereign liege,[br]I do beseech Your Majesty...
+
+00:57:34.18,00:57:36.37
+to take our brother Clarence[br]to Your Grace.
+
+00:57:36.45,00:57:38.38
+<i>Why, madam...</i>
+
+00:57:38.45,00:57:42.55
+have I offered love for this[br]to be so flouted in this royal presence?
+
+00:57:42.62,00:57:46.08
+Who knows not[br]that the gentle duke... is dead?
+
+00:57:47.76,00:57:50.23
+You do him injury to scorn his corse.
+
+00:57:55.60,00:57:58.13
+Who knows not he is dead?
+
+00:57:58.20,00:58:01.93
+- Who knows he is?[br]- All-seeing heaven, what a world is this!
+
+00:58:11.28,00:58:14.08
+Look I so pale, Lord Dorset,[br]as the rest?
+
+00:58:14.15,00:58:16.64
+Aye, my good lord...
+
+00:58:16.72,00:58:20.71
+and no one in this presence[br]but his red color hath forsook his cheeks.
+
+00:58:21.73,00:58:25.56
+I-Is Clarence dead?[br]The order was reversed.
+
+00:58:25.63,00:58:30.62
+But he, poor soul, by your first order died,[br]and that a winged Mercury did bear.
+
+00:58:30.70,00:58:33.07
+Some tardy cripple[br]bore the countermand...
+
+00:58:33.14,00:58:36.04
+that came too lag to see him buried.
+
+00:58:38.71,00:58:41.47
+Who sued to me for him?
+
+00:58:42.58,00:58:47.18
+Who, in my rage, kneeled at my feet,[br]and bade me be advised?
+
+00:58:47.25,00:58:49.62
+Who spake of brotherhood?
+
+00:58:49.69,00:58:51.62
+Who spake of love?
+
+00:58:51.69,00:58:56.56
+Who told me how the poor soul did forsake[br]the mighty Warwick and did fight for me?
+
+00:58:56.63,00:58:59.96
+Who told me,[br]in the field by Tewksbury...
+
+00:59:00.03,00:59:02.47
+when Warwick had me down,[br]he rescued me...
+
+00:59:02.53,00:59:06.66
+and said,[br]''Dear Brother, live and be a king''?
+
+00:59:07.67,00:59:09.61
+Who told me...
+
+00:59:09.67,00:59:12.17
+when we both lay on the ground[br]frozen almost to death...
+
+00:59:12.24,00:59:15.47
+how he did lap me[br]even in his own garments...
+
+00:59:15.55,00:59:19.48
+and gave himself, all thin and naked,[br]to the numb, cold night?
+
+00:59:21.25,00:59:26.42
+All this from my remembrance[br]brutish wrath sinfully plucked...
+
+00:59:26.49,00:59:30.12
+and not a man of you[br]had so much grace to put it in my mind!
+
+00:59:30.19,00:59:32.19
+Oh, God!
+
+00:59:34.37,00:59:36.73
+I fear...
+
+00:59:36.80,00:59:39.60
+thy justice will take hold[br]on me, and you...
+
+00:59:39.67,00:59:41.66
+and mine, and yours for this.
+
+00:59:44.18,00:59:48.08
+Come, Hastings, help me to my bed.
+
+00:59:49.75,00:59:51.98
+Oh!
+
+00:59:52.05,00:59:54.21
+Poor Clarence!
+
+00:59:55.22,00:59:57.15
+This is the fruit of rashness.
+
+00:59:57.22,00:59:59.62
+Marked you not[br]how that the guilty kindred of the queen...
+
+00:59:59.69,01:00:01.85
+looked pale when they did hear[br]of Clarence' death?
+
+01:00:01.93,01:00:04.79
+Oh, my good Lord Stanley,[br]they did urge it still unto the king.
+
+01:00:04.86,01:00:06.63
+- God will revenge it.
+
+01:00:11.14,01:00:14.57
+Oh, who shall hinder me to wail and weep...
+
+01:00:14.64,01:00:18.74
+to chide my fortune[br]and torment myself?
+
+01:00:18.81,01:00:23.18
+Oh, for my husband,[br]for my dear Lord Edward.
+
+01:00:23.25,01:00:25.24
+Comfort, dear madam.[br]God is much displeased...
+
+01:00:25.32,01:00:27.41
+that you take[br]with unthankfulness his doing.
+
+01:00:27.49,01:00:29.58
+Madam, bethink you,[br]like a careful mother...
+
+01:00:29.65,01:00:31.85
+of the young prince of Wales.
+
+01:00:31.92,01:00:33.91
+Send straight for him.[br]Let him be crowned.
+
+01:00:33.99,01:00:35.93
+In him your comfort lives.
+
+01:00:35.99,01:00:39.19
+Drown desperate sorrow[br]in dead Edward's grave...
+
+01:00:39.26,01:00:41.79
+and plant your joys[br]in living Edward's throne.
+
+01:00:41.87,01:00:43.80
+Sister...
+
+01:00:43.87,01:00:45.80
+have comfort.
+
+01:00:45.87,01:00:49.86
+All of us have cause[br]to wail the dimming of our shining star...
+
+01:00:49.94,01:00:52.34
+but none may help our harms[br]by wailing them.
+
+01:00:52.41,01:00:55.64
+Madam my mother, I do cry you mercy.[br]I did not see Your Grace.
+
+01:00:55.71,01:00:58.38
+Most humbly on my knee,[br]I crave your blessing.
+
+01:00:58.45,01:01:00.75
+God bless thee[br]and put meekness in thy mind...
+
+01:01:00.82,01:01:03.75
+love, charity, obedience[br]and true duty.
+
+01:01:03.82,01:01:08.26
+Amen, and make me die a good old man.[br]That is the butt end of a mother's blessing.
+
+01:01:08.33,01:01:11.23
+I marvel that Her Grace[br]did leave it out.
+
+01:01:11.30,01:01:14.39
+You cloudy princes[br]and heart-sorrowing peers...
+
+01:01:14.47,01:01:17.13
+that bear this mutual[br]heavy load of moan...
+
+01:01:17.20,01:01:20.26
+now cheer each other[br]in each other's love.
+
+01:01:20.34,01:01:22.70
+The broken rancor[br]of your high-swoln hearts...
+
+01:01:22.77,01:01:25.83
+but lately splinted, knit[br]and joined together...
+
+01:01:25.91,01:01:29.31
+must gently be preserved,[br]cherished and kept.
+
+01:01:29.38,01:01:33.41
+Meseemeth good[br]that with some little train...
+
+01:01:33.48,01:01:36.01
+forthwith from Ludlow[br]the young prince be fetched...
+
+01:01:36.09,01:01:38.45
+hither to London[br]to be crowned our king.
+
+01:01:38.52,01:01:40.96
+Why with some <i>little</i> train,[br]my lord of Buckingham?
+
+01:01:41.03,01:01:42.96
+Marry, my lord,[br]lest by a multitude...
+
+01:01:43.03,01:01:45.72
+the new-healed wound of malice[br]should break out...
+
+01:01:45.80,01:01:47.92
+as well the fear of harm[br]as harm apparent...
+
+01:01:48.00,01:01:49.93
+in my opinion,[br]ought to be prevented.
+
+01:01:50.00,01:01:52.30
+I hope the king made peace[br]with all of us...
+
+01:01:52.37,01:01:54.67
+and the compact[br]is firm and true in me.
+
+01:01:54.74,01:01:57.80
+And so in me.[br]And so, I think, in all.
+
+01:01:57.88,01:01:59.81
+Yet, since it is but green...
+
+01:01:59.88,01:02:02.37
+it should be put[br]to no apparent likelihood of breach...
+
+01:02:02.45,01:02:06.28
+which haply by much company[br]might be urged.
+
+01:02:06.35,01:02:08.78
+Therefore I say[br]with noble Buckingham...
+
+01:02:08.85,01:02:11.55
+that it is meet so few[br]should fetch the prince.
+
+01:02:11.62,01:02:13.59
+- And so say I.[br]- Then be it so...
+
+01:02:13.66,01:02:15.59
+and go we to determine[br]who they shall be...
+
+01:02:15.66,01:02:17.59
+that straight shall post to Ludlow.
+
+01:02:17.66,01:02:21.29
+Madam, and you, my mother,[br]will you go to give your censures in this business?
+
+01:02:21.37,01:02:23.39
+With all our hearts.
+
+01:02:56.23,01:02:58.36
+My lord...
+
+01:02:58.44,01:03:03.14
+whoever journeys to the prince,[br]for God's sake, let not us two stay behind.
+
+01:03:04.14,01:03:06.24
+For by the way I'll sort occasion...
+
+01:03:06.31,01:03:09.61
+as index to the story[br]we late talked on...
+
+01:03:10.62,01:03:15.48
+to part the queen's[br]proud kindred from the prince.
+
+01:03:18.39,01:03:20.58
+My other self...
+
+01:03:20.66,01:03:23.13
+my counsel's consistory...
+
+01:03:23.19,01:03:26.10
+my oracle, my prophet.
+
+01:03:27.83,01:03:30.06
+My dear cousin...
+
+01:03:30.13,01:03:32.76
+I, like a child,[br]will go by thy direction.
+
+01:03:32.84,01:03:34.77
+Towards Ludlow then...
+
+01:03:34.84,01:03:37.60
+for we'll not stay behind.
+
+01:04:16.95,01:04:19.47
+Last night, I hear,[br]they lay at Northampton.
+
+01:04:19.55,01:04:22.02
+At Stony-Stratford[br]will they be tonight.
+
+01:04:22.09,01:04:24.25
+Tomorrow, or next day,[br]they will be here.
+
+01:04:27.29,01:04:30.19
+I long with all my heart[br]to see the prince.
+
+01:04:30.26,01:04:32.73
+I hope he is much grown[br]since last I saw him.
+
+01:04:32.80,01:04:37.10
+But I hear no. They say my son of York[br]hath almost overta'en him in his growth.
+
+01:04:37.17,01:04:39.23
+Aye, Mother,[br]but I would not have it so.
+
+01:04:39.30,01:04:41.86
+Why, my young grandson,[br]it is good to grow.
+
+01:04:43.61,01:04:46.81
+Grandam, one night[br]as we did sit at supper...
+
+01:04:46.88,01:04:48.85
+my uncle Rivers talked[br]how I did grow...
+
+01:04:48.91,01:04:50.85
+more than my brother.
+
+01:04:50.92,01:04:53.04
+''Aye,'' quoth my uncle Gloucester...
+
+01:04:53.12,01:04:57.85
+''Small herbs have grace,[br]great weeds do grow apace.''
+
+01:04:59.12,01:05:01.89
+Marry, they say[br]my uncle grew so fast...
+
+01:05:01.96,01:05:04.99
+that he could gnaw a crust[br]at two hours old.
+
+01:05:05.06,01:05:07.29
+'Twas full two years[br]ere I could get a tooth.
+
+01:05:07.37,01:05:10.06
+A parlous boy.[br]Go to, you are too shrewd.
+
+01:05:10.13,01:05:12.86
+Good madam,[br]be not angry with the child.
+
+01:05:12.94,01:05:14.93
+Pitchers have ears.
+
+01:05:34.56,01:05:36.96
+Where is the queen?
+
+01:05:41.40,01:05:44.13
+- Where is Her Majesty?[br]- She is above, my lord.
+
+01:05:45.97,01:05:48.50
+Here comes your kinsman[br]Marquess Dorset.
+
+01:05:48.57,01:05:52.37
+- What news, Lord Marquess?[br]- Such news, my lord, as grieves me to unfold.
+
+01:05:58.12,01:06:01.28
+- How fares the prince?[br]- Well, madam, and in health.
+
+01:06:01.35,01:06:03.34
+What is thy news, then?
+
+01:06:05.16,01:06:08.59
+Madam, your brothers,[br]Lord Rivers... and Lord Grey...
+
+01:06:08.66,01:06:10.89
+are sent to Pomfret...
+
+01:06:10.96,01:06:12.95
+prisoners.
+
+01:06:14.63,01:06:16.57
+Who hath committed them?
+
+01:06:16.63,01:06:18.97
+The mighty dukes[br]Gloucester and Buckingham.
+
+01:06:22.77,01:06:25.37
+For what offense?
+
+01:06:25.44,01:06:27.81
+The sum of all I can,[br]I have disclosed.
+
+01:06:29.31,01:06:32.98
+Why, or for what,[br]our kinsmen are committed...
+
+01:06:33.05,01:06:36.65
+is all unknown to me,[br]my gracious lady.
+
+01:06:36.72,01:06:40.18
+Ay me,[br]I see the downfall of our house.
+
+01:06:41.26,01:06:44.79
+The tiger now hath seized[br]the gentle hind.
+
+01:06:51.97,01:06:55.46
+Accursed and unquiet wrangling days...
+
+01:06:56.77,01:07:00.44
+how many of you[br]have mine eyes beheld.
+
+01:07:01.78,01:07:04.84
+My husband lost his life[br]to get the crown...
+
+01:07:04.92,01:07:08.28
+and often up and down[br]my sons were tossed...
+
+01:07:08.35,01:07:12.81
+for me to joy or weep[br]their gain and loss.
+
+01:07:12.89,01:07:14.88
+Blood against blood...
+
+01:07:14.96,01:07:17.69
+self against self.
+
+01:07:18.70,01:07:22.63
+O let me die,[br]to look on death no more.
+
+01:07:27.27,01:07:29.24
+Come, come, my boy.
+
+01:07:30.24,01:07:32.27
+We will to sanctuary.
+
+01:07:33.28,01:07:35.21
+- Madam, farewell.[br]- I'll go with you.
+
+01:07:35.28,01:07:37.21
+You have no cause.
+
+01:07:37.28,01:07:40.18
+My gracious lady, go,[br]and thither bear your treasure and your goods.
+
+01:07:40.25,01:07:43.31
+For my part,[br]I'll resign unto Your Grace the seal I keep...
+
+01:07:43.39,01:07:47.02
+and so betide to me[br]as well I tender you and all of yours.
+
+01:07:47.09,01:07:49.69
+Come, I'll conduct you to the sanctuary.
+
+01:08:32.10,01:08:35.97
+<i>Welcome, sweet prince,</i>[br]<i>to London, to your chamber.</i>
+
+01:09:05.84,01:09:08.07
+Welcome, dear cousin...
+
+01:09:08.14,01:09:10.97
+my thoughts' sovereign.
+
+01:09:11.04,01:09:13.81
+Ah, the weary way[br]hath made you melancholy.
+
+01:09:13.88,01:09:15.90
+No, Uncle,[br]but our crosses on the way...
+
+01:09:15.98,01:09:18.61
+have made it tedious,[br]wearisome and heavy.
+
+01:09:18.68,01:09:21.12
+I want more uncles here[br]to welcome me.
+
+01:09:21.19,01:09:24.45
+Sweet prince,[br]the untainted virtue of your years...
+
+01:09:24.52,01:09:27.08
+hath not yet dived[br]into the world's deceit.
+
+01:09:27.16,01:09:30.42
+No more can you distinguish of a man[br]than of his outward show...
+
+01:09:30.49,01:09:33.66
+which, God he knows,[br]seldom or never...
+
+01:09:33.73,01:09:35.96
+jumpeth with the heart.
+
+01:09:36.03,01:09:37.97
+Those uncles which you want...
+
+01:09:38.04,01:09:39.97
+were dangerous.
+
+01:09:40.04,01:09:42.01
+Your Grace attended[br]to their sugared words...
+
+01:09:42.07,01:09:44.23
+but looked not[br]on the poison of their hearts.
+
+01:09:44.31,01:09:48.18
+God keep you from them[br]and from such false friends.
+
+01:09:49.51,01:09:53.38
+God keep me from false friends,[br]but they were none.
+
+01:09:53.45,01:09:56.65
+Hmm. Sir, my Lord Archbishop[br]comes to greet you.
+
+01:10:03.66,01:10:05.86
+The mayor of London[br]waits upon Your Grace.
+
+01:10:07.13,01:10:10.29
+God bless Your Grace[br]with health and happy days.
+
+01:10:10.37,01:10:13.86
+I thank you, good my lord,[br]and thank you all.
+
+01:10:18.81,01:10:20.83
+I thought my mother[br]and my brother York...
+
+01:10:20.91,01:10:23.51
+would long ere this[br]have met us on the way.
+
+01:10:24.52,01:10:26.51
+Fie, what a slug is Hastings...
+
+01:10:26.58,01:10:29.35
+that he comes not[br]to tell us whether they will come or no.
+
+01:10:29.42,01:10:32.32
+And in good time[br]here comes the sweating lord.
+
+01:10:32.39,01:10:34.32
+And the Lord Stanley with him.
+
+01:10:37.80,01:10:40.06
+Welcome, my lord.[br]What, will our mother come?
+
+01:10:40.13,01:10:42.10
+On what occasion,[br]God he knows, not I...
+
+01:10:42.17,01:10:44.76
+the queen your mother and your brother York[br]have taken sanctuary.
+
+01:10:44.84,01:10:47.63
+The tender prince would fain have come[br]with me to meet Your Grace...
+
+01:10:47.71,01:10:49.64
+<i>but by his mother</i>[br]<i>was perforce withheld.</i>
+
+01:10:49.71,01:10:55.04
+Fie, what indirect[br]and peevish course is this of hers.
+
+01:10:57.55,01:10:59.95
+My Lord Archbishop...
+
+01:11:00.02,01:11:01.95
+will Your Grace persuade the queen...
+
+01:11:02.02,01:11:05.32
+to send the duke of York[br]unto his princely brother presently?
+
+01:11:05.39,01:11:07.79
+If she deny,[br]Lord Hastings, go with him...
+
+01:11:07.86,01:11:11.32
+and from her jealous arms[br]pluck him perforce.
+
+01:11:11.40,01:11:13.33
+My lord of Buckingham...
+
+01:11:13.40,01:11:15.99
+if my weak oratory[br]can from his mother win the duke of York...
+
+01:11:16.07,01:11:18.00
+anon expect him here.
+
+01:11:18.07,01:11:20.47
+But if she be obdurate[br]to mild entreaties...
+
+01:11:20.54,01:11:25.13
+God in heaven forbid we should infringe[br]the holy privilege of blessed sanctuary!
+
+01:11:25.21,01:11:28.24
+Not for all this land[br]would I be guilty of so deep a sin.
+
+01:11:28.31,01:11:30.71
+You are too senseless-obstinate,[br]my lord...
+
+01:11:30.78,01:11:32.81
+too ceremonious and traditional.
+
+01:11:32.88,01:11:36.88
+Weigh it but with the grossness of this age,[br]you break not sanctuary in seizing him.
+
+01:11:36.95,01:11:38.98
+The benefit thereof is always granted...
+
+01:11:39.06,01:11:41.35
+to those whose dealings[br]have deserved the place...
+
+01:11:41.43,01:11:43.79
+and those that have the wit[br]to claim the place.
+
+01:11:43.86,01:11:46.35
+This prince hath neither claimed it[br]nor deserved it.
+
+01:11:46.43,01:11:48.76
+And therefore, in my opinion,[br]cannot have it.
+
+01:11:48.83,01:11:51.32
+Oft have I heard of sanctuary men...
+
+01:11:51.40,01:11:53.77
+but sanctuary children -[br]huh! -
+
+01:11:53.84,01:11:55.83
+ne'er till now.
+
+01:12:07.69,01:12:11.28
+Milord, you shall o'errule[br]my mind for once.
+
+01:12:12.46,01:12:15.62
+Come on, Lord Hastings,[br]will you go with me?
+
+01:12:15.69,01:12:18.56
+I go, my lord.[br]Lord Stanley, will you come?
+
+01:12:18.63,01:12:20.89
+Good lords,[br]make all the speedy haste you may.
+
+01:12:20.96,01:12:23.30
+Catesby, Ratcliffe, Lovel,[br]go with them.
+
+01:13:14.12,01:13:17.68
+The mayor towards Guildhall[br]hies him in all haste.
+
+01:13:17.76,01:13:21.82
+There tomorrow,[br]at your meetest vantage of the time...
+
+01:13:21.89,01:13:24.92
+infer the bastardy[br]of Edward's children.
+
+01:13:26.90,01:13:29.92
+Moreover, urge his hateful luxury...
+
+01:13:30.00,01:13:32.26
+and bestial appetite[br]in change of lust...
+
+01:13:32.34,01:13:35.64
+which stretched unto their servants,[br]daughters, wives...
+
+01:13:35.71,01:13:39.16
+even where his raging eye[br]or savage heart, without control...
+
+01:13:39.24,01:13:41.18
+lusted to make his prey.
+
+01:13:41.25,01:13:43.74
+<i>Say, Uncle Gloucester,</i>[br]<i>if my brother come...</i>
+
+01:13:43.81,01:13:46.08
+where shall we sojourn[br]till our coronation?
+
+01:13:46.15,01:13:48.68
+<i>Where it thinks best</i>[br]<i>unto your royal self.</i>
+
+01:13:48.75,01:13:50.69
+If I may counsel you...
+
+01:13:50.75,01:13:54.71
+some day or two[br]Your Highness shall repose you...
+
+01:13:54.79,01:13:56.78
+at the Tower.
+
+01:14:00.60,01:14:02.53
+Then where you please...
+
+01:14:02.60,01:14:06.26
+and shall be thought most fit[br]for your best health and recreation.
+
+01:14:06.34,01:14:08.86
+I do not like the Tower...
+
+01:14:10.71,01:14:12.70
+of any place.
+
+01:14:12.78,01:14:15.97
+So wise so young, they say,[br]do ne'er live long.
+
+01:14:16.05,01:14:18.14
+Did Julius Caesar[br]build that place, milord?
+
+01:14:18.22,01:14:20.58
+He did, my gracious lord,[br]begin that place.
+
+01:14:20.65,01:14:23.12
+That Julius Caesar was a famous man.
+
+01:14:23.19,01:14:25.18
+With what his valor[br]did enrich his wit...
+
+01:14:25.26,01:14:27.78
+his wit set down[br]to make his valor live.
+
+01:14:31.63,01:14:34.72
+Nay, for a need,[br]thus far come near my person.
+
+01:14:34.80,01:14:37.32
+Tell them that when my mother[br]was with child -
+
+01:14:37.40,01:14:39.37
+with my yet unborn brother-
+
+01:14:39.44,01:14:41.43
+noble York, my princely father...
+
+01:14:41.51,01:14:43.44
+then had wars in France...
+
+01:14:43.51,01:14:45.50
+and by true computation of the time...
+
+01:14:45.58,01:14:47.57
+found that the issue[br]was not his begot...
+
+01:14:47.64,01:14:51.38
+which well appeared in his lineaments,[br]being nothing like the duke, my noble father.
+
+01:14:51.45,01:14:54.25
+Yet, uh, touch this sparingly,[br]as 'twere far off...
+
+01:14:54.32,01:14:56.81
+because, my lord,[br]you know, my mother lives.
+
+01:14:56.89,01:14:59.01
+<i>I'll tell you what,</i>[br]<i>my cousin Buckingham.</i>
+
+01:14:59.09,01:15:02.72
+- <i>What, my gracious lord?</i>[br]- An if I live until I be a man...
+
+01:15:02.79,01:15:05.76
+I'll win our ancient rights[br]in France again...
+
+01:15:05.83,01:15:08.46
+or die a soldier, as I lived a king.
+
+01:15:09.60,01:15:12.76
+Short summers lightly have[br]a forward spring.
+
+01:15:12.84,01:15:14.90
+Fear not, my lord,[br]I'll play the orator...
+
+01:15:14.97,01:15:17.60
+as if the golden fee for which I plead[br]were for myself.
+
+01:15:17.67,01:15:20.27
+If you thrive well,[br]bring them to Baynard's Castle...
+
+01:15:20.34,01:15:22.40
+where you shall find me[br]well accompanied...
+
+01:15:22.48,01:15:24.57
+with reverend fathers[br]and well-learned bishops.
+
+01:15:24.65,01:15:27.31
+Ah, in good time,[br]here comes the duke of York.
+
+01:15:45.47,01:15:47.53
+<i>Richard of York.</i>
+
+01:15:51.54,01:15:53.67
+How fares our loving brother?
+
+01:15:53.74,01:15:58.04
+Well, my dread lord -[br]so must I call you now.
+
+01:15:58.12,01:16:01.92
+Aye, Brother,[br]to our grief, as it is yours.
+
+01:16:09.99,01:16:13.33
+How fares our noble cousin,[br]princely York?
+
+01:16:15.57,01:16:17.63
+I thank you, gentle Uncle.
+
+01:16:18.74,01:16:22.07
+Oh, my lord, you said that[br]idle weeds are fast in growth.
+
+01:16:22.14,01:16:24.23
+The prince my brother[br]hath outgrown me far.
+
+01:16:24.31,01:16:26.50
+- He hath, milord.[br]- And therefore is he idle?
+
+01:16:26.58,01:16:30.27
+- Oh, my dear lord, I must not say so.[br]- Then he is more beholding to you than I.
+
+01:16:30.35,01:16:32.41
+Ah, he may command me[br]as my sovereign...
+
+01:16:32.48,01:16:34.51
+but you have power in me[br]as a kinsman.
+
+01:16:34.59,01:16:36.55
+I pray you, Uncle,[br]give me this dagger.
+
+01:16:36.62,01:16:38.55
+My dagger, little cousin?[br]With all my heart.
+
+01:16:38.62,01:16:41.96
+- A beggar, Brother?[br]- Of my kind uncle, that I know will give...
+
+01:16:42.03,01:16:44.22
+and being but a toy,[br]which is no grief to give.
+
+01:16:44.29,01:16:46.32
+A greater gift than that[br]I'll give my cousin.
+
+01:16:46.40,01:16:48.99
+A greater gift?[br]Oh, that's the sword to it.
+
+01:16:49.07,01:16:52.52
+- Too weighty for Your Grace to wear.[br]- I weigh it lightly, were it heavier.
+
+01:16:52.60,01:16:55.13
+What, would you have[br]my weapon, little lord?
+
+01:16:55.21,01:16:57.61
+I would, that I might thank you[br]as you call me.
+
+01:16:57.67,01:16:59.61
+- How?[br]- Little.
+
+01:16:59.68,01:17:01.70
+My lord of York[br]will still be cross in talk.
+
+01:17:01.78,01:17:04.14
+Uncle, Your Grace knows[br]how to bear with him.
+
+01:17:04.21,01:17:06.34
+You mean to bear me,[br]not to bear with me.
+
+01:17:06.42,01:17:09.75
+Uncle, my brother mocks both you and me.
+
+01:17:09.82,01:17:11.91
+Because that I am little,[br]like an ape...
+
+01:17:11.99,01:17:14.58
+he thinks that you should[br]bear me on your shoulder!
+
+01:17:35.28,01:17:38.91
+With what a sharp-provided wit[br]he reasons!
+
+01:17:38.98,01:17:43.15
+To mitigate the scorn he gives his uncle,[br]he prettily and aptly taunts himself.
+
+01:17:43.22,01:17:45.78
+So cunning and so young is wonderful.
+
+01:17:45.86,01:17:47.85
+My lord, will't please you pass along?
+
+01:17:47.92,01:17:50.32
+Myself and my good cousin Buckingham[br]will to your mother...
+
+01:17:50.39,01:17:53.09
+to entreat of her to meet you[br]at the Tower and welcome you.
+
+01:17:53.16,01:17:55.29
+What, will you[br]go unto the Tower, my lord?
+
+01:17:55.37,01:17:57.83
+My Lord Protector[br]needs will have it so.
+
+01:17:57.90,01:18:00.13
+I shall not sleep in quiet[br]at the Tower.
+
+01:18:00.20,01:18:04.04
+- Why, what should you fear?[br]- Marry, my uncle Clarence' angry ghost.
+
+01:18:04.11,01:18:06.67
+My grandam told me[br]he was murdered there.
+
+01:18:06.74,01:18:10.08
+- I fear no uncles dead.[br]- Nor none that live, I hope.
+
+01:18:10.15,01:18:13.14
+And if they live,[br]I hope I need not fear.
+
+01:18:17.09,01:18:19.39
+But come,[br]and with heavy hearts...
+
+01:18:19.46,01:18:21.45
+thinking on them...
+
+01:18:21.53,01:18:23.69
+go we unto the Tower.
+
+01:18:52.26,01:18:55.71
+Well, let them rest.
+
+01:18:55.79,01:18:57.78
+Now, my lord,[br]what shall we do...
+
+01:18:57.86,01:19:02.73
+if we perceive that the Lord Hastings[br]will not yield to our complots?
+
+01:19:04.17,01:19:06.14
+Chop off his head, man.
+
+01:19:13.38,01:19:15.44
+Somewhat we will do.
+
+01:19:21.95,01:19:23.94
+Come hither, Catesby.
+
+01:19:24.96,01:19:28.19
+Thou art sworn as deeply[br]to effect what we intend...
+
+01:19:28.26,01:19:30.69
+as closely to conceal what we impart.
+
+01:19:30.76,01:19:33.20
+Thou knowest our reasons[br]urged upon the way.
+
+01:19:33.26,01:19:35.60
+What thinkest thou?[br]Is it not an easy matter...
+
+01:19:35.67,01:19:38.00
+to make Lord Hastings of our mind...
+
+01:19:38.07,01:19:42.40
+for the installment of this noble duke[br]in the seat royal of this famous isle?
+
+01:19:42.47,01:19:45.64
+He for the late king's sake[br]so loves the prince...
+
+01:19:45.71,01:19:48.20
+that he will not be won[br]to aught against him.
+
+01:19:48.28,01:19:51.08
+What think'st thou, then, of Stanley?[br]What will he?
+
+01:19:51.15,01:19:54.41
+He will do all in all as Hastings doth.
+
+01:19:55.42,01:19:57.41
+Hmm.
+
+01:19:59.46,01:20:02.15
+Well, then, no more but this.
+
+01:20:02.23,01:20:04.19
+Go, gentle Catesby...
+
+01:20:04.26,01:20:07.82
+and, as it were far off,[br]sound thou Lord Hastings...
+
+01:20:07.90,01:20:10.39
+how he stands[br]affected unto our purpose...
+
+01:20:10.47,01:20:12.44
+and summon him[br]tomorrow to the Tower...
+
+01:20:12.50,01:20:14.47
+to counsel on the coronation.
+
+01:20:14.54,01:20:18.63
+If thou dost find him tractable to us,[br]encourage him and show him all our reasons.
+
+01:20:18.71,01:20:21.40
+If he be leaden, icy-cold, unwilling...
+
+01:20:21.48,01:20:23.95
+be thou so too,[br]and so break off your talk...
+
+01:20:24.01,01:20:25.98
+and give us notice of his inclination.
+
+01:20:26.05,01:20:29.25
+I will, my lord.[br]Farewell, Your Graces both.
+
+01:20:30.62,01:20:32.55
+Catesby...
+
+01:20:32.62,01:20:34.82
+commend me to Lord Hastings.
+
+01:20:34.89,01:20:37.92
+Tell him his ancient knot[br]of dangerous adversaries...
+
+01:20:37.99,01:20:40.46
+Lord Rivers and Lord Grey...
+
+01:20:40.53,01:20:43.29
+tomorrow are let blood[br]at Pomfret castle.
+
+01:20:43.37,01:20:46.27
+And bid my friend,[br]for joy of this good news...
+
+01:20:46.34,01:20:49.64
+give Mistress Shore[br]one gentle kiss the more.
+
+01:20:49.71,01:20:51.64
+My lord.
+
+01:21:23.64,01:21:25.63
+<i>My lord.</i>
+
+01:21:33.02,01:21:35.04
+My lord.
+
+01:21:35.12,01:21:38.61
+- Who knocks?[br]- <i>One from the Lord Stanley.</i>
+
+01:21:52.44,01:21:54.93
+- What is't o'clock?[br]- Upon the stroke of 4:00.
+
+01:21:55.01,01:21:57.70
+Cannot my Lord Stanley sleep[br]these tedious nights?
+
+01:21:57.77,01:22:00.21
+So it appears by that I have to say.
+
+01:22:00.28,01:22:02.51
+First, he commends him[br]to your noble self.
+
+01:22:02.58,01:22:05.14
+What then?
+
+01:22:05.22,01:22:08.55
+Then certifies your lordship[br]that this night he had a dream -
+
+01:22:08.62,01:22:10.98
+the boar razed off his helm.
+
+01:22:11.05,01:22:13.39
+Therefore he sends to know[br]your lordship's pleasure...
+
+01:22:13.46,01:22:15.42
+if you will presently[br]take horse with him...
+
+01:22:15.49,01:22:17.93
+and with all speed post with him[br]toward the north...
+
+01:22:17.99,01:22:20.90
+to shun the danger[br]that his soul divines.
+
+01:22:20.96,01:22:23.02
+Go, fellow, go,[br]return unto thy lord.
+
+01:22:23.10,01:22:25.97
+Tell him his fears are shallow,[br]without instance.
+
+01:22:26.04,01:22:28.23
+And for his dreams,[br]I wonder he's so simple...
+
+01:22:28.31,01:22:31.27
+to trust the mockery[br]of unquiet slumbers.
+
+01:22:31.34,01:22:33.43
+To fly the boar[br]before the boar pursues...
+
+01:22:33.51,01:22:35.54
+were to incense[br]the boar to follow us...
+
+01:22:35.61,01:22:37.74
+and make pursuit[br]where he did mean no chase.
+
+01:22:37.81,01:22:39.84
+Go, bid thy master rise[br]and come to me...
+
+01:22:39.92,01:22:41.85
+and we will both together[br]to the Tower...
+
+01:22:41.92,01:22:44.32
+where he shall see[br]the boar will use us kindly.
+
+01:22:44.39,01:22:46.82
+I'll go, my lord,[br]and tell him what you say.
+
+01:22:55.37,01:22:57.39
+How now, sirrah.
+
+01:22:57.47,01:23:01.77
+- How goes the world with thee?[br]- The better that your lordship please to ask.
+
+01:23:21.93,01:23:24.26
+Many good morrows to my noble lord.
+
+01:23:24.33,01:23:26.59
+Good morrow, Catesby.
+
+01:23:30.80,01:23:33.13
+You are early stirring.
+
+01:23:34.27,01:23:38.47
+What news?[br]What news, in this our tottering state?
+
+01:23:38.54,01:23:40.60
+It is a reeling world indeed, my lord.
+
+01:23:42.21,01:23:44.15
+And, uh...
+
+01:23:44.21,01:23:46.91
+I believe will never stand upright...
+
+01:23:46.98,01:23:49.38
+till Richard[br]wear the garland of the realm.
+
+01:23:50.62,01:23:53.78
+- How? Wear the garland?[br]- Mm-hmm.
+
+01:23:53.86,01:23:57.35
+- Dost thou mean the crown?[br]- Aye, my good lord.
+
+01:23:57.43,01:23:59.83
+I'll have this crown of mine[br]cut from my shoulders...
+
+01:23:59.90,01:24:02.99
+before I'll see the crown[br]so foul misplaced.

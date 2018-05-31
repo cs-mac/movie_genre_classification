@@ -1,0 +1,974 @@
+{1}{1}25.000
+{812}{922}Once upon a time there was a Shtetl,|a small Jewish village in Eastern Europe.
+{934}{1046}It was in the year 5701.|1941 according to the new calendar.
+{1082}{1166}It was summer. Summer of 1941.
+{1177}{1224}July, I think.
+{1235}{1330}I thought I could escape|everything I had seen.
+{1356}{1397}I ran to warn them.
+{1408}{1487}My own people, my Shtetl, my village.
+{1528}{1603}This is the story of my village…
+{2086}{2112}Rabbi!
+{2200}{2236}What?
+{2292}{2331}What's up?
+{3338}{3374}Tell them.
+{3515}{3564}He has given them the go ahead.
+{3597}{3656}God has simply given them the go ahead.
+{3680}{3764}"Look", he told me,
+{3826}{3879}"you are already insane anyway."
+{3890}{3939}How can one wash away the dirt
+{3960}{4015}from eyes that have seen too much?
+{4060}{4134}The birds, who were singing,
+{4166}{4264}suddenly went quiet and disappeared.
+{4275}{4355}- They didn't want to come with us.|- What are you talking about?
+{4366}{4436}Tell them, Schlomo... the Nazis...
+{4447}{4491}I am telling.
+{4502}{4569}I am telling you: The Nazis.
+{4580}{4692}We traveled through space one day,|beyond the sky.
+{4703}{4806}Now I know...|There is no more space in our hearts.
+{4817}{4878}- We're looking for it elsewhere.|- Stop rambling.
+{4884}{4929}Tell us now.
+{4937}{4971}I'll translate.
+{4997}{5048}The Nazis have arrived.
+{5066}{5115}Not in our Shtetl. Not yet.
+{5126}{5193}In the Shtetl on the other|side of the mountain.
+{5204}{5262}Schlomo brings terrible news:
+{5273}{5395}The Nazis are killing all Jews or|deporting them to unknown destinations.
+{5422}{5500}Everybody! Men, women, children, old.|Whole villages!
+{5511}{5577}So the rumor is correct.|Nobody ever returns,
+{5588}{5650}or ever wrote a letter.
+{5661}{5722}What should we do? I ask you.
+{5745}{5796}The same will happen to us soon.
+{5805}{5894}Still one can't make whole|villages disappear!
+{5905}{5946}That's really insane.
+{5957}{6050}He's insane and telling lies.|We'll do nothing.
+{6061}{6135}But what if he's telling the truth?
+{6208}{6261}Could you sleep well at night then?
+{6281}{6382}What would you tell your wives,|children, grandchildren?
+{6408}{6480}We knew about it,|but didn't believe it...
+{6491}{6562}We must come up with a solution.|Now, tonight!
+{6578}{6628}How can we save our community?
+{6755}{6789}Don't know...
+{6850}{6883}An idea...
+{6891}{6924}Quiet!
+{6935}{7024}- We're thinking! - If you wake up|the children, I'll throw you out!
+{7098}{7170}- How could we think without talking?|- Try!
+{7181}{7246}- I got it. I have an idea.|- Don't crack now.
+{7249}{7304}- We buy weapons and defend ourselves!|- Killing?
+{7315}{7397}No, we'll only scare them.|Who's talking about killing?
+{7408}{7438}Stupid idea!
+{7449}{7530}Only because I didn't want my|Esther to marry your grandson!
+{7541}{7636}Keep her, your beautiful Esther!|Put her in a frame!
+{7647}{7716}- That's sinful talk!|- Stop it!
+{7797}{7866}- A false deportation train.|- Who's talking?
+{7873}{7949}The eternal one.|Well, the madman...
+{7990}{8024}Repeat it, Schlomo.
+{8046}{8089}- A false deportation train.|- What?
+{8100}{8155}A false deportation train.|Can't you hear me?
+{8166}{8226}Organizing a deportation train?
+{8286}{8385}We'll deport goats, cows, geese
+{8400}{8505}to the Holy Land, to Erez Israel.|And the children too...
+{8511}{8607}- What about us? Why just the children?|- Yes, us, the children.
+{8644}{8733}We should be the deported and|the Germans at the same time.
+{8755}{8872}Shtetl, Ukraine, Russia, Palestine...
+{8914}{8971}Home... Free as a bird.
+{8982}{9058}Oh God! This is really meshuggah!
+{9062}{9170}We'll do their work if we|deport ourselves. That's insane.
+{9176}{9295}- If they want to deport us, they should at|least work hard for it! - A brilliant idea!
+{9324}{9425}- You'll be rich. What's your name?|- Rothschild. - Remember that name!
+{9426}{9503}- My wife can't stand going by train.|- How d'you know? She never took the train.
+{9507}{9574}She never took the train because|she can't stand it! Can't you hear me?
+{9585}{9691}Dressing up like Germans, like Nazis!|A dishonor! A sin!
+{9702}{9810}- God will never forgive us!|- One more word and I'll kick you out!
+{9830}{9911}A train?|Think about it. A train!
+{9922}{10014}And what else?|Why not a boat, while we're at it.
+{10025}{10132}Of course! He's right. A train!
+{10143}{10190}A train! A train!
+{10251}{10328}- How should we find a train?|- Buy one.
+{10339}{10378}Coach by coach.
+{10389}{10464}- How do we get the money?|- From the community, and from donations.
+{10475}{10571}- How much? - And the uniforms?|- Jews are the best tailors.
+{10582}{10654}- We'll make them ourselves!|- The weapons, the fake papers?
+{10665}{10703}Weapons... why weapons?
+{10714}{10816}The fake papers...|are simply made from real paper!
+{10830}{10884}We'll have to speak German without accent.
+{10902}{11007}Prepare departure. Deportation of the|whole village without anyone noticing.
+{11018}{11064}Yes, that's what we'll do.
+{11075}{11110}We'll fly away!
+{11121}{11203}Heaven and earth will reunify,|the birds will return…
+{11214}{11328}God, why do men rule the world?|Why does a madman show the way?
+{11332}{11428}Jehuda, have you heard it?|- Even a deaf person has heard it!
+{11439}{11517}- We'll go by train to Palestine.|- Don't you worry? - No, why?
+{11528}{11595}Nobody talks about the costs!
+{11606}{11698}- To Palestine! By boat!|- No, by train!
+{11699}{11776}Thanks for telling me.|I already bought swimming tires.
+{11787}{11850}Listening to a madman!|That's meshuggah!
+{11861}{11955}- Who'll look after our houses?|- My son is to be married in a month!
+{11966}{12070}Schlomo, I've made a list of|all things I want to bring...
+{12081}{12169}I'll just bring my list,|that's all I have.
+{12183}{12232}- What are you doing?|- These Germans!
+{12236}{12325}They shouldn't be sitting here watching|the beautiful Esther pass by!
+{12336}{12407}- But Esther won't be around then.|- So won't the bench!
+{12418}{12521}It's not so easy to buy a train!|And where should I hide it?
+{12532}{12633}- Should we bring our furniture?|- I don't know. Ask the rabbi.
+{12644}{12718}Will we ever return?
+{12943}{13015}- I have a delivery later this month.|- Quiet!
+{13026}{13086}Quiet! I can't hear a word!
+{13097}{13142}Ask your questions, one at a time.
+{13153}{13233}But not only to me, ask Schlomo too.
+{13256}{13359}The madman!?|- Deport ourselves is insane anyway.
+{13414}{13513}I'll make five officer uniforms|and thirty soldier uniforms.
+{13524}{13610}Itzik makes the boots.|Herschele makes the helmets.
+{13621}{13672}But in what sizes?
+{13683}{13782}Who'll be wearing it?|Which of us will be Germans?
+{13818}{13861}The Nazis.
+{13872}{13968}- I've forgotten to buy flour...|- Nobody leaves the room!
+{14024}{14096}Who wants to be Nazi?|I mean German.
+{14238}{14349}- Itzik?|- No. God help us! Nazism is a sin!
+{14360}{14429}Misfortune would strike my family.
+{14440}{14481}No, thanks.
+{14593}{14681}- Jankele? - I'm an accountant|and suffer from stomach ulcer.
+{14692}{14762}- A real German don't do that.|- Nobody then?
+{14773}{14899}- So we put real Nazis in place.|- They can deport us in a correct manner.
+{14918}{15009}- How about you, Mordechai?|- I'm sorry, Rabbi, I can't do that.
+{15020}{15094}Be aware of the responsibility this means.
+{15105}{15177}Quarrel with Germans in German...|that's not for me.
+{15188}{15279}The council of wise men should decide|who should be the Germans.
+{15283}{15381}Very good! Excellent!|Everybody stays here.
+{15511}{15545}Was I right to refuse?
+{15556}{15640}- Why hasn't he asked you?|- Me, a Nazi? No!
+{15679}{15728}God, please. Not me.
+{16098}{16190}To the benefit of the community,|the council have chosen those
+{16194}{16268}who can speak German fluently,|with a minimum of accent,
+{16272}{16360}who are familiar with the Germanic|culture, and who in the past
+{16361}{16451}have shown superior self-control.
+{16475}{16559}The decision is final and irrevocable!
+{16570}{16675}The mission is to bring the community|safely to the destination.
+{16686}{16782}To the Holy Land,|to Palestine, to Erez Israel,
+{16793}{16848}like Moses,|who led us out of Egypt.
+{16859}{16958}You are responsible to God|to fulfill this mission.
+{16979}{17093}For his merits, the Council wants to|appoint the wood merchant
+{17104}{17186}Mordechai Schwartz|to be commander of the train.
+{17197}{17258}He'll take upon a great responsibility.
+{17269}{17346}The other Germans are:|Samuel Heimovici,
+{17357}{17419}Ezra Finkelstein, Ezra Harari...
+{19841}{19875}Quickly!
+{19929}{19963}Put it over there.
+{20125}{20182}Bread: 17.|- 17?
+{20342}{20420}Golda, I have told you, no pastries.|That's not proper food.
+{20432}{20508}- It's for the kids!|- No, we don't have enough room.
+{20519}{20578}And besides, pastries are for Purim!
+{20590}{20660}- Maybe we haven't arrived by then.|- They'll be eaten before that.
+{20671}{20740}How could a child tell when it's Purim.
+{20751}{20843}It sees the pastry, eats it|and says "It's Purim!"
+{20855}{20908}One can't discuss such matters with you...
+{20920}{20962}And what's that?
+{21000}{21039}Gherkin, Russian style...
+{21050}{21103}That makes 1500 potato knishes,
+{21124}{21198}cabbage, carrots, 4200 dumplings,
+{21209}{21270}latkes, klopslach, beef tongues.
+{21291}{21400}Malka, you and Lea should make the bread.|Have we forgotten anything?
+{21412}{21456}Do you remember Ari...
+{21467}{21516}You are beautiful, my girl.
+{21550}{21644}- Happy man who will marry you!|- Rich and handsome.
+{21692}{21751}I'm sure.
+{21853}{21877}Esther!
+{21894}{21995}Marry me, please, before we leave!
+{22006}{22086}No, Jossi.|You're old, ugly and weak.
+{22098}{22192}You still live with your mom. You are the|helper of the rabbi. I'll never marry you.
+{22268}{22350}I'll marry a real man!
+{22375}{22420}I will completely belong to him.
+{22431}{22464}With body and…
+{22684}{22741}Don't push! Discipline!
+{22752}{22805}Line up to make donations!
+{22943}{22996}Please stay in line.
+{23055}{23114}- Hurry up, Mendel.|- I'm coming, Jankele.
+{23125}{23244}A wooden chess game|from Mrs. Grossmann. Here.
+{23273}{23337}A wooden chess game.|Make note.
+{23349}{23408}A wooden chess game|from Mrs. Grossmann.
+{23420}{23519}Schlomo: An apple. Make note.|Next. You can leave, Schlomo.
+{23531}{23568}- Thanks.|- Next.
+{23579}{23612}Schlomo: An apple.
+{23688}{23711}Thanks.
+{23723}{23776}Let's see... Yes, that's correct.
+{23810}{23880}Thanks. Have a nice Sunday.
+{23915}{23983}Hurry up! We have to be home before dark.
+{23995}{24069}It's massive silver, for sure.
+{24091}{24132}That should be enough.
+{24208}{24258}"Dear Israel Schmecht,
+{24303}{24357}dear cousin!"
+{24410}{24463}Israel Schmecht, my wife's cousin.
+{24475}{24535}A Yiddish writer|of worldwide reputation.
+{24547}{24650}Israel will join us|and take part of our adventure.
+{24671}{24783}He lives in Switzerland,|after fleeing from his homeland Austria,
+{24795}{24844}which was attacked by Hitler, the barbarian.
+{24864}{24977}He will give us some important help,|teach us to speak fluent German,
+{24984}{25061}without any trace of Yiddish accent,
+{25073}{25154}as well as the culture,|civilization and psychology
+{25166}{25276}of the people of Goethe,|both bourgeoisie and simple soldiers.
+{25421}{25480}I don't get it! It's too difficult.
+{25492}{25583}It's very much like Yiddish.|I do understand it.
+{25595}{25700}German is a rigid language.|It is precise and sad.
+{25719}{25828}Yiddish is a parody of German.|It adds humor.
+{25840}{25951}To speak perfect German and|to get rid of the Yiddish accent,
+{25963}{26012}just leave out the humor.
+{26024}{26122}Do they know that they are subject|to parody? Maybe that's why they make war.
+{26133}{26160}No!
+{26171}{26269}I agree. It would be cheaper|to pay for the train all at once.
+{26280}{26380}To buy one coach at a time is|more expensive, but it is safer!
+{26392}{26490}This is killing me, Mendel!|I can't go on like this.
+{26502}{26548}It can't be done against your will!
+{26560}{26628}Don't get so upset!|I can't do anything.
+{26640}{26740}- We wont get it for under 10000.|- 10000 for one coach? No!
+{26752}{26790}He's crazy. It's not my money!
+{26801}{26922}With leather. Delivery just before our|departure. We wont get it any cheaper!
+{26933}{27031}I don't need any leather. Mordechai|shouldn't bother us with his leather goods.
+{27042}{27158}- 5000, my last offer!|- Mordechai can't do anything anyway.
+{27169}{27248}All coaches for German officers|are furnished with leather.
+{27259}{27346}- When real Germans enter the train...|- Your Germans make me want to throw up!
+{27357}{27459}I hate them,|before I've even seen one!
+{27651}{27735}Is this what I get in return for|everything that I've taught you?
+{27781}{27805}Jankele...
+{27816}{27888}Are you okay? Your medicine...
+{27899}{27970}Never again require such sums from me.|That would be the best medicine.
+{28130}{28171}That is beautiful!
+{28210}{28279}- Not so expensive!|- A train...
+{28949}{28988}Yes, very good...
+{29160}{29222}Did you hide the money well?
+{29233}{29338}Listen, your cousin is a communist.|He sees the Messiah everywhere.
+{29349}{29466}Don't spend too much time with him.|It could infect you.
+{29477}{29554}"Women and men of the world, unite!"
+{29565}{29653}Think about it. "Unite!"|He has only got one thing on his mind.
+{29664}{29786}You'll give him the money, and he makes|the ID documents and passes.
+{29797}{29858}Rabbi, you have already told me all that.
+{29869}{29924}- It's better once too often.|- But twenty...
+{29935}{29989}- You should hide them...|- In my shirt, yes.
+{29990}{30052}I sleep in a public place|and eat only kosher.
+{30058}{30119}The next morning I'll take the train...
+{30130}{30224}You already know! Why did you let|me repeat it twenty times?
+{30235}{30327}- To be sure nothing was forgotten.|- Very well, my son.
+{30459}{30519}- Here are some cookies for the journey.|- Thanks, Mama.
+{30530}{30564}Goodbye.
+{30641}{30698}He'll be back in four days time.
+{30731}{30765}Do you want some cookies?
+{32384}{32451}- Jossele, is that you?|- Yes, Mama.
+{32462}{32574}Haven't you told your cousin Abi,|that we are going to Palestine?
+{32580}{32660}- I have, but he wont come with us.|- Why not?
+{32697}{32750}Mama, listen.
+{32778}{32881}Soon all people will be alike. Abi says|that we don't have to flee anymore.
+{32892}{32994}Since the world soon will be one|country only, fleeing is about not moving.
+{33005}{33124}Free! We don't get anything here.|We only live isolated, in seclusion.
+{33144}{33199}You are going to leave me alone.
+{33210}{33291}No, Mama, that's not true.|Listen to me!
+{33302}{33370}Unbelievable, that we didn't know.
+{33381}{33454}Everything will be different in the future.
+{33465}{33520}Do you know what he said?
+{33531}{33582}"Proletarians of all countries,
+{33624}{33673}unite!"
+{33741}{33816}Unite! Isn't that lovely?
+{33853}{33918}- The Messiah is here.|- Have you seen him?
+{33926}{34005}- Of course. As I you see now.|- What's he like?
+{34016}{34105}He leads the revolution. Day and night.|He changes people's minds.
+{34116}{34187}- He creates the new man.|- What does he do with the old?
+{34198}{34314}- Can one be overage and still new?|- We are Jews, not proletarians.
+{34319}{34424}He's called the Messiah,|but no one knows who he is.
+{34435}{34508}It is a code name, so that he|wont be recognized and arrested.
+{34519}{34643}Same thing with "proletarians",|it's a code name for revolutionaries.
+{34690}{34764}One acts in secret, defies the danger...
+{34767}{34871}incognito, clandestine, revolutionary...
+{34894}{34967}The utopist, the adventurer!
+{34991}{35016}Enough now!
+{35041}{35093}I'll give you danger.
+{35096}{35210}Is that why you've shaven off you beard?|So that no one will recognize you?
+{35230}{35290}You punk! I feel sorry for your mother.
+{35313}{35344}Proletarian…
+{35355}{35450}What are you looking at?|Go away! Go home!
+{35491}{35515}Bravo!
+{35594}{35674}- Why a blue coach?|- No more paint.
+{35885}{35969}Careful! You're breaking it.|Rabbi...
+{36059}{36145}I'm the train manager,|but I can't run the locomotive.
+{36151}{36283}We need a Jewish train driver, a railway|map and a second-hand locomotive.
+{36297}{36357}- Where from?|- Let me finish.
+{36363}{36445}Go to Anton Levi,|one of Rachel's relatives...
+{36456}{36527}The old woman?|Nobody wants to be a relative of hers.
+{36538}{36608}- How do you know, you don't know her.|- Why do you give me her orders?
+{36619}{36670}- Nobody said that!|- You did!
+{36681}{36743}Did I said that?
+{36754}{36860}You see! You are not taking orders|from her, nor anyone else.
+{36876}{36925}Find this horse-man Anton Levi!
+{36936}{36999}- What has a horse-man got to do with trains?|- He works in transportation!
+{37010}{37119}It's the same! He surely knows|someone at the Railroad Ministry.
+{37162}{37242}Money for the trip.|And don't come back a communist!
+{37253}{37310}Rabbi, Itzik is back!
+{37403}{37497}Quickly, tell the council and Mordechai!
+{37519}{37593}Jankele and all you others, quickly!
+{37921}{38001}This is Schtrull Geitzl, the train driver.
+{38022}{38096}- Welcome!|- Aleichem shalom.
+{38104}{38146}So you are a train driver?
+{38184}{38273}Schtrull has never yet driven a locomotive.
+{38284}{38378}Wait! He's a high officer|at the Railroad Ministry.
+{38384}{38478}He's the manager of the archives...|and has brought... give it to me...
+{38484}{38575}A manual:|"How to drive a locomotive"
+{38636}{38729}- I always wanted to be a train driver.|- He's been restrained in an office...
+{38749}{38853}- Try it. - They were afraid a Jew|like him would steal a locomotive.
+{38864}{38955}So he is an honest man|and a talented train driver.
+{38973}{39035}A real Yiddish train driver!
+{39046}{39118}Long live train driver Schtrull Geitzl!
+{39279}{39396}- And the locomotive?|- Almost finished. Coming from the archives.
+{39628}{39682}Shalom Rabbi, Itzik...
+{39693}{39725}Mordechai...
+{39746}{39840}Schtrull, Mendel, Schlomo...
+{39858}{39905}Doctor... Shalom.
+{39916}{39990}Why the doctor? Is anyone ill?
+{40008}{40089}No, not the locomotive!|I don't have more!
+{40258}{40292}Everything ok?
+{40565}{40599}Here it is!
+{40883}{40922}Still a little…
+{40988}{41037}Very well. Now you can stop.
+{41059}{41093}Stop it.
+{41158}{41182}Come!
+{41227}{41311}- Looks like a wreck!|- We have been fooled.
+{41322}{41385}It's as good as new.|It's because of the darkness.
+{41529}{41575}Thank you. To the station.
+{41613}{41679}I hope you really know geography.
+{41690}{41747}Anyway, you know where Palestine is...
+{41758}{41842}He'll travel around the world,|believe me, Rabbi!
+{41853}{41887}Wait until tomorrow morning.
+{41953}{42033}It's because of the mist.|Wait until the sun rises.
+{42258}{42349}More red! It must shine! Hurry up!
+{42360}{42409}The screw is too big!
+{42649}{42679}Hurry up!
+{43298}{43352}Shovel and coal...
+{43402}{43467}A manometer for measuring|the steam pressure…
+{43492}{43574}Must be that one.|Starting lever...
+{43585}{43633}The longest train in the world!
+{43644}{43714}- Faster than the lightning...|- It flies over the clouds!
+{43725}{43781}Completely made of gold. A magic train!
+{43792}{43856}Pity that you can't come with us.
+{43908}{44000}Goodbye, business.|Our Jews are leaving.
+{44056}{44156}Mr... Rabbi. So you can assure me|that all this is not correct,
+{44179}{44297}that it's been made up by the children?|You give me your word, right?
+{44308}{44389}Don't worry. We're not going anywhere.
+{44400}{44514}I want this rumor out of the|world immediately, trust me.
+{44669}{44747}We must leave immediately!|Our neighbors suspect something.
+{44758}{44838}- The Germans are coming closer!|- How soon?
+{44843}{44899}Tonight. Is the locomotive ready?
+{44959}{45005}- Well, yes.|- Then, let's go!
+{45006}{45093}We must wake up the kids.|We must tell everyone.
+{45104}{45180}- Rabbi, I am ready.|- Then let's go.
+{45191}{45250}Mordechai, take command!
+{45262}{45326}Sura, wake up the kids!
+{45370}{45417}I'm not quite ready...
+{48307}{48362}God bless this train!
+{48374}{48425}That it will take us safely
+{48437}{48548}to Palestine, to the Holy Land,
+{48559}{48620}to the land of Israel! Amen!
+{48909}{49001}Children of Abraham and Moses,|get on board!
+{49072}{49144}God bless and protect you.
+{49201}{49245}Get aboard!
+{49329}{49378}Don't push! I came first!
+{49495}{49544}Give space for the elderly.
+{49823}{49926}The Germans in the green coaches!|All others in the red coaches!
+{49938}{49979}No mattresses or furniture!
+{49990}{50060}Calm down! The train is leaving soon.
+{50072}{50155}Didn't you hear what I said?
+{50167}{50259}Listen, it's now 12:20 a.m.|We will leave at 12:23 a.m.
+{50579}{50622}Sit down quietly!
+{51207}{51261}Mordechai, it's time to leave!
+{51297}{51376}Schtrull! Off to Palestine!
+{51426}{51502}Fool! Depart discreetly...
+{52765}{52819}God protect us!
+{52992}{53044}Grandma, we are on our way!
+{53063}{53108}Yes, my angels,
+{53135}{53178}we are on our way.
+{53371}{53395}Jankele!
+{53457}{53511}The bank will grant you the credit!
+{54130}{54169}They were serious.
+{54192}{54231}They did it.
+{54260}{54304}They have left...
+{55185}{55269}Check if the steam pressure stands on 11,
+{55293}{55357}and that the lever is pushed forward…
+{55373}{55467}The wheels should then move forward,
+{55478}{55562}that is, in clockwise direction.
+{55766}{55811}Look over there!
+{55825}{55949}Stop! We'll never make it this way.|We'll only suffer from heart attacks.
+{55955}{56039}Stop seeing Germans everywhere!
+{56050}{56105}For the time being|there aren't any.
+{56630}{56730}- We are ready.|- It's early, only 30 km away!
+{56741}{56780}Shit! It's coming!
+{56828}{56922}It's unfair that some are born poor|and some born rich into this world.
+{56926}{57016}- Marx is also saying that.|- I agree with comrade Jossi und Marx.
+{57027}{57132}It would be more fair, if poor would|be born rich into this world.
+{57149}{57266}I'd gladly be a communist,|if I could keep peyots, tallit and kaftan.
+{57272}{57296}Is that possible?
+{57302}{57413}So you want to be a new man?|With peyots, tallit and kaftan?
+{57424}{57520}The new man is new!|The old is outdated.
+{57525}{57586}Listen... Thanks, Moitl.
+{57636}{57670}That's nice.
+{57718}{57811}Do you want to be the ideologist|of the Soviet train?
+{57817}{57920}- I haven't read Marx.|- Me neither. It doesn't matter.
+{57926}{57978}- You'll write it yourself.|- Okay.
+{58188}{58231}Shit. A station!
+{58242}{58299}A ghost train!|I am not drunk.
+{58310}{58429}In fifteen minutes it will collide|with the 3 o'clock express train!
+{58440}{58488}Five, four, three...
+{58570}{58623}Rabbi! Mordechai!
+{58761}{58818}Dirty Nazis! Have a nice journey!
+{59126}{59171}Shit! It stopped!
+{59220}{59302}Where are they?|I want to talk to them.
+{59311}{59383}They are people like us.|They have a god.
+{59394}{59430}- Who?|- The Germans!
+{59441}{59497}- There are no Germans here.|- What do you mean?
+{59508}{59563}- There aren't any here.|- Why did you stop then?
+{59574}{59628}- Because it gets worse!|- Worse than the Germans?
+{59639}{59712}I don't want to know.|Tell me anyway.
+{59723}{59849}- We passed a station.|- What did you expect? A harbor?
+{59860}{59905}They've discovered us!
+{60067}{60133}Our train isn't scheduled|in the timetable.
+{60144}{60251}What timetable, what are you|talking about? Give it to me.
+{60272}{60308}Attention, Jews!
+{60384}{60503}New laws concerning the|population of Jewish faith...
+{60595}{60636}So it's true.
+{60673}{60717}What do we do now?
+{60739}{60853}- It's coming from the opposite direction!|- I'll blow it up! No pasaran!
+{60856}{60939}No, it's not the same!|It's a passenger train.
+{61059}{61152}There will be an entire battalion|waiting for us at the next station!
+{61185}{61236}Is that your locomotive?|That's a strange noise!
+{61247}{61323}My loco doesn't make any noise.|What are you trying to say?
+{61366}{61418}Rabbi, this line is one-track only.
+{61449}{61482}Take cover!
+{61672}{61753}A miracle! It went underground.
+{61779}{61867}Thank you, God!|Digging a tunnel in such short time...
+{61893}{61993}- What? - We must tell the others that|there are no Germans here.
+{62004}{62113}They are probably already half-dead|and sticked to the walls like flies!
+{62124}{62223}I'll mobilize the council. A battalion|is waiting for us at the next station.
+{62254}{62346}I won't disobey orders given by the party.|But you are not the party!
+{62357}{62389}What do we do?
+{62462}{62569}Everybody, get out. I must see|to the damage. No, no compensation.
+{62586}{62663}- Dad, can I talk to you?|- Is everything alright?
+{62705}{62729}Yes...
+{62778}{62812}I'm in love.
+{62814}{62887}Mazel tov, my girl,|congratulations!
+{62896}{63026}- Wonderful! Who is the happy one?|- The son of a rich man, dad.
+{63079}{63142}Samuel Schwartz, the son|of Mordechai. Sami.
+{63162}{63272}What? The son of a Nazi?|He's not welcome in my house!
+{63283}{63350}What house? We live in a train.
+{63361}{63417}His grandpa was a rabbi.|He is a Jew like us.
+{63428}{63479}Sami, a real communist.
+{63485}{63574}I know what he's thinking.|He's the son of Mordechai.
+{63578}{63634}Nazi and bourgeois at the same time.
+{63640}{63737}You're wrong. His moral standards|are both proletarian and Marxist.
+{63740}{63815}- There you see, Papa.|- Not only a Nazi, but a communist as well!
+{63826}{63927}- One can't be a Nazi and a communist!|- What do you know?
+{63938}{64024}I forbid you to meet him.|End of discussion!
+{64073}{64156}- Can we try to bypass them?|- No casualties.
+{64167}{64233}5 lightly injured.|20 quarrels.
+{64244}{64341}Let them quarrel, it's a sign of|good health. Thanks, Jankele.
+{64345}{64457}- It's impossible to bypass all stations.|- Nothing is impossible!
+{64468}{64583}A good soldier makes anything possible.|I'm in command, I decide!
+{64590}{64664}No, the people should decide!|And it has decided,
+{64668}{64769}that the deportees should sleep in|the Nazi coaches. In clean sheets!
+{64775}{64860}The Nazis, the bourgeois, and the|imperialists should sleep in the straw!
+{64864}{64988}We also want the privileges and the|comfort that comes with being German.
+{65074}{65147}Jossi, what are you talking about?|What is your problem?
+{65164}{65206}- Jossele...|- Mama!
+{65225}{65264}My problem?
+{65281}{65343}The Germans would have|treated us better.
+{65363}{65429}They would even have offered it to us.
+{65456}{65540}- We demand justice!|- Clean sheets!
+{65579}{65685}Just what we needed.|Our community is falling apart.
+{65689}{65753}- We shouldn't have left.|- Quiet!
+{65878}{65974}You want to sleep in my bed?|Then repeat after me:
+{65982}{66020}"Jawohl, mein Major!"
+{66058}{66111}"Jaiwol meine majorele."
+{66119}{66183}Did you hear that?|Did I make myself clear?
+{66187}{66291}With such an accent he would soon have a bullet|in his head, and everybody would be in danger.
+{66295}{66428}To be German is for those who|have earned it, who worked for it!
+{66431}{66463}Fascist!
+{66592}{66713}Stop fighting. I promise you|all clean sheets in Palestine.
+{66726}{66805}- Get back in the train.|- Keep your promises, Rabbi!
+{66822}{66877}The final struggle has only begun!
+{66883}{66959}We're entering a new chapter in history.
+{66965}{67047}Wait for it then,|don't waste your energy on it now.
+{67053}{67139}Listen. I have an idea concerning|the stations. Grossmann!
+{67150}{67270}You all know Elie Grossmann,|the chess champion. A grand strategist.
+{67276}{67344}He can help us foresee the|movements of the Germans.
+{67355}{67458}- What do you see in the map?|- I see only one possibility.
+{67469}{67544}Take a detour. To be where the|Germans don't expect us to be.
+{67555}{67674}- That'll take time. - Yes, but no one|suspects that we have a ghost train.
+{67683}{67785}- Slow and steady wins the race.|- There we go!
+{67789}{67850}And a strategist in addition? Rabbi?
+{67861}{67954}Is it clear to him that are going east,|towards Russia, and not to England?
+{67965}{68028}Doesn't matter to me.|I have family everywhere.
+{68048}{68151}- Where are the Jews?|- I don't know. They promised not to leave.
+{68162}{68220}It's not any good for me either.
+{68231}{68360}- With whom should we do business now?|- With us! And real business...
+{68371}{68416}Are you taking the role of the Jews?
+{68453}{68502}Is that supposed to be a joke?
+{68700}{68776}Come on, Schtrull, forward!
+{68849}{68905}"Why" calling "For Whom"! Hello?
+{68930}{69021}"For Whom", answer me!|Damn you, answer me now!
+{69032}{69074}Hello! "For Whom"!
+{69089}{69138}- "Why"?|- It failed.
+{69142}{69180}- Why?|- Yes, that's me.
+{69191}{69260}- No, why did it fail?|- They changed route.
+{69271}{69366}- Blow up this train now!|- Okay, "For Whom"...
+{69370}{69471}- What do you mean, for whom? For the cause!|- What? Yeah, sure.
+{73003}{73100}Oh my god,|I'm probably next in turn…
+{73602}{73692}I have never expected that|we should all arrive.
+{73704}{73801}But at least children and young|people should reach the frontier
+{73812}{73861}and live peacefully in Palestine.
+{73872}{73940}And grown-up men and women too.|Children need their parents.
+{73951}{74035}And since you saved all of them,|why not also elderly people?
+{74046}{74130}- What have they done to you?|- If he doesn't listen, let me talk to him.
+{74134}{74197}It's not in the schedule.|It's a ghost train.
+{74200}{74307}Of course... no...|It's a deportation train...
+{74315}{74372}- There are many.|- ...with Jews...
+{74384}{74444}Most deportation trains|carry Jews, Herr Major.
+{74444}{74494}And they are found in the schedule.
+{74502}{74627}Right..? Of course...|But not this one, Herr Haupsturmführer.
+{74653}{74776}This is a top secret mission,|not included in the schedule.
+{74789}{74867}We are transporting extraordinary Jews.
+{74869}{74947}A Jew is a Jew.|What's so extraordinary with these?
+{74977}{75049}They are...
+{75072}{75132}Communist Jews.
+{75144}{75216}Very dangerous ones.|Two times more dangerous.
+{75226}{75296}They are Jews and communists|at the same time.
+{75310}{75365}Transported in a single train.
+{75372}{75464}Very profitable for the Reich.|We don't have to use one train for the Jews
+{75468}{75533}and another train for the communists.
+{75538}{75655}We can't separate them, because they|are both Jews and communists.
+{75660}{75760}In that way we are saving a train.|You understand what I'm saying?
+{75775}{75895}Just think of how many Jews and|communists who would like to see us fail.
+{75900}{75965}So... no schedule.
+{75984}{76099}Ghost train.|Top, top secret.
+{76114}{76144}I understand.
+{76159}{76222}- Do you need any escort, Herr Major?|- No, thank you.
+{76235}{76272}One last thing.
+{76307}{76364}Perhaps You can be of some help.
+{76384}{76459}All the Jews from a nearby|village have disappeared.
+{76488}{76538}Have You perhaps seen them?
+{76660}{76697}Nearby village?
+{76836}{76889}- Disappeared, You say...?|- Yes.
+{76913}{76943}Everyone?
+{77027}{77072}I wouldn't worry about it.
+{77102}{77172}They must all be visiting some nearby place.
+{77182}{77242}They keep tight family bonds.
+{77256}{77311}They never walk alone.|They will be back.
+{77313}{77381}- Are You sure?|- Yes, sure.
+{77386}{77436}I know a bit of that.
+{77446}{77536}First they take a turn,|then they return home.
+{77559}{77657}They are undoubtedly very|attached to their original habitat.
+{77735}{77782}You are very intelligent, Herr Major.
+{77787}{77852}You have studied the|psychology of the enemy.
+{77855}{77937}I can assure you that.|Day and night!
+{77980}{78010}Heil Hitler!
+{78047}{78111}- Filthy scum!|- Filthy scum!
+{78349}{78465}Mordechai, at the next stop I'll|move back to my coach, okay?
+{78839}{78951}Saved! I told you, these|Germans are not so clever.
+{79876}{79947}We'll never get there, Mama, will we?
+{79958}{80042}- The Germans will find us and kill us.|- No, no.
+{80065}{80116}Not all Germans are bad.
+{80131}{80209}We are still on our way.
+{80220}{80269}We'll be in Palestine soon.
+{80306}{80365}Don't you already feel the desert wind?
+{80414}{80468}I will read you a story.
+{80494}{80576}There was once a paradise on earth.
+{80614}{80713}A vast desert,|that seemed dry and inhospitable,
+{80724}{80829}but beneath all the sandy dunes|there was a wonderful treasure.
+{80840}{80976}Green gardens, palaces,|creeks, animals, birds.
+{81024}{81131}And a strong and happy people,|who overflowed with energy…
+{81186}{81247}LITTLE RED RIDING HOOD
+{81690}{81759}The party has decided|to turn every coach into a soviet.
+{81765}{81879}As a result of the public elections,|that were kept secret,
+{81890}{81959}we have appointed a|soviet secretary for each coach.
+{81965}{82069}Sami Schwartz, the party appoints you|soviet secretary of the first coach!
+{82070}{82143}- Bravo, comrade!|- So you must switch coach.
+{82315}{82376}- Fascist!|- Leave Sami alone!
+{82379}{82471}I will never marry you!|You are awake, this is not a nightmare.
+{82477}{82551}Who's talking about marriage?|Calm down.
+{82562}{82653}I don't want to marry you anymore.|I have married the Party.
+{82664}{82712}I'm not available anymore.
+{82723}{82762}Are you crazy?
+{83444}{83501}Is it still a long way, grandma?
+{83512}{83551}Yes, my love.
+{83562}{83646}Is the earth holy only at one place?
+{83662}{83771}No, the earth could be holy everywhere.
+{83808}{83862}If one only want it so.
+{83874}{83928}Then it wouldn't be a long way at all...
+{84080}{84124}Alright, alright.
+{85137}{85208}They are letting them out.|They are going to execute them!
+{85219}{85268}Come on, girls.
+{85285}{85319}Hurry up!
+{86454}{86515}They're letting them say a last prayer!
+{86910}{87036}Mordechai, tell your men to|remove their Nazi headwear!
+{87044}{87143}Take off yours too. Your uniforms|is enough for us to bear.
+{87154}{87281}The heads stay covered. The scripts don't|say anywhere that Nazi caps aren't allowed.
+{87321}{87384}- Say something!|- Amen.
+{87437}{87507}It's for me only to decide|what my men should do.
+{87518}{87605}That goes for the deportees too.|I've got the authorization papers!
+{87616}{87735}I allow you to wear the kippah,|but my men will leave their helmets on!
+{87753}{87913}If bombers come fly over the train...|everything will look normal, and we are saved.
+{87933}{87991}- That's important!|- You're just a fake commander.
+{88002}{88063}The papers and the train too!
+{88074}{88195}We encounter real Germans every day.|Therefore we need a real commander!
+{88360}{88413}The Germans are praying with them!
+{88420}{88486}- Are you sure?|- Well, I recognize Germans!
+{88497}{88595}- They are swaying back and forth,|with a book in their hands. - Wait.
+{88623}{88665}Fucking war!
+{88706}{88821}The Sabbath begins today.|Perhaps they are Germans of Jewish faith.
+{88832}{88903}- Okay, what do we do know?|- I'm going home.
+{88909}{88996}Who knows if German Jews|are Nazis or Jews…
+{89007}{89104}But they are wearing uniforms!|They are going to kill innocent people!
+{89110}{89188}You're annoying!|Don't forget that we're writing history.
+{89199}{89243}I'm going home now!
+{89254}{89304}Commanders are always right.
+{89315}{89392}If it goes wrong, history|will mention five cowards
+{89403}{89459}who escaped the scene.
+{89737}{89805}- No, no!|- What is it now?
+{89816}{89897}They're eating! They snatched my pots!|- What?
+{89908}{89975}Jossi Weintraub, what are you doing?
+{89986}{90010}Eating.
+{90021}{90084}- And the prayer? - And the meeting?|- What meeting?
+{90085}{90174}The party meeting. You are not called upon.|Continue your prayer, Rabbi.
+{90185}{90230}We must eat now, or we'll be too late.
+{90241}{90360}I have raised you as if you were|my own son. The Sabbath is holy.
+{90364}{90450}The meeting too!|You've only taught me superstition.
+{90454}{90522}We are Marxist-Leninist materialists!
+{90555}{90657}Our Messiah has already|arrived. There is no God. - Fool!
+{90668}{90761}Renegades! Come and pray!|And let the others also pray!
+{90772}{90852}A bad example for the children.|Dirty communist!
+{90863}{90950}Dirty Nazi!|There is no God!
+{90961}{91045}I'll say it once again loud.|So that everyone can here the truth!
+{91056}{91176}Don't fight! If there's a God or not,|what's the difference?
+{91187}{91275}- Have you ever asked if there's humanity?|- Stop it!
+{91286}{91372}Let him speak.|Speak, Schlomo.
+{91603}{91675}"God created man in his own image."
+{91705}{91739}That's beautiful...
+{91769}{91818}Schlomo as the image of God.
+{91884}{91950}Who has written this sentence in the Torah?
+{91970}{92019}Man. Not God.
+{92090}{92187}Written without any modesty,|comparing himself to God.
+{92232}{92310}Maybe God created Man.
+{92336}{92407}But Man, the son of God,
+{92434}{92514}has created God,|in order to invent himself.
+{92538}{92578}Could you repeat that?
+{92589}{92693}Man has written the Bible|in fear of being forgotten.
+{92704}{92738}God didn't care.
+{92749}{92815}Schlomo, we already have enough troubles.
+{92826}{92883}We do not love and worship God.
+{92894}{92997}We rather ask him to help us|with our terrestrial existence.
+{93008}{93117}But we don't care about God.|We just worry about ourselves.
+{93136}{93231}So, the question is not|whether there is a God or not,
+{93242}{93295}but whether there are any of us…
+{93310}{93387}Bravo, that was a beautiful prayer.
+{93401}{93435}Thank you, Schlomo.
+{93449}{93493}Sabbath shalom.
+{93574}{93695}- Did you understand him? - Of course.|God isn't sure whether there are any humans.
+{93706}{93805}"Man doesn't exist."|Do I look like a chimpanzee?
+{93875}{93914}It's your move.
+{94011}{94050}One less.
+{94057}{94118}Schlomo, why are you the fool?
+{94146}{94225}I wanted to be a rabbi,|but the position was occupied.
+{94229}{94333}When they looked for a fool, I thought|that I could be crazy on their behalf.
+{94362}{94443}- Don't you ever feel lonely?|- No, there are enough crazy people.
+{94449}{94496}I was talking about a woman.
+{94522}{94625}Why didn't you ever have|a wife, children and a home?
+{94650}{94754}I'm not that crazy...|Does it bother you if I take your queen?
+{94796}{94885}I would love them too much.|I would die of love.
+{94900}{94964}Or get crazy.
+{94980}{95050}Mordechai, we're running out of supplies.
+{95136}{95185}- What should we do?|- Shop for more.
+{95207}{95280}Are you crazy?|We can't go shopping in a village.
+{95291}{95346}"Heil, shalom! 1 kilo of carrots, please."
+{95357}{95429}The children will soon have|nothing more to eat.
+{95433}{95487}- Whose money are we going to use?|- No!
+{95498}{95607}I don't have any more money. I need every|penny for Schwartz and Son in Palestine.
+{95611}{95737}There's no more Son. Sami is a communist.|Me, Schwartz... I'm about to go crazy.
+{95930}{95967}Well, okay...
+{95983}{96052}If we all die, we wont need|Schwartz and Son in Palestine.
+{96063}{96156}No one would buy.|No one would sell.
+{96309}{96343}Turn around.
+{96372}{96411}Love me, Sami.
+{96422}{96463}Now you may.
+{96474}{96531}You do not have any|responsibilities any longer.
+{96535}{96648}I don't get it. Expelled from the|party for no reason, it's not fair!
+{96659}{96776}It's hard to love a Nazi communist|when I only want to make...
+{96787}{96864}I must be crazy.|I will die a virgin.
+{96867}{96981}- I had to keep our relationship a secret and|I can't tell my comrades... - Ex-comrades!
+{96985}{97036}...that I have the most beautiful girl.
+{97037}{97182}- All because of your father, the old fanatic!|- Don't call him that. You have a Nazi father!
+{97371}{97410}And this?
+{97421}{97509}Isn't this more valuable than all of|Marx, Engels and Lenin together?
+{98240}{98283}Wake up!
+{98294}{98343}It's 2:00 a.m.
+{98521}{98545}Come.
+{98556}{98584}Sami, come.
+{98660}{98694}Come on.
+{98801}{98825}No.
+{98953}{98992}Mordechai, open up!
+{99006}{99092}- What? The Germans?|- No. They have escaped!
+{99116}{99164}- Who?|- The deportees.
+{99757}{99849}Look, what they have done|to my train. Savages!
+{99861}{99982}- They wanted to blow up the locomotive!|- Let's leave now. They will soon be arrested.
+{99993}{100048}We shouldn't lose more time!
+{100059}{100082}No!
+{100108}{100185}They are our brothers|and sisters. Jews like us.
+{100189}{100280}- We can't leave them behind.|- Damn communists!
+{100282}{100328}They are our people!
+{100340}{100445}If they are arrested and tortured,|we wouldn't come very far.
+{100457}{100539}We should arrive in Palestine|all together. So it is written.
+{100551}{100584}I have an idea.
+{100673}{100756}Very good, my dear panhandler!
+{101044}{101106}Comrades, let's separate. Good luck!
+{101118}{101182}We'll meet at the Red Square.
+{101194}{101244}Proletarians of all countries, unite!
+{101258}{101319}But you just said we|should separate..!
+{101346}{101432}Barbarian! That's my only coat.|You've destroyed it, look!
+{101444}{101501}You're more brutal than the Germans!
+{101658}{101746}- Fascist!|- Jossi! Wait, I want to talk to you.
+{101767}{101811}Why did you do that?
+{101834}{101867}Tell me.
+{101996}{102100}Everyone aboard? We're leaving.|Next time I'll give my men the right to shoot.
+{102112}{102212}- The regulations must be respected.|- Shoot at your brothers?
+{102214}{102308}Wait! We can't leave yet.|One is missing. Lilenfeld the tailor.
+{102534}{102567}I can't manage.
+{102870}{102914}I'm here!
+{102935}{103003}I surrender. I got lost.
+{103149}{103191}I'm a Jew just like you.
+{103370}{103482}We should leave! They will torture him|until he tells where the train is.
+{103494}{103583}- No! We must rescue him!|- Rescue him!
+{103586}{103665}They are better armed.|Their officer is above me in rank.
+{103676}{103735}Torches are not enough.
+{103746}{103854}You don't know what a real Nazi is.|Only I know.
+{103865}{103929}- Only me.|- I have an idea...
+{104003}{104058}You fool!
+{104931}{104966}Heil Hitler!
+{104985}{105043}Oberstleutnant Andreas von Glück|at Your service!
+{105045}{105095}I have come to take my Jew back.
+{105100}{105158}Excuse me, Feldmarschall,|but it is my Jew.
+{105160}{105218}No, he's mine.|He escaped from my train.
+{105223}{105323}But he is in my prison.|He must be interrogated.
+{105371}{105451}Why are you so fond|of having a Jew here?
+{105462}{105529}That could be seen|as a bit odd...
+{105542}{105702}Do you have a particular, secret, admiration|for these Jews, and for Judaism in general?
+{105729}{105864}Is it part of your family?|And are you thus Jewish yourself?
+{105876}{105933}What?
+{105969}{106064}No! Is this a joke?
+{106074}{106159}I'm not Jewish, I have an entire|family tree file stating the opposite!
+{106164}{106224}I strongly doubt that!
+{106236}{106296}I can see what your heart is made of.
+{106302}{106439}Wanting to keep a Jewish prisoner|is indeed very suspect.
+{106453}{106576}I even suspect that it is|your intention
+{106578}{106676}to release him, or even worse,|to protect him.
+{106694}{106836}- Maybe you fancy him and want to start|a relation with him..? - What?
+{106850}{106950}An amicable relation?|Or even more?
+{106955}{107037}Go ahead, take the Jew,|I'll give him to you.
+{107042}{107107}I don't want him.|I don't need him anymore.
+{107121}{107223}Bring the Jewish prisoner!|Quickly!
+{107286}{107400}You're a real master of the Talmud,|all annotations and interpretations...
+{107420}{107470}Thank you. Heil Hitler.
+{107479}{107501}L'chaim.
+{107679}{107702}What's wrong?
+{107707}{107784}That will stop you from breaking|out again, you dirty dog!
+{107787}{107837}Take him to his coach!
+{107853}{107948}Now gather all your men|and all the villagers.
+{107957}{107991}Don't exaggerate. Let's go!
+{107996}{108041}No, he must be punished!
+{108051}{108071}Punished!
+{108076}{108116}Yes, Sir!
+{108196}{108253}What's going on?
+{108393}{108511}Everybody should bring food.|I must renew my supplies.
+{108531}{108641}- Some ovens also so that we can cook!|- Yes, Sir!
+{108677}{108754}Please, Mordechai, let's leave!
+{108842}{108887}Nice, isn't it?
+{108893}{108953}- Is it kosher?|- What?
+{108964}{109044}Cushion! I mean, has it|lied down properly?
+{109120}{109203}Liars! This meat hasn't lied down at all!
+{109210}{109255}Do you want to poison us?
+{109258}{109318}We can lay it down now,|if you want.
+{109323}{109395}It must lie down|all from the beginning.
+{109406}{109486}Get my Hakham...|Hrrmm...
+{109506}{109551}Bless you.
+{109582}{109657}...my butcher, my chefs,|and my casseroles.
+{109660}{109700}I have no confidence in you!
+{109702}{109777}Bring me all animals you have!|Alive!
+{109780}{109812}Yes, Sir!
+{109990}{110111}Filled carpfish. Pastrami cold cuts.|Oh, I love those!
+{110216}{110288}Filled carpfish... exquisite!
+{110355}{110396}- We're ready.|- Good.
+{111163}{111211}So long, asshole!
+{111524}{111646}I swear you, our own Nazis|are true angels!
+{111652}{111742}Human, genuine Jews,|I came to understand that finally.
+{111746}{111867}The others are true monsters,|you can't imagine...
+{111871}{111950}They've only released him,|so that he could spy on us.
+{111961}{112076}He works for Mordechai and his partners.|This is an anti-revolutionary act.
+{112087}{112184}I propose exclusion from|the party. Who's for?
+{112209}{112274}Who's against?|You're unanimously excluded!
+{112277}{112388}Traitor! A spy for imperialist|and fascist powers!
+{112399}{112521}The Supreme Soviet of coach number two|will decide your new place of residence.
+{112532}{112609}You must stay inside your coach|for the rest of the trip.
+{112610}{112703}You are neither allowed to step out,|nor to talk with the others.
+{112714}{112761}All food was kosher.
+{112772}{112872}Only Jews eat it that way.|My wife says so.
+{112873}{112973}She used to work for|the Rudenbaums, Herr Oberst...
+{112977}{113008}Kosher!?
+{113027}{113116}Ghost train!|Now you're telling me!
+{113127}{113186}You're going to rot in jail!
+{113407}{113440}Listen.
+{113451}{113528}You saved him.|Everyone is proud of you.
+{113539}{113632}- We'll be in Russia soon. Free.|- Proud of me...
+{113663}{113724}- They do not like me.|- What are you talking about?
+{113735}{113769}That is true.
+{113794}{113868}Nobody would lift a finger for me.
+{113879}{113925}Nobody, understand?
+{113936}{114016}Not even Sami, my own son.
+{114027}{114084}When I faced the Germans,
+{114095}{114220}I felt the whole community holding|its breath behind my back.
+{114231}{114285}Are you afraid of me? No.
+{114332}{114425}Everybody trembles, wishing for my success|and that the train departs safely.
+{114462}{114544}When they imagine the worst,|guess what they to think.
+{114555}{114611}That I'll be the first to bite the dust.
+{114622}{114681}You know that's not true.
+{114712}{114820}I only obey the will of the rabbi and|the advice of the council. And God.
+{114877}{114958}I would even become a real Nazi|out of love for my people...
+{114969}{115081}if it would bring them safely to Palestine.|Why do I get accused now?
+{115121}{115160}You are crazy.
+{115210}{115262}Would you burn your own people?
+{115285}{115385}Would you treat them like animals,|separate children from parents,
+{115396}{115445}brothers from sisters,|husbands from wives?
+{115456}{115538}Because the rabbi and the council|requires it? Would you do that?
+{115549}{115593}What are you trying to say?
+{115604}{115684}I wouldn't burn or do|any harm to anyone.
+{115741}{115826}This train is crazy,|it makes us all crazy.
+{115837}{115906}- Someone got this crazy idea...|- It was me.
+{115917}{115945}Really?
+{116012}{116061}Then everything is okay.
+{116219}{116286}Schtrull, you idiot!|Learn to drive...
+{116429}{116457}Heil Hitler!
+{116464}{116527}Everybody out.|We'll seize control of this train.
+{116529}{116567}What? My train?
+{116569}{116604}Orders from the Führer.
+{116607}{116685}O God!|It would be too beautiful...
+{116714}{116775}if you lets us fail so near our goal.
+{116786}{116865}Sometimes I ask myself|if You are a sadist.
+{116884}{116939}You notice our misfortune.
+{116950}{117047}Or do You look the other way|in order not to be shocked?
+{118617}{118687}- Mordechai, don't you hear his accent?|- His or mine?
+{118704}{118826}Mordechai?|Is that you name?
+{119136}{119194}Schlomo, my brother, you're alive!
+{119205}{119265}Manzatu, Gypsy brother, how are you?
+{119276}{119325}This is Schlomo! They are all Jews!
+{119336}{119415}They are Gypsies!|Nazis and deportees! Like us.
+{119421}{119526}I'm in command! I decide!|I want this train!
+{119543}{119648}I had it! It was mine!
+{119650}{119750}I've had enough of this!|I never wanted to be a Nazi!
+{119753}{119823}Me neither.|I understand you!
+{119826}{119873}- Where are you heading?|- India. And you?
+{119884}{119912}Palestine.
+{119939}{120017}They are not Germans!|They are Gypsies!
+{120028}{120092}Listen! Take your weapons away!
+{120098}{120212}They're all Jews. Not a single German|or anything like it. Come!
+{120478}{120573}God is great. The train is small,|but there is place for everyone.
+{120584}{120674}Deportees to the Deportees.|Germans to the Germans.
+{120913}{120981}Rabbi, are the pigs allowed|to board the train?
+{120992}{121038}God will understand.
+{121049}{121121}- Should I make a note?|- Whatever.
+{121149}{121181}Please.
+{121203}{121310}Please take the bed,|I'll sleep on the couch.
+{121334}{121369}Thank you.
+{121395}{121458}I was not in doubt|that you were a Jew.
+{121464}{121521}A German would have obeyed|me without any discussion.
+{121552}{121580}Heil Hitler!
+{122666}{122768}Papa. You were right.|I have left Sami.
+{122776}{122854}Mazel tov, my daughter,|let me embrace you.
+{122873}{122928}You have listened to your father.
+{122940}{123060}Don't be sad. There will be thousands|of others. You are young and pretty.
+{123078}{123164}Yes, Papa, there is already|another man that I love.
+{123175}{123199}Already?
+{123210}{123288}Mazel tov...|Who is the gentleman?
+{123327}{123378}Miron Pastai, the Gypsy.
+{123420}{123444}My daughter...
+{123472}{123516}I prefer the Nazi...
+{123529}{123578}My son, you have changed.
+{123607}{123685}You were good looking,|wanted to make good
+{123696}{123741}you had dreams,
+{123752}{123801}you had a God.
+{123836}{123875}What are you becoming?
+{123897}{123942}Is that communism?
+{124027}{124101}I will be with you|till the end of the world.
+{124140}{124170}Jossi...
+{124215}{124254}My Jossele...
+{124293}{124332}you were a communist,
+{124362}{124411}but became a human again...
+{124822}{124871}They are really sick!
+{125040}{125130}They're barbequing pork.|Is the fire still kosher?
+{125163}{125196}I understand.
+{125278}{125327}- One more time, please|- No. Tomorrow.
+{125338}{125383}- No, now.|- Tomorrow.
+{125395}{125498}- And if there is no tomorrow?|- Today will stop being today sometime.
+{125509}{125591}- Then morning starts.|- So there is a tomorrow.
+{125602}{125651}Yes, but not today.
+{125886}{125919}Thanks, cutie.
+{126145}{126215}Not very nice of you|to spy like that...
+{126284}{126317}I wasn't spying.
+{126347}{126425}- You wanted to start a fire?|- Me? No, never!
+{126446}{126510}Should I put out your fire?
+{126522}{126574}- No, it's not...|- Yes...
+{126611}{126720}The Party does not allow any|hot, non-political love...
+{126766}{126810}Make yourself ready, cutie.
+{126822}{126905}Tonight I will love both|you and your party
+{126917}{126978}in a way you've never|been loved before.
+{126997}{127045}A true revolution.
+{127074}{127193}Unbendingly fight to get through.|You know what I'm talking about.
+{127489}{127567}Don't touch my cow.|She is kosher.
+{128723}{128775}Have you swallowed your Stradivarius?
+{128786}{128874}They still believe that they|invented the violin. Play!
+{131281}{131315}Come on!
+{132967}{133045}What's all this "no" about?
+{133095}{133144}Why "no" all the time?
+{133155}{133253}- What are you doing here?|- He represents a third of our community.
+{133269}{133296}He should be here.
+{133298}{133346}We could still turn back.
+{133348}{133466}All Germans are gathered here,|at the front. We wont get through.
+{133473}{133561}So all of this for nothing?|We should try get through!
+{133584}{133636}- Whose in faver?|- What did he say?
+{133642}{133681}Who is in favor?
+{133929}{133963}Do you want something?
+{134033}{134067}Then go away.
+{134252}{134286}Tell me, Schlomo...
+{134313}{134372}Have you ever desired a woman?
+{134411}{134487}Have you ever loved a woman|and wanted to live with her?
+{134590}{134622}Yes.
+{134721}{134774}Have you ever loved a woman?
+{135096}{135135}Long time ago?
+{135265}{135310}Do you still love her?
+{135505}{135554}We're going to die, Schlomo.
+{135641}{135675}Who is the woman?
+{135831}{135855}It's you.
+{137865}{137908}Schtrull, stop.
+{137925}{138005}It should be here. Stop the train.
+{138054}{138157}- Have you found it?|- No, not yet. We're still looking.
+{138254}{138350}Do you think the Germans hate us so much|that they have hidden the front line
+{138353}{138395}just to drive us crazy?
+{138406}{138480}- What have we done to them?|- I don't know.
+{138598}{138642}O my God, the Germans!
+{138653}{138693}This is the end!
+{138779}{138875}No! We've arrived!|We're at the front!
+{138902}{139011}Both sides are shooting!|We're right in the middle!
+{139027}{139061}We are free!
+{140056}{140177}When we arrived in the Soviet Union|most of us stayed and became communists.
+{140190}{140281}Others went to Palestine,|especially the Gypsies...
+{140292}{140375}Others yet went to India,|also many Jews.
+{140391}{140516}Schtrull went all the way to China, where he|became station-master in a small village.
+{140609}{140679}The beautiful Esther went to America.
+{140690}{140760}She got many children.|One prettier than the other.
+{140840}{140908}That's the true story of my Shtetl.
+{140963}{141033}Well, almost true anyway...
+{141096}{141160}Shtetl, Shtetl, Shtetele...
+{141175}{141238}Don't forget me, Shtetele.
+{141249}{141311}One day I'll take a train
+{141322}{141371}and travel far away.
+{141466}{141528}Don't let people loose their eyes.
+{141539}{141596}They keep me alive,
+{141607}{141656}their sublime lunacy.
+{141750}{141809}Train of life...

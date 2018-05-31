@@ -1,0 +1,1237 @@
+{1}{1}25.000
+{2297}{2318}Hello.
+{2324}{2369}Yes. I'll get her.
+{2375}{2414}Yes. I'll tell her.
+{2420}{2470}All right. Bye.
+{2491}{2531}I've got a message|for you.
+{2537}{2596}A secret one.
+{2768}{2818}When I was but 13 or so,
+{2824}{2860}I went into a golden land.
+{2866}{2936}Cimbarozo Cotopaxi|took me by the hand!
+{3368}{3397}Over the Orinoco...
+{3403}{3459}across the blazing|Kalahari desert...
+{3465}{3526}through the untamed|grasslands of the veldt.
+{4470}{4494}What is it?
+{4500}{4564}What did she say?
+{4645}{4687}What did|she say that for?
+{4693}{4724}It's all right.
+{4730}{4741}I don't mind.
+{4747}{4821}Everything's going|to be all right.
+{7274}{7300}Hils, wake up.
+{7306}{7399}Mummy's made a new song|for us to play.
+{8276}{8334}B-flat. Listen.
+{8634}{8696}Big waves...|rolling in 3/4 time.
+{8737}{8790}When you hear me change|to the major chord,
+{8796}{8855}I want you to dive down|under the sea.
+{8945}{8998}Dive down|under the waves.
+{9004}{9031}You're just|silvery fishes
+{9037}{9089}swimming in and out|of the seaweed
+{9095}{9147}in 6/8 time.
+{9178}{9235}And... watch out,
+{9247}{9292}here comes the shark!
+{9517}{9547}"Dear Mrs. Du Pré,
+{9553}{9569}"we are planning
+{9575}{9606}"to broadcast|a children's performance
+{9612}{9655}"of the toy symphony by..."
+{9661}{9678}Haydn.
+{9684}{9688}Very good.
+{9694}{9741}"We would be delighted|if you would conduct
+{9747}{9774}"and if your daughter|Hilary
+{9780}{9818}would agree to play|the flute part."
+{9824}{9850}It's from the BBC.
+{9856}{9901}Jolly good.|Jolly good.
+{9907}{9944}Well done,|hullabaloo.
+{9950}{9965}Ha ha.
+{9971}{9981}What about me?
+{9987}{10037}If you practice hard enough,|maybe next time.
+{10043}{10088}But I want to come|this time.
+{10094}{10148}I want to be|with Hilary.
+{10154}{10223}Couldn't she just|come along for the ride?
+{10229}{10303}It's an orchestra, Derek,|not a Clapham omnibus.
+{10337}{10394}Jackie, that is quite|uncalled for!
+{10400}{10457}You're spoiling|Hilary's special day.
+{10463}{10525}If Jackie can't come,|I won't go.
+{11147}{11208}Follow the score, girl.|Don't gawp at the soloist.
+{11428}{11473}I really can't|apologize enough.
+{11479}{11499}Oh, not at all.
+{11505}{11540}Worth any amount|of trouble
+{11546}{11574}to get|young Hilary.
+{11580}{11609}She's really|very special.
+{11615}{11639}Yes, I realize that.
+{11645}{11691}Your sister's|a remarkable girl.
+{11697}{11727}You must be|very proud.
+{11733}{11785}Oh, we all are.|Terribly proud.
+{11791}{11852}Good-bye.
+{11880}{11931}I am never going to go through|anything like that again.
+{11937}{12008}If you want to be with Hilary,|you have to play as well as her.
+{12014}{12031}If you want|to be together,
+{12037}{12078}you've got to be|equally good.
+{12084}{12111}Do you understand?
+{12117}{12163}Yes.
+{12536}{12596}Supper's|ready.
+{12695}{12719}So I should think
+{12725}{12775}we should leave some|money on the doorstep
+{12781}{12807}for the burglar to take
+{12813}{12853}so he wouldn't get in|anymore.
+{12859}{12890}What do you think?
+{12928}{12980}well, I think...
+{13982}{14052}And the first prize|goes to the Du Pré sisters,
+{14083}{14109}Jacqueline and Hilary.
+{14115}{14168}Well done!
+{14175}{14203}One for you.
+{14209}{14258}One for you.
+{14787}{14851}Shall I take that|for you?
+{17056}{17110}In the woodwind category...
+{17118}{17141}a very clear winner...
+{17147}{17207}with the highest number|of points ever awarded
+{17230}{17284}in this section|at this festival...
+{17290}{17346}Hilary Du Pré.
+{17405}{17461}Come along.
+{17837}{17890}We had no difficulty at all
+{17897}{17957}in choosing the winner|in the string section,
+{17964}{18019}even though we were|a little unnerved
+{18025}{18073}by the candidate's rather...
+{18079}{18135}overemphatic|bodily movements.
+{18141}{18203}I think this must be|the first time
+{18209}{18286}that our winning soloists|have been sisters.
+{18374}{18427}The judges were unanimous
+{18433}{18497}in choosing|miss Jacqueline Du Pré.
+{19473}{19510}Ladies and gentlemen,
+{19516}{19534}we have many more awards,
+{19540}{19600}so I beg for you all|to sit down just...
+{20411}{20453}She does move about|a bit.
+{20459}{20520}She looks like one of|these Bobby Soxer types.
+{20547}{20580}I must say that's my fault.
+{20586}{20628}They did a lot of music|and movement
+{20634}{20648}when they were younger.
+{20654}{20707}Excuse me. Can I have|a picture, please?
+{20713}{20776}Yeah, you, too, sir.|That's lovely. Yeah.
+{20804}{20863}Nice big smiles.
+{20940}{20991}Hils! Hils!
+{20997}{21035}Come over.
+{21112}{21171}Is this one of yours?|Does she play?
+{21194}{21198}Oh, yes.
+{21204}{21235}Hilary won as well,|didn't you, dear?
+{21241}{21278}We can have|a family portrait.
+{21284}{21287}Right.
+{21293}{21344}Could you hold your flute|up where I can see it?
+{21350}{21365}Smile then.
+{21371}{21403}Your sister's|a remarkable girl.
+{21409}{21430}You must be very proud.
+{21436}{21496}Oh, yes, we are.|Terribly proud.
+{21543}{21593}Smile then!
+{22035}{22063}Well, then...
+{22069}{22085}be good.
+{22091}{22139}We'll collect you|in an hour.
+{22145}{22173}Be good.
+{22179}{22215}Yes.
+{22470}{22502}Now...
+{22508}{22551}let's see|what you can do.
+{22774}{22798}An hour today,
+{22804}{22844}and then|see how it goes.
+{22854}{22897}Oh.
+{23067}{23127}There.
+{23222}{23296}Well, now,|this is nice.
+{23983}{24000}No.
+{24006}{24064}Try that... that lifting,
+{24070}{24120}that upbeat|before the 3 quavers
+{24126}{24169}with an up bow.
+{24175}{24237}Like... like so.
+{24354}{24426}I like him.|He's my cello daddy.
+{24432}{24464}I want to come every day.
+{24470}{24508}Can I come every day?
+{24514}{24544}Do you mind?
+{24550}{24607}We shall have|to get a car.
+{24613}{24669}Oh.
+{26691}{26728}That's it.
+{26734}{26758}She's ready.
+{26764}{26808}Mrs. Du Pré,|what do you think
+{26814}{26877}of a debut recital|at the Wigmore Hall?
+{26883}{26890}Marvellous.
+{26896}{26923}I've spoken|to Ibbs and Tillet...
+{26929}{26987}they'll handle the publicity|and the tickets...
+{26993}{27013}and to Ernest Lush.
+{27019}{27074}He'll accompany her|on the piano.
+{27080}{27118}Oh.
+{27801}{27867}She's playing flat.
+{27927}{27946}Ladies and gentlemen,
+{27952}{27997}I'm afraid that my "a" string|has come loose,
+{28003}{28060}and I'm going to have|to restring my cello
+{28066}{28138}and start again.
+{28146}{28223}Well, at least|it wasn't my "g" string.
+{29150}{29219}I do wish she'd keep|that head still.
+{29225}{29247}Looks so flamboyant,
+{29253}{29328}all that hair flying|about the place.
+{29340}{29400}Oh. There she is.
+{29456}{29531}They want me to play|at a wedding in Italy.
+{29572}{29591}It's a princess' wedding.
+{29597}{29644}You will come, won't you?|I'd be terrified alone.
+{29650}{29712}Congratulations.|You were wonderful.
+{29718}{29735}Oh, thank you.
+{29741}{29773}Um, excuse me, everyone.
+{29779}{29808}Attention, please.
+{29814}{29835}Thank you.
+{29841}{29905}Jackie's debut|went very well.
+{29911}{29931}I'm sure you would agree.
+{29937}{30000}And to mark the occasion,|a very generous friend
+{30036}{30094}who wishes|to remain anonymous...
+{30116}{30187}has offered her this.
+{30349}{30421}It's one of the finest|cellos ever made.
+{30482}{30541}It's called the Davidov.
+{30707}{30783}The magic|is in the varnish.
+{30796}{30835}So you must|keep it away
+{30841}{30878}from the extremes|of temperature.
+{30884}{30913}Another problem|is the insurance.
+{30919}{30974}So don't let it|get out of your sight.
+{30980}{31044}It will give you|the world, Jackie.
+{31063}{31144}You must give it|yourself.
+{31473}{31532}Fratello Othello.
+{31538}{31571}Spaghetti.
+{31577}{31612}Spaghetti.
+{31618}{31673}Spaghetti Fra Gola.
+{31679}{31718}Si. Fra Gola.
+{31724}{31742}Si?
+{31748}{31799}Si.
+{31870}{31927}Uffici de ponte.
+{31933}{31946}Ah.
+{31952}{31985}Uffici de Firenze.
+{31991}{32010}Firenze?
+{32016}{32025}Capri.
+{32031}{32067}Ah, Capri|bellisimo.
+{32073}{32106}Si, bellisimo!
+{32112}{32133}Si, bellisimo!
+{32139}{32193}Si, fortissimo!
+{32226}{32289}Shh. Shh.
+{33107}{33169}The bubbles are so...
+{33245}{33258}Ok.
+{33264}{33290}Here's to Hilary and Jackie
+{33296}{33371}and all who've seen enough.
+{33449}{33476}Mmm.
+{33514}{33570}Hils, look.
+{33661}{33710}Wow.
+{33716}{33776}We're in heaven.
+{33782}{33868}Oh, put that|bloody light out.
+{34238}{34261}Excuse me.
+{34267}{34298}Have you seen|my sister?
+{34304}{34350}Is your sister|Jacqueline Du Pré?
+{34356}{34363}Yes.
+{34369}{34395}She'll be in Berlin|by now.
+{34401}{34482}She's playing the Haydn|cello concerto in c.
+{34504}{34552}Oh.
+{34601}{34647}You going back|to London?
+{34653}{34709}Yes. I suppose so.
+{35640}{35708}Oh. Stop, stop,|stop, stop, stop.
+{35752}{35804}What is this blasted|jigging about?
+{35810}{35841}Stand still, girl.
+{35847}{35870}Stand still.
+{35876}{35941}It is impossible|to produce a proper tone
+{35947}{36028}without proper|deportment.
+{36340}{36365}You have no technique.
+{36371}{36415}That's all right.|Technique can be taught.
+{36421}{36492}We just have to go back|to the beginning
+{36498}{36524}and start again.
+{36530}{36607}Cancel any concert dates|you may have outstanding.
+{36613}{36689}Yes, Mr. Bentley.
+{36899}{36931}Oh, Hilary...
+{36937}{36973}how is your|marvellous sister?
+{36979}{37034}I'm not sure.|She's away at the moment.
+{37040}{37064}In Russia.
+{37070}{37136}Oh.
+{37454}{37513}That's it,|old boy...
+{37519}{37595}keep trying.
+{37627}{37713}That's it!
+{37719}{37790}Ooh.|I felt that.
+{37796}{37819}Listen.
+{37825}{37852}Well done, boy.
+{37858}{37884}What is it?
+{37890}{37953}That is radio Moscow.
+{37959}{37994}This is what Jackie|will be hearing
+{38000}{38075}if she's listening|to the wireless.
+{38277}{38329}No.
+{38335}{38362}No.
+{38368}{38387}No!
+{38393}{38409}No!
+{38415}{38473}No!
+{38563}{38606}Instead of rehearsing|this piece,
+{38612}{38636}I just want you
+{38642}{38717}to practice playing|b-flat.
+{38726}{38772}Just the note b-flat?
+{38778}{38803}The note.
+{38809}{38878}Just the note.
+{39068}{39090}Thanks.
+{39096}{39161}Parcel from Jacks,|everybody!
+{39220}{39245}Want help?
+{39251}{39285}Well, open it!
+{39291}{39315}Can't open it.
+{39321}{39336}Hils...
+{39342}{39357}can't break it.
+{39363}{39421}Here, Hil.|Let me.
+{39490}{39543}It's her washing.
+{39549}{39582}I suppose|it must be difficult
+{39588}{39659}getting her washing done|in a foreign country.
+{39836}{39879}Good afternoon,|ma'am.
+{39885}{39967}My niece|is a student.
+{40095}{40124}Embouchure.
+{40130}{40165}Embouchure.
+{40171}{40208}Miss Du Pré.|Yes?
+{40214}{40253}I was wondering, could I|book you for a concert?
+{40259}{40304}No, it's not me you want.|It's my sister.
+{40310}{40359}But you're|Hilary Du Pré...
+{40365}{40389}the flautist?
+{40395}{40402}Yes.
+{40408}{40470}Yes, it's you I want.|The Bach b-minor.
+{40479}{40494}Oh.
+{40500}{40509}Oh, I'm sorry.
+{40515}{40550}I'm not allowed|to play concerts
+{40556}{40575}until|after my exam.
+{40581}{40613}Oh. Well,|when's your exam?
+{40619}{40652}Right now,|as a matter of fact.
+{40658}{40721}Oh, well, in that case,|I'll wait.
+{40857}{40908}Please.
+{40923}{40951}Good.
+{40957}{40996}Good.
+{41006}{41045}Good.
+{41175}{41223}Would you like to try|that for us again,
+{41229}{41295}please, Hilary?
+{41515}{41583}Again.
+{41698}{41766}Again.
+{42045}{42107}Miss Du Pré.
+{43532}{43607}Look, do I get my booking?
+{43613}{43664}Oh, I'm terribly sorry.
+{43670}{43732}You ran off.|I followed you home.
+{43751}{43794}Oh.
+{43803}{43868}You don't mind,|do you?
+{43913}{43943}No...
+{43949}{44002}as a matter of fact.
+{44092}{44145}I'd ask you in, but, um...
+{44192}{44219}it's a bit awkward.
+{44225}{44315}My sister's just come home.
+{44490}{44574}All right.
+{44596}{44672}Best go in.
+{44679}{44711}What do you think|you're doing?
+{44717}{44771}Well, if you're not going|to invite me to tea,
+{44777}{44850}I shall just have to make|a nuisance of myself.
+{44903}{44931}You c...
+{44982}{45017}Do you know...
+{45023}{45076}I'm starving.
+{45115}{45149}Ooh.
+{45155}{45211}Come here.
+{45356}{45408}Ohh!
+{45459}{45503}Hello.
+{45509}{45531}Who's this?
+{45537}{45554}Kiffer Finzi.
+{45560}{45585}I'm in love|with Hilary.
+{45591}{45650}And you're|Hilary's sister.
+{45656}{45684}What do you do?
+{45690}{45715}I'm a musician.
+{45721}{45775}Oh, following in Hils'|footsteps, are you?
+{45781}{45833}Are you any good?
+{45839}{45843}Hello!
+{45849}{45939}Kiffer Finzi. Very|pleased to meet you.
+{45946}{45977}You don't mind|if I start, do you?
+{45983}{46014}Exams really do give|you an appetite.
+{46020}{46059}Your exam!|How did it go?
+{46065}{46067}Oh.
+{46073}{46134}Famously. She's been offered|professional bookings.
+{46140}{46214}5 quid to do the Bach b-minor|next week in Newbury.
+{46220}{46297}Isn't that right?
+{46304}{46312}Yeah.
+{46318}{46356}You must be very proud of her.
+{46362}{46374}Yes, I am.
+{46380}{46392}Mmm. These are delicious.
+{46398}{46461}Absolutely throwing it|there outside.
+{46479}{46500}I got soaked.
+{46506}{46555}Shall I be mum?
+{46561}{46630}Oh, a nice cup of tea.
+{46691}{46745}I just screamed.|It was so embarrassing.
+{46751}{46831}So, have you|been with him?
+{46892}{46923}No.
+{46929}{46979}Of course not.
+{46985}{47047}No.
+{47100}{47180}Why? Have you been|with somebody?
+{47228}{47253}I'm thinking my answer,
+{47259}{47318}and you're going to have|to read my mind.
+{47332}{47390}All right.
+{47486}{47525}Oh, my lord, you have.
+{47531}{47605}You study in scarlet!
+{47614}{47671}What about you,|Hils?
+{47677}{47692}Been with anyone?
+{47698}{47768}Now you'll have|to read my mind.
+{47868}{47900}Oh, poor Hils.
+{47906}{47936}Maybe one day.
+{47942}{48010}Then again, maybe not.
+{48517}{48578}"Hilary Du Pré is a flautist|of immense expressive
+{48584}{48611}"as well as technical ability.
+{48617}{48683}She obviously has|a great future ahead of her."
+{48689}{48731}Does it mention|Jackie?
+{48737}{48774}Why? She wasn't playing.
+{48780}{48842}I wonder if I might ask you|to keep your voice down.
+{48848}{48869}Jackie's asleep.
+{48875}{48905}What, she's here?
+{48911}{48920}Yes. You've met.
+{48926}{48976}She should get up,|read the review!
+{48982}{49009}No, you mustn't wake her.
+{49015}{49066}Kiffer.
+{49072}{49083}Where's he going?
+{49089}{49157}Come on!|Up, out of that bed!
+{49163}{49239}Your friend is making|rather a lot of noise.
+{49245}{49306}Up, up!
+{49397}{49439}Look. Read.
+{49445}{49504}Oh, we're off|to the pictures.
+{49510}{49527}Can I come?
+{49533}{49569}No, you can't come.|It's a date.
+{49575}{49637}We're going to see|Jules et Jim.
+{49643}{49685}Sounds French.|Where's it playing?
+{49691}{49724}In France.
+{49730}{49747}It's by François Truffaut.
+{49753}{49808}It's playing at the Scala|on Wardour street.
+{49814}{49834}That's in Soho.
+{49840}{49908}Yes. I thought we could|go to Maison Bertaux,
+{49914}{49961}seeing as we're|in a French mood.
+{49967}{50029}You do realize there|are white slavers
+{50035}{50073}working|in that area?
+{50079}{50116}Hmm?
+{50122}{50137}No self-respecting man
+{50143}{50188}would ask a woman|to go to such a place.
+{50194}{50280}It's out|of the question.
+{50308}{50313}I'm sorry.
+{50319}{50388}It's completely|out of the question.
+{50477}{50514}Well...
+{50520}{50575}no chance of a lift, then?
+{50583}{50646}Come on.
+{51803}{51864}Jacks.
+{51952}{52013}Jacks.
+{52019}{52090}Kiffer's asked me|to marry him.
+{52096}{52104}What?
+{52110}{52190}Kiffer's asked me|to marry him.
+{52203}{52278}Well, what do you think?
+{52311}{52386}Well, that's just silly.
+{52392}{52479}Look, Hils. You don't|have to marry him.
+{52605}{52654}Do you know|what that is?
+{52660}{52725}That, my dear,|is a Dutch cap.
+{52740}{52786}It's a contraceptive.
+{52792}{52859}Is it really?
+{52865}{52895}Hmm.
+{52901}{52939}Where did you get it?
+{52945}{52986}Doc fitted me up.
+{52992}{53068}Oh, come on, Hils.
+{53086}{53158}Let's get a flat|together and go bonkers.
+{53164}{53213}We could have all|the men we wanted to.
+{53219}{53301}I'm going to Marry Kiffer.
+{53341}{53419}I love him.
+{53425}{53450}He loves me.
+{53456}{53496}He does not love you.
+{53502}{53562}He just wants to get|into your knickers.
+{53568}{53607}You don't have|to get married
+{53613}{53650}every time|you fancy a screw.
+{53656}{53688}That's what these|are for.
+{53694}{53776}I want to get married.
+{53784}{53867}Well,|you can't marry him.
+{53980}{54002}You can't just leave me.
+{54008}{54086}I'm not leaving you.|You're not here anymore.
+{54100}{54125}You never will be again.
+{54131}{54192}Haven't you heard?|I'm giving up the cello.
+{54198}{54227}Oh, don't be silly.
+{54233}{54276}I can do what I want.
+{54282}{54332}But you don't know anything|apart from the cello.
+{54338}{54417}I don't know anything|apart from the flute.
+{54437}{54495}We're babies, Jacks.
+{54501}{54534}Kiffer laughs at me.
+{54540}{54626}Then why are you|marrying him?
+{54632}{54706}Because he makes me|feel special.
+{54712}{54761}That's a big swizz,
+{54767}{54832}because the truth is...
+{54838}{54930}you're not special.
+{55149}{55245}I thought you'd be|happy for me.
+{55651}{55740}This is nice.
+{56652}{56681}Hi.
+{56687}{56708}Good god.
+{56714}{56751}What on earth|are you wearing?
+{56757}{56819}It's fab, isn't it?|Danny bought it for me.
+{56825}{56860}This is Danny,|by the way.
+{56866}{56909}Danny,|this is daddy.
+{56915}{56991}Daddy-o.
+{57145}{57173}Barenboim.
+{57179}{57223}I thought he was|from Argentina.
+{57229}{57273}Surely that must be|a German name.
+{57279}{57325}I think it must|be Jewish.
+{57331}{57372}Oh.
+{57378}{57405}Oh, dear.
+{57411}{57470}I had a large breakfast|this morning.
+{57476}{57523}He's a pig.
+{57529}{57598}I have got plenty more.|Piers, dig in.
+{57604}{57628}Anyway, mummy,
+{57634}{57675}we're really desperate|to get married,
+{57681}{57768}but lord knows when|we'll have the time.
+{57787}{57867}Of course. It's best not|to rush these things.
+{57873}{57938}I'm completely|booked up until may.
+{57944}{57978}And Danny's|booked up...
+{57984}{57987}June.
+{57993}{58022}He's such a show-off,|but he's very handsome.
+{58028}{58086}Of course, we only|really meet in airports.
+{58092}{58141}We're going to do more|joint bookings together.
+{58147}{58191}Sort of a duo,|like the Beatles.
+{58197}{58228}There are 4 Beatles,|actually.
+{58234}{58250}Are there?
+{58256}{58267}Mm-hmm.|Oh.
+{58273}{58309}Anyway, when we do|get married,
+{58315}{58333}we're going|to get married
+{58339}{58364}somewhere|wildly romantic
+{58370}{58403}like the wailing wall|in Jerusalem.
+{58409}{58470}Don't you have to be Jewish|to be married there?
+{58476}{58547}Yes, that's right.|I'm going to be Jewish.
+{58553}{58586}I'm having lessons|already.
+{58592}{58622}Instruction, not lessons.
+{58628}{58642}Oh.
+{58648}{58723}So, what do you think?
+{58786}{58865}Why are you talking funny?
+{58871}{58920}Am I?
+{58926}{58939}Nobody becomes Jewish.
+{58945}{59027}I know for a fact you can't|just convert to Judaism.
+{59038}{59057}Bye-bye now.
+{59063}{59093}Leave it to me.
+{59099}{59144}Honestly,|I can sort it out.
+{59150}{59224}Oh, uh...
+{59248}{59336}She can't possibly be|Jewish, for god's sake.
+{59342}{59416}She's blond.
+{59471}{59561}They call them|the Arthur and Guinevere
+{59569}{59586}of music's Camelot.
+{59592}{59643}The blossoming romance|between Jacqueline Du Pré
+{59649}{59715}and the Argentinean pianist|Daniel Barenboim
+{59721}{59783}has taken the world|by storm.
+{59789}{59835}Up a bit higher.
+{59841}{59860}That's it.
+{59866}{59921}Oh, I can see them now.
+{59927}{59975}Miss Du Pré astonished|the British public
+{59981}{60055}with her brilliant rendition|of Elgar's cello concerto.
+{60061}{60079}Piers!
+{60085}{60133}Fresh from a triumphant|series...
+{60139}{60198}You've ruined it now.
+{60204}{60279}The couple has just|announced their engagement.
+{60288}{60349}Miss Du Pré is converting|to Judaism.
+{60355}{60370}And they plan to wed
+{60376}{60422}in Barenboim's adopted|home of Israel
+{60428}{60493}in the golden city|of Jerusalem.
+{62407}{62442}Both asleep.
+{62448}{62516}Coming.
+{62710}{62728}Mmm.
+{62734}{62842}Mmm.
+{63010}{63052}Aah!
+{63058}{63088}Oh, they're freezing!
+{63094}{63139}Cold fingers are|very stimulating.
+{63145}{63204}No, they're|bloody well not.
+{63210}{63322}Shh.
+{63470}{63522}What?
+{63528}{63574}Oh, ok.
+{63580}{63692}Here we go.
+{63698}{63727}Mind your head.
+{63915}{63974}Your nose is cold, too!
+{64046}{64070}Someone's coming.
+{64076}{64091}They can't be.
+{64097}{64164}Well, they are, you know.
+{64514}{64588}Jackie.
+{64977}{65057}Oh, darling.
+{65152}{65245}Why didn't you tell us?
+{65498}{65595}Do I have to walk|all the way down there?
+{65602}{65681}Come on.
+{65822}{65874}Ok, yes, please.
+{65880}{65951}So, Hilary, listen.
+{65957}{66030}Oh, no, I've forgotten|it now. Shit.
+{66036}{66079}How does it go?
+{66085}{66151}Oh, I know this,|I know this.
+{66157}{66194}Oh, yes.
+{66200}{66225}Dvorak.
+{66231}{66256}Yes.
+{66262}{66295}Absolutely.
+{66301}{66329}You two are telepathic.
+{66335}{66366}It's true.|It's true.
+{66372}{66388}Oh, rubbish.
+{66394}{66438}Do another one.
+{66444}{66511}All right.
+{66546}{66610}Ok.
+{66616}{66699}You listening?
+{66761}{66807}I know this. This|is dies Natalis
+{66813}{66865}by Kiffer's father.
+{66871}{66939}All right, go on.|Do another one.
+{66996}{67010}Ok, um...
+{67016}{67081}don't tap it.|Just think it.
+{67129}{67152}Ok.
+{67158}{67202}All right.
+{67208}{67270}You really got me|by the kinks.
+{67326}{67341}Absolutely.
+{67347}{67379}You're just|saying that.
+{67385}{67391}No, it's true.
+{67397}{67454}We always know what|the other one is thinking.
+{67465}{67504}You know what|I'm thinking now,
+{67510}{67530}don't you, sis?
+{67536}{67568}Not really.
+{67574}{67600}Yes, you do.
+{67606}{67650}No, I don't.
+{67656}{67679}I'll tell you.
+{67685}{67693}No.
+{67699}{67763}I mean, just tell me.
+{67873}{67933}I want|to sleep with Kiffer.
+{68087}{68124}You don't mind,|do you, sis?
+{68130}{68159}We always did say
+{68165}{68222}that we'd share|everything, remember?
+{68440}{68506}What?
+{68536}{68545}What is it?
+{68551}{68626}Nothing. I think|we should all go to bed.
+{68666}{68696}I don't want|to go to bed.
+{68714}{68786}I could stay up|all night.
+{70464}{70488}Well, you have|to be very careful,
+{70494}{70578}'cause it's very easy to|stand on one, isn't it?
+{70584}{70639}Why don't you look|around there?
+{70645}{70724}I think you might be|standing on one.
+{70798}{70830}I'm just going over|to the Williams' place
+{70836}{70853}for cheese, luv.
+{70859}{70882}I'll come with you.
+{70888}{70947}I thought you had jet lag.
+{70953}{71046}The walk will help.
+{71085}{71111}Why don't you two|go together,
+{71117}{71156}and I can get on|with the gutters?
+{71162}{71218}Fine.
+{71224}{71286}Actually I'd just|as soon stay here.
+{71292}{71334}Me, too.|It's settled, then.
+{71340}{71384}Kiffer goes off|for the cheese
+{71390}{71402}and we stay here.
+{71408}{71509}I'll get the fucking|cheese, all right?
+{71656}{71706}I think you should|go with her.
+{71712}{71740}Why?
+{71746}{71823}'Cause she doesn't|know the way.
+{71974}{72027}Jackie!
+{72118}{72190}Jackie!
+{72480}{72555}Jackie!
+{72634}{72715}Jackie!
+{72721}{72760}Jackie!
+{72766}{72832}Jackie!
+{72898}{72970}Jackie!
+{73073}{73137}Jackie.
+{73260}{73324}Get away from me!
+{73330}{73378}You don't love me!
+{73384}{73444}Don't fucking love me!
+{73463}{73534}All I want is a fuck.
+{73671}{73692}Jackie.
+{73698}{73741}Aah!
+{73747}{73759}Come on.
+{73765}{73826}All I want is a fucking fuck,|for fuck's sake!
+{73889}{73935}It's ok.
+{73941}{74007}Ohh!
+{74016}{74087}It's all right.
+{74172}{74233}No.
+{74304}{74343}We have to.
+{74349}{74369}No, we don't have to.
+{74375}{74417}Why would anyone have to?
+{74423}{74469}Because she's my sister.
+{74475}{74500}Yes, well,|I think you'll find
+{74506}{74533}that this is not|the sort of thing
+{74539}{74576}that sisters normally|ask one another.
+{74582}{74633}Because I'm scared.
+{74639}{74726}Yes, well,|she doesn't scare me.
+{74737}{74797}I'm sure it would|just be the once.
+{74803}{74859}Just the once, huh?
+{74865}{74917}I wouldn't have asked.|Any particular position?
+{74923}{74966}She just needs proof.
+{74972}{75041}Proof of what,|for god's sake?
+{75048}{75119}Proof that|somebody loves her.
+{75428}{75497}She just went.
+{75506}{75579}Didn't say a word.|Didn't...
+{75585}{75661}cancel|her engagements.
+{75820}{75890}How does she|seem to you?
+{75900}{75985}Well, she has been acting|a little oddly.
+{76453}{76469}It's beautiful.
+{76475}{76519}I can see why|you wanted to come here
+{76525}{76597}instead of Los Angeles.
+{76623}{76679}Don't worry about|the cancellations, by the way.
+{76685}{76712}I've seen to them.
+{76718}{76771}Everyone was|very understanding.
+{76777}{76842}No one wants to put|pressure on you,
+{76864}{76978}so don't worry.
+{77119}{77157}So...
+{77163}{77207}Which is the daddy?
+{77213}{77239}Which one?
+{77245}{77272}There's a slate mine
+{77278}{77346}on the other side|of the mountain.
+{77352}{77404}Kiffer,|look what Theresa's found.
+{77410}{77474}Will you excuse me|a moment?
+{77480}{77574}Is that the one|with that one?
+{77580}{77674}I was thinking...
+{77694}{77760}if Kiffer and Hilary|can do it, so can we.
+{77766}{77832}We can buy a house|near here if you like.
+{77838}{77932}It would cost|next to nothing.
+{77938}{77964}We could have all we needed.
+{77970}{78051}We could have a little studio,|rehearsal rooms,
+{78057}{78073}phones.
+{78079}{78150}We could have a helipad.
+{78156}{78189}What do you say?
+{78195}{78277}Pbltlllt!
+{78404}{78481}I try to give her|everything she wants.
+{78487}{78571}I don't know|what she wants.
+{78606}{78677}Do you know|what she wants?
+{78683}{78767}Not really.
+{78851}{78949}Look after her,|won't you, Kiffer?
+{79373}{79459}That's better.|It's just us again.
+{81430}{81466}You know you|can't have toast.
+{81472}{81538}I don't know why|you keep asking.
+{81544}{81604}Daddy, I want toast.
+{81610}{81643}Toast?
+{81649}{81692}Toast? I want|toast, too.
+{81698}{81713}Could we|have toast?
+{81719}{81807}I haven't had a chance|to light the fire yet.
+{81822}{81885}Well, we'll light|the fire, won't we?
+{81891}{81940}Let's light the fire.
+{81946}{81957}Yes.
+{81963}{82020}There.|Take some of these
+{82037}{82111}and put them|on the fire.
+{82179}{82231}I feel a million dollars|this morning.
+{82237}{82314}That was exactly what|the doctor ordered.
+{82589}{82667}Oh, thank you, Hils.
+{82698}{82739}You don't mind, do you?
+{82745}{82834}No, of course not.
+{82875}{82948}Well, here we all are.
+{82954}{82982}Wouldn't it be wonderful
+{82988}{83066}if we could stay|like this forever?
+{83072}{83092}Get this one.
+{83098}{83113}You get that one.
+{83119}{83201}Come on. Throw some more|logs on the fire.
+{85665}{85702}Come on! Throw it!
+{85708}{85757}Come on,|throw it, throw it,
+{85763}{85800}throw it, throw it!|Come on!
+{85806}{85884}Come on!
+{85951}{86024}Come on!
+{86071}{86156}Come on, let's go.
+{86342}{86410}Here, Kif.
+{86416}{86438}Come on.
+{86444}{86515}Come on, sweetie.
+{86578}{86640}Kif, what are you doing?
+{86646}{86707}I'm kissing you.
+{86713}{86746}It's me... Hils.
+{86752}{86814}I know.
+{86827}{86904}You're my wife.
+{87209}{87231}What about Jack?
+{87237}{87300}What about her?
+{87323}{87337}Ok.
+{87343}{87380}What if she wakes up?
+{87386}{87461}Look, I don't care.
+{87531}{87602}Oh, that's good.
+{87801}{87868}Oh, shh, shh. Shh.|Kiffer, shh.
+{87874}{87960}Kiffer.
+{87966}{88064}Kiffer.
+{88198}{88252}Oh, god.
+{88258}{88305}Kiffer. Shh.
+{88311}{88400}Stop. Get off me.|Get off me.
+{88437}{88451}Get off me!
+{88457}{88517}She'll never|talk to me again now.
+{88523}{88597}You've got to start|saying no to her.
+{88613}{88691}The more you give her,|the more she wants.
+{88752}{88824}You've got to start|saying no to her.
+{89202}{89290}I've given you|everything.
+{89410}{89436}Ever since we were little,
+{89442}{89536}everything you've asked for|I've said yes.
+{89622}{89729}Jackie, listen.
+{89767}{89861}Jackie...
+{89920}{89991}Jackie...
+{90147}{90244}I'm sorry.
+{91073}{91161}Cimbarozo Cotopaxi|took me by the hand...
+{91195}{91228}over the Orinoco...
+{91234}{91311}across the blazing|Kalahari desert...
+{91317}{91378}through the untamed|grasslands of the valley.
+{91384}{91447}We're in heaven.
+{91453}{91563}Oh, put that|bloody light out.
+{91694}{91716}Psst.
+{91722}{91774}Psst.
+{91790}{91861}Come. We must go.|You have a plane.
+{91867}{91870}What?
+{91876}{91955}Your plane to Germany|for your concert tonight.
+{91981}{92002}What about my sister?
+{92008}{92064}She will be taken|to her England plane.
+{92070}{92158}It's all arranged.|You must hurry.
+{94106}{94139}Very good.
+{94145}{94168}Romantic.
+{94174}{94225}We understand this.
+{94231}{94236}Really?
+{94242}{94309}I'm afraid I don't know|a bloody word, frankly.
+{94315}{94363}Please?
+{94369}{94389}Danke.
+{94395}{94407}Bitte.
+{94413}{94476}Ich bin ein Hamburger.
+{95033}{95048}Yeah.
+{95054}{95113}Wunderbar!
+{95786}{95875}Oh, um, I'm sorry,|I'm sorry. Wrong number.
+{95882}{95964}Entschuldigen.
+{96069}{96154}Hello, mummy.|Is Hilary there? Can...
+{96160}{96193}oh, sorry. Uh, sorry.
+{96199}{96289}S-sorry, no, wrong number.|Sorry.
+{97163}{97246}Fantastico,|fantastico, querida.
+{97253}{97288}Casals was in|the audience tonight.
+{97294}{97327}He was most impressed.
+{97333}{97386}We would be honoured|if you'd join us for supper.
+{97392}{97424}Oh, I'd love to.
+{97430}{97501}Only the problem is,|is that I stink.
+{97520}{97528}Excuse me?
+{97534}{97581}Um, well, the sweat|just runs off me
+{97587}{97613}when I'm playing.|What about Pablo?
+{97619}{97657}Does he have|the same problem? Look.
+{97663}{97723}Idios mío!
+{97756}{97789}Excuse me, um...
+{97795}{97850}my clothes are dirty,|and I'd like to wash them.
+{97873}{97918}Uh... wash, yes?
+{97924}{97978}Um, dirty.|Washing?
+{97984}{98002}S^. Lavadero.
+{98008}{98061}Well, there's no plug,|and it's too small.
+{98067}{98137}No. Lavadero.|Lávelo all.
+{98388}{98440}Lo siento mucho, señora.
+{98446}{98524}Look, look, is there|a washing machine?
+{98595}{98693}Ay, esos ingleses...
+{99243}{99329}Shut up!
+{100181}{100246}The maestro's|pleased to see you.
+{100252}{100309}He thinks you're going|to be a great cellist.
+{100315}{100369}He wants to know|if all is well.
+{100375}{100401}Do you have|happiness here?
+{100407}{100488}Gosh. Yes. Heaps of it.|It's just, um...
+{100522}{100562}it's just the cello.
+{100568}{100602}Well, it's silly, really.
+{100608}{100675}I just don't want|to be a cellist after all.
+{100700}{100756}Well, I never asked|to be a cellist, you see?
+{100762}{100774}It's all just a big cock-up.
+{100780}{100827}One day, I was just playing,|and then the next day,
+{100833}{100899}I was booked up|for the next 2 years.
+{100905}{100977}I hate the cello,|if you want to know.
+{100983}{101070}I think I understand|this wrong.
+{101097}{101133}Yes.
+{101139}{101208}Thank you.
+{102816}{102870}Home.
+{102876}{102962}This is what my home|smells like.
+{104849}{104919}Aah!
+{104948}{104971}Hello!
+{104977}{104997}Who's this?
+{105003}{105050}Kiffer.|Kiffer Finzi.
+{105056}{105139}I'm in love|with Hilary.
+{105162}{105209}I shan't be very late.
+{105215}{105307}I came back|to see you.
+{105356}{105413}I shan't be long.
+{105419}{105470}It was terribly funny.
+{105476}{105518}I'm going to get a job,
+{105524}{105587}and I'm going to be|an ordinary person like you.
+{105593}{105656}You couldn't be|ordinary in a million years.
+{105662}{105723}And you don't know anything|apart from the cello.
+{105729}{105814}I don't know anything|apart from the flute.
+{105820}{105904}Jackie, we're babies.
+{105910}{105953}Kiffer laughs at me.
+{105959}{106005}Then why are you|marrying him?
+{106011}{106098}Because he makes me|feel special.
+{106143}{106205}You don't understand|that because...
+{106211}{106292}you don't have anybody|to make you feel special.
+{106306}{106374}That's a big swizz.
+{106391}{106460}Because the truth is|that you're not special.
+{106466}{106546}If you think that being|an ordinary person
+{106552}{106618}is any easier than being|an extraordinary one,
+{106624}{106714}you're wrong.
+{106732}{106782}If you didn't have|that cello to prop you up,
+{106788}{106873}you'd be nothing.
+{107987}{108063}Who's that?
+{108160}{108223}Hey, Freud.
+{108229}{108265}You like Freud?
+{108271}{108361}Yes. He'd be a lot better|if he hadn't invented
+{108368}{108453}the atom bomb, though,|wouldn't he?
+{108599}{108647}Are you|Jacqueline Du Pré?
+{108653}{108658}Yes, I am.
+{108664}{108716}I've heard about you.|I'm Daniel Barenboim.
+{108722}{108744}I've heard about you, too.
+{108750}{108792}Really?|What have you heard?
+{108798}{108856}I heard that you had|glandular fever.
+{108862}{108901}That's right.
+{108907}{108934}It's very infectious,|isn't it?
+{108940}{108966}So you'd better|keep your distance.
+{108972}{109023}Oh, it's not infectious.|It's contagious.
+{109029}{109059}You have to have|bodily contact
+{109065}{109079}with the other person.
+{109085}{109177}So you can talk to me,|but you can't kiss me.
+{109224}{109250}Jackie.
+{109256}{109319}You left this|in the cab.
+{109325}{109356}Silly girl.
+{109362}{109406}Thank you.
+{109412}{109438}So, you are a musician?
+{109444}{109461}Yes, I am a musician.
+{109467}{109505}You know very well|that I'm a musician.
+{109511}{109552}A very famous musician,|actually.
+{109558}{109597}Well, you don't look|like a musician.
+{109603}{109667}So what are musicians|supposed to look like, then?
+{109673}{109740}They're not|usually so blond.
+{109746}{109803}Danny, we should go.
+{109809}{109855}I have to go.
+{109861}{109897}I'd love to talk to you|sometime
+{109903}{109986}about glandular fever.
+{111487}{111558}Paderewski medal.
+{111564}{111631}Beethoven medal.
+{111682}{111750}You name it.
+{111762}{111789}Well...
+{111795}{111888}I won a talent contest|in Camden.
+{111908}{112002}And I won in Purley.
+{112008}{112027}Where's Purley?
+{112033}{112110}Oh, you wouldn't|know it.
+{112116}{112184}Moscow.
+{112190}{112271}I won in Moscow.
+{112277}{112376}I made miss Mouncey cry.
+{112388}{112478}Who is miss Mouncey?
+{112484}{112567}Who is miss Mouncey?
+{112615}{112678}Who is miss Mouncey?
+{112684}{112775}She's my math teacher.
+{112821}{112851}What about you?
+{112857}{112942}Did you ever|make anyone cry?
+{112973}{113090}Mmm... no. I never|made anyone cry.
+{113180}{113254}Thank you.
+{113303}{113402}I'm sorry I treated|you so badly.
+{113442}{113461}I should've known
+{113467}{113547}you'll never|let me down.
+{115559}{115653}Now that, that's how|to play Beethoven.
+{115659}{115708}It's too slow. You're|coming in too slow.
+{115714}{115793}No, you're too fast.|You're throwing it away.
+{115799}{115849}No, you have|to do it again.
+{115855}{115915}I think I'll decide|the tempo.
+{115921}{115944}Are you all right?
+{115950}{116016}Yeah. I just got|cold hands.
+{116022}{116101}Here.
+{116125}{116132}Listen to that.
+{116138}{116202}It sounds like|you're running for a bus.
+{116208}{116287}I've never run|for a bus in my life.
+{116441}{116482}To keep|your hands warm.
+{116488}{116538}Oh, Danny.
+{116544}{116618}She's very vigorous|with the bow, hmm.
+{116624}{116675}So there has to be|an unusual amount of room
+{116681}{116723}under the arm, here.
+{116729}{116761}And, ha...
+{116767}{116799}sweat, sweat|is the main problem.
+{116805}{116894}So that the seams have to be|a lot stronger than normal.
+{116910}{116993}I understand.
+{118534}{118547}I'm sorry.
+{118553}{118627}It's all right.|They'll love it.
+{118906}{118948}How are we going|to do the thing
+{118954}{119042}without|those 2 girls?
+{119414}{119442}I called for them|3 or 4 times.
+{119448}{119509}Danny, have you seen|my pills anywhere?
+{119515}{119530}I've lost my pills.
+{119536}{119567}I don't know|where your pills are.
+{119573}{119607}Oh, come on.
+{119613}{119646}Shit.
+{119652}{119687}Don't worry|about the pills.
+{119693}{119730}I can't play|without the pills.
+{119736}{119789}Of course you can play|without the pills.
+{119795}{119848}The pills have no effect|on you whatsoever.
+{119854}{119929}I found them.
+{120142}{120218}Would you still love me|if I couldn't play?
+{120234}{120240}What?
+{120246}{120305}Would you still love me|if I couldn't play?
+{120311}{120355}You wouldn't be you|if you couldn't play.
+{120361}{120419}No, I want to know.
+{120425}{120479}Our bodies|sway to music.
+{120485}{120560}Oh, brightening|glance...
+{120584}{120626}how can we know...
+{120632}{120691}the dancer|from the dance?
+{120774}{120828}But don't you wish sometimes|that you couldn't play,
+{120834}{120876}that you could|just be ordinary?
+{120882}{120931}Like what?|Live in the country?
+{120937}{120963}Making bread?
+{120969}{121007}Feeding chickens?
+{121013}{121079}Playing once a year with|a bunch of amateurs?
+{121086}{121130}How dare you insult|my sister like that.
+{121136}{121159}I wasn't insulting her.
+{121165}{121207}Well, at least|she chose her life.
+{121213}{121281}Not like you and me.|We're just trained freaks.
+{121290}{121343}Look, let's just|get in the cab
+{121349}{121431}and then talk about it.
+{121466}{121555}I wasn't being rude.
+{121964}{122065}Why didn't you tell us|you were coming?
+{122266}{122353}Ha ha.
+{127783}{127811}I can't get up.
+{127817}{127831}What?
+{127837}{127928}I can't get up.
+{128120}{128210}Give it to me.
+{128955}{129040}Danny.
+{129046}{129106}I've got|a fatal illness.
+{129112}{129133}But you mustn't worry,
+{129139}{129226}'cause I've got it|very mildly.
+{129274}{129352}Hmm.
+{129361}{129416}Look, uh...
+{129422}{129469}what if she|won't see you?
+{129475}{129520}Of course she'll see me.
+{129526}{129601}I'm her sister.
+{129801}{129870}I'm so relieved|that it's only M.S.
+{129876}{129896}I know it's serious,
+{129902}{129982}but I thought I was|going mad.
+{130022}{130109}Hello, Jacks.
+{130153}{130225}It's good to see you.
+{130231}{130318}Hilary.
+{130414}{130446}Ha ha.
+{130452}{130473}Oh.
+{130479}{130499}My sister here|will tell you.
+{130505}{130555}This country bumpkin here|is my sister.
+{130561}{130627}This is dame Margot Fonteyn.|She's a friend of mine.
+{130633}{130679}It's an honour to meet you,|dame Margot.
+{130685}{130714}Oh, please.
+{130720}{130747}My sister will tell you
+{130753}{130815}I was behaving|in the strangest way.
+{130854}{130896}But, you know,|all that's happening
+{130902}{130959}is that my nerve-endings|are damaged or something.
+{130982}{131044}And I might have to go|into a wheelchair.
+{131063}{131069}Oh, no.
+{131075}{131105}But not for ages.|It takes years.
+{131111}{131155}And it happens|in fits and starts.
+{131161}{131224}And they're on the brink|of a cure anyway.
+{131251}{131295}Well, who'll look|after you, then?
+{131301}{131360}It's just Danny's so busy,|isn't he?
+{131369}{131415}And, well,|the flat's all wrong.
+{131421}{131448}Kif and I have|talked about it...
+{131454}{131529}dame Margot has very kindly|offered to lend me her flat.
+{131548}{131586}You see,|it's in Kensington.
+{131592}{131670}I can't really be hidden|away in the country, can I?
+{131676}{131732}Hilary keeps chickens.|She used to be a musician,
+{131738}{131791}but now it's all chickens|and children, isn't it?
+{131797}{131848}I would so like|to have had children.
+{131854}{131888}Hilary's got heaps of them.
+{131894}{131964}In fact, if you want to|get yourself impregnated,
+{131970}{131988}you should ask her hubby.
+{131994}{132066}He's extremely fertile,|and if you ask her nicely,
+{132072}{132156}she'll lend him to you.
+{132245}{132270}She's never been|quite right
+{132276}{132348}since she went to|Russia. I think...
+{132354}{132370}do be quiet, Derek.
+{132376}{132478}You don't think this means|she'll have to stop playing?
+{132505}{132573}No. Of course not.
+{132579}{132613}Bye, daddy.
+{132619}{132682}Bye-bye.
+{132737}{132756}This is all frightful,
+{132762}{132819}but it's better|than going bonkers.
+{132825}{132924}I was sure|she was going bonkers.
+{133447}{133487}Ok. Want to do|this one again?
+{133493}{133586}Yeah.|Careful, careful.
+{133598}{133636}Oh, my god.
+{133642}{133687}And... very good.
+{133693}{133708}Shut up.
+{133714}{133797}That's good. It's good.|It is good.
+{133850}{133954}I'm going|to fall off.
+{134023}{134065}I got offered|a job today.
+{134071}{134156}I thought you|already had a job.
+{134195}{134211}Move over.
+{134217}{134262}I can't move over.
+{134268}{134362}All right.|I'll move you over.
+{134567}{134632}Ok.
+{134810}{134867}Artistic director
+{134873}{134976}of the orchestre de Paris.
+{135121}{135192}Oh.
+{135198}{135277}Oh.
+{135283}{135371}In many ways,|it would be better than now.
+{135377}{135418}You know I'd always|be in one place.
+{135424}{135506}Not in Manchester one night|and Chicago the next, you know?
+{135512}{135597}You're always|in the same place.
+{135625}{135698}Yes.
+{135704}{135749}Paris.
+{135755}{135797}I know.
+{135803}{135823}If it were London...
+{135829}{135908}no, of course you should|do it. Of course.
+{135914}{135936}Paris isn't that far.
+{135942}{136012}You could come home|a lot.
+{136140}{136163}We'll think about it.
+{136169}{136239}It'll give me a chance|to practice my French.
+{136245}{136285}I've been working|very hard
+{136291}{136324}on my languages,|actually.
+{136330}{136353}That's good.
+{136359}{136410}Joder. Do you know|what that is?
+{136416}{136463}I think so.
+{136469}{136513}It's Spanish for fuck.
+{136519}{136580}And putain,|that's French for fuck.
+{136586}{136641}And fican, that's|German for fuck.
+{136647}{136714}And quievare|is Italian for fuck.
+{136720}{136752}And kamamayu...
+{136758}{136830}do you know|what that is?
+{136891}{136972}Swahili.
+{138220}{138287}I just wondered how you|were getting on without him.
+{138293}{138355}I'm not without him.|He comes home every weekend.
+{138361}{138457}Anyway, it'll be easier once|I start playing properly again.
+{138476}{138528}Besides,|I get heaps of visitors.
+{138534}{138623}Look at all the flowers.
+{138662}{138705}What's that?
+{138711}{138753}Oh, that's|my new push chair.
+{138759}{138811}But you don't need|a wheelchair yet.
+{138817}{138879}Oh, I see. I suppose|if I ate differently
+{138885}{138965}or I exercised more,|none of this would be happening.
+{138974}{139000}It's all my fault,|is that it?
+{139006}{139057}No. I was just surprised,|that's all.
+{139063}{139109}Oh, it's all my fault.|It's all psychological.
+{139115}{139184}If it's psychological,|it's your fault, mother.
+{139190}{139212}I'm sure it's|nobody's fault.
+{139218}{139328}Don't eat those cakes, daddy.|They're for my visitors.
+{139387}{139468}Sorry, Jacks.
+{140023}{140088}Am I a cello genius?
+{140094}{140170}You know you are.
+{140191}{140281}Danny, I just want|to play again.
+{140337}{140372}I'll play|the fucking triangle.
+{140378}{140462}I just want to make|music again.
+{140468}{140502}Ok.
+{140508}{140599}Leave it with me.
+{141671}{141748}Oh, my goodness,|it's me.
+{143430}{143451}Teaching
+{143457}{143531}can be just as rewarding|as playing in its own way.
+{143543}{143567}Don't you think?
+{143573}{143584}What?
+{143590}{143663}I said teaching can be|as rewarding as playing
+{143676}{143702}in its own way.
+{143708}{143738}Where's Hilary?
+{143744}{143802}She had to leave early.|It's a long drive.
+{143808}{143838}I want Hilary.
+{143844}{143858}Right.
+{143864}{143932}I'll go and see|if the car's here.
+{143942}{144005}Margaret, the flowers.
+{144065}{144142}Danny.
+{144182}{144195}Mm-hmm?
+{144201}{144280}I think|my hearing's going.
+{144621}{144693}Very brave of her|when you think about it.
+{144699}{144721}Can't so much|as bang a drum
+{144727}{144769}unless the whole world's|looking at her.
+{144775}{144837}I'm sorry. I think we|ought to go and see her.
+{144843}{144901}If we go back now,|it'll be quieter.
+{144907}{144948}I'd like to see her.
+{144954}{144982}I wish you would|go and see her.
+{144988}{145040}You haven't been to see|her in such a long time.
+{145046}{145079}She'll have|heaps of visitors,
+{145085}{145141}and she doesn't|want to see me.
+{145147}{145183}She seemed so unhappy.
+{145189}{145233}Well, mother, that is|hardly surprising.
+{145239}{145331}But she was happy.|And now she says she wasn't.
+{145340}{145417}I thought if you could|show her this...
+{145499}{145522}what for?
+{145528}{145566}Well, as evidence.
+{145572}{145650}It might remind her.
+{145746}{145818}Mummy, everyone smiles|for photographs.
+{146766}{146799}Hello, Danny?
+{146805}{146878}Hi. How are you?
+{146884}{146937}Great.
+{146943}{146984}I'm missing you.
+{146990}{147076}Listen, I won't be able|to get home this weekend.
+{147104}{147157}Mahler...
+{147163}{147248}I've always hated Mahler.|Now I hate him more.
+{147254}{147308}Perhaps next week|I'll get home.
+{147314}{147380}I hope so.
+{147386}{147412}What was that?
+{147418}{147453}What?
+{147459}{147486}I heard a noise.
+{147492}{147557}What sort of noise?
+{147676}{147698}It was nothing.
+{147704}{147778}It's probably my hearing|playing up again.
+{147784}{147859}It sounded like|a baby crying.
+{147868}{147909}I see.
+{147915}{147988}It must be my hearing|playing up again,
+{147994}{148076}wasn't it?
+{148134}{148224}I'll call you later.
+{148350}{148432}You bastard.
+{148943}{148997}Where's Hilary?
+{149003}{149044}She's...
+{149050}{149081}the children|have got a virus,
+{149087}{149173}and they didn't want|you to catch it.
+{149184}{149247}Typical.
+{149291}{149342}When...
+{149348}{149419}you play...
+{149425}{149472}everyone...
+{149478}{149539}loves you.
+{149545}{149627}When you stop...
+{149633}{149677}you're alone.
+{149683}{149773}I'm sure it's not quite|that bad, Jacks.
+{149792}{149870}Unh. Look at this.
+{149876}{149961}Music and movement.
+{150018}{150039}Oh...
+{150045}{150110}oh, for heaven's sake,
+{150116}{150202}stop crying.
+{153201}{153250}I don't understand|what she wants.
+{153256}{153332}I think she's in|some sort of pain.
+{153401}{153482}There are things you want|to say. I can see that.
+{153488}{153584}But you cannot say them.|We cannot understand them.
+{153595}{153661}But there is someone|who hears your thoughts.
+{153667}{153718}Do not worry.|God hears them all.
+{153724}{153771}He hears|your every thought.
+{153777}{153861}Aah!
+{154049}{154065}Yes?
+{154071}{154150}Uh, it's Hilary.|Jacqueline's sister.
+{154178}{154195}Oh, I see.
+{154201}{154261}This is|my brother Piers.
+{154267}{154320}Hello.
+{154326}{154394}Isn't this|shocking weather?
+{154400}{154454}Yes.
+{154460}{154536}Well,|where's she going?
+{155400}{155425}We can't get|anything down her.
+{155431}{155518}I've been trying|for days.
+{155701}{155788}May I try?
+{156247}{156343}Shh, shh, shh.|It's Hilary.
+{156410}{156446}That's it.
+{156452}{156500}Up we go.
+{156506}{156525}Come on.
+{156531}{156618}There. Good.
+{156784}{156841}Thought you|weren't watching.
+{156847}{156957}Come on.
+{157053}{157142}Pbltlllt!
+{157148}{157246}Still in there|somewhere, Jacks?
+{157350}{157459}Come on.
+{157477}{157495}Hmm?
+{157501}{157595}Still in there|somewhere?
+{157751}{157855}Good girl.
+{157946}{158037}Good girl.
+{158067}{158097}When you love someone,
+{158103}{158172}you find that pictures|of them stay with you
+{158178}{158209}all the time|in your heart.
+{158215}{158264}Pictures of the way|you think of them
+{158270}{158306}when you think of them.
+{158312}{158352}With mummy,|it's that day
+{158358}{158404}you broke the drum|at the BBC.
+{158410}{158484}Whenever you think|you've lost that person,
+{158490}{158530}you start|with a picture
+{158536}{158587}and then you|find them again.
+{158593}{158640}You want to know|what I think of
+{158646}{158684}when I think of you?
+{158690}{158777}When people say|Jacqueline Du Pré to me,
+{158790}{158850}I think of|a day on a beach
+{158856}{158883}a long time ago.
+{158889}{158957}Long before you|played the cello.
+{158963}{159041}Before that|Jacqueline Du Pré
+{159047}{159103}or this one.
+{159116}{159204}And we were|playing a game.
+{159240}{159298}When I was but...
+{159304}{159359}13 or so...
+{159365}{159437}I went into|a golden land.
+{159451}{159547}Cimbarozo Cotopaxi|took me by the hand,
+{159610}{159664}over the Orinoco...
+{159670}{159722}across the blazing|Kalahari desert
+{159728}{159795}through the untamed|grasslands of the veldt,
+{159801}{159875}over the steppes...
+{159881}{159949}and home.
+{159980}{160079}Do you remember what you|said to me that day, Jackie?
+{160136}{160228}You said that everything|was going to be all right.
+{160393}{160477}And in the end, it was.
+{160880}{160934}Hundreds|of roads are blocked,
+{160940}{161001}and large parts of the rail|network are out of action.
+{161007}{161074}The home secretary is chairing|an emergency meeting
+{161080}{161145}to discuss ways of dealing|with the emergency.
+{161151}{161268}The cellist Jacqueline Du Pré|has died at her London home.
+{161274}{161361}She was 42.|Jacqueline Du Pré...
+{161367}{161404}oh, god.
+{161410}{161443}And won several awards
+{161449}{161507}before rising to the top|of her profession.
+{161513}{161543}She will be|particularly remembered
+{161549}{161667}for her performances of|Elgar's cello concerto.
+{161709}{161747}Stop the car, Piers.
+{161753}{161838}Stop the car!
+{162070}{162151}Oh, god!
+{162167}{162250}Jackie!
+{162292}{162381}Hil, where are you going?
+{162538}{162616}When I was but 13 or so,
+{162622}{162695}I went into a golden land.
+{162701}{162794}Cimbarozo Cotopaxi|took me by the hand...
+{162845}{162905}over the Orinoco...
+{162911}{162976}across the blazing|Kalahari desert...
+{162982}{163067}through the untamed|grasslands of the veldt...
+{163101}{163158}over the steppes...
+{163164}{163244}and home.
+{163554}{163586}What do you want?
+{163592}{163670}Nothing.|Just to see you.
+{163699}{163740}Bye.
+{163746}{163811}Jackie.
+{163844}{163866}I just wanted|to tell you
+{163872}{163944}that everything is|going to be all right.

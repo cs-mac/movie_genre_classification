@@ -1,0 +1,8489 @@
+﻿1
+00:01:53,720 --> 00:01:57,042
+<i>Look down, look down</i>
+
+2
+00:01:57,120 --> 00:02:00,283
+<i>Don't look them in the eye</i>
+
+3
+00:02:00,360 --> 00:02:03,682
+<i>Look down, look down</i>
+
+4
+00:02:03,760 --> 00:02:06,923
+<i>You're here until you die</i>
+
+5
+00:02:07,000 --> 00:02:09,526
+<i>No God above</i>
+
+6
+00:02:10,080 --> 00:02:12,890
+<i>And hell alone below</i>
+
+7
+00:02:13,360 --> 00:02:16,489
+<i>Look down, look down</i>
+
+8
+00:02:16,560 --> 00:02:19,962
+<i>There's 20 years to go</i>
+
+9
+00:02:20,040 --> 00:02:22,964
+<i>I've done no wrong</i>
+
+10
+00:02:23,080 --> 00:02:25,765
+<i>Sweet Jesus, hear my prayer!</i>
+
+11
+00:02:26,240 --> 00:02:29,767
+<i>Look down, look down</i>
+
+12
+00:02:29,840 --> 00:02:32,411
+<i>Sweet Jesus doesn't care</i>
+
+13
+00:02:32,880 --> 00:02:35,850
+<i>I know she'll wait</i>
+
+14
+00:02:35,920 --> 00:02:38,924
+<i>I know that she'll be true</i>
+
+15
+00:02:39,320 --> 00:02:42,483
+<i>Look down, look down</i>
+
+16
+00:02:42,560 --> 00:02:46,087
+<i>They've all forgotten you</i>
+
+17
+00:02:46,160 --> 00:02:47,525
+<i>When I get free</i>
+
+18
+00:02:47,600 --> 00:02:50,604
+<i>You won't see me here for dust!</i>
+
+19
+00:02:50,680 --> 00:02:51,806
+Huh!
+
+20
+00:02:52,240 --> 00:02:55,528
+<i>Look down, look down</i>
+
+21
+00:02:55,600 --> 00:02:58,365
+<i>You'll always be a slave</i>
+
+22
+00:02:58,760 --> 00:03:01,604
+<i>Look down, look down</i>
+
+23
+00:03:01,920 --> 00:03:05,606
+<i>You're standing in your grave</i>
+
+24
+00:03:10,280 --> 00:03:12,044
+Retrieve the flag.
+
+25
+00:04:00,360 --> 00:04:02,169
+<i>Now, Prisoner 24601</i>
+
+26
+00:04:02,720 --> 00:04:05,769
+<i>Your time is up
+And your parole's begun</i>
+
+27
+00:04:05,840 --> 00:04:07,683
+<i>You know what that means?</i>
+
+28
+00:04:07,760 --> 00:04:10,764
+<i>Yes. It means I'm free</i>
+
+29
+00:04:11,720 --> 00:04:14,690
+<i>No. Follow to the letter
+Your itinerary</i>
+
+30
+00:04:14,760 --> 00:04:17,445
+<i>This badge of shame
+You'll show it till you die</i>
+
+31
+00:04:17,520 --> 00:04:19,921
+<i>It warns you're a dangerous man</i>
+
+32
+00:04:20,000 --> 00:04:22,970
+<i>I stole a loaf of bread</i>
+
+33
+00:04:24,680 --> 00:04:27,570
+<i>My sister's child
+was close to death</i>
+
+34
+00:04:27,640 --> 00:04:28,766
+<i>And we were starving</i>
+
+35
+00:04:28,880 --> 00:04:30,086
+<i>You will starve again</i>
+
+36
+00:04:30,160 --> 00:04:33,209
+<i>Unless you learn
+the meaning of the law</i>
+
+37
+00:04:33,600 --> 00:04:36,922
+<i>I know the meaning
+of those 19 years</i>
+
+38
+00:04:37,000 --> 00:04:41,369
+<i>A slave of the law!</i>
+
+39
+00:04:42,040 --> 00:04:44,850
+<i>Five years for what you did</i>
+
+40
+00:04:44,920 --> 00:04:47,207
+<i>The rest because
+you tried to run</i>
+
+41
+00:04:47,640 --> 00:04:50,166
+<i>Yes, 24601</i>
+
+42
+00:04:50,240 --> 00:04:53,289
+<i>My name is Jean Valjean!</i>
+
+43
+00:04:53,360 --> 00:04:56,489
+<i>And I'm Javert!</i>
+
+44
+00:04:56,560 --> 00:04:58,688
+<i>Do not forget my name</i>
+
+45
+00:04:59,600 --> 00:05:01,841
+<i>Do not forget me</i>
+
+46
+00:05:02,520 --> 00:05:05,000
+<i>24601</i>
+
+47
+00:05:06,760 --> 00:05:09,809
+<i>Look down, look down</i>
+
+48
+00:05:09,880 --> 00:05:13,168
+<i>You'll always be a slave</i>
+
+49
+00:05:13,240 --> 00:05:16,323
+<i>Look down, look down</i>
+
+50
+00:05:16,400 --> 00:05:20,564
+<i>You're standing in your grave</i>
+
+51
+00:05:43,280 --> 00:05:47,205
+<i>Freedom at last
+How strange the taste</i>
+
+52
+00:05:49,720 --> 00:05:53,441
+<i>Never forget the years,
+the waste</i>
+
+53
+00:05:54,880 --> 00:05:58,771
+<i>Nor forgive them
+for what they've done</i>
+
+54
+00:05:59,600 --> 00:06:03,525
+<i>They are the guilty everyone</i>
+
+55
+00:06:05,160 --> 00:06:08,004
+<i>The day begins
+And now let's see</i>
+
+56
+00:06:08,080 --> 00:06:13,405
+<i>What this new world
+Will do for me</i>
+
+57
+00:06:30,240 --> 00:06:31,685
+Can I help?
+A day's work?
+
+58
+00:06:31,760 --> 00:06:32,761
+Papers.
+
+59
+00:06:40,080 --> 00:06:42,287
+No work here.
+
+60
+00:06:42,920 --> 00:06:46,288
+Valjean, as a dangerous
+man, you will be on parole forever.
+
+61
+00:06:47,120 --> 00:06:49,930
+Failure to report
+means immediate arrest.
+
+62
+00:06:50,040 --> 00:06:52,771
+Be in Pontarlier in 30 days.
+
+63
+00:06:59,120 --> 00:07:00,645
+Follow him.
+
+64
+00:07:07,840 --> 00:07:09,683
+Let me see your papers.
+
+65
+00:07:10,960 --> 00:07:12,371
+<i>Monsieur?</i>
+Papers.
+
+66
+00:07:12,480 --> 00:07:14,323
+I'll sleep in the stable.
+Please, I'm hungry.
+
+67
+00:07:14,400 --> 00:07:15,765
+Get out.
+
+68
+00:07:31,360 --> 00:07:32,441
+Hey!
+
+69
+00:07:36,480 --> 00:07:39,370
+<i>Come in, sir, for you are weary</i>
+
+70
+00:07:41,360 --> 00:07:44,409
+<i>And the night is cold out here</i>
+
+71
+00:07:45,960 --> 00:07:48,964
+<i>Though our lives
+are very humble</i>
+
+72
+00:07:50,240 --> 00:07:54,564
+<i>What we have we have to share</i>
+
+73
+00:07:56,280 --> 00:07:59,568
+<i>There is wine
+here to revive you</i>
+
+74
+00:08:01,320 --> 00:08:04,961
+<i>There is bread
+to make you strong</i>
+
+75
+00:08:06,240 --> 00:08:09,562
+<i>There's a bed to
+rest till morning</i>
+
+76
+00:08:09,720 --> 00:08:15,363
+<i>Rest from pain
+And rest from wrong</i>
+
+77
+00:08:23,480 --> 00:08:26,165
+Bless the food we eat today.
+
+78
+00:08:27,120 --> 00:08:31,728
+Bless our dear sister
+and our honored guest.
+
+79
+00:09:09,600 --> 00:09:11,887
+Get in there!
+Put him down!
+
+80
+00:09:12,160 --> 00:09:13,241
+Stay there!
+
+81
+00:09:16,120 --> 00:09:17,451
+Monsignor.
+
+82
+00:09:18,560 --> 00:09:19,561
+We have your silver.
+
+83
+00:09:20,320 --> 00:09:22,288
+We caught this man
+red-handed.
+
+84
+00:09:22,360 --> 00:09:24,169
+He had the nerve to
+say you gave him this.
+
+85
+00:09:25,960 --> 00:09:27,530
+<i>That is right</i>
+
+86
+00:09:28,520 --> 00:09:32,081
+<i>But, my friend,
+you left so early</i>
+
+87
+00:09:32,160 --> 00:09:34,322
+<i>Surely something
+slipped your mind</i>
+
+88
+00:09:35,280 --> 00:09:38,887
+<i>You forgot I gave these also</i>
+
+89
+00:09:39,080 --> 00:09:44,371
+<i>Would you leave
+the best behind?</i>
+
+90
+00:09:48,840 --> 00:09:51,286
+<i>Messieurs, release him</i>
+
+91
+00:09:51,480 --> 00:09:53,721
+<i>This man has spoken true</i>
+
+92
+00:09:53,880 --> 00:09:56,804
+<i>I commend you for your duty</i>
+
+93
+00:09:56,960 --> 00:10:00,885
+<i>Now God's blessing go with you</i>
+
+94
+00:10:03,640 --> 00:10:06,120
+<i>But remember this, my brother</i>
+
+95
+00:10:08,280 --> 00:10:10,681
+<i>See in this some higher plan</i>
+
+96
+00:10:13,120 --> 00:10:15,930
+<i>You must use
+this precious silver</i>
+
+97
+00:10:16,840 --> 00:10:22,210
+<i>To become an honest man</i>
+
+98
+00:10:22,960 --> 00:10:27,010
+<i>By the witness of the martyrs</i>
+
+99
+00:10:27,400 --> 00:10:31,041
+<i>By the passion and the blood</i>
+
+100
+00:10:31,920 --> 00:10:35,561
+<i>God has raised
+you out of darkness</i>
+
+101
+00:10:36,560 --> 00:10:42,044
+<i>I have saved your soul for</i>
+
+102
+00:10:42,960 --> 00:10:43,460
+<i>God</i>
+
+103
+00:11:04,240 --> 00:11:07,164
+<i>What have I done?
+Sweet Jesus, what have I done?</i>
+
+104
+00:11:07,240 --> 00:11:10,608
+<i>Become a thief in the night
+Become a dog on the run</i>
+
+105
+00:11:10,680 --> 00:11:14,002
+<i>Have I fallen so far
+And is the hour so late</i>
+
+106
+00:11:14,080 --> 00:11:16,970
+<i>That nothing remains
+but the cry of my hate?</i>
+
+107
+00:11:17,040 --> 00:11:19,884
+<i>The cries in the dark
+that nobody hears</i>
+
+108
+00:11:19,960 --> 00:11:25,444
+<i>Here where I stand at
+the turning of the years</i>
+
+109
+00:11:25,520 --> 00:11:28,251
+<i>If there's another way to go</i>
+
+110
+00:11:28,320 --> 00:11:30,687
+<i>I missed it 20 long years ago</i>
+
+111
+00:11:30,760 --> 00:11:33,240
+<i>My life was a war
+that could never be won</i>
+
+112
+00:11:33,320 --> 00:11:35,721
+<i>They gave me a number
+and they murdered Valjean</i>
+
+113
+00:11:35,840 --> 00:11:38,525
+<i>When they chained me
+and left me for dead</i>
+
+114
+00:11:38,600 --> 00:11:41,206
+<i>Just for stealing
+a mouthful of bread</i>
+
+115
+00:11:52,960 --> 00:11:56,487
+<i>Yet why did I allow this man</i>
+
+116
+00:11:57,640 --> 00:12:00,849
+<i>To touch my soul
+and teach me love?</i>
+
+117
+00:12:01,600 --> 00:12:05,207
+<i>He treated me like any other</i>
+
+118
+00:12:05,280 --> 00:12:09,808
+<i>He gave me his trust
+He called me brother</i>
+
+119
+00:12:10,520 --> 00:12:14,764
+<i>My life he claims for God above</i>
+
+120
+00:12:15,960 --> 00:12:19,009
+<i>Can such things be?</i>
+
+121
+00:12:19,440 --> 00:12:23,286
+<i>For I had come
+to hate the world</i>
+
+122
+00:12:24,480 --> 00:12:29,964
+<i>This world that
+always hated me!</i>
+
+123
+00:12:30,040 --> 00:12:32,691
+<i>Take an eye for an eye!</i>
+
+124
+00:12:33,840 --> 00:12:37,765
+<i>Turn your heart into stone!</i>
+
+125
+00:12:37,840 --> 00:12:41,640
+<i>This is all I have lived for!</i>
+
+126
+00:12:41,720 --> 00:12:48,683
+<i>This is all I have known!</i>
+
+127
+00:12:50,960 --> 00:12:53,884
+<i>One word from him
+and I'd be back</i>
+
+128
+00:12:55,040 --> 00:12:57,566
+<i>Beneath the lash, upon the rack</i>
+
+129
+00:12:59,320 --> 00:13:02,642
+<i>Instead he offers me
+my freedom!</i>
+
+130
+00:13:02,760 --> 00:13:07,049
+<i>I feel my shame inside me
+like a knife</i>
+
+131
+00:13:08,000 --> 00:13:12,005
+<i>He told me that I have a soul</i>
+
+132
+00:13:13,280 --> 00:13:16,762
+<i>How does he know?</i>
+
+133
+00:13:16,840 --> 00:13:20,322
+<i>What spirit comes
+to move my life?</i>
+
+134
+00:13:24,520 --> 00:13:30,004
+<i>Is there another way to go?</i>
+
+135
+00:13:31,360 --> 00:13:35,126
+<i>I am reaching but I fall</i>
+
+136
+00:13:35,600 --> 00:13:39,286
+<i>And the night is closing in</i>
+
+137
+00:13:39,680 --> 00:13:43,890
+<i>As I stare into the void</i>
+
+138
+00:13:44,200 --> 00:13:48,330
+<i>To the whirlpool of my sin</i>
+
+139
+00:13:48,880 --> 00:13:52,327
+<i>I'll escape now from that world</i>
+
+140
+00:13:52,400 --> 00:13:54,721
+<i>From the world of Jean Valjean</i>
+
+141
+00:13:55,600 --> 00:13:58,524
+<i>Jean Valjean is nothing now!</i>
+
+142
+00:13:58,600 --> 00:14:05,609
+<i>Another story must begin!</i>
+
+143
+00:14:49,320 --> 00:14:52,200
+<i>At the end
+of the day you're another day older</i>
+
+144
+00:14:53,280 --> 00:14:55,931
+<i>And that's all you can say
+for the life of the poor</i>
+
+145
+00:14:56,680 --> 00:14:58,682
+<i>It's a struggle! It's a war!</i>
+
+146
+00:14:58,760 --> 00:15:00,728
+<i>And there's nothing
+that anyone's giving</i>
+
+147
+00:15:00,800 --> 00:15:03,371
+<i>One more day standing about
+What is it for?</i>
+
+148
+00:15:05,280 --> 00:15:06,884
+<i>One day less to be living</i>
+
+149
+00:15:08,280 --> 00:15:10,931
+<i>At the end of the day
+you're another day colder</i>
+
+150
+00:15:12,360 --> 00:15:14,886
+<i>And the shirt on your back
+doesn't keep out the chill</i>
+
+151
+00:15:15,760 --> 00:15:19,845
+<i>And the righteous hurry past They
+don't hear the little ones crying</i>
+
+152
+00:15:19,920 --> 00:15:23,163
+<i>And the plague is coming
+on fast Ready to kill</i>
+
+153
+00:15:24,200 --> 00:15:25,690
+<i>One day nearer to dying!</i>
+
+154
+00:15:27,440 --> 00:15:30,011
+<i>At the end of the day
+there's another day dawning</i>
+
+155
+00:15:31,280 --> 00:15:33,851
+<i>And the sun in the morning
+is waiting to rise</i>
+
+156
+00:15:34,840 --> 00:15:36,729
+<i>Like the waves
+crash on the sand</i>
+
+157
+00:15:36,840 --> 00:15:38,763
+<i>Like a storm
+that'll break any second</i>
+
+158
+00:15:38,840 --> 00:15:42,765
+<i>There's a hunger in the land There's
+a reckoning still to be reckoned</i>
+
+159
+00:15:42,840 --> 00:15:47,528
+<i>And there's gonna be hell to
+pay At the end of the day!</i>
+
+160
+00:15:49,280 --> 00:15:51,806
+<i>At the end of the day
+you get nothing for nothing</i>
+
+161
+00:15:53,240 --> 00:15:56,050
+<i>Sitting flat on your bum
+doesn't buy any bread</i>
+
+162
+00:15:56,720 --> 00:15:58,563
+<i>There are children back at home</i>
+
+163
+00:15:58,680 --> 00:16:00,569
+<i>And the children
+have got to be fed</i>
+
+164
+00:16:00,720 --> 00:16:02,245
+<i>And you're lucky to be in a job</i>
+
+165
+00:16:02,360 --> 00:16:04,010
+<i>And in a bed</i>
+
+166
+00:16:05,200 --> 00:16:07,043
+<i>And we're counting
+our blessings</i>
+
+167
+00:16:08,440 --> 00:16:11,364
+<i>Have you seen how the
+foreman is fuming today</i>
+
+168
+00:16:12,400 --> 00:16:15,244
+<i>With his terrible breath
+and his wandering hands?</i>
+
+169
+00:16:16,360 --> 00:16:18,362
+<i>It's because tittie Fantine
+won't give him his way</i>
+
+170
+00:16:18,440 --> 00:16:20,601
+<i>Take a look at his trousers
+You'll see where he stands!</i>
+
+171
+00:16:21,760 --> 00:16:25,970
+<i>And the boss, he never knows that
+the foreman is always on heat</i>
+
+172
+00:16:26,040 --> 00:16:28,964
+<i>If Fantine doesn't look out,
+watch how she goes</i>
+
+173
+00:16:30,360 --> 00:16:32,203
+<i>She'll be out on the street</i>
+
+174
+00:16:33,400 --> 00:16:37,166
+<i>At the end of
+the day it's another day over</i>
+
+175
+00:16:37,240 --> 00:16:40,210
+<i>With enough in your pocket
+to last for a week</i>
+
+176
+00:16:40,760 --> 00:16:44,685
+<i>Pay the landlord, pay the shop Keep
+on working as long as you're able</i>
+
+177
+00:16:44,760 --> 00:16:48,526
+<i>Keep on working till you drop Or it's
+back to the crumbs off the table</i>
+
+178
+00:16:48,600 --> 00:16:53,606
+<i>Well, you've got to pay your
+way At the end of the day!</i>
+
+179
+00:16:55,640 --> 00:16:58,928
+<i>And what have we here,
+little innocent sister?</i>
+
+180
+00:16:59,400 --> 00:17:01,926
+<i>Come on, Fantine,
+let's have all the news</i>
+
+181
+00:17:03,640 --> 00:17:05,369
+<i>"Dear Fantine,
+you must send us more money"</i>
+
+182
+00:17:05,440 --> 00:17:08,410
+<i>"Your child needs a doctor
+There's no time to lose"</i>
+
+183
+00:17:09,440 --> 00:17:11,522
+<i>Give that letter to me
+It is none of your business</i>
+
+184
+00:17:13,320 --> 00:17:16,164
+<i>With a husband at home
+and a bit on the side</i>
+
+185
+00:17:17,960 --> 00:17:19,720
+<i>Is there anyone here
+who can swear before God</i>
+
+186
+00:17:19,760 --> 00:17:21,842
+<i>She has nothing to fear?
+She has nothing to hide?</i>
+
+187
+00:17:21,920 --> 00:17:23,763
+Stop making trouble.
+I'm not making trouble.
+
+188
+00:17:23,840 --> 00:17:25,126
+Foreman!
+
+189
+00:17:25,280 --> 00:17:26,611
+What are you doing?
+
+190
+00:17:26,960 --> 00:17:30,248
+Come on, stop that!
+<i>Monsieur</i> Madeleine is here!
+
+191
+00:17:30,800 --> 00:17:34,691
+<i>What is this fighting all about?
+Someone tear these two apart!</i>
+
+192
+00:17:34,760 --> 00:17:36,728
+<i>This is a factory, not a circus</i>
+
+193
+00:17:38,160 --> 00:17:41,164
+<i>Now, come on, ladies,
+settle down</i>
+
+194
+00:17:41,920 --> 00:17:43,410
+<i>I am the mayor of this town</i>
+
+195
+00:17:43,480 --> 00:17:45,721
+<i>I run a business of repute</i>
+
+196
+00:18:00,760 --> 00:18:04,162
+Deal with this, Foreman.
+Be as patient as you can.
+
+197
+00:18:04,920 --> 00:18:06,046
+Yes, <i>Monsieur</i> Madeleine.
+
+198
+00:18:06,600 --> 00:18:08,682
+Now, someone say
+how this began.
+
+199
+00:18:08,760 --> 00:18:10,524
+<i>At the end of the day
+she's the one who began it!</i>
+
+200
+00:18:10,600 --> 00:18:12,125
+<i>There's a kid that she's
+hiding in some little town</i>
+
+201
+00:18:12,200 --> 00:18:14,089
+<i>There's a man she has to pay</i>
+
+202
+00:18:14,160 --> 00:18:16,162
+<i>You can guess how
+she picks up the extra</i>
+
+203
+00:18:16,280 --> 00:18:18,851
+<i>You can bet she's earning
+her keep sleeping around!</i>
+
+204
+00:18:20,760 --> 00:18:23,001
+<i>And the boss wouldn't like it</i>
+
+205
+00:18:24,200 --> 00:18:27,170
+<i>Yes, it's true there's a child
+And the child is my daughter</i>
+
+206
+00:18:28,600 --> 00:18:31,524
+<i>And her father abandoned
+us, leaving us flat</i>
+
+207
+00:18:32,760 --> 00:18:34,683
+<i>Now she lives with an
+innkeeper man and his wife</i>
+
+208
+00:18:34,800 --> 00:18:37,041
+<i>And I pay for the child
+What's the matter with that?</i>
+
+209
+00:18:38,840 --> 00:18:42,606
+<i>At the end of the day
+she'll be nothing but trouble</i>
+
+210
+00:18:42,680 --> 00:18:45,650
+<i>And there's trouble for all
+when there's trouble for one</i>
+
+211
+00:18:46,280 --> 00:18:48,169
+<i>While we're earning
+our daily bread</i>
+
+212
+00:18:48,280 --> 00:18:50,169
+<i>She's the one with
+her hands in the butter</i>
+
+213
+00:18:50,240 --> 00:18:53,926
+<i>You must send the slut away or we're
+all going to end in the gutter</i>
+
+214
+00:18:54,160 --> 00:18:58,961
+<i>And it's us who'll have to pay
+At the end of the day!</i>
+
+215
+00:18:59,040 --> 00:19:01,008
+<i>I might have known
+the bitch could bite</i>
+
+216
+00:19:01,160 --> 00:19:03,162
+<i>I might have known
+the cat had claws</i>
+
+217
+00:19:03,240 --> 00:19:06,767
+<i>I might have guessed
+your little secret</i>
+
+218
+00:19:06,840 --> 00:19:12,643
+<i>Ah, yes, the virtuous Fantine who
+keeps herself so pure and clean</i>
+
+219
+00:19:12,720 --> 00:19:17,567
+<i>You'd be the cause, I had no
+doubt of any trouble hereabout</i>
+
+220
+00:19:17,640 --> 00:19:19,608
+<i>You play a virgin in the light</i>
+
+221
+00:19:19,720 --> 00:19:21,609
+<i>But need no urging in the night</i>
+
+222
+00:19:21,720 --> 00:19:23,484
+<i>She's been laughing at
+you while she's having her men!</i>
+
+223
+00:19:23,560 --> 00:19:25,483
+<i>She'll be nothing
+but trouble again and again!</i>
+
+224
+00:19:25,600 --> 00:19:29,286
+<i>You must sack her today!
+Sack the girl today!</i>
+
+225
+00:19:30,800 --> 00:19:32,689
+<i>Right, my girl On your way</i>
+
+226
+00:19:33,400 --> 00:19:35,004
+<i>Monsieur le Maven
+Monsieur le Maven!</i>
+
+227
+00:19:35,080 --> 00:19:36,127
+<i>Monsieur le Mayor!</i>
+
+228
+00:19:36,200 --> 00:19:37,770
+<i>Monsieur le Maven
+Monsieur le Maven!</i>
+
+229
+00:19:38,320 --> 00:19:39,924
+Please!
+Please, <i>monsieur!</i>
+
+230
+00:19:40,000 --> 00:19:43,163
+I have a child!
+<i>Monsieur!</i>
+
+231
+00:19:43,320 --> 00:19:44,606
+Please! Please.
+
+232
+00:19:59,080 --> 00:20:01,128
+Welcome, Inspector.
+
+233
+00:20:01,600 --> 00:20:03,443
+<i>Monsieur le Mayor.</i>
+
+234
+00:20:07,280 --> 00:20:09,851
+<i>Please know me as Javert</i>
+
+235
+00:20:10,000 --> 00:20:12,048
+<i>I'm here at your command</i>
+
+236
+00:20:12,200 --> 00:20:16,046
+<i>With honor due to each
+And justice in our hand</i>
+
+237
+00:20:16,200 --> 00:20:19,329
+<i>No man's beyond our reach</i>
+
+238
+00:20:19,840 --> 00:20:23,640
+<i>Let all beware</i>
+
+239
+00:20:24,520 --> 00:20:27,842
+<i>Welcome, sir
+Come guard our laws</i>
+
+240
+00:20:28,000 --> 00:20:31,447
+<i>I'm sure we're here
+In common cause</i>
+
+241
+00:20:31,600 --> 00:20:33,602
+<i>You've done the city proud</i>
+
+242
+00:20:33,760 --> 00:20:36,240
+<i>You're praised by those on high</i>
+
+243
+00:20:36,400 --> 00:20:38,562
+<i>Your success has earned a force</i>
+
+244
+00:20:38,640 --> 00:20:41,246
+<i>The best that Paris can supply</i>
+
+245
+00:20:41,920 --> 00:20:44,730
+<i>Your people thrive</i>
+
+246
+00:20:45,320 --> 00:20:51,043
+<i>The dignity of toil
+To stay alive</i>
+
+247
+00:20:53,360 --> 00:20:56,648
+<i>It seems to me we may have met</i>
+
+248
+00:20:59,000 --> 00:21:02,686
+<i>Your face is not a face
+I would forget</i>
+
+249
+00:21:06,360 --> 00:21:07,964
+<i>Monsieur Madeleine!
+Pardon.</i>
+
+250
+00:21:08,120 --> 00:21:09,690
+<i>Monsieur le Mayor!</i>
+
+251
+00:21:12,680 --> 00:21:14,330
+<i>Monsieur le Mayor!</i>
+
+252
+00:21:14,400 --> 00:21:16,164
+The weight, it's crushing him!
+
+253
+00:21:16,240 --> 00:21:17,571
+Stay still, stay still.
+
+254
+00:21:22,600 --> 00:21:24,807
+Hold, hold, hold!
+Hold that steady.
+
+255
+00:21:25,440 --> 00:21:27,204
+Hold it steady!
+
+256
+00:21:39,400 --> 00:21:41,050
+That's it. That's it.
+
+257
+00:21:45,080 --> 00:21:50,041
+<i>Can this be true?
+I don't believe what I see</i>
+
+258
+00:21:50,880 --> 00:21:56,250
+<i>A man your age
+To be as strong as you are</i>
+
+259
+00:21:57,720 --> 00:21:59,290
+<i>A memory stirs</i>
+
+260
+00:22:00,440 --> 00:22:02,966
+<i>You make me think of a man</i>
+
+261
+00:22:03,560 --> 00:22:05,608
+<i>From years ago</i>
+
+262
+00:22:05,800 --> 00:22:08,690
+<i>A man who broke his parole</i>
+
+263
+00:22:09,240 --> 00:22:11,129
+<i>He disappeared</i>
+
+264
+00:22:11,280 --> 00:22:14,011
+<i>Say what you must
+Don't leave it there</i>
+
+265
+00:22:16,920 --> 00:22:20,641
+<i>Forgive me, sir
+I would not dare</i>
+
+266
+00:22:43,960 --> 00:22:46,611
+How much for this?
+It's my daughter's.
+
+267
+00:22:46,800 --> 00:22:48,325
+I'll give you
+four francs for that.
+
+268
+00:22:48,480 --> 00:22:49,720
+Four? It's worth 10!
+
+269
+00:22:50,280 --> 00:22:51,281
+No.
+
+270
+00:22:51,360 --> 00:22:53,966
+<i>I smell women
+Smell 'em in the air</i>
+
+271
+00:22:54,280 --> 00:22:56,123
+<i>Think I'll drop my anchor
+In that harbor over there</i>
+
+272
+00:22:56,200 --> 00:22:57,201
+Five?
+
+273
+00:22:57,280 --> 00:23:00,124
+<i>Lovely lady
+I'll love you till I'm broke</i>
+
+274
+00:23:00,280 --> 00:23:03,250
+<i>Seven months at sea
+and now I'm hungry for a poke!</i>
+
+275
+00:23:03,440 --> 00:23:06,603
+<i>Even stokers
+need a little stoke!</i>
+
+276
+00:23:06,760 --> 00:23:09,491
+<i>Lovely ladies
+Waiting for a bite!</i>
+
+277
+00:23:09,640 --> 00:23:12,484
+<i>Waiting for the customers
+Who only come at night</i>
+
+278
+00:23:12,640 --> 00:23:15,484
+<i>Lovely ladies
+Ready for the call</i>
+
+279
+00:23:15,640 --> 00:23:18,803
+<i>Standing up or lying down
+Or any way at all</i>
+
+280
+00:23:19,000 --> 00:23:22,049
+<i>Bargain prices
+up against the wall!</i>
+
+281
+00:23:22,480 --> 00:23:24,369
+<i>What pretty hair!</i>
+
+282
+00:23:24,600 --> 00:23:27,524
+<i>What pretty locks
+you've got there!</i>
+
+283
+00:23:27,960 --> 00:23:32,488
+<i>What luck you've got It's
+worth a centime, my dear!</i>
+
+284
+00:23:33,520 --> 00:23:35,488
+<i>I'll take the lot!</i>
+
+285
+00:23:35,680 --> 00:23:38,206
+<i>Don't touch me!
+Leave me alone!</i>
+
+286
+00:23:38,840 --> 00:23:40,683
+<i>Let's make a price</i>
+
+287
+00:23:41,680 --> 00:23:44,524
+<i>I'll give you all of 10 francs</i>
+
+288
+00:23:45,120 --> 00:23:46,849
+<i>Just think of that</i>
+
+289
+00:23:47,720 --> 00:23:49,404
+<i>It pays a debt</i>
+
+290
+00:23:49,560 --> 00:23:51,688
+<i>Just think of that</i>
+
+291
+00:23:52,720 --> 00:23:56,691
+<i>What can I do?
+It pays a debt</i>
+
+292
+00:23:56,840 --> 00:24:00,401
+<i>Ten francs may
+save my poor Cosette</i>
+
+293
+00:24:05,200 --> 00:24:07,851
+<i>Lovely ladies
+Waiting in the dark</i>
+
+294
+00:24:08,000 --> 00:24:10,685
+<i>Ready for a thick one
+Or a quick one in the park</i>
+
+295
+00:24:10,880 --> 00:24:13,929
+<i>Long time, short time
+Any time, my dear!</i>
+
+296
+00:24:14,080 --> 00:24:16,970
+<i>Costs a little extra
+If you want to take all year</i>
+
+297
+00:24:17,120 --> 00:24:19,120
+<i>Quick and cheap
+is underneath the pier</i>
+
+298
+00:24:19,200 --> 00:24:20,725
+Go and see them.
+
+299
+00:24:21,560 --> 00:24:23,369
+Come over here
+
+300
+00:24:23,560 --> 00:24:26,166
+<i>It's 20 francs for a tooth</i>
+
+301
+00:24:26,560 --> 00:24:28,403
+<i>Come here, my dear</i>
+
+302
+00:24:28,560 --> 00:24:30,961
+<i>I'll pay you well
+for your youth</i>
+
+303
+00:24:31,480 --> 00:24:34,768
+<i>The pain won't last
+You'll still be able to bite</i>
+
+304
+00:24:35,240 --> 00:24:36,401
+Just the back ones.
+
+305
+00:24:36,480 --> 00:24:40,405
+<i>I do it fast
+I know my business all right</i>
+
+306
+00:24:41,160 --> 00:24:43,288
+<i>It's worth a go</i>
+
+307
+00:24:44,560 --> 00:24:47,484
+<i>You'll pay me first
+what I am due</i>
+
+308
+00:24:47,640 --> 00:24:50,086
+<i>You'll get twice if I take two</i>
+
+309
+00:24:57,880 --> 00:25:00,690
+<i>Give me the dirt
+Who's that bit over there?</i>
+
+310
+00:25:00,840 --> 00:25:03,411
+<i>A bit of skirt
+She's the one sold her hair</i>
+
+311
+00:25:03,920 --> 00:25:06,764
+<i>She's got a kid
+Sends her all that she can</i>
+
+312
+00:25:06,920 --> 00:25:09,491
+<i>I might have known
+There is always some man</i>
+
+313
+00:25:09,800 --> 00:25:12,849
+<i>Lovely lady,
+come along and join us!</i>
+
+314
+00:25:13,000 --> 00:25:15,002
+<i>Lovely lady!</i>
+
+315
+00:25:17,480 --> 00:25:20,723
+<i>Come on, dearie,
+why all the fuss?</i>
+
+316
+00:25:21,280 --> 00:25:24,602
+<i>You're no grander
+than the rest of us</i>
+
+317
+00:25:25,000 --> 00:25:28,527
+<i>Life has dropped you
+at the bottom of the heap</i>
+
+318
+00:25:28,680 --> 00:25:29,966
+<i>Join your sisters</i>
+
+319
+00:25:30,120 --> 00:25:32,646
+<i>Make money in your sleep</i>
+
+320
+00:25:32,840 --> 00:25:36,128
+<i>That's right, dearie
+Show him what you've got</i>
+
+321
+00:25:36,800 --> 00:25:41,840
+<i>That's right, dearie
+Let him have the lot</i>
+
+322
+00:25:46,640 --> 00:25:49,484
+<i>Old men, young
+men Take 'em as they come!</i>
+
+323
+00:25:49,640 --> 00:25:52,564
+<i>Harbor rats and alley cats
+and every kind of scum</i>
+
+324
+00:25:52,720 --> 00:25:55,690
+<i>Poor men, rich men,
+leaders of the land</i>
+
+325
+00:25:55,840 --> 00:25:58,889
+<i>See them with their trousers off
+They're never quite as grand!</i>
+
+326
+00:25:59,040 --> 00:26:02,283
+<i>All it takes is
+money in your hand</i>
+
+327
+00:26:02,920 --> 00:26:08,404
+<i>Lovely ladies Going for a song</i>
+
+328
+00:26:08,560 --> 00:26:14,203
+<i>Got a lot of callers
+But they never stay for long</i>
+
+329
+00:26:20,160 --> 00:26:25,166
+<i>Come on, Captain
+You can wear your shoes</i>
+
+330
+00:26:26,080 --> 00:26:30,802
+<i>Don't it make a change to
+have a girl who can't refuse?</i>
+
+331
+00:26:31,200 --> 00:26:35,728
+<i>Easy money Lying on a bed</i>
+
+332
+00:26:36,920 --> 00:26:41,687
+<i>Just as well they never see
+The hate that's in your head</i>
+
+333
+00:26:43,080 --> 00:26:50,043
+<i>Don't they know they're making
+love to one already dead?</i>
+
+334
+00:27:19,720 --> 00:27:22,724
+<i>There was a time
+when men were kind</i>
+
+335
+00:27:24,440 --> 00:27:27,125
+<i>When their voices were soft</i>
+
+336
+00:27:29,080 --> 00:27:31,924
+<i>And their words inviting</i>
+
+337
+00:27:33,560 --> 00:27:37,645
+<i>There was a time
+when love was blind</i>
+
+338
+00:27:37,840 --> 00:27:40,810
+<i>And the world was a song</i>
+
+339
+00:27:42,400 --> 00:27:45,768
+<i>And the song was exciting</i>
+
+340
+00:27:47,240 --> 00:27:49,766
+<i>There was a time</i>
+
+341
+00:27:55,960 --> 00:28:00,443
+<i>Then it all went wrong</i>
+
+342
+00:28:15,120 --> 00:28:21,002
+<i>I dreamed a dream
+in time gone by</i>
+
+343
+00:28:22,480 --> 00:28:27,646
+<i>When hope was high
+And life worth living</i>
+
+344
+00:28:30,160 --> 00:28:37,089
+<i>I dreamed that
+love would never die</i>
+
+345
+00:28:37,680 --> 00:28:42,641
+<i>I dreamed that God
+would be forgiving</i>
+
+346
+00:28:45,800 --> 00:28:52,490
+<i>Then I was young and unafraid</i>
+
+347
+00:28:53,160 --> 00:28:59,805
+<i>And dreams were made
+and used and wasted</i>
+
+348
+00:29:01,680 --> 00:29:08,450
+<i>There was no ransom to be paid</i>
+
+349
+00:29:08,640 --> 00:29:14,010
+<i>No song unsung,
+no wine untasted</i>
+
+350
+00:29:17,320 --> 00:29:23,521
+<i>But the tigers come at night</i>
+
+351
+00:29:25,200 --> 00:29:31,560
+<i>With their voices
+soft as thunder</i>
+
+352
+00:29:32,920 --> 00:29:38,882
+<i>As they tear your hope apart</i>
+
+353
+00:29:40,880 --> 00:29:47,889
+<i>As they turn
+your dream to shame</i>
+
+354
+00:29:58,000 --> 00:30:04,201
+<i>He slept a summer by my side</i>
+
+355
+00:30:04,400 --> 00:30:09,042
+<i>He filled my days
+with endless wonder</i>
+
+356
+00:30:11,560 --> 00:30:17,920
+<i>He took my childhood
+in his stride</i>
+
+357
+00:30:18,080 --> 00:30:23,371
+<i>But he was gone
+when autumn came</i>
+
+358
+00:30:27,920 --> 00:30:34,246
+<i>And still I dream
+he'll come to me</i>
+
+359
+00:30:34,400 --> 00:30:39,566
+<i>That we will live
+the years together</i>
+
+360
+00:30:41,440 --> 00:30:47,368
+<i>But there are dreams
+that cannot be</i>
+
+361
+00:30:47,520 --> 00:30:52,765
+<i>And there are storms
+we cannot weather</i>
+
+362
+00:30:58,120 --> 00:31:01,408
+<i>I had a dream my life would be</i>
+
+363
+00:31:03,680 --> 00:31:07,969
+<i>So different from
+this hell I'm living</i>
+
+364
+00:31:08,120 --> 00:31:15,083
+<i>So different now
+from what it seemed!</i>
+
+365
+00:31:18,800 --> 00:31:21,565
+<i>Now</i>
+
+366
+00:31:21,640 --> 00:31:28,489
+<i>Life has killed the dream</i>
+
+367
+00:31:34,920 --> 00:31:35,532
+<i>I dreamed</i>
+
+368
+00:31:55,680 --> 00:31:59,890
+Have you anywhere to go?
+No? You need to get warm.
+
+369
+00:32:04,080 --> 00:32:05,480
+What do you have for me?
+
+370
+00:32:06,960 --> 00:32:09,361
+Here's our youngest, sir.
+
+371
+00:32:14,360 --> 00:32:15,885
+<i>I don't want you</i>
+
+372
+00:32:15,960 --> 00:32:19,043
+You've got some nerve, you little slut.
+You've got some gall.
+
+373
+00:32:20,920 --> 00:32:22,081
+Ow!
+
+374
+00:32:24,280 --> 00:32:26,320
+<i>By Christ, you'll
+pay for what you've done</i>
+
+375
+00:32:26,360 --> 00:32:29,091
+<i>I guarantee
+I'll make you suffer</i>
+
+376
+00:32:30,160 --> 00:32:31,605
+<i>I beg you, don't report me, sir</i>
+
+377
+00:32:31,720 --> 00:32:33,131
+<i>I'll do whatever you may want</i>
+
+378
+00:32:33,200 --> 00:32:34,531
+<i>Make your excuse to the police</i>
+
+379
+00:32:37,400 --> 00:32:39,482
+<i>Tell me quickly
+what's the story</i>
+
+380
+00:32:39,640 --> 00:32:41,722
+<i>Who saw what and why and where?</i>
+
+381
+00:32:41,960 --> 00:32:45,885
+<i>Let him give a full description
+Let him answer to Javert</i>
+
+382
+00:32:46,760 --> 00:32:50,810
+<i>Javert, would you believe it?
+I was lost here in the dark</i>
+
+383
+00:32:50,880 --> 00:32:56,171
+<i>When this prostitute attacked me
+You can see she left her mark</i>
+
+384
+00:32:56,240 --> 00:33:00,768
+<i>She will answer for her actions
+If you make a full report</i>
+
+385
+00:33:01,240 --> 00:33:05,564
+<i>You may rest assured, monsieur
+She will answer to the court</i>
+
+386
+00:33:05,800 --> 00:33:08,326
+<i>There's a child
+who sorely needs me</i>
+
+387
+00:33:08,400 --> 00:33:11,324
+<i>Please, monsieur,
+she's but that high</i>
+
+388
+00:33:11,560 --> 00:33:14,530
+<i>Holy God, is there no mercy?</i>
+
+389
+00:33:14,720 --> 00:33:19,044
+<i>If I go to jail she'll die</i>
+
+390
+00:33:19,160 --> 00:33:24,166
+<i>I have heard such protestations
+every day for 20 years</i>
+
+391
+00:33:24,240 --> 00:33:26,527
+<i>Let's have no more explanations</i>
+
+392
+00:33:26,600 --> 00:33:29,046
+<i>Save your breath,
+save your tears</i>
+
+393
+00:33:29,440 --> 00:33:31,966
+<i>Honest work, just reward</i>
+
+394
+00:33:32,120 --> 00:33:35,681
+<i>That's the way
+to please the Lord</i>
+
+395
+00:33:36,840 --> 00:33:39,525
+<i>A moment of your time, Javert
+I do believe this woman's tale</i>
+
+396
+00:33:39,680 --> 00:33:41,284
+<i>Monsieur le Mayor!</i>
+
+397
+00:33:42,320 --> 00:33:43,731
+<i>You've done your duty,
+let her be</i>
+
+398
+00:33:43,800 --> 00:33:45,529
+<i>She needs a doctor, not a jail</i>
+
+399
+00:33:45,600 --> 00:33:47,170
+<i>Monsieur le Mayor!</i>
+
+400
+00:33:47,240 --> 00:33:49,163
+<i>Can this be?</i>
+
+401
+00:33:49,520 --> 00:33:52,490
+<i>Where will she end</i>
+
+402
+00:33:53,080 --> 00:33:56,562
+<i>This child without a friend?</i>
+
+403
+00:34:00,320 --> 00:34:02,800
+<i>I've seen your face before</i>
+
+404
+00:34:06,560 --> 00:34:09,484
+<i>Show me some way to help you</i>
+
+405
+00:34:12,720 --> 00:34:19,524
+<i>How have you come to grief
+In such a place as this?</i>
+
+406
+00:34:22,520 --> 00:34:26,161
+<i>Monsieur,
+don't mock me now, I pray</i>
+
+407
+00:34:28,200 --> 00:34:31,761
+<i>It's hard enough
+I've lost my pride</i>
+
+408
+00:34:34,160 --> 00:34:40,645
+<i>You let your foreman
+send me away</i>
+
+409
+00:34:40,800 --> 00:34:46,284
+<i>Yes, you were there
+And turned aside</i>
+
+410
+00:34:55,160 --> 00:34:57,367
+<i>I never did no wrong</i>
+
+411
+00:34:57,600 --> 00:34:59,250
+<i>Is it true what I've done...</i>
+
+412
+00:35:00,360 --> 00:35:03,170
+<i>My daughter's close to dying</i>
+
+413
+00:35:03,320 --> 00:35:05,288
+<i>...to an innocent soul?</i>
+
+414
+00:35:05,480 --> 00:35:08,370
+<i>If there's a God above...</i>
+
+415
+00:35:08,760 --> 00:35:10,205
+<i>Had I only known then</i>
+
+416
+00:35:10,360 --> 00:35:14,843
+<i>...he'd let me die instead</i>
+
+417
+00:35:16,440 --> 00:35:21,367
+<i>In His name
+my task has just begun</i>
+
+418
+00:35:23,920 --> 00:35:25,001
+I will take her
+to the hospital.
+
+419
+00:35:25,160 --> 00:35:26,366
+Monsieur le Mayor.
+
+420
+00:35:26,560 --> 00:35:28,050
+Where is your child?
+
+421
+00:35:28,160 --> 00:35:30,162
+With an innkeeper
+in Montfermeil.
+
+422
+00:35:30,280 --> 00:35:32,328
+I will send for her
+immediately.
+
+423
+00:35:32,480 --> 00:35:37,884
+<i>I will see it done!</i>
+
+424
+00:35:38,240 --> 00:35:39,401
+Rest.
+
+425
+00:35:44,040 --> 00:35:45,883
+<i>From Paris, monsieur.</i>
+
+426
+00:36:00,760 --> 00:36:04,685
+<i>Monsieur le Mayor,
+I have a crime to declare!</i>
+
+427
+00:36:05,880 --> 00:36:10,568
+<i>I have disgraced
+The uniform that I wear</i>
+
+428
+00:36:10,640 --> 00:36:14,770
+<i>I've done you wrong
+Let no forgiveness be shown</i>
+
+429
+00:36:14,880 --> 00:36:18,771
+<i>I've been as hard
+On every rogue I have known</i>
+
+430
+00:36:19,960 --> 00:36:25,000
+<i>I mistook you for a convict
+I have made a false report</i>
+
+431
+00:36:25,200 --> 00:36:29,524
+<i>Now I learn they caught the culprit
+He's about to face the court</i>
+
+432
+00:36:29,640 --> 00:36:33,690
+<i>And of course he now denies
+it You'd expect that of a con</i>
+
+433
+00:36:33,840 --> 00:36:38,801
+<i>But he couldn't run forever
+No, not even Jean Valjean</i>
+
+434
+00:36:41,960 --> 00:36:43,689
+<i>You say this man denies it all</i>
+
+435
+00:36:43,760 --> 00:36:47,321
+<i>And gives no sign of
+understanding or repentance?</i>
+
+436
+00:36:47,480 --> 00:36:49,050
+<i>You say this man
+is going to trial</i>
+
+437
+00:36:49,120 --> 00:36:51,646
+<i>And that he's sure to be
+returned to serve his sentence?</i>
+
+438
+00:36:52,080 --> 00:36:56,483
+<i>He will pay, and so must I</i>
+
+439
+00:36:57,120 --> 00:37:00,203
+<i>Press charges against me, sir</i>
+
+440
+00:37:01,640 --> 00:37:04,405
+<i>You have only done your duty</i>
+
+441
+00:37:04,560 --> 00:37:07,325
+<i>It's a minor sin at most</i>
+
+442
+00:37:07,560 --> 00:37:10,166
+<i>All of us have
+made misjudgments</i>
+
+443
+00:37:10,320 --> 00:37:12,926
+<i>You'll return, sir,
+to your post</i>
+
+444
+00:37:27,160 --> 00:37:31,848
+<i>They think that man is me
+Without a second glance</i>
+
+445
+00:37:32,000 --> 00:37:36,483
+<i>This stranger they have found
+This man could be my chance</i>
+
+446
+00:37:36,640 --> 00:37:41,601
+<i>Why should I save his hide?
+Why should I right this wrong?</i>
+
+447
+00:37:41,760 --> 00:37:46,368
+<i>When I have come so far
+and struggled for so long?</i>
+
+448
+00:37:48,160 --> 00:37:52,449
+<i>If I speak, I am condemned</i>
+
+449
+00:37:54,360 --> 00:38:00,845
+<i>If I stay silent, I am damned!</i>
+
+450
+00:38:01,000 --> 00:38:03,321
+<i>I am the master of
+hundreds of workers</i>
+
+451
+00:38:03,400 --> 00:38:05,528
+<i>They all look to me</i>
+
+452
+00:38:06,440 --> 00:38:11,526
+<i>Can I abandon them? How would
+they live if I am not free?</i>
+
+453
+00:38:13,280 --> 00:38:16,887
+<i>If I speak, they are condemned</i>
+
+454
+00:38:18,760 --> 00:38:22,367
+<i>If I stay silent</i>
+
+455
+00:38:22,440 --> 00:38:25,887
+<i>I am damned</i>
+
+456
+00:38:31,800 --> 00:38:33,882
+<i>Who am I?</i>
+
+457
+00:38:36,120 --> 00:38:38,566
+<i>Can I condemn
+this man to slavery?</i>
+
+458
+00:38:40,080 --> 00:38:42,731
+<i>Pretend I do not
+feel his agony?</i>
+
+459
+00:38:45,080 --> 00:38:47,208
+<i>This innocent who bears my face</i>
+
+460
+00:38:47,320 --> 00:38:49,448
+<i>Who goes to judgment
+in my place</i>
+
+461
+00:38:49,560 --> 00:38:50,641
+<i>Who am I?</i>
+
+462
+00:38:51,400 --> 00:38:54,085
+<i>Can I conceal
+myself forevermore?</i>
+
+463
+00:38:55,120 --> 00:38:58,602
+<i>Pretend I'm not
+the man I was before?</i>
+
+464
+00:39:00,320 --> 00:39:04,086
+<i>And must my name until I die
+be no more than an alibi?</i>
+
+465
+00:39:04,240 --> 00:39:06,607
+<i>Must I lie?</i>
+
+466
+00:39:06,760 --> 00:39:10,082
+<i>How can I ever
+face my fellow men?</i>
+
+467
+00:39:10,280 --> 00:39:12,647
+<i>How can I ever
+face myself again?</i>
+
+468
+00:39:14,920 --> 00:39:19,642
+<i>My soul belongs to God, I know
+I made that bargain long ago</i>
+
+469
+00:39:19,800 --> 00:39:22,770
+<i>He gave me hope
+when hope was gone</i>
+
+470
+00:39:23,480 --> 00:39:28,884
+<i>He gave me
+strength to journey on!</i>
+
+471
+00:39:29,040 --> 00:39:31,566
+<i>Who am I?</i>
+
+472
+00:39:35,840 --> 00:39:37,888
+<i>Who am I?</i>
+
+473
+00:39:38,040 --> 00:39:39,087
+<i>I'm Jean Valjean</i>
+
+474
+00:39:42,240 --> 00:39:43,730
+<i>Monsieur le Mayor!</i>
+
+475
+00:39:44,160 --> 00:39:46,925
+<i>And so,
+Your Honor, you see it's true</i>
+
+476
+00:39:47,080 --> 00:39:52,211
+<i>This man bears
+no more guilt than you!</i>
+
+477
+00:39:52,360 --> 00:39:54,761
+<i>Who am I?</i>
+
+478
+00:39:56,320 --> 00:39:56,820
+<i>24601!</i>
+
+479
+00:40:03,760 --> 00:40:05,967
+<i>Monsieur</i> le Mayor,
+you are not well.
+
+480
+00:40:06,120 --> 00:40:07,121
+You must come with me.
+
+481
+00:40:07,280 --> 00:40:08,805
+If you don't believe me,
+ask Inspector Javert.
+
+482
+00:40:08,920 --> 00:40:10,410
+You'll find me at the hospital.
+
+483
+00:40:28,120 --> 00:40:32,842
+<i>Cosette, it's turned so cold</i>
+
+484
+00:40:36,200 --> 00:40:41,809
+<i>Cosette, it's past your bedtime</i>
+
+485
+00:40:44,000 --> 00:40:49,564
+<i>You've played the day away</i>
+
+486
+00:40:49,720 --> 00:40:56,729
+<i>And soon it will be night</i>
+
+487
+00:40:58,200 --> 00:41:03,206
+<i>Come to me</i>
+
+488
+00:41:03,320 --> 00:41:08,690
+<i>Cosette, the light is fading</i>
+
+489
+00:41:11,440 --> 00:41:14,728
+<i>Don't you see</i>
+
+490
+00:41:15,200 --> 00:41:19,330
+<i>The evening star appearing?</i>
+
+491
+00:41:23,120 --> 00:41:25,361
+<i>Come to me</i>
+
+492
+00:41:26,360 --> 00:41:31,207
+<i>And rest against my shoulder</i>
+
+493
+00:41:32,960 --> 00:41:39,491
+<i>How fast the minutes fly away
+and every minute colder</i>
+
+494
+00:41:41,600 --> 00:41:47,687
+<i>Dear Fantine,
+Cosette will be here soon</i>
+
+495
+00:41:49,400 --> 00:41:54,850
+<i>Dear Fantine,
+she will be by your side</i>
+
+496
+00:41:56,280 --> 00:41:58,567
+<i>Come, Cosette</i>
+
+497
+00:41:59,280 --> 00:42:03,046
+<i>My child, where did you go?</i>
+
+498
+00:42:05,280 --> 00:42:08,090
+<i>Be at peace</i>
+
+499
+00:42:10,280 --> 00:42:13,966
+<i>Be at peace evermore</i>
+
+500
+00:42:14,920 --> 00:42:17,400
+<i>My Cosette</i>
+
+501
+00:42:17,560 --> 00:42:21,121
+<i>Shall live in my protection</i>
+
+502
+00:42:23,960 --> 00:42:25,724
+<i>Take her now</i>
+
+503
+00:42:26,200 --> 00:42:29,568
+<i>Your child will
+want for nothing</i>
+
+504
+00:42:32,320 --> 00:42:39,169
+<i>Good monsieur,
+you come from God in heaven</i>
+
+505
+00:42:42,920 --> 00:42:48,484
+<i>Tell Cosette I love her</i>
+
+506
+00:42:50,760 --> 00:42:57,769
+<i>And I'll see her when I wake</i>
+
+507
+00:43:20,200 --> 00:43:26,207
+<i>Valjean, at last
+We see each other plain</i>
+
+508
+00:43:26,360 --> 00:43:32,686
+<i>"Monsieur le Mayor"
+You'll wear a different chain</i>
+
+509
+00:43:32,880 --> 00:43:35,690
+<i>Before you say
+another word, Javert</i>
+
+510
+00:43:35,880 --> 00:43:38,008
+<i>Before you chain me up
+like a slave again</i>
+
+511
+00:43:38,920 --> 00:43:43,050
+<i>Listen to me!
+There is something I must do</i>
+
+512
+00:43:45,000 --> 00:43:47,571
+<i>This woman leaves
+behind a suffering child</i>
+
+513
+00:43:47,720 --> 00:43:50,564
+<i>There is none but me
+who can intercede</i>
+
+514
+00:43:50,720 --> 00:43:55,248
+<i>In mercy's name,
+three days are all I need</i>
+
+515
+00:43:57,040 --> 00:43:59,611
+<i>Then I'll return,
+I pledge my word</i>
+
+516
+00:43:59,760 --> 00:44:00,807
+<i>Then I'll return</i>
+
+517
+00:44:00,880 --> 00:44:02,405
+<i>You must think me mad</i>
+
+518
+00:44:02,720 --> 00:44:05,644
+<i>I've hunted you
+across the years</i>
+
+519
+00:44:06,080 --> 00:44:08,447
+<i>Men like you can never change</i>
+
+520
+00:44:08,640 --> 00:44:13,885
+<i>A man such as you!</i>
+
+521
+00:44:14,560 --> 00:44:16,050
+<i>Believe of me what you will</i>
+
+522
+00:44:16,160 --> 00:44:17,571
+<i>Men like you can never change</i>
+
+523
+00:44:17,720 --> 00:44:18,960
+<i>There is a duty I'm sworn to do</i>
+
+524
+00:44:19,080 --> 00:44:20,320
+<i>Men like me can never change</i>
+
+525
+00:44:20,480 --> 00:44:22,084
+<i>You know nothing of my life</i>
+
+526
+00:44:22,240 --> 00:44:23,844
+<i>No, 24601!</i>
+
+527
+00:44:24,000 --> 00:44:25,047
+<i>All I did was steal some bread</i>
+
+528
+00:44:25,160 --> 00:44:26,207
+<i>My duty is to the law</i>
+
+529
+00:44:26,360 --> 00:44:27,520
+<i>You know nothing of the world</i>
+
+530
+00:44:27,640 --> 00:44:28,801
+<i>You have no rights</i>
+
+531
+00:44:28,960 --> 00:44:30,325
+<i>You would sooner see me dead</i>
+
+532
+00:44:30,400 --> 00:44:31,765
+<i>Come with me, 24601!</i>
+
+533
+00:44:31,920 --> 00:44:33,440
+<i>But not before
+I see this justice done!</i>
+
+534
+00:44:33,480 --> 00:44:34,720
+<i>Now the wheel has turned around</i>
+
+535
+00:44:34,760 --> 00:44:37,491
+<i>Jean Valjean means nothing now</i>
+
+536
+00:44:37,640 --> 00:44:38,926
+<i>Dare you talk to me of crime</i>
+
+537
+00:44:39,080 --> 00:44:40,411
+<i>I am warning you, Javert</i>
+
+538
+00:44:40,560 --> 00:44:41,681
+<i>And the price you had to pay</i>
+
+539
+00:44:41,760 --> 00:44:42,881
+<i>I'm the stronger man by far!</i>
+
+540
+00:44:43,000 --> 00:44:44,240
+<i>Every man is born in sin</i>
+
+541
+00:44:44,360 --> 00:44:45,566
+<i>There is power in me yet!</i>
+
+542
+00:44:45,720 --> 00:44:47,131
+<i>Every man must choose his way</i>
+
+543
+00:44:47,240 --> 00:44:48,605
+<i>My race is not yet run!</i>
+
+544
+00:44:48,760 --> 00:44:51,206
+<i>You know nothing of Javert!</i>
+
+545
+00:44:51,360 --> 00:44:54,011
+<i>I was born inside a jail!</i>
+
+546
+00:44:54,160 --> 00:44:56,731
+<i>I was born with scum like you!</i>
+
+547
+00:44:56,920 --> 00:45:00,003
+<i>I am from the gutter, too!</i>
+
+548
+00:45:24,840 --> 00:45:29,448
+<i>There is a castle on a cloud</i>
+
+549
+00:45:29,600 --> 00:45:34,288
+<i>I like to go there in my sleep</i>
+
+550
+00:45:34,440 --> 00:45:38,923
+<i>Aren't any floors
+for me to sweep</i>
+
+551
+00:45:39,080 --> 00:45:43,404
+<i>Not in my castle on a cloud</i>
+
+552
+00:45:43,800 --> 00:45:47,771
+<i>There is a lady all in white</i>
+
+553
+00:45:47,840 --> 00:45:51,481
+<i>Holds me and sings a lullaby</i>
+
+554
+00:45:51,680 --> 00:45:56,083
+<i>She's nice to see
+and she's soft to touch</i>
+
+555
+00:45:56,240 --> 00:46:01,883
+<i>She says, "Cosette,
+I love you very much"</i>
+
+556
+00:46:02,040 --> 00:46:06,887
+<i>I know a place
+where no one's lost</i>
+
+557
+00:46:07,040 --> 00:46:11,568
+<i>I know a place
+where no one cries</i>
+
+558
+00:46:11,720 --> 00:46:16,521
+<i>Crying at all is not allowed</i>
+
+559
+00:46:16,680 --> 00:46:22,005
+<i>Not in my castle on a cloud</i>
+
+560
+00:46:23,280 --> 00:46:24,611
+<i>Now look who's here!</i>
+
+561
+00:46:25,120 --> 00:46:27,441
+<i>The little madam herself</i>
+
+562
+00:46:28,200 --> 00:46:33,206
+<i>Pretending once again
+she's been so awfully good</i>
+
+563
+00:46:33,840 --> 00:46:37,287
+<i>Better not let me catch you slacking!
+Better not catch my eye!</i>
+
+564
+00:46:37,720 --> 00:46:41,361
+<i>Ten rotten francs your mother sends
+me What is that going to buy?</i>
+
+565
+00:46:42,840 --> 00:46:46,731
+<i>Now take that pail
+My little mademoiselle</i>
+
+566
+00:46:46,880 --> 00:46:49,201
+<i>And go and draw
+some water from the well</i>
+
+567
+00:46:51,040 --> 00:46:53,202
+<i>We should never have taken
+you in in the first place</i>
+
+568
+00:46:53,280 --> 00:46:54,770
+<i>How stupid
+the things that we do!</i>
+
+569
+00:46:54,920 --> 00:46:56,880
+<i>Like mother, like daughter,
+the scum of the street</i>
+
+570
+00:46:59,520 --> 00:47:00,521
+Mama!
+
+571
+00:47:00,600 --> 00:47:03,046
+<i>Eponine, come, my
+dear Eponine, let me see you</i>
+
+572
+00:47:03,200 --> 00:47:05,567
+<i>You look very well in
+that little blue hat</i>
+
+573
+00:47:06,760 --> 00:47:07,761
+Oh.
+
+574
+00:47:08,040 --> 00:47:10,168
+<i>There's some little girls
+who know how to behave</i>
+
+575
+00:47:10,240 --> 00:47:13,767
+<i>And they know what to wear And I'm
+saying thank heaven for that!</i>
+
+576
+00:47:14,760 --> 00:47:18,560
+<i>Still there, Cosette? Your
+tears will do you no good!</i>
+
+577
+00:47:18,920 --> 00:47:23,084
+<i>I told you, fetch some water
+from the well in the wood</i>
+
+578
+00:47:23,240 --> 00:47:27,643
+<i>Please do not send me out alone</i>
+
+579
+00:47:28,080 --> 00:47:31,163
+<i>Not in the darkness on my own</i>
+
+580
+00:47:31,320 --> 00:47:34,449
+<i>Now shut your face or
+I'll forget to be nice!</i>
+
+581
+00:47:35,120 --> 00:47:39,489
+<i>You heard me ask for something
+And I never ask twice</i>
+
+582
+00:47:41,600 --> 00:47:43,602
+Wakey-wakey, we're opening.
+
+583
+00:47:43,760 --> 00:47:47,560
+I love you.
+I love you so much.
+
+584
+00:47:54,720 --> 00:47:58,281
+<i>My band of soaks</i>
+
+585
+00:47:58,760 --> 00:48:01,730
+<i>My den of dissolutes</i>
+
+586
+00:48:02,760 --> 00:48:05,445
+<i>My dirty jokes</i>
+
+587
+00:48:05,640 --> 00:48:06,641
+Ugh!
+
+588
+00:48:06,840 --> 00:48:10,287
+<i>My always pissed as newts</i>
+
+589
+00:48:11,320 --> 00:48:15,484
+<i>My sons of whores</i>
+
+590
+00:48:16,400 --> 00:48:19,131
+No, no, no.
+Not tonight.
+
+591
+00:48:19,280 --> 00:48:22,329
+<i>Spend their lives in my inn</i>
+
+592
+00:48:22,480 --> 00:48:25,290
+Wakey-wakey. Good boy,
+good boy, good boy.
+
+593
+00:48:25,440 --> 00:48:29,525
+<i>Homing pigeons homing in</i>
+
+594
+00:48:29,680 --> 00:48:33,571
+<i>They fly through my doors</i>
+
+595
+00:48:37,000 --> 00:48:39,731
+<i>And they crawl out on all fours</i>
+
+596
+00:48:39,880 --> 00:48:41,041
+Daddy, here.
+
+597
+00:48:41,360 --> 00:48:42,725
+Thank you, darling.
+
+598
+00:48:42,880 --> 00:48:44,450
+Such a gentleman.
+
+599
+00:48:44,600 --> 00:48:47,922
+<i>Welcome, monsieur,
+sit yourself down</i>
+
+600
+00:48:48,080 --> 00:48:51,402
+<i>And meet the best
+innkeeper in town</i>
+
+601
+00:48:53,200 --> 00:48:56,329
+<i>As for the rest
+All of them crooks</i>
+
+602
+00:48:56,480 --> 00:49:00,087
+<i>Rocking the guests
+And cooking the books</i>
+
+603
+00:49:01,920 --> 00:49:04,810
+<i>Seldom do you see</i>
+
+604
+00:49:05,680 --> 00:49:08,365
+<i>Honest men like me</i>
+
+605
+00:49:08,520 --> 00:49:14,721
+<i>A gent of good intent
+who's content to be</i>
+
+606
+00:49:15,720 --> 00:49:18,451
+<i>Master of the house
+Doling out the charm</i>
+
+607
+00:49:18,640 --> 00:49:21,291
+<i>Ready with a handshake
+and an open palm</i>
+
+608
+00:49:21,440 --> 00:49:24,171
+<i>Tells a saucy tale
+Makes a little stir</i>
+
+609
+00:49:24,320 --> 00:49:26,846
+<i>Customers appreciate
+a bon viveur</i>
+
+610
+00:49:27,240 --> 00:49:30,005
+<i>Glad to do a friend a favor</i>
+
+611
+00:49:30,160 --> 00:49:32,527
+<i>Doesn't cost me to be nice</i>
+
+612
+00:49:33,120 --> 00:49:36,044
+<i>But nothing gets you nothing
+Everything has got a little price</i>
+
+613
+00:49:39,080 --> 00:49:41,731
+<i>Master of the house
+Keeper of the zoo</i>
+
+614
+00:49:41,880 --> 00:49:44,645
+<i>Ready to relieve them
+of a sou or two</i>
+
+615
+00:49:44,800 --> 00:49:47,565
+<i>Watering the wine
+Making up the weight</i>
+
+616
+00:49:47,720 --> 00:49:50,564
+<i>Picking up their knick-knacks
+When they can't see straight</i>
+
+617
+00:49:50,720 --> 00:49:56,090
+<i>Everybody loves a landlord
+Everybody's bosom friend</i>
+
+618
+00:49:56,240 --> 00:49:59,847
+<i>I do whatever pleases Jesus!
+Won't I bleed 'em in the end!</i>
+
+619
+00:50:00,400 --> 00:50:03,244
+<i>Master of the house!
+Quick to catch your eye</i>
+
+620
+00:50:03,400 --> 00:50:06,006
+<i>Never wants a passerby
+to pass him by!</i>
+
+621
+00:50:06,160 --> 00:50:08,925
+<i>Servant to the poor
+Butler to the great</i>
+
+622
+00:50:09,080 --> 00:50:11,924
+<i>Comforter, philosopher
+and lifelong mate</i>
+
+623
+00:50:12,080 --> 00:50:14,447
+<i>Everybody's boon companion</i>
+
+624
+00:50:14,680 --> 00:50:17,411
+<i>Everybody's chaperone</i>
+
+625
+00:50:17,560 --> 00:50:21,360
+<i>But lock up your valises Jesus!
+Won't I skin you to the bone!</i>
+
+626
+00:50:21,920 --> 00:50:24,764
+<i>Food beyond compare
+Food beyond belief</i>
+
+627
+00:50:24,920 --> 00:50:27,844
+<i>Mix it in a mincer
+And pretend it's beef</i>
+
+628
+00:50:28,040 --> 00:50:30,247
+<i>Kidney of a horse
+Liver of a cat</i>
+
+629
+00:50:31,560 --> 00:50:33,483
+<i>Filling up the sausages
+with this and that</i>
+
+630
+00:50:33,560 --> 00:50:36,404
+<i>Residents are more than welcome</i>
+
+631
+00:50:36,560 --> 00:50:39,131
+<i>Bridal suite is occupied</i>
+
+632
+00:50:39,280 --> 00:50:43,649
+<i>Reasonable charges Plus some
+little extras on the side</i>
+
+633
+00:50:43,800 --> 00:50:45,211
+<i>Oh, Santa!</i>
+
+634
+00:50:45,360 --> 00:50:47,966
+<i>Charge 'em for the lice
+Extra for the mice</i>
+
+635
+00:50:48,120 --> 00:50:50,407
+<i>Two percent for
+looking in the mirror twice</i>
+
+636
+00:50:50,560 --> 00:50:53,643
+<i>Hand it over! Here a little
+slice, there a little cut</i>
+
+637
+00:50:53,800 --> 00:50:56,644
+<i>Three percent for sleeping
+with the windows shut</i>
+
+638
+00:50:56,800 --> 00:50:59,485
+<i>When it comes to fixing prices</i>
+
+639
+00:50:59,640 --> 00:51:02,405
+<i>There are a lot
+of tricks I knows</i>
+
+640
+00:51:02,560 --> 00:51:05,166
+<i>How it all increases
+All those bits and pieces</i>
+
+641
+00:51:05,320 --> 00:51:07,402
+<i>Jesus!
+It's amazing how it grows</i>
+
+642
+00:51:10,440 --> 00:51:14,126
+Sorry, love. I must get
+something done about that.
+
+643
+00:51:18,040 --> 00:51:22,489
+<i>I used to dream
+that I would meet a prince</i>
+
+644
+00:51:22,680 --> 00:51:24,682
+<i>But, God almighty</i>
+
+645
+00:51:25,680 --> 00:51:27,967
+<i>Have you seen
+what's happened since?</i>
+
+646
+00:51:28,120 --> 00:51:30,009
+<i>What? What?</i>
+
+647
+00:51:30,480 --> 00:51:34,690
+<i>"Master of the house"
+isn't worth my spit!</i>
+
+648
+00:51:35,520 --> 00:51:39,889
+<i>Comforter, philosopher
+and lifelong shit!</i>
+
+649
+00:51:40,840 --> 00:51:42,888
+<i>Cunning little brain</i>
+
+650
+00:51:43,400 --> 00:51:45,880
+<i>Regular Voltaire</i>
+
+651
+00:51:46,080 --> 00:51:50,449
+<i>Thinks he's quite a lover
+but there's not much there</i>
+
+652
+00:51:51,200 --> 00:51:54,488
+<i>What a cruel trick of nature</i>
+
+653
+00:51:54,880 --> 00:51:58,009
+<i>Landed me with such a louse</i>
+
+654
+00:51:58,520 --> 00:52:02,366
+<i>God knows how I've lasted living
+with this bastard in the house</i>
+
+655
+00:52:03,160 --> 00:52:04,241
+<i>Master of the house!</i>
+
+656
+00:52:04,400 --> 00:52:05,731
+<i>Master and a half!</i>
+
+657
+00:52:05,880 --> 00:52:07,325
+<i>Comforter, philosopher</i>
+
+658
+00:52:07,520 --> 00:52:08,601
+<i>Don't make me laugh</i>
+
+659
+00:52:08,840 --> 00:52:11,207
+<i>Servant to the poor
+Butler to the great</i>
+
+660
+00:52:11,720 --> 00:52:14,564
+<i>Hypocrite and
+toady and inebriate!</i>
+
+661
+00:52:14,720 --> 00:52:16,802
+<i>Everybody bless the landlord!</i>
+
+662
+00:52:17,600 --> 00:52:20,251
+<i>Everybody bless his spouse!</i>
+
+663
+00:52:20,400 --> 00:52:21,890
+<i>Everybody raise a glass!</i>
+
+664
+00:52:23,400 --> 00:52:25,368
+<i>Raise it up the master's arse!</i>
+
+665
+00:52:26,560 --> 00:52:29,882
+<i>Everybody raise a glass
+to the master of the house</i>
+
+666
+00:52:31,080 --> 00:52:32,127
+I love you, too.
+
+667
+00:52:35,080 --> 00:52:37,367
+<i>Everybody bless the landlord</i>
+
+668
+00:52:58,480 --> 00:53:03,611
+<i>Hush now Do not be afraid of me</i>
+
+669
+00:53:04,520 --> 00:53:08,650
+<i>Don't hide
+Show me where you live</i>
+
+670
+00:53:09,960 --> 00:53:13,806
+<i>Tell me, my child,
+what is your name?</i>
+
+671
+00:53:15,120 --> 00:53:18,363
+<i>I'm called Cosette</i>
+
+672
+00:53:21,360 --> 00:53:23,966
+Mademoiselle. Can I help
+you with your bucket?
+
+673
+00:53:25,840 --> 00:53:26,966
+Whoa!
+
+674
+00:53:35,200 --> 00:53:36,725
+<i>I found her
+wandering in the wood</i>
+
+675
+00:53:36,880 --> 00:53:40,851
+<i>This little child, I found
+her trembling in the shadows</i>
+
+676
+00:53:41,000 --> 00:53:42,684
+<i>And I am here to help Cosette</i>
+
+677
+00:53:42,840 --> 00:53:46,003
+<i>I will settle any debt
+you may think proper</i>
+
+678
+00:53:46,200 --> 00:53:50,728
+<i>I will pay what I must pay</i>
+
+679
+00:53:51,560 --> 00:53:54,370
+<i>To take Cosette away</i>
+
+680
+00:53:56,720 --> 00:53:58,051
+I love you.
+
+681
+00:53:59,880 --> 00:54:02,360
+<i>This is a duty I must heed</i>
+
+682
+00:54:05,600 --> 00:54:08,922
+<i>And there is
+a promise I have made</i>
+
+683
+00:54:09,080 --> 00:54:13,449
+<i>For I was blind to one in need</i>
+
+684
+00:54:15,240 --> 00:54:18,050
+<i>I did not see
+what stood before me</i>
+
+685
+00:54:22,600 --> 00:54:24,602
+<i>Now your mother is with God</i>
+
+686
+00:54:28,680 --> 00:54:31,923
+<i>Her suffering is over</i>
+
+687
+00:54:34,680 --> 00:54:38,765
+<i>And I speak here with her voice</i>
+
+688
+00:54:40,520 --> 00:54:45,162
+<i>And I stand here in her place</i>
+
+689
+00:54:47,440 --> 00:54:49,442
+Come on.
+
+690
+00:54:49,640 --> 00:54:52,644
+<i>And from this day, and evermore</i>
+
+691
+00:54:52,800 --> 00:54:55,087
+<i>Let me take your coat, monsieur</i>
+
+692
+00:54:55,240 --> 00:54:58,289
+<i>Cosette shall live
+in my protection</i>
+
+693
+00:54:59,520 --> 00:55:01,488
+<i>You are very welcome here</i>
+
+694
+00:55:01,640 --> 00:55:04,211
+<i>I will not forget my vow</i>
+
+695
+00:55:04,360 --> 00:55:05,407
+<i>Take a drink</i>
+
+696
+00:55:05,520 --> 00:55:07,090
+<i>Take a chair</i>
+
+697
+00:55:07,280 --> 00:55:11,683
+<i>Cosette shall have a father now</i>
+
+698
+00:55:15,520 --> 00:55:19,570
+<i>What to do?
+What to say?</i>
+
+699
+00:55:19,720 --> 00:55:23,645
+<i>Shall you carry
+our treasure away?</i>
+
+700
+00:55:23,840 --> 00:55:27,526
+<i>What a gem!
+What a pearl!</i>
+
+701
+00:55:27,720 --> 00:55:30,883
+<i>Beyond rubles is
+our little girl</i>
+
+702
+00:55:31,760 --> 00:55:35,446
+<i>How can we talk of debt?</i>
+
+703
+00:55:35,640 --> 00:55:40,885
+<i>Let's not haggle
+for darling Colette</i>
+
+704
+00:55:41,040 --> 00:55:42,087
+Cosette.
+<i>Cosette</i>
+
+705
+00:55:43,360 --> 00:55:47,684
+<i>Dear Fantine, gone to rest</i>
+
+706
+00:55:47,840 --> 00:55:50,241
+<i>Have we done for her
+child what is best?</i>
+
+707
+00:55:50,400 --> 00:55:51,481
+I think so.
+
+708
+00:55:51,640 --> 00:55:55,486
+<i>Shared our bread,
+shared each bone</i>
+
+709
+00:55:55,640 --> 00:55:58,610
+<i>Treated her like
+she's one of our own</i>
+
+710
+00:55:58,760 --> 00:56:00,000
+Yes, our own.
+
+711
+00:56:00,120 --> 00:56:01,406
+<i>Like our own, monsieur!</i>
+
+712
+00:56:01,560 --> 00:56:02,721
+The cost adds up.
+
+713
+00:56:02,920 --> 00:56:05,446
+<i>Your feelings do
+you credit, sir</i>
+
+714
+00:56:05,560 --> 00:56:08,131
+<i>And I will ease
+the parting blow</i>
+
+715
+00:56:08,280 --> 00:56:12,444
+<i>Let us not talk of bargains
+and bones and greed</i>
+
+716
+00:56:13,360 --> 00:56:17,365
+<i>Now may I say we are agreed?</i>
+
+717
+00:56:18,320 --> 00:56:22,211
+<i>That would quite fit the bill</i>
+
+718
+00:56:22,360 --> 00:56:25,967
+<i>If she hadn't so often been ill</i>
+
+719
+00:56:26,120 --> 00:56:29,727
+<i>Little dear, cost us dear</i>
+
+720
+00:56:29,880 --> 00:56:33,168
+<i>Medicines are expensive,
+monsieur</i>
+
+721
+00:56:34,480 --> 00:56:37,802
+<i>Not that we begrudged a sou</i>
+
+722
+00:56:37,880 --> 00:56:40,611
+<i>It's no more than
+we Christians must do</i>
+
+723
+00:56:40,720 --> 00:56:43,485
+<i>Than we Christians may do</i>
+
+724
+00:56:44,480 --> 00:56:48,007
+<i>No more words!
+Here's your price</i>
+
+725
+00:56:48,160 --> 00:56:51,084
+<i>Fifteen hundred
+for your sacrifice</i>
+
+726
+00:56:52,040 --> 00:56:55,522
+<i>Come, Cosette, say goodbye</i>
+
+727
+00:56:55,720 --> 00:56:59,247
+<i>Let us seek out
+some friendlier sky</i>
+
+728
+00:56:59,880 --> 00:57:03,282
+<i>Thank you, both, for Cosette</i>
+
+729
+00:57:03,480 --> 00:57:07,280
+<i>It won't take you
+too long to forget</i>
+
+730
+00:57:09,760 --> 00:57:11,364
+Farewell, Courgette!
+
+731
+00:57:11,520 --> 00:57:13,204
+It's "Cosette."
+Cosette.
+
+732
+00:57:13,360 --> 00:57:15,442
+And, open.
+
+733
+00:57:16,400 --> 00:57:17,401
+It's for you.
+
+734
+00:57:19,360 --> 00:57:22,011
+<i>Where I go, you will be</i>
+
+735
+00:57:22,680 --> 00:57:25,843
+<i>Will you be like a papa to me?</i>
+
+736
+00:57:26,640 --> 00:57:29,689
+<i>Yes, Cosette This is true</i>
+
+737
+00:57:30,600 --> 00:57:33,888
+<i>I'll be father
+and mother to you</i>
+
+738
+00:57:40,040 --> 00:57:41,565
+Not bad.
+Not enough!
+
+739
+00:57:41,720 --> 00:57:45,167
+<i>There's a copper at the door
+What the devil have you done?</i>
+
+740
+00:57:46,560 --> 00:57:47,721
+Where's the child Cosette?
+
+741
+00:57:49,880 --> 00:57:52,121
+<i>She's gone with a gent</i>
+
+742
+00:57:52,200 --> 00:57:54,680
+<i>Didn't tell us where they went</i>
+
+743
+00:57:54,840 --> 00:57:57,161
+<i>Didn't leave his home address</i>
+
+744
+00:58:02,080 --> 00:58:04,401
+<i>You're a bloody fool
+Look at what we got</i>
+
+745
+00:58:04,560 --> 00:58:07,370
+<i>Should've struck the iron
+Struck it while it's hot!</i>
+
+746
+00:58:07,520 --> 00:58:10,524
+<i>Next time round, I promise
+I'm gonna get the lot</i>
+
+747
+00:58:10,680 --> 00:58:11,681
+<i>Okay?</i>
+
+748
+00:58:22,760 --> 00:58:25,889
+<i>Suddenly you're here</i>
+
+749
+00:58:26,880 --> 00:58:29,486
+<i>Suddenly it starts</i>
+
+750
+00:58:30,160 --> 00:58:34,927
+<i>Can two anxious hearts
+beat as one?</i>
+
+751
+00:58:37,120 --> 00:58:39,691
+<i>Yesterday I was alone</i>
+
+752
+00:58:39,840 --> 00:58:43,287
+<i>Today you are beside me</i>
+
+753
+00:58:44,360 --> 00:58:47,125
+<i>Something still unclear</i>
+
+754
+00:58:47,280 --> 00:58:52,650
+<i>Something not yet here
+has begun</i>
+
+755
+00:58:58,040 --> 00:59:03,843
+<i>Suddenly the world
+seems a different place</i>
+
+756
+00:59:04,320 --> 00:59:08,609
+<i>Somehow full of grace
+Full of light</i>
+
+757
+00:59:11,000 --> 00:59:14,800
+<i>How was I to know
+that so much hope</i>
+
+758
+00:59:14,960 --> 00:59:17,645
+<i>Was held inside me?</i>
+
+759
+00:59:18,760 --> 00:59:21,491
+<i>What is passed is gone</i>
+
+760
+00:59:21,640 --> 00:59:27,170
+<i>Now we journey on
+through the night</i>
+
+761
+00:59:28,440 --> 00:59:33,844
+<i>How was I to know at last That
+happiness can come so fast?</i>
+
+762
+00:59:34,000 --> 00:59:36,765
+<i>Trusting me the way you do</i>
+
+763
+00:59:36,920 --> 00:59:39,844
+<i>I'm so afraid of failing you</i>
+
+764
+00:59:40,000 --> 00:59:45,689
+<i>Just a child who cannot know
+That danger follows where I go</i>
+
+765
+00:59:45,840 --> 00:59:48,650
+<i>There are shadows everywhere</i>
+
+766
+00:59:48,800 --> 00:59:53,169
+<i>And memories I cannot share</i>
+
+767
+00:59:54,360 --> 00:59:56,840
+<i>Nevermore alone</i>
+
+768
+00:59:57,760 --> 01:00:00,525
+<i>Nevermore apart</i>
+
+769
+01:00:00,680 --> 01:00:04,969
+<i>You have warmed my heart
+like the sun</i>
+
+770
+01:00:07,840 --> 01:00:14,883
+<i>You have brought the gift of
+life And love so long denied me</i>
+
+771
+01:00:16,360 --> 01:00:19,170
+<i>Suddenly I see</i>
+
+772
+01:00:20,040 --> 01:00:23,487
+<i>What I could not see</i>
+
+773
+01:00:23,680 --> 01:00:27,969
+<i>Something suddenly</i>
+
+774
+01:00:29,040 --> 01:00:29,652
+<i>Has begun</i>
+
+775
+01:00:43,520 --> 01:00:46,888
+Halt!
+Let's see your papers.
+
+776
+01:00:47,720 --> 01:00:49,324
+Where are you traveling?
+
+777
+01:00:51,360 --> 01:00:53,124
+Cosette. Cosette.
+
+778
+01:00:55,160 --> 01:00:56,889
+Give me the doll.
+
+779
+01:00:59,920 --> 01:01:01,160
+Come.
+
+780
+01:01:09,800 --> 01:01:11,006
+Valjean!
+
+781
+01:01:18,120 --> 01:01:20,726
+Come, Cosette.
+Come quickly!
+
+782
+01:01:22,480 --> 01:01:23,891
+Come on.
+
+783
+01:01:29,120 --> 01:01:30,565
+24601!
+
+784
+01:02:01,320 --> 01:02:03,766
+Cosette. I've got you.
+Come, come.
+
+785
+01:02:06,800 --> 01:02:07,847
+Valjean!
+
+786
+01:02:41,960 --> 01:02:43,200
+Who's there?
+
+787
+01:02:43,400 --> 01:02:45,004
+Please, monsieur.
+
+788
+01:02:45,160 --> 01:02:47,367
+I need your help.
+
+789
+01:02:47,520 --> 01:02:49,488
+Please, please.
+
+790
+01:02:53,440 --> 01:02:54,521
+<i>Monsieur le Mayor?</i>
+
+791
+01:02:54,680 --> 01:02:55,806
+Who are you?
+
+792
+01:02:56,880 --> 01:02:58,370
+Fauchelevent.
+
+793
+01:02:59,120 --> 01:03:01,771
+I fell under my cart.
+
+794
+01:03:01,960 --> 01:03:03,371
+You saved my life, monsieur.
+
+795
+01:03:03,520 --> 01:03:05,090
+Fauchelevent.
+
+796
+01:03:05,400 --> 01:03:08,006
+We need a place of sanctuary,
+this child and I.
+
+797
+01:03:08,160 --> 01:03:10,049
+We need to disappear.
+
+798
+01:03:10,200 --> 01:03:14,171
+<i>We'll give thanks
+for what is granted</i>
+
+799
+01:03:15,520 --> 01:03:19,002
+<i>What the sisters may ordain</i>
+
+800
+01:03:19,160 --> 01:03:20,525
+Come.
+
+801
+01:03:20,680 --> 01:03:24,685
+<i>Here we pray for new beginnings</i>
+
+802
+01:03:25,040 --> 01:03:32,049
+<i>Here our lives can start again</i>
+
+803
+01:03:50,760 --> 01:03:56,802
+<i>There, out in the darkness</i>
+
+804
+01:03:56,960 --> 01:04:00,646
+<i>A fugitive running</i>
+
+805
+01:04:00,800 --> 01:04:04,247
+<i>Fallen from God</i>
+
+806
+01:04:04,920 --> 01:04:08,686
+<i>Fallen from grace</i>
+
+807
+01:04:08,840 --> 01:04:12,003
+<i>God be my witness</i>
+
+808
+01:04:12,200 --> 01:04:15,363
+<i>I never shall yield</i>
+
+809
+01:04:15,520 --> 01:04:18,569
+<i>Till we come face to face</i>
+
+810
+01:04:19,160 --> 01:04:22,926
+<i>Till we come face to face</i>
+
+811
+01:04:23,080 --> 01:04:25,367
+<i>He knows his way in the dark</i>
+
+812
+01:04:25,920 --> 01:04:30,005
+<i>Mine is the way of the Lord</i>
+
+813
+01:04:30,160 --> 01:04:33,721
+<i>Those who follow
+the path of the righteous</i>
+
+814
+01:04:33,880 --> 01:04:37,726
+<i>Shall have their reward</i>
+
+815
+01:04:37,880 --> 01:04:41,601
+<i>And if they fall
+as Lucifer fell</i>
+
+816
+01:04:41,760 --> 01:04:46,687
+<i>The flames! The sword!</i>
+
+817
+01:04:47,800 --> 01:04:53,489
+<i>Stars in your multitudes</i>
+
+818
+01:04:54,040 --> 01:04:56,964
+<i>Scarce to be counted</i>
+
+819
+01:04:57,640 --> 01:05:01,008
+<i>Filling the darkness</i>
+
+820
+01:05:01,160 --> 01:05:04,721
+<i>With order and light</i>
+
+821
+01:05:04,920 --> 01:05:08,242
+<i>You are the sentinels</i>
+
+822
+01:05:08,400 --> 01:05:11,051
+<i>Silent and sure</i>
+
+823
+01:05:11,360 --> 01:05:13,931
+<i>Keeping watch in the night</i>
+
+824
+01:05:15,000 --> 01:05:18,322
+<i>Keeping watch in the night</i>
+
+825
+01:05:18,720 --> 01:05:22,008
+<i>You know your place in the sky</i>
+
+826
+01:05:22,160 --> 01:05:25,050
+<i>You hold your course
+and your aim</i>
+
+827
+01:05:25,200 --> 01:05:29,205
+<i>And each in your season
+returns and returns</i>
+
+828
+01:05:29,400 --> 01:05:33,086
+<i>And is always the same</i>
+
+829
+01:05:33,280 --> 01:05:37,126
+<i>And if you fall as Lucifer fell</i>
+
+830
+01:05:37,280 --> 01:05:41,604
+<i>You fall in flames!</i>
+
+831
+01:05:41,760 --> 01:05:46,129
+<i>And so it must be,
+for so it is written</i>
+
+832
+01:05:46,280 --> 01:05:49,363
+<i>On the doorway to paradise</i>
+
+833
+01:05:49,520 --> 01:05:52,888
+<i>That those who falter
+and those who fall</i>
+
+834
+01:05:53,040 --> 01:05:56,965
+<i>Must pay the price</i>
+
+835
+01:06:02,720 --> 01:06:05,963
+<i>Lord, let me find him</i>
+
+836
+01:06:06,120 --> 01:06:09,203
+<i>That I may see him</i>
+
+837
+01:06:09,400 --> 01:06:13,041
+<i>Safe behind bars!</i>
+
+838
+01:06:13,200 --> 01:06:19,651
+<i>I will never rest till then!</i>
+
+839
+01:06:19,800 --> 01:06:22,326
+<i>This I swear</i>
+
+840
+01:06:22,480 --> 01:06:28,487
+<i>This I swear by the stars!</i>
+
+841
+01:06:59,920 --> 01:07:01,524
+Come on, boys!
+
+842
+01:07:07,040 --> 01:07:08,166
+Come on.
+
+843
+01:07:12,120 --> 01:07:17,968
+<i>Look down
+and see the beggars at your feet!</i>
+
+844
+01:07:18,120 --> 01:07:24,048
+<i>Look down and show
+some mercy if you can</i>
+
+845
+01:07:24,200 --> 01:07:30,128
+<i>Look down and see
+the sweepings of the street!</i>
+
+846
+01:07:30,280 --> 01:07:36,287
+<i>Look down, look down
+upon your fellow man!</i>
+
+847
+01:07:36,440 --> 01:07:38,807
+<i>How do you do?
+My name's Gavroche</i>
+
+848
+01:07:39,200 --> 01:07:41,931
+<i>These are my people,
+here's my patch</i>
+
+849
+01:07:42,120 --> 01:07:44,691
+<i>Not much to look at,
+nothing posh</i>
+
+850
+01:07:44,840 --> 01:07:47,571
+<i>Nothing that
+you'd call up to scratch</i>
+
+851
+01:07:47,720 --> 01:07:50,326
+<i>This is my school,
+my high society</i>
+
+852
+01:07:50,480 --> 01:07:53,211
+<i>Here in
+the slums of Saint Michel</i>
+
+853
+01:07:53,360 --> 01:07:55,727
+<i>We live on
+crumbs of humble piety</i>
+
+854
+01:07:55,920 --> 01:07:58,605
+<i>Tough on the teeth,
+but what the hell</i>
+
+855
+01:07:58,840 --> 01:08:01,525
+<i>Think you're poor?
+Think you're free?</i>
+
+856
+01:08:01,720 --> 01:08:04,326
+<i>Follow me! Follow me!</i>
+
+857
+01:08:04,480 --> 01:08:09,771
+<i>Look down and show
+some mercy if you can!</i>
+
+858
+01:08:09,920 --> 01:08:14,289
+<i>Look down, look down
+upon your fellow man</i>
+
+859
+01:08:14,480 --> 01:08:15,686
+<i>Wait, Gavroche!</i>
+
+860
+01:08:15,840 --> 01:08:18,525
+<i>There was a time
+we killed the king</i>
+
+861
+01:08:18,680 --> 01:08:21,604
+<i>We tried to change
+the world too fast</i>
+
+862
+01:08:21,760 --> 01:08:24,240
+<i>Now we have got another king</i>
+
+863
+01:08:24,400 --> 01:08:27,085
+<i>He is no better than the last</i>
+
+864
+01:08:27,240 --> 01:08:29,846
+<i>This is the land
+that fought for liberty</i>
+
+865
+01:08:30,040 --> 01:08:32,611
+<i>Now when we fight,
+we fight for bread!</i>
+
+866
+01:08:32,760 --> 01:08:35,491
+<i>Here is
+the thing about equality</i>
+
+867
+01:08:35,640 --> 01:08:38,371
+<i>Everyone's equal
+when they're dead</i>
+
+868
+01:08:38,520 --> 01:08:41,126
+<i>Take your place!
+Take your chance!</i>
+
+869
+01:08:41,280 --> 01:08:43,965
+<i>Vive la France!
+Vive la France!</i>
+
+870
+01:08:44,120 --> 01:08:49,411
+<i>Look down and show
+some mercy if you can!</i>
+
+871
+01:08:49,600 --> 01:08:55,448
+<i>Look down, look down
+upon your fellow man</i>
+
+872
+01:08:55,560 --> 01:08:56,561
+<i>When's this gonna end?</i>
+
+873
+01:08:56,680 --> 01:08:57,886
+<i>When we gonna live?</i>
+
+874
+01:08:58,040 --> 01:08:59,201
+<i>Something's gotta happen now</i>
+
+875
+01:08:59,400 --> 01:09:00,481
+<i>Something's gotta give</i>
+
+876
+01:09:00,560 --> 01:09:03,291
+<i>it'll come, it'll come, it'll
+come it'll come, it'll come</i>
+
+877
+01:09:03,440 --> 01:09:05,920
+<i>Where are
+the leaders of the land?</i>
+
+878
+01:09:06,120 --> 01:09:08,691
+<i>Where is the king
+who runs this show?</i>
+
+879
+01:09:08,840 --> 01:09:11,366
+<i>Only one man, General Lamarque</i>
+
+880
+01:09:11,520 --> 01:09:14,410
+<i>Speaks for
+the people here below!</i>
+
+881
+01:09:14,560 --> 01:09:16,722
+<i>Lamarque is ill and fading fast</i>
+
+882
+01:09:16,920 --> 01:09:19,651
+<i>Won't last a week out,
+so they say</i>
+
+883
+01:09:19,840 --> 01:09:22,525
+<i>With all the anger in the land</i>
+
+884
+01:09:22,720 --> 01:09:25,041
+<i>How long before
+the Judgment Day?</i>
+
+885
+01:09:25,200 --> 01:09:28,568
+<i>Before we cut
+the fat ones down to size?</i>
+
+886
+01:09:28,720 --> 01:09:29,721
+Death to the king!
+
+887
+01:09:29,800 --> 01:09:30,881
+Liberty for France!
+
+888
+01:09:30,960 --> 01:09:35,921
+<i>Before the barricades arise?</i>
+
+889
+01:09:36,080 --> 01:09:37,161
+Death to the king!
+
+890
+01:09:40,080 --> 01:09:41,206
+Tell your friends.
+We come tomorrow.
+
+891
+01:09:41,320 --> 01:09:43,891
+We meet here at General Lamarque's house.
+Bring your friends.
+
+892
+01:09:44,080 --> 01:09:45,570
+<i>Vive</i> General Lamarque!
+
+893
+01:09:46,600 --> 01:09:48,045
+Marius!
+Grandfather!
+
+894
+01:09:48,200 --> 01:09:53,286
+Have you any idea of the shame
+you bring on our family?
+
+895
+01:09:53,600 --> 01:09:55,602
+An utter disgrace.
+
+896
+01:09:55,760 --> 01:09:56,807
+Marius.
+
+897
+01:09:56,960 --> 01:10:00,487
+<i>Vive</i> General Lamarque!
+<i>Vive</i> General Lamarque!
+
+898
+01:10:01,680 --> 01:10:04,286
+<i>Vive la France!
+Vive la France!</i>
+
+899
+01:10:04,400 --> 01:10:07,006
+<i>Vive la France!
+Vive la France!</i>
+
+900
+01:10:14,960 --> 01:10:17,531
+<i>Hey there, monsieur,
+what's new with you?</i>
+
+901
+01:10:18,040 --> 01:10:20,805
+<i>Plotting to
+overthrow the state?</i>
+
+902
+01:10:21,320 --> 01:10:24,324
+<i>You still pretending to be poor</i>
+
+903
+01:10:24,480 --> 01:10:27,006
+<i>Come on,
+I know your grandpa's rich</i>
+
+904
+01:10:27,320 --> 01:10:29,482
+<i>Won't take a franc
+that I've not earned</i>
+
+905
+01:10:30,200 --> 01:10:32,646
+<i>All of those bridges
+have been burned</i>
+
+906
+01:10:32,800 --> 01:10:35,246
+<i>I like the way
+you talk, monsieur!</i>
+
+907
+01:10:35,400 --> 01:10:38,563
+<i>I like the way you always tease</i>
+
+908
+01:10:43,920 --> 01:10:47,367
+<i>Little he knows</i>
+
+909
+01:10:47,520 --> 01:10:51,844
+<i>Little he sees</i>
+
+910
+01:10:58,600 --> 01:11:00,409
+Here, take this.
+
+911
+01:11:20,120 --> 01:11:21,565
+Eponine!
+
+912
+01:11:22,600 --> 01:11:24,887
+<i>Everyone here,
+you know your place</i>
+
+913
+01:11:25,040 --> 01:11:28,044
+<i>Brujon, Babet, Claquesous</i>
+
+914
+01:11:28,200 --> 01:11:30,362
+<i>You, Montparnasse,
+watch for the law</i>
+
+915
+01:11:30,520 --> 01:11:32,841
+<i>With Eponine, take care</i>
+
+916
+01:11:33,000 --> 01:11:36,243
+<i>You turn on the tears
+No mistakes, my dears</i>
+
+917
+01:11:38,880 --> 01:11:43,886
+<i>Please, monsieur, come this way</i>
+
+918
+01:11:44,040 --> 01:11:47,726
+<i>Here's a child
+that ain't eaten today</i>
+
+919
+01:11:47,880 --> 01:11:51,885
+<i>Save a life, spare a sou</i>
+
+920
+01:11:52,120 --> 01:11:56,444
+<i>God rewards all
+the good that you do</i>
+
+921
+01:11:57,240 --> 01:12:00,847
+<i>Wait a bit!
+Know that face!</i>
+
+922
+01:12:02,720 --> 01:12:06,884
+<i>Ain't the world
+a remarkable place!</i>
+
+923
+01:12:07,760 --> 01:12:11,242
+<i>Men like me don't forget</i>
+
+924
+01:12:11,400 --> 01:12:14,370
+<i>You're the bastard
+that borrowed Colette!</i>
+
+925
+01:12:14,520 --> 01:12:15,726
+Cosette.
+Whatever.
+
+926
+01:12:15,880 --> 01:12:18,929
+<i>What is this?
+Are you mad?</i>
+
+927
+01:12:19,080 --> 01:12:21,128
+<i>No, monsieur,
+you don't know what you say!</i>
+
+928
+01:12:21,280 --> 01:12:22,884
+<i>You know me! I know you!</i>
+
+929
+01:12:23,040 --> 01:12:24,405
+<i>And you'll pay what we're due</i>
+
+930
+01:12:24,560 --> 01:12:25,800
+<i>And you'd better dig deep</i>
+
+931
+01:12:25,960 --> 01:12:27,724
+<i>'Cause she doesn't come cheap</i>
+
+932
+01:12:28,080 --> 01:12:29,286
+Brujon.
+
+933
+01:12:29,440 --> 01:12:30,601
+<i>It's the police! Disappear!</i>
+
+934
+01:12:30,760 --> 01:12:32,603
+<i>Run for it! It's Javert!</i>
+
+935
+01:12:32,760 --> 01:12:34,444
+- Cosette!
+- Papa.
+
+936
+01:12:36,080 --> 01:12:38,765
+<i>Another brawl in the square
+Another stink in the air</i>
+
+937
+01:12:38,920 --> 01:12:41,605
+<i>Was there a witness to this?
+Well, let him speak to Javert!</i>
+
+938
+01:12:41,760 --> 01:12:45,128
+<i>Monsieur, these streets are not
+safe But let these vermin beware</i>
+
+939
+01:12:45,440 --> 01:12:47,124
+<i>We'll see that justice is done</i>
+
+940
+01:12:48,600 --> 01:12:51,126
+<i>Look upon this fine collection</i>
+
+941
+01:12:51,280 --> 01:12:53,931
+<i>Crawled from underneath a stone</i>
+
+942
+01:12:54,080 --> 01:12:56,287
+<i>This swarm of worms and maggots</i>
+
+943
+01:12:56,680 --> 01:13:00,480
+<i>Could have picked you
+to the bone</i>
+
+944
+01:13:00,640 --> 01:13:03,120
+<i>I know this man over here
+I know his name and his trade</i>
+
+945
+01:13:03,280 --> 01:13:07,001
+<i>And on your witness, monsieur,
+I'll see him suitably paid</i>
+
+946
+01:13:09,520 --> 01:13:10,806
+<i>But where's the gentleman gone?</i>
+
+947
+01:13:10,880 --> 01:13:13,042
+<i>And why on Earth would he run?</i>
+
+948
+01:13:13,200 --> 01:13:16,363
+<i>You will have a job to find him</i>
+
+949
+01:13:16,520 --> 01:13:19,649
+<i>He's not all he seems to be</i>
+
+950
+01:13:19,840 --> 01:13:23,287
+<i>And that girl
+he trails behind him</i>
+
+951
+01:13:23,800 --> 01:13:27,122
+<i>Is the child he stole from me</i>
+
+952
+01:13:27,280 --> 01:13:28,645
+Yeah, and me.
+
+953
+01:13:28,840 --> 01:13:30,001
+Yeah, both of us.
+
+954
+01:13:30,160 --> 01:13:35,166
+<i>Could it be he's that old
+jailbird That the tide now washes in?</i>
+
+955
+01:13:35,320 --> 01:13:40,008
+<i>Heard my name and started running
+All the omens point to him</i>
+
+956
+01:13:40,520 --> 01:13:45,686
+<i>In the absence of a victim</i>
+
+957
+01:13:47,000 --> 01:13:51,369
+<i>Dear Inspector, may I go?</i>
+
+958
+01:13:54,520 --> 01:13:56,409
+<i>And remember</i>
+
+959
+01:13:58,160 --> 01:14:00,003
+<i>When you've nicked him</i>
+
+960
+01:14:00,840 --> 01:14:07,200
+<i>It was me what told you so</i>
+
+961
+01:14:08,040 --> 01:14:10,930
+<i>Let the old man keep on running</i>
+
+962
+01:14:11,080 --> 01:14:15,369
+<i>I will run him off his feet!</i>
+
+963
+01:14:18,200 --> 01:14:21,921
+<i>Everyone, about your business
+Clear this garbage off the street</i>
+
+964
+01:14:24,560 --> 01:14:29,043
+<i>Cosette! Now I remember</i>
+
+965
+01:14:29,920 --> 01:14:34,244
+<i>Cosette! How can it be?</i>
+
+966
+01:14:35,360 --> 01:14:39,445
+<i>We were children together</i>
+
+967
+01:14:40,760 --> 01:14:45,402
+<i>Look what's become of me</i>
+
+968
+01:14:48,080 --> 01:14:50,321
+<i>Eponine! Who was that girl?</i>
+
+969
+01:14:50,480 --> 01:14:53,404
+<i>That bourgeois
+two-a-penny thing</i>
+
+970
+01:14:53,560 --> 01:14:55,483
+<i>Eponine, find her for me!</i>
+
+971
+01:14:55,920 --> 01:14:57,251
+<i>What will you give me?</i>
+
+972
+01:14:57,400 --> 01:14:58,925
+<i>Anything!</i>
+
+973
+01:14:59,080 --> 01:15:03,881
+<i>Got you all excited now But
+God knows what you see in her</i>
+
+974
+01:15:04,040 --> 01:15:06,042
+<i>Aren't you all delighted now?</i>
+
+975
+01:15:06,200 --> 01:15:11,001
+<i>No,
+I don't want your money, sir</i>
+
+976
+01:15:13,680 --> 01:15:17,571
+<i>Eponine, do this for me</i>
+
+977
+01:15:17,720 --> 01:15:20,087
+<i>Discover where she lives</i>
+
+978
+01:15:20,600 --> 01:15:25,925
+<i>But careful how you go
+Don't let your father know</i>
+
+979
+01:15:26,440 --> 01:15:31,685
+<i>Eponine! I'm lost
+until she's found</i>
+
+980
+01:15:32,720 --> 01:15:35,530
+<i>You see? I told you so</i>
+
+981
+01:15:36,800 --> 01:15:39,246
+<i>There's lots of things I know</i>
+
+982
+01:15:40,440 --> 01:15:43,444
+<i>'Ponine</i>
+
+983
+01:15:43,520 --> 01:15:50,563
+<i>She knows her way around</i>
+
+984
+01:15:55,240 --> 01:15:57,641
+<i>The time is near</i>
+
+985
+01:15:58,760 --> 01:16:02,651
+<i>So near it's stirring
+the blood in their veins</i>
+
+986
+01:16:02,800 --> 01:16:05,724
+<i>And yet beware!</i>
+
+987
+01:16:06,560 --> 01:16:11,168
+<i>Don't let the wine
+go to your brains</i>
+
+988
+01:16:11,320 --> 01:16:15,166
+<i>We need a sign to
+rally the people</i>
+
+989
+01:16:15,320 --> 01:16:16,845
+<i>To call them to arms</i>
+
+990
+01:16:17,000 --> 01:16:20,083
+<i>And to bring them in line!</i>
+
+991
+01:16:20,240 --> 01:16:23,926
+<i>Marius, wake up!
+What's wrong today?</i>
+
+992
+01:16:24,080 --> 01:16:25,491
+<i>You look as if
+you've seen a ghost</i>
+
+993
+01:16:25,960 --> 01:16:28,850
+<i>Some wine, and
+say what's going on</i>
+
+994
+01:16:29,160 --> 01:16:32,289
+<i>A ghost, you say?
+A ghost maybe</i>
+
+995
+01:16:32,480 --> 01:16:35,370
+<i>She was just like a ghost to me</i>
+
+996
+01:16:35,520 --> 01:16:38,171
+<i>One minute there,
+then she was gone</i>
+
+997
+01:16:40,080 --> 01:16:43,004
+<i>I am agog!
+I am aghast!</i>
+
+998
+01:16:43,200 --> 01:16:45,771
+<i>Is Marius in love at last?</i>
+
+999
+01:16:45,920 --> 01:16:50,608
+<i>I've never heard
+him "Ooh" and "Aah"</i>
+
+1000
+01:16:51,120 --> 01:16:53,851
+<i>You talk of battles to be won</i>
+
+1001
+01:16:54,040 --> 01:16:56,486
+<i>And here he comes like Don Juan</i>
+
+1002
+01:16:56,640 --> 01:17:02,204
+<i>It is better than an opera!</i>
+
+1003
+01:17:06,360 --> 01:17:10,649
+<i>It is time for us all
+to decide who we are</i>
+
+1004
+01:17:11,880 --> 01:17:16,568
+<i>Do we fight for the right
+to a night at the opera now?</i>
+
+1005
+01:17:17,680 --> 01:17:22,402
+<i>Have you asked of yourself
+What's the price you might pay?</i>
+
+1006
+01:17:23,400 --> 01:17:27,246
+<i>Is this simply a game
+for a rich young boy to play?</i>
+
+1007
+01:17:27,400 --> 01:17:33,726
+<i>The colors of the world
+are changing day by day</i>
+
+1008
+01:17:34,720 --> 01:17:38,566
+<i>Red, the blood of angry men!</i>
+
+1009
+01:17:38,720 --> 01:17:42,850
+<i>Black, the dark of ages past!</i>
+
+1010
+01:17:43,000 --> 01:17:46,891
+<i>Red, a world about to dawn!</i>
+
+1011
+01:17:47,240 --> 01:17:53,247
+<i>Black,
+the night that ends at last!</i>
+
+1012
+01:17:53,600 --> 01:17:58,686
+<i>Had you seen her today
+you might know how it feels</i>
+
+1013
+01:17:58,840 --> 01:18:04,085
+<i>To be struck to the bone in a
+moment of breathless delight!</i>
+
+1014
+01:18:04,280 --> 01:18:08,365
+<i>Had you been there today
+you might also have known</i>
+
+1015
+01:18:09,680 --> 01:18:13,446
+<i>How your world may be changed
+in just one burst of light</i>
+
+1016
+01:18:13,600 --> 01:18:16,331
+<i>And what was right seems wrong</i>
+
+1017
+01:18:16,480 --> 01:18:20,565
+<i>And what was wrong seems right</i>
+
+1018
+01:18:20,640 --> 01:18:21,687
+<i>Red!</i>
+
+1019
+01:18:21,840 --> 01:18:24,411
+<i>I feel my soul on fire!</i>
+
+1020
+01:18:24,720 --> 01:18:25,767
+<i>Black!</i>
+
+1021
+01:18:25,920 --> 01:18:28,446
+<i>My world if she's not there!</i>
+
+1022
+01:18:28,680 --> 01:18:29,806
+<i>Red!</i>
+
+1023
+01:18:29,960 --> 01:18:32,611
+<i>The color of desire!</i>
+
+1024
+01:18:32,760 --> 01:18:33,761
+<i>Black!</i>
+
+1025
+01:18:33,880 --> 01:18:37,327
+<i>The color of despair!</i>
+
+1026
+01:18:37,880 --> 01:18:39,769
+<i>Marius,
+you're no longer a child</i>
+
+1027
+01:18:39,920 --> 01:18:41,763
+<i>I do not doubt you mean it well</i>
+
+1028
+01:18:41,920 --> 01:18:44,321
+<i>But now there is a higher call</i>
+
+1029
+01:18:44,480 --> 01:18:45,720
+<i>I know.</i>
+
+1030
+01:18:45,880 --> 01:18:48,201
+<i>Who cares about
+your lonely soul?</i>
+
+1031
+01:18:48,360 --> 01:18:50,806
+<i>We strive towards a larger goal</i>
+
+1032
+01:18:50,960 --> 01:18:55,204
+<i>Our little lives
+don't count at all!</i>
+
+1033
+01:18:55,360 --> 01:18:56,691
+<i>Red!</i>
+
+1034
+01:18:56,840 --> 01:18:59,605
+<i>The blood of angry men!</i>
+
+1035
+01:18:59,720 --> 01:19:00,721
+<i>Black!</i>
+
+1036
+01:19:00,840 --> 01:19:03,411
+<i>The dark of ages past!</i>
+
+1037
+01:19:03,880 --> 01:19:04,961
+<i>Red!</i>
+
+1038
+01:19:05,120 --> 01:19:07,726
+<i>A world about to dawn!</i>
+
+1039
+01:19:08,240 --> 01:19:09,241
+<i>Black!</i>
+
+1040
+01:19:09,400 --> 01:19:16,124
+<i>The night that ends at last!</i>
+
+1041
+01:19:16,280 --> 01:19:17,327
+<i>Listen, everybody!</i>
+
+1042
+01:19:18,600 --> 01:19:20,568
+General Lamarque is dead.
+
+1043
+01:19:23,400 --> 01:19:28,122
+<i>Lamarque, his
+death is the hour of fate</i>
+
+1044
+01:19:28,320 --> 01:19:29,810
+<i>The people's man</i>
+
+1045
+01:19:31,840 --> 01:19:37,688
+<i>His death is the sign we await!</i>
+
+1046
+01:19:37,840 --> 01:19:40,491
+<i>On his funeral day
+they will honor his name</i>
+
+1047
+01:19:40,640 --> 01:19:43,291
+<i>With the light of
+rebellion ablaze in their eyes</i>
+
+1048
+01:19:43,720 --> 01:19:46,644
+<i>From their candles of grief
+we will kindle our flame</i>
+
+1049
+01:19:46,840 --> 01:19:49,969
+<i>On the tomb of Lamarque
+shall our barricade rise!</i>
+
+1050
+01:19:50,120 --> 01:19:52,009
+<i>The time is here!</i>
+
+1051
+01:19:52,160 --> 01:19:55,004
+<i>Let us welcome it gladly
+with courage and cheer!</i>
+
+1052
+01:19:55,160 --> 01:19:57,845
+<i>Let us take to the streets
+with no doubt in our hearts</i>
+
+1053
+01:19:58,200 --> 01:19:59,486
+<i>But a jubilant shout!</i>
+
+1054
+01:19:59,640 --> 01:20:02,644
+<i>They will come one and all!</i>
+
+1055
+01:20:02,800 --> 01:20:09,331
+<i>They will come when we call!</i>
+
+1056
+01:20:13,600 --> 01:20:15,284
+Did you find her?
+
+1057
+01:20:23,080 --> 01:20:24,889
+<i>How strange</i>
+
+1058
+01:20:25,040 --> 01:20:28,931
+<i>This feeling that
+my life's begun at last</i>
+
+1059
+01:20:29,080 --> 01:20:31,367
+<i>This change</i>
+
+1060
+01:20:31,520 --> 01:20:34,967
+<i>Can people really
+fall in love so fast?</i>
+
+1061
+01:20:35,920 --> 01:20:38,969
+<i>What's the matter
+with you, Cosette?</i>
+
+1062
+01:20:39,120 --> 01:20:42,567
+<i>Have you been
+too much on your own?</i>
+
+1063
+01:20:42,720 --> 01:20:45,246
+<i>So many things unclear</i>
+
+1064
+01:20:45,440 --> 01:20:49,764
+<i>So many things unknown</i>
+
+1065
+01:20:52,400 --> 01:20:54,926
+<i>In my life</i>
+
+1066
+01:20:55,120 --> 01:20:57,521
+<i>There are so many
+questions and answers</i>
+
+1067
+01:20:57,600 --> 01:21:00,285
+<i>That somehow seem wrong</i>
+
+1068
+01:21:01,120 --> 01:21:02,610
+<i>In my life</i>
+
+1069
+01:21:02,760 --> 01:21:05,161
+<i>There are times when
+I catch in the silence</i>
+
+1070
+01:21:05,320 --> 01:21:08,449
+<i>The sigh of a faraway song</i>
+
+1071
+01:21:08,600 --> 01:21:10,841
+<i>And it sings</i>
+
+1072
+01:21:11,000 --> 01:21:15,244
+<i>Of a world that I long to see
+Out of reach</i>
+
+1073
+01:21:15,400 --> 01:21:19,644
+<i>Just a whisper away
+Waiting for me</i>
+
+1074
+01:21:19,960 --> 01:21:24,488
+<i>Does he know I'm alive?
+Do I know if he's real?</i>
+
+1075
+01:21:24,640 --> 01:21:28,964
+<i>Does he see what I see?
+Does he feel what I feel?</i>
+
+1076
+01:21:29,640 --> 01:21:31,688
+<i>In my life</i>
+
+1077
+01:21:32,360 --> 01:21:34,010
+<i>I'm no longer alone</i>
+
+1078
+01:21:34,080 --> 01:21:37,482
+<i>Now the love in
+my life is so near</i>
+
+1079
+01:21:39,200 --> 01:21:41,646
+<i>Find me now</i>
+
+1080
+01:21:41,800 --> 01:21:45,043
+<i>Find me here</i>
+
+1081
+01:21:49,320 --> 01:21:51,322
+<i>Dear Cosette</i>
+
+1082
+01:21:51,480 --> 01:21:54,051
+<i>You're such a lonely child</i>
+
+1083
+01:21:54,200 --> 01:21:58,728
+<i>How pensive,
+how sad you seem to me</i>
+
+1084
+01:21:59,120 --> 01:22:03,523
+<i>Believe me,
+were it within my power</i>
+
+1085
+01:22:03,880 --> 01:22:06,884
+<i>I'd fill each passing hour</i>
+
+1086
+01:22:07,200 --> 01:22:11,842
+<i>How quiet it must be, I can see</i>
+
+1087
+01:22:12,000 --> 01:22:16,050
+<i>With only me for company</i>
+
+1088
+01:22:17,200 --> 01:22:19,680
+<i>There's so little I know
+that I'm longing to know</i>
+
+1089
+01:22:19,840 --> 01:22:22,684
+<i>Of the man that you were
+in a time long ago</i>
+
+1090
+01:22:22,800 --> 01:22:23,801
+Please, Cosette.
+
+1091
+01:22:24,040 --> 01:22:26,646
+<i>There's so little you say
+of the life you have known</i>
+
+1092
+01:22:26,800 --> 01:22:30,361
+<i>Why you keep to yourself
+Why you're always alone</i>
+
+1093
+01:22:30,520 --> 01:22:33,569
+<i>So dark So dark and deep</i>
+
+1094
+01:22:34,200 --> 01:22:37,363
+<i>The secrets that you keep</i>
+
+1095
+01:22:38,960 --> 01:22:40,883
+<i>In my life</i>
+
+1096
+01:22:41,880 --> 01:22:46,727
+<i>Please forgive what I say You
+are loving and gentle and good</i>
+
+1097
+01:22:48,200 --> 01:22:51,568
+<i>But Papa, dear Papa</i>
+
+1098
+01:22:51,720 --> 01:22:55,486
+<i>In your eyes I am still like that
+child who was lost in a wood</i>
+
+1099
+01:22:56,240 --> 01:22:57,890
+<i>No more words</i>
+
+1100
+01:22:58,760 --> 01:23:00,808
+<i>No more words
+It's a time that is dead</i>
+
+1101
+01:23:02,400 --> 01:23:04,448
+<i>There are words</i>
+
+1102
+01:23:04,600 --> 01:23:08,082
+<i>That are better unheard
+Better unsaid</i>
+
+1103
+01:23:08,400 --> 01:23:10,562
+<i>In my life</i>
+
+1104
+01:23:10,720 --> 01:23:15,408
+<i>I'm no longer a child and I yearn
+for the truth that you know</i>
+
+1105
+01:23:17,240 --> 01:23:21,086
+<i>Of the years, years ago</i>
+
+1106
+01:23:22,080 --> 01:23:24,242
+<i>You will learn</i>
+
+1107
+01:23:24,400 --> 01:23:28,246
+<i>Truth is given by God
+to us all in our time</i>
+
+1108
+01:23:28,440 --> 01:23:29,805
+<i>In our turn</i>
+
+1109
+01:23:39,920 --> 01:23:41,604
+<i>In my life</i>
+
+1110
+01:23:41,760 --> 01:23:46,482
+<i>She has burst like the music
+of angels The light of the sun</i>
+
+1111
+01:23:47,600 --> 01:23:51,127
+<i>And my life seems to stop
+as if something is over</i>
+
+1112
+01:23:51,280 --> 01:23:53,681
+<i>And something
+has scarcely begun!</i>
+
+1113
+01:23:53,880 --> 01:23:57,487
+<i>Eponine, you're the friend
+who has brought me here</i>
+
+1114
+01:23:57,640 --> 01:24:00,803
+<i>Thanks to you
+I'm at one with the gods</i>
+
+1115
+01:24:00,960 --> 01:24:03,281
+<i>And heaven is near!</i>
+
+1116
+01:24:03,440 --> 01:24:07,286
+<i>And I soar through a world
+that is new That is free</i>
+
+1117
+01:24:07,840 --> 01:24:11,481
+<i>Every word that he says
+is a dagger in me</i>
+
+1118
+01:24:12,840 --> 01:24:15,161
+<i>In my life</i>
+
+1119
+01:24:15,360 --> 01:24:18,967
+<i>There's been no one
+like him anywhere</i>
+
+1120
+01:24:19,120 --> 01:24:22,567
+<i>Anywhere, where he is</i>
+
+1121
+01:24:23,680 --> 01:24:28,846
+<i>If he asked, I'd be his</i>
+
+1122
+01:24:29,520 --> 01:24:32,808
+<i>In my life</i>
+
+1123
+01:24:33,000 --> 01:24:36,846
+<i>There is someone
+who touches my life</i>
+
+1124
+01:24:37,400 --> 01:24:39,323
+<i>Waiting near</i>
+
+1125
+01:24:40,320 --> 01:24:43,085
+<i>Waiting here</i>
+
+1126
+01:24:50,880 --> 01:24:55,522
+<i>A heart full of love</i>
+
+1127
+01:24:58,200 --> 01:25:02,683
+<i>A heart full of song</i>
+
+1128
+01:25:02,840 --> 01:25:05,047
+<i>I'm doing everything all wrong</i>
+
+1129
+01:25:06,200 --> 01:25:10,603
+<i>Oh God, for shame
+I do not even know your name</i>
+
+1130
+01:25:11,880 --> 01:25:14,042
+<i>Dear mademoiselle</i>
+
+1131
+01:25:15,560 --> 01:25:17,801
+<i>Won't you Say?</i>
+
+1132
+01:25:19,200 --> 01:25:20,281
+<i>Will you tell?</i>
+
+1133
+01:25:20,360 --> 01:25:25,082
+<i>A heart full of love</i>
+
+1134
+01:25:26,440 --> 01:25:30,809
+<i>No fear, no regret</i>
+
+1135
+01:25:30,960 --> 01:25:33,645
+<i>My name is Marius Pontmercy</i>
+
+1136
+01:25:34,040 --> 01:25:36,247
+<i>And mine's Cosette</i>
+
+1137
+01:25:36,640 --> 01:25:39,849
+<i>Cosette,
+I don't know what to say</i>
+
+1138
+01:25:40,600 --> 01:25:43,206
+<i>Then make no sound</i>
+
+1139
+01:25:44,200 --> 01:25:46,328
+<i>I am lost</i>
+
+1140
+01:25:47,120 --> 01:25:48,610
+<i>I am found</i>
+
+1141
+01:25:48,760 --> 01:25:52,162
+<i>A heart full of love</i>
+
+1142
+01:25:52,320 --> 01:25:54,527
+<i>He was never mine to lose</i>
+
+1143
+01:25:54,680 --> 01:25:57,763
+<i>A heart full of you</i>
+
+1144
+01:25:57,960 --> 01:25:59,644
+<i>A single look and then I knew</i>
+
+1145
+01:25:59,800 --> 01:26:01,529
+<i>Why regret what could not be?</i>
+
+1146
+01:26:01,680 --> 01:26:04,001
+<i>I knew it, too</i>
+
+1147
+01:26:04,160 --> 01:26:07,960
+<i>These are words he'll never say</i>
+
+1148
+01:26:09,680 --> 01:26:10,681
+<i>Not to me</i>
+
+1149
+01:26:10,840 --> 01:26:12,808
+<i>From today</i>
+
+1150
+01:26:12,960 --> 01:26:16,407
+<i>Not to me Not for me</i>
+
+1151
+01:26:16,480 --> 01:26:17,527
+<i>Every day</i>
+
+1152
+01:26:18,200 --> 01:26:21,602
+<i>His heart full of love</i>
+
+1153
+01:26:21,720 --> 01:26:25,088
+<i>For it isn't a dream</i>
+
+1154
+01:26:26,320 --> 01:26:29,608
+<i>He will never feel this way</i>
+
+1155
+01:26:29,760 --> 01:26:33,082
+<i>Not a dream after all</i>
+
+1156
+01:26:37,960 --> 01:26:39,291
+<i>Cosette?</i>
+
+1157
+01:26:42,840 --> 01:26:43,961
+Cosette, what are you doing?
+
+1158
+01:26:44,520 --> 01:26:46,887
+I told you to stay inside.
+
+1159
+01:27:07,720 --> 01:27:09,882
+<i>Who is this hussy?</i>
+
+1160
+01:27:10,040 --> 01:27:12,725
+<i>It's your brat Eponine!
+Don't you know your own kid?</i>
+
+1161
+01:27:12,880 --> 01:27:15,645
+<i>Why's she hanging about here?</i>
+
+1162
+01:27:15,800 --> 01:27:18,531
+<i>Eponine, get on home
+You're not needed in this</i>
+
+1163
+01:27:18,680 --> 01:27:22,002
+<i>We're enough here without you</i>
+
+1164
+01:27:22,440 --> 01:27:24,681
+<i>I know this house, I tell you</i>
+
+1165
+01:27:25,080 --> 01:27:28,050
+<i>There's nothing here for you</i>
+
+1166
+01:27:28,200 --> 01:27:31,761
+<i>Just the old man and the girl</i>
+
+1167
+01:27:31,920 --> 01:27:35,208
+<i>They live ordinary lives</i>
+
+1168
+01:27:35,360 --> 01:27:37,522
+<i>Don't interfere
+You've got some gall</i>
+
+1169
+01:27:37,680 --> 01:27:39,808
+<i>Take care, young miss
+You've got a lot to say</i>
+
+1170
+01:27:39,960 --> 01:27:42,201
+<i>I'm gonna scream!
+I'm gonna warn them here!</i>
+
+1171
+01:27:42,400 --> 01:27:45,449
+<i>One little scream and you'll
+regret it for a year!</i>
+
+1172
+01:27:47,320 --> 01:27:48,560
+My God, Cosette!
+
+1173
+01:27:49,560 --> 01:27:52,245
+<i>You wait, my girl!
+You'll rue this night!</i>
+
+1174
+01:27:52,400 --> 01:27:54,209
+<i>I'll make you scream!</i>
+
+1175
+01:27:54,280 --> 01:27:55,691
+<i>You'll scream all right!</i>
+
+1176
+01:27:57,760 --> 01:27:59,205
+Police!
+
+1177
+01:28:00,760 --> 01:28:02,683
+<i>Must be Javert</i>
+
+1178
+01:28:02,880 --> 01:28:05,247
+<i>He's found my cover at last</i>
+
+1179
+01:28:05,400 --> 01:28:06,765
+<i>I've got to get Cosette away</i>
+
+1180
+01:28:06,920 --> 01:28:09,127
+We'll go to our apartment at Rue
+de I'Homme Armé, it's safer there.
+
+1181
+01:28:09,280 --> 01:28:11,203
+Then I'll arrange our
+passage to England. No.
+
+1182
+01:28:11,360 --> 01:28:13,124
+<i>Hurry, Cosette!
+Prepare to leave Say no more</i>
+
+1183
+01:28:13,280 --> 01:28:14,770
+<i>Tonight we'll away</i>
+
+1184
+01:28:14,920 --> 01:28:16,763
+<i>Please, Papa, we can't!
+Hurry, Cosette!</i>
+
+1185
+01:28:16,920 --> 01:28:19,287
+<i>It's time to close another
+door and live another day!</i>
+
+1186
+01:28:19,480 --> 01:28:20,720
+Get dressed,
+we're leaving. Now!
+
+1187
+01:28:20,880 --> 01:28:22,166
+Please, no!
+
+1188
+01:28:55,040 --> 01:28:58,044
+<i>On my own</i>
+
+1189
+01:28:58,200 --> 01:29:02,649
+<i>Pretending he's beside me</i>
+
+1190
+01:29:03,960 --> 01:29:06,964
+<i>All alone</i>
+
+1191
+01:29:07,120 --> 01:29:11,284
+<i>I walk with him till morning</i>
+
+1192
+01:29:13,240 --> 01:29:15,561
+<i>Without him</i>
+
+1193
+01:29:15,720 --> 01:29:19,520
+<i>I feel his arms around me</i>
+
+1194
+01:29:19,680 --> 01:29:24,288
+<i>And when I lose my way
+I close my eyes</i>
+
+1195
+01:29:25,640 --> 01:29:28,291
+<i>And he has found me</i>
+
+1196
+01:29:30,120 --> 01:29:33,442
+<i>In the rain</i>
+
+1197
+01:29:33,600 --> 01:29:38,481
+<i>The pavement shines like silver</i>
+
+1198
+01:29:39,400 --> 01:29:41,641
+<i>All the lights</i>
+
+1199
+01:29:41,800 --> 01:29:45,486
+<i>Are misty in the river</i>
+
+1200
+01:29:47,360 --> 01:29:53,686
+<i>In the darkness the trees
+are full of starlight</i>
+
+1201
+01:29:53,840 --> 01:29:59,324
+<i>And all I see is him and me
+forever and forever</i>
+
+1202
+01:30:02,920 --> 01:30:06,402
+<i>And I know</i>
+
+1203
+01:30:06,560 --> 01:30:11,202
+<i>It's only in my mind</i>
+
+1204
+01:30:11,360 --> 01:30:15,285
+<i>That I'm talking to myself</i>
+
+1205
+01:30:15,920 --> 01:30:18,241
+<i>And not to him</i>
+
+1206
+01:30:18,400 --> 01:30:25,329
+<i>And although
+I know that he is blind</i>
+
+1207
+01:30:25,720 --> 01:30:27,927
+<i>Still I say</i>
+
+1208
+01:30:29,360 --> 01:30:32,125
+<i>There's a way for us</i>
+
+1209
+01:30:33,400 --> 01:30:35,243
+<i>I love him</i>
+
+1210
+01:30:35,400 --> 01:30:39,200
+<i>But when the night is over</i>
+
+1211
+01:30:40,480 --> 01:30:45,361
+<i>He is gone,
+the river's just a river</i>
+
+1212
+01:30:47,360 --> 01:30:52,287
+<i>Without him
+the world around me changes</i>
+
+1213
+01:30:52,440 --> 01:30:55,205
+<i>The trees are bare
+and everywhere</i>
+
+1214
+01:30:55,360 --> 01:30:58,170
+<i>the streets are
+full of strangers</i>
+
+1215
+01:30:58,320 --> 01:31:00,687
+<i>I love him</i>
+
+1216
+01:31:00,840 --> 01:31:05,368
+<i>But every day I'm learning</i>
+
+1217
+01:31:05,520 --> 01:31:12,483
+<i>All my life
+I've only been pretending</i>
+
+1218
+01:31:13,160 --> 01:31:18,291
+<i>Without me,
+his world will go on turning</i>
+
+1219
+01:31:18,440 --> 01:31:21,205
+<i>A world that's
+full of happiness</i>
+
+1220
+01:31:21,360 --> 01:31:27,845
+<i>That I have never known</i>
+
+1221
+01:31:32,440 --> 01:31:34,408
+<i>I love him</i>
+
+1222
+01:31:39,360 --> 01:31:40,964
+<i>I love him</i>
+
+1223
+01:31:46,960 --> 01:31:48,769
+<i>I love him</i>
+
+1224
+01:31:51,120 --> 01:31:58,083
+<i>But only on my own</i>
+
+1225
+01:32:11,760 --> 01:32:14,604
+<i>One day more</i>
+
+1226
+01:32:14,760 --> 01:32:18,128
+<i>Another day, another destiny</i>
+
+1227
+01:32:18,280 --> 01:32:21,648
+<i>This never-ending
+road to Calvary</i>
+
+1228
+01:32:23,120 --> 01:32:26,681
+<i>These men who seem to know my crime
+will surely come a second time</i>
+
+1229
+01:32:26,760 --> 01:32:27,841
+<i>One day more</i>
+
+1230
+01:32:27,920 --> 01:32:31,481
+<i>I did not live until today</i>
+
+1231
+01:32:34,120 --> 01:32:38,489
+<i>How can I live
+when we are parted?</i>
+
+1232
+01:32:39,440 --> 01:32:40,646
+<i>One day more</i>
+
+1233
+01:32:40,800 --> 01:32:45,488
+<i>Tomorrow you'll be worlds away</i>
+
+1234
+01:32:47,480 --> 01:32:52,122
+<i>And yet with you
+my world has started</i>
+
+1235
+01:32:54,480 --> 01:32:57,609
+<i>One more day all on my own</i>
+
+1236
+01:32:57,800 --> 01:33:00,644
+<i>Will we ever meet again?</i>
+
+1237
+01:33:00,840 --> 01:33:03,969
+<i>One more day
+with him not caring</i>
+
+1238
+01:33:04,120 --> 01:33:07,203
+<i>I was born to be with you</i>
+
+1239
+01:33:07,360 --> 01:33:10,170
+<i>What a life I might have known</i>
+
+1240
+01:33:10,320 --> 01:33:13,688
+<i>And I swear I will be true</i>
+
+1241
+01:33:14,120 --> 01:33:21,129
+<i>But he never saw me there</i>
+
+1242
+01:33:22,520 --> 01:33:25,251
+<i>One more day before the storm</i>
+
+1243
+01:33:25,400 --> 01:33:28,244
+<i>Do I follow where she goes?</i>
+
+1244
+01:33:28,400 --> 01:33:31,006
+<i>At the barricades of freedom!</i>
+
+1245
+01:33:31,160 --> 01:33:33,845
+<i>Shall I join my brothers there?</i>
+
+1246
+01:33:34,040 --> 01:33:36,691
+<i>When our ranks begin to form</i>
+
+1247
+01:33:36,880 --> 01:33:39,201
+<i>Do I stay and do I dare?</i>
+
+1248
+01:33:39,560 --> 01:33:42,928
+<i>Will you take
+your place with me?</i>
+
+1249
+01:33:43,080 --> 01:33:45,481
+<i>The time is now!</i>
+
+1250
+01:33:45,680 --> 01:33:49,685
+<i>The day is here!</i>
+
+1251
+01:33:49,840 --> 01:33:51,046
+<i>One day more!</i>
+
+1252
+01:33:51,200 --> 01:33:56,604
+<i>One day more to revolution
+We will nip it in the bud</i>
+
+1253
+01:33:56,760 --> 01:33:58,967
+<i>We'll be ready
+for these schoolboys</i>
+
+1254
+01:33:59,040 --> 01:34:01,008
+<i>They will wet themselves
+with blood!</i>
+
+1255
+01:34:01,080 --> 01:34:02,241
+<i>One day more!</i>
+
+1256
+01:34:02,400 --> 01:34:03,561
+<i>Watch 'em run amuck</i>
+
+1257
+01:34:03,720 --> 01:34:04,881
+<i>Catch 'em as they fall</i>
+
+1258
+01:34:05,040 --> 01:34:07,771
+<i>Never know your luck
+when there's a free-for-all</i>
+
+1259
+01:34:07,920 --> 01:34:09,206
+<i>Here's a little dip</i>
+
+1260
+01:34:09,320 --> 01:34:10,560
+<i>There a little touch</i>
+
+1261
+01:34:10,720 --> 01:34:13,326
+<i>Most of them are goners
+So they won't miss much!</i>
+
+1262
+01:34:13,480 --> 01:34:16,165
+<i>One day to a new beginning</i>
+
+1263
+01:34:16,320 --> 01:34:19,164
+<i>Raise the flag of freedom high!</i>
+
+1264
+01:34:19,320 --> 01:34:24,611
+<i>Every man will be a king!</i>
+
+1265
+01:34:24,840 --> 01:34:27,571
+<i>There's a new world
+for the winning!</i>
+
+1266
+01:34:27,760 --> 01:34:30,161
+<i>There's a new world to be won</i>
+
+1267
+01:34:30,320 --> 01:34:33,483
+<i>Do you hear the people sing?</i>
+
+1268
+01:34:33,640 --> 01:34:35,927
+<i>My place is here!</i>
+
+1269
+01:34:36,080 --> 01:34:39,607
+<i>I fight with you!</i>
+
+1270
+01:34:40,720 --> 01:34:42,370
+<i>One day more!</i>
+
+1271
+01:34:42,480 --> 01:34:44,926
+<i>We will join
+these people's heroes</i>
+
+1272
+01:34:45,120 --> 01:34:46,451
+<i>We will follow where they go</i>
+
+1273
+01:34:46,560 --> 01:34:47,800
+<i>One more day all on my own</i>
+
+1274
+01:34:48,040 --> 01:34:50,850
+<i>We will learn
+their little secrets</i>
+
+1275
+01:34:51,000 --> 01:34:52,280
+<i>We will know
+the things they know</i>
+
+1276
+01:34:52,320 --> 01:34:53,481
+<i>One day more!</i>
+
+1277
+01:34:53,640 --> 01:34:55,040
+<i>Tomorrow you'll be worlds away</i>
+
+1278
+01:34:55,120 --> 01:34:56,485
+<i>One more day to revolution</i>
+
+1279
+01:34:56,640 --> 01:34:57,846
+<i>What a life I might have known</i>
+
+1280
+01:34:57,960 --> 01:34:59,007
+<i>We will nip it in the bud</i>
+
+1281
+01:34:59,080 --> 01:35:00,320
+<i>And yet with you
+my world has started</i>
+
+1282
+01:35:00,440 --> 01:35:01,801
+<i>We'll be ready
+for these schoolboys</i>
+
+1283
+01:35:01,840 --> 01:35:03,330
+<i>Tomorrow will be far away</i>
+
+1284
+01:35:03,440 --> 01:35:05,010
+<i>Tomorrow is the judgment day</i>
+
+1285
+01:35:05,160 --> 01:35:06,889
+<i>Tomorrow we'll discover</i>
+
+1286
+01:35:07,040 --> 01:35:11,682
+<i>What our God in heaven
+has in store</i>
+
+1287
+01:35:11,840 --> 01:35:14,320
+<i>One more dawn!</i>
+
+1288
+01:35:15,080 --> 01:35:18,084
+<i>One more day!</i>
+
+1289
+01:35:18,240 --> 01:35:25,169
+<i>One day more!</i>
+
+1290
+01:35:50,680 --> 01:35:53,490
+<i>Do you hear the people sing</i>
+
+1291
+01:35:53,800 --> 01:35:56,804
+<i>Singing the song of angry men?</i>
+
+1292
+01:35:57,320 --> 01:36:03,487
+<i>It is the music of a people
+who will not be slaves again</i>
+
+1293
+01:36:03,640 --> 01:36:06,769
+<i>When the beating of your heart</i>
+
+1294
+01:36:06,920 --> 01:36:10,049
+<i>Echoes the beating of the drums</i>
+
+1295
+01:36:10,240 --> 01:36:15,610
+<i>There is a life about to start
+when tomorrow comes!</i>
+
+1296
+01:36:16,720 --> 01:36:19,530
+<i>Will you join in our crusade?</i>
+
+1297
+01:36:19,680 --> 01:36:23,366
+<i>Who will be strong
+and stand with me?</i>
+
+1298
+01:36:23,520 --> 01:36:29,527
+<i>Beyond the barricade is there
+a world you long to see?</i>
+
+1299
+01:36:29,640 --> 01:36:31,210
+<i>Then join in the fight</i>
+
+1300
+01:36:31,360 --> 01:36:35,081
+<i>That will give you
+the right to be free!</i>
+
+1301
+01:36:35,640 --> 01:36:38,689
+<i>Do you hear the people sing</i>
+
+1302
+01:36:38,840 --> 01:36:41,491
+<i>Singing the song of angry men?</i>
+
+1303
+01:36:41,640 --> 01:36:47,488
+<i>It is the music of a people
+who will not be slaves again!</i>
+
+1304
+01:36:47,680 --> 01:36:53,084
+<i>When the beating of your heart
+echoes the beating of the drums</i>
+
+1305
+01:36:53,800 --> 01:36:59,762
+<i>There is a life about to start
+when tomorrow comes!</i>
+
+1306
+01:37:00,400 --> 01:37:03,131
+<i>Will you give all you can give</i>
+
+1307
+01:37:03,240 --> 01:37:06,130
+<i>So that our banner may advance?</i>
+
+1308
+01:37:06,600 --> 01:37:09,046
+<i>Some will fall
+and some will live</i>
+
+1309
+01:37:09,200 --> 01:37:12,921
+<i>Will you stand up
+and take your chance?</i>
+
+1310
+01:37:13,120 --> 01:37:18,251
+<i>The blood of the martyrs will
+water the meadows of France!</i>
+
+1311
+01:37:18,600 --> 01:37:21,251
+<i>Do you hear the people sing</i>
+
+1312
+01:37:21,480 --> 01:37:24,245
+<i>Singing the song of angry men?</i>
+
+1313
+01:37:24,440 --> 01:37:30,083
+<i>It is the music of a people
+who will not be slaves again!</i>
+
+1314
+01:37:30,280 --> 01:37:36,128
+<i>When the beating of your heart
+echoes the beating of the drums</i>
+
+1315
+01:37:36,280 --> 01:37:42,731
+<i>There is a life about to start
+when tomorrow comes!</i>
+
+1316
+01:37:47,080 --> 01:37:48,923
+Halt!
+
+1317
+01:37:50,600 --> 01:37:52,125
+Draw!
+
+1318
+01:37:59,600 --> 01:38:00,931
+She's an innocent woman!
+
+1319
+01:38:01,080 --> 01:38:02,320
+Murderer!
+
+1320
+01:38:03,840 --> 01:38:05,001
+Come here, you!
+
+1321
+01:38:06,000 --> 01:38:07,445
+Charge!
+
+1322
+01:38:08,800 --> 01:38:09,961
+Push them to the right.
+
+1323
+01:38:16,720 --> 01:38:18,484
+Thank you, sir.
+Thank you, monsieur.
+
+1324
+01:38:18,840 --> 01:38:20,001
+To the barricades!
+
+1325
+01:38:20,640 --> 01:38:22,290
+<i>Vive la France!</i>
+
+1326
+01:38:26,200 --> 01:38:27,531
+Get to the barricade!
+
+1327
+01:38:27,640 --> 01:38:28,926
+Come on!
+
+1328
+01:38:33,600 --> 01:38:35,011
+Get down! Get down!
+
+1329
+01:38:39,440 --> 01:38:41,090
+Go, go, go!
+
+1330
+01:38:44,760 --> 01:38:46,285
+Get off your arse!
+It's begun!
+
+1331
+01:38:46,560 --> 01:38:48,130
+The barricade!
+
+1332
+01:38:48,200 --> 01:38:50,009
+Sorry, madame. Thank you.
+What are you doing?
+
+1333
+01:38:54,720 --> 01:38:57,610
+We need as much furniture
+as you can throw down!
+
+1334
+01:38:57,760 --> 01:38:59,683
+Throw everything you have!
+
+1335
+01:39:07,280 --> 01:39:08,486
+Below!
+
+1336
+01:39:09,880 --> 01:39:11,360
+Watch yourself, watch yourself.
+
+1337
+01:39:17,040 --> 01:39:18,326
+Go on, boys!
+
+1338
+01:39:19,920 --> 01:39:20,967
+No!
+
+1339
+01:39:23,680 --> 01:39:24,806
+Thank you, madame.
+
+1340
+01:39:24,880 --> 01:39:25,881
+I need a volunteer!
+
+1341
+01:39:26,360 --> 01:39:29,011
+Someone who can find out their
+plan and when they will attack.
+
+1342
+01:39:29,080 --> 01:39:30,650
+<i>I can find out the truth</i>
+
+1343
+01:39:31,240 --> 01:39:33,481
+<i>I know their ways</i>
+
+1344
+01:39:33,720 --> 01:39:37,486
+<i>Fought their wars
+Served my time</i>
+
+1345
+01:39:38,240 --> 01:39:41,801
+<i>In the days Of my youth</i>
+
+1346
+01:39:42,240 --> 01:39:44,402
+<i>See? The people unite!</i>
+
+1347
+01:39:44,560 --> 01:39:46,289
+<i>I pray you're right</i>
+
+1348
+01:39:46,800 --> 01:39:48,643
+<i>Dogs will bark</i>
+
+1349
+01:39:48,800 --> 01:39:50,404
+<i>Fleas will bite!</i>
+
+1350
+01:39:50,760 --> 01:39:52,683
+<i>They will do what is right</i>
+
+1351
+01:40:02,280 --> 01:40:06,080
+<i>Red, the blood of angry men!</i>
+
+1352
+01:40:06,240 --> 01:40:10,086
+<i>Black, the dark of ages past!</i>
+
+1353
+01:40:10,240 --> 01:40:14,086
+<i>Red, a world about to dawn!</i>
+
+1354
+01:40:14,240 --> 01:40:21,010
+<i>Black,
+the night that ends at last!</i>
+
+1355
+01:40:24,320 --> 01:40:25,765
+He's back!
+
+1356
+01:40:27,400 --> 01:40:29,607
+<i>Listen, my friends
+I have done as I said</i>
+
+1357
+01:40:29,760 --> 01:40:32,445
+<i>I have been to their lines
+I have counted each man</i>
+
+1358
+01:40:32,600 --> 01:40:35,444
+<i>I will tell what I can</i>
+
+1359
+01:40:35,880 --> 01:40:38,281
+<i>Better beware
+They have armies to spare</i>
+
+1360
+01:40:38,440 --> 01:40:39,726
+<i>And our danger is real</i>
+
+1361
+01:40:39,880 --> 01:40:43,089
+<i>We will need all our cunning
+to bring them to heel</i>
+
+1362
+01:40:43,240 --> 01:40:44,651
+<i>Have faith!</i>
+
+1363
+01:40:45,120 --> 01:40:48,647
+<i>If you know what their movements
+are we'll spoil their game</i>
+
+1364
+01:40:48,800 --> 01:40:51,280
+<i>There are ways that
+a people can fight</i>
+
+1365
+01:40:51,480 --> 01:40:55,644
+<i>We shall overcome their power!</i>
+
+1366
+01:40:56,680 --> 01:40:59,490
+<i>I have overheard their plans</i>
+
+1367
+01:40:59,640 --> 01:41:01,961
+<i>There will be no attack tonight</i>
+
+1368
+01:41:02,160 --> 01:41:04,128
+<i>They intend to starve you out</i>
+
+1369
+01:41:04,280 --> 01:41:06,760
+<i>Before they
+start a proper fight</i>
+
+1370
+01:41:06,960 --> 01:41:09,042
+<i>Concentrate their force</i>
+
+1371
+01:41:09,200 --> 01:41:11,328
+<i>Hit us when it's light</i>
+
+1372
+01:41:11,480 --> 01:41:12,720
+Liar!
+
+1373
+01:41:13,680 --> 01:41:17,685
+<i>Good evening, dear Inspector
+Lovely evening, my dear!</i>
+
+1374
+01:41:17,880 --> 01:41:21,407
+<i>I know this man, my friends
+His name's Inspector Javert!</i>
+
+1375
+01:41:21,560 --> 01:41:25,485
+<i>So don't believe a word he
+says because none of it's true</i>
+
+1376
+01:41:25,680 --> 01:41:29,162
+<i>This only goes to show
+what little people can do</i>
+
+1377
+01:41:29,600 --> 01:41:32,251
+<i>Bravo, little Gavroche
+You're the top of the class</i>
+
+1378
+01:41:32,360 --> 01:41:35,204
+<i>So what are we going to do
+with this snake in the grass?</i>
+
+1379
+01:41:35,440 --> 01:41:38,091
+<i>Take this man and throw him
+in the tavern in there</i>
+
+1380
+01:41:38,240 --> 01:41:41,164
+<i>The people will decide your
+fate, Inspector Javert</i>
+
+1381
+01:41:41,360 --> 01:41:44,443
+<i>Shoot me now or shoot me later</i>
+
+1382
+01:41:44,520 --> 01:41:46,807
+<i>Every schoolboy to his sport!</i>
+
+1383
+01:41:46,960 --> 01:41:49,281
+<i>Death to each
+and every traitor!</i>
+
+1384
+01:41:49,400 --> 01:41:51,721
+<i>I renounce your people's court!</i>
+
+1385
+01:41:52,240 --> 01:41:53,401
+We keep looking forward!
+
+1386
+01:42:20,880 --> 01:42:22,086
+To your positions.
+
+1387
+01:42:22,240 --> 01:42:23,287
+Move!
+
+1388
+01:42:33,480 --> 01:42:35,562
+Now, hold your fire.
+Hold your fire.
+
+1389
+01:42:35,720 --> 01:42:37,051
+Front rank, kneel!
+
+1390
+01:42:37,120 --> 01:42:38,281
+Save your gunpowder.
+
+1391
+01:42:38,360 --> 01:42:39,646
+Take aim!
+
+1392
+01:42:40,240 --> 01:42:41,366
+Get down.
+
+1393
+01:42:41,480 --> 01:42:42,686
+Who's there?
+
+1394
+01:42:46,320 --> 01:42:47,970
+French Revolution!
+
+1395
+01:42:48,520 --> 01:42:49,681
+Fire!
+
+1396
+01:42:53,840 --> 01:42:55,126
+They're coming!
+
+1397
+01:42:58,120 --> 01:42:59,610
+They're coming
+over the barricades!
+
+1398
+01:42:59,760 --> 01:43:01,125
+Get back!
+
+1399
+01:43:15,560 --> 01:43:16,766
+Marius! No!
+
+1400
+01:43:18,600 --> 01:43:20,364
+Marius!
+What are you doing?
+
+1401
+01:43:20,440 --> 01:43:21,441
+Get down!
+
+1402
+01:43:21,520 --> 01:43:22,931
+Marius, watch out!
+
+1403
+01:43:23,000 --> 01:43:24,126
+Get down!
+
+1404
+01:43:24,600 --> 01:43:25,806
+No!
+
+1405
+01:43:29,080 --> 01:43:30,491
+Fall back!
+
+1406
+01:43:30,800 --> 01:43:32,802
+Fall back,
+or I blow the barricade!
+
+1407
+01:43:32,960 --> 01:43:34,400
+Blow it up and
+take yourself with it!
+
+1408
+01:43:36,120 --> 01:43:37,326
+Christ!
+
+1409
+01:43:40,280 --> 01:43:42,123
+And myself with it.
+
+1410
+01:43:44,400 --> 01:43:46,323
+Back! Back!
+
+1411
+01:43:53,280 --> 01:43:54,406
+Man the barricade!
+
+1412
+01:43:54,480 --> 01:43:55,561
+What were you thinking, Marius?
+
+1413
+01:43:55,640 --> 01:43:56,641
+You could have
+gotten us all killed!
+
+1414
+01:43:56,720 --> 01:43:58,051
+Marius, you saved us all.
+
+1415
+01:43:58,160 --> 01:43:59,491
+My life is not yours to risk!
+
+1416
+01:43:59,560 --> 01:44:01,244
+Eponine.
+What are you doing?
+
+1417
+01:44:01,320 --> 01:44:02,845
+I kept it from you.
+
+1418
+01:44:03,240 --> 01:44:05,004
+It's from Cosette.
+
+1419
+01:44:05,080 --> 01:44:07,048
+The rain's
+going to ruin the powder.
+
+1420
+01:44:07,400 --> 01:44:08,447
+I'm sorry.
+
+1421
+01:44:11,200 --> 01:44:12,964
+What have you done?
+
+1422
+01:44:18,520 --> 01:44:19,726
+'Ponine.
+
+1423
+01:44:22,040 --> 01:44:27,843
+<i>Don't you fret, Monsieur Marius</i>
+
+1424
+01:44:29,680 --> 01:44:34,242
+<i>I don't feel any pain</i>
+
+1425
+01:44:35,120 --> 01:44:39,682
+<i>A little fall of rain</i>
+
+1426
+01:44:40,520 --> 01:44:44,366
+<i>Can hardly hurt me now</i>
+
+1427
+01:44:47,040 --> 01:44:49,725
+<i>You're here</i>
+
+1428
+01:44:49,880 --> 01:44:54,727
+<i>That's all I need to know</i>
+
+1429
+01:44:55,880 --> 01:45:00,204
+<i>And you will keep me safe</i>
+
+1430
+01:45:00,360 --> 01:45:04,206
+<i>And you will keep me close</i>
+
+1431
+01:45:05,200 --> 01:45:11,651
+<i>And rain will
+make the flowers grow</i>
+
+1432
+01:45:12,480 --> 01:45:17,725
+<i>But you will live, 'Ponine
+Dear God above!</i>
+
+1433
+01:45:18,240 --> 01:45:22,609
+<i>If I could close your wounds
+with words of love</i>
+
+1434
+01:45:24,080 --> 01:45:28,324
+<i>Just hold me now, and let it be</i>
+
+1435
+01:45:28,560 --> 01:45:33,122
+<i>Shelter me, comfort me</i>
+
+1436
+01:45:33,280 --> 01:45:35,851
+<i>Hush-a-bye, dear Eponine</i>
+
+1437
+01:45:35,960 --> 01:45:38,566
+<i>So don't you fret,
+Monsieur Marius</i>
+
+1438
+01:45:38,760 --> 01:45:42,481
+<i>You won't feel any pain
+I don't feel any pain</i>
+
+1439
+01:45:43,520 --> 01:45:47,605
+<i>A little fall of rain
+A little fall of rain</i>
+
+1440
+01:45:47,760 --> 01:45:51,606
+<i>Can hardly hurt you now
+Can hardly hurt me now</i>
+
+1441
+01:45:52,520 --> 01:45:54,443
+<i>I'm here</i>
+
+1442
+01:45:54,600 --> 01:45:59,401
+<i>That's all I need to know</i>
+
+1443
+01:46:00,840 --> 01:46:04,731
+<i>And I will stay with you
+And you will keep me safe</i>
+
+1444
+01:46:04,920 --> 01:46:09,687
+<i>Till you are sleeping
+And you will keep me close</i>
+
+1445
+01:46:11,800 --> 01:46:15,441
+<i>And rain</i>
+
+1446
+01:46:15,600 --> 01:46:21,084
+<i>Will make the flowers</i>
+
+1447
+01:46:24,440 --> 01:46:25,851
+<i>Grow</i>
+
+1448
+01:46:56,480 --> 01:46:58,847
+Gavroche, will you
+do something for me?
+
+1449
+01:46:59,920 --> 01:47:02,685
+Anything. Without you,
+I'd have bitten the dust.
+
+1450
+01:47:07,280 --> 01:47:08,691
+Letter from the barricade.
+
+1451
+01:47:08,840 --> 01:47:10,126
+From the barricade?
+
+1452
+01:47:10,440 --> 01:47:11,726
+I'll take it.
+
+1453
+01:47:14,000 --> 01:47:17,209
+Something for me, something for you.
+Who needs charity?
+
+1454
+01:47:18,000 --> 01:47:19,047
+Boy.
+
+1455
+01:47:20,760 --> 01:47:22,410
+You stay away from there,
+you understand?
+
+1456
+01:47:28,680 --> 01:47:31,684
+<i>"Dearest Cosette,
+you have entered my soul"</i>
+
+1457
+01:47:31,880 --> 01:47:33,564
+<i>"And soon you will be gone"</i>
+
+1458
+01:47:35,040 --> 01:47:39,284
+<i>"Can it be only a day since we
+met and the world was reborn?"</i>
+
+1459
+01:47:40,640 --> 01:47:44,725
+<i>"If I should fall in the battle
+to come let this be my goodbye"</i>
+
+1460
+01:47:44,880 --> 01:47:46,962
+<i>"Now that I know
+that you love..."</i>
+
+1461
+01:47:49,760 --> 01:47:54,971
+<i>"You love me as well
+It is harder to die"</i>
+
+1462
+01:47:55,040 --> 01:47:59,045
+<i>"I pray that God will bring
+me home to be with you"</i>
+
+1463
+01:47:59,240 --> 01:48:02,050
+<i>"Pray for your Marius"</i>
+
+1464
+01:48:02,240 --> 01:48:05,528
+<i>"He prays for you"</i>
+
+1465
+01:48:08,240 --> 01:48:09,446
+Oh, God.
+
+1466
+01:48:10,200 --> 01:48:12,089
+<i>This is the day
+that most I feared</i>
+
+1467
+01:48:12,240 --> 01:48:16,165
+<i>Now a young man has appeared
+to change my life</i>
+
+1468
+01:48:16,320 --> 01:48:21,167
+<i>This Marius will take away the treasure
+of my autumn days to be his wife</i>
+
+1469
+01:48:22,600 --> 01:48:25,570
+<i>But he could die tonight</i>
+
+1470
+01:48:30,040 --> 01:48:32,771
+<i>I must find this boy</i>
+
+1471
+01:48:48,480 --> 01:48:50,482
+Don't shoot!
+Don't shoot!
+
+1472
+01:48:50,960 --> 01:48:52,530
+I come here as a volunteer.
+
+1473
+01:48:56,000 --> 01:48:57,650
+You see...
+
+1474
+01:48:59,360 --> 01:49:01,442
+<i>You see that
+prisoner over there?</i>
+
+1475
+01:49:01,560 --> 01:49:03,050
+<i>A volunteer like you!</i>
+
+1476
+01:49:03,200 --> 01:49:04,804
+<i>A spy who calls himself Javert!</i>
+
+1477
+01:49:04,960 --> 01:49:06,769
+<i>He's going to get it, too!</i>
+
+1478
+01:49:07,080 --> 01:49:08,366
+Get in there.
+Get inside.
+
+1479
+01:49:08,520 --> 01:49:10,329
+Don't kill him.
+I know him.
+
+1480
+01:49:11,000 --> 01:49:12,047
+Enemy marksman!
+
+1481
+01:49:12,120 --> 01:49:13,645
+On the roof!
+On the roof!
+
+1482
+01:49:15,960 --> 01:49:17,121
+On the roof!
+
+1483
+01:49:18,280 --> 01:49:20,089
+Where are they?
+Where are they?
+
+1484
+01:49:20,360 --> 01:49:21,361
+We'll take the left.
+
+1485
+01:49:21,480 --> 01:49:22,601
+We'll take the right.
+
+1486
+01:49:22,640 --> 01:49:23,926
+Eyes forward!
+
+1487
+01:49:24,280 --> 01:49:26,487
+Eyes to the roofs,
+eyes to the roofs.
+
+1488
+01:49:26,640 --> 01:49:27,801
+<i>Thank you, monsieur.</i>
+
+1489
+01:49:28,480 --> 01:49:31,802
+<i>Give me no thanks, monsieur
+There's something you can do</i>
+
+1490
+01:49:32,000 --> 01:49:33,843
+<i>If it is in my power</i>
+
+1491
+01:49:34,520 --> 01:49:38,491
+<i>Give me the spy Javert!
+Let me take care of him</i>
+
+1492
+01:49:41,880 --> 01:49:45,965
+<i>Do what you have to do
+The man belongs to you</i>
+
+1493
+01:49:47,160 --> 01:49:49,242
+No. Enjolras.
+
+1494
+01:50:16,880 --> 01:50:18,166
+<i>We meet again</i>
+
+1495
+01:50:18,320 --> 01:50:21,927
+<i>You've hungered for
+this all your life</i>
+
+1496
+01:50:22,520 --> 01:50:24,522
+<i>Take your revenge</i>
+
+1497
+01:50:25,160 --> 01:50:29,324
+<i>How right you
+should kill with a knife</i>
+
+1498
+01:50:31,640 --> 01:50:33,324
+<i>Get out of here</i>
+
+1499
+01:50:33,560 --> 01:50:34,721
+<i>Don't understand</i>
+
+1500
+01:50:34,880 --> 01:50:37,406
+<i>Clear out of here</i>
+
+1501
+01:50:42,360 --> 01:50:46,331
+<i>Once a thief, forever a thief</i>
+
+1502
+01:50:46,720 --> 01:50:50,247
+<i>What you want, you always steal</i>
+
+1503
+01:50:50,400 --> 01:50:53,131
+<i>You would trade
+your life for mine</i>
+
+1504
+01:50:53,560 --> 01:50:56,564
+<i>Yes, Valjean, you want a deal</i>
+
+1505
+01:50:56,720 --> 01:50:59,246
+<i>Shoot me now for all I care!</i>
+
+1506
+01:50:59,400 --> 01:51:05,043
+<i>If you let me go, beware!
+You'll still answer to Javert!</i>
+
+1507
+01:51:07,920 --> 01:51:12,801
+<i>You are wrong and
+always have been wrong</i>
+
+1508
+01:51:14,920 --> 01:51:19,130
+<i>I'm a man no worse than any man</i>
+
+1509
+01:51:20,760 --> 01:51:25,288
+<i>And you are free and
+there are no conditions</i>
+
+1510
+01:51:25,440 --> 01:51:28,603
+<i>No bargains or petitions</i>
+
+1511
+01:51:28,720 --> 01:51:32,645
+<i>There's nothing
+that I blame you for</i>
+
+1512
+01:51:33,760 --> 01:51:37,526
+<i>You've done your duty,
+nothing more</i>
+
+1513
+01:51:40,480 --> 01:51:42,801
+If I come out of this alive...
+
+1514
+01:51:42,960 --> 01:51:46,521
+<i>You will find me at
+Rue de I'Homme Armé, number 5</i>
+
+1515
+01:51:49,840 --> 01:51:52,446
+No doubt our paths
+will cross again.
+
+1516
+01:52:21,640 --> 01:52:24,564
+<i>Courfeyrac, you take the watch</i>
+
+1517
+01:52:24,720 --> 01:52:27,007
+<i>They may attack
+before it's light</i>
+
+1518
+01:52:27,760 --> 01:52:30,161
+<i>Everybody, keep the faith</i>
+
+1519
+01:52:31,160 --> 01:52:35,768
+<i>For certain as our banner
+flies We are not alone</i>
+
+1520
+01:52:36,000 --> 01:52:39,447
+<i>The people too must rise</i>
+
+1521
+01:52:41,440 --> 01:52:42,726
+Marius.
+
+1522
+01:52:43,680 --> 01:52:44,761
+Rest.
+
+1523
+01:52:50,200 --> 01:52:52,965
+<i>Drink with me</i>
+
+1524
+01:52:53,960 --> 01:52:57,646
+<i>To days gone by!</i>
+
+1525
+01:52:58,080 --> 01:53:05,043
+<i>To the life that used to be</i>
+
+1526
+01:53:05,480 --> 01:53:10,281
+<i>At the shrine of friendship
+never say die</i>
+
+1527
+01:53:10,720 --> 01:53:16,011
+<i>Let the wine of friendship
+never run dry</i>
+
+1528
+01:53:16,160 --> 01:53:23,123
+<i>Here's to you and here's to me!</i>
+
+1529
+01:53:25,480 --> 01:53:31,044
+<i>Do I care if I should die
+now she goes across the sea?</i>
+
+1530
+01:53:31,240 --> 01:53:36,565
+<i>Life without Cosette
+means nothing at all</i>
+
+1531
+01:53:36,720 --> 01:53:41,328
+<i>Would you weep, Cosette,
+if I were to fall?</i>
+
+1532
+01:53:42,240 --> 01:53:46,484
+<i>Would you weep, Cosette</i>
+
+1533
+01:53:48,040 --> 01:53:48,540
+<i>For me?</i>
+
+1534
+01:54:05,400 --> 01:54:06,148
+<i>God on high</i>
+
+1535
+01:54:12,600 --> 01:54:17,606
+<i>Hear my prayer</i>
+
+1536
+01:54:19,200 --> 01:54:21,780
+<i>In my need</i>
+
+1537
+01:54:24,840 --> 01:54:29,971
+<i>You have always been there</i>
+
+1538
+01:54:32,760 --> 01:54:38,324
+<i>He is young</i>
+
+1539
+01:54:39,560 --> 01:54:44,885
+<i>He's afraid</i>
+
+1540
+01:54:45,440 --> 01:54:50,401
+<i>Let him rest</i>
+
+1541
+01:54:50,560 --> 01:54:55,043
+<i>Heaven blessed</i>
+
+1542
+01:54:56,480 --> 01:55:01,480
+<i>Bring him home</i>
+
+1543
+01:55:02,405 --> 01:55:05,205
+<i>Bring him home</i>
+
+1544
+01:55:09,480 --> 01:55:11,960
+<i>Bring him home</i>
+
+1545
+01:55:14,840 --> 01:55:18,287
+<i>He's like the son
+I might have known</i>
+
+1546
+01:55:19,960 --> 01:55:23,169
+<i>If God had granted me a son</i>
+
+1547
+01:55:24,120 --> 01:55:28,967
+<i>The summers die One by one</i>
+
+1548
+01:55:29,120 --> 01:55:34,160
+<i>How soon they fly On and on</i>
+
+1549
+01:55:35,160 --> 01:55:38,767
+<i>And I am old</i>
+
+1550
+01:55:40,000 --> 01:55:43,686
+<i>And will be gone</i>
+
+1551
+01:55:46,320 --> 01:55:53,283
+<i>Bring him peace</i>
+
+1552
+01:55:53,840 --> 01:55:58,721
+<i>Bring him joy</i>
+
+1553
+01:56:00,560 --> 01:56:04,690
+<i>He is young</i>
+
+1554
+01:56:05,320 --> 01:56:09,530
+<i>He is only a boy</i>
+
+1555
+01:56:13,040 --> 01:56:18,570
+<i>You can take</i>
+
+1556
+01:56:18,720 --> 01:56:23,567
+<i>You can give</i>
+
+1557
+01:56:24,880 --> 01:56:28,726
+<i>Let him be</i>
+
+1558
+01:56:28,880 --> 01:56:34,046
+<i>Let him live</i>
+
+1559
+01:56:34,200 --> 01:56:34,744
+<i>If I die</i>
+
+1560
+01:56:39,240 --> 01:56:44,406
+<i>Let me die</i>
+
+1561
+01:56:46,920 --> 01:56:51,482
+<i>Let him live</i>
+
+1562
+01:56:53,160 --> 01:56:58,485
+<i>Bring him home</i>
+
+1563
+01:57:00,600 --> 01:57:04,969
+<i>Bring him home</i>
+
+1564
+01:57:07,480 --> 01:57:12,281
+<i>Bring him</i>
+
+1565
+01:57:12,360 --> 01:57:12,860
+<i>Home!</i>
+
+1566
+01:57:33,200 --> 01:57:35,646
+Enjolras, the rain has
+damaged the gunpowder.
+
+1567
+01:57:35,720 --> 01:57:36,926
+We're low on ammunition.
+
+1568
+01:57:37,000 --> 01:57:38,411
+We're the only barricade left.
+
+1569
+01:57:39,120 --> 01:57:40,326
+What?
+
+1570
+01:57:40,920 --> 01:57:42,410
+We're the only ones left.
+
+1571
+01:57:46,760 --> 01:57:49,491
+<i>The people have not stirred</i>
+
+1572
+01:57:49,920 --> 01:57:53,606
+<i>We are abandoned by those
+who still live in fear</i>
+
+1573
+01:57:53,760 --> 01:57:55,649
+<i>Let us not waste lives</i>
+
+1574
+01:57:56,080 --> 01:57:58,162
+<i>Let all who wish to</i>
+
+1575
+01:57:59,000 --> 01:58:01,082
+<i>Go from here</i>
+
+1576
+01:58:08,200 --> 01:58:10,771
+<i>Do you hear the people sing</i>
+
+1577
+01:58:11,160 --> 01:58:13,970
+<i>Singing the song of angry men?</i>
+
+1578
+01:58:14,120 --> 01:58:19,650
+<i>It is the music of a people
+who will not be slaves again</i>
+
+1579
+01:58:20,040 --> 01:58:25,843
+<i>When the beating of your heart
+echoes the beating of the drums</i>
+
+1580
+01:58:26,000 --> 01:58:31,211
+<i>There is a life about to start
+when tomorrow comes!</i>
+
+1581
+01:58:33,160 --> 01:58:34,685
+Enjolras,
+we need more ammunition.
+
+1582
+01:58:34,840 --> 01:58:37,366
+I'm going into the colonnade. There are
+dead bodies there, dry ammunition.
+
+1583
+01:58:37,440 --> 01:58:38,561
+The gunpowder is wet through.
+
+1584
+01:58:38,600 --> 01:58:40,920
+Let's round it up.
+Let's get everything out here.
+
+1585
+01:58:41,000 --> 01:58:45,722
+<i>Little people know
+when little people fight</i>
+
+1586
+01:58:46,520 --> 01:58:48,841
+<i>We may look easy pickings</i>
+
+1587
+01:58:50,040 --> 01:58:51,644
+Gavroche.
+
+1588
+01:58:51,760 --> 01:58:53,330
+<i>But we've got some bite!</i>
+
+1589
+01:58:53,560 --> 01:58:54,891
+Come here.
+
+1590
+01:58:55,000 --> 01:58:59,801
+<i>So never kick a dog
+because he's just a pup</i>
+
+1591
+01:59:03,600 --> 01:59:04,647
+Gavroche!
+
+1592
+01:59:04,800 --> 01:59:10,682
+<i>We'll fight like 20 armies
+and we won't give up</i>
+
+1593
+01:59:11,600 --> 01:59:13,284
+Gavroche! Gavroche,
+what are you doing?
+
+1594
+01:59:13,440 --> 01:59:15,283
+Someone pull him back!
+
+1595
+01:59:15,520 --> 01:59:16,965
+You dirty bastard!
+
+1596
+01:59:18,640 --> 01:59:22,042
+<i>So you'd better run for cover</i>
+
+1597
+01:59:23,040 --> 01:59:24,201
+<i>When the pup...</i>
+
+1598
+01:59:25,240 --> 01:59:26,287
+Grows...
+
+1599
+01:59:47,080 --> 01:59:49,765
+<i>You at
+the barricades, listen to this!</i>
+
+1600
+01:59:51,240 --> 01:59:54,164
+<i>The people of Paris
+sleep in their beds!</i>
+
+1601
+01:59:54,320 --> 01:59:57,005
+<i>You have no chance</i>
+
+1602
+01:59:57,680 --> 01:59:59,523
+<i>No chance at all</i>
+
+1603
+02:00:00,760 --> 02:00:04,606
+<i>Why throw your lives away?</i>
+
+1604
+02:00:10,080 --> 02:00:13,607
+<i>Let us die facing our foes</i>
+
+1605
+02:00:14,240 --> 02:00:16,561
+<i>Make them bleed while we can</i>
+
+1606
+02:00:17,000 --> 02:00:18,650
+<i>Make them pay through the nose</i>
+
+1607
+02:00:18,880 --> 02:00:20,484
+<i>Make them pay for every man</i>
+
+1608
+02:00:20,640 --> 02:00:25,646
+<i>Let others rise
+to take our place</i>
+
+1609
+02:00:25,800 --> 02:00:31,921
+<i>Until the Earth is free!</i>
+
+1610
+02:00:33,440 --> 02:00:34,805
+Cannons!
+
+1611
+02:00:35,960 --> 02:00:37,644
+Quick as you can! Come on!
+
+1612
+02:00:37,800 --> 02:00:39,245
+Look lively!
+
+1613
+02:00:39,560 --> 02:00:40,721
+Far right first.
+
+1614
+02:00:40,840 --> 02:00:42,046
+Wait for it!
+
+1615
+02:00:42,240 --> 02:00:43,571
+Fire!
+
+1616
+02:00:46,640 --> 02:00:47,846
+Marius.
+
+1617
+02:00:48,960 --> 02:00:50,240
+They're bringing
+in replacements.
+
+1618
+02:00:50,280 --> 02:00:51,401
+Second cannon!
+
+1619
+02:00:51,520 --> 02:00:52,760
+Fire!
+
+1620
+02:00:54,800 --> 02:00:55,926
+Fire!
+
+1621
+02:00:57,240 --> 02:00:58,321
+Take aim!
+
+1622
+02:00:58,520 --> 02:00:59,601
+Fire!
+
+1623
+02:00:59,680 --> 02:01:00,681
+Take cover, boy!
+
+1624
+02:01:03,120 --> 02:01:06,044
+There's more men!
+There's more men, Enjolras!
+
+1625
+02:01:07,000 --> 02:01:08,286
+Cannons ready!
+
+1626
+02:01:08,360 --> 02:01:09,441
+Fire!
+
+1627
+02:01:17,680 --> 02:01:19,125
+Cannons ready!
+
+1628
+02:01:19,800 --> 02:01:21,962
+And fire!
+
+1629
+02:01:30,280 --> 02:01:31,805
+Advance!
+
+1630
+02:01:32,360 --> 02:01:33,771
+Watch out!
+
+1631
+02:01:46,760 --> 02:01:47,921
+Please!
+
+1632
+02:01:49,200 --> 02:01:50,406
+Open the door!
+
+1633
+02:01:51,240 --> 02:01:52,571
+Please!
+
+1634
+02:01:54,560 --> 02:01:56,722
+We need the door! We need
+to barricade the door!
+
+1635
+02:02:00,640 --> 02:02:02,244
+Marius! Marius!
+
+1636
+02:02:05,360 --> 02:02:06,566
+Take positions!
+
+1637
+02:02:09,960 --> 02:02:11,246
+Steady, lads!
+
+1638
+02:02:13,200 --> 02:02:14,801
+- Go!
+- They're coming!
+
+1639
+02:04:41,920 --> 02:04:43,251
+Thank you!
+
+1640
+02:04:44,600 --> 02:04:46,762
+Long live the revolution!
+
+1641
+02:04:51,200 --> 02:04:52,565
+Here's a pretty ring.
+
+1642
+02:04:53,080 --> 02:04:54,081
+Oh.
+
+1643
+02:04:54,400 --> 02:04:55,561
+Hello.
+
+1644
+02:04:59,200 --> 02:05:00,770
+You're alive! I saved you!
+
+1645
+02:05:00,880 --> 02:05:02,405
+You!
+
+1646
+02:05:08,760 --> 02:05:10,762
+How do I get out of here?
+It's that way!
+
+1647
+02:05:10,840 --> 02:05:12,763
+All the way down
+and to the left!
+
+1648
+02:05:55,280 --> 02:05:58,124
+<i>It's you, Javert I
+knew you wouldn't wait too long</i>
+
+1649
+02:05:58,640 --> 02:06:00,961
+<i>The faithful servant
+at his post once more</i>
+
+1650
+02:06:01,520 --> 02:06:04,683
+<i>This man's done no wrong
+He needs a doctor's care</i>
+
+1651
+02:06:05,960 --> 02:06:09,726
+<i>I warned you I would not give in!
+I won't be swayed!</i>
+
+1652
+02:06:09,840 --> 02:06:13,162
+<i>Another hour yet Then I'm yours</i>
+
+1653
+02:06:13,480 --> 02:06:16,324
+<i>All our debts are paid</i>
+
+1654
+02:06:17,880 --> 02:06:22,090
+<i>The man of mercy comes again
+And talks of justice!</i>
+
+1655
+02:06:22,240 --> 02:06:24,846
+<i>Come, time is running short!</i>
+
+1656
+02:06:25,000 --> 02:06:28,288
+<i>Look down, Javert</i>
+
+1657
+02:06:28,440 --> 02:06:31,922
+<i>He's standing in his grave!</i>
+
+1658
+02:06:46,960 --> 02:06:49,088
+One more step and you die.
+
+1659
+02:07:19,040 --> 02:07:21,247
+<i>Who is this man?
+What sort of devil is he?</i>
+
+1660
+02:07:21,440 --> 02:07:24,091
+<i>To have me caught in a trap
+and choose to let me go free?</i>
+
+1661
+02:07:24,280 --> 02:07:27,090
+<i>It was his hour at last
+to put a seal on my fate</i>
+
+1662
+02:07:27,280 --> 02:07:29,806
+<i>Wipe out the past and wash
+me clean off the slate</i>
+
+1663
+02:07:29,960 --> 02:07:32,440
+<i>All it would take was
+a flick of his knife</i>
+
+1664
+02:07:32,600 --> 02:07:36,571
+<i>Vengeance was his
+and he gave me back my life!</i>
+
+1665
+02:07:38,480 --> 02:07:40,767
+<i>Damned if I live in
+the debt of a thief!</i>
+
+1666
+02:07:40,960 --> 02:07:43,281
+<i>Damned if I yield at
+the end of the chase!</i>
+
+1667
+02:07:43,440 --> 02:07:45,886
+<i>I am the law and
+the law is not mocked!</i>
+
+1668
+02:07:46,040 --> 02:07:48,088
+<i>I'll spit his pity
+right back in his face!</i>
+
+1669
+02:07:48,240 --> 02:07:50,766
+<i>There is nothing on Earth
+that we share!</i>
+
+1670
+02:07:50,920 --> 02:07:54,083
+<i>It is either Valjean or Javert!</i>
+
+1671
+02:08:00,480 --> 02:08:03,245
+<i>And my thoughts fly apart</i>
+
+1672
+02:08:04,640 --> 02:08:07,530
+<i>Can this man be believed?</i>
+
+1673
+02:08:08,880 --> 02:08:11,929
+<i>Shall his sins be forgiven?</i>
+
+1674
+02:08:13,000 --> 02:08:18,848
+<i>Shall his crimes be reprieved?</i>
+
+1675
+02:08:23,280 --> 02:08:26,523
+<i>And must I now begin to doubt</i>
+
+1676
+02:08:27,760 --> 02:08:32,527
+<i>Who never doubted
+all these years?</i>
+
+1677
+02:08:32,720 --> 02:08:36,566
+<i>My heart is stone
+and still it trembles</i>
+
+1678
+02:08:36,720 --> 02:08:42,443
+<i>The world I have known
+is lost in shadow</i>
+
+1679
+02:08:42,600 --> 02:08:47,447
+<i>Is he from heaven or from hell?</i>
+
+1680
+02:08:47,600 --> 02:08:51,321
+<i>And does he know</i>
+
+1681
+02:08:51,480 --> 02:08:55,485
+<i>That granting me my life today</i>
+
+1682
+02:09:01,000 --> 02:09:07,326
+<i>This man has killed me even so?</i>
+
+1683
+02:09:12,760 --> 02:09:17,322
+<i>I am reaching but I fall</i>
+
+1684
+02:09:18,080 --> 02:09:22,642
+<i>And the stars
+are black and cold</i>
+
+1685
+02:09:23,320 --> 02:09:29,851
+<i>As I stare into the void
+of a world that cannot hold</i>
+
+1686
+02:09:30,000 --> 02:09:33,004
+<i>I'll escape now from that world</i>
+
+1687
+02:09:33,200 --> 02:09:35,931
+<i>From the world of Jean Valjean</i>
+
+1688
+02:09:36,120 --> 02:09:39,283
+<i>There is nowhere I can turn</i>
+
+1689
+02:09:39,440 --> 02:09:45,561
+<i>There is no way to go on</i>
+
+1690
+02:10:14,520 --> 02:10:19,048
+<i>Did
+you see them going off to fight?</i>
+
+1691
+02:10:19,560 --> 02:10:23,531
+<i>Children of the
+barricade who didn't last the night</i>
+
+1692
+02:10:24,240 --> 02:10:28,882
+<i>Did you see them
+lying where they died?</i>
+
+1693
+02:10:29,040 --> 02:10:33,807
+<i>Someone used to cradle them
+and kiss them when they cried</i>
+
+1694
+02:10:33,960 --> 02:10:38,887
+<i>Did you see them
+lying side by side?</i>
+
+1695
+02:10:48,120 --> 02:10:51,761
+<i>There's</i> a <i>grief
+that can't be spoken</i>
+
+1696
+02:10:55,000 --> 02:10:58,163
+<i>There's a pain goes on and on</i>
+
+1697
+02:11:00,920 --> 02:11:04,766
+<i>Empty chairs at empty tables</i>
+
+1698
+02:11:05,960 --> 02:11:11,842
+<i>Now my friends
+are dead and gone</i>
+
+1699
+02:11:14,880 --> 02:11:19,124
+<i>Here they talked of revolution</i>
+
+1700
+02:11:20,880 --> 02:11:25,647
+<i>Here it was they lit the flame</i>
+
+1701
+02:11:26,960 --> 02:11:30,567
+<i>Here they sang about tomorrow</i>
+
+1702
+02:11:31,800 --> 02:11:38,490
+<i>And tomorrow never came</i>
+
+1703
+02:11:41,240 --> 02:11:46,201
+<i>From the table in the corner</i>
+
+1704
+02:11:46,960 --> 02:11:52,091
+<i>They could see a world reborn</i>
+
+1705
+02:11:52,160 --> 02:11:56,722
+<i>And they rose
+with voices ringing</i>
+
+1706
+02:11:56,880 --> 02:12:01,886
+<i>And I can hear them now</i>
+
+1707
+02:12:02,400 --> 02:12:07,008
+<i>The very words
+that they have sung</i>
+
+1708
+02:12:07,960 --> 02:12:13,000
+<i>Became their last communion</i>
+
+1709
+02:12:16,720 --> 02:12:20,008
+<i>On this lonely barricade</i>
+
+1710
+02:12:22,000 --> 02:12:24,731
+<i>At dawn</i>
+
+1711
+02:12:26,760 --> 02:12:31,288
+<i>Oh, my friends,
+my friends, forgive me</i>
+
+1712
+02:12:32,280 --> 02:12:37,081
+<i>That I live and you are gone</i>
+
+1713
+02:12:37,240 --> 02:12:40,801
+<i>There's a grief
+that can't be spoken</i>
+
+1714
+02:12:41,200 --> 02:12:47,287
+<i>There's a pain goes on and on</i>
+
+1715
+02:12:47,480 --> 02:12:51,644
+<i>Phantom faces at the windows</i>
+
+1716
+02:12:51,800 --> 02:12:56,522
+<i>Phantom shadows on the floor</i>
+
+1717
+02:12:56,680 --> 02:13:00,127
+<i>Empty chairs at empty tables</i>
+
+1718
+02:13:00,320 --> 02:13:06,248
+<i>Where my friends
+will meet no more</i>
+
+1719
+02:13:06,400 --> 02:13:10,724
+<i>Oh, my friends, my friends</i>
+
+1720
+02:13:11,320 --> 02:13:14,608
+<i>Don't ask me</i>
+
+1721
+02:13:14,760 --> 02:13:19,527
+<i>What your sacrifice was for</i>
+
+1722
+02:13:20,280 --> 02:13:24,490
+<i>Empty chairs at empty tables</i>
+
+1723
+02:13:27,200 --> 02:13:32,081
+<i>Where my friends will sing</i>
+
+1724
+02:13:33,760 --> 02:13:34,260
+<i>No more</i>
+
+1725
+02:14:02,000 --> 02:14:04,810
+<i>Every day you walk
+with stronger step</i>
+
+1726
+02:14:04,960 --> 02:14:08,760
+<i>You walk with longer step
+The worst is over</i>
+
+1727
+02:14:08,920 --> 02:14:11,048
+<i>Don't think about it, Marius!</i>
+
+1728
+02:14:11,120 --> 02:14:13,282
+<i>With all the years ahead of us!</i>
+
+1729
+02:14:13,480 --> 02:14:15,562
+<i>I will never go away</i>
+
+1730
+02:14:15,720 --> 02:14:19,850
+<i>And we will be
+together every day</i>
+
+1731
+02:14:22,680 --> 02:14:25,411
+<i>Every day</i>
+
+1732
+02:14:26,280 --> 02:14:28,282
+<i>We'll remember that night</i>
+
+1733
+02:14:28,440 --> 02:14:31,330
+<i>And the vow that we made</i>
+
+1734
+02:14:33,000 --> 02:14:37,369
+<i>A heart full of love</i>
+
+1735
+02:14:37,760 --> 02:14:40,206
+<i>She was never mine to keep</i>
+
+1736
+02:14:40,320 --> 02:14:43,290
+<i>A night full of you</i>
+
+1737
+02:14:43,640 --> 02:14:45,449
+<i>She is youthful, she is free</i>
+
+1738
+02:14:45,560 --> 02:14:47,403
+<i>The words are old
+but always true</i>
+
+1739
+02:14:48,000 --> 02:14:50,002
+<i>Cosette, Cosette!</i>
+
+1740
+02:14:50,160 --> 02:14:51,525
+<i>Love is the garden of the young</i>
+
+1741
+02:14:51,680 --> 02:14:53,120
+<i>I saw you waiting and I knew</i>
+
+1742
+02:14:53,200 --> 02:14:55,009
+<i>Thank God you are here</i>
+
+1743
+02:14:55,120 --> 02:14:56,884
+<i>Waiting for you</i>
+
+1744
+02:14:57,040 --> 02:14:58,041
+<i>Let it be</i>
+
+1745
+02:14:58,160 --> 02:14:59,207
+<i>At your feet</i>
+
+1746
+02:14:59,400 --> 02:15:01,164
+<i>Thank God you are home</i>
+
+1747
+02:15:01,360 --> 02:15:03,124
+<i>Let it be</i>
+
+1748
+02:15:04,320 --> 02:15:07,642
+<i>A heart full of love</i>
+
+1749
+02:15:07,760 --> 02:15:11,162
+<i>And it wasn't a dream</i>
+
+1750
+02:15:11,640 --> 02:15:15,087
+<i>This I give you this day</i>
+
+1751
+02:15:15,200 --> 02:15:18,647
+<i>Not a dream after all</i>
+
+1752
+02:15:25,360 --> 02:15:28,569
+<i>Monsieur, this is a day
+I never can forget</i>
+
+1753
+02:15:29,640 --> 02:15:33,645
+<i>Is gratitude enough
+for giving me Cosette?</i>
+
+1754
+02:15:34,160 --> 02:15:38,484
+<i>Your home shall be with us
+And not a day shall pass</i>
+
+1755
+02:15:38,640 --> 02:15:41,928
+<i>But we will prove our love
+To you, whom we shall call</i>
+
+1756
+02:15:42,080 --> 02:15:46,085
+<i>A father to us both
+A father to us all</i>
+
+1757
+02:15:46,280 --> 02:15:48,328
+<i>Not another word, my son</i>
+
+1758
+02:15:50,640 --> 02:15:54,725
+<i>There's something now
+that must be done</i>
+
+1759
+02:16:02,000 --> 02:16:05,607
+<i>There lived a man
+whose name was Jean Valjean</i>
+
+1760
+02:16:09,120 --> 02:16:11,851
+<i>He stole some bread to
+save his sister's son</i>
+
+1761
+02:16:16,720 --> 02:16:20,088
+<i>For 19 winters
+he served his time</i>
+
+1762
+02:16:23,440 --> 02:16:27,286
+<i>In sweat
+he washed away his crime</i>
+
+1763
+02:16:29,680 --> 02:16:31,444
+<i>Years ago</i>
+
+1764
+02:16:32,400 --> 02:16:35,449
+<i>He broke parole and
+lived a life apart</i>
+
+1765
+02:16:36,160 --> 02:16:39,004
+<i>How could he tell Cosette
+and break her heart?</i>
+
+1766
+02:16:40,000 --> 02:16:41,161
+Marius...
+
+1767
+02:16:41,280 --> 02:16:43,123
+<i>It's for Cosette
+this must be faced</i>
+
+1768
+02:16:43,280 --> 02:16:45,931
+<i>If he is caught,
+she is disgraced</i>
+
+1769
+02:16:46,080 --> 02:16:49,163
+<i>The time has come to journey on</i>
+
+1770
+02:16:50,320 --> 02:16:55,087
+<i>And from this day
+he must be gone</i>
+
+1771
+02:16:57,360 --> 02:16:59,328
+<i>Who am I?</i>
+
+1772
+02:17:01,760 --> 02:17:03,569
+<i>Who am I?</i>
+
+1773
+02:17:04,840 --> 02:17:09,402
+<i>You're Jean Valjean</i>
+
+1774
+02:17:10,880 --> 02:17:13,008
+<i>Monsieur, you cannot leave</i>
+
+1775
+02:17:13,480 --> 02:17:17,087
+<i>Whatever I tell my beloved
+Cosette She will never believe</i>
+
+1776
+02:17:18,640 --> 02:17:21,484
+<i>Tell her I've gone on a
+journey A long way away</i>
+
+1777
+02:17:22,720 --> 02:17:25,564
+<i>Tell her my heart was
+too full for farewells</i>
+
+1778
+02:17:25,720 --> 02:17:27,802
+<i>It is better this way</i>
+
+1779
+02:17:27,960 --> 02:17:30,611
+<i>Promise me, monsieur
+Cosette will never know</i>
+
+1780
+02:17:30,800 --> 02:17:33,007
+<i>What I have spoken
+Why I must go</i>
+
+1781
+02:17:36,800 --> 02:17:39,087
+<i>For the sake of Cosette</i>
+
+1782
+02:17:41,600 --> 02:17:45,491
+<i>It must be so</i>
+
+1783
+02:17:45,960 --> 02:17:47,564
+Thank you, Marius.
+
+1784
+02:18:01,360 --> 02:18:04,091
+<i>Where's he gone without a word?</i>
+
+1785
+02:18:04,240 --> 02:18:06,891
+<i>That wouldn't be his way to go</i>
+
+1786
+02:18:07,040 --> 02:18:08,963
+<i>Why so sudden, why so strange?</i>
+
+1787
+02:18:09,120 --> 02:18:12,203
+<i>Oh, did he say
+how long he'll be gone?</i>
+
+1788
+02:18:12,360 --> 02:18:18,367
+<i>AH he asked for me to say
+is he's on a journey far away</i>
+
+1789
+02:18:18,840 --> 02:18:20,569
+<i>He can't leave us now</i>
+
+1790
+02:18:21,560 --> 02:18:24,086
+<i>How he breaks my heart</i>
+
+1791
+02:18:24,240 --> 02:18:30,202
+<i>And we will never be apart</i>
+
+1792
+02:18:33,280 --> 02:18:35,044
+I promise you.
+
+1793
+02:19:14,560 --> 02:19:18,406
+The Baron and
+Baroness du Thénard.
+
+1794
+02:19:19,760 --> 02:19:22,650
+<i>Go away, Thenardier!</i>
+
+1795
+02:19:23,320 --> 02:19:26,767
+<i>Do you think
+I don't know who you are?</i>
+
+1796
+02:19:26,960 --> 02:19:30,362
+<i>He's not fooled Told you so</i>
+
+1797
+02:19:30,520 --> 02:19:33,490
+<i>Show monsieur
+what you've come here to show</i>
+
+1798
+02:19:33,640 --> 02:19:36,291
+<i>Tell the boy what you know</i>
+
+1799
+02:19:37,960 --> 02:19:40,691
+<i>Pity to disturb you
+at a feast like this</i>
+
+1800
+02:19:41,320 --> 02:19:44,642
+<i>But 500 francs
+surely wouldn't come amiss</i>
+
+1801
+02:19:44,800 --> 02:19:47,246
+<i>In God's name,
+say what you have to say</i>
+
+1802
+02:19:47,480 --> 02:19:49,721
+<i>He speaks You pay!</i>
+
+1803
+02:19:50,120 --> 02:19:54,523
+<i>What I saw, clear as light</i>
+
+1804
+02:19:54,680 --> 02:19:58,321
+<i>Jean Valjean in
+the sewers one night</i>
+
+1805
+02:19:58,640 --> 02:20:01,371
+<i>Had this corpse on his back</i>
+
+1806
+02:20:01,520 --> 02:20:04,842
+<i>Some boy he had killed
+in a vicious attack</i>
+
+1807
+02:20:05,800 --> 02:20:09,407
+<i>I was there, never fear</i>
+
+1808
+02:20:09,560 --> 02:20:13,804
+<i>I even found me
+this fine souvenir</i>
+
+1809
+02:20:14,400 --> 02:20:17,210
+<i>I know this This is mine</i>
+
+1810
+02:20:17,840 --> 02:20:21,083
+<i>This is surely
+some heavenly sign</i>
+
+1811
+02:20:21,720 --> 02:20:24,849
+<i>Then it's true Then I'm right</i>
+
+1812
+02:20:25,240 --> 02:20:29,689
+<i>Jean Valjean was
+my savior that night</i>
+
+1813
+02:20:30,960 --> 02:20:34,760
+<i>Jean Valjean, the old con</i>
+
+1814
+02:20:34,920 --> 02:20:38,083
+<i>You pay up
+or I'll say where he's gone</i>
+
+1815
+02:20:38,280 --> 02:20:39,566
+Where is he?
+
+1816
+02:20:44,680 --> 02:20:45,761
+Where is he?
+
+1817
+02:20:45,840 --> 02:20:47,046
+The convent!
+
+1818
+02:20:47,840 --> 02:20:50,764
+Cosette, come with me.
+Come with me.
+
+1819
+02:20:51,600 --> 02:20:54,251
+<i>Watch the buggers
+dance Watch 'em till they drop!</i>
+
+1820
+02:20:54,400 --> 02:20:56,971
+<i>Keep your wits about you
+and you'll stand on top!</i>
+
+1821
+02:20:57,240 --> 02:20:59,925
+<i>Masters of the land
+Always get our share</i>
+
+1822
+02:21:00,080 --> 02:21:02,481
+<i>Clear away the barricades
+and we're still there</i>
+
+1823
+02:21:02,720 --> 02:21:05,451
+<i>We know where
+the wind is blowing</i>
+
+1824
+02:21:05,680 --> 02:21:07,523
+<i>Money is the stuff we smell</i>
+
+1825
+02:21:08,240 --> 02:21:09,526
+<i>And when we're rich as Croesus</i>
+
+1826
+02:21:09,600 --> 02:21:11,728
+<i>Jesus! Won't
+we see you all in hell!</i>
+
+1827
+02:21:16,520 --> 02:21:18,010
+How dare you!
+
+1828
+02:21:28,800 --> 02:21:32,361
+<i>Alone I wait in the shadows</i>
+
+1829
+02:21:34,000 --> 02:21:36,924
+<i>I count the hours until I sleep</i>
+
+1830
+02:21:39,080 --> 02:21:43,449
+<i>I dreamed a dream
+Cosette stood by</i>
+
+1831
+02:21:43,640 --> 02:21:48,248
+<i>It made her weep to know I die</i>
+
+1832
+02:21:52,960 --> 02:21:56,567
+<i>Alone at the end of the day</i>
+
+1833
+02:21:58,560 --> 02:22:02,201
+<i>Upon this wedding night I pray</i>
+
+1834
+02:22:03,840 --> 02:22:09,131
+<i>Take these children, my Lord,
+to Thy embrace</i>
+
+1835
+02:22:10,400 --> 02:22:17,329
+<i>And show them grace</i>
+
+1836
+02:22:20,960 --> 02:22:26,763
+<i>God on high</i>
+
+1837
+02:22:29,600 --> 02:22:33,730
+<i>Hear my prayer</i>
+
+1838
+02:22:37,960 --> 02:22:40,042
+<i>Take me now</i>
+
+1839
+02:22:43,600 --> 02:22:45,682
+<i>To Thy care</i>
+
+1840
+02:22:49,200 --> 02:22:53,489
+<i>Where You are</i>
+
+1841
+02:22:55,320 --> 02:22:58,642
+<i>Let me be</i>
+
+1842
+02:23:02,960 --> 02:23:06,009
+<i>Take me now</i>
+
+1843
+02:23:09,120 --> 02:23:12,169
+<i>Take me there</i>
+
+1844
+02:23:14,840 --> 02:23:18,561
+<i>Bring me home</i>
+
+1845
+02:23:21,600 --> 02:23:25,491
+<i>Bring me home</i>
+
+1846
+02:23:29,200 --> 02:23:34,001
+Monsieur, <i>I bless your name</i>
+
+1847
+02:23:34,160 --> 02:23:36,242
+<i>I am ready, Fantine</i>
+
+1848
+02:23:37,000 --> 02:23:41,289
+Monsieur, <i>lay down your burde</i>n
+
+1849
+02:23:41,560 --> 02:23:43,927
+<i>At the end of my days</i>
+
+1850
+02:23:44,640 --> 02:23:47,928
+<i>You raised my child in love</i>
+
+1851
+02:23:48,080 --> 02:23:49,445
+<i>She's the best of my life</i>
+
+1852
+02:23:49,640 --> 02:23:55,522
+<i>And you will be with God</i>
+
+1853
+02:23:55,600 --> 02:23:56,726
+Oh!
+
+1854
+02:23:59,560 --> 02:24:01,164
+Oh...
+
+1855
+02:24:03,720 --> 02:24:05,245
+Fantine.
+
+1856
+02:24:05,400 --> 02:24:08,290
+<i>Papa, Papa, I do not understand</i>
+
+1857
+02:24:08,440 --> 02:24:11,489
+<i>Are you all right?
+Why did you go away?</i>
+
+1858
+02:24:14,400 --> 02:24:17,483
+<i>Cosette, my child!
+Am I forgiven now?</i>
+
+1859
+02:24:17,640 --> 02:24:20,086
+<i>Thank God, thank God
+I've lived to see this day!</i>
+
+1860
+02:24:21,400 --> 02:24:24,131
+<i>It's you who must forgive
+a thoughtless fool</i>
+
+1861
+02:24:24,280 --> 02:24:28,968
+<i>It's you who must
+forgive a thankless man</i>
+
+1862
+02:24:29,560 --> 02:24:33,246
+<i>It's thanks to you
+that I am living</i>
+
+1863
+02:24:33,640 --> 02:24:37,281
+<i>And again I lay down
+my life at your feet</i>
+
+1864
+02:24:37,720 --> 02:24:41,042
+<i>Cosette, your father is a saint</i>
+
+1865
+02:24:41,680 --> 02:24:47,369
+<i>When they wounded me
+He took me from the barricade</i>
+
+1866
+02:24:47,880 --> 02:24:50,167
+<i>Carried like a babe</i>
+
+1867
+02:24:50,360 --> 02:24:56,402
+<i>And brought me home to you</i>
+
+1868
+02:25:07,200 --> 02:25:10,249
+<i>Now you are here</i>
+
+1869
+02:25:14,720 --> 02:25:17,564
+<i>Again beside me</i>
+
+1870
+02:25:21,440 --> 02:25:25,331
+<i>Now I can die in peace</i>
+
+1871
+02:25:26,520 --> 02:25:31,242
+<i>For now my life is blessed</i>
+
+1872
+02:25:32,320 --> 02:25:37,884
+<i>You will live, Papa
+You're going to live</i>
+
+1873
+02:25:38,120 --> 02:25:42,603
+<i>It's too soon
+Too soon to say goodbye</i>
+
+1874
+02:25:43,960 --> 02:25:50,002
+<i>Yes, Cosette,
+forbid me now to die!</i>
+
+1875
+02:25:51,480 --> 02:25:53,482
+<i>I'll obey</i>
+
+1876
+02:25:56,120 --> 02:25:58,521
+<i>I will try</i>
+
+1877
+02:26:00,000 --> 02:26:02,446
+<i>On this page</i>
+
+1878
+02:26:03,600 --> 02:26:07,685
+<i>I write my last confession</i>
+
+1879
+02:26:10,960 --> 02:26:16,888
+<i>Read it well
+when I at last am sleeping</i>
+
+1880
+02:26:20,200 --> 02:26:22,248
+<i>It's the story</i>
+
+1881
+02:26:23,200 --> 02:26:27,000
+<i>Of one who turned from hating</i>
+
+1882
+02:26:27,880 --> 02:26:31,043
+<i>A man who only learned to love</i>
+
+1883
+02:26:31,640 --> 02:26:33,881
+<i>When you were in his keeping</i>
+
+1884
+02:26:34,200 --> 02:26:35,804
+I know it, Papa.
+
+1885
+02:26:37,080 --> 02:26:40,209
+<i>Come with me</i>
+
+1886
+02:26:40,360 --> 02:26:44,046
+<i>Where chains
+will never bind you</i>
+
+1887
+02:26:44,200 --> 02:26:46,646
+I am ready, Fantine.
+
+1888
+02:26:46,800 --> 02:26:53,809
+<i>All your grief
+At last, at last behind you</i>
+
+1889
+02:26:55,560 --> 02:26:58,609
+<i>Lord in heaven</i>
+
+1890
+02:26:58,680 --> 02:27:03,527
+<i>Look down on him in mercy</i>
+
+1891
+02:27:03,600 --> 02:27:06,524
+<i>Forgive me all my trespasses</i>
+
+1892
+02:27:06,600 --> 02:27:09,922
+<i>And take me to Your glory</i>
+
+1893
+02:27:12,760 --> 02:27:16,003
+<i>Take my hand</i>
+
+1894
+02:27:16,080 --> 02:27:21,928
+<i>I'll lead you to salvation</i>
+
+1895
+02:27:22,000 --> 02:27:25,083
+<i>Take my love</i>
+
+1896
+02:27:25,200 --> 02:27:29,842
+<i>For love is everlasting</i>
+
+1897
+02:27:31,440 --> 02:27:34,444
+<i>And remember</i>
+
+1898
+02:27:34,720 --> 02:27:39,169
+<i>The truth that once was spoken</i>
+
+1899
+02:27:39,880 --> 02:27:42,804
+<i>To love another person</i>
+
+1900
+02:27:42,880 --> 02:27:49,490
+<i>Is to see the face of God</i>
+
+1901
+02:27:52,080 --> 02:27:57,166
+<i>Do you hear the people sing
+lost in the valley of the night?</i>
+
+1902
+02:27:57,280 --> 02:28:03,686
+<i>It is the music of a people
+who are climbing to the light</i>
+
+1903
+02:28:03,800 --> 02:28:06,724
+<i>For the wretched of the Earth</i>
+
+1904
+02:28:06,880 --> 02:28:09,804
+<i>There is a flame
+that never dies</i>
+
+1905
+02:28:09,960 --> 02:28:15,842
+<i>Even the darkest night will
+end and the sun will rise</i>
+
+1906
+02:28:16,000 --> 02:28:19,083
+<i>We will live again in freedom</i>
+
+1907
+02:28:19,280 --> 02:28:22,602
+<i>In the garden of the Lord</i>
+
+1908
+02:28:22,760 --> 02:28:28,483
+<i>We will walk behind the plowshare
+We will put away the sword</i>
+
+1909
+02:28:28,960 --> 02:28:34,251
+<i>The chain will be broken and all
+men will have their reward!</i>
+
+1910
+02:28:34,400 --> 02:28:37,370
+<i>Will you join in our crusade?</i>
+
+1911
+02:28:37,520 --> 02:28:40,364
+<i>Who will be strong
+and stand with me?</i>
+
+1912
+02:28:40,520 --> 02:28:43,444
+<i>Somewhere beyond the barricade</i>
+
+1913
+02:28:43,560 --> 02:28:46,291
+<i>Is there a world
+you long to see?</i>
+
+1914
+02:28:46,440 --> 02:28:49,364
+<i>Do you hear the people sing?</i>
+
+1915
+02:28:49,560 --> 02:28:52,404
+<i>Say, do you hear
+the distant drums?</i>
+
+1916
+02:28:52,560 --> 02:28:58,522
+<i>It is the future that we bring
+when tomorrow comes!</i>
+
+1917
+02:28:58,680 --> 02:29:01,365
+<i>Will you join in our crusade?</i>
+
+1918
+02:29:01,520 --> 02:29:03,841
+<i>Who will be strong
+and stand with me?</i>
+
+1919
+02:29:04,000 --> 02:29:07,004
+<i>Somewhere beyond the barricade</i>
+
+1920
+02:29:07,080 --> 02:29:10,129
+<i>Is there a world
+you long to see?</i>
+
+1921
+02:29:10,280 --> 02:29:13,124
+<i>Do you hear the people sing?</i>
+
+1922
+02:29:13,320 --> 02:29:16,324
+<i>Say, do you hear
+the distant drums?</i>
+
+1923
+02:29:16,480 --> 02:29:22,647
+<i>It is the future that we bring
+when tomorrow comes!</i>
+
+1924
+02:29:31,040 --> 02:29:38,049
+<i>Tomorrow comes!</i>

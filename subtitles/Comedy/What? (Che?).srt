@@ -1,0 +1,6540 @@
+0
+00:00:01,456 --> 00:00:01,601
+<font color="#ff0000"><font color="#00ff00">S</font>ubtitle Created By : MUBDEE AL SADIK </font>
+
+1
+00:00:01,602 --> 00:00:01,747
+<font color="#ff0000"><font color="#00ff00">Su</font>btitle Created By : MUBDEE AL SADIK </font>
+
+2
+00:00:01,748 --> 00:00:01,893
+<font color="#ff0000"><font color="#00ff00">Sub</font>title Created By : MUBDEE AL SADIK </font>
+
+3
+00:00:01,894 --> 00:00:02,039
+<font color="#ff0000"><font color="#00ff00">Subt</font>itle Created By : MUBDEE AL SADIK </font>
+
+4
+00:00:02,040 --> 00:00:02,185
+<font color="#ff0000"><font color="#00ff00">Subti</font>tle Created By : MUBDEE AL SADIK </font>
+
+5
+00:00:02,186 --> 00:00:02,331
+<font color="#ff0000"><font color="#00ff00">Subtit</font>le Created By : MUBDEE AL SADIK </font>
+
+6
+00:00:02,332 --> 00:00:02,477
+<font color="#ff0000"><font color="#00ff00">Subtitl</font>e Created By : MUBDEE AL SADIK </font>
+
+7
+00:00:02,478 --> 00:00:02,623
+<font color="#ff0000"><font color="#00ff00">Subtitle</font> Created By : MUBDEE AL SADIK </font>
+
+8
+00:00:02,624 --> 00:00:02,768
+<font color="#ff0000"><font color="#00ff00">Subtitle </font>Created By : MUBDEE AL SADIK </font>
+
+9
+00:00:02,769 --> 00:00:02,914
+<font color="#ff0000"><font color="#00ff00">Subtitle C</font>reated By : MUBDEE AL SADIK </font>
+
+10
+00:00:02,915 --> 00:00:03,060
+<font color="#ff0000"><font color="#00ff00">Subtitle Cr</font>eated By : MUBDEE AL SADIK </font>
+
+11
+00:00:03,061 --> 00:00:03,206
+<font color="#ff0000"><font color="#00ff00">Subtitle Cre</font>ated By : MUBDEE AL SADIK </font>
+
+12
+00:00:03,207 --> 00:00:03,352
+<font color="#ff0000"><font color="#00ff00">Subtitle Crea</font>ted By : MUBDEE AL SADIK </font>
+
+13
+00:00:03,353 --> 00:00:03,498
+<font color="#ff0000"><font color="#00ff00">Subtitle Creat</font>ed By : MUBDEE AL SADIK </font>
+
+14
+00:00:03,499 --> 00:00:03,644
+<font color="#ff0000"><font color="#00ff00">Subtitle Create</font>d By : MUBDEE AL SADIK </font>
+
+15
+00:00:03,645 --> 00:00:03,790
+<font color="#ff0000"><font color="#00ff00">Subtitle Created</font> By : MUBDEE AL SADIK </font>
+
+16
+00:00:03,791 --> 00:00:03,936
+<font color="#ff0000"><font color="#00ff00">Subtitle Created </font>By : MUBDEE AL SADIK </font>
+
+17
+00:00:03,937 --> 00:00:04,082
+<font color="#ff0000"><font color="#00ff00">Subtitle Created B</font>y : MUBDEE AL SADIK </font>
+
+18
+00:00:04,083 --> 00:00:04,228
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By</font> : MUBDEE AL SADIK </font>
+
+19
+00:00:04,229 --> 00:00:04,374
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By </font>: MUBDEE AL SADIK </font>
+
+20
+00:00:04,375 --> 00:00:04,520
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By :</font> MUBDEE AL SADIK </font>
+
+22
+00:00:04,521 --> 00:00:04,666
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : </font>MUBDEE AL SADIK </font>
+
+22
+00:00:04,667 --> 00:00:04,812
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : M</font>UBDEE AL SADIK </font>
+
+23
+00:00:04,813 --> 00:00:04,958
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MU</font>BDEE AL SADIK </font>
+
+24
+00:00:04,959 --> 00:00:05,104
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUB</font>DEE AL SADIK </font>
+
+25
+00:00:05,105 --> 00:00:05,250
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBD</font>EE AL SADIK </font>
+
+26
+00:00:05,251 --> 00:00:05,395
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDE</font>E AL SADIK </font>
+
+27
+00:00:05,396 --> 00:00:05,541
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE</font> AL SADIK </font>
+
+28
+00:00:05,542 --> 00:00:05,687
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE </font>AL SADIK </font>
+
+29
+00:00:05,688 --> 00:00:05,833
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE A</font>L SADIK </font>
+
+30
+00:00:05,834 --> 00:00:05,979
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL</font> SADIK </font>
+
+31
+00:00:05,980 --> 00:00:06,125
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL </font>SADIK </font>
+
+32
+00:00:06,126 --> 00:00:06,271
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL S</font>ADIK </font>
+
+33
+00:00:06,272 --> 00:00:06,417
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SA</font>DIK </font>
+
+34
+00:00:06,418 --> 00:00:06,564
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SAD</font>IK </font>
+
+34
+00:00:06,565 --> 00:00:06,700
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SADI</font>K </font>
+
+34
+00:00:06,701 --> 00:00:06,844
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SADIK</font </font>
+
+1
+00:03:28,000 --> 00:03:32,800
+So they wanna get a sound level
+Could you say something?
+
+2
+00:03:33,300 --> 00:03:35,300
+Translate, boy.
+What did she say?
+
+3
+00:03:35,766 --> 00:03:38,560
+Sorry?
+I wanna get a sound level
+
+4
+00:03:39,570 --> 00:03:44,001
+Could you say something
+into the microphone?
+
+5
+00:03:44,075 --> 00:03:48,371
+One, two, three...
+
+6
+00:03:49,880 --> 00:03:52,212
+Is that where you're gonna sit?
+
+7
+00:03:52,382 --> 00:03:54,077
+Unless you'd like me to move
+
+8
+00:03:54,251 --> 00:03:56,776
+That's a good place
+As long as that's it, that's fine.
+
+9
+00:03:56,954 --> 00:03:59,149
+Okay, we're set
+
+10
+00:04:02,726 --> 00:04:05,718
+What if recent United States efforts
+
+11
+00:04:05,896 --> 00:04:09,093
+To help the Latin American
+people are successful?
+
+12
+00:04:09,266 --> 00:04:13,362
+If the ruling classes agreed
+to land reforms and tax reforms
+
+13
+00:04:13,537 --> 00:04:15,505
+if the standard of living
+could be raised
+
+14
+00:04:15,672 --> 00:04:20,769
+wouldn't the message of the
+Cuban revolution lose its power?
+
+15
+00:05:26,810 --> 00:05:31,142
+Do what you want,
+but don't mess with the Americans
+
+16
+00:05:31,315 --> 00:05:35,351
+It's pretty simple.
+All we have to do
+
+17
+00:05:35,519 --> 00:05:37,817
+Is organize a coup.
+
+18
+00:05:37,988 --> 00:05:42,789
+What did Batista do?
+He led a coup and took power in one day.
+
+19
+00:05:42,959 --> 00:05:46,258
+The main issue is to control power.
+The rest is nonsense.
+
+20
+00:05:46,430 --> 00:05:49,661
+It's not about taking power,
+but knowing what to do with it.
+
+21
+00:05:49,833 --> 00:05:53,735
+- That's right.
+- That coup must be based on principles.
+
+22
+00:05:55,138 --> 00:05:58,699
+Let's eat. Fidel is late.
+
+23
+00:06:00,410 --> 00:06:02,708
+Argentine!
+Could you give me a hand?
+
+24
+00:06:03,680 --> 00:06:07,912
+It's not about making concessions
+but establishing conditions.
+
+25
+00:06:21,798 --> 00:06:25,131
+- Sorry I'm late.
+- It's about time!
+
+26
+00:06:25,435 --> 00:06:28,563
+Good evening. Sorry I'm late.
+
+27
+00:06:33,210 --> 00:06:34,802
+This is Ernesto.
+
+28
+00:06:35,512 --> 00:06:37,844
+- The Argentine doctor.
+- Pleased to meet you.
+
+29
+00:06:38,014 --> 00:06:40,574
+- My pleasure.
+- Let's eat!
+
+30
+00:06:41,918 --> 00:06:45,877
+Twenty percent of all Cubans
+are permanently unemployed.
+
+31
+00:06:46,523 --> 00:06:52,758
+One-point-five percent of the landowners
+control 46 percent of the land.
+
+32
+00:06:54,464 --> 00:06:59,060
+Half the population has no electricity.
+Over half live in bohios
+
+33
+00:07:01,004 --> 00:07:03,495
+Sorry, what's a bohio?
+
+34
+00:07:04,107 --> 00:07:05,904
+What's a bohio in Argentina?
+
+35
+00:07:06,076 --> 00:07:08,044
+A shack.
+
+36
+00:07:08,245 --> 00:07:11,271
+Thirty-seven percent can't read or write.
+
+37
+00:07:12,215 --> 00:07:15,116
+Infant mortality is through the roof.
+
+38
+00:07:15,285 --> 00:07:16,912
+What's more,
+
+39
+00:07:17,354 --> 00:07:20,881
+while the thugs of the dictatorship
+
+40
+00:07:21,057 --> 00:07:23,787
+gun down anyone who speaks out,
+
+41
+00:07:23,960 --> 00:07:26,793
+most corrupt officials
+
+42
+00:07:26,963 --> 00:07:30,126
+steal hundreds of millions of dollars
+from the public treasury
+
+43
+00:07:30,300 --> 00:07:33,565
+and deposit it into
+U.S. and European banks.
+
+44
+00:07:33,737 --> 00:07:36,399
+It's the same
+in all Latin American countries.
+
+45
+00:07:36,606 --> 00:07:38,631
+In the last few years,
+
+46
+00:07:38,809 --> 00:07:41,869
+the balance of payments
+between the U.S. and Cuba
+
+47
+00:07:42,045 --> 00:07:47,381
+has been favorable to the U.S.
+by 1 billion dollars.
+
+48
+00:07:47,551 --> 00:07:49,212
+What does this mean?
+
+49
+00:07:49,386 --> 00:07:51,946
+That this poor Caribbean island
+
+50
+00:07:52,122 --> 00:07:56,081
+is helping to support the economy of
+the most developed country in the world.
+
+51
+00:07:56,760 --> 00:08:01,129
+As Marti used to say,
+if the U.S. takes Spain out of Cuba,
+
+52
+00:08:01,298 --> 00:08:03,766
+then we would have to take out the U.S.
+
+53
+00:08:05,469 --> 00:08:06,834
+Do you have a boat?
+
+54
+00:08:10,307 --> 00:08:11,672
+Money?
+
+55
+00:08:13,043 --> 00:08:14,305
+Not yet.
+
+56
+00:08:14,744 --> 00:08:16,177
+Fighters?
+
+57
+00:08:17,981 --> 00:08:21,940
+We've smuggled 30 into Mexico.
+We'll get some more.
+
+58
+00:08:28,124 --> 00:08:29,921
+Do you think I'm crazy?
+
+59
+00:08:30,927 --> 00:08:32,326
+A little
+
+60
+00:08:34,498 --> 00:08:35,988
+Well
+
+61
+00:08:36,266 --> 00:08:38,291
+some craziness is good.
+
+62
+00:08:52,850 --> 00:08:55,310
+Fidel had extraordinary faith
+
+63
+00:08:55,486 --> 00:08:57,977
+<i>that once we left for Cuba,</i>
+
+64
+00:08:58,322 --> 00:08:59,914
+<i>we would make it there,</i>
+
+65
+00:09:00,091 --> 00:09:02,850
+<i>and that once we made it to Cuba,
+we would fight.</i>
+
+66
+00:09:03,000 --> 00:09:06,259
+<i>And that in fighting, we would win.</i>
+
+67
+00:09:06,950 --> 00:09:10,425
+<i>And so it was
+that in November of '56,</i>
+
+68
+00:09:10,500 --> 00:09:16,928
+we left Mexico in a leaky boat,
+with 82 men onboard
+
+69
+00:09:17,037 --> 00:09:18,600
+And of those 82
+
+70
+00:09:18,790 --> 00:09:23,000
+Only 12 would survive
+to witness our victory
+
+71
+00:09:58,348 --> 00:10:00,748
+Murderer!
+Assassin!
+
+72
+00:10:05,288 --> 00:10:08,849
+Get out of Cuba
+Che! Murderer!
+
+73
+00:10:10,160 --> 00:10:12,685
+Among Fidel Castro's top lieutenants
+
+74
+00:10:12,862 --> 00:10:17,231
+One of the most powerful
+is Major Ernesto "Che" Guevara
+
+75
+00:10:17,400 --> 00:10:20,858
+<i>the Argentine revolutionary
+who became a Cuban citizen</i>
+
+76
+00:10:21,037 --> 00:10:25,133
+<i>and, as Minister of Industries,
+now presides over the Cuban economy.</i>
+
+77
+00:10:25,308 --> 00:10:29,472
+<i>Major Guevara is a Marxist,
+a soldier, a physician,</i>
+
+78
+00:10:29,646 --> 00:10:33,013
+And the author of the classic
+handbook on guerilla warfare
+
+79
+00:10:33,183 --> 00:10:35,174
+He is 36 years old
+
+80
+00:10:35,352 --> 00:10:37,616
+He has been called the brains
+of the revolution
+
+81
+00:10:37,787 --> 00:10:42,247
+And the power behind Fidel Castro,
+though he denies both assertions
+
+82
+00:11:24,703 --> 00:11:28,850
+From this point forward,
+we experienced 10 bitter days
+
+83
+00:11:29,307 --> 00:11:33,641
+The only way I could walk
+was to hold myself up with the trees
+
+84
+00:11:33,812 --> 00:11:36,350
+Or by leaning on the butt of my rifle
+
+85
+00:11:36,650 --> 00:11:41,844
+As if that were not enough,
+I was traveling with a soldier
+
+86
+00:11:42,020 --> 00:11:45,979
+who panicked every time
+my asthma made me cough
+
+87
+00:11:55,198 --> 00:11:58,326
+Soldiers! Soldiers
+are coming! There's a lot of them!
+
+88
+00:11:58,535 --> 00:12:01,265
+They're going to kill us!
+We have to hide!
+
+89
+00:12:22,692 --> 00:12:24,523
+That's Epifanio's house!
+
+90
+00:12:57,694 --> 00:12:59,719
+Close the door.
+
+91
+00:13:22,852 --> 00:13:24,717
+Where's Fidel?
+
+92
+00:13:26,923 --> 00:13:29,790
+My name is Ernesto Guevara.
+What's yours?
+
+93
+00:13:29,959 --> 00:13:32,427
+Jorge Sotús, why?
+
+94
+00:13:32,595 --> 00:13:35,291
+I have orders from Fidel
+to command you and your men,
+
+95
+00:13:36,866 --> 00:13:38,629
+and lead you to where he is.
+
+96
+00:13:40,003 --> 00:13:41,300
+Where are you from?
+
+97
+00:13:41,571 --> 00:13:42,936
+Argentina.
+
+98
+00:13:44,808 --> 00:13:48,972
+I don't trust anyone.
+I'm the only one leading these troops.
+
+99
+00:13:49,379 --> 00:13:55,375
+Frank Pais said to deliver these men
+to Fidel, personally.
+
+100
+00:13:56,386 --> 00:13:59,446
+Listen! We'll stop for five minutes.
+
+101
+00:14:00,824 --> 00:14:02,815
+Sit down, everyone.
+
+102
+00:14:05,261 --> 00:14:06,990
+Hey, what's going on?
+
+103
+00:14:07,497 --> 00:14:09,988
+- Fidel is coming!
+- Go and tell the doctor.
+
+104
+00:14:10,700 --> 00:14:13,430
+- Stand up, come on!
+- Fidel is coming.
+
+105
+00:14:23,479 --> 00:14:25,276
+Stand up.
+
+106
+00:14:25,448 --> 00:14:28,975
+Come on, up! Grab your rifle.
+
+107
+00:14:38,061 --> 00:14:39,494
+Finally!
+
+108
+00:14:40,663 --> 00:14:44,121
+Good to see you. Are you all right?
+
+109
+00:14:44,300 --> 00:14:45,790
+This is Epifanio.
+
+110
+00:14:46,803 --> 00:14:48,998
+- Raúl.
+- How are you?
+
+111
+00:14:50,540 --> 00:14:52,132
+Very good.
+
+112
+00:14:52,842 --> 00:14:54,173
+Camilo.
+
+113
+00:14:55,478 --> 00:14:59,539
+- How was your vacation?
+- Vacation? What vacation?
+
+114
+00:15:00,850 --> 00:15:02,249
+Almeida
+
+115
+00:15:04,754 --> 00:15:06,221
+Hello, Ramiro.
+
+116
+00:15:08,224 --> 00:15:10,454
+- Hi, Vilma.
+- Good to see you.
+
+117
+00:15:12,462 --> 00:15:13,952
+Vilo.
+
+118
+00:15:14,697 --> 00:15:16,289
+Hello, Celia.
+
+119
+00:15:34,984 --> 00:15:36,281
+Thanks.
+
+120
+00:15:39,088 --> 00:15:40,487
+Listen.
+
+121
+00:15:40,723 --> 00:15:43,988
+Fidel wants to talk to you
+about what happened with Sotús
+
+122
+00:15:46,763 --> 00:15:48,492
+Let him speak
+
+123
+00:15:48,665 --> 00:15:51,634
+If you say something,
+it could sound defensive
+
+124
+00:15:51,801 --> 00:15:53,598
+and he's not going to like that
+
+125
+00:15:57,540 --> 00:16:00,134
+I left you in charge
+of the reinforcements
+
+126
+00:16:01,311 --> 00:16:04,246
+I don't have anything
+against Jorge Sotús
+
+127
+00:16:04,414 --> 00:16:08,441
+but how can you let someone with no
+experience take charge of the troops?
+
+128
+00:16:10,820 --> 00:16:13,880
+You still have this complex about
+being foreign, and it's pointless.
+
+129
+00:16:14,057 --> 00:16:15,957
+You trained with us,
+
+130
+00:16:16,125 --> 00:16:19,424
+you came in the boat with us,
+you were wounded fighting with us.
+
+131
+00:16:20,330 --> 00:16:24,061
+You are as Cuban and revolutionary
+as everyone here.
+
+132
+00:16:30,740 --> 00:16:32,640
+We are forming three columns
+
+133
+00:16:35,044 --> 00:16:37,569
+Raúl will lead the first one
+
+134
+00:16:38,848 --> 00:16:41,408
+Almeida will be in charge
+of the second one
+
+135
+00:16:41,918 --> 00:16:46,116
+And Jorge Sotús
+will command the third one
+
+136
+00:17:12,849 --> 00:17:15,909
+I did all my studies
+finished high school
+
+137
+00:17:16,085 --> 00:17:19,612
+then I worked as a mechanic
+for two or three years.
+
+138
+00:17:19,789 --> 00:17:24,726
+I then delivered milk around the area.
+Also worked as a boxer.
+
+139
+00:17:24,894 --> 00:17:29,729
+And in a circus, working as a magician
+among other things.
+
+140
+00:17:29,899 --> 00:17:32,367
+In a circus?
+How old are you?
+
+141
+00:17:32,535 --> 00:17:34,025
+Twenty
+
+142
+00:17:34,837 --> 00:17:38,364
+Who gave them to you?
+The one and only Celia Sánchez!
+
+143
+00:17:40,376 --> 00:17:43,402
+He looks like John Wayne.
+
+144
+00:17:44,914 --> 00:17:48,213
+- A cowboy from the Wild West.
+- The Little Cowboy.
+
+145
+00:17:48,384 --> 00:17:51,148
+That's it: "The Little Cowboy"!
+
+146
+00:17:51,320 --> 00:17:54,050
+Little Cowboy! Little Cowboy!
+
+147
+00:18:15,244 --> 00:18:17,735
+The army keeps moving up
+and down the road, Fidel.
+
+148
+00:18:18,181 --> 00:18:20,274
+It would be pretty easy
+to hunt a couple of patrols.
+
+149
+00:18:20,450 --> 00:18:23,442
+- We must be patient.
+- I agree, it would be easy to do.
+
+150
+00:18:23,653 --> 00:18:26,144
+- We could do it fast and safely.
+- No, listen a second.
+
+151
+00:18:26,756 --> 00:18:29,088
+If we attack one of the trucks,
+
+152
+00:18:29,926 --> 00:18:33,020
+then the army would say
+it was a crash on the road.
+
+153
+00:18:33,196 --> 00:18:36,962
+But if we launch a full attack
+on the Uvero barracks,
+
+154
+00:18:37,600 --> 00:18:41,627
+it will be impossible
+for them to deny our victory.
+
+155
+00:18:41,938 --> 00:18:47,308
+It will have a huge psychological impact.
+Do you understand?
+
+156
+00:19:01,624 --> 00:19:03,649
+Sotús isn't in position,
+
+157
+00:19:03,826 --> 00:19:06,090
+but he can't move
+because it's getting light out.
+
+158
+00:19:07,830 --> 00:19:12,028
+I don't know about the others.
+It's hard to see because...
+
+159
+00:19:23,279 --> 00:19:24,303
+Fuck, I missed!
+
+160
+00:19:41,230 --> 00:19:42,254
+Get down!
+
+161
+00:19:42,431 --> 00:19:45,594
+I have a saint watching over me!
+He protects me from everything!
+
+162
+00:20:02,785 --> 00:20:04,184
+Are you okay?
+
+163
+00:20:04,353 --> 00:20:06,583
+- It's my arm and leg.
+- Stay calm.
+
+164
+00:20:31,480 --> 00:20:32,504
+Don't fall asleep.
+
+165
+00:20:36,253 --> 00:20:37,800
+<i>In War and Peace,</i>
+
+166
+00:20:37,850 --> 00:20:44,000
+<i>Tolstoy remarks that military science
+assumes that the bigger the army,</i>
+
+167
+00:20:44,127 --> 00:20:45,850
+<i>the stronger it is.</i>
+
+168
+00:20:46,000 --> 00:20:49,250
+<i>On the other hand,
+only vaguely do they recognize</i>
+
+169
+00:20:49,300 --> 00:20:52,900
+<i>that during military combat,
+the final strength of an army</i>
+
+170
+00:20:53,000 --> 00:20:59,200
+<i>is also its true physical capacity,
+multiplied by one unknown "x."</i>
+
+171
+00:20:59,700 --> 00:21:05,000
+<i>This "x" is none other
+than the spirit of the troops,</i>
+
+172
+00:21:05,100 --> 00:21:09,600
+<i>measured as the greater or lesser desire
+to fight and confront danger.</i>
+
+173
+00:21:09,654 --> 00:21:12,714
+<i>Men with the desire to fight,</i>
+
+174
+00:21:12,891 --> 00:21:15,689
+<i>who also understand
+why they are fighting,</i>
+
+175
+00:21:15,861 --> 00:21:17,886
+<i>regardless of who they are fighting,</i>
+
+176
+00:21:18,063 --> 00:21:22,300
+<i>whether under the command
+of military geniuses</i>
+
+177
+00:21:22,360 --> 00:21:24,197
+<i>or those of normal intelligence,</i>
+
+178
+00:21:24,367 --> 00:21:26,198
+<i>fighting with clubs</i>
+
+179
+00:21:26,369 --> 00:21:29,169
+<i>or with machine guns
+that fire 30 rounds a minute,</i>
+
+180
+00:21:29,600 --> 00:21:31,671
+<i>these men will put themselves</i>
+
+181
+00:21:31,842 --> 00:21:34,606
+<i>in the most advantageous conditions
+for fighting,</i>
+
+182
+00:21:34,778 --> 00:21:36,830
+<i>and they will triumph.</i>
+
+183
+00:21:49,292 --> 00:21:51,351
+Light this up! Come on!
+
+184
+00:21:53,262 --> 00:21:55,230
+What are we going to do now?
+
+185
+00:21:55,398 --> 00:21:56,626
+Take the barracks.
+
+186
+00:21:56,999 --> 00:21:58,694
+Come on!
+
+187
+00:22:01,070 --> 00:22:03,368
+Take this, motherfuckers!
+
+188
+00:22:05,720 --> 00:22:10,300
+<i>From then on, Batista began to
+close his Sierra Maestra barracks,</i>
+
+189
+00:22:10,700 --> 00:22:13,000
+<i>and Fidel was right.</i>
+
+190
+00:22:13,100 --> 00:22:15,700
+<i>It was exactly as José Marti said:</i>
+
+191
+00:22:15,900 --> 00:22:19,150
+<i>"Whoever takes the Sierra Maestra
+takes Cuba."</i>
+
+192
+00:22:29,365 --> 00:22:31,993
+On our side, six
+comrades are dead and 17 are wounded.
+
+193
+00:22:32,201 --> 00:22:34,192
+Of the 17, six can't walk.
+
+194
+00:22:36,005 --> 00:22:37,029
+How is Almeida?
+
+195
+00:22:37,206 --> 00:22:39,401
+He's fine. He's being treated.
+
+196
+00:22:40,609 --> 00:22:43,203
+Get the prisoners.
+They're coming with us.
+
+197
+00:22:45,448 --> 00:22:46,847
+excuse me, doctor.
+
+198
+00:22:47,016 --> 00:22:49,314
+I have no experience
+in this kind of situation.
+
+199
+00:22:49,485 --> 00:22:52,977
+There's a man over there
+who is choking.
+
+200
+00:22:54,690 --> 00:22:58,023
+Okay, guys, we gotta
+get out of here. Come on, they're coming.
+
+201
+00:22:58,194 --> 00:22:59,491
+Let's go, guys.
+
+202
+00:22:59,662 --> 00:23:01,129
+Leave that.
+
+203
+00:23:03,132 --> 00:23:04,793
+You're okay. Help him.
+
+204
+00:23:08,003 --> 00:23:10,471
+Che, we have to leave right now.
+
+205
+00:23:10,740 --> 00:23:13,504
+Hey, shithead. Leave that.
+
+206
+00:23:13,676 --> 00:23:16,270
+We have to go! Come on!
+
+207
+00:23:19,615 --> 00:23:22,083
+Israel Pardo's farm is not far.
+
+208
+00:23:22,251 --> 00:23:25,687
+- Ernesto can take the wounded there.
+- No.
+
+209
+00:23:26,322 --> 00:23:28,381
+When they recover,
+
+210
+00:23:28,557 --> 00:23:30,991
+we can meet up with you later.
+
+211
+00:23:31,160 --> 00:23:33,287
+That could be very dangerous.
+
+212
+00:23:33,462 --> 00:23:36,022
+They're going to flood
+this area with troops now.
+
+213
+00:23:36,198 --> 00:23:38,962
+Fidel. We don't have a choice.
+
+214
+00:23:41,904 --> 00:23:43,667
+Let's think about it.
+
+215
+00:23:49,779 --> 00:23:52,771
+Anyway, give him the best weapons.
+
+216
+00:23:53,716 --> 00:23:57,516
+<i>So Fidel is off
+attacking towns to the west.</i>
+
+217
+00:23:57,686 --> 00:24:00,780
+<i>Was it frustrating to you
+as a revolutionary,</i>
+
+218
+00:24:00,956 --> 00:24:03,447
+<i>nursing 20 wounded men,
+trying to get them inland?</i>
+
+219
+00:24:03,750 --> 00:24:07,000
+<i>A real revolutionary goes
+where he is needed.</i>
+
+220
+00:24:07,150 --> 00:24:09,228
+<i>It may not be direct combat.</i>
+
+221
+00:24:09,400 --> 00:24:13,300
+<i>Sometimes it's about
+doing other tasks:</i>
+
+222
+00:24:13,550 --> 00:24:18,901
+<i>finding food, dressing wounds,
+carrying comrades for miles</i>
+
+223
+00:24:19,000 --> 00:24:22,339
+<i>and then taking care of them
+until they can take care of themselves.</i>
+
+224
+00:24:22,511 --> 00:24:24,200
+<i>This is what it means.</i>
+
+225
+00:24:24,300 --> 00:24:25,947
+<i>Was it during this period</i>
+
+226
+00:24:26,115 --> 00:24:28,879
+<i>that you discovered
+what you were fighting for?</i>
+
+227
+00:24:29,000 --> 00:24:32,100
+<i>I always knew why I was fighting,</i>
+
+228
+00:24:32,200 --> 00:24:36,000
+<i>but I can tell you that it was
+during the March of the Wounded</i>
+
+229
+00:24:36,200 --> 00:24:41,960
+<i>in June of 1957
+that I became the fighter I am today.</i>
+
+230
+00:24:42,131 --> 00:24:45,328
+<i>And once that happens,
+it leaves you only one path.</i>
+
+231
+00:24:45,501 --> 00:24:48,698
+<i>Then it seems you can never stop
+being a revolutionary.</i>
+
+232
+00:24:49,000 --> 00:24:51,905
+<i>I do not have any plans to retire.</i>
+
+233
+00:24:55,244 --> 00:24:57,041
+It's infected.
+
+234
+00:24:58,280 --> 00:25:00,475
+We'll have to leave it uncovered.
+
+235
+00:25:02,785 --> 00:25:05,083
+I have to walk with my ass naked?
+
+236
+00:25:05,254 --> 00:25:06,744
+Fuck!
+
+237
+00:25:42,291 --> 00:25:44,555
+Vilo smells something.
+
+238
+00:25:52,968 --> 00:25:55,994
+Let's pick some guavas
+before going back.
+
+239
+00:25:56,171 --> 00:25:58,230
+Stop there, buddy.
+
+240
+00:26:00,242 --> 00:26:02,142
+What are you two doing here?
+
+241
+00:26:02,811 --> 00:26:05,143
+We're from here.
+What's your name?
+
+242
+00:26:05,314 --> 00:26:07,305
+Israel.
+Israel what?
+
+243
+00:26:07,483 --> 00:26:08,677
+Israel Pardo.
+
+244
+00:26:09,251 --> 00:26:13,654
+- What's his name?
+- He's my brother, Guile.
+
+245
+00:26:15,858 --> 00:26:18,986
+- Ernesto Guevara.
+- Did we scare you?
+
+246
+00:26:19,161 --> 00:26:20,287
+Guile.
+
+247
+00:26:30,239 --> 00:26:32,764
+Good, man, good.
+
+248
+00:26:34,510 --> 00:26:36,808
+We have to take him to a hospital.
+
+249
+00:26:37,680 --> 00:26:39,011
+Give me a swig.
+
+250
+00:26:54,530 --> 00:26:57,260
+Can we trust anyone
+to take him out of here?
+
+251
+00:26:58,701 --> 00:27:00,032
+Difficult.
+
+252
+00:27:01,170 --> 00:27:05,038
+Soldiers tell people that the rebels
+kill them and steal their food.
+
+253
+00:27:09,211 --> 00:27:10,701
+<i>My mother is from here</i>
+
+254
+00:27:10,879 --> 00:27:12,073
+<i>and my father came from Haiti.</i>
+
+255
+00:27:12,247 --> 00:27:14,545
+<i>When he met my mother,</i>
+
+256
+00:27:14,717 --> 00:27:18,676
+<i>we moved to a farm that belonged
+to Juanito Echevarria.</i>
+
+257
+00:27:18,854 --> 00:27:22,483
+He gave us a piece
+of land to grow coffee.
+
+258
+00:27:22,658 --> 00:27:26,150
+But we had to clear it
+and plant the seeds.
+
+259
+00:27:26,328 --> 00:27:32,130
+And we had to give him
+a third of our crop.
+
+260
+00:27:32,334 --> 00:27:37,704
+And one day Juanito
+decided to kick us out.
+
+261
+00:27:38,440 --> 00:27:41,238
+When my father knew he had to leave,
+
+262
+00:27:41,410 --> 00:27:46,541
+he stood in front
+of Juanito Echevarria and said,
+
+263
+00:27:46,915 --> 00:27:49,907
+"I'll leave if you want,
+but you have to pay.
+
+264
+00:27:50,085 --> 00:27:55,284
+You have to pay me
+for the four years that I worked here."
+
+265
+00:27:56,859 --> 00:28:00,590
+Do you know what Juanito Echevarría
+paid us for four years of work?
+
+266
+00:28:01,630 --> 00:28:03,461
+One hundred pesos.
+
+267
+00:28:03,632 --> 00:28:06,829
+My old man got 100 pesos
+for four years.
+
+268
+00:28:16,378 --> 00:28:17,640
+Be careful.
+
+269
+00:28:23,185 --> 00:28:24,482
+Okay.
+
+270
+00:28:26,055 --> 00:28:28,250
+This is the bullet
+I removed from your body.
+
+271
+00:28:29,258 --> 00:28:30,782
+You're a champ.
+
+272
+00:28:30,959 --> 00:28:32,483
+- I'm going to get better now.
+- Yes.
+
+273
+00:28:44,139 --> 00:28:46,539
+Let's go.
+Keep them back, back.
+
+274
+00:28:46,709 --> 00:28:47,903
+Keep them back.
+
+275
+00:28:48,077 --> 00:28:51,342
+They have missiles aimed
+at the United States.
+
+276
+00:28:59,021 --> 00:29:01,353
+Good morning. Would
+the commander like some makeup?
+
+277
+00:29:05,127 --> 00:29:06,151
+- No.
+- No, thank you.
+
+278
+00:29:06,328 --> 00:29:08,455
+You sure? All right.
+
+279
+00:29:14,303 --> 00:29:16,294
+Maybe a little powder.
+
+280
+00:29:17,172 --> 00:29:19,106
+Excuse me? Excuse me.
+
+281
+00:29:19,274 --> 00:29:22,141
+- Maybe a little powder?
+- All right.
+
+282
+00:29:22,311 --> 00:29:26,975
+Two hundred million
+Latin Americans that die of hunger.
+
+283
+00:29:27,649 --> 00:29:33,053
+All these people
+contribute to the economic greatness
+
+284
+00:29:33,222 --> 00:29:35,156
+of the United States.
+
+285
+00:29:36,058 --> 00:29:37,821
+Revolutions are not exportable.
+
+286
+00:29:42,097 --> 00:29:44,622
+<i>Revolutions are created</i>
+
+287
+00:29:44,800 --> 00:29:46,529
+<i>by the oppressive conditions</i>
+
+288
+00:29:46,702 --> 00:29:48,829
+<i>that are imposed by
+the Latin American governments</i>
+
+289
+00:29:49,004 --> 00:29:50,733
+<i>against its people.</i>
+
+290
+00:29:51,473 --> 00:29:52,997
+Cut.
+
+291
+00:29:54,510 --> 00:29:55,943
+Well done. Good job.
+
+292
+00:29:56,111 --> 00:29:59,046
+Listen, I'd like to ask you
+a few more questions off the record.
+
+293
+00:29:59,214 --> 00:30:00,738
+- Should we do that?
+- Yeah.
+
+294
+00:30:00,916 --> 00:30:05,410
+If I don't work, I don't eat.
+And you are on welfare.
+
+295
+00:30:05,888 --> 00:30:08,083
+Go back to work in Cuba.
+
+296
+00:30:09,291 --> 00:30:10,622
+The people of the Third World
+
+297
+00:30:10,793 --> 00:30:12,784
+must be able to fight
+for their own freedom,
+
+298
+00:30:12,961 --> 00:30:15,589
+even if this means defying
+the wishes of the Soviet bloc?
+
+299
+00:30:27,509 --> 00:30:29,340
+Cuba doesn't align herself with blocs,
+
+300
+00:30:29,511 --> 00:30:30,773
+she aligns herself with justice.
+
+301
+00:30:30,946 --> 00:30:33,278
+The United States wants us
+to pay a very high price
+
+302
+00:30:33,448 --> 00:30:36,440
+for the not-so-peaceful coexistence
+that we live in today.
+
+303
+00:30:43,559 --> 00:30:45,789
+And we're willing to pay the price
+
+304
+00:30:45,961 --> 00:30:48,020
+that takes us to the frontiers of dignity,
+
+305
+00:30:48,197 --> 00:30:49,391
+not beyond.
+
+306
+00:30:50,032 --> 00:30:55,732
+What's the point of the U.N.
+if our fate is determined by the OAS,
+
+307
+00:30:56,672 --> 00:31:02,406
+an organization that expelled us
+and to which we no longer have ties?
+
+308
+00:31:03,145 --> 00:31:05,705
+excuse me, Comandante.
+
+309
+00:31:05,881 --> 00:31:08,281
+Will you need me tonight?
+
+310
+00:31:10,185 --> 00:31:17,023
+Little boy, no one is so necessary
+or indispensable in this life.
+
+311
+00:31:17,926 --> 00:31:20,690
+Don't go thinking
+that you are indispensable.
+
+312
+00:31:22,331 --> 00:31:23,696
+Go, do what you need to do.
+
+313
+00:31:37,379 --> 00:31:39,643
+I am going to give you
+a little checkup...
+
+314
+00:31:39,815 --> 00:31:42,875
+...beginning with your ears.
+Is that okay?
+
+315
+00:31:47,589 --> 00:31:48,954
+Ah...
+
+316
+00:31:52,327 --> 00:31:55,694
+Too much work and not enough to eat.
+
+317
+00:31:56,565 --> 00:32:01,002
+Maria, try to eat meat
+whenever you can.
+
+318
+00:32:01,336 --> 00:32:03,236
+- All right?
+- Thanks, doctor.
+
+319
+00:32:03,405 --> 00:32:06,340
+- Let's go, Laura.
+- Goodbye.
+
+320
+00:32:06,508 --> 00:32:10,308
+Mommy, that guy's a liar.
+He says the same thing to everyone.
+
+321
+00:32:11,613 --> 00:32:15,572
+- Where does it hurt?
+- Nothing really hurts.
+
+322
+00:32:15,751 --> 00:32:19,710
+I just came to see you because
+I've never seen a doctor before.
+
+323
+00:32:21,623 --> 00:32:25,059
+Well, you've seen one now.
+I'm here for you.
+
+324
+00:32:29,431 --> 00:32:31,126
+excuse me.
+
+325
+00:32:32,067 --> 00:32:34,433
+Can I have your canteen,
+so I can fill it?
+
+326
+00:32:36,004 --> 00:32:37,369
+Thank you, Guile.
+
+327
+00:32:40,575 --> 00:32:42,941
+Listen, doctor.
+
+328
+00:32:43,111 --> 00:32:45,443
+I want to go with you all.
+
+329
+00:32:47,049 --> 00:32:49,483
+First you have to learn
+to read and write, man.
+
+330
+00:32:49,651 --> 00:32:51,346
+I can learn.
+
+331
+00:32:51,920 --> 00:32:53,353
+Very good, Guile.
+
+332
+00:32:53,522 --> 00:32:56,889
+But I still can't take you
+because I don't have a gun to give you.
+
+333
+00:32:57,059 --> 00:32:58,959
+But I don't care, I want to help.
+
+334
+00:33:00,162 --> 00:33:02,187
+We need your help here.
+
+335
+00:33:03,332 --> 00:33:05,425
+- Good morning.
+- Good morning.
+
+336
+00:33:07,035 --> 00:33:09,162
+- Where do you come from?
+- From Bayamo.
+
+337
+00:33:09,404 --> 00:33:10,837
+All of you?
+
+338
+00:33:12,808 --> 00:33:15,003
+If you are armed, you can stay.
+
+339
+00:33:15,177 --> 00:33:17,702
+If you're not,
+you have to leave right now.
+
+340
+00:33:18,113 --> 00:33:20,547
+Esteban, come here.
+
+341
+00:33:24,586 --> 00:33:28,317
+Man, didn't I tell you to only
+bring men with weapons?
+
+342
+00:33:31,159 --> 00:33:34,560
+If we're attacked, how the hell
+are they going to defend themselves?
+
+343
+00:33:36,798 --> 00:33:38,663
+Have you been drinking?
+
+344
+00:33:39,701 --> 00:33:41,293
+No.
+
+345
+00:33:46,074 --> 00:33:48,065
+Where did you get that from?
+
+346
+00:33:49,644 --> 00:33:51,441
+I found it.
+
+347
+00:34:02,791 --> 00:34:04,315
+Hey.
+
+348
+00:34:04,726 --> 00:34:07,854
+Listen, what's your name?
+
+349
+00:34:09,097 --> 00:34:10,394
+Cuervo.
+
+350
+00:34:10,565 --> 00:34:11,930
+Cuervo?
+
+351
+00:34:12,100 --> 00:34:14,068
+How old are you?
+
+352
+00:34:17,005 --> 00:34:18,438
+Twenty.
+
+353
+00:34:19,608 --> 00:34:22,076
+They gave you a tremendous shotgun.
+
+354
+00:34:23,979 --> 00:34:26,038
+They must like you.
+
+355
+00:34:27,215 --> 00:34:30,207
+If they liked me
+they'd let me keep my rifle
+
+356
+00:34:30,385 --> 00:34:32,478
+and not this stupid shotgun.
+
+357
+00:34:32,654 --> 00:34:34,986
+They would have made me
+leader of a column,
+
+358
+00:34:35,157 --> 00:34:39,093
+and we would be fighting by now
+instead of crossing these mountains.
+
+359
+00:35:06,154 --> 00:35:08,213
+With your permission, doctor.
+
+360
+00:35:08,390 --> 00:35:13,054
+We were standing guard last night
+but our relief never came.
+
+361
+00:35:13,228 --> 00:35:17,631
+- We stayed until 6 in the morning.
+- We never found out where they were.
+
+362
+00:35:17,799 --> 00:35:22,133
+We try to follow the rules,
+but it's not easy.
+
+363
+00:35:24,673 --> 00:35:26,368
+Hey, Joel!
+
+364
+00:35:28,176 --> 00:35:30,610
+Didn't you organize
+the watch last night?
+
+365
+00:35:31,413 --> 00:35:33,244
+Yes, sir. Why?
+
+366
+00:35:33,415 --> 00:35:37,715
+Omar and Carlos were on watch
+for four hours and relief never showed.
+
+367
+00:35:37,886 --> 00:35:39,615
+Those guys are stupid shitheads.
+
+368
+00:35:39,788 --> 00:35:43,224
+No, you're the only shithead here.
+
+369
+00:35:43,391 --> 00:35:45,086
+Me? Why?
+
+370
+00:35:45,260 --> 00:35:50,254
+Ernesto, they should've found out
+where their relief was sleeping.
+
+371
+00:35:50,432 --> 00:35:54,562
+- That's not my fault.
+- What the fuck were you thinking?
+
+372
+00:35:55,070 --> 00:35:57,937
+That was your responsibility.
+
+373
+00:36:00,642 --> 00:36:05,011
+You organized the watch!
+You had to guarantee the shift relief!
+
+374
+00:36:06,014 --> 00:36:08,380
+- Fuck!
+- Yes, sir.
+
+375
+00:36:13,755 --> 00:36:16,849
+Tonight you'll stand watch
+for four hours.
+
+376
+00:36:20,662 --> 00:36:22,220
+Stay focused!
+
+377
+00:36:27,869 --> 00:36:29,530
+It's ready, Che.
+
+378
+00:36:32,274 --> 00:36:36,074
+Esteban left to meet Cuervo
+at the sentry post.
+
+379
+00:36:36,545 --> 00:36:39,878
+- When did he leave?
+- Half an hour ago.
+
+380
+00:36:41,283 --> 00:36:43,979
+Those bastards are gone!
+
+381
+00:36:47,622 --> 00:36:50,090
+Bandera, come here.
+
+382
+00:36:50,258 --> 00:36:53,250
+Esteban and Cuervo took off.
+We have to find both of them.
+
+383
+00:37:08,810 --> 00:37:11,301
+We're from Fidel's group.
+
+384
+00:37:11,479 --> 00:37:14,107
+We're looking for food and money.
+
+385
+00:37:14,816 --> 00:37:18,115
+You can put the money in this bag.
+
+386
+00:37:20,055 --> 00:37:24,355
+The Comandante here
+wants to talk to your daughter.
+
+387
+00:37:45,814 --> 00:37:47,805
+We searched all over,
+
+388
+00:37:48,950 --> 00:37:50,383
+but nothing.
+
+389
+00:37:51,119 --> 00:37:52,916
+All right.
+
+390
+00:38:04,367 --> 00:38:07,636
+<i>Well, it is impossible
+to defeat imperialism</i>
+
+391
+00:38:07,671 --> 00:38:11,800
+<i>without identifying its head:
+the United States of America.</i>
+
+392
+00:38:11,900 --> 00:38:17,600
+<i>In a capitalist system,
+most people live in an invisible cage.</i>
+
+393
+00:38:17,700 --> 00:38:22,690
+<i>For example, there you accept
+the myth of the self-made man,</i>
+
+394
+00:38:22,800 --> 00:38:26,500
+<i>but don't understand that
+the opportunities of most people</i>
+
+395
+00:38:26,600 --> 00:38:30,500
+<i>are determined by forces
+they do not even see.</i>
+
+396
+00:39:17,305 --> 00:39:19,170
+This is ugly.
+
+397
+00:39:21,509 --> 00:39:25,570
+I want the vanguard a hundred meters
+ahead of us at all times.
+
+398
+00:39:32,921 --> 00:39:34,582
+We should bury them.
+
+399
+00:39:34,756 --> 00:39:38,852
+Because yours is the kingdom,
+the power and glory forever and ever.
+
+400
+00:39:39,227 --> 00:39:40,524
+Amen.
+
+401
+00:39:42,931 --> 00:39:43,955
+Che.
+
+402
+00:39:44,132 --> 00:39:47,829
+Locals say there's a terrible battle
+in the Estrada Palma military base.
+
+403
+00:39:48,002 --> 00:39:52,336
+They say Raúl is wounded,
+and that the army is coming toward us.
+
+404
+00:39:53,074 --> 00:39:56,373
+Forget about it. We're surrounded.
+
+405
+00:39:57,445 --> 00:39:59,913
+The only way out of here
+
+406
+00:40:00,081 --> 00:40:02,072
+is to cut through el Turquino.
+
+407
+00:40:03,718 --> 00:40:06,186
+I'm ready to take the mountain.
+
+408
+00:40:09,023 --> 00:40:13,517
+- Good to see you again.
+- Very, very eager to meet you.
+
+409
+00:40:13,695 --> 00:40:15,356
+I want you to talk to Chris.
+
+410
+00:40:15,530 --> 00:40:19,398
+He's this guy who's writing
+this fabulous book.
+
+411
+00:40:19,567 --> 00:40:21,501
+Are you hungry?
+Would you like...?
+
+412
+00:40:22,871 --> 00:40:25,465
+Yes, come on,
+let's get something.
+
+413
+00:40:25,640 --> 00:40:27,631
+I'll bring them back. Come on.
+
+414
+00:40:27,809 --> 00:40:31,745
+Major Guevara, I'd like to introduce you
+to Senator Eugene McCarthy.
+
+415
+00:40:35,483 --> 00:40:37,417
+A pleasure. Pleasure, major.
+
+416
+00:40:37,585 --> 00:40:39,951
+He would like to thank you
+
+417
+00:40:44,092 --> 00:40:45,525
+for the Bay of Pigs Invasion.
+
+418
+00:40:48,797 --> 00:40:50,731
+There was no better way
+
+419
+00:40:54,035 --> 00:40:57,937
+to give the people solidarity
+with its revolution
+
+420
+00:41:00,208 --> 00:41:01,607
+like a U.S.- backed invasion.
+
+421
+00:41:01,776 --> 00:41:04,210
+Some of our problems
+we owe to the United States.
+
+422
+00:41:06,347 --> 00:41:07,575
+Others are our own fault.
+
+423
+00:41:07,749 --> 00:41:11,310
+Comandante, has the U.S. embargo
+against Cuba
+
+424
+00:41:11,486 --> 00:41:13,113
+succeeded in isolating it
+
+425
+00:41:13,288 --> 00:41:15,017
+from the rest of Latin America?
+
+426
+00:41:15,190 --> 00:41:17,920
+If Cuba is ever to be completely free,
+
+427
+00:41:21,129 --> 00:41:24,155
+it has to be important not only
+for sugar, for its sugar.
+
+428
+00:41:24,332 --> 00:41:27,699
+Sir, would the Comandante object
+to giving me his autograph?
+
+429
+00:41:27,869 --> 00:41:29,700
+Good night.
+
+430
+00:41:39,280 --> 00:41:41,714
+That was a good party.
+
+431
+00:42:23,892 --> 00:42:25,416
+Vilo.
+
+432
+00:42:33,868 --> 00:42:36,632
+- He says he wants to talk to you.
+- I'm sorry.
+
+433
+00:42:36,804 --> 00:42:42,436
+The problem is that one of your men
+who says he is Lalo Sardiñas
+
+434
+00:42:42,610 --> 00:42:45,340
+is down there with a group of rebels,
+
+435
+00:42:46,481 --> 00:42:48,745
+and if a patrol arrives
+
+436
+00:42:48,917 --> 00:42:53,115
+they're going to burn my shack
+and kill my family.
+
+437
+00:42:53,555 --> 00:42:57,355
+And that can't happen! No way!
+
+438
+00:42:58,860 --> 00:43:02,887
+Pleased to meet you.
+My name is Ernesto Guevara.
+
+439
+00:43:03,064 --> 00:43:06,830
+- What's your name?
+- Emilio Cabrera.
+
+440
+00:43:07,001 --> 00:43:11,563
+Emilio, don't worry.
+No one is going to touch anything.
+
+441
+00:43:13,408 --> 00:43:19,108
+Vilo, tell people to get ready,
+they're about to meet Fidel Castro.
+
+442
+00:43:22,584 --> 00:43:24,347
+No, now listen to me.
+
+443
+00:43:24,519 --> 00:43:29,047
+Raúl wasn't really wounded.
+We were the ones surrounding the army.
+
+444
+00:43:29,223 --> 00:43:30,986
+And those bastards escaped.
+
+445
+00:43:31,159 --> 00:43:32,353
+Boy!
+
+446
+00:43:32,860 --> 00:43:34,987
+Come on, motherfucker.
+Give me a hug.
+
+447
+00:43:35,697 --> 00:43:37,358
+How are you?
+
+448
+00:43:38,199 --> 00:43:39,393
+Here.
+
+449
+00:43:42,303 --> 00:43:46,262
+- Where did you get those peasants?
+- Those are my troops, man.
+
+450
+00:43:46,441 --> 00:43:48,534
+They're working out all right.
+
+451
+00:43:48,710 --> 00:43:51,338
+I don't speak out loud
+because they'll get big heads.
+
+452
+00:43:54,482 --> 00:43:56,109
+We've missed you.
+
+453
+00:44:02,323 --> 00:44:03,620
+Some coffee?
+
+454
+00:44:07,762 --> 00:44:09,229
+Hey, Joel.
+
+455
+00:44:09,397 --> 00:44:12,127
+Fidel asked me
+why I hadn't made you lieutenant.
+
+456
+00:44:13,468 --> 00:44:16,460
+I told him because you didn't know
+how to read or write.
+
+457
+00:44:17,772 --> 00:44:21,264
+Well, I want to learn.
+
+458
+00:44:21,442 --> 00:44:25,139
+But I need someone to teach me.
+
+459
+00:44:25,313 --> 00:44:28,248
+Then get a pencil
+and a pair of notebooks
+
+460
+00:44:28,416 --> 00:44:30,281
+and put them in your backpack.
+
+461
+00:44:31,786 --> 00:44:33,151
+Look, Che.
+
+462
+00:44:33,321 --> 00:44:36,654
+This is the new recruit
+I wanted to introduce to you.
+
+463
+00:44:36,824 --> 00:44:38,519
+Dr. Martínez Páez.
+
+464
+00:44:38,693 --> 00:44:39,921
+- Doctor?
+- Doctor.
+
+465
+00:44:40,094 --> 00:44:41,527
+Pleased to meet you.
+
+466
+00:44:42,163 --> 00:44:43,858
+I have a present here.
+
+467
+00:44:47,235 --> 00:44:49,032
+From now on,
+
+468
+00:44:50,538 --> 00:44:53,507
+I stop being the medic
+to become a guerrilla.
+
+469
+00:44:53,675 --> 00:44:56,701
+- What, are you giving up your job?
+- Yes, sir.
+
+470
+00:45:00,615 --> 00:45:04,051
+- Who are they?
+- Chibás and Pazos.
+
+471
+00:45:05,186 --> 00:45:06,949
+They're signing an agreement.
+
+472
+00:45:09,257 --> 00:45:10,884
+What agreement?
+
+473
+00:45:12,960 --> 00:45:14,757
+A political alliance.
+
+474
+00:45:17,632 --> 00:45:20,260
+<i>During the early
+stages of the revolution,</i>
+
+475
+00:45:20,435 --> 00:45:23,768
+<i>wasn't there a conflict between Fidel
+and the urban movement?</i>
+
+476
+00:45:24,009 --> 00:45:27,364
+<i>I would say the only conflict we've had</i>
+
+477
+00:45:27,542 --> 00:45:30,773
+<i>- was with Fulgencio Batista.
+- Are you saying</i>
+
+478
+00:45:30,945 --> 00:45:33,937
+<i>you had no conflict
+with the urban movement?</i>
+
+479
+00:45:34,022 --> 00:45:36,214
+<i>We differed in our tactics.</i>
+
+480
+00:45:36,385 --> 00:45:39,900
+<i>They wanted to oust Batista
+with a general strike,</i>
+
+481
+00:45:40,000 --> 00:45:43,600
+<i>and we wanted to overthrow him
+with an armed struggle.</i>
+
+482
+00:45:43,700 --> 00:45:46,800
+<i>And as you can see, our method
+proved to be the most effective</i>
+
+483
+00:45:46,970 --> 00:45:48,650
+<i>for removing Batista.</i>
+
+484
+00:45:49,363 --> 00:45:51,297
+All right, gentlemen.
+
+485
+00:45:51,466 --> 00:45:58,463
+The provisional government, first, will free
+all political prisoners, civilian and military.
+
+486
+00:45:58,740 --> 00:46:04,406
+Second, it will guarantee freedom
+of information for the radio and press,
+
+487
+00:46:04,579 --> 00:46:10,381
+and individual and political rights
+established in the 1940 Constitution.
+
+488
+00:46:10,551 --> 00:46:14,419
+The provisional government will also
+establish terms for the Agrarian Reform
+
+489
+00:46:14,589 --> 00:46:17,456
+leading to the distribution
+of public lands.
+
+490
+00:46:19,026 --> 00:46:20,425
+Have a good trip.
+
+491
+00:46:25,533 --> 00:46:27,091
+Excuse me, Fidel.
+
+492
+00:46:27,268 --> 00:46:30,431
+I can't understand how you can
+meet with those clowns,
+
+493
+00:46:30,605 --> 00:46:33,768
+and much less, how you can
+make an agreement with them.
+
+494
+00:46:33,941 --> 00:46:36,876
+They're fighting against
+the same enemy we are.
+
+495
+00:46:38,479 --> 00:46:43,439
+No, you're fighting,
+they're negotiating.
+
+496
+00:46:43,618 --> 00:46:46,212
+They have lots of followers, Ernesto.
+
+497
+00:46:46,387 --> 00:46:49,185
+People I can't afford to turn away.
+
+498
+00:46:49,357 --> 00:46:51,120
+Let's see how it goes.
+
+499
+00:46:52,393 --> 00:46:55,157
+But I'm sure that if we win the war,
+
+500
+00:46:55,363 --> 00:46:57,729
+those guys will
+hand the keys over to the U.S.
+
+501
+00:46:57,965 --> 00:47:03,835
+Listen, when this war is won,
+no one's handing any keys to anybody.
+
+502
+00:47:04,005 --> 00:47:05,768
+I'll guarantee you that.
+
+503
+00:47:08,676 --> 00:47:11,509
+Come here, I need you
+to sign something for me.
+
+504
+00:47:12,413 --> 00:47:14,904
+It's a letter of condolence
+for Frank Pais.
+
+505
+00:47:16,651 --> 00:47:18,812
+They killed his brother in Santiago.
+
+506
+00:47:19,754 --> 00:47:21,483
+They killed his brother?
+
+507
+00:47:24,625 --> 00:47:26,456
+Sign as "Comandante."
+
+508
+00:47:27,962 --> 00:47:29,691
+Sign as "Comandante."
+
+509
+00:47:32,934 --> 00:47:36,267
+I'm forming a new column
+on the eastern side of Mount Turquino.
+
+510
+00:47:36,437 --> 00:47:38,667
+You'll have three captains:
+
+511
+00:47:38,840 --> 00:47:39,864
+<i>Lalo Sardiñas,</i>
+
+512
+00:47:40,041 --> 00:47:41,531
+<i>Ramiro Valdés</i>
+
+513
+00:47:41,709 --> 00:47:43,108
+<i>and Ciro Redondo.</i>
+
+514
+00:47:43,444 --> 00:47:47,005
+You have to wear out
+Mosquera's troops,
+
+515
+00:47:47,181 --> 00:47:50,617
+harass them constantly.
+Don't let up on them.
+
+516
+00:47:50,785 --> 00:47:53,117
+Don't even let them breathe!
+
+517
+00:47:53,287 --> 00:47:54,982
+You cannot give them a break.
+
+518
+00:47:57,425 --> 00:47:59,723
+I want you to establish a base
+at el Hombrito.
+
+519
+00:47:59,961 --> 00:48:01,223
+Got it?
+
+520
+00:48:04,198 --> 00:48:08,134
+No one can leave a wounded comrade
+on the battlefield.
+
+521
+00:48:08,302 --> 00:48:09,769
+Right?
+
+522
+00:48:09,937 --> 00:48:14,704
+If any of you leave weapons behind
+during battle or anywhere else,
+
+523
+00:48:14,976 --> 00:48:17,035
+you'll have to go back for it, alone.
+
+524
+00:48:17,812 --> 00:48:21,543
+And if anyone falls asleep on guard duty,
+he won't eat for three days.
+
+525
+00:48:22,583 --> 00:48:24,141
+Is that clear?
+
+526
+00:48:25,753 --> 00:48:27,414
+Thank you, Ciro.
+
+527
+00:48:27,588 --> 00:48:30,489
+I want to say something else
+
+528
+00:48:31,959 --> 00:48:34,587
+to make myself clear.
+
+529
+00:48:36,230 --> 00:48:40,189
+We respect the peasants,
+
+530
+00:48:40,768 --> 00:48:43,931
+so no one is allowed
+to touch their harvest
+
+531
+00:48:44,105 --> 00:48:47,541
+or mess with them
+
+532
+00:48:47,742 --> 00:48:49,607
+or their families.
+
+533
+00:48:50,778 --> 00:48:52,473
+If anyone does,
+
+534
+00:48:53,414 --> 00:48:56,577
+he will be punished to the full extent
+of the revolutionary code.
+
+535
+00:49:03,758 --> 00:49:05,225
+Luis!
+
+536
+00:49:06,193 --> 00:49:07,421
+Come here.
+
+537
+00:49:08,796 --> 00:49:12,254
+Here you go.
+Take care of it like it's your girlfriend.
+
+538
+00:49:12,433 --> 00:49:14,367
+Thank you, Comandante.
+
+539
+00:49:34,956 --> 00:49:37,015
+Do you need help, Comandante?
+
+540
+00:49:37,458 --> 00:49:38,755
+No.
+
+541
+00:50:02,316 --> 00:50:04,807
+- Gustavo.
+- Yes, Comandante.
+
+542
+00:50:04,986 --> 00:50:08,319
+Take your math notebook out
+and do some work.
+
+543
+00:50:08,489 --> 00:50:10,320
+I'm exhausted, Comandante.
+
+544
+00:50:14,662 --> 00:50:15,959
+Okay.
+
+545
+00:50:27,608 --> 00:50:32,200
+<i>What is the most important quality
+for a revolutionary to possess?</i>
+
+546
+00:50:32,350 --> 00:50:34,000
+<i>Love.</i>
+
+547
+00:50:35,383 --> 00:50:36,475
+<i>Love?</i>
+
+548
+00:50:36,519 --> 00:50:40,146
+<i>Let me tell you something,
+at the risk of sounding ridiculous.</i>
+
+549
+00:50:40,222 --> 00:50:45,023
+<i>A true revolutionary is guided
+by great feelings of love:</i>
+
+550
+00:50:45,694 --> 00:50:50,256
+<i>love of humanity, of justice
+and truth.</i>
+
+551
+00:50:50,432 --> 00:50:53,890
+<i>It is impossible to conceive
+of an authentic revolutionary</i>
+
+552
+00:50:54,069 --> 00:50:55,936
+<i>without this one quality.</i>
+
+553
+00:51:30,004 --> 00:51:31,232
+Don't move, asshole!
+
+554
+00:51:31,439 --> 00:51:32,872
+- Please don't shoot!
+- Freeze!
+
+555
+00:51:33,040 --> 00:51:34,337
+I'm a doctor.
+
+556
+00:51:35,009 --> 00:51:37,500
+Che, they're shooting mortars!
+
+557
+00:51:38,412 --> 00:51:40,107
+How many men are in your troop?
+
+558
+00:51:40,281 --> 00:51:41,646
+One hundred forty.
+
+559
+00:51:43,551 --> 00:51:44,950
+Under whose command?
+
+560
+00:51:46,954 --> 00:51:48,421
+Merob Sosa.
+
+561
+00:51:49,256 --> 00:51:51,417
+- Mortars!
+- Let's go.
+
+562
+00:51:59,800 --> 00:52:01,392
+- Tell me.
+- Ramiro.
+
+563
+00:52:01,702 --> 00:52:05,695
+Go back and keep shooting
+until Lalo Sardiñas' squad has passed.
+
+564
+00:52:06,273 --> 00:52:09,538
+We'll do a second line of resistance
+
+565
+00:52:09,710 --> 00:52:13,237
+up there, on the hill,
+200 meters away.
+
+566
+00:52:14,548 --> 00:52:16,607
+- See you.
+- Let's go, gentlemen.
+
+567
+00:52:32,967 --> 00:52:34,400
+That's Gustavo!
+
+568
+00:52:34,568 --> 00:52:36,695
+No, Roberto! Roberto!
+
+569
+00:52:46,580 --> 00:52:48,300
+<i>Are you optimistic</i>
+
+570
+00:52:48,400 --> 00:52:53,615
+about the normalization of relations
+between Cuba and the United States?
+
+571
+00:52:53,750 --> 00:52:58,200
+<i>Friends, it would be very difficult,
+it would take many, many years.</i>
+
+572
+00:52:58,300 --> 00:53:00,800
+<i>By this, I mean
+with the U.S. government,</i>
+
+573
+00:53:00,900 --> 00:53:04,300
+<i>because we have nothing against
+the American people.</i>
+
+574
+00:53:04,450 --> 00:53:09,350
+<i>There is not even a trace of hatred
+in our country for the American people.</i>
+
+575
+00:53:09,670 --> 00:53:13,003
+Comandante, there's a page missing.
+
+576
+00:53:13,174 --> 00:53:16,507
+- How is this possible?
+- The fourteenth.
+
+577
+00:53:25,953 --> 00:53:27,818
+Here is the page. It's torn out.
+
+578
+00:53:29,823 --> 00:53:30,881
+Excuse me, Comandante.
+
+579
+00:53:32,526 --> 00:53:34,255
+There's a small problem.
+
+580
+00:53:35,629 --> 00:53:37,529
+Bomb threat at the U.N.
+
+581
+00:53:37,765 --> 00:53:38,789
+What did he say?
+
+582
+00:53:41,001 --> 00:53:43,265
+They called the station 30 minutes ago.
+
+583
+00:53:48,475 --> 00:53:52,309
+Hector, you go with Pedro and the
+Cuban delegation in the second car,
+
+584
+00:53:52,479 --> 00:53:53,741
+and I will go in the first car.
+
+585
+00:53:53,914 --> 00:53:55,506
+I think I should go with you.
+
+586
+00:53:55,716 --> 00:53:57,377
+I didn't ask your opinion.
+
+587
+00:54:00,354 --> 00:54:02,652
+Comandante, with all due respect,
+
+588
+00:54:02,823 --> 00:54:04,688
+I came here to protect you.
+
+589
+00:54:05,526 --> 00:54:08,689
+And I'd like you to give me
+that opportunity, at least.
+
+590
+00:54:08,862 --> 00:54:11,956
+- That way we'll die together if...
+- No one is going to die.
+
+591
+00:54:14,034 --> 00:54:15,934
+Traitor!
+
+592
+00:54:20,040 --> 00:54:22,736
+Go away! Traitor! Murderer!
+
+593
+00:54:29,717 --> 00:54:32,584
+Not only did you desert
+with your weapon
+
+594
+00:54:33,254 --> 00:54:36,348
+and terrorize the area,
+stealing from the poor
+
+595
+00:54:36,523 --> 00:54:38,514
+in the name of the revolution,
+
+596
+00:54:40,027 --> 00:54:41,722
+but also, because of your betrayal,
+
+597
+00:54:41,895 --> 00:54:46,332
+peasants were tortured
+and murdered by Batista's army.
+
+598
+00:54:48,269 --> 00:54:49,702
+Why, Esteban?
+
+599
+00:54:50,571 --> 00:54:52,835
+The punishment for treason is death.
+
+600
+00:54:57,778 --> 00:54:59,109
+And you
+
+601
+00:54:59,580 --> 00:55:04,017
+boasted of your authority
+as a messenger for the Rebel Army,
+
+602
+00:55:04,785 --> 00:55:08,346
+and passing yourself off
+as Comandante Almeida
+
+603
+00:55:10,090 --> 00:55:12,615
+you raped
+Juan Carlos Estévez's daughter,
+
+604
+00:55:15,562 --> 00:55:17,553
+a teenager,
+
+605
+00:55:18,766 --> 00:55:21,758
+and this also
+deserves the death penalty.
+
+606
+00:55:59,540 --> 00:56:01,337
+Bring him here.
+
+607
+00:56:05,979 --> 00:56:07,469
+Would you like a sip of rum?
+
+608
+00:56:09,350 --> 00:56:11,284
+Roberto, give him a swig.
+
+609
+00:56:22,930 --> 00:56:24,795
+Do you have a last wish?
+
+610
+00:56:26,133 --> 00:56:28,158
+Let me confess to Father Chávez.
+
+611
+00:56:29,470 --> 00:56:32,962
+We can't bring you the priest.
+He's far away, we have no time.
+
+612
+00:56:33,140 --> 00:56:35,574
+- Something else?
+- Then give me another swig.
+
+613
+00:56:37,745 --> 00:56:39,303
+Give him another.
+
+614
+00:56:48,655 --> 00:56:50,179
+Ready.
+
+615
+00:56:53,160 --> 00:56:54,184
+Aim.
+
+616
+00:56:54,361 --> 00:56:55,919
+Make sure everyone knows
+I asked for my last confession.
+
+617
+00:56:56,096 --> 00:56:57,461
+Fire!
+
+618
+00:57:09,343 --> 00:57:11,834
+Mr. President, fellow delegates.
+
+619
+00:57:12,012 --> 00:57:14,412
+The world has developed a great deal
+in this political arena,
+
+620
+00:57:14,581 --> 00:57:17,516
+but American imperialism, above all,
+
+621
+00:57:17,684 --> 00:57:20,482
+has led people to believe
+that peaceful coexistence
+
+622
+00:57:20,687 --> 00:57:25,021
+is the exclusive right
+of the world's most powerful nations.
+
+623
+00:57:25,192 --> 00:57:28,958
+Cuba, my fellow delegates,
+free and sovereign,
+
+624
+00:57:29,129 --> 00:57:31,563
+with no chains tying it to anyone,
+
+625
+00:57:31,732 --> 00:57:35,395
+without foreign investments
+in its territory,
+
+626
+00:57:35,569 --> 00:57:38,697
+free from occupant military bosses
+determining political status,
+
+627
+00:57:38,872 --> 00:57:42,103
+can stand tall at this assembly
+
+628
+00:57:42,276 --> 00:57:45,837
+<i>and demonstrate the correctness
+of the cry with which it was baptized.</i>
+
+629
+00:57:46,013 --> 00:57:48,709
+<i>Free territory of America!</i>
+
+630
+00:58:01,161 --> 00:58:06,656
+The United States intervenes in Latin
+America claiming they defend freedom.
+
+631
+00:58:07,768 --> 00:58:10,965
+One day this assembly
+will acquire enough maturity
+
+632
+00:58:11,438 --> 00:58:16,034
+to demand equal rights for blacks
+
+633
+00:58:16,276 --> 00:58:18,506
+and Latin Americans living
+in this country
+
+634
+00:58:18,679 --> 00:58:22,672
+as they awaken from the long, brutal sleep
+to which they've been subjected.
+
+635
+00:58:22,850 --> 00:58:26,013
+We need to say here
+
+636
+00:58:26,186 --> 00:58:28,552
+something that is a known truth.
+
+637
+00:58:29,756 --> 00:58:33,089
+And this is a truth we have always
+presented to the world.
+
+638
+00:58:33,627 --> 00:58:37,791
+Executions? Yes, we have executed.
+
+639
+00:58:37,965 --> 00:58:42,925
+We execute, and we'll continue
+to execute when it is necessary.
+
+640
+00:58:43,103 --> 00:58:46,436
+Our fight is a fight to death.
+
+641
+00:58:46,874 --> 00:58:50,435
+These are the conditions
+in which we live
+
+642
+00:58:50,611 --> 00:58:53,842
+because of the imposition
+of American imperialism.
+
+643
+00:58:58,185 --> 00:58:59,652
+Good morning.
+
+644
+00:59:04,591 --> 00:59:05,785
+How are you, doctor?
+
+645
+00:59:06,360 --> 00:59:08,021
+- Good.
+- And my brother?
+
+646
+00:59:08,195 --> 00:59:09,685
+Very good.
+
+647
+00:59:10,130 --> 00:59:14,829
+- What's your name?
+- He's Enrique, my brother.
+
+648
+00:59:15,035 --> 00:59:17,503
+We're from Remedios.
+
+649
+00:59:17,671 --> 00:59:20,606
+We worked
+for the 26th of July Movement.
+
+650
+00:59:21,708 --> 00:59:23,938
+My brother and I, with a group,
+
+651
+00:59:24,111 --> 00:59:27,137
+tried to burn down the stable
+at the town barracks,
+
+652
+00:59:27,314 --> 00:59:31,751
+but one of the soldiers
+identified my brother,
+
+653
+00:59:32,052 --> 00:59:34,987
+so we came here to find Fidel.
+
+654
+00:59:36,189 --> 00:59:39,181
+- What's your name?
+- Rogelio Acevedo.
+
+655
+00:59:39,359 --> 00:59:42,123
+- How old are you, Rogelio?
+- Sixteen.
+
+656
+00:59:43,263 --> 00:59:44,992
+- And you?
+- Fourteen.
+
+657
+00:59:46,333 --> 00:59:48,028
+Sixteen and 14.
+
+658
+00:59:49,002 --> 00:59:51,129
+I can't accept you, you're too young.
+
+659
+00:59:53,273 --> 00:59:56,709
+- What are you here for?
+- Same reasons as you.
+
+660
+00:59:56,944 --> 00:59:59,242
+Is that so? Very good.
+
+661
+01:00:00,180 --> 01:00:01,943
+Do you know how to read and write?
+
+662
+01:00:03,417 --> 01:00:04,816
+No.
+
+663
+01:00:07,788 --> 01:00:10,882
+Raise your hands, the ones
+who know how to read and write.
+
+664
+01:00:16,196 --> 01:00:18,357
+So you know how to read and write?
+
+665
+01:00:18,532 --> 01:00:21,797
+Yes, Comandante.
+I made it through 6th grade.
+
+666
+01:00:22,769 --> 01:00:27,468
+We are not here in the middle
+of the mountains just to fire guns.
+
+667
+01:00:28,475 --> 01:00:31,535
+A country that doesn't know
+how to read and write
+
+668
+01:00:31,712 --> 01:00:34,237
+is easy to deceive.
+
+669
+01:00:35,048 --> 01:00:37,778
+Since none of you have weapons,
+
+670
+01:00:38,986 --> 01:00:42,444
+I'm picking only eight of you.
+The rest will have to go.
+
+671
+01:00:42,623 --> 01:00:44,955
+This is no piece of cake,
+we're here to fight.
+
+672
+01:00:45,125 --> 01:00:49,391
+We won't eat for days.
+We'll sleep on the ground in the rain.
+
+673
+01:00:49,563 --> 01:00:51,997
+We're risking our lives here.
+
+674
+01:00:52,766 --> 01:00:54,063
+Is that clear?
+
+675
+01:00:54,267 --> 01:00:56,258
+- Yes.
+- Is that absolutely clear?
+
+676
+01:00:56,570 --> 01:00:58,060
+Sure?
+
+677
+01:00:58,238 --> 01:01:00,638
+Good. You will be a teacher.
+
+678
+01:01:00,807 --> 01:01:04,903
+And the rest will learn from her.
+You came here to fight and to learn.
+
+679
+01:01:05,078 --> 01:01:06,375
+Okay?
+
+680
+01:01:07,014 --> 01:01:08,675
+And you?
+
+681
+01:01:09,016 --> 01:01:11,450
+- Come on, boys, you gotta go.
+- No.
+
+682
+01:01:11,985 --> 01:01:13,384
+Fuck, no. You have to go.
+
+683
+01:01:13,553 --> 01:01:16,454
+If I have to go back to Remedios
+I'd rather shoot myself.
+
+684
+01:01:16,623 --> 01:01:18,420
+Me too.
+
+685
+01:01:19,259 --> 01:01:20,988
+My God.
+
+686
+01:01:21,995 --> 01:01:24,259
+- Are you listening?
+- Let's go, man.
+
+687
+01:01:24,431 --> 01:01:26,160
+Let's get moving.
+
+688
+01:01:28,035 --> 01:01:29,559
+Come on.
+
+689
+01:01:49,890 --> 01:01:51,619
+Wait, wait!
+
+690
+01:01:55,262 --> 01:01:56,627
+You can't do that, man.
+
+691
+01:01:56,863 --> 01:01:59,093
+Stand up!
+You're stopping the column!
+
+692
+01:01:59,299 --> 01:02:00,891
+- Hold my gun.
+- Let's go.
+
+693
+01:02:07,107 --> 01:02:09,575
+The next letter is...
+
+694
+01:02:10,510 --> 01:02:12,273
+No? Look.
+
+695
+01:02:12,445 --> 01:02:14,640
+Here. Yello...
+
+696
+01:02:15,515 --> 01:02:18,814
+Excuse me, Che.
+He says he needs to talk to you.
+
+697
+01:02:18,985 --> 01:02:20,043
+What's going on?
+
+698
+01:02:20,220 --> 01:02:24,247
+Comandante, Camilo calls me
+a bad word every time he sees me.
+
+699
+01:02:24,424 --> 01:02:27,291
+- What bad word?
+- Something rude I don't like.
+
+700
+01:02:27,460 --> 01:02:30,429
+Go and get Camilo.
+Like what?
+
+701
+01:02:30,597 --> 01:02:34,124
+I don't want to be a bother, but I'm a man
+who shouldn't be disrespected.
+
+702
+01:02:34,334 --> 01:02:36,268
+everyone is laughing
+and making fun of me.
+
+703
+01:02:36,503 --> 01:02:39,597
+I don't really understand
+what he's saying, but I don't like it.
+
+704
+01:02:39,773 --> 01:02:42,241
+What's going on, Comandante?
+
+705
+01:02:42,409 --> 01:02:43,842
+Albertico.
+
+706
+01:02:45,011 --> 01:02:46,638
+What's the story?
+
+707
+01:02:47,314 --> 01:02:50,340
+Okay, friend, now tell me
+what Camilo's been saying to you?
+
+708
+01:02:50,717 --> 01:02:54,016
+He calls me "vanilla piss."
+
+709
+01:02:55,989 --> 01:02:58,617
+Ventriloquist, man, ventriloquist.
+
+710
+01:02:58,792 --> 01:03:02,455
+- That's not a bad word.
+- But it sounds bad. I don't like it.
+
+711
+01:03:02,629 --> 01:03:05,621
+A ventriloquist is someone
+who talks without moving his mouth.
+
+712
+01:03:07,534 --> 01:03:10,059
+- Why are you calling me that?
+- Yes, Camilo, why?
+
+713
+01:03:10,237 --> 01:03:12,637
+Because he's a good messenger
+
+714
+01:03:12,806 --> 01:03:15,866
+and he's always popping up
+with information,
+
+715
+01:03:16,376 --> 01:03:20,574
+and he reminds me of a ventriloquist
+puppet that moves like this.
+
+716
+01:03:20,747 --> 01:03:22,408
+Albertico, it's not a bad word.
+
+717
+01:03:22,582 --> 01:03:25,142
+It's not an insult, man.
+I say it with affection.
+
+718
+01:03:25,385 --> 01:03:27,410
+- He's a very good messenger.
+- Really?
+
+719
+01:03:28,521 --> 01:03:31,422
+No, it's true. He's doing things
+really well. He's always there.
+
+720
+01:03:31,591 --> 01:03:32,819
+Yes, he is.
+
+721
+01:03:32,993 --> 01:03:34,460
+You wanna play ball, Che?
+
+722
+01:03:34,661 --> 01:03:39,257
+Today is a perfect day to abandon
+the guerrilla movement.
+
+723
+01:03:40,567 --> 01:03:44,697
+Another chance like this
+may not come along for weeks.
+
+724
+01:03:46,539 --> 01:03:47,904
+Let's see.
+
+725
+01:03:48,875 --> 01:03:51,969
+Anyone who'd like to leave
+this column, step forward.
+
+726
+01:04:05,058 --> 01:04:06,525
+Stand up there.
+
+727
+01:04:06,726 --> 01:04:10,025
+Come on,
+the quitters and the horses' asses!
+
+728
+01:04:13,767 --> 01:04:15,496
+Stay there.
+
+729
+01:04:19,306 --> 01:04:22,104
+I'm not leaving because I'm scared.
+I have a pain and...
+
+730
+01:04:22,275 --> 01:04:24,334
+You are a moron. Shut up.
+
+731
+01:04:24,511 --> 01:04:27,241
+- My mother is sick.
+- You are a moron!
+
+732
+01:04:30,283 --> 01:04:34,117
+You'll have to give back everything
+that belongs to the column.
+
+733
+01:04:34,287 --> 01:04:36,278
+You're a bunch of cowards.
+
+734
+01:04:36,556 --> 01:04:39,423
+You have 30 minutes
+to get out of here.
+
+735
+01:04:39,659 --> 01:04:46,121
+If we find you, you're deserters.
+Israel, Roberto, take them out.
+
+736
+01:04:48,034 --> 01:04:51,663
+Dickhead, aren't you leaving with them?
+
+737
+01:04:52,472 --> 01:04:53,962
+Another faggot.
+
+738
+01:04:56,843 --> 01:04:58,310
+Anyone else?
+
+739
+01:05:02,682 --> 01:05:04,946
+So did you grow balls?
+
+740
+01:05:06,619 --> 01:05:08,177
+We can still stand a little bit more.
+
+741
+01:05:10,490 --> 01:05:12,458
+You already behaved with dignity,
+
+742
+01:05:12,625 --> 01:05:17,028
+but you have no chance
+of adapting to this warfare.
+
+743
+01:05:18,064 --> 01:05:20,089
+Okay, I'll make an exception.
+
+744
+01:05:21,001 --> 01:05:25,165
+I'll let you take your things with you,
+I'll give you a guide
+
+745
+01:05:25,338 --> 01:05:27,829
+and 10 pesos to each of you.
+
+746
+01:05:28,341 --> 01:05:30,206
+Comandante.
+
+747
+01:05:31,177 --> 01:05:33,611
+I think you should
+forgive me in advance,
+
+748
+01:05:33,780 --> 01:05:36,442
+as I know you will not like
+what I'm going to say.
+
+749
+01:05:38,451 --> 01:05:42,820
+If we joined the troops,
+it wasn't to go back humiliated.
+
+750
+01:05:42,989 --> 01:05:46,015
+We prefer, and I speak for both,
+
+751
+01:05:46,192 --> 01:05:49,650
+to die on this mountain rather than
+return home as failures.
+
+752
+01:05:49,896 --> 01:05:53,423
+We'll make the maximum effort
+even if it costs our lives.
+
+753
+01:05:54,100 --> 01:05:56,159
+This is the last straw.
+
+754
+01:05:56,669 --> 01:06:00,867
+While the strong
+grow weaker and leave,
+
+755
+01:06:01,041 --> 01:06:03,737
+these snot-nosed kids
+get more courageous.
+
+756
+01:06:04,611 --> 01:06:06,408
+Is there any logic here?
+
+757
+01:06:16,322 --> 01:06:20,418
+The important ones aren't the ones
+who leave, but the ones who stay
+
+758
+01:06:20,660 --> 01:06:22,719
+and the ones
+who will join us in the future.
+
+759
+01:06:23,630 --> 01:06:24,995
+Listen to me.
+
+760
+01:06:25,365 --> 01:06:28,266
+Comandantes Raúl and Almeida
+will come with me.
+
+761
+01:06:28,735 --> 01:06:31,363
+They will open the second
+and third front with their columns.
+
+762
+01:06:32,338 --> 01:06:33,896
+Camilo
+
+763
+01:06:34,507 --> 01:06:36,668
+will replace Sardiñas
+as your new captain.
+
+764
+01:06:40,180 --> 01:06:41,579
+Damn.
+
+765
+01:06:41,748 --> 01:06:44,478
+Look how generous the revolution is.
+
+766
+01:07:07,000 --> 01:07:08,300
+<i>Individualism,</i>
+
+767
+01:07:08,209 --> 01:07:09,767
+<i>the isolated action of a person</i>
+
+768
+01:07:09,944 --> 01:07:13,038
+<i>alone in a social environment,
+must disappear in Cuba.</i>
+
+769
+01:07:14,214 --> 01:07:18,014
+<i>But are people built that way?
+Isn't it really human nature?</i>
+
+770
+01:07:18,386 --> 01:07:20,547
+<i>It is very easy to claim
+that in capitalism,</i>
+
+771
+01:07:20,722 --> 01:07:27,560
+<i>the individual has the option to satisfy
+or to express true human nature.</i>
+
+772
+01:07:28,763 --> 01:07:31,493
+<i>A child has one toy and wants two.</i>
+
+773
+01:07:31,666 --> 01:07:38,230
+<i>That child gets two toys and wants four.
+This is human nature, isn't it?</i>
+
+774
+01:07:38,406 --> 01:07:41,807
+<i>But when a whole society
+behaves in the same way,</i>
+
+775
+01:07:41,976 --> 01:07:47,300
+<i>or when it becomes a monopoly,
+oppressing the less fortunate,</i>
+
+776
+01:07:47,400 --> 01:07:49,700
+<i>is that human nature?</i>
+
+777
+01:07:49,850 --> 01:07:53,000
+<i>It is then that one has to stand up
+and do something.</i>
+
+778
+01:07:53,100 --> 01:07:57,000
+<i>And aren't you acting as
+an individual? Isn't Fidel an individual?</i>
+
+779
+01:07:57,100 --> 01:08:00,000
+<i>Yes, of course, we are individuals</i>
+
+780
+01:08:00,200 --> 01:08:02,650
+<i>who have accepted the challenge</i>
+
+781
+01:08:02,730 --> 01:08:07,950
+<i>and the responsibility to lead
+in the name of a society as a whole.</i>
+
+782
+01:08:19,812 --> 01:08:21,439
+Long live free Cuba!
+
+783
+01:08:26,553 --> 01:08:29,852
+Will they have much time to respond?
+
+784
+01:08:30,023 --> 01:08:31,888
+Each one will have 10 minutes.
+
+785
+01:08:34,060 --> 01:08:37,496
+- From the podium?
+No, from the floor.
+
+786
+01:08:38,698 --> 01:08:41,030
+- And my rebuttal?
+Ten minutes.
+
+787
+01:08:43,369 --> 01:08:46,167
+- Also from the floor?
+- No, from the podium.
+
+788
+01:08:49,209 --> 01:08:54,476
+My government has nothing to do
+with the fact that every day,
+
+789
+01:08:54,647 --> 01:08:59,346
+in Cuban circles, to bolster
+the illusions of the Cuban people,
+
+790
+01:09:00,553 --> 01:09:04,546
+they announce
+the formation of invading brigades
+
+791
+01:09:04,724 --> 01:09:06,783
+armed with revolvers
+
+792
+01:09:06,993 --> 01:09:11,054
+and small-caliber weapons
+to confront an army that,
+
+793
+01:09:11,231 --> 01:09:15,395
+according to
+the declarations of their leaders,
+
+794
+01:09:15,568 --> 01:09:21,063
+has at their disposal,
+the most modern nuclear arms.
+
+795
+01:09:22,875 --> 01:09:25,503
+The collective and individual actions
+
+796
+01:09:25,678 --> 01:09:29,239
+of the governments of this hemisphere
+to restrict trade with Cuba
+
+797
+01:09:29,415 --> 01:09:31,212
+are defensive measures,
+
+798
+01:09:31,384 --> 01:09:33,784
+taken in response
+to Cuba's continued promotion
+
+799
+01:09:33,953 --> 01:09:38,287
+of subversion and violence
+elsewhere in this hemisphere.
+
+800
+01:09:38,458 --> 01:09:42,451
+We do not support or condone
+hit-and-run attacks
+
+801
+01:09:42,629 --> 01:09:47,760
+against ships in the Cuban trade,
+or against other targets in Cuba.
+
+802
+01:09:48,735 --> 01:09:51,761
+The surveillance flights are authorized
+
+803
+01:09:51,938 --> 01:09:55,669
+by the resolution approved
+by the Organization of American States
+
+804
+01:09:55,842 --> 01:10:00,370
+under the Rio Treaty
+on 23 October 1962.
+
+805
+01:10:00,613 --> 01:10:04,982
+Absolutely false are the accusations
+
+806
+01:10:05,151 --> 01:10:09,281
+that acts of genocide are being
+committed in Venezuela.
+
+807
+01:10:09,789 --> 01:10:14,123
+Moreover,
+it is simply absurd and intolerable
+
+808
+01:10:14,294 --> 01:10:16,558
+that a Cuban representative
+
+809
+01:10:16,729 --> 01:10:20,426
+dares to make judgments
+about Venezuelan sovereignty,
+
+810
+01:10:20,667 --> 01:10:25,502
+the unique and exclusive patrimony
+of the Venezuelan people,
+
+811
+01:10:26,139 --> 01:10:29,006
+a truly free people,
+
+812
+01:10:29,175 --> 01:10:31,609
+which has a democratic government
+
+813
+01:10:31,778 --> 01:10:35,509
+with elections whose legitimacy
+are known to the entire world.
+
+814
+01:10:35,682 --> 01:10:38,913
+The tragedy of the Cuban revolution
+
+815
+01:10:39,085 --> 01:10:44,284
+Lies in not having known how to
+institutionalize this great movement
+
+816
+01:10:44,457 --> 01:10:47,517
+into an administration
+with legal rights in the Americas.
+
+817
+01:10:47,694 --> 01:10:50,254
+The greatest flaw of their leaders
+
+818
+01:10:50,463 --> 01:10:55,298
+is that they suffer from excessive vanity
+which blinds them
+
+819
+01:10:55,702 --> 01:10:58,603
+and prevents them
+from observing past examples
+
+820
+01:10:58,838 --> 01:11:00,863
+which are typical of America,
+
+821
+01:11:01,274 --> 01:11:04,801
+like the Mexican revolution in 1910.
+
+822
+01:11:06,145 --> 01:11:11,344
+I, who lived many years
+of my youth in Cuba,
+
+823
+01:11:12,318 --> 01:11:15,151
+and who perhaps
+feels more than Che Guevara
+
+824
+01:11:15,355 --> 01:11:17,619
+that there has been
+enough suffering
+
+825
+01:11:17,790 --> 01:11:20,350
+and pain for the Cuban people.
+
+826
+01:11:20,693 --> 01:11:25,494
+In my brief reply to your capricious
+intervention into Panamanian issues,
+
+827
+01:11:25,698 --> 01:11:29,031
+I'd like to finish by saying to you:
+
+828
+01:11:29,202 --> 01:11:31,966
+Don't defend me, compadre.
+
+829
+01:12:14,380 --> 01:12:15,574
+Vilo!
+
+830
+01:12:15,748 --> 01:12:17,511
+Take the sick to the shelter!
+
+831
+01:12:17,683 --> 01:12:19,583
+To the shelter!
+Take them to the shelter.
+
+832
+01:12:19,752 --> 01:12:21,720
+Don't run. Don't run.
+
+833
+01:12:36,702 --> 01:12:38,192
+Hurry up!
+
+834
+01:12:39,205 --> 01:12:40,638
+Come on!
+
+835
+01:13:09,268 --> 01:13:11,463
+One, two, three.
+
+836
+01:13:16,342 --> 01:13:20,176
+Polo. Take the prisoners
+to your house and keep them there.
+
+837
+01:13:21,481 --> 01:13:25,611
+Polo. Make sure no one mistreats them,
+verbally or physically.
+
+838
+01:13:25,985 --> 01:13:28,453
+- Understood, Roberto?
+- Sure.
+
+839
+01:13:30,089 --> 01:13:31,488
+Come on, walk!
+
+840
+01:13:37,597 --> 01:13:38,791
+Che!
+
+841
+01:13:40,366 --> 01:13:43,665
+They killed Ciro.
+They shot him in the head.
+
+842
+01:13:45,938 --> 01:13:47,565
+We couldn't recover his body.
+
+843
+01:14:27,914 --> 01:14:29,905
+May I talk to you for a second, sir?
+
+844
+01:14:36,422 --> 01:14:38,413
+They were very well organized.
+
+845
+01:14:39,325 --> 01:14:41,953
+- More than we expected?
+- Much more.
+
+846
+01:14:42,128 --> 01:14:47,065
+They have a school, hospital,
+printing press, a power plant.
+
+847
+01:14:47,233 --> 01:14:49,201
+They must have been here months.
+
+848
+01:14:50,703 --> 01:14:52,432
+What do you want me to do with this?
+
+849
+01:14:56,275 --> 01:14:57,640
+Torch it.
+
+850
+01:15:01,581 --> 01:15:03,640
+I need you to go to Minas del Frio
+
+851
+01:15:03,883 --> 01:15:05,783
+and create a training camp.
+
+852
+01:15:07,420 --> 01:15:08,853
+What for?
+
+853
+01:15:10,890 --> 01:15:15,224
+I want you to be personally
+in charge of the new recruits.
+
+854
+01:15:17,096 --> 01:15:19,189
+What about my column?
+
+855
+01:15:19,966 --> 01:15:22,560
+Ramiro can take your place for now.
+
+856
+01:15:26,739 --> 01:15:29,105
+You know we're days away
+from an attack.
+
+857
+01:15:31,777 --> 01:15:35,611
+- I don't understand.
+- This is more important.
+
+858
+01:15:37,382 --> 01:15:39,475
+It makes sense, teach.
+
+859
+01:15:40,151 --> 01:15:42,915
+Who can do that better than you?
+
+860
+01:15:44,389 --> 01:15:47,187
+Tell me. No one, man.
+
+861
+01:15:47,359 --> 01:15:49,884
+Look, when this is over,
+
+862
+01:15:50,061 --> 01:15:54,361
+Cuba and the revolution
+will need you even more.
+
+863
+01:15:58,436 --> 01:16:00,700
+<i>After the loss of El Hombrito,</i>
+
+864
+01:16:01,106 --> 01:16:05,372
+<i>Fidel took away your column
+and sent you to train new recruits.</i>
+
+865
+01:16:05,543 --> 01:16:07,875
+<i>- Did you feel it was a demotion?
+No.</i>
+
+866
+01:16:08,046 --> 01:16:09,946
+<i>Was that what you thought at the time?</i>
+
+867
+01:16:09,949 --> 01:16:12,884
+<i>Even if I had a different opinion,</i>
+
+868
+01:16:14,287 --> 01:16:17,415
+<i>even if I felt I had been demoted,</i>
+
+869
+01:16:18,224 --> 01:16:20,886
+<i>I knew Fidel had his reasons,
+and you can be sure of that.</i>
+
+870
+01:16:22,660 --> 01:16:24,628
+<i>And around this same time,</i>
+
+871
+01:16:24,996 --> 01:16:29,729
+<i>many others were trying to do this
+in a more peaceful way.</i>
+
+872
+01:16:29,901 --> 01:16:32,802
+<i>Yes, that is why
+Fidel backed the general strike.</i>
+
+873
+01:16:32,971 --> 01:16:34,438
+<i>But he always made it very clear</i>
+
+874
+01:16:34,606 --> 01:16:38,702
+<i>that we were the only ones capable
+of defeating the enemy.</i>
+
+875
+01:16:38,877 --> 01:16:40,845
+<i>A t the outset,</i>
+
+876
+01:16:41,012 --> 01:16:44,470
+<i>a lot of the other rebel groups
+didn't share Fidel's belief</i>
+
+877
+01:16:44,649 --> 01:16:48,244
+<i>that agrarian reform was a core principle
+of the revolution.</i>
+
+878
+01:16:48,420 --> 01:16:50,581
+<i>What was the turning point?</i>
+
+879
+01:16:50,755 --> 01:16:53,918
+<i>How did he finally bring them around?</i>
+
+880
+01:16:54,092 --> 01:16:56,526
+<i>After the failure
+of the general strike of April 9th,</i>
+
+881
+01:16:56,694 --> 01:16:57,786
+<i>there was no more doubt.</i>
+
+882
+01:16:58,363 --> 01:17:00,058
+<i>The 26th of July Movement</i>
+
+883
+01:17:00,231 --> 01:17:02,791
+<i>was the only group
+that could defeat Batista.</i>
+
+884
+01:17:02,967 --> 01:17:06,198
+<i>That is what a leader does:
+He convinces people to share his vision.</i>
+
+885
+01:17:06,371 --> 01:17:10,740
+<i>Are you a leader?
+Do you get people to share your vision?</i>
+
+886
+01:17:11,144 --> 01:17:12,941
+<i>He wants me to tell you</i>
+
+887
+01:17:12,975 --> 01:17:16,000
+<i>that you have proved one thing
+to him for sure:</i>
+
+888
+01:17:16,010 --> 01:17:19,982
+<i>He would rather face a soldier
+than a journalist.</i>
+
+889
+01:17:20,385 --> 01:17:22,853
+They see us rebels as agitators,
+
+890
+01:17:23,087 --> 01:17:27,046
+people who want to gain prestige
+by complicating Batista's life.
+
+891
+01:17:27,225 --> 01:17:28,852
+But we don't see ourselves like that.
+
+892
+01:17:29,594 --> 01:17:32,859
+We see ourselves as a small army
+that will become a bigger army...
+
+893
+01:17:33,364 --> 01:17:37,698
+Fidel has to be the commander
+in chief of the entire rebellion.
+
+894
+01:17:39,504 --> 01:17:42,735
+But we have to propose it with tact.
+
+895
+01:17:43,374 --> 01:17:48,004
+Our relationship with the Communist Party
+still makes people nervous.
+
+896
+01:17:48,780 --> 01:17:53,513
+We raised funds by naming Fidel
+
+897
+01:17:53,685 --> 01:17:56,518
+as leader of our revolution.
+
+898
+01:17:57,522 --> 01:18:01,959
+Outside of Cuba, he's the only
+recognizable figure we've got.
+
+899
+01:18:02,360 --> 01:18:06,592
+No one is saying that
+in the plains they screwed up.
+
+900
+01:18:06,764 --> 01:18:08,925
+But what is clear
+in the Sierra Maestra
+
+901
+01:18:09,100 --> 01:18:13,264
+is that defeating Batista doesn't
+assure the end of the dictatorship.
+
+902
+01:18:13,438 --> 01:18:16,601
+We also have to overthrow
+Batista's army
+
+903
+01:18:16,774 --> 01:18:19,368
+in order to prevent another coup.
+
+904
+01:18:20,044 --> 01:18:22,376
+Being under the command
+of the Soviet Union
+
+905
+01:18:22,547 --> 01:18:26,244
+isn't any better than being under
+the command of the United States.
+
+906
+01:18:26,551 --> 01:18:30,578
+Latour, you're still thinking
+like a colonized person does.
+
+907
+01:18:30,755 --> 01:18:33,656
+Cuba won't be under
+anyone's command.
+
+908
+01:18:34,626 --> 01:18:37,060
+Cuba is for the Cuban people.
+
+909
+01:18:37,729 --> 01:18:41,597
+I'll do everything I can
+with the Stalinists from the PSP,
+
+910
+01:18:41,766 --> 01:18:43,757
+but I don't think it will be worth it.
+
+911
+01:18:47,438 --> 01:18:49,929
+And we understand it, Faustino.
+
+912
+01:18:50,108 --> 01:18:52,702
+That's precisely why
+we always want to include...
+
+913
+01:18:52,877 --> 01:18:54,777
+"Stalinists"?
+
+914
+01:18:55,914 --> 01:19:00,578
+From now on, the coordination
+of the plains militias
+
+915
+01:19:00,752 --> 01:19:06,349
+will serve the needs
+of the guerrillas in the Sierra Maestra.
+
+916
+01:19:06,524 --> 01:19:10,927
+Fidel Castro will become commander
+in chief of all the armed forces.
+
+917
+01:19:12,797 --> 01:19:14,822
+Long live the revolution!
+
+918
+01:19:28,713 --> 01:19:30,772
+I want to congratulate you, Fidel,
+
+919
+01:19:31,716 --> 01:19:35,083
+because today you entered the path
+of the greatest men of the Americas.
+
+920
+01:19:37,055 --> 01:19:39,023
+A path that
+
+921
+01:19:39,857 --> 01:19:41,791
+will prove to the world
+
+922
+01:19:43,161 --> 01:19:47,359
+it's possible to get to power
+with an armed struggle
+
+923
+01:19:47,532 --> 01:19:49,523
+supported by the people.
+
+924
+01:19:52,837 --> 01:19:54,634
+It's not only me, Ernesto.
+
+925
+01:19:55,239 --> 01:19:56,968
+It's all of us.
+
+926
+01:19:57,141 --> 01:20:00,907
+This wouldn't be possible
+if I were on my own.
+
+927
+01:20:05,183 --> 01:20:07,378
+I want you to organize a new front.
+
+928
+01:20:08,987 --> 01:20:10,454
+Once we start this offensive,
+
+929
+01:20:10,622 --> 01:20:13,352
+I want to take the war down
+from the Sierra Maestra into the plains.
+
+930
+01:20:16,461 --> 01:20:19,521
+You'll have to unite
+all the rebel factions.
+
+931
+01:20:20,264 --> 01:20:24,826
+We have to take control of Las Villas
+Province, dividing the island in two.
+
+932
+01:20:25,203 --> 01:20:29,367
+Camilo's going to head in the same
+direction, leading his own column.
+
+933
+01:20:32,243 --> 01:20:34,609
+There will be no victory in Havana
+
+934
+01:20:35,213 --> 01:20:37,340
+without victory in Las Villas.
+
+935
+01:20:39,717 --> 01:20:43,949
+Getting all the groups to work together
+will be difficult, Ernesto.
+
+936
+01:20:44,122 --> 01:20:47,614
+So I hope you have sharpened
+your political skills.
+
+937
+01:20:51,195 --> 01:20:52,628
+And one other thing.
+
+938
+01:20:52,997 --> 01:20:55,056
+I know you are very reckless,
+
+939
+01:20:55,433 --> 01:20:58,527
+but you can't always
+put yourself on the frontline.
+
+940
+01:20:59,003 --> 01:21:01,130
+You are too important to us.
+
+941
+01:21:01,439 --> 01:21:03,066
+It's an order.
+
+942
+01:21:12,817 --> 01:21:15,285
+I want to respond
+to the Nicaraguan delegate
+
+943
+01:21:15,453 --> 01:21:20,083
+even though I did not understand
+his argument about accent.
+
+944
+01:21:20,825 --> 01:21:23,885
+I believe he referred to Cuba,
+
+945
+01:21:24,262 --> 01:21:29,222
+Argentina and somewhat
+to Russia of the Soviet Union.
+
+946
+01:21:29,834 --> 01:21:31,563
+In any event,
+
+947
+01:21:31,736 --> 01:21:36,969
+I hope the Nicaraguan delegate found
+no North American accent in my speech,
+
+948
+01:21:37,341 --> 01:21:40,105
+because that would be truly dangerous.
+
+949
+01:21:40,545 --> 01:21:43,946
+But one thing is for sure,
+we don't commit assassinations
+
+950
+01:21:44,115 --> 01:21:47,141
+like the ones being committed
+right at this moment
+
+951
+01:21:47,318 --> 01:21:51,687
+by the political police of Venezuela
+who are called DIGEPOL
+
+952
+01:21:51,856 --> 01:21:53,721
+if I am not misinformed.
+
+953
+01:21:53,958 --> 01:21:57,155
+This police force has committed
+a series of barbarous acts,
+
+954
+01:21:57,328 --> 01:22:00,593
+executions,
+which is to say assassinations.
+
+955
+01:22:00,765 --> 01:22:03,131
+The Panamanian delegate,
+
+956
+01:22:03,434 --> 01:22:06,028
+who has been kind enough
+to call me "Che"
+
+957
+01:22:06,204 --> 01:22:08,229
+as I am called by the Cuban people,
+
+958
+01:22:08,406 --> 01:22:11,307
+began speaking
+about the Mexican revolution.
+
+959
+01:22:11,476 --> 01:22:15,845
+While Cuba spoke about the
+North American massacre in Panama,
+
+960
+01:22:16,013 --> 01:22:18,038
+the Panamanian delegation
+
+961
+01:22:18,216 --> 01:22:22,619
+continued speaking in this vein,
+without referring at all
+
+962
+01:22:25,323 --> 01:22:27,883
+to that American massacre for which
+
+963
+01:22:28,059 --> 01:22:33,258
+the Panamanian government broke off
+relations to the United States.
+
+964
+01:22:33,431 --> 01:22:37,595
+On to Mr. Stevenson.
+Regrettably, he is not present here.
+
+965
+01:22:39,370 --> 01:22:43,830
+Mr. Stevenson again claims
+there is no violation of the law
+
+966
+01:22:44,008 --> 01:22:48,707
+that neither airplanes nor boats
+leave from here and, of course,
+
+967
+01:22:48,880 --> 01:22:53,078
+that pirate attacks just happen.
+They just come out of nowhere.
+
+968
+01:22:53,918 --> 01:23:00,789
+Due to the demands of imperialism,
+our prime minister declared five points
+
+969
+01:23:00,958 --> 01:23:04,052
+to secure peace in the Caribbean.
+
+970
+01:23:04,228 --> 01:23:05,786
+And these are...
+
+971
+01:23:05,963 --> 01:23:06,987
+First:
+
+972
+01:23:07,498 --> 01:23:12,526
+<i>A halt to the economic blockade
+and all forms of commercial pressure</i>
+
+973
+01:23:12,703 --> 01:23:18,300
+<i>imposed by the United States
+all over the world against our country.</i>
+
+974
+01:23:18,476 --> 01:23:21,809
+Second: Halt all subversive activities,
+
+975
+01:23:22,380 --> 01:23:26,908
+<i>such as the launch and distribution
+of arms and explosives by air and water,</i>
+
+976
+01:23:27,084 --> 01:23:29,382
+<i>organization of mercenary invasions,</i>
+
+977
+01:23:30,588 --> 01:23:32,715
+<i>infiltration of spies and saboteurs,</i>
+
+978
+01:23:32,924 --> 01:23:37,190
+<i>and all actions carried out
+from the territory of the United States</i>
+
+979
+01:23:37,361 --> 01:23:39,989
+<i>or accomplice countries.</i>
+
+980
+01:23:40,765 --> 01:23:41,823
+<i>Third:</i>
+
+981
+01:23:42,166 --> 01:23:46,068
+<i>Halt all pirate attacks
+carried out from bases located</i>
+
+982
+01:23:46,237 --> 01:23:49,172
+<i>in the United States and Puerto Rico.</i>
+
+983
+01:23:52,810 --> 01:23:57,179
+<i>Fourth: Halt all airspace
+and territorial water violations</i>
+
+984
+01:23:57,348 --> 01:24:01,045
+<i>by U.S. aircraft and warships.</i>
+
+985
+01:24:01,452 --> 01:24:05,081
+Fifth: Withdrawal from
+the Guantánamo naval base
+
+986
+01:24:05,389 --> 01:24:08,916
+<i>and return of Cuban territory
+occupied by the U.S.</i>
+
+987
+01:24:15,800 --> 01:24:19,827
+<i>This great mass of humanity has said
+"Enough!" and has stepped forward.</i>
+
+988
+01:24:20,004 --> 01:24:25,738
+<i>This march of giants will not stop
+until true independence is won,</i>
+
+989
+01:24:25,910 --> 01:24:30,142
+<i>for which so many died in vain.</i>
+
+990
+01:24:31,716 --> 01:24:33,980
+All of this, my fellow delegates,
+
+991
+01:24:34,151 --> 01:24:37,678
+is the new stance
+of the American continent,
+
+992
+01:24:37,855 --> 01:24:40,949
+a stance captured by the cry
+
+993
+01:24:41,125 --> 01:24:44,185
+that is shouted
+every day by our people
+
+994
+01:24:44,362 --> 01:24:47,559
+as an expression of our
+irrefutable decision to fight,
+
+995
+01:24:47,732 --> 01:24:50,360
+<i>paralyzing the strikes
+of armed intruders,</i>
+
+996
+01:24:50,534 --> 01:24:54,971
+<i>an outcry that counts the support
+of all the people of the world</i>
+
+997
+01:24:55,172 --> 01:24:59,734
+<i>and especially the socialist camp
+headed by the Soviet Union.</i>
+
+998
+01:24:59,911 --> 01:25:03,870
+This cry is "Homeland or death!"
+
+999
+01:25:23,067 --> 01:25:24,591
+Che!
+
+1000
+01:25:27,571 --> 01:25:30,665
+That's Las Villas, behind the clouds.
+
+1001
+01:25:40,818 --> 01:25:44,276
+Camilo arrived a few weeks ago
+and we put ourselves under his command.
+
+1002
+01:25:44,455 --> 01:25:45,979
+Very good.
+
+1003
+01:25:46,157 --> 01:25:49,251
+- I see you received our supplies.
+- Yes, thanks.
+
+1004
+01:25:49,427 --> 01:25:51,554
+Of all the groups operating in the area,
+
+1005
+01:25:51,729 --> 01:25:54,357
+the Communist Party
+was the only one to send help.
+
+1006
+01:25:54,532 --> 01:25:56,124
+I'm not surprised, Comandante.
+
+1007
+01:25:56,300 --> 01:26:00,100
+Most of these groups
+are too busy fighting each other.
+
+1008
+01:26:00,404 --> 01:26:05,933
+Months ago, Menoyo broke from
+the Directory, creating a Second Front.
+
+1009
+01:26:06,110 --> 01:26:08,670
+Since then, each one has carved out
+its own territory.
+
+1010
+01:26:08,846 --> 01:26:11,906
+There's been open hostility
+between the two factions.
+
+1011
+01:26:12,083 --> 01:26:15,416
+Where does the 26th of July Movement
+stand in all of this?
+
+1012
+01:26:16,320 --> 01:26:19,551
+Recently,
+Menoyo met with Víctor Bordón.
+
+1013
+01:26:19,724 --> 01:26:22,921
+I think both groups
+
+1014
+01:26:23,094 --> 01:26:25,153
+are on the brink
+of an armed confrontation.
+
+1015
+01:26:25,696 --> 01:26:28,961
+We're ready to cooperate
+with the 26th of July Movement
+
+1016
+01:26:29,200 --> 01:26:31,930
+in all military maneuvers.
+
+1017
+01:26:32,103 --> 01:26:35,834
+We even agree with agrarian reform
+
+1018
+01:26:36,040 --> 01:26:40,238
+as long as it's done reasonably
+
+1019
+01:26:40,411 --> 01:26:43,107
+and brings in money.
+
+1020
+01:26:44,148 --> 01:26:47,982
+Landowners should be pressured
+
+1021
+01:26:48,552 --> 01:26:52,579
+to sell their idle land to the peasants.
+
+1022
+01:26:52,757 --> 01:26:55,089
+But it should be sold at cost.
+
+1023
+01:26:55,626 --> 01:26:58,026
+Will you be the one fixing the price?
+
+1024
+01:26:58,429 --> 01:27:00,954
+How can a peasant
+with no money buy land?
+
+1025
+01:27:02,566 --> 01:27:06,024
+But what do you want?
+Just give it to them?
+
+1026
+01:27:06,203 --> 01:27:08,831
+So they can destroy it
+like they did in Mexico?
+
+1027
+01:27:09,006 --> 01:27:11,804
+The owner of the land
+is the one who works it.
+
+1028
+01:27:12,877 --> 01:27:18,372
+Comandante, you have permission
+to institute agrarian reform in the region,
+
+1029
+01:27:18,649 --> 01:27:22,745
+but the Second Front will continue
+to charge the land taxes.
+
+1030
+01:27:23,087 --> 01:27:28,218
+Menoyo, the region belongs to us all.
+What we have to do here is fight.
+
+1031
+01:27:29,493 --> 01:27:31,961
+The only thing the Directory won't do
+
+1032
+01:27:32,196 --> 01:27:36,462
+is any kind of deal
+with Menoyo's Second Front.
+
+1033
+01:27:36,634 --> 01:27:40,297
+We'll never do business
+with that bunch of bandits.
+
+1034
+01:27:40,471 --> 01:27:43,269
+We need to attack
+all the army garrisons in the area.
+
+1035
+01:27:43,441 --> 01:27:45,272
+But you can't attack
+Güinia de Miranda,
+
+1036
+01:27:45,443 --> 01:27:46,842
+because that zone is ours.
+
+1037
+01:27:47,011 --> 01:27:51,038
+We have more experience
+and more weapons than you do.
+
+1038
+01:27:51,215 --> 01:27:54,844
+Do you think the Americans are just
+going to sit and watch this happen?
+
+1039
+01:27:55,019 --> 01:27:56,953
+No, man, listen.
+
+1040
+01:27:59,123 --> 01:28:04,425
+We shouldn't be doing things
+so openly.
+
+1041
+01:28:06,430 --> 01:28:09,888
+So you're one of those who think
+we can make a revolution
+
+1042
+01:28:10,067 --> 01:28:12,592
+behind the backs of the Americans?
+
+1043
+01:28:12,937 --> 01:28:17,636
+No, man.
+A real revolution cannot be hidden.
+
+1044
+01:28:17,808 --> 01:28:21,175
+I can do more
+with the 400 rifles I have
+
+1045
+01:28:21,345 --> 01:28:24,337
+than you can with your little bazooka
+
+1046
+01:28:24,515 --> 01:28:28,884
+and all the balls your troops may have.
+
+1047
+01:28:30,154 --> 01:28:35,182
+Look, Peña, the day I have
+to take arms against my comrades
+
+1048
+01:28:35,359 --> 01:28:37,827
+will be the day I stop fighting.
+
+1049
+01:28:39,263 --> 01:28:43,825
+If you don't take Güinia de Miranda
+in five days, we'll do it ourselves.
+
+1050
+01:28:46,070 --> 01:28:48,834
+<i>I am Comandante Ernesto Guevara.</i>
+
+1051
+01:28:51,075 --> 01:28:54,272
+He is Comandante Ramiro Valdés.
+
+1052
+01:28:54,612 --> 01:28:57,513
+And he is Captain Victor Bordón.
+
+1053
+01:29:00,351 --> 01:29:03,149
+I just want to say three things.
+
+1054
+01:29:03,387 --> 01:29:05,014
+First:
+
+1055
+01:29:05,556 --> 01:29:10,687
+From now on, I am the only one
+
+1056
+01:29:10,861 --> 01:29:15,025
+in charge of the region of Las Villas.
+
+1057
+01:29:15,599 --> 01:29:17,260
+Second:
+
+1058
+01:29:18,402 --> 01:29:21,428
+We will enforce strict discipline.
+
+1059
+01:29:23,607 --> 01:29:25,040
+And third:
+
+1060
+01:29:26,277 --> 01:29:28,837
+The fighting is going to intensify.
+
+1061
+01:29:31,081 --> 01:29:35,450
+Whoever is not ready to sacrifice
+himself for his homeland
+
+1062
+01:29:35,619 --> 01:29:38,053
+can leave his gun on the ground
+
+1063
+01:29:38,622 --> 01:29:40,852
+and abandon the column
+
+1064
+01:29:41,825 --> 01:29:43,349
+immediately.
+
+1065
+01:29:55,306 --> 01:29:56,466
+Fire.
+
+1066
+01:30:25,869 --> 01:30:27,734
+Give it to me, damn it!
+
+1067
+01:30:41,652 --> 01:30:43,847
+Homeland or death!
+
+1068
+01:31:12,316 --> 01:31:13,613
+You're ready?
+
+1069
+01:31:22,826 --> 01:31:24,293
+Thank you.
+
+1070
+01:31:33,837 --> 01:31:36,704
+Tell Oltuski the money
+will be put to good use.
+
+1071
+01:31:36,874 --> 01:31:38,398
+Will do.
+
+1072
+01:31:41,578 --> 01:31:43,011
+excuse me.
+
+1073
+01:31:43,347 --> 01:31:46,976
+The police are looking for me
+in Santa Clara and want to arrest me.
+
+1074
+01:31:47,151 --> 01:31:50,211
+I need to stay here.
+I'm not going anywhere.
+
+1075
+01:31:50,921 --> 01:31:54,357
+Well, you can stay
+and work in the infirmary,
+
+1076
+01:31:54,525 --> 01:31:57,221
+because we don't allow people
+to just hang around.
+
+1077
+01:31:58,362 --> 01:32:01,263
+I want you to know that
+for the last two years
+
+1078
+01:32:01,432 --> 01:32:03,593
+I've been working
+in the clandestine movement.
+
+1079
+01:32:03,767 --> 01:32:07,794
+I've been taking weapons, bombs
+and fugitives all across the province.
+
+1080
+01:32:07,971 --> 01:32:11,031
+I think that gives me the right
+to become a guerrilla.
+
+1081
+01:32:11,308 --> 01:32:12,400
+Okay.
+
+1082
+01:32:12,576 --> 01:32:15,602
+We've started taxing
+
+1083
+01:32:15,779 --> 01:32:18,339
+some of the largest landowners.
+
+1084
+01:32:18,549 --> 01:32:21,279
+I need someone to collect the money.
+
+1085
+01:32:21,452 --> 01:32:24,353
+You can start with that
+and then we'll see.
+
+1086
+01:32:24,722 --> 01:32:26,189
+Thanks.
+
+1087
+01:32:26,623 --> 01:32:28,113
+Ramiro.
+
+1088
+01:32:29,293 --> 01:32:32,091
+- The girl here will collect the taxes.
+- Okay.
+
+1089
+01:32:43,175 --> 01:32:46,576
+<i>Finally, we were working
+with the other groups.</i>
+
+1090
+01:32:46,746 --> 01:32:48,976
+<i>It was like a wave.</i>
+
+1091
+01:32:49,200 --> 01:32:56,250
+<i>When we arrived in the towns,
+people received us with open arms,</i>
+
+1092
+01:32:56,400 --> 01:32:58,990
+<i>and many of them even joined us.</i>
+
+1093
+01:32:59,089 --> 01:33:01,649
+<i>And you took a lot of towns
+in less than a week.</i>
+
+1094
+01:33:01,825 --> 01:33:03,850
+<i>Isn't it now called
+"the lightning campaign"?</i>
+
+1095
+01:33:04,000 --> 01:33:09,223
+<i>True, but in reality,
+the battle had been building steam</i>
+
+1096
+01:33:09,399 --> 01:33:11,800
+<i>for nearly 100 years.</i>
+
+1097
+01:33:11,900 --> 01:33:17,364
+<i>When people hate their government,
+it's not very hard to take a town.</i>
+
+1098
+01:33:30,554 --> 01:33:33,648
+One machine gun, 180 rifles
+
+1099
+01:33:33,824 --> 01:33:35,689
+and 9,000 rounds of ammunition.
+
+1100
+01:33:36,393 --> 01:33:39,624
+Victor, we need you to blow
+the Cabaiguán bridge.
+
+1101
+01:33:39,797 --> 01:33:41,890
+The Cabaiguán bridge? Now?
+
+1102
+01:33:42,065 --> 01:33:43,965
+Yes. Now.
+
+1103
+01:33:46,370 --> 01:33:47,894
+How did it go?
+
+1104
+01:33:48,505 --> 01:33:50,473
+I couldn't collect the money.
+
+1105
+01:33:50,641 --> 01:33:53,542
+In Placetas, the police
+are looking for me too.
+
+1106
+01:33:53,710 --> 01:33:55,200
+Rogelio!
+
+1107
+01:33:55,379 --> 01:33:57,370
+Take the compañeras back to camp.
+
+1108
+01:33:57,548 --> 01:34:00,813
+Wait a minute. With all due respect,
+
+1109
+01:34:01,218 --> 01:34:05,314
+I know these towns like the back
+of my hand. Let me be your guide.
+
+1110
+01:34:05,489 --> 01:34:07,116
+I already have a guide.
+
+1111
+01:34:18,869 --> 01:34:22,361
+Don't worry.
+I know you're going to stay with us.
+
+1112
+01:34:22,539 --> 01:34:26,236
+Don't be like that. Calm down, girl.
+
+1113
+01:34:27,611 --> 01:34:29,511
+Don't worry.
+
+1114
+01:34:42,392 --> 01:34:44,121
+Do you know Cabaiguán?
+
+1115
+01:34:53,237 --> 01:34:56,729
+And tell Milián to have his people ready.
+
+1116
+01:34:56,907 --> 01:34:58,670
+We'll attack the garrison.
+
+1117
+01:34:58,842 --> 01:35:00,605
+Perfect.
+
+1118
+01:35:10,153 --> 01:35:11,450
+Che.
+
+1119
+01:35:11,622 --> 01:35:13,647
+We have to give you a tetanus shot.
+
+1120
+01:35:15,726 --> 01:35:18,820
+No, it might trigger
+an asthma attack.
+
+1121
+01:35:18,996 --> 01:35:21,328
+Give me some aspirin.
+
+1122
+01:35:28,438 --> 01:35:31,066
+Comandante, this is
+the Virgin of Caridad del Cobre,
+
+1123
+01:35:31,241 --> 01:35:33,801
+the patron saint of Cuba,
+to help your arrival in Havana.
+
+1124
+01:35:33,977 --> 01:35:36,844
+I hope it helps us arrive in Placetas.
+
+1125
+01:35:37,014 --> 01:35:38,811
+Goodbye!
+
+1126
+01:35:39,249 --> 01:35:43,185
+- How are you? Does it hurt?
+- A little, but that's unavoidable.
+
+1127
+01:35:46,523 --> 01:35:48,184
+Here, for your arm.
+
+1128
+01:35:48,926 --> 01:35:50,257
+Thanks.
+
+1129
+01:35:51,695 --> 01:35:53,720
+Long live the revolution!
+
+1130
+01:36:12,916 --> 01:36:15,316
+Shit, Argentine. You broke your paw?
+
+1131
+01:36:15,519 --> 01:36:18,215
+- It's nothing. I fell off a roof.
+- So, what happened?
+
+1132
+01:36:18,388 --> 01:36:21,448
+- I just spoke to Fidel.
+- And?
+
+1133
+01:36:21,625 --> 01:36:23,820
+Santiago has almost surrendered.
+
+1134
+01:36:23,994 --> 01:36:26,394
+Santa Clara is the only thing
+standing between us and Havana.
+
+1135
+01:36:26,563 --> 01:36:29,862
+Batista's throwing everything
+he's got to Santa Clara.
+
+1136
+01:36:30,033 --> 01:36:31,500
+That's why,
+
+1137
+01:36:31,668 --> 01:36:34,637
+when you take Remedios
+and I take Yaguajay,
+
+1138
+01:36:34,838 --> 01:36:37,705
+we can then take
+Santa Clara together.
+
+1139
+01:36:38,809 --> 01:36:40,367
+Give me a light.
+
+1140
+01:36:47,851 --> 01:36:50,319
+I know what I'm going to do
+when we win this thing.
+
+1141
+01:36:50,487 --> 01:36:52,011
+I'll put you in a cage,
+
+1142
+01:36:52,189 --> 01:36:54,987
+tour the country and charge admission.
+
+1143
+01:36:55,158 --> 01:36:57,217
+We'll be rich, man!
+
+1144
+01:37:04,034 --> 01:37:06,332
+What made you join the Movement?
+
+1145
+01:37:07,337 --> 01:37:12,001
+Well, I was in college when Fidel
+attacked the Moncada Barracks.
+
+1146
+01:37:12,175 --> 01:37:15,702
+When I read his defense plea,
+"History Will Absolve Me,"
+
+1147
+01:37:15,879 --> 01:37:18,848
+I knew he was the only one
+who could take down Batista.
+
+1148
+01:37:19,016 --> 01:37:22,679
+And that he would do it fighting,
+and I liked that.
+
+1149
+01:37:22,853 --> 01:37:24,753
+Does your family support you?
+
+1150
+01:37:24,921 --> 01:37:26,354
+Of course.
+
+1151
+01:37:26,523 --> 01:37:29,253
+My cousin was killed.
+
+1152
+01:37:30,427 --> 01:37:35,126
+The brutality of the army
+intensified after the general strike.
+
+1153
+01:37:36,199 --> 01:37:37,359
+I think they got scared
+
+1154
+01:37:37,567 --> 01:37:40,798
+when they saw
+so many people against them.
+
+1155
+01:37:46,710 --> 01:37:48,803
+You don't look like a Communist.
+
+1156
+01:37:49,513 --> 01:37:52,949
+- And what do Communists look like?
+- Well, not like you.
+
+1157
+01:37:53,116 --> 01:37:54,913
+We come in all colors.
+
+1158
+01:38:00,757 --> 01:38:04,488
+Do you expect to stay in Cuba
+after the success of the revolution?
+
+1159
+01:38:05,095 --> 01:38:07,461
+My wife and my daughter are in Mexico.
+
+1160
+01:38:07,631 --> 01:38:09,895
+I have to keep them in mind.
+
+1161
+01:38:11,068 --> 01:38:12,330
+Of course.
+
+1162
+01:38:15,906 --> 01:38:18,932
+I'm Lieutenant Pérez Valencia.
+
+1163
+01:38:19,109 --> 01:38:20,940
+The rebel army
+
+1164
+01:38:21,111 --> 01:38:23,409
+is not what you have imagined.
+
+1165
+01:38:23,580 --> 01:38:26,208
+Hand over your weapons
+and no one will be injured.
+
+1166
+01:38:27,918 --> 01:38:29,818
+Stay on the air, over.
+
+1167
+01:38:30,153 --> 01:38:32,314
+Santa Clara hasn't sent reinforcements.
+
+1168
+01:38:32,489 --> 01:38:34,821
+It's a lost cause for these people.
+
+1169
+01:38:35,258 --> 01:38:37,089
+<i>Attention, Che, attention.
+Che, attention, Che.</i>
+
+1170
+01:38:37,260 --> 01:38:41,356
+Listen, could you resolve the problem
+and follow the instructions,
+
+1171
+01:38:41,531 --> 01:38:44,796
+the instructions, the instructions
+you gave me with the man I sent?
+
+1172
+01:38:44,968 --> 01:38:49,166
+<i>So tell me if you understand, understand,
+understand me. Over, Che.</i>
+
+1173
+01:38:49,339 --> 01:38:51,807
+Camilo, I hear you perfectly.
+
+1174
+01:38:52,442 --> 01:38:55,843
+Your record is broken,
+you have to change it. Over.
+
+1175
+01:38:57,214 --> 01:39:00,149
+How long will you be
+in Yaguajay? Over.
+
+1176
+01:39:00,317 --> 01:39:03,218
+<i>Three days, maybe a week. Over.</i>
+
+1177
+01:39:03,386 --> 01:39:05,684
+The more time you stay there
+
+1178
+01:39:05,889 --> 01:39:09,256
+the harder it will be here,
+Camilo. Over.
+
+1179
+01:39:09,993 --> 01:39:13,588
+<i>Don't dare to enter the city
+without me, do you hear?</i>
+
+1180
+01:39:14,798 --> 01:39:18,029
+Camilo, it's fair to share
+the glory sometimes. Over.
+
+1181
+01:39:18,201 --> 01:39:21,830
+Sharing the glory is fine,
+but with an Argentine,
+
+1182
+01:39:22,005 --> 01:39:24,166
+don't do that to me.
+
+1183
+01:39:24,674 --> 01:39:26,665
+Over and out, Che.
+
+1184
+01:39:42,692 --> 01:39:46,025
+It's good to have you
+in Santa Clara, Colonel Casillas.
+
+1185
+01:39:46,696 --> 01:39:49,688
+The city's forces are at your disposal.
+
+1186
+01:39:50,500 --> 01:39:53,333
+Can those forces
+get me some coffee?
+
+1187
+01:39:53,770 --> 01:39:56,432
+The best beans in the world, colonel.
+
+1188
+01:40:02,546 --> 01:40:03,843
+Sit down.
+
+1189
+01:40:49,659 --> 01:40:53,493
+<i>Camilo Cienfuegos
+wanted you to wait for him,</i>
+
+1190
+01:40:53,663 --> 01:40:54,994
+<i>but you kept going.</i>
+
+1191
+01:40:55,165 --> 01:40:56,894
+<i>Why?</i>
+
+1192
+01:40:57,436 --> 01:41:00,166
+<i>Santa Clara was all they had left,</i>
+
+1193
+01:41:00,339 --> 01:41:04,708
+<i>the only thing linking Havana
+to the country as a whole.</i>
+
+1194
+01:41:04,876 --> 01:41:07,037
+<i>And though we had not slept for days</i>
+
+1195
+01:41:07,212 --> 01:41:11,200
+<i>and the army outnumbered us
+nine to one,</i>
+
+1196
+01:41:11,250 --> 01:41:16,550
+<i>at that point, safely waiting for Camilo
+seemed to us more dangerous.</i>
+
+1197
+01:41:17,954 --> 01:41:20,047
+<i>People of Santa Clara,</i>
+
+1198
+01:41:20,223 --> 01:41:23,192
+<i>this is Comandante Guevara speaking.</i>
+
+1199
+01:41:24,327 --> 01:41:26,921
+<i>The enemy wants us to live in fear,</i>
+
+1200
+01:41:27,097 --> 01:41:29,065
+<i>but it is they who should be afraid.</i>
+
+1201
+01:41:31,001 --> 01:41:34,960
+<i>The situation of the military regime
+is getting worse every day,</i>
+
+1202
+01:41:36,139 --> 01:41:38,471
+<i>because their soldiers
+don't want to fight.</i>
+
+1203
+01:41:42,145 --> 01:41:43,373
+<i>Santa Clara,</i>
+
+1204
+01:41:44,147 --> 01:41:49,380
+<i>if there has ever been a time
+to fight for our freedom,</i>
+
+1205
+01:41:49,552 --> 01:41:52,487
+<i>that time is now.</i>
+
+1206
+01:41:52,656 --> 01:41:55,523
+That moment has come.
+
+1207
+01:42:11,541 --> 01:42:13,634
+I want air strikes
+
+1208
+01:42:14,577 --> 01:42:16,841
+all around the neighborhoods.
+
+1209
+01:42:18,148 --> 01:42:20,275
+Torch those bastards!
+
+1210
+01:42:54,050 --> 01:42:55,813
+He's dead.
+
+1211
+01:42:58,555 --> 01:43:00,045
+Cover him with that sheet.
+
+1212
+01:43:00,223 --> 01:43:01,815
+I need more help.
+
+1213
+01:43:02,225 --> 01:43:03,692
+- Aleida.
+- The situation is critical.
+
+1214
+01:43:03,893 --> 01:43:06,828
+Talk to Camajuani
+and ask for more doctors.
+
+1215
+01:43:59,315 --> 01:44:00,475
+Yes?
+
+1216
+01:44:01,418 --> 01:44:04,615
+Comandante, it's Rogelio
+calling from the station.
+
+1217
+01:44:08,825 --> 01:44:09,849
+Speak to me, Rogelio.
+
+1218
+01:44:10,026 --> 01:44:14,258
+Comandante, we took the train station.
+
+1219
+01:44:14,497 --> 01:44:16,192
+Is it safe?
+
+1220
+01:44:17,467 --> 01:44:18,593
+Good.
+
+1221
+01:44:18,768 --> 01:44:23,671
+Go with 15 men to the train tracks
+between Toscano and San Pedro
+
+1222
+01:44:23,840 --> 01:44:25,808
+and wait there.
+
+1223
+01:44:26,042 --> 01:44:27,407
+All right.
+
+1224
+01:45:27,704 --> 01:45:30,696
+The tank is screwing us.
+The machine gun doesn't let us get closer.
+
+1225
+01:45:30,874 --> 01:45:32,068
+For Guile and Ramiro.
+
+1226
+01:45:32,242 --> 01:45:34,676
+- What's the highest position?
+- The church at the end of the street.
+
+1227
+01:45:34,844 --> 01:45:37,142
+Then you have to take the church,
+you must take the church.
+
+1228
+01:45:37,313 --> 01:45:38,871
+Of course, Comandante.
+
+1229
+01:45:41,484 --> 01:45:42,781
+Go.
+
+1230
+01:45:54,731 --> 01:45:56,130
+Hit it hard.
+
+1231
+01:46:04,574 --> 01:46:07,042
+- How many houses do we have to cross?
+- Five.
+
+1232
+01:46:08,244 --> 01:46:10,644
+Little Cowboy, it's too many.
+
+1233
+01:46:12,382 --> 01:46:15,317
+Hit it hard.
+Fuck. We have to break it down now!
+
+1234
+01:47:27,523 --> 01:47:30,492
+Get down, Little Cowboy.
+You're going to get hit.
+
+1235
+01:47:52,515 --> 01:47:53,846
+Stay here.
+
+1236
+01:48:39,095 --> 01:48:40,585
+Aleida!
+
+1237
+01:48:59,215 --> 01:49:02,207
+- What the fuck are you doing?
+- The SIM is on the hotel rooftop.
+
+1238
+01:49:03,186 --> 01:49:05,177
+They hit Little Cowboy.
+
+1239
+01:49:08,191 --> 01:49:10,751
+Tamayo. What happened?
+
+1240
+01:49:13,262 --> 01:49:14,729
+They got Little Cowboy, Comandante.
+
+1241
+01:49:14,897 --> 01:49:16,330
+What happened to him?
+
+1242
+01:49:16,499 --> 01:49:19,332
+We claimed a rooftop
+to get a good position,
+
+1243
+01:49:20,002 --> 01:49:24,098
+and then he got shot in the head.
+They killed him.
+
+1244
+01:49:33,416 --> 01:49:35,247
+Take him to the medical station.
+
+1245
+01:49:42,592 --> 01:49:43,923
+Tamayo.
+
+1246
+01:49:44,460 --> 01:49:46,860
+You are now in charge
+of the suicide platoon.
+
+1247
+01:49:47,163 --> 01:49:50,132
+Keep breaking the walls
+until you reach the church.
+
+1248
+01:49:50,299 --> 01:49:51,891
+They need to pay for this.
+
+1249
+01:50:03,045 --> 01:50:05,343
+The rebels have surrounded the city
+
+1250
+01:50:05,515 --> 01:50:07,745
+and our tanks can't cross the barricades.
+
+1251
+01:50:08,618 --> 01:50:10,017
+Shit.
+
+1252
+01:50:13,856 --> 01:50:16,051
+Get Havana on the phone.
+
+1253
+01:50:18,060 --> 01:50:20,722
+Tell them to airlift men
+from Cienfuegos.
+
+1254
+01:50:23,032 --> 01:50:26,024
+We're going to secure this city
+neighborhood by neighborhood
+
+1255
+01:50:26,202 --> 01:50:28,261
+and street by street.
+
+1256
+01:50:29,372 --> 01:50:30,396
+Send a battalion.
+
+1257
+01:51:46,382 --> 01:51:47,610
+Where are you going?
+
+1258
+01:51:47,783 --> 01:51:51,082
+I don't want to fight anymore.
+I'm tired of this.
+
+1259
+01:51:52,955 --> 01:51:54,479
+Let me go.
+
+1260
+01:52:01,597 --> 01:52:03,792
+Anyone else want to leave?
+
+1261
+01:52:07,803 --> 01:52:09,964
+Cease fire!
+
+1262
+01:52:10,740 --> 01:52:12,799
+Cease fire!
+
+1263
+01:52:31,694 --> 01:52:34,254
+Tell your men to put down their arms.
+
+1264
+01:52:34,463 --> 01:52:36,954
+I'm not going to negotiate
+with a subordinate.
+
+1265
+01:52:37,900 --> 01:52:39,868
+You forgot to leave your gun.
+
+1266
+01:52:40,036 --> 01:52:43,563
+- Give me that gun.
+- Take your belt off.
+
+1267
+01:52:46,309 --> 01:52:49,676
+I said I wouldn't negotiate
+with a subordinate.
+
+1268
+01:52:49,845 --> 01:52:53,281
+That's okay. This isn't a negotiation.
+
+1269
+01:52:54,183 --> 01:52:55,810
+Comandante,
+
+1270
+01:52:56,118 --> 01:52:58,848
+I give you my word of honor that
+if you let us return to Havana,
+
+1271
+01:52:59,021 --> 01:53:01,285
+we won't fire another shot.
+
+1272
+01:53:01,457 --> 01:53:03,755
+I believe your word of honor.
+
+1273
+01:53:03,926 --> 01:53:08,226
+But I can't let those bullets kill more
+Cubans. Here or anywhere else.
+
+1274
+01:53:08,965 --> 01:53:12,799
+You have 15 minutes
+to convince your men to surrender.
+
+1275
+01:53:12,969 --> 01:53:17,338
+If not, you will be responsible
+for any bloodshed.
+
+1276
+01:53:24,580 --> 01:53:26,571
+Shit!
+
+1277
+01:53:30,252 --> 01:53:32,914
+Send this box to Camilo in Yaguajay.
+
+1278
+01:53:33,089 --> 01:53:35,455
+Aleida, come here.
+
+1279
+01:54:08,090 --> 01:54:09,785
+Call them on the telephone.
+
+1280
+01:54:11,727 --> 01:54:16,664
+We agree to a ceasefire
+to get our dead and wounded.
+
+1281
+01:54:23,606 --> 01:54:26,769
+- I advise you to surrender.
+- Over my dead body.
+
+1282
+01:54:28,277 --> 01:54:31,041
+What's wrong with you?
+Where are you going?
+
+1283
+01:54:36,652 --> 01:54:39,416
+Your colonel wants you
+to fight to the death.
+
+1284
+01:54:41,590 --> 01:54:44,650
+We don't want more Cubans to die.
+
+1285
+01:54:46,095 --> 01:54:48,120
+Give up your weapons
+
+1286
+01:54:48,931 --> 01:54:50,922
+and you will live.
+
+1287
+01:54:56,072 --> 01:54:57,835
+Turn in your weapons!
+
+1288
+01:54:58,808 --> 01:55:00,298
+Now!
+
+1289
+01:55:18,327 --> 01:55:19,760
+Well...
+
+1290
+01:55:21,497 --> 01:55:23,590
+The colonel and I
+
+1291
+01:55:23,833 --> 01:55:28,236
+are going on a special mission
+to check our positions.
+
+1292
+01:55:29,672 --> 01:55:32,971
+Keep up the resistance
+until I return, is that clear?
+
+1293
+01:55:33,142 --> 01:55:35,133
+Whatever you say, colonel.
+
+1294
+01:55:38,380 --> 01:55:40,507
+Shoot anyone who tries to leave.
+
+1295
+01:55:54,697 --> 01:55:56,028
+Who is this?
+
+1296
+01:55:56,198 --> 01:55:59,065
+That's Sánchez, the police captain.
+
+1297
+01:56:00,002 --> 01:56:02,664
+We found torture instruments
+in the station.
+
+1298
+01:56:09,478 --> 01:56:12,811
+You know,
+I have an idea to take the hotel.
+
+1299
+01:56:14,216 --> 01:56:15,740
+Tell me.
+
+1300
+01:56:15,918 --> 01:56:17,476
+Leave it to me.
+
+1301
+01:57:25,487 --> 01:57:28,422
+Don't shoot, don't shoot!
+We surrender!
+
+1302
+01:57:29,291 --> 01:57:31,088
+Turn in your weapons!
+
+1303
+01:57:42,204 --> 01:57:44,001
+Come on, hurry up!
+
+1304
+01:58:00,256 --> 01:58:04,215
+Camilo took Yaguajay and he
+and his troops are heading this way.
+
+1305
+01:58:05,227 --> 01:58:07,491
+We just heard the news
+on the shortwave.
+
+1306
+01:58:07,663 --> 01:58:10,223
+It looks like Batista
+abandoned the country.
+
+1307
+01:58:12,301 --> 01:58:14,394
+Yes, sir. Right now.
+
+1308
+01:58:20,743 --> 01:58:23,871
+It's General Cantillo
+calling from Havana.
+
+1309
+01:58:25,547 --> 01:58:27,105
+Okay, leave.
+
+1310
+01:58:29,151 --> 01:58:30,209
+Yes, general?
+
+1311
+01:58:30,386 --> 01:58:35,688
+<i>I'm negotiating
+directly with the U.S. ambassador.</i>
+
+1312
+01:58:35,891 --> 01:58:40,521
+<i>I'm in command of the army now,
+acting on behalf of Fidel Castro.</i>
+
+1313
+01:58:40,696 --> 01:58:45,030
+<i>I authorize you to negotiate a truce,
+but not to surrender.</i>
+
+1314
+01:58:45,200 --> 01:58:48,499
+<i>You can't surrender
+under any circumstances.</i>
+
+1315
+01:58:49,471 --> 01:58:51,405
+As you say, general.
+
+1316
+01:58:55,210 --> 01:58:56,837
+Captain.
+
+1317
+01:58:57,146 --> 01:58:58,875
+I need to talk to Guevara.
+
+1318
+01:59:00,649 --> 01:59:05,086
+<i>I've spoken to Fidel Castro. There's
+been no deal with General Cantillo.</i>
+
+1319
+01:59:06,288 --> 01:59:09,519
+This is a revolution, not a coup.
+
+1320
+01:59:09,692 --> 01:59:15,130
+It's either unconditional surrender
+or we'll take the garrison by force.
+
+1321
+01:59:15,331 --> 01:59:18,061
+And you'll be responsible
+for the bloodshed.
+
+1322
+01:59:18,300 --> 01:59:22,669
+Be aware of the possibility that
+the U.S. government will intervene
+
+1323
+01:59:22,838 --> 01:59:24,703
+militarily in Cuba.
+
+1324
+01:59:24,907 --> 01:59:28,809
+If that happens,
+it would be an even bigger crime,
+
+1325
+01:59:29,311 --> 01:59:32,109
+as you will be supporting
+a foreign invasion.
+
+1326
+01:59:33,048 --> 01:59:35,175
+In that case, your only
+remaining option would be
+
+1327
+01:59:35,351 --> 01:59:38,684
+for you to shoot yourself
+for committing treason.
+
+1328
+01:59:39,755 --> 01:59:43,452
+Mr. Guevara, I need to talk
+with my superiors about that.
+
+1329
+01:59:46,595 --> 01:59:48,927
+It's 19 minutes past 10.
+
+1330
+01:59:49,431 --> 01:59:54,494
+At 11, I'll give the order to attack
+using all our forces.
+
+1331
+02:00:08,484 --> 02:00:12,386
+- Sir, may I return home to my family?
+- No.
+
+1332
+02:00:12,554 --> 02:00:14,454
+But we won the revolution already!
+
+1333
+02:00:14,623 --> 02:00:18,286
+We only won the war,
+the revolution begins now.
+
+1334
+02:00:24,466 --> 02:00:27,924
+Get all your things,
+we're leaving for Havana tomorrow.
+
+1335
+02:00:28,103 --> 02:00:29,900
+Aleida. You too.
+
+1336
+02:00:30,072 --> 02:00:32,199
+I'll need a guide.
+
+1337
+02:00:32,374 --> 02:00:36,105
+- But I don't know Havana very well.
+- Neither do I.
+
+1338
+02:00:39,281 --> 02:00:43,308
+- This man wants to say hello to you.
+- Thanks for all you've done for Cuba.
+
+1339
+02:00:43,485 --> 02:00:47,615
+Not me, all of them. All of them.
+
+1340
+02:00:50,692 --> 02:00:54,355
+Get ready.
+We're leaving for Havana tomorrow.
+
+1341
+02:01:04,873 --> 02:01:07,706
+He told me he was heading to Havana
+to participate in a military junta
+
+1342
+02:01:07,876 --> 02:01:11,039
+which was going to resolve
+the problems of the Cuban people.
+
+1343
+02:01:11,213 --> 02:01:15,274
+I told him murderers like him weren't
+going to resolve anything anymore.
+
+1344
+02:01:15,784 --> 02:01:17,445
+When I told him
+I was bringing him to you,
+
+1345
+02:01:17,619 --> 02:01:19,780
+he pissed in his pants.
+
+1346
+02:01:19,955 --> 02:01:22,719
+He begged me
+to take him to another chief.
+
+1347
+02:01:23,192 --> 02:01:24,887
+What do you want me
+to do with this guy?
+
+1348
+02:01:25,060 --> 02:01:29,360
+Keep him as a prisoner of war.
+He will be judged by a tribunal.
+
+1349
+02:01:29,965 --> 02:01:32,661
+Comandante, place him
+under special watch.
+
+1350
+02:01:32,835 --> 02:01:34,325
+Sure.
+
+1351
+02:01:37,206 --> 02:01:39,674
+- Son of a bitch.
+- Bandit.
+
+1352
+02:01:40,342 --> 02:01:41,866
+I can't see anything,
+then I turn around
+
+1353
+02:01:42,044 --> 02:01:46,310
+and I see Roberto in the jeep,
+holding the grenade
+
+1354
+02:01:46,482 --> 02:01:48,416
+with the pin still in it.
+
+1355
+02:01:48,584 --> 02:01:49,642
+You're kidding.
+
+1356
+02:01:49,818 --> 02:01:53,151
+So he's looking at me, smiling,
+like I'm stupid.
+
+1357
+02:01:53,322 --> 02:01:56,189
+But when he came out of the jeep,
+I swear to you,
+
+1358
+02:01:56,358 --> 02:01:58,155
+he stood up,
+acting like a tough guy,
+
+1359
+02:01:58,360 --> 02:02:01,921
+still holding the grenade in his hand,
+just like this, boy.
+
+1360
+02:02:02,097 --> 02:02:05,498
+He could barely walk because
+his knees were shaking so hard,
+
+1361
+02:02:05,667 --> 02:02:10,366
+and suddenly his eyes went up,
+
+1362
+02:02:10,539 --> 02:02:15,272
+and then he fainted with the grenade
+in his hand with the pin still in it.
+
+1363
+02:02:16,678 --> 02:02:18,305
+Good one.
+
+1364
+02:02:25,721 --> 02:02:27,552
+Who has a light?
+
+1365
+02:02:27,789 --> 02:02:29,654
+Not me.
+
+1366
+02:02:33,529 --> 02:02:35,394
+Hey, this was mine!
+
+1367
+02:02:40,002 --> 02:02:42,527
+- Gentlemen.
+- So, then?
+
+1368
+02:02:42,704 --> 02:02:45,605
+I'm going to the capital.
+Thanks for everything.
+
+1369
+02:02:45,807 --> 02:02:48,469
+- See you in Havana.
+- Of course.
+
+1370
+02:02:49,545 --> 02:02:50,807
+Ernesto.
+
+1371
+02:03:00,656 --> 02:03:03,352
+- Take care.
+- Yes, Che.
+
+1372
+02:03:03,525 --> 02:03:05,686
+Don't worry, my man.
+
+1373
+02:03:06,895 --> 02:03:09,830
+Ultimately,
+what we can say is that the revolution
+
+1374
+02:03:09,998 --> 02:03:11,260
+has moments of complete madness.
+
+1375
+02:03:12,935 --> 02:03:15,335
+The attack, for instance...
+
+1376
+02:03:15,504 --> 02:03:18,632
+The attack, for instance,
+against the Moncada Garrison,
+
+1377
+02:03:18,807 --> 02:03:21,173
+the expedition of the Granma.
+
+1378
+02:03:24,279 --> 02:03:27,305
+The continuous struggle
+of the small group of men
+
+1379
+02:03:27,482 --> 02:03:29,006
+that were left from that exp...
+
+1380
+02:03:33,088 --> 02:03:37,684
+The resistance against
+those last attacks by the dictatorship
+
+1381
+02:03:37,859 --> 02:03:40,191
+in the Sierra Maestra.
+
+1382
+02:03:42,130 --> 02:03:44,530
+The invasion of Las Villas.
+
+1383
+02:03:46,435 --> 02:03:50,303
+The taking of the key cities in Cuba.
+
+1384
+02:03:51,840 --> 02:03:55,037
+If you analyze each one of those things,
+
+1385
+02:03:57,980 --> 02:04:03,145
+you come to the conclusion
+that there was craziness involved.
+
+1386
+02:04:07,222 --> 02:04:08,746
+So, then?
+
+1387
+02:04:09,391 --> 02:04:11,120
+Are you coming with us?
+
+1388
+02:04:12,461 --> 02:04:15,294
+Yes. Under one condition.
+
+1389
+02:04:15,464 --> 02:04:16,692
+Which?
+
+1390
+02:04:16,865 --> 02:04:18,833
+When we're done in Cuba,
+
+1391
+02:04:19,001 --> 02:04:22,061
+you let me bring the revolution
+to all Latin America.
+
+1392
+02:04:23,505 --> 02:04:26,099
+You, too, are a little crazy.
+
+1393
+02:04:32,114 --> 02:04:34,309
+It's a thing that I haven't seen
+anybody doing.
+
+1394
+02:04:34,483 --> 02:04:37,475
+The rice is the most important thing,
+if you take...
+
+1395
+02:04:39,621 --> 02:04:43,921
+Comandante,
+do you need my services tonight?
+
+1396
+02:04:45,327 --> 02:04:48,091
+Son, you're killing me.
+
+1397
+02:04:48,263 --> 02:04:51,755
+Did I make you angry
+with what I said the other night?
+
+1398
+02:04:51,933 --> 02:04:55,596
+I'm sorry,
+I don't know what I was thinking.
+
+1399
+02:04:57,506 --> 02:05:01,909
+No, son, you are loved,
+as they say in Cuba.
+
+1400
+02:05:02,077 --> 02:05:04,773
+- Thank you, Comandante.
+- Do what you need to do.
+
+1401
+02:05:04,946 --> 02:05:06,470
+Good night.
+
+1402
+02:05:08,584 --> 02:05:11,000
+<i>How does it feel to be a symbol?</i>
+
+1403
+02:05:11,200 --> 02:05:14,885
+<i>- A symbol of what?
+- A symbol of the revolution.</i>
+
+1404
+02:05:14,926 --> 02:05:17,000
+<i>There is one thing I can tell you.</i>
+
+1405
+02:05:17,200 --> 02:05:20,728
+<i>We were very aware
+that we represented the hopes</i>
+
+1406
+02:05:20,820 --> 02:05:23,000
+<i>of an unredeemed America.</i>
+
+1407
+02:05:23,200 --> 02:05:31,000
+<i>And all eyes, those of the oppressors
+and those of the oppressed,</i>
+
+1408
+02:05:31,200 --> 02:05:33,268
+<i>were fixed upon us.</i>
+
+1409
+02:05:33,842 --> 02:05:38,750
+<i>In January of 1959, how old were you?</i>
+
+1410
+02:05:39,248 --> 02:05:41,682
+<i>I was 30 years old.</i>
+
+1411
+02:05:47,723 --> 02:05:49,918
+See you in Havana!
+
+1412
+02:05:50,292 --> 02:05:51,759
+It's Rogelio.
+
+1413
+02:05:51,927 --> 02:05:53,554
+Tell him to stop.
+
+1414
+02:05:54,830 --> 02:05:56,593
+- What?
+- Rogelio.
+
+1415
+02:05:56,798 --> 02:05:58,095
+Yes, tell him to stop.
+
+1416
+02:06:01,770 --> 02:06:04,034
+What are you doing with that car?
+
+1417
+02:06:04,239 --> 02:06:05,706
+I'm driving it to Havana.
+
+1418
+02:06:05,874 --> 02:06:07,466
+Who gave you authorization?
+
+1419
+02:06:07,976 --> 02:06:11,776
+I took it. It belonged
+to one of the snipers, man.
+
+1420
+02:06:11,947 --> 02:06:13,812
+Don't "man" me, Rogelio.
+
+1421
+02:06:13,982 --> 02:06:18,043
+Even if it was Batista's,
+this car isn't yours.
+
+1422
+02:06:19,421 --> 02:06:23,118
+Go back to Santa Clara immediately
+and give it back.
+
+1423
+02:06:23,291 --> 02:06:28,627
+And then you will go to Havana
+by bus, by jeep or on foot.
+
+1424
+02:06:29,231 --> 02:06:32,291
+I'd rather walk than drive to Havana
+in a stolen car. Let's go.
+
+1425
+02:06:56,525 --> 02:06:58,356
+Unbelievable
+
+1426
+02:06:58,525 --> 02:08:58,356
+Please rate it
+MUBD33 <3

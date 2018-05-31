@@ -1,0 +1,740 @@
+{1}{1}23.976
+{299}{370}Why are you here?
+{371}{468}I'm just hanging around... I'm bored
+{469}{507}Have some sake
+{811}{853}That's good. More
+{854}{912}Any news of Genji?
+{912}{972}Of course not. Why?
+{973}{1039}Just asking
+{1152}{1241}They're starting now. Let's go
+{1564}{1606}You did it?
+{1648}{1683}Where's Ine?
+{1710}{1757}The master's place
+{1783}{1826}I don't want to see her
+{1832}{1906}But I've something to give her
+{2105}{2153}So you're here?
+{2172}{2251}I know why you're bored
+{2261}{2417}Genji is gone and the boss is impotent...
+{2418}{2527}You know a lot, don't you?
+{2528}{2575}But I want to know more!
+{2664}{2774}No use screaming. Nobody will come
+{2775}{2827}You're just an ex-whore, eh?
+{2840}{2883}You fool
+{2902}{2937}Don't be so nervous...
+{2979}{3085}Your body's already hot
+{3086}{3169}Grannie Bear...
+{3180}{3225}You fool
+{3454}{3487}Genji...
+{4327}{4391}SENMATSU'S FUNERAL TABLET
+{4409}{4446}I'm sorry
+{4447}{4487}I forced all this hardships on you
+{4487}{4604}That's all right.|Just keep your family's funeral tablets
+{4643}{4776}You don't want to go to America with me,|do you?
+{4786}{4842}If not, it's all right
+{4878}{5010}I thought it over. I can't go
+{5049}{5087}If I die in America,
+{5087}{5163}my soul will be homeless
+{5191}{5309}I'm really sorry, but...
+{5334}{5379}I see
+{5627}{5712}I'm lazy. And loose
+{5755}{5854}But I love you
+{5928}{5987}I'm a fool. I'm a slut
+{5987}{6028}I was a whore, really
+{6130}{6209}But I do love you so much
+{6258}{6303}I love you too...
+{6362}{6389}Guard the front
+{6652}{6739}Genji is here, eh?
+{6740}{6765}No. Why?
+{6820}{6912}If you hide him, you'll be punished too
+{6913}{6964}He's not here
+{6965}{7026}Have a look if you doubt it
+{7038}{7065}All right
+{7180}{7287}If he comes, you'll tell us, eh?
+{7588}{7670}I've had lots of women before you
+{7671}{7738}But you're so different
+{7739}{7783}The master wants you...
+{7793}{7840}I'll never forget you
+{7841}{7874}Genji, you...
+{8421}{8439}AMERICAN EMBASSY
+{8440}{8458}I'm sorry
+{8459}{8506}You can't back to America
+{8507}{8560}Why?
+{8580}{8653}This letter is from the government
+{8694}{8799}You against the law,
+{8885}{9047}so we cannot let you go to America
+{9303}{9364}Been a long time, Genji
+{9364}{9425}You look pretty unhappy
+{9426}{9474}Did the Americans turn you down?
+{9515}{9591}Did you inform me?
+{9623}{9657}The master?
+{9658}{9682}Been waiting for you
+{9695}{9752}There's some juicy work for you
+{9753}{9808}Let's do it together
+{9894}{9966}Just drinking water won't help
+{9971}{10063}You have no house, no money
+{10063}{10105}How can you live?
+{10106}{10184}Or do you think you'd be better off in jail?
+{10191}{10228}None of your business
+{10274}{10310}Don't be so boring
+{10475}{10580}Supper's ready. Still won't eat?
+{10580}{10668}It's three days now. What's the matter?
+{10675}{10789}All right, I'll eat by myself. Don't be angry
+{11051}{11089}What an idiot
+{11095}{11151}Oko! Oko!
+{11161}{11200}What's the matter?
+{11219}{11325}Everything's the matter. I hate this life!
+{11333}{11440}You're drunk
+{11441}{11478}What about your shop?
+{11586}{11663}Forget the shop
+{11672}{11796}Omatsu. When did you come back to Edo
+{11797}{11851}Right after I left
+{11852}{11902}You got sold again?
+{11903}{11984}My father was so happy
+{12004}{12089}Because he could sell me twice
+{12112}{12206}You were to blame too. Didn't it tell you?
+{12215}{12279}Don't talk so big
+{12319}{12369}You want me to thank you?
+{12381}{12444}I can say it a thousand times
+{12458}{12532}Thank you so very much, Master Genji...
+{12561}{12620}Stop it, Genji
+{12628}{12663}You can't blame her
+{12664}{12794}Anyway, she lives on her own
+{12795}{12881}Not a do-nothing like you
+{12882}{12915}Now eat
+{13735}{13767}Hurry
+{14404}{14452}One more?
+{14593}{14627}What is it?
+{14627}{14698}He's from the Ryukyus...
+{14699}{14758}The way he dives
+{14759}{14863}Oh, that's right. You were there
+{14892}{14954}Are you from the Ryukyus?
+{15501}{15568}Money!
+{16161}{16283}Be careful!
+{16748}{16855}Hey. Funny people!
+{16878}{16962}Foreigners!
+{16999}{17107}Government troops. Run!
+{17214}{17266}Hey!
+{17267}{17346}Yes, master
+{17409}{17481}It's nothing. Leave them be
+{17482}{17538}Thanks for your help
+{17592}{17621}Thanks
+{17631}{17700}Regroup! Regroup!
+{17773}{17879}I want you to go to Kyoto and kill Hara
+{17883}{17971}Kill Hara? Me?
+{17972}{18025}You're joking
+{18026}{18084}In our opinion,
+{18085}{18156}the new Shogun Yoshinobu is an idiot
+{18157}{18239}He's from a different family
+{18243}{18321}And he's selling the Tokugawas to country
+{18322}{18359}samurai
+{18360}{18452}We're their direct retainers,
+{18486}{18524}yet he reduced our pay
+{18525}{18579}All our complaints come down to one
+{18579}{18647}It's Hara. He's influencing the Shogun
+{18647}{18694}Here you are
+{18860}{18972}Forget your friendship. Just kill him...
+{18973}{19049}For the sake of samurai justice
+{19055}{19110}Why don't you do it yourselves?
+{19111}{19167}He's guarded too well
+{19168}{19243}But you can meet him because you're his friend
+{19244}{19287}And even if you're arrested...
+{19287}{19401}They'll think you did it
+{19402}{19472}for some personal reason
+{19527}{19598}For the sake of samurai justice?
+{19599}{19705}But I'm not a samurai any more
+{19706}{19769}You disgraced your family
+{19770}{19843}Think about them, too
+{19877}{19915}I've forgotten about them
+{19916}{20028}How can you forget them?
+{20029}{20092}How about it?
+{20119}{20183}Sorry, but no
+{20193}{20350}Duty? Justice? Samurai are always showing off
+{20383}{20532}But they're really no good. You're the same day
+{20631}{20685}Stop it. Stop!
+{20858}{20913}Don't mind me
+{20923}{20974}Genji, will you go with me
+{20975}{21007}to Yokohama?
+{21085}{21160}After the Civil War
+{21161}{21231}There supposed some weapons stock
+{21231}{21295}We would like to buy the weapons in good price
+{21296}{21375}You were sold
+{21376}{21416}to the Graver
+{21417}{21482}Graver? I know already
+{21517}{21616}Kinzo wants to buy directly from you American
+{21617}{21725}I'm a ordinary merchant
+{21754}{21826}It's not easy to buy weapon
+{21918}{21948}Seems it's not easy
+{21949}{21993}Will not give up
+{21994}{22052}Tell him Kinzo will come again
+{22107}{22183}Kinzo will not give up
+{22335}{22446}Poor people in Yokohama too? What a world!
+{22467}{22587}You don't really love Oko, eh?
+{22608}{22659}You can see Ine...
+{22659}{22693}She's with me
+{22694}{22751}because she has nowhere else to go
+{22752}{22835}I don't care for Ine
+{22836}{22855}Really?
+{23070}{23158}People will come out in the spring
+{23159}{23255}Listen, why don't we open the tent?
+{23296}{23371}I'm thinking of a new show
+{23376}{23484}That's good.|But now about going to Yokohama?
+{23489}{23583}The settlement there is like a foreign country
+{23597}{23656}Foreigners aren't bad, either
+{23670}{23711}What do you mean?
+{23726}{23812}I'm going to do business with the Americans
+{23840}{23939}So I'd like you to be nice to them
+{24032}{24068}Sleep with them?
+{24068}{24133}I'm not forcing you to
+{24170}{24280}Not me! Why don't you send Oko?
+{24281}{24353}Oko's not so young
+{24367}{24419}And she's fallen for Genji
+{24428}{24514}That slut. Genji's blame, too
+{24515}{24619}You don't have to start right now...
+{24650}{24797}The poor are rioting again. I can't ignore it
+{24816}{24929}I have learned that the show people
+{24930}{24982}are leading them
+{25063}{25127}Apparently you are to blame
+{25127}{25185}I'm sorry, sir
+{25192}{25243}Stop them right now
+{25244}{25296}I will. I promise
+{25297}{25330}One other thing:
+{25335}{25430}Is it true that you often meet Satsuma men?
+{25439}{25508}Satsuma men? Never
+{25509}{25546}Don't play dumb
+{25555}{25619}You often meet Tsukinogi
+{25619}{25678}and Ijuin
+{25698}{25802}They are only my personal friends, sir
+{25807}{25843}I have proof
+{25877}{25988}If you go too far, I will execute you
+{26035}{26130}Remember who got you your promotion
+{26131}{26206}I understand, sir
+{26264}{26304}What's that?
+{26311}{26376}It's only a small amount...
+{26420}{26481}That's an insult!
+{26719}{26815}It's getting dangerous. Stop the riots
+{26815}{26855}What about stealing?
+{26856}{26893}That too!
+{26894}{26954}But we've planned it for tonight!
+{26955}{26993}Cancel it
+{26994}{27071}What a pity
+{27071}{27142}You don't understand. Stop right now
+{27225}{27356}It's too late. Once we get started,
+{27357}{27419}we can't stop
+{27420}{27508}The master told me to steal. Not to stop
+{27509}{27574}He told us this morning to stop,
+{27575}{27636}but who cares?
+{27708}{27744}The police
+{27745}{27786}This is so much fun
+{27820}{27897}Let's try the American Legation next
+{28720}{28789}I told you to stop
+{28790}{28859}It was too late to call it off
+{28859}{28935}We stole five hundred RYO
+{28935}{29021}and hid them at the usual place
+{29022}{29088}Here's part of it
+{29095}{29118}Idiot
+{29157}{29246}I told you to stop because it's dangerous
+{29264}{29311}You once told us to steal
+{29312}{29369}for equality's sake
+{29370}{29422}We can't just stop
+{29423}{29483}We aren't too busy anyway
+{29483}{29540}Being in danger is fun, too
+{29541}{29656}If you're arrested, you'll have your head cut off
+{29657}{29704}No more
+{29705}{29726}Understand?
+{29908}{29934}We did it!
+{29942}{30210}Fire! Fire!
+{30903}{31029}Don't make noise. I've cut the flooring
+{31127}{31167}Where's the money?
+{31255}{31290}This way!
+{31334}{31359}Blow it up
+{31409}{31461}Looks difficult
+{31462}{31495}Light it
+{32171}{32231}Don't drop them!
+{32242}{32282}Someone's coming
+{32302}{32369}Ine, why are you here?
+{32370}{32410}Hurry
+{32488}{32539}Blow them up Hurry!
+{32582}{32683}Open the door! What are you doing?
+{33451}{33546}Opposite side...
+{33671}{33745}Ine, come here
+{33913}{33988}Arrest Genji for the Joshu thing only
+{33988}{34102}For injuring the village leader. Ignore the rest
+{34103}{34188}Lock him up for two months
+{34189}{34220}Very well
+{34343}{34434}Aren't we better off killing Genji?
+{34435}{34507}Genji is all right
+{34507}{34557}But for our safety,
+{34558}{34593}we'd better get rid of...
+{34594}{34624}Who?
+{34648}{34742}I don't want to, but...
+{35047}{35105}You're under arrest!
+{35187}{35252}Why are you acting like that?
+{35270}{35378}We arrest you for injuring|the Kawanishi village leader!
+{35379}{35411}Bastards
+{35418}{35446}Master
+{35669}{35760}Genji, I'll be waiting for you
+{36067}{36118}You betrayed me!
+{36230}{36310}No, Genji! You're wrong!
+{36332}{36501}You're wrong, Genji. I didn't. Genji
+{36538}{36595}What does the boss want me for?
+{36596}{36670}He's worried about you. Genji got arrested
+{36670}{36716}Good work, men
+{36787}{36830}What are you doing?
+{36948}{37049}What's going on?
+{37496}{37576}Poor Mago!
+{37577}{37643}He was my childhood friend
+{37644}{37699}Who killed him?
+{37699}{37773}Why don't you help Genji?
+{37775}{37833}I can't. He almost killed the village leader
+{37834}{37885}Why so cold-hearted?
+{37886}{37967}He can help you a lot
+{37967}{38029}You'll need him
+{38074}{38130}I'll try my best
+{38139}{38251}By the way, that stealing...
+{38269}{38355}We're stopping for a while. Remember that
+{38551}{38578}Mago...
+{38647}{38769}The license for your Western food restaurant...
+{38770}{38813}Has been issued
+{38832}{38878}Really, sir?
+{38941}{39053}Katsugoro, the controller of West Ryogoku,
+{39054}{39092}is old now
+{39119}{39175}I recommended you as successor
+{39175}{39232}Thank you, sir
+{39240}{39381}If you become more faithful to the Shogunate...
+{39382}{39444}We will promote you further
+{39605}{39668}Will you help Genji out?
+{39669}{39752}I'll do anything if you do
+{39753}{39799}Will you go to Yokohama?
+{39800}{39894}You don't want to? All right
+{39904}{40001}Some man! You're really cruel
+{40015}{40101}Only the cruel survive here
+{40167}{40296}Let's run off.|I don't want to give you to the Americans
+{40297}{40375}I'd take foreigners over you
+{40385}{40486}Go home. Go away, I said
+{40899}{40958}I came to help you. Run!
+{41012}{41038}Get dressed. Hurry!
+{41038}{41124}I'll go in your place. Run!
+{41282}{41320}Two women?
+{41417}{41448}A newcomer
+{41941}{41973}Genji
+{41974}{42026}Gon. What's happened?
+{42026}{42129}Theft. I have something to tell you
+{42152}{42208}Magoshichi got killed
+{42214}{42283}Killed? Who did it?
+{42292}{42317}Sanji
+{42343}{42370}Sanji?
+{42375}{42482}There's more. Our boss Kinzo was behind it
+{42482}{42509}Really?
+{42537}{42637}And HE was the one who had you jailed
+{42693}{42743}Actually...
+{42743}{42915}I was impressed to hear you'd sacrifice yourself
+{42915}{42959}Just to help Genji
+{42959}{43047}I admire your determination
+{43048}{43128}I like you
+{43129}{43176}You're really different...
+{43207}{43288}It's too bad we both had to...
+{43299}{43363}Never mind. No great loss
+{43373}{43473}Actually I enjoyed those three days
+{43474}{43535}It's been a long time...
+{43552}{43623}Remember his can-can dance?
+{43696}{43764}I'm giving Genji back to you
+{43818}{43854}But Oko...
+{43873}{43982}It's all right. I have no luck with men anyway
+{44600}{44673}She's here somewhere
+{44840}{44862}Nui!
+{44867}{44894}Nui! Take a good look
+{44902}{44981}Look what your wife is doing now
+{45098}{45147}It's too much
+{45148}{45247}Must a samurai's wife sink so low?
+{45591}{45685}I'm sorry, nut I must refuse
+{45778}{45887}I'm afraid I can't pay you in advance
+{45888}{45953}There'll be no work for you for a while
+{45954}{46071}If you need money, kill or steal
+{46089}{46161}If you hate me, kill me
+{46162}{46212}There's money here
+{46302}{46357}You once tried to commit suicide...
+{46358}{46439}With a prostitute. So I trusted you
+{46467}{46540}But you still think you're a samurai
+{46662}{46761}By the way. That prostitute is in town
+{47620}{47650}Nui!
+{47678}{47705}Yoshino!
+{47725}{47885}Yes. What's left of her
+{48039}{48145}I tried to forget you, but...
+{48146}{48249}After I became blind, your face...
+{48704}{48758}How long will it take?
+{48759}{48789}Two more months
+{48790}{48868}You're patient. A good boat
+{48915}{49099}Who will win, the Shogunate or Satsuma?
+{49100}{49249}It's clear by now. Satsuma and Choshu will win
+{49256}{49340}The world will get worse
+{49341}{49374}Why?
+{49395}{49503}If Satsuma wins, things will get worse
+{49511}{49605}Was Satsuma that rough on you?
+{49622}{49739}Samurai think they're great
+{49739}{49814}But they're just murderers
+{49850}{49914}You're different, though
+{49924}{50071}No. I'm no different. Samurai are all murderers
+{50154}{50194}I'm leaving Edo
+{50250}{50287}Good luck
+{50403}{50466}KYOTO
+{50588}{50681}I'm glad you made up your mind to come
+{50682}{50715}Did you meet Nui?
+{50715}{50735}Yes
+{50739}{50808}A guest from Edo. Prepare sake
+{50809}{50851}Another guest...
+{50851}{50897}Have him wait
+{50941}{51026}The Shogunate's people are to blame
+{51027}{51133}They are no longer samurai. They're just fools
+{51134}{51226}Don't you think samurai are necessary?
+{51227}{51267}That's going too far
+{51268}{51317}Do you think farmers
+{51318}{51382}you think farmers and|merchants can lead Japan?
+{51383}{51427}America has no samurai
+{51428}{51533}Our history is different. Samurai have pride
+{51534}{51638}Farmers and merchants are no patriots
+{51658}{51744}You should blame the social system
+{51745}{51778}Nonsense
+{51819}{51881}Why did you come here?
+{51940}{52002}Because you are a samurai, right?
+{52003}{52070}Yes. Because I'm a samurai,
+{52070}{52114}I will kill you
+{52115}{52173}I still can't forget I'm a samurai
+{52331}{52370}Forgive me
+{53148}{53250}More amulets
+{53313}{53397}Amulets again! It's fantastic!
+{53838}{53902}SUN-GODDESS AMULET
+{54672}{54774}The newest model Lincoln
+{54775}{54819}used to beat the South
+{54820}{54865}Real powerful
+{54866}{54912}Unokichi. Try it
+{55067}{55103}Not at us!
+{55350}{55450}I wonder how Lincoln won with these?
+{55647}{55674}What's this?
+{55704}{55763}A charm!
+{55931}{55995}Look! It's Sun Goddess' charm
+{55995}{56093}Charms. Charms from Heaven
+{56116}{56195}The Sun Goddess' charms fell near here!
+{56196}{56304}They fell on the fish store. It's fantastic!
+{56553}{56793}95,96,97,98...
+{57050}{57086}Genji!
+{57107}{57141}Are you all right?
+{57186}{57303}Charms! Charms from Heaven!
+{57373}{57400}Ine!
+{57413}{57485}Don't get up
+{57495}{57582}I thought about you all the time in jail
+{57601}{57625}About me?
+{57637}{57729}In America, they told me to stay
+{57735}{57790}But I came back to Japan
+{57790}{57859}I thought I missed Japan
+{57885}{57968}But it was probably you that I really missed
+{57987}{58114}That's sweet. Did you make that up in jail?
+{58115}{58211}No. I was fed up with everything
+{58211}{58287}I thought I'd go to America
+{58287}{58365}But I can't leave you
+{58393}{58488}I don't like it in the country. Here either
+{58489}{58632}But I'll stay here with you
+{58633}{58666}Really?
+{58695}{58779}If you want to go to America, I'll go
+{58779}{58820}I thought it over
+{58821}{58931}Thanks. But I'm not going
+{58960}{58991}That's fine
+{59121}{59217}I hate to tell you this, but in Yokohama...
+{59218}{59266}That American?
+{59267}{59299}You know?
+{59299}{59370}Gon came to jail just to tell me that
+{59371}{59446}He was worried
+{59457}{59504}Aren't you mad?
+{59512}{59575}I'm not happy about it,
+{59576}{59623}but since you did it for me
+{59624}{59674}I'm so happy!
+{59675}{59755}If you still wanted to go to America...
+{59756}{59842}I'd have to sleep with him again
+{59843}{59909}Idiot. What a woman
+{59910}{59956}Forgive me
+{60014}{60067}I'm a bad woman after all
+{60071}{60261}But I've fallen for you. I can't turn back
+{60270}{60354}Genji, I'm so happy
+{60355}{60429}I'll never let you go again
+{60444}{60516}A monster's come back to reform the world
+{60517}{60582}He's filled with the vengeance of the dead
+{60582}{60645}Looming up in the dark,
+{60646}{60739}a monster to reform the world...
+{60740}{60851}Come and look! The Goddess Ine's back!
+{60852}{60922}With the World Reformation
+{60930}{61000}Can-Can from across the sea
+{61001}{61066}Come on! EIJANAIKA why not?
+{61069}{61119}Been a long time
+{61119}{61165}You've changed
+{61166}{61212}So has the world
+{61213}{61261}Seems you've changed too
+{61262}{61347}I want to but I can't. Is Ayawaka here too?
+{61348}{61376}Yes
+{61385}{61436}Take care of her
+{61437}{61486}Not going to see the show?
+{61496}{61554}I have something to do
+{62152}{62190}LIFE IS SO UNCERTAIN THESE DAYS
+{62191}{62278}WILL TOKUGAWA WIN?|SATSUMA AND CHOSHU?
+{62279}{62348}WE CAN'T TELL, BUT WHO CARES?
+{62349}{62437}BOTH WANT TO REFORM THE WORLD.|WHY NOT?
+{62438}{62480}Eijanaika!
+{62481}{62558}THE CAN-CAN Eijanaika...
+{62566}{62646}PASTE SOME PAPER ON YOUR LOVE POT
+{62647}{62750}IF IT'S TORN, PASTE IT AGAIN
+{62758}{62844}LOVE YOUR NEIGHBOUR. GET IT WET
+{62849}{62947}TAKE YOUR CLOTHES OFF! WHO CARES?|Eijanaika!
+{62963}{63075}GO AHEAD. GO ON AND DO IT!
+{63075}{63155}MEN AND WOMEN,|HAVE SOME FUN! WHY NOT?
+{63155}{63198}Eijanaika!
+{63198}{63280}EDO IS CRAWLING WITH IMPOTENT MEN...
+{63284}{63332}Great idea!
+{63333}{63379}This will make money!
+{63674}{63800}Charms! Charms!
+{64482}{64612}What's wrong with scattering charms?|EIJANAIKA?
+{64659}{64760}I wonder who scattered these first?
+{64761}{64807}A god reforming the world
+{64808}{64847}Silly
+{64848}{64881}Then who?
+{64882}{64921}I don't know...
+{64922}{64986}Some gods, some from men
+{64987}{65032}They're all mixed up
+{65033}{65089}Now I see...
+{65096}{65287}A woman descended from Heaven
+{65722}{65783}Seen her before...
+{65784}{65818}Who is she?
+{65819}{65858}Sent to reform the world?
+{65859}{65921}The end has come for the Shogun
+{66153}{66230}I think the world may really change
+{66231}{66311}Are the gods changing it?
+{66311}{66377}I'm not sure, but it's probably the people
+{66378}{66443}Not now. Someone may come
+{66444}{66487}Let's do it tonight
+{66487}{66623}Doing it for World Reformation!
+{66625}{66687}Come on, come on, EIJANAIKA!
+{66732}{66823}Eat beef and pork,
+{66824}{66904}and be as big as foreigners
+{66905}{66985}Why not? EIJANAIKA!
+{67022}{67125}Have some sake! Drink up!
+{67332}{67392}I'm sorry for the noise
+{67393}{67435}It's gone on a month now
+{67436}{67526}It's strange, all this
+{67527}{67570}We helped it,
+{67571}{67625}but I'm not sure who really started it
+{67626}{67709}When people hear rumors about charms...
+{67710}{67786}They want them to fall on them, too
+{67787}{67812}I see
+{67813}{67883}They all want a new world
+{67884}{67944}They stir each other up
+{67945}{68019}By the way, the farmers are against
+{68020}{68090}the new firing range
+{68091}{68114}I heard that
+{68115}{68168}The drill grounds too
+{68169}{68271}I don't want the farmers
+{68272}{68319}to join this
+{68341}{68409}WE are the ones to crush the Shogunate
+{68410}{68493}Not commoners
+{68520}{68582}It's time to stop them, isn't it?
+{68583}{68619}Yes
+{68626}{68676}I agree completely
+{68742}{68814}Have you made up your mind?
+{68825}{69007}Yes, I have.|I'll lend you five hundred thousand RYO
+{69058}{69128}Thank you. We're grateful to Kinzo, too
+{69129}{69238}Congratulations! Let's drink to it,|like Westerners
+{69279}{69321}Bring on the beef steak
+{69377}{69443}And-when are you leaving?
+{69443}{69505}Right now. I must inform Saigo,
+{69506}{69577}our leader, about this
+{69578}{69706}You'll come back leading an attack|on the Shogunate
+{69707}{69779}Well, then, Masuya...
+{69818}{69941}For your promotion, and our bright future...
+{69959}{70057}To the new authorities, and a large profit
+{70065}{70101}A toast
+{70243}{70334}This is money from Masuya,|and this is from me
+{70345}{70370}Thank you
+{70371}{70420}Just return it ten times over
+{70437}{70552}I heard you were selling American guns|to the Shogunate
+{70553}{70603}That's not true...
+{70603}{70646}Don't overdo it
+{70647}{70720}They might shoot me with your guns!
+{70721}{70761}Very funny
+{70795}{70850}Be careful on the way...
+{72125}{72184}What are you doing?!
+{72266}{72327}I'm going to kill you!
+{72366}{72539}Recall what you did in the Ryukyus|five years ago...
+{72539}{72681}My parents, my brothers, my woman...
+{72682}{72850}You and your men killed them all
+{72862}{72983}Wait! I just carried out orders!
+{72983}{73057}I have important business
+{73133}{73192}Die...
+{73193}{73250}Satsuma swine
+{75137}{75174}It's been a long time
+{75196}{75257}long time no see
+{75271}{75317}Finished your Kyoto job?
+{75318}{75375}Yes. I'm finished being a samurai, too
+{75448}{75510}What's this?
+{75539}{75574}Pig's blood
+{75663}{75733}So you finished your job too...
+{75804}{75954}We are grateful
+{76028}{76157}Leave Edo for a while. The police are around
+{76158}{76282}We'll take care of your wife and your son
+{76283}{76336}Give the money to her
+{77261}{77422}No more sake. I don't want to fail again
+{77439}{77499}Are you ready?
+{77500}{77562}Yes. And you?
+{77570}{77644}I wish we could have a happier setting
+{77645}{77703}The fireworks will help
+{77890}{77928}You're under arrest
+{77929}{78013}We arrest you for the murder of Hara
+{78014}{78179}Good. An audience. The show is ready
+{78226}{78288}Under arrest
+{78347}{78383}Wait
+{78415}{78489}Goodbye. Thanks for everything
+{78560}{78610}Wait. Give yourself up
+{78618}{78664}Samurai are fools
+{78671}{78783}Watch me die... like a worm
+{78784}{78875}Farewell
+{80891}{80987}Smile, Ayawaka!
+{81004}{81063}Samurai are different
+{81064}{81106}Furukawa was a good man
+{81106}{81157}But he was a stranger after all
+{81170}{81221}He looked so nice
+{81263}{81312}Just looking nice doesn't help
+{81313}{81407}Try Gon!
+{82543}{82597}Stop. Don't cross the bridge!
+{82598}{82647}The area across the river
+{82647}{82691}belongs to the Shogun
+{82692}{82727}You can't go there
+{82728}{82816}EIJANAIKA. Cross the bridge! We don't care!
+{82817}{82900}Don't be arrogant! There's an army over there!
+{82901}{82979}So there's an army. We don't care! Why not?
+{83018}{83094}Ine! Gon! This is foolish! Stop!
+{83095}{83130}So we're foolish
+{83131}{83174}We don't care
+{83211}{83319}EIJANAIKA!
+{83403}{83500}Is it all right? The army has guns
+{83501}{83545}Just a threat
+{83546}{83610}They can't shoot us all
+{83752}{83822}It's hopeless. I can't stop them
+{83823}{83863}Don't be so weak
+{83864}{83953}Just stop them
+{83964}{84047}This is bad. It will be awful
+{84047}{84091}if they cross the bridge
+{84251}{84252}Kinzo, what is all this?
+{84253}{84315}If they storm into town,
+{84315}{84354}I'll lose face
+{84354}{84410}And you'll be finished
+{84736}{84771}Sanji, Sanji!
+{84772}{84831}Genji, Genji...
+{84832}{84946}Stop them and I'll help you move to America
+{84947}{84998}It's no joke now!
+{84998}{85059}Who wrote the Legation?
+{85059}{85130}Who sold Ine to the Americans?
+{85153}{85208}I had reasons...
+{85209}{85278}Who sent me to jail!
+{85279}{85335}You'd have been arrested anyway
+{85336}{85399}I did it for you
+{85400}{85441}Try to understand
+{85442}{85517}Who killed Magoshichi?
+{85518}{85573}You can't fool me!
+{85574}{85619}Genji
+{85639}{85686}The boats. The boats
+{85751}{85810}Let's take the boats!
+{85819}{85906}No. Don't cross the river!
+{85933}{85997}Look, we're just playing.|Why are you so upset?
+{85998}{86087}Your shop's there, right?
+{86088}{86126}Cross the river!
+{86126}{86179}We don't care!
+{86254}{86323}Go back!
+{86323}{86388}Cross river! EIJANAIKA!
+{86389}{86464}Fall back!
+{89195}{89239}Stop this at once!
+{89239}{89323}Or we'll shoot!
+{89350}{89453}Shoot us! Shoot us! We don't care!
+{89454}{89624}Dance here. Dance here. Why not dance?
+{89704}{89793}Go back! Back across the river!
+{89881}{89918}Ready!
+{89948}{89984}Fire!
+{90042}{90135}See, it's only a threat!
+{90136}{90198}Those guns are the ones the boss sold
+{90199}{90258}They can't do much
+{90269}{90392}Yes! They can't do much! We don't care!
+{90444}{90554}This time we'll shoot to kill!
+{90585}{90636}Aim at the front line
+{90738}{90802}Yoshikawa Unit, move to the right!
+{91100}{91147}So they're soldiers. We don't care
+{91185}{91340}If we're dancing, why not dance?
+{91388}{91425}Isn't this going too far?
+{91426}{91451}It's all right! EIJANAIKA
+{91451}{91581}Go all the way! Why not? EIJANAIKA
+{91710}{91764}Watch out!
+{91770}{91879}Stop it! You lousy showmen
+{91880}{91999}So we're showmen. EIJANAIKA
+{92008}{92070}Aim at that man!
+{92106}{92158}Be careful! Stop, Genji
+{92172}{92250}Are you really going to shoot us?
+{92261}{92310}That's not right, eh?
+{92390}{92489}I'll do it. Why not?
+{92602}{92656}Everybody!
+{93314}{93366}Let's dance, everyone
+{93367}{93407}They can't shoot us
+{93408}{93448}when we're just dancing
+{93463}{93507}Can you, Uno?
+{93507}{93608}Let's dance. Dance
+{93656}{93730}Shall we go on downtown?
+{93759}{93802}Sounds good. Let's go!
+{93802}{93897}Why not go downtown? EIJANAIKA
+{95294}{95379}It seems Kinzo is...
+{95380}{95415}Powerless
+{95415}{95461}What a pity!
+{95470}{95522}So Kinzo is...
+{95523}{95574}Finished
+{96013}{96049}Don't shoot!
+{96071}{96097}Stop!
+{96126}{96237}It's over now. Go back!
+{96291}{96418}You're so persistent, boss! Why stop?
+{96419}{96485}You're strange. I don't get it
+{96491}{96518}Fools
+{96525}{96584}Stop it! Go back
+{96606}{96675}Back across the river! Why not?
+{96676}{96743}Why not? EIJANAIKA!
+{96810}{96950}If you want to go, kill me first!
+{97014}{97066}Now! Kill me!
+{97067}{97103}But boss...
+{97147}{97222}Go back! Go back! Please go back!
+{97262}{97303}This is no fun!
+{97320}{97383}We shouldn't go on
+{97383}{97416}Let's go back
+{97522}{97577}Can't be helped. Let's go
+{97646}{97672}Bastard!
+{97685}{97769}That's right... Go back
+{97889}{97906}Fire!
+{97907}{97934}But...
+{97935}{97989}Fire, I said
+{97990}{98071}They're starting to go back! And the boss...
+{98072}{98195}Never mind! It's an order. Kill them
+{98218}{98274}Now! Fire!
+{98628}{98716}How dare you...?
+{99085}{99156}What's wrong with being shot...?
+{99157}{99316}That was mean. What's wrong... with dying...?
+{99323}{99374}Genji!
+{99462}{99492}Damn you!
+{99493}{99558}Forward!
+{99598}{99706}Go back! Back across the river!
+{99728}{99805}Hurry! Fire!
+{100281}{100384}The world is cruel when it's changing
+{100385}{100429}Yes. Quite
+{100956}{101120}Just when he said he'd stay here and live...
+{101127}{101184}I'm sorry...
+{101584}{101670}Itoman, this is for you
+{101727}{101780}It was Genji's
+{101925}{101967}Looks nice
+{102040}{102070}Ine
+{102087}{102126}What?
+{102159}{102218}A lock of your hair
+{102218}{102284}My hair? Sure
+{102545}{102578}What's wrong?
+{102705}{102802}The Ryukyus are far away, aren't they?
+{102816}{102876}Maybe I'll go somebody...
+{102975}{103010}Take care
+{103299}{103379}Goodbye. I'll miss you
+{104856}{105002}I'll never stop, Genji
+{105022}{105104}Nobody can stop me, let them try..

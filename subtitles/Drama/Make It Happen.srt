@@ -1,0 +1,786 @@
+{630}{670}(Girl) 'Glenwood, lndiana.
+{672}{742}'Population: 918.
+{745}{812}'Miles from Chicago: 291.
+{817}{860}'Dance schools: zero.
+{877}{947}'I've got one dream, one shot.
+{950}{1010}'Today, everything could change.'
+{1012}{1067}(Alarm beeps)
+{1105}{1197}/(Radio plays CHE'NELLE:|"Teach Me How To Dance")
+{1680}{1740}/Could you, could you,|could you teach me?
+{1742}{1782}/Show me that again
+{1787}{1840}/Could you, could you,|could you teach me?
+{1842}{1872}/You take the lead
+{1877}{1942}/Straight up!. Do you have rhythm|underneath your feet?
+{1945}{1992}/Does the beat flow|through that fine body?
+{1997}{2075}/Do you enjoy sweatin' all on me?
+{2080}{2150}/Whoa! Did you just bust|that move freestylin'?
+{2155}{2205}/Do you do much choreographin'?
+{2207}{2300}/You're wildin' out, boy, great timin',|I like a man who can dance
+{2305}{2422}/Showin', swingin', bangin',|teach me how to dance
+{2425}{2507}/Could you, could you teach me,|teach me how to...?
+{2510}{2592}/Could you, could you,|could you teach me?
+{2595}{2650}/Teach me how to dance...
+{2917}{2977}I'm off to the garage. You wanna lift?
+{2982}{3030}No, thanks.
+{3032}{3092}I'm gonna work the routine|a few more times.
+{3097}{3157}- Big day, huh?|- Yep.
+{3162}{3207}So you're packed?
+{3210}{3257}Almost.
+{3262}{3317}OK, see you later.
+{3365}{3410}(Sighs heavily)
+{3725}{3775}/(Radio plays rock music)
+{3825}{3877}- Hey.|- There you are.
+{3880}{3995}- Missed you at the party last night.|- Sorry, Wayne. I had to finish packing.
+{4000}{4062}- I burned you some travelling music.|- Oh!
+{4090}{4147}So, are you nervous?
+{4150}{4217}Not really. I'm more excited.
+{4220}{4285}Come on, it's the Chicago School|of Music and Dance.
+{4287}{4385}I know. I've only been dreaming about it|for as long as I can remember.
+{4387}{4502}The girls I'm up against, they trained with|the best teachers and choreographers.
+{4507}{4565}So you are nervous.
+{4567}{4657}Don't worry.|They'd be crazy not to take you.
+{4662}{4725}Has your brother lightened up at all?
+{4730}{4802}Hmm, you know how Joel can be.
+{4805}{4895}- He doesn't get it.|- He's just gonna miss you.
+{4897}{4997}This means me and my two left feet|will have to find a new dance partner!
+{5002}{5065}- You aren't that bad.|- Yeah, right!
+{5095}{5160}All right, good luck.
+{5260}{5327}- Get out of here.|- OK.
+{5755}{5820}- Good luck, Lauryn.|- Thanks, Marty.
+{5845}{5940}- Frankie quoted me 500.|- (Joel) Course he did, he's a crook.
+{5942}{5995}I'll do it for 250. Pick it up after lunch.
+{5997}{6032}(Girl#2) See you then.
+{6035}{6130}Hey, Clueless, I think she wanted|you to pick her up after lunch.
+{6290}{6367}Last month after payroll,|you're plus 600.
+{6370}{6405}Good month.
+{6410}{6500}That's still 1,800 behind|for the month before last.
+{6545}{6585}OK.
+{6587}{6655}I guess I'll be hitting the road.
+{6752}{6832}Joel...why am I on the schedule?
+{6835}{6887}Sorry, wishful thinking.
+{6890}{6972}Come on. I'm 21. It's now or never.
+{7010}{7107}If I nail this audition, I'm gonna be|in Chicago till my classes begin.
+{7110}{7147}(Sighs)
+{7152}{7210}Look, I got some interviews|together for you.
+{7215}{7310}Qualified bookkeepers to replace me.|Resumes are on my desk.
+{7312}{7397}15 grand a year tuition... I don't know|how you're gonna pull that off.
+{7400}{7460}With a part-time job, Joel.
+{7465}{7515}I promised after Mom and Dad died,
+{7520}{7570}I'd do whatever|to keep this place running.
+{7575}{7677}But I can't work in a garage all my life.|You know I've trained to be a dancer.
+{7680}{7722}Yeah, I know.
+{7755}{7790}All right.
+{7840}{7885}I'm outta here.
+{8350}{8417}Boss, if she don't work here no more,
+{8420}{8475}you think I could date her?
+{8535}{8597}Not if you want to live.
+{8600}{8667}/(BELLA SEOUL: "My Way")
+{8670}{8845}/Take the other road,|go where I wanna go
+{8850}{8965}/Just like a jigsaw puzzle,|some piece is out of place
+{8967}{9067}/You've lost your own perception|on how to win this race
+{9070}{9192}/Cos everybody in the world|seems to sing the same song
+{9197}{9307}/Marching to the same beat,|playing from the same drum
+{9312}{9405}/But I ain't afraid to keep|my own eternity
+{9407}{9532}/I live my live, I do it my way...
+{10307}{10377}- Excuse me, where do we check in?|- Up there.
+{10520}{10612}243. Next!
+{10632}{10687}- Name?|- Lauryn Kirk.
+{10692}{10745}Lauryn Kirk? 252.
+{10797}{10840}Next. Name?
+{11352}{11440}(Man) Thanks for coming in.|(Woman) 251?
+{11537}{11627}- I give her about a minute fifteen.|- You're kidding.
+{11632}{11695}If you last more than a minute,|you're lucky.
+{11697}{11752}/(Classical piano music)
+{12155}{12232}Thank you. Thank you,|Stephanie, that's enough.
+{12235}{12322}That's not what we're looking for,|but thanks for coming in.
+{12325}{12407}Enjoy your time in Chicago.|Who's next?
+{12410}{12445}(Sobbing)
+{12477}{12520}Number 252.
+{12710}{12767}(Man) Yeah, hi, how are you?
+{12787}{12862}Hi, I'm Lauryn Kirk|from Glenwood, lndiana.
+{12865}{12975}- So, what have you brought for us?|- It's...er...a piece that I put together.
+{12977}{13022}- May we see it?|- Yeah.
+{13175}{13262}That's OK. This is your time,|don't mind our schedule.
+{13375}{13447}/(ZSHATWA: "Put It Down")
+{13920}{14000}Hello! Hello, hello, stop! Stop!
+{14040}{14102}We received 2,000 tapes.
+{14105}{14192}You're one of the 300 people|here today, congratulations.
+{14195}{14260}But now I need more.
+{14265}{14300}I...I don't understand.
+{14305}{14380}We're looking for dancers|who can express real emotion,
+{14385}{14442}not fragments of it.
+{14445}{14532}Something softer, more sensual,|more feminine.
+{14535}{14582}More honest.
+{14637}{14680}Thank you, Miss Kirk.
+{14777}{14812}Who's next?
+{14862}{14927}OK, let's get right to it.
+{14957}{14995}Right here.
+{15462}{15497}Thanks.
+{15502}{15542}252, huh?
+{15565}{15662}I remember that cattle call.|It's a tough school.
+{15680}{15715}You auditioned?
+{15717}{15805}Oh, I don't know|if I'd exactly call it an audition.
+{15810}{15865}I lasted all of a minute and 12 seconds.
+{15910}{15940}Should I even ask?
+{16000}{16075}It's harder than you thought|it was gonna be, huh?
+{16077}{16170}At least my brother back home|will be thrilled to know I didn't get in.
+{16172}{16257}Yeah, all my brothers and sisters live|in the same town where we grew up.
+{16260}{16380}They thought I was crazy moving here.|My dad didn't speak to me for weeks.
+{16385}{16432}Did it get better?
+{16437}{16502}Yeah, now he calls me all the time.
+{16540}{16590}That school only lets in one percent.
+{16595}{16667}That's like 20 out of the thousands|who apply,
+{16672}{16737}so don't be so hard on yourself.
+{17132}{17192}(Phone rings)
+{17325}{17352}Hello?
+{17357}{17395}So how'd it go?
+{17400}{17435}OK.
+{17460}{17532}- You didn't get in?|- 'l didn't say that.'
+{17552}{17657}- So you did get in?|- They don't tell you right away.
+{17660}{17747}- Well, what does it look like?|- Looks good.
+{17777}{17867}- 'That sounds believable.'|- Look, Joel, I'm tired. OK, I...
+{17872}{17932}- 'Call me as soon as you know.'|- Yeah.
+{17937}{17985}(Car alarm wails)
+{17987}{18040}I gotta go.
+{18042}{18107}Wait! Stop!
+{18112}{18180}Stop! Wait, stop!
+{18215}{18247}Stop!
+{18652}{18700}(Thunderclap)
+{18960}{19017}(Door opens)
+{19020}{19070}Hey, are you all right?
+{19072}{19170}Let's get you out of this rain.|Call the tow company from my place.
+{19175}{19217}Come on.
+{19377}{19422}I really appreciate this.
+{19425}{19490}No problem. Trust me, I've been there.
+{19492}{19587}When I first got here, I got knocked|down so many times I lost count.
+{19590}{19660}And the looks,|like you're just some hick from...
+{19665}{19712}Indiana? Mm-hmm.
+{19752}{19802}Oh, what am I gonna do?
+{19805}{19875}My brother thinks I'm going|to dance school. What do I tell him?
+{19877}{19977}"l didn't get in.|And, oh, yeah, they towed my car, too."
+{19980}{20067}I can't go home.|There's nothing for me there.
+{20070}{20145}- So don't go.|- What, you mean stay in Chicago?
+{20150}{20250}If you don't mind sleeping on the couch,|crash here while you figure it out.
+{20252}{20320}Wait, you don't snore, do you?
+{20322}{20377}Not the last time I checked.
+{21505}{21537}Lauryn Kirk.
+{21542}{21585}- Klirk?|- No. Kirk.
+{21610}{21667}- No, I don't have you down here.|- I think it's...
+{21670}{21735}You gonna have to go wait over there.
+{22595}{22655}/(Dance music blaring)
+{23012}{23090}Excuse me. Can I ask who you're with?
+{23092}{23182}Oh, I was...er...|I was invited...here by a friend.
+{23185}{23262}- Through the service door?|- Right...er...
+{23265}{23327}- Can I see your lD?|- Yeah, of course...
+{23392}{23467}- I'm really sorry about this.|- That's OK.
+{23470}{23552}Lauryn Kirk from Glenwood, lndiana.
+{23555}{23612}"Corn and cars", that's our motto.
+{23617}{23652}I like corn.
+{23655}{23715}Actually if you just give me|your phone number,
+{23720}{23802}we can settle this,|and it's kind of a house rule...
+{23805}{23850}- Hey, you made it.|- Hey.
+{23852}{23907}- Is this guy giving you a hard time?|- No!
+{23930}{23977}But I thought he was the manager.
+{23980}{24045}The manager?|No, Russ is the music director.
+{24047}{24087}Guilty.
+{24117}{24195}- Nice try.|- Well, it almost worked.
+{24200}{24277}Sort that out later.|I wanna introduce you to Brenda.
+{24282}{24322}Bye, Lauryn Kirk!
+{24492}{24560}Brenda, this is Lauryn and vice versa.
+{24565}{24650}You've been looking for her,|for the bookkeeping job.
+{24655}{24715}Thanks, but I'm not adopting|any more strays.
+{24717}{24795}I need you upstairs getting ready.
+{24850}{24900}Wait, wait.
+{24905}{24967}I know you don't want a stranger|looking into your books,
+{24970}{25045}but I know QuickBooks,|I can do payroll in my sleep,
+{25050}{25127}and your quarterly 1087|is due in seven days.
+{25132}{25225}If you pay your crew in cash, you'll need|a perfect Schedule E to avoid enquiries.
+{25230}{25325}I've cranked those out like clockwork for|my family's business since I was 17.
+{25327}{25422}But if you just need me to file stuff,|I can do that, too.
+{25425}{25500}- You done?|- Yeah.
+{25502}{25580}Fine. Trial basis, $12 an hour,|and no benefits.
+{25585}{25617}OK.
+{25730}{25830}(Brenda) This is where the girls change.|This is your home away from home.
+{25832}{25907}You get paid every other week.
+{25910}{25977}You'll start at 3:00|and stay till we close.
+{25982}{26082}If you can't find something, look harder.|It's all in here somewhere.
+{26107}{26152}You can start...
+{26180}{26260}...by organising the January receipts.
+{26262}{26302}No problem.
+{26305}{26400}Oh, by the way, the other bookkeeper...|Iasted about a week.
+{26767}{26845}(Russ) Ladies and gentlemen,|welcome to Ruby's,
+{26850}{26907}the hottest spot in Chicago!
+{26910}{26975}(Clapping and cheering)
+{27152}{27205}/(BlTTER SWEET: "Get What I Want")
+{27642}{27775}/Hold the door, while I let myself in
+{27832}{27895}/I'm tired, boy
+{27900}{27980}/Need a drink, need a man
+{28035}{28130}/I'm not looking for trouble
+{28135}{28235}/I just want someone to tease
+{28280}{28372}/Maybe if you're lucky
+{28375}{28467}/I'll show you what I've got
+{28470}{28567}/But let's get one thing straight, dear
+{28572}{28675}/I get what I want
+{29015}{29162}/Here there, boy,|I am not like the rest
+{29202}{29350}/Let's have a dance,|while our souls get undressed
+{29415}{29502}/I don't care much for small talk
+{29505}{29605}/There's no need|to say a thing more
+{29610}{29707}/I can make you feel|something lovely
+{29710}{29795}/That you've never felt before
+{29847}{30017}/Maybe if you're lucky,|I'll show you what I've got
+{30040}{30142}/But let's get something straight, dear
+{30147}{30217}/I get what I want
+{31075}{31132}/Slow down, boy
+{31135}{31212}/Don't you step on my toes... /
+{31482}{31532}(Cheering and whistling)
+{31752}{31817}(Dana and Lauryn laughing)
+{31872}{31942}Hey, don't be late again.
+{31945}{31980}Aye-aye.
+{32025}{32092}- This goes on every night?|- Every night we're open.
+{32095}{32155}Brenda's got a real vision for the place.
+{32157}{32250}It's rooted in burlesque, but our dance|goes way beyond the traditional stuff.
+{32252}{32330}- Well, you were terrific up there.|- Thanks.
+{32335}{32410}What's up, girls? Good job tonight.
+{32415}{32502}- Brenda, hit me.|- Yes, wash this stuff down.
+{32507}{32577}Hey, this is Lauryn.|She's the new bookkeeper.
+{32605}{32677}Carmen's not interested|in any stories she's not the star of.
+{32680}{32752}Oh, still bummed I'm not the star|of your world any more?
+{32755}{32840}- Baby, stars burn out.|- Maybe you couldn't stand the heat.
+{32845}{32922}You guys wanna do some|after-hours damage at Junior's?
+{32925}{32990}- Yes. Cheers.|- (All) Cheers!
+{33045}{33117}- Right, first round's on Lauryn!|- What?
+{33135}{33192}(Shouting and jeering)
+{33330}{33387}/(LADY SOVERElGN: "Hoodie")
+{33985}{34067}Can we have a Cosmo|and a gin and tonic, no ice?
+{34070}{34097}Hey, two.
+{34642}{34707}Let's get this party started.
+{34710}{34795}/(LP featuring JOSE FUEGO:|"Pick It Up")
+{35182}{35277}Aw, well, welcome to Chicago.|Congratulations on the new job.
+{35307}{35390}Cool about earlier?|Cos I was just playing.
+{35420}{35495}- So how long you worked at Ruby's?|- About a year.
+{35515}{35597}- You like it?|- There's worse ways to make a living.
+{35602}{35657}I'll bet there are.
+{36065}{36142}- Why aren't you out there?|- Not my kind of dancing.
+{36147}{36257}Sitting back, hiding in your hoodie...|That's your kind of dancing?
+{36330}{36387}So...er...you and Carmen?
+{36390}{36437}No. No.
+{36440}{36505}That was like a 24-hour flu.
+{36510}{36612}You get it, you get really sick,|and then you get over it.
+{36845}{36920}So arrogant. "Are you just hide|out there in your hoodie?"
+{36925}{37047}Russ likes giving people a hard time,|especially if he thinks they're cute.
+{37050}{37100}Please.
+{37105}{37175}Russ was right.|You should've been on the floor with us.
+{37180}{37247}What, dancing like Carmen? Shakin' it?
+{37372}{37417}(Dana) Work it. Ha!
+{37445}{37487}I love it.
+{37490}{37600}Seriously, you're missing another side|you could bring to your dancing.
+{37602}{37655}I'm not dancing right now, remember?
+{38070}{38132}Hey, you're looking good.
+{38190}{38257}Why do my feet hate me?
+{38260}{38350}I don't know. Maybe it's cos|you're going from the twist into a step.
+{38352}{38400}Like you're missing something.
+{38405}{38477}- Right. I'll just eighty-six the combo.|- No, it's...
+{38480}{38612}No, I think the combination's fine.|It's just I think you're missing a piece.
+{38615}{38675}Like, if it was my thing
+{38677}{38795}and I wanted to do that|I would just go...here to there.
+{38797}{38867}Hmm...|Could you show me that again?
+{38870}{38907}Sure, it's simple.
+{38932}{38977}- Here.|- Here...
+{38980}{39032}Then here.
+{39035}{39080}Then there.
+{39085}{39142}- There... I like that.|- Yeah?
+{39147}{39207}Watch your back, D.|Girl's got moves.
+{39210}{39315}- Maybe you should watch yours.|- Her moves ain't that good.
+{39382}{39455}Maybe you should give it a try,|get up on stage one night.
+{39460}{39492}Are you kidding?
+{39497}{39582}I would fall on my ass in those heels.|Seriously, people would get hurt.
+{39587}{39672}- Shut up, you've got steps.|- No, it's not my thing.
+{39677}{39745}Oh, OK, and those clothes are?
+{39750}{39812}Seriously, Lauryn,|they're killing your sexy.
+{39815}{39907}- My sexy?|- Yeah, every dancer's got a sexy.
+{39910}{39997}You just got to find yours.
+{40000}{40077}/(ELlSABETH WlTHERS:|"Get Your Shoes On")
+{40082}{40137}/That's how we do it on the weekend
+{40140}{40222}/Turn up the radio|and let the speakers blow
+{40225}{40335}/Get your shoes on,|feel the party go get started... /
+{40757}{40805}Without further ado,|ladies and gentlemen,
+{40807}{40897}put your hands together for Dana!
+{40900}{40982}/(ROlSlN MURPHY: "Ruby Blue")
+{41070}{41112}Go, Dana!
+{42717}{42765}(Applause and cheering)
+{43050}{43107}Hey, Lauryn, meet Marcus.
+{43110}{43165}Oh, hi. Dana's told me all about you.
+{43167}{43255}You should've seen your girlfriend|on stage tonight. She nailed it.
+{43257}{43292}Really?
+{43295}{43352}We're gonna catch a bite to eat.|Wanna to join us?
+{43355}{43427}Oh, no, you two go.|I've got to finish up here...
+{43430}{43470}Yeah, you sure?
+{43472}{43560}- Yeah.|- OK, all right. Well, catch you later.
+{43565}{43627}- Like tomorrow.|- Bye.
+{43632}{43682}- Have a good night.|- Bye.
+{43722}{43772}(Sighs heavily)
+{44165}{44225}OK, I'm out of here.
+{44260}{44292}Hello?
+{44372}{44407}Anybody here?
+{46957}{47032}(Lauryn) I can't believe he said that.|(Dana) Me either.
+{47035}{47080}(Phone rings)
+{47185}{47272}You're still not taking|your brother's calls?
+{47275}{47357}Just not up for it.|He still thinks I'm in school.
+{47360}{47427}You can't hide here|and avoid him forever.
+{47430}{47497}- You've got to tell him sometime.|- I know.
+{47502}{47552}OK.
+{48167}{48265}- Come on, Cinderella.|- I gotta work, you guys go.
+{48267}{48312}(Growls)
+{48315}{48360}Bye, see you.
+{48397}{48502}(Knocks) Hi. Nice moves.
+{48505}{48582}- What are you...?|- I'm not gonna tell anybody.
+{48585}{48640}But just a hint...
+{48645}{48702}If you want to keep a secret,
+{48705}{48772}don't rehearse where you work,
+{48777}{48865}unless you know you're the only one|with a set of keys.
+{48930}{48997}Thanks, I'll try to remember that.
+{49032}{49067}You know, er...
+{49095}{49170}Think I could pry you away?|Maybe grab a drink?
+{49207}{49265}Not real thirsty.
+{49317}{49352}Cool.
+{49375}{49455}Cool. Er...next time.
+{49505}{49542}I could eat.
+{49600}{49677}Well, I got the perfect place.
+{49810}{49890}Growing up, my mom used|to tell me stories about Chicago,
+{49895}{49977}the lights, energy, the people.
+{49980}{50050}She dreamed of coming here|and being a dancer.
+{50052}{50145}- That's where you got the moves from.|- Yep. She studied to be one.
+{50150}{50257}Chose to be a mom instead.|So she passed the dream down to me.
+{50260}{50337}- Is she still in Glenwood?|- No, no. She passed away.
+{50390}{50447}I'm sorry.
+{50452}{50540}She got pretty sick when I was about 10,
+{50542}{50625}and it took a lot out of us,|especially my dad.
+{50630}{50732}After Mom, he just...|spent all his time in the garage.
+{50752}{50817}He said it kept his mind off missing her.
+{50867}{50930}And then one night, three years ago,
+{50932}{51005}I was coming back to the garage|after a recital.
+{51010}{51112}Joel was in lndy picking up equipment|and he'd asked me to stay with Dad.
+{51115}{51215}But some dancer friends|wanted to go out to dinner.
+{51220}{51282}Later when I did get to the garage...
+{51320}{51382}... I found him on the floor.
+{51385}{51447}He'd had a heart attack.
+{51500}{51565}I always wonder if I'd just got there|10 minutes earlier...
+{51567}{51637}You can't do that to yourself.
+{51667}{51797}After that, I put school on hold|to stay and help Joel out with the shop.
+{51800}{51887}Since losing Dad,|it's just been the two of us.
+{51927}{51987}That had to be hard.
+{51990}{52042}You know, all of it.
+{52045}{52080}Yeah.
+{52125}{52162}(Sighs)
+{52167}{52215}So what's in there?
+{52220}{52305}This? This is the best|sweet and sour shrimp in Chicago.
+{52310}{52345}- Really?|- Want some?
+{52350}{52385}Sure.
+{52517}{52572}Yeah, that's Lincoln Park,
+{52575}{52670}where all the kids hang out|with the students and what not.
+{52672}{52735}Then you got downtown,|where the bankers are.
+{52737}{52797}That's pretty much Chicago.
+{52835}{52870}Well...
+{52892}{52972}Thank you for a wonderful dinner.
+{52977}{53012}Anytime.
+{53122}{53197}I don't remember seeing that|on the menu.
+{53200}{53280}Yeah, well, that's the Chef's Special.
+{53355}{53397}Good night.
+{53400}{53440}Good night.
+{53842}{53915}- Hey.|- Hi.
+{53917}{53970}- How's it going?|- Good.
+{54015}{54077}So I had a good time last night.
+{54082}{54117}Me, too.
+{54120}{54210}You have got to be kidding me.|Carmen's running late.
+{54212}{54272}Doesn't Dana go on first anyway?
+{54275}{54352}Do you see Dana?|No, because she called in sick.
+{54357}{54430}- And I have a line...|- I can spin till Carmen gets here.
+{54435}{54505}I have three birthday parties|and a room full of VlPs.
+{54507}{54595}No offence, Russ,|but they didn't come to hear you spin.
+{54597}{54672}- You could let Lauryn dance.|- What?
+{54675}{54745}Brenda, I've seen her dance,|OK, she's good.
+{54747}{54830}Why don't you just give her a shot?
+{54832}{54955}Look, Lauryn, you're a sweet kid,|but you're obviously no dancer.
+{55027}{55067}Why did you tell her that?
+{55070}{55127}What, you're gonna hide out|back here?
+{55130}{55182}What you saw me doing|was fooling around.
+{55187}{55267}- I don't dance like Ruby's girls.|- So do your thing.
+{55272}{55352}Trust me, when you get on stage,|nobody's gonna care.
+{55355}{55392}Well, I care.
+{55435}{55490}You moved to Chicago to be a dancer.
+{55492}{55565}I moved here to go to school.
+{55595}{55637}OK.
+{55642}{55682}I'm sorry.
+{55737}{55825}(Brenda) Look, price doesn't matter|as long as you get her here.
+{55830}{55867}Yes, a cab.
+{55910}{56000}How long? All right.|Thanks, I'll give them a try.
+{56147}{56207}Joe, it's Brenda,|I need a girl right away.
+{56210}{56250}Give me a shot.
+{56300}{56342}I can do it.
+{56462}{56540}/("Steamy")
+{56670}{56722}(Cheering and clapping)
+{56945}{56995}(Glass smashes)
+{57000}{57082}(Booing and laughing)
+{57275}{57332}(Woman) Get off the stage!
+{57337}{57392}What is this, amateur night?
+{57555}{57635}(Jeering and booing)
+{57787}{57862}/(LlL MAMA: "Shawty Get Loose")
+{58075}{58147}(Cheering and whistling)
+{60005}{60070}We have a tradition.|After your first dance...
+{60107}{60172}-...a toast on the house.|- Thank you.
+{60175}{60272}If I didn't know any better,|I'd say you rehearsed for tonight.
+{60275}{60317}Beginner's luck.
+{60322}{60377}"Beginner"..you got that right.
+{60492}{60530}Well...
+{60535}{60595}...that just proves|how good you were tonight.
+{60600}{60660}- Cheers.|- Cheers.
+{60662}{60740}You wanna get out of here?
+{60850}{60910}(Russ) Really?|You grew up around a garage?
+{60912}{60967}(Lauryn) Yeah, I know|my way around a car.
+{60970}{61062}- I'd like to see you as a grease monkey.|- Oh, yeah.
+{61065}{61155}That'd be Joel's dream come true,|keeping me in that shop.
+{61157}{61280}- Well, he's just a protective brother.|- A little too protective.
+{61282}{61405}He doesn't want me to get my hopes up,|so he means well, I guess.
+{61442}{61545}- This is really impressive.|- It's my entire life, right here.
+{61585}{61647}- That yours, too?|- Mm-hm.
+{61650}{61737}Yeah, I gotta admit something|that's been bothering me for a while.
+{61740}{61792}What's that?
+{61795}{61835}I lied.
+{61875}{61940}When I said I liked corn,|that was a blatant lie.
+{61945}{62005}I actually hate corn.
+{62007}{62110}Wow. I feel betrayed, like I don't|even know you any more...
+{62162}{62280}- Play me something you wrote.|- What, now? No. No, it's...
+{62285}{62332}Quit stalling, Music Man.
+{62392}{62437}OK.
+{62440}{62485}OK.
+{62487}{62592}This one I'll play you is...|It's not finished yet.
+{62597}{62705}And...er..you know, don't judge it.|OK, please?
+{62707}{62760}- OK.|- OK.
+{62792}{62847}/(Jazzy dance tune)
+{63082}{63122}This is you?
+{63125}{63175}Yeah, I just, I looped the vocals.
+{63180}{63257}- On the sax, that's you, too?|- Mm-hm.
+{63325}{63385}You should play more.
+{63405}{63445}You're good.
+{63447}{63482}Thanks.
+{63542}{63620}So that's pretty much it.
+{63625}{63692}- It's not finished.|- Why not?
+{63725}{63785}Cos I haven't got around to it.
+{63890}{63952}I think someone's eager|to change the subject.
+{63955}{63997}Yeah. Yeah.
+{64000}{64090}This your thing?|Going though all the girls at the club?
+{64095}{64157}- Mm-hm, all of them.|- That's what I thought.
+{64160}{64235}First Carmen and then who else?
+{64237}{64307}You know,|somebody needs to shut you up.
+{64312}{64365}- Oh, really?|- Mm-hm.
+{64580}{64670}- What's wrong?|- I think I had too much to drink.
+{64707}{64802}Well, then, you...er...shouldn't drive.
+{64872}{64962}I'm sorry, I don't...|I don't think I'm ready for that yet.
+{65000}{65075}That's not what I was talking about.
+{65567}{65632}/(ALANA D: "Break It Down")
+{67180}{67245}(Phone rings)
+{67430}{67482}(Sighs heavily)
+{67510}{67577}Hey. Got your email.
+{67580}{67670}Yeah, I was gonna call you. I got a job.
+{67710}{67817}- At a garage?|- No, at a club, called Ruby's.
+{67860}{67950}OK, what's with the silence?
+{67952}{68042}Had to let Marty go.|It's no biggie, just a little downsizing.
+{68045}{68097}'So how's the school?'
+{68102}{68145}It's good.
+{68150}{68235}I sent you some stuff I found|in the attic I thought you might want.
+{68237}{68297}- 'Some of Mom's things.'|- Thanks.
+{68342}{68442}I gotta go. I booked some studio time|and my class is starting, so I should...
+{68447}{68537}Yeah. Yeah, sorry. Take care.
+{68967}{69075}Lauryn, I have three regulars outside|asking when they'll see you dance again.
+{69080}{69142}I told them tonight. Can you be ready?
+{69145}{69185}Yeah.
+{69305}{69397}You haven't earned the right|to be on that stage.
+{69400}{69457}- Excuse me?|- Yeah, you're a dime a dozen.
+{69460}{69525}Just another girl from Bumbalow|trying to make it big.
+{69530}{69622}Guess what, this is the real world and|people come to see something special.
+{69625}{69690}Not that stuff you do.
+{69692}{69745}Bullshit, Carmen.|I've trained my whole life.
+{69747}{69782}Please.
+{69785}{69862}The tradition takes years to perfect.|You don't just roll in and own it.
+{69867}{69927}Lauryn, ten minutes and you're up.
+{69960}{70017}What's going on?
+{70022}{70120}Break a leg. Really. I mean it.
+{70230}{70302}Ladies and gentlemen,|let's give a warm Ruby's welcome
+{70305}{70387}to the newest addition|to the family... Lauryn!
+{70390}{70435}(Cheering)
+{70437}{70497}/(Unkle Jam: "Love Ya")
+{72367}{72425}Like you said, girl's got moves.
+{73490}{73585}So...er...this school|you auditioned for,
+{73590}{73665}did they say anything, you know,|like why you didn't get in?
+{73670}{73725}Sort of, I guess.
+{73730}{73780}Can I be honest with you?
+{73785}{73855}I think whoever made that decision|is nuts.
+{73917}{74015}OK, the director of the dance|department didn't like my routine.
+{74020}{74070}He said he thought it wasn't...
+{74072}{74147}sensual or feminine enough|or something like that.
+{74150}{74232}Let's wrestle him into Ruby's one night|and prove him wrong.
+{74235}{74310}I don't think he's looking|for Ruby's kind of dancers.
+{74315}{74375}This guy can't have final say|in your life.
+{74380}{74492}Well, no offence, but he is|a world-renowned choreographer,
+{74495}{74607}so I think he knows a little bit more|about dance than me and you.
+{74610}{74672}Well, I know what I see and...
+{74675}{74772}...I see that you could be as sexy|as Carmen if you wanted to be.
+{74775}{74830}Oh, really?
+{74835}{74880}You know what, Russ?
+{74882}{74972}My life's goal isn't|to be as sexy as Carmen.
+{74975}{75065}- Hey... I'm sorry, that came out wrong.|- Oh, you think?
+{75067}{75157}Yeah. This isn't about Carmen,|this is about you.
+{75185}{75257}You can mix it up better|than any of those girls at Ruby's,
+{75262}{75312}and trust me, I've seen 'em all.
+{75315}{75392}And you have the potential|to go so much further.
+{75397}{75447}That's all I was trying to say.
+{75550}{75597}What?
+{75665}{75707}Come on.
+{75740}{75820}Ow! You know, you're kind of cute|when you're mad.
+{75825}{75887}- I'm not talking to you.|- I'm just saying.
+{75890}{75920}Shut up!
+{77165}{77207}Mom...
+{77420}{77462}Hey.
+{77467}{77505}Hey.
+{77507}{77607}Your routine felt a little off tonight.|Something on your mind?
+{77632}{77722}Just...some stuff from back home,|I guess.
+{77832}{77945}My favourite teacher once told me...|dance is a window to the soul.
+{77975}{78030}It doesn't let you hide.
+{78082}{78145}But if you always fight what you feel,
+{78150}{78262}you'll never tap into what could|make you not just a good dancer
+{78267}{78305}but a great one.
+{78372}{78407}Yeah.
+{78545}{78592}Lock up when you leave, OK?
+{78595}{78630}OK.
+{81130}{81182}/(KEKE PALMER: "Bottoms Up")
+{81185}{81260}/Get off the wall,|don't matter what they think
+{81262}{81330}/From your fingertips|to your toes
+{81335}{81395}/You know you're hot,|so let everybody know
+{81400}{81477}- /Gotta take it low|- /Bottoms up, bottoms up...
+{81680}{81765}/Yeah, keep it movin', man,|make it poppin', man
+{81770}{81832}/I'm on the move,|gotta catch me when you can
+{81835}{81887}/Might see my face|on the movie screen
+{81890}{81952}/Hypnotise you frame by frame,|scene by scene
+{81955}{82012}/Get your head up, do your thang
+{82015}{82102}/Get off the wall,|don't matter what they think... /
+{82952}{82977}(Knocking)
+{82982}{83017}Coming.
+{83272}{83317}Is something wrong?
+{83320}{83367}No, not at all.
+{83370}{83430}You just look amazing. Come on in.
+{83632}{83682}You are a closet romantic.
+{83725}{83792}Well, I've been called worse.
+{83880}{83912}Shall we?
+{84045}{84085}Wait. Let me.
+{84145}{84205}- Thank you.|- You're welcome.
+{84282}{84372}- May I offer you some wine?|- Yes, please.
+{84445}{84480}Thank you.
+{84482}{84517}(Sizzling)
+{84520}{84640}Oh, no. I gotta check the oven.|I'll be right back.
+{84867}{84925}How about a take-out?
+{84955}{84995}I don't know, it's like...
+{84997}{85072}...as long as the shop is alive,|a little piece of my parents is, too.
+{85075}{85157}So, it would kill me|if Joel ever closed it.
+{85160}{85262}- You two sound close.|- We've had our moments.
+{85300}{85357}So I wanted to thank you|for the other night.
+{85360}{85395}For what?
+{85412}{85455}You were right.
+{85457}{85537}I can't let somebody I've met once|decide what I want.
+{85540}{85657}So I did some research...and...
+{85662}{85772}...the School of Music and Dance usually|accepts 20 applicants in a school year.
+{85805}{85857}But this year only 18 qualified.
+{85860}{85935}So they're holding|a second round of auditions
+{85940}{86017}for the next semester|to find their remaining two dancers.
+{86022}{86065}You're gonna re-audition?
+{86070}{86162}I think so. In three weeks.
+{86165}{86235}...the problem was the record company|got in my business,
+{86240}{86295}trying to tell me how to do it,|you know.
+{86300}{86352}I thought I knew better, so...
+{86395}{86452}...so I walked away.
+{86457}{86547}- Just like that?|- Just like that.
+{86550}{86612}I backed out of the deal and...
+{86630}{86720}...fell in with the wrong crowd,|and...er...
+{86722}{86782}...and...er..you know?
+{86785}{86867}Eventually, I ended up at Ruby's,
+{86870}{86927}and I straightened myself out.
+{86965}{87017}See, here's the thing.
+{87082}{87197}See, everybody who walks away|from a dream has a reason.
+{87255}{87305}I think it's brave...
+{87337}{87402}...to take another shot.
+{87490}{87610}Sometimes I just feel like|I'm doing it all wrong.
+{87612}{87662}Well, you're not.
+{88460}{88510}/Listen to me...
+{88512}{88575}/(JAMELlA: "Beware Of The Dog")
+{89145}{89202}/You know how much you want him
+{89205}{89292}/You're trying to be cool about it,|you're trying to be big about it
+{89295}{89380}/You're constantly just denying
+{89382}{89495}/You're like a moth to a flame,|can hardly wait but listen
+{89500}{89570}/Cause I know what I'm saying... /
+{91562}{91627}(Cheers and applause)
+{92012}{92060}Joel, stop!
+{92062}{92097}Wait!
+{92112}{92187}- Could you put some clothes on?|- What are you doing here?
+{92190}{92247}I came to congratulate you|on getting into the school,
+{92250}{92307}only they've never heard|of a Lauryn Kirk.
+{92312}{92357}You call this chasing your dreams?
+{92360}{92422}Is this all the hard work|you've been doing?
+{92450}{92552}I didn't get in.|I didn't know how to tell you.
+{92555}{92642}But if you'd stuck around,|you'd see how difficult the routines are.
+{92647}{92717}- I saw enough.|- Why don't you listen for a change?
+{92720}{92790}I'm on the verge of losing the shop,|and I drove six hours for this.
+{92792}{92870}- What do you mean?|- I have to sell or the bank'll foreclose.
+{92875}{92917}- I can't make the payments.|- What?
+{92922}{92982}- Equipment, leases, everything.|- Why didn't you tell me?
+{92985}{93032}Why would you care?
+{93037}{93127}You're a big city girl now,|you're a dancer.
+{93130}{93190}Why have you always had|a problem with me dancing?
+{93195}{93257}You think the world revolves around you,|you always have!
+{93262}{93367}How dare you? I put my life on hold|for three years, Joel!
+{93372}{93487}And you put Dad on hold that night!|You should've been there, Lauryn!
+{93687}{93737}Hey, you OK?
+{93932}{93997}Maybe he was upset|because you were so bad.
+{94000}{94072}Ease off, Carmen. She was killing it.
+{94075}{94162}He drives hours to get here, then|has her embarrass the family name.
+{94165}{94245}- Hey, hey, stop, stop.|- (Lauryn) I'm sick of your shit.
+{94247}{94307}Enough!
+{94310}{94367}You happy, Carmen?
+{94400}{94432}God, girl.
+{94587}{94700}Lauryn! Lauryn, wait!|She's just trying to get in your head.
+{94702}{94770}She can get in line cos there's|enough going on in there already.
+{94772}{94822}Hey, come on.
+{94825}{94920}I know that this was a lot,|but he knows now.
+{94925}{95010}- You don't have to lie any more.|- What if he's right?
+{95012}{95082}All my life my family gave up|so much for me.
+{95110}{95155}What if I'm selfish?
+{95160}{95252}What are you going to do,|you just going to quit dancing?
+{95255}{95362}- Gonna quit living your life?|- Joel's the only family I have.
+{95367}{95417}I shouldn't be here|chasing some stupid dream.
+{95420}{95487}I should be home helping him.
+{95525}{95635}- I'm sorry, I have to go.|- Who do you think you're fooling?
+{95637}{95735}I know you're going home|because you're scared of that audition.
+{95740}{95770}What?
+{95775}{95865}If this was about your brother,|you'd have told him before tonight.
+{95867}{95900}What are you talking about?
+{95905}{95990}I know that you're running|because you're scared and that's it.
+{95995}{96090}I'm sorry if it shocks you that I'd help|my family out in a time of crisis,
+{96092}{96165}but that's how we do things|where I come from.
+{96170}{96277}Lauryn, come on.|Lauryn, you're making a big mistake.
+{96410}{96445}Lauryn!
+{97025}{97092}What are you doing here?
+{97127}{97192}I found two new wholesalers|we can use.
+{97195}{97320}- That should catch us up half-way.|- Wait, just slow down for a second.
+{97325}{97407}- Are you back here to work?|- I'm not gonna let you sell.
+{97410}{97477}We can catch up.
+{97480}{97567}Look, l...|said some things I didn't mean.
+{97592}{97632}I know.
+{97637}{97690}I'm sorry. OK?
+{97735}{97842}Can I just get back to this? I was almost|done with last month's reviews.
+{97845}{97885}Yeah.
+{97887}{97972}Look, are you sure about this, Lauryn?|Being back?
+{98022}{98082}It was Dad's shop.
+{98087}{98142}You know what it meant to him.
+{98205}{98240}Hey...
+{98275}{98327}..you remember that time
+{98330}{98400}that you got the bicycle|on your eighth birthday?
+{98405}{98520}Yeah, I drove it in the shop, crashed|into the Buick and chipped my tooth.
+{98522}{98567}Yeah!
+{98677}{98747}I can dance another time, Joel.
+{98795}{98847}I'm here now.
+{99430}{99472}(Phone rings)
+{99590}{99650}(Dialling tone)
+{99695}{99745}(Ringing)
+{99900}{99957}(Message service beeps)
+{99962}{100087}Hey, it's me.|Er...I was just calling to say hi.
+{100092}{100237}'And...er...I'm not burning|the chicken any more, so...'
+{100280}{100325}I hope you come back soon.
+{100352}{100387}'Bye.'
+{100767}{100827}(Dialling tone)
+{100830}{100877}(Phone rings)
+{101010}{101040}Hey, stranger.
+{101045}{101142}I hear the last school audition|is this weekend.
+{101145}{101180}I know.
+{101182}{101250}You're going to be there, right?
+{101252}{101350}You know, I'm just...I'm really...|buried in paperwork here and...
+{101355}{101447}(Dana) 'Come on, Lauryn.|Have you talked to Russ?'
+{101485}{101542}No. He called, but...
+{101545}{101600}'You should, you know.'
+{101685}{101732}Look, I'll talk to you later, OK?
+{101735}{101782}Yeah.
+{101810}{101845}Bye.
+{102170}{102222}/(Music plays)
+{102225}{102332}Oh, hey, I love this song.|Come on. Come on.
+{102360}{102397}I need an alternator permit.
+{102402}{102465}/(SALT 'N' PEPA: "Push lt")
+{102467}{102532}For old time's sake.
+{102552}{102600}Wednesday?
+{102602}{102717}/...we know how to become|number one in a hot party show
+{102720}{102762}- /Now push it|- /Ah, push it
+{102802}{102880}- /Push it good|- /Ah, push it
+{102885}{102950}- /Push it real good|- /Ah, push it... /
+{103895}{103990}- Oh, hey, I thought you left already.|- Just finishing up.
+{103995}{104047}Yeah, it's never done, is it?
+{104320}{104370}After Mum and Dad,
+{104372}{104420}you never quit...
+{104440}{104487}...never threw in the towel.
+{104552}{104597}I guess.
+{104602}{104697}You're the most unselfish person I know.|And you know what?
+{104702}{104777}You have always been|one hell of a dancer.
+{104845}{104950}Don't know how it happened.|Certainly wasn't cos I encouraged you.
+{104975}{105042}Speaking of which, you're fired.
+{105060}{105137}What? Joel, without me|you'll lose Dad's shop.
+{105140}{105205}It's not Dad's shop any more, it's mine.
+{105207}{105285}And I have to take care of it, not you.
+{105290}{105375}Lauryn, I'm not going to let you|sell out your dreams to live mine.
+{105377}{105440}So you need to get in your car,
+{105445}{105550}drive back to Chicago|and kick that audition's ass.
+{105552}{105597}All right?
+{106042}{106090}Get out of here.
+{106520}{106582}(Russ) Lauryn!
+{106585}{106642}- What are you doing here?|- Where else would I be?
+{106645}{106712}Here, I made you a track.
+{106747}{106857}What are you waiting for?|Go do your thing.
+{107227}{107287}/(Classical piano music)
+{107322}{107372}(Judge) Thank you.
+{107402}{107502}- Excuse me, this is a closed session.|- Yes, I'm here to audition.
+{107505}{107565}- (Judge) Miss...?|- Kirk. Lauryn Kirk.
+{107570}{107672}Right. We held a set of auditions|this morning for those re-applying.
+{107675}{107750}We're only seeing first-time applicants|this afternoon.
+{107752}{107807}But I just drove 300 miles.
+{107825}{107912}And my staff will do their best|to reschedule you for next year.
+{107915}{107972}No, thank you. I'm here now.
+{107975}{108097}Well...I trust you've brought something|more interesting than last time.
+{108102}{108152}Is that correct?
+{108185}{108237}I'll let you decide.
+{108522}{108610}/(LADY GAGA: "Just Dance")
+{111535}{111572}(Russ) Woo!
+{111575}{111627}That's how you do it!
+{111675}{111722}Thank you, Miss Kirk.
+{111727}{111820}I'm afraid you're right,|some things should not be rescheduled.
+{111837}{111877}See you next semester.
+{111880}{111955}- Thank you.|- (Russ) My girl! Right here!
+{112042}{112092}Congratulations.
+{112487}{112530}(Lauryn) Hi.
+{112562}{112642}She's not in the best mood.
+{112692}{112775}Only employees are allowed in|before we're open.
+{112780}{112822}I...er...
+{112825}{112922}- I just came by to get my cheque.|- Your cheque?
+{112927}{113007}After the jam you left us in|when you took off like that,
+{113010}{113057}you think I owe you a cheque?
+{113060}{113105}I'm really sorry.
+{113110}{113187}OK, I promise it had nothing to do|with Ruby's. I love this place.
+{113192}{113250}(All) Surprise!
+{113252}{113317}(Clapping and cheering)
+{113320}{113372}- Got you.|- What?
+{113377}{113425}(Cheering)
+{113460}{113537}Hey, congratulations.
+{113555}{113635}Hey, Lauryn, look...|I'm sorry about all the BS, OK?
+{113640}{113727}I was just giving you a taste|of what I got when I started.
+{113730}{113817}I'm just glad you're getting out of here|so I can get my stage back.
+{113847}{113905}- Congratulations, sis.|- I'm glad you came.
+{113910}{113962}- I'm proud of you.|- Can I have a turn?
+{113967}{114002}- Hi.|- Hi.
+{114030}{114122}- You'll be sorely missed around here.|- I'm only a couple of blocks away.
+{114127}{114212}Good cos I don't need any distractions|when I'm making my album.
+{114217}{114307}- It's about time.|- I know. Cheers.
+{114312}{114412}What's everybody standing around for?|Is this a dance club or what?
+{114417}{114482}/(CLASSlC: "So They Say")

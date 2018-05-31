@@ -1,0 +1,682 @@
+{6}{63}Uh, my glasses, I can never find 'em.
+{66}{129}Mrs Fenster! Help!
+{214}{275}Thank you. Happens all the time.
+{278}{344}OK, Alberto Valvo.
+{347}{445}Uh... "Sight Restoration|after Long-term Blindness."
+{448}{479}Ah...
+{482}{577}"One must die as a blind person|to be born again
+{580}{634}as a sighted person."
+{637}{727}"However, it is the interim,|the limbo between two worlds,
+{730}{765}that is so terrible."
+{819}{890}There you go, pal. You're in limbo.
+{893}{1010}That... That's it? Limbo? I mean...|That book doesn't have anything else
+{1013}{1144}- that might help with Virgil's condition?|- Limbo's not so bad. It's like New Jersey.
+{1147}{1240}You can see where all the good stuff is.|You just have to get there.
+{1243}{1337}I know, I know,|you were expecting Anne Bancroft.
+{1340}{1405}A dramatic breakthrough|out by the water pump.
+{1408}{1457}Sorry, I'm just a professor.
+{1460}{1544}I teach people how to teach the blind|how to become independent.
+{1547}{1652}Unfortunately, there's no manual|on what you're going through.
+{1655}{1777}I'd like to help, but like the rest of things|in life, it's really up to you.
+{1808}{1886}Are you crazy? I'm completely confused.
+{1889}{1977}You said you'd like to help,|so we came here for help...
+{1984}{2091}- All right, all right, you want a lesson?|- Yes!
+{2094}{2165}Here we go. Lesson number one.
+{2184}{2233}Repeat after me...
+{2236}{2304}The rain in Spain stays mainly...
+{2307}{2374}Look, I'm kidding! It's a joke.
+{2416}{2464}What's this?
+{2562}{2622}It's an... It's an apple.
+{2625}{2708}Good, good.|You've now won the toaster oven.
+{2718}{2759}OK.
+{2845}{2887}What's this?
+{2901}{2950}It's an apple.
+{2953}{3064}Good, but is it an apple|or just a picture of an apple?
+{3196}{3288}OK. So, uh, this is a joke, right?
+{3291}{3410}What are you saying?|That our... my eyes lie?
+{3413}{3487}Your eyesight can|and will play tricks on you.
+{3490}{3609}No matter what I could teach you,|they'll still play tricks on you.
+{3612}{3701}- You've gotta trust your instincts.|- I don't have any.
+{3704}{3777}My instinct is to close my eyes|and feel my way out of here.
+{3780}{3882}That's a self-preservation instinct.|But you have others.
+{3885}{4004}Virgil, you have to learn to see,|just like you learned to speak.
+{4007}{4081}Perception, sight, life
+{4084}{4209}is about experience, reaching out|and exploring the world for yourself.
+{4212}{4301}It's not enough to just see.|We've got to look as well.
+{4324}{4394}Immediately following the operation
+{4397}{4494}the patient experienced|extreme disorientation.
+{4499}{4559}Images and colours|had no meaning for him.
+{4562}{4612}But now,
+{4615}{4664}just weeks after surgery,
+{4667}{4812}Mr Adamson has mastered the ability|to define shape and distance,
+{4815}{4906}giving him confidence|to move about his environment.
+{4953}{4987}He is still
+{4990}{5086}confused by new images|just as a child would be fascinated by
+{5089}{5149}everyday objects|that we take for granted.
+{5164}{5196}Look up.
+{5228}{5258}What is it?
+{5261}{5335}It's art. Dubuffet.
+{5361}{5416}This is art?
+{5419}{5532}Oh, now that has to be art! Look at that.|That is beautiful.
+{5537}{5618}Uh, no,|that's just somebody being destructive.
+{5629}{5699}- The words read something pretty nasty.|- What is it?
+{5702}{5751}It says pigshit.
+{5785}{5869}His progress is steady|but Virgil still relies on his touch
+{5872}{5967}- to interpret objects in his surroundings.|- It's a dog!
+{6031}{6070}I'm sorry, yes.
+{6084}{6157}His understanding|of three-dimensionality
+{6160}{6216}is very limited and confounding to him.
+{6222}{6289}Wow, listen to the bells.
+{6292}{6341}What's that? That lump?
+{6389}{6452}Oh, that's... that's a homeless person.
+{6455}{6506}You just walked right past him.
+{6517}{6563}You didn't even look.
+{6566}{6693}Well, some things you choose not to see.|You can't look at everything, Virgil.
+{6696}{6764}I don't want to look away.|I want to see everything.
+{6767}{6839}What the hell are you looking at?|Get outta here!
+{6842}{6954}He also has difficulty with scanning.|That's putting the whole picture together.
+{7084}{7190}I've got 10 years' experience|at Bear Mountain, in all kinds, really.
+{7193}{7269}Deep-tissue, therapeutic, shiatsu.
+{7272}{7331}That's fine. Let's get you started.
+{7340}{7444}Here's your l-9, W-4,|basic employment package. Fill these out.
+{7447}{7491}Take 'em over to Connie.
+{7597}{7674}Oh, gosh, you know what?|I forgot my glasses.
+{7677}{7719}I'll take this home,
+{7722}{7797}- and fill it out, and bring it back, OK?|- All right.
+{7800}{7897}This includes his ability to read,|meaning he has
+{7900}{7949}a total lack ofvisual memory.
+{8107}{8187}Sweetie, it might help if you kind of...|take the word...
+{8190}{8266}No, it won't help, Amy.|I told you, it's not helping.
+{8269}{8352}I know what I'm supposed to do.|I just can't do it, OK?
+{8355}{8444}I can't read. When I reach the last letter|I can't remember the first.
+{8447}{8526}I can't fill out an application.|Somebody has to do it for me
+{8529}{8598}Iike I'm blind, but I'm not blind.
+{8605}{8662}Your helping isn't helping.
+{8717}{8766}OK, I'm sorry.
+{8783}{8853}This is an unexpected|physiological flaw,
+{8856}{8968}and one that we hope that, uh,|Virgil will be able to overcome.
+{9011}{9077}Well, that's it for today. Thank you.
+{9163}{9252}Mr Adamson, Christie Evans from NYN.|Could you give us an idea
+{9255}{9308}- of what you're going through?|- That hurts.
+{9311}{9410}- Do you need to have that light on?|- Yeah. In terms ofyour operation,
+{9413}{9478}were the results met|with your expectations?
+{9481}{9550}Um, I didn't have any expectations.
+{9569}{9675}Information? ln Pinecrest, New York,|for a Jennie Adamson.
+{9725}{9790}Um, here, maybe try this.
+{9793}{9828}What's that?
+{9831}{9880}You tell me.
+{9907}{9953}I don't know, it's a crocodile.
+{9956}{10055}- Come on, concentrate.|- I don't want to concentrate, Amy.
+{10058}{10132}Can't we just have one meal|where it's not about my eyes?
+{10135}{10184}I just want to sit here and eat.
+{10200}{10239}Just trying to be helpful.
+{10242}{10293}Let's talk about something else.
+{10296}{10386}How was your day? What happened?
+{10389}{10430}Fine. Nothing.
+{10433}{10566}Yeah... No, we were invited to a party|tomorrow night. Duncan's birthday.
+{10612}{10659}Is that it?
+{10692}{10741}What do you mean is that it?
+{10745}{10839}I'm telling you something|I thought you'd have a response to.
+{10849}{10898}Sorry, is that not enough?
+{10935}{11008}OK. I'll go. Uh...
+{11022}{11091}Why haven't you finished your sculpture?
+{11125}{11173}Where did that come from?
+{11176}{11232}I wanna know. I'm there every day and
+{11235}{11306}I, um, think it's perfect, it's beautiful.
+{11309}{11377}You said you didn't like it|and it wasn't finished.
+{11380}{11476}You said it like you never would.|So, that's why I'm asking.
+{11494}{11575}It's something I care a lot about,|and I can't get right.
+{11578}{11703}I see it in my head and I can't do it right.|It's beautiful and I'm failing it.
+{11712}{11781}So, maybe I'm not an artist.
+{11918}{11954}What's that?
+{12005}{12071}It's a lobster.
+{12079}{12130}People eat this?
+{12197}{12287}- OK, a measuring cup?|- Try again.
+{12290}{12365}Hey, you cheated!|You told me you couldn't touch.
+{12370}{12426}Sometimes you have to touch.
+{12456}{12512}- A cheese grater?|- Yeah.
+{12574}{12608}Hello?
+{12634}{12712}- It's me.|- Jennie! Hi!
+{12733}{12786}What are you doing here?
+{12789}{12863}You're being so mysterious.|Just tell me why we're here.
+{12866}{12926}- Well, um...|- What?
+{12929}{12998}- Our father's here.|- What?!
+{13001}{13086}I recognised his voice|the minute I answered the phone.
+{13089}{13137}Wha... Which one is he?
+{13163}{13243}There he is. He's the one|with the clipboard, the phone.
+{13246}{13313}- I... Oh, no, no, I can't see him.|- Yes, you can.
+{13316}{13399}- Jennie!|- Virgil, he's our father.
+{13402}{13464}He heard about the operation|and asked to see you.
+{13467}{13526}I'm not ready. No, no, Jennie.
+{14195}{14244}Virgil?
+{14486}{14535}- Hi.|- Hi.
+{14600}{14649}Were you asleep?
+{14656}{14705}No, I just...
+{14729}{14788}..forget about the lights sometimes.
+{15500}{15581}You know,|I've been thinking about that party and
+{15589}{15678}we don't have to go if you don't want to.|It's no big deal.
+{15689}{15810}It's your partner's birthday party.|You want me to meet your friends?
+{15881}{15905}Yeah.
+{16228}{16275}Glass of red or white?
+{16337}{16407}- Which one's red?|- That's red, that's white.
+{16480}{16531}That's the white. You want white?
+{16834}{16885}Quiet. Shh! He's coming!
+{16888}{16950}Kill the lights.
+{16953}{17040}- What's happening?|- It's for the surprise.
+{17125}{17208}- What?|- Nothing. You just had a hair out of place.
+{17270}{17321}What is this? What... You didn't?
+{17331}{17394}Surprise!
+{17490}{17526}Is he all right?
+{17529}{17609}Yeah. He's just kidding around.|He always plays jokes.
+{17612}{17677}Save me some cake!
+{17843}{17902}Hey, you. How's it all going?
+{17905}{18016}OK. He's progressing slowly,|but he's doing the best he can.
+{18019}{18117}Actually I was asking about|the mall designs, but, uh, that's OK.
+{18120}{18200}It's understandable.|So, how is it going?
+{18203}{18274}It's not quite what you expected, is it?
+{18277}{18334}What do you mean?
+{18337}{18409}You like this guy,|you want to help him out.
+{18412}{18483}Sometimes good intentions|aren't enough.
+{18486}{18541}Look at me, I'm still a jerk.
+{18556}{18602}Yeah. You are.
+{18642}{18701}Well, happy birthday, jerk.
+{18892}{18945}Aah. So, uh...
+{18948}{19022}We are expected in Atlanta tomorrow|with the plans.
+{19025}{19102}Duncan, I can't go.|There's just too much going on.
+{19132}{19156}Hey.
+{19180}{19261}Virgil, I wanted you to meet Duncan.|Duncan, Virgil.
+{19264}{19342}How's it going? Congratulations.|It's good to see you.
+{19345}{19436}- It's good to see anything.|- Come on, Duncan, let's dance.
+{19439}{19488}Duty calls.
+{19491}{19558}Amy, sorry about Atlanta.|Could have used you.
+{19667}{19720}Wha... What was that? Atlanta?
+{19723}{19829}Oh, he tried to spring a meeting on me.|I told him I wouldn't go.
+{19832}{19881}Did you change your hair?
+{19894}{19943}I just combed it.
+{20131}{20220}Do you think what Webster says is true,|that the eyes lie to us?
+{20281}{20333}- No, I don't.|- So, what does...
+{20336}{20406}What does you kissing Duncan say?
+{20421}{20494}- Oh, God...|- You kissed him. What does that say?
+{20497}{20618}- It says it's his birthday.|- I haven't seen a kiss like that before.
+{20621}{20718}Well, that's what|a birthday kiss looks like.
+{20721}{20765}What's this look mean?
+{20768}{20808}What look?
+{20811}{20890}This look. It's strange.|I don't understand what it means.
+{20893}{20947}- Nothing.|- What does it mean?
+{20950}{21027}It doesn't mean anything.|We're just talking.
+{21030}{21105}I'm just looking back at you.|It doesn't mean anything.
+{21108}{21154}Let's dance.
+{21612}{21693}Don't you want to dance some more?|Try this. It's fun.
+{21776}{21804}They just do letters.
+{21871}{21920}You wanna try? Just...
+{21945}{21998}- You just...|- I don't belong here.
+{22059}{22127}It's just a stupid dance. Virgil!
+{22130}{22200}- Hey, look.|- No, fuck looking!
+{22255}{22304}Oh, my God.
+{22308}{22357}- Take me home.|- Are you OK?
+{22438}{22508}- Honey, are you all right?|- Just take me home.
+{23142}{23208}God, you never stop, do you?
+{23241}{23312}Well, I've got to get it right.
+{23329}{23409}Besides, my plane leaves|first thing in the morning.
+{23412}{23461}Plane?
+{23481}{23530}I didn't think you were going.
+{23564}{23613}I'll only be gone a day or two.
+{23691}{23745}It's, uh, giving you problems, huh?
+{23748}{23786}What?
+{23800}{23860}This or us?
+{23885}{23919}Us.
+{23966}{24053}Amy, I wake up every morning and I
+{24056}{24112}stare and stare.
+{24197}{24276}And I'm looking at a total stranger.
+{24279}{24328}You don't see me?
+{24339}{24393}I was talking about me.
+{24448}{24497}You, I feel like
+{24550}{24612}I saw you better when I was blind.
+{24615}{24720}Well, you're not blind any more.|I'm sorry if that disappoints you.
+{24771}{24854}Look, I'm done here.|It's late and I gotta get up early.
+{24881}{24998}I'm gonna go to bed before|we both say things that we don't mean.
+{25644}{25699}Come on, Katie, your mom's waiting.
+{25779}{25826}- Hi.|- There you go.
+{25829}{25918}Hey, Virgil!|So you came crawling back, huh?
+{25921}{25945}Bye.
+{25997}{26054}You wanna join us? I could use your help.
+{26057}{26125}- Oh, no, I'll wait here till you're done.|- OK.
+{26135}{26188}Casey, come on, let's call it a day.
+{26291}{26386}- How is it, working with the kids?|- Great. They're the best.
+{26389}{26443}And they're the easiest because
+{26446}{26515}they're so eager|to make their way in the world.
+{26518}{26605}It's the adults who get stubborn.|Where did you go to blind school?
+{26608}{26657}I didn't. My father, uh,...
+{26680}{26780}I was just in regular school.|I picked it up... on my own.
+{26783}{26832}Oh... Great.
+{27010}{27034}Apple.
+{27037}{27097}We've gotta move on to vegetables.
+{27100}{27202}Come on, I got a place for you.|Should relax those eyes a bit.
+{27255}{27306}Seeing sucks.
+{27309}{27360}- Oh, you gotta be kidding.|- It sucks.
+{27363}{27435}You can say that,|sitting in these prime viewing seats?
+{27438}{27488}Forget your eyes.|Get your head examined.
+{27491}{27540}I'm serious.
+{27547}{27610}When I was blind, I couldn't see.|Don't laugh.
+{27613}{27731}I mean, people don't have expectations.|They know what you are.
+{27734}{27770}Or they think they know.
+{27773}{27830}They get on with it. They deal with it.
+{27833}{27901}Yeah.|Didn't get what you counted on, did you?
+{27911}{27985}Oh, boy. And now,|here's where it gets complicated.
+{27988}{28052}Now I can see,|but I don't know what I can see.
+{28055}{28116}Because your eyes play tricks on you,
+{28119}{28192}you see things that you don't wanna see.
+{28217}{28266}Jealousy.
+{28272}{28361}What's most important to you right now?|Seeing, or um...
+{28375}{28405}Amy.
+{28408}{28487}That's what I thought.|So we're not talking eyes here,
+{28490}{28539}we're talking the heart.
+{28549}{28600}The other night I was watching TV.
+{28617}{28703}One of the major disadvantages|of regaining sight, by the way.
+{28706}{28760}- There was this famous pianist.|- A what?
+{28763}{28862}Piano player. And he's about|six, seven hundred years old.
+{28865}{28920}- Will this be a long story?|- Could be.
+{28923}{28990}And they bring out|this seven-year-old prodigy.
+{28993}{29062}He plays Chopin,|backwards and forwards,
+{29065}{29168}with one arm tied behind his back,|spinning plates. Brilliant.
+{29171}{29286}The old master listened appreciatively|and at the end he said,
+{29289}{29363}"You played the piano very well."
+{29366}{29459}"Maybe one day|you will learn to make music."
+{29493}{29561}I think I know what you're saying.
+{29564}{29634}I don't know|if I'll ever be able to make music.
+{29648}{29692}You just gotta focus.
+{29695}{29744}Here. See my hand?
+{29753}{29827}- Yeah.|- All right. Now focus on it.
+{29838}{29929}Forget about everything else,|and that will be difficult here,
+{29932}{29981}but just look.
+{30072}{30167}And your point is?|OK, so, that's what? Seeing?
+{30170}{30232}No, Grasshopper, that's looking.
+{30235}{30281}Looking! You watch the fist.
+{30284}{30334}You see it'll hit you,|but did you want it to?
+{30337}{30389}- No.|- No. That's looking.
+{30392}{30452}Virgil, my advice after three beers,
+{30455}{30574}you'll see a lot, but none of that matters|if you lose sight of what you want.
+{30646}{30695}I love it.
+{30760}{30841}But... I don't care for the trees.
+{30935}{30999}I think we should lose them.
+{31393}{31461}The man just doesn't care for trees.|I dunno.
+{31465}{31570}How can the man not care for trees?|They were the best part of the location.
+{31586}{31632}We'll just have to change them.
+{31635}{31716}No harm there.|You'll come up with something better.
+{31740}{31823}Hey, um, let me buy you a drink, huh?
+{31844}{31903}Get those creative juices flowing.
+{31906}{31954}Oh, I think I have to go to bed.
+{31957}{32019}Come on. Look, they're playing our song.
+{32030}{32079}"Mack The Knife" was our song?
+{32346}{32413}See?
+{32416}{32465}Not so bad, huh?
+{32494}{32543}Not so bad.
+{32645}{32714}It's nice dancing together again.
+{32741}{32790}Yeah.
+{32838}{32932}Do you remember the first time?
+{32974}{33034}Your sister's wedding in Connecticut?
+{33072}{33161}Yeah, it was beautiful|with all those red leaves falling.
+{33179}{33229}I'd love to go back some time.
+{33232}{33272}Mm.
+{33275}{33324}So would l.
+{33412}{33470}What happened to us?|Why'd you give up on us?
+{33515}{33602}I don't know. I think we... did it too fast,|you know.
+{33605}{33706}I was just a kid then,|falling in love with architecture.
+{33711}{33766}I never fell in love with architecture, but
+{33787}{33836}I know I fell in love with you.
+{33860}{33901}That's bullshit.
+{33904}{33970}Ah, well, hey. It used... It used to work.
+{34500}{34566}Oh, God, I'm sorry, I can't do this.
+{34576}{34630}This is wrong. I have to go home.
+{34633}{34697}You have to go home?
+{34737}{34786}To be a baby-sitter?
+{34801}{34850}Don't say that.
+{34965}{34992}Amy.
+{35430}{35456}Virgil?
+{35656}{35686}Virgil?!
+{35689}{35741}- He's gone, Amy.|- Gone?
+{35744}{35772}Gone where?
+{35775}{35844}The park.|Said he was looking for something.
+{36314}{36339}Virgil!
+{36393}{36442}Hey, Virgil!
+{36566}{36603}Virgil, watch out!
+{36606}{36665}Watch out!
+{36693}{36778}Jesus, what are you doing?|What are you doing?
+{36781}{36853}I was watching the cab|as it got closer to me.
+{36856}{36895}It's perspective.
+{36898}{36994}Yeah, but you'll get yourself killed|doing that in the street.
+{36998}{37055}I didn't mean to scare you. I'm sorry.
+{37134}{37180}Oh, boy.
+{37183}{37290}I went to the loft and you weren't there.|I thought that you had left.
+{37309}{37358}I thought about it.
+{37386}{37442}So, I came out here
+{37445}{37540}to try and see the horizon|that you described so beautifully.
+{37618}{37730}Oh... Oh, well you can't see it from here.|There's too many buildings.
+{37742}{37821}But that doesn't mean|it's not still here, right?
+{37824}{37911}Just because you can't see it|doesn't mean it doesn't exist.
+{37914}{38000}Right. Just because you can't see things
+{38003}{38134}doesn't mean that they don't exist.|I mean, that... that's what faith is, right?
+{38196}{38228}What's that look?
+{38231}{38297}What does that look mean?|That's a new look.
+{38339}{38396}Virgil, I have to tell you something.
+{38403}{38452}I was getting confused.
+{38455}{38524}But that doesn't excuse how I've acted.
+{38574}{38672}See, I thought I saw you slipping|further and further away from me.
+{38675}{38770}And I didn't see|that you were slipping away from me.
+{38773}{38812}I...
+{38815}{38913}Amy, uh, oh...|I don't know why I didn't tell you, but
+{38916}{38965}I want to say this. When...
+{38985}{39060}Well, Jennie came to see me|and I went to see my father.
+{39079}{39128}And I couldn't see him.
+{39182}{39229}I was afraid.
+{39232}{39285}I... felt like I was letting him down.
+{39302}{39353}Like I feel like I've let you down.
+{39401}{39450}The only thing I ever wanted
+{39494}{39543}was to be whole.
+{39568}{39623}Not just to be able to ride a bike,
+{39637}{39709}or play in the playground like other kids,
+{39712}{39761}or go on a date.
+{39822}{39890}But to be whole,|to be needed by somebody,
+{39908}{39957}Iike I needed them.
+{40027}{40118}And the first time I ever felt like that|was with you.
+{40210}{40314}I know I have a lot to learn,|but I can see.
+{40367}{40420}And I don't want you to give up on me.
+{40483}{40538}I won't, Virgil.
+{40595}{40702}When I was in Atlanta|I realised how much that I need you.
+{40756}{40807}And I want you to come home with me.
+{40903}{40954}Until the operation, five weeks ago,
+{40957}{41019}Virgil had been a... touch person.
+{41049}{41221}Someone whose vocabulary, whose|sensibility, whose picture of the world
+{41224}{41297}is based on tactile, non-visual terms.
+{41300}{41378}But now, as a sightedperson,
+{41381}{41474}by focusing single-mindedly on his goal,
+{41477}{41609}Virgil has a new-found ability|to understand distance and shape,
+{41650}{41707}colour, perspective.
+{41724}{41823}And though there are still miles to go|in his learning process,
+{41826}{41942}for all medical intents andpurposes,|he is... becoming a seeing person.
+{41945}{41994}- Hey!|- What?
+{42013}{42097}You want me to see, don't you?|Aren't I supposed to look?
+{42100}{42157}- Oh, my God!|- What?
+{42160}{42207}She is so flirting with you!
+{42210}{42253}What?
+{42256}{42305}- What's that look?|- What look?
+{42315}{42387}That look. You have so many looks.
+{42390}{42470}Uh, it was probably a jealous look, huh?
+{42549}{42603}It was the response to that look.
+{42606}{42686}OK, all right.|You wanna see my other looks?
+{42689}{42772}OK, this is what... sad looks like.
+{42842}{42939}Here is jubilation. Yippee!
+{42942}{42976}Careful.
+{42979}{43074}This is, uh, terrible... fear.
+{43077}{43140}Extreme suspicion.
+{43192}{43269}It's all your fault.|I have an idea!
+{43272}{43303}Argh! Argh! Argh!
+{43389}{43430}Rrrargh!
+{43562}{43645}This is... I love you.
+{43650}{43709}Oh, this look I love.
+{44147}{44211}Yesterday, the clouds...
+{44214}{44276}No, in the sky, not my eyes.
+{44287}{44387}Oh, and purple.|Purple's the most amazing colour.
+{44394}{44487}And Amy said yesterday|that we saw birds and...
+{44494}{44545}Um, um... What were they?
+{44555}{44588}- Pigeons.|- Pigeons!
+{44591}{44687}- Tell her about the fish market.|- Dozens of 'em. And the fish market!
+{44690}{44759}Salmon and, uh, crabs and octopus.
+{44762}{44842}How does anyone eat a octopus? OK.
+{44845}{44918}No, I don't know when I'll be back,|but I'll call soon.
+{44921}{44970}OK.
+{44975}{45012}Me, too. Bye.
+{45017}{45063}OK. Close your eyes.
+{45159}{45243}- Present.|- Oh, a tie!
+{45264}{45313}It's a large tie, too.
+{45365}{45430}There's gonna be an opening|for the lobby.
+{45433}{45489}They're gonna have a party. And
+{45492}{45542}I thought we could both|dress up to celebrate.
+{45545}{45602}It's your first time seeing|any of my work finished.
+{45605}{45653}- That's great.|- Huh!
+{45725}{45758}What's the matter?
+{45761}{45810}Nothing. It's really great.
+{45823}{45872}I like it a lot.
+{45881}{45955}You sure? It looks like it fits.
+{45993}{46042}You look great in it.
+{46045}{46077}Thanks.
+{46763}{46823}Hey, Virge, Virge! Where are you going?
+{47047}{47071}OK.
+{47197}{47244}- What does that mean?|- What?
+{47247}{47341}This, um, thing you did with your mouth.|What does that mean?
+{47344}{47478}Well, uh, I'm only...|registering sparks of activity.
+{47488}{47561}Retinal sparks, followed by nothing.
+{47586}{47645}So, uh, how long has this been going on?
+{47648}{47703}A couple of days.
+{47706}{47755}Have a seat.
+{47803}{47897}Your, uh...|Your retinal function is down 10%.
+{47900}{47992}I'm afraid the retinal disease|seems to have returned.
+{47995}{48080}But you corrected that.|You... I was healed of that. So...
+{48083}{48132}Well, l...
+{48150}{48219}I mean, I don't know whether, uh,
+{48223}{48341}you didn't have the blood vessels|to supply enough oxygen to your retinas.
+{48380}{48454}I wish there were an easy way to say this.
+{48656}{48705}When?
+{48734}{48783}Well, it's hard to say. Uh...
+{48815}{48870}A month. Two weeks.
+{48921}{48970}Today?
+{49038}{49087}I don't know.
+{50722}{50771}You look good.
+{50784}{50848}Hey, how do I look?
+{50925}{50974}I want some answers.
+{50997}{51046}Why did you leave?
+{51050}{51150}Because I was blind, or because|I gave up on your idea of me seeing?
+{51167}{51268}To the point. I like that.|That's something you got from me.
+{51271}{51337}You make jokes?|I haven't seen you in 20 years,
+{51340}{51384}you find out I can see,|you want to see me,
+{51387}{51463}- and you make jokes?|- Can we talk about this later?
+{51466}{51537}No, answer my question.|Why did you leave?
+{51643}{51740}I woke up every morning|and looked at you... and failure.
+{51743}{51792}My own failures.
+{51820}{51886}If I couldn't get my own son to see, then...
+{51965}{52031}But it's water under the bridge now, right?
+{52058}{52149}You can see! Hell, I knew you could!
+{52152}{52201}Yeah, I can see.
+{52261}{52312}And I'm going blind again.
+{52368}{52421}You're the first person I've told.
+{52458}{52565}I wanted to see you, look in your eyes,|while you explained my whole life.
+{52607}{52669}You know what you did to Jennie?|To my mom?
+{52712}{52789}You shouldn't have done that,... Dad.
+{52811}{52860}You shouldn't have left.
+{52892}{52941}You shouldn't have left.
+{53783}{53877}Yeah, a little bit higher, like an inch...|Half inch. Good.
+{53891}{53950}Hold that thought, wait.
+{53953}{54002}Hey!
+{54027}{54076}What are you doing here?
+{54106}{54195}God, I didn't want you to see it yet.|It's not done.
+{54198}{54236}I came to see you.
+{54239}{54303}I wanted to tell you something. OK?
+{54375}{54431}I had this idea, OK? Bear with me.
+{54434}{54517}Cos things are going so great|and you're doing so well,
+{54520}{54628}and I've got the Atlanta mall,|so we've got more money coming in,
+{54631}{54775}I thought that we could take a trip.|A sort of, um, a seeing celebration.
+{54778}{54827}A seeing celebration?
+{54837}{54861}Yeah.
+{54864}{54947}I thought that we could, um,|that we could go to Egypt.
+{54950}{55011}We can both see the pyramids|for the first time.
+{55014}{55086}- Amy...|- And then I could take you to Paris.
+{55089}{55143}I could show you Notre Dame,
+{55146}{55236}with the gargoyles|and the water with the light on it,
+{55239}{55344}and the stained glass. You'll love it.|There's so much I want to show you.
+{55347}{55446}The windows and the water.|We'd have the most wonderful time.
+{55469}{55518}What do you think?
+{55613}{55662}I think...
+{55735}{55818}There is...|There is one place I'd like to see.
+{56850}{56899}Whoo!
+{58789}{58842}Virgil! Virgil.
+{58982}{59047}- Are you OK?|- The puffy thing.
+{59078}{59153}This is the puffy thing. This is the cloud?
+{59178}{59276}You found the puffy thing.|Oh, my God! It's cotton candy.
+{59286}{59335}Oh, my God.
+{59605}{59701}Thank you so much|for taking me here. This was wonderful.
+{59855}{59904}Are you OK?
+{59935}{59984}Yeah... I'm just
+{59988}{60051}having a... bad eye day.
+{60092}{60141}It's a lot to take in.
+{60173}{60222}I'm OK now. It's just...
+{60233}{60310}I'm sorry.|These people wanna get by over here.
+{60313}{60373}- What?|- These people on the right.
+{60376}{60431}- Oh, I'm sorry.|- Excuse us.
+{60555}{60643}Honey, what's going on?|What's happening with your eyes?
+{60707}{60737}Blackouts.
+{60754}{60802}This one's the longest.
+{60805}{60865}I just want to go home, OK?
+{60868}{60999}Baby, wait... one second.|Has this... happened before today?
+{61157}{61206}I'm going blind.
+{61224}{61273}What?
+{61296}{61377}What do you mean?|What's wrong? I mean, what...
+{61380}{61455}You've... had blackouts.|Maybe your eyes are overworked.
+{61458}{61524}You've been seeing so much,|getting so excited.
+{61527}{61597}- No.|- We can... go to the doctor
+{61600}{61688}and he'll tell us what's happening.|I mean, maybe, you know,
+{61691}{61789}- it's just been too fast...|- Amy, can we just go home?
+{61876}{61924}Baby, let's go to the doctor...
+{61927}{62000}I saw Dr Aaron.|There's nothing they can do.
+{62003}{62048}We'll go to another doctor.
+{62051}{62133}What... do you want me to say?|You want it explained another way?
+{62136}{62185}I'm going blind.
+{62197}{62276}- Let's...|- That's what's happening. I'm going blind.
+{62279}{62328}I just...
+{62352}{62386}..wanna go home.
+{62401}{62476}Baby, don't give up.|We got... We got you to s...
+{62479}{62528}I just want to go home.
+{62735}{62784}It was a good game.
+{63204}{63253}What are you doing?
+{63263}{63312}I'm leaving.
+{63315}{63420}What do you mean?|You're leaving... this apartment?
+{63427}{63505}You're leaving New York,|or you're leaving me?
+{63528}{63577}I'm going home.
+{63628}{63682}What, are you going home to Jennie?
+{63802}{63861}Is she gonna take care of you now?
+{63864}{63930}I'm not going through this bullshit again.
+{63936}{63962}Bullshit?
+{63988}{64124}- That's what this has been? Bullshit?|- Yes, it's bullshit! Who are we kidding?
+{64135}{64184}I'm blind. I can't see.
+{64187}{64251}OK? I don't belong here.|I'm not meant to see.
+{64254}{64367}Goddamn right, you're blind.|I'm here for you, and you don't even look.
+{64405}{64454}Why are you shutting me out?
+{64457}{64543}Why didn't you tell me|what was going on with you?
+{64565}{64651}Do you know|why I remembered the cotton candy?
+{64660}{64765}Because it's the one thing in my life|I remember with my father that was good.
+{64768}{64858}After I went blind, he pushed to try|to make me into something that I'm not.
+{64861}{64931}Then he turns his back on me|when his plans fail.
+{64934}{64985}But I'm not turning my back on you.
+{64995}{65056}I promised you I wouldn't give up on you.
+{65059}{65162}Don't give up on me!|Give up on the idea of me seeing!
+{65165}{65233}Didn't you want something more|out of your life?
+{65236}{65302}That's all I wanted|to give you a chance for.
+{65305}{65397}Jesus Christ! Did you think|you'd sit in that school bus
+{65400}{65458}and work in the spa the rest of your life?
+{65461}{65551}Didn't you have dreams?|To see or learn or do more than that?
+{65554}{65672}- You have so much to give of yourself.|- And so much to be taken away.
+{65689}{65743}Oh, God... Agh!
+{65801}{65850}Goddammit.
+{65894}{65943}Your sculpture.
+{66021}{66070}I'm sorry.
+{66095}{66181}It's just...|We both didn't get what we wanted.
+{66241}{66290}I wanted you.
+{66325}{66417}When you asked me here|did you ever think it wouldn't work out?
+{66420}{66485}That... I might not be able to see?
+{66554}{66645}Did you ever think about|what it would be like to just
+{66648}{66750}be with me, the blind man?
+{66932}{66981}There's my answer.
+{67935}{68030}Jessie, aah... Iook at you.|Let me look at you.
+{68067}{68116}What a beautiful colour you are.
+{68162}{68221}What a good dog.
+{68224}{68315}Everything's the same as when you left.|Nothing's changed.
+{70808}{70857}- Hello?|- Hi.
+{70860}{70909}Hi.
+{70934}{70983}Hey, Jess.
+{71006}{71055}Hi.
+{71062}{71119}I picked up some things at the store.
+{71122}{71210}Some, uh, T-shirts...|Socks, you're probably out.
+{71213}{71258}You are so beautiful.
+{71305}{71376}Why didn't you tell me|you were beautiful?
+{71387}{71464}I just told you|what you needed to know, that's all.
+{71487}{71536}Look at me.
+{71539}{71597}Why do people look away?
+{71687}{71736}What do you want?
+{71745}{71794}I want to see you.
+{71802}{71865}Isn't there anything more you want?
+{71868}{71953}You've spent your whole life|as blind as I was.
+{71956}{72026}Virgil, please. This is your home.
+{72029}{72136}Don't worry about things|that don't matter to you. You're safe here.
+{72139}{72233}You matter to me.|This was a great place to grow up.
+{72236}{72285}It was very safe.
+{72301}{72350}But I grew up.
+{72383}{72462}I can't even imagine|the things you gave up for me.
+{72465}{72531}I just want to look at you.|Look at me, Jennie.
+{72565}{72654}I wanna say thank you.|I love you from the bottom of my soul.
+{72676}{72731}And I want to give you your life back.
+{72939}{72963}I can't.
+{73003}{73052}Yes, you can.
+{73123}{73172}Jennie,...
+{73228}{73277}..l'm reaching out.
+{74944}{75012}Growing up blind, I had two dreams.
+{75033}{75082}One was to see.
+{75085}{75159}The other was to play hockey|for the New York Rangers.
+{75213}{75319}After the... miracle|of my brief period of sight,
+{75326}{75441}if I had to choose, I'd rather play hockey|for the New York Rangers.
+{75481}{75583}It wasn't that seeing was so bad.|I saw a lot of things.
+{75586}{75706}Um, some were really beautiful.|Others were scary.
+{75759}{75827}Some things, I'm, um, already forgetting.
+{75887}{75946}A particular look in a pair ofeyes,
+{75989}{76038}clouds.
+{76097}{76214}Those images will stay with me|long after the light fades.
+{76269}{76376}As a blind man, I think that I see
+{76379}{76481}a lot better than I did|while I was sighted.
+{76513}{76588}Because I don't really think|we see with our eyes.
+{76612}{76699}I think, um, we live in darkness when
+{76714}{76793}we don't look at|what's real about ourselves,
+{76808}{76878}or about others, or about life.
+{76907}{77007}I think, uh, no operation can do that.
+{77019}{77043}And
+{77071}{77128}when you see what's real
+{77131}{77180}about yourself,
+{77197}{77240}then you've seen a lot.
+{77243}{77272}Good boy.
+{77275}{77324}And you don't need eyes for that.
+{77340}{77389}Want a bite?
+{77763}{77823}- You missed.|- Missed?
+{77833}{77861}Amy?
+{77890}{77914}Hey.
+{77946}{77970}Hi.
+{78093}{78141}Um...
+{78144}{78191}I was just in the neighbourhood.
+{78252}{78329}No, uh, Phil told me|that you were working here.
+{78346}{78424}And I thought|maybe I could find you in the park.
+{78474}{78613}I rushed, didn't l? 14 paces to the tree,|and I made us slam right into it.
+{78616}{78665}We tried.
+{78673}{78724}Are you happy?
+{78750}{78799}I'm... I'm trying to be.
+{78823}{78874}Work is good. I went out on my own.
+{78877}{78924}What happened to Duncan?
+{78927}{78974}He's building mini malls.
+{79044}{79080}Where's Jessie?
+{79083}{79152}Jessie's at home with Jennie.|This is Pierce.
+{79180}{79204}My new dog.
+{79226}{79272}He's a good boy.
+{79275}{79318}Hello, Pierce.
+{79321}{79370}Hello, sweetie.
+{79451}{79504}Virgil, I finished the sculpture.
+{79532}{79589}I didn't know where it was going to go.
+{79601}{79650}But that was OK.
+{79685}{79759}I really enjoyed|letting it take on its own life.
+{79766}{79816}Letting it be just what it was.
+{79819}{79900}Without me pushing or doubting myself.
+{79942}{80002}And what it was, was beautiful.
+{80038}{80087}I saw the horizon.
+{80115}{80164}It's out there.
+{80193}{80263}Even though I may not|ever be able to touch it,
+{80306}{80355}it's worth reaching for.
+{80439}{80488}You showed me that.
+{80586}{80640}Thank you.
+{80804}{80853}Um...
+{80863}{80942}- Do you wanna walk?|- See what we see?
+{80983}{81057}Yeah, just... see what we see.
+{81925}{81972}- Lead on, Macduff.|- OK.

@@ -1,0 +1,956 @@
+{628}{701}Slowly and carefully!
+{754}{811}Keep it coming.
+{983}{1051}Gently now.
+{1054}{1112}Ver careful.
+{1243}{1305}Careful with the telescope.
+{1308}{1430}Dyson! What are you doing?|We need some help here!
+{1433}{1525}All right, men, come on,|put your backs into it.
+{1528}{1602}Nearly there.
+{1638}{1719}Come on now,|just one more push.
+{1731}{1768}Nearly.
+{1771}{1841}All right, men,|not far to go.
+{1864}{1914}Another foot.
+{1949}{2041}- And up.|- That's it!
+{2114}{2156}It's bad news, I'm afraid.
+{2159}{2231}The photographic plates,|they've been damaged.
+{2234}{2282}It's the heat.|They weren't stored properly.
+{2285}{2316}All of them?
+{2319}{2399}There are only eight|which will work.
+{2424}{2481}Then we have eight photographs.
+{2484}{2578}We won't have any at all if this|weather doesn't lift by tomorrow.
+{2668}{2759}If the cloud breaks|at quarter past two tomorrow...
+{2762}{2883}and we look up into the heavens,|take photographs of the eclipse...
+{2902}{2959}...we will be scientists|at our work.
+{2962}{3080}We'll be looking at|the poetry of existence.
+{3144}{3265}And if Einstein's right, the universe|will never look the same again.
+{3398}{3478}Well, it had better stop|raining then, hadn't it?
+{3788}{3842}Got it!
+{3879}{3902}Match points.
+{3905}{3993}This is it. Three years, we've been|playing this pair, we've never won.
+{3996}{4066}Seize the moment, Eddington.
+{4379}{4402}Out!
+{4405}{4439}We've won. We've won.
+{4442}{4464}Well played.
+{4467}{4508}Well played, old boy.
+{4511}{4543}Well played.
+{4546}{4577}William, I think it was in.
+{4580}{4602}What?
+{4605}{4635}I think the ball was in.
+{4638}{4679}The sun was in your eyes,|you couldn't possibly see.
+{4682}{4770}You've taken five years of defeat|with impeccable politeness, Eddington.
+{4773}{4839}- Accept this victory with good grace.|- No, the ball was in.
+{4842}{4910}Let him have his moment.|He's off to fight.
+{4913}{4976}Don't spoil this.
+{5095}{5177}He didn't tell me.
+{5445}{5514}I don't consider it a victory.
+{5517}{5581}I think you've made that|very clear.
+{5782}{5860}- Sorry, I'm being...|- What? Pig-headed?
+{5863}{5924}- Yes.|- And stubborn.
+{6026}{6094}You're very fond of William,|aren't you?
+{6097}{6159}I could see at the tennis.
+{6254}{6319}You should tell him.
+{6394}{6447}What's that?
+{6653}{6720}Some of the committee had|doubts about appointing you
+{6723}{6775}on account of your youth.
+{6794}{6873}- Sir Oliver.|- You must be the sister.
+{6876}{6960}Know what I said? I said|there have been nine directors
+{6963}{7040}of the Cambridge Observatory|since Isaac Newton was here.
+{7043}{7130}Each of them have slept where|you'll sleep, eaten where you'll eat
+{7133}{7271}and each of them was as damned sure|about Newton as the man before.
+{7331}{7381}Tea would be nice.
+{7393}{7439}And cake.
+{7442}{7504}Winnie.
+{7519}{7657}I told them, "You listen to me,|what is there to do after Newton?"
+{7660}{7738}We have the truth,|we know how the universe works.
+{7741}{7852}We need a director who can measure|and describe what we know to be true.
+{7861}{7912}We need Arthur Stanley Eddington.
+{7915}{8040}Bugger theory. Give me|the best measuring man in England.
+{8175}{8197}The jam's home-made.
+{8200}{8244}Excellent.
+{8247}{8355}I'll leave you men to talk,|shall I?
+{8414}{8493}Perhaps there'll be|a Mrs Eddington soon.
+{8564}{8659}There's a|minimum height of 5' 7".
+{8678}{8727}For astronomers' wives?
+{8730}{8820}My son Raymond is 5ft 6in.|You know what they did?
+{8823}{8898}The recruiting officer|measured him in his shoes.
+{8901}{8938}Oh, I see, the army.
+{8941}{8970}Which...
+{8973}{9065}Cambridgeshires.|We're damned proud of the boy.
+{9068}{9162}I know you're a Quaker|and won't fight.
+{9170}{9237}I've no quarrel with that.
+{9244}{9288}But you're worried.
+{9291}{9326}Because you're an Englishman,
+{9329}{9417}you feel your patriotism|is in conflict with your faith.
+{9453}{9515}I can help.
+{9518}{9596}The University of Berlin|is gathering together
+{9599}{9645}the best German scientists.
+{9648}{9695}For reasons obvious.
+{9698}{9743}German science|is putting itself
+{9746}{9810}at the right hand|of German military ambition.
+{9813}{9866}I see.
+{9869}{9945}There's one man they want|very badly. We don't know why.
+{9948}{9998}We don't see the point of him.
+{10001}{10063}What does this|have to do with me?
+{10066}{10158}I want you to look at this|man's work and give a lecture.
+{10161}{10294}We need English science to remind|everyone just how strong we are.
+{10297}{10355}Newton's truth is|a great strength to us all.
+{10358}{10425}Good man.
+{10434}{10485}What's his name?
+{10493}{10548}Albert Einstein.
+{11066}{11133}What are we doing?
+{11136}{11187}I'm steering the boat.
+{11190}{11247}Without looking?
+{11313}{11379}The wind direction, the tiller.
+{11382}{11481}- Yes.|- Close your eyes.
+{11913}{12047}Hans, Eduard, all of you,|listen to me! What do you see?
+{12050}{12164}A man on a boat on a lake|with his sons.
+{12167}{12293}The man is taking off his socks.
+{12339}{12403}He rolls them into a ball.|Ready, Hans?
+{12406}{12518}And he hurls the socks|at the people on the bank.
+{12532}{12577}What is the speed of the socks?
+{12580}{12619}The speed of the boat
+{12622}{12739}added to the speed of the socks.|But what about light?
+{12742}{12768}What about light?
+{12771}{12885}What if I shine a beam of light at you|on the bank from my boat?
+{12888}{12985}What is the speed of the light?
+{13046}{13105}The speed of the boat|added to the speed of the light?
+{13108}{13134}Yes.
+{13137}{13150}No.
+{13153}{13258}Why not?
+{13288}{13384}Come on, boys,|we'd better get home.
+{13817}{13883}Hey, wait for me!
+{14338}{14389}Sorry!
+{14392}{14480}He was in the lake!
+{14554}{14636}All aboard!
+{15340}{15408}Why were you in the lake?
+{15411}{15461}In the interests of science.
+{15464}{15582}Were there any women impressed by|your performance? There usually are.
+{15585}{15649}I was talking to the children.
+{15712}{15802}You talk to the boys about|your work, but not to me?
+{15805}{15866}Any pudding?
+{16069}{16120}- Where are you going?|- I'm leaving.
+{16123}{16155}You can't leave, I'm working.
+{16158}{16215}No!
+{16303}{16342}Mileva, please!
+{16345}{16393}Mileva!
+{16424}{16459}Please!
+{16491}{16554}When we were students, you said|to me we would share our work,
+{16557}{16591}we are physicists together.|You lied!
+{16594}{16664}What I'm doing now,|I can't talk about it.
+{16667}{16728}I don't have the energy|or the time to share it with anyone.
+{16731}{16778}What is it? What is your work?
+{16781}{16827}Gravity?
+{16853}{16909}Max! Max Planck!
+{16912}{16980}Hello, Albert.
+{17010}{17057}You don't remember me, do you?
+{17060}{17106}You don't even remember my name!
+{17109}{17160}Mileva!
+{17179}{17249}It's fine.|She's always leaving.
+{17325}{17469}So, nine years' work on gravity|and all you have are questions.
+{17472}{17550}Beautiful questions, of course,|but no answers.
+{17553}{17650}Perhaps conditions are|not right here in Zurich.
+{17697}{17731}I think you need some help.
+{17734}{17792}I don't need anything.
+{17795}{17831}No.
+{17834}{17892}If you are content|to remain an obscurity
+{17895}{17929}at a second-rate university...
+{17932}{18012}Why are you here, Max?
+{18044}{18109}We could offer you|a great deal of money.
+{18112}{18175}You didn't answer my question.
+{18182}{18233}12,000 marks...
+{18243}{18284}...a professorship
+{18287}{18365}and membership of|the Prussian Academy of Sciences
+{18368}{18439}if you join us in Berlin.
+{18442}{18524}Come back to Germany, Albert.
+{18527}{18556}Who's us?
+{18559}{18625}The university.
+{18670}{18752}So, you're offering me money,|status...
+{18755}{18779}Yes.
+{18782}{18841}- Prestige.|- Yes.
+{18844}{18875}The answer is no.
+{18878}{18965}I have a family, Max,|I can't just uproot them.
+{18968}{19037}No, you can't,|I agree with you.
+{19040}{19105}To be a great scientist,
+{19108}{19235}there are always sacrifices|that have to be made.
+{19254}{19313}Finish your work|on gravity, Albert.
+{19316}{19382}I think you could be great.
+{19441}{19513}Train ticket to Berlin.
+{19522}{19595}In case you change your mind.
+{20065}{20140}Everything in the universe|is ordered.
+{20145}{20236}Everything is bound|together by one force.
+{20252}{20300}Gravity.
+{20324}{20403}Everything happens for a reason.
+{20412}{20463}Isn't that wonderful?
+{20466}{20609}Newton described how gravity acts|and explained why.
+{20612}{20664}He was right, but he was worried.
+{20667}{20716}Because...
+{20721}{20772}...you can't touch gravity.
+{20801}{20833}You can't see it.
+{20836}{20899}And Newton struggled with this.
+{20902}{20971}He worried and he doubted.
+{20974}{21035}And then he found his answer.
+{21070}{21138}What fills the unexplained?
+{21179}{21231}God, Winnie.
+{21234}{21306}God's will.
+{21309}{21384}Newton described|everything perfectly.
+{21400}{21465}But he left room for God too.
+{21891}{21964}- I love you.|- I love you.
+{21967}{22040}Don't forget to visit|your aunt and uncle.
+{22043}{22103}- I'm going to work.|- I know, I know.
+{22138}{22221}I'll send for you all|as soon as I can.
+{22356}{22418}Look at me.
+{22421}{22471}Hans.
+{22788}{22833}Hans.
+{22864}{22925}Hans! Hans!
+{23264}{23310}Einstein, Albert.
+{23313}{23384}Anything we've got.
+{23931}{23973}This is nine years old.
+{23976}{24033}It's all there is.
+{24846}{24903}Max!
+{25014}{25036}You're here!
+{25039}{25165}Welcome to the greatest university|in Europe.
+{25191}{25250}- Evening.|- Good evening.
+{25362}{25427}- Fritz Haber, you know, of course.|- Fritz Haber.
+{25430}{25477}Einstein.
+{25489}{25540}You look a little...
+{25543}{25600}Well, less Jewish|than the last time I saw you.
+{25603}{25664}I'm a Christian now|in a Christian country.
+{25667}{25709}I have renounced my Jewish faith.
+{25712}{25751}So what are you working on?
+{25754}{25787}- I'm looking at gases.|- Which?
+{25790}{25817}Ammonia.
+{25820}{25862}What about it?
+{25865}{25929}Its conversion into nitrate.
+{25932}{25964}Explosives?
+{25967}{26105}What use is science|if it has no practical application?
+{26158}{26194}We should go.|We're late.
+{26197}{26224}For what?
+{26227}{26309}There's someone I want you to meet.
+{26728}{26770}Mr Koppel.
+{26773}{26830}Thank you.
+{26983}{27045}Who is this "someone"?
+{27048}{27124}He who makes it all possible.
+{27127}{27194}The 12,000 marks a year?
+{27203}{27269}And he wants to have|a good look at his investment.
+{27272}{27349}Max, I thought it was|part of my contract
+{27352}{27425}that I would have total freedom.
+{27432}{27529}Just keep what you say|clear and simple.
+{27665}{27695}You're late.
+{27698}{27787}I was invited precisely at the time|I was supposed to arrive here,
+{27790}{27868}therefore it was impossible|for me to be here when I left.
+{27871}{27904}What?
+{27907}{28004}The energy which an object has because|of its motion will increase its mass.
+{28007}{28081}The increase in mass makes it harder|for the object to increase its speed.
+{28084}{28135}Try as he might,|the brilliant scientist setting out
+{28138}{28243}to meet the fat industrialist|was always going to be late.
+{28247}{28346}If the sun were to disappear now,|according to Isaac Newton
+{28349}{28408}and his laws of gravity,
+{28411}{28452}we feel it now.
+{28455}{28506}Instantaneously.
+{28510}{28568}The force of gravity|moves faster
+{28571}{28641}than the speed of light.|How can that be?
+{28644}{28693}This is what I'm paying for?
+{28696}{28762}What are you saying?
+{28765}{28799}What is he saying?
+{28802}{28903}Thank you very much for all|the money you're giving me.
+{28996}{29040}Goodbye.
+{29314}{29411}This is the Einstein|you speak so highly of?
+{29414}{29457}Yes.
+{29460}{29519}What does he offer us?
+{29522}{29599}He has a truly original,|probing mind.
+{29602}{29663}Questions don't win wars.
+{29666}{29741}You have plenty of scientists|who can help you practically.
+{29744}{29774}He is a theorist.
+{29777}{29816}What good is theory to me?
+{29819}{29913}After two centuries,|he might just prove Isaac Newton,
+{29916}{29965}the greatest ever English scientist,
+{29968}{30038}the man who set down the laws|that describe the workings
+{30041}{30104}of the whole universe, wrong.
+{30121}{30184}That's what he can give us.
+{30374}{30438}Slow down! Wait!
+{30519}{30583}You're going too fast.
+{30714}{30739}So...
+{30742}{30828}2,199 miles in 1912.
+{30831}{30896}2,304 last year.
+{30899}{31004}We have done exactly 1,500|in the first nine months of this year.
+{31007}{31111}So, if we keep going at the current|rate, and building a variant for
+{31114}{31197}poor weather, shorter daylight hours|and possible illness,
+{31200}{31262}then we should have filled in|the whole map
+{31265}{31364}by mid-afternoon of December 25th.
+{31367}{31405}Otherwise known as Christmas Day.
+{31408}{31492}Well, Quakers don't|celebrate Christmas.
+{31495}{31555}I should be back by then.
+{31558}{31640}"Over by Christmas"|is what everyone says.
+{31643}{31695}William...
+{31727}{31799}There's something I want to say.
+{31861}{31917}When do you go?
+{31920}{31989}Seven days' training,|then France.
+{32023}{32091}That wasn't what|you wanted to say, was it?
+{32094}{32165}No.
+{32168}{32246}I know what it is.
+{32251}{32293}Do you?
+{32296}{32358}Your religion is|against what I'm doing.
+{32361}{32443}Which is why I was afraid|to talk to you about it.
+{32450}{32530}I'm truly sorry, forgive me.
+{32589}{32634}Here.
+{32730}{32791}A token of our friendship.
+{33620}{33683}We were saying, it's been years.
+{33686}{33732}Ten.
+{33743}{33800}A nephew out of the ether.
+{33867}{33905}Hasn't my Elsa grown?
+{33908}{34004}She was still a child|when you left Germany.
+{34007}{34062}Why did you leave?
+{34071}{34140}I have no attachment|to any country or place.
+{34143}{34213}We all belong to the country|we're born in.
+{34216}{34261}I renounced my German nationality.
+{34264}{34347}I was German, now I'm Swiss.|What difference does it make?
+{34350}{34446}And there's no such thing|as the ether.
+{34455}{34521}If it existed, light would be|slowed down by it and it isn't.
+{34524}{34591}Light always travels|at the same speed.
+{34594}{34650}There's no such thing as the ether.
+{34653}{34757}What else is there, nothing?
+{34834}{34878}Freedom.
+{34927}{34976}Imagination.
+{34979}{35071}I think your imagination|is a little over-excited.
+{35074}{35114}Not excited enough.
+{35117}{35226}I intend to excite it|a great deal more.
+{36302}{36357}Shall I take the top off the egg?
+{36360}{36402}Arthur?
+{36405}{36475}There you are.
+{36529}{36569}There's something in this.
+{36572}{36623}That's good, isn't it?
+{36664}{36728}I don't know if it is or not.
+{36753}{36798}I'm delighted English science
+{36801}{36890}is taking such an enlightened|approach towards Germany.
+{38036}{38098}How did you get in?
+{38101}{38186}You left the door open.
+{38243}{38312}I brought you some things.
+{38389}{38446}Thank you.
+{38494}{38536}I love Schubert.
+{38539}{38611}- Do you?|- Yes.
+{38620}{38649}Good.
+{38652}{38727}Who else?
+{38731}{38760}Beethoven?
+{38763}{38864}Too personal.|He makes me feel...
+{38883}{38908}Yes?
+{38911}{38960}Nothing.
+{38963}{39022}What does he make you feel?
+{39043}{39106}Naked.
+{39185}{39303}Music and physics are nourished|by the same sort of longing.
+{39306}{39361}I don't know anything|about physics.
+{39364}{39401}Good!
+{39404}{39439}Good.
+{39442}{39525}That is, what I mean to say is...
+{39579}{39662}...that it will have to be music...
+{39702}{39770}Between us.
+{40209}{40267}It's only noon.|Your lecture's not until two.
+{40270}{40310}- I know.|- Where are you going?
+{40313}{40362}- My friend William, his train is leaving.|- When?
+{40365}{40421}Now. You were right about friends
+{40424}{40504}and how one must say things.
+{40703}{40769}Ah, not so fast!
+{41524}{41575}May I have a light, sir?
+{41662}{41731}Eddington!|Come to see the regiment off?
+{41734}{41763}Yes.
+{41766}{41808}This is my son, Raymond.
+{41811}{41835}Hello.
+{41838}{41901}- Lady Shirley, you know.|- Yes.
+{41954}{42017}It's a proud day to be English.
+{42020}{42071}And to be in England.
+{42131}{42173}- Yes, good luck.|- Won't need luck.
+{42176}{42260}On you go, my boy.|Go on, Raymond.
+{42263}{42337}I'll get the door.|On you get.
+{43659}{43747}I wasn't given|much time to prepare this.
+{43750}{43887}We have, I think, most of us, been|the victims of Sir Oliver's requests.
+{43913}{44049}Albert Einstein|has no regard for the conventions of
+{44052}{44135}scientific presentation.
+{44138}{44211}Even his mathematical symbols|are all of his own making.
+{44214}{44276}To be frank, it might as well|be a foreign language.
+{44279}{44379}But I decoded some of it.
+{44383}{44533}He's suggesting that time is|at different speeds in the universe,
+{44536}{44609}depending on|how fast you're moving.
+{44612}{44726}The faster you move,|the more time... slows down.
+{44729}{44813}Time isn't the same everywhere?
+{44816}{44850}That's what he says.
+{44853}{44937}Yes, time isn't shared.|It's not an absolute.
+{44981}{45033}What are his references?
+{45061}{45094}None, but...
+{45097}{45121}Acknowledgements?
+{45124}{45157}None.
+{45160}{45232}Does he propose how|any of this might be tested?
+{45235}{45279}No, but that's not the point.
+{45282}{45364}What is the point of theory|if it can't be tested?
+{45367}{45467}What does he say about gravity?
+{45605}{45641}Nothing.
+{45644}{45682}What holds everything together?
+{45685}{45743}What dictates|the motion of the planets?
+{45746}{45800}What controls the life|of the universe as a whole?
+{45803}{45850}Gravity.
+{45853}{45894}Newton's laws.
+{45897}{45958}Our map for everything.
+{45961}{46066}So this Einstein,|in other words,
+{46069}{46140}has nothing to say|about the real world?
+{46143}{46172}Eddington?
+{46175}{46252}That's right, no.
+{46255}{46312}It's not real.
+{46554}{46612}Left them happy.
+{46615}{46675}Was that your intention?
+{47025}{47146}Dirty Germans!|Germans make me sick!
+{47312}{47369}Stop this!
+{47447}{47501}Leave these people alone!
+{47975}{48129}Winnie, these are the Mullers,|a German family who need our help.
+{48319}{48388}Let me clean you up.
+{48428}{48484}It was horrible.
+{48487}{48516}But it's over.
+{48519}{48593}No, no, no, it's not that.
+{48682}{48740}One of them asked a question|I didn't answer.
+{48743}{48771}Who?
+{48774}{48827}At the lecture.
+{48830}{48898}He does say something|about gravity.
+{48901}{48941}Einstein?
+{48944}{49042}He doesn't mention it, but if|you look properly, it's obvious.
+{49045}{49080}He poses a question.
+{49083}{49150}Turn this way a little.
+{49154}{49212}Newton says that gravity|is instantaneous,
+{49215}{49266}but Einstein says|that the speed of light
+{49269}{49376}is the speed limit of the universe,|so gravity can't be instantaneous.
+{49379}{49426}They can't both be right.
+{49429}{49521}Einstein or Newton,|that's the question he's asking.
+{49524}{49633}Well then, the truth|is all that matters.
+{49640}{49737}And you must go after it.
+{50416}{50474}Our supper?
+{50493}{50556}I thought you were|arriving tomorrow.
+{50559}{50629}Hans wants to know...
+{50646}{50697}Go on, ask your father.
+{50718}{50798}Is your work nearly finished?
+{50984}{51025}Let me show you
+{51028}{51090}what I've been working on.
+{51458}{51554}What is it made of?
+{51596}{51649}Where does it come from?
+{51652}{51717}What is it?
+{51756}{51819}Gravity.
+{51822}{51870}That's what I'm|struggling with, Hans.
+{51873}{51945}I can't make sense of it.
+{52137}{52173}You have changed the way|that you do everything.
+{52176}{52263}The symbols you're using are...
+{52266}{52324}...strange and complicated.
+{52327}{52413}You've moved a long way|away from me.
+{53338}{53432}I brought the Schubert to play.
+{53691}{53789}- Play the music.|- No.
+{53792}{53823}Why not? You love Schubert!
+{53826}{53864}No.
+{53867}{53944}I came to Berlin because I thought|there might be a future for us.
+{53947}{54018}I see now that I was wrong.
+{54049}{54137}Do you want a divorce?
+{54405}{54458}Hans!
+{54465}{54537}When my work is finished,
+{54540}{54614}I will come and tell you|what it means.
+{54617}{54682}I promise you!
+{54834}{54927}We withdraw into|the presence of God.
+{54975}{55032}We are still.
+{55043}{55094}We are silent.
+{55148}{55212}We listen,
+{55215}{55290}so that God may be heard.
+{55365}{55406}Show yourselves!
+{55409}{55452}Who are we?
+{55455}{55553}If we are anything...
+{55590}{55672}...we Quakers are|men and women of principle.
+{55675}{55766}We will never believe...
+{55802}{55950}...that any man, woman or child|is unwelcome
+{55953}{56131}in our beloved England|because they were born in another country.
+{56172}{56273}This is your home.
+{56439}{56582}Traitors! Where's our traitor?|Traitors! Where's our traitor?
+{56585}{56644}- Coward.|- No, it's not like that.
+{56647}{56731}My boy's gone.|What makes you so different?
+{56734}{56843}Why is it so easy for you to say no?|Stinking cowards!
+{57337}{57399}You should be|ashamed of yourselves!
+{57402}{57466}Cowards!
+{57508}{57565}Absolute disgrace!
+{59358}{59420}I have it from the|highest authority.
+{59423}{59515}A huge offensive will follow|the first use of the gas.
+{59579}{59617}Then the war will be shorter?
+{59620}{59671}Oh, yeah.
+{59674}{59723}German lives will be saved.
+{59726}{59774}Yes.
+{60125}{60195}What are you doing?
+{60531}{60590}What is this?
+{60998}{61098}My son for years|has been doing nothing.
+{61101}{61212}Now, in the army, he's found a purpose.|He's transformed.
+{61231}{61336}It's a good feeling to be able|to call oneself German again.
+{61372}{61459}Did you know he was|going to be here?
+{61627}{61744}Your membership of the Academy|of Sciences has a consequence.
+{61747}{61810}You have become|an official of the state,
+{61813}{61903}which makes your|nationality German.
+{61977}{62038}I gave it up.
+{62041}{62145}The Kaiser himself has personally|decreed your return to German citizenship.
+{62148}{62287}Then the Kaiser himself should have|thought to ask me first.
+{62296}{62348}Show him.
+{62375}{62526}This is a list of the greatest names|in German cultural life -
+{62529}{62615}the inheritors of Beethoven,|Schubert, Goethe.
+{62618}{62663}Yes, but what is it?
+{62666}{62794}A manifesto to be sent all over the world,|even to England -
+{62797}{62887}a statement of solidarity|with the German army,
+{62890}{63006}signed by just 93|of the highest names.
+{63009}{63129}It will be your honour|to be the 94th signatory.
+{63273}{63336}Is Goethe going to|fight Shakespeare?
+{63339}{63387}We could have a Swiss jury
+{63390}{63489}and decide the outcome|without any more bloodshed.
+{63492}{63538}I won't sign.
+{63541}{63622}You are an expensive addition|to the university.
+{63625}{63660}Are you threatening me?
+{63663}{63749}He's reminding you|of your love of God...
+{63798}{63880}...and your duty to your country.
+{63976}{64041}What do you give him, Max?
+{64068}{64179}I work on artillery trajectories.
+{64241}{64292}I have a contract,
+{64295}{64358}and my part of it|is the work that I do.
+{64361}{64429}I do not belong to anyone.
+{64432}{64511}You cannot have my name.
+{65197}{65272}The Einstein paper.
+{65285}{65361}I've been told it's unavailable|until further notice.
+{65364}{65413}You've been told?|What does that mean?
+{65416}{65540}All German scientific journals|have been taken out of circulation.
+{66535}{66579}Eddington?
+{66582}{66612}Are you all right?
+{66615}{66671}- I was looking for something.|- What?
+{66674}{66711}The Einstein paper.
+{66714}{66818}Why? You made clear your views.|A very good job you did.
+{66821}{66896}Whatever you might think about|German military ambition,
+{66899}{66951}it has nothing to do|with German science.
+{66954}{66999}Really?
+{67051}{67121}"A manifesto|to the civilised world.
+{67124}{67197}"The German people are one."
+{67200}{67259}93 signatures - look.
+{67262}{67309}Max Planck - scientist.
+{67312}{67371}Wilhelm Röntgen - scientist.
+{67374}{67432}Fritz Haber - scientist.
+{67435}{67549}I think this makes it clear that we cannot|distinguish between the German military
+{67552}{67637}and German scientists,|wouldn't you say, old chap?
+{67713}{67800}He's not there.
+{67853}{67904}Einstein's not on the list.
+{67907}{67975}But it just so happens that,|at this moment in history,
+{67978}{68016}he has moved himself to Berlin.
+{68019}{68122}I think that shows us|where his allegiances lie.
+{68125}{68235}Consorting with the enemy|is a treasonable offence, Eddington.
+{68387}{68448}Arthur!
+{68516}{68603}Come with me.
+{68729}{68768}Agnes, the sun.
+{68771}{68803}Die Sonne.
+{68806}{68875}Die Sonne, yes.
+{68971}{69046}Uranus.
+{69049}{69077}Neptune.
+{69080}{69131}Neptun.
+{69134}{69175}- Saturn.|- Saturn.
+{69178}{69216}The planets make their orbits|around the sun.
+{69219}{69299}We can measure their orbits|very, very precisely.
+{69302}{69358}Newton's theory of gravity tells us|where they'll be
+{69361}{69477}when they pass closest to the sun.|He's always right, but...
+{69568}{69622}...with Mercury, he's out.
+{69625}{69737}No-one likes to admit it, but|the reality is a tiny fraction different
+{69740}{69822}from that which|Newton predicts it should be.
+{69825}{69866}But by how much?
+{69869}{69989}The length of a fingertip|in millions of miles, but still out.
+{70056}{70139}- Agnes... Mercury?|- Merkur.
+{70142}{70229}- Merkur.|- What are you doing?
+{70232}{70324}I'm going to write to Albert Einstein.|Every theory must make predictions
+{70327}{70385}about the real world.|I want to ask Einstein
+{70388}{70462}what his theory predicts|for Mercury.
+{70532}{70577}Handel.
+{70580}{70664}Technically good,|but essentially shallow.
+{70690}{70723}Wagner?
+{70726}{70859}Indescribably offensive.|I feel only a deep disgust for Wagner.
+{70862}{70891}Mozart?
+{70894}{70954}Mozart...
+{70970}{71180}In Mozart, I see a reflection|of the inner beauty of the universe.
+{71494}{71550}We've been talking about music.
+{71553}{71581}Yes.
+{71584}{71619}All day.
+{71622}{71678}When I should have been working.
+{71681}{71742}Is it because you are stuck?
+{71823}{71903}You said|you knew nothing about physics.
+{71906}{71965}Let's keep it that way.
+{72475}{72544}This is the senior common room.
+{72652}{72712}She's a woman.
+{72735}{72792}Do you know, Haber,
+{72795}{72844}I think you could be right.
+{72847}{72928}Quick! What shall we do?
+{72931}{72982}God knows!
+{73001}{73058}Anything might happen.
+{74155}{74231}You should eat more.|You're too thin.
+{74302}{74423}This is like the potato salad my mother|made me when I was a child, only...
+{74426}{74491}What?
+{74508}{74576}Not as good.
+{74698}{74770}Ah, I bought you a present.
+{75023}{75070}Albert?
+{75372}{75466}This Englishman|has asked me a question.
+{75518}{75637}One tiny part of the universe|is behaving badly.
+{75640}{75762}The orbit of Mercury|is outside the law. Why?
+{75765}{75957}If I could make my thinking on gravity|fit with Mercury's bad behaviour...
+{75986}{76109}...then it would take me|a long way... towards...
+{76112}{76151}Towards what?
+{76154}{76288}The first step|towards a new way of thinking.
+{76291}{76393}A whole new way.
+{76431}{76503}Are you unstuck?
+{76522}{76583}I have a lot of work to do.
+{76682}{76744}Are you asking me to go?
+{76884}{76941}Have you seen Planck?
+{77002}{77089}Max! Max! Max!
+{77339}{77396}My son...
+{77546}{77625}I am more sorry than I can say.
+{78000}{78062}Do you miss your boys?
+{78108}{78176}But you will see them again.
+{78287}{78344}You know, Max,
+{78347}{78470}I love science twice as much|in times such as these.
+{78492}{78639}It takes one away from all the confusions|and stupidities and horrors...
+{78729}{78803}...and their emotional consequences.
+{78852}{78926}You've been very kind.
+{79002}{79033}Now I must go home.
+{79036}{79059}No.
+{79062}{79112}- No?|- No.
+{79131}{79168}I need your help.
+{79171}{79325}- With what?|- Mercury and mathematics.
+{79547}{79651}If we get this result...
+{79654}{79699}where will we publish?
+{79702}{79725}If?
+{79728}{79832}What's the matter with you?|If we get the result
+{79946}{80038}May I ask you|a very serious question?
+{80075}{80133}What if God were to say|you were mistaken?
+{80136}{80268}If he said,|"Stop, Newton is right."
+{80296}{80406}Then I would thank God|for his point of view
+{80409}{80475}and we would agree to differ
+{80478}{80566}and I would be left|feeling very sorry for God.
+{80569}{80636}So you do believe in God?
+{80639}{80808}I cannot conceive of a God who has a will|of the kind we experience in ourselves.
+{80811}{80923}And life after death?
+{80942}{81065}Neither can I conceive of an individual|who survives his own physical death.
+{81332}{81411}There's our answer|for Mercury's orbit.
+{81414}{81529}And perhaps the first step|to disproving Newton.
+{81675}{81780}Eddington. England...
+{82437}{82496}Arthur? What is it?
+{82499}{82561}It fits.
+{82595}{82678}Einstein's thinking and the real orbit|of Mercury - it's the same.
+{82681}{82758}You know what this|could mean, Winnie?
+{82761}{82870}Einstein's beginning|to close in on gravity.
+{83085}{83144}I need to talk to you.|Where's Sir Oliver?
+{83147}{83181}Not now.
+{83184}{83281}Chlorine gas, made in Berlin.
+{83284}{83335}What?
+{83339}{83398}The Cambridgeshires -
+{83401}{83529}obliterated|at the Battle of Ypres.
+{83532}{83563}All of them?
+{83566}{83721}Major Colin Foster...|Captain Raymond Lodge.
+{83858}{83962}First Lieutenant|William Marston.
+{84384}{84422}Eddington!
+{84425}{84489}I wanted you to know|how sorry I am.
+{84508}{84571}William was a good friend,|wasn't he?
+{84574}{84655}Yes, he was, yes.
+{84843}{84920}What's going on?|What's going on?
+{84945}{84985}Give me your pass, please.
+{84988}{85045}This is ridiculous.
+{85224}{85299}What are you talking about?
+{85302}{85408}Are the great men of science discussing|the great scientific issues of the day
+{85411}{85493}or is the talk of poison gas|and how many dead at Ypres
+{85496}{85529}and how many more,
+{85532}{85629}if only we could have judged|the wind conditions better? More tea?
+{85632}{85715}Einstein!|This is the common room.
+{85718}{85780}Yes, yes.|There must be no noise.
+{85783}{85869}Noise is bad!|Noise is unforgivable.
+{85872}{85946}This university|is the heart of German science.
+{85949}{86047}Please, no shouting!
+{86073}{86189}Thousands of young men killed|by chlorine gas from this university.
+{86199}{86256}What are we doing?
+{86282}{86376}What is this madness?
+{87555}{87622}I can't tell anyone.
+{87648}{87705}You can tell me.
+{87801}{87859}I loved him.
+{87889}{87917}I know.
+{87920}{87958}I loved him so much.
+{87961}{88021}Yes.
+{88159}{88216}I can't find an answer, Winnie.
+{88219}{88270}No.
+{88273}{88344}There's no reason for his death.
+{88347}{88411}There's no comfort to be found.
+{88420}{88453}No.
+{88456}{88515}Where was God at Ypres?
+{88902}{88979}We have a proposal|from the president.
+{88982}{89052}The proposal is|that we expel all Germans
+{89055}{89112}from membership|of the Royal Astronomical Society
+{89115}{89192}and that all contact|between any of our membership
+{89195}{89271}and any German scientist|cease now.
+{89345}{89441}15,000 killed at Ypres|in one day.
+{89470}{89563}Gassed, every one.
+{89584}{89641}Who did this?
+{89680}{89753}Who killed my son?|I'll tell you.
+{89756}{89792}German science.
+{89795}{89870}Perhaps we should do this|another day.
+{89873}{89947}- No, we'll go on.|- Sir Oliver...
+{89950}{90006}We go on.
+{90028}{90179}Can I assume that no-one wishes|to speak against the motion?
+{90278}{90336}Who killed Raymond Lodge?
+{90355}{90387}All of us.
+{90390}{90426}That's enough, Eddington.
+{90429}{90507}This stupid and futile war|killed him.
+{90510}{90615}Expelling German scientists won't bring|any one of the Cambridgeshires back.
+{90618}{90646}Eddington!
+{90649}{90770}The pursuit of truth in science|transcends national boundaries.
+{90773}{90917}It takes us beyond hatred|and anger and fear.
+{90920}{90968}It is the best of us.
+{90971}{91031}What truth?
+{91034}{91145}That there are no rules, no standards,|no moral absolutes?
+{91148}{91252}That you break all the rules of science|and replace them with nothing?
+{91255}{91346}What does your Einstein want?
+{91365}{91428}He wants what I want -
+{91431}{91500}a new theory of gravity.
+{91577}{91629}I think we should move to a vote.
+{91632}{91738}All those in favour|of the motion.
+{91813}{91870}Against?
+{92135}{92218}My son is dead.
+{92226}{92271}He died fighting this evil.
+{92274}{92301}I tell you this now.
+{92304}{92415}I will not allow his death|to have been in vain.
+{92418}{92487}Mercury.
+{92535}{92570}We've had this before.
+{92573}{92628}What?
+{92631}{92717}The orbit of a planet that Newton|couldn't account for - Uranus.
+{92720}{92756}And what happened?
+{92759}{92797}Neptune was discovered.
+{92800}{92900}And where was Neptune? Exactly|where Newton predicted it must be.
+{92903}{92953}And what did that mean?
+{92956}{93050}The orbit of Uranus made sense|with Newton after all.
+{93053}{93120}When will you learn?
+{93123}{93205}Everything happens for a reason!
+{93368}{93416}Ypres.
+{93463}{93514}How dare you mention that name.
+{93517}{93632}What do you know of Ypres?|What do you know of grief?
+{93664}{93747}I have lost my son.
+{93766}{93847}But there is order|in the universe.
+{94441}{94506}Can I see your pass, please?
+{94607}{94649}Excuse me, sir.
+{94652}{94744}- What? What?|- No.
+{94747}{94770}Why?
+{94773}{94822}We've been instructed|not to let you enter.
+{94825}{94939}I need to get my post.|I need my letters, all right? Please.
+{95025}{95070}Max!
+{95073}{95139}They won't let me|collect my post.
+{95142}{95221}You've been cut off...
+{95224}{95283}for your anti-German outburst.
+{95286}{95376}But all my letters|come through the university.
+{95379}{95440}Yes.
+{95505}{95568}Max...
+{96136}{96204}You look terrible.
+{96223}{96330}I am sick,|but I just wanted to see you.
+{96381}{96441}Because you are lonely?
+{96478}{96525}Yes.
+{96528}{96600}Why haven't you come before?
+{96610}{96667}I've been working.
+{96687}{96756}You look beautiful.
+{96861}{96918}I love you.
+{96954}{97041}Charm isn't enough, Albert.
+{97106}{97165}Elsa...
+{97176}{97232}So don't come here
+{97235}{97309}telling me I'm beautiful|and you love me
+{97312}{97416}and expect me|to open my arms to you.
+{97419}{97445}Elsa...
+{97448}{97518}I will make up my mind|about you...
+{97548}{97610}...in my own time.
+{97713}{97772}Are you asking me to go?
+{99879}{99936}Pass, please.
+{100010}{100110}Would you see|that this gets to Cambridge?
+{100113}{100185}They won't allow me to post it.
+{100227}{100286}But you... you are...
+{100289}{100374}They would allow you to. Please.
+{100377}{100429}You brought me here to Berlin.
+{100432}{100497}Please, Max.
+{100537}{100583}I have done what you asked.
+{100586}{100683}My work on gravity is finished.
+{100933}{101013}What are you reading?
+{101036}{101075}You look overcome.
+{101078}{101147}Come to supper.
+{101150}{101233}For what we are about to receive,|may the Lord make us truly thankful.
+{101236}{101297}Amen.
+{101300}{101376}It's called general relativity.
+{101379}{101481}It's a theory of gravity and...|everything.
+{101484}{101546}He's done it.
+{101570}{101663}Let me just... Sorry.|Let me just show you.
+{101666}{101720}What are you doing?|Have you gone mad?
+{101723}{101774}Dyson, the other end.
+{101782}{101815}Pick it up.
+{101818}{101891}Pick up the tablecloth.
+{101971}{102032}Space. The tablecloth is space.
+{102035}{102099}The sun.
+{102102}{102150}What's happening?
+{102153}{102176}What?
+{102179}{102239}What's happening|with the sun and space?
+{102242}{102322}Well, the bread is|sinking into the table cloth.
+{102325}{102368}The sun makes a shape|around it in space.
+{102371}{102412}Yes.
+{102415}{102506}Now, what happens if I do this?
+{102566}{102662}It wants to travel in a straight line,|but it can't. Why not?
+{102736}{102784}Because the bread's|making a shape.
+{102787}{102873}The apple follows the curves|made in space.
+{102876}{102947}Yes! Yes. Space is shaped.
+{102950}{103014}And that is how gravity works.
+{103017}{103117}Space tells objects how to move,|objects tell space what shape to be.
+{103120}{103170}And there's a way to prove it.
+{103173}{103285}When starlight comes near to the sun,|what will happen to it?
+{103288}{103339}It'll bend.
+{103342}{103395}Yes.
+{103398}{103434}That's what he says.
+{103437}{103479}That's what Einstein says.
+{103482}{103586}Starlight will bend.
+{103589}{103676}Every theory needs proof.|I'm the man to prove it.
+{103679}{103742}The English observer|and the German theorist.
+{103745}{103794}Hand in glove.
+{103797}{103896}We're at war, Eddington.|Germany is our enemy.
+{103915}{104041}I love my country very deeply,|but my country is my country, and this...
+{104060}{104122}This is so much more.
+{104225}{104296}Will you help me?
+{104322}{104390}You can't point your telescope|straight at the sun.
+{104393}{104454}I know, too bright.|But May 29th, 1919.
+{104457}{104482}What?
+{104485}{104541}Total solar eclipse.|A chance to look at the sun.
+{104544}{104579}- Where?|- Africa.
+{104582}{104673}The island of Principe.|It's the best place to view the eclipse.
+{104676}{104773}So all we need is|a profoundly large amount of money.
+{104782}{104846}So who do we ask?
+{104865}{104945}As we look at the eclipsed sun|through the giant telescope,
+{104948}{105027}it will be directly in the middle|of the Hyades star cluster.
+{105030}{105140}We'll take photographs of these stars|during the five minutes of eclipse,
+{105143}{105210}and then compare them to photographs|taken of the same stars at night.
+{105213}{105274}One photographic plate|on top of another.
+{105277}{105352}Are the stars in the same place|or different?
+{105355}{105416}If they are different,|then we will know
+{105419}{105520}that starlight is bent|by the sun.
+{105679}{105733}This is an English expedition.
+{105736}{105788}Yes.
+{105791}{105865}To prove a German scientist right.
+{105868}{105918}Or wrong.
+{105921}{105987}If Einstein is right,
+{105990}{106070}then an English expedition|will have proved it.
+{106073}{106184}If he isn't, then an English expedition|will have proved a German scientist wrong
+{106187}{106228}and Sir Isaac Newton right.
+{106231}{106283}I don't believe you.
+{106286}{106334}I'm sorry?
+{106337}{106425}I don't believe|your mind is open.
+{106460}{106523}I was made for this.
+{106542}{106614}I'm the best measuring man|in England.
+{106657}{106719}This is my moment.
+{106745}{106841}This is what my whole life|in science has been for.
+{106860}{106978}I would never, never|allow bias or prejudice in.
+{106981}{107128}I swear to you, on all that I hold dear,|my mind is open.
+{107200}{107233}What about yours?
+{107236}{107263}Mine?
+{107266}{107294}Is your mind open?
+{107297}{107326}Of course.
+{107329}{107402}Then may we have our money?
+{107551}{107607}Principe!
+{107610}{107675}He's agreed.
+{107678}{107748}We're going to Africa.
+{108315}{108363}It's over.
+{108366}{108466}How could God allow|so many to die?
+{108516}{108574}Germany's blockaded.
+{108577}{108623}No food is getting into Berlin.
+{108626}{108699}They have no water, no medicine.
+{108702}{108833}Great Britain has won the war|and now she wants her revenge.
+{108864}{108947}I'm leaving for Berlin|with the Friends.
+{108950}{109042}I hope we Quakers can help.
+{109146}{109224}With you in Africa...
+{109262}{109333}...we will be a long way apart.
+{109518}{109568}Winnie.
+{109571}{109655}Winnie!
+{109683}{109741}Say goodbye to me.
+{109744}{109802}I'm afraid for you.
+{109805}{109903}- What are you talking about?|- I'm...
+{109906}{110042}I'm worried you're... losing something|you used to be sure of.
+{110045}{110099}Your faith.
+{110106}{110198}You must listen for God.
+{110201}{110259}Do you hear me?
+{111780}{111830}What time is it?
+{111833}{111917}It's noon. Two hours to go.
+{111936}{111975}The rain has stopped.
+{111978}{112049}The cloud?
+{112052}{112119}It's full cloud cover.
+{112302}{112359}Everything's ready.
+{112394}{112508}It's all down to whether the cloud lifts,|and if God is with us.
+{112972}{113022}It's time.
+{113293}{113348}We'll get into position.
+{113351}{113417}We'll do what we've|come here to do.
+{113991}{114080}Eddington! Quick, look!
+{114162}{114237}Five minutes to go.
+{115498}{115582}Totality. We have five minutes|to take photographs.
+{117259}{117378}- The rain stopped.|- Yes, it did.
+{117413}{117490}And the cloud cleared.
+{117579}{117636}Yes, it did.
+{117885}{117943}Six of the plates|are poor quality.
+{117946}{117973}Two are good.
+{117976}{118071}We have two photographs to compare|with the original plate back in England.
+{118074}{118159}Will it be Einstein or Newton?
+{118180}{118240}It's time to go home.
+{119366}{119438}Our divorce has taken|longer than the war.
+{119441}{119511}Your work has made you ill.
+{119514}{119594}I hope what you've been doing|is worth all this sacrifice.
+{119597}{119735}We have to do the best|that we are capable of.
+{119756}{119854}That is our sacred|human responsibility.
+{119873}{119958}Anything less is unforgivable.|I had to do the work.
+{119961}{120099}My theory is too beautiful to be wrong.|Somebody will prove it.
+{120102}{120180}Why are you here?
+{120286}{120398}I... have a promise to keep.
+{120417}{120554}Space... is shaped.
+{120581}{120659}Space is full of...
+{120670}{120729}...curves...
+{120779}{120853}...and dents...
+{120879}{120966}...and wonderful shapes.
+{121061}{121137}Are you leaving again?
+{121140}{121222}Are you going back to Berlin?
+{121378}{121449}He's not staying.
+{121842}{121928}This is it.|The comparison plate is in position.
+{121931}{122076}No. We should do this in public.
+{122129}{122227}We should share this|with anyone who wants to witness it.
+{122272}{122370}Right or wrong,|this moment is for all of science.
+{123456}{123543}If the stars on this photographic plate|of the eclipse
+{123546}{123639}overlap with the|comparison plate,
+{123642}{123747}Einstein is wrong|and Newton's theory holds.
+{123750}{123812}If there is a gap|between the two images,
+{123815}{123918}then the sun's gravitational field|has shifted the stars' position
+{123921}{124010}and we have a new theory of gravity.
+{124587}{124708}- A gap.|- Einstein.
+{124808}{124882}I call upon Arthur Eddington.
+{125166}{125321}None of us can know what the world is|in the way that we used to know it.
+{125324}{125404}Einstein says...
+{125690}{125740}Sorry.
+{125761}{125918}Einstein says that time|is not the same for all of us...
+{125937}{126035}...but different|for each one of us.
+{126213}{126383}It's very hard to conceive of|such separate views...
+{126435}{126485}...of such relative|ways of seeing.
+{126488}{126617}Today is the first day|of a new world
+{126620}{126702}that is much harder to live in,
+{126705}{126750}less certain,
+{126753}{126821}more lonely.
+{126895}{126970}But which has, at its heart...
+{126989}{127030}...human endeavour.
+{127033}{127115}One man has shown us how.
+{127118}{127194}Look at what one man can do.
+{127197}{127297}In this man's work,|in the beautiful complexity
+{127300}{127372}of the new universe|he has shown us,
+{127375}{127460}I for one have no doubt.
+{127507}{127605}I can hear God thinking.
+{128041}{128098}Is that him?
+{128149}{128206}Professor Einstein?
+{128237}{128355}Who...|are all those men outside?
+{128358}{128418}Reporters.
+{128443}{128555}Word has reached us from London|of your anointing.
+{128607}{128664}You're famous.
+{128853}{128931}You're here.
+{129065}{129113}Will you have me?
+{129116}{129196}On one condition.
+{129246}{129354}You can't go outside and meet|all those people looking like that.
+{129380}{129447}They'll think you are a lunatic.
+{129565}{129653}What kind of genius|looks like you do?
+{129929}{129966}- No!|- Yes! Yes.
+{129969}{130046}- No!|- Yes.
+{130086}{130175}- Einstein.|- Professor Einstein!
+{130693}{130753}Hello. Yes.
+{130756}{130782}Hello.
+{130785}{130839}Oh, yes. Yes.
+{131418}{131480}Eddington.
+{131499}{131565}Einstein.

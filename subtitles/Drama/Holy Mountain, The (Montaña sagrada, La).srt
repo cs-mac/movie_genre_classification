@@ -1,0 +1,372 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.04,0:00:06.00,Default,,0,0,0,,First, put everything you remember in Box A.
+Dialogue: 0,0:00:06.29,0:00:11.67,Default,,0,0,0,,Next, look closely at the contents in the box\Nand move them into Box B,
+Dialogue: 0,0:00:11.67,0:00:13.38,Default,,0,0,0,,starting with the problems you found.
+Dialogue: 0,0:00:13.58,0:00:15.71,Default,,0,0,0,,What are you talking about, exactly?
+Dialogue: 0,0:00:15.71,0:00:19.42,Default,,0,0,0,,It's the way to find the correct item.\NI heard this from a friend a long time ago.
+Dialogue: 0,0:00:19.75,0:00:22.79,Default,,0,0,0,,There is error in everything.
+Dialogue: 0,0:00:22.79,0:00:24.92,Default,,0,0,0,,But first, you must find out what that is.
+Dialogue: 0,0:00:25.17,0:00:31.13,Default,,0,0,0,,After you understand even the mistakes,\Nthe things you still think are correct are actually correct.
+Dialogue: 0,0:00:31.13,0:00:33.67,Default,,0,0,0,,Does Kei make mistakes, too?
+Dialogue: 0,0:00:34.00,0:00:35.75,Default,,0,0,0,,He probably does, of course.
+Dialogue: 0,0:00:35.75,0:00:38.83,Default,,0,0,0,,Do you think he can't be wrong about anything?
+Dialogue: 0,0:00:39.00,0:00:42.29,Default,,0,0,0,,If so, then that seems rather tragic.
+Dialogue: 0,0:00:42.54,0:00:44.63,Default,,0,0,0,,Suppose he can't be wrong about anything.
+Dialogue: 0,0:00:44.63,0:00:50.29,Default,,0,0,0,,If he ceases to exist as Kei Asai\Nthe instant he IS wrong, it'll be tragic.
+Dialogue: 0,0:00:50.63,0:00:55.63,Default,,0,0,0,,If it were me, I wouldn't be able to stand living like that...\Nbeing unable to tolerate any mistakes.
+Dialogue: 0,0:00:58.79,0:01:01.38,Default,,0,0,0,,You look like you're about to cry, Haruki.
+Dialogue: 0,0:01:02.17,0:01:06.29,Default,,0,0,0,,I think there's something I need to think more on.
+Dialogue: 0,0:01:06.67,0:01:10.33,Default,,0,0,0,,I still don't know Kei Asai's mistake.
+Dialogue: 0,0:01:10.33,0:01:11.75,Default,,0,0,0,,Me neither.
+Dialogue: 0,0:01:14.21,0:01:16.63,Default,,0,0,0,,Let's relax and think on it for a while.
+Dialogue: 0,0:01:17.58,0:01:20.38,Default,,0,0,0,,The truth is, I understand, too.
+Dialogue: 0,0:01:21.13,0:01:23.00,Default,,0,0,0,,After all, I'm also human.
+Dialogue: 0,0:01:23.00,0:01:27.46,Default,,0,0,0,,I'm sure attempting to save a person\Nby sacrificing a cat is right.
+Dialogue: 0,0:01:28.67,0:01:30.75,Default,,0,0,0,,Well, I'll be going home now.
+Dialogue: 0,0:01:32.50,0:01:34.88,Default,,0,0,0,,I'm going to stay here a little longer.
+Dialogue: 0,0:01:34.88,0:01:36.13,Default,,0,0,0,,I'll come by again.
+Dialogue: 0,0:01:36.38,0:01:37.42,Default,,0,0,0,,Okay.
+Dialogue: 0,0:01:40.29,0:01:45.67,Default,,0,0,0,,Nono-san, he won't necessarily stop a cat's time forever.
+Dialogue: 0,0:01:45.83,0:01:50.67,Default,,0,0,0,,Kei is going to find a method that doesn't even require\Na sacrificial cat one of these days.
+Dialogue: 0,0:01:50.96,0:01:53.17,Default,,0,0,0,,Yeah, I know.
+Dialogue: 0,0:02:05.71,0:02:06.67,Default,,0,0,0,,Yes?
+Dialogue: 0,0:02:06.67,0:02:08.75,Default,,0,0,0,,Are you at Nono-san's right now?
+Dialogue: 0,0:02:08.75,0:02:12.13,Default,,0,0,0,,Yes. I was leaving just now.
+Dialogue: 0,0:02:12.29,0:02:13.46,Default,,0,0,0,,Good work.
+Dialogue: 0,0:02:13.79,0:02:16.17,Default,,0,0,0,,By the way, I've got a favor to ask.
+Dialogue: 0,0:02:16.17,0:02:17.50,Default,,0,0,0,,What is it?
+Dialogue: 0,0:02:18.21,0:02:20.08,Default,,0,0,0,,Sumire Soma collapsed.
+Dialogue: 0,0:02:21.46,0:02:23.29,Default,,0,0,0,,I want to help her.
+Dialogue: 0,0:02:26.00,0:02:28.04,Default,,0,0,0,,How is Sumire Soma?
+Dialogue: 0,0:02:28.25,0:02:31.88,Default,,0,0,0,,She keeps sleeping. I don't know anything besides that.
+Dialogue: 0,0:02:32.13,0:02:34.88,Default,,0,0,0,,Was it your instruction to bring her here?
+Dialogue: 0,0:02:34.88,0:02:37.38,Default,,0,0,0,,I'm the one who asked Urachi-san to.
+Dialogue: 0,0:02:37.38,0:02:39.13,Default,,0,0,0,,You sure handled it quickly.
+Dialogue: 0,0:02:39.13,0:02:41.13,Default,,0,0,0,,Did you know this would happen?
+Dialogue: 0,0:02:41.13,0:02:41.96,Default,,0,0,0,,No.
+Dialogue: 0,0:02:42.17,0:02:45.50,Default,,0,0,0,,But I expected it would.
+Dialogue: 0,0:02:45.50,0:02:47.96,Default,,0,0,0,,So, what are you going to do now?
+Dialogue: 0,0:02:47.96,0:02:50.25,Default,,0,0,0,,I'm going to save her as planned.
+Dialogue: 0,0:02:50.54,0:02:53.13,Default,,0,0,0,,Sumire Soma was hurt as planned.
+Dialogue: 0,0:02:53.13,0:02:56.33,Default,,0,0,0,,So, I must save her as planned.
+Dialogue: 0,0:02:56.33,0:02:59.67,Default,,0,0,0,,Kei Asai, you're not righteous, are you?
+Dialogue: 0,0:02:59.83,0:03:01.83,Default,,0,0,0,,You're not good or genuine.
+Dialogue: 0,0:03:01.83,0:03:04.67,Default,,0,0,0,,But I'm sure you're a hero.
+Dialogue: 0,0:03:05.08,0:03:08.83,Default,,0,0,0,,You can't be omnipotent while you're wishing\Nfor omnipotence like in a dream...
+Dialogue: 0,0:03:09.04,0:03:11.46,Default,,0,0,0,,no matter how weak or cruel,
+Dialogue: 0,0:03:11.46,0:03:14.38,Default,,0,0,0,,even if you don't seem that way at all from the outside.
+Dialogue: 0,0:03:14.54,0:03:17.08,Default,,0,0,0,,I'm just selfish, that's all.
+Dialogue: 0,0:03:17.08,0:03:21.83,Default,,0,0,0,,Asai, people call that selfishness "effort."
+Dialogue: 0,0:03:23.54,0:03:24.75,Default,,0,0,0,,Where's Haruki?
+Dialogue: 0,0:03:25.04,0:03:26.79,Default,,0,0,0,,She's heading over here right now.
+Dialogue: 0,0:03:26.96,0:03:29.75,Default,,0,0,0,,As I thought, she always supports you.
+Dialogue: 0,0:03:29.75,0:03:33.54,Default,,0,0,0,,This time, she gave me only one condition.
+Dialogue: 0,0:03:33.83,0:03:35.67,Default,,0,0,0,,She sure is kind.
+Dialogue: 0,0:03:35.67,0:03:39.88,Default,,0,0,0,,Requesting a reward means,\Nin short, assuming responsibility.
+Dialogue: 0,0:03:40.13,0:03:44.13,Default,,0,0,0,,I was always just protected by her for a long time.
+Dialogue: 0,0:03:44.88,0:03:47.21,Default,,0,0,0,,Let's eat chocolate once everything's over.
+Dialogue: 0,0:03:47.21,0:03:50.08,Default,,0,0,0,,Weary boys need chocolate.
+Dialogue: 0,0:03:54.79,0:03:56.00,Default,,0,0,0,,Hey, Haruki.
+Dialogue: 0,0:03:56.33,0:03:57.83,Default,,0,0,0,,Good evening, Kei.
+Dialogue: 0,0:03:58.75,0:04:01.04,Default,,0,0,0,,I think Sakagami-san will be here soon.
+Dialogue: 0,0:04:01.25,0:04:03.38,Default,,0,0,0,,I'm sorry for being selfish.
+Dialogue: 0,0:04:03.38,0:04:06.92,Default,,0,0,0,,If we ask him for help, your condition will be simple.
+Dialogue: 0,0:04:06.92,0:04:08.29,Default,,0,0,0,,But why?
+Dialogue: 0,0:04:08.75,0:04:11.29,Default,,0,0,0,,It's for me to understand you.
+Dialogue: 0,0:04:11.46,0:04:16.46,Default,,0,0,0,,If you also make mistakes,\Nthen I want to understand that.
+Dialogue: 0,0:04:16.63,0:04:19.92,Default,,0,0,0,,I make plenty of mistakes.
+Dialogue: 0,0:04:20.13,0:04:22.79,Default,,0,0,0,,But I don't know your mistakes.
+Dialogue: 0,0:04:23.00,0:04:28.42,Default,,0,0,0,,I'm sure I haven't really tried to understand you until now.
+Dialogue: 0,0:04:28.42,0:04:33.29,Default,,0,0,0,,Somewhere in my heart,\NI had wished that you wouldn't change.
+Dialogue: 0,0:04:34.13,0:04:39.54,Default,,0,0,0,,Kei, I was afraid of the you I really like seeming different.
+Dialogue: 0,0:04:40.96,0:04:42.54,Default,,0,0,0,,What's wrong, Kei?
+Dialogue: 0,0:04:43.08,0:04:46.42,Default,,0,0,0,,This is the second time now that you said you liked me.
+Dialogue: 0,0:04:46.96,0:04:48.79,Default,,0,0,0,,When did I say it the first time?
+Dialogue: 0,0:04:50.33,0:04:53.79,Default,,0,0,0,,You'll remember that day soon.
+Dialogue: 0,0:04:57.75,0:04:59.17,Default,,0,0,0,,Are you ready?
+Dialogue: 0,0:04:59.17,0:05:01.17,Default,,0,0,0,,Yes. Please go ahead.
+Dialogue: 0,0:05:01.50,0:05:03.38,Default,,0,0,0,,Well, here we go.
+Dialogue: 0,0:05:10.79,0:05:13.46,Default,,0,0,0,,These are Kei's memories...
+Dialogue: 0,0:05:14.00,0:05:17.25,Default,,0,0,0,,How kind and cruel he is...
+Dialogue: 0,0:05:17.58,0:05:20.42,Default,,0,0,0,,How smart and foolish he is...
+Dialogue: 0,0:05:20.83,0:05:23.50,Default,,0,0,0,,How bold and subtle he is...
+Dialogue: 0,0:05:24.21,0:05:26.96,Default,,0,0,0,,Kei Asai is special to me.
+Dialogue: 0,0:05:27.46,0:05:30.75,Default,,0,0,0,,He has the best balance to me.
+Dialogue: 0,0:05:31.21,0:05:34.08,Default,,0,0,0,,It's very pure and cozy.
+Dialogue: 0,0:05:34.63,0:05:37.58,Default,,0,0,0,,I'm pretty sure I like you.
+Dialogue: 0,0:05:40.96,0:05:42.00,Default,,0,0,0,,Are you happy?
+Dialogue: 0,0:05:43.58,0:05:44.96,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:05:54.67,0:05:55.75,Default,,0,0,0,,How was it?
+Dialogue: 0,0:05:56.46,0:05:59.08,Default,,0,0,0,,First of all, I found your mistake.
+Dialogue: 0,0:05:59.54,0:06:07.71,Default,,0,0,0,,I was actually happy two years ago,\Nwhen you kissed me on the southern building rooftop.
+Dialogue: 0,0:06:14.79,0:06:18.92,Default,,0,0,0,,Well, I was very cowardly and being indirect.
+Dialogue: 0,0:06:19.25,0:06:21.67,Default,,0,0,0,,I was also being indirect.
+Dialogue: 0,0:06:33.38,0:06:35.13,Default,,0,0,0,,What's wrong, Sumire-chan?
+Dialogue: 0,0:06:35.13,0:06:37.21,Default,,0,0,0,,You look so sad.
+Dialogue: 0,0:06:37.38,0:06:41.92,Default,,0,0,0,,Say, Chiruchiru, will you listen to my request?
+Dialogue: 0,0:06:41.92,0:06:44.21,Default,,0,0,0,,Of course. Anything.
+Dialogue: 0,0:06:44.54,0:06:48.96,Default,,0,0,0,,Then, Chiruchiru, make me exactly like you...
+Dialogue: 0,0:06:49.38,0:06:53.67,Default,,0,0,0,,so that I can do anything just like you.
+Dialogue: 0,0:06:59.08,0:07:01.21,Default,,0,0,0,,Good morning, Kei.
+Dialogue: 0,0:07:01.71,0:07:02.79,Default,,0,0,0,,Morning.
+Dialogue: 0,0:07:02.79,0:07:04.54,Default,,0,0,0,,It's been a while, huh?
+Dialogue: 0,0:07:04.54,0:07:06.75,Default,,0,0,0,,Yes, it has.
+Dialogue: 0,0:07:06.75,0:07:10.21,Default,,0,0,0,,I thought you'd come visit me more often!
+Dialogue: 0,0:07:10.46,0:07:13.17,Default,,0,0,0,,Coming here is fairly difficult.
+Dialogue: 0,0:07:13.17,0:07:15.50,Default,,0,0,0,,But I'll keep that in mind from now on.
+Dialogue: 0,0:07:15.79,0:07:17.13,Default,,0,0,0,,I was joking!
+Dialogue: 0,0:07:17.13,0:07:18.79,Default,,0,0,0,,But come visit, if you can.
+Dialogue: 0,0:07:18.79,0:07:19.83,Default,,0,0,0,,Sure.
+Dialogue: 0,0:07:20.46,0:07:23.08,Default,,0,0,0,,By the way, did you meet up with Sumire Soma?
+Dialogue: 0,0:07:23.25,0:07:26.75,Default,,0,0,0,,I didn't, but Chiruchiru did.
+Dialogue: 0,0:07:26.75,0:07:29.00,Default,,0,0,0,,Did you come to save her this time?
+Dialogue: 0,0:07:29.00,0:07:29.96,Default,,0,0,0,,Yes.
+Dialogue: 0,0:07:29.96,0:07:33.17,Default,,0,0,0,,What are you, a hero?
+Dialogue: 0,0:07:33.17,0:07:36.46,Default,,0,0,0,,No, I'm Sumire Soma's friend.
+Dialogue: 0,0:07:36.46,0:07:40.29,Default,,0,0,0,,I wish for Sumire Soma's happiness\Nto be second best in this world.
+Dialogue: 0,0:07:40.42,0:07:44.96,Default,,0,0,0,,It's pointless if she doesn't rank first, right?
+Dialogue: 0,0:07:44.96,0:07:49.13,Default,,0,0,0,,Sumire is curling into a ball by herself,\Nsince it's pointless being second.
+Dialogue: 0,0:07:49.63,0:07:51.13,Default,,0,0,0,,That might be true.
+Dialogue: 0,0:07:51.13,0:07:53.17,Default,,0,0,0,,You're gonna go and make Sumire first?
+Dialogue: 0,0:07:53.17,0:07:55.71,Default,,0,0,0,,I'll go get her to accept being second.
+Dialogue: 0,0:07:55.71,0:07:57.96,Default,,0,0,0,,You're a very cruel person, huh?
+Dialogue: 0,0:07:58.13,0:07:59.29,Default,,0,0,0,,Yes.
+Dialogue: 0,0:07:59.71,0:08:02.50,Default,,0,0,0,,I'm cruel and selfish.
+Dialogue: 0,0:08:06.71,0:08:08.25,Default,,0,0,0,,Here?
+Dialogue: 0,0:08:08.63,0:08:11.54,Default,,0,0,0,,The southern building rooftop and the tetrapods...
+Dialogue: 0,0:08:11.96,0:08:14.21,Default,,0,0,0,,Both are places in my memories.
+Dialogue: 0,0:08:14.21,0:08:18.79,Default,,0,0,0,,But those are memories with the Sumire Soma\Nfrom two years ago, not the current Soma.
+Dialogue: 0,0:08:19.67,0:08:23.46,Default,,0,0,0,,Since everything is pretty much over,\Nlet's have a KitKat together.
+Dialogue: 0,0:08:23.92,0:08:28.79,Default,,0,0,0,,Let's make plans to make curry together,\Nwhile we're having a break with sweet chocolate.
+Dialogue: 0,0:08:29.33,0:08:32.17,Default,,0,0,0,,Let's make the most delicious curry in the world.
+Dialogue: 0,0:08:32.38,0:08:33.42,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:08:36.50,0:08:38.04,Default,,0,0,0,,Haruki, save.
+Dialogue: 0,0:08:38.21,0:08:42.21,Default,,0,0,0,,Save. 7:15:20 PM.
+Dialogue: 0,0:08:43.46,0:08:45.08,Default,,0,0,0,,Now, let's go.
+Dialogue: 0,0:09:00.29,0:09:01.96,Default,,0,0,0,,Why did you come?
+Dialogue: 0,0:09:01.96,0:09:05.33,Default,,0,0,0,,This is my apartment. Of course, I'd come back here.
+Dialogue: 0,0:09:05.71,0:09:09.00,Default,,0,0,0,,There's nothing for you to come all the way\Nto the dream world for.
+Dialogue: 0,0:09:16.63,0:09:18.92,Default,,0,0,0,,I'll define your happiness.
+Dialogue: 0,0:09:19.17,0:09:24.33,Default,,0,0,0,,I'm sure I can't save you, but you can save me.
+Dialogue: 0,0:09:24.33,0:09:26.63,Default,,0,0,0,,You can make me happy.
+Dialogue: 0,0:09:26.83,0:09:30.33,Default,,0,0,0,,I can't. I hurt you.
+Dialogue: 0,0:09:30.46,0:09:32.67,Default,,0,0,0,,You're mistaken about that.
+Dialogue: 0,0:09:32.67,0:09:36.29,Default,,0,0,0,,You've helped me better than anyone else.
+Dialogue: 0,0:09:36.71,0:09:42.25,Default,,0,0,0,,There's no doubt that the happiness\Nyou created for me is true happiness.
+Dialogue: 0,0:09:42.63,0:09:46.08,Default,,0,0,0,,It really is true happiness for me.
+Dialogue: 0,0:09:46.08,0:09:47.17,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:09:47.71,0:09:51.75,Default,,0,0,0,,So, please, I want you to keep helping me.
+Dialogue: 0,0:09:51.96,0:09:55.50,Default,,0,0,0,,Thanks to you, I'll stay happy.
+Dialogue: 0,0:09:56.58,0:09:58.00,Default,,0,0,0,,It's so bright in here.
+Dialogue: 0,0:10:01.96,0:10:05.50,Default,,0,0,0,,Kei, you're always Kei Asai.
+Dialogue: 0,0:10:06.08,0:10:08.92,Default,,0,0,0,,I can't stand it; it pains me.
+Dialogue: 0,0:10:19.58,0:10:22.83,Default,,0,0,0,,Hey, I knew you were crying.
+Dialogue: 0,0:10:24.54,0:10:26.33,Default,,0,0,0,,Look at my future.
+Dialogue: 0,0:10:26.88,0:10:34.38,Default,,0,0,0,,One month, half a year, one year into the future,\Nyou're definitely smiling from where I can see,
+Dialogue: 0,0:10:34.38,0:10:35.71,Default,,0,0,0,,so look at that future.
+Dialogue: 0,0:10:36.29,0:10:37.71,Default,,0,0,0,,Hey, Kei.
+Dialogue: 0,0:10:38.21,0:10:42.29,Default,,0,0,0,,I'm sure that's what will happen, if that's what you want.
+Dialogue: 0,0:10:42.29,0:10:45.25,Default,,0,0,0,,But I'm scared of that future.
+Dialogue: 0,0:10:45.25,0:10:51.88,Default,,0,0,0,,Did you know that I'm afraid of a future\Nwhere I can't have you but am still able to smile?
+Dialogue: 0,0:10:53.50,0:10:55.13,Default,,0,0,0,,But that's fine.
+Dialogue: 0,0:10:55.13,0:11:00.00,Default,,0,0,0,,If you can accept just one condition,\Nthen let's do as you say.
+Dialogue: 0,0:11:00.21,0:11:01.21,Default,,0,0,0,,What is it?
+Dialogue: 0,0:11:01.21,0:11:03.25,Default,,0,0,0,,I want you to play a game with me.
+Dialogue: 0,0:11:03.50,0:11:06.54,Default,,0,0,0,,If you win, I'll follow your lead.
+Dialogue: 0,0:11:07.08,0:11:08.63,Default,,0,0,0,,And if you win?
+Dialogue: 0,0:11:08.96,0:11:11.71,Default,,0,0,0,,Let me decide on your future.
+Dialogue: 0,0:11:12.83,0:11:15.21,Default,,0,0,0,,You're going to be mine,\Nand we'll live in this dream world.
+Dialogue: 0,0:11:15.58,0:11:24.79,Default,,0,0,0,,We'll lead a life together as though we're little stones,\Na life where no one will bother us.
+Dialogue: 0,0:11:24.79,0:11:25.83,Default,,0,0,0,,Fine.
+Dialogue: 0,0:11:26.00,0:11:27.71,Default,,0,0,0,,Just what kind of game?
+Dialogue: 0,0:11:28.71,0:11:33.83,Default,,0,0,0,,You haven't said my name once\Nsince you entered this room.
+Dialogue: 0,0:11:34.42,0:11:37.58,Default,,0,0,0,,I'm sure you're being considerate of me.
+Dialogue: 0,0:11:37.75,0:11:38.79,Default,,0,0,0,,But...
+Dialogue: 0,0:11:39.29,0:11:42.92,Default,,0,0,0,,Please, Kei, say my name.
+Dialogue: 0,0:11:43.13,0:11:47.50,Default,,0,0,0,,If you say my name correctly, you win.
+Dialogue: 0,0:11:52.42,0:11:54.29,Default,,0,0,0,,Good evening, Haruki.
+Dialogue: 0,0:11:54.29,0:11:55.67,Default,,0,0,0,,You're late, aren't you?
+Dialogue: 0,0:11:58.79,0:12:00.63,Default,,0,0,0,,Thirty minutes have passed...
+Dialogue: 0,0:12:01.63,0:12:03.50,Default,,0,0,0,,Did you meet with Kei?
+Dialogue: 0,0:12:03.50,0:12:06.38,Default,,0,0,0,,Yes, the two of us talked.
+Dialogue: 0,0:12:06.71,0:12:08.38,Default,,0,0,0,,Where is he now?
+Dialogue: 0,0:12:08.38,0:12:10.38,Default,,0,0,0,,He's in my hands.
+Dialogue: 0,0:12:11.17,0:12:13.00,Default,,0,0,0,,What does that mean?
+Dialogue: 0,0:12:13.00,0:12:15.33,Default,,0,0,0,,Kei made a deal with me.
+Dialogue: 0,0:12:15.33,0:12:19.33,Default,,0,0,0,,We played a game where he'll be mine, if he loses.
+Dialogue: 0,0:12:19.58,0:12:21.75,Default,,0,0,0,,And he lost the game.
+Dialogue: 0,0:12:21.75,0:12:23.96,Default,,0,0,0,,So, he's in here right now.
+Dialogue: 0,0:12:23.96,0:12:25.08,Default,,0,0,0,,That's impossible.
+Dialogue: 0,0:12:25.08,0:12:26.33,Default,,0,0,0,,How come?
+Dialogue: 0,0:12:26.33,0:12:29.38,Default,,0,0,0,,I'm about the same as Chiruchiru right now.
+Dialogue: 0,0:12:29.54,0:12:32.63,Default,,0,0,0,,I'm capable of turning him into a little stone.
+Dialogue: 0,0:12:32.63,0:12:33.92,Default,,0,0,0,,Sumire Soma...
+Dialogue: 0,0:12:33.92,0:12:36.67,Default,,0,0,0,,there is no way that you would wish for such a thing.
+Dialogue: 0,0:12:36.79,0:12:39.88,Default,,0,0,0,,If I'm really Sumire Soma, that is.
+Dialogue: 0,0:12:43.00,0:12:44.38,Default,,0,0,0,,You're so funny!
+Dialogue: 0,0:12:44.71,0:12:49.83,Default,,0,0,0,,If that little stone isn't Kei Asai,\Nthen you wouldn't need to panic so much.
+Dialogue: 0,0:12:50.71,0:12:54.54,Default,,0,0,0,,Misora Haruki, that's really Kei Asai.
+Dialogue: 0,0:12:54.92,0:12:57.50,Default,,0,0,0,,He can't see or hear anything.
+Dialogue: 0,0:12:57.50,0:12:59.88,Default,,0,0,0,,But on the inside, he keeps thinking.
+Dialogue: 0,0:13:00.04,0:13:03.04,Default,,0,0,0,,It's a little stone that only holds Kei Asai's consciousness.
+Dialogue: 0,0:13:04.21,0:13:08.42,Default,,0,0,0,,Give up. Kei Asai is mine now.
+Dialogue: 0,0:13:08.71,0:13:13.13,Default,,0,0,0,,Sumire Soma, please forgive me\Nfor not choosing my words carefully.
+Dialogue: 0,0:13:13.13,0:13:17.17,Default,,0,0,0,,This Misora Haruki has become very human.
+Dialogue: 0,0:13:17.17,0:13:20.13,Default,,0,0,0,,Two years is enough time for that to happen.
+Dialogue: 0,0:13:20.33,0:13:21.58,Default,,0,0,0,,Well, whatever.
+Dialogue: 0,0:13:21.75,0:13:24.92,Default,,0,0,0,,You don't need to choose your words carefully\Nwhen talking to me.
+Dialogue: 0,0:13:25.67,0:13:26.75,Default,,0,0,0,,Then...
+Dialogue: 0,0:13:28.42,0:13:30.46,Default,,0,0,0,,this is totally ridiculous.
+Dialogue: 0,0:13:30.46,0:13:33.67,Default,,0,0,0,,There's no way you can have Kei Asai like this.
+Dialogue: 0,0:13:33.83,0:13:37.67,Default,,0,0,0,,You put me in this apartment room,\Nsince you knew that, too.
+Dialogue: 0,0:13:37.96,0:13:40.04,Default,,0,0,0,,You're throwing a tantrum.
+Dialogue: 0,0:13:40.21,0:13:45.67,Default,,0,0,0,,You were actually trying to get Kei Asai,\Nsince you couldn't be happy with this, right?
+Dialogue: 0,0:13:46.17,0:13:50.29,Default,,0,0,0,,In other words, you were waiting for me\Nto come and hand him over, right?
+Dialogue: 0,0:13:50.29,0:13:51.58,Default,,0,0,0,,I see.
+Dialogue: 0,0:13:51.58,0:13:53.58,Default,,0,0,0,,That's an effective method.
+Dialogue: 0,0:13:53.79,0:13:58.38,Default,,0,0,0,,If I did everything I could for him, even sacrificing my life,\Nand then felt sorry for myself,
+Dialogue: 0,0:13:58.38,0:14:01.38,Default,,0,0,0,,then it would be impossible\Nfor that Kei Asai to ignore me.
+Dialogue: 0,0:14:01.58,0:14:10.08,Default,,0,0,0,,And if I changed him into that stone, Misora Haruki,\Nthen you WILL try to save him, right?
+Dialogue: 0,0:14:10.29,0:14:17.33,Default,,0,0,0,,You put him before yourself,\Nso you can even leave him if it's for his sake, can't you?
+Dialogue: 0,0:14:17.50,0:14:18.79,Default,,0,0,0,,Then...
+Dialogue: 0,0:14:19.38,0:14:22.33,Default,,0,0,0,,please, give Kei Asai to me.
+Dialogue: 0,0:14:23.17,0:14:26.17,Default,,0,0,0,,Sumire Soma, did you know?
+Dialogue: 0,0:14:26.79,0:14:30.42,Default,,0,0,0,,I could use my ability by myself a long time ago.
+Dialogue: 0,0:14:30.83,0:14:33.33,Default,,0,0,0,,It was that way until summer two years ago.
+Dialogue: 0,0:14:33.33,0:14:38.38,Default,,0,0,0,,But I used my reset ability, and the Sumire Soma,\Nwho was alive before the reset, had died.
+Dialogue: 0,0:14:38.38,0:14:40.54,Default,,0,0,0,,And Kei Asai was hurt.
+Dialogue: 0,0:14:40.88,0:14:45.50,Default,,0,0,0,,Since then, I could no longer use my ability by myself.
+Dialogue: 0,0:14:45.50,0:14:48.04,Default,,0,0,0,,I didn't want the same thing happening again.
+Dialogue: 0,0:14:48.17,0:14:54.33,Default,,0,0,0,,He has memories from before I did a reset,\Nand he's the only one in the world I didn't want to hurt.
+Dialogue: 0,0:14:54.50,0:15:02.00,Default,,0,0,0,,No, I was afraid of using my ability of my own will,\Nmaking a mistake, and being hated by him.
+Dialogue: 0,0:15:02.17,0:15:05.71,Default,,0,0,0,,Can you use your reset ability by yourself right now?
+Dialogue: 0,0:15:07.08,0:15:08.17,Default,,0,0,0,,I can.
+Dialogue: 0,0:15:10.42,0:15:11.25,Default,,0,0,0,,Rese--
+Dialogue: 0,0:15:19.38,0:15:20.67,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:15:22.04,0:15:26.75,Default,,0,0,0,,You actually only have Kei's best interests\Nin mind, don't you?
+Dialogue: 0,0:15:33.63,0:15:37.88,Default,,0,0,0,,There's no way I couldn't see this future.
+Dialogue: 0,0:15:38.25,0:15:43.46,Default,,0,0,0,,There's no way you could simply hand Kei over\Nafter spending two years together.
+Dialogue: 0,0:15:43.46,0:15:48.13,Default,,0,0,0,,There's no way that Kei didn't realize such a plan.
+Dialogue: 0,0:15:49.17,0:15:53.88,Default,,0,0,0,,It's not like I made calculations\Nto that extent for everything.
+Dialogue: 0,0:15:54.42,0:15:57.58,Default,,0,0,0,,I can't help having feelings.
+Dialogue: 0,0:15:58.63,0:15:59.88,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:16:00.79,0:16:06.17,Default,,0,0,0,,It's fine. There's no point if you don't fall for it.
+Dialogue: 0,0:16:06.67,0:16:11.00,Default,,0,0,0,,I knew it. It's not like you could turn Kei into a stone.
+Dialogue: 0,0:16:11.33,0:16:16.83,Default,,0,0,0,,You told this lie for my sake, just so that\NI could use my ability of my own will, right?
+Dialogue: 0,0:16:16.83,0:16:18.79,Default,,0,0,0,,I didn't lie for you.
+Dialogue: 0,0:16:19.08,0:16:26.79,Default,,0,0,0,,I did it, because Kei will take responsibility\Nfor all of the abilities in Sakurada from now on.
+Dialogue: 0,0:16:26.96,0:16:30.33,Default,,0,0,0,,You can't remain sheltered by him forever.
+Dialogue: 0,0:16:30.71,0:16:36.50,Default,,0,0,0,,You alone must be the right help for him\Nwhen he ends up trying to save everything.
+Dialogue: 0,0:16:36.88,0:16:41.92,Default,,0,0,0,,I don't want to be by his side\Nwhen I can't be held responsible for my ability.
+Dialogue: 0,0:16:43.58,0:16:45.42,Default,,0,0,0,,I'm sorry, Sumire Soma.
+Dialogue: 0,0:16:46.04,0:16:48.38,Default,,0,0,0,,I'm jealous of you.
+Dialogue: 0,0:16:48.38,0:16:51.54,Default,,0,0,0,,I think that's what I should be saying.
+Dialogue: 0,0:16:52.25,0:16:54.54,Default,,0,0,0,,Do you know what my ideal is?
+Dialogue: 0,0:16:55.00,0:16:56.96,Default,,0,0,0,,Being near Kei.
+Dialogue: 0,0:16:57.67,0:16:59.38,Default,,0,0,0,,Not quite.
+Dialogue: 0,0:17:00.04,0:17:05.42,Default,,0,0,0,,It's being smart, possessing an outstanding ability,\Nand being able to be of use to him anytime.
+Dialogue: 0,0:17:05.75,0:17:07.67,Default,,0,0,0,,That is my ideal.
+Dialogue: 0,0:17:08.08,0:17:11.83,Default,,0,0,0,,Sumire Soma, I want to be like you.
+Dialogue: 0,0:17:13.21,0:17:18.00,Default,,0,0,0,,Misora Haruki, I wanted to be like you.
+Dialogue: 0,0:17:18.21,0:17:22.63,Default,,0,0,0,,Someday, I'll be as capable as you when I'm with Kei.
+Dialogue: 0,0:17:22.88,0:17:28.17,Default,,0,0,0,,If I can have both of our spots all to myself,\Nthen I can be satisfied, since I'm selfish.
+Dialogue: 0,0:17:28.17,0:17:30.08,Default,,0,0,0,,That's a cheap provocation.
+Dialogue: 0,0:17:30.33,0:17:31.17,Default,,0,0,0,,Yes.
+Dialogue: 0,0:17:31.17,0:17:33.75,Default,,0,0,0,,He asked me to keep helping him a little while ago.
+Dialogue: 0,0:17:33.75,0:17:43.08,Default,,0,0,0,,I'm superior as a work partner,\Nso I don't have to hand that part over to you, too, right?
+Dialogue: 0,0:17:45.83,0:17:47.50,Default,,0,0,0,,Where is Kei?
+Dialogue: 0,0:17:47.83,0:17:49.75,Default,,0,0,0,,He's already woken up.
+Dialogue: 0,0:17:50.17,0:17:53.67,Default,,0,0,0,,Then, let's go home, too.
+Dialogue: 0,0:18:01.04,0:18:04.83,Default,,0,0,0,,Please, Kei, say my name.
+Dialogue: 0,0:18:05.21,0:18:09.38,Default,,0,0,0,,If you say my name correctly, you win.
+Dialogue: 0,0:18:12.38,0:18:13.50,Default,,0,0,0,,Go on.
+Dialogue: 0,0:18:14.54,0:18:16.08,Default,,0,0,0,,Sumire Soma.
+Dialogue: 0,0:18:20.00,0:18:22.42,Default,,0,0,0,,You were always Sumire Soma.
+Dialogue: 0,0:18:22.67,0:18:26.54,Default,,0,0,0,,After all, the voice messages that were sent\Nwith Tomoki's ability reached you.
+Dialogue: 0,0:18:27.25,0:18:30.13,Default,,0,0,0,,How could you believe that?
+Dialogue: 0,0:18:30.46,0:18:32.63,Default,,0,0,0,,I can tell, if I think about you.
+Dialogue: 0,0:18:33.04,0:18:39.25,Default,,0,0,0,,If they didn't reach you, then you never would've said\Nthat my choice was correct, since you're kind.
+Dialogue: 0,0:18:39.42,0:18:46.08,Default,,0,0,0,,But, you know, Kei, I couldn't believe anything\Nuntil I had you decide.
+Dialogue: 0,0:18:46.08,0:18:52.00,Default,,0,0,0,,Even if your voice reached me by ability,\NI knew that I couldn't believe that I was Sumire Soma.
+Dialogue: 0,0:18:52.46,0:18:53.46,Default,,0,0,0,,That's right.
+Dialogue: 0,0:18:53.79,0:18:58.46,Default,,0,0,0,,I planned everything, since I knew my weakness.
+Dialogue: 0,0:18:59.00,0:19:04.58,Default,,0,0,0,,I tried to let you decide on my name... my identity.
+Dialogue: 0,0:19:05.21,0:19:07.13,Default,,0,0,0,,I'm sorry, Kei.
+Dialogue: 0,0:19:07.13,0:19:10.92,Default,,0,0,0,,I gave you baggage to shoulder again.
+Dialogue: 0,0:19:11.17,0:19:16.46,Default,,0,0,0,,Soma, you might not know this, but I'm very selfish.
+Dialogue: 0,0:19:17.46,0:19:21.42,Default,,0,0,0,,Two years ago, since the time I decided\Nthat I was going to try to revive you,
+Dialogue: 0,0:19:21.42,0:19:24.13,Default,,0,0,0,,I expected to be burdened by all sorts of things.
+Dialogue: 0,0:19:24.42,0:19:26.00,Default,,0,0,0,,I knew that.
+Dialogue: 0,0:19:26.42,0:19:30.92,Default,,0,0,0,,But that baggage was so heavy that there\Nmust've been times when you wanted to give it up.
+Dialogue: 0,0:19:31.25,0:19:33.75,Default,,0,0,0,,That weight was perfect.
+Dialogue: 0,0:19:34.17,0:19:37.63,Default,,0,0,0,,My ability exists for keeping it.
+Dialogue: 0,0:19:38.17,0:19:42.17,Default,,0,0,0,,I wished that I could move forward\Nwithout throwing away heavy baggage.
+Dialogue: 0,0:19:47.04,0:19:49.25,Default,,0,0,0,,Morning, Soma.
+Dialogue: 0,0:19:55.58,0:19:58.67,Default,,0,0,0,,Did you look at my face when I was sleeping?
+Dialogue: 0,0:19:58.67,0:20:00.13,Default,,0,0,0,,Was that bad?
+Dialogue: 0,0:20:00.13,0:20:01.79,Default,,0,0,0,,You looked pretty in your sleep.
+Dialogue: 0,0:20:02.42,0:20:06.54,Default,,0,0,0,,I don't mind, but I've never even seen\Nwhat I look like in my sleep.
+Dialogue: 0,0:20:08.21,0:20:11.79,Default,,0,0,0,,Why did you stay with me and not Haruki?
+Dialogue: 0,0:20:11.79,0:20:13.29,Default,,0,0,0,,I have two reasons.
+Dialogue: 0,0:20:13.46,0:20:17.46,Default,,0,0,0,,First, I sort of had a feeling you would wake up first.
+Dialogue: 0,0:20:17.46,0:20:18.83,Default,,0,0,0,,And the second reason?
+Dialogue: 0,0:20:18.83,0:20:21.42,Default,,0,0,0,,The moon was very beautiful.
+Dialogue: 0,0:20:21.54,0:20:22.46,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:22.63,0:20:26.92,Default,,0,0,0,,You were sleeping next to the window and Haruki wasn't.
+Dialogue: 0,0:20:34.42,0:20:35.88,Default,,0,0,0,,Oh, that's right.
+Dialogue: 0,0:20:35.88,0:20:38.38,Default,,0,0,0,,You've lied in the past.
+Dialogue: 0,0:20:38.75,0:20:39.79,Default,,0,0,0,,About what?
+Dialogue: 0,0:20:39.79,0:20:42.29,Default,,0,0,0,,You actually hate messages.
+Dialogue: 0,0:20:43.13,0:20:46.50,Default,,0,0,0,,Listen to my voice from now on, Kei.
+Dialogue: 0,0:20:46.63,0:20:49.33,Default,,0,0,0,,Okay. I'll definitely do that.
+Dialogue: 0,0:20:49.79,0:20:52.42,Default,,0,0,0,,Well then, I'm gonna go now.
+Dialogue: 0,0:20:52.42,0:20:53.46,Default,,0,0,0,,You're leaving?
+Dialogue: 0,0:20:53.46,0:20:57.33,Default,,0,0,0,,Facing Misora Haruki is sort of awkward.
+Dialogue: 0,0:20:57.83,0:21:01.88,Default,,0,0,0,,If I just walk around, I'm sure someone like Urachi-san\Nwill come and pick me up.
+Dialogue: 0,0:21:04.17,0:21:06.88,Default,,0,0,0,,Well, Soma, let's keep working together.
+Dialogue: 0,0:21:06.88,0:21:08.75,Default,,0,0,0,,Thank you, Kei.
+Dialogue: 0,0:21:21.13,0:21:22.75,Default,,0,0,0,,Did she already leave?
+Dialogue: 0,0:21:22.75,0:21:23.38,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:21:23.96,0:21:25.71,Default,,0,0,0,,Why didn't you come out?
+Dialogue: 0,0:21:25.71,0:21:29.38,Default,,0,0,0,,I was kind of embarrassed of seeing her.
+Dialogue: 0,0:21:29.54,0:21:33.79,Default,,0,0,0,,Kei, do you wish for Sumire Soma and me to get along?
+Dialogue: 0,0:21:33.79,0:21:37.33,Default,,0,0,0,,It's not like you wish for her misfortune, right?
+Dialogue: 0,0:21:37.33,0:21:38.17,Default,,0,0,0,,Right.
+Dialogue: 0,0:21:38.17,0:21:40.71,Default,,0,0,0,,I'm sure you'll help her, if she's having trouble.
+Dialogue: 0,0:21:40.71,0:21:42.08,Default,,0,0,0,,If it's something I can do.
+Dialogue: 0,0:21:42.25,0:21:43.83,Default,,0,0,0,,Then, that's fine, isn't it?
+Dialogue: 0,0:21:43.83,0:21:45.25,Default,,0,0,0,,Thank goodness.
+Dialogue: 0,0:21:45.46,0:21:48.92,Default,,0,0,0,,I wondered what I would do\Nif you told me to be friends with her.
+Dialogue: 0,0:21:48.92,0:21:51.58,Default,,0,0,0,,You really don't want to get along with her?
+Dialogue: 0,0:21:51.75,0:21:56.21,Default,,0,0,0,,For Sumire Soma and me,\Nbeing moderately adversarial with each other is good.
+Dialogue: 0,0:21:56.21,0:21:58.54,Default,,0,0,0,,I mean, it's natural.
+Dialogue: 0,0:21:58.71,0:21:59.96,Default,,0,0,0,,Is that how it is?
+Dialogue: 0,0:21:59.96,0:22:01.08,Default,,0,0,0,,Yes.
+Dialogue: 0,0:22:01.08,0:22:03.25,Default,,0,0,0,,I'm sure you wouldn't understand.
+Dialogue: 0,0:22:04.38,0:22:07.58,Default,,0,0,0,,Kei, is everything pretty much over now?
+Dialogue: 0,0:22:07.58,0:22:08.88,Default,,0,0,0,,For now, it is.
+Dialogue: 0,0:22:08.88,0:22:11.38,Default,,0,0,0,,Then, let's make dinner together.
+Dialogue: 0,0:22:11.38,0:22:14.08,Default,,0,0,0,,Yeah, let's go shopping together tomorrow.
+Dialogue: 0,0:22:14.08,0:22:16.54,Default,,0,0,0,,Also, I have another proposal.
+Dialogue: 0,0:22:16.54,0:22:17.63,Default,,0,0,0,,What is it?
+Dialogue: 0,0:22:17.88,0:22:20.33,Default,,0,0,0,,I'm thinking of letting my hair grow out now.
+Dialogue: 0,0:22:20.33,0:22:22.67,Default,,0,0,0,,That's very nice, but why?
+Dialogue: 0,0:22:22.83,0:22:24.63,Default,,0,0,0,,I remembered earlier.
+Dialogue: 0,0:22:24.92,0:22:28.96,Default,,0,0,0,,You said that my hair was pretty a long time ago.
+Dialogue: 0,0:22:29.38,0:22:30.79,Default,,0,0,0,,Do you remember that?
+Dialogue: 0,0:22:31.54,0:22:32.67,Default,,0,0,0,,Of course.
+Dialogue: 0,0:22:33.54,0:22:36.33,Default,,0,0,0,,I take pride in having a good memory.

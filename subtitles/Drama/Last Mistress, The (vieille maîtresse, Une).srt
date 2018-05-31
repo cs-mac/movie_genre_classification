@@ -1,0 +1,340 @@
+{1}{1}23.976
+{5675}{5728}We don't have much time,|gotta work.
+{5730}{5780}Saya?
+{5809}{5857}Something wrong?
+{6012}{6086}Every bloodsucker you kill,|brings us one step closer.
+{6089}{6156}I'm not here for those bottomfeeders.
+{6158}{6199}There's only matter of time...
+{6202}{6250}and patience.
+{6400}{6466}Jesus Christ.
+{6468}{6546}Mike, something's not right.|- What?
+{6562}{6629}There ain't no bloodsucker in there.
+{6632}{6680}He's human.
+{6688}{6764}It didn't have time to transform,|that's all.
+{6766}{6892}You're gonna take her word for it?|What if she just screwed up?
+{6918}{6966}Saya, that's enough.
+{7046}{7093}Get some rest.
+{7096}{7144}I'll be at the hotel tomorrow.
+{7146}{7246}The little bitch is out of control.|- We need her.
+{7292}{7347}Saya's all we've got.
+{8411}{8459}Michael?
+{8607}{8655}Let's go.
+{8733}{8835}Three deaths on the American airbase|within a week.
+{8836}{8899}Our cleaners got there in time.
+{8899}{8978}Noone saw the bodies.|- The underlings are feeding.
+{8981}{9038}You know what they're saying
+{9041}{9113}When the hungry demons feed without discretion
+{9115}{9169}Onigen is near.
+{9335}{9389}You're about to get your wish.
+{9392}{9460}Facet the leader of the pack.
+{9493}{9548}The plan?
+{9550}{9643}The council wants you on the base,|to find more on the leads.
+{9646}{9701}I don't investigate,|I kill.
+{9703}{9766}Be my guest, kill the bottom feeders...
+{9769}{9828}and you'll lure out - Onigen.
+{9850}{9920}But this time, the blood we'll take.|- I was never wrong.
+{9922}{9990}Doesn't hurt to be cautious. That's all.
+{9993}{10084}And a... don't blow your cover|unless absolutely necessary.
+{10086}{10143}The Elder pulled a lot of strings to arrange this.
+{10145}{10193}Cover?
+{10270}{10318}What's that?
+{10322}{10370}It's a new outfit.
+{10516}{10707}US Air Force Kanto Base - Tokio.
+{11449}{11512}You know dad, you don't have to drive me|to the school everyday.
+{11515}{11555}I can walk.|- Don't be silly.
+{11558}{11607}It's my only chance to spend some time with you.
+{11610}{11684}Everyone else walks.|- You're not everyone, sweety.
+{11686}{11741}But I ain't a kid either.|- Is that why you did it?
+{11743}{11813}To prove that you're all grown up?
+{11834}{11913}Did what?|- I was hoping you'd come clean.
+{11915}{11953}That's what grown-ups do you know.
+{11957}{12008}- I don't know what you're talking about.
+{12009}{12070}Well then,|I guess it must've been Frank.
+{12070}{12121}What do you say, Frank?|- Sir?
+{12123}{12191}Was it you who took my car out for|a spin last night?
+{12193}{12259}No, sir.|- Did you sneak off the base?
+{12262}{12330}Boogie at the Hippy-Shake until 4?|- No, sir.
+{12332}{12399}I cannot believe this,|you're spying on me?
+{12401}{12458}I don't have to, Alice.|You are my daughter.
+{12460}{12515}People know you and people talk.
+{12518}{12605}Ok, yeah, I'm sorry,|I should have told you.
+{12605}{12727}It's just, you're always busy day and night, working on your 2nd star.
+{12729}{12787}You gotta understand we're at war.
+{12789}{12875}We're all at risk, even here.|- This is your war, not mine.
+{12877}{12925}That's enough, Alice.
+{12965}{13065}Hey. Watch where you're going, dammit.|- Yes, sir.
+{13105}{13153}Alice.
+{13165}{13231}Alice, would you come back here.
+{14134}{14249}So... class, let's give|our new classmate a warm welcome.
+{14288}{14327}There we go.
+{14329}{14429}Saya, would you care to take|that desk over there?
+{14437}{14499}Good, now I know you've all been|doing your homework and...
+{14501}{14591}and ah..you've prepared for|today's readings...
+{14593}{14661}..which will be Mary Shelley's Frankestein.
+{14664}{14809}Okie dokie,|we're gonna start on page 135.
+{14819}{14855}She must be lost.
+{14857}{14942}This is a navy base.|- I can't believe they let a jap enroll here.
+{14944}{14999}Oh, next thing you know, they're gonna|think they own the base.
+{15002}{15087}Ah..like Adam, I was created
+{15109}{15157}Yes, sir.
+{15167}{15215}Our story stands.
+{15232}{15287}They think it's a CIA plan.
+{16676}{16757}Frankenstein's monster compares himself with both
+{16760}{16900}Adam and Lucifer.|Can you tell me why... Liz?
+{16913}{17011}Um... beacause both Adam|and Lucifer were created by God?
+{17013}{17113}Yes, but these are opposite ends|of good and evil.
+{17121}{17179}Uh..to which end does the monster belong?
+{17179}{17271}To whom does he reach out, in his anger?
+{17282}{17372}Saya, would you care to join|our discussion?
+{17487}{17578}Yes, Alice?|- Anger is what makes the monster human.
+{17578}{17637}He's neither good or evil.
+{17646}{17746}He was abandoned by his creator|just like Lucifer.
+{17760}{17818}So..God and Victor Frankenstein...
+{17818}{17879}..both deserted their creation|not because...
+{17879}{18000}they were imperfect, but|because they reminded them...
+{18000}{18041}of their own imperfections.
+{18043}{18091}That's very interesting.
+{18097}{18225}So..you think that God is|an irresponsible...
+{18228}{18291}father figure?|- She must be thinking about her dad.
+{18293}{18315}What did you say?
+{18318}{18345}Piss off the princess and...
+{18348}{18400}next thing you know her dad|will court-marshall you.
+{18402}{18488}Oh, it's not my fault.|Please don't send me to the chair.
+{18491}{18603}Yes, now, settle down, c'mon,|please.. let's be nice
+{18606}{18665}George, could you read the next paragraph?
+{18668}{18752}A cursed creator,|why did you
+{18952}{19043}Concentrate Alice,|let the mind lead the body.
+{19139}{19187}Good.
+{19220}{19268}That's it for today.
+{19271}{19314}What's our motto, team mugen?
+{19317}{19368}Be wolf, be gone.
+{19370}{19418}That's the spirit.
+{19564}{19602}Alice.
+{19604}{19641}Sir?
+{19643}{19694}You're dragging down the whole team.
+{19697}{19751}I want you to stay,|and practice.
+{19753}{19775}But I have to
+{19777}{19836}D'you think you're gonna get a special|treatment just coz you're general's daughter?
+{19839}{19887}I didn't say that.
+{19901}{19979}I'll spar with Alice.|- And I will be the ref.
+{19982}{20045}No, I'll.. practice on my own.
+{20055}{20135}A- a, gotta think of the team,|we have a tournament next week.
+{20137}{20247}Make a wolf from Alice for me girls.|- Yes, Mr. Powell.
+{20278}{20326}Bring it on.
+{20454}{20504}What are you doing?
+{20523}{20609}We tried very very hard to ignore you.
+{20618}{20700}And you just keep getting on our nerves.
+{20742}{20798}Are you insane?
+{21566}{21614}Go.
+{21624}{21648}www.frendz4m.com
+{21672}{21696}www.frendz4m.com
+{21720}{21743}www.frendz4m.com
+{21767}{21791}www.frendz4m.com
+{23413}{23461}Secure that vehicle.
+{23549}{23618}Who are they?|- We don't know yet, sir.
+{23621}{23669}Step out.
+{23715}{23800}Unlock the doors and step out right now.
+{23804}{23868}Hey pal, what do you think you're doing...|- Stop right there, fella.
+{23870}{23932}Ho-ho, easy, big guy.|Do we look like Vietcong?
+{23934}{24003}You keep your hands where I can see em, wise ass.
+{24005}{24126}General, Michael Harrison.|director of operations, CIA.
+{24135}{24179}Those men work for us.
+{24181}{24265}What are you spooks doing on my base?|- That's classified
+{24267}{24323}Langley sent us to assist with the war effort.
+{24325}{24360}In what capacity?
+{24362}{24423}Last time I checked, DoD doesn't,|come under your jurisdiction.
+{24425}{24477}Am I talking to you?|- General.
+{24479}{24525}My superior will call you shortly.
+{24528}{24595}Now I suggest we all calm down...
+{24596}{24699}and handle this like the professionals|we are. Ok?
+{24728}{24804}Keep an eye on 'em, Frank.|- Yes, sir.
+{25002}{25074}They were here. I saw them.
+{25087}{25115}Sharon
+{25118}{25184}Linda's head was...|- Everything is okay, sweetie...
+{25186}{25223}you're safe now,|and that's all that matters.
+{25225}{25277}I saw them.
+{25279}{25373}The Japanese girl, Frank|why was she in our school?
+{25375}{25476}Washington arranged her enrollment, sir.|- Washington?
+{25478}{25563}The registrar says her name is Saya,|she is a daughter of Matoki Shisekura...
+{25565}{25612}a soon to be appointed the ambassador to DC.
+{25614}{25725}Well you conform that with our local liasion.|You get a warrant issued and find her.
+{25728}{25775}They cleaned it all up.
+{25782}{25847}Dad, look. It's still wet.
+{25910}{25969}We're gonna find out what|these guys are doing, Frank.
+{25971}{26002}That could be a problem, sir.
+{26005}{26059}We don't have the authority,|to detain the Agency personnel.
+{26061}{26098}I'll deal with that.
+{26100}{26162}I respectfully disagree, sir.
+{26195}{26325}Then I will have to file an official|complaint with the Pentagon.
+{26332}{26416}Understand, sir.|- Dad, whoever they are,
+{26418}{26518}they covered up two murders,|we can't let them go.
+{26678}{26781}Cut em loose, Frank. Alice?|- Yes, sir.
+{26783}{26831}Stand-down.
+{26887}{26935}Son of a bitch.
+{26967}{27035}What's wrong with you?|Talking to him like that.
+{27038}{27120}In case you didn't notice,|they pulled their guns on me.
+{27122}{27181}You gotta clean up this mess,|or the council will wanna have our heads.
+{27184}{27245}What the hell were you thinking anyway?|Sending Saya to a high school.
+{27248}{27335}She's older than all of us combined.|- Yeah?
+{27373}{27440}Christ.
+{27522}{27568}The Elder wants to see us.
+{27570}{27670}Something was wrong with them?|Linda's blood
+{27672}{27761}Sweety, you're still in a shock,|it's understandable.
+{27763}{27808}You go get some sleep.
+{27810}{27875}You have to believe me,|Mr. Powell knows something.
+{27877}{27936}How can he know anything if he wasn't even there.
+{27939}{28014}Now would you just go get some sleep.
+{28015}{28073}Dad, you're wrong.
+{28076}{28191}Alice, that's enough.|Look would you just leave it to the grown-ups.
+{28193}{28246}We'll talk in the morning.
+{28296}{28341}Yes?
+{28343}{28401}Frank, what do you have?
+{28428}{28518}Yeah, just as I said, if there|were to be a new ambassador.
+{28520}{28555}I would've been briefed
+{28557}{28606}Guys with sunglasses and funny hats...
+{28608}{28639}waving their cheeky badges around...
+{28639}{28720}..and now I was supposed to believe they|were sent by Langley?
+{28726}{28762}Do whatever you have to.
+{28765}{28796}Find out who they are,
+{28796}{28857}..and what the hell are they|doing on my base.
+{30018}{30067}Sir?
+{30082}{30130}Sit.
+{30269}{30350}Everything according to plan?|- Yes, sir.
+{30358}{30467}Rumor has it McKee was calling Langley|and Washington.
+{30470}{30535}Very curious about the both of you.
+{30537}{30605}Was that part of your plan?
+{30619}{30703}We had a run-in with him.|Yes.
+{30705}{30800}Having American friends in high places,|doesn't mean I'm Uncle Sam.
+{30803}{30898}A little discretion would be nice.
+{30905}{30978}The council has to remain anonymous.
+{30992}{31084}And American connection cannot risk exposure.
+{31086}{31164}Don't get to cozy playing CIA.
+{31167}{31230}I'll take care of it.|Leave it to me.
+{31233}{31286}You have my word, sir.
+{31288}{31316}Hungry?
+{31319}{31423}Starving.|- Here is something to curb your appetite.
+{31443}{31534}Plane crashed near the Okatana|mountains this morning.
+{31537}{31665}Those are the crew members on board.|What's left of them anyway.
+{31702}{31729}Thank you.
+{31732}{31767}This is Onigen's work.
+{31770}{31832}Those photos were taken,|before we cleaned up the scene.
+{31834}{31892}Noone else knows|- He's here?
+{31894}{31953}He's at the base?|- Yeah.
+{31956}{32025}Now Onigen's here...
+{32028}{32105}blood will be shed.
+{32484}{32524}Oh I'm very sorry, I didn't notice
+{32527}{32634}It's been 20 years since we've had people|visit, but I hope you'll enjoy your stay.
+{32636}{32751}I also noticed, you won't be|needing any help with luggage?
+{32753}{32851}Observant and caring, your wife is a lucky lady.
+{32866}{32891}Yes.
+{32893}{32941}As long you think so.
+{32943}{33007}Shin, my daughter is preparing dinner.
+{33009}{33093}It will be ready soon in the dining room.
+{33111}{33159}I can't believe that.
+{33381}{33462}Sorry.|Why are you still standing there?.
+{33756}{33821}Come out and play my children.
+{33823}{33887}The feeding season has begun.
+{34757}{34798}Kinky, how's life?
+{34800}{34875}***|- The usual?
+{34879}{34936}On the Rocks.
+{35193}{35264}Hi, Alice chan. Irashai.
+{35345}{35408}What's your poison tonight?
+{35416}{35464}Leave us.
+{35523}{35572}You lied.
+{35583}{35719}You knew Linda and Sharon were gonna|hurt me and you lied to my dad.
+{35766}{35807}Why me?
+{35809}{35860}What did I do?|What
+{35870}{35955}What do you want from me?|- It's all about you, you, you, isn't it?
+{35957}{36045}What if you're wrong, delusional,|ever thought about that?
+{36047}{36097}I know what I saw.
+{36167}{36264}What you see, has got|nothing to do with what's real.
+{36266}{36333}You look around, you see an airbase|run by your daddy...
+{36335}{36404}flying his B52's to wipe out gook|farmers out on the rice paddies
+{36406}{36468}Fighting his righteous war.
+{36481}{36533}But you don't see the real war.
+{36536}{36650}The one that's been going on|since the beginning of time.
+{36653}{36767}Between your kind - and mine.|The end is upon you.
+{36775}{36873}Brought on by your self-deceiving godliness.
+{36876}{36935}And your pretentious moral high ground.
+{36938}{37008}We will come out the victors.|Welcome to the other side of the looking glass.
+{37011}{37081}Now it's time,|to die.
+{37489}{37563}Hey. Hey, stop. Stop, hey, please.
+{37573}{37597}www.frendz4m.com
+{37621}{37645}www.frendz4m.com
+{37669}{37693}www.frendz4m.com
+{37716}{37740}www.frendz4m.com
+{45592}{45640}Let her go.
+{48377}{48425}Get down.
+{49225}{49284}He's getting away.|- He's wounded.
+{49287}{49338}Get closer.
+{49527}{49575}Faster.
+{49682}{49731}Faster.
+{49831}{49897}Get closer.
+{50020}{50068}Closer.
+{52754}{52825}Can you sense her?
+{53093}{53195}Mr. Powell, Sharon and Linda...
+{53215}{53286}all of them...|- They never existed.
+{53300}{53370}What exactly were they?
+{53393}{53441}Bloodsuckers.
+{53444}{53518}They take on human form.
+{53521}{53586}It's the way they live.
+{53642}{53740}So I guess you're not really a student, are you?
+{53750}{53866}Are there... more of those...|things out there?
+{53869}{53922}More than you can imagine.
+{53961}{54009}Anything I can do?
+{54027}{54105}It's not your war.|Go home.
+{54107}{54165}And forget everything.
+{54168}{54237}And leave you fighting them alone?
+{54264}{54322}I can take care of myself.
+{54506}{54585}M'y dad is the general at the base,|I can tell 'im and he can
+{54587}{54638}Don't tell anyone.|- Why?
+{54640}{54700}You want to live?|You want your father to live?
+{54703}{54751}Then don't.
+{54824}{54904}Alright. He wouldn't believe me anyway.
+{54933}{54993}Saya.
+{55024}{55093}Be really careful, okay?
+{55705}{55767}Did they see you?|- No, sir.
+{56107}{56190}Are these weapons?|- No, I don't think so.
+{56205}{56248}They were a total of 4 cases.
+{56251}{56340}Mostly standard issues,|as far as I can tell.
+{56342}{56365}From the Agency?
+{56367}{56433}No I don't think these guys|are from the Agency at all.
+{56436}{56485}Call on the tech guys.
+{56497}{56548}What in the God's name are these things?
+{56550}{56623}Slugs, snails and puppy dogs' tails.
+{56646}{56694}Easy.
+{56703}{56762}We're here to talk.|That's all.
+{56764}{56819}How dare you enter my home uninvited?
+{56822}{56884}My apologies, old habits die hard.
+{56887}{56957}Been with the Agency one day too long, I guess.
+{56959}{57062}What do you want?|- Did you authorize the burglary, general?
+{57064}{57135}You're not taking it back, it's evidence.|- Of what?
+{57137}{57227}That's for central command to decide.|- Wait.
+{57239}{57316}General, I've always thought|we got off on the wrong foot.
+{57319}{57343}It's my fault.
+{57345}{57400}But we're on the same side.
+{57406}{57480}I assure you.|- The side that murdered two highschool girls?
+{57482}{57503}I don't think so.
+{57505}{57608}I've come here to give you Saya, general.|She's not with the Agency.
+{57611}{57717}I can't be held responsible,|if she's out of control.
+{57801}{57881}Where is she?|Get this down, Frank.
+{57915}{57985}Hotel Yuzoya,|Tokoshiginga Street Ni Shiao 57
+{57988}{58049}Hang on.|Tell me the street again.
+{58051}{58108}Tokoshi-ginza.|- I know it.
+{58111}{58221}It's in the Shinigawa Ward,|about 30 minutes from here.
+{58593}{58646}You've left me with no choice, General.
+{58648}{58752}I can leave the case with you.|- Who are you people?
+{58810}{58874}Saviours of the human race.
+{58930}{58986}The council has been around, since...
+{58989}{59110}before your granddaddy's granddaddy|stole this land from the Indians.
+{59113}{59176}We walk a higher path, General.
+{59224}{59300}Run Alice, run.
+{59746}{59800}Dad.
+{59902}{59963}Dad
+{59991}{60073}No, Alice. Get off the Base.
+{60075}{60166}You're not safe here.|- I don't know what to do.
+{60168}{60226}Alice, leave.
+{60271}{60325}I love you, sweetie.
+{60350}{60416}Dad? No.
+{60418}{60484}Dad.
+{61355}{61381}Fucking A.

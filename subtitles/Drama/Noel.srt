@@ -1,0 +1,4163 @@
+﻿1
+00:00:55,500 --> 00:00:56,000
+{\an1}<font face="Times New Roman" size="15">P</font>
+
+2
+00:00:56,000 --> 00:00:56,500
+{\an1}<font face="Times New Roman" size="15">PE</font>
+
+3
+00:00:56,500 --> 00:00:57,000
+{\an1}<font face="Times New Roman" size="15">PEN</font>
+
+4
+00:00:57,000 --> 00:00:57,500
+{\an1}<font face="Times New Roman" size="15">PENE</font>
+
+5
+00:00:57,500 --> 00:00:58,000
+{\an1}<font face="Times New Roman" size="15">PENER</font>
+
+6
+00:00:58,000 --> 00:00:58,500
+{\an1}<font face="Times New Roman" size="15">PENERJ</font>
+
+7
+00:00:58,500 --> 00:00:59,000
+{\an1}<font face="Times New Roman" size="15">PENERJE</font>
+
+8
+00:00:59,000 --> 00:00:59,500
+{\an1}<font face="Times New Roman" size="15">PENERJEM</font>
+
+9
+00:00:59,500 --> 00:01:00,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMA</font>
+
+10
+00:01:00,000 --> 00:01:00,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH</font>
+
+11
+00:01:00,500 --> 00:01:01,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH:</font>
+
+12
+00:01:01,000 --> 00:01:01,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH:</font>
+
+13
+00:01:01,500 --> 00:01:02,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: H</font>
+
+14
+00:01:02,000 --> 00:01:02,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Ha</font>
+
+15
+00:01:02,500 --> 00:01:03,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Har</font>
+
+16
+00:01:03,000 --> 00:01:03,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harf</font>
+
+17
+00:01:03,500 --> 00:01:04,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfl</font>
+
+18
+00:01:04,000 --> 00:01:04,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly</font>
+
+19
+00:01:04,500 --> 00:01:05,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly  </font>
+
+20
+00:01:05,000 --> 00:01:05,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Z</font>
+
+21
+00:01:05,500 --> 00:01:06,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zo</font>
+
+22
+00:01:06,000 --> 00:01:06,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zon</font>
+
+23
+00:01:06,500 --> 00:01:07,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+
+24
+00:01:07,000 --> 00:01:07,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">h</font>
+
+25
+00:01:07,500 --> 00:01:08,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">ht</font>
+
+26
+00:01:08,000 --> 00:01:08,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">htt</font>
+
+27
+00:01:08,500 --> 00:01:09,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http</font>
+
+28
+00:01:09,000 --> 00:01:09,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http:</font>
+
+29
+00:01:09,500 --> 00:01:10,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http:/</font>
+
+30
+00:01:10,000 --> 00:01:10,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://</font>
+
+31
+00:01:10,500 --> 00:01:11,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://h</font>
+
+32
+00:01:11,000 --> 00:01:11,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://ha</font>
+
+33
+00:01:11,500 --> 00:01:12,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://har</font>
+
+34
+00:01:12,000 --> 00:01:12,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harf</font>
+
+35
+00:01:12,500 --> 00:01:13,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfl</font>
+
+36
+00:01:13,000 --> 00:01:13,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly</font>
+
+37
+00:01:13,500 --> 00:01:14,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.</font>
+
+38
+00:01:14,000 --> 00:01:14,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.b</font>
+
+39
+00:01:14,500 --> 00:01:15,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.bl</font>
+
+40
+00:01:15,000 --> 00:01:15,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blo</font>
+
+41
+00:01:15,500 --> 00:01:16,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blog</font>
+
+42
+00:01:16,000 --> 00:01:16,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogs</font>
+
+43
+00:01:16,500 --> 00:01:17,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogsp</font>
+
+44
+00:01:17,000 --> 00:01:17,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspo</font>
+
+45
+00:01:17,500 --> 00:01:18,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot</font>
+
+46
+00:01:18,000 --> 00:01:18,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.</font>
+
+47
+00:01:18,500 --> 00:01:19,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.c</font>
+
+48
+00:01:19,000 --> 00:01:19,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.co</font>
+
+49
+00:01:19,500 --> 00:01:20,000
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.com</font>
+
+50
+00:01:20,000 --> 00:01:20,500
+{\an1}<font face="Times New Roman" size="15">PENERJEMAH: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.com</font>
+
+51
+00:01:20,500 --> 00:01:25,000
+{\an1}{\3c&FFFFFF&}<font face="Times New Roman" size="15" color="#006633">PENERJEMAH: Harfly Zone</font>
+{\an1}{\3c&336600&}<font face="Times New Roman" size="15" color="#FFFFFF">http://harfly.blogspot.com</font>
+
+52
+00:01:28,000 --> 00:01:35,500
+{\an1}{\3c&336600&}<font face="Times New Roman" size="15" color="#FFFFFF">♪ "Spesialis Penerjemah Film Horor." ♪</font>
+
+53
+00:01:38,000 --> 00:01:41,200
+<font color="#F1c822">10, 9, 8,</font>
+
+54
+00:01:41,200 --> 00:01:43,000
+<font color="#F1c822">7, 6, 5,</font>
+
+55
+00:01:43,000 --> 00:01:47,200
+<font color="#F1c822">4, 3, 2, 1.</font>
+
+56
+00:01:47,200 --> 00:01:49,000
+<font color="#F1c822">New Beginning.</font>
+
+57
+00:01:49,000 --> 00:01:51,200
+<font color="#F1c822">New Beginning.</font>
+
+58
+00:02:58,200 --> 00:03:01,000
+<font color="#F1c822">Melissa, how far does
+it say we have to go?</font>
+
+59
+00:03:01,000 --> 00:03:04,200
+<font color="#F1c822">Hold on a second, hon.
+I'm almost there.</font>
+
+60
+00:03:04,200 --> 00:03:07,000
+<font color="#F1c822">I like this neighborhood.
+It's really cute.</font>
+
+61
+00:03:08,000 --> 00:03:09,200
+<font color="#F1c822">Yeah, okay.</font>
+
+62
+00:03:09,200 --> 00:03:13,000
+<font color="#F1c822">The turn is coming up here,
+on the left pretty soon.</font>
+
+63
+00:03:13,000 --> 00:03:14,200
+<font color="#F1c822">Isn't this exciting?</font>
+
+64
+00:03:14,200 --> 00:03:18,000
+<font color="#F1c822">You're gonna have so much
+more space in your new room.</font>
+
+65
+00:03:18,000 --> 00:03:19,200
+<font color="#F1c822">You're gonna love it.</font>
+
+66
+00:03:19,200 --> 00:03:21,000
+<font color="#F1c822">Just think of all the new
+friends you're gonna make.</font>
+
+67
+00:03:21,000 --> 00:03:23,200
+<font color="#F1c822">He's gonna have a hard
+time making new friends</font>
+
+68
+00:03:23,200 --> 00:03:25,000
+<font color="#F1c822">if he's not talking, huh, kiddo?</font>
+
+69
+00:03:27,000 --> 00:03:29,200
+<font color="#F1c822">This is a real adventure, Nat.</font>
+
+70
+00:03:29,200 --> 00:03:32,000
+<font color="#F1c822">Maybe we could even think
+about finally getting a dog.
+</font>
+
+71
+00:03:32,000 --> 00:03:34,200
+<font color="#F1c822">Maybe.</font>
+
+72
+00:03:34,200 --> 00:03:35,000
+<font color="#F1c822">This house is perfect.</font>
+
+73
+00:03:35,000 --> 00:03:37,200
+<font color="#F1c822">It's got a great yard.
+He'd love it.</font>
+
+74
+00:03:37,200 --> 00:03:38,000
+<font color="#F1c822">What do you say, Nat?</font>
+
+75
+00:03:39,000 --> 00:03:40,200
+<font color="#F1c822">Nat?</font>
+
+76
+00:03:40,200 --> 00:03:42,000
+<font color="#F1c822">Honey, he can still hear.</font>
+
+77
+00:03:42,000 --> 00:03:45,200
+<font color="#F1c822">- I know, Melissa, but if he's ever...
+- Jack, watch out!</font>
+
+78
+00:03:46,200 --> 00:03:48,000
+<font color="#F1c822">Honey, what did you hit?</font>
+
+79
+00:03:48,000 --> 00:03:50,200
+<font color="#F1c822">I don't know.</font>
+
+80
+00:03:51,200 --> 00:03:53,000
+<font color="#F1c822">- Stay here.
+- Okay.</font>
+
+81
+00:04:12,000 --> 00:04:15,200
+<font color="#F1c822">It's all right, honey.</font>
+
+82
+00:04:20,200 --> 00:04:22,000
+<font color="#F1c822">Do you see anything?</font>
+
+83
+00:04:31,000 --> 00:04:34,200
+<font color="#F1c822">Nothing.
+Must have just grazed it.</font>
+
+84
+00:04:34,200 --> 00:04:36,000
+<font color="#F1c822">Looked like a cat.</font>
+
+85
+00:04:36,000 --> 00:04:39,200
+<font color="#F1c822">I think it was a possum.</font>
+
+86
+00:04:39,200 --> 00:04:40,000
+<font color="#F1c822">You didn't even see it.</font>
+
+87
+00:04:40,000 --> 00:04:44,200
+<font color="#F1c822">You okay back there, bud?</font>
+
+88
+00:04:44,200 --> 00:04:46,000
+<font color="#F1c822">Talk about your adventure.</font>
+
+89
+00:04:46,000 --> 00:04:49,200
+<font color="#F1c822">We haven't even unpacked yet,
+and we already hit a possum-cat.</font>
+
+90
+00:04:49,200 --> 00:04:51,000
+<font color="#F1c822">Scared me to death.</font>
+
+91
+00:04:54,000 --> 00:04:55,200
+<font color="#F1c822">A possum-cat? Really?</font>
+
+92
+00:04:55,200 --> 00:05:00,000
+<font color="#F1c822">Yeah. It's a ferocious little
+beast indigenous to this area.</font>
+
+93
+00:05:00,000 --> 00:05:03,200
+<font color="#F1c822">Okay, Mr. Professor.</font>
+
+94
+00:05:03,200 --> 00:05:08,000
+<font color="#F1c822">Just don't hit any more
+indigenous beasts, okay?</font>
+
+95
+00:05:08,000 --> 00:05:10,200
+<font color="#F1c822">Okay.</font>
+
+96
+00:05:10,200 --> 00:05:12,000
+<font color="#F1c822">You all right
+back there, buddy?</font>
+
+97
+00:05:24,000 --> 00:05:25,200
+<font color="#F1c822">Oh, look.</font>
+
+98
+00:05:32,200 --> 00:05:34,000
+<font color="#F1c822">There she is.</font>
+
+99
+00:05:34,000 --> 00:05:36,200
+<font color="#F1c822">Pretty great. huh, Nat?</font>
+
+100
+00:05:44,200 --> 00:05:46,000
+<font color="#F1c822">Looking good, Janice.</font>
+
+101
+00:05:46,000 --> 00:05:48,200
+<font color="#F1c822">Thanks, Marie.
+Five pounds.</font>
+
+102
+00:05:51,200 --> 00:05:53,000
+<font color="#F1c822">You made it.</font>
+
+103
+00:05:53,000 --> 00:05:56,200
+<font color="#F1c822">Oh, Professor vales, I'm Janice
+from university housing.</font>
+
+104
+00:05:56,200 --> 00:05:57,000
+<font color="#F1c822">Nice to meet you.</font>
+
+105
+00:05:57,000 --> 00:05:59,200
+<font color="#F1c822">Of course. Hi.
+This is my wife Melissa.</font>
+
+106
+00:05:59,200 --> 00:06:00,000
+<font color="#F1c822">Oh, great to finally meet you.</font>
+
+107
+00:06:00,000 --> 00:06:02,200
+<font color="#F1c822">And this is Nathan.</font>
+
+108
+00:06:02,200 --> 00:06:03,000
+<font color="#F1c822">Hi.</font>
+
+109
+00:06:03,000 --> 00:06:06,200
+<font color="#F1c822">He's kind of having a little bit
+of trouble with the move.</font>
+
+110
+00:06:06,200 --> 00:06:07,000
+<font color="#F1c822">Well, I understand.
+I hate to move.</font>
+
+111
+00:06:07,000 --> 00:06:10,200
+<font color="#F1c822">That's why I've been
+in this town forever.</font>
+
+112
+00:06:11,200 --> 00:06:13,000
+<font color="#F1c822">Well, now you're here, too.</font>
+
+113
+00:06:13,000 --> 00:06:15,200
+<font color="#F1c822">Come on.
+Let's go inside.</font>
+
+114
+00:06:17,200 --> 00:06:19,000
+<font color="#F1c822">Here we go.</font>
+
+115
+00:06:24,000 --> 00:06:25,200
+<font color="#F1c822">11.</font>
+
+116
+00:06:30,200 --> 00:06:32,000
+<font color="#F1c822">Yeah, it adds up to 11.</font>
+
+117
+00:06:32,000 --> 00:06:34,200
+<font color="#F1c822">Good job.</font>
+
+118
+00:06:34,200 --> 00:06:37,000
+<font color="#F1c822">Mittens! Mittens!</font>
+
+119
+00:06:37,000 --> 00:06:39,200
+<font color="#F1c822">Excuse me! Excuse me!</font>
+
+120
+00:06:39,200 --> 00:06:42,000
+<font color="#F1c822">You didn't see a little
+orange tabby, did you?</font>
+
+121
+00:06:42,000 --> 00:06:43,200
+<font color="#F1c822">No, I can't say that we did.</font>
+
+122
+00:06:43,200 --> 00:06:44,000
+<font color="#F1c822">Just ignore her.</font>
+
+123
+00:06:44,000 --> 00:06:46,200
+<font color="#F1c822">No! No!
+I need to find her.</font>
+
+124
+00:06:46,200 --> 00:06:47,000
+<font color="#F1c822">She doesn't leave the porch.</font>
+
+125
+00:06:47,000 --> 00:06:48,200
+<font color="#F1c822">She never leaves the yard.</font>
+
+126
+00:06:49,200 --> 00:06:52,000
+<font color="#F1c822">I'm sorry. We didn't see it.
+We're just moving in.</font>
+
+127
+00:06:52,000 --> 00:06:55,200
+<font color="#F1c822">New neighbors?
+I don't want new neighbors.</font>
+
+128
+00:06:55,200 --> 00:06:56,000
+<font color="#F1c822">Annie.</font>
+
+129
+00:06:57,000 --> 00:06:58,200
+<font color="#F1c822">I miss Professor Hampton.</font>
+
+130
+00:06:58,200 --> 00:07:01,000
+<font color="#F1c822">We will let you know
+if we see your little cat.</font>
+
+131
+00:07:01,000 --> 00:07:02,200
+<font color="#F1c822">Now turn around and go home.</font>
+
+132
+00:07:02,200 --> 00:07:05,000
+<font color="#F1c822">I'm sure she's playing in your
+garage like she always does.</font>
+
+133
+00:07:05,000 --> 00:07:06,200
+<font color="#F1c822">Like always?</font>
+
+134
+00:07:06,200 --> 00:07:09,000
+<font color="#F1c822">I'll stop by when I'm done here.</font>
+
+135
+00:07:09,000 --> 00:07:10,200
+<font color="#F1c822">Go.</font>
+
+136
+00:07:13,200 --> 00:07:15,000
+<font color="#F1c822">All right, let's go inside.</font>
+
+137
+00:07:15,000 --> 00:07:16,200
+<font color="#F1c822">Come on. Here we go!</font>
+
+138
+00:07:17,200 --> 00:07:20,000
+<font color="#F1c822">I am so sorry about that.</font>
+
+139
+00:07:20,000 --> 00:07:23,200
+<font color="#F1c822">Ever since she lost her husband,
+things have been.. well.</font>
+
+140
+00:07:23,200 --> 00:07:25,000
+<font color="#F1c822">Oh, yeah.</font>
+
+141
+00:07:25,000 --> 00:07:28,200
+<font color="#F1c822">You know, she was essentially
+raised on campus.</font>
+
+142
+00:07:28,200 --> 00:07:32,000
+<font color="#F1c822">Her parents taught there
+and her brother, Son of a gun.</font>
+
+143
+00:07:32,000 --> 00:07:35,200
+<font color="#F1c822">We're having a little
+raccoon trouble lately.</font>
+
+144
+00:07:35,200 --> 00:07:36,000
+<font color="#F1c822">Probably her cat.</font>
+
+145
+00:07:36,000 --> 00:07:37,200
+<font color="#F1c822">Yeah! Yeah!</font>
+
+146
+00:07:37,200 --> 00:07:39,000
+<font color="#F1c822">I'll have someone out
+to fix that right away.</font>
+
+147
+00:07:39,000 --> 00:07:41,200
+<font color="#F1c822">These houses are historical, you know.</font>
+
+148
+00:07:41,200 --> 00:07:42,000
+<font color="#F1c822">They're nationally registered,</font>
+
+149
+00:07:42,000 --> 00:07:45,200
+<font color="#F1c822">five of them on this block alone.</font>
+
+150
+00:07:45,200 --> 00:07:47,000
+<font color="#F1c822">Let me show you the upstairs.</font>
+
+151
+00:07:47,000 --> 00:07:48,200
+<font color="#F1c822">Come on.</font>
+
+152
+00:08:01,200 --> 00:08:03,000
+<font color="#F1c822">Here we go.</font>
+
+153
+00:08:06,000 --> 00:08:09,200
+<font color="#F1c822">Nat, this is gonna be your room.</font>
+
+154
+00:08:09,200 --> 00:08:10,000
+<font color="#F1c822">Nice, huh?</font>
+
+155
+00:08:10,000 --> 00:08:12,200
+<font color="#F1c822">Oh, beautiful boy.</font>
+
+156
+00:08:12,200 --> 00:08:15,000
+<font color="#F1c822">I bet all the girls in school,
+will take a shine to him..</font>
+
+157
+00:08:15,000 --> 00:08:17,200
+<font color="#F1c822">Actually, he's home schooled.</font>
+
+158
+00:08:17,200 --> 00:08:19,000
+<font color="#F1c822">Oh, well. That's good news.</font>
+
+159
+00:08:19,000 --> 00:08:23,200
+<font color="#F1c822">We've been going through a lot of budget
+cuts lately with the elementary school.</font>
+
+160
+00:08:23,200 --> 00:08:25,000
+<font color="#F1c822">Horrible...
+Really horrible.</font>
+
+161
+00:08:25,000 --> 00:08:26,200
+<font color="#F1c822">Let's move on. Here we go.</font>
+
+162
+00:08:37,200 --> 00:08:40,000
+<font color="#F1c822">Look at that big back yard.</font>
+
+163
+00:08:40,000 --> 00:08:44,200
+<font color="#F1c822">I bet you'll get into
+lots of trouble back there.</font>
+
+164
+00:08:46,200 --> 00:08:48,000
+<font color="#F1c822">What do you think?</font>
+
+165
+00:08:48,000 --> 00:08:50,200
+<font color="#F1c822">Look at that! It's amazing.</font>
+
+166
+00:08:50,200 --> 00:08:52,000
+<font color="#F1c822">Mmm..</font>
+
+167
+00:08:52,000 --> 00:08:53,200
+<font color="#F1c822">It's nice.</font>
+
+168
+00:08:54,200 --> 00:08:56,000
+<font color="#F1c822">Let me show you the rest of the house.</font>
+
+169
+00:08:56,000 --> 00:08:57,200
+<font color="#F1c822">Okay.</font>
+
+170
+00:09:04,200 --> 00:09:05,000
+<font color="#F1c822">Okay.</font>
+
+171
+00:09:06,000 --> 00:09:07,200
+<font color="#F1c822">Thank you so much,
+Janice, for everything.</font>
+
+172
+00:09:07,200 --> 00:09:09,000
+<font color="#F1c822">Oh, that's what neighbors are for.</font>
+
+173
+00:09:09,000 --> 00:09:12,200
+<font color="#F1c822">A pleasure to meet you, Melissa.</font>
+
+174
+00:09:12,200 --> 00:09:15,000
+<font color="#F1c822">Nathan. Aw!</font>
+
+175
+00:09:15,000 --> 00:09:17,200
+<font color="#F1c822">Can't blame a gal for trying, huh?</font>
+
+176
+00:09:17,200 --> 00:09:22,000
+<font color="#F1c822">Professor, I'll probably see you
+on campus in a couple of days.</font>
+
+177
+00:09:22,000 --> 00:09:24,200
+<font color="#F1c822">I just hope I can fill
+Professor Hampton's shoes.</font>
+
+178
+00:09:24,200 --> 00:09:26,000
+<font color="#F1c822">Oh, don't you worry about him.</font>
+
+179
+00:09:26,000 --> 00:09:27,200
+<font color="#F1c822">He was with us forever.</font>
+
+180
+00:09:27,200 --> 00:09:30,000
+<font color="#F1c822">Between you and me,
+it was time for him to go.</font>
+
+181
+00:09:30,000 --> 00:09:33,200
+<font color="#F1c822">All right. I'll have the painter here.
+First thing tomorrow morning.</font>
+
+182
+00:09:55,200 --> 00:09:57,000
+<font color="#F1c822">I'm almost done here.</font>
+
+183
+00:09:57,000 --> 00:09:58,200
+<font color="#F1c822">No hurry.</font>
+
+184
+00:09:58,200 --> 00:10:02,000
+<font color="#F1c822">Here. These must have been left
+here by Professor Hampton.</font>
+
+185
+00:10:02,000 --> 00:10:04,200
+<font color="#F1c822">Did you know him?</font>
+
+186
+00:10:04,200 --> 00:10:05,000
+<font color="#F1c822">Profesor Hampton?</font>
+
+187
+00:10:05,000 --> 00:10:08,200
+<font color="#F1c822">Sure, I had to clean up
+after his going away party.</font>
+
+188
+00:10:08,200 --> 00:10:10,000
+<font color="#F1c822">Oh, big party?</font>
+
+189
+00:10:10,000 --> 00:10:11,200
+<font color="#F1c822">I wasn't invited.</font>
+
+190
+00:10:40,200 --> 00:10:41,000
+<font color="#F1c822">Oh!</font>
+
+191
+00:10:43,000 --> 00:10:45,200
+<font color="#F1c822">Oh, my goodness.</font>
+
+192
+00:10:45,200 --> 00:10:47,000
+<font color="#F1c822">Must be the painter.</font>
+
+193
+00:10:50,000 --> 00:10:52,200
+<font color="#F1c822">We're the welcoming committee.</font>
+
+194
+00:10:52,200 --> 00:10:54,000
+<font color="#F1c822">WELCOME.</font>
+
+195
+00:10:54,000 --> 00:10:55,200
+<font color="#F1c822">Hi.</font>
+
+196
+00:10:55,200 --> 00:10:58,000
+<font color="#F1c822">I'm Chris demms.
+This is my wife Sarah.</font>
+
+197
+00:10:58,000 --> 00:11:00,200
+<font color="#F1c822">We live right across the street
+in that blue house there.</font>
+
+198
+00:11:00,200 --> 00:11:04,000
+<font color="#F1c822">Oh. This is Nathan and I'm Melissa.</font>
+
+199
+00:11:04,000 --> 00:11:07,200
+<font color="#F1c822">So great to meet you.</font>
+
+200
+00:11:07,200 --> 00:11:10,000
+<font color="#F1c822">Here. These are from our garden.</font>
+
+201
+00:11:10,000 --> 00:11:11,200
+<font color="#F1c822">Oh, how thoughtful.</font>
+
+202
+00:11:11,200 --> 00:11:14,000
+<font color="#F1c822">I'll have to unpack a vase
+and put 'em in some water.</font>
+
+203
+00:11:14,000 --> 00:11:17,200
+<font color="#F1c822">I made you some molasses cookies.</font>
+
+204
+00:11:17,200 --> 00:11:18,000
+<font color="#F1c822">My grandmother's recipe.</font>
+
+205
+00:11:18,000 --> 00:11:19,200
+<font color="#F1c822">Oh!</font>
+
+206
+00:11:19,200 --> 00:11:21,000
+<font color="#F1c822">Fresh from the oven.</font>
+
+207
+00:11:24,000 --> 00:11:25,200
+<font color="#F1c822">Mmm..</font>
+
+208
+00:11:25,200 --> 00:11:27,000
+<font color="#F1c822">KWould you like one, Nathan?</font>
+
+209
+00:11:27,000 --> 00:11:31,200
+<font color="#F1c822">No, he'll have one later. I don't
+want him to have sugar this early.</font>
+
+210
+00:11:31,200 --> 00:11:32,000
+<font color="#F1c822">But, thank you.</font>
+
+211
+00:11:33,000 --> 00:11:35,200
+<font color="#F1c822">We got you this.</font>
+
+212
+00:11:35,200 --> 00:11:37,000
+<font color="#F1c822">It's a pre-birthday gift.</font>
+
+213
+00:11:37,000 --> 00:11:40,200
+<font color="#F1c822">It's so nice to have a child
+in the neighborhood again.</font>
+
+214
+00:11:40,200 --> 00:11:42,000
+<font color="#F1c822">Yeah. Are you gonna
+say thank you?</font>
+
+215
+00:11:42,000 --> 00:11:44,200
+<font color="#F1c822">He's a little shy.</font>
+
+216
+00:11:44,200 --> 00:11:46,000
+<font color="#F1c822">The strong silent type, huh?</font>
+
+217
+00:11:46,000 --> 00:11:49,200
+<font color="#F1c822">How did you know it was
+his birthday coming up?</font>
+
+218
+00:11:52,200 --> 00:11:55,000
+<font color="#F1c822">Oh, Janice told us.</font>
+
+219
+00:11:55,000 --> 00:11:57,200
+<font color="#F1c822">So, where's your husband?</font>
+
+220
+00:11:57,200 --> 00:11:59,000
+<font color="#F1c822">Oh, he's at the school.</font>
+
+221
+00:11:59,000 --> 00:12:02,200
+<font color="#F1c822">He's working on
+his first class.</font>
+
+222
+00:12:03,200 --> 00:12:06,000
+<font color="#F1c822">Well, we'll let you
+get back to unpacking.</font>
+
+223
+00:12:06,000 --> 00:12:09,200
+<font color="#F1c822">No hurry in getting
+that plate back.</font>
+
+224
+00:12:09,200 --> 00:12:11,000
+<font color="#F1c822">Thanks.</font>
+
+225
+00:12:12,000 --> 00:12:14,200
+<font color="#F1c822">All right, bye.</font>
+
+226
+00:12:14,200 --> 00:12:15,000
+<font color="#F1c822">Bye.</font>
+
+227
+00:12:22,000 --> 00:12:25,200
+<font color="#F1c822">Trust me. You
+don't want one.</font>
+
+228
+00:12:38,200 --> 00:12:40,000
+<font color="#F1c822">Oh, God.</font>
+
+229
+00:13:17,000 --> 00:13:19,200
+<font color="#F1c822">Oh, look at that.</font>
+
+230
+00:13:19,200 --> 00:13:23,000
+<font color="#F1c822">Have you seen a little
+yellow tabby cat?</font>
+
+231
+00:13:25,000 --> 00:13:28,200
+<font color="#F1c822">Oh, boy. He is such a rascal</font>
+
+232
+00:13:28,200 --> 00:13:31,000
+<font color="#F1c822">Are you 11?</font>
+
+233
+00:13:31,000 --> 00:13:34,200
+<font color="#F1c822">Are you turning 11?</font>
+
+234
+00:13:35,200 --> 00:13:37,000
+<font color="#F1c822">I am so old.</font>
+
+235
+00:13:37,000 --> 00:13:40,200
+<font color="#F1c822">I can't even remember
+what it's like to be 11.</font>
+
+236
+00:13:40,200 --> 00:13:43,000
+<font color="#F1c822">When's your birthday?</font>
+
+237
+00:13:43,000 --> 00:13:45,200
+<font color="#F1c822">Is it Friday?</font>
+
+238
+00:13:46,200 --> 00:13:51,000
+<font color="#F1c822">Goodness. You're going
+to be 11 on 11/11/11.</font>
+
+239
+00:13:51,000 --> 00:13:54,200
+<font color="#F1c822">That is something, isn't it?</font>
+
+240
+00:13:54,200 --> 00:13:55,000
+<font color="#F1c822">Do you gamble?</font>
+
+241
+00:13:55,000 --> 00:13:58,200
+<font color="#F1c822">Good. You save your money.</font>
+
+242
+00:14:00,200 --> 00:14:02,000
+<font color="#F1c822">Do you like trains?</font>
+
+243
+00:14:02,000 --> 00:14:05,200
+<font color="#F1c822">Yeah. My husband
+was crazy about 'em.</font>
+
+244
+00:14:05,200 --> 00:14:08,000
+<font color="#F1c822">I have a whole set
+down in my garage.</font>
+
+245
+00:14:08,000 --> 00:14:10,200
+<font color="#F1c822">You should see it.</font>
+
+246
+00:14:10,200 --> 00:14:12,000
+<font color="#F1c822">There's little trees
+and there's Bridges.</font>
+
+247
+00:14:12,000 --> 00:14:16,200
+<font color="#F1c822">Come on. Come on.
+I'll show you.</font>
+
+248
+00:14:16,200 --> 00:14:17,000
+<font color="#F1c822">- Come on.</font>
+<font color="#0080ff">- Nat!</font>
+
+249
+00:14:18,000 --> 00:14:23,200
+<font color="#F1c822">Hi, Hi. Oh, I'm Annie.
+I live next door.</font>
+
+250
+00:14:23,200 --> 00:14:27,000
+<font color="#F1c822">I was just asking your little son here,
+if he'd seen my cat mittens.</font>
+
+251
+00:14:27,000 --> 00:14:29,200
+<font color="#F1c822">I mean, she's a rascally one.</font>
+
+252
+00:14:29,200 --> 00:14:31,000
+<font color="#F1c822">No, we haven't..</font>
+
+253
+00:14:31,000 --> 00:14:36,200
+<font color="#F1c822">Oh. Well. If you should see
+a little orange tabby, that's mine.</font>
+
+254
+00:14:36,200 --> 00:14:38,000
+<font color="#F1c822">My door's always open.</font>
+
+255
+00:14:40,000 --> 00:14:43,200
+<font color="#F1c822">My name's Melissa, by the way.</font>
+
+256
+00:14:43,200 --> 00:14:45,000
+<font color="#F1c822">Oh, I know.</font>
+
+257
+00:14:47,000 --> 00:14:49,200
+<font color="#F1c822">Mittens!</font>
+
+258
+00:14:49,200 --> 00:14:50,000
+<font color="#F1c822">Let's go inside.</font>
+
+259
+00:14:50,000 --> 00:14:53,200
+<font color="#F1c822">Mittens.. Aw, mittens.</font>
+
+260
+00:14:53,200 --> 00:14:55,000
+<font color="#F1c822">Mittens.</font>
+
+261
+00:16:16,000 --> 00:16:18,200
+<font color="#F1c822">Just a minute.</font>
+
+262
+00:16:24,200 --> 00:16:28,000
+<font color="#F1c822">Hei, Amigo. I'm here
+to fix the wall.</font>
+
+263
+00:16:53,000 --> 00:16:54,200
+<font color="#F1c822">Nat?</font>
+
+264
+00:17:10,200 --> 00:17:11,000
+<font color="#F1c822">Nat?</font>
+
+265
+00:17:13,000 --> 00:17:15,200
+<font color="#F1c822">Is he all right?</font>
+
+266
+00:17:15,200 --> 00:17:16,000
+<font color="#F1c822">Somebody call 911.</font>
+
+267
+00:17:16,000 --> 00:17:17,200
+<font color="#F1c822">Did anyone see
+the car that hit him?</font>
+
+268
+00:17:17,200 --> 00:17:19,000
+<font color="#F1c822">No. I just heard
+a loud crash,</font>
+
+269
+00:17:19,000 --> 00:17:20,200
+<font color="#F1c822">and then saw
+him laying here.</font>
+
+270
+00:17:20,200 --> 00:17:22,000
+<font color="#F1c822">What did he do?
+<font color="#0080ff">Go home, Mick.</font>
+
+271
+00:17:22,000 --> 00:17:23,200
+<font color="#F1c822">There's been a hit and run.</font>
+
+272
+00:17:23,200 --> 00:17:25,000
+<font color="#F1c822">What did he do?
+He screw up?</font>
+
+273
+00:17:25,000 --> 00:17:26,200
+<font color="#F1c822">Go home, Mick.</font>
+
+274
+00:17:30,200 --> 00:17:31,000
+<font color="#F1c822">Nat?</font>
+
+275
+00:17:34,000 --> 00:17:40,200
+<font color="#F1c822">Nat?</font>
+
+276
+00:17:54,200 --> 00:17:59,000
+<font color="#F1c822">Oh, honey, are you okay?
+Did you see the car accident?</font>
+
+277
+00:17:59,000 --> 00:18:02,200
+<font color="#F1c822">Mommy, I don't
+want a baby brother.</font>
+
+278
+00:18:02,200 --> 00:18:03,000
+<font color="#F1c822">What?</font>
+
+279
+00:18:03,000 --> 00:18:09,200
+<font color="#F1c822">Oh! no, honey
+Mommy's not pregnant.</font>
+
+280
+00:18:09,200 --> 00:18:11,000
+<font color="#F1c822">Oh, God.</font>
+
+281
+00:18:17,000 --> 00:18:18,200
+<font color="#F1c822">God.</font>
+
+282
+00:18:26,200 --> 00:18:28,000
+<font color="#F1c822">One minute I hear
+the doorbell ring,</font>
+
+283
+00:18:28,000 --> 00:18:31,200
+<font color="#F1c822">and the next minute
+I hear this car crash,</font>
+
+284
+00:18:31,200 --> 00:18:34,000
+<font color="#F1c822">and the guy is laying
+dead in the street.</font>
+
+285
+00:18:34,000 --> 00:18:36,200
+<font color="#F1c822">It happened so fast.</font>
+
+286
+00:18:36,200 --> 00:18:38,000
+<font color="#F1c822">Did anyone else see it happen?</font>
+
+287
+00:18:38,000 --> 00:18:41,200
+<font color="#F1c822">By the time I got there,
+the entire neighborhood was there.</font>
+
+288
+00:18:41,200 --> 00:18:42,000
+<font color="#F1c822">Did Nat see it?</font>
+
+289
+00:18:42,000 --> 00:18:44,200
+<font color="#F1c822">I don't know.</font>
+
+290
+00:18:44,200 --> 00:18:45,000
+<font color="#F1c822">By the time I got there,</font>
+
+291
+00:18:45,000 --> 00:18:50,200
+<font color="#F1c822">He was already up here, and
+he was mumbling to himself.</font>
+
+292
+00:18:50,200 --> 00:18:52,000
+<font color="#F1c822">What?</font>
+
+293
+00:18:52,000 --> 00:18:53,200
+<font color="#F1c822">I don't know, Jack.</font>
+
+294
+00:18:53,200 --> 00:18:57,000
+<font color="#F1c822">This is really bad,
+I don't like it.</font>
+
+295
+00:18:57,000 --> 00:19:01,200
+<font color="#F1c822">I know. You had a hard day.
+You just need to relax, okay?</font>
+
+296
+00:19:01,200 --> 00:19:04,000
+<font color="#F1c822">Okay.</font>
+
+297
+00:19:04,000 --> 00:19:05,200
+<font color="#F1c822">I'm gonna go take a bath.</font>
+
+298
+00:19:05,200 --> 00:19:07,000
+<font color="#F1c822">That's a good idea.</font>
+
+299
+00:19:07,000 --> 00:19:08,200
+<font color="#F1c822">Okay.</font>
+
+300
+00:20:02,200 --> 00:20:05,000
+<font color="#F1c822">I picked up some
+wasp spray today.</font>
+
+301
+00:20:05,000 --> 00:20:07,200
+<font color="#F1c822">Take care of that
+in the morning.</font>
+
+302
+00:20:18,200 --> 00:20:21,000
+<font color="#F1c822">You didn't drown in there, did you?</font>
+
+303
+00:20:26,000 --> 00:20:27,200
+<font color="#F1c822">Melissa?</font>
+
+304
+00:20:34,200 --> 00:20:36,000
+<font color="#F1c822">Aah!</font>
+
+305
+00:20:36,000 --> 00:20:38,200
+<font color="#F1c822">Jesus!</font>
+
+306
+00:20:38,200 --> 00:20:40,000
+<font color="#F1c822">Jack! Jack!</font>
+
+307
+00:20:40,000 --> 00:20:42,200
+<font color="#F1c822">Oh, God.</font>
+
+308
+00:20:44,200 --> 00:20:45,000
+<font color="#F1c822">Pregnant?</font>
+
+309
+00:20:46,000 --> 00:20:47,200
+<font color="#F1c822">About three weeks now.</font>
+
+310
+00:20:47,200 --> 00:20:50,000
+<font color="#F1c822">Was your prior pregnancy
+a difficult one?</font>
+
+311
+00:20:50,000 --> 00:20:52,200
+<font color="#F1c822">Yes, he was premature.</font>
+
+312
+00:20:53,200 --> 00:20:54,000
+<font color="#F1c822">How early?</font>
+
+313
+00:20:54,000 --> 00:20:55,200
+<font color="#F1c822">Two months.</font>
+
+314
+00:20:58,200 --> 00:21:00,000
+<font color="#F1c822">Yes.</font>
+
+315
+00:21:01,000 --> 00:21:02,200
+<font color="#F1c822">Excuse me, Mr. And Mrs. Vales.</font>
+
+316
+00:21:02,200 --> 00:21:04,000
+<font color="#F1c822">Dad, the pedersens are here.</font>
+
+317
+00:21:04,000 --> 00:21:06,200
+<font color="#F1c822">Thanks, honey. Tell them
+I'll just be a moment.</font>
+
+318
+00:21:06,200 --> 00:21:11,000
+<font color="#F1c822">So due to your previous
+problems with pregnancy,</font>
+
+319
+00:21:11,000 --> 00:21:14,200
+<font color="#F1c822">the unexpected
+loss of blood,</font>
+
+320
+00:21:14,200 --> 00:21:16,000
+<font color="#F1c822">Not to mention the pain that
+you've been experiencing,</font>
+
+321
+00:21:16,000 --> 00:21:18,200
+<font color="#F1c822">Thee are all signs
+of preeclampsia.</font>
+
+322
+00:21:18,200 --> 00:21:22,000
+<font color="#F1c822">It's a serious condition and
+it could lead to miscarriage.</font>
+
+323
+00:21:25,000 --> 00:21:28,200
+<font color="#F1c822">I'm going to insist on
+immediate bed rest.</font>
+
+324
+00:21:28,200 --> 00:21:29,000
+<font color="#F1c822">For how long?</font>
+
+325
+00:21:29,000 --> 00:21:30,200
+<font color="#F1c822">That's hard to say.</font>
+
+326
+00:21:30,200 --> 00:21:33,000
+<font color="#F1c822">I need you completely immobilized.</font>
+
+327
+00:21:33,000 --> 00:21:35,200
+<font color="#F1c822">Could be one month,
+could be several...</font>
+
+328
+00:21:35,200 --> 00:21:38,000
+<font color="#F1c822">Several? But I have
+to look after Nat.</font>
+
+329
+00:21:38,000 --> 00:21:40,200
+<font color="#F1c822">We've been home schooling Nat.</font>
+
+330
+00:21:40,200 --> 00:21:41,000
+<font color="#F1c822">Would she still be
+able to do that?</font>
+
+331
+00:21:41,000 --> 00:21:43,200
+<font color="#F1c822">I wouldn't recommend it.</font>
+
+332
+00:21:43,200 --> 00:21:45,000
+<font color="#F1c822">As little activity and stress as
+possible is really the best medicine.</font>
+
+333
+00:21:45,000 --> 00:21:46,200
+<font color="#F1c822">Don't worry about it.</font>
+
+334
+00:21:46,200 --> 00:21:52,000
+<font color="#F1c822">Your insurance covers everything, including
+a nurse for you and a nanny for your son.</font>
+
+335
+00:21:59,000 --> 00:22:01,200
+<font color="#F1c822">Great. So we'll see you
+Thursday at 4:00.</font>
+
+336
+00:22:01,200 --> 00:22:03,000
+<font color="#F1c822">Okay. All right. Bye-bye.</font>
+
+337
+00:23:00,000 --> 00:23:01,200
+<font color="#F1c822">What happened?</font>
+
+338
+00:23:02,200 --> 00:23:04,000
+<font color="#F1c822">Good God.
+What now?</font>
+
+339
+00:23:04,000 --> 00:23:06,200
+<font color="#F1c822">Don't look, Nat.</font>
+
+340
+00:23:06,200 --> 00:23:07,000
+<font color="#F1c822">Hey.</font>
+
+341
+00:23:15,000 --> 00:23:17,200
+<font color="#F1c822">You know Chris and Sarah over there?</font>
+
+342
+00:23:17,200 --> 00:23:19,000
+<font color="#F1c822">Sure. I met them yesterday.</font>
+
+343
+00:23:19,000 --> 00:23:21,200
+<font color="#F1c822">Seems they had an
+accident in their house.</font>
+
+344
+00:23:21,200 --> 00:23:24,000
+<font color="#F1c822">That guy Chris was cleaning the gutters
+on the second story of his house.</font>
+
+345
+00:23:24,000 --> 00:23:26,200
+<font color="#F1c822">He's not really a tall guy, you see.</font>
+
+346
+00:23:26,200 --> 00:23:28,000
+<font color="#F1c822">And I guess he reached too far.</font>
+
+347
+00:23:28,000 --> 00:23:31,200
+<font color="#F1c822">And the next thing, you know?
+He toppled off his ladder.</font>
+
+348
+00:23:31,200 --> 00:23:32,000
+<font color="#F1c822">Is he okay?</font>
+
+349
+00:23:32,000 --> 00:23:35,200
+<font color="#F1c822">Well, he was impaled
+to death on the fence.</font>
+
+350
+00:23:35,200 --> 00:23:37,000
+<font color="#F1c822">So I'd say no.</font>
+
+351
+00:23:37,000 --> 00:23:38,200
+<font color="#F1c822">Oh, excuse me.</font>
+
+352
+00:23:38,200 --> 00:23:40,000
+<font color="#F1c822">Honey.</font>
+
+353
+00:23:40,000 --> 00:23:43,200
+<font color="#F1c822">Oh, 11-11-11.</font>
+
+354
+00:23:43,200 --> 00:23:45,000
+<font color="#F1c822">What's that?</font>
+
+355
+00:23:45,000 --> 00:23:46,200
+<font color="#F1c822">11-11-11.</font>
+
+356
+00:23:46,200 --> 00:23:50,000
+<font color="#F1c822">That's when it all goes down.</font>
+
+357
+00:23:50,000 --> 00:23:51,200
+<font color="#F1c822">That's when..</font>
+
+358
+00:23:53,200 --> 00:23:56,000
+<font color="#F1c822">That's when what goes down?</font>
+
+359
+00:24:10,000 --> 00:24:13,200
+<font color="#F1c822">How much more of this
+are we supposed to take?</font>
+
+360
+00:24:13,200 --> 00:24:15,000
+<font color="#F1c822">Relax, honey.</font>
+
+361
+00:24:15,000 --> 00:24:16,200
+<font color="#F1c822">Two people have died, Jack.</font>
+
+362
+00:24:16,200 --> 00:24:20,000
+<font color="#F1c822">Melissa, don't stress out.
+It's not good for the baby.</font>
+
+363
+00:24:20,000 --> 00:24:22,200
+<font color="#F1c822">I met Chris, all right?
+He was a really nice guy.</font>
+
+364
+00:24:22,200 --> 00:24:24,000
+<font color="#F1c822">Stop it.</font>
+
+365
+00:24:26,000 --> 00:24:30,200
+<font color="#F1c822">Now, you need to get into bed.
+You don't want to miscarry, do you?</font>
+
+366
+00:24:33,200 --> 00:24:34,000
+<font color="#F1c822">Come here.</font>
+
+367
+00:24:38,000 --> 00:24:39,200
+<font color="#F1c822">Let's look at it this way...</font>
+
+368
+00:24:39,200 --> 00:24:43,000
+<font color="#F1c822">At least now we got all our
+bad luck out of the way.</font>
+
+369
+00:24:46,000 --> 00:24:49,200
+<font color="#F1c822">I suppose that's supposed
+to be good luck, too.</font>
+
+370
+00:25:07,200 --> 00:25:09,000
+<font color="#F1c822">You must be Professor vales.</font>
+
+371
+00:25:10,000 --> 00:25:11,200
+<font color="#F1c822">I'm Kyle othman.</font>
+
+372
+00:25:11,200 --> 00:25:14,000
+<font color="#F1c822">Professor othman, you're
+in the office next door.</font>
+
+373
+00:25:14,000 --> 00:25:16,200
+<font color="#F1c822">I'm new here, too.</font>
+
+374
+00:25:16,200 --> 00:25:19,000
+<font color="#F1c822">We're really glad you
+could start so soon.</font>
+
+375
+00:25:19,000 --> 00:25:22,200
+<font color="#F1c822">Do you know what happened
+to Professor Hampton?</font>
+
+376
+00:25:22,200 --> 00:25:27,000
+<font color="#F1c822">Well, they said he retired,
+but he was gone so suddenly.</font>
+
+377
+00:25:27,000 --> 00:25:29,200
+<font color="#F1c822">I haven't heard from him since.</font>
+
+378
+00:25:29,200 --> 00:25:31,000
+<font color="#F1c822">Listen, forget I said anything.</font>
+
+379
+00:25:32,000 --> 00:25:34,200
+<font color="#F1c822">You better not be causing trouble.</font>
+
+380
+00:25:35,200 --> 00:25:36,000
+<font color="#F1c822">No.</font>
+
+381
+00:25:51,000 --> 00:25:53,200
+<font color="#F1c822">Sorry if I sounded rude earlier.</font>
+
+382
+00:25:53,200 --> 00:25:55,000
+<font color="#F1c822">I was worried about mittens.</font>
+
+383
+00:25:55,000 --> 00:25:57,200
+<font color="#F1c822">So you still haven't seen her?</font>
+
+384
+00:25:58,200 --> 00:26:00,000
+<font color="#F1c822">Is Nat home?</font>
+
+385
+00:26:00,000 --> 00:26:03,200
+<font color="#F1c822">Yeah, he's upstairs
+taking a nap.</font>
+
+386
+00:26:03,200 --> 00:26:06,000
+<font color="#F1c822">I'm Annie. I live right there.</font>
+
+387
+00:26:06,000 --> 00:26:07,200
+<font color="#F1c822">Yeah.</font>
+
+388
+00:26:07,200 --> 00:26:10,000
+<font color="#F1c822">I've had trouble keeping
+it up since Neal died.</font>
+
+389
+00:26:10,000 --> 00:26:12,200
+<font color="#F1c822">Neal. Neal was..?</font>
+
+390
+00:26:12,200 --> 00:26:13,000
+<font color="#F1c822">My husband.</font>
+
+391
+00:26:13,000 --> 00:26:15,200
+<font color="#F1c822">He took his own life.</font>
+
+392
+00:26:15,200 --> 00:26:16,000
+<font color="#F1c822">I'm sorry.</font>
+
+393
+00:26:16,000 --> 00:26:17,200
+<font color="#F1c822">We had our disagreements.</font>
+
+394
+00:26:17,200 --> 00:26:21,000
+<font color="#F1c822">And the old fool decided to
+take things into his own hands.</font>
+
+395
+00:26:21,000 --> 00:26:24,200
+<font color="#F1c822">Now I know how he felt.</font>
+
+396
+00:26:24,200 --> 00:26:28,000
+<font color="#F1c822">Sometimes you have to take
+things in your own hands.</font>
+
+397
+00:26:28,000 --> 00:26:33,200
+<font color="#F1c822">Better the devil you know,
+than the devil you don't know.</font>
+
+398
+00:27:08,200 --> 00:27:10,000
+<font color="#F1c822">Jesus.</font>
+
+399
+00:27:28,000 --> 00:27:30,200
+<font color="#F1c822">What the hell do you
+think you're doing?</font>
+
+400
+00:27:30,200 --> 00:27:34,000
+<font color="#F1c822">Dr. Bolger prescribed a mild
+sedative to keep her anxiety low.</font>
+
+401
+00:27:34,000 --> 00:27:36,200
+<font color="#F1c822">A sedative?
+She's pregnant.</font>
+
+402
+00:27:36,200 --> 00:27:41,000
+<font color="#F1c822">Be assured the doctor would never prescribe a medication
+that could result in an embryocidal outcome.</font>
+
+403
+00:27:41,000 --> 00:27:42,200
+<font color="#F1c822">Oh, is that right?</font>
+
+404
+00:27:42,200 --> 00:27:46,000
+<font color="#F1c822">I'm calling Dr. Bolger.</font>
+
+405
+00:27:46,000 --> 00:27:47,200
+<font color="#F1c822">Go right ahead.</font>
+
+406
+00:28:15,200 --> 00:28:18,000
+<font color="#F1c822">Dr. Bolger, I don't understand.
+Why does she have to be sedated?</font>
+
+407
+00:28:18,000 --> 00:28:19,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">It's only for a week or so.</font>
+
+408
+00:28:19,200 --> 00:28:22,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">Starting next week,
+we'll lower the dosage.</font>
+
+409
+00:28:23,000 --> 00:28:26,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">I understand your concern, but
+this is a common procedure.</font>
+
+410
+00:28:32,200 --> 00:28:34,000
+<font color="#F1c822">Hello, Nat.</font>
+
+411
+00:28:34,000 --> 00:28:37,200
+<font color="#F1c822">You didn't expect
+to see me, did you?</font>
+
+412
+00:28:37,200 --> 00:28:38,000
+<font color="#F1c822">Wanna see something?</font>
+
+413
+00:28:38,000 --> 00:28:41,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">It's simply a precautionary
+measure, nothing more.</font>
+
+414
+00:28:41,200 --> 00:28:42,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">Don't worry.</font>
+
+415
+00:28:42,000 --> 00:28:44,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">The fetus won't be affected.</font>
+
+416
+00:28:44,200 --> 00:28:45,000
+<font color="#F1c822">Come on.</font>
+
+417
+00:28:47,000 --> 00:28:48,200
+<font color="#F1c822">Come on.</font>
+
+418
+00:28:56,200 --> 00:28:58,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">Don't worry, Jack.</font>
+
+419
+00:28:58,000 --> 00:29:00,200
+<font color="#F1c822">All right. Well, if you're sure.
+Thank you, doctor.</font>
+
+420
+00:29:04,200 --> 00:29:06,000
+<font color="#F1c822">That's something, isn't it?</font>
+
+421
+00:29:11,000 --> 00:29:13,200
+<font color="#F1c822">Nat!</font>
+
+422
+00:29:13,200 --> 00:29:16,000
+<font color="#F1c822">Nat, stay in the yard.</font>
+
+423
+00:29:18,000 --> 00:29:23,200
+<font color="#F1c822">Nat, your dad won't mind
+if you come in for a minute.</font>
+
+424
+00:29:23,200 --> 00:29:26,000
+<font color="#F1c822">I'll show you my
+husband's train set.</font>
+
+425
+00:29:34,000 --> 00:29:37,200
+<font color="#F1c822">You can't avoid
+your fate forever.</font>
+
+426
+00:29:43,200 --> 00:29:45,000
+<font color="#F1c822">So, Rhonda. How long
+have you been a nanny?</font>
+
+427
+00:29:45,000 --> 00:29:48,200
+<font color="#F1c822">I've been a nanny
+for the last six years.</font>
+
+428
+00:29:48,200 --> 00:29:50,000
+<font color="#F1c822">These are my references.</font>
+
+429
+00:29:50,000 --> 00:29:53,200
+<font color="#F1c822">I like to get the kids
+outside in the sun.</font>
+
+430
+00:29:53,200 --> 00:29:54,000
+<font color="#F1c822">Sometimes we have class out there.</font>
+
+431
+00:29:54,000 --> 00:29:55,200
+<font color="#F1c822">That's nice.</font>
+
+432
+00:29:55,200 --> 00:29:56,000
+<font color="#F1c822">Yeah.</font>
+
+433
+00:29:56,000 --> 00:29:58,200
+<font color="#F1c822">Kids seem to respond better when
+they feel like you're one of them.</font>
+
+434
+00:29:58,200 --> 00:30:01,000
+<font color="#F1c822">It seems to help them
+open up more easily.</font>
+
+435
+00:30:01,000 --> 00:30:03,200
+<font color="#F1c822">Well, Nat needs that.</font>
+
+436
+00:30:04,200 --> 00:30:05,000
+<font color="#F1c822">And kids love me.</font>
+
+437
+00:30:05,000 --> 00:30:07,200
+<font color="#F1c822">They call me fond o' Rhonda.</font>
+
+438
+00:30:07,200 --> 00:30:09,000
+<font color="#F1c822">Fond o 'Rhonda.</font>
+
+439
+00:30:09,000 --> 00:30:10,200
+<font color="#F1c822">I can see why.</font>
+
+440
+00:30:10,200 --> 00:30:11,000
+<font color="#F1c822">Yeah.</font>
+
+441
+00:30:17,000 --> 00:30:18,200
+<font color="#F1c822">Call any time.</font>
+
+442
+00:30:18,200 --> 00:30:20,000
+<font color="#F1c822">I always keep my phone on.
+In case of emergencies.</font>
+
+443
+00:30:20,000 --> 00:30:21,200
+<font color="#F1c822">Bye. Will do.</font>
+
+444
+00:30:21,200 --> 00:30:23,000
+<font color="#F1c822">Bye. Thanks.</font>
+
+445
+00:30:44,000 --> 00:30:45,200
+<font color="#F1c822">What do you want?</font>
+
+446
+00:30:47,200 --> 00:30:49,000
+<font color="#F1c822">That must be the next girl.</font>
+
+447
+00:30:51,000 --> 00:30:55,200
+<font color="#F1c822">I'm Denise.
+Your new nanny.</font>
+
+448
+00:30:58,200 --> 00:31:01,000
+<font color="#F1c822">So how long have
+you been a nanny?</font>
+
+449
+00:31:01,000 --> 00:31:03,200
+<font color="#F1c822">On and off for a couple of years.</font>
+
+450
+00:31:04,200 --> 00:31:06,000
+<font color="#F1c822">What else have you done?</font>
+
+451
+00:31:06,000 --> 00:31:08,200
+<font color="#F1c822">In college, I mastered
+in comparative religions,</font>
+
+452
+00:31:09,200 --> 00:31:12,000
+<font color="#F1c822">and now I work part
+time at a butcher shop.</font>
+
+453
+00:31:18,000 --> 00:31:20,200
+<font color="#F1c822">What's her problem?</font>
+
+454
+00:31:20,200 --> 00:31:22,000
+<font color="#F1c822">She's on a new medication.</font>
+
+455
+00:31:30,000 --> 00:31:32,200
+<font color="#F1c822">We'll be in touch.</font>
+
+456
+00:31:49,200 --> 00:31:52,000
+<font color="#F1c822">So which girl
+did you like best?</font>
+
+457
+00:31:52,000 --> 00:31:55,200
+<font color="#F1c822">I'm definitely fond o' Rhonda.</font>
+
+458
+00:31:55,200 --> 00:31:56,000
+<font color="#F1c822">Good.</font>
+
+459
+00:31:56,000 --> 00:31:57,200
+<font color="#F1c822">Me, too.</font>
+
+460
+00:32:00,200 --> 00:32:02,000
+<font color="#F1c822">Get some rest, okay?</font>
+
+461
+00:32:02,000 --> 00:32:03,200
+<font color="#F1c822">Okay.</font>
+
+462
+00:32:21,200 --> 00:32:22,000
+<font color="#F1c822">Hello?</font>
+
+463
+00:32:22,000 --> 00:32:24,200
+<font color="#F1c822">Hey, Rhonda, this is Jack vales.</font>
+
+464
+00:32:24,200 --> 00:32:27,000
+<font color="#F1c822">My wife and I would like to
+offer you the nanny position.</font>
+
+465
+00:32:28,000 --> 00:32:31,200
+<font color="#F1c822">I'm sorry, Mr. Vales.
+I'm no longer interested.</font>
+
+466
+00:32:32,200 --> 00:32:33,000
+<font color="#F1c822">What..</font>
+
+467
+00:33:01,000 --> 00:33:03,200
+<font color="#F1c822">Hello? Great.</font>
+
+468
+00:33:03,200 --> 00:33:05,000
+<font color="#F1c822">I'll start tomorrow.</font>
+
+469
+00:33:31,000 --> 00:33:32,200
+<font color="#F1c822">This is Professor vales.</font>
+
+470
+00:33:32,200 --> 00:33:34,000
+<font color="#F1c822">Did you get my fax?</font>
+
+471
+00:33:34,000 --> 00:33:35,200
+<font color="#F1c822">Who is this?</font>
+
+472
+00:33:35,200 --> 00:33:39,000
+<font color="#F1c822">Numbers are not merely
+symbols, Mr. Vales.</font>
+
+473
+00:33:39,000 --> 00:33:41,200
+<font color="#F1c822">They hold great power.</font>
+
+474
+00:33:41,200 --> 00:33:46,000
+<font color="#F1c822">And they have that power
+because we give it to them.</font>
+
+475
+00:33:46,000 --> 00:33:50,200
+<font color="#F1c822">When the numbers align,
+his fate is sealed.</font>
+
+476
+00:33:50,200 --> 00:33:52,000
+<font color="#F1c822">Who the hell is this?</font>
+
+477
+00:33:52,000 --> 00:33:56,200
+<font color="#F1c822">Your son must die
+before his birthday.</font>
+
+478
+00:33:56,200 --> 00:34:00,000
+<font color="#F1c822">And if you don't
+kill him, I will.</font>
+
+479
+00:34:17,000 --> 00:34:19,200
+<font color="#F1c822">Milda, it's Jack.</font>
+
+480
+00:34:19,200 --> 00:34:21,000
+<font color="#F1c822">Put me through to Dr.
+Othman's office, will you?</font>
+
+481
+00:34:21,000 --> 00:34:25,200
+<font color="#F1c822">Oh, Jack. Didn't you hear?
+Professor othman is on sabbatical.</font>
+
+482
+00:34:25,200 --> 00:34:29,000
+<font color="#F1c822">What? I thought he just started.</font>
+
+483
+00:34:29,000 --> 00:34:32,200
+<font color="#F1c822">Sorry. That's all
+they told me.</font>
+
+484
+00:34:32,200 --> 00:34:34,000
+<font color="#F1c822">Okay.</font>
+
+485
+00:35:15,000 --> 00:35:17,200
+<font color="#F1c822">What the hell are they doing?</font>
+
+486
+00:35:21,200 --> 00:35:24,000
+<font color="#F1c822">Okay, I think we
+should talk to him.</font>
+
+487
+00:35:24,000 --> 00:35:26,200
+<font color="#F1c822">Let's go.</font>
+
+488
+00:35:26,200 --> 00:35:27,000
+<font color="#F1c822">Come on.</font>
+
+489
+00:35:34,000 --> 00:35:37,200
+<font color="#F1c822">We only have three days left, Mike.
+What the hell do you think you're doing?</font>
+
+490
+00:35:37,200 --> 00:35:39,000
+<font color="#F1c822">He did not.
+He had a big mouth.</font>
+
+491
+00:35:39,000 --> 00:35:40,200
+<font color="#F1c822">Sarah.</font>
+
+492
+00:35:40,200 --> 00:35:41,000
+<font color="#F1c822">What, Janice?</font>
+
+493
+00:35:41,000 --> 00:35:43,200
+<font color="#F1c822">I think I have a right to be furious.
+He was my husband.</font>
+
+494
+00:35:43,200 --> 00:35:45,000
+<font color="#F1c822">Well, he screwed up.</font>
+
+495
+00:35:45,000 --> 00:35:46,200
+<font color="#F1c822">You weren't there.</font>
+
+496
+00:35:46,200 --> 00:35:49,000
+<font color="#F1c822">Even if he did, you can't just take
+matters into your own hands.</font>
+
+497
+00:35:49,000 --> 00:35:51,200
+<font color="#F1c822">Brian's right. You
+were out of line.</font>
+
+498
+00:35:51,200 --> 00:35:53,000
+<font color="#F1c822">We can't afford to make mistakes,
+Mike. Not this late in the game.</font>
+
+499
+00:35:53,000 --> 00:35:55,200
+<font color="#F1c822">Chris meant a lot to me.</font>
+
+500
+00:35:55,200 --> 00:35:57,000
+<font color="#F1c822">What is she supposed to do now?</font>
+
+501
+00:35:57,000 --> 00:36:00,200
+<font color="#F1c822">Right. What, now.
+I'm the grieving widow?</font>
+
+502
+00:36:01,200 --> 00:36:02,000
+<font color="#F1c822">You messed up.</font>
+
+503
+00:36:02,000 --> 00:36:04,200
+<font color="#F1c822">I did what I had to do.</font>
+
+504
+00:36:06,200 --> 00:36:08,000
+<font color="#F1c822">Go to hell.</font>
+
+505
+00:36:15,000 --> 00:36:16,200
+<font color="#F1c822">Don't do that.</font>
+
+506
+00:36:42,200 --> 00:36:44,000
+<font color="#F1c822">And that should do it.</font>
+
+507
+00:36:44,000 --> 00:36:48,200
+<font color="#F1c822">Make sure that you reset the alarm before you
+go to bed and whenever you leave the house.</font>
+
+508
+00:36:48,200 --> 00:36:50,000
+<font color="#F1c822">Sign right here.</font>
+
+509
+00:36:53,000 --> 00:36:54,200
+<font color="#F1c822">You're all set?
+Have a good day.</font>
+
+510
+00:36:54,200 --> 00:36:56,000
+<font color="#F1c822">You, too.
+Thanks so much.</font>
+
+511
+00:37:10,000 --> 00:37:11,200
+<font color="#F1c822">Jesus.</font>
+
+512
+00:37:11,200 --> 00:37:12,000
+<font color="#F1c822">Scared you?</font>
+
+513
+00:37:13,000 --> 00:37:14,200
+<font color="#F1c822">Can I help you?</font>
+
+514
+00:37:14,200 --> 00:37:17,000
+<font color="#F1c822">You're new here.
+Thought we could be friends.</font>
+
+515
+00:37:17,000 --> 00:37:22,200
+<font color="#F1c822">I could use some new friends.
+People around here can be mean.</font>
+
+516
+00:37:22,200 --> 00:37:23,000
+<font color="#F1c822">I'm sorry.</font>
+
+517
+00:37:24,000 --> 00:37:26,200
+<font color="#F1c822">Finally got around to
+filling in those cracks?</font>
+
+518
+00:37:26,200 --> 00:37:27,000
+<font color="#F1c822">These?</font>
+
+519
+00:37:27,000 --> 00:37:32,200
+<font color="#F1c822">Yep. This whole town is kind of
+cockeyed, if you know what I mean.</font>
+
+520
+00:37:32,200 --> 00:37:35,000
+<font color="#F1c822">Stuff like this here
+happens all the time.</font>
+
+521
+00:37:35,000 --> 00:37:36,200
+<font color="#F1c822">Really?</font>
+
+522
+00:37:36,200 --> 00:37:39,000
+<font color="#F1c822">As they say, you gotta build
+the gate before you can open it.</font>
+
+523
+00:37:39,000 --> 00:37:42,200
+<font color="#F1c822">But you gotta have
+the key to unlock it.</font>
+
+524
+00:37:42,200 --> 00:37:43,000
+<font color="#F1c822">Is that what they say?</font>
+
+525
+00:37:43,000 --> 00:37:48,200
+<font color="#F1c822">Sure. You know, there was a big mass
+murder/suicide here, like, a year ago.</font>
+
+526
+00:37:49,200 --> 00:37:50,000
+<font color="#F1c822">Is that right?</font>
+
+527
+00:37:50,000 --> 00:37:53,200
+<font color="#F1c822">Uh-huh. Crazy
+stuff around here.</font>
+
+528
+00:37:53,200 --> 00:37:55,000
+<font color="#F1c822">You think 9/11
+was an inside job?</font>
+
+529
+00:37:56,000 --> 00:37:57,200
+<font color="#F1c822">What?</font>
+
+530
+00:37:57,200 --> 00:38:01,000
+<font color="#F1c822">11. The first plane that hit
+the first tower was flight 11.</font>
+
+531
+00:38:01,000 --> 00:38:02,200
+<font color="#F1c822">Okay.</font>
+
+532
+00:38:02,200 --> 00:38:05,000
+<font color="#F1c822">11 is the first number which
+can't be counted on fingers.</font>
+
+533
+00:38:05,000 --> 00:38:07,200
+<font color="#F1c822">Well, not human fingers.</font>
+
+534
+00:38:10,200 --> 00:38:12,000
+<font color="#F1c822">Hey, Mick.</font>
+
+535
+00:38:12,000 --> 00:38:14,200
+<font color="#F1c822">Don't overstay your welcome.</font>
+
+536
+00:38:15,200 --> 00:38:20,000
+<font color="#F1c822">Well, I'll stop by. And say
+hi again tomorrow, friend.</font>
+
+537
+00:38:23,000 --> 00:38:27,200
+<font color="#F1c822">Filling it in won't help.
+It'll just come back.</font>
+
+538
+00:39:13,200 --> 00:39:15,000
+<font color="#F1c822">What did I do wrong?</font>
+
+539
+00:39:15,000 --> 00:39:18,200
+<font color="#F1c822">I'm sorry.
+I won't do it again.</font>
+
+540
+00:39:18,200 --> 00:39:19,000
+<font color="#F1c822">I'm sorry.
+I didn't know.</font>
+
+541
+00:39:19,000 --> 00:39:20,200
+<font color="#F1c822">I didn't know.</font>
+
+542
+00:39:21,200 --> 00:39:22,000
+<font color="#F1c822">I didn't know.</font>
+
+543
+00:39:45,000 --> 00:39:46,200
+<font color="#F1c822">Go for it.</font>
+
+544
+00:40:21,200 --> 00:40:24,000
+<font color="#F1c822">Oh! What the hell?</font>
+
+545
+00:40:28,000 --> 00:40:32,200
+<font color="#F1c822">Come on, Brian. Let's get you
+home. Put some ice on that.</font>
+
+546
+00:40:48,200 --> 00:40:50,000
+<font color="#F1c822">Is that all you
+want to do?</font>
+
+547
+00:40:50,000 --> 00:40:53,200
+<font color="#F1c822">Dig in the dirt?
+Boring.</font>
+
+548
+00:40:55,200 --> 00:40:58,000
+<font color="#F1c822">I gotta get your
+dinner ready.</font>
+
+549
+00:41:08,000 --> 00:41:11,200
+<font color="#F1c822">Whoa! You gonna eat that?</font>
+
+550
+00:41:11,200 --> 00:41:13,000
+<font color="#F1c822">You know, sometimes</font>
+
+551
+00:41:13,000 --> 00:41:14,200
+<font color="#F1c822">when you cut a worm in half,</font>
+
+552
+00:41:14,200 --> 00:41:16,000
+<font color="#F1c822">you get two live worms.</font>
+
+553
+00:41:16,000 --> 00:41:19,200
+<font color="#F1c822">And sometimes you
+get a dead worm.</font>
+
+554
+00:41:20,200 --> 00:41:22,000
+<font color="#F1c822">Oh, I brought you some lemonade.</font>
+
+555
+00:41:22,000 --> 00:41:24,200
+<font color="#F1c822">Tastes funny, but it's really good.</font>
+
+556
+00:41:25,200 --> 00:41:26,000
+<font color="#F1c822">Come on!</font>
+
+557
+00:41:26,000 --> 00:41:28,200
+<font color="#F1c822">I've got a birthday present for you.</font>
+
+558
+00:41:28,200 --> 00:41:30,000
+<font color="#F1c822">I know it's two more
+days till your birthday.</font>
+
+559
+00:41:30,000 --> 00:41:32,200
+<font color="#F1c822">But by then the whole
+world could be over.</font>
+
+560
+00:41:32,200 --> 00:41:34,000
+<font color="#F1c822">Come on. Come on.</font>
+
+561
+00:41:34,000 --> 00:41:36,200
+<font color="#F1c822">Come on. Come on. Come on..</font>
+
+562
+00:41:36,200 --> 00:41:37,000
+<font color="#F1c822">It's okay. Come on.</font>
+
+563
+00:41:37,000 --> 00:41:38,200
+<font color="#F1c822">Come on.</font>
+
+564
+00:41:38,200 --> 00:41:41,000
+<font color="#F1c822">Nat!</font>
+
+565
+00:41:41,000 --> 00:41:43,200
+<font color="#F1c822">Dinner.</font>
+
+566
+00:41:42,200 --> 00:41:47,000
+<font color="#F1c822">I'll give you the present tomorrow, Nat.
+I promise. You'll see.</font>
+
+567
+00:42:10,000 --> 00:42:12,200
+<font color="#F1c822">No. Just get away.</font>
+
+568
+00:42:12,200 --> 00:42:14,000
+<font color="#F1c822">No..</font>
+
+569
+00:42:17,000 --> 00:42:18,200
+<font color="#F1c822">Shh, Shh, Shh, Shh, Shh.</font>
+
+570
+00:42:18,200 --> 00:42:19,000
+<font color="#F1c822">Shh, Shh.</font>
+
+571
+00:42:41,000 --> 00:42:42,200
+<font color="#F1c822">Gotcha.</font>
+
+572
+00:42:45,200 --> 00:42:47,000
+<font color="#F1c822">Aah! No! No!</font>
+
+573
+00:43:29,000 --> 00:43:31,200
+<font color="#F1c822">Nat?</font>
+
+574
+00:43:34,200 --> 00:43:36,000
+<font color="#F1c822">Is something wrong?</font>
+
+575
+00:43:38,000 --> 00:43:40,200
+<font color="#F1c822">Do you need something?</font>
+
+576
+00:43:41,200 --> 00:43:44,000
+<font color="#F1c822">Nat.</font>
+
+577
+00:43:44,001 --> 00:43:45,200
+<font color="#F1c822">Nat!</font>
+
+578
+00:43:54,200 --> 00:43:57,000
+<font color="#F1c822">What has gotten
+into you lately?</font>
+
+579
+00:44:04,000 --> 00:44:07,200
+<font color="#F1c822">Oh, buddy.</font>
+
+580
+00:44:07,200 --> 00:44:11,000
+<font color="#F1c822">I'm not mad at you, okay?</font>
+
+581
+00:44:11,000 --> 00:44:14,200
+<font color="#F1c822">This move has been
+hard on all of us.</font>
+
+582
+00:44:16,200 --> 00:44:17,000
+<font color="#F1c822">Hold on!</font>
+
+583
+00:44:42,000 --> 00:44:46,200
+<font color="#F1c822">We'll have a proper birthday for you
+tomorrow, but I wanted to give you this.</font>
+
+584
+00:44:47,200 --> 00:44:49,000
+<font color="#F1c822">Mom and I love you.</font>
+
+585
+00:44:50,000 --> 00:44:52,200
+<font color="#F1c822">Hold on.
+Don't open it yet.</font>
+
+586
+00:44:52,200 --> 00:44:53,000
+<font color="#F1c822">Hold on.</font>
+
+587
+00:45:01,000 --> 00:45:02,200
+<font color="#F1c822">Good morning, Denise.</font>
+
+588
+00:45:02,200 --> 00:45:04,000
+<font color="#F1c822">Hey, good morning.</font>
+
+589
+00:45:05,000 --> 00:45:07,200
+<font color="#F1c822">Beautiful day.</font>
+
+590
+00:45:11,200 --> 00:45:13,000
+<font color="#F1c822">Nat?</font>
+
+591
+00:45:13,000 --> 00:45:14,200
+<font color="#F1c822">Buddy?</font>
+
+592
+00:45:14,200 --> 00:45:16,000
+<font color="#F1c822">Hey, Nat.</font>
+
+593
+00:45:21,000 --> 00:45:22,200
+<font color="#F1c822">Jesus!</font>
+
+594
+00:45:22,200 --> 00:45:25,000
+<font color="#F1c822">Damn it! What the
+hell are you doing?</font>
+
+595
+00:45:30,000 --> 00:45:31,200
+<font color="#F1c822">I have to go to work.</font>
+
+596
+00:45:34,200 --> 00:45:35,000
+<font color="#F1c822">Watch him!</font>
+
+597
+00:46:21,000 --> 00:46:23,200
+<font color="#F1c822">♪ No! ♪</font>
+
+598
+00:46:26,000 --> 00:46:27,200
+<font color="#F1c822">No.</font>
+
+599
+00:46:37,200 --> 00:46:40,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">On may 11, 1311,</font>
+
+600
+00:46:40,000 --> 00:46:43,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">54 members of the Knights Templar,</font>
+
+601
+00:46:43,200 --> 00:46:45,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">are burned at the stake in France,</font>
+
+602
+00:46:45,000 --> 00:46:47,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">for being heretics.</font>
+
+603
+00:46:48,200 --> 00:46:50,000
+<font color="#F1c822">I thought I got rid of this.</font>
+
+604
+00:47:16,000 --> 00:47:19,200
+<font color="#F1c822">My God, honey.
+You're burning up.</font>
+
+605
+00:47:19,200 --> 00:47:21,000
+<font color="#F1c822">She's burning up.</font>
+
+606
+00:47:23,000 --> 00:47:25,200
+<font color="#F1c822">Can you hear me?</font>
+
+607
+00:47:25,200 --> 00:47:27,000
+<font color="#F1c822">Jack..</font>
+
+608
+00:47:27,000 --> 00:47:29,200
+<font color="#F1c822">Relax, honey.</font>
+
+609
+00:47:31,200 --> 00:47:34,000
+<font color="#F1c822">They were all here.</font>
+
+610
+00:47:34,000 --> 00:47:35,200
+<font color="#F1c822">They? They who?</font>
+
+611
+00:47:35,200 --> 00:47:38,000
+<font color="#F1c822">All of them.</font>
+
+612
+00:47:38,000 --> 00:47:42,200
+<font color="#F1c822">Dr. Bolger..</font>
+
+613
+00:47:42,200 --> 00:47:43,000
+<font color="#F1c822">Janice..</font>
+
+614
+00:47:43,000 --> 00:47:45,200
+<font color="#F1c822">They were here?</font>
+
+615
+00:47:45,200 --> 00:47:47,000
+<font color="#F1c822">Yes.</font>
+
+616
+00:47:47,000 --> 00:47:50,200
+<font color="#F1c822">And Nat..</font>
+
+617
+00:47:50,200 --> 00:47:53,000
+<font color="#F1c822">They made him..</font>
+
+618
+00:47:53,000 --> 00:47:56,200
+<font color="#F1c822">What? What did
+they do to Nat, huh?</font>
+
+619
+00:47:56,200 --> 00:47:58,000
+<font color="#F1c822">He killed..</font>
+
+620
+00:47:58,000 --> 00:48:00,200
+<font color="#F1c822">He killed a girl.</font>
+
+621
+00:48:00,200 --> 00:48:02,000
+<font color="#F1c822">What?</font>
+
+622
+00:48:02,000 --> 00:48:04,200
+<font color="#F1c822">He..</font>
+
+623
+00:48:06,200 --> 00:48:08,000
+<font color="#F1c822">He slit her throat.</font>
+
+624
+00:48:10,000 --> 00:48:12,200
+<font color="#F1c822">Hey, hey, hey.</font>
+
+625
+00:48:13,200 --> 00:48:15,000
+<font color="#F1c822">You just stay down.</font>
+
+626
+00:48:15,000 --> 00:48:16,200
+<font color="#F1c822">Just relax, honey.</font>
+
+627
+00:48:16,200 --> 00:48:18,000
+<font color="#F1c822">Relax.</font>
+
+628
+00:48:18,000 --> 00:48:21,200
+<font color="#F1c822">They were all here.</font>
+
+629
+00:48:21,200 --> 00:48:23,000
+<font color="#F1c822">They were around our bed.</font>
+
+630
+00:48:23,000 --> 00:48:24,200
+<font color="#F1c822">Sofie, get in here.</font>
+
+631
+00:48:24,200 --> 00:48:27,000
+<font color="#F1c822">They were here.
+They were here.</font>
+
+632
+00:48:27,000 --> 00:48:29,200
+<font color="#F1c822">Shh. Sofie's going to
+give you something.</font>
+
+633
+00:48:29,200 --> 00:48:31,000
+<font color="#F1c822">Give her something.</font>
+
+634
+00:48:34,000 --> 00:48:36,200
+<font color="#F1c822">Jack.. No.</font>
+
+635
+00:48:36,200 --> 00:48:38,000
+<font color="#F1c822">Just relax. It's
+gonna be okay.</font>
+
+636
+00:48:38,000 --> 00:48:40,200
+<font color="#F1c822">Jack..</font>
+
+637
+00:48:40,200 --> 00:48:41,000
+<font color="#F1c822">No.</font>
+
+638
+00:48:43,000 --> 00:48:45,200
+<font color="#F1c822">Who was here?</font>
+
+639
+00:48:45,200 --> 00:48:48,000
+<font color="#F1c822">Nobody, Mr. Vales.</font>
+
+640
+00:48:48,000 --> 00:48:49,200
+<font color="#F1c822">No..</font>
+
+641
+00:48:49,200 --> 00:48:51,000
+<font color="#F1c822">Honey..</font>
+
+642
+00:48:51,000 --> 00:48:53,200
+<font color="#F1c822">No..</font>
+
+643
+00:48:53,200 --> 00:48:54,000
+<font color="#F1c822">No..</font>
+
+644
+00:49:00,000 --> 00:49:04,200
+<font color="#F1c822">There were 92 passengers on flight 11.</font>
+
+645
+00:49:04,200 --> 00:49:06,000
+<font color="#F1c822">9 + 2 = 11.</font>
+
+646
+00:49:06,000 --> 00:49:09,200
+<font color="#F1c822">Flight 77 had 65 passengers.</font>
+
+647
+00:49:09,200 --> 00:49:13,000
+<font color="#F1c822">6 + 5 = 11.</font>
+
+648
+00:49:13,000 --> 00:49:14,200
+<font color="#F1c822">Jesus.</font>
+
+649
+00:49:17,200 --> 00:49:20,000
+<font color="#F1c822">What did I tell you
+about this book?</font>
+
+650
+00:49:20,000 --> 00:49:23,200
+<font color="#F1c822">Stop filling his head
+with these nightmares.</font>
+
+651
+00:50:57,200 --> 00:50:58,000
+<font color="#F1c822">Nat.</font>
+
+652
+00:51:00,000 --> 00:51:01,200
+<font color="#F1c822">Nat!</font>
+
+653
+00:51:05,200 --> 00:51:08,000
+<font color="#F1c822">Nat, hey.</font>
+
+654
+00:51:10,000 --> 00:51:12,200
+<font color="#F1c822">Daddy.</font>
+
+655
+00:51:13,200 --> 00:51:17,000
+<font color="#F1c822">Oh, buddy.</font>
+
+656
+00:51:17,000 --> 00:51:19,200
+<font color="#F1c822">You hungry? Huh?</font>
+
+657
+00:51:19,200 --> 00:51:21,000
+<font color="#F1c822">Let's go. Come on.</font>
+
+658
+00:51:25,000 --> 00:51:27,200
+<font color="#F1c822">Tomorrow's your birthday, big guy.</font>
+
+659
+00:51:27,200 --> 00:51:29,000
+<font color="#F1c822">11.</font>
+
+660
+00:51:29,000 --> 00:51:32,200
+<font color="#F1c822">You wanna do something
+special for the big day?</font>
+
+661
+00:51:40,200 --> 00:51:44,000
+<font color="#F1c822">I know things have been a little
+crazy. With mom being sick and all.</font>
+
+662
+00:51:44,000 --> 00:51:47,200
+<font color="#F1c822">But I need you to let
+her get her rest, okay?</font>
+
+663
+00:51:53,200 --> 00:51:54,000
+<font color="#F1c822">Jesus.</font>
+
+664
+00:52:04,000 --> 00:52:06,200
+<font color="#F1c822">Jesus.</font>
+
+665
+00:52:06,200 --> 00:52:07,000
+<font color="#F1c822">I'm havin' an aneurysm.</font>
+
+666
+00:52:38,000 --> 00:52:40,200
+<font color="#F1c822">Nat?</font>
+
+667
+00:52:48,200 --> 00:52:50,000
+<font color="#F1c822">Nat! Jesus! Nat!</font>
+
+668
+00:53:06,000 --> 00:53:07,200
+<font color="#F1c822">Jesus.</font>
+
+669
+00:53:11,200 --> 00:53:12,000
+<font color="#F1c822">Oh, my God.</font>
+
+670
+00:54:07,000 --> 00:54:08,200
+<font color="#F1c822">Oh, God.</font>
+
+671
+00:58:40,200 --> 00:58:42,000
+<font color="#F1c822">What are you doing?</font>
+
+672
+00:58:42,000 --> 00:58:45,200
+<font color="#F1c822">Be a good girl and
+take your medicine.</font>
+
+673
+00:58:45,200 --> 00:58:48,000
+<font color="#F1c822">Shh. Shh.</font>
+
+674
+00:58:48,000 --> 00:58:50,200
+<font color="#F1c822">No.</font>
+
+675
+00:59:15,200 --> 00:59:17,000
+<font color="#F1c822">Happy Birthday, Nat.</font>
+
+676
+01:00:05,000 --> 01:00:07,200
+<font color="#F1c822">What the hell?</font>
+
+677
+01:00:21,200 --> 01:00:24,000
+<font color="#F1c822">I actually think it went
+smoothly. Powerful, even.</font>
+
+678
+01:00:24,000 --> 01:00:26,200
+<font color="#F1c822">How do you think
+Dr. Bolger took it?</font>
+
+679
+01:00:26,200 --> 01:00:28,000
+<font color="#F1c822">Well?</font>
+
+680
+01:00:28,000 --> 01:00:29,200
+<font color="#F1c822">You don't think she'll remember?</font>
+
+681
+01:00:29,200 --> 01:00:32,000
+<font color="#F1c822">Sofie made sure, she
+was heavily sedated.</font>
+
+682
+01:00:32,000 --> 01:00:33,200
+<font color="#F1c822">She won't remember a thing.</font>
+
+683
+01:00:33,200 --> 01:00:35,000
+<font color="#F1c822">And Sofie covered our tracks?</font>
+
+684
+01:00:35,000 --> 01:00:36,200
+<font color="#F1c822">She's no amateur.</font>
+
+685
+01:00:36,200 --> 01:00:39,000
+<font color="#F1c822">I hope the girl
+was actually intact.</font>
+
+686
+01:00:41,000 --> 01:00:42,200
+<font color="#F1c822">Are you kidding me?</font>
+
+687
+01:00:42,200 --> 01:00:44,000
+<font color="#F1c822">Mike, her father is a doctor.</font>
+
+688
+01:00:44,000 --> 01:00:45,200
+<font color="#F1c822">I think he would know.</font>
+
+689
+01:00:45,200 --> 01:00:47,000
+<font color="#F1c822">Everything's on course.</font>
+
+690
+01:00:47,000 --> 01:00:49,200
+<font color="#F1c822">Everybody remain calm.</font>
+
+691
+01:00:49,200 --> 01:00:51,000
+<font color="#F1c822">Stay focused. Remember..</font>
+
+692
+01:00:52,000 --> 01:00:53,200
+<font color="#F1c822">Normal.</font>
+
+693
+01:00:54,200 --> 01:00:56,000
+<font color="#F1c822">After tomorrow, none
+of this will matter.</font>
+
+694
+01:01:06,000 --> 01:01:07,200
+<font color="#F1c822">Nat?</font>
+
+695
+01:01:09,200 --> 01:01:10,000
+<font color="#F1c822">Denise?</font>
+
+696
+01:01:24,000 --> 01:01:25,200
+<font color="#F1c822">Sofie!</font>
+
+697
+01:01:37,200 --> 01:01:39,000
+<font color="#F1c822">Nat, what are you
+doing in here again?</font>
+
+698
+01:01:39,000 --> 01:01:40,200
+<font color="#F1c822">I told you to leave mom alone.</font>
+
+699
+01:01:40,200 --> 01:01:42,000
+<font color="#F1c822">Come on.</font>
+
+700
+01:01:43,000 --> 01:01:45,200
+<font color="#F1c822">Nat!</font>
+
+701
+01:01:47,200 --> 01:01:49,000
+<font color="#F1c822">Why does mommy have to die?</font>
+
+702
+01:01:49,000 --> 01:01:51,200
+<font color="#F1c822">What?</font>
+
+703
+01:01:51,200 --> 01:01:54,000
+<font color="#F1c822">No! No! No!
+Mom's gonna be fine.</font>
+
+704
+01:01:54,000 --> 01:01:56,200
+<font color="#F1c822">No, daddy.</font>
+
+705
+01:01:56,200 --> 01:01:57,000
+<font color="#F1c822">Aah!</font>
+
+706
+01:01:57,200 --> 01:01:58,000
+<font color="#F1c822">Oh, my God.</font>
+
+707
+01:01:58,000 --> 01:01:59,200
+<font color="#F1c822">What are you doing?</font>
+
+708
+01:02:00,200 --> 01:02:01,000
+<font color="#F1c822">Sofie, get in here.</font>
+
+709
+01:02:05,000 --> 01:02:07,200
+<font color="#F1c822">What the hell are you doing?</font>
+
+710
+01:02:07,200 --> 01:02:09,000
+<font color="#F1c822">It's a superficial wound, Mr. Vales.</font>
+
+711
+01:02:09,000 --> 01:02:10,200
+<font color="#F1c822">She's going to be fine.</font>
+
+712
+01:02:10,200 --> 01:02:12,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">911. What's your emergency?</font>
+
+713
+01:02:12,000 --> 01:02:15,200
+<font color="#F1c822">My wife. I need an ambulance. My..</font>
+
+714
+01:02:15,200 --> 01:02:17,000
+<font color="#F1c822">My wife stabbed herself.</font>
+
+715
+01:02:17,000 --> 01:02:18,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">All right, sir. Stay calm.</font>
+
+716
+01:02:18,200 --> 01:02:20,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">We'll send someone right away.</font>
+
+717
+01:02:27,000 --> 01:02:28,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">Hello. Dr. Bolger's office.</font>
+
+718
+01:02:28,200 --> 01:02:31,000
+<font color="#F1c822">Yeah, Miranda. Put Dr. Bolger on. It's an emergency.</font>
+
+719
+01:02:31,000 --> 01:02:33,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">I'm sorry, this isn't Miranda. And
+the doctor's not available right now.</font>
+
+720
+01:02:33,200 --> 01:02:36,000
+<font color="#F1c822">What do you mean he's not available?
+My wife's been stabbed.</font>
+
+721
+01:02:36,000 --> 01:02:37,200
+<font color="#F1c822">Put Miranda on.</font>
+
+722
+01:02:37,200 --> 01:02:39,000
+<font color="#F1c822">They slit her throat.</font>
+
+723
+01:02:39,000 --> 01:02:40,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">I'm really sorry, sir.</font>
+
+724
+01:02:40,200 --> 01:02:42,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">But Miranda didn't
+show up for work today.</font>
+
+725
+01:02:42,000 --> 01:02:44,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">Should I tell the
+doctor you called?</font>
+
+726
+01:02:46,200 --> 01:02:47,000
+<font color="#F1c822">Never mind.</font>
+
+727
+01:02:51,000 --> 01:02:53,200
+<font color="#F1c822">It's okay.</font>
+
+728
+01:02:53,200 --> 01:02:56,000
+<font color="#F1c822">Sofie, did we stop..
+Did we stop this bleeding?</font>
+
+729
+01:02:57,000 --> 01:02:58,200
+<font color="#F1c822">Your wife will be fine.</font>
+
+730
+01:02:58,200 --> 01:03:00,000
+<font color="#F1c822">It was a superficial wound.</font>
+
+731
+01:03:00,000 --> 01:03:02,200
+<font color="#F1c822">The baby was never in any harm.</font>
+
+732
+01:03:02,200 --> 01:03:04,000
+<font color="#F1c822">Okay. Thanks for getting
+here so quickly.</font>
+
+733
+01:03:04,000 --> 01:03:05,200
+<font color="#F1c822">No problem.</font>
+
+734
+01:03:59,200 --> 01:04:00,000
+<font color="#F1c822">Oh, my God.</font>
+
+735
+01:04:09,000 --> 01:04:12,200
+<font color="#F1c822">Hey, Nat. Who did
+this to you, huh?</font>
+
+736
+01:04:12,200 --> 01:04:14,000
+<font color="#F1c822">Who did this to you?</font>
+
+737
+01:04:14,000 --> 01:04:15,200
+<font color="#F1c822">Did Denise do
+this to you?</font>
+
+738
+01:04:16,200 --> 01:04:18,000
+<font color="#F1c822">God. Damn her.</font>
+
+739
+01:04:21,000 --> 01:04:23,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#ff0000">Hello, 911. What is
+your emergency?</font>
+
+740
+01:04:23,200 --> 01:04:25,000
+<font color="#F1c822">I need you to send an officer
+over here right away.</font>
+
+741
+01:04:25,000 --> 01:04:28,200
+<font color="#F1c822">Our nanny has
+attacked my son.</font>
+
+742
+01:04:48,200 --> 01:04:52,000
+<font color="#F1c822">Well, sir. Do you have any proof
+that this young lady's responsible?</font>
+
+743
+01:04:52,000 --> 01:04:53,200
+<font color="#F1c822">Proof? I need proof?</font>
+
+744
+01:04:53,200 --> 01:04:55,000
+<font color="#F1c822">She was his nanny.
+We trusted her.</font>
+
+745
+01:04:55,200 --> 01:04:59,000
+<font color="#F1c822">Ma'am, I'm afraid I'm gonna have to take
+you down to the precinct for questioning.</font>
+
+746
+01:04:59,000 --> 01:05:02,200
+<font color="#F1c822">Please turn around and place
+your hands behind your back.</font>
+
+747
+01:05:04,200 --> 01:05:06,000
+<font color="#F1c822">Aah! Aah!</font>
+
+748
+01:05:06,000 --> 01:05:08,200
+<font color="#F1c822">I didn't do anything wrong.</font>
+
+749
+01:05:08,200 --> 01:05:10,000
+<font color="#F1c822">You're making a huge mistake.</font>
+
+750
+01:05:10,000 --> 01:05:11,200
+<font color="#F1c822">This way, ma'am.</font>
+
+751
+01:05:11,200 --> 01:05:12,000
+<font color="#F1c822">Settle down.</font>
+
+752
+01:05:13,000 --> 01:05:15,200
+<font color="#F1c822">Get her out of my house.</font>
+
+753
+01:05:27,200 --> 01:05:28,000
+<font color="#F1c822">Watch your head.</font>
+
+754
+01:05:54,000 --> 01:05:56,200
+<font color="#F1c822">You're not from around here.</font>
+
+755
+01:05:57,200 --> 01:05:59,000
+<font color="#F1c822">I can tell.</font>
+
+756
+01:06:00,000 --> 01:06:02,200
+<font color="#F1c822">I pretty much know
+everybody in this town.</font>
+
+757
+01:06:03,200 --> 01:06:04,000
+<font color="#F1c822">Where're you from?</font>
+
+758
+01:06:07,000 --> 01:06:08,200
+<font color="#F1c822">That's okay.</font>
+
+759
+01:06:09,200 --> 01:06:11,000
+<font color="#F1c822">You don't have
+to talk to me.</font>
+
+760
+01:06:11,000 --> 01:06:15,200
+<font color="#F1c822">I can have a nice conversation all by myself.</font>
+
+761
+01:06:17,200 --> 01:06:19,000
+<font color="#F1c822">Wouldn't be the first time.</font>
+
+762
+01:06:23,000 --> 01:06:25,200
+<font color="#F1c822">You're gonna regret this.</font>
+
+763
+01:06:47,200 --> 01:06:48,000
+<font color="#F1c822">Aah!</font>
+
+764
+01:07:11,000 --> 01:07:13,200
+<font color="#F1c822">What the hell was that?</font>
+
+765
+01:07:13,200 --> 01:07:15,000
+<font color="#F1c822">It sounded like that
+police car crashed.</font>
+
+766
+01:07:15,000 --> 01:07:16,200
+<font color="#F1c822">Jesus.</font>
+
+767
+01:07:16,200 --> 01:07:17,000
+<font color="#F1c822">Stay focused.</font>
+
+768
+01:07:18,000 --> 01:07:19,200
+<font color="#F1c822">It sounds like a bomb
+just went off.</font>
+
+769
+01:07:19,200 --> 01:07:21,000
+<font color="#F1c822">Forgive me if I'm finding it
+a little difficult to focus.</font>
+
+770
+01:07:22,000 --> 01:07:23,200
+<font color="#F1c822">Quiet!</font>
+
+771
+01:07:48,200 --> 01:07:50,000
+<font color="#F1c822">Nat?</font>
+
+772
+01:08:14,000 --> 01:08:16,200
+<font color="#F1c822">Where do you think
+you're going?</font>
+
+773
+01:08:16,200 --> 01:08:17,000
+<font color="#F1c822">Nat.</font>
+
+774
+01:08:19,000 --> 01:08:21,200
+<font color="#F1c822">Stay in bed.</font>
+
+775
+01:08:21,200 --> 01:08:22,000
+<font color="#F1c822">Who.. who are you?</font>
+
+776
+01:08:25,000 --> 01:08:28,200
+<font color="#F1c822">I am here to
+protect him.</font>
+
+777
+01:08:28,200 --> 01:08:31,000
+<font color="#F1c822">From who?</font>
+
+778
+01:08:31,000 --> 01:08:33,200
+<font color="#F1c822">From you.</font>
+
+779
+01:08:57,200 --> 01:08:59,000
+<font color="#F1c822">I'll be good.</font>
+
+780
+01:09:02,000 --> 01:09:03,200
+<font color="#F1c822">I'll be good.</font>
+
+781
+01:09:06,200 --> 01:09:09,000
+<font color="#F1c822">I'll be..
+I'll be good.</font>
+
+782
+01:09:09,000 --> 01:09:11,200
+<font color="#F1c822">I'll be good.
+I'm sorry.</font>
+
+783
+01:09:14,200 --> 01:09:16,000
+<font color="#F1c822">I'm sorry.</font>
+
+784
+01:09:42,000 --> 01:09:44,200
+<font color="#F1c822">Before the almighty and
+ineffable God Lucifer,</font>
+
+785
+01:09:44,200 --> 01:09:47,000
+<font color="#F1c822">And in the presence
+of all demons of hell,</font>
+
+786
+01:09:47,000 --> 01:09:50,200
+<font color="#F1c822">The true and original gods.</font>
+
+787
+01:09:50,200 --> 01:09:53,000
+<font color="#F1c822">I, Dr. James bolger..</font>
+
+788
+01:09:54,000 --> 01:09:57,200
+<font color="#F1c822">I, Brian Miles..</font>
+
+789
+01:10:00,200 --> 01:10:03,000
+<font color="#F1c822">I, Sarah blight..</font>
+
+790
+01:10:06,000 --> 01:10:08,200
+<font color="#F1c822">I, Michael hein..</font>
+
+791
+01:10:11,200 --> 01:10:14,000
+<font color="#F1c822">I, Marie Miles..</font>
+
+792
+01:10:16,000 --> 01:10:19,200
+<font color="#F1c822">I, Janice karpinski..</font>
+
+793
+01:10:21,200 --> 01:10:25,000
+<font color="#F1c822">Renounce any and
+all past allegiances.</font>
+
+794
+01:10:25,000 --> 01:10:29,200
+<font color="#F1c822">I renounce the false Judeo-Christian God jehovah.</font>
+
+795
+01:10:29,200 --> 01:10:33,000
+<font color="#F1c822">I renounce his vile and
+worthless son Jesus Christ.</font>
+
+796
+01:10:33,000 --> 01:10:37,200
+<font color="#F1c822">I renounce his foul
+and odious holy spirit.</font>
+
+797
+01:10:37,200 --> 01:10:42,000
+<font color="#F1c822">I proclaim Lucifer Satan
+my one and only God.</font>
+
+798
+01:10:42,000 --> 01:10:44,200
+<font color="#F1c822">I promise to recognize
+and honor him in all things,</font>
+
+799
+01:10:44,200 --> 01:10:45,000
+<font color="#F1c822">Without reservation,</font>
+
+800
+01:10:45,000 --> 01:10:48,200
+<font color="#F1c822">Desiring in return
+his manifold assistance,</font>
+
+801
+01:10:48,200 --> 01:10:51,000
+<font color="#F1c822">In the successful
+completion of my endeavors.</font>
+
+802
+01:10:51,000 --> 01:10:53,200
+<font color="#F1c822">So mote it be.</font>
+
+803
+01:10:55,200 --> 01:10:57,000
+<font color="#F1c822">Hail Satan.</font>
+
+804
+01:11:03,000 --> 01:11:05,200
+<font color="#F1c822">Now stay there.</font>
+
+805
+01:11:09,200 --> 01:11:10,000
+<font color="#F1c822">Sofie..</font>
+
+806
+01:11:13,000 --> 01:11:14,200
+<font color="#F1c822">What?</font>
+
+807
+01:11:17,200 --> 01:11:21,000
+<font color="#F1c822">I'm sorry. I can't understand
+a word you're saying.</font>
+
+808
+01:11:24,000 --> 01:11:31,200
+<font color="#F1c822">Aah.</font>
+
+809
+01:11:31,200 --> 01:11:33,000
+<font color="#F1c822">No.</font>
+
+810
+01:11:33,000 --> 01:11:36,200
+<font color="#F1c822">Aah!</font>
+
+811
+01:11:36,200 --> 01:11:38,000
+<font color="#F1c822">Aah!</font>
+
+812
+01:11:39,000 --> 01:11:42,200
+<font color="#F1c822">Aah!</font>
+
+813
+01:11:43,200 --> 01:11:45,000
+<font color="#F1c822">Aah!</font>
+
+814
+01:11:46,000 --> 01:11:50,200
+{\3c&FFFFFF&}<font color="#ff0000">Aah!</font>
+
+815
+01:11:51,200 --> 01:11:52,000
+{\3c&FFFFFF&}<font color="#ff0000">Aah!</font>
+
+816
+01:11:55,550 --> 01:11:56,000
+{\an1}<font face="Times New Roman" size="15">T</font>
+
+817
+01:11:56,000 --> 01:11:56,550
+{\an1}<font face="Times New Roman" size="15">Tr</font>
+
+818
+01:11:56,550 --> 01:11:57,000
+{\an1}<font face="Times New Roman" size="15">Tra</font>
+
+819
+01:11:57,000 --> 01:11:57,550
+{\an1}<font face="Times New Roman" size="15">Tran</font>
+
+820
+01:11:57,550 --> 01:11:58,000
+{\an1}<font face="Times New Roman" size="15">Trans</font>
+
+821
+01:11:58,000 --> 01:11:58,550
+{\an1}<font face="Times New Roman" size="15">Transl</font>
+
+822
+01:11:58,550 --> 01:11:59,000
+{\an1}<font face="Times New Roman" size="15">Transla</font>
+
+823
+01:11:59,000 --> 01:11:59,550
+{\an1}<font face="Times New Roman" size="15">Translat</font>
+
+824
+01:11:59,550 --> 01:12:00,000
+{\an1}<font face="Times New Roman" size="15">Translate</font>
+
+825
+01:12:00,000 --> 01:12:00,550
+{\an1}<font face="Times New Roman" size="15">Translated</font>
+
+826
+01:12:00,550 --> 01:12:01,000
+{\an1}<font face="Times New Roman" size="15">Translated</font>
+
+827
+01:12:01,000 --> 01:12:01,550
+{\an1}<font face="Times New Roman" size="15">Translated B</font>
+
+828
+01:12:01,550 --> 01:12:02,000
+{\an1}<font face="Times New Roman" size="15">Translated By</font>
+
+829
+01:12:02,000 --> 01:12:02,550
+{\an1}<font face="Times New Roman" size="15">Translated By:</font>
+
+830
+01:12:02,550 --> 01:12:03,000
+{\an1}<font face="Times New Roman" size="15">Translated By:</font>
+
+831
+01:12:03,000 --> 01:12:03,550
+{\an1}<font face="Times New Roman" size="15">Translated By:</font>
+
+832
+01:12:03,550 --> 01:12:04,000
+{\an1}<font face="Times New Roman" size="15">Translated By: H</font>
+
+833
+01:12:04,000 --> 01:12:04,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Ha</font>
+
+834
+01:12:04,550 --> 01:12:05,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Har</font>
+
+835
+01:12:05,000 --> 01:12:05,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harf</font>
+
+836
+01:12:05,550 --> 01:12:06,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfl</font>
+
+837
+01:12:06,000 --> 01:12:06,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly</font>
+
+838
+01:12:06,550 --> 01:12:07,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly </font>
+
+839
+01:12:07,000 --> 01:12:07,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Z</font>
+
+840
+01:12:07,550 --> 01:12:08,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zo</font>
+
+841
+01:12:08,000 --> 01:12:08,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zon</font>
+
+842
+01:12:08,550 --> 01:12:09,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+
+843
+01:12:09,000 --> 01:12:09,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">h</font>
+
+844
+01:12:09,550 --> 01:12:10,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">ht</font>
+
+845
+01:12:10,000 --> 01:12:10,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">htt</font>
+
+846
+01:12:10,550 --> 01:12:11,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http</font>
+
+847
+01:12:11,000 --> 01:12:11,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http:</font>
+
+848
+01:12:11,550 --> 01:12:12,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http:/</font>
+
+849
+01:12:12,000 --> 01:12:12,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://</font>
+
+850
+01:12:12,550 --> 01:12:13,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://h</font>
+
+851
+01:12:13,000 --> 01:12:13,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://ha</font>
+
+852
+01:12:13,550 --> 01:12:14,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://har</font>
+
+853
+01:12:14,000 --> 01:12:14,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harf</font>
+
+854
+01:12:14,550 --> 01:12:15,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfl</font>
+
+855
+01:12:15,000 --> 01:12:15,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly</font>
+
+856
+01:12:15,550 --> 01:12:16,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.</font>
+
+857
+01:12:16,000 --> 01:12:16,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.b</font>
+
+858
+01:12:16,550 --> 01:12:17,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.bl</font>
+
+859
+01:12:17,000 --> 01:12:17,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blo</font>
+
+860
+01:12:17,550 --> 01:12:18,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blog</font>
+
+861
+01:12:18,000 --> 01:12:18,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogs</font>
+
+862
+01:12:18,550 --> 01:12:19,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogsp</font>
+
+863
+01:12:19,000 --> 01:12:19,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspo</font>
+
+864
+01:12:19,550 --> 01:12:20,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot</font>
+
+865
+01:12:20,000 --> 01:12:20,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.</font>
+
+866
+01:12:20,550 --> 01:12:21,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.c</font>
+
+867
+01:12:21,000 --> 01:12:21,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.co</font>
+
+868
+01:12:21,550 --> 01:12:22,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.com</font>
+
+869
+01:12:22,000 --> 01:12:22,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.com</font>
+
+870
+01:12:22,550 --> 01:12:30,000
+{\an1}{\3c&FFFFFF&}<font face="Times New Roman" size="15" color="#006633">Translated By: Harfly Zone</font>
+{\an1}{\3c&336600&}<font face="Times New Roman" size="15" color="#FFFFFF">http://harfly.blogspot.com</font>
+
+871
+01:12:35,000 --> 01:12:50,550
+{\an1}{\3c&336600&}<font face="Times New Roman" size="15" color="#FFFFFF">♪ "Spesialis Penerjemah Film Horor." ♪</font>
+
+872
+01:12:59,000 --> 01:13:00,200
+<font color="#F1c822">Nat.</font>
+
+873
+01:13:00,200 --> 01:13:01,000
+<font color="#F1c822">Nat.</font>
+
+874
+01:13:07,000 --> 01:13:08,200
+<font color="#F1c822">Nat.</font>
+
+875
+01:13:21,200 --> 01:13:22,000
+<font color="#F1c822">If I can't kill you,</font>
+
+876
+01:13:22,000 --> 01:13:24,200
+<font color="#F1c822">I am going to save you.</font>
+
+877
+01:13:35,200 --> 01:13:36,000
+<font color="#F1c822">Nat!</font>
+
+878
+01:13:37,000 --> 01:13:39,200
+<font color="#F1c822">Aah!</font>
+
+879
+01:13:39,200 --> 01:13:41,000
+<font color="#F1c822">Open this damn door.</font>
+
+880
+01:13:41,000 --> 01:13:42,200
+<font color="#F1c822">Now is the time.</font>
+
+881
+01:13:42,200 --> 01:13:44,000
+<font color="#F1c822">Jack, it's now.</font>
+
+882
+01:13:44,000 --> 01:13:45,200
+<font color="#F1c822">Somebody's
+got to stop them.</font>
+
+883
+01:13:45,200 --> 01:13:48,000
+<font color="#F1c822">And if you won't, I will.</font>
+
+884
+01:13:48,000 --> 01:13:50,200
+<font color="#F1c822">Give me my son.</font>
+
+885
+01:13:51,200 --> 01:13:52,000
+<font color="#F1c822">This town is the gate.</font>
+
+886
+01:13:52,000 --> 01:13:54,200
+<font color="#F1c822">Your son is the key.</font>
+
+887
+01:13:55,200 --> 01:13:56,000
+<font color="#F1c822">I'm calling the cops.</font>
+
+888
+01:13:56,000 --> 01:13:58,200
+<font color="#F1c822">It won't do any good.</font>
+
+889
+01:13:58,200 --> 01:14:00,000
+<font color="#F1c822">They're all in on it, Jack.</font>
+
+890
+01:14:01,000 --> 01:14:02,200
+<font color="#F1c822">She's got my son.</font>
+
+891
+01:14:21,200 --> 01:14:24,000
+<font color="#F1c822">In a thousand years, Satan will
+be released from his prison.</font>
+
+892
+01:14:24,000 --> 01:14:26,200
+<font color="#F1c822">And we must cast
+him into the abyss.</font>
+
+893
+01:14:26,200 --> 01:14:29,000
+<font color="#F1c822">And fire will come down
+from the heavens from God.</font>
+
+894
+01:14:29,000 --> 01:14:31,200
+<font color="#F1c822">And devour him.</font>
+
+895
+01:14:36,200 --> 01:14:38,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#0000ff">And I will bring calamity upon them..</font>
+
+896
+01:14:38,000 --> 01:14:39,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#0000ff">and they will not escape,</font>
+
+897
+01:14:39,200 --> 01:14:42,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#0000ff">and they will cry for mercy,</font>
+
+898
+01:14:42,000 --> 01:14:43,200
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#0000ff">and I will not listen to their cries.</font>
+
+899
+01:14:43,200 --> 01:14:45,000
+{\3c&FFFFFF&}<font face="Times New Roman" size="18" color="#0000ff">Jeremiah 11:11.</font>
+
+900
+01:14:45,000 --> 01:14:46,200
+<font color="#F1c822">11.</font>
+
+901
+01:14:46,200 --> 01:14:49,000
+<font color="#F1c822">Jack, don't you get it?
+11 is the devil's number.</font>
+
+902
+01:14:50,000 --> 01:14:52,200
+<font color="#F1c822">Satan in his arrogance
+added 1 to 10.</font>
+
+903
+01:14:52,200 --> 01:14:54,000
+<font color="#F1c822">10 is God's
+perfect number.</font>
+
+904
+01:14:54,000 --> 01:14:56,200
+<font color="#F1c822">1 + 0 = 1.</font>
+
+905
+01:14:56,200 --> 01:14:58,000
+<font color="#F1c822">Jack, all one with God.</font>
+
+906
+01:14:58,000 --> 01:15:01,200
+<font color="#F1c822">11 is Satan claiming superiority.</font>
+
+907
+01:15:01,200 --> 01:15:03,000
+<font color="#F1c822">Oh, you've got to kill him.</font>
+
+908
+01:15:03,000 --> 01:15:05,200
+<font color="#F1c822">You're crazy.
+Who the hell are you?</font>
+
+909
+01:15:05,200 --> 01:15:08,000
+<font color="#F1c822">Before the transformation
+for the sake of humanity.</font>
+
+910
+01:15:08,000 --> 01:15:09,200
+<font color="#F1c822">Shut your God damn mouth.</font>
+
+911
+01:15:28,200 --> 01:15:29,000
+<font color="#F1c822">Come on.</font>
+
+912
+01:15:34,000 --> 01:15:35,200
+<font color="#F1c822">Daddy.</font>
+
+913
+01:15:38,200 --> 01:15:39,000
+<font color="#F1c822">Daddy!</font>
+
+914
+01:15:45,000 --> 01:15:46,200
+<font color="#F1c822">Daddy!</font>
+
+915
+01:15:46,200 --> 01:15:47,000
+<font color="#F1c822">It's okay.</font>
+
+916
+01:15:47,000 --> 01:15:50,200
+<font color="#F1c822">It's all right.
+Shh.. You're okay.</font>
+
+917
+01:15:50,200 --> 01:15:53,000
+<font color="#F1c822">You just had a nightmare,
+okay? Go back to sleep.</font>
+
+918
+01:15:53,000 --> 01:15:55,200
+<font color="#F1c822">I'll be right back, all right?</font>
+
+919
+01:16:01,200 --> 01:16:02,000
+<font color="#F1c822">Where's Melissa?</font>
+
+920
+01:16:02,000 --> 01:16:03,200
+<font color="#F1c822">Where the hell is my wife?</font>
+
+921
+01:16:05,200 --> 01:16:07,000
+<font color="#F1c822">Aah!</font>
+
+922
+01:16:16,000 --> 01:16:18,200
+<font color="#F1c822">Melissa?</font>
+
+923
+01:16:19,200 --> 01:16:20,000
+<font color="#F1c822">No! No!</font>
+
+924
+01:16:20,000 --> 01:16:23,200
+<font color="#F1c822">No! Aah! Aah!</font>
+
+925
+01:16:23,200 --> 01:16:24,000
+<font color="#F1c822">No.</font>
+
+926
+01:16:24,000 --> 01:16:26,200
+<font color="#F1c822">Aah! Aah!</font>
+
+927
+01:16:26,200 --> 01:16:27,000
+<font color="#F1c822">What do you..</font>
+
+928
+01:16:27,000 --> 01:16:28,200
+<font color="#F1c822">Aah! Aah!</font>
+
+929
+01:16:28,200 --> 01:16:29,000
+<font color="#F1c822">No.</font>
+
+930
+01:16:31,000 --> 01:16:32,200
+<font color="#F1c822">Oh, God.</font>
+
+931
+01:16:34,200 --> 01:16:35,000
+<font color="#F1c822">Oh, God.</font>
+
+932
+01:16:37,000 --> 01:16:38,200
+<font color="#F1c822">Oh, God.</font>
+
+933
+01:16:39,200 --> 01:16:40,000
+<font color="#F1c822">Oh, God.</font>
+
+934
+01:16:40,000 --> 01:16:42,200
+<font color="#F1c822">What did you do?</font>
+
+935
+01:16:42,200 --> 01:16:44,000
+<font color="#F1c822">What did you do? What..</font>
+
+936
+01:17:43,000 --> 01:17:44,200
+<font color="#F1c822">Get away from my son.</font>
+
+937
+01:17:44,200 --> 01:17:46,000
+<font color="#F1c822">He's no longer your son.</font>
+
+938
+01:17:46,000 --> 01:17:48,200
+<font color="#F1c822">He’ll  be fine
+without you.</font>
+
+939
+01:17:49,200 --> 01:17:50,000
+<font color="#F1c822">Get away from my son.</font>
+
+940
+01:17:50,000 --> 01:17:52,200
+<font color="#F1c822">It's too late, Jack.</font>
+
+941
+01:17:52,200 --> 01:17:54,000
+<font color="#F1c822">Jack, it's too late.</font>
+
+942
+01:17:56,000 --> 01:17:57,200
+<font color="#F1c822">Who the fuck are you?</font>
+
+943
+01:17:57,200 --> 01:17:58,000
+<font color="#F1c822">Aah!</font>
+
+944
+01:17:59,000 --> 01:18:00,200
+<font color="#F1c822">Aah!</font>
+
+945
+01:18:00,200 --> 01:18:02,000
+<font color="#F1c822">Get back!
+Stay back!</font>
+
+946
+01:18:04,000 --> 01:18:05,200
+<font color="#F1c822">11:08</font>
+
+947
+01:18:05,200 --> 01:18:07,000
+<font color="#F1c822">Aah!</font>
+
+948
+01:18:07,000 --> 01:18:09,200
+<font color="#F1c822">Aah!</font>
+
+949
+01:18:17,200 --> 01:18:18,000
+<font color="#F1c822">Come on.</font>
+
+950
+01:19:45,000 --> 01:19:47,200
+<font color="#F1c822">I'll be good, daddy.</font>
+
+951
+01:20:00,200 --> 01:20:02,000
+<font color="#F1c822">Stay back! Get back!
+or I'll kill him.</font>
+
+952
+01:20:02,000 --> 01:20:03,200
+<font color="#F1c822">You gonna kill
+your own son, Jack?</font>
+
+953
+01:20:03,200 --> 01:20:05,000
+<font color="#F1c822">He's not my son anymore.</font>
+
+954
+01:20:07,000 --> 01:20:09,200
+<font color="#F1c822">He lies to evil.</font>
+
+955
+01:20:13,200 --> 01:20:25,000
+<font color="#F1c822">Aag!..</font>
+
+956
+01:21:05,000 --> 01:21:10,200
+<font color="#F1c822">No.. No..</font>
+
+957
+01:21:18,200 --> 01:21:20,000
+<font color="#F1c822">No..</font>
+
+958
+01:23:19,550 --> 01:23:20,000
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.com</font>
+
+959
+01:23:20,000 --> 01:23:20,550
+{\an1}<font face="Times New Roman" size="15">Translated By: Harfly Zone</font>
+{\an1}<font face="Times New Roman" size="15">http://harfly.blogspot.com</font>
+
+960
+01:23:20,550 --> 01:23:32,000
+{\an1}{\3c&FFFFFF&}<font face="Times New Roman" size="15" color="#006633">Translated By: Harfly Zone</font>
+{\an1}{\3c&336600&}<font face="Times New Roman" size="15" color="#FFFFFF">http://harfly.blogspot.com</font>
+
+961
+01:23:34,000 --> 01:23:50,550
+{\an9}{\3c&336600&}<font face="Times New Roman" size="15" color="#FFFFFF">♪ "Spesialis Penerjemah Film Horor." ♪</font>

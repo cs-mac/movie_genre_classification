@@ -1,0 +1,310 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title,Open Sans Semibold,33,&H005B4F4D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,53,47,0
+Style: Title2,Open Sans Semibold,30,&H005B4F4D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,53,53,24,0
+Style: Board,Open Sans Semibold,36,&H00DEF5EC,&H000000FF,&H002C4B33,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: Date,Open Sans Semibold,36,&H00132920,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: Classroom,Open Sans Semibold,36,&H00132920,&H000000FF,&H00DEF2E7,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,36,&H006F5844,&H000000FF,&H00F8F1E8,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,27,53,24,0
+Style: SignB,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00574085,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,53,24,0
+Style: SignC,Open Sans Semibold,36,&H00534734,&H000000FF,&H00F8E2C2,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,53,24,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:17.48,0:00:19.59,Default,KAORI,0000,0000,0000,,Sorry to call you out here.
+Dialogue: 0,0:00:19.93,0:00:20.93,Default,SHOGO,0000,0000,0000,,It's okay.
+Dialogue: 0,0:00:22.02,0:00:23.00,Default,KAORI,0000,0000,0000,,Um...
+Dialogue: 0,0:00:23.78,0:00:28.85,Default,KAORI,0000,0000,0000,,Did I do something to upset Hase-kun?
+Dialogue: 0,0:00:30.12,0:00:33.23,Default,KAORI,0000,0000,0000,,I don't understand why he's avoiding me.
+Dialogue: 0,0:00:36.48,0:00:39.44,Default,SHOGO,0000,0000,0000,,I think it'd be best if you heard it from him.
+Dialogue: 0,0:00:40.38,0:00:43.31,Default,KAORI,0000,0000,0000,,If I asked him, I don't think he'd tell me.
+Dialogue: 0,0:00:48.02,0:00:50.98,Default,SHOGO,0000,0000,0000,,Maybe he's afraid of being with you.
+Dialogue: 0,0:00:50.98,0:00:51.48,Default,KAORI,0000,0000,0000,,What?
+Dialogue: 0,0:00:51.76,0:00:54.81,Default,SHOGO,0000,0000,0000,,He's comparing himself to Kujo.
+Dialogue: 0,0:00:55.36,0:00:56.87,Default,KAORI,0000,0000,0000,,Kujo-kun?
+Dialogue: 0,0:00:57.60,0:01:00.45,Default,SHOGO,0000,0000,0000,,In elementary school, you \Nand Kujo were close, right?
+Dialogue: 0,0:01:01.49,0:01:03.08,Default,SHOGO,0000,0000,0000,,Like you and Hase are now.
+Dialogue: 0,0:01:04.06,0:01:06.41,Default,KAORI,0000,0000,0000,,But that's...
+Dialogue: 0,0:01:06.41,0:01:09.87,Default,SHOGO,0000,0000,0000,,I'm sure he doesn't expect the \Nsame thing to happen again...
+Dialogue: 0,0:01:10.63,0:01:15.42,Default,SHOGO,0000,0000,0000,,But there's no predicting what might \Nmake you lose your memories again.
+Dialogue: 0,0:01:16.77,0:01:21.12,Default,SHOGO,0000,0000,0000,,Wouldn't seeing you lose your memories again
+Dialogue: 0,0:01:21.12,0:01:22.90,Default,SHOGO,0000,0000,0000,,hurt him more than anything?
+Dialogue: 0,0:01:30.25,0:01:33.81,Default,KAORI,0000,0000,0000,,I had no idea how Hase-kun felt.
+Dialogue: 0,0:01:35.54,0:01:39.37,Default,KAORI,0000,0000,0000,,Even though I'm his friend.
+Dialogue: 0,0:01:41.67,0:01:42.99,Default,KAORI,0000,0000,0000,,Thank you.
+Dialogue: 0,0:01:50.53,0:01:54.47,Default,SHOGO,0000,0000,0000,,What are they supposed to do, seriously?
+Dialogue: 0,0:02:02.35,0:02:07.06,Title,EPTITLE,0000,0000,0000,,{\fad(731,1)}#12 \NI'd Like for Us \Nto Be Friends.
+Dialogue: 0,0:02:09.73,0:02:12.56,Board,,0000,0000,0000,,{\an7}December 19 \NFriday
+Dialogue: 0,0:02:17.61,0:02:19.45,Default,KAORI,0000,0000,0000,,Good morning, Hase-kun.
+Dialogue: 0,0:02:21.01,0:02:22.04,Default,HASE,0000,0000,0000,,Good morning.
+Dialogue: 0,0:02:24.87,0:02:26.70,Default,KAORI,0000,0000,0000,,Good morning, Kujo-kun.
+Dialogue: 0,0:02:27.06,0:02:28.71,Default,KUJO,0000,0000,0000,,Yeah... Morning.
+Dialogue: 0,0:02:29.83,0:02:31.18,Default,KAORI,0000,0000,0000,,Oh, right...
+Dialogue: 0,0:02:31.18,0:02:34.22,Default,,0000,0000,0000,,I need to give Maiko-chan \Nthe notes she asked for.
+Dialogue: 0,0:02:35.15,0:02:36.41,Default,HASE,0000,0000,0000,,Good morning.
+Dialogue: 0,0:02:36.41,0:02:38.67,Default,,0000,0000,0000,,Classic lit for first period is rough, huh?
+Dialogue: 0,0:02:39.72,0:02:40.75,Default,KUJO,0000,0000,0000,,Yeah...
+Dialogue: 0,0:02:41.72,0:02:46.14,Board,TEXT,0000,0000,0000,,Major Cleaning
+Dialogue: 0,0:02:42.21,0:02:44.43,Default,INOUE,0000,0000,0000,,Group representatives, come up here.
+Dialogue: 0,0:02:44.43,0:02:46.14,Default,INOUE,0000,0000,0000,,Time to decide where you'll clean.
+Dialogue: 0,0:02:47.29,0:02:49.60,Default,INOUE,0000,0000,0000,,You get one chance. No complaining.
+Dialogue: 0,0:02:55.32,0:02:56.26,Default,FRIEND,0000,0000,0000,,Sorry.
+Dialogue: 0,0:02:56.26,0:02:57.59,Default,SAKI,0000,0000,0000,,It's cold.
+Dialogue: 0,0:02:57.59,0:02:59.07,Default,FRIEND,0000,0000,0000,,I said I'm sorry!
+Dialogue: 0,0:02:59.56,0:03:02.42,Default,HASE,0000,0000,0000,,Well, complaining won't get it done any faster.
+Dialogue: 0,0:03:02.42,0:03:04.07,Default,HASE,0000,0000,0000,,Let's get this over with.
+Dialogue: 0,0:03:04.43,0:03:05.33,Default,SHOGO,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:05.33,0:03:07.11,Default,ALL,0000,0000,0000,,Okay.
+Dialogue: 0,0:03:10.53,0:03:13.93,Default,KUJO,0000,0000,0000,,When did I become part of your group?
+Dialogue: 0,0:03:13.93,0:03:15.46,Default,HASE,0000,0000,0000,,Does it matter?
+Dialogue: 0,0:03:15.46,0:03:17.06,Default,HASE,0000,0000,0000,,Your seat is near mine.
+Dialogue: 0,0:03:17.06,0:03:19.40,Default,KUJO,0000,0000,0000,,I don't particularly care either way...
+Dialogue: 0,0:03:20.70,0:03:23.89,Default,KUJO,0000,0000,0000,,Lately, you guys have been acting weird.
+Dialogue: 0,0:03:24.40,0:03:25.87,Default,HASE,0000,0000,0000,,Who?
+Dialogue: 0,0:03:25.87,0:03:28.22,Default,KUJO,0000,0000,0000,,Fujimiya Kaori and you.
+Dialogue: 0,0:03:29.06,0:03:30.60,Default,HASE,0000,0000,0000,,You think so?
+Dialogue: 0,0:03:30.60,0:03:32.68,Default,HASE,0000,0000,0000,,I don't think we're acting any differently.
+Dialogue: 0,0:03:33.83,0:03:35.34,Default,KUJO,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:03:35.34,0:03:36.88,Default,HASE,0000,0000,0000,,No, nothing.
+Dialogue: 0,0:03:42.26,0:03:43.32,Default,SHOGO,0000,0000,0000,,Wanna use this?
+Dialogue: 0,0:03:45.80,0:03:48.04,Default,SAKI,0000,0000,0000,,My bag's full of leaves...
+Dialogue: 0,0:03:48.04,0:03:50.09,Default,SAKI,0000,0000,0000,,I'm gonna throw it out.
+Dialogue: 0,0:03:59.09,0:04:01.42,Default,SHOGO,0000,0000,0000,,How's Fujimiya been lately?
+Dialogue: 0,0:04:02.41,0:04:03.67,Default,SAKI,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:04:04.13,0:04:06.33,Default,SHOGO,0000,0000,0000,,Has she been acting differently?
+Dialogue: 0,0:04:07.59,0:04:11.43,Default,SAKI,0000,0000,0000,,She seems happy, but she's forcing herself...
+Dialogue: 0,0:04:12.06,0:04:13.23,Default,SHOGO,0000,0000,0000,,I see.
+Dialogue: 0,0:04:13.23,0:04:14.84,Default,SHOGO,0000,0000,0000,,So is Hase.
+Dialogue: 0,0:04:15.46,0:04:17.53,Default,SAKI,0000,0000,0000,,What happened?
+Dialogue: 0,0:04:17.53,0:04:20.44,Default,,0000,0000,0000,,They used to be so close.
+Dialogue: 0,0:04:21.25,0:04:24.05,Default,SHOGO,0000,0000,0000,,I wouldn't say they're on bad terms now.
+Dialogue: 0,0:04:24.78,0:04:25.70,Default,SAKI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:26.79,0:04:30.20,Default,SHOGO,0000,0000,0000,,By the way, why are you avoiding me?
+Dialogue: 0,0:04:32.28,0:04:35.30,Default,SAKI,0000,0000,0000,,I'm n-not avoiding you...
+Dialogue: 0,0:04:35.30,0:04:37.10,Default,SHOGO,0000,0000,0000,,It's pretty obvious you are.
+Dialogue: 0,0:04:38.15,0:04:43.38,Default,SHOGO,0000,0000,0000,,If you don't like me, I can stop talking to you.
+Dialogue: 0,0:04:45.48,0:04:46.93,Default,SAKI,0000,0000,0000,,It isn't that...
+Dialogue: 0,0:04:48.30,0:04:51.41,Default,SAKI,0000,0000,0000,,If I didn't like you, I wouldn't be this worried!
+Dialogue: 0,0:04:52.28,0:04:56.20,Default,SAKI,0000,0000,0000,,When I said I wanted you to be my husband,
+Dialogue: 0,0:04:56.20,0:04:58.52,Default,SAKI,0000,0000,0000,,you seemed really angry...
+Dialogue: 0,0:04:59.15,0:05:02.65,Default,SAKI,0000,0000,0000,,You're the one who started acting weird first!
+Dialogue: 0,0:05:04.96,0:05:06.61,Default,SHOGO,0000,0000,0000,,Oh, that?
+Dialogue: 0,0:05:06.61,0:05:09.57,Default,SAKI,0000,0000,0000,,I couldn't talk to you anymore
+Dialogue: 0,0:05:09.57,0:05:13.51,Default,,0000,0000,0000,,because I didn't want you to hate me even more.
+Dialogue: 0,0:05:13.51,0:05:18.63,Default,SAKI,0000,0000,0000,,And I didn't want to hear you say you \Ndidn't want to talk to me, either!
+Dialogue: 0,0:05:21.69,0:05:23.08,Default,SHOGO,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:05:27.51,0:05:31.59,Default,SAKI,0000,0000,0000,,It's weird when you suddenly apologize...
+Dialogue: 0,0:05:32.01,0:05:34.39,Default,SHOGO,0000,0000,0000,,When I think it's my fault, I apologize.
+Dialogue: 0,0:05:35.11,0:05:39.79,Default,SHOGO,0000,0000,0000,,It isn't usually my fault, so I just don't \Nget many opportunities to apologize.
+Dialogue: 0,0:05:41.55,0:05:44.65,Default,SAKI,0000,0000,0000,,Oh... I see.
+Dialogue: 0,0:05:49.20,0:05:53.07,Default,SAKI,0000,0000,0000,,Then is it okay if I keep depending on you?
+Dialogue: 0,0:05:53.07,0:05:55.16,Default,SHOGO,0000,0000,0000,,You're determined to depend on me, aren't you?
+Dialogue: 0,0:05:56.52,0:05:58.03,Default,SHOGO,0000,0000,0000,,Fine with me.
+Dialogue: 0,0:05:58.58,0:06:00.25,Default,SHOGO,0000,0000,0000,,I won't baby you, though.
+Dialogue: 0,0:06:04.42,0:06:05.52,Default,SAKI,0000,0000,0000,,Roger!
+Dialogue: 0,0:06:13.84,0:06:16.52,Default,HASE,0000,0000,0000,,Yamagishi-san seems to have cheered up.
+Dialogue: 0,0:06:16.52,0:06:17.81,Default,HASE,0000,0000,0000,,I'm glad.
+Dialogue: 0,0:06:19.50,0:06:20.52,Default,SHOGO,0000,0000,0000,,And?
+Dialogue: 0,0:06:21.30,0:06:23.32,Default,,0000,0000,0000,,Are you okay with the way things are?
+Dialogue: 0,0:06:23.68,0:06:24.75,Default,HASE,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:06:26.11,0:06:30.42,Default,SHOGO,0000,0000,0000,,Everyone has noticed that you \Nand Fujimiya are acting strange.
+Dialogue: 0,0:06:31.27,0:06:34.80,Default,SHOGO,0000,0000,0000,,Well, it's not as though I don't \Nunderstand how you feel...
+Dialogue: 0,0:06:35.31,0:06:37.82,Default,HASE,0000,0000,0000,,I think things are probably fine.
+Dialogue: 0,0:06:38.85,0:06:41.49,Default,HASE,0000,0000,0000,,She's friends with Yamagishi-san \Nand the other girls.
+Dialogue: 0,0:06:42.00,0:06:45.13,Default,HASE,0000,0000,0000,,She can be her true self in class, too.
+Dialogue: 0,0:06:46.26,0:06:50.15,Default,HASE,0000,0000,0000,,In the future, I think she'll \Nkeep making more friends.
+Dialogue: 0,0:06:52.22,0:06:53.32,Default,SHOGO,0000,0000,0000,,Maybe.
+Dialogue: 0,0:06:53.83,0:06:55.90,Default,HASE,0000,0000,0000,,That makes me happy.
+Dialogue: 0,0:06:55.90,0:06:59.78,Default,,0000,0000,0000,,And I don't want Fujimiya-san to be sad anymore.
+Dialogue: 0,0:07:00.49,0:07:03.98,Default,HASE,0000,0000,0000,,Until now, she's only been sad.
+Dialogue: 0,0:07:05.24,0:07:08.11,Default,SHOGO,0000,0000,0000,,Don't you care about your own sadness?
+Dialogue: 0,0:07:08.48,0:07:10.04,Default,HASE,0000,0000,0000,,I told you...
+Dialogue: 0,0:07:11.31,0:07:13.51,Default,HASE,0000,0000,0000,,I'm not sad.
+Dialogue: 0,0:07:17.12,0:07:19.79,Board,TEXT,0000,0000,0000,,{\an7}December 24 \NWednesday
+Dialogue: 0,0:07:18.87,0:07:21.99,Default,FRIEND,0000,0000,0000,,Hey, winter break's coming up.
+Dialogue: 0,0:07:21.99,0:07:24.17,Default,FRIEND,0000,0000,0000,,Let's all go somewhere together.
+Dialogue: 0,0:07:24.71,0:07:26.81,Default,SAKI,0000,0000,0000,,Kaori-chan, where do you want to go?
+Dialogue: 0,0:07:26.81,0:07:32.06,Default,KAORI,0000,0000,0000,,A-Actually, I'm taking a trip with my family.
+Dialogue: 0,0:07:32.06,0:07:33.22,Default,ALL,0000,0000,0000,,What?
+Dialogue: 0,0:07:33.22,0:07:34.39,Default,SAKI,0000,0000,0000,,Really?
+Dialogue: 0,0:07:34.75,0:07:37.79,Default,KAORI,0000,0000,0000,,Yeah... My father likes traveling.
+Dialogue: 0,0:07:37.79,0:07:40.39,Default,KAORI,0000,0000,0000,,Oh, but you girls should have fun.
+Dialogue: 0,0:07:40.91,0:07:46.11,Default,HASE,0000,0000,0000,,I'm actually going on a trip with \Nmy family this year, also...
+Dialogue: 0,0:07:46.11,0:07:48.19,Default,SHOGO,0000,0000,0000,,Has your family always been like that?
+Dialogue: 0,0:07:48.19,0:07:50.86,Default,HASE,0000,0000,0000,,They said we should this year. \NIt was a last-minute thing.
+Dialogue: 0,0:07:50.86,0:07:52.17,Default,FRIEND,0000,0000,0000,,Really?
+Dialogue: 0,0:07:52.17,0:07:53.03,Default,FRIEND,0000,0000,0000,,Too bad.
+Dialogue: 0,0:07:53.03,0:07:54.93,Default,SAKI,0000,0000,0000,,That's no fun.
+Dialogue: 0,0:07:54.93,0:07:55.77,Default,FRIEND,0000,0000,0000,,Now, now...
+Dialogue: 0,0:07:55.77,0:07:57.03,Default,FRIEND,0000,0000,0000,,What should we do, then?
+Dialogue: 0,0:08:00.67,0:08:02.33,Default,KAORI,0000,0000,0000,,I'm home!
+Dialogue: 0,0:08:02.33,0:08:03.77,Default,SHIHO,0000,0000,0000,,Welcome home.
+Dialogue: 0,0:08:04.43,0:08:05.24,Default,KAORI,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:05.61,0:08:07.28,Default,KAORI,0000,0000,0000,,Already preparing New Year's dinner?
+Dialogue: 0,0:08:07.28,0:08:08.30,Default,SHIHO,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:08.63,0:08:12.21,Default,SHIHO,0000,0000,0000,,We get to spend a quiet \NNew Year's at home for once,
+Dialogue: 0,0:08:12.21,0:08:13.91,Default,SHIHO,0000,0000,0000,,so I'm starting now.
+Dialogue: 0,0:08:22.39,0:08:24.31,Default - italics,KAORI,0000,0000,0000,,This is fine for now, right?
+Dialogue: 0,0:08:26.78,0:08:28.05,Default,SHIHO,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:08:28.71,0:08:30.53,Default,KAORI,0000,0000,0000,,Nothing...
+Dialogue: 0,0:08:30.92,0:08:32.13,Default,KAORI,0000,0000,0000,,I'll help you.
+Dialogue: 0,0:08:43.07,0:08:45.00,Default - italics,NEWS,0000,0000,0000,,Today is New Year's Eve.
+Dialogue: 0,0:08:45.00,0:08:47.77,Default - italics,NEWS,0000,0000,0000,,Is everyone ready for the new year?
+Dialogue: 0,0:08:48.18,0:08:49.82,Default - italics,NEWS,0000,0000,0000,,Shoppers fill the streets today—
+Dialogue: 0,0:08:50.66,0:08:53.96,Default,HASE,0000,0000,0000,,Mom, when's lunch?
+Dialogue: 0,0:08:54.94,0:08:56.33,Default,HASE,0000,0000,0000,,Mom!
+Dialogue: 0,0:09:01.10,0:09:01.59,SignA,TEXT,0000,0000,0000,,1 New Message
+Dialogue: 0,0:09:01.59,0:09:04.44,SignA,TEXT,0000,0000,0000,,Received Message \N\N{\fs20}Mom \N(No Subject) \N\NI'm going to listen \Nto Beethoven's Ninth.
+Dialogue: 0,0:09:02.78,0:09:04.44,Default,HASE,0000,0000,0000,,I forgot.
+Dialogue: 0,0:09:05.39,0:09:07.78,Default,HASE,0000,0000,0000,,This happens every New Year's Eve...
+Dialogue: 0,0:09:11.89,0:09:13.11,Default,EMPLOYEE,0000,0000,0000,,Thank you!
+Dialogue: 0,0:09:21.58,0:09:23.31,Default,HASE,0000,0000,0000,,I guess I'll take a walk.
+Dialogue: 0,0:09:37.01,0:09:38.35,Default,HASE,0000,0000,0000,,It's cold...
+Dialogue: 0,0:09:40.24,0:09:41.66,Default,HASE,0000,0000,0000,,Guess I'll go home.
+Dialogue: 0,0:10:08.18,0:10:10.06,Default,HASE,0000,0000,0000,,What am I doing?
+Dialogue: 0,0:10:10.53,0:10:12.37,Default,HASE,0000,0000,0000,,I know she won't be here...
+Dialogue: 0,0:10:16.11,0:10:17.27,Default,KAORI,0000,0000,0000,,Hase-kun?
+Dialogue: 0,0:10:19.14,0:10:20.18,Default,HASE,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:20.92,0:10:23.94,Default,HASE,0000,0000,0000,,Fujimiya-san, what are you doing here?
+Dialogue: 0,0:10:23.94,0:10:25.68,Default,KAORI,0000,0000,0000,,What about you?
+Dialogue: 0,0:10:27.41,0:10:29.19,Default,KAORI,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:10:29.19,0:10:30.40,Default,KAORI,0000,0000,0000,,What about your trip?
+Dialogue: 0,0:10:30.40,0:10:31.73,Default,HASE,0000,0000,0000,,My trip?
+Dialogue: 0,0:10:32.63,0:10:35.90,Default,HASE,0000,0000,0000,,M-My trip was suddenly canceled...
+Dialogue: 0,0:10:35.90,0:10:37.27,Default,HASE,0000,0000,0000,,What about you?
+Dialogue: 0,0:10:38.19,0:10:42.05,Default,KAORI,0000,0000,0000,,M-My father had some work come up,
+Dialogue: 0,0:10:42.47,0:10:46.83,Default,,0000,0000,0000,,so we decided to stay at home this year...
+Dialogue: 0,0:10:47.26,0:10:48.84,Default,HASE,0000,0000,0000,,I see.
+Dialogue: 0,0:10:48.84,0:10:53.84,Default,HASE,0000,0000,0000,,But I never thought I'd really run into you here.
+Dialogue: 0,0:10:54.31,0:10:55.34,Default,KAORI,0000,0000,0000,,You, too?
+Dialogue: 0,0:10:55.34,0:10:56.26,Default,HASE,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:56.26,0:11:00.82,Default,KAORI,0000,0000,0000,,I'd decided today that if I went \Nfor a walk, I'd come here!
+Dialogue: 0,0:11:00.82,0:11:03.82,Default,KAORI,0000,0000,0000,,I thought I might run into you...
+Dialogue: 0,0:11:05.33,0:11:08.01,Default,KAORI,0000,0000,0000,,Sorry! Forget what I said...
+Dialogue: 0,0:11:08.01,0:11:11.87,Default,HASE,0000,0000,0000,,Ah, sure... It's fine.
+Dialogue: 0,0:11:17.08,0:11:18.36,Default,HASE,0000,0000,0000,,Fujimiya-san...
+Dialogue: 0,0:11:18.36,0:11:19.11,Default,KAORI,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:20.08,0:11:22.07,Default,HASE,0000,0000,0000,,Would you walk with me?
+Dialogue: 0,0:11:24.94,0:11:26.18,Default,KAORI,0000,0000,0000,,Okay.
+Dialogue: 0,0:11:27.52,0:11:31.59,Default,KAORI,0000,0000,0000,,This time last year, I didn't even imagine
+Dialogue: 0,0:11:31.59,0:11:33.86,Default,KAORI,0000,0000,0000,,I'd be walking with you like this.
+Dialogue: 0,0:11:33.86,0:11:36.59,Default,HASE,0000,0000,0000,,We were still in different classes.
+Dialogue: 0,0:11:37.27,0:11:39.61,Default,KAORI,0000,0000,0000,,It was May 12, right?
+Dialogue: 0,0:11:39.61,0:11:43.02,Default,,0000,0000,0000,,The first time you spoke to me.
+Dialogue: 0,0:11:43.90,0:11:45.42,Default,HASE,0000,0000,0000,,It was sudden.
+Dialogue: 0,0:11:45.42,0:11:47.10,Default,,0000,0000,0000,,You must've been surprised.
+Dialogue: 0,0:11:47.10,0:11:50.10,Default,KAORI,0000,0000,0000,,No... I'm sure I was happy.
+Dialogue: 0,0:11:50.90,0:11:52.28,Default,KAORI,0000,0000,0000,,I know that.
+Dialogue: 0,0:11:52.81,0:11:54.19,Default,HASE,0000,0000,0000,,Fujimiya-san...
+Dialogue: 0,0:11:54.85,0:11:59.62,Default,KAORI,0000,0000,0000,,But back then, I probably wasn't able \Nto tell you about my memories yet.
+Dialogue: 0,0:11:59.62,0:12:05.01,Default,KAORI,0000,0000,0000,,I was probably thinking being friends \Nwith me would inconvenience you.
+Dialogue: 0,0:12:06.87,0:12:10.57,Default,KAORI,0000,0000,0000,,If you hadn't insisted on being my friend anyway,
+Dialogue: 0,0:12:11.48,0:12:15.21,Default,,0000,0000,0000,,I'd probably still be alone now...
+Dialogue: 0,0:12:16.00,0:12:18.84,Default,KAORI,0000,0000,0000,,Thank you, Hase-kun.
+Dialogue: 0,0:12:19.44,0:12:20.88,Default,HASE,0000,0000,0000,,It's no big deal...
+Dialogue: 0,0:12:21.37,0:12:25.99,Default,HASE,0000,0000,0000,,I just wanted to be your friend.
+Dialogue: 0,0:12:25.99,0:12:28.39,Default,KAORI,0000,0000,0000,,So thank you!
+Dialogue: 0,0:12:32.39,0:12:35.40,SignB,TEXT,0000,0000,0000,,Blowout Sale
+Dialogue: 0,0:12:42.98,0:12:44.66,Default,HASE,0000,0000,0000,,Shall we head home?
+Dialogue: 0,0:12:44.66,0:12:45.24,Default,KAORI,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:51.98,0:12:52.84,Default,KAORI,0000,0000,0000,,Hase-kun.
+Dialogue: 0,0:12:52.84,0:12:54.40,Default,HASE,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:12:54.40,0:12:56.54,Default,KAORI,0000,0000,0000,,Would you like to get crêpes?
+Dialogue: 0,0:12:56.54,0:12:57.46,Default,HASE,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:57.87,0:12:59.36,Default,HASE,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:12:59.84,0:13:01.30,Default,,0000,0000,0000,,I don't mind...
+Dialogue: 0,0:13:02.47,0:13:03.86,Default,KAORI,0000,0000,0000,,All right!
+Dialogue: 0,0:13:05.57,0:13:07.24,Default,BOTH,0000,0000,0000,,Let's eat.
+Dialogue: 0,0:13:11.77,0:13:14.56,Default,HASE,0000,0000,0000,,This shop's crêpes are delicious!
+Dialogue: 0,0:13:14.56,0:13:15.30,Default,KAORI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:15.30,0:13:19.33,Default,HASE,0000,0000,0000,,We kept saying we'd go, \Nbut we never got to go together.
+Dialogue: 0,0:13:20.47,0:13:23.24,Default,KAORI,0000,0000,0000,,I wrote about it a lot in my diary, too.
+Dialogue: 0,0:13:23.24,0:13:24.69,Default,,0000,0000,0000,,I was curious about it...
+Dialogue: 0,0:13:26.25,0:13:29.13,Default,KAORI,0000,0000,0000,,But today is like a dream.
+Dialogue: 0,0:13:29.13,0:13:33.31,Default,KAORI,0000,0000,0000,,I got to see you, and we even had crêpes together.
+Dialogue: 0,0:13:33.31,0:13:34.25,Default,HASE,0000,0000,0000,,Fujimiya-san...
+Dialogue: 0,0:13:34.87,0:13:40.04,Default,KAORI,0000,0000,0000,,I worried you a lot, so I wanted \Nto have crêpes here together
+Dialogue: 0,0:13:40.04,0:13:42.50,Default,,0000,0000,0000,,to reassure you a little.
+Dialogue: 0,0:13:48.32,0:13:49.46,Default,KAORI,0000,0000,0000,,Hase-kun?
+Dialogue: 0,0:13:49.46,0:13:51.64,Default,HASE,0000,0000,0000,,That was so good, I think I'll get another!
+Dialogue: 0,0:13:56.61,0:14:01.16,Default,KAORI,0000,0000,0000,,Thanks for coming all the \Nway here with me today.
+Dialogue: 0,0:14:01.55,0:14:02.40,Default,HASE,0000,0000,0000,,It's okay...
+Dialogue: 0,0:14:03.77,0:14:05.61,Default,KAORI,0000,0000,0000,,See you later.
+Dialogue: 0,0:14:06.52,0:14:07.46,Default,HASE,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:10.64,0:14:13.27,Default,HASE,0000,0000,0000,,Fujimiya-san, you can go ahead...
+Dialogue: 0,0:14:13.27,0:14:15.44,Default,KAORI,0000,0000,0000,,No, you go on.
+Dialogue: 0,0:14:22.27,0:14:23.53,Default,KAORI,0000,0000,0000,,Hase-kun?
+Dialogue: 0,0:14:24.34,0:14:26.76,Default,HASE,0000,0000,0000,,I'll walk you closer to your house.
+Dialogue: 0,0:14:55.41,0:14:58.33,Default,HASE,0000,0000,0000,,I didn't know there was a shrine here...
+Dialogue: 0,0:14:58.33,0:15:02.46,Default,KAORI,0000,0000,0000,,In elementary school, I'd pray here \Non my way to and from school.
+Dialogue: 0,0:15:02.46,0:15:04.32,Default,HASE,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:15:04.32,0:15:05.30,Default,KAORI,0000,0000,0000,,I know.
+Dialogue: 0,0:15:05.69,0:15:08.63,Default,KAORI,0000,0000,0000,,It's early, but let's make our \Nfirst shrine visit of the year.
+Dialogue: 0,0:15:10.17,0:15:11.30,Default,HASE,0000,0000,0000,,Okay.
+Dialogue: 0,0:15:35.81,0:15:37.69,Default,HASE,0000,0000,0000,,What's wrong, Fujimiya-san?
+Dialogue: 0,0:15:37.69,0:15:38.66,Default,HASE,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:15:39.42,0:15:42.71,Default,KAORI,0000,0000,0000,,I don't want to forget today...
+Dialogue: 0,0:15:44.26,0:15:45.87,Default,KAORI,0000,0000,0000,,I want to remember
+Dialogue: 0,0:15:45.87,0:15:49.65,Default,KAORI,0000,0000,0000,,all of the time we spent together today.
+Dialogue: 0,0:15:50.83,0:15:53.68,Default,KAORI,0000,0000,0000,,Even the smallest details...
+Dialogue: 0,0:15:55.42,0:16:00.24,Default,KAORI,0000,0000,0000,,But even more, I'd hate not being your friend!
+Dialogue: 0,0:16:00.24,0:16:02.29,Default,KAORI,0000,0000,0000,,If that day comes,
+Dialogue: 0,0:16:02.29,0:16:05.77,Default,KAORI,0000,0000,0000,,even if I'm able to remember you,
+Dialogue: 0,0:16:06.25,0:16:09.19,Default,,0000,0000,0000,,I won't be happy...
+Dialogue: 0,0:16:10.19,0:16:11.70,Default,HASE,0000,0000,0000,,Fujimiya-san...
+Dialogue: 0,0:16:11.70,0:16:15.04,Default,KAORI,0000,0000,0000,,I want to talk like we used to!
+Dialogue: 0,0:16:15.04,0:16:18.45,Default,KAORI,0000,0000,0000,,I want to see you, and talk like we did today...
+Dialogue: 0,0:16:18.45,0:16:22.39,Default,KAORI,0000,0000,0000,,I want to be closer friends with you!
+Dialogue: 0,0:16:24.09,0:16:25.75,Default,KAORI,0000,0000,0000,,But I...
+Dialogue: 0,0:16:26.96,0:16:29.67,Default,KAORI,0000,0000,0000,,I don't know what to do anymore!
+Dialogue: 0,0:16:48.98,0:16:50.61,Default,HASE,0000,0000,0000,,I'm an idiot!
+Dialogue: 0,0:16:50.61,0:16:54.64,Default,HASE,0000,0000,0000,,I didn't want to see you cry anymore...
+Dialogue: 0,0:16:54.64,0:16:56.15,Default,HASE,0000,0000,0000,,What am I doing?!
+Dialogue: 0,0:16:56.15,0:16:57.53,Default,HASE,0000,0000,0000,,Stupid, stupid, stupid, stupid!
+Dialogue: 0,0:17:01.79,0:17:03.93,Default,HASE,0000,0000,0000,,I'm sorry, Fujimiya-san...
+Dialogue: 0,0:17:03.93,0:17:06.75,Default,HASE,0000,0000,0000,,I forgot the most important thing!
+Dialogue: 0,0:17:07.74,0:17:09.09,Default,KAORI,0000,0000,0000,,Hase-kun?
+Dialogue: 0,0:17:09.31,0:17:14.05,Default,HASE,0000,0000,0000,,I want to talk to you even more, too!
+Dialogue: 0,0:17:14.05,0:17:16.81,Default,HASE,0000,0000,0000,,I want to spend even more time with you!
+Dialogue: 0,0:17:16.81,0:17:23.39,Default,HASE,0000,0000,0000,,I want to be even closer friends with you!
+Dialogue: 0,0:17:32.77,0:17:37.28,Default,KAORI,0000,0000,0000,,Your smile really puts me at ease.
+Dialogue: 0,0:17:43.75,0:17:45.25,Default,SHIHO,0000,0000,0000,,Kaori!
+Dialogue: 0,0:17:46.33,0:17:52.19,Default,SHIHO,0000,0000,0000,,Kaori, you should have told me \Nyou were with Hase-kun...
+Dialogue: 0,0:17:52.19,0:17:53.37,Default,KAORI,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:17:53.37,0:17:54.51,Default,HASE,0000,0000,0000,,Hello.
+Dialogue: 0,0:17:54.51,0:17:58.90,Default,SHIHO,0000,0000,0000,,You didn't come home, so your \Nfather said he'd call the police.
+Dialogue: 0,0:17:58.90,0:17:59.68,Default,BOTH,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:59.68,0:18:04.16,Default,SHIHO,0000,0000,0000,,If he saw you two here now, \Nwe'd be calling an ambulance instead.
+Dialogue: 0,0:18:04.16,0:18:06.52,Default,HASE,0000,0000,0000,,Ah, I'll go home immediately!
+Dialogue: 0,0:18:07.40,0:18:08.27,Default,KAORI,0000,0000,0000,,Hase-kun!
+Dialogue: 0,0:18:08.74,0:18:09.52,Default,HASE,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:09.52,0:18:12.31,Default,KAORI,0000,0000,0000,,I look forward to next year.
+Dialogue: 0,0:18:13.80,0:18:15.02,Default,HASE,0000,0000,0000,,Same here.
+Dialogue: 0,0:18:41.38,0:18:43.54,Default - italics,HASE,0000,0000,0000,,There are things I don't want to forget...
+Dialogue: 0,0:18:44.54,0:18:46.60,Default - italics,HASE,0000,0000,0000,,Memories of time spent with friends.
+Dialogue: 0,0:18:47.74,0:18:49.83,Default - italics,HASE,0000,0000,0000,,Memories of time spent with her alone.
+Dialogue: 0,0:18:51.55,0:18:53.48,Default - italics,HASE,0000,0000,0000,,Memories are important.
+Dialogue: 0,0:18:53.48,0:18:56.56,Default - italics,HASE,0000,0000,0000,,But there's something even more important...
+Dialogue: 0,0:18:56.99,0:19:00.86,Default - italics,HASE,0000,0000,0000,,That's to continue making memories.
+Dialogue: 0,0:19:01.86,0:19:04.00,Default - italics,HASE,0000,0000,0000,,That's why we'll repeat it...
+Dialogue: 0,0:19:04.84,0:19:05.87,Default - italics,,0000,0000,0000,,Again...
+Dialogue: 0,0:19:06.81,0:19:07.96,Default - italics,,0000,0000,0000,,And again.
+Dialogue: 0,0:19:09.79,0:19:11.08,Default,HASE,0000,0000,0000,,Fujimiya-san...
+Dialogue: 0,0:19:16.44,0:19:17.43,Default,HASE,0000,0000,0000,,I...
+Dialogue: 0,0:19:18.77,0:19:19.99,Default,KAORI,0000,0000,0000,,I...
+Dialogue: 0,0:19:25.40,0:19:27.27,Default,BOTH,0000,0000,0000,,I'd like for us to be friends!
+Dialogue: 0,0:23:14.18,0:23:17.50,Default,HASE,0000,0000,0000,,I wonder what Fujimiya-san writes about.
+Dialogue: 0,0:23:18.25,0:23:26.92,SignC,TEXT,0000,0000,0000,,Diary

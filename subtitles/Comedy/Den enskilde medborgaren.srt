@@ -1,0 +1,867 @@
+{40}{160}
+{1}{1}25.000
+{908}{1037}Friedrich, time for a break !
+{1162}{1415}- Friedrich, here's your day loan.|- Thank you.
+{1417}{1481}Friedrich, watch where you're going !
+{1528}{1680}Berlin Wedding, Late Summer 1942
+{2270}{2358}- I'm sorry I'm late.|- Yes, I see that. What's up?
+{2359}{2397}I had to work.
+{2398}{2466}This fight is very important|for us, understand?
+{2470}{2509}Is that them?
+{2532}{2566}Yes.
+{2570}{2661}Students from Napola,|our new elite.
+{2662}{2794}They may look nerdy. But don't worry,|they aren't any different than you.
+{2945}{3061}Alright, you made it. But|don't get too excited about it.
+{3121}{3209}What's up, punk?|Want a punch in the mug?
+{3223}{3287}You won't be any uglier|than now, anyway.
+{3303}{3346}And you?
+{3356}{3415}Did you say something?
+{3430}{3477}I don't hear anything...
+{3522}{3575}What's going on here?
+{3722}{3775}Is everything okay?
+{3872}{3912}Next !
+{3916}{3956}Good job !
+{3963}{4022}Nicely done, you'll make it.
+{4026}{4087}And don't forget to cover !
+{4329}{4369}Box !
+{5058}{5106}Attack him !
+{5134}{5186}Now ! Catch him !
+{5208}{5294}And nail him !|Bring it on ! Hit him !
+{5702}{5741}Hold still...
+{5763}{5820}Great fight.
+{5824}{5915}You fought well,|Congratulations.
+{5941}{5994}Heil Hitler !
+{6041}{6143}I saw your fight,|I like your style.
+{6165}{6287}- What school are you from?|- None, I just graduated.
+{6288}{6371}Did you hear about|the Fuhrer's schools?
+{6372}{6445}Hitler's educational|outposts?
+{6446}{6589}I teach Boxing and German at such a|school, at the Napola, in Allenstein.
+{6590}{6661}We're currently|accepting applications.
+{6662}{6804}If you report there tomorrow|morning, I may be able to help you.
+{6805}{6855}What's your name?
+{6859}{6911}Friedrich Weimer.
+{6915}{6970}I'm Heinrich Vogler.
+{6984}{7043}You've got talent, Friedrich.
+{7193}{7258}Man, they're the "Elite"!
+{7262}{7298}- Really?|- Sure !
+{7302}{7358}They only accept the best.
+{8642}{8708}-Heil Hitler, Friedrich.|-Heil Hitler.
+{8709}{8758}It's good of you to come.
+{8765}{8881}First we have to conduct some medical|procedures, then, it's the dexterity exam.
+{8882}{8914}Understood?
+{8915}{8968}Good.|Then get in queue.
+{9210}{9251}Thirteen.
+{9388}{9435}Ten.
+{9746}{9794}Eye color?
+{9846}{9889}15.
+{9933}{9981}Hair color?
+{10055}{10090}B.
+{10094}{10181}Why did you choose this|school, youngster?
+{10182}{10301}Because I want to serve the Fuhrer,|my country, and my motherland.
+{10302}{10398}Nordic type,|class 1-B.
+{11251}{11308}Where have you been?
+{11309}{11404}- Boxing.|- At this late hour?
+{11490}{11532}No, I...
+{11563}{11656}I was applying to|the Napola school.
+{11697}{11779}What did u say?
+{11940}{12022}-You won't go there.|-But, papa...
+{12023}{12151}It's a big chance for me, I|can become whomever I want...
+{12152}{12179}Under no circumstance !
+{12180}{12264}It's already too much, what|Hitlerjugend does to you all.
+{12265}{12312}You're not going to any elite school. 
+{12313}{12380}You're going to work in a factory !|End of discussion !
+{12381}{12486}Why not? I'll get a secondary|school certificate there.
+{12487}{12569}And you wouldn't have to pay...
+{12569}{12609}Do as I say.
+{12610}{12694}We've got nothing in common|with those people, understood?
+{12715}{12776}Yes, father.
+{12949}{13104}Why did dad get mad?
+{13105}{13164}He won't let me go to that school.
+{13165}{13237}What school?
+{13238}{13309}A special one.
+{13310}{13410}It's located in a castle,|they've got everything there,
+{13411}{13542}showers, boxing hall,|not to mention the gliders.
+{13543}{13674}After you graduate from|there, you become the elite,
+{13675}{13749}and don't have to worry|about money anymore.
+{13750}{13823}And dad doesn't want|to let you go there?
+{13824}{13872}It sounds really great !
+{14077}{14200}You feel dirtier leaving this,|than when you enter it.
+{14201}{14256}Same difference.
+{14257}{14404}You'll report first to Kindler,|then you'll start working in a month.
+{14405}{14487}In one month?
+{14488}{14627}So that you won't have any|time for stupid thoughts.
+{15206}{15288}Well, are you happy?
+{15289}{15369}I'd rather stay here.
+{15372}{15459}That's so stupid.
+{15460}{15545}It'll be great.
+{15546}{15639}Such a kindergarten is|just like a summer camp.
+{15640}{15842}You won't have to sit in a bunker all day,|and all your friends will be there too.
+{15990}{16142}Hey...Is this the way for a|young German to behave?
+{18812}{18922}Dear mother,|Don't be angry at me.
+{18923}{19054}But I believe that this is the|chance of my lifetime. Your Friedrich.
+{19065}{19254}Dear father, I forged your|signature on the permission.
+{19255}{19377}If you pull me out of Napola,|I'll report all of
+{19377}{19517}the bad things that you've|been saying about it.
+{19700}{19845}Wake up, young man. We've|reached our destination.
+{19869}{19927}Could you drop me|off right here?
+{19928}{19965}Yes, sure I can.
+{19988}{20106}- Thanks so much.|- You're very welcome.
+{21096}{21150}But mom, I've already...
+{21154}{21225}But Dad's just|butchered a pig...
+{21466}{21571}No food?|Brought enough?
+{21636}{21733}Stand still. Hug your|brother and smile.
+{21740}{21807}What a beautiful Summer,|Mr. Von Brock.
+{21808}{21873}- lndeed.|- Madam...
+{21954}{22004}Friedrich.  Heil Hitler !
+{22008}{22087}Good to see you. See? Your|dad finally let you come.
+{22088}{22164}Not really,|but I came anyway.
+{22212}{22322}Ah...|But, who signed your permission?
+{22324}{22384}I did.
+{22409}{22482}Well, at least you admit doing it.
+{22483}{22624}A real sportsman|always tells the truth.
+{22631}{22755}Well, that's exactly|what you're going to
+{22755}{22884}learn here. Come,|we'll get you your uniform.
+{22934}{23071}- One clothing set,|in the right size, please. - Yes, sir !
+{23072}{23167}We rarely admit|people of your age,
+{23168}{23318}but you caught my eye.|I hope you can appreciate it.
+{23328}{23379}Ah, Schneider, come here !
+{23380}{23460}This is Friedrich Weimer,|he's new here... for your room.
+{23461}{23545}Show him everything and|introduce him to friends.
+{23546}{23576}Yes, sir !
+{23620}{23702}I'm Christoph,|welcome to Allenstein.
+{23703}{23735}Thanks.
+{23736}{23870}Good, I'll show you the room first, then|you can change your clothes. -Uh huh.
+{23883}{23995}Hey Hubscher, now WE've|got an Aryan too !
+{24056}{24115}So, this is it !
+{24239}{24337}So, this is your bed,|and that's your locker.
+{24368}{24471}Track suit, denim-- bottom left,|sewing kit, clothes brush-- to the left.
+{24472}{24515}top right--|private things.
+{24516}{24618}Your cap's not supposed to lay,|but stand, on the brown shirt.
+{24619}{24664}On the bottom--|towel, handkerchiefs.
+{24665}{24773}Suitcase on top,|toiletries-- on the door hook.
+{24774}{24875}Ok, keep your things 'straightened', or|the orderly will throw everything out.
+{24876}{24967}You'll understand the rest. Oh,|and you're going to buy dessert.
+{24968}{25000}What??
+{25001}{25094}Never mind.|The first time doesn't count.
+{25095}{25194}Boys, the assembly|is in 15 minutes !
+{25195}{25293}Good, get changed,|then, come downstairs.
+{27044}{27097}Friedrich ! Friedrich !
+{27098}{27144}Over here !
+{27179}{27251}Have a seat.
+{27566}{27632}Be seated.
+{27729}{27766}Young men !
+{27787}{27830}Students !
+{27834}{27958}I'd like to warmly welcome you to|our school in the new year of 1942.
+{27959}{28081}I'd like to inform all new students|that they have come to the place,
+{28082}{28188}where their future|will be shaped.
+{28189}{28323}A farmer's son and an industrialist's|one are equals in this school.
+{28324}{28458}Namely, you'll be the future elite|of a one thousand year old reich.
+{28459}{28530}Men may create history,
+{28531}{28601}but, WE|make the men.
+{28602}{28771}To my uncut diamonds, we will keep|splitting and polishing you for as long
+{28772}{28893}as it takes, until a shiny,|precious jewel emerges.
+{28894}{28970}And when the final victory arrives,
+{28971}{29050}we will need many new|regional party leaders.
+{29051}{29131}And I don't mean just|for just Cartnen
+{29131}{29230}or Mecklemburg, but posts|for Washington, Moscow,
+{29231}{29307}London, or even Cape Town.
+{29308}{29400}Make good use of your time here.
+{29401}{29554}Sharpen your body and mind.|And be faithful, loyal companions.
+{29555}{29649}We would like to say 3|times, a loud Sieg Heil...
+{29650}{29763}to our brave soldiers|fighting on the frontlines of
+{29763}{29872}the Reich and for our|beloved leader Adolf Hitler !
+{30863}{30952}Listen, guys,|this is Friedrich Weimer.
+{30953}{31042}He's new to the school|and to our room.
+{31043}{31081}- Hi.|- Bon Appetit.
+{31082}{31144}That's our Wilhelm,|we call him Hefe.
+{31145}{31196}His father is head of catering.
+{31197}{31279}- and that's why this minced meat|passed inspection. - Don't listen to him.
+{31280}{31361}You still didn't tell me what you|wanted in return for your notebooks.
+{31362}{31428}Yeah, 300 grams|of fine liverwurst.
+{31429}{31491}- 300 grams? You must be joking ?!?|- No.
+{31492}{31629}But as an extra reward I'll give|you a glimpse of the photo, huh?
+{31630}{31650}This is Tjaden.
+{31651}{31735}He's the room champion|for the longest fart. -Hi.
+{31736}{31808}The current record|is 8,5 seconds.
+{31809}{31880}What's with this|whole 'photo' thing?
+{31881}{31983}-Of my 3 sisters, all sweaty from dancing.|-What?
+{31984}{32083}- My best source of income.|- I also trade socks for 2 marks.
+{32084}{32182}- Does anybody buy this?|- You haven't met my sisters yet.
+{32183}{32246}The one in the back|is Siggi...
+{32247}{32310}Watch out !|Jaucher's coming !
+{32311}{32337}Quick !
+{32365}{32408}Friedrich, line up !
+{32522}{32550}Attention !
+{32687}{32777}- Is this our new recruit?|- Yes, sir.
+{32978}{33006}Name??
+{33013}{33055}Weimer, Friedrich.
+{33056}{33144}I see, so YOU'RE the one ?!
+{33145}{33243}You're quite famous,|for a new student.
+{33244}{33319}Then you've got|to be pretty good.
+{33651}{33725}Whose mess is this?
+{33846}{33940}Move it, clean it up.
+{33946}{34004}Stop sleeping !
+{34005}{34085}Twenty push-ups, now !
+{34086}{34165}One, two, three, four...
+{34281}{34327}What's going on here?
+{34328}{34380}Locker control.
+{34389}{34433}Get up.
+{34455}{34555}Enough.|The boy is new.
+{34556}{34644}Yes, sir.
+{34744}{34787}Fall out.
+{34944}{35076}You've just made your first enemy.
+{35310}{35391}- Christoph?|- What?
+{35392}{35546}- I just wanted to ask...|-It's forbidden to talk during 'lights out'.
+{36506}{36707}[ Albrecht's Nocturnal Arrival ]
+{37237}{37375}Get up ! Make the beds up !|Morning gymnastics !
+{37606}{37716}Faster, Friedrich.
+{37955}{37980}Thanks.
+{37990}{38149}Sure, no problem. I learned|this at my previous school.
+{38150}{38241}-I'm Friedrich.|- Albrecht.
+{38242}{38281}Can't it go any faster?
+{38282}{38402}This snail's pace of yours is|really beginning to bug me...
+{38403}{38486}Move it to the assembly square !
+{38748}{38850}Move your asses, don't be such sand bags !
+{38851}{38906}I'll teach you a lesson !
+{38907}{39000}You'll see the smoke coming|out of your asses !
+{39022}{39058}Get in line !
+{39059}{39105}Faster !
+{39106}{39148}Now on the ground !
+{39149}{39203}Push-ups !
+{39204}{39258}One, two !
+{39335}{39402}Schulze, straight shoulders !
+{39403}{39468}Kruger, lower to the ground !
+{39516}{39657}Siegfried Gladen has|pissed his pants again.
+{39658}{39738}Attention !
+{39739}{39853}Student Gladen,|three steps forward !
+{39940}{40045}Go and get your mattress.
+{40378}{40480}Take off your trousers.
+{40481}{40660}- What? - You're to take off|your trousers, for God's sake !
+{40725}{40834}Now start peeing.
+{40876}{40957}C'mon, faster !!!
+{40986}{41044}As you wish...
+{41045}{41215}We'll bow, lie down, and jump !
+{41216}{41289}Starting from now !
+{41290}{41363}One, two, three.
+{41449}{41631}Keep on jumping 'til this young|man finally decides to pee.
+{42109}{42249}Alright, everybody stand up !
+{42275}{42353}Thank him.
+{42354}{42597}Take that mattress and get the|hell out my sight ! Fucking pisser !
+{42636}{42753}The one who doesn't know how|to fight in this world of immortal war
+{42754}{42817}is not worth life.
+{42818}{42869}Bon appetit.
+{42870}{42919}Young men !
+{42920}{43075}I'd like to welcome a son of a great man,|of a good and personal friend of mine,
+{43076}{43179}and a party birth time companion.|With great pleasure:
+{43180}{43257}Albrecht Stein,
+{43258}{43326}son of our regional party|leader: Heinrich Stein.
+{43327}{43422}-A very hearty welcome !|-Welcome !
+{43509}{43570}Welcome Albrecht.
+{43571}{43745}You're lucky, you were|given the best room.
+{43849}{43881}Who's that?
+{43882}{43928}That's Katharina.
+{43929}{44044}- But she's already engaged in case|you wanted to know. - Who said that?
+{44045}{44089}I did, you pig.
+{44331}{44418}...something that Darwin|called species' evolution
+{44419}{44525}can also be applied to "nation's|struggle for life" theory.
+{44526}{44607}Today we'll cover the topic
+{44608}{44676}"Roman writers and the Jew problem."
+{44677}{44734}What means does Fuhrer...
+{44735}{44808}...use to lead the party to victory?
+{44809}{44963}Extermination of the weaker|guarantees survival of the stronger,
+{44964}{45020}just like in the animal world.
+{45021}{45068}Which Martin Luther|quotation fits here?
+{45069}{45114}...and don't you even|dare to doubt...
+{45115}{45215}...that, excluding the Devil,|he's the most furious
+{45216}{45296}stubborn enemy of yours.
+{45297}{45405}A real Jew will always be a Jew.
+{45639}{45764}A modern bomber|carries 1800 bombs.
+{45765}{45890}What area will he be able|to drop the bombs on
+{45891}{46004}if he drops 1 bomb per second...
+{46005}{46103}with the speed of 250|kilometers per hour?
+{46918}{46972}What is it?
+{46973}{47193}Preacher brought the names of|all the men killed on the front...
+{48902}{48987}Are we here alone?
+{48988}{49041}Yes.
+{49162}{49236}Shall we begin?
+{49317}{49369}Concentrate.
+{49443}{49481}Harder !
+{49482}{49603}C'mon.  More force !|Don't sleep !
+{49604}{49659}Put your guard up !
+{49660}{49713}You're to take him out !
+{49714}{49767}Get your fists up !
+{49768}{49821}Your fists up !
+{49822}{49865}Move it !
+{49866}{49965}You've got the strength and the skills, but|you still have to work on your technique.
+{49966}{50025}Don't punch if you lack balance.
+{50026}{50107}Use front hits only if you|feel you've got the advantage.
+{50108}{50167}Of course, be as strong|as you can, understand?
+{50168}{50292}At such moments you've got to|completely forget about being 'humane'.
+{50293}{50351}This whole compassion|thing is just bullshit.
+{50352}{50478}Only by doing so, will you|use your whole potential,
+{50479}{50549}and be ready for bigger fights.
+{50550}{50624}What big fights?
+{50635}{50732}Come with me.
+{50792}{50884}Here: the glory years of our boxers.
+{50885}{50988}Frenz Jensen in 1937|at Napola's championships.
+{50989}{51092}We were the best of all|the schools in the country.
+{51093}{51120}And after that?
+{51121}{51249}Well, since then, Potsdam|took over the cup.
+{51250}{51303}When are the next Championships|going to take place?
+{51304}{51333}In the winter.
+{51334}{51419}If you train hard enough|you might take part in it.
+{51420}{51469}Really?
+{51470}{51583}Yes, who knows?
+{51584}{51693}So, get under the shower.
+{52341}{52450}Without mercy.
+{52451}{52603}It's the only way he'll learn.
+{52784}{52885}- Were you hit in the nose?|- Hehe, you're all sweaty !
+{52886}{52922}Mail !
+{52946}{52997}Hey, that's mine.
+{53113}{53166}Friedrich,|a package for you.
+{53167}{53219}The bathing photo !
+{53220}{53317}- Yeah. - Look here, I was|supposed to get ALL of them !
+{53318}{53380}You were just supposed|to have a look. Let's see.
+{53381}{53554}- Want a glimpse? - Hey, why is he|allowed to look without paying?
+{53569}{53632}Because you moan and|groan too much, Hefe.
+{53647}{53709}Hey, you can't do that !
+{53710}{53763}Just a little while...
+{53764}{53817}C'mon, Christoph, please !
+{54035}{54105}Dear Friedrich,|I hope that you are well.
+{54106}{54217}I don't know if you know, but Dad was|visited by the Gestapo in the factory,
+{54218}{54292}and now he must|work double-shifts.
+{54293}{54366}Don't tell him that|I wrote to you.
+{54367}{54426}Always be careful and brave.
+{54427}{54506}Hans, under the circumstances|is doing well.
+{54507}{54663}I miss you both very much. Looking|forward to hearing from you. Your mother.
+{54707}{54750}Oh, yuck, you human pig !
+{54751}{54886}Everybody, just take a deep|breath together, and it'll be over.
+{55090}{55137}Yes?
+{55155}{55246}Did you finish cleaning up?
+{55298}{55449}- Do you head the school newspaper?|- I'm going to, starting from next issue.
+{55450}{55500}Do you like to write?
+{55501}{55582}Actually I do.
+{55732}{55821}What do you have there?
+{55822}{55895}My essays from my old school.
+{55896}{55992}They've just been|sent back to me.
+{55993}{56042}And?
+{56043}{56119}Take a look yourself.
+{56232}{56291}Give it back!
+{56355}{56437}I'll put back the pages|that have fallen out.
+{56438}{56535}See? there's nearly none left.
+{56554}{56635}Now they're all here.
+{56767}{56863}My mom always says that|everything I write is wonderful,
+{56864}{56959}but she's never actually|read anything till the end.
+{56960}{57024}If I were you I'd be happy.
+{57025}{57097}It's like winning a battle|without having to fight.
+{57098}{57145}No,
+{57146}{57374}it's like being given a medal because|of their not wanting to see you fight.
+{57424}{57472}Give it to me.
+{57473}{57519}What do you need it for?
+{57520}{57607}- I want to read it.|- You want to read a school essay?
+{57608}{57646}Sure.
+{57647}{57716}Are you afraid of my opinion?
+{57717}{57778}No.
+{57779}{57838}So?
+{57839}{57864}Friedrich.
+{57906}{58018}Um..would you like to|see "something" ?
+{58224}{58297}- When did you discover this?|- Today.  This afternoon.
+{58298}{58342}Do you really want|to take a look?
+{58343}{58421}Yes, you'll help me up|and then I'll look.
+{58422}{58460}Why should you be the first?
+{58461}{58542}Because I found it. Besides I've|got to check if the coast is clear.
+{58543}{58628}- You'll be a back guard.|-  But, I'd rather be a front guard.
+{58629}{58668}Friedrich, please !
+{58669}{58806}Okay, but only because|you discovered it.
+{58950}{59032}And?|Do you see anything?
+{59033}{59114}No, there's no one here.
+{59246}{59293}Let me look.
+{59294}{59345}There's nobody here.
+{59367}{59406}What are you doing?
+{59407}{59525}- It's MY turn.|-I've already said: there's no one there.
+{59526}{59619}Doesn't matter !
+{59863}{59929}And?|See anything?
+{59930}{60134}Nothing. Nobody. Just like you said.
+{60170}{60214}Shit !
+{60604}{60638}Friedrich?
+{60639}{60663}Yes?
+{60699}{60835}How did you know she was there?
+{60836}{60971}You held your breath for a moment.
+{61095}{61120}Ready?
+{61124}{61149}Ready.
+{61261}{61287}Tug it!
+{61345}{61391}Pull it!
+{61516}{61561}Pull it, faster!
+{62821}{62911}Goddamn it,|you're supposed to jump higher !
+{62912}{62979}What a bunch of clumsy assholes !
+{62980}{63046}Silence, let your sobbing be heard.
+{63047}{63110}Follow me,
+{63111}{63170}sightly virgin Freyn.
+{63261}{63372}"Gods have you been|foiling, noble knight,
+{63373}{63483}but I'm afraid that|dragon will you not bite."
+{63484}{63639}Na,na, that is German poetry for|you, gentlemen. Carry on.
+{64117}{64171}Oh! I'm sorry !
+{64172}{64287}No, never apologize !|No one says: I'm sorry ! Come !
+{64417}{64460}And?
+{64509}{64580}Well, it's ok.
+{64581}{64629}Just ok???
+{64630}{64753}It is good.|REALLY good !
+{65004}{65050}Remember what I said:
+{65051}{65116}Fight until he's out cold.
+{65117}{65179}Only one of you can win.
+{65180}{65276}If you make it through 2 rounds,|you've got a chance to win.
+{65306}{65429}Make him cry !
+{65952}{66009}You know the rules, fight|until the knock out !
+{66018}{66060}To your corners !
+{66148}{66195}Box !
+{66851}{66876}Stop !
+{66899}{66952}Alright...box !
+{67506}{67607}Hit him, Friedrich !
+{67608}{67677}Believe in yourself and hit him !
+{67678}{67746}You're fighting 'till the knock out !
+{68780}{68923}Friedrich wins by knock|out ! Friedrich Weimer !
+{69444}{69527}Congratulations, my boy,|first class fight.
+{69528}{69557}Thank you.
+{69558}{69679}So short with us, and so much|progress made, an excellent example.
+{69680}{69755}If we take over Potsdam's|cup in the winter,
+{69756}{69863}I'll put in a good word for you|at the Berlin sport school.
+{69864}{69930}The next Olympics are|just around the corner.
+{69931}{69991}Keep on training.
+{69992}{70046}We have great faith in you.
+{70047}{70153}Thank you.|Thank you very much.
+{70645}{70676}What's wrong?
+{70677}{70746}Nothing.
+{70780}{70868}- Congratulations.|- Thanks.
+{70869}{70919}You had no mercy,
+{70920}{71027}he was already hanging on the ropes.
+{71028}{71050}So?
+{71051}{71123}He'd have done exactly|the same to me.
+{71124}{71216}I've just seen him, and|he's still unconscious.
+{71217}{71269}What did you expect?
+{71270}{71396}- Would you rather see ME lying there?|- You didn't have to be so brutal.
+{71397}{71466}- Are you maybe jealous of my victory?|- No
+{71467}{71546}But couldn't you have|achieved it in a different way?
+{71547}{71652}- No, I couldn't have !
+{71945}{71982}Get up !
+{72225}{72297}Siegfried,
+{72298}{72368}where are you going so fast?
+{72369}{72437}To the bathroom.
+{72438}{72506}Turn around.
+{72661}{72776}You're a shameful stain|on the school's honor.
+{72777}{72905}What if the Fuhrer came tomorrow|and your room stunk of pee?
+{72906}{73054}- What would your sport instructor|think about it?   - Please, no, I...
+{73055}{73169}For 20 marks I'll forget the whole thing.
+{73170}{73277}- I don't have that much money on me.|-  Then:  GET IT !
+{73278}{73388}If you don't find it|before supper, your 
+{73388}{73514}sport instructor will be|informed of your problem.
+{73515}{73622}- Everything ok, Siegfried?|- Yeah.
+{73629}{73732}A hand grenade has|an exploding range
+{73738}{73803}of approximately 15 meters.
+{73808}{73884}And it's splintered fragments|may fly even further.
+{73908}{73956}To sum up:
+{73990}{74043}Unscrew the lid,
+{74084}{74166}pull the line -|and now it's triggered and sharp.
+{74167}{74229}Then we make a wide sweeping motion,
+{74230}{74292}we throw it, then, take cover.
+{74293}{74422}After pulling the line you've got|4,5 seconds till detonation.
+{74423}{74486}Are there any questions?
+{74509}{74534}Fine...
+{74880}{74946}Christoph, come.
+{75106}{75209}So: Pull it. Sweeping motion.|Throw. Duck.
+{75322}{75362}Very good.
+{75402}{75458}Friedrich, next. Come.
+{75652}{75718}So: Pull it. Sweeping motion.
+{75722}{75780}Throw. Duck.
+{76042}{76071}Wilhelm.
+{76239}{76306}And: Pull it. Sweeping motion.
+{76312}{76367}Throw. Duck.
+{76632}{76681}Albrecht, come.
+{76827}{76903}And: Pull it.|Sweeping motion.
+{76910}{76959}Throw it.|I said: THROW IT !
+{76960}{76992}TAKE COVER !
+{77057}{77106}GODDAMMIT !
+{77284}{77375}Martin. Come.
+{77570}{77704}ARE YOU OUT OF YOUR MIND ??|THROW IT !!
+{78937}{79026}Our regional party leader has come
+{79033}{79144}to pay a last tribute to|our hero's memory.
+{79989}{80120}We are gathered here today|to pay tribute and to honor
+{80121}{80174}the memory of our comrade,
+{80175}{80266}Siegfried Gladen.
+{80267}{80363}In a moment of terrible|and grave danger,
+{80364}{80459}he sacrificed himself|for the good of others.
+{80460}{80512}He gave up his own life
+{80513}{80613}to save the lives of|twenty of his comrades.
+{80614}{80668}The young man
+{80669}{80744}who lies here now at this funeral
+{80745}{80859}has filled the last seconds of|his life, not with hesitation,
+{80860}{80933}but with action.
+{80934}{80995}Our times don't need
+{80996}{81054}timid solutions.
+{81055}{81128}We don't need metrosexualists,
+{81129}{81199}but men who actually do something.
+{81200}{81294}Every one of us, standing|here now, should ask himself:
+{81295}{81388}Why wasn't it me who|jumped on that grenade?
+{81389}{81464}Did he find at that very moment,
+{81465}{81574}the lives of his friends to be|more valuable than his own?
+{81575}{81673}If so, why?
+{81702}{81757}Our bodies are not our own property
+{81780}{81820}but our nation's,
+{81828}{81873}our country's
+{81880}{81955}and before all, our Fuhrer's.
+{81988}{82113}And what?... What can be a|better ending for our lives,
+{82118}{82163}than a heroic death?
+{82377}{82426}Siegfried Gladen,
+{82463}{82512}our nation thanks you
+{82538}{82658}and assures you that|it will never forget you.
+{83017}{83060}Lower !
+{83078}{83150}I can't believe my own eyes !
+{83182}{83294}It can always be done|just a little bit better.
+{83295}{83356}Don't let the tiredness get to you !
+{83439}{83474}Enough !
+{83566}{83613}Young men,
+{83614}{83693}today we'll practice high jumps,
+{83694}{83779}my favorite sport discipline.
+{83780}{83905}It requires absolute body control,
+{83906}{83980}stomach muscles must|be hard as a stiff board,
+{83981}{84037}as they support the whole body.
+{84038}{84089}If you bend at the waist,
+{84090}{84190}you won't achieve a thing.
+{84191}{84274}Hard as a stiff board.
+{84275}{84354}Who wants to try first?
+{84355}{84459}Come here, boxer kid.
+{84512}{84566}Hard as a stiff board. Go on.
+{84792}{84837}Well? Hit me.
+{85084}{85112}Fine,
+{85171}{85221}Line up for first the jump !
+{85538}{85693}Quite a brave act.
+{85694}{85774}Will you come home|with me on Sunday?
+{85775}{85868}It's my father's birthday.
+{85869}{85959}- Heil Hitler, master Stein.|- Heil Hitler, Johan.
+{87174}{87313}Albrecht, finally.|Good to see you.
+{87314}{87418}Friedrich? I've heard so|much about you. Welcome.
+{87419}{87489}- Thank's for the invitation.|- No need for thanks.
+{87490}{87598}- Mom, l...|- Tell me later, dear.
+{87616}{87696}Come. Show me your room.
+{87750}{87784}Not bad.
+{87785}{87858}Yup, everything was already here...
+{87859}{87960}- In the whole house?|- Yup.
+{88047}{88156}Quick, quick quick !
+{88652}{88742}Thank you, I'm very touched.
+{89126}{89187}Happy Birthday.
+{89188}{89274}Good evening, father.|Happy Birthday.
+{89275}{89319}Thank you, Albrecht.
+{89320}{89392}You've lost weight.|Are you playing enough sports?
+{89393}{89507}Sure, of course.  Naturally.
+{89508}{89583}This is Friedrich.
+{89584}{89622}- You know...|- Of course.
+{89623}{89682}I've heard alot about|your boxing skills.
+{89683}{89707}A warm welcome.
+{89972}{90036}Dear Heinrich,
+{90037}{90157}on behalf of your old mates|we wish you the very best,
+{90158}{90246}and a good start in Warthegau.
+{90247}{90358}I hope you've got enough skills|to clean up the local mess !
+{90359}{90415}Cheers !
+{90697}{90744}Dear father,
+{90745}{90861}I wrote a small|birthday poem for you.
+{90938}{90999}Here it goes:
+{91000}{91034}- At first...|- Thank you,
+{91035}{91169}Albrecht, thank you very much.|I'll listen to it later.
+{91338}{91399}Dear Franz,
+{91400}{91448}party companions,
+{91449}{91548}Thank you for this great party.
+{91549}{91592}Let me tell you
+{91593}{91658}that the task I was given
+{91659}{91722}fills me with great pride.
+{91723}{91838}I know, that it wouldn't have|been granted to me, in Berlin.
+{91839}{91912}Some people simply can't|understand my methods.
+{91913}{92024}But in this country, it's the Fuhrer|who decides, not the bureaucrats.
+{92025}{92123}Cheers !|Carl.  Willhelm.  Franz.
+{92228}{92316}How's your combat training?
+{92317}{92462}- Good.  - Albrecht's going to be a|Waffen SS officer after school.
+{92463}{92622}Ah, then tasks of strength|might not be all that...
+{92626}{92683}So, you're the boxer, are you?
+{92689}{92750}- And in perfect shape, I've heard.
+{92750}{92852}- Really? Then maybe you could|show us some of your'moves'?
+{92853}{92889}An excellent idea !
+{92890}{92915}Gentlemen,
+{92916}{93023}after dinner, I invite you to the|cellar, where our young elite
+{93024}{93126}will show us something VERY special.
+{93195}{93259}What a great idea.
+{93454}{93492}Surprised, aren't you?
+{93500}{93604}-I train in my free time to keep in shape.|-Undress !
+{93605}{93689}- Undress?|- Yes, you'll show us what you've learned.
+{93690}{93849}- But Albrecht does't...|- Ahhh, every German should box.
+{94089}{94126}And...Box !
+{94235}{94276}What's that supposed to be?
+{94280}{94382}Fight honestly, you don't|have to spare anyone here.
+{94434}{94470}Fight honestly,
+{94487}{94507}No.
+{94640}{94666}Hit me !
+{94670}{94727}- No.|- You're to box !
+{94776}{94832}Hit me, coward !
+{94900}{94947}You're to fight !
+{95212}{95237}Albrecht !
+{95386}{95444}Don't you worry.|Great punch.
+{95454}{95494}Genius.
+{95495}{95563}Hans, give our young|people some vodlka.
+{95564}{95625}Our country needs|people like you.
+{95626}{95779}More people like you on the Eastern front,|and we can close that chapter for good.
+{95780}{95873}Cheers !
+{95874}{95984}- But, sir...|- No refusing Heinrich.
+{96275}{96404}- Shall we, young master?|- Yes, let's go.
+{97087}{97274}Albrecht, listen...|[  Big sigh  ]
+{97468}{97522}Attention !
+{97835}{97896}About face !
+{97941}{97979}Young men...
+{97990}{98116}Good news for you. Due|to intensified air battles
+{98117}{98190}Wehrmacht has requested|some of Napola's students.
+{98191}{98336}Yesterday our whole|eighth grade volunteered.
+{98337}{98406}They're off to terrify the enemy !
+{98407}{98475}And I'm filled with pride
+{98476}{98571}that our second school certificate students
+{98572}{98692}have embraced|the call, and have not
+{98693}{98795}chosen to run from danger.
+{98813}{98906}Heil Hitler, young men !|Heil Hitler !
+{99008}{99164}Well, at least, they no|longer have to be here...
+{99459}{99528}How long are you going|to stay mad at me?
+{99529}{99572}I'm not mad.
+{99610}{99669}I'm afraid.
+{99709}{99767}Of what?
+{100127}{100152}Friedrich,
+{100222}{100265}Wake up.
+{100395}{100452}What's going on?
+{100534}{100636}It's your father.
+{100669}{100745}Let's Go !|Fall in line !
+{100946}{100976}Attention !
+{101097}{101187}Seventh grade reporting, sir.
+{101286}{101357}Heil Hitler, young men !|Heil Hitler !
+{101367}{101413}At ease.
+{101439}{101514}Young men, we've got a problem.
+{101515}{101632}Day before yesterday, a transport|with war prisoners arrived at Allenstein.
+{101633}{101747}12 Russians escaped into|the forests near Karlstadt.
+{101748}{101811}They overpowered two guards,
+{101812}{101852}and stole their weapons.
+{101853}{101949}Nobody knows the local|area better than you do.
+{101950}{101998}So I ask for your help.
+{101999}{102062}If you wish to take part|in this dangerous mission,
+{102063}{102124}and help recapture|these wild monsters:
+{102125}{102262}Answer loudly: Yes, sir !|- Yes, sir !
+{102263}{102301}Then, let's go !
+{102306}{102336}Faster !
+{102342}{102387}Take the ammo by yourself.
+{102502}{102549}Live ammunition?
+{102550}{102605}And what did you think?
+{102606}{102663}That we were going to catch|them with our bare hands?  Next.
+{102664}{102695}Go, go !
+{102699}{102724}Get in !
+{102831}{102867}Forward !
+{103937}{104063}Young men. Do your best.|Don't let them escape.
+{104064}{104117}I'll award the most zealous units
+{104118}{104229}with a Contribution Cross myself.
+{104230}{104254}Load your weapons !
+{104351}{104400}Unlock them !
+{104460}{104505}March off !
+{105995}{106021}Halt.  Don't move !
+{106712}{106749}Halt !!!
+{106753}{106807}Hands up,|or I'll shoot !
+{107073}{107212}I saw one there, he had|something in his hands.
+{107848}{107939}Oh my god, they're just children !
+{107940}{108074}Bandages ! Hand them to me ! Hurry !!
+{108260}{108352}- What's he saying?|- I don't know.
+{108393}{108496}It won't be any help !|Albrecht !
+{108745}{108973}Everything's ok...Calm down...|Everything will be fine...
+{110231}{110304}He's dead.
+{110317}{110372}It's high time.
+{110373}{110413}Let's go !
+{110414}{110467}What's happened here?
+{110468}{110497}Report.
+{110498}{110597}Five captives shot while trying to escape.
+{110598}{110646}- Is that the last one?|- Yes.
+{110647}{110704}Stand back, Albrecht.
+{110776}{110851}Father, NO !!!
+{110904}{110996}Don't you DARE defy me in public again !|Understand??
+{110997}{111114}- DO you understand?!!|- Yes, father.
+{111115}{111148}Good job, young men.
+{111149}{111217}Let's go, there's more of|them to recapture.
+{111218}{111271}You too ! Get moving ! And fast !
+{111272}{111411}- Sir, we...|- Why suddenly the:  "Sir"  ?
+{111422}{111467}Yes, of course, I mean:  Heinrich.
+{111487}{111538}Come, Albrecht.
+{111675}{111712}Let's go. Move it.
+{111954}{112093}- Pull yourself together !|- Pull myself together??
+{112094}{112229}Do you know what|we've just done??
+{112230}{112332}We didn't have to shoot !
+{112333}{112407}I didn't give you an order !
+{112408}{112484}But your father said|that they were armed !
+{112485}{112550}What are you staring at??
+{112551}{112589}I'm not looking at you.
+{112590}{112683}I know what you're thinking...
+{112684}{112780}Don't look at me like that !!!
+{112804}{112865}- Albrecht !|- Stay here.
+{112866}{112942}It won't do any good.
+{113325}{113434}Hey Weimer,|were you the one who shot him?
+{113435}{113484}Hey, say something.|Answer my question.
+{113485}{113552}I asked you something.
+{113553}{113624}Are you deaf ??
+{113709}{113801}- Break it up !|- I'll take care of it.
+{113802}{113864}Take their weapons.
+{113865}{113987}Are you out of your minds??|This is a combat mission !
+{113988}{114049}Get in.
+{115072}{115111}Let's go.
+{115199}{115302}You're lucky the Russians|didn't abduct you.
+{115303}{115370}You'll be leaving jail tomorrow.
+{115371}{115421}You, that way.
+{116552}{116587}Christoph?
+{116588}{116633}Shut up, Hefe.
+{116634}{116768}- I'd like to talk...|- Shut the fuck up.
+{117060}{117100}Attention !
+{117259}{117297}Sit down !
+{117411}{117513}Take out your notebooks,|you're going to write an essay:
+{117514}{117657}"Winter landscape as a background|for German Knight Sagas."
+{117658}{117750}You've got an hour,|starting from now.
+{118764}{118857}Alright, your time's up.
+{118969}{119077}Christoph, come to the|front and start reading.
+{119102}{119138}Please.
+{119225}{119343}German landscape as a|background for German Knight Sagas.
+{119344}{119441}German landscape is a very important|background for Knight Sagas.
+{119442}{119478}Oh, really, Christoph?
+{119479}{119534}The earliest sources prove
+{119535}{119608}the enormous role of winter|landscape in historic...
+{119609}{119665}Enough. Take your seat.
+{119666}{119732}Albrecht, come, you'll read.
+{119963}{119995}Please.
+{120090}{120154}Despite being a bit childish,
+{120155}{120274}winter and a view of freshly|fallen snow awakens in us
+{120275}{120361}a feeling of inexplicable joy.
+{120362}{120493}Perhaps because as children, we|think of snow in relation to Christmas...
+{120494}{120634}In my dreams I am the hero who|saves the virgin from the dragon.
+{120635}{120741}One who frees the|world from evil.
+{120742}{120841}When searching for|the escapees yesterday,
+{120842}{120937}I remembered the boy who|wanted to save the world from evil.
+{120938}{120968}Albrecht, enough.
+{120969}{121112}Upon returning I realized|that I MYSELF am that evil...
+{121113}{121213}The very evil I wanted|to free the world from.
+{121214}{121250}Albrecht, enough.
+{121251}{121316}Killing the captives was wrong.
+{121317}{121412}- They weren't armed, as Stein had told  us,|just to bait us.     - Stop it.
+{121413}{121556}- We didn't shoot men, but helpless|children.  - LEAVE THIS INSTANT !!!
+{122288}{122376}[ Head of Institution ]
+{122604}{122687}How can you explain|your behavior?
+{122822}{123030}Do you understand the|position you've put me in?
+{123031}{123262}I don't think you have the slightest|idea of all the privileges you have here.
+{123399}{123494}Do you know how much I|would have sacrificed just
+{123494}{123564}to be able to graduate|from such a school?
+{123565}{123639}But I wasn't granted|such a chance,
+{123640}{123782}by the age of 16, I'd already|been working for 3 whole years.
+{123783}{123875}And you..
+{123876}{123948}All you do is to trample on everything.
+{123949}{124015}But that's over now.
+{124016}{124061}You're going to write an essay,
+{124062}{124146}in which you'll tell|the 'real' version.
+{124147}{124195}And I expect you
+{124196}{124258}to voluntarily join the|Waffen SS by yourself.
+{124259}{124325}I've already talked|to Borner, brigade leader.
+{124326}{124416}Ukraine will suit you|the best, right now.
+{124417}{124480}- I can't.|- What?
+{124481}{124555}I won't write a new essay.
+{124556}{124699}Yesterday, I wrote|what I really thought.
+{124734}{124851}I'm to be given that essay|early tomorrow morning,
+{124852}{125066}or else you won't survive this.
+{125333}{125402}Alright, get out. End of jail.
+{125470}{125533}- What's going on?|- Haven't you heard?
+{125534}{125598}Albrecht defamed his|father in an essay.
+{125623}{125648}What ??
+{126039}{126073}Albrecht !
+{126151}{126213}What's happened?
+{126237}{126362}I'll be 17 in one week.
+{126363}{126453}My father's shipping me off|to the Eastern front.
+{126454}{126578}I'm to write another essay|to straighten things out.
+{126579}{126682}So why did you write that essay?
+{126683}{126726}I couldn't have done it any other way.
+{126727}{126784}What do you mean:|I couldn't...?
+{126785}{126864}Yes, you couldn't neither...
+{126865}{126918}when you punched the coach.
+{126919}{127016}- That was something completely different.|- Oh, really?
+{127017}{127106}- You didn't help anyone by doing so !|- Yes, I did.
+{127107}{127230}So who'd you help? Explain it|to me. I can't understand it !
+{127231}{127325}I helped myself...
+{127326}{127376}Oh, really?|You helped yourself??
+{127377}{127501}You didn't think about|anyone else, did you?
+{127502}{127639}He ?! Say something !! He ?!
+{127725}{127797}You fucking egoist !!
+{128632}{128808}That's the first essay of mine|my father has ever read...
+{128827}{128924}So what are you going to do now?
+{128925}{129005}I don't know.
+{129350}{129497}Get up ! In 10 minutes I want|to see everybody at the lake !
+{129550}{129633}When I say "in 10 minutes",
+{129634}{129735}then you ARE to be at the lake|in 10 minutes. Is that clear??
+{129736}{129761}Okay.
+{129785}{129857}You'll enter this air hole here,
+{129858}{129956}then, swim (underwater)|to the second one.
+{129957}{130084}Whoever's ready... goes to wash|himself, then, it's on to breakfast.
+{130085}{130130}Christoph, you're the first.
+{130131}{130243}Well, c'mon, it's not getting|any warmer here !
+{130976}{131093}Christian and Peter,|go to the second air hole.
+{132076}{132148}Ok, it's back to your room. Hup !
+{132171}{132272}Friedrich, you're next. Come !
+{132871}{132932}Albrecht, your turn.
+{134024}{134103}Tjaden, next.
+{135089}{135181}Albrecht. Albrecht !!
+{135247}{135383}Albrecht, no !|NO !
+{139923}{140007}Too weak...
+{140049}{140143}He was simply too weak...
+{141431}{141557}Obituary.
+{141602}{141642}Please !
+{141744}{141779}Friedrich,
+{141837}{141917}good to see you up.
+{142023}{142195}I'd like to have this printed|in the upcoming issue.
+{142195}{142236}[ Obituary ]
+{142236}{142294}No.
+{142298}{142336}But,
+{142337}{142416}then... they can't|yet bury him.
+{142417}{142536}- You can't do that...|- Amidst people who have died for Fuhrer,
+{142537}{142628}for motherland, and for the nation:|there's no place for suicides.
+{142629}{142682}His parents think the same way.
+{142683}{142730}They've seriously asked me
+{142731}{142845}if I've forgiven you for the fact that|you're partly responsible for his death...
+{142846}{142893}Both strongly feel that
+{142894}{142977}their son changed greatly|since meeting you...
+{142978}{143057}But I defended you.
+{143058}{143149}Don't worry. I know how|much that Saturday fight,
+{143150}{143202}in the name of our|school, means to you.
+{143203}{143246}Strong proof of your faith
+{143247}{143347}in your tutors. And your|gratitude for the chance
+{143348}{143422}that you were given here.
+{143423}{143520}Thank you.|You may leave now.
+{143712}{143877}How are you doing?
+{144114}{144209}Friedrich, what happened back|there in the forest was terrible...
+{144210}{144320}And Albrecht's|death is a severe loss.
+{144321}{144410}But right now, it's all about|your life..., your future...
+{144411}{144620}There are scouts from various|sport schools in the audience.
+{144621}{144746}Use this fact well.
+{144888}{144935}Is everything alright?
+{145000}{145032}Make him cry !
+{145253}{145294}You know the rules.
+{145300}{145420}No punches below the waist,|no head butting. Fight fairly.
+{145421}{145465}Now to|your corners.
+{145592}{145617}Box !
+{146823}{146903}One, two,
+{146970}{146995}three,
+{147086}{147112}four...
+{148399}{148427}Box !
+{151069}{151201}Strip !|Everything.
+{151754}{151958}The underwear is also ours.
+{152115}{152178}Dismissed.
+{152316}{152397}Hurry Weimer !|Get on with it !
+{153245}{153316}Let's go, forward march !
+{155287}{155388}Up until 1945, there were|over 40 Nazi educational
+{155388}{155467}outposts, with more|than 15,000 students,
+{155468}{155612}all within the territory|of the German Reich.
+{155613}{155697}When the war was finally|acknowledged as being lost,
+{155697}{155780}they were still sent out|for the:   "Last Struggle"
+{155781}{156004}Blinded by instructed fanaticism and|despite being insufficiently armed,
+{156005}{156144}they offered a stubborn resistance.
+{156145}{156517}Half of them died...
+{156518}{156706}NaPoLA
+{156707}{157560}
+{157600}{158000}

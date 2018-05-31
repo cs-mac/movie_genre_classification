@@ -1,0 +1,568 @@
+{1}{1}29.997
+{3300}{3349}"The Diary of Jonathan Harker."
+{3368}{3429}"May 3, 1885."
+{3457}{3527}"At last my long journey|is drawing to its close."
+{3556}{3620}"What the eventual end will be,|I cannot foresee."
+{3627}{3694}"But whatever may happen,|I can rest secure..."
+{3697}{3779}"...that I will have done all in my power|to achieve success."
+{3801}{3876}"The last lap of my journey|from the village of Klausenberg..."
+{3879}{3948}"...proved to be more difficult|than I had anticipated..."
+{3958}{4051}"...due to the reluctance on the part of|the coach driver to take me all the way."
+{4055}{4108}"As there was no other transport|available..."
+{4111}{4184}"...I was forced|to travel the last few kilometers on foot..."
+{4189}{4240}"...before arriving at Castle Dracula."
+{4253}{4368}"The castle appeared innocuous|in the warm sun, and all seemed normal..."
+{4374}{4449}"...but for one thing:|There were no birds singing."
+{4507}{4576}"As I crossed the wooden bridge,|and entered the gateway..."
+{4589}{4646}"...it suddenly|seemed to become much colder..."
+{4656}{4728}"...due, no doubt, to the icy waters|of the mountain torrent..."
+{4731}{4765}"...I had just crossed."
+{4776}{4848}"However, I deemed myself|lucky to have secured this post..."
+{4876}{4936}"...and did not intend|to falter in my purpose. ""
+{9205}{9256}I'm sorry. I didn't hear you come in.
+{9373}{9466}My name's Jonathan Harker.|I'm the new librarian.
+{9491}{9544}You will help me, won't you?
+{9593}{9641}Say you will, please!
+{9661}{9716}- How can I help you?|- Get me away from here.
+{9739}{9810}- But why?|- He is keeping me prisoner.
+{9832}{9896}Who is? Count Dracula?
+{9940}{9979}I'm afraid I don't understand.
+{9996}{10084}Please. Please help me to escape!
+{10754}{10834}Mr. Harker.|I am glad that you have arrived safely.
+{10857}{10886}Count Dracula?
+{10893}{10951}I am Dracula.|And I welcome you to my house.
+{10954}{11022}I must apologize for not being here|to greet you personally...
+{11025}{11078}...but I trust you've found|everything you needed.
+{11081}{11142}Thank you, sir. It was most thoughtful.
+{11145}{11198}It was the least I could do|after such a journey.
+{11201}{11239}Yes, it is a long journey.
+{11242}{11309}And tiring, no doubt.|Permit me to show you to your room.
+{11312}{11340}Thank you, sir.
+{11675}{11707}No, please, allow me.
+{11749}{11808}Unfortunately,|my housekeeper is away at the moment.
+{11811}{11868}- A family bereavement, you understand?|- Of course.
+{11871}{11947}However, you'll find everything|has been prepared for your comfort.
+{11950}{11976}How soon may I start work?
+{11979}{12066}As soon as you wish. There are a large|number of volumes to be indexed.
+{12551}{12657}- Is there anything else you need?|- I don't think so. You've been very kind.
+{12660}{12725}On the contrary, it is entirely my privilege.
+{12728}{12823}I am very fortunate to have found such|a distinguished scholar to work for me.
+{12833}{12872}I like quiet and seclusion.
+{12906}{12948}This house, I think, offers that.
+{12959}{13020}Then we are both satisfied.|An admirable arrangement.
+{13060}{13114}There is just one more thing, Mr. Harker.
+{13132}{13213}I have to go out and will not be back|until after sundown tomorrow.
+{13219}{13300}Until then,|please look upon this house as your own.
+{13341}{13400}- Good night, Mr. Harker.|- Good night, sir.
+{14209}{14293}As I shall be away for so long,|you should have the key to the library.
+{14298}{14320}Thank you.
+{14323}{14383}You will find the library|to the left of the hall.
+{14429}{14475}- may I?|- Yes, certainly.
+{14543}{14600}- Your wife?|- No, my fiancée.
+{14607}{14685}You are a very fortunate man.|May I ask her name?
+{14696}{14752}Lucy Holmwood.
+{14797}{14861}- Charming, charming.|- You are very kind.
+{14934}{14957}Good night.
+{14993}{15032}Sleep well, Mr. Harker.
+{16036}{16102}"At last I have met Count Dracula."
+{16257}{16323}"He accepts me as a man who has agreed..."
+{16337}{16420}"...to work among his books, as I intended."
+{16540}{16649}"It only remains for me now|to await the daylight hours..."
+{16751}{16792}"...when, with God's help..."
+{16825}{16879}"...I will forever end..."
+{16882}{16944}"...this man's reign of terror."
+{19627}{19711}- Mr. Harker. You will help me?|- If it's at all possible.
+{19745}{19804}But why is Count Dracula|keeping you prisoner?
+{19818}{19923}- I cannot tell you that.|- But if I am to help you, I must know.
+{19929}{20000}I'm sorry, it's not possible.
+{20018}{20065}You make it very difficult for me.
+{20069}{20142}I am a guest here. If I'm to help you|I must have a reason.
+{20145}{20214}A reason. You ask for a reason!
+{20217}{20324}Isn't it reason enough that he locks me|in this house, holds me against my will?
+{20366}{20430}You have no idea what an evil man he is!
+{20456}{20500}Or what terrible things he does!
+{20550}{20644}I could not.|I dare not try to leave on my own.
+{20683}{20728}He would find me again, I know.
+{20755}{20825}But with you to help me,|I would have a chance.
+{20847}{20948}You must help me! You must!|You're my only hope!
+{20951}{20974}You must!
+{20995}{21051}I'll help you, I promise.
+{21180}{21220}Please don't distress yourself.
+{21308}{21336}Thank you.
+{26846}{26951}"I have become a victim of Dracula|and the woman in his power.
+{27048}{27116}"It may be that I am doomed|to be one of them.
+{27157}{27254}"If that is so, I can only pray...
+{27296}{27340}"...that whoever finds my body...
+{27416}{27468}"...will possess the knowledge...
+{27587}{27631}"...to do what is necessary...
+{27673}{27714}"...to release my soul.
+{27832}{27924}"I have lost a day. Soon it will be dark.
+{27961}{28092}"While my senses are still my own,|I must do what I set out to do.
+{28177}{28241}"I must find the resting place of Dracula...
+{28273}{28339}"...and there end his existence forever.
+{28782}{28857}"Soon it will be sundown|and they will walk again.
+{28920}{28960}"I do not have much time. "
+{34152}{34199}- Good day, sir.|- Good day.
+{34376}{34442}- may I have a brandy, please?|- Certainly, sir.
+{34480}{34546}- Traveling far?|- Not much farther, I hope.
+{34778}{34869}- Is it possible to have a meal?|- Yes, sir.
+{34889}{34914}Inga!
+{34922}{34977}Only a simple one, I'm afraid, sir.
+{35085}{35128}- Your change, sir.|- Thank you.
+{35146}{35243}We don't get many travelers in these parts.|Not that stop, anyway.
+{35261}{35325}You had one a few days ago, I believe.|A Mr. Harker.
+{35367}{35410}- Harker, sir?|- Yes.
+{35421}{35455}He's a friend of mine.
+{35459}{35528}- He wrote to me from this address.|- Not here, sir.
+{35543}{35611}I remember the gentleman.|He gave me a letter to post.
+{35617}{35653}Hold your tongue, girl!
+{35656}{35685}Was this the letter?
+{35737}{35790}- I'm not sure.|- Perhaps you remember the name.
+{35793}{35828}Dr. Van Helsing.
+{35855}{35885}I'm not sure.
+{35888}{35967}Go and prepare a meal for this gentleman.|At once. Do you hear me?
+{36118}{36152}What are you afraid of?
+{36193}{36272}- I don't understand you.|- Why all these garlic flowers?
+{36278}{36314}And over the window?
+{36459}{36486}And up here?
+{36525}{36572}They're not for decoration, are they?
+{36575}{36644}- I don't know what you're talking about.|- I think you do.
+{36649}{36702}And that you know something|about my friend.
+{36705}{36795}- He came here with a purpose, to help you.|- We haven't asked for any help.
+{36809}{36852}You need it all the same.
+{36855}{36931}Look, sir.|You're a stranger here in Klausenberg.
+{36945}{36990}Some things are best left alone...
+{37008}{37084}...such as interfering in things|which are beyond our powers.
+{37090}{37136}Please, don't misunderstand me.
+{37144}{37239}This is more than a superstition, I know.|The danger is very real.
+{37249}{37335}If the investigation that Mr. Harker and I|are engaged upon is successful...
+{37338}{37398}...not only you,|but the whole world will benefit.
+{37409}{37473}Castle Dracula is somewhere here|in Klausenberg.
+{37481}{37524}Will you tell me how I get there?
+{37539}{37634}You ordered a meal, sir.|As an innkeeper it is my duty to serve you.
+{37652}{37737}When you have eaten,|I ask you to go and leave us in peace.
+{37743}{37820}Your meal will be ready in a minute|if you'd like to take a seat.
+{37857}{37884}Thank you.
+{38193}{38255}This was found|at the crossroads near that place.
+{38264}{38300}He told me to burn it.
+{38305}{38378}But your friend was such a nice gentleman,|I couldn't.
+{39965}{39992}Harker?
+{40282}{40308}Harker!
+{40462}{40487}Harker!
+{40685}{40709}Harker!
+{43906}{43999}I'm sorry, Mr. Holmwwod, but I cannot|tell you anything more about his death.
+{44003}{44032}Cannot or will not?
+{44055}{44084}Whichever you wish.
+{44098}{44157}Dr. Van Helsing, I am not at all satisfied.
+{44190}{44265}You suddenly appear and tell us|that Jonathan Harker is dead.
+{44285}{44344}Yet you will not tell us|where or how he died.
+{44359}{44425}- I find it extremely suspicious.|- Arthur!
+{44441}{44540}- You have the death certificate.|- Yes. Signed by you.
+{44557}{44596}When did he die, Doctor?
+{44610}{44667}- 10 days ago.|- 10 days ago!
+{44689}{44751}- Where was he buried?|- He was cremated.
+{44761}{44812}- By whose authority?|- His own.
+{44839}{44918}As his friend and colleague,|he told me Long ago he would wish it.
+{44988}{45063}You must know that Jonathan|was going to marry my sister Lucy.
+{45077}{45118}Surely you could have written.
+{45124}{45209}I felt it would be less of a shock|if I came and told her personally.
+{45229}{45288}I would rather you didn't see my sister.
+{45310}{45352}My wife and I will tell her.
+{45382}{45436}Very well. I'm sorry.
+{45453}{45512}will you please|express my sympathy to miss Lucy?
+{45523}{45593}If she wishes to get in touch with me,|I am at her service.
+{45645}{45730}Gerda. Dr. Van Helsing is leaving.|Will you show him to the door?
+{45733}{45756}Yes.
+{45759}{45781}Good day.
+{46063}{46122}Why all this secrecy?|Why wouldn't he tell us?
+{46138}{46228}Darling, Dr. Van Helsing is|a very eminent man.
+{46268}{46345}Whatever his motives, you can be sure|he had a good reason for them.
+{46381}{46436}In any case,|we can't help poor Jonathan now.
+{46470}{46520}Lucy is the one we must think of.
+{46554}{46598}Is she well enough to be told?
+{46624}{46714}- It will be a terrible blow for her.|- She must know sometime.
+{46752}{46833}We won't disturb her afternoon rest.|We'll see how she is this evening.
+{46861}{46957}Jonathan will be home soon, I know it.|Then I'll get better, you'll see.
+{46971}{47035}I won't be a trouble|to Dr. Seward or any of you.
+{47037}{47132}Lucy, you're no trouble to anyone.|Now rest, get some sleep.
+{47157}{47217}You've got to get some color back|into those cheeks.
+{47236}{47284}- Good night, Lucy.|- Good night, mina.
+{47305}{47336}Good night, Arthur.
+{47781}{47835}- Sleep well.|- I'll try.
+{49798}{49900}Research on vampires.|There are certain basic facts established.
+{49920}{49956}One: light.
+{49980}{50038}The vampire is allergic to light.
+{50054}{50118}Never ventures forth in the daytime.
+{50143}{50223}Sunlight fatal. Repeat, fatal.
+{50249}{50288}It would destroy them.
+{50309}{50357}Two: garlic.
+{50390}{50472}Vampires repelled by odor of garlic.
+{50513}{50603}Memo: Check final arrangements with|Harker before he leaves for Klausenberg.
+{50649}{50719}Three: the crucifix.
+{50737}{50820}Symbolizing the power of good over evil.
+{50855}{50933}The power of the crucifix in these cases....
+{50955}{50984}Come in.
+{51032}{51093}- You rang, sir?|- Yes.
+{51109}{51174}I want this letter delivered|first thing in the morning.
+{51177}{51247}- will you see to that?|- Yes.
+{51250}{51304}- Thank you.|- Thank you, sir.
+{51385}{51416}Anything the matter?
+{51443}{51464}What is it?
+{51477}{51588}When I was outside I thought I heard you|talking to someone.
+{51609}{51700}Of course. I was talking to myself.|You won't forget that letter, will you?
+{51725}{51754}No, sir.
+{51781}{51800}Yes.
+{52209}{52312}The power of the crucifix in these cases|is two- fold:
+{52353}{52425}It protects the normal human being...
+{52439}{52520}...but reveals the vampire or victim...
+{52534}{52645}...of this vile contagion|when in advanced stages.
+{53125}{53156}It is established...
+{53168}{53276}...that victims consciously detest|being dominated by vampirism...
+{53289}{53382}...but are unable|to relinquish the practice...
+{53404}{53471}...similar to addiction to drugs.
+{53501}{53593}Ultimately death results|from loss of blood.
+{53617}{53724}But, unlike normal death,|no peace manifests itself...
+{53754}{53850}...for they enter into the fearful state|of the undead.
+{53895}{53943}Since the death of Jonathan Harker...
+{53962}{53996}...Count Dracula...
+{54004}{54100}...the propagator of this unspeakable evil,|has disappeared.
+{54130}{54211}He must be found and destroyed.
+{55305}{55400}- She seems so much weaker, Doctor.|- It's a puzzling case, Mrs. Holmwood.
+{55415}{55493}The symptoms are those of anemia|and I'm treating her for this.
+{55498}{55548}It can be a slow process, of course.
+{55557}{55616}But I had hoped|for more encouraging signs by now.
+{55619}{55692}- Please, may I see Auntie Lucy?|- Not today, Tania.
+{55700}{55756}- Is she very ill?|- I'm afraid so.
+{55769}{55842}- Do you know what's wrong with her?|- Of course I do.
+{55845}{55888}Then why don't you make her better?
+{55905}{55930}Tania.
+{55968}{56047}How many times have I told you|not to go bothering Mrs. Holmwood?
+{56050}{56102}- I'm sorry, ma'am.|- That's all right, Gerda.
+{56145}{56248}- A child's logic can be most disconcerting.|- Yes.
+{56303}{56360}Would you like a second opinion,|mrs. Holmwood?
+{56400}{56455}Thank you, Doctor. I'll think about it.
+{56513}{56581}Carry on with the medicine|and diet I've prescribed...
+{56584}{56648}- ...and plenty of fresh air.|- Yes, Doctor, I will.
+{56691}{56732}- Good day to you.|- Good day.
+{57151}{57176}Come in.
+{57233}{57290}Mrs. Holmwood,|how very good of you to come.
+{57293}{57370}- Please, will you sit down?|- Thank you.
+{57441}{57505}You mentioned in your letter|some things of Jonathan's.
+{57507}{57584}Yes, I have them ready.|I would have brought them myself, but- -
+{57588}{57648}I understand. But you must appreciate...
+{57655}{57721}- ...Mr. Holmwood was very upset.|- Of course.
+{57729}{57784}I only wish I could have been more helpful.
+{57800}{57843}How did miss Lucy take the news?
+{57861}{57945}We haven't told her yet. She's very ill.
+{57957}{58040}I'm sorry to hear that.|may I ask what's the matter with her?
+{58073}{58163}It was all so sudden.|It happened about 10 days ago.
+{58193}{58242}Our family doctor says it's anemia.
+{58274}{58318}I'm very unhappy about it.
+{58322}{58400}I have nothing against Dr. Seward,|please don't think that, but....
+{58419}{58519}- He did say I could have a second opinion.|- I'd like to see her at once.
+{58557}{58609}- I'd be so grateful.|- If you'll excuse me.
+{58699}{58749}Lucy. I've brought someone to see you.
+{58777}{58835}Dr. Van Helsing.|He's a friend of Jonathan's.
+{58849}{58872}Miss Lucy.
+{58966}{59003}What lovely flowers.
+{59028}{59067}Jonathan's dead, isn't he?
+{59093}{59172}- It's true, isn't it?|- I'm sorry.
+{59185}{59284}- Did Arthur tell you?|- Nobody told me. I just knew.
+{59307}{59372}- Is that why Dr. Helsing is here?|- Partly.
+{59385}{59450}Dr. Helsing is a specialist.|He's come to help you.
+{59471}{59531}Jonathan has told me so many things|about you.
+{59537}{59594}- Nice things, I hope.|- Very nice.
+{59616}{59645}Now, let's see.
+{60023}{60101}Don't you worry,|we'll soon have you well again.
+{60119}{60150}Good- bye, Doctor.
+{60161}{60243}I'm sorry you had a wasted journey,|about Jonathan, I mean.
+{60258}{60333}It wasn't wasted, I promise you.|Good day, miss Lucy.
+{60561}{60616}How could she have known|of Jonathan's death?
+{60635}{60737}- A premonition. It's not uncommon.|- But she took it so calmly, it worries me.
+{60745}{60807}I'm afraid there are more urgent things|to worry about.
+{60810}{60874}Those marks on her neck,|when did they first appear?
+{60878}{60937}I noticed them first|shortly after she became ill.
+{60940}{61007}I asked her. She told me|she thought she had been stung.
+{61015}{61047}It's quite possible.
+{61050}{61135}Dr. Seward said she needs fresh air.|Her windows are open all the time.
+{61164}{61211}Between the hours of sunset and sunrise...
+{61214}{61307}...all the windows in her room,|with the exception of a small fanlight...
+{61317}{61352}...must be kept shut.
+{61359}{61429}Mrs. Holmwood,|you called me in for a second opinion.
+{61450}{61548}If I am to help your sister-in-law, there are|certain things you must do to help me...
+{61558}{61625}- ...however unorthodox they may appear.|- Yes, I know, but...
+{61670}{61764}If you love miss Lucy,|be guided by me, I beg you.
+{61797}{61852}I'll do anything to make her well again.
+{61911}{61983}You must get some garlic flowers,|as many as you can.
+{61993}{62069}Place them by her windows, her door,|and by her bedside.
+{62081}{62159}They may be taken out during the day,|but under no circumstances...
+{62162}{62244}...even if the patient implores you,|must they be removed at night.
+{62329}{62416}I cannot impress upon you how important|it is that you obey my instructions.
+{62446}{62521}Do exactly as I say|and we may be able to save her.
+{62526}{62582}If you don't, she will die.
+{62644}{62683}I'll be here in the morning.
+{63493}{63547}Heavens, child! What is it?
+{63597}{63647}These flowers, I can't stand them!
+{63653}{63710}They do smell strong,|but Mrs. Holmwood said- -
+{63713}{63780}I don't care what she said!|Please, take them away!
+{63838}{63899}Please, Gerda, they stifle me.
+{63965}{64032}All right, miss, I'll take them out.
+{64037}{64101}And the windows,|you'll open the windows?
+{64105}{64162}Yes, miss Lucy, if that's what you want.
+{64636}{64678}I'll come back for the rest.
+{65434}{65484}There was nothing I could do to save her.
+{66223}{66283}Mrs. Holmwood, did you do as I told you?
+{66299}{66356}She did. And you have seen the resuIt.
+{66386}{66442}Please, sir. Excuse me, sir.
+{66450}{66554}It was all my fault.|She couldn't breathe. She looked so ill.
+{66557}{66626}She begged me to open the windows|and throw away the plants.
+{66629}{66693}I know you told me not to, ma'am, but....
+{66695}{66729}What time was this?
+{66761}{66798}About midnight.
+{66821}{66871}- I heard a noise- - |- All right, Gerda...
+{66878}{66928}- ...you may go now.|- Yes, thank you, sir.
+{66957}{67012}I am so sorry, sir.
+{67098}{67192}Whatever happened, all I know is|that you have brought us nothing but grief.
+{67196}{67240}First Jonathan, and now Lucy.
+{67261}{67371}Whoever you are, whatever your motives,|please go and leave us in peace.
+{67432}{67527}Mr. Holmwood, when I told you|about Jonathan, I thought it best...
+{67530}{67619}...to spare the details of the dreadful|circumstances in which he died.
+{67653}{67735}But the tragic death of your sister|is so closely linked with his...
+{67754}{67808}...that I think|you should now know the truth.
+{67811}{67895}I can't expect you to believe me,|but you will believe Jonathan.
+{67939}{68000}Here are his last words. His diary.
+{68026}{68085}When you have read it,|you will understand.
+{68738}{68768}What is it, Gerda?
+{68771}{68831}It's a policeman, sir.|He's got Tania with him.
+{68849}{68875}Tania?
+{68889}{68947}- Show him in, Gerda.|- Very good, sir.
+{69089}{69168}- Good evening, ma'am. Good evening, sir.|- What is it, officer?
+{69176}{69264}I found this little girl.|She was very distressed indeed.
+{69288}{69365}- Tell them what you told me.|- I don't want to.
+{69481}{69523}There's no need to be frightened.
+{69541}{69609}Come on over here, sit with me,|and tell me all about it.
+{69669}{69744}You don't want Mr. Holmwood|to think you're a crybaby, do you?
+{69756}{69792}You're a big girl now.
+{69829}{69865}Tell me what happened.
+{69904}{69989}I was out by myself,|and she came up to me.
+{70005}{70089}And said, "Hello, Tania,|shall we go for a little walk?"
+{70107}{70175}I said yes. And we went for a walk.
+{70190}{70274}Then someone came along,|and she ran away and left me...
+{70281}{70313}...and I was lost.
+{70352}{70411}Who was she? Who did you see?
+{70453}{70494}Come on. Tell me.
+{70512}{70535}Who was she?
+{70577}{70606}Aunt Lucy.
+{72600}{72687}- I heard you call me, Aunt Lucy.|- Yes, dear.
+{72794}{72823}Come along.
+{72852}{72922}You're cold. Where are we going?
+{72925}{73015}For a little waIk. I know somewhere|nice and quiet where we can play.
+{73833}{73928}Is it much further, Aunt Lucy? I'm so tired.
+{73941}{73986}We're nearly there, my darling.
+{74012}{74035}Lucy!
+{74164}{74219}Arthur, dear brother!
+{74257}{74337}Dear Arthur, why didn't you come sooner?
+{74392}{74447}Come, let me kiss you.
+{75325}{75371}Put this on.
+{75411}{75496}- Please, I want to go home.|- And so you shall.
+{75517}{75588}I'll fetch Mr. Holmwood|and we can all go home together.
+{75593}{75691}- Not Aunt Lucy.|- No, not Aunt Lucy. Now you sit here.
+{75712}{75744}Be a good girl.
+{75773}{75866}You look like a teddy bear now.|Will you wear this pretty thing?
+{75942}{75975}Isn't that lovely?
+{75984}{76043}- You promise not to run away?|- I promise.
+{76119}{76197}If you watch over there,|you'll see the sun come up.
+{76250}{76276}Keep warm.
+{76684}{76717}You understand now?
+{76783}{76844}- But why Lucy?|- Because of Jonathan.
+{76869}{76945}You read in his diary|about the woman he found at Klausenberg.
+{76958}{76998}This is Dracula's revenge.
+{77012}{77066}- Lucy is to replace that woman.|- Oh, no!
+{77081}{77171}I've watched her tomb each night|since she was interred three days ago.
+{77185}{77244}Tonight she ventured out for the first time.
+{77254}{77348}Holmwood, I know your one wish|is that Lucy should rest in peace.
+{77351}{77428}I promise to fulfill that wish. But first...
+{77445}{77526}...if I have your consent,|she can lead us to Dracula.
+{77557}{77604}How can you suggest such a thing?
+{77625}{77704}That she should be possessed by this evil|for another second?
+{77737}{77828}What about Gerda's child,|and the others she will defile?
+{77851}{77897}No, I couldn't! I couldn't!
+{78074}{78119}Of course.
+{78127}{78199}will you take that child home|and meet me back here in an hour?
+{78244}{78272}It's all right.
+{78275}{78346}It's nearly dawn,|she won't leave the coffin again.
+{78665}{78701}Is there no other way?
+{78740}{78772}But it's horrible!
+{78808}{78845}Please, try and understand.
+{78868}{78948}This is not Lucy, the sister you loved.|It's only a shell.
+{78953}{79015}Possessed and corrupted|by the evil of Dracula!
+{79025}{79089}To liberate her soul|and give it eternal peace...
+{79101}{79157}...we must destroy that shell for all time!
+{79215}{79263}Believe me, there is no other way.
+{81755}{81805}- Drink this.|- I'm all right now.
+{81816}{81872}- Drink it.|- Thanks.
+{82016}{82084}There's so much in Jonathan's diary|I don't understand.
+{82108}{82166}Can Dracula really be as old|as it says here?
+{82184}{82218}We believe it's possible.
+{82221}{82288}Vampires are known|to have gone on from century to century.
+{82291}{82367}Records show that Count Dracula|could be 500 or 600 years old.
+{82427}{82459}Another thing.
+{82462}{82532}I always understood that|if there were such things...
+{82540}{82605}...they could change themselves|into bats or wolves.
+{82648}{82686}That's a common fallacy.
+{82744}{82804}The study of these creatures|has been my life's work.
+{82807}{82878}I did research with some|of the greatest authorities in Europe.
+{82881}{82940}And yet,|we've only just scratched the surface.
+{82947}{83005}A great deal is known|about the vampire bat.
+{83020}{83088}But details of these re- animated bodies|of the dead...
+{83108}{83155}...the "undead," as we call them...
+{83160}{83247}...are so obscure, that many biologists|will not believe they exist.
+{83316}{83372}Of course, you are shocked and bewildered.
+{83386}{83455}How can you expect|to understand in so short a time?
+{83462}{83524}But you've read and experienced enough|to know...
+{83530}{83602}...that this unholy cult must be wiped out.
+{83623}{83720}- I hope that you will help me.|- I'll do anything you say.
+{83745}{83768}Thank you.
+{83790}{83841}Of course, we do know certain things.
+{83864}{83913}You witnessed one a little while ago.
+{83928}{83990}And we also know that during the day...
+{83994}{84052}...the vampire must rest in his native soil.
+{84122}{84206}When I went to Castle Dracula,|a hearse came tearing through the gates.
+{84209}{84251}In that hearse was a coffin.
+{84261}{84332}I believe it contained Dracula|and a bed of his own earth.
+{84343}{84427}To get here, that hearse would have|to come via the frontier at Ingstadt.
+{84435}{84486}They'll have a record|of where it was going.
+{84489}{84576}We need that address.|Will you come with me to Ingstadt?
+{84656}{84712}How Long will it take?|I must let Mina know.
+{84715}{84776}With any luck,|we should be back by tomorrow morning.
+{84913}{84948}Customs House
+{85043}{85126}That is quite out of the question, sir.|Against regulations.
+{85129}{85175}We want to know|where that coffin was going.
+{85178}{85244}I can't give away information|without proper authority.
+{85247}{85333}- This is very urgent! I am a doctor.|- I'm sorry, sir.
+{85370}{85419}There's a lad with a message for you.
+{85422}{85470}Personal, he said.|He wouldn't give it to me.
+{85473}{85514}All right, Gerda, I'll see him.
+{85766}{85806}- Yes?|- You're Mrs. Holmwood?
+{85817}{85864}- I am.|- Got a message for you.
+{85869}{85975}You're to go to 49 Frederickstrasse|right away. And you're not to tell anyone.
+{85978}{86002}Who says?
+{86005}{86072}Arthur Holmwood, he calls himself.|Said you'd know him.
+{86093}{86158}But that's impossible.|My husband has gone to Ingstadt.
+{86161}{86242}Not if he gave me this message, he hasn't.|And he gave me this message.
+{86245}{86269}Good night.
+{86341}{86396}You need permission|from the ministry in writing.
+{86399}{86465}I have my orders and I must obey them.
+{86469}{86569}It is laid down in the government|regulations that under no circumstances...
+{86630}{86742}...may an unauthorized person|be permitted to examine....
+{86797}{86906}Of course, in an emergency,|we do sometimes make an exception.
+{86909}{86964}And seeing this gentleman is a doctor....
+{87088}{87142}- When did you say it was?|- December 1.
+{87186}{87259}Klausenberg to Karlstadt. Let me see.
+{87311}{87380}Here it is. One hearse, one coffin.
+{87401}{87504}J. marx, 49 Frederickstrasse, Karlstadt.
+{88058}{88091}Arthur?
+{88315}{88344}Arthur?
+{88977}{89041}Are you sure|I can't get you anything to eat, sir?
+{89065}{89112}No, thank you, Gerda. We haven't time.
+{89115}{89180}But I would like a word|with Mmrs. Holmwood before we go.
+{89185}{89262}- will you go up and see if she's awake yet?|- Yes, sir.
+{89489}{89518}Are you ready?
+{89757}{89818}- She's not there, sir.|- Not there?
+{89821}{89844}No, sir.
+{89859}{89887}Good morning.
+{89983}{90030}Mina, you gave me quite a fright.
+{90041}{90093}Where have you been|at this hour of the morning?
+{90096}{90180}It was such a lovely day, I got up early|and went for a walk in the garden.
+{90183}{90267}- I didn't expect you back so soon.|- I'm afraid I have to go out again.
+{90302}{90372}- When will you be back?|- I can't say for sure.
+{90401}{90460}You look pale. Are you all right?
+{90481}{90555}Arthur, darling, don't fuss.|I feel perfectly well.
+{90600}{90633}Good-bye, darling.
+{91422}{91540}Perhaps you'd better Iet me Iead the way,|these steps can be dangerous.
+{91553}{91648}We don't want to have an accident, do we?|No, we don't.
+{91661}{91746}An old man came here once|to see his dear departed...
+{91749}{91834}...and he fell down these stairs.|It was quite amusing.
+{91837}{91953}He came to pay his last respects|and he remained to share them.
+{91987}{92016}Quite amusing.
+{92077}{92120}Where are we? Where are we?
+{92169}{92214}It's around the back, somewhere.
+{92217}{92291}It's been here so long|it's bound to be at the back, isn't it?
+{92294}{92346}This way, gentlemen. You follow me.
+{92365}{92421}I know where it was. This way.
+{92505}{92549}This is extraordinary!
+{92572}{92652}It was there. I know it was,|because I saw it only yesterday.
+{92663}{92746}I really don't understand|who could have moved it.
+{92909}{92982}The hearse driver might've lied|to the frontier official...
+{92985}{93019}...about where he was going.
+{93022}{93072}But the fellow at the morgue wasn't lying.
+{93075}{93133}He was surprised|when he saw the coffin wasn't there.
+{93136}{93174}He must have had it sometime.
+{93177}{93285}- I think he's still somewhere in Karlstadt.|- But where? This is a big town.
+{93309}{93359}Not many places he could hide,|don't forget.
+{93362}{93397}There is that, of course.
+{93409}{93477}What are you two|being so mysterious about over there?
+{93487}{93536}We'll be with you in a moment, darling.
+{93601}{93694}There is an old neglected graveyard|about 3 miles from here.
+{93711}{93763}Somewhere in this area.
+{93784}{93822}St. Joseph's.
+{93869}{93896}Just one moment.
+{94009}{94074}Mina, my dear, don't think I'm being silly...
+{94084}{94164}...but I'd feel happier|if during my absence you would wear this.
+{94189}{94267}Please don't ask me why,|but just wear it for my sake.
+{94335}{94408}- Arthur, I....|- Please, Mina.
+{95356}{95438}You said Lucy would lead us to Dracula.|Why didn't I listen to you?
+{95441}{95480}This would never have happened.
+{95484}{95569}Don't blame yourself,|but you must let Mina lead us now.
+{95592}{95639}We'll give her every protection we can.
+{95642}{95682}Tonight we'll watch the windows|of her room.
+{95685}{95744}- They face two sides of the house?|- Yes.
+{95840}{95915}I know I ask a great deal of you,|but you mustn't weaken now.
+{95934}{96006}We have it within our power|to rid the world of this evil.
+{96097}{96162}And with God's help we'll succeed.
+{100233}{100307}Mina's safe now, but we must|watch again tonight. Get some rest.
+{100310}{100383}- What about you?|- I'll be all right in there, if I may.
+{100413}{100470}- I'll get you a rug from our room.|- Thank you.
+{100673}{100703}Mina!
+{102604}{102652}Just sit still like that for a minute.
+{103078}{103103}Thank you.
+{103347}{103406}- will she be all right?|- I think so.
+{103595}{103626}Let me see your arm.
+{103658}{103681}Steady.
+{103717}{103752}Are you all right?
+{103877}{103908}Yes, it's very good.
+{104022}{104097}You'll need plenty of fluid.|Tea, coffee, or better still, wine.
+{104112}{104164}Go down and have some now,|there's a good fellow.
+{104485}{104544}Don't worry,|Gerda and I will take care of her.
+{104885}{104961}Just bathe her forehead, will you?|With eau de cologne or something.
+{105397}{105461}- How is she now?|- She's reacted very well.
+{105485}{105511}Thank God!
+{105564}{105628}How did he get in?|We watched the house all night.
+{105647}{105717}Your theory must be wrong.|He can change into something else.
+{105720}{105780}He must be able to.|How else could he have got in?
+{105833}{105861}I wish I knew.
+{105936}{106003}- Madam is sleeping now, sir.|- She mustn't be left.
+{106006}{106063}I'll go up to her. I'd like to.
+{106075}{106148}You stay and rest, and have some wine.|I'm sure you need both.
+{106173}{106273}- Gerda, will you fetch another bottle?|- Sir, I don't like to.
+{106276}{106365}You know what happened last time|when I disobeyed Mrs. Holmwood's orders.
+{106368}{106396}What do you mean?
+{106399}{106490}Madam told me the other day that I must,|on no account, go down to the cellar.
+{107110}{107179}Holmwood! Holmwood!
+{107617}{107668}Gerda, what happened?
+{107725}{107785}You said to come back to madam|so I came up here.
+{107788}{107861}- And he looked like the devil!|- What happened?
+{107910}{107994}He came in here and picked madam up|like she was a baby!
+{108028}{108066}Calm yourself.
+{108069}{108136}There's only one place|he can make for now: his home.
+{108538}{108615}It's a coach driver.|He's been dead about half an hour.
+{108897}{108945}You think Dracula killed that coachman?
+{108948}{109018}Of course, without a coach|he'd never get home before sunrise.
+{109021}{109045}He'd be dead.
+{109048}{109115}- If he does get home- - |- He'd hide in the castle vaults.
+{109118}{109173}- We'd lose him there.|- And Mina?
+{110281}{110302}Halt!
+{110312}{110335}Halt!
+{110621}{110655}It's getting light.
+{111481}{111504}Look!
+

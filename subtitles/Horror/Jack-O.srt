@@ -1,0 +1,1592 @@
+{790}{855}!Vuela la conga, muchachos!
+{1470}{1522}!Conga! !Conga!
+{1795}{1865}- God!|- So bloated.
+{1867}{1950}- She's bingeing.|- Bingeing? She's fat.
+{2140}{2215}Honey?
+{2242}{2312}Whew! I thought|I lost ya, honey.
+{2375}{2465}- God, I think it's a thyroid problem.|- I think she's just fat.
+{2532}{2600}Oh, yeah.
+{3160}{3225}What's wrong?|What's wrong, honey?
+{3227}{3337}- It's too soon.|- Oh. Oh! Josh, come here!
+{3410}{3467}Hold on, honey. Easy. Easy.
+{3617}{3657}- Brian, what's happening?|- Help!
+{3660}{3705}- I'm only in the first trimester.|- Help!
+{3710}{3770}Would someone please help?|We have an emergency here. I think--
+{3775}{3842}-Yeah, call the doctor.|-Um, please, could you call Dr Benfante?
+{3847}{3910}- Help.|- Calm down. Now, now.
+{3912}{3975}- Huh?|- Oh, I'm sorry.|- Help me!
+{3977}{4042}- Help me.|- Over here. One at a time.
+{4080}{4160}Dr Brandon--
+{4162}{4230}- Come on, now!|- Put it over here.
+{4235}{4315}- No, I don't have anything!|- Put it in the tray.|- Honey, it's your tin.
+{4317}{4405}Huh? Oh!
+{4407}{4457}Okay.
+{4460}{4510}- It's okay.|- No smoking in the hospital.|- No, no. No smoking in here.
+{4512}{4592}Put that out.
+{4597}{4675}I'm gonna quit tomorrow.|I swear.
+{4677}{4732}No, no, sideways.|Come through-- Tha-That's it.
+{4735}{4815}- When are you due, ma'am?|- N-Not for another seven months.
+{5112}{5200}- Susan, wh-where's Dr Benfante?|- Brian, come here.
+{5202}{5247}- Just hold my hand.|- There we go.|- The l.V. set?
+{5250}{5362}- Have you had Lamaze?|- Uh, well, I haven't even|signed up for the course yet.
+{5365}{5420}I'm only two months along.
+{5422}{5507}- That's the epidural talking.|- She hasn't had an epidural.
+{5510}{5607}What are you babbling about?|It's-- It's too soon.
+{5610}{5677}- It's too soon, Brian.|- Here he comes.
+{5680}{5737}Okay, guys. Calm down.
+{5742}{5817}- Take it easy.|Calm down, everybody. Calm down.|- And now a deep breath.
+{5820}{5897}It's too early for contractions.
+{5900}{5962}- Hold tight. Hold my hand, honey.|Hold my hand.|- All right.
+{5965}{6022}- Let's just relax.|- That's right.
+{6025}{6087}- Okay. Okay.|- Christ.|- Wait, wait.
+{6090}{6142}- Wait, wait.|- You said, "Come back next week." Huh?
+{6145}{6190}- Yeah.|- You said it was just fluid retention.
+{6192}{6237}"Go home. Have fun."
+{6240}{6315}- Yeah, I'm not having fun.|- Yeah, you gotta breathe.
+{6320}{6405}Sonogram's fine, Doctor,|for a full-term pregnancy.
+{6407}{6470}- Doc, what's going on?|- Okay, it's really important|that you relax and breathe.
+{6475}{6517}- She's fully dilated.|- It's gonna be all right.
+{6522}{6575}- Now you're gonna push.|- Push, okay? Yes.|- No. It's too soon.
+{6577}{6650}- Push hard. Push. Hold it. Hold it.|- Push. Push. Push.
+{6652}{6747}- Good girl.|- Give it all you got.|- No, it's too soon!
+{6750}{6797}- One more time.|- One more deep breath.|- Deep breath in.
+{6802}{6865}- One more. Deep breath.|- And out.|- Push.
+{6867}{6945}Push.
+{7242}{7307}Look at that.|You've got a baby.
+{7345}{7415}It's a beautiful,|beautiful boy.
+{7462}{7527}Hey there, bud.
+{7555}{7605}Hi.
+{7640}{7717}- Don't rust up on me now.|- I'm sorry.
+{7820}{7862}We'll call him Jack.
+{7865}{7950}What you gonna be|when you grow up
+{7952}{8035}What you gonna do|when your time is up
+{8037}{8117}What you gonna say|when things go wrong
+{8120}{8182}What you gonna do|when it's all over
+{8185}{8252}There's a road
+{8257}{8342}Long and windin'
+{8347}{8402}The lights are blindin'
+{8442}{8512}But it gets there
+{8517}{8592}Don't give up
+{8595}{8677}Don't look back
+{8680}{8767}There's a silver linin'
+{8770}{8832}It's out there somewhere
+{8882}{8962}Everybody wants an answer
+{8965}{9045}Everybody needs a friend
+{9047}{9122}We all need a shining star
+{9125}{9202}On which we can depend
+{9207}{9270}So tonight we're gonna wish
+{9272}{9312}Upon a star
+{9317}{9392}We never wished upon before
+{9395}{9450}What you gonna be|when you grow up
+{9452}{9537}- To find what you're lookin' for|- What you gonna do when your time is up
+{9540}{9610}There'll be times
+{9615}{9707}In your life
+{9710}{9820}Yeah, when you'll|be dancing and shit
+{9822}{9872}But you ain't gettin' it
+{9875}{9945}Don't get disillusioned
+{9950}{10042}No, don't expect too much
+{10045}{10132}'Cause if what you have|is all you can get
+{10135}{10222}Just keep on tryin'|It just ain't happened yet
+{10225}{10317}Everybody wants to be a winner
+{10320}{10400}Everybody has a dream
+{10402}{10475}We all need a shining star
+{10480}{10557}When things ain't what they seem
+{10562}{10665}So tonight we're gonna|wish upon a star
+{10670}{10757}We never wished upon before
+{10890}{10945}I'm sorry this|has taken so long.
+{10947}{11042}Like you, we're puzzled|by your son's premature birth.
+{11045}{11172}This is Dr Lin. He's an|infant disorder specialist from Cornell.
+{11175}{11292}I want to assure you both that|there is nothing debilitating|about your son's condition.
+{11295}{11357}He's totally healthy|and normal in appearance...
+{11362}{11415}alert and quite happy.
+{11420}{11490}However, his cells are|developing at what we feel...
+{11492}{11545}is four times the normal rate.
+{11547}{11627}Even though your son was only|ten weeks old when he was born...
+{11630}{11737}physically he was nine months|and ready to leave your womb.
+{11740}{11830}Nature has given us all|an internal clock.
+{11835}{11937}It meters out lifespan,|controls our growth.
+{11942}{11997}Your son's internal clock...
+{12002}{12087}seems to be ticking|faster than usual.
+{12090}{12167}- But he's healthy?|- Absolutely.
+{12227}{12325}I'm sorry.|I still don't understand.
+{12330}{12380}I've never heard|anything like this before.
+{12382}{12450}Well, quite frankly,|neither have we.
+{12452}{12520}There are other aging syndromes|that we know of.
+{12522}{12592}Progeria, for example, which is|very devastating to the child, but--
+{12595}{12682}Jack's cells are replicating|at an unheard of rate.
+{12687}{12752}Is he gonna age like this|the rest of his life?
+{12757}{12815}Well, sir, this is|only speculation...
+{12817}{12910}but, uh, we feel that|at age one...
+{12915}{13010}your son may be physically|around age four.
+{13015}{13062}And if this continues|throughout his life...
+{13065}{13157}by the time he reaches|age ten, well, he could--
+{13160}{13245}Appear to be|an ordinary, full-grown...
+{13247}{13297}40-year-old man.
+{13300}{13365}Are you serious?
+{13505}{13572}That's where he lives, right|down the street my whole life...
+{13575}{13655}and I didn't even know about it.
+{13657}{13732}I don't believe any of it.|He's lying.
+{13735}{13827}Yeah. He's not a monster.|There's no such thing.
+{13830}{13927}I'm telling you.|He's our age, but he looks 40.
+{13930}{14017}All hairy and everything.|He's like a freak or something.
+{14020}{14097}Just like in that one movie.
+{14102}{14187}- Which movie?|- Duh! The one--
+{14190}{14275}- Sorry.|- The one with the freak in it.|What did I just say?
+{14280}{14335}Oh. Oh, yeah, l-l saw that one.
+{14337}{14410}You didn't see it. His mom wouldn't|let him see it 'cause he has nightmares.
+{14412}{14522}- I mean you no harm.|- Why haven't we ever seen him then?
+{14525}{14590}I heard he's got|all kinds of toys too.
+{14595}{14637}His parents buy him everything.
+{14640}{14720}If he's our age,|why ain't he in school?
+{14722}{14817}Because he's dangerous.|He's huge enough to hurt other kids.
+{14820}{14887}That's why they keep him locked up.
+{14890}{14942}Friend.
+{14947}{15015}- What do you see?|- Nothing.
+{15080}{15145}A teacher comes|to his house every day.
+{15307}{15387}Jack, you're not paying attention.
+{15390}{15482}- Jack, you're not paying attention.|- Don't be afraid.
+{15485}{15532}I saw him in the store|with his mom.
+{15535}{15635}I thought it was her husband at first,|but he's like a giant boy.
+{15637}{15715}- He shaves and stuff.|- There's no such thing as giants.
+{15720}{15785}Well, how'd he get like that?
+{15787}{15832}Maybe his mom took drugs.
+{15835}{15905}Maybe it was that fertility junk,|and she was gonna have quintuplets...
+{15907}{16005}but just turned into|one big baby.
+{16007}{16125}- Doof.|- Oh, he sleeps up there.
+{16127}{16217}He's a monstrosity.|That's why they hide him.
+{16220}{16282}No wonder they keep him|outta school.
+{16285}{16332}Maybe they got him chained up.
+{16335}{16390}Maybe they only let him loose|once a day to eat.
+{16395}{16450}Is that like a big pile|of bones in his backyard?
+{16452}{16532}- Where? Uh, what?|l-l don't see anything.|- Look!
+{16537}{16577}Look!
+{16620}{16670}Look out!
+{16697}{16755}Come on, Louis!
+{16760}{16807}- We gotta-- We gotta get outta here!|- Oh, gross!
+{16810}{16880}Come on, Louis!|He's watching you! Come on!
+{16910}{16970}Come on!
+{17492}{17560}Ow. Ow.
+{17562}{17625}- What happened? What'd you do?|Where does it hurt?|- Ow!
+{17630}{17712}- My knee.|- Let me see.
+{17760}{17825}Well, it's not bleeding. Okay.
+{17827}{17890}- It's not?|- I can fix it for you.|- Okay.
+{17895}{17950}- I'll bite it.|- No, no. No, don't bite it.|- Oh, yeah.
+{17952}{18002}- I really do. I have to bite it.|- Don't.
+{18007}{18052}- Yeah?|- It'll get infected.|- Oh, okay.
+{18055}{18122}But this leg has got to come off.|I'll get your father's saw.
+{18127}{18190}No, no. No, no, don't get that.
+{18242}{18320}I saw-- I saw your butt.
+{18322}{18400}- Yeah, you did.|- Sorry.
+{18402}{18457}Let's see.
+{18535}{18580}- What do you hear?|- Nothing. It's okay.
+{18582}{18642}- How about the toes?|- The toes are okay. I can feel that.
+{18645}{18682}- Here?|- I can feel that.|- How about that?
+{18685}{18745}- That's o-- That's--|- Yeah? That's much better?
+{18790}{18837}Oh, go--
+{18877}{18917}- Now--|- That feels good now.
+{18920}{18972}- I told you about those laces, champ.|- Yeah.
+{18977}{19067}- Hmm?|- Yeah.|- Okay.|- You did. Sorry.
+{19265}{19322}- So, where were we?|- History.
+{19325}{19395}History. Okay.
+{19397}{19482}So, by the time he was 18...
+{19487}{19600}the young Alexander|had already conquered|most of the Greek city states...
+{19602}{19670}and some feel that|he had learned everything...
+{19675}{19747}from his tutor, Aristotle.
+{19802}{19855}Jack.
+{19885}{19952}- Jack.|- Hmm?
+{19955}{20015}- What did I just say?|- Aristotle.
+{20057}{20112}- Where's Aristotle?|- Book.
+{20115}{20212}- Where's Jack?|- Outside.
+{20310}{20350}I think what you have|set up here is wonderful.
+{20355}{20425}I'm not trying to take|anything away from that.
+{20427}{20472}I know you're not.
+{20475}{20572}But to say that Jack should start|going to public school is crazy.
+{20615}{20692}Yeah, but because|a person is different...
+{20695}{20747}you can't make|an outcast of him.
+{20750}{20800}But we'll talk to the principal.
+{20802}{20855}The principal will prepare|the students.
+{20860}{20942}Mr Woodruff,|he's got a 5:00 shadow.
+{20945}{21045}I don't think he can fit in.|I wish he could.
+{21047}{21092}But nobody said|it would be easy.
+{21095}{21222}Jack's developed defence mechanisms just|like any child with a shortcoming does.
+{21225}{21282}I appreciate what|you're trying to do...
+{21285}{21390}but Brian and l,|we've seen how people react.
+{21392}{21437}We've been through this before.
+{21442}{21532}I just don't want Jack...
+{21535}{21592}to have to face that.
+{21645}{21727}Look at his eyes.
+{21730}{21780}His child's eyes.
+{21837}{21917}Look at his eyes|when he sees other children.
+{21990}{22065}His life moves faster than ours,|and he wants to lead a full life...
+{22067}{22157}and I don't think you|ought to let it pass him by.
+{22160}{22217}It's not fair.
+{22497}{22550}- Marco.|- Polo.
+{22770}{22825}I've found you now.
+{22885}{22930}- Got ya!|- Gotta touch me!
+{23052}{23112}Would you two|knock it off up there!
+{23115}{23167}"You better knock it off up there!"
+{23375}{23432}- Marco.|- Polo.
+{23565}{23637}Gotcha! You're it!
+{23640}{23725}Oh, honey. Are you okay?
+{23727}{23782}Yeah, I'm okay.
+{23852}{23942}You know, if something's wrong,|Jackie, you can tell me.
+{23945}{24010}Mr Woodruff mentioned|something today.
+{24082}{24162}What, honey? Huh?
+{24165}{24230}You can tell me.
+{24300}{24365}Mom, am I a giant?
+{24367}{24430}No, of course not!
+{24500}{24602}- Where did you hear that?|- Is that why I don't go to school?
+{24605}{24727}Honey, I've told you.|It's lots of things.
+{24730}{24787}What things?
+{24840}{24887}We'll talk about this, okay?
+{24890}{24945}When?
+{24950}{25002}-Well, not right now. It's time for bed.|-Time for bed.
+{25005}{25060}- Brush your teeth. Put down the lid.|- Brush your teeth. Put down the lid.
+{25115}{25175}Good night, Mom.
+{25475}{25545}Woodruff doesn't know|what he's talking about.
+{25547}{25602}If he doesn't know what|he's talking about, then why|are we paying him all this money...
+{25607}{25662}to tutor Jack?
+{25665}{25792}I blame him, filling Jack's head|with all these ideas of going to school.
+{25795}{25842}Imagine that.
+{25845}{25925}A teacher wanting a kid|to go to school, hmm?
+{25957}{26025}Where do they get such ideas?
+{26027}{26085}That's how we do it?
+{26090}{26147}Just throw him into school?
+{26150}{26230}- Mm-hmm.|- You know how children are.
+{26265}{26320}They make fun of|the fat kid and...
+{26322}{26400}the kid who wears glasses.
+{26402}{26492}What do you think they're gonna do|to a six-foot, hairy kid?
+{26807}{26857}Mom, Dad.
+{26860}{26922}Jackie? You okay, honey?
+{26927}{26975}- Something wrong?|- Oh, I'm okay.
+{26977}{27070}Just can't sleep.|I had a scary dream.
+{27072}{27122}Can I sleep in here?
+{27127}{27180}Uh, yeah. Of course, buddy.
+{27182}{27227}Stimpy too?
+{27230}{27280}- Sure.|- Okay.
+{27282}{27335}Oh. Hey. Easy.
+{27337}{27390}Okay.
+{27665}{27725}Hey, come on. Come on.|Come on. Come on.
+{27727}{27782}- Jackie. Go to sleep.|- Okay.
+{27835}{27885}- Good night, Mom.|- Good night, sweetie.
+{27887}{27942}Good night, Dad.
+{28197}{28262}You sure he's ready for school?
+{28295}{28342}Jackie'll be fine.
+{28412}{28497}It's the rest of the world|I'm worried about.
+{28940}{29000}Taking a look at traffic|approaching the Bay Bridge, not too bad.
+{29002}{29057}The metering lights have been|switched on at the toll plaza.
+{29062}{29125}The wait begins right about|the Oakland army base right now.
+{29127}{29187}Marin County is under fog,|but the driving's at the speed limit...
+{29190}{29255}down and across the Golden Gate Bridge|as you make your way into the city.
+{29257}{29292}That's traffic.|Back to you, Rick.
+{29295}{29350}Hey, it's Rick the Lip with you|on the "Z" Morning Zoo.
+{29355}{29422}Another beautiful one out there|in the city by the bay.
+{29427}{29485}And guess what.|We're still here.
+{29487}{29542}How about that little wake-up call|that happened this morning at 5:00?
+{29547}{29597}- Only 3.2 on the Richter scale,|but I tell you what...|- 3.2!
+{29600}{29682}it was a big fat 10|on the scared-the-hell-outta-me scale.
+{29687}{29757}- Didn't scare me!|- This man hasn't shaken|so much since I was single.
+{29760}{29812}Hey, hey, you got someplace|to be at 7:00?
+{29815}{29855}- Yeah, Rick, I gotta be at school!|- You're kidding. You're late.
+{29860}{29915}- 7:05.|- I'm late?|- Get yourself outta bed.
+{29920}{29957}- I'm late, I'm late, I'm late!|- You got a whole day out there|waitin' for ya.
+{29962}{30022}- Go! Yeah!|- I'm livin' it. Let's go!|- I'm livin' it, too, Rick!
+{30025}{30070}- Let's do it, people.|- I'm gettin' to it, Rick!
+{30075}{30117}Misunderstood|Got an--
+{30122}{30177}I hate that song.
+{30182}{30242}- There you go. Easy.|- Dad, let me do this on my own, okay?
+{30245}{30292}- Well, just--|- Watch.|- Okay, okay, okay.
+{30295}{30352}But ta-- Take it easy.|Take it easy.
+{30355}{30392}- And--|- Okay.|- Okay.|- Okay, okay.
+{30395}{30435}- Dad, l-- Dad, Dad.|- Okay. Okay, just--|Okay, hold it. Hold it.
+{30440}{30507}- Let me help you. Oh!|- Ow! Dad!
+{30510}{30592}- Here. Oops. Put this little Kleenex--|- Okay, put that there.
+{30627}{30665}- Ah. Okay.|- Okay. Thank you.
+{30667}{30702}Let me just get|that last little part there.
+{30707}{30752}- Yeah, just finish up...|- Okay.|- and come on down.
+{30755}{30802}- Okay.|- Hurry up.
+{31272}{31342}- You psyched?|- Psyched.|- Okay.
+{31425}{31507}Oh, wow.|Look at all those kids.
+{31510}{31590}- Just remember, you can come|home anytime you want to.|- Uh-huh.
+{31595}{31630}- Okay?|- Yeah.|- Okay.
+{31632}{31687}I'm okay. Thanks, Dad.
+{31862}{31930}Hold it, Jack!
+{31932}{32032}Come here. Let me get this.|Okay. Here we go.
+{32202}{32280}- Come on.|- I pledge allegiance to the flag...
+{32282}{32350}of the United States of America.
+{32355}{32442}- And to the republic--|- Welcome, welcome, welcome.
+{32445}{32542}- One nation, under God--|- Thank you, Mr and Mrs Powell and Jack.
+{32547}{32597}Jack, how nice to see you.
+{32600}{32700}I'm Mr McGee.|I've heard so much about you, Jack.
+{32702}{32747}- Hello, Mr Magoo.|- McGee.
+{32750}{32797}- Oh. McGee.|- Yes.|- Magoo.
+{32800}{32890}Jack, how would you like|to see your classroom? Yes?
+{32930}{32995}- Yes.|- A little louder.
+{32995}{33072}- Yes.|- A little louder, Jack.
+{33075}{33142}Yes!
+{33147}{33190}Follow me.
+{33232}{33282}- Is he deaf?|- It's okay.
+{33285}{33387}- Tell me, Jack.|What do you think of it so far?|- Humongous heck-a-cool.
+{33390}{33477}It is "heck-a-cool"|and a wonderful school.
+{33505}{33570}A fun school, an upbeat school.
+{33572}{33645}And I hope you'll have|the time of your life here.
+{33650}{33755}You'll have some wonderful|teachers and wonderful pupils.
+{33757}{33817}- And you're going to be one of them.|- Wow!
+{33822}{33925}Here's your classroom right here.|Miss Marquez.
+{33927}{33982}One second. Honey,|you want to be buttoned up, don't ya?
+{33985}{34030}- Too tight.|- That too tight? All right.|- Okay.
+{34032}{34127}- Don't give me a snuggie.|- Okay.
+{34130}{34182}Mom, don't. That's gross.|You're embarrassing me.
+{34185}{34262}Listen, honey,|if anybody's mean with you...
+{34265}{34372}you just tell your teacher and someone|will call me and, and I'll kill 'em.
+{34410}{34475}- Karen.|- Now are you ready, Jack?
+{34522}{34582}Yes. Um--
+{34585}{34642}Are there any other questions?
+{34735}{34845}Miss Marquez, excuse me, but your new|student, Jack Powell, has just arrived.
+{34870}{34917}Jack, this is Miss Marquez...
+{34920}{34977}your fifth grade teacher.
+{34982}{35040}Come in, please.
+{35042}{35105}Don't be shy.
+{35277}{35335}Come in, Jack. Come in.
+{35520}{35582}Whoa! No way.
+{35650}{35737}- Jeez, he looks like my dad.|- Except hairier.
+{35805}{35872}Come on. It's okay.
+{35875}{35935}Welcome to our class.|I'm glad you're here.
+{35940}{36010}This place is for fun.
+{36015}{36092}Everybody, this is Jack Powell.
+{36160}{36215}Class-- "Hi, Jack."
+{36245}{36315}- Hi, Jack.|- Hi.|- Hi, Jack.
+{36317}{36370}Hi.
+{36375}{36442}All right. Uh, I know some of|you must be curious about Jack.
+{36447}{36500}So, why don't we just take|some time right now...
+{36502}{36582}and ask him some of the questions|that you've got on your minds.
+{36585}{36647}- Is that all right with you, Jack?|- Sure.
+{36650}{36717}- Okay.|- I don't mind.
+{36720}{36772}Go on. Ask him something.
+{36777}{36852}- I'm not askin' him.|- Louis?
+{36897}{36945}Anybody?
+{36950}{37020}Come on.|Since when is this group shy?
+{37022}{37112}All right. Fine. I've got plenty of|questions. Jack, when's your birthday?
+{37115}{37167}Mm, September 12th.
+{37170}{37217}1902.
+{37220}{37285}That's enough. Hmm, let me see.
+{37287}{37372}Uh, oh! What kind of foods|do you just hate?
+{37375}{37452}- Broccoli.|- Broccoli, yuck!|- Makes you fart.
+{37492}{37542}Anybody else here hate broccoli?
+{37545}{37597}Hands. Yeah.
+{37602}{37650}Uh-huh.
+{37652}{37730}Well, it looks like you've got|more in common than you think.
+{37780}{37870}Jack, your seat's right there|in the back. Why don't you go|sit down and we'll get started.
+{37872}{37925}- Okay?|- Okay.|- Okay.
+{38042}{38112}All right. Everybody,|take out your giant book--
+{38115}{38172}I mean, your geography book.
+{38275}{38335}Turn to page 78.
+{38337}{38387}Okay. So, what we|found out the other day...
+{38390}{38470}was that the name "California"|was initially used for--
+{38472}{38527}- Everybody, calm down. Come on.|- I think he's stuck.
+{38530}{38607}Was used for what we know today|as Baja California.
+{38610}{38670}It was first used by Cortez|in the 1530s...
+{38672}{38787}and was found in the journal|of Juan Rodriguez Cabrillo in 1542.
+{38790}{38870}Victor, eyes up front!|Everybody! Come on now. Calm down.
+{38875}{38930}Timber!
+{38965}{39042}Jack, are you okay?
+{39085}{39125}- Are you all right, sweetie?|- Oh, man!
+{39130}{39172}Are you sure you|don't need my help?
+{39667}{39712}- You okay, Jack?|- I'm okay.
+{39807}{39842}Jack.
+{40112}{40167}Is he in our class?
+{40395}{40447}Hot, hot, hot. Almost.
+{40505}{40587}Shoot. Ooh-ooh. Ah.
+{40842}{40902}Dog always gets 'em.
+{40955}{41032}Oh, man, he's lookin' at us.
+{41035}{41090}He probably recognizes us|from the street.
+{41095}{41147}He's probably planning on|kicking our butts or something.
+{41680}{41757}- Hey, punk, why don't you watch|where my ball is going?|- You're funny, Victor!
+{41760}{41835}Maybe if you knew|how to play the game.
+{41837}{41887}- What was that?|- You heard me.
+{41890}{41972}You know what the problem is, Victor?|You have "Zackly" disease.
+{41975}{42025}- What's that?|- Yeah, what's that?
+{42030}{42092}It means your mouth smells|"zackly" Iike your butt.
+{42095}{42157}- Oh-ho!|- Shut up! That's pathetic.|- Shut up.
+{42160}{42205}That's so funny|I forgot to laugh.
+{42207}{42257}- Losers say, "What?"|- What?
+{42260}{42325}- Losers!|- Loser!
+{42327}{42422}You think you're so tough?|Take it out on the court,|'cause I can whup your butt.
+{42425}{42502}- Yeah!|- We can do it, man. Let's go.|- Come on, John-John.|- Let's kick their butt! Yeah!
+{42505}{42590}Why does he always have to drag me|along? You know he's gonna cream us.
+{42695}{42747}Ow! Don't!
+{42750}{42812}- Are you a freak?|- No.
+{42817}{42887}Oh. Well, Jane says|that you're a freak.
+{42890}{42962}- Who's Jane?|- I'm Jane, and I think you are a freak.
+{42965}{43032}Look at your hairy arms|and your eyebrows and--
+{43035}{43090}Yeah, he has receding hairline.
+{43092}{43150}Well, I'm not a freak.
+{43195}{43260}Don't, or I'll tell!
+{43262}{43332}- How old are you?|- I'm ten.
+{43335}{43385}- How old are you?|- I'm eight.
+{43387}{43432}- Yeah?|- Yeah.
+{43435}{43517}- So?|- You don't look ten.
+{43520}{43575}Look. You got the hairy arms.
+{43580}{43632}You got hairy knuckles.
+{43637}{43692}You look a lot older than us.
+{43695}{43772}It looks like you shave there.
+{43775}{43827}Yeah, I do. So?
+{43830}{43900}A ten-year-old doesn't shave,|so then you can't be ten.
+{43902}{44015}Yeah, you can't be ten if you|shave and you have hairy arms|and you're tall, really tall...
+{44020}{44082}- For real.|- and you're bigger.|- Yeah.
+{44085}{44187}- So I'm big for my age.|- Look. You have no hair.
+{44190}{44235}- You ha--|- I have hair. I got hair. See? Look.
+{44240}{44315}Yeah, but look. Right here you have|no hair. It looks like you're bald.
+{44317}{44417}I'm not bald, and I'm not a freak.|You're a freak, four eyes.
+{44420}{44530}He's ten, a whole two years|older than us. See?
+{44532}{44622}Oh, sure. Like that|explains it. Please.
+{44625}{44692}"Please."
+{44797}{44867}Don't poke me, or I'm telling.
+{44895}{44980}Over here! Yeah!
+{44982}{45045}- Oh, yeah?|- Losers. Yeah, losers!
+{45147}{45202}Shut up, you brat!
+{45370}{45430}Hey, how about a little help?
+{45467}{45552}- Throw it over.|- Yeah, throw it over.
+{45710}{45762}Wait! I'm not touchin'|that thing.
+{45767}{45812}It's been contaminated|now that he's touched it.
+{45817}{45882}- Yeah, I ain't touchin' it.|- Oh, my God!|- Me neither!
+{45885}{45960}- I ain't-- Uh! I ain't playin'|basketball for a week.|- Me too!
+{45962}{46057}- Five weeks!|- Cooties!
+{46062}{46112}Cooties! Cooties!
+{46635}{46702}Jack? Honey?
+{46735}{46795}I made sloppy joes for dinner.
+{46830}{46877}I'm not hungry, Mom.
+{46880}{46962}- Really juicy ones.|- Yeah?
+{46965}{47037}- You're gonna love it.|- No, I won't.
+{47040}{47117}- Guess what I made for dessert.|- What?
+{47152}{47210}Ya have to guess.
+{47272}{47347}- Can you smell it?|- Not through a box.
+{47350}{47430}Chocolate pudding!
+{47432}{47505}- Your favourite.|- Not any more, Mom.
+{47507}{47575}It's still hot.
+{47580}{47657}Mmm! I can smell it.|It's steaming.
+{47660}{47712}No, thanks.
+{48097}{48175}- This is serious.|- What happened?
+{48180}{48272}What do you think happened?|Children whispering. Children pointing.
+{48275}{48342}- Oh.|- He's not used to that, Brian.
+{48345}{48407}Karen.
+{48470}{48540}Jack?
+{48672}{48742}Hey, your mom made sloppy joes.
+{48747}{48810}Mom hates sloppy joes.
+{48812}{48867}Uh, that's true.
+{48870}{48925}In fact, all adults|hate sloppy joes...
+{48927}{48980}but sometimes we make 'em|to cheer up a kid who's had a bad day.
+{48982}{49037}- You want to tell me about it?|- No.
+{49042}{49100}Okay.
+{49147}{49202}You know what I was|just thinkin' about?
+{49205}{49265}- First time you ever rode|a bike. You remember that?|- Oh, yeah.
+{49267}{49382}Yeah. I mean, you,|you were so determined to ride.
+{49385}{49435}- You kept wipin' out and--|- Yeah.
+{49482}{49535}You nearly took out|a couple of the neighbours.
+{49540}{49595}It took a couple of days|until you finally got it.
+{49600}{49707}But look at you now. I mean, you--|you're, you're riding like a pro.
+{49800}{49885}- Kinda like school, isn't it?|- Yeah.
+{49887}{50002}Well, anyway, I just wanted|to see how you were doin'.
+{50005}{50070}You need anything,|give me a holler.
+{50212}{50285}Hey, Dad, could we|put up a basketball hoop?
+{50330}{50395}Yeah.
+{50445}{50512}All right. Get the ball.
+{50872}{50945}- Hi.|- I'll be back in a second.
+{51145}{51242}Hey in there.|How ya doin', Jack?
+{51245}{51297}Hi, Miss Marquez.
+{51442}{51522}Oh, are those Gummi Bears?
+{51525}{51597}Could I have a red one?|The red ones are my favourite.
+{51670}{51737}Yeah? Oh. Thanks.
+{51917}{51982}So, how do you like it so far?
+{52052}{52107}- Miss Marquez and Jack|- Marquez and Jack
+{52110}{52157}Sittin' in a tree
+{52160}{52242}K-l-S-S-l-N-G
+{52245}{52337}- Girls!|- First comes love, then comes marriage
+{52380}{52482}Jack, if anybody bothers you,|you just come and tell me, okay?
+{52487}{52537}Okay.
+{52622}{52697}Thanks for lunch.
+{52700}{52777}All right.
+{52780}{52832}- Phoebe and Jane.|- I told you.
+{52837}{52910}- It's all your fault.|- Over here right now. Today!
+{52957}{53027}- Come on. We're gonna|go see your teacher.|- She started it.
+{53030}{53082}- Please.|- That was very rude, you know.
+{53107}{53155}Let's kick their butts.
+{53262}{53350}Hey, Louis, you "Iouiser."|To ten.
+{53352}{53455}I'm not in the mood to get|my butt kicked today.
+{53460}{53510}Well, we got the new kid.
+{53512}{53545}What, are you crazy?
+{53550}{53602}Wait. You can't pick him.|He can't play with us.
+{53607}{53650}- Yeah.|- Hey, I can pick whoever I want.
+{53652}{53702}- What? Are you afraid to lose?|- No.
+{53705}{53790}Pick whoever you want.|We never lose.
+{53795}{53855}Yeah, pick whoever you want.|We never lose.
+{53860}{53965}Hey, you! Big guy.|You shoot hoops?
+{53967}{54050}- Me?|- No, the 40-year-old kid behind you.
+{54085}{54150}Yeah, you.|You play ball?
+{54152}{54237}Yeah. With my dad.
+{54242}{54332}- Are you fried?|- Hey, at least nobody's gonna slam him.
+{54335}{54402}- All right, let's do it.|- Losers take out.
+{54405}{54442}- So you take out.|- Yeah!
+{54445}{54492}Yeah, you take out.
+{54532}{54630}- Come on, just one chip.|- No!
+{54632}{54720}- This is gonna be a good game, man.|- Let go, man. Gimme some room.
+{54722}{54785}Wanna grab a burger|after school sometime?
+{54787}{54877}Now, listen. All you gotta do|is just stand by the hoop, okay?
+{54880}{54955}And I'll feed you the ball|like this.
+{54960}{55047}- Let's do this.|- Kick their butts.|- Yeah, kick their butts.
+{55050}{55162}Now, stand under the hoop.|Get your hands up.
+{55215}{55270}Who let Godzilla out?
+{55272}{55340}- And block him.|- I'll try.|- Let's do it.
+{55425}{55487}Oh, boy.
+{55555}{55582}Come on!|Get 'em, Jack!
+{55585}{55650}Yes!
+{55652}{55697}You said stand here.
+{55735}{55797}- Just move your feet.|- Okay, move my feet.
+{55822}{55870}- Pez?|- Sure, thanks.
+{55872}{55922}Stand here and move my feet.|Move my feet.
+{55927}{56002}Come on!|Come on!
+{56005}{56067}- Jack, get him!|- Yeah!
+{56070}{56127}- Hello, McFly.|- Hello.
+{56130}{56217}- You gotta block him.|- Invincible!|- Yes!
+{56272}{56330}Fake out.
+{56390}{56432}Come on, Jack!|Block him!
+{56472}{56522}- Yea!|- Yes!
+{56525}{56582}- No!|- No!
+{56585}{56637}Good work.
+{56642}{56732}- Get him!|- You get him!|- That's right, Mario!
+{56775}{56852}- Give us the ball.|- Losers take out.
+{56887}{56947}Defence! Defence! Defence!
+{56950}{57010}Defence! Defence!|Defence! Defence!
+{57012}{57105}- Defence! Defence! Defence!|- Come on, John-John!
+{57107}{57177}- Catch it! Catch it!|- Put it in the hole, Jack!
+{57182}{57232}- Yeah!|- Like that's real fair.
+{57260}{57315}We're kickin'|some major butt!
+{57317}{57362}- That was good.|- Give me the ball.
+{57365}{57410}Hey! What'd you stick at him?
+{57415}{57470}Loser takes out!
+{57472}{57517}Losers take out!
+{57595}{57645}Give it to Mario!
+{57647}{57742}- Mario!|- Shut up! Shut up!
+{57912}{57955}- Loser!|- Next time.
+{58022}{58067}Shoot it back.|Get it!
+{58122}{58167}Get it!
+{58275}{58350}- Victor!|- Bouncer.
+{58617}{58652}Unstoppable!
+{58805}{58870}Come on, man. Give it up.|Come on, Victor.
+{58872}{58947}- Give it up!|- Get off me!
+{58950}{59007}Get off of him! Man!
+{59302}{59412}Everybody take out your notebooks.|We have a new assignment.
+{59415}{59525}And it's something I want you to|put some serious thought into.
+{59530}{59625}- I would like you all|to write an essay--|- Oh!|- Mm.
+{59627}{59687}On what you would want to be|when you grow up.
+{59690}{59745}Be sure to include reasons|for your choices...
+{59747}{59855}and watch the spelling,|punctuation and grammar, please.
+{59860}{59917}You'll have till the end|of the semester to finish it.
+{59922}{59980}Write the date on the top|of the page. Don't forget.
+{59982}{60070}- You too, George. The date.|- I want to be a gynaecologist.
+{60072}{60122}If that's so, then I want|good reasons why.
+{60125}{60177}You are the reason why,|Miss Marquez.
+{60182}{60222}I want you to think about this.
+{60225}{60302}It's going to be|a big part of your grade.
+{60437}{60512}Maybe you ought to think about|using one of the choices|from the board. All right?
+{60725}{60810}We're gonna have to change|your name from Jack to Shaq.
+{60812}{60885}Nice shooting. Way to go.
+{60890}{60937}Please, people. Don't leave this|till the last minute.
+{60940}{60997}This the kind of assignment|I want you to spend some time on.
+{61000}{61077}You have the whole semester to do it.|Just take your time.
+{61080}{61177}Don't sit down and write it all|in the last weekend.
+{61290}{61347}- Hey, guys.|- I got the new blueprints|for the new tree house.
+{61350}{61417}- We made it.|- Hey, guys. It's finally Friday.
+{61420}{61460}Who are we waitin' for?|What's her name?
+{61462}{61490}- Mrs Durante.|- Mrs Durante.|- Yeah.
+{61495}{61537}Problem is, we don't have|any "Playboys."
+{61542}{61615}- Are you done with it?|- I hear George has a new girlfriend.
+{61617}{61672}- Right over there.|- Hey, guys, I gotta go.|- Glasses.
+{61675}{61725}- Tree house in an hour, all right?|- She's late.
+{61727}{61770}- Yeah.|- We can't stay here all day.
+{61772}{61830}- I think we'd better go back inside.|- We'll go back inside.
+{61832}{61895}Hey. Great game today.
+{61900}{61950}Thanks. Thanks for pickin' me.
+{61952}{62000}Now you gotta do me|another favour.
+{62002}{62075}- What kind of favour?|- Follow me.
+{62162}{62237}Listen, my mother's coming here|to meet the principal today.
+{62240}{62285}- She wants to talk to him.|- So?
+{62287}{62380}- Well, you're gonna be the principal.|- Wh-What?
+{62435}{62535}You gotta do it.|My mom talks to Principal McGee,|he'll tell her I've been bad.
+{62540}{62647}- Well, have you been bad?|- Well, I haven't done homework|since, like, the third grade.
+{62650}{62757}- W-- Your dog must be pretty full.|- Yeah, right.
+{62760}{62825}Here she is.|You gotta do it. Here.
+{62830}{62892}- Louie, I can't be a principal.|- Turn around.
+{62897}{62950}- I can't do this.|- Turn around!
+{62952}{63007}Principal McGee's really old!
+{63010}{63065}- I can't do this.|- Louie!|- It's a fib.
+{63067}{63117}Oh, hi, honey.
+{63120}{63210}Oh, sweetie, The Beef and Brew|only gave me 10 minutes off.
+{63212}{63270}So I gotta hustle.|Hi, sweetie.
+{63272}{63312}- Hi.|- Hello.
+{63315}{63385}- So, where's the principal?|- Um--
+{63387}{63442}This is Principal Powell.|He's new here.
+{63447}{63487}- Oh.|- He just came a couple of weeks ago.
+{63490}{63592}- I told him you were coming.|- Oh, well, hello, Mr Powell.
+{63597}{63665}My name is Delores,|but my friends call me D.D.
+{63667}{63752}So tell me, what happened|to Principal McGee?|I just talked to him on the phone.
+{63757}{63857}I don't know what happened|to Mr McGee. Mr Powell?
+{63970}{64032}- He got diarrhoea.|- Diarrhoea?
+{64035}{64102}Yeah, he got diarrhoea.
+{64105}{64147}Uh, and he-- he spewed.
+{64150}{64227}Threw up. Yeah, he had--|And, uh, he had the squirts.
+{64230}{64297}- He had diarrhoea.|- Oh, boy, that's more|than I needed to know.
+{64302}{64370}- He-He had to go to the hospital.|Appendicitis.|- Yeah.
+{64372}{64485}- He had a bellyache.|- Oh, my God, appendicitis.|Oh, that's too bad.
+{64487}{64570}Well, honey, listen. I swiped you|a chocolate mousse from the restaurant.
+{64572}{64650}So go sit down and eat it|while I talk to the principal.
+{64655}{64765}- No, let me stay, Mom.|- Oh, sweetie, please don't|bust my chops over everything.
+{64767}{64865}Go sit down. Oh, God, you see?|That's what I'm talking about.
+{64870}{64980}He-- He doesn't listen. I mean, I don't|know whether it's all kids or just him.
+{64982}{65032}- Am I right?|- What'd you say?
+{65035}{65102}I said kids don't listen.|Am I right?
+{65105}{65182}- Don't listen. No.|- Yeah. Well, that's what I thought.
+{65185}{65262}Of course, you could say|the same thing about men too.
+{65267}{65382}- Probably your wife does all the time.|- Oh, no.
+{65387}{65442}- Aren't you married?|- Married?
+{65445}{65500}- No, I'm not married.|- I'm divorced, myself.
+{65502}{65582}And that's another thing, you know.|Ever since my husband left us...
+{65585}{65642}he's got such|a chip on his shoulder.
+{65645}{65702}Potato or corn?
+{65730}{65775}Anyway, uh, you know.
+{65780}{65845}He's-- He's starting|to get interested in girls.
+{65847}{65897}I found some dirty magazines|under his bed.
+{65902}{65990}Wh-What am I supposed to do about that?|What? l-l don't know what to do.
+{65992}{66052}Uh, it's a tough age.
+{66055}{66120}I know. I mean,|l-l-l-- I remember.
+{66122}{66177}I mean, I re--|I'm remembering now.
+{66180}{66272}- It's a tough age.|- Uch!|- Rough, tough age.
+{66275}{66335}- Feh.|- Feh.
+{66340}{66387}So, tell me, meanwhile,|how is he doin'?
+{66390}{66457}'Cause last September|he was failing out miserably.
+{66460}{66567}Oh, um, Louie's showing|a lot of improvement.
+{66570}{66632}- He's on a roll, really.|- Really?
+{66635}{66667}- Rolling.|- A roll?|- Really.
+{66670}{66715}- Rolling along.|- Really, really rolling along.
+{66717}{66770}- Wow.|- Wow.
+{66772}{66857}And, uh, I would say,|uh, he's, uh...
+{66860}{66927}the smartest kid|in the whole school.
+{66930}{67005}Yeah. If not, maybe|the smartest kid I've ever met.
+{67007}{67102}Oh, my God! I can't believe|I'm finally getting a good report.
+{67107}{67162}It makes me so happy.
+{67165}{67240}I mean, I can't believe|you're telling me this.
+{67242}{67305}'Cause you know, this means|that maybe he's happy...
+{67310}{67410}and I made the right decision|about moving us out here.
+{67440}{67480}Listen, you know...
+{67482}{67532}if you want to have|lunch or something...
+{67535}{67662}we can talk about Louie and, you know,|just kind of shoot the breeze.
+{67667}{67752}- What do you think?|- Don't.|- Oh.
+{67755}{67802}- Got a problem?|- It's bad for you.
+{67805}{67862}Since when is bein' bad...
+{67865}{67917}bad?
+{67922}{67967}Oh, no.
+{67970}{68015}Oh, here she goes.
+{68075}{68150}So, um, what do you think?|Do you wanna do lunch?
+{68152}{68195}I get a discount|at the Beef and Brew.
+{68197}{68285}Well, my mom brings my lunch usually.|I mean, she makes it.
+{68287}{68357}Honey, you've got to cut|those apron strings.
+{68360}{68407}- Hi, sweetie.|- Hi.
+{68410}{68512}Hi, angel. Well, Mr Powell's been|telling me what a good boy you've been.
+{68515}{68617}-I told you.|-And I didn't believe you, but now I do.
+{68620}{68705}And I'm gonna give Mr Powell|my number at work...
+{68707}{68805}so that you can call me|and let me know how he's doing.
+{68807}{68865}Can stay on top of things.
+{68867}{68930}That's my number at work.|You can get me there anytime.
+{68932}{69000}Well, my mom said|I shouldn't touch matches.
+{69002}{69047}Oh, you live with your mother?
+{69050}{69115}- Well, yeah, at night.|- Well, to each his own.|- Yeah.
+{69120}{69205}Anyway, you can call me, uh,|to talk about Louis...
+{69207}{69275}or, you know, any old thing.
+{69355}{69397}So, uh-- Oh, and that's Memories.
+{69400}{69450}That's a club that|I hang out at sometimes.
+{69455}{69517}You know, if I'm not at work,|that's usually where I am.
+{69522}{69595}But it's a nice place|for people our age to hang out...
+{69597}{69717}have a little drink,|take the edge off, you know.
+{69720}{69770}Oh, I gotta go.|Ooh, I'm gonna get fired.
+{69772}{69827}- Love you, "face."|- Okay, love you too.|- Nice meeting you, Mr Powell.
+{69830}{69932}Ooh, you got a strong grip.|You're a manly man.
+{69935}{70007}All right, you got your key to|the house? Okay, I'll meet you at home.
+{70010}{70077}- I love you.|- All right. Love you too.
+{70110}{70155}Bye.
+{70497}{70567}Wow! Whoa, that was great.
+{70570}{70617}- How'd I do?|- You did great.|- Yeah?
+{70620}{70665}- Yeah.|- Boy.
+{70720}{70792}- Whew!|- Hey, man. I owe you one.
+{70797}{70887}Sorry about my mom, Jack. She's lookin'|for love in all the wrong places.
+{70890}{70967}Yeah, I know.
+{70970}{71035}Maybe I'll see you|over the weekend.
+{71040}{71082}Cool.
+{71135}{71182}- Pal.|- Thanks.
+{71777}{71845}Mom! I'm home!
+{71935}{72002}I'm here. I'm here!|Where are you?
+{72077}{72120}Yeah. Okay.
+{72180}{72250}- Phone call for you, Brian.|- Yeah, just--|- Okay?|- Okay. Yeah?
+{72255}{72282}- Can I talk to him? Can I talk to him?|- Jackie wants to talk to you.
+{72285}{72337}Dad! Hey, Dad. Dad.|I got your hair, Mom. Sorry.
+{72340}{72442}Hey, Dad. Yeah. Hey, Dad.|I got to play basketball today.
+{72445}{72507}They picked me. Yeah, and not|just 'cause I'm humongous.
+{72510}{72577}Because I'm real good. Yeah,|I scored a thousand points.
+{72582}{72630}No. You're right.|It was only a hundred.
+{72632}{72692}I'm kidding. It was 14.|Yeah, but each time I got the--
+{72695}{72777}I scored! Just like this.|Wait! Listen, Dad.
+{72780}{72825}Yeah, and I met this|really cool kid named Louie.
+{72827}{72897}Not Louis. Louie. Yeah.|His mom gave me some matches.
+{72900}{72950}Yeah. Those are the matches.|Can I play with them?
+{72952}{72990}Okay, slow down, buddy.|Slow down.
+{72995}{73047}Hey, Dad.
+{73050}{73097}Louie has dirty magazines|under his bed.
+{73100}{73132}What are dirty magazines?
+{73135}{73195}I got to be principal.|Yeah, I pretended to be.
+{73197}{73252}And I got a lot of homework to do.|I got a great homework assignment.
+{73255}{73322}And you know what? Miss Marquez|ate one of my red Gummi Bears.
+{73327}{73382}She said, "Way to go." Yeah,|but not because of the red Gummi Bears.
+{73385}{73417}Because of the way|I played basketball.
+{73422}{73485}Yeah, it was great.|She said Shaq better watch his back.
+{73487}{73542}She's what Grandpa says|is a real piece of work.
+{73545}{73577}Really great.|What are you doing?
+{73580}{73667}No, I'm just-- Just, uh,|shootin' an ad layout.
+{73670}{73750}Carrots, for the Carrot Board.|Just giant carrots, yeah.
+{73755}{73827}Wow, that's pretty boring.
+{73830}{73857}Listen, Dad.|I gotta go.
+{73860}{73917}No, I really gotta go.|Number one.
+{73920}{73990}Okay. See you.|Yeah, listen, Dad?
+{73992}{74040}Don't hug me any more|in front of the guys, okay?
+{74042}{74087}Yeah, you know.|It's like-- You know.
+{74090}{74145}It's weird. Yeah, okay.
+{74147}{74222}See ya. Yeah, I'll take|the matches in the bathroom|so if I do number two, I'm ready.
+{74225}{74287}Okay, put your mom on. Yeah.
+{74330}{74387}Brian. Yeah, I can|hear you all right.
+{74390}{74452}No, it's this cord. Oh, wait!
+{74455}{74502}You okay?
+{74550}{74607}- Honey!|- Is he okay?
+{74610}{74682}Yes, he's all right.|He's so excited.
+{74830}{74885}Hey, Jack's mother!
+{74887}{74967}- Hey, Jack!|- Psych!
+{75190}{75245}Jack's mother?
+{75250}{75312}Can Jack come out and play?
+{75315}{75365}I'm Mrs Powell.
+{75367}{75437}- And you are?|- Louis Durante. Pleased to meet you.
+{75515}{75562}I know Jack from school.|I was wondering...
+{75565}{75642}if Jack wanted to come to a sleepover|some of us guys are having.
+{75645}{75737}I mean, if he's allowed to|and stuff.
+{75740}{75812}Well, I can check. We kind of|had some other plans, you know.
+{75815}{75892}- Hey, Jack!|- Bye, Mom.
+{75895}{75957}See ya!
+{75960}{76042}- Honey, be extra careful!|- Uh-huh.
+{76047}{76125}- And don't stay up too late.|- I won't, Mom.
+{76420}{76487}So how fast do you grow?
+{76490}{76607}- Four times as fast as you.|- Like cat years?|- Yeah, sort of.
+{76610}{76695}Like, when I'm 20,|I'll look really old.
+{76697}{76762}Hey, man. You hear the first 20|are the best ones anyway.
+{76765}{76822}My mom says|it's all downhill after that.
+{76825}{76885}- Yeah?|- Yeah!|- Like this?
+{76887}{76955}- Waah!|- Like this: Rrr!
+{77045}{77095}Wow. Did you guys|build this yourself?
+{77100}{77192}- Yeah. Cool, huh?|- You must've started this in preschool.
+{77195}{77235}I'm gonna introduce you|to the guys.
+{77237}{77292}- Is this safe?|- Yeah, it's safe.
+{77295}{77362}Really?
+{77365}{77430}Hey, don't sweat it.|Just go along with whatever I say.
+{77432}{77477}Do you think the other kids|are going to like me?
+{77480}{77547}Hey, you're tight with me, you're tight|with them. They're gonna love you.
+{77607}{77662}- Yeah, it is. It's a purple one.|- It's kind of attached.
+{77667}{77745}- Bigger, man.|- Hey, Lou.|- Hey, Louie.
+{77747}{77845}- Hiya.|- Hey, I brought Jack.|He's right down there.
+{77847}{77895}You brought the freak?
+{77897}{77952}- He's not a freak.|- You said he was a freak.
+{77955}{78002}- Yeah.|- I said wrong, right?
+{78005}{78047}Get over it. He's cool.
+{78050}{78097}He knows how to shoot hoops.
+{78100}{78190}And he did me a favour today.|Here, check this out.
+{78237}{78327}Look what he picked up|on the way over. Huh?
+{78330}{78395}- He bought that?|- Eh-eh.
+{78400}{78482}- No way.|- Way! Walked right|into the store, picked it up.
+{78485}{78517}No fear or nothin'.
+{78520}{78587}- My man is the man.|- That is way cool.
+{78592}{78720}- I wish I was a freak.|- Hey, lay off the freak stuff,|all right?
+{78725}{78800}Jack's cool. We gotta|let him kick it with us.
+{78802}{78852}If he walks...
+{78855}{78897}the "Penthouse" walks too.
+{78900}{78952}Bye, boys.
+{78955}{79002}Okay, he can hang.
+{79005}{79085}But if he weirds out|or anything, he's history. Okay?
+{79090}{79150}Wait a second. Look. See,|the maximum weight up here.
+{79152}{79230}- I don't think it's such a good idea,|150 pounds up here. It'll never hold!|- Eddie, Eddie, Eddie.
+{79232}{79327}- Eddie, two words: Pent House.|- He's comin' up, so--
+{79637}{79707}Guys, this is Jack.
+{79865}{79910}- Oh, man! I got a bad hip problem!|- Sorry!
+{79912}{79980}- Watch the TV.|- The TV.|- Settle down.
+{79982}{80067}- Come on!|- Come on, come on!|- Watch out, okay?
+{80095}{80127}- Sorry.|- Take it easy.
+{80130}{80192}Take a chill pill, okay?
+{80195}{80235}- Watch the lamp!|- The lamp!|- The lamp!
+{80237}{80292}- Come on, man. Watch out!|- Sit down.
+{80295}{80372}- Sit down already.|- Sit down.|- Just sit.
+{80377}{80422}- This wasn't such a good idea.|- Come on, easy.
+{80425}{80490}The-The-- This tree house is four|years old. I want it to live to ten.
+{80492}{80575}- Please.|- Hey, Jack, uh, so--|so you bought that magazine?
+{80577}{80677}Yeah. I buy 'em all the time.
+{80680}{80730}What about "Hustler"?|You get "Hustler"?
+{80732}{80797}- If you want it.|- "Swank"?
+{80800}{80855}Yeah, that and, uh...
+{80857}{80922}you know, all-all|the grown-up stuff...
+{80927}{80997}that only grown-ups can read.
+{81000}{81070}- Cool.|- A-And they don't give you|no trouble in buying one?
+{81072}{81145}- I mean, like, they don't ask for ID?|- No. You know...
+{81147}{81247}I just don't shave for a day|and then I look like I'm 50.
+{81250}{81325}Hey, uh, Jack. Mind if I look|at the "Penthouse"?
+{81330}{81377}Knock yourself out.
+{81380}{81415}So do you really shave, Jack?
+{81420}{81462}Oh, yeah, yeah.|I started when I was four.
+{81465}{81510}- Oh, wow.|- Feel.|- Cool.
+{81512}{81557}'Cause I'm looking forward to shaving.|You know-- What do you think?
+{81560}{81672}- See anything right there?|Any whiskers around there?|- Let's see.
+{81675}{81722}Yeah, there's maybe|one there.
+{81725}{81785}- Yeah, I think that's one.|- Oh, if I were you...
+{81790}{81870}I'd grow like a Fu Manchu thing|or maybe a goat.
+{81872}{81907}- A goat?|- Like a goatee.
+{81910}{81975}- Oh, that'd be ba-a-ad!|- Ba-a-ad, dude.
+{81977}{82092}- Ba-a-atman!|- Ooh, Eddie, check this out.
+{82095}{82180}- Excuse me.|- Think our moms look like that?
+{82182}{82247}No. Only "Penthouse" girls|look like that.
+{82252}{82375}They're special. I mean, like,|they come from a special part|of the country or somethin'.
+{82377}{82517}- So how do you like it?|- Oh, it's great. What do|you guys do here all night?
+{82520}{82567}Anything we want.
+{82570}{82620}Hey, Jack.|You ever get a boner?
+{82690}{82760}You know, an erector.
+{82765}{82822}Not yet. I'm hoping|to get one for Christmas.
+{82912}{82992}- I want to hear a manly rip.|Show us what you're made of!|- Oh, wait!
+{82997}{83072}Wait, wait. Oh, just-- just warmin' up.|Just clearin' my throat.
+{83075}{83117}I feel it down below.
+{83175}{83220}Oh, man!
+{83225}{83290}- It's disgusting!|- Gee!
+{83292}{83337}I almost blew|a seam on my pants!
+{83340}{83407}- Oh, here comes another one!|- Oh, here you go.
+{83410}{83485}- Can this one!|- A real rectal rocket. Oh, yes!
+{83490}{83547}Out, demon spirit!
+{83670}{83717}Bingo!
+{83720}{83782}- Oh, get it out of here.|- Oh, it's gross.|- The earth is rumbling!
+{83787}{83845}Seven-point-five|on the Prickter scale!
+{83847}{83900}- Give it to George.|- Jack Powell, the manly farter.
+{83902}{83947}Smell it! Smell it!|That one's got good hang time.
+{83950}{83995}Go, George! Oh!
+{83997}{84102}Oh, it's deadly!|Ooh, reek it! Oh!
+{84105}{84175}Whoo! Fire down below!
+{84180}{84237}- He's comin'. He's revived.|- Hey, fire in the hole, guys.|Check it out.
+{84240}{84297}- Oh, here it goes! Here it goes.|- Fire in the hole!
+{84300}{84347}- Flashlights off, everybody!|- Yeah, flashlights off.
+{84350}{84402}- Open it, open it!|- Ready?
+{84425}{84507}Karen? Karen.
+{84535}{84572}Jack?
+{84590}{84642}No. It's me.
+{84712}{84782}We've got to be there|in a half hour.
+{84810}{84887}- Don't make fun.|- I never would.
+{84957}{85055}We usually come in here and|have our little talks before bedtime.
+{85057}{85142}You feel traded in for a bunch|of spitting, swearing ten-year-olds?
+{85145}{85232}- Yeah.|- Still got me, you know.
+{85400}{85477}It's just the way it is|for everybody.
+{85480}{85562}You give birth to 'em,|you clothe 'em, you feed 'em.
+{85565}{85632}Then one day,|you come home, they're teenagers.|They hate you for no reason...
+{85635}{85727}and wouldn't talk to you|if your hair was on fire.
+{85750}{85802}I know.
+{85805}{85905}It's just, it's the first night|he's slept away from home.
+{85910}{85960}Meaning...
+{85965}{86052}we've never been alone|in the house before.
+{86055}{86157}- Uh-oh.|- I think it's nice being|the only size 11 shoe...
+{86160}{86207}under our bed.
+{86367}{86432}I just hope he's okay.
+{86435}{86535}Wow! I think I got another one|in me! Get ready!
+{86537}{86602}We need more ketchup anyway.
+{86605}{86692}- Maggot soup.|- Thyme.|- Get some fart juice.
+{86695}{86777}- How's this?|- Jack, you better eat this.
+{86780}{86837}- Eat it all.|- Wait. Ooh!
+{86840}{86910}- You better eat this.|- Mix it up.|- What are you doing?
+{86912}{86965}- Sardines.|- You'll love it.
+{86970}{87015}Oh! No, I can't do it.
+{87017}{87075}- Oh, no, no, no. Don't put that in.|- Go, go, go, go!
+{87077}{87147}- Go, go, go, go!|- Worms?|- Go, go!
+{87152}{87220}- Go, go, go, go!|- Don't add the worms.|- Go, go, go, go!
+{87225}{87265}- Go, go, go, go!|- Come on.
+{87270}{87342}- I'm gonna puke. No, no. No, no.|- Go, go, go, go!
+{87345}{87377}- Go, go, go, go.|- Oh, please, no.
+{87380}{87427}- No, no.|- Eat it!
+{87432}{87492}- Don't put my hand in it.|- Yeah!
+{87495}{87567}- Oh!|- Uh!
+{87957}{88017}Watch out. He's gonna spew!
+{88020}{88077}I'm warning you.
+{88125}{88172}Wow. Not bad.
+{88415}{88487}Hey, Jack. Hey, Louis.
+{88490}{88562}Let us up, please!|I want to see what it's like up there.
+{88565}{88652}Can you guys hold on for|one second? We just wanna clean|the place up a little bit, okay?
+{88657}{88725}- See? He's gonna let us up.|- He's not gonna let us up.
+{88727}{88827}- Did you hear the way he said it?|- Boys do not clean up!
+{88830}{88922}- "Let us clean it up|a little bit." He's lying.|- Yeah, right.
+{88925}{89020}- He is.|- I'll bet you. Watch.|- No girls allowed!
+{89025}{89092}- Oh, dang!|- Direct hit!
+{89280}{89350}Left. Left, right, left.
+{89392}{89472}- Hey, Ed, are you Dr Kevorkian?|- Yeah.
+{89475}{89515}- Peppermints.|- Peppermints.
+{89520}{89562}- Pom-Poms.|- Pom-Poms.
+{89565}{89620}- Power Bar.|- Power Bar.|- Pez.
+{89625}{89672}- Pez.|- And peanuts.
+{89675}{89747}- Some peanuts.|- A "Penthouse."
+{89752}{89807}Okay, and a "Penthouse."
+{89810}{89887}Jack, do you read me?|Do you read me? Come in.
+{89890}{89960}Ten-four. We have liftoff.|I have the "Penthouse."
+{89962}{90007}Do you have a picture|of the Pope?
+{90010}{90057}It's a "P."|Excuse me.
+{90125}{90187}Hey, guys, I brought a friend.
+{90190}{90235}Okay?
+{90550}{90625}This is Mr Woodruff.
+{90630}{90687}Are you ten too?
+{90690}{90755}Uh, well, if you ask my wife.
+{90757}{90867}No, I'm afraid I'm just|a regular, garden variety, old fart.
+{90915}{90972}I mean, this tree house|wasn't made for--
+{90975}{91035}What?
+{91037}{91130}It won't hold, you know--|Uh-- The, uh-- The, uh--
+{91217}{91307}Well, now. This place|is a lot hipper than I thought.
+{91335}{91395}No, it isn't.
+{91400}{91472}- So--|- So I hear you're a good tutor.
+{91475}{91575}Well, I don't like to blow|my own horn, but, uh--
+{91605}{91652}You know, twin cheeks.|Let one fly.
+{91655}{91697}- Rectal rocket.|- Do what?
+{91725}{91775}Do you wanna fart|in the can?
+{91777}{91827}I'm afraid, boys, you wouldn't|want that to happen.
+{91830}{91887}Some of my parts are rotten.
+{91892}{91952}Come on! I thought you said|you were a good "tooter."
+{91955}{92055}I've been known to chase|whole families away.
+{92060}{92127}You mean,|you're better than Jack?
+{92130}{92192}- I taught Jack.|- Oh!
+{92240}{92297}Fellas, fellas.|No, this is enough.
+{92300}{92365}- Are you kidding?|- No.|- A little tabasco comin' in.
+{92370}{92427}Fellas.
+{92430}{92472}I'm tellin' you,|it tastes like chicken.
+{92477}{92532}- Did you eat this, Jack?|- Yeah.
+{92535}{92580}- Everybody has to.|- It's good.
+{92582}{92627}- Did you eat it, really?|- Mm-hmm.|- Go, go, go, go!
+{92632}{92742}Go, go, go, go, go,|go, go, go, go, go, go...
+{92745}{92857}go, go, go, go, go, go,|go, go, go, go, go, go!
+{92860}{92907}- I love you, man.|- Go, go, go, go!
+{93025}{93060}No!
+{93065}{93140}Psych!
+{93142}{93205}- You're in.|- I am?|- You're in.
+{93207}{93257}- Oh, thank you so much.|- You're in the club.
+{93260}{93305}He's gonna get caught|Just you--
+{93307}{93395}- Wait. Are you-- Are you sure|this is a cool song?|- This is a cool song.
+{93397}{93477}- He's gonna get caught|Just you wait and see|- This doesn't sound like a cool song.
+{93480}{93575}Why is everybody always picking on--|You know the parts!
+{93577}{93617}- Ba-room|- Beep, beep, ba, ba
+{93620}{93667}- Ba-room|- Boom, boom, boom
+{93672}{93752}- I smell smoke in the auditorium|- Ba-room, ba-room
+{93757}{93795}- Charlie Brown|- Charlie Brown
+{93800}{93870}- Charlie Brown|- Charlie Brown|- Yeah, he's a clown
+{93872}{93957}- Charlie Brown|- That Charlie Brown
+{93960}{94000}He's gonna get caught
+{94002}{94050}Just you wait and see
+{94052}{94132}Why is everybody|always picking on me
+{94137}{94237}Who's always writing|on the walls
+{94240}{94305}Who's always goofin'|in the hall
+{94310}{94402}- Dang, dang, do|- Who's always throwin' spitballs
+{94407}{94450}- Guess who|- Who, me
+{94452}{94510}- Yeah, you|- Watch out!
+{94512}{94582}No, no, no!
+{94585}{94665}Wait a second, people!|We're at the absolute limit here!
+{94667}{94737}There's nothing wrong, Eddie.|You're paranoid.
+{94740}{94777}Charlie Brown
+{94780}{94822}- What's going on?|- Oh, boy!|- Everybody stay calm.
+{94825}{94902}- What's goin' on?|- Oh, no!|- What's goin' on?
+{94905}{94957}- Oh!|- Everybody stay calm!
+{95897}{95947}Oh, guys.
+{95950}{96030}- Stay calm.|- I told you so, and I told you so!
+{96032}{96072}We could have been killed!
+{96075}{96160}Why is everybody|always falling on me
+{96162}{96242}And speaking of the mayor,|it's certainly going to be|a busy day for him today.
+{96247}{96340}Uh, he'll be attending the opening|ceremonies of the new public library.
+{96345}{96432}By the way, we invite you to stop by|and enjoy the festivities there.
+{96435}{96480}Be sure to bring along the kids|if you can.
+{96482}{96547}Later on, the mayor will be|meeting with the city council.
+{96550}{96600}Afterwards, there'll be|a press conference--
+{96685}{96732}Then at|approximately 12:00 noon...
+{96735}{96820}St Anthony's Church will be holding|their annual auction fund-raiser--
+{96825}{96897}Jack, honey. It's 8:15.
+{96937}{96970}Pushing it.
+{97180}{97232}"When I grow up...
+{97240}{97277}I want to get married|when I'm 28.
+{97280}{97335}Because if you get married|before that...
+{97337}{97410}statistics say that|you'll be divorced.
+{97412}{97495}However, I feel if I wait|till my late 20's...
+{97497}{97570}I can fool statistics|and live happily every after...
+{97572}{97672}with my husband,|who will also be over 28."
+{97675}{97767}What do I want to be|when I grow up?
+{97770}{97835}- Alive.|- We get the picture, George.|Thank you very much.
+{97885}{97932}Hey, Jack.
+{97935}{97992}- Hey, what's wrong, buddy?|- Nothin'.
+{97995}{98052}Come on. Let's go.
+{98055}{98135}Gotta stay|and ask Miss Marquez something.
+{98140}{98205}- You want me to stick around?|- Yeah, but I'll see you downstairs.
+{98242}{98287}Good luck.
+{98290}{98347}You stud, you.
+{98432}{98487}- Bye, Miss Marquez.|- Bye-bye. I'll see you tomorrow.
+{98490}{98542}Bye.
+{98637}{98695}Jack, you're still here.
+{98762}{98832}Jack, do you feel okay?
+{98835}{98910}- Is everything all right?|- Mm-hmm.
+{98912}{98960}Okay.
+{99272}{99327}I know you like 'em.
+{99330}{99472}I saved all the red Gummi Bears.|It took a long time to get a whole bag.
+{99475}{99552}Well, this is very sweet|of you, Jack. Thank you.
+{99555}{99622}So I'm a nice guy, huh?
+{99625}{99707}You're a very|nice young man, yes.
+{99742}{99830}Miss Marquez?|I was thinking that maybe if--
+{99832}{99890}if you didn't have|anything to do...
+{99892}{99952}that you might want|to go to the dance with me.
+{99985}{100047}It'd be really, really fun.
+{100050}{100105}Oh, Jackie.
+{100150}{100202}So you wanna go?|My mom will drive us.
+{100240}{100302}Jack, you don't want|to go with me. I'm an old lady.
+{100307}{100390}But that's why.|That's why I wanna go with you.
+{100392}{100502}I can't go with the girls my age|because I look so much older than them.
+{100505}{100562}You look just like me.
+{100650}{100697}Jackie-- Jack.
+{100700}{100787}You are still|a very young man...
+{100790}{100837}up here.
+{100907}{101012}I-- I know l-- I look closer|to your age than the girls in class.
+{101017}{101130}- You're right about that.|- So what time should|my mom and I pick you up?
+{101277}{101357}Jack, you are my student...
+{101360}{101437}and I'm your teacher.
+{101440}{101517}And teachers and students|don't go to dances together.
+{101520}{101612}- Do you understand that?|- Please?
+{101690}{101752}No.
+{101755}{101877}I'm sorry, honey.|It just wouldn't be right.
+{101880}{101927}Do you understand?
+{101955}{102000}Oh, Jackie, don't.
+{102050}{102122}- Don't, Jack.|- I'm okay.
+{102125}{102207}Jack. Jack, wait!
+{102210}{102275}- Jack, come back. Let's talk.|- I don't wanna talk.
+{102277}{102355}- Jack, it has nothing to do with you!|- Leave me alone!
+{102392}{102435}Ow.
+{102485}{102517}Ow.
+{102645}{102692}Ow.
+{102732}{102785}- Jack.|- It hurts.
+{102790}{102865}Somebody help us!|Somebody help!
+{102870}{102922}- Something's wrong.|- Hold on.
+{102925}{103007}Somebody help!|Somebody help!
+{103010}{103092}Miss Marquez!|Jack's hurt!
+{103152}{103215}- Excuse me. Miss--|- Nurse, which way's intensive care?
+{103217}{103275}- Down the hall, first left|and up the stairs.|- Okay.
+{103355}{103477}I think what happened here|is the result of severe strain.
+{103480}{103522}So it wasn't a heart attack?
+{103527}{103595}Well, not exactly.
+{103597}{103720}This is a form|of arteriosclerosis or angina.
+{103725}{103792}But Jack's situation|is unique.
+{103797}{103862}- Honey, that's your heart.|- Yeah? ls it okay?
+{103865}{103940}Mm-hmm. You can wait|for your parents here.
+{103942}{104035}They'll be a few more minutes.
+{104037}{104082}Can I have a sucker?
+{104085}{104140}His internal clock|is running out.
+{104180}{104285}The physical signs of aging|are going to occur more quickly.
+{104290}{104342}His body is working overtime.
+{104345}{104487}Little things that we take for granted|are going to affect him truly.
+{105140}{105187}Hey.
+{105237}{105302}Go on. Hey.
+{105842}{105907}How do you feel, Jackie?
+{105910}{105967}I'm okay.
+{105987}{106030}Louis just called for you.
+{106032}{106092}He said he hopes you feel better.
+{106095}{106165}I told him|you'd call him back tomorrow.
+{106170}{106295}- You need your rest.|- Why do I need rest, Mom? I feel fine.
+{106357}{106422}- Here.|- What's that?
+{106425}{106497}- It's for you.|- A surprise?
+{106570}{106617}Oh, thanks.
+{106695}{106752}Honey--
+{106755}{106800}Oh.
+{106872}{106967}- We don't ever want anything|like this to happen again.|- Me too.
+{106970}{107077}So we're going to go back to the way|things were before you started school.
+{107140}{107187}No.
+{107192}{107272}- Hey, remember all the fun we had?|- No.
+{107312}{107375}No. No, no!
+{107420}{107467}It wasn't fun!
+{107515}{107575}Jack, it's--|it's the only way.
+{107577}{107635}What about my friends?|What about Louie?
+{107637}{107707}What about George?|What about John-John?
+{107710}{107782}Well, honey. They'll come|and they'll visit with you.
+{107785}{107872}- Mr Woodruff will come.|- Mom. Mom.
+{107877}{107920}I want to be with my friends.
+{107922}{107975}- I want to be outside.|- Honey, please, don't do that.
+{107977}{108067}- Oh, please, Mom. Please.|- Honey, I'm not trying to be mean.
+{108072}{108152}- Mom, come on.|- Hey. Hey, remember--
+{108157}{108202}Button up your overcoat
+{108205}{108250}When the wind blows free
+{108252}{108365}Take good care of yourself|You belong to me
+{108367}{108417}No, I don't.
+{108492}{108542}Dad!
+{108677}{108727}Dad!
+{108775}{108857}- Dad.|- Hey.
+{108860}{108930}Please don't make me|stay home.
+{108932}{109047}I want to go back to school.|Please, let me go back!
+{109050}{109122}Don't make me be alone.|Please, Dad.
+{109125}{109165}- Okay, okay.|- Please.|- Okay, okay, okay.
+{109170}{109272}Please, please, please, please.
+{109302}{109430}Jackie, you're my boy.|My little boy.
+{109432}{109495}Oh, Jackie.
+{109562}{109600}Oh, please.
+{109617}{109675}Oh, please.
+{109940}{110002}I-- I'm just sayin'|that we can't be afraid...
+{110005}{110075}afraid that he'll fall down;
+{110077}{110177}afraid that he'll hurt himself,|or another kid;
+{110240}{110347}afraid to have another baby.
+{110350}{110452}- Brian, you know we can't do that.|- No, I don't know that.
+{110455}{110502}You know another baby|might be like--
+{110505}{110592}No, I don't know anything of|the sort, and the doctors never|told us anything of the sort.
+{110595}{110687}Hon, ten years ago,|when we had Jack...
+{110690}{110765}we thought he was going to be|the first of three or four.
+{110767}{110820}It's not the right time|to be talking about it.
+{110822}{110887}Well, sooner or later|we have to talk about it, hon.
+{111042}{111112}Nice set of wheels|you got there, boy.
+{111165}{111227}You okay?|You okay?
+{111285}{111342}Look out.
+{111345}{111422}Here, have another hit|off of this. It'll help you.
+{111427}{111507}- Don't waste it.|- Check your bike, buddy?
+{111532}{111652}I'm thinking I ain't realized
+{111682}{111775}That I'm trying|trying to forget you
+{111780}{111842}- Hey! Watch it, asshole!|- Excuse me.
+{111845}{111927}- With tears in my eyes|- Booger breath.
+{111930}{112002}So he starts this minimalist--|You ever hear this minimalist joke?
+{112005}{112042}- No.|- That's where he starts.|It's supposed to be funny.
+{112047}{112102}- I'm supposed to laugh.|- Here's one.
+{112105}{112145}- Knock.|- Knock?
+{112150}{112197}Knock. This is the joke.
+{112200}{112275}- Knock? That's it?|- That's it. That-That's funny?
+{112277}{112327}This guy comes in here,|he asks for Q-Tips.
+{112330}{112392}- Q-Tips?|- We can't even give aspirin.|I think he's kidding.
+{112395}{112452}- Is this a joke?|- He gets mad at me|because I don't have Q-Tips.
+{112457}{112512}This is no drugstore. What?
+{112570}{112612}Cool.
+{112850}{112912}What? What do you want?
+{112975}{113032}I'll have a...
+{113037}{113140}Shirley Temple|with extra "marciano" cherries.
+{113142}{113195}Maraschino.
+{113197}{113257}That's what I said.|Maraschino.
+{113305}{113360}You should get-- Get him a Madonna.|You know what a Madonna is?
+{113362}{113442}- No.|- Shirley Temple without the cherry.
+{113500}{113577}Bring him one of these, will ya?|I'm Paulie. How's it hangin'?
+{113615}{113707}- Okay. My name is Jack.|- Uh, hi, Jack.
+{113710}{113762}Yeah.
+{113805}{113842}- There you go, buddy.|- To-To Paulie.
+{113847}{113910}Yeah. Come on,|knock it back, will you.
+{113912}{113967}- Here's lookin' at you, kid.|- I'm no kid!
+{113970}{114042}All right.
+{114112}{114222}- You like that?|Gets all the bugs outta your nose.|- Yeah.
+{114225}{114330}So she says to me-- She says,|"I wanna spank you now."
+{114332}{114405}- Oh, no.|- Can you believe it? Spank me?
+{114410}{114467}- Boy, you must have been a bad boy.|- Oh, yeah!
+{114472}{114557}- Oh, Paulie was bad.|- Bad? Ow, wow. What did you do?
+{114600}{114737}Well, you know, this led to that|and l-l-l ended up goin' limp.
+{114740}{114842}- You hurt your leg.|- Yeah, I ju-- I cou--|I couldn't get it started.
+{114845}{114917}I'm stuck there in my birthday suit,|as limp as a wet noodle.
+{114920}{115032}- It was your birthday?|- Humiliated beyond belief,|beyond repair.
+{115065}{115127}Wow. Ever happened to you?
+{115130}{115215}- Lots.|- Oh, Christ. Oh, man.
+{115217}{115277}Oh, that is a pity.
+{115280}{115407}- Well, what can I tell ya, man?|You married man, Jack? No?|- Not yet.
+{115412}{115505}"Not yet." You're a lucky man.|Don't give that up.
+{115555}{115605}Yeah, mine, uh,|mine threw me out...
+{115607}{115707}when she found out|about my little escapades.
+{115710}{115772}She wanted to take me back,|but l-l said-- I said no.
+{115775}{115875}I said, "No, 'cause it's time|to make a change."
+{115877}{115980}'Cause that's what it's about,|isn't it? It's all about change.
+{116020}{116077}God, I'll tell ya.
+{116080}{116172}It is God's cruel trick, Jack.
+{116175}{116212}First you start losin' your hair.
+{116215}{116270}- Yeah, then it starts|growin' on your back.|- On your back, yeah!
+{116272}{116352}- See? Like that.|- Out of your nose. Look at that.
+{116355}{116407}- And your ears.|- And your ears, yeah.
+{116410}{116452}What's that all about?
+{116457}{116522}Your eyebrows start growin'|all out of whack.
+{116525}{116597}Next thing you know, you're|walking around like some bald gorilla.
+{116600}{116692}They call you a freak.
+{116697}{116790}Before you know it, you're pushing up|the daisies in some depressing cemetery.
+{116937}{117002}Ooh.
+{117005}{117062}Now there is|a sad story for you.
+{117065}{117110}- I know her.|- Yeah, you do?|- Yeah.
+{117112}{117177}Husband ran out on her and|the kids a couple years back?
+{117180}{117272}- Kid.|- They haven't seen her since, I guess.
+{117317}{117377}Bet you could crack walnuts|on her ass too.
+{117640}{117717}- Hey, go for it, big Jack.|- Hi, boys.|- Hi, D.D.
+{117857}{117922}Oh!
+{117925}{118007}Principal Powell!
+{118010}{118095}I'm so surprised|to see you here.
+{118097}{118202}Oh, what a nice surprise.|I can't believe it!
+{118205}{118292}Nice to see you.|It's nice to see someone I know.
+{118295}{118435}Oh, well, that's a nice thing to say.|How're you doing?
+{118437}{118510}- I can't believe you're here.|- Me too.
+{118512}{118617}Believe me, that wasn't|the first matchbook I ever passed out.
+{118687}{118820}Mmm. Ooh. That looks like fun.|Wanna go dance?
+{118822}{118867}Okay.
+{118912}{118967}Oh.
+{118970}{119062}Mmm. So gallant.|You man, you.
+{119065}{119140}Shoo-doo, shoo-be-doo
+{119145}{119227}Shoo-doo, shoo-be-doo
+{119232}{119300}Shoo-doo, shoo-be-doo
+{119305}{119367}Shoo-doo, shoo-be-whoa
+{119370}{119500}In the still of the night
+{119500}{119547}- I like you.|- I held you
+{119550}{119640}- You're so different|from a lot of the men I know.|- Held you tight
+{119645}{119712}And do you know|who else likes you?
+{119717}{119832}My Louie. He's a great|judge of character.
+{119835}{119887}I don't know where|he gets it from.
+{119940}{120035}Because, of course, he hates|everybody that I usually go for.
+{120057}{120117}I like a burly guy.
+{120120}{120192}Uh-oh, honey.
+{120195}{120245}Mmm.
+{120247}{120322}I got a good feeling|about you, mister.
+{120327}{120452}The stars were bright above|I remember
+{120477}{120552}I'll hope
+{120557}{120655}And I'll pray
+{120657}{120762}To keep your precious love
+{120765}{120840}- What's the matter?|- I gotta go.|- Why?
+{120845}{120900}Why?
+{120905}{121015}-Your Louie's mom. I gotta go.|-That's what makes it so perfect, honey.
+{121017}{121095}I'm Louie's mom,|and you're Louie's principal.
+{121097}{121147}In the still of the night
+{121212}{121275}- Hey, watch it!|- Hey! Hey! Watch it!|- Whoa! You!
+{121277}{121332}That's the second time tonight.|What, are you stupid?
+{121392}{121420}- All right, all right.|- Whoa, whoa!|- Leave him alone!
+{121422}{121480}Where are you goin', man?|I want an apology!
+{121482}{121560}- I'm sorry.|- No, no, no. That's not|going to be good enough.
+{121562}{121635}- "Sorry."|- Well, I said I'm sorry. I'm sorry.
+{121637}{121700}Jeez, what is it with you?|What? Are you totally hyper|or something? Too much sugar?
+{121702}{121737}What? Do you think|you're pretty smart?
+{121740}{121787}Yeah, I do good in everything|except social studies.
+{121790}{121867}Studies? How'd you like|to study my fist?
+{121872}{121932}Hey, hey, hey!|Leave him alone, asshole!
+{121935}{121987}- Come on, Mr Powell.|Let's just get out of--|- What's the matter, man?
+{121990}{122060}- You gotta let your girlfriend|here stand up for you?|- Come on. Just let's go.
+{122062}{122092}- You know what your problem is, mister?|- Ignore him.
+{122097}{122172}- You got the "Zackly" disease.|- What's that?
+{122175}{122242}That's where you mouth smells|"zackly" Iike your butt!
+{122245}{122297}Where'd you get that from?|Louis? He always says that.
+{122300}{122360}- Come on. Let's just go.|- And you're a loser!|- Oh, yeah?
+{122362}{122430}- Losers say "what."|- What?|- Loser!
+{122432}{122490}- Rubber, glue, sticks to you! Got him!|- What are you doing?
+{122492}{122540}This guy's very tough!|Stop with this! Let's go!
+{122542}{122632}- I'm a loser, but|you're a son of a bitch!|- I can't believe you said that!
+{122637}{122707}You cussed!|Oh, you said the "B" word!
+{122710}{122792}Oh, you're gonna get in|so much trouble! You really are!
+{122795}{122837}Trouble?
+{122877}{122920}- Here's some trouble!|- Come on, Principal Powell!
+{122977}{123027}Oh, my God!|Are you okay?
+{123030}{123090}Hey, you all right?
+{123092}{123137}You okay?
+{123205}{123262}- Paulie!|- Huh?|- Paulie!
+{123265}{123352}Oh, don't worry about it.|Happens all the time.
+{123427}{123502}Mr Powell, put your feet|on the marks on the floor.
+{123505}{123612}Now look up at the camera.|Hold the plaque chin high.
+{123650}{123700}Now turn to your right.
+{123810}{123877}Jack Powell.
+{123880}{123932}Your bail's posted, pal.
+{124000}{124045}Come on.
+{124272}{124372}Let's get your stuff here|and you can go.
+{124375}{124425}You've got a library card...
+{124430}{124462}a pocket knife...
+{124465}{124542}Spider-Man watch,|Pez dispenser.
+{124545}{124592}Where's my Pog?
+{124595}{124662}It was the slammer.
+{124770}{124822}Is my mom here?
+{124825}{124910}Oh! Oh, Mr Powell!|Are you okay?
+{124945}{125002}Hey, buddy boy.|Hey, kid!
+{125005}{125097}They were pretty shocked to hear|they arrested the principal,|but they let you go.
+{125465}{125575}- Sorry about tonight.|- Oh, that's okay.
+{125640}{125705}Mmm, boy.
+{125707}{125800}You've got eyes|just like Louis.
+{125802}{125850}So young-looking.
+{125877}{125937}You know, that's|the strangest thing.
+{125972}{126027}What kind|of eye cream do you use...
+{126030}{126112}and can I have about a quart?
+{126160}{126255}Well, it's been a long night.
+{126257}{126332}I'm going to let you|out of my chariot.
+{126335}{126412}- Gotta be going.|- Thanks for taking me home.
+{126690}{126745}Good night, Mr Powell.
+{128290}{128335}- Hey, Mr Woodruff.|- Hey, kid.|- Hi!
+{128340}{128402}- Hi, Mr Woodruff.|- How ya doin', fellas?
+{128467}{128570}- How's the tree house comin'?|- Looks like my room.|You know what that looks like.
+{128572}{128652}We're just hangin',|tryin' to catch Jack.
+{128655}{128727}Jack's still a little tired,|boys, and he's sleeping.
+{128730}{128850}- I'll tell him you came by.|- Give me some skin, boys.
+{128852}{128907}I'll take this up|to Jack for you.
+{128910}{128992}Bye, Mr Woodruff.|Bye, Mrs Powell.
+{129020}{129075}Thank you for coming.
+{129115}{129172}He's been in his room|for two-and-a-half weeks.
+{129177}{129235}Maybe you could|talk to him.
+{129237}{129282}He's very confused.
+{129285}{129402}I think he's realized|how fragile his life is.
+{129405}{129480}You know,|maybe I'm not the answer.
+{129485}{129580}- Maybe he needs|to go back to school--|- He can't go back to school.
+{129582}{129632}That's what started this|in the first place.
+{129637}{129717}We can't risk|his health again.
+{129720}{129815}Jack, Mr. Woodruff's here|to see you.
+{129880}{129937}Here, give me this.|Thank you.
+{129995}{130040}Jack, honey.
+{130045}{130112}Mr Woodruff's here to see you.
+{130615}{130705}So why don't you want me|to teach you any more?
+{130740}{130850}Why do I have to learn stuff|I'm never gonna use?
+{130852}{130892}That isn't why|I'm teaching you, Jack.
+{130895}{130977}I'm teaching you so you'll learn|something new, interesting.
+{130980}{131035}That's all.
+{131037}{131082}I don't care any more.
+{131290}{131377}- Is he sick?|- No, I don't think so.
+{131380}{131447}- Then what's wrong with him?|- Yeah, what's wrong with him?
+{131452}{131525}- He's aging.|- Is he coming back?
+{131565}{131645}- I wish he'd come back.|- So do l.
+{131650}{131752}- Yeah, so do l.|- Hey, we all do.|- Yeah.
+{132032}{132082}What are you doing?
+{132085}{132187}- Going home.|- You be back tomorrow?
+{132192}{132265}- This is yours.|- You can't quit.
+{132270}{132322}I don't consider|myself quitting.
+{132327}{132425}I consider myself|losing a student.
+{132427}{132505}You know why I like|to teach children, Jack?
+{132507}{132602}So I don't get so wrapped up|in being an adult.
+{132605}{132707}So I can remember|that there are other things...
+{132710}{132792}that are important in life.
+{132797}{132855}Like riding a bike...
+{132857}{132987}playing in a tree house,|splashing water with good shoes on.
+{133102}{133222}And you, my friend,|were my most special student.
+{133225}{133352}And, until recently, you were|everything I ever wanted in a student.
+{133355}{133475}You were a shooting star|amongst ordinary stars.
+{133480}{133522}Have you even seen|a shooting star, Jack?
+{133550}{133597}- No.|- Oh, it's--
+{133600}{133670}It's wonderful.|It passes quickly...
+{133672}{133752}but while it's here,|it just lights up the whole sky.
+{133757}{133832}It's the most beautiful thing|you'd ever want to see.
+{133835}{133920}So beautiful|that the other stars...
+{133922}{133962}stop...
+{133965}{134012}and watch.
+{134095}{134182}- You almost never see one.|- Why?
+{134185}{134252}Because they're very rare,|quite rare.
+{134277}{134322}But I saw one.
+{134375}{134420}I did.
+{134575}{134642}I just want to be|a regular star.
+{134722}{134842}Jack, you'll never|be regular.
+{134845}{134917}You're spectacular.
+{135110}{135167}Mr Woodruff?
+{135977}{136032}Eureka.
+{136127}{136182}Yo, Mrs Powell!
+{136187}{136222}Hey, Mrs Powell!
+{136262}{136302}Hey, Jack's mother!
+{136305}{136372}Jack's mother!
+{136375}{136420}Mrs Powell!
+{136677}{136752}Hey, can Jack|come out and play?
+{136755}{136807}I'm sorry, Louis.|He can't.
+{136810}{136892}But why don't you try again|in a couple of days?
+{136990}{137062}Hey, Jack's mother?
+{137090}{137160}- Mrs Powell?|- Mrs Powell!
+{137240}{137305}Can Jack come out and play?
+{137355}{137402}He doesn't want to.
+{137757}{137825}Hey, Jack's mother!
+{137830}{137912}Jack's mother!
+{137915}{137975}Hey, Jack's mother!
+{137980}{138042}Can Jack come out and play?
+{138047}{138105}Girls, I'm sorry.|He doesn't want to.
+{138110}{138172}Can we at least see him|so we'll know that he's alive?
+{138365}{138422}- I told you!|- No, I told you!|- I told you.
+{138425}{138482}I said she wasn't|gonna let us see him--
+{138485}{138532}- No!|- And you said, "Yes, she is. Let's go!"
+{138535}{138580}And I said,|"No, he feels too bad."
+{138585}{138630}That's not true!
+{138632}{138710}- And you said--|- I told you--|- Of course, as always, you say--
+{138712}{138762}I said that--
+{138840}{138907}- Hey, Jack's mother!|- I know. I know.
+{138912}{139000}- Can Jack come out and play?|- Yeah, can he come out and play?
+{139002}{139072}- You are not going to go away, are you?|- Hey, Jack's mother!
+{139077}{139182}- I know what you're doing.|- Yo, Jack! Come on out, man!
+{139185}{139257}- Yeah, come on out!|- Kids, I'm sorry.
+{139260}{139355}I know he misses you, but|he just doesn't want to come out today.
+{139357}{139465}- Hey, guys.|- Try again some other time.|- What's up, Victor?
+{139470}{139517}Mario, Eric!
+{139567}{139627}Hurry up. Come on!
+{139630}{139705}Hey, Jack! Come out and play!
+{139792}{139857}Come on, Jack!|Come on out right now! Come on!
+{139860}{139922}Why won't you come out|and play with us?
+{139960}{140027}Come on, Jack.|Just like old times! Come on, Jack!
+{140032}{140110}- We're all here to see you!|- I miss you at the court, Jack!
+{140342}{140402}Shoo! Go away!
+{140617}{140675}Go on!
+{140792}{140862}Can Jack come out to play?
+{142590}{142655}Mom, Dad.
+{142660}{142715}I'm going to school.
+{142812}{142895}Mom, please say it's okay.
+{142940}{143032}Well, you better hurry up.|You don't want to be late.
+{143100}{143167}- Thanks.|- Wait.
+{143170}{143215}- Uh--|- A peanut butter and jelly sandwich.
+{143217}{143292}- Okay.|- Uh, Principal McGee, please.|- Gotta turn in my assignment.
+{143297}{143375}"When I grow up, I want|to put on about 250 pounds...
+{143377}{143470}and be a rapper like Heavy D,|except Heavy E.
+{143475}{143520}I want to go to China and, uh...
+{143522}{143585}film a music video|called 'Chubby.'
+{143727}{143790}Then, I might wanna be|a part-time boxer...
+{143792}{143877}or maybe a kickboxer|so I can kick some butt."
+{143880}{143917}Louis.
+{144025}{144132}"I want to be just like|my best friend when I grow up.
+{144135}{144210}He's only 10,|but he looks much older.
+{144255}{144347}He's like the perfect grown-up,|because on the inside...
+{144350}{144417}he's still just a kid.
+{144420}{144562}He's not afraid to learn things|or try things...
+{144565}{144650}or to meet new people|the way most grown-ups are.
+{144652}{144735}It's like he's looking at|everything for the first time...
+{144740}{144787}because he is.
+{144790}{144867}And most grown-ups|aren't like that.
+{144870}{144977}Most grown-ups just want|to go to work and make money...
+{144980}{145037}and show off|for the neighbours.
+{145040}{145145}And more than anything,|he knows how to be a great friend...
+{145147}{145212}- more than most people|who look like adults."|- It's Jack.
+{145215}{145277}- Jack's here!|- It's Jack!
+{145305}{145392}Jack! It's so good|to have you back.
+{145395}{145447}- Sorry I'm late.|- That's okay.
+{145450}{145550}- Hi, Jack.|- Hi, Louie.|- Your seat's waiting for you.
+{145552}{145602}- We were just in the middle|of Louis' essay.|- Hey, Jack.
+{145605}{145672}- Welcome back.|- Hey, buddy.
+{145900}{145957}Louis, you may continue.
+{145982}{146027}"More than anything...
+{146030}{146097}he knows how to be|a great friend...
+{146100}{146190}more than most people|who look like adults.
+{146195}{146272}So I may not know what|I want to be when I grow up...
+{146275}{146342}and right now|I really don't care...
+{146345}{146397}but I do know|who I want to be like.
+{146437}{146502}I want to be like the giant...
+{146530}{146580}the big guy...
+{146582}{146657}my best friend...
+{146660}{146722}Jack."
+{146762}{146812}Thank you.
+{146902}{146960}Good job, Louis.
+{146962}{147007}Very good, Louis.
+{147010}{147075}That was wonderful, Louis.
+{147132}{147192}Yeah, Louis.|That was wonderful.
+{147240}{147322}Okay, class.|Let's begin our lesson today.
+{147405}{147457}Turn to page 173.
+{147540}{147597}Are you okay, Jack?
+{147652}{147702}All right, everybody.|That's enough. Come on.
+{147705}{147765}Settle down.
+{147895}{147940}Oh, thank you. Oh, Louis.
+{147942}{148012}Louis, come here, sweetie.|Let me take a picture of you.
+{148015}{148072}- Wait. Come here.|- Louie.|- Louie, come on.
+{148077}{148140}Smile. I'm still payin'|the damn orthodontist.
+{148142}{148190}- Okay, take a picture.|- Come on, come on, come on!
+{148195}{148245}- Okay. Here, come on.|- Louie, right there.|- Sweetie.
+{148247}{148280}- Please, baby.|- Right there. That's good.
+{148282}{148365}Ooh, Eddie! Oh, my God.|Are you okay?
+{148367}{148395}- Are you okay?|- I'm fine.|- You sure? You sure?
+{148400}{148445}- Yeah?|- I'm sure.
+{148450}{148510}- John-John!|- George! What's up, fellas?
+{148512}{148587}- Graduation!|- Hey, Eddie.
+{148590}{148632}Hey, let's go find everybody.
+{148635}{148692}- You always want to sit by Johnny.|- No, I don't.
+{148695}{148757}- Stop!|- You stop.|- Please.
+{148760}{148827}- Please yourself.|- Okay, I will.|- Do that.
+{148955}{148995}I'll take her out, Brian.
+{148997}{149030}Oh!
+{150017}{150077}Ladies and gentlemen,|it is my honour to introduce...
+{150080}{150192}this year's valedictorian,|Jack Charles Powell.
+{150792}{150852}Thank you, Aristotle.
+{150955}{150985}Sorry.
+{151230}{151290}Yo, Jack! Go get 'em!
+{151330}{151377}I got it, Eric.
+{151382}{151452}I'm cool.
+{151455}{151490}My speech.
+{151545}{151602}I don't have|very much time these days...
+{151605}{151690}so I'll make it quick,|like my life.
+{151787}{151895}You know, as we come to the end|of this phase of our life...
+{151900}{152022}we find ourselves trying|to remember the good times...
+{152025}{152107}and trying to forget|the bad times.
+{152110}{152202}We find ourselves|thinking about the future...
+{152207}{152332}and start to worry, thinking,|"What am I gonna do?
+{152335}{152405}Where am I gonna be|in ten years?"
+{152462}{152505}But I say to you...
+{152510}{152552}"Hey...
+{152557}{152617}Iook at me."
+{152620}{152702}Please, don't worry so much.
+{152705}{152822}Because in the end, none of us|have very long on this earth.
+{152865}{152915}Life is fleeting.
+{153005}{153072}And if you're ever distressed...
+{153130}{153212}cast your eyes|to the summer sky.
+{153215}{153317}When the stars are strung|across the velvety night...
+{153320}{153385}and when a shooting star|streaks through the blackness...
+{153387}{153482}turning night into day...
+{153525}{153570}make a wish...
+{153600}{153657}and think of me.
+{153710}{153807}And make your life spectacular.
+{153880}{153932}I know I did.
+{154050}{154105}I made it, Mom.
+{154135}{154210}I'm a grown-up.
+{154242}{154290}Thank you.
+{154750}{154797}- Come on, Jackie! Let's go!|- Let's go!
+{154802}{154862}Mom, it's the guys.|I gotta go.
+{154867}{154952}- See ya!|- Not too late.|- Yeah, next Tuesday.
+{155012}{155087}Whoa! How sweet it is. Mom!
+{155105}{155142}Let's go!
+{155145}{155212}- I got it! I got it!|- Let's go!|- Come on!
+{155215}{155275}- Yeah!|- Come on.|- You all right?
+{155280}{155360}Ah, there you go.|Yeah, all right!
+{155362}{155395}See ya, Mom!
+{155397}{155442}Yeah!
+{155447}{155502}Let's go! Out of here.|We made it.
+{155505}{155585}Whatcha gonna do|when you grow up
+{155587}{155672}Whatcha gonna do|when your time is up
+{155675}{155755}What you gonna say|when things go wrong
+{155757}{155820}What you gonna do|when you're on your own
+{155822}{155895}There's a road
+{155900}{155962}Long and windin'
+{155990}{156075}The lights are blindin'
+{156080}{156162}But it gets there
+{156165}{156235}Don't give up
+{156240}{156317}Don't look back
+{156320}{156410}There's a silver linin'
+{156415}{156497}It's out there somewhere
+{156522}{156602}Everybody wants an answer
+{156605}{156690}Everybody needs a friend
+{156695}{156762}We all need a shining star
+{156765}{156847}On which we can depend
+{156850}{156922}So tonight we're gonna wish
+{156925}{157045}Upon a star we never|wished upon before
+{157047}{157092}What you gonna do|when you grow up
+{157095}{157157}Find what you're looking for
+{157182}{157250}There'll be times
+{157252}{157352}In your life
+{157355}{157465}Yeah, when you'll|be dancin' and shit
+{157470}{157520}But you ain't gettin' it
+{157522}{157590}Don't get disillusioned
+{157592}{157697}No, don't expect too much
+{157700}{157777}'Cause if what you have|is all you can get
+{157780}{157870}Just keep on tryin'|It just ain't happened yet
+{157872}{157962}Everybody wants to be a winner
+{157965}{158047}Everybody has a dream
+{158050}{158120}We all need a shining star
+{158122}{158207}When things ain't|what they seem
+{158210}{158270}So tonight we're gonna wish
+{158275}{158407}Upon a star we never|wished upon before
+{158442}{158550}Gotta get where|you're heading for
+{158555}{158597}Oh, yeah
+{158867}{158897}Ooh
+{158900}{158982}Everybody wants some kindness
+{158985}{159067}Everybody needs a break
+{159070}{159140}We all need a shining star
+{159142}{159227}When things get hard to take
+{159230}{159290}So tonight we're gonna wish
+{159295}{159407}Upon a star we never|wished upon before
+{159410}{159470}Whatcha gonna do|when you grow up
+{159472}{159547}Yeah, tonight|we're gonna wish
+{159550}{159662}Upon a star we never|wished upon before
+{159665}{159750}Whatcha gonna do|when you grow up
+{159755}{159802}Whatcha gonna do|when your time is up
+{159805}{159895}Gonna find what|you're looking for
+{159900}{159970}So don't get disillusioned
+{159975}{160082}No, don't spin too much
+{160085}{160172}Hey, it's out there|somewhere, baby
+{160175}{160255}Whatcha gonna say|when things go wrong
+{160260}{160347}Whatcha gonna do|when you're on your own
+{160350}{160445}Whatcha gonna do|when you grow up
+{162490}{162565}Can Jack come out to play?

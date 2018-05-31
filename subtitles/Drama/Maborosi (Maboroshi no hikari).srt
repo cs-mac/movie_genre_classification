@@ -1,0 +1,288 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: sign_37446_255___Light_of_Haecc,Open Sans Semibold,36,&H00274549,&H000000FF,&H00798E8D,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,256,256,24,1
+Style: sign_1907_2_The_Light_of_Hae,Open Sans Semibold,36,&H0041373D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,243,243,67,1
+Style: sign_1716_21_Guild_Alliance_V,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,16,561,172,1
+Style: sign_3112_12_Queen_of_the_Des,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,529,144,224,1
+Style: sign_2671_7_Queen_s_Confidan,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,571,112,269,1
+Style: sign_2671_6_Queen_s_Right_Ha,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,539,80,269,1
+Style: Next Episode Title,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,27,27,173,1
+Style: Episode Title,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,3,413,40,87,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:05.56,0:00:08.35,Main,Kalifa,0000,0000,0000,,A new guardian dragon will appear?
+Dialogue: 0,0:00:08.35,0:00:09.17,Main,Phoena,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:09.17,0:00:11.73,Main,Aram,0000,0000,0000,,This old man named Baltazari said so.
+Dialogue: 0,0:00:11.73,0:00:16.40,Main,Aram,0000,0000,0000,,That we should go to the Lake of Sand, \Nwhere a new guardian dragon will emerge.
+Dialogue: 0,0:00:16.40,0:00:18.86,Main,Kalifa,0000,0000,0000,,The sage of fate?
+Dialogue: 0,0:00:18.86,0:00:23.67,Main,Phoena,0000,0000,0000,,The Chronicle of this continent \Nhas been stained black, too.
+Dialogue: 0,0:00:23.67,0:00:25.88,Main,Phoena,0000,0000,0000,,We have no time to waste.
+Dialogue: 0,0:00:26.44,0:00:30.50,Main,Phoena,0000,0000,0000,,We need to muster\Nall the forces at our disposal.
+Dialogue: 0,0:00:30.50,0:00:34.00,Main,Phoena,0000,0000,0000,,Please help us, Ashrina.
+Dialogue: 0,0:00:35.18,0:00:38.04,Main,Ashrina,0000,0000,0000,,If Baltazari says so...
+Dialogue: 0,0:00:38.04,0:00:40.99,Main,Ashrina,0000,0000,0000,,This may be the right time\Nto put that to the test.
+Dialogue: 0,0:00:41.77,0:00:42.51,Main,Ashrina,0000,0000,0000,,Farrah.
+Dialogue: 0,0:00:42.51,0:00:43.40,Main,Farrah,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:45.83,0:00:49.30,Main,Ashrina,0000,0000,0000,,After Yuri defeated the blackened dragon,
+Dialogue: 0,0:00:49.74,0:00:53.52,Main,Ashrina,0000,0000,0000,,we found this at the shrine ruins\Nit used to live in.
+Dialogue: 0,0:00:53.52,0:00:55.77,Main,Phoena,0000,0000,0000,,Is this a song?
+Dialogue: 0,0:00:55.77,0:01:00.74,Main,Ashrina,0000,0000,0000,,I have always wanted to \Nhave Musica sing this.
+Dialogue: 0,0:01:01.16,0:01:03.00,Main,Ashrina,0000,0000,0000,,Her voice might cause some sort of reaction.
+Dialogue: 0,0:01:03.63,0:01:04.87,Main,Aram,0000,0000,0000,,Musica?
+Dialogue: 0,0:01:04.87,0:01:07.99,Main,Phoena,0000,0000,0000,,A forest sprite who they call\N the legendary songstress.
+Dialogue: 0,0:01:07.99,0:01:12.72,Main,Phoena,0000,0000,0000,,Indeed, I don't think anyone else\Ncould sing this song.
+Dialogue: 0,0:01:14.00,0:01:16.84,Main,Aram,0000,0000,0000,,So we're going to awaken\Nthe dragon with a song?
+Dialogue: 0,0:01:16.84,0:01:18.66,Main,Aram,0000,0000,0000,,That's pretty awesome.
+Dialogue: 0,0:01:19.54,0:01:21.83,Main,Ashrina,0000,0000,0000,,We owe Yuri a debt of gratitude
+Dialogue: 0,0:01:21.83,0:01:26.49,Main,Ashrina,0000,0000,0000,,and would never turn down an opportunity\Nto help fight the Black King.
+Dialogue: 0,0:01:26.49,0:01:30.16,Main,Ashrina,0000,0000,0000,,Farrah, I'd like you to find Musica\Nand bring her here.
+Dialogue: 0,0:01:30.16,0:01:31.51,Main,Ashrina,0000,0000,0000,,Can you do that?
+Dialogue: 0,0:01:31.51,0:01:32.47,Main,Farrah,0000,0000,0000,,Understood.
+Dialogue: 0,0:01:32.47,0:01:34.48,Main,Phoena,0000,0000,0000,,May I go with her?
+Dialogue: 0,0:01:34.86,0:01:36.23,Main,Ashrina,0000,0000,0000,,Of course.
+Dialogue: 0,0:01:36.58,0:01:38.30,Main,A,0000,0000,0000,,Your Majesty! Kalifa!
+Dialogue: 0,0:01:38.30,0:01:40.18,Main,Kalifa,0000,0000,0000,,Keep it down. What are you yelling for?
+Dialogue: 0,0:01:41.15,0:01:42.44,Main,A,0000,0000,0000,,An army...
+Dialogue: 0,0:01:43.53,0:01:45.73,Main,A,0000,0000,0000,,An army approaches bearing \Nthe banner of the Nine Territories!
+Dialogue: 0,0:01:45.73,0:01:47.61,Main,A,0000,0000,0000,,We estimate they number roughly 10,000 men.
+Dialogue: 0,0:01:47.61,0:01:48.75,Main,Kalifa,0000,0000,0000,,The Nine Territories?
+Dialogue: 0,0:01:48.75,0:01:50.25,Main,Aram,0000,0000,0000,,It's that damn Shuza.
+Dialogue: 0,0:01:51.02,0:01:52.91,Main,Kalifa,0000,0000,0000,,Your Majesty, we must ready the army.
+Dialogue: 0,0:01:54.02,0:01:55.25,Main,A,0000,0000,0000,,Wait, please.
+Dialogue: 0,0:01:55.97,0:02:01.21,Main,A,0000,0000,0000,,Another army, also numbering 10,000,\Nhas already appeared to face them.
+Dialogue: 0,0:02:01.73,0:02:03.86,Main,Ashrina,0000,0000,0000,,Another army?
+Dialogue: 0,0:02:05.67,0:02:07.71,Main,Ashrina,0000,0000,0000,,The Holy Guard of the Holy Kingdom.
+Dialogue: 0,0:02:08.17,0:02:11.23,Main,Ashrina,0000,0000,0000,,Led by Holy Queen Juliana!
+Dialogue: 0,0:03:55.58,0:04:01.59,Episode Title,,0000,0000,0000,,{\fad(500,500)}The Flower in the Desert
+Dialogue: 0,0:03:58.38,0:03:59.86,Main,Juliana,0000,0000,0000,,{\an8}They have yet to make a move.
+Dialogue: 0,0:03:59.86,0:04:02.45,Main,A,0000,0000,0000,,{\an8}They must be waiting to see what we do first.
+Dialogue: 0,0:04:03.94,0:04:05.54,Main,A,0000,0000,0000,,Shall we send messengers?
+Dialogue: 0,0:04:05.54,0:04:10.08,Main,B,0000,0000,0000,,None of the messengers we sent have returned.
+Dialogue: 0,0:04:10.08,0:04:11.68,Main,B,0000,0000,0000,,I suspect it would be of no use.
+Dialogue: 0,0:04:12.31,0:04:14.92,Main,Juliana,0000,0000,0000,,The same thing happened with our messengers.
+Dialogue: 0,0:04:16.21,0:04:18.59,Italics,Juliana,0000,0000,0000,,We may have no choice but to fight.
+Dialogue: 0,0:04:19.04,0:04:21.28,Main,Kalifa,0000,0000,0000,,Hold your positions!
+Dialogue: 0,0:04:22.19,0:04:26.27,Main,Kalifa,0000,0000,0000,,I bring a message from Ashrina, \NQueen of the Desert.
+Dialogue: 0,0:04:26.87,0:04:31.41,Main,Kalifa,0000,0000,0000,,If you fight now,\Nneither party will leave unscathed.
+Dialogue: 0,0:04:31.41,0:04:33.14,Main,Kalifa,0000,0000,0000,,That being the case,
+Dialogue: 0,0:04:33.14,0:04:37.31,Main,Kalifa,0000,0000,0000,,should you not settle this with words,\Nrather than with swords?
+Dialogue: 0,0:04:37.31,0:04:41.21,Main,Kalifa,0000,0000,0000,,We of the Lake of Sand \Nwill provide a venue for you to talk.
+Dialogue: 0,0:04:41.21,0:04:44.49,Main,Kalifa,0000,0000,0000,,Bring one hundred men each.
+Dialogue: 0,0:04:44.49,0:04:49.74,Main,Kalifa,0000,0000,0000,,Sending troops to die before we face the\NBlack King would be the height of stupidity.
+Dialogue: 0,0:04:49.74,0:04:54.26,Main,Kalifa,0000,0000,0000,,Neither the Holy Queen nor the\Ndistinguished leaders of the Nine Territories
+Dialogue: 0,0:04:54.26,0:04:57.20,Main,Kalifa,0000,0000,0000,,could be so foolish as to do such a thing.
+Dialogue: 0,0:04:57.20,0:05:01.51,Main,Kalifa,0000,0000,0000,,I trust that you will accept \Nthis offer graciously.
+Dialogue: 0,0:05:01.51,0:05:03.20,Main,A,0000,0000,0000,,Preposterous.
+Dialogue: 0,0:05:03.69,0:05:05.18,Main,A,0000,0000,0000,,Shall we shoot him down?
+Dialogue: 0,0:05:05.18,0:05:06.03,Main,Shuza,0000,0000,0000,,No.
+Dialogue: 0,0:05:06.03,0:05:07.19,Main,Shuza,0000,0000,0000,,This sounds amusing.
+Dialogue: 0,0:05:07.19,0:05:09.03,Main,Shuza,0000,0000,0000,,We will accept their offer.
+Dialogue: 0,0:05:09.03,0:05:09.73,Main,A,0000,0000,0000,,But...
+Dialogue: 0,0:05:09.74,0:05:14.45,Main,Shuza,0000,0000,0000,,I want to know just how that girl has\Nthe gall to call herself the Holy Queen.
+Dialogue: 0,0:05:14.45,0:05:18.08,Main,Shuza,0000,0000,0000,,Taking her down can wait until after that.
+Dialogue: 0,0:05:18.08,0:05:20.53,Main,A,0000,0000,0000,,Will you accept their offer, then?
+Dialogue: 0,0:05:20.53,0:05:23.12,Main,Juliana,0000,0000,0000,,Yes. This is an unexpected opportunity.
+Dialogue: 0,0:05:23.12,0:05:25.95,Main,Juliana,0000,0000,0000,,If we can successfully negotiate \Nwith them, we all win.
+Dialogue: 0,0:05:26.38,0:05:28.47,Main,Juliana,0000,0000,0000,,Let's go, Einslotte.
+Dialogue: 0,0:05:28.47,0:05:29.34,Main,,0000,0000,0000,,Yes, Your Majesty.
+Dialogue: 0,0:05:32.32,0:05:33.68,Main,Kalifa,0000,0000,0000,,Your Majesty the Holy Queen.
+Dialogue: 0,0:05:34.00,0:05:39.09,Main,Kalifa,0000,0000,0000,,I am Kalifa, aide to Her Majesty Ashrina.
+Dialogue: 0,0:05:39.94,0:05:43.10,Main,Kalifa,0000,0000,0000,,I congratulate you on your coronation.
+Dialogue: 0,0:05:43.10,0:05:45.67,Main,Juliana,0000,0000,0000,,Thank you for your gracious welcome.
+Dialogue: 0,0:05:46.23,0:05:49.31,Main,Juliana,0000,0000,0000,,Forgive us for arriving \Nunannounced with an army.
+Dialogue: 0,0:05:49.31,0:05:52.64,Main,Kalifa,0000,0000,0000,,There is nothing to forgive.
+Dialogue: 0,0:05:53.23,0:05:54.82,Main,Aram,0000,0000,0000,,Hey, long time.
+Dialogue: 0,0:05:55.94,0:05:58.20,Main,Juliana,0000,0000,0000,,Aram?!
+Dialogue: 0,0:05:58.20,0:05:59.65,Main,Juliana,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:05:59.65,0:06:01.21,Main,Aram,0000,0000,0000,,Why, you ask?
+Dialogue: 0,0:06:01.21,0:06:06.29,Main,Aram,0000,0000,0000,,To save Yuri and take down \Nthe Black King, of course.
+Dialogue: 0,0:06:07.52,0:06:08.86,Main,Juliana,0000,0000,0000,,All right.
+Dialogue: 0,0:06:08.86,0:06:12.30,Main,Juliana,0000,0000,0000,,I'm sure Yuri will appreciate it.
+Dialogue: 0,0:06:12.30,0:06:14.82,Main,Juliana,0000,0000,0000,,Let's do our best, Aram.
+Dialogue: 0,0:06:15.83,0:06:18.87,Main,Aram,0000,0000,0000,,Hey, don't treat me like a kid.
+Dialogue: 0,0:06:23.83,0:06:25.81,Main,Aram,0000,0000,0000,,So, you've come.
+Dialogue: 0,0:06:31.84,0:06:34.05,Main,Aram,0000,0000,0000,,H-Hey, don't ignore me!
+Dialogue: 0,0:06:34.55,0:06:35.44,Main,Juliana,0000,0000,0000,,Aram.
+Dialogue: 0,0:06:35.90,0:06:37.78,Main,Juliana,0000,0000,0000,,Leave this to us.
+Dialogue: 0,0:06:48.04,0:06:50.35,Main,Phoena,0000,0000,0000,,She should be around here somewhere.
+Dialogue: 0,0:07:05.09,0:07:06.05,Main,Juliana,0000,0000,0000,,What?
+Dialogue: 0,0:07:07.19,0:07:11.06,Main,Juliana,0000,0000,0000,,Are you telling me to give up the throne?
+Dialogue: 0,0:07:11.06,0:07:12.06,Main,Shuza,0000,0000,0000,,No.
+Dialogue: 0,0:07:12.48,0:07:15.00,Main,Shuza,0000,0000,0000,,You're free to call yourself\Nthe Holy Queen or whatever.
+Dialogue: 0,0:07:15.00,0:07:19.07,Main,Shuza,0000,0000,0000,,But you will forfeit your command\Nover the Holy Guard.
+Dialogue: 0,0:07:19.07,0:07:21.24,Main,Juliana,0000,0000,0000,,I could never.
+Dialogue: 0,0:07:21.24,0:07:24.08,Main,Juliana,0000,0000,0000,,I would no longer be the Holy Queen.
+Dialogue: 0,0:07:24.44,0:07:25.58,Main,Shuza,0000,0000,0000,,Oh?
+Dialogue: 0,0:07:25.58,0:07:30.20,Main,Shuza,0000,0000,0000,,Not only was your flag bearer, Yuri,\Ndefeated by the Black King,
+Dialogue: 0,0:07:30.20,0:07:34.08,Main,Shuza,0000,0000,0000,,he has also succumbed to the darkness.
+Dialogue: 0,0:07:34.53,0:07:38.98,Main,Shuza,0000,0000,0000,,I've also heard that one of your men \Nhas blackened and become a demon.
+Dialogue: 0,0:07:39.60,0:07:42.34,Main,Shuza,0000,0000,0000,,You aren't fit for the role.
+Dialogue: 0,0:07:42.85,0:07:46.23,Main,Shuza,0000,0000,0000,,Something that you yourself are well aware of.
+Dialogue: 0,0:07:46.23,0:07:51.23,Main,Shuza,0000,0000,0000,,That's why you put off taking the throne and\Nleft others to do your job, was it not?
+Dialogue: 0,0:07:51.23,0:07:52.55,Main,Juliana,0000,0000,0000,,Well...
+Dialogue: 0,0:07:56.24,0:07:57.46,Main,Shuza,0000,0000,0000,,Well?
+Dialogue: 0,0:07:57.46,0:08:01.24,Main,Shuza,0000,0000,0000,,Well what, Holy Queen Juliana?
+Dialogue: 0,0:08:01.77,0:08:04.36,Main,Juliana,0000,0000,0000,,Shuza, you're...
+Dialogue: 0,0:08:06.69,0:08:08.38,Italics,Kalifa,0000,0000,0000,,This doesn't look good.
+Dialogue: 0,0:08:08.38,0:08:10.58,Italics,Kalifa,0000,0000,0000,,Shuza is an expert at provoking people.
+Dialogue: 0,0:08:10.58,0:08:12.01,Italics,Kalifa,0000,0000,0000,,This won't end well.
+Dialogue: 0,0:08:13.87,0:08:15.87,Main,A,0000,0000,0000,,We're under attack!
+Dialogue: 0,0:08:16.75,0:08:18.00,Main,Kalifa,0000,0000,0000,,What's going on?
+Dialogue: 0,0:08:18.00,0:08:20.80,Main,,0000,0000,0000,,Sir! The Black Army has arrived!
+Dialogue: 0,0:08:33.16,0:08:37.47,Main,Shuza,0000,0000,0000,,Looks like I'll have to take care of them\Nbefore I deal with the Holy Queen.
+Dialogue: 0,0:08:40.15,0:08:42.15,Main,Juliana,0000,0000,0000,,They picked the worst possible time to attack!
+Dialogue: 0,0:08:42.52,0:08:44.72,Main,A,0000,0000,0000,,Shall we mobilize the troops we left behind?
+Dialogue: 0,0:08:45.58,0:08:48.86,Main,Juliana,0000,0000,0000,,No, we will take them out\Nwith what we have here.
+Dialogue: 0,0:08:50.17,0:08:52.65,Main,A,0000,0000,0000,,This looks like it's going to be fun.
+Dialogue: 0,0:09:03.05,0:09:04.38,Main,Shuza,0000,0000,0000,,You...
+Dialogue: 0,0:09:30.74,0:09:31.41,Main,A,0000,0000,0000,,Die.
+Dialogue: 0,0:09:50.72,0:09:53.16,Main,Shuza,0000,0000,0000,,You're an interesting puppet.
+Dialogue: 0,0:10:01.53,0:10:03.84,Main,Burckhardt,0000,0000,0000,,What a pathetic sight.
+Dialogue: 0,0:10:03.84,0:10:05.36,Main,Burckhardt,0000,0000,0000,,How sad.
+Dialogue: 0,0:10:05.36,0:10:06.31,Main,Juliana,0000,0000,0000,,Burckhardt.
+Dialogue: 0,0:10:06.31,0:10:09.89,Main,Burckhardt,0000,0000,0000,,I heard you'd ascended to the throne.
+Dialogue: 0,0:10:09.89,0:10:13.92,Main,Burckhardt,0000,0000,0000,,Shall I congratulate you, Juliana?
+Dialogue: 0,0:10:16.91,0:10:20.51,Main,Burckhardt,0000,0000,0000,,You seem so miserable now.
+Dialogue: 0,0:10:20.51,0:10:23.87,Main,Burckhardt,0000,0000,0000,,Is the crown of the Holy Queen that heavy?
+Dialogue: 0,0:10:24.34,0:10:28.72,Main,Burckhardt,0000,0000,0000,,You're so pitiful, I can't bear to watch.
+Dialogue: 0,0:10:35.44,0:10:36.23,Main,A,0000,0000,0000,,Your Majesty!
+Dialogue: 0,0:10:43.11,0:10:46.27,Main,Burckhardt,0000,0000,0000,,You have such fire within you.
+Dialogue: 0,0:10:46.27,0:10:48.24,Main,Burckhardt,0000,0000,0000,,Why hold it back?
+Dialogue: 0,0:10:48.24,0:10:50.66,Main,Burckhardt,0000,0000,0000,,Why not do as you wish?
+Dialogue: 0,0:10:50.66,0:10:53.67,Main,Burckhardt,0000,0000,0000,,Just like how you cast me aside!
+Dialogue: 0,0:10:58.78,0:10:59.62,Main,Juliana,0000,0000,0000,,No.
+Dialogue: 0,0:10:59.62,0:11:01.00,Main,Juliana,0000,0000,0000,,I...
+Dialogue: 0,0:11:01.00,0:11:02.58,Main,Juliana,0000,0000,0000,,It was for your own good.
+Dialogue: 0,0:11:02.58,0:11:04.79,Main,Burckhardt,0000,0000,0000,,I don't need your excuses.
+Dialogue: 0,0:11:04.79,0:11:07.91,Main,Burckhardt,0000,0000,0000,,Whatever you thought you were doing,
+Dialogue: 0,0:11:07.91,0:11:11.39,Main,Burckhardt,0000,0000,0000,,all that matters is what I felt \Nand what it resulted in.
+Dialogue: 0,0:11:12.16,0:11:15.12,Main,Burckhardt,0000,0000,0000,,You're far too pathetic as you are now.
+Dialogue: 0,0:11:15.12,0:11:19.36,Main,Burckhardt,0000,0000,0000,,You couldn't hope defeat Shuza, \Nlet alone our master, the Black King.
+Dialogue: 0,0:11:19.93,0:11:23.39,Main,Burckhardt,0000,0000,0000,,I don't want to see you like this anymore.
+Dialogue: 0,0:11:25.81,0:11:27.77,Main,A,0000,0000,0000,,I'll take care of him.
+Dialogue: 0,0:11:32.31,0:11:33.32,Main,Aram,0000,0000,0000,,Old man.
+Dialogue: 0,0:11:33.32,0:11:35.97,Main,Kalifa,0000,0000,0000,,You're alive? Good, very good.
+Dialogue: 0,0:11:35.97,0:11:38.57,Main,Kalifa,0000,0000,0000,,Do you happen to know\Nwhere Shuza and Juliana are?
+Dialogue: 0,0:11:38.57,0:11:39.81,Main,Aram,0000,0000,0000,,No idea.
+Dialogue: 0,0:11:39.81,0:11:40.95,Main,Aram,0000,0000,0000,,Not in all this chaos.
+Dialogue: 0,0:11:40.95,0:11:42.32,Main,Kalifa,0000,0000,0000,,Damn it.
+Dialogue: 0,0:11:42.32,0:11:44.30,Main,Kalifa,0000,0000,0000,,I didn't want to let them out of my sight.
+Dialogue: 0,0:11:45.55,0:11:50.31,Main,Kalifa,0000,0000,0000,,Given the situation, there's no telling \Nwhat sort of accidents might happen.
+Dialogue: 0,0:11:51.06,0:11:52.26,Main,Aram,0000,0000,0000,,Accidents?
+Dialogue: 0,0:11:52.26,0:11:54.78,Main,Kalifa,0000,0000,0000,,Those two are like oil and water.
+Dialogue: 0,0:11:54.78,0:11:57.13,Main,Kalifa,0000,0000,0000,,They'll likely never come\Nto an understanding,
+Dialogue: 0,0:11:57.13,0:11:59.22,Main,Kalifa,0000,0000,0000,,and they both know that.
+Dialogue: 0,0:11:59.22,0:12:03.73,Main,Kalifa,0000,0000,0000,,Should this battle present them with\Nthe chance to strike the other down,
+Dialogue: 0,0:12:03.73,0:12:05.08,Main,Kalifa,0000,0000,0000,,what do you think will happen?
+Dialogue: 0,0:12:08.40,0:12:11.04,Main,Kalifa,0000,0000,0000,,And if one of them were to be killed,
+Dialogue: 0,0:12:12.73,0:12:15.94,Main,Kalifa,0000,0000,0000,,a bloodbath would surely follow.
+Dialogue: 0,0:12:15.94,0:12:18.24,Main,Aram,0000,0000,0000,,I won't let that happen.
+Dialogue: 0,0:12:35.73,0:12:37.25,Main,Shuza,0000,0000,0000,,How strange.
+Dialogue: 0,0:12:46.31,0:12:47.52,Main,Juliana,0000,0000,0000,,If only...
+Dialogue: 0,0:12:47.52,0:12:49.53,Main,Juliana,0000,0000,0000,,If only it weren't for you!
+Dialogue: 0,0:12:50.67,0:12:52.69,Main,Shuza,0000,0000,0000,,You took the words\Nright out of my mouth.
+Dialogue: 0,0:12:57.75,0:13:00.75,Main,Juliana,0000,0000,0000,,Why do you stand in my way, Shuza?
+Dialogue: 0,0:13:00.75,0:13:03.37,Main,Shuza,0000,0000,0000,,You're the one in my way.
+Dialogue: 0,0:13:03.37,0:13:06.46,Main,Shuza,0000,0000,0000,,An incompetent girl like you,\Ncalling herself the Holy Queen?
+Dialogue: 0,0:13:06.72,0:13:07.83,Main,Shuza,0000,0000,0000,,Don't make me laugh!
+Dialogue: 0,0:13:12.12,0:13:13.22,Main,Juliana,0000,0000,0000,,You know nothing of me.
+Dialogue: 0,0:13:14.62,0:13:18.06,Main,Juliana,0000,0000,0000,,You have no idea how hard it was\Nfor me to make that decision!
+Dialogue: 0,0:13:23.25,0:13:25.91,Main,Juliana,0000,0000,0000,,Shuza, I'm going to defeat you!
+Dialogue: 0,0:13:25.91,0:13:27.19,Main,Juliana,0000,0000,0000,,If I do that...
+Dialogue: 0,0:13:29.19,0:13:30.69,Main,Juliana,0000,0000,0000,,No, I have to!
+Dialogue: 0,0:13:32.02,0:13:33.35,Main,Juliana,0000,0000,0000,,Or else I...
+Dialogue: 0,0:13:41.29,0:13:43.41,Main,Shuza,0000,0000,0000,,Damn brat.
+Dialogue: 0,0:13:45.08,0:13:47.67,Main,Shuza,0000,0000,0000,,It's you who shall die!
+Dialogue: 0,0:14:03.17,0:14:04.68,Main,A,0000,0000,0000,,My...
+Dialogue: 0,0:14:17.29,0:14:19.11,Main,A,0000,0000,0000,,How amusing.
+Dialogue: 0,0:14:31.21,0:14:34.34,Main,Aram,0000,0000,0000,,Stop!
+Dialogue: 0,0:15:18.34,0:15:19.61,Main,Juliana,0000,0000,0000,,What was I...
+Dialogue: 0,0:15:20.54,0:15:24.32,Main,Aram,0000,0000,0000,,You two nearly let the blackness\Nengulf you just now.
+Dialogue: 0,0:15:25.16,0:15:27.62,Main,Aram,0000,0000,0000,,You should have noticed sooner, idiots.
+Dialogue: 0,0:15:27.62,0:15:29.16,Main,A,0000,0000,0000,,Good grief.
+Dialogue: 0,0:15:32.78,0:15:35.30,Main,A,0000,0000,0000,,You're a stubborn lot.
+Dialogue: 0,0:15:35.30,0:15:41.01,Main,Burckhardt,0000,0000,0000,,Too bad. Juliana nearly became one of us.
+Dialogue: 0,0:15:46.08,0:15:48.95,Main,Burckhardt,0000,0000,0000,,Do you resist, Juliana?
+Dialogue: 0,0:15:48.95,0:15:54.04,Main,Burckhardt,0000,0000,0000,,Despite the freedom we have on this side?
+Dialogue: 0,0:15:54.04,0:15:56.09,Main,Aram,0000,0000,0000,,Shut up, Burckhardt.
+Dialogue: 0,0:15:56.53,0:15:58.46,Main,Aram,0000,0000,0000,,I remember what you said.
+Dialogue: 0,0:15:58.46,0:16:01.10,Main,Aram,0000,0000,0000,,"The next time we meet will be your last."
+Dialogue: 0,0:16:01.10,0:16:04.72,Main,Aram,0000,0000,0000,,Well, it's time to keep that promise!
+Dialogue: 0,0:16:06.31,0:16:09.76,Main,Burckhardt,0000,0000,0000,,I'll shut that big mouth of yours, brat!
+Dialogue: 0,0:16:14.73,0:16:16.19,Main,Juliana,0000,0000,0000,,Aram!
+Dialogue: 0,0:16:17.36,0:16:20.81,Main,Aram,0000,0000,0000,,Old man Kalifa told me.
+Dialogue: 0,0:16:20.81,0:16:26.08,Main,Aram,0000,0000,0000,,If either you or Shuza die, there's no \Ntelling what will happen to your men.
+Dialogue: 0,0:16:26.96,0:16:28.08,Main,Aram,0000,0000,0000,,So...
+Dialogue: 0,0:16:29.00,0:16:31.45,Main,Aram,0000,0000,0000,,I'm not letting you die!
+Dialogue: 0,0:16:39.84,0:16:40.68,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:16:44.26,0:16:46.26,Main,A,0000,0000,0000,,I'll kill anyone in my way.
+Dialogue: 0,0:16:53.40,0:16:54.63,Main,Aram,0000,0000,0000,,Furball!
+Dialogue: 0,0:17:13.02,0:17:17.60,Main,Phoena,0000,0000,0000,,Guardian dragon of the Lake of Sand, \Nbestow upon us the light of hope.
+Dialogue: 0,0:17:35.15,0:17:37.06,Main,A,0000,0000,0000,,Break through the darkness.
+Dialogue: 0,0:17:37.06,0:17:39.68,Main,A,0000,0000,0000,,You can do it, Aram.
+Dialogue: 0,0:18:33.00,0:18:34.62,Main,Aram,0000,0000,0000,,Furball?
+Dialogue: 0,0:18:34.62,0:18:36.51,Main,A,0000,0000,0000,,A guardian dragon?
+Dialogue: 0,0:18:44.14,0:18:46.59,Main,A,0000,0000,0000,,Tch. They have the upper hand here.
+Dialogue: 0,0:18:46.59,0:18:47.97,Main,A,0000,0000,0000,,Burckhardt!
+Dialogue: 0,0:18:58.11,0:18:58.93,Main,Aram,0000,0000,0000,,Hey.
+Dialogue: 0,0:19:02.46,0:19:04.12,Main,Aram,0000,0000,0000,,Give back the Chronicle.
+Dialogue: 0,0:19:04.12,0:19:06.80,Main,Aram,0000,0000,0000,,You don't deserve it.
+Dialogue: 0,0:19:32.26,0:19:33.92,Main,Aram,0000,0000,0000,,The Chronicle...
+Dialogue: 0,0:19:34.39,0:19:36.27,Main,Juliana,0000,0000,0000,,It turned white again.
+Dialogue: 0,0:19:48.16,0:19:50.82,Main,Phoena,0000,0000,0000,,Thank you, Aram.
+Dialogue: 0,0:19:52.93,0:19:54.31,Main,Phoena,0000,0000,0000,,Furball.
+Dialogue: 0,0:19:54.31,0:19:56.17,Main,Phoena,0000,0000,0000,,Damn it, you surprised me!
+Dialogue: 0,0:19:56.17,0:19:58.58,Main,Phoena,0000,0000,0000,,You were a guardian dragon?
+Dialogue: 0,0:19:58.58,0:20:00.38,Main,Phoena,0000,0000,0000,,Thanks, though.
+Dialogue: 0,0:20:00.38,0:20:03.09,Main,Phoena,0000,0000,0000,,You saved us.
+Dialogue: 0,0:20:08.58,0:20:10.73,Main,A,0000,0000,0000,,You're Musica, correct?
+Dialogue: 0,0:20:10.73,0:20:12.84,Main,B,0000,0000,0000,,We've come for you.
+Dialogue: 0,0:20:12.84,0:20:13.98,Main,Musica,0000,0000,0000,,For me?
+Dialogue: 0,0:20:13.98,0:20:14.73,Main,A,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:14.73,0:20:19.31,Main,B,0000,0000,0000,,The sword that cuts through the darkness \Nneeds you your help.
+Dialogue: 0,0:20:22.16,0:20:23.15,Main,Aram,0000,0000,0000,,Juliana.
+Dialogue: 0,0:20:26.67,0:20:30.23,Main,Aram,0000,0000,0000,,I'm going to kick the Black King's ass
+Dialogue: 0,0:20:30.23,0:20:32.11,Main,Aram,0000,0000,0000,,and bring Yuri back.
+Dialogue: 0,0:20:32.11,0:20:35.16,Main,Aram,0000,0000,0000,,So help me out.
+Dialogue: 0,0:20:35.16,0:20:36.91,Main,Aram,0000,0000,0000,,No, {\i1}please{\i0} help me.
+Dialogue: 0,0:20:36.91,0:20:38.37,Main,Aram,0000,0000,0000,,I beg you!
+Dialogue: 0,0:20:42.58,0:20:45.86,Main,Juliana,0000,0000,0000,,No, I should be the one asking you.
+Dialogue: 0,0:20:46.88,0:20:50.81,Main,Juliana,0000,0000,0000,,Please allow the Holy Guard \Nto join the Suppression Army.
+Dialogue: 0,0:20:51.26,0:20:52.36,Main,Juliana,0000,0000,0000,,May we?
+Dialogue: 0,0:20:54.44,0:20:55.20,Main,Aram,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:56.57,0:20:57.61,Main,Aram,0000,0000,0000,,Of course.
+Dialogue: 0,0:20:59.99,0:21:02.77,Main,Juliana,0000,0000,0000,,May the gods bless the Suppression Army.
+Dialogue: 0,0:21:02.77,0:21:05.08,Main,Juliana,0000,0000,0000,,And the Volunteer Army.
+Dialogue: 0,0:21:08.33,0:21:09.52,Main,Phoena,0000,0000,0000,,Aram.
+Dialogue: 0,0:21:10.07,0:21:11.57,Main,Aram,0000,0000,0000,,Good news, Phoena.
+Dialogue: 0,0:21:11.57,0:21:14.00,Main,Aram,0000,0000,0000,,The Holy Guard is going to help us.
+Dialogue: 0,0:21:17.89,0:21:18.86,Main,Juliana,0000,0000,0000,,Shuza.
+Dialogue: 0,0:21:20.80,0:21:24.27,Main,Juliana,0000,0000,0000,,I apologize for attempting\Nsuch a cowardly attack.
+Dialogue: 0,0:21:24.27,0:21:26.58,Main,Juliana,0000,0000,0000,,But we're even, are we not?
+Dialogue: 0,0:21:27.74,0:21:29.98,Main,Juliana,0000,0000,0000,,I'm sure you understand now.
+Dialogue: 0,0:21:29.98,0:21:31.71,Main,Juliana,0000,0000,0000,,Join us.
+Dialogue: 0,0:21:35.42,0:21:38.32,Main,Shuza,0000,0000,0000,,I'll travel my own path.
+Dialogue: 0,0:21:39.98,0:21:41.11,Main,Juliana,0000,0000,0000,,Shuza...
+Dialogue: 0,0:21:51.98,0:21:53.57,Main,A,0000,0000,0000,,Are you sure we should let him go?
+Dialogue: 0,0:21:53.57,0:21:54.64,Main,Juliana,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:54.64,0:21:58.95,Main,Juliana,0000,0000,0000,,I doubt he will stand in our way.
+Dialogue: 0,0:22:00.57,0:22:02.02,Main,Aram,0000,0000,0000,,All right.
+Dialogue: 0,0:22:02.02,0:22:03.37,Main,Aram,0000,0000,0000,,Let's go, everyone!
+Dialogue: 0,0:22:10.54,0:22:12.92,Main,Aram,0000,0000,0000,,Just you wait, Yuri.
+Dialogue: 0,0:23:45.02,0:23:50.03,Next Episode Title,,0000,0000,0000,,The Sword That Rends Darkness
+Dialogue: 0,0:23:46.21,0:23:48.79,Main,,0000,0000,0000,,Fate is set in motion.

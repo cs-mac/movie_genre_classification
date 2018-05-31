@@ -1,0 +1,1254 @@
+{3915}{3992}Please,|I must see Miss Lipscomb.
+{3994}{4027}At this hour?
+{4028}{4081}It's urgent... about my sister.
+{4147}{4203}You'll wake the whole house!
+{4371}{4415}Miss Lipscomb!
+{4445}{4485}It's Mister Claudel.
+{4657}{4709}She's vanished.|Where could she be?
+{4711}{4745}She told me nothing.
+{4747}{4794}My mother's very upset.
+{4795}{4827}Try the studio.
+{5082}{5170}PARIS, FEBRUARY 1885
+{11506}{11576}Camille, you went digging|for clay again?
+{11578}{11627}I just saw your mother.
+{11629}{11678}She was frantic.
+{11680}{11715}And Paul...
+{11717}{11802}...was ready to look for you|all over the world.
+{11823}{11866}Are you listening?
+{11905}{11985}Boucher is right,|you've got the madness of mud.
+{12011}{12084}You're awful.|You never answer me...
+{12111}{12207}...even when it's about you.|Only your work counts.
+{12312}{12378}Am I meant to be a sculptor?
+{12423}{12471}I'm such a dreamer!
+{12589}{12640}Boucher says that|Rodin is a genius...
+{12642}{12693}...but that he seduces|all the girls.
+{12735}{12770}We'll have to watch out.
+{12778}{12827}He's as scandalous as his work?
+{12829}{12884}All his models sleep with him.
+{13003}{13094}If he faces the light,|we'll see him better.
+{13434}{13477}Toto is transparent.
+{13516}{13555}Don't leave it there.
+{13557}{13625}When I'm nervous,|I need Toto.
+{13627}{13670}He'll think we're mad.
+{13724}{13762}He's here!
+{13957}{13984}Let him in.
+{13986}{14016}Why me?
+{14043}{14087}Let him in!
+{14238}{14270}Hello, young ladies.
+{14293}{14333}Yes, yes...
+{14335}{14429}Yes... I must tell you,|I can't stay. I'm in a rush.
+{14431}{14462}Boucher said...
+{14541}{14598}If I may say...
+{14599}{14704}Boucher... wins a prize, great!|A year in Rome...
+{14706}{14809}...and who wouldn't|rather be in Rome? Right?
+{14879}{14936}But as for replacing him...
+{14938}{14987}...that's a big step!
+{15007}{15075}No, you have to work the clay.
+{15094}{15180}Don't rely on inspiration.|It doesn't exist.
+{15263}{15322}What can I teach you, anyway?
+{15383}{15444}A sculpture takes time.
+{15446}{15498}You have to let it rest...
+{15519}{15580}...forget it...|to better judge it.
+{15659}{15734}I know. I haven't finished it.|It's unfinished.
+{15849}{15974}Also, the timing's bad. I've|taken on much work. I'm swamped.
+{15975}{16014}Have some tea, at least.
+{16104}{16190}Boucher said you left|the Academy. Is that true?
+{16191}{16247}Yes, why?|Shouldn't we have?
+{16249}{16343}No, no. You've already|solved the heating problem.
+{16344}{16379}This is better.|Heating is very important.
+{16400}{16482}My first studio was a stable.|Freezing cold.
+{16512}{16591}A rich lady|wanted a statue of herself.
+{16593}{16655}I didn't have a cent,|so I got some old shoes...
+{16657}{16754}and tried to burn them|for heat, you understand?
+{16756}{16853}The lady arrived and posed...|but the smell!
+{16882}{16943}She passed out from the smell.
+{16945}{17015}The scare of my life!|I thought she was dead.
+{17083}{17146}What's this prehistoric beast?
+{17148}{17228}That's Toto.|A small African rhinoceros.
+{17262}{17295}Didn't you know?
+{17297}{17341}Zero plus zero equals Toto.
+{17443}{17526}It feels so nice here,|I forgot I'm in a hurry.
+{17722}{17776}Monsieur Rodin,|I'd like some marble.
+{17778}{17821}You've worked on stone?
+{17823}{17862}Granite. In the country.
+{17864}{17945}Rhinoceros, granite...|You like challenges, Miss Claudel?
+{17968}{17991}So...
+{18019}{18073}...we'll all|think it over...
+{18075}{18159}We'll see about the lessons.|There are other teachers...
+{18183}{18222}Young ladies, good-bye.
+{18280}{18405}He's so handsome and strong!|And bright! What do you think?
+{18407}{18434}Nothing.
+{18436}{18467}What do you mean, nothing?
+{18469}{18563}We didn't ask him here|to tell us stories.
+{18578}{18639}That was just to get acquainted.
+{18641}{18687}I can't afford it anyway.
+{18720}{18806}That type says, "I know, you don't.|I see, you don't."
+{18807}{18846}You're exaggerating, Camille.
+{18878}{18926}He never mentioned our work!
+{18957}{18994}Do you realize?
+{19055}{19094}What a lout!
+{20361}{20417}Does that amuse you?|Not me.
+{20419}{20479}You can yawn for Papa on Sunday.
+{20547}{20621}Until now|Papa went along with you.
+{20654}{20708}But this time he won't.
+{20730}{20837}The Academy was too disciplined.|You want your freedom.
+{20860}{20939}Sharing a studio|with a dizzy foreigner!
+{20945}{21025}You don't care what it costs!|Classes... rent...
+{21088}{21172}Papa has to earn that money,|cent by cent...
+{21174}{21227}at the expense|of all else.
+{21229}{21288}Some life for a man his age!
+{21290}{21368}Seeing his family once a week!|And what about me?
+{21436}{21528}When he hears that you sneak out|to steal clay...
+{21530}{21639}...keeping us up all night,|making your brother fail school!
+{21655}{21691}All for your whims!
+{21693}{21753}For your so-called "vocation"!
+{21811}{21870}And you upset your brother,|having him...
+{21891}{21948}read filthy books|unsuitable for his age...
+{21951}{21983}Unsuitable for any age!
+{22083}{22110}Leave her alone.
+{22111}{22163}That shameless brat!
+{22191}{22297}My first marble! He'll like it|so much, he'll sign it.
+{22299}{22353}Like Michelangelo with his pupils?
+{22355}{22414}I wouldn't have Hugo|sign my poems.
+{22452}{22549}You're an anarchist, Paul.|A young savage.
+{22580}{22616}I can't bear school.
+{22719}{22793}Thank you for giving me|Rimbaud's poems.
+{22835}{22943}Will I ever be able|to run away like he did?
+{22991}{23034}I love your writing...
+{23054}{23091}...and I adore you.
+{23114}{23172}You alone believe in me.
+{23199}{23243}My little Paul.
+{23244}{23299}You look at me so sweetly.
+{23301}{23349}Is that a sin?
+{23351}{23395}Sin doesn't exist.
+{23660}{23752}MARBLE WAREHOUSE
+{24503}{24526}Limet...
+{24552}{24605}...give this young lady|some marble.
+{24607}{24663}One of the chunks from "Eve."
+{24664}{24750}Excuse me... I'm being visited|by the Ministry of Culture.
+{24769}{24811}Send Louis with her.
+{24923}{24972}Do you have tools for marble?
+{24990}{25015}Good luck, then.
+{25077}{25166}The "Gates of Hell" will be|one of the century's most beautiful...
+{25167}{25216}But you're far from finished...
+{25218}{25270}Are the Cathedrals finished?
+{25587}{25638}What have you worked with?
+{25640}{25668}Green granite...
+{25670}{25696}From Soissons?
+{25698}{25724}Yes.
+{25895}{25918}Eve!
+{25949}{26018}Mr. Rodin is spoiling you.|Pure Pitacci.
+{26269}{26299}Smell it!
+{26417}{26479}This one|will probably do nicely.
+{26754}{26792}That one?
+{27017}{27051}No. This one.
+{27053}{27135}Paros, from Greece.|Be careful, it's fragile.
+{27340}{27381}A hand, or a handout?
+{27383}{27412}Neither one.
+{27519}{27624}Why accept an official order|for work you don't plan to do?
+{27626}{27690}We'll never stay on schedule|this way.
+{27692}{27747}My ideas don't|come from orders.
+{27770}{27804}What did she choose?
+{27806}{27836}The pyramid.
+{27838}{27872}The little one?
+{27874}{27932}Yes, the Paros marble.
+{27934}{28019}She doesn't know|how hard it is to work with.
+{28039}{28103}One wrong tap|and it breaks in half.
+{28129}{28202}She's too young.|She should take lessons.
+{28204}{28249}I saw her work, Limet...
+{28273}{28351}Two heads... an old woman|and a tramp. Merely sketches.
+{28353}{28452}You know, when the clay is more alive|than the model... like real flesh...
+{28454}{28479}That's rare.
+{28510}{28546}You're wrong about her.
+{28549}{28622}She doesn't need lessons.|Boucher is wrong, too.
+{28624}{28659}She'll learn by doing.
+{28932}{28984}"With that horrible warning..."
+{28986}{29069}"as the steel touched my neck...
+{29071}{29201}"my body shivered and|a muffled cry escaped my lips."
+{29203}{29262}"The executioner's hand trembled."
+{29283}{29342}"'Sir,' he said to me..."
+{29343}{29417}"'Have I hurt you?"'
+{29436}{29498}"These hangmen have soft hearts."
+{29553}{29620}You seem to love Victor Hugo,|Giganti.
+{29639}{29687}He's the greatest man alive.
+{29733}{29777}He's all I have...
+{29897}{29942}Now I have you, too.
+{30545}{30610}Rodin could not|have been indifferent.
+{30612}{30694}The Dean of|the School of Fine Arts...
+{30695}{30768}...thought you were already|Rodin's pupil.
+{31211}{31298}What have I done|to deserve such a daughter!
+{31328}{31366}Always conniving...
+{31368}{31428}...to steal her father's money.
+{31482}{31527}Don't you interfere.
+{31549}{31627}That tramp!|If my first baby hadn't died...
+{31628}{31682}...I'd never have|given birth to her!
+{31716}{31767}She behaves like a boy!
+{31825}{31891}She hurts me...
+{31892}{31936}...sets her father against me.
+{31938}{32017}He'll make us all suffer|for her filth.
+{32066}{32134}Madame, get dressed, please.
+{32159}{32222}It doesn't help|to shut yourself away.
+{32243}{32298}She should be shut away!
+{32335}{32413}Louise Athanaise! Come on out!|This is ridiculous!
+{32739}{32774}Good morning, Monsieur Limet.
+{32815}{32844}No luck?
+{32846}{32893}Thank Monsieur Rodin for me.
+{33667}{33743}Jessie, read this!|Read it out loud!
+{33783}{33887}"Young ladies. I am beginning|a major piece of work."
+{33889}{33987}"I need apprentices. Tomorrow, 8:00 a.m.|My studio. Rodin."
+{34677}{34713}Watch your step!
+{34933}{34954}Morhardt!
+{34955}{34989}Where's our friend?
+{34991}{35050}Bad timing.|Monsieur Rodin isn't here.
+{35088}{35134}He's very busy these days.
+{35135}{35237}Rodin goes too far.|Did you see those two young girls?
+{35459}{35556}On the "Gates of Hell" there'll be|small statues of the damned.
+{35624}{35662}Rodin has great ideas.
+{35663}{35753}With a little help from Dante|and his "Divine Comedy."
+{35755}{35826}He doesn't need help.|He's been commissioned.
+{35828}{35908}The boss will accomplish|what he wants. He always does.
+{35910}{35939}He's like a father to me.
+{35941}{35976}You certainly love him.
+{36359}{36449}Marcel, you needn't have|written on the cloth!
+{36451}{36474}Miss Claudel did it.
+{36476}{36495}Foolishness!
+{36496}{36524}Remove that scroll!
+{36584}{36630}Put the two Adams back together.
+{36863}{36907}Move out of the way!
+{37018}{37039}Young lady...
+{37127}{37167}Stand between them again.
+{37358}{37398}Nice...
+{37418}{37449}...very nice...
+{37529}{37584}Make me another Adam|for tomorrow.
+{37742}{37776}Thank you, all.
+{37855}{37902}How was Victor Hugo's|first sitting?
+{37932}{38042}I love him. I'd like to sculpt him|nude. Like the God that he is!
+{38056}{38100}Hey girls! Got a lover?
+{38102}{38133}They're not telling.
+{38135}{38164}Stuck-up!
+{38166}{38209}She's a proper young lady.
+{38211}{38267}She's cultured,|she's saving it...
+{38269}{38342}Tell me,|when do we see Rodin work?
+{38344}{38393}He's busy thinking.
+{38395}{38429}He'd better watch out!
+{38431}{38501}Women are less important|than official orders.
+{38503}{38553}An artist is an artist.
+{38555}{38618}The truth is,|he has no ideas.
+{38619}{38689}You know that Rodin is busy|arguing with the Minister.
+{38691}{38795}You know that he's the biggest|lecher since Victor Hugo.
+{39100}{39155}I'm sure it will be beautiful,|Giganti.
+{39157}{39246}You'll be almost crouching,|with your head down...
+{39268}{39322}...leaning on your knee.
+{39350}{39436}And your arms...|your arms will hang down...
+{39438}{39488}...hugging one leg.
+{39507}{39568}I'm sure it will be powerful.
+{39620}{39643}Powerful...
+{39644}{39680}...and tender...
+{39707}{39739}...just like you.
+{40830}{40862}Taking a break?
+{40863}{40894}It has to dry.
+{40895}{40921}Want company?
+{40943}{40978}All the screens are taken.
+{40980}{41028}You wouldn't know what to do.
+{41083}{41155}Come on, honey!|Show me what you've got!
+{41157}{41185}Let go!
+{41187}{41226}You're asking for it!
+{41228}{41323}I'll get you. Girls don't|play coy for long, here.
+{41325}{41366}You can play without me.
+{41538}{41571}Leave her alone.
+{41572}{41626}You! You'd better|stick to plastering!
+{41667}{41742}Don't you get it?|You're like plaster...
+{41743}{41806}...dull and sticky!
+{41807}{41843}Where are you going?
+{41845}{41887}Back to my real work!
+{42094}{42169}Forget it.|You don't stand a chance!
+{42187}{42255}What's wrong? Trouble?
+{42287}{42354}I just passed by|an angry young girl...
+{42355}{42404}Wait for me in the office.
+{42503}{42557}Return to your pose, Adele.
+{42622}{42691}He doesn't like my marble foot.
+{42755}{42815}He'll never sign it.
+{42875}{42945}"A miracle is based|on three conditions:"
+{42947}{43068}"The credulity of all,|the good will of some..."
+{43070}{43142}"And the tacit consent|of the principal creator."
+{43144}{43230}He should have understood...
+{43231}{43356}You take everything too much|to heart. Did you ask him?
+{43388}{43438}He never speaks to me.
+{43587}{43696}"He who is a legend in his own time,|is ruled by that legend."
+{43723}{43798}"It may begin|in absolute innocence."
+{43799}{43856}"But, to cover up flaws and..."
+{43858}{43912}"...maintain the myth|of Divine Power..."
+{43914}{44001}"...one has to employ|desperate measures."
+{44141}{44171}We'll hire another...?
+{44173}{44222}No! Still no word|from the Claudel girl?
+{44224}{44247}No.
+{45219}{45268}You are unbearable!
+{45270}{45306}Why did you leave?
+{45340}{45379}Such outrageous behavior!
+{45381}{45442}Are you always so impulsive?
+{45475}{45558}I have no time.|I didn't hire you as a joke.
+{45578}{45663}I need people on the job,|day and night.
+{45665}{45710}There's work to be done!
+{45914}{45956}Where did you find that clay?
+{46011}{46046}Under my feet.
+{46091}{46132}In Paris, Monsieur.
+{47071}{47119}You got the head|and neck right...
+{47121}{47167}...but you avoided the body.
+{47203}{47285}The human body is a world|that moves. It's life!
+{47301}{47389}Never think in surfaces,|think in depths.
+{47414}{47503}If you want to copy|the head of my Adam, look...
+{47505}{47534}No, I didn't...
+{47535}{47572}Where's your model?
+{47619}{47660}Not a pro, I hope.
+{47662}{47727}They're too soft, flabby...|Come and look...
+{47819}{47851}Stand here, see...
+{47971}{48022}You must search in the neck...
+{48131}{48188}...you must force the muscles.
+{48190}{48293}There... You never see me work,|so you think I do nothing.
+{48295}{48339}Careful, you'll hurt him!
+{48375}{48451}There you are.|You spare your model.
+{48453}{48521}You're bold enough|to sculpt a nude man.
+{48523}{48615}But you make him comfortable,|and you hide his body.
+{48634}{48691}I'll show you|where I work in secret.
+{48692}{48751}You grant that I'm bold,|at least.
+{48781}{48874}You're intelligent and|you work from the heart.
+{48887}{48961}But you go about it|the wrong way.
+{48981}{49028}You want me to teach you?
+{49030}{49090}I don't need lessons|or advice.
+{49091}{49154}I work directly|with live subjects.
+{49171}{49222}I accept, Miss Claudel.
+{49965}{50006}Am I fired?
+{50007}{50039}She's a pupil.
+{50040}{50112}Oh, sure, another pupil...|Too bad!
+{50114}{50179}Because I froze yesterday.
+{50211}{50240}What'll we try?
+{50272}{50341}I hope today|you have an idea, at least.
+{50343}{50414}The longer you think,|the colder I get.
+{51693}{51763}One can only see the profiles|in shadow.
+{51787}{51843}That profile is no good. See?
+{53310}{53346}Won't you go in?
+{53348}{53371}No...
+{53430}{53482}I'll go see Jessie first.
+{53527}{53603}No... not tonight.|I'll see her tomorrow.
+{53605}{53685}You already know things|that took me years...
+{53704}{53774}And, what I saw in Italy...
+{53775}{53818}Michelangelo's|unfinished slaves...
+{53820}{53895}...lost, abandoned|in a dark corner...
+{53947}{54030}The randomness of|what's left unfinished...
+{54031}{54079}...it's a complete emotion...
+{54094}{54145}...before pure genius.
+{54147}{54203}The other day when I saw you...
+{54205}{54285}...all white,|standing between my two Adams...
+{54287}{54366}...you gave me the idea|for a third one.
+{54484}{54566}I thought inspiration|doesn't exist.
+{54567}{54594}Pardon me?
+{54596}{54644}I thought|inspiration doesn't exist.
+{54663}{54732}I'm so happy.
+{54734}{54798}I'm so happy, Camille.
+{54799}{54862}I'll take you wherever you want.
+{54911}{54943}Anywhere.
+{55118}{55153}To the studio.
+{55155}{55193}Your studio?
+{55195}{55264}Yes... No.
+{55266}{55309}Giganti is probably sleeping.|I'll go home.
+{55311}{55353}Shall we go to Italy?
+{55355}{55386}I'm going in.
+{55468}{55508}Afraid of being scolded?
+{55627}{55653}Honest?
+{55717}{55785}I'm no longer a child.
+{55787}{55836}And my mother|doesn't speak to me.
+{55845}{55865}Why?
+{55901}{55990}She doesn't like sculpture...|All that filth...
+{56018}{56114}Mine always said, "Get rid of them!|They're everywhere!"
+{56159}{56189}"Even under the bed!"
+{56212}{56241}"Your mess!"
+{56287}{56333}You see...
+{56335}{56379}I'm twice your age...
+{56419}{56487}...but we'll have|the same memories.
+{56656}{56688}Good night.
+{57226}{57286}I never meant|to copy your Adam.
+{57287}{57368}My Giganti hides his body|because he's hurt.
+{57621}{57645}Your coat!
+{57737}{57802}At least you know|what moves you...
+{57803}{57839}I no longer know.
+{61646}{61670}Look, Paul...
+{61694}{61718}He signed!
+{61719}{61762}Victor Hugo is dead.
+{61892}{61923}Is that her?
+{61925}{61974}She has eyes you read about.
+{61994}{62027}Deep blue, Schwob.
+{62139}{62181}Victor Hugo is dead!
+{62191}{62239}Victor Hugo is dead!
+{62250}{62307}Victor Hugo is dead!
+{62608}{62711}All of France weeps for Hugo,|and you cry over nonsense!
+{62713}{62757}I want to go with you!
+{62759}{62795}But it's a funeral!
+{62866}{62905}I'm saving you a trip.
+{62907}{62987}I want to see the procession.
+{62989}{63029}There isn't any.
+{63031}{63090}Yes, there is!|I read about it.
+{63091}{63121}Now, Rose...
+{63152}{63207}The truth is,|you're ashamed of me.
+{63209}{63268}You'll be happier|on your balcony.
+{63323}{63361}Oh, leave me alone!
+{63742}{63789}Have you seen Giganti?
+{64299}{64335}What heat!
+{64362}{64402}Oh, such heat!
+{64443}{64532}Can't you play something else,|dear?
+{64681}{64762}She said,|"You're ashamed of me!"
+{64763}{64811}And he said...
+{64812}{64878}"Rose, you'll be|happier on your balcony."
+{64880}{64968}And old Rose was dressed|in pink, from head to toe!
+{64970}{65014}Who is this Rose?
+{65015}{65075}Louis says it's ancient history.
+{65117}{65150}Is she his wife?
+{65151}{65230}Louis says she's one of several.|But they're not married.
+{65241}{65266}You're sure?
+{65267}{65347}Positive.|Her name is Rose Beuret.
+{65360}{65402}It's hot, isn't it?
+{65404}{65432}You're sure?
+{65434}{65450}Yes.
+{65452}{65479}Are you sure?
+{65481}{65499}Yes.
+{66467}{66499}Get dressed.
+{66713}{66757}That funeral wore me out.
+{66841}{66881}Poor Victor Hugo.
+{66938}{67001}Come back tomorrow.|It's too hot today.
+{67026}{67057}Good-bye, sir.
+{67090}{67174}Another party that|turns into crap.
+{67176}{67251}All the simpering|and fake grief.
+{67280}{67329}His corpse comes in handy.
+{69694}{69766}You're a fine sight|in those dark panes!
+{69887}{69969}The country will|do us all good.
+{69971}{70065}She thinks she doesn't need|the rest.
+{70087}{70179}Walk around! You'll step|on your sisters' skirts!
+{70249}{70334}I've invited Monsieur Rodin|to Villeneuve.
+{70336}{70392}It's time we thanked him.
+{70394}{70462}But, Papa, he's too busy.|He can't come.
+{70463}{70518}I wrote to him. We'll see...
+{70541}{70641}Tell the priest I still|want to tear down his church.
+{70658}{70753}Louis Prosper!|Stop tormenting that poor priest.
+{70837}{70903}Have a good trip!|See you Sunday.
+{72532}{72599}Monsieur Rodin. I beg you...
+{72601}{72659}don't come to Villeneuve.
+{73358}{73426}Notice the curves|of the steeple.
+{73962}{73993}Delighted, Madame Rodin.
+{74022}{74083}We wanted to thank you...
+{74085}{74127}We feel honored...
+{74129}{74170}How was your trip?
+{74172}{74232}Camille! Our guests are here.
+{74511}{74572}We used to live here all year...
+{74574}{74698}...but my husband works|in Rambouillet now.
+{74700}{74766}And then,|Camille dragged us to Paris.
+{74798}{74839}Here's Camille...
+{75007}{75032}I know...
+{75034}{75094}May I present my brother,|Paul...
+{75146}{75166}Delighted.
+{75371}{75428}Sensual pleasures|are everywhere...
+{75430}{75474}The color of the foliage...
+{75514}{75558}...the quality of the sky...
+{75568}{75627}Stop! Rose will catch on.
+{75629}{75660}I don't care.
+{75674}{75703}Silence!
+{75743}{75824}If only we had|lettuce like this in Paris!
+{75826}{75886}You flatter my wife.|It's her garden.
+{75888}{75970}I grow tomatoes on my balcony.
+{75971}{76012}Rose is full of ideas.
+{76014}{76064}I don't want to see them.
+{76066}{76159}You should have stopped him.|And he brought her!
+{76184}{76232}I'll never forgive you.
+{76269}{76310}Do you want to wash up?
+{76326}{76350}Exactly.
+{76352}{76376}Follow me.
+{76511}{76551}Wear out the earth...
+{76694}{76733}Aren't you glad to see me?
+{76746}{76829}Why did you come?|It's horrid. I'm ashamed.
+{77363}{77424}It's a good way to keep time.
+{77426}{77476}To be precise, Madame...
+{77478}{77561}...this poor priest|keeps us informed...
+{77563}{77634}...of all his|pitiful activities.
+{77669}{77730}Are you a practicing Catholic?
+{77793}{77842}I do as Monsieur Rodin does.
+{77868}{77930}And what does Monsieur Rodin do?
+{77948}{78050}This may surprise you,|but I almost became a monk.
+{78080}{78141}I was young.|My older sister...
+{78143}{78207}...Maria, whom I adored...
+{78209}{78255}...became a nun...
+{78256}{78312}after a promise of marriage|fell through...
+{78368}{78409}She died of grief.
+{78436}{78527}After her death|I entered the monastery.
+{78529}{78582}I began leading her life.
+{78612}{78723}To my surprise, my Confessor|asked me to do his portrait.
+{78725}{78805}By making me sculpt,|he brought me back to life.
+{78807}{78854}To my life, I mean.
+{78882}{78935}It's a miracle that...
+{78937}{79022}...he recognized the difference|between grief and a vocation.
+{79042}{79072}No doubt...
+{79118}{79170}I think I'd do the same thing.
+{79171}{79191}You?
+{79212}{79247}You'd become a nun?
+{79248}{79283}I would stop...
+{79316}{79352}What arrogance!
+{79354}{79394}From whom do you get it?
+{79431}{79465}Camille is not arrogant.
+{79484}{79554}She just won't settle for less...
+{79555}{79616}than she thinks she deserves.
+{79618}{79659}When she's violent...
+{79661}{79710}it's only because she's impassioned.
+{79711}{79744}As a child...
+{79760}{79862}...she used to model|human skeletons out of clay.
+{79873}{79951}Then she'd bake them in the oven.
+{79953}{79997}And she'd forget to eat and sleep.
+{79999}{80065}It was amazing.
+{80098}{80148}When she's touchy...
+{80150}{80233}it's because she's uncompromising.
+{80365}{80435}Monsieur Rodin must have|realized this.
+{80437}{80479}Isn't that so,|Monsieur Rodin?
+{80481}{80538}Ah, temperament!
+{80539}{80590}Where do we get our temperament?
+{80629}{80680}We don't know what it is...
+{80682}{80733}but we do know what it does!
+{81116}{81194}On the "Gates of Hell"|I'm three years behind.
+{81250}{81329}So, if I don't want to be|hounded by bureaucrats...
+{81353}{81429}I must have help.|I can't work alone.
+{81431}{81507}And Jessie Lipscomb|is leaving us for England.
+{81509}{81594}I need qualified artists.|Talented ones! And fast!
+{81596}{81642}No time to lose.
+{81644}{81707}Which brings me...
+{81708}{81770}to the pressing reason|for my visit here.
+{81835}{81888}I want Camille in Paris!
+{81912}{81937}Oh, yes.
+{82027}{82062}That's the end of vacation.
+{82251}{82316}Madame Rodin, coffee is served.
+{83762}{83831}I feel you're abandoning me.
+{83832}{83866}You're abandoning me.
+{83868}{83930}Rodin didn't|come to say good-bye.
+{83932}{83991}Give his secrets to the English.
+{83993}{84062}I won't give them.|I'll sell them!
+{87385}{87419}Here they come!
+{87614}{87637}Welcome.
+{87835}{87872}Marvellous, isn't it?
+{87914}{87954}Pure 18th century...
+{88052}{88080}Change the locks.
+{88102}{88136}It sure stinks...
+{88138}{88188}Industry, Louis, industry.
+{88190}{88259}I thought the "Neubourg Folly"|was a madhouse.
+{88553}{88588}Did you check thoroughly?
+{88590}{88633}Yes. Nobody's living here.
+{88712}{88773}The country!|Right here in Paris!
+{89064}{89131}Do you like our new studio,|Miss Claudel?
+{89174}{89226}I'm the happiest woman alive.
+{89248}{89278}I love you.
+{89287}{89336}I love you!
+{89908}{89978}Look how beautiful you are...|Look...
+{90540}{90585}Stay with me tonight...
+{90602}{90621}No...
+{90652}{90712}I don't want to upset my family.
+{91462}{91502}Just look at them!
+{91554}{91587}Scandalous!
+{93048}{93132}Louis Prosper, come inside now.
+{93134}{93174}You'll catch cold.
+{93569}{93619}When I think Camille|doesn't even bother...
+{93621}{93683}to come home on Sunday.
+{93706}{93751}Your one day at home...
+{93787}{93831}Are you listening to me?
+{93890}{93950}She's a bad example for Paul.
+{94568}{94611}I couldn't find Giganti!
+{94642}{94691}You'll forget him.
+{94693}{94756}He'd have been a good|"Bourgeois of Calais." To work!
+{95806}{95842}You loved her?
+{95868}{95918}I know you loved her.
+{95920}{95974}You never dared tell her.
+{96036}{96155}I'll tell you a secret, Giganti.|Without her, I don't know...
+{96184}{96254}She's my only|source of inspiration.
+{96300}{96367}What does she have|that I've lost?
+{98283}{98308}I'm going.
+{98310}{98366}No. What'll I do without you?
+{98382}{98435}Poor boy,|drowning in filthy water...
+{98437}{98531}...too disgusted to call|for help, he lets himself die.
+{98532}{98597}I want to go far away,|leave Paris...
+{98628}{98662}...leave the family...
+{98682}{98727}leave everything around me...
+{98728}{98763}before it's too late.
+{98764}{98839}Rodin will surely help you.
+{98840}{98879}You'll join|the foreign service...
+{98895}{98939}At least now|you remember I exist.
+{98940}{98971}What's this?
+{98990}{99044}Your sister and her fiancé|are here!
+{99068}{99131}Tell Rodin|you'd prefer China or America...
+{99432}{99525}Your fiancée is a fine pianist,|Mr. Massary.
+{99805}{99867}What are you lovebirds doing?
+{99888}{99941}Come, have your picture taken.
+{99943}{100014}Rodin was going|to give you a raise. Did he?
+{100024}{100061}He promised, Papa.
+{100112}{100161}Does he pay you regularly?
+{100189}{100215}Yes.
+{100238}{100294}The "Bourgeois of Calais"|are nearly done.
+{100348}{100435}What does that|have to do with it?
+{100436}{100505}Since you met Rodin...
+{100507}{100554}you've done no work of your own.
+{100561}{100605}That's not true.
+{100607}{100666}He's more concerned|about my future than I am.
+{100668}{100697}This is December.
+{100721}{100822}If you haven't begun,|you'll miss the Salon.
+{100824}{100906}You've exhibited nothing yet|this year.
+{100908}{100957}I've learned to work faster|from him.
+{100959}{100998}My daughter didn't wait...
+{101000}{101041}...for Rodin in order to exist!
+{101100}{101136}Don't ever forget...
+{101138}{101207}...that we're different.|That we're the Claudels.
+{101233}{101299}You always worked faster|and better than others.
+{101324}{101391}Remember, Boucher told us...
+{101392}{101440}you must exhibit|to become known.
+{101441}{101493}There's no other way.
+{101495}{101542}I know, Papa.
+{101544}{101579}Look at me, darling.
+{101581}{101625}Lift your eyes.
+{101740}{101827}Your future belongs to you.
+{101912}{101942}Also...
+{101944}{102050}Don't be seen too much|with Monsieur Rodin.
+{102052}{102100}People might gossip.
+{106977}{107006}Sorry I'm late.
+{107576}{107629}You can see your sister later.
+{107631}{107674}She's here for good.
+{107740}{107775}Please...
+{107836}{107874}Lunch is ready.
+{108559}{108622}This lunch meant so much|to Camille.
+{108982}{109038}What a cook that Rose is!
+{109300}{109340}Winter will be rough.
+{109447}{109515}Whenever I'm still hungry|I eat the bread.
+{109551}{109599}Thanks, I'm fine.
+{109844}{109894}Let's write to my friend...
+{109896}{109958}in "Foreign Affairs" together.
+{110161}{110191}This way.
+{110475}{110554}Madame, I have good news.|You're pregnant.
+{112148}{112201}I know you'll overeat again.
+{112203}{112249}I despise those people...
+{112251}{112304}...and their damned dinners.
+{112306}{112387}Those people don't even|understand your work.
+{112408}{112459}Let the Mayor of Calais|come here.
+{112461}{112531}It's the whole|Town Council of Calais!
+{112548}{112617}I can't stand these parties.
+{112634}{112688}Go, see your Minister alone.
+{112715}{112772}I'm glad I won't be seeing you!
+{113936}{113970}Marry me.
+{114458}{114492}Dear Rodin...
+{114512}{114638}I can't come to Calais.|I have no hat or shoes.
+{114640}{114688}So excuse me...
+{114690}{114794}and don't accuse me|of bad faith.
+{114824}{114879}I began a portrait of you.
+{114881}{114998}When it's done, I'll make a mold.
+{115000}{115049}When that's dry...
+{115051}{115101}I'll just need to|break it open to see you.
+{115130}{115159}Camille.
+{115196}{115275}I sleep naked...|as if you were here.
+{115277}{115357}But when I wake up,|it's not the same.
+{115371}{115423}Don't be unfaithful to me.
+{116004}{116087}You'll never get him!|He's mine!
+{116088}{116154}Where would you be|without your hands?
+{116296}{116347}Next time, I'll kill you.
+{117364}{117409}Papa, it's for you.
+{117580}{117611}Camille has disappeared.
+{117632}{117687}She left everything behind.
+{117688}{117783}What is it now?|You just got back from Calais...
+{117784}{117826}Nobody's seen her in 3 days.
+{117828}{117875}There's nothing|I can do tonight.
+{117876}{117926}Let him in, if he's here.
+{117928}{117959}Leave me in peace!
+{119802}{119879}Go to the studio.|Get the others. Run!
+{120277}{120323}Striking, isn't it, Limet?
+{120324}{120371}Alchemy. Magic.
+{120372}{120415}I never saw a self-portrait|like that.
+{120416}{120437}So lifelike.
+{120454}{120492}A cruel look at yourself...
+{120494}{120529}You must look, gentlemen.
+{120531}{120588}An artist believes his own eyes.
+{120590}{120637}Many pupils have done my bust.
+{120639}{120686}This one is the most beautiful.
+{120688}{120732}I'll exhibit it everywhere.
+{120734}{120796}Imagine! From memory!
+{120798}{120831}She did it from memory!
+{120857}{120908}She did it in your absence?
+{121007}{121069}Miss Claudel|has become a master.
+{121089}{121155}She has the talent of a man.
+{121157}{121194}She's a witch.
+{121280}{121320}It's magnificent.|A premonition.
+{121322}{121375}That's how I'll look|in ten years.
+{121376}{121412}It's magnificent.
+{121494}{121539}Something has happened...
+{121566}{121611}Something's wrong.|Where were you, my love?
+{121630}{121663}Choose, Rodin.
+{121731}{121766}Your wife, or me.
+{121996}{122039}Rose is not my wife.
+{122064}{122099}What's wrong with you?
+{122100}{122153}Jealous of an old attachment?
+{122155}{122215}It's not like you and me.
+{122217}{122307}You and I are freaks of nature.|We're the same breed.
+{122329}{122391}You're dreaming, Rodin.
+{122393}{122472}An idyllic|romance in a castle...
+{122474}{122539}We're two ghosts in a wasteland.
+{122540}{122586}What are you talking about?
+{122637}{122662}With you...
+{122664}{122741}...I want peace...|oblivion... work...
+{122772}{122810}Will you leave her?
+{122942}{122990}If only I could, Camille.
+{123023}{123063}If only I could.
+{123065}{123141}Leave her, I beg you.|Leave her.
+{123176}{123236}I'm the one you love.
+{123238}{123299}Tell me I'm the one you love.
+{123326}{123390}You love me!|Do you? You love me!
+{123428}{123506}Don't let the worst|happen to us. Please.
+{123572}{123636}There are|different ways of loving.
+{123660}{123707}What do you want me to do?
+{123709}{123759}Fire her, like a maid?
+{123819}{123848}I'll speak to her.
+{123868}{123897}Give me time.
+{123929}{123982}Give me time to prepare her.
+{124023}{124064}I'm all she has.
+{124117}{124166}She's the one you love.
+{124224}{124253}It's her.
+{124296}{124339}Rose is ill, you hear?
+{124341}{124378}She's ill.
+{124438}{124485}I thought you were different.
+{124540}{124570}I'm leaving.
+{124596}{124671}Tomorrow I'll send for|my things and my pay.
+{124703}{124738}You tyrant!
+{124740}{124788}I worked hard for you.
+{124790}{124838}Now I'll work for myself.
+{125355}{125401}All right, let's go.
+{128255}{128324}You move in|and go through my things.
+{128412}{128448}You believe in God?
+{128540}{128607}If you think I like|being with Catholics!
+{128609}{128652}Did you convert?
+{128688}{128729}Have you gone crazy?
+{128803}{128839}No. I found faith.
+{128841}{128933}Why did you hide it|all this time?
+{128935}{129035}If you think I haven't been|worrying what Papa would say!
+{129078}{129151}"Another of my son's whims!"
+{129153}{129235}I was in agony.|You would all have laughed.
+{129284}{129362}Remember, the whole family|obeyed you...
+{129364}{129441}...when you announced|we should stop attending mass.
+{129443}{129508}That's not your only reason|for not telling us...
+{129544}{129579}...not the only reason.
+{129580}{129663}I want to write.|I want to be successful.
+{129823}{129868}It won't be easy...
+{129898}{130004}...to be a Catholic, a poet|and a diplomat, all at one time.
+{130026}{130084}You can laugh if you like!
+{130085}{130132}But the man with no faith...
+{130133}{130187}...will never be a great artist.
+{130189}{130227}God exists.
+{130264}{130319}He saved me from despair...
+{130371}{130440}...and I need Him to be myself.
+{130500}{130576}I'll be who I am|without any help.
+{130578}{130679}I've prayed for you|all year long.
+{130736}{130776}I had an abortion, Paul.
+{130839}{130871}An abortion!
+{131008}{131093}My poor Camille...|Are you going to leave him?
+{131150}{131212}Let me stay here a while.
+{131214}{131274}I won't bother you.
+{131276}{131325}I don't want to go back home.
+{131392}{131429}I promise...
+{131431}{131475}...I won't see him again.
+{131527}{131600}Hail Mary, full of Grace
+{131602}{131662}Blessed art Thou among women.
+{131664}{131794}Holy Mary, Mother of God,|pray for us sinners...
+{133726}{133765}That's her body.
+{134223}{134315}I hear the Claudel girl makes|the hands and feet of his statues.
+{134673}{134739}Love has|given the old man wings.
+{136948}{136982}A card, sir.
+{137203}{137265}CAMILLE CLAUDEL|SCULPTOR
+{137916}{137982}Where's the beautiful girl?
+{138133}{138201}You have a rich imagination|and a steady hand.
+{138268}{138308}I must go.
+{138373}{138404}Thank you.
+{138406}{138436}Eugene Blot.
+{138576}{138596}Well?
+{138626}{138659}Well...?
+{138661}{138715}Well...|nothing but naked rumps...
+{138716}{138747}I kissed Sakountala!
+{138749}{138798}We all wanted to kiss her.
+{138800}{138831}But I did it!
+{138833}{138899}Naked rumps pointing toward|Heaven, noses in the sand.
+{138922}{138978}I know you heard|horrible things.
+{140860}{140887}Kiss me.
+{140922}{140951}No comment.
+{141271}{141364}Let's be clear: I do the business,|you do the sculpting.
+{141399}{141503}I'm sure I can sell|both of these in bronze.
+{141523}{141611}I'll make the sales, take|my percentage... and we're even.
+{141632}{141692}Of course,|you get the first bronzes.
+{141776}{141838}Take this advance.|You need it.
+{141868}{141899}Thank you.
+{141921}{141963}Thank you, Monsieur Blot.
+{142587}{142653}There might be|an official order for you.
+{142680}{142717}Do you hear?
+{142786}{142836}At least,|go and see Morhardt.
+{142984}{143012}Forgive me.
+{143308}{143352}Open the door! Camille!
+{145649}{145711}Bundle up, Paul.|It's very cold in America.
+{145747}{145834}And watch out in the streets.|They have gangsters.
+{145836}{145887}Savages... cowboys...
+{145889}{145918}Good luck, Paul.
+{145974}{146013}God bless you. God keep you.
+{146544}{146582}Assert yourself!
+{146620}{146656}I'll miss you.
+{146696}{146753}I'll try to do well, too.
+{146755}{146796}You'll be proud of me.
+{146858}{146901}Write to me.
+{146903}{146999}We'll be like we used to be.|Like before!
+{147542}{147601}Your brother's been sent|to New York.
+{147652}{147741}We have decided|to give you your dowry.
+{147743}{147823}You've dipped into it|considerably. But, still...
+{147824}{147914}At last we're leaving Paris|after those years of hard work...
+{147916}{147971}...that poisoned|our tranquility.
+{147972}{148057}If you really need to,|come with us to Villeneuve.
+{148059}{148151}There's no shame.|Many unmarried girls do it.
+{149185}{149238}Do you think she'd agree?
+{149240}{149302}She's a considerable sculptor|and...
+{149335}{149421}Is she really|working on her own now?
+{149423}{149517}I showed her where to find gold,|but the gold she finds is hers.
+{149519}{149566}I'd like to interview her.
+{153556}{153607}I'm not very cheerful.
+{153658}{153715}I've become a stranger|to myself.
+{153814}{153873}There's always|something missing.
+{153899}{153951}Your voice|has changed the most.
+{153973}{154043}Nothing that's monstrous|is foreign to me.
+{154045}{154128}You, at least, are used to it.|All your intrigues...
+{154129}{154179}You can't deny it.
+{154216}{154276}You can be so nasty at times.
+{154299}{154372}I find that you're not well.
+{154374}{154444}Your "Balzac" is a noble idea,|Auguste Rodin.
+{154446}{154511}That's not the general opinion.
+{154532}{154624}That statue has made me|the laughing stock of Paris.
+{154688}{154751}My Balzac!
+{154752}{154823}I'll end up|putting it in my garden!
+{155263}{155335}Why don't you touch me?
+{155336}{155407}No. Let me discover|your work, will you?
+{155423}{155498}Why? Are you afraid|I've surpassed you?
+{155499}{155576}No, no. Copied me, perhaps.
+{155606}{155640}Calm down...
+{155788}{155840}They say you're not well...
+{155927}{156022}But when I see|the amount of work!
+{156031}{156063}Won't you look?
+{156065}{156127}No, I'd rather feel it first.
+{156183}{156250}With your courage...|your colossal willpower...
+{156328}{156405}You make me want to scream.
+{156407}{156490}I feel like I've|brought home a bailiff.
+{156797}{156846}No. You can't...
+{156991}{157028}You can't...
+{157057}{157132}I told you the trouble I've had|over "Balzac."
+{157134}{157219}If you complete this one,|there'll be more scandal.
+{157239}{157274}How can you reduce...
+{157276}{157318}...what we shared|to that image?
+{157319}{157409}You show me as a spineless puppet|torn apart by two women.
+{157411}{157449}That's a vile caricature!
+{157451}{157479}What do you want?
+{157481}{157561}I want you to do|what I tell you to do!
+{157579}{157597}Exactly!
+{157599}{157655}Not do what I'm doing?
+{157657}{157729}I've earned the right|to do my own work.
+{157731}{157815}If it means ridiculing me,|destroying me...
+{157817}{157870}...then you must give it up.
+{157903}{157952}Submit all your ideas to me.
+{157954}{157999}Don't compare yourself|to me!
+{158001}{158020}What?
+{158022}{158068}Never!|You're a third-rate sculptor.
+{158070}{158128}Then why attack me|so violently?
+{158130}{158189}Everything comes from me,|nothing from you.
+{158191}{158235}You struggle too much|for your work.
+{158236}{158284}It speaks for itself.
+{158286}{158313}Why are you jealous?
+{158315}{158368}- Jealous?|- Yes.
+{158370}{158401}Jealous, me?
+{158524}{158591}I make sculptures of life,|not death!
+{158614}{158654}You despise life.
+{158775}{158818}You search for pain.
+{158848}{158896}You get drunk on pain.
+{158908}{158950}And you create pain.
+{158996}{159055}You portray yourself|as a victim.
+{159087}{159161}A martyr.|But you're the one who left me.
+{159163}{159229}It was impossible|to live with you!
+{159375}{159412}Listen, Camille.
+{159414}{159481}The work we did together|was good.
+{159531}{159632}I always treated you|as an equal.
+{159634}{159698}All the work I did for you|was good!
+{159699}{159747}"Miss Claudel, Rodin's pupil!
+{159749}{159800}"She picks up Rodin's scraps..."
+{159802}{159859}"and crams them into her sculptures!"
+{159861}{159924}You allowed them to say it!
+{159999}{160034}Oh, God!
+{160067}{160101}You're my worst enemy...
+{160103}{160138}...I've just realized.
+{160140}{160181}You stole it all!
+{160183}{160230}My youth, my work! Everything!
+{160257}{160294}I've ruined your life?
+{160295}{160346}I wish I'd never met you!
+{160348}{160401}I'd rather be in an asylum!
+{160403}{160483}That's where you'd like to put me!
+{160484}{160522}You're completely drunk!
+{160523}{160559}Completely drunk.
+{160560}{160604}You've started drinking.|Everyone says so.
+{160606}{160654}If I didn't drink...
+{160655}{160727}they'd all know|you put me in this state.
+{160729}{160835}So let them think I'm|in this state because I drink!
+{160836}{160915}I'm a well-known professional|sculptor. I'm backing you.
+{160917}{160963}I know the fools are|against you.
+{160964}{161025}What do you mean, professional?
+{161027}{161099}Do you mean|running three studios at once?
+{161101}{161192}Socializing instead of|putting your hand in clay?
+{161194}{161236}Driving your workers on marble...
+{161238}{161294}while you add the finishing touches!
+{161295}{161372}As an artist,|I refuse your system!
+{161374}{161481}Stop this gossip! Slander!|Stop confusing everything!
+{161483}{161507}Confusing!
+{161509}{161585}You're confused!|Supporting political hacks...
+{161587}{161636}...so they'll defend your work!
+{161638}{161698}I'm neither for|nor against Dreyfus!
+{161700}{161762}If only you believed|in either side...
+{161764}{161818}When I heard|you were pro-Dreyfus...
+{161819}{161887}just for your personal gains...
+{161888}{161929}...for your Balzac...
+{161931}{162023}...so you could finally exhibit,|then I turned against Dreyfus!
+{162024}{162051}That's enough!
+{162069}{162096}Stop.
+{162387}{162428}It's ridiculous!
+{162611}{162649}Such a waste!
+{162752}{162796}When I met you, you were...
+{162823}{162904}...for me, the most|desirable woman in the world.
+{162927}{162975}You, who are a sculptor!
+{162976}{163033}You caressed my naked stomach...
+{163035}{163099}...and didn't even realize|it had changed.
+{163398}{163489}Had I known you expected a child|I'd have married you.
+{163635}{163689}For years... you didn't want...
+{163776}{163819}You never wanted to choose...
+{163859}{163915}You never decided anything.
+{163916}{163970}I never loved anyone but you.
+{164067}{164101}I couldn't share you.
+{164103}{164154}It was a struggle for me.
+{164555}{164596}What should I tell you?
+{164616}{164681}You made a mistake, that's all.
+{164898}{164940}It's finished.
+{165106}{165214}I don't want any more|complicated emotions...
+{165567}{165623}...the tyranny of feelings.
+{165645}{165690}I can't anymore.
+{165742}{165788}On your deathbed|you'll still hesitate!
+{165973}{166007}Why?
+{166485}{166514}There's nothing left.
+{166516}{166551}Yes, but...
+{166624}{166667}What will you do?
+{166669}{166710}I need the money.
+{166990}{167030}You're crazy!
+{167031}{167075}You'll never get it inside.
+{167077}{167117}What about the landlord?
+{167169}{167264}What about him?|It's only wood.
+{167493}{167530}Thank you, Robert.
+{167538}{167573}Good-bye...
+{167876}{167947}You're wrong to think|it's about you.
+{167967}{168063}You're a sculptor, Rodin,|not a sculpture.
+{168082}{168113}You ought to know.
+{168157}{168242}I am that old woman|with nothing on her bones.
+{168275}{168326}And the aging young girl...
+{168327}{168369}that's also me.
+{168371}{168408}And the man is me, too.
+{168426}{168458}Not you.
+{168483}{168521}I gave him my toughness.
+{168554}{168604}He gave me his emptiness|in return.
+{168635}{168691}There you are...|three times me.
+{168715}{168793}The Holy Trinity,|trinity of emptiness.
+{169260}{169295}How did you know...
+{169297}{169374}...there were people|inside the big white rock?
+{169546}{169594}You have a stomach ache?
+{169595}{169641}My father's a doctor.
+{170047}{170072}You lied!
+{170074}{170158}You said you wanted|my three figures...
+{170160}{170222}for the Universal Exposition!
+{170223}{170352}I swear, it was never a question|of the Exposition of 1900.
+{170421}{170455}Listen, Miss Claudel...
+{170473}{170568}I was the first one who|wrote about you, defended you.
+{170570}{170636}I need recognition, not praise!
+{170638}{170680}But you have it!
+{170682}{170739}The order for "The Age of Maturity"|is official.
+{170786}{170859}But not for the|Exposition of 1900.
+{170921}{170994}It's a scheme of Rodin's.|I know it!
+{170996}{171074}Whenever he can,|Rodin helps you.
+{171076}{171148}He respects you deeply|as an artist.
+{171150}{171184}He wishes you well.
+{171186}{171289}Believe me, I'm in no mood|to be held back by Rodin's gang.
+{171291}{171346}He brags about his power.
+{171347}{171405}And he prints my portrait|on postcards...
+{171407}{171446}against my wishes!
+{171448}{171501}And the bust I made of him!
+{171503}{171554}He exhibits it anywhere,|in any way, without my consent!
+{171556}{171613}His head!|It's all he cares about.
+{171615}{171651}And the erotic sketches!
+{171653}{171689}You go too far!
+{171707}{171739}Rodin isn't your enemy.
+{171740}{171792}You must calm down.
+{171794}{171852}You've assailed us...
+{171854}{171926}with your letters|and demands for too long.
+{171955}{171995}Who do you think you are?
+{171997}{172085}Don't you know who I am?|Or are you pretending?
+{172087}{172158}What kind of behavior is this?|You're crazy!
+{172178}{172243}I'm Camille Claudel!
+{172245}{172301}And if you don't know it,|I'll show you!
+{172399}{172430}Doctor Michaux!
+{172456}{172487}Let go of her!
+{172489}{172522}Scandalous!
+{172546}{172603}I'm Doctor Michaux.|What is this?
+{172605}{172637}A search warrant, sir.
+{172671}{172718}We're reclaiming state property.
+{172719}{172782}It's a plot by the Rodin gang.
+{172783}{172831}The State paid for your work.
+{172833}{172894}Monsieur Morhardt|gave you the check.
+{172895}{172938}I burned the check.
+{172995}{173073}Nobody can keep me from|making another one.
+{174012}{174051}Capitalist!
+{174136}{174189}It's your devil, Camille, again!
+{174295}{174352}Exploiter of the poor!
+{174354}{174426}You have to come out of|your house now.
+{174428}{174479}You hear?
+{174481}{174571}You'll have to walk|through garbage to get out.
+{174573}{174621}You hear me?
+{175302}{175348}It's time we moved.
+{177856}{177886}My daughter!
+{178210}{178255}It's not possible.
+{178410}{178470}Your eyes are dark blue,|my child.
+{178519}{178628}You look terrible.|Louise couldn't reach you.
+{178651}{178711}Your brother also tried|to see you...
+{178712}{178763}during his last visit.
+{178765}{178799}He was in Paris?
+{179080}{179115}Is that in America?
+{179117}{179139}Fou Tcheou.
+{179158}{179251}He travels a great deal.|He's a vice consul.
+{179253}{179290}It's beautiful.
+{179359}{179459}I wanted so much|to go to China with him.
+{179711}{179754}He'll be well-known.
+{179771}{179817}He's a great poet.
+{179854}{179907}I neglected him for too long.
+{179950}{179982}I know, Papa.
+{180031}{180104}I always took up too much room.
+{180210}{180243}Have I disappointed you?
+{180279}{180303}Yes...
+{180347}{180383}...but I'll always love you.
+{180455}{180536}"I wanted not to weep"
+{180583}{180716}"and to get up to walk,|but man only goes forward."
+{180718}{180758}"Until he has to stop."
+{180783}{180893}"And his bones well up|in his eyes, out of that sea..."
+{180895}{181003}"which, in all chests,|rises to the same level."
+{181048}{181134}"Where did I go wrong?|Where is my fault?"
+{181167}{181216}"If they cut off my hands..."
+{181241}{181297}"...I'll offer you the stumps."
+{181299}{181346}"I'll come toward you..."
+{181347}{181440}"On my bones, toward you..."
+{181467}{181506}I'm ashamed...
+{181567}{181607}...I'm ashamed.
+{181895}{181945}Paul has found God.
+{182079}{182181}He's come to terms with that.|Good terms.
+{182183}{182271}And you, what will you have,|when I'm gone?
+{183943}{183979}My dear Paul...
+{183980}{184042}I have a lot of new ideas|for you.
+{184065}{184155}Three figures listening|to another, behind a screen.
+{184173}{184246}A young girl on a bench, crying.
+{184247}{184295}Her parents watch, stunned.
+{184321}{184391}I get great pleasure|from working.
+{184393}{184442}In next year's salon,|the group of three...
+{184444}{184525}if I'm done, large scale.
+{184527}{184600}And I've another group in mind,|that you'll love.
+{184622}{184703}See, it's no longer like Rodin.|And dressed!
+{184730}{184788}You never tell me|what you're writing.
+{184790}{184844}Any new books?
+{184846}{184930}Several friends told me|to buy, "Tete d'Or."
+{184965}{185043}It's been terribly cold lately.
+{185045}{185101}I keep a fire going all night.
+{185103}{185178}If you can spare|any money for heat...
+{185179}{185227}it would help.
+{185228}{185276}Thank you for the onyx.
+{185278}{185333}I hear the crash of green water.
+{185335}{185393}Hurry and come see all this.
+{185395}{185473}I hold you close. Camille.
+{185475}{185530}You're the only one...
+{185567}{185623}...to whom I've confided|all this.
+{185715}{185758}Don't show this to anyone.
+{188010}{188045}Are you drunk?
+{188181}{188220}Enough, Camille.
+{188247}{188279}Enough!
+{188540}{188594}My God, you've changed!
+{188785}{188839}Haven't you seen|the river rising?
+{188986}{189044}The area has been evacuated.
+{189193}{189246}He wants to drown me now.
+{189291}{189356}The way you carry on!
+{189417}{189495}You refused an order|for ten busts of Rodin!
+{189497}{189591}You're officially invited|to Prague with him... you don't go!
+{189607}{189673}Have some courage, damn it!
+{189675}{189738}Your behavior is irresponsible.
+{189766}{189835}You hear? Irresponsible!
+{189915}{189963}To complete the picture...
+{189965}{190042}...you mail cat shit|to the Minister of Culture...
+{190043}{190122}...and accuse Rodin|of stealing the Mona Lisa.
+{190138}{190210}Bravo. Very funny.
+{190283}{190333}Stop these morbid pranks.
+{190335}{190382}Go out! Be seen!
+{190472}{190526}React intelligently...
+{190527}{190582}instead of burying yourself alive.
+{190583}{190618}This is suicide, Camille.
+{190631}{190669}I'm afraid.
+{190716}{190770}I'm afraid of being robbed!
+{190853}{190892}I'm afraid!
+{191060}{191126}Everyone is afraid|one time or another.
+{191217}{191329}But... with me...|it's all the time.
+{191391}{191500}There are people...|who are bothered by me...
+{191627}{191755}...who don't forgive me|for being so gifted.
+{191767}{191806}No, listen, Camille.
+{191839}{191895}We haven't met for a long time.
+{191955}{191987}What new treasures!
+{192031}{192059}Look...
+{192104}{192154}This little piece...
+{192210}{192253}...it's monumental!
+{192413}{192475}You mean "The Chatterboxes"?
+{192477}{192529}You call it that?
+{192531}{192576}Or "The Gossips."
+{192698}{192717}Sakountala...
+{192844}{192874}...in marble.
+{192907}{192948}And that little girl...
+{193088}{193156}Look,|I'll give you six months...
+{193158}{193240}...to create a new piece|for me, large-scale.
+{193242}{193290}I'll arrange an exhibition...
+{193291}{193354}a one-man show of your work.
+{193420}{193474}They'll see how sublime you are.
+{193869}{193918}You look like Cinderella.
+{193952}{193998}I like Cinderella.
+{194366}{194426}It's like the lower depths here.
+{194659}{194722}I'll arrange it all.|First, the cats.
+{194835}{194882}Don't move. I'll be back.
+{194903}{194956}I'll carry you to the boat.
+{196023}{196138}Camille Claudel is the first to|create this type of inner sculpture.
+{196159}{196272}Critics have often|compared her art...
+{196274}{196367}...to that of another,|whose name I detest...
+{196369}{196451}In fact, there is no similarity|whatever...
+{196453}{196506}between the two.
+{196527}{196635}The art of that sculptor|is the heaviest there is.
+{196637}{196739}Some of his figures can't even|get free of the clay...
+{196741}{196805}...in which they are petrified.
+{196855}{196905}When they aren't crawling...
+{196907}{197006}- hugging the mud|in a kind of erotic furor...
+{197008}{197088}...then each, clasping another|body, seeks to recreate...
+{197090}{197136}...the primitive mass.
+{197138}{197252}Impenetrable, they repel|the light... like a thick wall.
+{198263}{198304}She's frightening!
+{198448}{198502}How embarrassing for her brother.
+{198600}{198684}You're a wonderful poet,|Monsieur Claudel.
+{199074}{199139}You've seen "The Gossips"?|It's so small...
+{199141}{199190}...it fits in your hand,|like a secret.
+{199233}{199298}Eugene Blot, thank you!
+{199345}{199379}It's a triumph!
+{199482}{199553}She doesn't have a style...
+{199729}{199770}Of course she's eccentric...
+{199771}{199821}It's from Camille.
+{199823}{199909}She made that dress|especially for the occasion.
+{199911}{199954}A circus!
+{199955}{200008}Nothing ever comes|out of a whirlwind...
+{200010}{200044}...except trash.
+{200046}{200139}Still, Camille's work isn't at all|like Rodin's sleazy pawing.
+{200158}{200230}Getting over Rodin has been|hard on her, you know.
+{200254}{200338}She staked everything on Rodin,|and she lost everything.
+{200383}{200414}My sister.
+{200456}{200482}My sister...
+{200513}{200570}...is a mystery in full light.
+{200599}{200677}There's a way to approach|a mystery... gently...
+{200679}{200745}I'm leaving, Blot!
+{200775}{200826}Without saying good-bye to her?
+{202423}{202462}The reviews were mostly good.
+{202530}{202597}They only panned your "Perseus."
+{202637}{202680}They found it too disturbing.
+{202721}{202780}Some felt you portrayed yourself...
+{202782}{202839}as having a severed head.
+{202857}{202915}They've no right|to criticize my statue.
+{202917}{202951}You've struggled alone.
+{202953}{203037}You're the most|authentic sculptor I know.
+{203088}{203132}Just disregard|the salon clique.
+{203134}{203165}I sold nothing...
+{203209}{203267}...but I will.|I'm not discouraged.
+{203301}{203404}Your work can't help but touch|collectors in the end, because...
+{203406}{203437}...it tears my heart out.
+{203497}{203589}They scoff at you because|they can't destroy you.
+{203658}{203727}Genius always terrifies people.
+{203729}{203790}I should have bought|dresses, hats, instead of...
+{203792}{203872}...indulging my passion|for dubious edifices.
+{203910}{203990}Your art is so great,|nobody understands it anymore.
+{204627}{204673}I love you, Blot.
+{204771}{204841}Just send back|the works in plaster.
+{204911}{204967}Keep the marble pieces.
+{204969}{205017}Keep the bronzes, too.
+{207152}{207209}You go, Robert, talk to her.
+{207358}{207389}It's Robert!
+{207495}{207539}Open up!
+{207558}{207594}You! Open up!
+{207643}{207715}A shame, using a child.|Robert, where's your dad?
+{207717}{207789}All they do is sleep!|I am a sculptor, sir!
+{207791}{207863}I get my ideas at night.|That's it! Good-bye, Robert.
+{212665}{212773}MARCH 3, 1913
+{212797}{212896}When I think of|how he suffered...
+{212898}{213005}...when he learned the truth|about her and Rodin!
+{213007}{213113}Such arrogance! Living|with him like a kept woman!
+{213115}{213189}I don't even dare say|what I think!
+{213191}{213257}She abused us!
+{213301}{213383}Still,|I can't abandon my daughter.
+{213385}{213438}Something must be done quickly.
+{213525}{213575}"I, the undersigned,|doctor of medicine..."|MARCH 8, 1913
+{213577}{213610}"...certify that Camille Claudel..."
+{213611}{213653}"...suffers from|severe mental problems."
+{213655}{213747}"That she wears rags...|certainly never washes herself...
+{213749}{213798}"That she has sold|almost all her furniture..."
+{213800}{213914}"...although she receives from her|family... who also pay for her rent..."
+{213954}{214006}"...200 francs per month...
+{214007}{214079}"with which she could live|comfortably..."
+{214080}{214154}"That she lives in isolation,|in a locked room, without air...
+{214156}{214256}"...having sealed the windows|several months ago."
+{214258}{214299}She amounted to nothing.
+{214329}{214389}I amounted to something.|She didn't.
+{214391}{214488}"She evidently is still|terrified of Rodin's gang."
+{214490}{214550}All the gifts Nature gave her...
+{214552}{214604}brought only unhappiness.
+{214636}{214704}It's a total catastrophe.|My sister is swallowed up.
+{214706}{214788}"...and a danger to her neighbor|necessitates her confinement..."
+{214790}{214832}"...to a mental hospital."
+{215154}{215250}MARCH 10, 1913
+{216821}{216886}All these ordeals in one week.
+{216911}{216987}The death of my husband...|my daughter...
+{217690}{217734}It's horrible.
+{217783}{217846}When she's better,|you can take her home...
+{219848}{219910}My little Paul...
+{219912}{219975}You came to see me in May...
+{219977}{220032}...and I made you promise...
+{220034}{220098}not to neglect me so terribly.
+{220127}{220218}Madhouses are made|to inflict suffering.
+{220219}{220267}It can't be helped...
+{220269}{220326}...especially if|you never see anyone.
+{220328}{220389}They try to force me|to sculpt here.
+{220415}{220494}They don't succeed,|so they make trouble for me.
+{220515}{220562}Don't forget, Paul...
+{220564}{220627}your sister is in prison|with madwomen.
+{220659}{220707}Mama wrote the doctor...
+{220709}{220768}that I mean to harm you.
+{220770}{220870}That I detest you and|am out to hurt you.
+{220872}{220902}It's not true.
+{220925}{220998}I wish she would take me|to Villeneuve with her.
+{221029}{221140}Do you think I enjoy spending|months, years...
+{221142}{221219}like this, without any news,|or hope?
+{221237}{221302}Where does such ferocity|come from?
+{221304}{221388}How did they manage|to change you so?
+{221390}{221439}I'd really like to know.
+{221459}{221526}You might as well|send me to Siberia.
+{221555}{221620}Did you take care of my things?
+{221622}{221687}Are they in Villeneuve?
+{221689}{221778}Be careful they don't fall|into Rodin's hands.
+{221779}{221853}He's so afraid|I might come back.
+{221855}{221960}That's why he's keeping me here,|isn't it, Paul?
+{221984}{222098}I would so like to go home|and close the door tightly.
+{222133}{222239}I don't know if I'll be able|to realize this dream...
+{222240}{222294}...to be home.
+{222349}{222447}Oh, God,|I wish I were in Villeneuve.
+{222468}{222534}Your sister in exile.
+{222574}{222618}Because of the war...
+{222619}{222691}...Camille Claudel was transferred|to the asylum at Montdevergues...
+{222693}{222735}...on September 9, 1914.
+{222737}{222836}She died there on October 19, 1943,|after thirty years of confinement.

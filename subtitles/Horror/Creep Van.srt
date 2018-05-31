@@ -1,0 +1,743 @@
+{1}{1}25.000
+{867}{963}[Epic instrumental music]
+{1034}{1061}[Screams]
+{1113}{1185}[Mob shouting and yelling angrily]
+{1403}{1464}[Epic instrumental music continues]
+{1608}{1635}[Screams]
+{1646}{1679}It's alive.
+{1681}{1780}It's alive. It's alive!
+{1802}{1844}[Mob shouting and yelling angrily]
+{1846}{1900}[Ominous instrumental music]
+{1949}{2019}[Mob grunts and yells in unison]
+{2148}{2207}There he is! Hit it again!
+{2212}{2264}[Mob grunts and yells in unison]
+{2442}{2471}Success!
+{2485}{2529}Count, it's just you.
+{2544}{2623}I was beginning|to lose faith, Victor.
+{2682}{2761}A pity your moment of triumph|is being spoiled...
+{2763}{2822}over a little thing|like grave robbery.
+{2824}{2856}Yes.
+{2858}{2917}[Pants] I must escape this place.
+{2933}{2993}DRACULA: Where are you going to run,|Victor?
+{3021}{3142}Your peculiar experiments|have made you unwelcome...
+{3144}{3201}in most of the civilized world.
+{3204}{3295}I'll take him away, far away,|where no one will ever find him.
+{3298}{3340}DRACULA: No, no, Victor.
+{3344}{3424}The time has come|for me to take command of him.
+{3441}{3469}What are you saying?
+{3471}{3547}Why do you think I brought you here?|Gave you this castle?
+{3549}{3613}- Equipped your laboratory?|- You said...
+{3629}{3702}- You said you believed in my work.|- And I do.
+{3720}{3829}But now that it is,|as you yourself have said...
+{3841}{3916}a triumph of science...
+{3939}{3979}over God...
+{4048}{4134}it must now serve my purpose.
+{4216}{4254}What purpose?
+{4275}{4316}[Yelling in unison]
+{4379}{4497}[Mob roaring]
+{4563}{4594}Good God!
+{4611}{4672}I would kill myself|before helping in such a task.
+{4674}{4699}[Growls and moans]
+{4701}{4778}Feel free. I don't actually need you|anymore, Victor.
+{4783}{4823}I just need him.
+{4839}{4879}He is the key.
+{4899}{4975}I could never allow him|to be used for such evil.
+{4987}{5018}I could.
+{5038}{5111}In fact,|my brides are insisting upon it.
+{5139}{5178}[Loud, angry snarl]
+{5195}{5247}Igor, help me!
+{5249}{5323}IGOR: You have been|so kind to me, Doctor...
+{5335}{5389}caring, thoughtful.
+{5394}{5455}But he pays me.
+{5551}{5583}VICTOR: Stay back.
+{5587}{5647}You can't kill me, Victor.
+{5805}{5845}I'm already dead.
+{5861}{5901}[Chuckles]
+{5984}{6013}[Victor screams]
+{6032}{6089}[Ominous instrumental music]
+{6091}{6126}[Growls and roars]
+{6466}{6572}[Ominous instrumental music continues]
+{6574}{6615}[Roars]
+{6743}{6811}[Frankenstein growls and pants]
+{6849}{6947}[Ominous instrumental music]
+{6949}{6986}[Mob shouting and yelling distantly]
+{7177}{7242}Dr. Frankenstein!
+{7249}{7308}[Mob shouting and yelling angrily]
+{7310}{7386}Look, it's headed for the windmill!|Come on!
+{7918}{7996}[Dracula roars]
+{8000}{8089}[Mob shouting and yelling angrily]
+{8124}{8158}[Frankenstein growls and snarls]
+{8447}{8514}Burn it! Burn it down!
+{8564}{8624}[lntense instrumental music]
+{9079}{9161}[Frankenstein growls and snarls]
+{9254}{9323}[Yells angrily]
+{9350}{9437}[Suspenseful instrumental music]
+{9566}{9638}[Roars in anguish]
+{9712}{9750}[Gasps]
+{9828}{9932}[Ominous instrumental music]
+{10086}{10116}Vampires.
+{10121}{10177}- Run for your lives!|{y:i}-Vampires! 
+{10184}{10229}[Mob yells in panic]
+{10343}{10439}[Ominous instrumental music continues]
+{10613}{10693}[Pants and whimpers]
+{10695}{10724}Father.
+{10770}{10855}[Roars in anguish]
+{11110}{11215}[Brides shriek and wail]
+{11448}{11532}[lntense instrumental music]
+{11922}{12005}[Fast-paced instrumental music]
+{12007}{12048}[Young woman shrieks in the distance]
+{12652}{12771}[Fast-paced instrumental music continues]
+{12976}{13017}[Man laughing in the distance]
+{13906}{13961}[Snarls]
+{13988}{14018}VAN HELSING: Evening.
+{14026}{14120}You're a big one.|You'll be hard to digest.
+{14149}{14207}I'd hate to be such a nuisance.
+{14331}{14399}[Mr. Hyde growls]
+{14402}{14446}I missed you in London.
+{14449}{14540}No, you bloody did not!|You got me good.
+{14543}{14611}Dr. Jekyll, you're wanted|by the Knights of the Holy Order...
+{14613}{14643}It's Mr. Hyde now.
+{14649}{14715}...for the murder of 12 men,|six women, four...
+{14717}{14834}...children, three goats, and|a rather nasty massacre of poultry!
+{14849}{14938}So you're the great Van Helsing.
+{14940}{14998}And you're a deranged psychopath.
+{15126}{15193}We all have our little problems.
+{15249}{15307}My superiors would like for me|to take you alive...
+{15309}{15371}so that they may extricate|your better half.
+{15374}{15433}[Grunts] I bet they bloody would.
+{15443}{15527}Personally, I'd rather just kill you|and call it a day.
+{15530}{15592}But let's make it your decision,|shall we?
+{15598}{15629}Do let's.
+{16154}{16206}MR. HYDE: Here I come...
+{16212}{16267}ready or not!
+{16351}{16402}[Screaming] The bell!
+{16648}{16684}[Whizzing of power saw]
+{16780}{16837}[Grunts]
+{16839}{16870}[Exclaims in surprise]
+{16943}{17061}[Mr. Hyde howls in pain]
+{17101}{17146}MR. HYDE: No, no.
+{17153}{17196}[Grunts]
+{17198}{17247}I'll bet that's upsetting.
+{17265}{17297}[Suspenseful instrumental music]
+{17516}{17556}Paris!
+{17643}{17687}Come here.
+{17740}{17856}I think you'll find the view|over here rather spectacular.
+{17963}{18052}It's been a pleasure knowing you.|{y:i}Au revoir! 
+{18177}{18205}[Mr. Hyde groaning]
+{18354}{18441}[Heroic instrumental music]
+{18542}{18570}Oh, no.
+{18730}{18770}[Tense instrumental music]
+{18772}{18802}My turn.
+{18912}{18992}[Mr. Hyde screaming]
+{19365}{19390}[ln Latin]
+{19392}{19433}{y:i}May he rest in peace. 
+{19503}{19546}[Concerned chatter]
+{19626}{19686}[Mysterious instrumental music]
+{19848}{19882}Van Helsing.
+{19898}{19961}{y:i}You murderer! 
+{20021}{20099}[Fast-paced instrumental music]
+{20342}{20390}[Dramatic instrumental music]
+{20615}{20647}Bless me, Father, for I have...
+{20649}{20720}CARDINAL: Sinned. Yes, I know.|You're very good at that.
+{20738}{20786}You shattered the Rose Window.
+{20788}{20854}Not to split hairs, sir,|but Mr. Hyde did the shattering.
+{20856}{20943}13th century. Over 600 years old.
+{20977}{21061}- I wish you a week in hell for that.|- It would be a nice reprieve.
+{21063}{21145}Don't get me wrong.|Your results are unquestionable...
+{21149}{21223}but your methods|attract far too much attention.
+{21230}{21295}"Wanted" posters?|We are not pleased.
+{21297}{21362}Do you think I like being|the most wanted man in Europe?
+{21364}{21420}Why don't you and the Order|do something about it?
+{21422}{21473}Because we do not exist.
+{21481}{21529}Well, then neither do I.
+{21612}{21706}CARDINAL: When we found you crawling up|the steps of this church, half-dead...
+{21708}{21796}it was clear to all of us that|you had been sent to do God's work.
+{21798}{21860}- Why can't he do it himself?|- Don't blaspheme.
+{21862}{21949}You already lost your memory|as a penance for past sins.
+{21967}{22009}CARDINAL: If you wish to recover it...
+{22011}{22080}I suggest you continue|to heed the call.
+{22121}{22189}{y:i}Without us, |{y:i}the world would be in darkness. 
+{22193}{22268}Governments and empires|come and go...
+{22270}{22379}but we have kept mankind safe|since time immemorial.
+{22389}{22449}CARDINAL: We are the last defense|against evil.
+{22452}{22534}CARDINAL: An evil that the rest of mankind|has no idea even exists.
+{22536}{22646}To you, these monsters are|just evil beings to be vanquished.
+{22686}{22737}I'm the one standing there|when they die...
+{22739}{22782}and become the men they once were.
+{22784}{22868}For you, my good son,|this is all a test of faith.
+{22879}{22964}And now,|we need you to go to the East.
+{22979}{23040}To the far side of Romania.
+{23061}{23098}An accursed land...
+{23100}{23171}terrorized by all sorts|of nightmarish creatures.
+{23176}{23254}CARDINAL: Lorded over|by a certain Count Dracula.
+{23268}{23318}VAN HELSING: Dracula?|CARDINAL: Yes.
+{23328}{23393}{y:i}You've never faced one|{y:i}like this before. 
+{23416}{23498}{y:i}Our story begins 450 years ago... 
+{23500}{23585}{y:i}when a Transylvanian knight|{y:i}named Valerious the Elder... 
+{23591}{23676}{y:i}promised God that his family|{y:i}would never rest nor enter heaven... 
+{23678}{23750}{y:i}until they vanquished Dracula|{y:i}from their land. 
+{23763}{23810}They have not succeeded...
+{23825}{23886}and they are running out of family.
+{23908}{24010}CARDINAL: His descendant Boris Valerious,|King of the Gypsies.
+{24015}{24076}He disappeared almost 12 months ago.
+{24113}{24230}CARDINAL: His only son, Prince Velkan,|and his daughter, Princess Anna.
+{24238}{24317}CARDINAL: If the two of them are killed|before Dracula is vanquished...
+{24319}{24370}nine generations of their family...
+{24372}{24435}will never enter|the gates of St. Peter.
+{24450}{24494}{y:i}For more than four centuries... 
+{24496}{24561}{y:i}this family has defended|{y:i}our left flank. 
+{24563}{24608}They gave their lives.
+{24626}{24690}We cannot let them|slip into purgatory.
+{24692}{24747}So you're sending me into hell.
+{24797}{24830}In a manner.
+{24904}{24992}Valerious the Elder left this here|400 years ago.
+{25010}{25054}{y:i}We don't know its purpose... 
+{25056}{25118}but he would not have|left it lightly.
+{25120}{25182}The Latin inscription translates as:
+{25198}{25262}"In the name of God,|open this door."
+{25287}{25330}{y:i}There is an insignia. 
+{25429}{25489}{y:i}Yes, it matches your ring. 
+{25514}{25617}I think that in Transylvania|you may find the answer you seek.
+{25634}{25702}[Soft instrumental music]
+{25787}{25840}CARL: Faster, please. Faster!
+{25849}{25910}Faster! Faster! Faster!
+{25912}{25946}[Man screaming]
+{25948}{25973}Getting there.
+{25975}{26019}- Carl!|- There you are.
+{26030}{26099}Did you bring Mr. Hyde back,|or did you kill him?
+{26100}{26169}You killed him, didn't you?|That's why they get so annoyed.
+{26172}{26250}When they ask you to bring someone|back, they don't mean as a corpse.
+{26253}{26297}CARL: All right, you're in a mood.|Come on.
+{26299}{26363}I have some things that'll|put the bit back in your mouth.
+{26365}{26416}Any idiot can make a sword.
+{26431}{26463}Sorry, Father.
+{26465}{26527}VAN HELSING: Come along, Carl.|CARL: Here, take this:
+{26543}{26628}Rings of garlic, holy water...
+{26682}{26757}silver stake, crucifix.
+{26827}{26879}Why can't I have one of those?
+{26881}{26942}You've never gone after vampires|before now, have you?
+{26944}{27000}Vampires, gargoyles, warlocks,|they're all the same.
+{27003}{27035}VAN HELSING: Best when cooked well.
+{27037}{27063}No, they're not all the same.
+{27066}{27149}A vampire is nothing like a warlock.|My granny could kill a warlock.
+{27150}{27200}Carl, you've never even been|out of the abbey.
+{27203}{27269}- How do you know about vampires?|- I read.
+{27294}{27338}Here's something new.
+{27349}{27398}{y:i}Glycerin 48.
+{27480}{27513}[Monks screaming]
+{27517}{27574}CARL: Sorry!
+{27588}{27635}MULLAH: What in Allah's name|is wrong with you?
+{27637}{27698}The air around here|is thick with envy.
+{27709}{27792}This is my latest invention.|It's gas-propelled.
+{27794}{27850}Capable of catapulting arrows|in rapid succession...
+{27853}{27940}at tremendous velocity.|Just pull the trigger and hold on.
+{27957}{28007}I've heard the stories|from Transylvania.
+{28010}{28082}Trust me, you'll need this.|A work of certifiable genius.
+{28084}{28159}- Lf you don't say so yourself.|- No, I did say so myself.
+{28161}{28206}I'm a veritable cornucopia|of talent.
+{28207}{28244}Did you invent this?
+{28246}{28290}I've been working on that|for 12 years.
+{28292}{28338}It's compressed magma|from Mt. Vesuvius...
+{28340}{28390}with pure alkaline|from the Gobi Desert.
+{28392}{28442}- It's one of a kind.|- What's it for?
+{28444}{28506}I don't know,|but I'm sure it'll come in handy.
+{28507}{28562}Twelve years,|and you don't know what it does?
+{28563}{28625}I didn't say that.|I said I didn't know what it's for.
+{28628}{28685}What it does|is to create a light source...
+{28687}{28725}equal to the intensity of the sun.
+{28727}{28766}This will come in handy how?
+{28768}{28822}I don't know.|You can blind your enemies.
+{28824}{28877}Charbroil a herd|of charging wildebeest.
+{28879}{28913}Use your imagination.
+{28916}{28982}No, I'm gonna use yours.|That's why you're coming with me.
+{28984}{29044}CARL: Holy hell be damned I am!|VAN HELSING: You cursed.
+{29046}{29086}Not very well, but you're a monk.
+{29088}{29119}You shouldn't curse at all.
+{29122}{29207}Actually, I'm still just a friar.|I can curse all I want...
+{29209}{29238}damn it!
+{29242}{29313}The Cardinal has ordered you|to keep me alive.
+{29323}{29410}- For as long as possible.|- But I'm not a field man.
+{29455}{29507}CARL: I don't want to go to Transylvania.
+{29750}{29798}[Slow eerie instrumental music]
+{30257}{30328}[Loud growling]
+{30491}{30519}Come on.
+{30527}{30604}Dracula unleashed you for a reason.
+{30757}{30794}[Ferocious snarling]
+{31030}{31113}[lntense instrumental music]
+{31163}{31198}Pull me up!
+{31200}{31234}It's stuck!
+{31285}{31374}[Heroic instrumental music]
+{31436}{31513}- No, Anna, it will kill you!|- That's my brother out there.
+{31579}{31632}Cut the rope! Cut it now!
+{31963}{31991}Velkan!
+{32005}{32065}[lntense instrumental music]
+{32253}{32298}My gun! Find my gun!
+{32300}{32368}Find Velkan's gun.|It has to be the silver bullets.
+{32447}{32479}Anna, hurry!
+{32481}{32515}Hurry!
+{32579}{32606}Move.
+{32650}{32688}VELKAN: Anna, look out!
+{32744}{32773}Run!
+{32853}{32972}[Eerie instrumental music]
+{33207}{33239}[Velkan cries out]
+{33495}{33528}Velkan.
+{33651}{33680}God...
+{33730}{33760}help us.
+{33863}{33983}[Fast-paced instrumental music]
+{34803}{34923}[Fast-paced instrumental music continues]
+{35483}{35551}CARL: So, what do you remember?|VAN HELSING: Not now, Carl.
+{35559}{35606}There must be something.
+{35618}{35683}I remember fighting the Romans|at Masada.
+{35694}{35755}- That was in 73 A.D.|- You asked.
+{35825}{35863}CARL: What are we doing here?
+{35865}{35921}Why is it so important|to kill this Dracula, anyway?
+{35923}{35995}- Because he's the son of the Devil.|- I mean, besides that.
+{35997}{36072}If we kill him, anything bitten|or created by him will also die.
+{36074}{36103}I mean, besides that.
+{36105}{36171}Welcome to Transylvania.
+{36452}{36515}- Is it always like this?|- Pretty much.
+{36554}{36592}ANNA: You, turn around.
+{36685}{36737}- Let me see your faces.|- Why?
+{36739}{36794}Because we don't trust strangers.
+{36796}{36851}Strangers don't last long here.
+{36858}{36916}{y:i}5'7" by 2'3". 
+{36960}{37021}Gentlemen, you will now be disarmed.
+{37046}{37079}You can try.
+{37173}{37225}ANNA: You refuse to obey our laws?
+{37230}{37306}- The laws of men mean little to me.|- Fine.
+{37321}{37348}Kill them.
+{37350}{37418}- I'm here to help you.|- I don't need any help.
+{37420}{37450}Really?
+{37499}{37529}[Hissing and shrieking]
+{37549}{37623}[Villagers screaming]
+{37831}{37900}Everybody inside!
+{37910}{37952}Hide the children!
+{37978}{38062}[lntense instrumental music]
+{38403}{38444}[Hisses angrily]
+{38612}{38645}VAN HELSING: Stay here.
+{38656}{38720}You stay here.|They're trying to kill me.
+{38734}{38782}[lntense instrumental music continues]
+{38802}{38831}[Hissing]
+{38855}{38944}- Marishka, kill the stranger.|- Love to.
+{39076}{39112}ANNA: Run!
+{39349}{39398}Carl, it's not working.
+{39417}{39468}CARL: Try aiming at their hearts.
+{39568}{39667}[lntense instrumental music continues]
+{40457}{40492}It's the sun.
+{41715}{41775}[Eerie instrumental music]
+{41972}{42002}Van Helsing.
+{42012}{42060}[lntense instrumental music resumes]
+{42131}{42194}Do you like to fly, Anna?
+{42196}{42248}[Aleera cackles]
+{42481}{42572}[lntense instrumental music continues]
+{42629}{42664}[Cries out in pain]
+{43533}{43572}Hello, Anna.
+{43574}{43608}[Hisses]
+{43700}{43750}Nice to see you, too, Aleera.
+{43981}{44017}[Low growling]
+{44333}{44393}[Suspenseful instrumental music]
+{44813}{44868}Did I do something to you|in a past life?
+{44873}{44926}Don't play coy with me, Princess.
+{45011}{45096}I know what lurks|in your lusting heart.
+{45102}{45161}I hope you have a heart, Aleera...
+{45163}{45236}because someday I'm going to drive|a stake through it.
+{45299}{45383}[Suspenseful instrumental music continues]
+{45497}{45545}CARL: This should do the trick.
+{45573}{45610}Holy water!
+{45757}{45844}Stop your teasing, Marishka,|and finish him.
+{45928}{45992}Too bad. So sad.
+{46008}{46041}The church!
+{46328}{46373}Thirty years old.
+{46383}{46424}Perfectly aged.
+{46442}{46493}Hello, Anna, my dear.
+{46530}{46614}[Eerie instrumental music]
+{46763}{46829}The last of the Valerious.
+{46865}{46900}[Roars]
+{46964}{46990}[Shrieks]
+{47158}{47228}[Laughing maniacally]
+{47373}{47466}[Suspenseful instrumental music]
+{47646}{47742}I can feel fresh blood|rushing through her veins.
+{47781}{47818}Here she comes!
+{47945}{47987}I want first bite.
+{48097}{48181}[Suspenseful instrumental music continues]
+{48520}{48590}[Shrieking]
+{49041}{49114}[Screams in agony]
+{49570}{49599}[Cow mooing]
+{49725}{49809}[Soft, slow instrumental music]
+{49905}{49976}VILLAGER #1: He killed a bride!|VILLAGER #2: He killed Marishka!
+{50081}{50131}VILLAGER #3: You killed Marishka!
+{50142}{50218}VILLAGER #4: You killed a vampire!|CARL: But isn't that a good thing?
+{50220}{50290}Vampires only kill what they need|to survive.
+{50292}{50341}One or two people a month.
+{50354}{50426}Now they will kill for revenge.
+{50433}{50505}[Villagers shouting angrily]
+{50521}{50589}- Are you always this popular?|- Pretty much.
+{50594}{50700}So what name, my good sir,|do I carve on your gravestone?
+{50702}{50753}His name is Van Helsing.
+{50785}{50845}[Chatter in awe]
+{50913}{50967}Your reputation precedes you.
+{51093}{51168}Next time stay close.|You're no good to me dead.
+{51186}{51261}Well, I'll say this for you.|You've got courage.
+{51271}{51354}He's the first one to kill a vampire|in over 100 years.
+{51370}{51422}I'd say that's earned him a drink.
+{51553}{51621}Marishka!
+{51629}{51697}[Wailing]
+{51820}{51878}DRACULA: Why can't they just|leave us alone?
+{51880}{51984}We never kill more than our fill|and less than our share.
+{51985}{52031}Can they say the same?
+{52051}{52114}Did I not stress|how important it was...
+{52116}{52178}to be finished|with Anna Valerious...
+{52184}{52270}before she destroys|what we are trying to create?
+{52271}{52346}VERONA: We lost Marishka.|ALEERA: Master.
+{52347}{52434}There, there, my darlings.|Do not worry.
+{52441}{52504}- I shall find another bride.|- What?
+{52506}{52532}[Aleera gasps]
+{52534}{52637}- Do we mean so little to you?|- Have you no heart?
+{52647}{52745}No, I have no heart! I feel no love!
+{52760}{52796}Nor fear...
+{52824}{52859}nor joy...
+{52893}{52928}nor sorrow!
+{52974}{53034}I am hollow.
+{53121}{53205}And I will live forever.
+{53218}{53296}- My Lord.|- It is not so bad.
+{53371}{53425}DRACULA: I am at war with the world...
+{53433}{53503}and every living soul in it.
+{53513}{53595}But soon|the final battle will begin.
+{53601}{53650}I must go and find out|who our new visitor is.
+{53652}{53719}[Werewolf howling ferociously]
+{53759}{53860}You will have to make|a little apéritif out of him.
+{53878}{53947}We are much too close to success|to be interrupted now.
+{53950}{54038}ALEERA: No!|VERONA: The last experiment was a failure!
+{54040}{54138}Please, say you will not try again.
+{54143}{54251}My heart could not bear the sorrow|if we fail again.
+{54253}{54333}[Roars angrily]
+{54362}{54399}[Whimper and sob]
+{54491}{54521}Come.
+{54538}{54614}DRACULA: Do not fear me.
+{54617}{54675}Everybody else fears me.
+{54707}{54742}Not my brides.
+{54744}{54830}[Werewolf howls angrily]
+{54842}{54867}DRACULA: lgor.
+{54895}{54942}Yes, master.
+{54963}{55021}Why do you torment that thing so?
+{55039}{55076}It's what I do.
+{55082}{55143}Remember, lgor, "Do unto others..."
+{55146}{55247}Before they do unto me, master.
+{55258}{55324}Now go, all of you!
+{55339}{55394}To Castle Frankenstein!
+{55431}{55514}ALEERA: Yes, we will try again.
+{55605}{55671}- So, how did you get here?|- We came by sea.
+{55672}{55720}ANNA: Really? The sea?|CARL: Well, yes.
+{55721}{55787}ANNA: The Adriatic Sea?|VAN HELSING: Where do I find Dracula?
+{55802}{55874}ANNA: He used to live in this very house|four centuries ago.
+{55876}{55921}No one knows where he lives now.
+{55924}{55974}Father would stare at that painting|for hours...
+{55976}{56017}Iooking for Dracula's lair.
+{56019}{56089}ANNA: So that's why you've come?|VAN HELSING: I can help you.
+{56108}{56162}- No one can help me.|- I can try.
+{56164}{56235}You can die trying.|All of my family has.
+{56244}{56307}ANNA: I can handle this myself.|VAN HELSING: So I noticed.
+{56309}{56371}The vampires attacked in daylight.|They never do that.
+{56374}{56431}I was unprepared.|It won't happen again.
+{56433}{56476}So why did they attack in daylight?
+{56478}{56533}Clearly they wanted|to catch me off guard.
+{56534}{56591}They seem almost desperate|to finish off my family.
+{56593}{56674}- Why is that? Why now?|- You ask a lot of questions.
+{56676}{56709}Usually I ask only two:
+{56712}{56755}What are we dealing with?|How do I kill it?
+{56757}{56846}My father spent most of his life|looking for answers year after year.
+{56847}{56921}Tearing through the tower,|combing through the family archives.
+{56922}{56979}- Carl, the tower. Start there.|- Right.
+{56981}{57064}The only way to save your family is|to stay alive till Dracula's killed.
+{57066}{57152}And who will kill him if not me?|Who will show courage if not me?
+{57154}{57214}Go alone and you'll be outmanned|and outpositioned.
+{57216}{57262}And you can't see in the dark.
+{57264}{57324}In the morning, we will hunt him...
+{57340}{57389}but we'll do it together.
+{57431}{57479}[Soft, tense instrumental music]
+{57535}{57606}Some say you're a murderer,|Mr. Van Helsing.
+{57617}{57705}Others say you're a holy man.|Which is it?
+{57790}{57842}It's a bit of both, I think.
+{57922}{57997}- I promised you a drink.|- Yes, you did.
+{58018}{58082}The bar is down the hall.|Help yourself.
+{58084}{58164}ANNA: As for me, I'm going to finish this|once and for all.
+{58169}{58225}VAN HELSING: Sorry you've to carry|this burden alone.
+{58227}{58283}On the contrary,|I would wish for it no other way.
+{58284}{58326}I'm sorry about your father|and brother.
+{58328}{58362}I will see them again.
+{58364}{58434}We Transylvanians always look|on the brighter side of death.
+{58435}{58539}- There's a brighter side of death?|- Yes. It's just harder to see.
+{58707}{58755}I'm sorry about that, too.
+{59071}{59106}Van Helsing!
+{59144}{59180}[Metallic clanging]
+{59367}{59402}Van Helsing?
+{59715}{59763}[Eerie instrumental music]
+{59892}{59924}[Banging]
+{61068}{61128}[Eerie instrumental music continues]
+{61224}{61252}[Thudding]
+{62459}{62494}[Roars]
+{62584}{62659}[Eerie instrumental music continues]
+{62900}{62946}- Velkan?|- Anna.
+{62967}{63015}Oh, my God, you're alive.
+{63064}{63105}No. Anna, I only have a moment.
+{63107}{63163}ANNA: But there's a werewolf...|VELKAN: Listen to me!
+{63165}{63224}I know Dracula's secret.|He has a...
+{63301}{63330}[Grunts and gasps]
+{63359}{63397}ANNA: Velkan?|VELKAN: Please.
+{63426}{63469}No!
+{64120}{64164}Run, Anna.
+{64219}{64303}[lntense instrumental music]
+{64615}{64642}VAN HELSING: Anna!
+{64783}{64809}Are you all right?
+{64812}{64837}Anna!
+{64933}{64993}[lntense instrumental music continues]
+{65203}{65264}Why does it smell|like wet dog in here?
+{65266}{65292}Werewolf!
+{65294}{65342}Right. You'll be needing|silver bullets, then.
+{65344}{65376}VAN HELSING: Well done.
+{66231}{66315}[Suspenseful instrumental music]
+{66546}{66588}Who's hunting whom?
+{66799}{66887}Nice night.|This is a bit tight for me.
+{66893}{66987}But for you it's a perfect fit.
+{67022}{67064}TOP HAT: What a coincidence.
+{67085}{67139}TOP HAT: I see the wolf man|hasn't killed you yet.
+{67141}{67188}VAN HELSING: Don't worry, he's getting to it.
+{67190}{67226}VAN HELSING: You don't seem bothered.
+{67228}{67263}TOP HAT: I'm no threat to him.
+{67265}{67335}I'm just the one|who cleans up after him...
+{67343}{67383}if you get my meaning.
+{67385}{67435}Little late to be digging graves,|isn't it?
+{67437}{67491}Never too late to dig graves.
+{67530}{67612}You never know|when you'll need a fresh one.
+{67671}{67777}Oh, sorry. It's just my nature.
+{67829}{67865}[Ferocious roaring]
+{67993}{68053}[Suspenseful instrumental music continues]
+{68200}{68234}- Move!|- No!
+{68334}{68404}VAN HELSING: Why?|ANNA: You're choking me!
+{68410}{68526}- Give me a reason not to.|- I can't. If people knew...
+{68604}{68665}He's not your brother anymore, Anna!
+{68698}{68761}- You knew?|- Yes.
+{68799}{68873}Before or after I stopped you|from shooting him?
+{68875}{68900}Before.
+{68903}{68938}And still you tried to kill him!
+{68940}{68983}He's a werewolf!|He's gonna kill people!
+{68985}{69022}He can't help it!|It's not his fault!
+{69024}{69056}I know, but he'll do it anyway!
+{69058}{69112}Do you understand forgiveness?
+{69117}{69175}Yes. I ask for it often.
+{69235}{69281}They say Dracula has a cure.
+{69283}{69331}If there's a chance|I can save my brother...
+{69333}{69362}- I'm going after it.|- No.
+{69364}{69432}- I need to find Dracula.|- And I need to find my brother!
+{69434}{69521}He gave his life for me.|He's the only family I have left.
+{69548}{69625}I despise Dracula|more than you can ever imagine.
+{69636}{69732}He has taken everything from me,|leaving me alone in this world.
+{69860}{69939}[Sentimental instrumental music]
+{70092}{70166}To have memories|of those you loved and lost...
+{70180}{70258}is perhaps harder|than to have no memories at all.
+{70309}{70342}All right.
+{70396}{70443}We'll look for your brother.
+{70492}{70570}[Fast-paced instrumental music]
+{71136}{71201}- Igor.|- Yes, master.
+{71203}{71288}- How long before we are ready?|- Soon, master. Very soon.
+{71324}{71380}It is difficult|without the good doctor...
+{71382}{71437}but the Dwergi, they are doing well?
+{71439}{71464}[ln Hungarian]
+{71466}{71492}{y:i}No! 
+{71524}{71551}Good.
+{71620}{71712}ANNA: For me, this is all personal.|It's all about family and honour.
+{71728}{71818}Why do you do it, this job of yours?|What do you hope to get out of it?
+{71820}{71888}I don't know.|Maybe some self-realization.
+{71905}{71965}What have you got out of it so far?
+{71987}{72020}Nightmares.
+{72082}{72152}Werewolves only shed|before the first full moon.
+{72154}{72203}Before the curse|has completely consumed them.
+{72240}{72280}[Thunder rumbling]
+{72472}{72540}VAN HELSING: What is this place?|ANNA: Castle Frankenstein.
+{72551}{72596}ANNA: But it should be abandoned.
+{72598}{72625}I don't understand.
+{72627}{72685}The man who lived here|was killed a year ago.
+{72687}{72750}- A grave robber, among other things.|- A year ago.
+{72752}{72812}It was just after that|that your father went missing.
+{72814}{72905}ANNA: Yes. He was looking for Dracula.|He was on his way to the sea.
+{72942}{72987}I have never been to the sea.
+{73115}{73163}I'll bet it's beautiful.
+{73172}{73220}[Sentimental instrumental music]
+{73481}{73548}[Roars]
+{73594}{73684}Werewolves are such a nuisance|during their first full moon.
+{73713}{73756}So hard to control.
+{74326}{74376}I send you on a simple errand...
+{74378}{74437}to find out|who our new visitor is...
+{74452}{74536}and you have to stop|for a little chat with your sister.
+{74538}{74627}Leave her out of this, Count.|She doesn't know your secret.
+{74634}{74692}And I am soon to take it|to my grave.
+{74715}{74807}DRACULA: Don't wish for death so quickly.|I intend for you to be quite useful.
+{74809}{74851}VELKAN: I would rather die than help you.
+{74853}{74927}Don't be boring.|Everyone who says that dies.
+{74929}{74968}Besides, tonight...
+{74970}{75015}after the final stroke|of midnight...
+{75017}{75080}you will have no choice|but to obey me.
+{75140}{75176}Look familiar?
+{75284}{75314}Father?
+{75331}{75373}No!
+{75377}{75409}He proved useless.
+{75411}{75490}But I'm hoping, with werewolf venom|running through your veins...
+{75492}{75539}you will be of greater benefit!
+{75640}{75732}I may have failed to kill you,|Count, but my sister will not.
+{75746}{75794}[Tense instrumental music]
+{75860}{75938}VELKAN: Never!
+{76110}{76153}[Thunder rumbling]
+{76320}{76355}[Dwergi chattering]
+{76366}{76414}ANNA: Dwergi.|VAN HELSING: Dwergi?
+{76416}{76498}Dracula's servants.|Industrious but extremely vicious.
+{76500}{76548}If you get the chance to kill one,|do it...
+{76550}{76616}- Because they'll do worse to you.|- Right.
+{76696}{76741}[Dwergi chattering]
+{76743}{76814}They say they're using my brother|in some sort of experiment.
+{76816}{76873}My brother is still battling|the sickness within him.
+{76875}{76924}- There's still hope.|- Anna.
+{76940}{76999}There is no hope for your brother.
+{77004}{77083}But we can still protect others|by killing Dracula.
+{77097}{77181}[Tense instrumental music]
+{77253}{77292}Let us begin!
+{77332}{77452}[Fast-paced instrumental music]
+{77484}{77509}[ln Hungarian]
+{77511}{77586}IGOR: "No slacking! Up! "
+{77943}{77995}VAN HELSING: You ever see these things?|ANNA: No.
+{77997}{78062}ANNA: What do you think they are?|VAN HELSING: Offspring.
+{78064}{78089}ANNA: What?
+{78091}{78150}VAN HELSING: A man with|three gorgeous women for 400 years.
+{78152}{78204}Yes, vampires are the walking dead.
+{78206}{78265}It only makes sense|their children are born dead.
+{78267}{78337}He's obviously trying|to bring them to life.
+{78441}{78485}[Clears throat] Ladies first.
+{79088}{79177}Dracula and his brides only kill|one or two people a month.
+{79187}{79253}If he brings|all these things to life...
+{79259}{79295}[Thunder rumbling]
+{79465}{79549}[Suspenseful instrumental music]
+{79647}{79717}DRACULA: Throw the switches!|IGOR: Yes, master.
+{80167}{80251}[Suspenseful instrumental music continues]
+{80433}{80476}[Heartbeat thumping]
+{80583}{80609}What are you doing?
+{80611}{80663}I want to see what we're up against.
+{81399}{81468}So this is what you get|when vampires mate.
+{81915}{81944}[Hissing]
+{82001}{82030}Come on!
+{82153}{82230}[Hissing]
+{82788}{82893}They need to feed.|Teach them how. Teach them!
+{82901}{82969}[Shrieking]
+{83101}{83144}And beg the Devil...
+{83179}{83238}that this time they stay alive.
+{83328}{83412}[lntense instrumental music]
+{83470}{83531}- This is where I come in.|- No, wait!
+{83785}{83844}Now that I have your attention...
+{84221}{84281}[lntense instrumental music continues]
+{84415}{84469}CARL: Yes, well, that's interesting.
+{84487}{84547}[Strange low howling]
+{84676}{84758}That's not good. Must warn somebody.
+{85085}{85183}I can tell the character of a man|by the sound of his heartbeat.
+{85209}{85280}Usually when I approach...
+{85308}{85397}I can almost dance to the beat.
+{85449}{85542}Strange that yours is so steady.
+{85722}{85747}[ln Hungarian]
+{85749}{85786}IGOR: "Hurry up! "
+{85836}{85915}IGOR: We must keep|the atmosphere electrified!
+{85958}{86010}Accelerate the generators!
+{86033}{86077}Power the dynamos!
+{86106}{86149}We are losing power.
+{86174}{86224}The human is insufficient.
+{86280}{86359}[Screaming in agony]
+{86361}{86389}Velkan.
+{86507}{86555}[Dogs barking in the distance]
+{86629}{86677}[Distant screeching]
+{86706}{86743}Oh, my God.
+{86769}{86840}[Villagers screaming in panic]
+{86951}{87035}[Dramatic instrumental music]
+{87472}{87591}Feed, my darlings! Feed!
+{88092}{88117}[ln Latin]
+{88119}{88160}{y:i}May he rest in peace. 
+{88230}{88268}Hello, Gabriel.
+{88437}{88521}[Tense instrumental music]
+{88624}{88680}[Dwergi shouting]
+{89663}{89749}We must not lose|the master's progeny!
+{89823}{89878}Is this your silver stake?
+{89972}{90067}How long has it been?|300, 400 years?
+{90193}{90237}You don't remember, do you?
+{90366}{90391}Exactly what is it|I should be remembering?
+{90393}{90446}You are the great Van Helsing.
+{90459}{90517}Trained by monks and mullahs|from Tibet to Istanbul.
+{90546}{90604}Protected by Rome herself.
+{90620}{90704}But, like me, hunted by all others.
+{90706}{90760}The Knights of the Holy Order|know all about you.
+{90762}{90807}It's no surprise|you would know about me.
+{90809}{90858}Yes, but it's much more than this.
+{90860}{90885}[Dracula laughs]
+{90970}{91084}We have such history,|you and I, Gabriel.
+{91167}{91285}DRACULA: Have you ever wondered why|you have such horrible nightmares?
+{91316}{91400}Horrific scenes|of ancient battles past.
+{91507}{91549}How do you know me?
+{91567}{91651}[Tense instrumental music continues]
+{91733}{91805}- Velkan.|- Anna.
+{91807}{91850}No. Don't unstrap me.
+{91852}{91879}Don't unstrap me!
+{91881}{91949}No, you must not! No! Stop!
+{91951}{91990}Stop it.|I'm getting you out of here.
+{91992}{92053}Velkan, it's all right.|I'm taking you home.
+{92151}{92194}[Velkan roars in the distance]
+{92206}{92312}So would you like me|to refresh your memory a little?
+{92342}{92412}A few details from your sordid past.
+{92650}{92725}Perhaps that is a conversation|for another time.
+{92770}{92865}Allow me to reintroduce myself.
+{92881}{93000}I am Count Vladislaus Dragulia.
+{93046}{93107}Born 1422.
+{93134}{93220}Murdered 1462.
+{93541}{93585}Help me!
+{93603}{93687}[Dramatic instrumental music]
+{93850}{93905}[Victims scream]
+{93965}{94006}[Hissing]
+{94261}{94360}[Wail and shriek in horror]
+{94424}{94453}[Brides wail in the distance]
+{94523}{94607}[Suspenseful instrumental music]
+{94742}{94804}I think|we've overstayed our welcome.
+{95057}{95176}[Growls and snarls]
+{95561}{95645}[Suspenseful instrumental music continues]
+{95921}{95982}MAN #1: Have you found the children?|MAN #2: Not yet.
+{96063}{96143}- What happened?|- They just died.
+{96264}{96313}How can I ever repay you?
+{96412}{96451}[Whispers]
+{96493}{96555}But you can't do that.|You are a monk.
+{96557}{96613}Well, actually I'm just a friar.
+{96684}{96767}IGOR: I am sorry, master.|We try and we try...
+{96769}{96877}but I fear we are not so smart|as Dr. Frankenstein.
+{96893}{96921}Truly.
+{96951}{97045}It would appear the good doctor|took the key to life to his grave.
+{97172}{97209}Hunt them down.
+{97271}{97309}Kill them both.
+{97381}{97440}ANNA: A silver stake? A crucifix?
+{97445}{97512}ANNA: What, did you think|we haven't tried everything before?
+{97514}{97575}ANNA: We've shot him, stabbed him,|clubbed him...
+{97577}{97643}sprayed him with holy water,|staked him through the heart...
+{97645}{97688}and still he lives!|Do you understand?
+{97692}{97737}No one knows how to kill Dracula.
+{97739}{97825}Well, I could have used|that information a little earlier.
+{97833}{97881}Don't give me that look.
+{97987}{98056}You were right. I'm sorry.
+{98075}{98127}He's not my brother anymore.
+{98177}{98237}[Sentimental instrumental music]
+{98482}{98546}Do you have any family,|Mr. Van Helsing?
+{98588}{98649}Not sure.|I hope to find out someday.
+{98651}{98702}That's what keeps me going.
+{98737}{98824}- Here's to what keeps you going.|- Absinthe. Strong stuff.
+{98924}{98990}Don't let it touch your tongue.|It'll knock you on your...
+{98992}{99017}[Both screaming]
+{99490}{99520}Vampire.
+{99593}{99624}Vampires!
+{99799}{99840}Now I remember.
+{99997}{100057}[Mysterious instrumental music]
+{100119}{100231}"Even a man who is pure in heart|And says his prayers by night
+{100249}{100354}"May become a wolf|when the wolfbane blooms
+{100371}{100426}"And the moon is shining bright
+{100441}{100515}"Or crave another's blood|when the sun goes down
+{100517}{100571}"And his body takes to flight"
+{100595}{100643}[Clock chiming]
+{101149}{101185}[Anna groaning]

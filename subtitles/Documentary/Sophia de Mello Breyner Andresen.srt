@@ -1,0 +1,778 @@
+1
+00:00:00,400 --> 00:00:03,870
+In memory of Carl Th. Dreyer
+
+2
+00:00:17,280 --> 00:00:19,236
+A Film by João César Santos
+
+3
+00:00:19,520 --> 00:00:22,080
+on
+SOPHIA DE MELLO BREYNER ANDRESEN
+
+4
+00:00:23,840 --> 00:00:25,956
+Assistant Camera Operator,
+Emílio Pinto
+
+5
+00:00:27,040 --> 00:00:29,838
+Assistant Director,
+Jorge Silva Melo
+
+6
+00:00:30,800 --> 00:00:33,189
+Sound Editor
+Alexandre Gonçalves
+
+7
+00:00:34,480 --> 00:00:36,471
+Director of Photography,
+Abel Escoto
+
+8
+00:00:37,600 --> 00:00:39,591
+A Production of
+Ricardo Malheiro
+
+9
+00:00:43,400 --> 00:00:45,231
+Stanzas and children
+as you bring to the world?
+
+10
+00:00:45,400 --> 00:00:47,277
+As on the beach
+the shadows of corals converse you?
+
+11
+00:00:47,480 --> 00:00:49,152
+As of anguish the deep nightfall?
+
+12
+00:00:49,360 --> 00:00:51,157
+As one who splits
+and scatters oneself?
+
+13
+00:00:51,400 --> 00:00:52,628
+As one who might kill you?
+
+14
+00:00:52,880 --> 00:00:54,518
+Or as one who shall never return to you.
+JORGE DE SENA
+
+15
+00:02:00,560 --> 00:02:04,030
+"And so the Girl of the Sea
+sat on the boy's shoulder and said:
+
+16
+00:02:04,760 --> 00:02:07,274
+"I'm so happy, so happy, so happy.
+
+17
+00:02:07,800 --> 00:02:09,756
+"l thought I'd never see you again.
+
+18
+00:02:10,040 --> 00:02:12,838
+"Without you the sea,
+despite all its anemones,
+
+19
+00:02:13,040 --> 00:02:14,871
+"seemed sad and empty.
+
+20
+00:02:15,360 --> 00:02:19,990
+"And I spent my entire days sighing
+and didn't know what to do.
+
+21
+00:02:20,240 --> 00:02:22,754
+"Until one day the King of the Sea
+gave a big party.
+
+22
+00:02:22,960 --> 00:02:26,635
+"He invited many whales, many
+sharks and many important fishes.
+
+23
+00:02:26,920 --> 00:02:29,718
+"And he told me to go to the palace
+and dance at the party.
+
+24
+00:02:29,960 --> 00:02:32,349
+"At the end of the banquet
+the time came for me to dance,
+
+25
+00:02:32,520 --> 00:02:35,751
+" I entered the cave where the
+King of the Sea was with his guests,
+
+26
+00:02:35,960 --> 00:02:39,839
+"sitting on his nacre throne
+surrounded by sea-horses.
+
+27
+00:02:40,200 --> 00:02:43,351
+"And then the dog-whelks started
+singing a very ancient song
+
+28
+00:02:44,120 --> 00:02:46,429
+"that was invented
+in the beginning of the World.
+
+29
+00:02:46,800 --> 00:02:50,270
+"But I was very sad and
+so my dancing was very poor.
+
+30
+00:02:50,600 --> 00:02:53,319
+"Why is your dancing so terrible?,
+asked the King of the Sea.
+
+31
+00:02:53,480 --> 00:02:55,789
+"Because I'm filled with longing,
+I replied.
+
+32
+00:02:55,920 --> 00:02:58,480
+"Longing?, said the King of the Sea,
+what's that all about?
+
+33
+00:02:58,680 --> 00:03:02,309
+"And he asked the octopus, the crab
+and the fish what had happened.
+
+34
+00:03:02,520 --> 00:03:04,192
+"They told him everything.
+
+35
+00:03:04,360 --> 00:03:07,033
+"And so the King of the Sea
+felt sorrow for my sadness
+
+36
+00:03:07,240 --> 00:03:10,312
+"and felt sorrow for a ballerina that
+didn't know how to dance anymore
+
+37
+00:03:10,480 --> 00:03:13,472
+"and said: come to the palace
+tomorrow morning.
+
+38
+00:03:13,840 --> 00:03:16,434
+"The morning of the next day,
+I returned to the palace
+
+39
+00:03:16,600 --> 00:03:19,717
+"and the King of the Sea
+sat me on his shoulder
+
+40
+00:03:19,920 --> 00:03:22,150
+"and took me up
+to the surface of the waters.
+
+41
+00:03:22,400 --> 00:03:25,949
+"He called a seagull, gave it a bottle
+with an anemone filter
+
+42
+00:03:26,200 --> 00:03:28,430
+"and sent it looking for you.
+
+43
+00:03:28,720 --> 00:03:31,154
+"And that's how I got you back.
+
+44
+00:03:31,440 --> 00:03:34,000
+"Now we'll never be apart again,
+said the boy.
+
+45
+00:03:34,640 --> 00:03:37,677
+"Now you'll be strong as an octopus,
+said the octopus.
+
+46
+00:03:38,040 --> 00:03:41,749
+"Now you'll be wise as a crab,
+said the crab.
+
+47
+00:03:42,000 --> 00:03:45,072
+"Now you'll be happy as a fish,
+said the fish.
+
+48
+00:03:45,520 --> 00:03:48,557
+"Now your land is the sea,
+said the Girl of the Sea.
+
+49
+00:03:48,800 --> 00:03:52,110
+"And all five of them went through
+forests, sands and caves.
+
+50
+00:03:52,560 --> 00:03:53,709
+"The following day,
+
+51
+00:03:53,960 --> 00:03:55,951
+"there was another party
+at the palace of the King of the Sea.
+
+52
+00:03:56,120 --> 00:03:57,917
+"The Girl of the Sea
+danced all night long.
+
+53
+00:03:58,120 --> 00:04:01,715
+"And the whales, the sharks,
+the turtles and all the fishes
+
+54
+00:04:01,880 --> 00:04:05,077
+"were saying: we've never seen
+such perfect dancing.
+
+55
+00:04:05,280 --> 00:04:08,670
+"And the King of the Sea
+sat on his nacre throne,
+
+56
+00:04:08,920 --> 00:04:14,870
+"surrounded by sea-horses, and his
+purple robe floated on the waters".
+
+57
+00:04:16,960 --> 00:04:18,518
+Did you like it, Xavier?
+
+58
+00:04:19,080 --> 00:04:21,674
+Yes, but you could have
+used a more natural voice.
+
+59
+00:04:21,880 --> 00:04:23,518
+A more natural voice?
+How would that be?
+
+60
+00:04:24,320 --> 00:04:26,675
+A natural tone.
+
+61
+00:04:27,560 --> 00:04:29,152
+- It's not yours!
+- It's not mine?!
+
+62
+00:04:40,720 --> 00:04:44,633
+"The earliest thing I remember
+is a bedroom facing the sea,
+
+63
+00:04:44,880 --> 00:04:50,113
+"inside of which, on top of a table,
+there was an enormous red apple.
+
+64
+00:04:51,040 --> 00:04:53,600
+"From the shimmering of the sea
+and from the redness of the apple
+
+65
+00:04:53,760 --> 00:04:57,992
+"there arose an irrefragable,
+naked and unbroken bliss.
+
+66
+00:04:58,840 --> 00:05:02,515
+"lt was not at all fantastic,
+it was not at all imaginary:
+
+67
+00:05:03,360 --> 00:05:06,432
+" it was the very presence
+of the real I was discovering.
+
+68
+00:05:06,800 --> 00:05:09,234
+" Later the work of other artists
+
+69
+00:05:09,480 --> 00:05:12,597
+"would confirm the objectivity
+of my own gaze.
+
+70
+00:05:12,800 --> 00:05:16,429
+" In Homer I recognised
+the same naked and unbroken bliss,
+
+71
+00:05:16,600 --> 00:05:19,319
+"that splendour
+of the presence of things.
+
+72
+00:05:19,680 --> 00:05:24,435
+"And I also recognised it, intense,
+alert and ablaze
+
+73
+00:05:24,840 --> 00:05:27,354
+"in the painting
+of Amadeu de Souza-Cardoso.
+
+74
+00:05:27,920 --> 00:05:30,753
+"To say that the work of art
+is part of culture
+
+75
+00:05:31,000 --> 00:05:34,356
+"is rather scholarly and artificial.
+
+76
+00:05:34,600 --> 00:05:36,875
+"The work of art is part of the real
+
+77
+00:05:37,120 --> 00:05:41,477
+"and it is destiny, fulfilment,
+salvation and life.
+
+78
+00:05:50,320 --> 00:05:54,233
+He Who seeks a just relation
+With the stone, With the tree,
+
+79
+00:05:54,880 --> 00:05:58,077
+With the river,
+is necessarily led
+
+80
+00:05:58,360 --> 00:06:01,079
+by the spirit of truth
+that inspires him
+
+81
+00:06:01,240 --> 00:06:04,118
+to seek a just relation
+With Man.
+
+82
+00:06:04,480 --> 00:06:08,109
+He Who seeks the amazing
+splendour of the World is,
+
+83
+00:06:08,360 --> 00:06:12,831
+by force of logic, led to see
+the amazing suffering of the World.
+
+84
+00:06:13,480 --> 00:06:17,075
+He Who sees a phenomenon Wishes
+to see the Whole phenomenon.
+
+85
+00:06:17,560 --> 00:06:22,588
+It is simply a matter of attention,
+sequence and rigour.
+
+86
+00:06:23,960 --> 00:06:26,952
+And that's Why
+poetry is a moral act.
+
+87
+00:06:27,640 --> 00:06:31,189
+And that is Why the poet is driven
+to search for justice
+
+88
+00:06:31,360 --> 00:06:34,272
+through the very nature
+of his poetry.
+
+89
+00:06:34,520 --> 00:06:37,796
+Like Antigone,
+the poet of our time says:
+
+90
+00:06:38,120 --> 00:06:41,908
+I'm the one Who did not learn
+to yield to disasters.
+
+91
+00:06:43,200 --> 00:06:46,590
+Even While speaking merely
+of stones and breezes,
+
+92
+00:06:46,840 --> 00:06:49,957
+the Work of the artist
+Will alWays tell us this:
+
+93
+00:06:50,440 --> 00:06:52,874
+That We are not merely animals
+
+94
+00:06:53,080 --> 00:06:56,152
+sharpened by the struggle
+for survival,
+
+95
+00:06:56,400 --> 00:06:59,517
+but that We are rather,
+by natural right,
+
+96
+00:06:59,720 --> 00:07:03,872
+heirs to the freedom
+and dignity of beeing.
+
+97
+00:07:41,800 --> 00:07:45,395
+Oh Sophia, if I were
+to look back on my life,
+
+98
+00:07:45,520 --> 00:07:49,638
+in the end, the assessment I would
+make is precisely the one
+
+99
+00:07:49,960 --> 00:07:54,238
+I have made many years ago when
+I wrote The Coral, which is this:
+
+100
+00:07:54,560 --> 00:07:57,120
+I believe in the nudity of my life.
+
+101
+00:07:58,480 --> 00:08:03,110
+I don't believe in biography,
+which is life told by others.
+
+102
+00:08:04,040 --> 00:08:06,474
+In the end, all there is,
+the only biography I have
+
+103
+00:08:06,680 --> 00:08:08,591
+is the one in my poetry.
+
+104
+00:08:09,280 --> 00:08:14,638
+And, essentially, what I have sought
+was that sense of nudity,
+
+105
+00:08:15,000 --> 00:08:17,639
+to put oneself
+in the face of each thing,
+
+106
+00:08:17,800 --> 00:08:20,109
+as if it had never been seen
+
+107
+00:08:20,320 --> 00:08:22,834
+and start looking
+from the first moment
+
+108
+00:08:23,440 --> 00:08:27,433
+as if it was the first day
+of the world,
+
+109
+00:08:28,560 --> 00:08:33,111
+and, in essence, when I say
+" I believe in the nudity of my life"
+
+110
+00:08:33,680 --> 00:08:35,318
+it's the same thing...
+
+111
+00:08:36,960 --> 00:08:40,236
+Oh I can't stand it, Xavier,
+I can't, I can't, absolutely not!
+
+112
+00:08:43,520 --> 00:08:44,953
+Xavier, why all this?!
+
+113
+00:08:48,120 --> 00:08:52,796
+These people, Whose face is
+at times luminous
+
+114
+00:08:53,040 --> 00:08:55,076
+and at times rough
+
+115
+00:08:55,360 --> 00:08:59,478
+here reminding me of slaves
+there reminding me of kings,
+
+116
+00:08:59,800 --> 00:09:04,237
+rekindles my taste
+for fighting and fraying
+
+117
+00:09:04,840 --> 00:09:08,355
+'gainst the vulture and the snake,
+the pig and the fork-tailed kite
+
+118
+00:09:09,280 --> 00:09:14,877
+For the people Whose face is
+chiselled by patience and hunger
+
+119
+00:09:15,200 --> 00:09:17,156
+are the very people on Whom
+
+120
+00:09:17,400 --> 00:09:20,836
+an occupied country
+Writes its name
+
+121
+00:09:21,560 --> 00:09:25,838
+In the face of these people,
+ever ignored and tramped on
+
+122
+00:09:26,160 --> 00:09:29,630
+Iike the stone on the ground
+and, further than the stone,
+
+123
+00:09:29,880 --> 00:09:31,791
+humiliated and crumpled,
+
+124
+00:09:32,240 --> 00:09:36,392
+my chant reaWakens
+and I resume the search
+
+125
+00:09:36,840 --> 00:09:40,674
+for a liberated country,
+a pure life
+
+126
+00:09:40,920 --> 00:09:42,797
+and fair times
+
+127
+00:12:03,080 --> 00:12:05,548
+I'm not at all a nostalgic person.
+
+128
+00:12:08,360 --> 00:12:11,830
+For me, things,
+the things I care about,
+
+129
+00:12:12,320 --> 00:12:15,869
+are those things that are still
+actual, that are still alive,
+
+130
+00:12:16,240 --> 00:12:17,719
+that are still active.
+
+131
+00:12:17,920 --> 00:12:20,514
+If they ceased to be active it is
+because they have ceased to exist,
+
+132
+00:12:20,680 --> 00:12:22,238
+it is because
+they did not truly exist.
+
+133
+00:12:22,480 --> 00:12:28,635
+I deeply believe that we choose
+eternity while in this world,
+
+134
+00:12:31,840 --> 00:12:34,752
+that is, it is here and now
+that we build and create eternity.
+
+135
+00:12:34,920 --> 00:12:37,832
+And that which we will find later
+is that which
+
+136
+00:12:38,080 --> 00:12:40,036
+we were capable
+of finding here and now.
+
+137
+00:12:40,200 --> 00:12:43,954
+If we have not found it here, then
+we will not be able to find it later.
+
+138
+00:13:05,400 --> 00:13:07,789
+It makes no sense to talk about
+lsadora Duncan,
+
+139
+00:13:08,040 --> 00:13:11,316
+because nobody can understand
+the kind of relationship that existed
+
+140
+00:13:11,560 --> 00:13:13,437
+betWeen her and my mother
+from an early stage.
+
+141
+00:13:13,640 --> 00:13:16,029
+Even if they did,
+it's not their business,
+
+142
+00:13:16,200 --> 00:13:18,919
+because the truth about a person
+is not a spectacle
+
+143
+00:13:19,080 --> 00:13:21,640
+and the public is here
+to be entertained.
+
+144
+00:13:21,880 --> 00:13:24,269
+Someone, do you recall
+Who it Was that said
+
+145
+00:13:24,480 --> 00:13:27,995
+that first you have to decide
+according to oWn mind
+
+146
+00:13:28,200 --> 00:13:29,679
+and your oWn taste
+
+147
+00:13:29,840 --> 00:13:33,719
+and afterwards have the time and the
+courage to express all your thoughts
+
+148
+00:13:33,920 --> 00:13:36,150
+With regard to the chosen subject.
+
+149
+00:13:36,320 --> 00:13:38,914
+So, one must say everything
+in simple Way,
+
+150
+00:13:39,120 --> 00:13:42,954
+setting as one's goal not seductions
+but rather convictions.
+
+151
+00:14:59,920 --> 00:15:03,959
+All my life I recall seeing my mother
+dancing when we were little.
+
+152
+00:15:04,240 --> 00:15:06,276
+All the time my mother would dance
+
+153
+00:15:06,480 --> 00:15:09,040
+and put flowers on her head
+and do dance-steps,
+
+154
+00:15:09,680 --> 00:15:12,478
+while speaking to herself
+as she walked down the corridors.
+
+155
+00:15:15,760 --> 00:15:19,719
+One of the funniest things
+when we were kids
+
+156
+00:15:20,120 --> 00:15:23,271
+was that mother sometimes called us
+and said she was going to make a film
+
+157
+00:15:23,600 --> 00:15:27,513
+and using the living-room
+or bedroom lamp
+
+158
+00:15:27,840 --> 00:15:32,356
+she made animals appear
+on the walls, huge shadows.
+
+159
+00:15:32,560 --> 00:15:36,235
+This is a rabbit, this is a wolf,
+this is an animal,
+
+160
+00:15:38,600 --> 00:15:41,751
+and she would make up stories
+in forests
+
+161
+00:15:41,960 --> 00:15:44,918
+through those animals that
+she cast on the walls.
+
+162
+00:16:10,080 --> 00:16:13,356
+When I die I Will return to reclaim.
+

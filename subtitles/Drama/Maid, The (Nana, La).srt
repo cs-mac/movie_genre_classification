@@ -1,0 +1,479 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main-Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Background Messy Scroll Text,Open Sans Semibold,21,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,8,28,44,27,1
+Style: Eyecatch,Open Sans Semibold,30,&H00000000,&H000000FF,&H009EDCAF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,2,23,20,207,1
+Style: Next Episode,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,2,335,343,271,1
+Style: sign_5873_24_Miss_Kobayashi,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H000B8E40,&H00757583,1,0,0,0,100,100,0,0,1,2,1,2,325,331,87,1
+Style: sign_4280_35_Georgie,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H001282B7,&H00757583,1,0,0,0,100,100,0,0,1,2,1,2,369,380,91,1
+Style: sign_8436_101_Riko_,Open Sans Semibold,36,&H00C1FBFF,&H000000FF,&H001F56B1,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,397,376,221,1
+Style: sign_14921_196_Ex_Goddess,Open Sans Semibold,36,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,489,180,392,1
+Style: sign_14958_197_Feathered__Serpe,Open Sans Semibold,36,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,192,496,395,1
+Style: sign_15002_198_Venusian,Open Sans Semibold,36,&H003B7FDB,&H000000FF,&H000DFFFD,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,349,357,423,1
+Style: sign_15331_202_Magatsuchi_Shout,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H006C8E0B,&H00757583,1,0,0,0,100,100,0,0,1,2,1,2,309,296,111,1
+Style: sign_20162_269_Useless,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,132,604,396,1
+Style: sign_21332_290_From_Mama,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,267,27,187,1
+Style: sign_21332_287_To_Shouta,Open Sans Semibold,21,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,7,573,27,133,1
+Style: sign_21332_288_Welcome_home_,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,601,36,332,1
+Style: sign_21332_289_I_ll_be_home_aft,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,531,0,248,1
+Style: sign_22538_308_Episode_6,Open Sans Semibold,30,&H00000000,&H000000FF,&H009EDCAF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,2,361,364,355,1
+Style: sign_22538_309_Home_Visit___And,Open Sans Semibold,30,&H00000000,&H000000FF,&H009EDCAF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,2,187,184,284,1
+Style: sign_26816_374_Hades_7__Huh__Oo,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,89,105,99,1
+Style: sign_26894_377_Ooyama_Takeshi__,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,81,89,168,1
+Style: sign_26924_378_Ebony_Holy_Knigh,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,124,153,225,1
+Style: sign_26966_379_Crystalite__He_s,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,47,76,292,1
+Style: sign_27002_380_Crystalite__Hard,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,123,152,364,1
+Style: sign_27072_387_Ooyama_Takeshi__,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,77,131,91,1
+Style: sign_27108_388_Ooyama_Takeshi__,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,4,47,160,1
+Style: sign_27138_389_Nayuta_san__As_e,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,107,171,228,1
+Style: sign_27156_390_ChronosT__His_ro,Open Sans Semibold,33,&H00FBEABF,&H000000FF,&H007B4305,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,152,200,311,1
+Style: sign_33838_440_Water_Dragon_Shr,Open Sans Semibold,33,&H00FFDFA6,&H000000FF,&H008F1C07,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,235,304,169,1
+Style: sign_33951_442_Episode_7,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,2,364,361,288,1
+Style: sign_33951_443_Summer_s_Staples,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,0,0,1,2,0,2,81,73,232,1
+Style: sign_16230_215_MISSING,Open Sans Semibold,36,&H006117BE,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,419,309,407,1
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.32,0:00:09.14,Main,Saikawa,0000,0000,0000,,Hey, Kanna-san, Kanna-san.
+Dialogue: 0,0:00:09.14,0:00:11.52,Main,Saikawa,0000,0000,0000,,Want to come play at my place next time?
+Dialogue: 0,0:00:11.52,0:00:13.02,Main,Kanna,0000,0000,0000,,Your place?
+Dialogue: 0,0:00:14.32,0:00:15.28,Main,Kanna,0000,0000,0000,,Is it fun?
+Dialogue: 0,0:00:15.28,0:00:16.95,Main,S,0000,0000,0000,,It's fun!
+Dialogue: 0,0:00:16.95,0:00:18.95,Main,S,0000,0000,0000,,I have lots of games and snacks.
+Dialogue: 0,0:00:18.95,0:00:21.27,Main,S,0000,0000,0000,,Plus we have our own maid, too!
+Dialogue: 0,0:00:21.99,0:00:22.78,Main,Kanna,0000,0000,0000,,Maid?
+Dialogue: 0,0:00:22.78,0:00:25.49,Main,S,0000,0000,0000,,You could bring your maid with you, as well.
+Dialogue: 0,0:00:25.49,0:00:28.25,Main,S,0000,0000,0000,,You know, the one who \Njoined us for dodgeball.
+Dialogue: 0,0:00:28.25,0:00:32.00,Main,S,0000,0000,0000,,When I talked about that, \Nour maid said she'd love to meet her.
+Dialogue: 0,0:00:32.00,0:00:34.47,Main,S,0000,0000,0000,,She wants to have a chance \Nto discuss being a maid.
+Dialogue: 0,0:00:34.47,0:00:36.50,Main,S,0000,0000,0000,,So it's okay, right, Kanna-san?
+Dialogue: 0,0:00:36.50,0:00:37.76,Main,Kanna,0000,0000,0000,,All right.
+Dialogue: 0,0:02:13.98,0:02:15.35,Main,Tohru,0000,0000,0000,,This is the place?
+Dialogue: 0,0:02:15.35,0:02:19.61,Main,Tohru,0000,0000,0000,,The reckless person who dares \Nchallenge me as a maid lives here?
+Dialogue: 0,0:02:19.61,0:02:20.86,Main,Tohru,0000,0000,0000,,I'll crush her!
+Dialogue: 0,0:02:20.86,0:02:22.66,Main,K,0000,0000,0000,,Why am I here, too?
+Dialogue: 0,0:02:22.66,0:02:24.86,Main,Kanna,0000,0000,0000,,Because you know a lot about maids.
+Dialogue: 0,0:02:25.25,0:02:27.61,Main,S,0000,0000,0000,,Welcome! Welcome! Kanna-san!
+Dialogue: 0,0:02:27.61,0:02:31.12,Main,S,0000,0000,0000,,And your maid, and... Uh...
+Dialogue: 0,0:02:31.12,0:02:34.12,Main,Kanna,0000,0000,0000,,This is Kobayashi. She's my guardian.
+Dialogue: 0,0:02:34.53,0:02:36.88,Main,S,0000,0000,0000,,Oh, hello, Kanna-san's mother.
+Dialogue: 0,0:02:36.88,0:02:37.62,Italics,K,0000,0000,0000,,Moth—?!
+Dialogue: 0,0:02:37.62,0:02:40.08,Main,K,0000,0000,0000,,Do I look that old?
+Dialogue: 0,0:02:40.08,0:02:42.18,Main,T,0000,0000,0000,,Don't worry, Miss Kobayashi!
+Dialogue: 0,0:02:42.18,0:02:45.91,Main,T,0000,0000,0000,,Compared to me, \Nall humans are practically babies.
+Dialogue: 0,0:02:45.91,0:02:48.59,Main,Georgie,0000,0000,0000,,Young lady, I believe introductions are due.
+Dialogue: 0,0:02:48.59,0:02:50.12,Main,S,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:02:50.12,0:02:51.10,Main,S,0000,0000,0000,,Let me introduce you.
+Dialogue: 0,0:02:51.68,0:02:53.60,Main,S,0000,0000,0000,,This is our family's maid.
+Dialogue: 0,0:02:53.60,0:02:55.35,Main,Georgie,0000,0000,0000,,It's a pleasure to meet you.
+Dialogue: 0,0:02:56.35,0:02:59.36,Main-Top,Georgie,0000,0000,0000,,I am Georgie, and I serve\N this family as their maid.
+Dialogue: 0,0:02:58.49,0:03:00.36,sign_4280_35_Georgie,Screen,0000,0000,0000,,{\fad(563,1)}Georgie
+Dialogue: 0,0:03:00.79,0:03:05.31,Main,T,0000,0000,0000,,You don't seem to be dressed \Nlike much of a maid.
+Dialogue: 0,0:03:05.31,0:03:06.81,Main,T,0000,0000,0000,,There's no black and white, for a start.
+Dialogue: 0,0:03:06.81,0:03:11.20,Main,K,0000,0000,0000,,No, there actually isn't a set uniform \Nfor maids in the first place.
+Dialogue: 0,0:03:11.21,0:03:15.34,Main,K,0000,0000,0000,,As their role as servants grew larger \Nover a long period of history,
+Dialogue: 0,0:03:15.34,0:03:18.26,Main,K,0000,0000,0000,,their outfits evolved \Ninto what we know today.
+Dialogue: 0,0:03:18.26,0:03:19.25,Main,Georgie,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:19.78,0:03:22.53,Main,Georgie,0000,0000,0000,,This maid outfit is as one\Ncreated with a young girl's
+Dialogue: 0,0:03:22.53,0:03:24.50,Main,Georgie,0000,0000,0000,,wages after entering the service.
+Dialogue: 0,0:03:24.50,0:03:27.39,Main,Georgie,0000,0000,0000,,I'm humbled by your discerning eye.
+Dialogue: 0,0:03:27.39,0:03:28.38,Main,K,0000,0000,0000,,In other words...
+Dialogue: 0,0:03:28.38,0:03:29.88,Main,G,0000,0000,0000,,You and I are...
+Dialogue: 0,0:03:30.39,0:03:31.56,Main,Both,0000,0000,0000,,Comrades!
+Dialogue: 0,0:03:31.56,0:03:37.05,Main,T,0000,0000,0000,,Huh?! Miss Kobayashi, please don't \Nbe swayed by this strange maid!
+Dialogue: 0,0:03:37.42,0:03:39.60,Main,G,0000,0000,0000,,You must be Tohru-san.
+Dialogue: 0,0:03:39.60,0:03:41.81,Main,G,0000,0000,0000,,I've heard the rumors about \Nyou in the shopping district.
+Dialogue: 0,0:03:41.81,0:03:46.52,Main,G,0000,0000,0000,,I've wanted to discuss maids \Nwith you for a while.
+Dialogue: 0,0:03:46.52,0:03:47.53,Main,K,0000,0000,0000,,That's great!
+Dialogue: 0,0:03:48.73,0:03:49.91,Main,G,0000,0000,0000,,This way please!
+Dialogue: 0,0:03:49.91,0:03:51.16,Main,T,0000,0000,0000,,Huh?!
+Dialogue: 0,0:03:51.55,0:03:56.41,Italics,T,0000,0000,0000,,Oh, but this is the first time Miss Kobayashi's \Npulled me along so purposefully.
+Dialogue: 0,0:03:58.88,0:04:02.47,Main,S,0000,0000,0000,,Well, Kanna-san, do you want to play in my room?
+Dialogue: 0,0:04:08.36,0:04:10.96,Main,S,0000,0000,0000,,Wh-What should we play?
+Dialogue: 0,0:04:11.72,0:04:13.19,Main,Kanna,0000,0000,0000,,What's that?
+Dialogue: 0,0:04:13.19,0:04:16.79,Main,S,0000,0000,0000,,Oh, this is twister. For kids.
+Dialogue: 0,0:04:17.30,0:04:18.93,Main,Kanna,0000,0000,0000,,I want to try.
+Dialogue: 0,0:04:19.40,0:04:21.19,Main,S,0000,0000,0000,,Sure, let's give it a go.
+Dialogue: 0,0:04:22.22,0:04:24.45,Italics,Game,0000,0000,0000,,Player one, left hand, yellow.
+Dialogue: 0,0:04:24.45,0:04:27.95,Main,S,0000,0000,0000,,So you follow the directions and place \Nyour hands and feet on the proper colors.
+Dialogue: 0,0:04:28.27,0:04:30.38,Italics,Game,0000,0000,0000,,Player two, right hand, blue.
+Dialogue: 0,0:04:30.38,0:04:31.70,Main,S,0000,0000,0000,,Your turn, Kanna-san.
+Dialogue: 0,0:04:31.70,0:04:32.45,Main,Kanna,0000,0000,0000,,Mm.
+Dialogue: 0,0:04:33.57,0:04:35.81,Italics,Game,0000,0000,0000,,Player one, left foot, red.
+Dialogue: 0,0:04:35.81,0:04:37.95,Main,S,0000,0000,0000,,Oh, o-okay, red.
+Dialogue: 0,0:04:38.34,0:04:40.67,Italics,Game,0000,0000,0000,,Player two, right hand, blue.
+Dialogue: 0,0:04:40.67,0:04:41.45,Main,Kanna,0000,0000,0000,,Blue.
+Dialogue: 0,0:04:41.96,0:04:43.29,Italics,Game,0000,0000,0000,,Right foot, red.
+Dialogue: 0,0:04:43.29,0:04:44.34,Main,,0000,0000,0000,,Red.
+Dialogue: 0,0:04:45.37,0:04:46.60,Italics,Game,0000,0000,0000,,Left foot, green
+Dialogue: 0,0:04:46.60,0:04:47.67,Main,Kanna,0000,0000,0000,,Green.
+Dialogue: 0,0:04:47.67,0:04:50.32,Italics,S,0000,0000,0000,,Ah, K-Kanna-san's so...
+Dialogue: 0,0:04:50.32,0:04:51.89,Italics,S,0000,0000,0000,,soft!
+Dialogue: 0,0:04:54.32,0:04:56.02,Main,Kanna,0000,0000,0000,,I want to play a video game.
+Dialogue: 0,0:04:56.67,0:04:59.32,Main,S,0000,0000,0000,,I-I have plenty of video games.
+Dialogue: 0,0:04:59.32,0:05:00.71,Main,Kanna,0000,0000,0000,,A fun one.
+Dialogue: 0,0:05:00.71,0:05:02.64,Main,S,0000,0000,0000,,A fun one, huh?
+Dialogue: 0,0:05:04.79,0:05:06.40,Main,K,0000,0000,0000,,What a nice smell.
+Dialogue: 0,0:05:06.40,0:05:08.23,Main,K,0000,0000,0000,,Is it first flush?
+Dialogue: 0,0:05:08.62,0:05:10.12,Main,Georgie,0000,0000,0000,,Impressive.
+Dialogue: 0,0:05:10.12,0:05:13.38,Main,Georgie,0000,0000,0000,,I did manage to acquire some \Nfirst flush Darjeeling.
+Dialogue: 0,0:05:13.38,0:05:16.87,Main,T,0000,0000,0000,,Oh! I know about that! \NIt's a good, fresh tea, right?
+Dialogue: 0,0:05:17.88,0:05:19.33,Main,T,0000,0000,0000,,I know that much!
+Dialogue: 0,0:05:19.33,0:05:22.04,Main,K,0000,0000,0000,,Oh, this is an antique cup!
+Dialogue: 0,0:05:22.46,0:05:24.30,Main,K,0000,0000,0000,,Is it from the Victorian era?
+Dialogue: 0,0:05:24.65,0:05:27.22,Main,Georgie,0000,0000,0000,,Yes, I picked it up from a flea market.
+Dialogue: 0,0:05:27.22,0:05:30.02,Main,K,0000,0000,0000,,Georgie-san, what led you to like maids?
+Dialogue: 0,0:05:30.02,0:05:31.80,Main,G,0000,0000,0000,,At first it was a picture book.
+Dialogue: 0,0:05:31.80,0:05:33.75,Main,G,0000,0000,0000,,It was a story of a young \Nlady becoming a maid...
+Dialogue: 0,0:05:33.75,0:05:35.45,Main,K,0000,0000,0000,,I read that, too!
+Dialogue: 0,0:05:35.45,0:05:37.06,Main,G,0000,0000,0000,,You, too, Kobayashi-san?
+Dialogue: 0,0:05:37.06,0:05:40.02,Main,K,0000,0000,0000,,They were professionals \Nentrusted with the house!
+Dialogue: 0,0:05:40.02,0:05:43.77,Main,G,0000,0000,0000,,Their pride and dignified \Nfigures moved my heart!
+Dialogue: 0,0:05:43.77,0:05:45.59,Main,K,0000,0000,0000,,Changing clothes between \Nmorning and afternoon...
+Dialogue: 0,0:05:45.59,0:05:49.69,Main,G,0000,0000,0000,,Always paying attention to their \Nappearance even when busy with work!
+Dialogue: 0,0:05:49.69,0:05:51.82,Main,K,0000,0000,0000,,Their beautiful deportment!
+Dialogue: 0,0:05:51.82,0:05:53.53,Main,S,0000,0000,0000,,How about this game?
+Dialogue: 0,0:05:51.82,0:05:54.06,sign_8436_101_Riko_,S,0000,0000,0000,,Riko
+Dialogue: 0,0:05:53.53,0:05:54.07,Main,Kanna,0000,0000,0000,,Mm.
+Dialogue: 0,0:05:54.65,0:05:55.67,Main,S,0000,0000,0000,,Okay.
+Dialogue: 0,0:05:57.19,0:05:58.10,Main,S,0000,0000,0000,,Here.
+Dialogue: 0,0:05:58.10,0:05:59.34,Main,Kanna,0000,0000,0000,,Sit there.
+Dialogue: 0,0:05:59.34,0:06:01.64,Main,S,0000,0000,0000,,Huh? Oh, sure.
+Dialogue: 0,0:06:02.21,0:06:03.38,Main,S,0000,0000,0000,,Here, right?
+Dialogue: 0,0:06:03.38,0:06:04.13,Main,S,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:04.13,0:06:05.21,Main,S,0000,0000,0000,,Wait, huh?
+Dialogue: 0,0:06:06.32,0:06:08.71,Main,Kanna,0000,0000,0000,,This spot's most comfortable.
+Dialogue: 0,0:06:10.87,0:06:13.30,Main,S,0000,0000,0000,,I-I-I'm so happy!
+Dialogue: 0,0:06:13.30,0:06:14.59,Main,Kanna,0000,0000,0000,,Saikawa, that's too tight.
+Dialogue: 0,0:06:14.59,0:06:17.67,Main,S,0000,0000,0000,,Oh, I'm sorry. I couldn't help it...
+Dialogue: 0,0:06:18.61,0:06:20.10,Main,Kanna,0000,0000,0000,,Hey, Saikawa.
+Dialogue: 0,0:06:20.45,0:06:21.09,Main,S,0000,0000,0000,,Yes?
+Dialogue: 0,0:06:21.49,0:06:24.69,Main,Kanna,0000,0000,0000,,Do you think I'm getting along \Nwith the kids in our class?
+Dialogue: 0,0:06:24.69,0:06:27.31,Main,S,0000,0000,0000,,Well, of course you are.
+Dialogue: 0,0:06:27.31,0:06:31.02,Main,S,0000,0000,0000,,You can do everything, \Nand everyone praises you.
+Dialogue: 0,0:06:31.02,0:06:33.44,Main,Kanna,0000,0000,0000,,It feels different to me though.
+Dialogue: 0,0:06:33.88,0:06:35.80,Main,Kanna,0000,0000,0000,,I can't explain it well,
+Dialogue: 0,0:06:35.80,0:06:39.45,Main,Kanna,0000,0000,0000,,but I want something like what \NKobayashi and Tohru share.
+Dialogue: 0,0:06:41.23,0:06:42.76,Main,S,0000,0000,0000,,Kanna-san...
+Dialogue: 0,0:06:42.76,0:06:45.46,Main,S,0000,0000,0000,,I like you a lot, Kanna-san.
+Dialogue: 0,0:06:45.46,0:06:47.77,Main,S,0000,0000,0000,,I want to be even closer to you.
+Dialogue: 0,0:06:47.77,0:06:50.46,Main,S,0000,0000,0000,,Frankly, I'd love to marry you.
+Dialogue: 0,0:06:51.76,0:06:52.67,Main,Kanna,0000,0000,0000,,Then...
+Dialogue: 0,0:06:53.43,0:06:56.30,Main,Kanna,0000,0000,0000,,Let's be even closer, okay?
+Dialogue: 0,0:06:56.30,0:06:59.80,Main,S,0000,0000,0000,,U-Uh, um, I need to prepare my heart.
+Dialogue: 0,0:07:00.15,0:07:01.01,Main,Kanna,0000,0000,0000,,Saikawa...
+Dialogue: 0,0:07:02.43,0:07:04.51,Main,Tohru,0000,0000,0000,,I can't take it!
+Dialogue: 0,0:07:04.51,0:07:05.66,Main,K,0000,0000,0000,,Don't run!
+Dialogue: 0,0:07:05.66,0:07:08.26,Main,Georgie,0000,0000,0000,,Join us in discussing maids!
+Dialogue: 0,0:07:09.16,0:07:10.90,Main,T,0000,0000,0000,,Save me, Kanna!
+Dialogue: 0,0:07:10.90,0:07:11.78,Main,Kanna,0000,0000,0000,,Mm.
+Dialogue: 0,0:07:11.78,0:07:12.64,Main,S,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:19.78,0:07:23.70,Main,K,0000,0000,0000,,So Georgie-san is Saikawa-san's \Nolder sister, huh?
+Dialogue: 0,0:07:23.70,0:07:27.52,Main,K,0000,0000,0000,,I guess she goes by the nickname Georgie \Nwhen disguising herself as a maid.
+Dialogue: 0,0:07:27.52,0:07:30.55,Main,T,0000,0000,0000,,So she wasn't a maid, but a maid fanatic.
+Dialogue: 0,0:07:32.74,0:07:34.30,Main,Saikawa,0000,0000,0000,,Back then...
+Dialogue: 0,0:07:34.30,0:07:38.48,Main,Saikawa,0000,0000,0000,,What was Kanna-san about to do to me?
+Dialogue: 0,0:07:41.64,0:07:43.03,Main,Kanna,0000,0000,0000,,I wanted to...
+Dialogue: 0,0:07:50.28,0:07:53.88,Main,K,0000,0000,0000,,Hmm, it's raining a lot.
+Dialogue: 0,0:07:54.42,0:07:55.52,Main,T,0000,0000,0000,,Understood!
+Dialogue: 0,0:07:56.78,0:07:58.28,Main,K,0000,0000,0000,,Wait, wait, wait!
+Dialogue: 0,0:08:03.32,0:08:06.83,Main,K,0000,0000,0000,,You decided to move from your world to ours?
+Dialogue: 0,0:08:06.83,0:08:08.10,Main,Lucoa,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:08.10,0:08:09.89,Main,K,0000,0000,0000,,Why would you do that?
+Dialogue: 0,0:08:09.89,0:08:13.29,Main,L,0000,0000,0000,,Lately I've been hanging \Nout with you more often,
+Dialogue: 0,0:08:13.29,0:08:15.55,Main,L,0000,0000,0000,,and being here's a little more convenient, y'know?
+Dialogue: 0,0:08:15.55,0:08:17.58,Main,L,0000,0000,0000,,Plus it's closer.
+Dialogue: 0,0:08:17.58,0:08:19.40,Main,K,0000,0000,0000,,Huh? To what?
+Dialogue: 0,0:08:19.40,0:08:23.48,Main,Lucoa,0000,0000,0000,,I'm living at someone else's house, \Njust like Tohru.
+Dialogue: 0,0:08:23.48,0:08:26.00,Main,Lucoa,0000,0000,0000,,Do you mind if I keep stopping by?
+Dialogue: 0,0:08:26.00,0:08:28.64,Main,K,0000,0000,0000,,I don't mind, but are you sure?
+Dialogue: 0,0:08:28.64,0:08:30.73,Main,L,0000,0000,0000,,Yeah. I want to clear up \Nthe misunderstanding, too.
+Dialogue: 0,0:08:30.73,0:08:31.73,Main,K,0000,0000,0000,,Misunderstanding?
+Dialogue: 0,0:08:31.73,0:08:37.41,Main,L,0000,0000,0000,,Actually, that's partly why I \Ndecided to live in this world...
+Dialogue: 0,0:08:38.02,0:08:42.86,Main,L,0000,0000,0000,,It happened one day while I \Nwas on my way home from here.
+Dialogue: 0,0:08:43.25,0:08:44.10,Main,L,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:44.10,0:08:46.31,Flashback,L,0000,0000,0000,,Is someone performing a ritual nearby?
+Dialogue: 0,0:08:46.31,0:08:48.31,Flashback,L,0000,0000,0000,,Hmm? A child?
+Dialogue: 0,0:08:51.66,0:08:53.25,Flashback,L,0000,0000,0000,,Guess I'll go see.
+Dialogue: 0,0:09:00.09,0:09:04.22,Main,T,0000,0000,0000,,You let yourself be summoned by a ritual \Nsome kid did because they were curious?
+Dialogue: 0,0:09:04.22,0:09:07.26,Main,T,0000,0000,0000,,And you agreed to be their servant?
+Dialogue: 0,0:09:07.26,0:09:08.70,Main,L,0000,0000,0000,,Well, what's wrong with that?
+Dialogue: 0,0:09:08.70,0:09:11.45,Main,L,0000,0000,0000,,It seems they're from a \Nfamily line of mages.
+Dialogue: 0,0:09:11.45,0:09:13.71,Main,L,0000,0000,0000,,They accepted me pretty easily.
+Dialogue: 0,0:09:13.71,0:09:16.63,Main,K,0000,0000,0000,,So the misunderstanding you \Nwant to clear up is...?
+Dialogue: 0,0:09:16.63,0:09:19.10,Main,L,0000,0000,0000,,They think I'm a demon.
+Dialogue: 0,0:09:19.10,0:09:23.12,Main,L,0000,0000,0000,,Do you think you could talk \Nsome sense into them?
+Dialogue: 0,0:09:23.12,0:09:25.12,Main,L,0000,0000,0000,,Ah, we're here.
+Dialogue: 0,0:09:25.62,0:09:27.61,Main,L,0000,0000,0000,,This is Shouta's house.
+Dialogue: 0,0:09:28.52,0:09:29.61,Main,L,0000,0000,0000,,Come on, come in.
+Dialogue: 0,0:09:29.61,0:09:31.07,Main,K,0000,0000,0000,,Huh? It's okay?
+Dialogue: 0,0:09:31.07,0:09:33.49,Main,L,0000,0000,0000,,No one's around at this hour.
+Dialogue: 0,0:09:33.49,0:09:37.64,Main,L,0000,0000,0000,,I'm using one of the rooms upstairs, \Nso we can relax in there.
+Dialogue: 0,0:09:37.64,0:09:41.58,Main,L,0000,0000,0000,,Tea's all I can offer you though.
+Dialogue: 0,0:09:41.58,0:09:42.36,Main,K,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:42.36,0:09:43.37,Main,L,0000,0000,0000,,What?
+Dialogue: 0,0:09:43.37,0:09:45.81,Main,K,0000,0000,0000,,First, there's something I'd like to ask.
+Dialogue: 0,0:09:45.81,0:09:46.83,Main,L,0000,0000,0000,,Hmm?
+Dialogue: 0,0:09:46.83,0:09:48.38,Main,K,0000,0000,0000,,What are you, Lucoa-san?
+Dialogue: 0,0:09:48.38,0:09:49.94,Main,L,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:09:49.94,0:09:54.39,Main,K,0000,0000,0000,,Well, I thought you were a \Ndragon like Tohru, but...
+Dialogue: 0,0:09:54.39,0:09:57.15,Main,Lucoa,0000,0000,0000,,Oh right, I didn't tell you.
+Dialogue: 0,0:09:57.70,0:10:02.66,Main,Lucoa,0000,0000,0000,,I guess I'm what you'd \Nclassify as an ex-goddess.
+Dialogue: 0,0:10:02.66,0:10:03.40,Main,K,0000,0000,0000,,Ex?
+Dialogue: 0,0:10:03.83,0:10:07.06,Main,Tohru,0000,0000,0000,,Her colleague served her cursed liquor, \Nand then while she was drunk—
+Dialogue: 0,0:10:07.99,0:10:10.65,Main,K,0000,0000,0000,,Oh, you mentioned that before.
+Dialogue: 0,0:10:10.65,0:10:13.61,Main,Tohru,0000,0000,0000,,Because of that, she was driven \Nfrom her seat as goddess.
+Dialogue: 0,0:10:13.61,0:10:15.12,Main,K,0000,0000,0000,,Then you might as well be a demon.
+Dialogue: 0,0:10:15.12,0:10:20.23,Main,L,0000,0000,0000,,Well, I'm still responsible for \Nspreading civilization far and wide,
+Dialogue: 0,0:10:20.23,0:10:22.31,Main,L,0000,0000,0000,,so it's hard to call myself a demon.
+Dialogue: 0,0:10:22.30,0:10:25.93,sign_14921_196_Ex_Goddess,Screen,0000,0000,0000,,Ex-Goddess
+Dialogue: 0,0:10:22.31,0:10:27.26,Main,L,0000,0000,0000,,Which is why I prefer "ex-goddess," \N"feathered serpent," or "Venusian."
+Dialogue: 0,0:10:23.85,0:10:25.93,sign_14958_197_Feathered__Serpe,Screen,0000,0000,0000,,Feathered\N Serpent
+Dialogue: 0,0:10:25.68,0:10:27.27,sign_15002_198_Venusian,Screen,0000,0000,0000,,Venusian
+Dialogue: 0,0:10:27.26,0:10:30.01,Main,K,0000,0000,0000,,How do you get Venusian?
+Dialogue: 0,0:10:31.09,0:10:33.27,Main,K,0000,0000,0000,,Oh, someone's home.
+Dialogue: 0,0:10:33.27,0:10:35.66,Main,Lucoa,0000,0000,0000,,Shouta, the one who summoned me.
+Dialogue: 0,0:10:38.79,0:10:41.46,Main-Top,T,0000,0000,0000,,He seems really fidgety.
+Dialogue: 0,0:10:39.41,0:10:44.87,sign_15331_202_Magatsuchi_Shout,Screen,0000,0000,0000,,Magatsuchi Shouta
+Dialogue: 0,0:10:41.46,0:10:44.21,Main-Top,L,0000,0000,0000,,He's always like that when I'm home.
+Dialogue: 0,0:10:44.21,0:10:49.33,Main-Top,K,0000,0000,0000,,Well, when he's with an older woman \Nwhose body is an agitator of lust...
+Dialogue: 0,0:10:49.33,0:10:56.20,Main,L,0000,0000,0000,,That's why I've tried sleeping with him and \Nbathing with him to make him less nervous,
+Dialogue: 0,0:10:56.20,0:10:58.19,Main,L,0000,0000,0000,,but none of it has worked.
+Dialogue: 0,0:11:02.39,0:11:03.64,Main,Shouta,0000,0000,0000,,She invited people here!
+Dialogue: 0,0:11:03.64,0:11:05.86,Main,L,0000,0000,0000,,Welcome home, Shouta!
+Dialogue: 0,0:11:05.86,0:11:09.04,Main,L,0000,0000,0000,,A-A familiar can't be acting on their own!
+Dialogue: 0,0:11:09.04,0:11:10.82,Main,L,0000,0000,0000,,Y-You demon!
+Dialogue: 0,0:11:10.82,0:11:13.39,Main,L,0000,0000,0000,,Are you planning to gather your \Nallies and take over our home?!
+Dialogue: 0,0:11:13.39,0:11:16.76,Main,K,0000,0000,0000,,Looks like he wants to appear strong.
+Dialogue: 0,0:11:16.76,0:11:18.64,Main,L,0000,0000,0000,,So cute, isn't he?
+Dialogue: 0,0:11:16.92,0:11:18.13,sign_16230_215_MISSING,L,0000,0000,0000,,Ba-dump
+Dialogue: 0,0:11:20.42,0:11:22.14,Main,L,0000,0000,0000,,Sorry, Shouta.
+Dialogue: 0,0:11:23.09,0:11:24.90,Main,Shouta,0000,0000,0000,,A-As long as you understand!
+Dialogue: 0,0:11:24.90,0:11:30.83,Main,L,0000,0000,0000,,I called these two here today to \Nhelp you properly understand me.
+Dialogue: 0,0:11:31.99,0:11:33.12,Main,Shouta,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:11:33.12,0:11:36.97,Main,L,0000,0000,0000,,I'm not actually a demon. I'm a dragon.
+Dialogue: 0,0:11:36.97,0:11:39.95,Main,Shouta,0000,0000,0000,,Huh? But I used a demon summoning circle...
+Dialogue: 0,0:11:39.97,0:11:41.51,Main,L,0000,0000,0000,,I thought it might be dangerous
+Dialogue: 0,0:11:41.51,0:11:45.10,Main,L,0000,0000,0000,,if a fiendish demon appeared\Nin that summoning circle,
+Dialogue: 0,0:11:45.10,0:11:47.14,Main,L,0000,0000,0000,,so I answered the call first.
+Dialogue: 0,0:11:47.14,0:11:49.15,Main,Shouta,0000,0000,0000,,N-No way...
+Dialogue: 0,0:11:49.15,0:11:52.06,Main,Shouta,0000,0000,0000,,But it can't be possible for me to \Nsummon a dragon with my magic power.
+Dialogue: 0,0:11:53.03,0:11:56.80,Main,Shouta,0000,0000,0000,,Y-You're just bluffing to make yourself \Nseem more powerful, aren't you?!
+Dialogue: 0,0:11:56.80,0:11:58.52,Main,Shouta,0000,0000,0000,,You won't fool me, demon!
+Dialogue: 0,0:11:59.15,0:12:02.18,Main,L,0000,0000,0000,,You see? It's like this every time.
+Dialogue: 0,0:12:02.18,0:12:03.11,Main,K,0000,0000,0000,,I see.
+Dialogue: 0,0:12:03.61,0:12:04.70,Main,Tohru,0000,0000,0000,,Shouta.
+Dialogue: 0,0:12:04.70,0:12:05.55,Main,Shouta,0000,0000,0000,,Yes?
+Dialogue: 0,0:12:05.55,0:12:09.86,Main,T,0000,0000,0000,,Apparently you're from a family of mages, \Nbut why did you perform that summoning ritual?
+Dialogue: 0,0:12:10.67,0:12:15.95,Main,Shouta,0000,0000,0000,,W-Well... Because I wanted to be \Naccepted as a full-fledged mage.
+Dialogue: 0,0:12:17.25,0:12:24.78,Main,Shouta,0000,0000,0000,,In this world mages are living quiet lives, \Nbut one day we'll return to our original world.
+Dialogue: 0,0:12:24.78,0:12:26.88,Main,Shouta,0000,0000,0000,,My father's maintained our power
+Dialogue: 0,0:12:26.88,0:12:30.45,Main,Shouta,0000,0000,0000,,for the sake of that day,\Nand worked hard to pass it down to me.
+Dialogue: 0,0:12:30.45,0:12:32.66,Main,Shouta,0000,0000,0000,,So I want to hurry up and...
+Dialogue: 0,0:12:32.66,0:12:38.85,Main,K,0000,0000,0000,,Hmm, so you summoned Lucoa-san in \Norder to prove your own power?
+Dialogue: 0,0:12:38.85,0:12:41.92,Main,K,0000,0000,0000,,I kind of feel bad for Lucoa-san then.
+Dialogue: 0,0:12:43.70,0:12:45.56,Main,Shouta,0000,0000,0000,,Now that you mention it...
+Dialogue: 0,0:12:46.12,0:12:47.66,Main,K,0000,0000,0000,,Even if she were a demon,
+Dialogue: 0,0:12:47.66,0:12:50.87,Main,K,0000,0000,0000,,it would cause trouble for her to \Nbe summoned when she wasn't needed.
+Dialogue: 0,0:12:50.87,0:12:52.58,Main,K,0000,0000,0000,,Even after summoning her,
+Dialogue: 0,0:12:52.58,0:12:54.12,Main,K,0000,0000,0000,,you can't take her with \Nyou to elementary school,
+Dialogue: 0,0:12:54.12,0:12:55.54,Main,K,0000,0000,0000,,so there's no point in her \Nstaying in this home.
+Dialogue: 0,0:12:55.54,0:12:58.02,Main,Shouta,0000,0000,0000,,Everything you say is right.
+Dialogue: 0,0:12:58.02,0:12:58.91,Main,L,0000,0000,0000,,Hey...
+Dialogue: 0,0:12:58.91,0:13:00.83,Main,Shouta,0000,0000,0000,,Well, Lucoa, I'm sorry.
+Dialogue: 0,0:13:00.83,0:13:03.08,Italics,L,0000,0000,0000,,Isn't this implying I should leave?
+Dialogue: 0,0:13:03.08,0:13:06.47,Main,L,0000,0000,0000,,No, I don't want to go home!
+Dialogue: 0,0:13:06.47,0:13:07.55,Main,Shouta,0000,0000,0000,,You don't?
+Dialogue: 0,0:13:08.03,0:13:11.37,Main,T,0000,0000,0000,,But you can't just stay \Nhere doing nothing, right?
+Dialogue: 0,0:13:11.37,0:13:16.13,Main,T,0000,0000,0000,,Even I'm working as a splendid \Nmaid to help Miss Kobayashi.
+Dialogue: 0,0:13:16.13,0:13:17.63,Main,K,0000,0000,0000,,Huh? You are?
+Dialogue: 0,0:13:17.63,0:13:18.94,Main,T,0000,0000,0000,,That's mean!
+Dialogue: 0,0:13:18.94,0:13:22.10,Main,Shouta,0000,0000,0000,,My mother handles all the housework.
+Dialogue: 0,0:13:23.10,0:13:28.73,Main,L,0000,0000,0000,,In other words, you're saying I need to do \Nsomething for Shouta in order to stay here?
+Dialogue: 0,0:13:29.28,0:13:32.23,Main,L,0000,0000,0000,,How about more gold than you can ever use?
+Dialogue: 0,0:13:32.23,0:13:35.24,Main,Shouta,0000,0000,0000,,Don't need it, because Father can use alchemy.
+Dialogue: 0,0:13:35.24,0:13:38.24,Main,L,0000,0000,0000,,I could teach you agricultural technology?
+Dialogue: 0,0:13:38.24,0:13:40.49,Main,Shouta,0000,0000,0000,,I don't want to be a farmer.
+Dialogue: 0,0:13:40.49,0:13:43.62,Main,L,0000,0000,0000,,How about strong charisma?
+Dialogue: 0,0:13:43.62,0:13:46.38,Main,Shouta,0000,0000,0000,,That would just cause more \Nproblems if I had it now.
+Dialogue: 0,0:13:46.38,0:13:49.39,Main,L,0000,0000,0000,,Then how about vast magical power?
+Dialogue: 0,0:13:49.39,0:13:52.13,Main,Shouta,0000,0000,0000,,Hmm, that's kind of appealing.
+Dialogue: 0,0:13:52.13,0:13:54.10,Main,L,0000,0000,0000,,Then it's settled.
+Dialogue: 0,0:13:54.10,0:13:55.26,Main,Shouta,0000,0000,0000,,But I don't need it.
+Dialogue: 0,0:13:55.26,0:13:56.52,Main,L,0000,0000,0000,,Huh? Why not?
+Dialogue: 0,0:13:56.52,0:14:00.89,Main,Shouta,0000,0000,0000,,I don't think there's much point if you \Ndon't work hard to earn that for yourself.
+Dialogue: 0,0:14:00.89,0:14:02.89,Main,L,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:00.90,0:14:02.90,sign_20162_269_Useless,Screen,0000,0000,0000,,Useless
+Dialogue: 0,0:14:02.89,0:14:05.32,Main,K,0000,0000,0000,,Shouta-kun's level-headed.
+Dialogue: 0,0:14:05.32,0:14:07.86,Main,T,0000,0000,0000,,Miss Lucoa, I don't think \Nyou'll be much help to him.
+Dialogue: 0,0:14:08.30,0:14:11.45,Main,L,0000,0000,0000,,Then this is all I have left...
+Dialogue: 0,0:14:12.61,0:14:14.03,Main,L,0000,0000,0000,,My body.
+Dialogue: 0,0:14:14.53,0:14:17.29,Main,Shouta,0000,0000,0000,,You really are a demonic succubus!
+Dialogue: 0,0:14:17.29,0:14:19.01,Main,L,0000,0000,0000,,Huh? Huh?!
+Dialogue: 0,0:14:19.01,0:14:21.28,Main,T,0000,0000,0000,,You tied your own noose.
+Dialogue: 0,0:14:24.58,0:14:29.45,Main,K,0000,0000,0000,,Man, it's novel seeing \NLucoa-san getting flustered.
+Dialogue: 0,0:14:29.45,0:14:32.79,Main,T,0000,0000,0000,,At this rate she'll be treated \Nas a succubus for a while.
+Dialogue: 0,0:14:33.90,0:14:35.20,Main,K,0000,0000,0000,,By the way, Tohru.
+Dialogue: 0,0:14:35.20,0:14:35.85,Main,T,0000,0000,0000,,Yes, yes?
+Dialogue: 0,0:14:35.85,0:14:39.13,Main,K,0000,0000,0000,,I've noticed something really \Nbad about that house.
+Dialogue: 0,0:14:39.13,0:14:40.86,Main,T,0000,0000,0000,,Huh? What is it?
+Dialogue: 0,0:14:40.86,0:14:43.75,Main,T,0000,0000,0000,,From what I could see, \Nit was just an ordinary home.
+Dialogue: 0,0:14:44.20,0:14:46.18,Main,K,0000,0000,0000,,Well, Shouta-kun's father...
+Dialogue: 0,0:14:47.01,0:14:49.69,Main,K,0000,0000,0000,,I found out from the pictures of him, but...
+Dialogue: 0,0:14:49.70,0:14:52.20,sign_21332_287_To_Shouta,Note,0000,0000,0000,,To Shouta\NWelcome home!\NI'll be home after I hit \Nthe store, so wait for me!\NFrom Mama
+Dialogue: 0,0:14:50.10,0:14:52.19,Main,K,0000,0000,0000,,I think he's my company's director.
+Dialogue: 0,0:14:52.19,0:14:55.21,Main,T,0000,0000,0000,,Wow, small world!
+Dialogue: 0,0:14:57.25,0:14:58.20,Main,L,0000,0000,0000,,Shouta!
+Dialogue: 0,0:14:59.54,0:15:00.82,Main,S,0000,0000,0000,,Stay out!
+Dialogue: 0,0:15:00.82,0:15:04.55,Main,L,0000,0000,0000,,Come on, I'm not a demon. Look closer!
+Dialogue: 0,0:15:03.15,0:15:05.34,Main,Shouta,0000,0000,0000,,Go away, demon!
+Dialogue: 0,0:15:05.34,0:15:06.62,Main,L,0000,0000,0000,,You need to look!
+Dialogue: 0,0:15:06.62,0:15:07.84,Main,Shouta,0000,0000,0000,,Don't come near me!
+Dialogue: 0,0:15:14.20,0:15:16.46,Main,T,0000,0000,0000,,It's still pouring outside.
+Dialogue: 0,0:15:17.83,0:15:19.99,Main,T,0000,0000,0000,,Well, it is the rainy season.
+Dialogue: 0,0:15:20.49,0:15:22.10,Main,K,0000,0000,0000,,Let's hang this.
+Dialogue: 0,0:15:24.76,0:15:26.31,Main,T,0000,0000,0000,,What is that?
+Dialogue: 0,0:15:26.31,0:15:27.86,Main,,0000,0000,0000,,A teruterubouzu.
+Dialogue: 0,0:15:27.86,0:15:29.86,Main,Kanna,0000,0000,0000,,A teruterubouzu?
+Dialogue: 0,0:15:30.45,0:15:33.28,Main,T,0000,0000,0000,,Will something like that \Nreally make it clear up?
+Dialogue: 0,0:15:33.28,0:15:34.87,Main,K,0000,0000,0000,,Well, eventually.
+Dialogue: 0,0:15:40.00,0:15:42.00,sign_22538_308_Episode_6,K,0000,0000,0000,,Episode 6
+Dialogue: 0,0:15:40.00,0:15:42.00,sign_22538_309_Home_Visit___And,K,0000,0000,0000,,Home Visit! (And Homes Not Visited)
+Dialogue: 0,0:15:48.56,0:15:50.67,Main,Takiya,0000,0000,0000,,Well, Kobayashi-san, see you later.
+Dialogue: 0,0:15:50.67,0:15:52.30,Main,K,0000,0000,0000,,Thanks for today.
+Dialogue: 0,0:15:53.79,0:15:55.75,Main,K,0000,0000,0000,,Guess I should head home, too.
+Dialogue: 0,0:15:55.75,0:15:57.18,Main,K,0000,0000,0000,,I'm hungry anyway.
+Dialogue: 0,0:15:59.52,0:16:02.81,Main,T,0000,0000,0000,,Looks like you didn't work overtime today.
+Dialogue: 0,0:16:02.81,0:16:05.42,Main,T,0000,0000,0000,,I'm happy you came home early!
+Dialogue: 0,0:16:05.42,0:16:07.51,Main,K,0000,0000,0000,,I come home when I can.
+Dialogue: 0,0:16:07.51,0:16:09.39,Main,K,0000,0000,0000,,Takiya-kun went home at \Nthe regular time, too.
+Dialogue: 0,0:16:09.39,0:16:10.97,Main,T,0000,0000,0000,,Takiya...
+Dialogue: 0,0:16:10.97,0:16:15.63,Main,K,0000,0000,0000,,I wonder if Takiya-kun and Fafnir-san \Nare getting along well.
+Dialogue: 0,0:16:15.63,0:16:18.53,Main,T,0000,0000,0000,,Now that you mention it,\N I haven't seen him lately.
+Dialogue: 0,0:16:18.53,0:16:19.93,Main,Kanna,0000,0000,0000,,I saw him today.
+Dialogue: 0,0:16:19.93,0:16:21.38,Main,K,0000,0000,0000,,Huh? Where?
+Dialogue: 0,0:16:21.38,0:16:24.02,Main,Kanna,0000,0000,0000,,On the way home from school, in the park.
+Dialogue: 0,0:16:24.02,0:16:26.79,Main,Kanna,0000,0000,0000,,He was jumping in circles over and over,
+Dialogue: 0,0:16:26.79,0:16:28.30,Main,Kanna,0000,0000,0000,,mumbling something.
+Dialogue: 0,0:16:29.15,0:16:32.91,Main,T,0000,0000,0000,,That cursed dragon, \Nwhat on earth is he doing?
+Dialogue: 0,0:16:33.80,0:16:36.05,Main,K,0000,0000,0000,,What is he up to?
+Dialogue: 0,0:16:36.05,0:16:37.24,Main,Takiya,0000,0000,0000,,Kings!
+Dialogue: 0,0:16:37.24,0:16:37.67,Main,F,0000,0000,0000,,Rule.
+Dialogue: 0,0:16:37.67,0:16:38.43,Main,Taki,0000,0000,0000,,Citizens!
+Dialogue: 0,0:16:38.43,0:16:39.17,Main,F,0000,0000,0000,,Suck.
+Dialogue: 0,0:16:39.17,0:16:40.05,Main,T,0000,0000,0000,,Nyami-nyami.
+Dialogue: 0,0:16:40.05,0:16:41.12,Main,F,0000,0000,0000,,Rules.
+Dialogue: 0,0:16:41.12,0:16:42.67,Main,Both,0000,0000,0000,,Kaboom!
+Dialogue: 0,0:16:44.16,0:16:45.05,Main,Takiya,0000,0000,0000,,Nice!
+Dialogue: 0,0:16:45.05,0:16:47.26,Main,Takiya,0000,0000,0000,,You're doing great!
+Dialogue: 0,0:16:47.69,0:16:50.08,Main,Takiya,0000,0000,0000,,You've improved a whole lot, Faf-kun!
+Dialogue: 0,0:16:50.96,0:16:52.73,Main,F,0000,0000,0000,,Who's Faf-kun?
+Dialogue: 0,0:16:52.73,0:16:55.03,Main,Takiya,0000,0000,0000,,Oh, you don't like it?
+Dialogue: 0,0:16:55.03,0:16:56.82,Main,Takiya,0000,0000,0000,,My apologies then.
+Dialogue: 0,0:16:58.64,0:17:02.95,Main,Takiya,0000,0000,0000,,So, now you're all set for the call \Nand respond part of tomorrow's event!
+Dialogue: 0,0:17:02.95,0:17:06.29,Main,F,0000,0000,0000,,And I can obtain a limited edition \Nitem at that event, right?
+Dialogue: 0,0:17:06.29,0:17:07.61,Main,Takiya,0000,0000,0000,,That's right.
+Dialogue: 0,0:17:08.51,0:17:10.35,Main,Takiya,0000,0000,0000,,Today we're having curry.
+Dialogue: 0,0:17:10.35,0:17:11.70,Main,F,0000,0000,0000,,Mild?
+Dialogue: 0,0:17:11.70,0:17:12.91,Main,Takiya,0000,0000,0000,,That's right.
+Dialogue: 0,0:17:14.55,0:17:16.40,Main,Takiya,0000,0000,0000,,Thanks for the meal.
+Dialogue: 0,0:17:16.40,0:17:17.30,Main,Takiya,0000,0000,0000,,Now...
+Dialogue: 0,0:17:19.96,0:17:21.18,Main,F,0000,0000,0000,,I won't lose today.
+Dialogue: 0,0:17:22.20,0:17:23.53,Main,F,0000,0000,0000,,Damn traps!
+Dialogue: 0,0:17:23.53,0:17:25.37,Main,Takiya,0000,0000,0000,,What did you just hide?
+Dialogue: 0,0:17:25.37,0:17:27.28,Main,F,0000,0000,0000,,You idiot, you can't go that way!
+Dialogue: 0,0:17:27.28,0:17:28.89,Main,Takiya,0000,0000,0000,,Got the weapon!
+Dialogue: 0,0:17:29.35,0:17:31.32,Main,Fafnir,0000,0000,0000,,Urk, I fainted.
+Dialogue: 0,0:17:31.32,0:17:33.38,Main,Takiya,0000,0000,0000,,Victory's mine.
+Dialogue: 0,0:17:33.38,0:17:34.77,Main,F,0000,0000,0000,,I know.
+Dialogue: 0,0:17:36.80,0:17:38.28,Main,F,0000,0000,0000,,I won't lose next time.
+Dialogue: 0,0:17:38.28,0:17:40.20,Main,Takiya,0000,0000,0000,,Bring it on.
+Dialogue: 0,0:17:48.14,0:17:52.39,Main,Takiya,0000,0000,0000,,Fafnir-dono, there's a game I'd \Nlike you to try playing for a bit.
+Dialogue: 0,0:17:52.39,0:17:54.46,Main,F,0000,0000,0000,,The game you're selling at Comiket again?
+Dialogue: 0,0:17:54.90,0:17:56.83,Main,Takiya,0000,0000,0000,,That's right.
+Dialogue: 0,0:17:56.83,0:17:59.04,Main,Takiya,0000,0000,0000,,I'm at about the 80% mark.
+Dialogue: 0,0:17:59.04,0:17:59.90,Main,F,0000,0000,0000,,Where's that?
+Dialogue: 0,0:18:00.44,0:18:02.21,Main,Taki,0000,0000,0000,,About here.
+Dialogue: 0,0:18:09.27,0:18:11.50,Main,F,0000,0000,0000,,Can't you add anything to this part?
+Dialogue: 0,0:18:11.50,0:18:14.89,Main,Takiya,0000,0000,0000,,Ah, that part does need something, doesn't it?
+Dialogue: 0,0:18:20.90,0:18:25.02,Main,Takiya,0000,0000,0000,,Fafnir-dono, how many hours \Na day are you logged in?
+Dialogue: 0,0:18:25.02,0:18:27.29,Main,F,0000,0000,0000,,Roughly 21.
+Dialogue: 0,0:18:27.29,0:18:29.33,Main,Takiya,0000,0000,0000,,What level are you at right now?
+Dialogue: 0,0:18:29.33,0:18:30.91,Main,F,0000,0000,0000,,280.
+Dialogue: 0,0:18:30.91,0:18:33.97,Main,F,0000,0000,0000,,I've cleared all the limited \Ntime events, so I'm free now.
+Dialogue: 0,0:18:33.97,0:18:36.68,Main,Takiya,0000,0000,0000,,You're on the fast-track \Nto gaming addiction, huh?
+Dialogue: 0,0:18:38.43,0:18:39.93,sign_26816_374_Hades_7__Huh__Oo,Screen,0000,0000,0000,,Hades 7: Huh? Ooyama-san, you're on again?
+Dialogue: 0,0:18:41.43,0:18:41.68,sign_26816_374_Hades_7__Huh__Oo,Screen,0000,0000,0000,,Hades 7: Huh? Ooyama-san, you're on again?
+Dialogue: 0,0:18:41.68,0:18:42.93,sign_26816_374_Hades_7__Huh__Oo,,0000,0000,0000,,Hades 7: Huh? Ooyama-san, you're on again?\NOoyama Takeshi: Don't talk to me, I'll kill you.
+Dialogue: 0,0:18:42.93,0:18:44.68,sign_26816_374_Hades_7__Huh__Oo,,0000,0000,0000,,Hades 7: Huh? Ooyama-san, you're on again?\NOoyama Takeshi: Don't talk to me, I'll kill you.\NEbony Holy Knight: PK's impossible lolz
+Dialogue: 0,0:18:44.68,0:18:46.18,sign_26816_374_Hades_7__Huh__Oo,,0000,0000,0000,,Hades 7: Huh? Ooyama-san, you're on again?\NOoyama Takeshi: Don't talk to me, I'll kill you.\NEbony Holy Knight: PK's impossible lolz\NCrystalite: He's here almost all the time, isn't he?
+Dialogue: 0,0:18:46.18,0:18:47.56,sign_26816_374_Hades_7__Huh__Oo,,0000,0000,0000,,Hades 7: Huh? Ooyama-san, you're on again?\NOoyama Takeshi: Don't talk to me, I'll kill you.\NEbony Holy Knight: PK's impossible lolz\NCrystalite: He's here almost all the time, isn't he?\NCrystalite: Hard to believe he's human!
+Dialogue: 0,0:18:49.10,0:18:50.60,sign_27072_387_Ooyama_Takeshi__,,0000,0000,0000,,Ooyama Takeshi: I told you, I'm not human.
+Dialogue: 0,0:18:50.60,0:18:51.86,sign_27072_387_Ooyama_Takeshi__,,0000,0000,0000,,Ooyama Takeshi: I told you, I'm not human.\NOoyama Takeshi: Don't group me with the rest of you.
+Dialogue: 0,0:18:51.86,0:18:52.61,sign_27072_387_Ooyama_Takeshi__,,0000,0000,0000,,Ooyama Takeshi: I told you, I'm not human.\NOoyama Takeshi: Don't group me with the rest of you.\NNayuta-san: As expected, Ooyama-san!
+Dialogue: 0,0:18:52.61,0:18:53.44,sign_27072_387_Ooyama_Takeshi__,,0000,0000,0000,,Ooyama Takeshi: I told you, I'm not human.\NOoyama Takeshi: Don't group me with the rest of you.\NNayuta-san: As expected, Ooyama-san!\NChronosT: His roleplaying's crazy.
+Dialogue: 0,0:18:54.61,0:18:56.88,Main,Takiya,0000,0000,0000,,Oh, right, Fafnir-dono.
+Dialogue: 0,0:18:56.88,0:18:58.04,Main,F,0000,0000,0000,,What?
+Dialogue: 0,0:18:58.04,0:19:01.94,Main,Takiya,0000,0000,0000,,Today I bought some hair conditioner \Non my way home from work.
+Dialogue: 0,0:19:02.35,0:19:04.31,Main,F,0000,0000,0000,,And that will help with my hair?
+Dialogue: 0,0:19:04.31,0:19:05.69,Main,Takiya,0000,0000,0000,,Yes.
+Dialogue: 0,0:19:16.86,0:19:19.02,Main,Takiya,0000,0000,0000,,Another all-nighter today?
+Dialogue: 0,0:19:19.02,0:19:20.99,Main,Takiya,0000,0000,0000,,Well, I'm out.
+Dialogue: 0,0:19:20.99,0:19:23.67,Main,Takiya,0000,0000,0000,,Good night, Fafnir-dono.
+Dialogue: 0,0:19:28.55,0:19:31.73,Main,Takiya,0000,0000,0000,,Fafnir-dono, good morning.
+Dialogue: 0,0:19:32.45,0:19:34.64,Main,Takiya,0000,0000,0000,,This morning we have natto and rice.
+Dialogue: 0,0:19:34.64,0:19:36.10,Main,F,0000,0000,0000,,Mild?
+Dialogue: 0,0:19:36.10,0:19:37.15,Main,Takiya,0000,0000,0000,,This doesn't work that way.
+Dialogue: 0,0:19:43.52,0:19:47.40,Main,Kanna,0000,0000,0000,,Rain, rain, rain...
+Dialogue: 0,0:19:47.40,0:19:50.81,Main,T,0000,0000,0000,,Kanna's really happy about \Nher new umbrella, huh?
+Dialogue: 0,0:19:50.81,0:19:51.76,Main,K,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:55.12,0:19:56.53,Main,K,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:19:56.53,0:19:58.36,Main,T,0000,0000,0000,,Don't you know, Miss Kobayashi?
+Dialogue: 0,0:19:58.36,0:20:00.43,Main,T,0000,0000,0000,,It's called sharing a lover's umbrella.
+Dialogue: 0,0:20:00.43,0:20:02.63,Main,K,0000,0000,0000,,No, I know that.
+Dialogue: 0,0:20:02.63,0:20:04.67,Main,K,0000,0000,0000,,But you have your own umbrella, don't you?
+Dialogue: 0,0:20:05.02,0:20:06.47,Main,T,0000,0000,0000,,I prefer this.
+Dialogue: 0,0:20:17.98,0:20:18.78,Main,K,0000,0000,0000,,Oh.
+Dialogue: 0,0:20:20.99,0:20:23.16,Main,K,0000,0000,0000,,Looks like they're getting along well.
+Dialogue: 0,0:20:23.58,0:20:28.08,Main,T,0000,0000,0000,,I shouldn't say this after recommending them \Nfor each other, but Mr. Takiya's incredible.
+Dialogue: 0,0:20:28.08,0:20:31.10,Main,T,0000,0000,0000,,Being able to live with Mr. Fafnir.
+Dialogue: 0,0:20:34.27,0:20:36.95,Italics,Fafnir,0000,0000,0000,,Humans are either hits or misses.
+Dialogue: 0,0:20:37.45,0:20:41.51,Italics,Fafnir,0000,0000,0000,,The misses make themselves known quickly, \Nbut it takes time to know if you've found a hit.
+Dialogue: 0,0:20:41.96,0:20:46.00,Italics,Fafnir,0000,0000,0000,,And spending that much time on \Nevery person is bothersome.
+Dialogue: 0,0:20:46.77,0:20:48.68,Italics,Fafnir,0000,0000,0000,,As far as I'm concerned,
+Dialogue: 0,0:20:48.68,0:20:53.22,Italics,Fafnir,0000,0000,0000,,the misses that trespass on my home\Nto steal my treasure are better.
+Dialogue: 0,0:20:53.66,0:20:55.47,Main,Takiya,0000,0000,0000,,Sorry for the wait.
+Dialogue: 0,0:20:55.47,0:20:56.80,Italics,F,0000,0000,0000,,However...
+Dialogue: 0,0:20:56.80,0:21:00.43,Main,Takiya,0000,0000,0000,,I can't wait for the event, Faf-ku—ah!
+Dialogue: 0,0:21:01.01,0:21:01.90,Main,F,0000,0000,0000,,I don't mind.
+Dialogue: 0,0:21:01.90,0:21:02.64,Main,Takiya,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:02.64,0:21:04.44,Main,F,0000,0000,0000,,You're a hit.
+Dialogue: 0,0:21:04.82,0:21:05.65,Main,Takiya,0000,0000,0000,,Faf...
+Dialogue: 0,0:21:05.65,0:21:06.90,Main,F,0000,0000,0000,,Let's hurry.
+Dialogue: 0,0:21:06.90,0:21:09.47,Main,Takiya,0000,0000,0000,,Oh, yes!
+Dialogue: 0,0:21:24.26,0:21:27.17,Main,Tohru,0000,0000,0000,,The teruterubouzu aren't working at all.
+Dialogue: 0,0:21:27.17,0:21:30.18,Main,K,0000,0000,0000,,Yeah, it's still raining.
+Dialogue: 0,0:21:30.18,0:21:32.56,Main,Kanna,0000,0000,0000,,I love the rain.
+Dialogue: 0,0:21:40.65,0:21:41.91,Main,K,0000,0000,0000,,True.
+Dialogue: 0,0:21:43.05,0:21:44.62,Main,K,0000,0000,0000,,Rain's not so bad.
+Dialogue: 0,0:23:25.00,0:23:28.01,Next Episode,Screen,0000,0000,0000,,{\fad(1,181)}Next Episode
+Dialogue: 0,0:23:26.34,0:23:29.07,Main,Shouta,0000,0000,0000,,Lucoa, you're forbidden from \Napproaching me naked from now on!
+Dialogue: 0,0:23:29.07,0:23:30.29,Main,Shouta,0000,0000,0000,,That's an order!
+Dialogue: 0,0:23:30.29,0:23:34.63,Main,Lucoa,0000,0000,0000,,But my clothes are my scales, \Nso I'm always naked.
+Dialogue: 0,0:23:31.30,0:23:32.30,sign_33838_440_Water_Dragon_Shr,Books,0000,0000,0000,,Water Dragon Shrine
+Dialogue: 0,0:23:34.63,0:23:36.82,Main,Shouta,0000,0000,0000,,G-Get away from me you pervert!
+Dialogue: 0,0:23:36.02,0:23:40.01,sign_33951_442_Episode_7,Screen,0000,0000,0000,,{\fad(276,1)}Episode 7
+Dialogue: 0,0:23:36.02,0:23:40.01,sign_33951_443_Summer_s_Staples,Screen,0000,0000,0000,,{\fad(276,1)}Summer's Staples! (The Fanservice Episode, Frankly)

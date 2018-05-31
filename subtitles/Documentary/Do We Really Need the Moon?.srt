@@ -1,0 +1,368 @@
+0
+00:00:01,456 --> 00:00:01,601
+<font color="#ff0000"><font color="#00ff00">S</font>ubtitle Created By : MUBDEE AL SADIK </font>
+
+1
+00:00:01,602 --> 00:00:01,747
+<font color="#ff0000"><font color="#00ff00">Su</font>btitle Created By : MUBDEE AL SADIK </font>
+
+2
+00:00:01,748 --> 00:00:01,893
+<font color="#ff0000"><font color="#00ff00">Sub</font>title Created By : MUBDEE AL SADIK </font>
+
+3
+00:00:01,894 --> 00:00:02,039
+<font color="#ff0000"><font color="#00ff00">Subt</font>itle Created By : MUBDEE AL SADIK </font>
+
+4
+00:00:02,040 --> 00:00:02,185
+<font color="#ff0000"><font color="#00ff00">Subti</font>tle Created By : MUBDEE AL SADIK </font>
+
+5
+00:00:02,186 --> 00:00:02,331
+<font color="#ff0000"><font color="#00ff00">Subtit</font>le Created By : MUBDEE AL SADIK </font>
+
+6
+00:00:02,332 --> 00:00:02,477
+<font color="#ff0000"><font color="#00ff00">Subtitl</font>e Created By : MUBDEE AL SADIK </font>
+
+7
+00:00:02,478 --> 00:00:02,623
+<font color="#ff0000"><font color="#00ff00">Subtitle</font> Created By : MUBDEE AL SADIK </font>
+
+8
+00:00:02,624 --> 00:00:02,768
+<font color="#ff0000"><font color="#00ff00">Subtitle </font>Created By : MUBDEE AL SADIK </font>
+
+9
+00:00:02,769 --> 00:00:02,914
+<font color="#ff0000"><font color="#00ff00">Subtitle C</font>reated By : MUBDEE AL SADIK </font>
+
+10
+00:00:02,915 --> 00:00:03,060
+<font color="#ff0000"><font color="#00ff00">Subtitle Cr</font>eated By : MUBDEE AL SADIK </font>
+
+11
+00:00:03,061 --> 00:00:03,206
+<font color="#ff0000"><font color="#00ff00">Subtitle Cre</font>ated By : MUBDEE AL SADIK </font>
+
+12
+00:00:03,207 --> 00:00:03,352
+<font color="#ff0000"><font color="#00ff00">Subtitle Crea</font>ted By : MUBDEE AL SADIK </font>
+
+13
+00:00:03,353 --> 00:00:03,498
+<font color="#ff0000"><font color="#00ff00">Subtitle Creat</font>ed By : MUBDEE AL SADIK </font>
+
+14
+00:00:03,499 --> 00:00:03,644
+<font color="#ff0000"><font color="#00ff00">Subtitle Create</font>d By : MUBDEE AL SADIK </font>
+
+15
+00:00:03,645 --> 00:00:03,790
+<font color="#ff0000"><font color="#00ff00">Subtitle Created</font> By : MUBDEE AL SADIK </font>
+
+16
+00:00:03,791 --> 00:00:03,936
+<font color="#ff0000"><font color="#00ff00">Subtitle Created </font>By : MUBDEE AL SADIK </font>
+
+17
+00:00:03,937 --> 00:00:04,082
+<font color="#ff0000"><font color="#00ff00">Subtitle Created B</font>y : MUBDEE AL SADIK </font>
+
+18
+00:00:04,083 --> 00:00:04,228
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By</font> : MUBDEE AL SADIK </font>
+
+19
+00:00:04,229 --> 00:00:04,374
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By </font>: MUBDEE AL SADIK </font>
+
+20
+00:00:04,375 --> 00:00:04,520
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By :</font> MUBDEE AL SADIK </font>
+
+22
+00:00:04,521 --> 00:00:04,666
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : </font>MUBDEE AL SADIK </font>
+
+22
+00:00:04,667 --> 00:00:04,812
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : M</font>UBDEE AL SADIK </font>
+
+23
+00:00:04,813 --> 00:00:04,958
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MU</font>BDEE AL SADIK </font>
+
+24
+00:00:04,959 --> 00:00:05,104
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUB</font>DEE AL SADIK </font>
+
+25
+00:00:05,105 --> 00:00:05,250
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBD</font>EE AL SADIK </font>
+
+26
+00:00:05,251 --> 00:00:05,395
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDE</font>E AL SADIK </font>
+
+27
+00:00:05,396 --> 00:00:05,541
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE</font> AL SADIK </font>
+
+28
+00:00:05,542 --> 00:00:05,687
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE </font>AL SADIK </font>
+
+29
+00:00:05,688 --> 00:00:05,833
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE A</font>L SADIK </font>
+
+30
+00:00:05,834 --> 00:00:05,979
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL</font> SADIK </font>
+
+31
+00:00:05,980 --> 00:00:06,125
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL </font>SADIK </font>
+
+32
+00:00:06,126 --> 00:00:06,271
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL S</font>ADIK </font>
+
+33
+00:00:06,272 --> 00:00:06,417
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SA</font>DIK </font>
+
+34
+00:00:06,418 --> 00:00:06,564
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SAD</font>IK </font>
+
+34
+00:00:06,565 --> 00:00:06,700
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SADI</font>K </font>
+
+34
+00:00:06,701 --> 00:00:06,844
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SADIK</font </font>
+
+
+2
+00:00:17,916 --> 00:00:21,914
+You wanna play, you wanna stay, you wanna have it all
+
+3
+00:00:21,914 --> 00:00:25,855
+You started messing with 
+My head until I hit a wall
+
+4
+00:00:25,855 --> 00:00:29,820
+Maybe I should've known
+Maybe I should've known
+
+5
+00:00:29,820 --> 00:00:33,730
+That you would walk
+You would walk out the door,hey!
+
+6
+00:00:33,730 --> 00:00:37,733
+Said we were done, then met someone and rubbed it in my face
+
+7
+00:00:37,733 --> 00:00:41,730
+Cut to the part, she broke your heart, and then she ran away
+
+8
+00:00:41,730 --> 00:00:45,789
+I guess you should've known
+I guess you should've known
+
+9
+00:00:45,789 --> 00:00:48,095
+That I would talk, I would talk
+
+10
+00:00:48,095 --> 00:00:52,326
+But even if the stars and moon collide
+
+11
+00:00:52,326 --> 00:00:56,256
+I never want you back into my life
+
+12
+00:00:56,256 --> 00:01:00,251
+You can take your words and all your lies
+
+13
+00:01:00,251 --> 00:01:04,019
+Oh oh oh I really don't care
+
+14
+00:01:04,214 --> 00:01:08,156
+Even if the stars and moon collide
+
+15
+00:01:08,156 --> 00:01:12,152
+I never want you back into my life
+
+16
+00:01:12,152 --> 00:01:16,188
+You can take your words and all your lies
+
+17
+00:01:16,188 --> 00:01:20,196
+Oh oh oh I really don't care
+
+18
+00:01:20,196 --> 00:01:24,155
+Oh oh oh I really don't care
+
+19
+00:01:27,188 --> 00:01:31,294
+I can't believe I ever stayed up writing songs about you
+
+20
+00:01:31,294 --> 00:01:35,287
+You don't deserve to know the way
+I used to think about you
+
+21
+00:01:35,287 --> 00:01:39,327
+Oh no not anymore, oh no not anymore
+
+22
+00:01:39,327 --> 00:01:43,254
+You had your shot, had your shot, but you let go
+
+23
+00:01:43,254 --> 00:01:47,194
+Now if we meet out on the street
+I won't be running scared
+
+24
+00:01:47,194 --> 00:01:51,159
+I'll walk right up to you and put one finger in the air
+
+25
+00:01:51,159 --> 00:01:55,294
+And make you understand
+And make you understand
+
+26
+00:01:55,294 --> 00:01:57,503
+You had your chance, had your chance
+
+27
+00:01:57,503 --> 00:02:01,755
+But even if the stars and moon collide
+
+28
+00:02:01,755 --> 00:02:05,658
+I never want you back into my life
+
+29
+00:02:05,658 --> 00:02:09,656
+You can take your words and all your lies
+
+30
+00:02:09,656 --> 00:02:13,659
+Oh oh oh I really don't care
+
+31
+00:02:13,659 --> 00:02:17,491
+Even if the stars and moon collide
+
+32
+00:02:17,491 --> 00:02:21,521
+I never want you back into my life
+
+33
+00:02:21,521 --> 00:02:25,593
+You can take your words and all your lies
+
+34
+00:02:25,593 --> 00:02:29,599
+Oh oh oh I really don't care
+
+35
+00:02:29,599 --> 00:02:33,356
+Oh oh oh I really don't care
+
+36
+00:02:38,465 --> 00:02:40,113
+Yeah, listen up
+
+37
+00:02:40,383 --> 00:02:42,425
+Hey, hey, never look back
+
+38
+00:02:42,425 --> 00:02:44,563
+Dumb struck boy, ego intact
+
+39
+00:02:44,563 --> 00:02:46,460
+Look boy, why you so mad
+
+40
+00:02:46,460 --> 00:02:48,569
+Second guessin
+But should've hit that
+
+41
+00:02:48,569 --> 00:02:50,355
+Hey Demi
+You picked the wrong lover
+
+42
+00:02:50,355 --> 00:02:52,389
+Should've picked that one
+He's cuter than the other
+
+43
+00:02:52,389 --> 00:02:54,457
+I just wanna laugh
+Cause you're tryna be a hipster
+
+44
+00:02:54,457 --> 00:02:57,256
+Kick it to the curb,
+Take a Polaroid picture
+
+45
+00:02:57,256 --> 00:03:01,210
+But even if the stars and moon collide
+
+46
+00:03:01,210 --> 00:03:05,157
+I never want you back into my life
+
+47
+00:03:05,157 --> 00:03:09,192
+You can take your words and all your lies
+
+48
+00:03:09,192 --> 00:03:13,222
+Oh oh oh I really don't care
+
+49
+00:03:13,222 --> 00:03:17,061
+Even if the stars and moon collide
+
+50
+00:03:17,061 --> 00:03:21,125
+I never want you back into my life
+
+51
+00:03:21,125 --> 00:03:25,125
+You can take your words and all your lies
+
+52
+00:03:25,125 --> 00:03:29,096
+Oh oh oh I really don't care
+
+53
+00:03:29,096 --> 00:03:32,938
+Oh oh oh I really don't care

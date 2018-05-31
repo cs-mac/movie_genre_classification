@@ -1,0 +1,472 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: one.day.at.a.time.2017.s01e13.720p.webrip.hevc.x265.rmteam
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.74,0:00:07.07,Default,,0,0,0,,Eh?
+Dialogue: 0,0:00:09.01,0:00:11.91,Default,,0,0,0,,Mom, a tiara is a backward symbol
+Dialogue: 0,0:00:11.93,0:00:14.08,Default,,0,0,0,,of how women are only valued\Nfor their beauty.
+Dialogue: 0,0:00:14.10,0:00:15.47,Default,,0,0,0,,And now that I'm wearing one...
+Dialogue: 0,0:00:16.10,0:00:19.33,Default,,0,0,0,,I don't care. I look awesome.\NAnd it's super sparkly!
+Dialogue: 0,0:00:19.35,0:00:21.02,Default,,0,0,0,,- [Shrieks]\N- [Both laugh]
+Dialogue: 0,0:00:21.77,0:00:23.04,Default,,0,0,0,,I'm so glad you like it.
+Dialogue: 0,0:00:23.06,0:00:26.92,Default,,0,0,0,,'Cause tomorrow's your {\i1}quinces,{\i0}\Nand your only job is to be happy.
+Dialogue: 0,0:00:26.94,0:00:29.49,Default,,0,0,0,,- [Giggles]\N- Listen up, grunts.
+Dialogue: 0,0:00:30.78,0:00:33.62,Default,,0,0,0,,In 55 minutes,\Nwe have the final venue walkthrough.
+Dialogue: 0,0:00:34.20,0:00:37.43,Default,,0,0,0,,And you hear that rumble?\NOh, yeah.
+Dialogue: 0,0:00:37.45,0:00:40.83,Default,,0,0,0,,That's the sound\Nof 183 Cubans arriving in Los Angeles.
+Dialogue: 0,0:00:42.75,0:00:45.65,Default,,0,0,0,,Seventeen of whom\Nwill be staying in this room.
+Dialogue: 0,0:00:45.67,0:00:48.11,Default,,0,0,0,,Er... fire code-wise,\NI don't think that's gonna...
+Dialogue: 0,0:00:48.13,0:00:49.16,Default,,0,0,0,,Shut it!
+Dialogue: 0,0:00:51.63,0:00:56.28,Default,,0,0,0,,I am going on no sleep\Nand five Cuban coffees.
+Dialogue: 0,0:00:56.30,0:00:59.27,Default,,0,0,0,,Do you really want to mess\Nwith me right now?
+Dialogue: 0,0:01:01.31,0:01:02.69,Default,,0,0,0,,[Softly] No, ma'am.
+Dialogue: 0,0:01:04.27,0:01:06.98,Default,,0,0,0,,As head of transpo you have one job.
+Dialogue: 0,0:01:07.57,0:01:09.84,Default,,0,0,0,,Get the Cubans to and from the airport.
+Dialogue: 0,0:01:09.86,0:01:11.55,Default,,0,0,0,,I hope you brushed up on your Spanish.
+Dialogue: 0,0:01:11.57,0:01:12.72,Default,,0,0,0,,{\i1}Claro que Sí.{\i0}
+Dialogue: 0,0:01:12.74,0:01:13.86,Default,,0,0,0,,[Speaking Spanish]
+Dialogue: 0,0:01:15.16,0:01:16.49,Default,,0,0,0,,{\i1}Claro que Sí.{\i0}
+Dialogue: 0,0:01:18.41,0:01:22.46,Default,,0,0,0,,I want it on the record that your tone\Nis very annoying.
+Dialogue: 0,0:01:23.17,0:01:25.19,Default,,0,0,0,,[Scoffs] [In english] Okay.\NYou're kidding me, right?
+Dialogue: 0,0:01:25.21,0:01:28.24,Default,,0,0,0,,The day of my {\i1}quinces,{\i0}\Nyou screamed at {\i1}tía{\i0} mirtha
+Dialogue: 0,0:01:28.26,0:01:30.65,Default,,0,0,0,,because she brought hot pink balloons\Ninstead of fuchsia.
+Dialogue: 0,0:01:30.67,0:01:32.47,Default,,0,0,0,,Fuchsia is a royal color!
+Dialogue: 0,0:01:33.55,0:01:36.12,Default,,0,0,0,,Hot pink is what a girl wears\Non a spring break,
+Dialogue: 0,0:01:36.14,0:01:38.22,Default,,0,0,0,,before flashing her {\i1}tetas.{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.95,Default,,0,0,0,,[Arguing in Spanish]
+Dialogue: 0,0:01:41.97,0:01:44.54,Default,,0,0,0,,[Both arguing in Spanish]
+Dialogue: 0,0:01:44.56,0:01:46.92,Default,,0,0,0,,[Speaking Spanish]
+Dialogue: 0,0:01:46.94,0:01:49.11,Default,,0,0,0,,{\i1}Oye,{\i0} why aren't you filming this?
+Dialogue: 0,0:01:49.82,0:01:54.07,Default,,0,0,0,,You want me to film you two arguing?\NI have hours of that. In here.
+Dialogue: 0,0:01:54.78,0:01:58.01,Default,,0,0,0,,Elena, your dress is in the closet.
+Dialogue: 0,0:01:58.03,0:02:00.68,Default,,0,0,0,,If you should happen to find\Na straightjacket there,
+Dialogue: 0,0:02:00.70,0:02:03.00,Default,,0,0,0,,please bring it out here,\Nfor your crazy {\i1}Mami.{\i0}
+Dialogue: 0,0:02:05.92,0:02:07.61,Default,,0,0,0,,First arrivals are in 42 minutes.
+Dialogue: 0,0:02:07.63,0:02:11.92,Default,,0,0,0,,And Schneider, I'm sorry that I'm in\Nhyper-focused bitch mode, but really...
+Dialogue: 0,0:02:12.42,0:02:13.82,Default,,0,0,0,,[Sighs] Thank you for doing this.
+Dialogue: 0,0:02:13.84,0:02:16.11,Default,,0,0,0,,Pen, are you kidding me?\NYou guys are like family.
+Dialogue: 0,0:02:16.13,0:02:17.47,Default,,0,0,0,,Tick tock.
+Dialogue: 0,0:02:22.18,0:02:23.37,Default,,0,0,0,,I just...
+Dialogue: 0,0:02:23.39,0:02:25.41,Default,,0,0,0,,{\i1}Mami,{\i0} I really need\Nthis all to go perfectly.
+Dialogue: 0,0:02:25.43,0:02:27.31,Default,,0,0,0,,Elena's been through so much this year.
+Dialogue: 0,0:02:27.94,0:02:29.90,Default,,0,0,0,,I mean, the divorce,\Nshe came out to us,
+Dialogue: 0,0:02:29.92,0:02:31.96,Default,,0,0,0,,her creepy little goth\Nfriend moved away.
+Dialogue: 0,0:02:31.98,0:02:33.80,Default,,0,0,0,,Ah, {\i1}pobrecita{\i0} Carmen.
+Dialogue: 0,0:02:33.82,0:02:36.84,Default,,0,0,0,,So whatever Elena wants for her {\i1}quinces,{\i0}\Nshe gets.
+Dialogue: 0,0:02:36.86,0:02:38.97,Default,,0,0,0,,Tres leches cake? I got you.
+Dialogue: 0,0:02:38.99,0:02:41.60,Default,,0,0,0,,All white flowers? I got you.
+Dialogue: 0,0:02:41.62,0:02:43.39,Default,,0,0,0,,Tables named after famous feminists?
+Dialogue: 0,0:02:43.41,0:02:46.29,Default,,0,0,0,,I had to do a lot of googling,\Nbut, Elena, I got you.
+Dialogue: 0,0:02:47.12,0:02:49.83,Default,,0,0,0,,And look at this seating chart. What!
+Dialogue: 0,0:02:50.67,0:02:53.30,Default,,0,0,0,,I mean, I'm a humble woman,\Nbut that's art there.
+Dialogue: 0,0:02:53.80,0:02:55.57,Default,,0,0,0,,And that reminds me,
+Dialogue: 0,0:02:55.59,0:02:58.53,Default,,0,0,0,,Victor's cousin macho is\Nbringing his girlfriend.
+Dialogue: 0,0:02:58.55,0:02:59.99,Default,,0,0,0,,{\i1}Mami,{\i0} we said no girlfriends.
+Dialogue: 0,0:03:00.01,0:03:03.22,Default,,0,0,0,,Apparently, they are in love.
+Dialogue: 0,0:03:05.68,0:03:06.77,Default,,0,0,0,,Okay.
+Dialogue: 0,0:03:14.32,0:03:15.38,Default,,0,0,0,,Fine, I got it.
+Dialogue: 0,0:03:15.40,0:03:19.70,Default,,0,0,0,,We're gonna move you\Nto the Frida kahlo table,
+Dialogue: 0,0:03:20.20,0:03:23.95,Default,,0,0,0,,and the Oprah Winfrey table will go\Nfrom eight seats to ten.
+Dialogue: 0,0:03:24.45,0:03:26.73,Default,,0,0,0,,You get a seat! You get a seat!
+Dialogue: 0,0:03:26.75,0:03:29.58,Default,,0,0,0,,Everybody gets a seat!
+Dialogue: 0,0:03:33.17,0:03:34.42,Default,,0,0,0,,So... [clears throat]
+Dialogue: 0,0:03:35.05,0:03:38.20,Default,,0,0,0,,How are you feeling about... Victor?
+Dialogue: 0,0:03:38.22,0:03:39.61,Default,,0,0,0,,Fine. [Chuckles softly]
+Dialogue: 0,0:03:39.63,0:03:41.45,Default,,0,0,0,,Yeah, fine, and I have\Nyou to thank for it.
+Dialogue: 0,0:03:41.47,0:03:44.72,Default,,0,0,0,,Between growing up Cuban and catholic,\NI've got everything pushed way down.
+Dialogue: 0,0:03:45.72,0:03:47.31,Default,,0,0,0,,You're welcome, {\i1}mija.{\i0}
+Dialogue: 0,0:03:48.27,0:03:50.79,Default,,0,0,0,,Anyway, Victor knows I don't want\Nto see him until the {\i1}quinces.{\i0}
+Dialogue: 0,0:03:50.81,0:03:52.50,Default,,0,0,0,,And the kids still think\Nhe's staying at Schneider's
+Dialogue: 0,0:03:52.52,0:03:53.84,Default,,0,0,0,,because your bed hurt his back.
+Dialogue: 0,0:03:53.86,0:03:55.17,Default,,0,0,0,,{\i1}Bueno. Yo...{\i0}
+Dialogue: 0,0:03:55.19,0:03:59.61,Default,,0,0,0,,[Both exclaiming in Spanish]
+Dialogue: 0,0:04:00.32,0:04:01.55,Default,,0,0,0,,[Elena shrieks]
+Dialogue: 0,0:04:01.57,0:04:02.91,Default,,0,0,0,,Ooh.
+Dialogue: 0,0:04:04.78,0:04:05.79,Default,,0,0,0,,[Laughing]
+Dialogue: 0,0:04:06.70,0:04:09.52,Default,,0,0,0,,Thank you so much, {\i1}abuelita.{\i0}\NIt's beautiful.
+Dialogue: 0,0:04:09.54,0:04:10.62,Default,,0,0,0,,What's wrong with it?
+Dialogue: 0,0:04:12.29,0:04:14.19,Default,,0,0,0,,Nothing. I'm happy, I'm smiling.
+Dialogue: 0,0:04:14.21,0:04:17.00,Default,,0,0,0,,Exactly. You are not sobbing with joy.\NI have failed you.
+Dialogue: 0,0:04:19.17,0:04:20.26,Default,,0,0,0,,I have failed my family.
+Dialogue: 0,0:04:21.43,0:04:22.93,Default,,0,0,0,,I have failed Cuba.
+Dialogue: 0,0:04:24.05,0:04:25.39,Default,,0,0,0,,[Theme song playing in Spanish]
+Dialogue: 0,0:05:14.27,0:05:16.21,Default,,0,0,0,,Everything is all set for tomorrow.
+Dialogue: 0,0:05:16.23,0:05:19.63,Default,,0,0,0,,And I just want to say,\Nyou have chosen the perfect ballroom.
+Dialogue: 0,0:05:19.65,0:05:23.11,Default,,0,0,0,,Penelope.\NThis place is an acoustical nightmare.
+Dialogue: 0,0:05:24.66,0:05:26.18,Default,,0,0,0,,Doc, what are you doing here?
+Dialogue: 0,0:05:26.20,0:05:28.45,Default,,0,0,0,,Practicing my toast, duh.
+Dialogue: 0,0:05:29.62,0:05:33.66,Default,,0,0,0,,Oh. The toast is kinda my thing.\NSo maybe you don't speak.
+Dialogue: 0,0:05:36.21,0:05:38.02,Default,,0,0,0,,Don't worry, Leslie.
+Dialogue: 0,0:05:38.04,0:05:43.34,Default,,0,0,0,,Elena's {\i1}quinces{\i0} is going to be\Na very special day for everyone.
+Dialogue: 0,0:05:44.55,0:05:45.89,Default,,0,0,0,,[Shudders]
+Dialogue: 0,0:05:47.72,0:05:48.72,Default,,0,0,0,,No. Don't film that.
+Dialogue: 0,0:05:49.31,0:05:50.35,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:05:51.14,0:05:52.83,Default,,0,0,0,,Where is the dance floor?
+Dialogue: 0,0:05:52.85,0:05:55.27,Default,,0,0,0,,Um, you're standing on it.
+Dialogue: 0,0:05:55.85,0:05:57.35,Default,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:05:58.86,0:06:04.24,Default,,0,0,0,,I have relatives who escaped from Cuba\Non a raft bigger than this.
+Dialogue: 0,0:06:05.53,0:06:06.59,Default,,0,0,0,,[Speaks Spanish]
+Dialogue: 0,0:06:06.61,0:06:09.47,Default,,0,0,0,,Hey. Hey, Lucy. I'm sorry about her.
+Dialogue: 0,0:06:09.49,0:06:12.81,Default,,0,0,0,,Let me translate.\NShe would like a larger dance floor.
+Dialogue: 0,0:06:12.83,0:06:14.19,Default,,0,0,0,,Give the lady a bigger floor.
+Dialogue: 0,0:06:14.21,0:06:16.08,Default,,0,0,0,,{\i1}- Papi.{\i0}\N- Hey.
+Dialogue: 0,0:06:17.88,0:06:20.00,Default,,0,0,0,,- [Elena chuckles]\N- Hey. Hi.
+Dialogue: 0,0:06:20.75,0:06:22.61,Default,,0,0,0,,Hi. You're here.
+Dialogue: 0,0:06:22.63,0:06:25.25,Default,,0,0,0,,Yeah. I asked {\i1}papi{\i0} to come so we could\Npractice our father-daughter dance.
+Dialogue: 0,0:06:25.27,0:06:26.03,Default,,0,0,0,,Oh.
+Dialogue: 0,0:06:26.05,0:06:27.78,Default,,0,0,0,,Yeah, we have to do\Nsomething really good
+Dialogue: 0,0:06:27.80,0:06:31.04,Default,,0,0,0,,to distract the audience\Nbecause the song is super cheesy.
+Dialogue: 0,0:06:31.06,0:06:33.93,Default,,0,0,0,,- [Spanish song playing over cell phone]\N{\i1}- Ay,{\i0} Julio.
+Dialogue: 0,0:06:36.14,0:06:38.21,Default,,0,0,0,,Let them do that.\NYou help me sneak in the booze
+Dialogue: 0,0:06:38.23,0:06:39.61,Default,,0,0,0,,we bought at costco. Come on.
+Dialogue: 0,0:06:41.19,0:06:42.90,Default,,0,0,0,,[Song continues playing]
+Dialogue: 0,0:06:44.86,0:06:45.97,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:06:45.99,0:06:48.80,Default,,0,0,0,,I found a more modern version\Nfor us to dance to.
+Dialogue: 0,0:06:48.82,0:06:50.32,Default,,0,0,0,,Oh, I kinda like this one.
+Dialogue: 0,0:06:51.16,0:06:52.22,Default,,0,0,0,,Me, too.
+Dialogue: 0,0:06:52.24,0:06:55.48,Default,,0,0,0,,It's about, uh,\Nhow you look away for a second
+Dialogue: 0,0:06:55.50,0:06:57.41,Default,,0,0,0,,and you turn back and...
+Dialogue: 0,0:06:58.08,0:07:00.58,Default,,0,0,0,,- Your little girl's all grown up.\N- [Both chuckle]
+Dialogue: 0,0:07:02.38,0:07:03.55,Default,,0,0,0,,It's actually getting to me.
+Dialogue: 0,0:07:08.76,0:07:11.74,Default,,0,0,0,,[Sighs] {\i1}Papi,{\i0} I want to\Ntell you something.
+Dialogue: 0,0:07:11.76,0:07:13.87,Default,,0,0,0,,That I'm the greatest dancer\Nyou've ever seen?
+Dialogue: 0,0:07:13.89,0:07:14.93,Default,,0,0,0,,[Whispers] I know.
+Dialogue: 0,0:07:16.77,0:07:18.77,Default,,0,0,0,,That, and...
+Dialogue: 0,0:07:20.69,0:07:21.69,Default,,0,0,0,,I have grown up.
+Dialogue: 0,0:07:22.77,0:07:25.76,Default,,0,0,0,,And I've learned a lot about myself\Nsince you've been gone.
+Dialogue: 0,0:07:25.78,0:07:27.42,Default,,0,0,0,,And I've changed.
+Dialogue: 0,0:07:27.44,0:07:30.57,Default,,0,0,0,,- Well, not changed, but, um...\N- Mmm-hmm.
+Dialogue: 0,0:07:33.78,0:07:34.83,Default,,0,0,0,,I'm gay.
+Dialogue: 0,0:07:36.87,0:07:38.81,Default,,0,0,0,,[Chuckles]
+Dialogue: 0,0:07:38.83,0:07:40.81,Default,,0,0,0,,Yeah, and you're pregnant, too, right?
+Dialogue: 0,0:07:40.83,0:07:42.02,Default,,0,0,0,,[Chuckling]
+Dialogue: 0,0:07:42.04,0:07:44.15,Default,,0,0,0,,Let's do all the shockers.
+Dialogue: 0,0:07:44.17,0:07:45.90,Default,,0,0,0,,[Stammers] No.
+Dialogue: 0,0:07:45.92,0:07:48.00,Default,,0,0,0,,{\i1}Papi,{\i0} I'm... I'm serious.
+Dialogue: 0,0:07:48.02,0:07:49.41,Default,,0,0,0,,I came out while you were gone
+Dialogue: 0,0:07:49.43,0:07:51.59,Default,,0,0,0,,and I was just waiting\Nfor the right time to tell you.
+Dialogue: 0,0:07:54.01,0:07:56.77,Default,,0,0,0,,I don't understand.\NWhy are you doing this?
+Dialogue: 0,0:07:57.56,0:07:58.62,Default,,0,0,0,,[Inhales deeply]
+Dialogue: 0,0:07:58.64,0:08:00.96,Default,,0,0,0,,Okay, so this wasn't the right time.\NJust don't be mad.
+Dialogue: 0,0:08:00.98,0:08:03.71,Default,,0,0,0,,No, I'm not mad. You're just confused.\NI mean, you're 15.
+Dialogue: 0,0:08:03.73,0:08:05.69,Default,,0,0,0,,You don't know what the hell\Nyou're talking about.
+Dialogue: 0,0:08:07.61,0:08:09.60,Default,,0,0,0,,- [Song stops]\N- What's going on?
+Dialogue: 0,0:08:11.72,0:08:12.80,Default,,0,0,0,,I told him.
+Dialogue: 0,0:08:12.82,0:08:13.91,Default,,0,0,0,,Did you know about this?
+Dialogue: 0,0:08:14.78,0:08:17.24,Default,,0,0,0,,Yeah. Just give us a sec.
+Dialogue: 0,0:08:22.17,0:08:23.90,Default,,0,0,0,,Are you indulging whatever this is?
+Dialogue: 0,0:08:23.92,0:08:26.03,Default,,0,0,0,,Uh, you mean supporting our daughter?\NYeah, I am.
+Dialogue: 0,0:08:26.05,0:08:28.53,Default,,0,0,0,,No. She's not...\NShe's not that way, okay?
+Dialogue: 0,0:08:28.55,0:08:30.83,Default,,0,0,0,,I've been gone a year.\NWhat the hell's been going on here?
+Dialogue: 0,0:08:31.72,0:08:33.97,Default,,0,0,0,,Wow. [Scoffs] Okay.
+Dialogue: 0,0:08:34.89,0:08:37.87,Default,,0,0,0,,Look, I didn't know she was\Ngonna tell you, but now that she did,
+Dialogue: 0,0:08:37.89,0:08:39.62,Default,,0,0,0,,you're gonna have to figure out\Na way to be okay with it.
+Dialogue: 0,0:08:39.64,0:08:41.40,Default,,0,0,0,,No, I don't have to be\Nokay with anything.
+Dialogue: 0,0:08:41.42,0:08:43.00,Default,,0,0,0,,She's mixed up, and you're her mother.
+Dialogue: 0,0:08:43.02,0:08:44.59,Default,,0,0,0,,You aren't even trying\Nto talk some sense into her?
+Dialogue: 0,0:08:44.61,0:08:45.71,Default,,0,0,0,,That's not how this works.
+Dialogue: 0,0:08:45.71,0:08:48.51,Default,,0,0,0,,Oh, so we're all just supposed\Nto pretend like this is cool?
+Dialogue: 0,0:08:48.78,0:08:50.57,Default,,0,0,0,,Because it's not. All right?
+Dialogue: 0,0:08:51.57,0:08:52.63,Default,,0,0,0,,It's not.
+Dialogue: 0,0:08:54.37,0:08:57.20,Default,,0,0,0,,It's my fault.\NI kind of ambushed him and it's...
+Dialogue: 0,0:08:57.95,0:08:59.75,Default,,0,0,0,,You didn't do anything wrong, baby.
+Dialogue: 0,0:09:01.66,0:09:03.23,Default,,0,0,0,,Kinda worried he's not gonna come.
+Dialogue: 0,0:09:03.25,0:09:05.98,Default,,0,0,0,,What? No.
+Dialogue: 0,0:09:06.00,0:09:08.30,Default,,0,0,0,,No, he just needs a minute.\NHe's not good with change.
+Dialogue: 0,0:09:09.01,0:09:11.86,Default,,0,0,0,,You should have seen him the first time\Nhe saw me without makeup. Whoa!
+Dialogue: 0,0:09:11.88,0:09:13.43,Default,,0,0,0,,"Who are you right now?
+Dialogue: 0,0:09:14.68,0:09:16.89,Default,,0,0,0,,- "Why don't you have eyebrows?"\N- [Chuckles]
+Dialogue: 0,0:09:21.23,0:09:24.46,Default,,0,0,0,,[Speaking Spanish]
+Dialogue: 0,0:09:24.48,0:09:25.48,Default,,0,0,0,,{\i1}Gracias.{\i0}
+Dialogue: 0,0:09:26.56,0:09:27.69,Default,,0,0,0,,[Speaks Spanish]
+Dialogue: 0,0:09:28.52,0:09:31.05,Default,,0,0,0,,Don't freestyle. Stick with the picture.
+Dialogue: 0,0:09:31.07,0:09:33.05,Default,,0,0,0,,Follow olguitita's example.
+Dialogue: 0,0:09:33.07,0:09:36.66,Default,,0,0,0,,[Gasps] And what the hell\Nis a carnation doing in here?
+Dialogue: 0,0:09:37.99,0:09:40.20,Default,,0,0,0,,{\i1}Mami,{\i0} a word?
+Dialogue: 0,0:09:41.41,0:09:43.27,Default,,0,0,0,,When was the last time you slept?
+Dialogue: 0,0:09:43.29,0:09:45.19,Default,,0,0,0,,Two days ago. Yeah, but don't worry.
+Dialogue: 0,0:09:45.21,0:09:47.47,Default,,0,0,0,,I take little power naps\Nwhen I pee. [Panting]
+Dialogue: 0,0:09:48.55,0:09:49.82,Default,,0,0,0,,Maybe you should lie down.
+Dialogue: 0,0:09:49.84,0:09:51.11,Default,,0,0,0,,[Mockingly] "Maybe you should lie down."
+Dialogue: 0,0:09:51.13,0:09:52.16,Default,,0,0,0,,What's happening?
+Dialogue: 0,0:09:52.18,0:09:54.59,Default,,0,0,0,,[Sighs] Sorry. There's\Njust a lot to do.
+Dialogue: 0,0:09:54.61,0:09:56.76,Default,,0,0,0,,And people say they want to help\Nand friggin' Tina's over there
+Dialogue: 0,0:09:56.78,0:09:58.24,Default,,0,0,0,,doing her own thing,\Nlike she always does.
+Dialogue: 0,0:09:58.26,0:09:59.87,Default,,0,0,0,,Keep your eye on her.
+Dialogue: 0,0:09:59.89,0:10:00.93,Default,,0,0,0,,[alex sighs]
+Dialogue: 0,0:10:01.72,0:10:03.16,Default,,0,0,0,,Hey, guys, what's taking so long?
+Dialogue: 0,0:10:03.18,0:10:04.29,Default,,0,0,0,,Oh, hi, Carmen.
+Dialogue: 0,0:10:04.31,0:10:06.46,Default,,0,0,0,,{\i1}Hi, Ms. Alvarez.{\i0}
+Dialogue: 0,0:10:06.48,0:10:09.17,Default,,0,0,0,,Uh... sorry you can't\Ncome to the {\i1}quinces,{\i0}
+Dialogue: 0,0:10:09.19,0:10:11.17,Default,,0,0,0,,but glad you could make it\Nto the final fitting.
+Dialogue: 0,0:10:11.19,0:10:13.80,Default,,0,0,0,,{\i1}Elena wanted me to weigh in on her dress.{\i0}
+Dialogue: 0,0:10:13.82,0:10:15.07,Default,,0,0,0,,{\i1}It's gorgeous.{\i0}
+Dialogue: 0,0:10:16.07,0:10:17.28,Default,,0,0,0,,{\i1}La diabla{\i0} lies.
+Dialogue: 0,0:10:19.28,0:10:21.81,Default,,0,0,0,,I have tried everything.
+Dialogue: 0,0:10:21.83,0:10:24.98,Default,,0,0,0,,I have taken away the frills,\NI have put on the frills,
+Dialogue: 0,0:10:25.00,0:10:27.67,Default,,0,0,0,,I have made it longer,\NI have made it shorter.
+Dialogue: 0,0:10:28.17,0:10:30.36,Default,,0,0,0,,But she is being impossible.
+Dialogue: 0,0:10:30.38,0:10:32.90,Default,,0,0,0,,I told you I love every version of it
+Dialogue: 0,0:10:32.92,0:10:34.01,Default,,0,0,0,,see what I mean?
+Dialogue: 0,0:10:35.63,0:10:38.28,Default,,0,0,0,,{\i1}Ay, Mami, {\i0}we don't have time for this.
+Dialogue: 0,0:10:38.30,0:10:40.37,Default,,0,0,0,,If the dress were truly perfect,
+Dialogue: 0,0:10:40.39,0:10:43.68,Default,,0,0,0,,she would be so overcome with emotion,\Nher eyes would fill with tears.
+Dialogue: 0,0:10:45.48,0:10:49.23,Default,,0,0,0,,Maybe what you're picking up on,\Nis that...
+Dialogue: 0,0:10:50.23,0:10:52.80,Default,,0,0,0,,I'm not really comfortable\Nwearing a dress.
+Dialogue: 0,0:10:52.82,0:10:57.20,Default,,0,0,0,,Of course, you are not comfortable.\NIt's called being a woman.
+Dialogue: 0,0:10:57.86,0:11:01.92,Default,,0,0,0,,I am in agony all of the time,\Nbut I look amazing.
+Dialogue: 0,0:11:03.21,0:11:05.35,Default,,0,0,0,,Not sure this is the lesson\NI want to be teaching,
+Dialogue: 0,0:11:05.37,0:11:08.35,Default,,0,0,0,,but I so want to check this box. [Sighs]
+Dialogue: 0,0:11:08.37,0:11:13.02,Default,,0,0,0,,All I'm saying is that I'm really\Nfiguring out what I am comfortable in.
+Dialogue: 0,0:11:13.04,0:11:14.69,Default,,0,0,0,,Last week, I went to a thrift store
+Dialogue: 0,0:11:14.71,0:11:18.99,Default,,0,0,0,,and I got some jackets,\Nsome ties, a fedora, a pinstripe suit.
+Dialogue: 0,0:11:19.01,0:11:21.18,Default,,0,0,0,,What? You want to look like al Capone?
+Dialogue: 0,0:11:22.51,0:11:23.79,Default,,0,0,0,,Ooh, what about this?
+Dialogue: 0,0:11:23.81,0:11:27.21,Default,,0,0,0,,What about, instead of heels...\NI wear my doc martens?
+Dialogue: 0,0:11:27.23,0:11:29.63,Default,,0,0,0,,I mean, all everybody else\Nwould see is the dress,
+Dialogue: 0,0:11:29.65,0:11:33.15,Default,,0,0,0,,but underneath there'd be one thing\Nthat's a little more me.
+Dialogue: 0,0:11:35.86,0:11:37.09,Default,,0,0,0,,I love that.
+Dialogue: 0,0:11:37.11,0:11:40.22,Default,,0,0,0,,Keeping the dress, wearing the docs.\NNo more changes.
+Dialogue: 0,0:11:40.24,0:11:41.30,Default,,0,0,0,,[Elena chuckles]
+Dialogue: 0,0:11:41.32,0:11:42.76,Default,,0,0,0,,You got it, okay!
+Dialogue: 0,0:11:42.78,0:11:44.16,Default,,0,0,0,,You're killing me.
+Dialogue: 0,0:11:47.45,0:11:49.12,Default,,0,0,0,,Tina, baby's breath?
+Dialogue: 0,0:11:49.79,0:11:52.46,Default,,0,0,0,,Stop sneaking in unapproved flowers.
+Dialogue: 0,0:11:53.59,0:11:54.88,Default,,0,0,0,,That's my boy.
+Dialogue: 0,0:11:55.38,0:11:58.53,Default,,0,0,0,,All right,\Nhere's your last three alvarezes.
+Dialogue: 0,0:11:58.55,0:11:59.78,Default,,0,0,0,,{\i1}De nada.{\i0}
+Dialogue: 0,0:11:59.80,0:12:02.26,Default,,0,0,0,,Can an {\i1}hombre{\i0}\Nget a {\i1}pastelito{\i0} up in this {\i1}boca?{\i0}
+Dialogue: 0,0:12:04.51,0:12:05.74,Default,,0,0,0,,I learned more words.
+Dialogue: 0,0:12:05.76,0:12:07.00,Default,,0,0,0,,[Chuckles]
+Dialogue: 0,0:12:07.02,0:12:09.87,Default,,0,0,0,,{\i1}- Hola. ¿Cómo está?\N- Hola.{\i0}
+Dialogue: 0,0:12:09.89,0:12:12.46,Default,,0,0,0,,{\i1}- Ay, Mira El niño tan lindo.\N- Gracias.{\i0}
+Dialogue: 0,0:12:12.48,0:12:15.71,Default,,0,0,0,,[Both speaking Spanish]
+Dialogue: 0,0:12:15.73,0:12:20.51,Default,,0,0,0,,[Continues speaking Spanish]
+Dialogue: 0,0:12:20.53,0:12:22.85,Default,,0,0,0,,[Continues speaking Spanish]
+Dialogue: 0,0:12:22.87,0:12:24.48,Default,,0,0,0,,[In english]\NI don't know these people.
+Dialogue: 0,0:12:29.12,0:12:30.54,Default,,0,0,0,,- What?\N- Yeah.
+Dialogue: 0,0:12:31.71,0:12:33.94,Default,,0,0,0,,You picked up the wrong alvarezes.
+Dialogue: 0,0:12:33.96,0:12:35.82,Default,,0,0,0,,Did you not look at the\Nphotos I gave you?
+Dialogue: 0,0:12:35.84,0:12:36.92,Default,,0,0,0,,I did.
+Dialogue: 0,0:12:37.38,0:12:40.17,Default,,0,0,0,,But I don't want to be racist,\Nso let's say I didn't.
+Dialogue: 0,0:12:42.76,0:12:44.70,Default,,0,0,0,,All right. Back to {\i1}El{\i0} range rover.
+Dialogue: 0,0:12:44.72,0:12:48.14,Default,,0,0,0,,But first we will stop at El pollo loco\Non la cienega boulevard.
+Dialogue: 0,0:12:51.14,0:12:52.39,Default,,0,0,0,,I'm running out of words.
+Dialogue: 0,0:12:53.77,0:12:55.17,Default,,0,0,0,,Hey, pen?
+Dialogue: 0,0:12:55.19,0:12:56.46,Default,,0,0,0,,- [Whispers] Come here.\N- Uh-huh?
+Dialogue: 0,0:12:56.48,0:12:58.80,Default,,0,0,0,,Just so you know, Victor's still\Nupstairs in my apartment.
+Dialogue: 0,0:12:58.82,0:13:00.72,Default,,0,0,0,,Yeah, thanks again for taking him in.
+Dialogue: 0,0:13:00.74,0:13:03.06,Default,,0,0,0,,- Actually, I think he's leaving.\N- What?
+Dialogue: 0,0:13:03.08,0:13:05.01,Default,,0,0,0,,He was packing up all his stuff\Nwhile he was telling me
+Dialogue: 0,0:13:05.03,0:13:08.81,Default,,0,0,0,,about Elena's crazy phase\Nand how everyone's coddling her.
+Dialogue: 0,0:13:08.83,0:13:11.64,Default,,0,0,0,,I didn't want to kill the bro vibe\Nwe got going on, so I said,
+Dialogue: 0,0:13:11.66,0:13:13.81,Default,,0,0,0,,"I know, right, bro?"\NBut what I was really thinking was,
+Dialogue: 0,0:13:13.83,0:13:17.38,Default,,0,0,0,,"hell no, bro. That's a no-go."\NSo... you know.
+Dialogue: 0,0:13:26.97,0:13:28.20,Default,,0,0,0,,Hey there.
+Dialogue: 0,0:13:28.22,0:13:29.64,Default,,0,0,0,,What's up, lupe?
+Dialogue: 0,0:13:31.81,0:13:34.14,Default,,0,0,0,,I just wanted to make sure\Neverything was cool.
+Dialogue: 0,0:13:36.44,0:13:39.61,Default,,0,0,0,,You're not gonna do something stupid\Nlike not come to the {\i1}quinces{\i0} tomorrow?
+Dialogue: 0,0:13:42.74,0:13:45.70,Default,,0,0,0,,"Yeah, cool, lupe. I'll be there."\N"Oh, thanks, Victor."
+Dialogue: 0,0:13:49.12,0:13:51.71,Default,,0,0,0,,Look, I know this is\Nall hitting you fast.
+Dialogue: 0,0:13:51.73,0:13:54.06,Default,,0,0,0,,I... was really thrown at first, too.
+Dialogue: 0,0:13:54.08,0:13:55.21,Default,,0,0,0,,This isn't who she is, lupe.
+Dialogue: 0,0:13:56.00,0:13:59.28,Default,,0,0,0,,It's not. It's a phase. It's what kids\Ndo. It's, like, cool now to be gay.
+Dialogue: 0,0:13:59.30,0:14:00.53,Default,,0,0,0,,Oh, yeah. That's it.
+Dialogue: 0,0:14:00.55,0:14:02.99,Default,,0,0,0,,She wants a piece\Nof that sweet bullying and persecution
+Dialogue: 0,0:14:03.01,0:14:05.03,Default,,0,0,0,,because being a teenager's\Nnot hard enough.
+Dialogue: 0,0:14:05.05,0:14:06.53,Default,,0,0,0,,You know what? I'm not joking.
+Dialogue: 0,0:14:06.55,0:14:10.04,Default,,0,0,0,,And I'm not here to fight with you.\NBecause this is not about us right now.
+Dialogue: 0,0:14:10.06,0:14:12.45,Default,,0,0,0,,This is about your daughter.\NAnd I know you love her.
+Dialogue: 0,0:14:12.47,0:14:15.23,Default,,0,0,0,,And you know how much it means to Elena\Nfor you to be at her {\i1}quinces.{\i0}
+Dialogue: 0,0:14:24.74,0:14:25.86,Default,,0,0,0,,Does the whole family know?
+Dialogue: 0,0:14:27.08,0:14:28.18,Default,,0,0,0,,No.
+Dialogue: 0,0:14:28.20,0:14:29.74,Default,,0,0,0,,[Door closes]
+Dialogue: 0,0:14:30.33,0:14:31.89,Default,,0,0,0,,She's only told a few people.
+Dialogue: 0,0:14:31.91,0:14:34.78,Default,,0,0,0,,All right. Well, that's good.\NDon't tell anyone else.
+Dialogue: 0,0:14:34.80,0:14:36.52,Default,,0,0,0,,- I'm not gonna tell anyone else.\N- Good.
+Dialogue: 0,0:14:36.54,0:14:37.62,Default,,0,0,0,,Because it's not up to me.
+Dialogue: 0,0:14:38.50,0:14:39.63,Default,,0,0,0,,Or you.
+Dialogue: 0,0:14:41.55,0:14:44.42,Default,,0,0,0,,It's up to Elena to decide\Nwho she tells and when.
+Dialogue: 0,0:14:47.05,0:14:48.82,Default,,0,0,0,,But the one thing you do get to decide
+Dialogue: 0,0:14:48.84,0:14:50.86,Default,,0,0,0,,is whether you're gonna be\Nthere for your daughter.
+Dialogue: 0,0:15:03.98,0:15:05.40,Default,,0,0,0,,{\i1}¿Un pastelito?{\i0}
+Dialogue: 0,0:15:07.20,0:15:08.99,Default,,0,0,0,,{\i1}¿Un pastelito?{\i0}
+Dialogue: 0,0:15:10.87,0:15:14.27,Default,,0,0,0,,Penelope, {\i1}hola. ¿Un pastelito?{\i0}
+Dialogue: 0,0:15:14.29,0:15:16.89,Default,,0,0,0,,Doc, I feel like I keep asking you this,\Nbut what are you doing here?
+Dialogue: 0,0:15:16.91,0:15:18.46,Default,,0,0,0,,I'm not sure.
+Dialogue: 0,0:15:19.46,0:15:23.05,Default,,0,0,0,,I thought I would see everyone\Nat the {\i1}quinces{\i0} tomorrow but, uh...
+Dialogue: 0,0:15:24.00,0:15:26.70,Default,,0,0,0,,Your mom told me to come over tonight.
+Dialogue: 0,0:15:26.72,0:15:28.72,Default,,0,0,0,,[Gags] Don't do that.
+Dialogue: 0,0:15:30.18,0:15:32.91,Default,,0,0,0,,- Mom, don't freak out.\N- What happened?
+Dialogue: 0,0:15:32.93,0:15:34.08,Default,,0,0,0,,It's gonna be fine.
+Dialogue: 0,0:15:34.10,0:15:36.71,Default,,0,0,0,,But {\i1}tía{\i0} Mimi just got a call,\Nand you know the fajardos?
+Dialogue: 0,0:15:36.73,0:15:39.69,Default,,0,0,0,,Rosita, Diana, marta, Cristina,\NJuanito and baby Juanito?
+Dialogue: 0,0:15:40.60,0:15:42.95,Default,,0,0,0,,Can't come because of a baptism\Non Rosita's mother's side?
+Dialogue: 0,0:15:43.53,0:15:44.67,Default,,0,0,0,,They're coming.
+Dialogue: 0,0:15:44.69,0:15:46.23,Default,,0,0,0,,Oh, come on!
+Dialogue: 0,0:15:48.74,0:15:50.34,Default,,0,0,0,,I should have known better.
+Dialogue: 0,0:15:50.36,0:15:54.18,Default,,0,0,0,,The fajardos are og Cubans.\NThey run on Caribbean time.
+Dialogue: 0,0:15:54.20,0:15:56.60,Default,,0,0,0,,Cristina was pregnant with baby Juanito\Nfor 11 months,
+Dialogue: 0,0:15:56.62,0:15:58.54,Default,,0,0,0,,and she still thinks he was premature.
+Dialogue: 0,0:16:02.58,0:16:04.59,Default,,0,0,0,,I don't know\Nif we can fit in any more tables.
+Dialogue: 0,0:16:05.46,0:16:07.99,Default,,0,0,0,,We are not adding another table.
+Dialogue: 0,0:16:08.01,0:16:09.36,Default,,0,0,0,,I can make this work.
+Dialogue: 0,0:16:09.38,0:16:10.84,Default,,0,0,0,,[Gasps]
+Dialogue: 0,0:16:14.51,0:16:16.18,Default,,0,0,0,,I don't feel safe.
+Dialogue: 0,0:16:24.57,0:16:26.11,Default,,0,0,0,,[Gasps]
+Dialogue: 0,0:16:40.96,0:16:42.58,Default,,0,0,0,,[Penelope screams]
+Dialogue: 0,0:16:48.84,0:16:50.17,Default,,0,0,0,,{\i1}Gracias, estoy bien.{\i0}
+Dialogue: 0,0:16:53.18,0:16:55.37,Default,,0,0,0,,Dr. berkowitz,\Nwould you mind helping me pick this up?
+Dialogue: 0,0:16:55.39,0:16:58.41,Default,,0,0,0,,Oh, absolutely.\NIt would be a pleasure. [Sighs]
+Dialogue: 0,0:16:58.43,0:17:00.41,Default,,0,0,0,,I feel like we dodged a bullet there.
+Dialogue: 0,0:17:00.43,0:17:02.23,Default,,0,0,0,,Don't drag me down with you, buddy.
+Dialogue: 0,0:17:04.65,0:17:07.07,Default,,0,0,0,,Oh, uh, Leslie.
+Dialogue: 0,0:17:07.94,0:17:10.07,Default,,0,0,0,,Come into my room, please.
+Dialogue: 0,0:17:17.62,0:17:19.77,Default,,0,0,0,,Oh, I can't deal with this right now.
+Dialogue: 0,0:17:19.79,0:17:20.87,Default,,0,0,0,,No!
+Dialogue: 0,0:17:25.79,0:17:28.00,Default,,0,0,0,,There's no way you're gonna\Nbe able to fix this in time.
+Dialogue: 0,0:17:28.59,0:17:31.17,Default,,0,0,0,,Oh, I'm about to go {\i1}a beautiful{\i0}\Nfreaking {\i1}mind{\i0} up in this bitch.
+Dialogue: 0,0:17:32.63,0:17:36.20,Default,,0,0,0,,I'm kinda scared of you right now,\Nso I'm gonna leave.
+Dialogue: 0,0:17:36.22,0:17:39.26,Default,,0,0,0,,Yeah, it's a Jekyll-Hyde situation,\Nso you should run.
+Dialogue: 0,0:17:40.64,0:17:41.64,Default,,0,0,0,,[Sighs]
+Dialogue: 0,0:17:43.98,0:17:46.23,Default,,0,0,0,,[Breathes deeply]
+Dialogue: 0,0:17:59.41,0:18:01.12,Default,,0,0,0,,[Snoring]
+Dialogue: 0,0:18:12.71,0:18:15.13,Default,,0,0,0,,[Gasps] The Rosa parks table\Nshould not be in the back!
+Dialogue: 0,0:18:19.89,0:18:22.64,Default,,0,0,0,,Where am I? Who put a blanket on me?
+Dialogue: 0,0:18:24.64,0:18:25.81,Default,,0,0,0,,Who brushed my teeth?
+Dialogue: 0,0:18:27.85,0:18:29.80,Default,,0,0,0,,[Gasps] 10:03?\NOh, my god! Is it the morning?
+Dialogue: 0,0:18:29.82,0:18:31.15,Default,,0,0,0,,Oh, my god!
+Dialogue: 0,0:18:33.90,0:18:34.90,Default,,0,0,0,,[Panting]
+Dialogue: 0,0:18:37.41,0:18:38.48,Default,,0,0,0,,What?
+Dialogue: 0,0:18:40.28,0:18:41.54,Default,,0,0,0,,Did I die?
+Dialogue: 0,0:18:47.12,0:18:48.42,Default,,0,0,0,,Is this heaven?
+Dialogue: 0,0:18:50.00,0:18:53.32,Default,,0,0,0,,- [Knocking on door]\N- Open up, it's Schneider.
+Dialogue: 0,0:18:53.34,0:18:55.26,Default,,0,0,0,,[Groaning] Oh, god, it's hell.
+Dialogue: 0,0:18:57.09,0:18:58.34,Default,,0,0,0,,[Grunts and pants]
+Dialogue: 0,0:19:04.77,0:19:07.85,Default,,0,0,0,,I got one last pickup. You.
+Dialogue: 0,0:19:08.85,0:19:10.27,Default,,0,0,0,,What is going on?
+Dialogue: 0,0:19:11.44,0:19:14.88,Default,,0,0,0,,The Cubans are missing,\Nmy seating chart is gone
+Dialogue: 0,0:19:14.90,0:19:18.03,Default,,0,0,0,,and I'm kind of attracted to you?\NNothing makes sense.
+Dialogue: 0,0:19:20.57,0:19:21.72,Default,,0,0,0,,Chill, girl.
+Dialogue: 0,0:19:21.74,0:19:23.58,Default,,0,0,0,,Oh, that helps when you talk.\NThank you.
+Dialogue: 0,0:19:26.87,0:19:30.11,Default,,0,0,0,,I am here to take you\Nto your daughter's {\i1}quinces.{\i0}
+Dialogue: 0,0:19:30.13,0:19:32.88,Default,,0,0,0,,So, get in that bedroom\Nand put on all your clothes.
+Dialogue: 0,0:19:33.46,0:19:35.88,Default,,0,0,0,,Whoa, I've never said that\Nto a woman before.
+Dialogue: 0,0:19:37.26,0:19:39.59,Default,,0,0,0,,Don't mess with me,\Nweirdly sexy Schneider.
+Dialogue: 0,0:19:40.68,0:19:42.95,Default,,0,0,0,,How did this happen? Who's in charge?
+Dialogue: 0,0:19:42.97,0:19:45.00,Default,,0,0,0,,It's handled, boo.
+Dialogue: 0,0:19:45.02,0:19:46.43,Default,,0,0,0,,Nice work, Jay.
+Dialogue: 0,0:19:47.18,0:19:49.46,Default,,0,0,0,,Tina, there's no\Nconfetti on Frida kahlo.
+Dialogue: 0,0:19:49.48,0:19:51.02,Default,,0,0,0,,{\i1}Ay, dios mío.{\i0}
+Dialogue: 0,0:19:55.69,0:19:57.74,Default,,0,0,0,,[Sighs] Okay.
+Dialogue: 0,0:19:59.78,0:20:01.14,Default,,0,0,0,,Now I'm in heaven.
+Dialogue: 0,0:20:01.16,0:20:03.37,Default,,0,0,0,,Immigrants. We get the job done.
+Dialogue: 0,0:20:05.04,0:20:07.43,Default,,0,0,0,,I can't believe\Nyou pulled this all together.
+Dialogue: 0,0:20:07.45,0:20:09.31,Default,,0,0,0,,Look at the centerpieces!
+Dialogue: 0,0:20:09.33,0:20:12.69,Default,,0,0,0,,{\i1}Ay,{\i0} Tina. {\i1}Muy bien hecho{\i0}.
+Dialogue: 0,0:20:12.71,0:20:14.09,Default,,0,0,0,,All is forgiven.
+Dialogue: 0,0:20:15.17,0:20:17.80,Default,,0,0,0,,Yeah, most is forgiven. Okay.
+Dialogue: 0,0:20:19.38,0:20:20.49,Default,,0,0,0,,Have you seen your {\i1}papi?{\i0}
+Dialogue: 0,0:20:20.51,0:20:22.51,Default,,0,0,0,,No. But I'm seeing too\Nmuch of something.
+Dialogue: 0,0:20:39.82,0:20:40.93,Default,,0,0,0,,Hey!
+Dialogue: 0,0:20:40.95,0:20:44.99,Default,,0,0,0,,Everything looks amazing.\NAnd your {\i1}papi's{\i0} here.
+Dialogue: 0,0:20:45.91,0:20:46.99,Default,,0,0,0,,[Sighs]
+Dialogue: 0,0:20:47.99,0:20:51.81,Default,,0,0,0,,Okay, so I have made\Na few adjustments to the dress.
+Dialogue: 0,0:20:51.83,0:20:54.42,Default,,0,0,0,,{\i1}Mami,{\i0} I already checked that box.\NIn ink.
+Dialogue: 0,0:20:54.92,0:20:57.69,Default,,0,0,0,,[Stammers] But it's just a few tweaks.\NYou won't even notice.
+Dialogue: 0,0:20:57.71,0:20:59.86,Default,,0,0,0,,I should not have said anything.
+Dialogue: 0,0:20:59.88,0:21:01.38,Default,,0,0,0,,- [Elena sighs]\N{\i1}- Mira.{\i0}
+Dialogue: 0,0:21:14.19,0:21:15.65,Default,,0,0,0,,[Sobbing and laughing]
+Dialogue: 0,0:21:17.52,0:21:18.69,Default,,0,0,0,,I... [laughs]
+Dialogue: 0,0:21:20.65,0:21:21.86,Default,,0,0,0,,[Lydia] Oh!
+Dialogue: 0,0:21:22.74,0:21:26.83,Default,,0,0,0,,[Gasps] Now, that is the response\NI have been waiting for.
+Dialogue: 0,0:21:28.41,0:21:30.91,Default,,0,0,0,,Next time, don't make me jump\Nthrough the hoops.
+Dialogue: 0,0:21:32.96,0:21:34.17,Default,,0,0,0,,Hey, everybody.
+Dialogue: 0,0:21:36.50,0:21:37.54,Default,,0,0,0,,Hello?
+Dialogue: 0,0:21:40.51,0:21:43.22,Default,,0,0,0,,[Shouting] Hey, you guys!
+Dialogue: 0,0:21:45.80,0:21:47.39,Default,,0,0,0,,The room is yours.
+Dialogue: 0,0:21:49.43,0:21:50.77,Default,,0,0,0,,Thank you, {\i1}Mami.{\i0}
+Dialogue: 0,0:21:51.73,0:21:52.76,Default,,0,0,0,,[Sighs]
+Dialogue: 0,0:21:53.27,0:21:55.73,Default,,0,0,0,,Victor and I would like\Nto thank you all for coming.
+Dialogue: 0,0:21:56.31,0:21:59.73,Default,,0,0,0,,And I'm probably gonna cry,\Nso deal with it, {\i1}mi gente{\i0}.
+Dialogue: 0,0:22:02.15,0:22:04.40,Default,,0,0,0,,August 7, 2001.
+Dialogue: 0,0:22:05.53,0:22:07.68,Default,,0,0,0,,The doctor said\NElena was due August 15th,
+Dialogue: 0,0:22:07.70,0:22:08.85,Default,,0,0,0,,but you know her,
+Dialogue: 0,0:22:08.87,0:22:11.66,Default,,0,0,0,,she ain't lettin' no man tell her\Nwhen she gonna get birthed.
+Dialogue: 0,0:22:12.16,0:22:13.73,Default,,0,0,0,,[All laughing]
+Dialogue: 0,0:22:13.75,0:22:17.50,Default,,0,0,0,,Elena has always been her own girl...
+Dialogue: 0,0:22:18.59,0:22:20.75,Default,,0,0,0,,And now she's becoming\Nher own woman.
+Dialogue: 0,0:22:22.76,0:22:24.70,Default,,0,0,0,,When she was in third grade,
+Dialogue: 0,0:22:24.72,0:22:27.72,Default,,0,0,0,,she played the cherry tree\Nin a school play.
+Dialogue: 0,0:22:27.93,0:22:30.99,Default,,0,0,0,,And when George Washington\Nswung his ax,
+Dialogue: 0,0:22:31.01,0:22:34.41,Default,,0,0,0,,she hit him back and yelled,\N"trees are people, too!"
+Dialogue: 0,0:22:34.43,0:22:35.64,Default,,0,0,0,,[All laughing]
+Dialogue: 0,0:22:37.40,0:22:38.69,Default,,0,0,0,,And that's Elena.
+Dialogue: 0,0:22:39.77,0:22:41.77,Default,,0,0,0,,Always sticking up for the underdog.
+Dialogue: 0,0:22:43.15,0:22:46.36,Default,,0,0,0,,Whether it's a tree,\Nan animal, a friend...
+Dialogue: 0,0:22:48.87,0:22:49.94,Default,,0,0,0,,Or me.
+Dialogue: 0,0:22:54.29,0:22:56.71,Default,,0,0,0,,She's taught me more\Nabout being strong...
+Dialogue: 0,0:23:00.08,0:23:04.65,Default,,0,0,0,,Selfless and true to yourself\Nthan I could have ever taught her.
+Dialogue: 0,0:23:04.67,0:23:08.57,Default,,0,0,0,,Okay, I can't hold it together anymore,\Nso let's just bring the court out here!
+Dialogue: 0,0:23:08.59,0:23:10.64,Default,,0,0,0,,[All cheering]
+Dialogue: 0,0:23:24.73,0:23:27.18,Default,,0,0,0,,And now, let's welcome\Nthe girl of the hour...
+Dialogue: 0,0:23:27.20,0:23:30.43,Default,,0,0,0,,Oh, I mean, the woman of the hour...
+Dialogue: 0,0:23:30.45,0:23:35.79,Default,,0,0,0,,Elena Maria Alvarez riera\Ncalderón leytevidal inclan.
+Dialogue: 0,0:23:36.54,0:23:38.27,Default,,0,0,0,,[Upbeat music playing]
+Dialogue: 0,0:23:38.29,0:23:39.88,Default,,0,0,0,,[All cheering and whooping]
+Dialogue: 0,0:23:45.09,0:23:48.05,Default,,0,0,0,,Thank you. {\i1}Gracias. {\i0}You're welcome.
+Dialogue: 0,0:23:50.43,0:23:51.44,Default,,0,0,0,,Are you ready?
+Dialogue: 0,0:23:51.84,0:23:52.93,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:23:54.01,0:23:55.85,Default,,0,0,0,,Carmen! Oh!
+Dialogue: 0,0:23:56.43,0:23:57.54,Default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:23:57.56,0:23:59.02,Default,,0,0,0,,Schneider flew me out.
+Dialogue: 0,0:24:04.61,0:24:06.90,Default,,0,0,0,,[Slow song playing]
+Dialogue: 0,0:24:14.74,0:24:16.56,Default,,0,0,0,,How do you know all the steps?
+Dialogue: 0,0:24:16.58,0:24:20.02,Default,,0,0,0,,Your {\i1}abuelita{\i0} skyped me\Nevery day for three months.
+Dialogue: 0,0:24:20.04,0:24:22.48,Default,,0,0,0,,She was so mean, she made me cry.
+Dialogue: 0,0:24:22.50,0:24:23.79,Default,,0,0,0,,I loved it.
+Dialogue: 0,0:24:41.77,0:24:43.35,Default,,0,0,0,,[Upbeat music playing]
+Dialogue: 0,0:24:48.07,0:24:49.65,Default,,0,0,0,,[Speaks Spanish]
+Dialogue: 0,0:24:59.25,0:25:00.66,Default,,0,0,0,,[Lydia] {\i1}Oye. Mira.{\i0}
+Dialogue: 0,0:25:07.13,0:25:09.01,Default,,0,0,0,,[Pop music playing]
+Dialogue: 0,0:25:31.36,0:25:33.20,Default,,0,0,0,,[All applaud and cheer]
+Dialogue: 0,0:25:37.70,0:25:40.52,Default,,0,0,0,,- Ah! [Laughs]\N- Wow!
+Dialogue: 0,0:25:40.54,0:25:43.52,Default,,0,0,0,,What about the suit, huh?\NIt was perfect.
+Dialogue: 0,0:25:43.54,0:25:47.27,Default,,0,0,0,,And I could never have done it\Nwithout Leslie.
+Dialogue: 0,0:25:47.29,0:25:50.99,Default,,0,0,0,,- What?\N- Well, last night your mother said,
+Dialogue: 0,0:25:51.01,0:25:54.07,Default,,0,0,0,,"if you can suture, you can sew."
+Dialogue: 0,0:25:54.09,0:25:56.30,Default,,0,0,0,,So, I helped her make Elena's suit.
+Dialogue: 0,0:25:57.10,0:26:00.79,Default,,0,0,0,,I was on a deadline.\NI needed his nimble fingers.
+Dialogue: 0,0:26:00.81,0:26:02.43,Default,,0,0,0,,Oh, such a talent!
+Dialogue: 0,0:26:02.93,0:26:05.85,Default,,0,0,0,,It's a shame\Nyou wasted your life as a doctor.
+Dialogue: 0,0:26:07.73,0:26:09.63,Default,,0,0,0,,Okay.
+Dialogue: 0,0:26:09.65,0:26:12.30,Default,,0,0,0,,So when you went in your room\Nlast night, you guys were...
+Dialogue: 0,0:26:12.32,0:26:15.70,Default,,0,0,0,,Sewing. What else did\Nyou think we... oh!
+Dialogue: 0,0:26:18.95,0:26:20.70,Default,,0,0,0,,{\i1}Qué mala. Qué sucia.{\i0}
+Dialogue: 0,0:26:21.95,0:26:24.48,Default,,0,0,0,,All right, all right.\NLadies and gentlemen.
+Dialogue: 0,0:26:24.50,0:26:26.44,Default,,0,0,0,,Please, turn your attention\Nto the dance floor
+Dialogue: 0,0:26:26.46,0:26:28.27,Default,,0,0,0,,for the father-daughter dance.
+Dialogue: 0,0:26:28.29,0:26:29.79,Default,,0,0,0,,[Applause]
+Dialogue: 0,0:26:34.80,0:26:36.30,Default,,0,0,0,,[Guitar music playing]
+Dialogue: 0,0:27:16.80,0:27:18.13,Default,,0,0,0,,I got you.
+Dialogue: 0,0:28:26.41,0:28:27.79,Default,,0,0,0,,I'm okay, you guys.
+Dialogue: 0,0:28:29.87,0:28:31.81,Default,,0,0,0,,Thank you both\Nfor making me have a {\i1}quinces.{\i0}
+Dialogue: 0,0:28:31.83,0:28:34.61,Default,,0,0,0,,I... have to admit,\Nthis is pretty great.
+Dialogue: 0,0:28:34.63,0:28:37.53,Default,,0,0,0,,Oh, you are welcome, {\i1}mija.{\i0}
+Dialogue: 0,0:28:37.55,0:28:38.86,Default,,0,0,0,,[Sniffs]
+Dialogue: 0,0:28:38.88,0:28:41.57,Default,,0,0,0,,I never tire of saying...
+Dialogue: 0,0:28:41.59,0:28:43.80,Default,,0,0,0,,"I told you so."
+Dialogue: 0,0:28:46.39,0:28:49.75,Default,,0,0,0,,Eat it up, 'cause we're not doing\Nthis again until your wedding.
+Dialogue: 0,0:28:49.77,0:28:51.92,Default,,0,0,0,,Oh, I'm never getting married, so...
+Dialogue: 0,0:28:51.94,0:28:54.25,Default,,0,0,0,,[Sing-song] I can't hear you.
+Dialogue: 0,0:28:54.27,0:28:56.75,Default,,0,0,0,,The music's too loud!
+Dialogue: 0,0:28:56.77,0:28:58.28,Default,,0,0,0,,[Salsa music playing]

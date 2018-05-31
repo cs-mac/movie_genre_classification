@@ -1,0 +1,3394 @@
+1
+00:00:01,000 --> 00:00:06,100
+When I assemble charges, I have to do work,
+we discussed that earlier.
+
+2
+00:00:06,100 --> 00:00:10,840
+And we call that
+electrostatic potential energy.
+
+3
+00:00:10,840 --> 00:00:15,260
+Today, I will look at this energy concept
+in a different way,
+
+4
+00:00:15,260 --> 00:00:20,580
+and I will evaluate the energy
+in terms of the electric field.
+
+5
+00:00:20,580 --> 00:00:29,479
+Suppose I have two parallel plates
+and I charge this one with positive charge,
+
+6
+00:00:29,480 --> 00:00:33,280
+which is the surface charge density
+times the area of the plate,
+
+7
+00:00:33,280 --> 00:00:36,120
+and this one, negative charge,
+
+8
+00:00:36,120 --> 00:00:41,680
+which is the surface charge density negative
+times the area of the plate.
+
+9
+00:00:41,680 --> 00:00:45,800
+And let's assume that the separation between
+these two is h
+
+10
+00:00:45,800 --> 00:00:50,660
+and so we have an electric field,
+which is approximately constant
+
+11
+00:00:50,660 --> 00:00:56,179
+and the electric field here
+is sigma divided by epsilon zero.
+
+12
+00:00:56,180 --> 00:01:01,360
+And now, I'm going to take the upper plate,
+and I'm going to move it up.
+
+13
+00:01:01,360 --> 00:01:08,160
+And so as I do that, I have to apply a force,
+because these two plates attract each other,
+
+14
+00:01:08,160 --> 00:01:10,399
+so I have to do work.
+
+15
+00:01:10,400 --> 00:01:16,060
+And as I move this up, and I will move it
+up over a distance x,
+
+16
+00:01:16,060 --> 00:01:21,040
+I am creating here, electric field
+that wasn't there before.
+
+17
+00:01:21,040 --> 00:01:27,020
+And the electric field that I'm creating has
+exactly the same strength as this,
+
+18
+00:01:27,020 --> 00:01:30,679
+because the charge on the plates
+is not changing when I am moving,
+
+19
+00:01:30,680 --> 00:01:35,960
+the surface charge density is not changing,
+all I do is, I increase the distance.
+
+20
+00:01:35,969 --> 00:01:41,048
+And so I am creating
+electric field in here.
+
+21
+00:01:41,049 --> 00:01:45,469
+And for that, I have to do work,
+that's another way of looking at it.
+
+22
+00:01:45,469 --> 00:01:47,619
+How much work do I have to do?
+
+23
+00:01:47,620 --> 00:01:53,860
+What is the work that Walter Lewin has to do
+in moving this plate over the distance x?
+
+24
+00:01:53,860 --> 00:01:58,760
+Well, that is the force that I have to apply
+over that distance x.
+
+25
+00:01:58,760 --> 00:02:03,580
+The force is constant and so I can simply
+multiply the force times the distance,
+
+26
+00:02:03,580 --> 00:02:05,800
+that will give me work.
+
+27
+00:02:05,800 --> 00:02:12,240
+And so the question now is, what is the force
+that I have to apply to move this plate up?
+
+28
+00:02:12,240 --> 00:02:18,600
+And your first guess would be that the force
+would be the charge on the plate
+
+29
+00:02:18,600 --> 00:02:21,700
+times the electric field strength,
+a complete reasonable guess,
+
+30
+00:02:21,700 --> 00:02:25,000
+because, you would argue,
+"Well, if we have an electric field E
+
+31
+00:02:25,000 --> 00:02:29,040
+and we bring a charge Q in there,
+then the electric force is Q times E,
+
+32
+00:02:29,040 --> 00:02:32,940
+I have to overcome that force,
+so my force is Q times E."
+
+33
+00:02:32,940 --> 00:02:35,020
+Yes, that holds most of the time.
+
+34
+00:02:35,020 --> 00:02:36,480
+But not in this case.
+
+35
+00:02:36,480 --> 00:02:38,359
+It's a little bit more subtle.
+
+36
+00:02:38,360 --> 00:02:42,920
+Let me take this plate here
+and enlarge that plate.
+
+37
+00:02:42,920 --> 00:02:44,079
+So here is the plate.
+
+38
+00:02:44,080 --> 00:02:48,540
+So you see the thickness of the plate, now,
+this is one plate.
+
+39
+00:02:48,540 --> 00:02:52,799
+We all agree that the plus charge
+is at the surface,
+
+40
+00:02:52,800 --> 00:02:56,020
+well, but, of course,
+it has to be in the plate.
+
+41
+00:02:56,020 --> 00:03:00,240
+And so there is here
+this layer of charge Q,
+
+42
+00:03:00,240 --> 00:03:02,000
+which is at the bottom of the plate.
+
+43
+00:03:02,000 --> 00:03:05,220
+And the thickness of that layer may only be
+one atomic thickness.
+
+44
+00:03:05,220 --> 00:03:07,340
+But it's not zero.
+
+45
+00:03:07,340 --> 00:03:11,280
+And on this side of the plate,
+is there electric field,
+
+46
+00:03:11,280 --> 00:03:14,040
+which is sigma
+divided by epsilon zero.
+
+47
+00:03:14,040 --> 00:03:18,500
+But inside the plate, which is a conductor,
+the electric field is zero.
+
+48
+00:03:18,500 --> 00:03:26,820
+And therefore, the electric field is, in this
+charge Q, is the average between the two.
+
+49
+00:03:26,820 --> 00:03:35,140
+And so the force on this charge, in this layer,
+is not Q times E, but is one-half Q times E.
+
+50
+00:03:35,140 --> 00:03:40,339
+So I take the average between these E fields,
+and this E field is then this value.
+
+51
+00:03:40,340 --> 00:03:45,400
+And so now I can calculate
+the work that I have to do,
+
+52
+00:03:45,400 --> 00:03:53,560
+the work that I have to do is now my force,
+which is one-half Q times E,
+
+53
+00:03:53,560 --> 00:03:58,440
+and I move that over a distance x.
+
+54
+00:03:58,440 --> 00:04:04,680
+And so what I can do now
+is replace Q by sigma A,
+
+55
+00:04:04,680 --> 00:04:12,440
+so I get one-half sigma A
+times E times x
+
+56
+00:04:12,440 --> 00:04:19,320
+and I multiply upstairs and downstairs
+by epsilon zero, so that multiply by one.
+
+57
+00:04:19,320 --> 00:04:21,120
+And the reason
+why I do that is,
+
+58
+00:04:21,120 --> 00:04:25,120
+because then I get another sigma
+divided by epsilon zero here--
+
+59
+00:04:25,120 --> 00:04:28,880
+divided by epsilon zero, and that is E,
+and therefore,
+
+60
+00:04:28,880 --> 00:04:32,680
+I now have that the total work that I,
+Walter Lewin have to do--
+
+61
+00:04:32,680 --> 00:04:40,680
+has to do is one-half epsilon zero,
+E-squared times A times x.
+
+62
+00:04:40,680 --> 00:04:42,380
+And look at this.
+
+63
+00:04:42,380 --> 00:04:45,820
+A x is the new volume
+that I have created,
+
+64
+00:04:45,820 --> 00:04:50,599
+it is the new volume
+in which I have created electric field.
+
+65
+00:04:50,600 --> 00:05:01,620
+And this, now, calls for a work
+done by Walter Lewin,
+
+66
+00:05:01,620 --> 00:05:12,560
+per unit volume and that, now, equals
+one-half epsilon zero times E squared.
+
+67
+00:05:12,560 --> 00:05:16,840
+This is the work that I have done
+per unit volume.
+
+68
+00:05:16,840 --> 00:05:23,940
+And since this work created electric field,
+we called it "field energy density".
+
+69
+00:05:23,940 --> 00:05:28,740
+And it is in joules
+per cubic meter.
+
+70
+00:05:28,740 --> 00:05:34,180
+And it can be shown that, in general,
+the electric field energy density
+
+71
+00:05:34,180 --> 00:05:40,240
+is one-half epsilon zero E squared, not only for this
+particular charge configuration,
+
+72
+00:05:40,240 --> 00:05:43,180
+but for any charge configuration.
+
+73
+00:05:43,180 --> 00:05:49,320
+And so, now, we have a new way of looking
+at the energy that it takes to assemble charges.
+
+74
+00:05:49,320 --> 00:05:54,320
+Earlier, we calculated the work that we have
+to do to put the charges in place.
+
+75
+00:05:54,320 --> 00:06:02,240
+Now, if it is more convenient, we could calculate
+that the energy, electrostatic potential energy,
+
+76
+00:06:02,240 --> 00:06:09,740
+is the integral of one-half epsilon zero E-squared,
+over all space--
+
+77
+00:06:09,740 --> 00:06:13,720
+if necessary, you have to go all the way
+down to infinity--
+
+78
+00:06:13,720 --> 00:06:18,160
+and here I have now dV,
+this is volume.
+
+79
+00:06:18,160 --> 00:06:22,420
+This has nothing to do with potential,
+this V, in physics, we often run out of symbols,
+
+80
+00:06:22,420 --> 00:06:26,920
+V is sometimes potential, in this case,
+it is volume.
+
+81
+00:06:26,920 --> 00:06:31,540
+And the only reason why I chose h there
+is I already have a d here,
+
+82
+00:06:31,540 --> 00:06:32,660
+so I didn't want two ds.
+
+83
+00:06:32,660 --> 00:06:35,660
+Normally, we take d
+as the separation between plates.
+
+84
+00:06:35,660 --> 00:06:41,760
+And so this, now, is another way of looking
+at electrostatic potential energy.
+
+85
+00:06:41,760 --> 00:06:46,360
+We look at it now only from the point of view
+of all the energy being in the electric field,
+
+86
+00:06:46,360 --> 00:06:49,760
+and we no longer think of it, perhaps,
+as the work that you have done
+
+87
+00:06:49,760 --> 00:06:53,200
+to assemble these charges.
+
+88
+00:06:54,340 --> 00:06:56,460
+I will demonstrate
+later today
+
+89
+00:06:56,460 --> 00:07:02,340
+that as I separate the two plates
+from these charged planes,
+
+90
+00:07:02,340 --> 00:07:04,000
+that indeed,
+I have to do work.
+
+91
+00:07:04,009 --> 00:07:07,380
+I will convince you
+that by creating electric fields
+
+92
+00:07:07,380 --> 00:07:11,440
+that indeed,
+I will be doing work.
+
+93
+00:07:11,440 --> 00:07:14,580
+So from now on,
+we have the choice.
+
+94
+00:07:14,580 --> 00:07:19,479
+If you want to calculate what the electrostatic
+potential energy is,
+
+95
+00:07:19,480 --> 00:07:22,320
+you either calculate the work
+that you have to do
+
+96
+00:07:22,320 --> 00:07:24,580
+to bring all these
+charges in place,
+
+97
+00:07:24,580 --> 00:07:28,659
+or, if it is easier, you can take
+the electric field everywhere in space,
+
+98
+00:07:28,660 --> 00:07:33,080
+if you know that and do
+an integration over all space.
+
+99
+00:07:33,080 --> 00:07:37,320
+We could do that, for instance,
+for these two parallel plates now
+
+100
+00:07:37,320 --> 00:07:41,540
+and we can ask what is now
+the total energy in the field.
+
+101
+00:07:41,540 --> 00:07:47,800
+And at home, I would advise you, to do that
+the way that it's done in your book,
+
+102
+00:07:47,800 --> 00:07:52,840
+whereby you actually assemble the charges minus Q
+at the bottom and plus Q at the top,
+
+103
+00:07:52,840 --> 00:07:55,140
+and you  calculate how much work
+you have to do.
+
+104
+00:07:55,140 --> 00:07:56,300
+That's one approach.
+
+105
+00:07:56,300 --> 00:08:00,540
+I will now choose the other approach,
+and that is, by simply saying
+
+106
+00:08:00,540 --> 00:08:07,380
+that the total energy in the field
+of these plane-parallel plates,
+
+107
+00:08:07,380 --> 00:08:12,080
+is the integral of one-half epsilon
+zero E squared,
+
+108
+00:08:12,080 --> 00:08:15,719
+over the entire volume
+of these two plates.
+
+109
+00:08:15,720 --> 00:08:19,640
+And since the electric field is outside
+zero, everywhere,
+
+110
+00:08:19,640 --> 00:08:23,060
+it's a very easy integral,
+because I know the volume.
+
+111
+00:08:23,060 --> 00:08:28,400
+The volume that I have, if the separation is h--
+so we still have them h apart--
+
+112
+00:08:28,400 --> 00:08:33,280
+this volume that I have is simply A times h,
+and the electric field is constant
+
+113
+00:08:33,280 --> 00:08:39,419
+and so I get here that this
+is one-half epsilon zero.
+
+114
+00:08:39,419 --> 00:08:46,260
+For E, if I want to, I can write sigma divided
+by epsilon zero, I can square that
+
+115
+00:08:46,260 --> 00:08:52,480
+and dV in doing the integral over all space,
+means simply I get A times h,
+
+116
+00:08:52,480 --> 00:08:54,380
+it is the volume of that box.
+
+117
+00:08:54,380 --> 00:08:57,080
+So I get A times h.
+
+118
+00:08:57,080 --> 00:09:01,700
+And so this is now the total energy that I have,
+I lose one epsilon here,
+
+119
+00:09:01,700 --> 00:09:04,340
+I have an epsilon zero squared
+and I have an epsilon.
+
+120
+00:09:04,340 --> 00:09:10,380
+I also remember that the charge Q
+on the plate is A times sigma,
+
+121
+00:09:10,380 --> 00:09:15,000
+and that the potential difference V,
+this now is not volume,
+
+122
+00:09:15,000 --> 00:09:22,840
+it's the potential difference between the plates,
+is the electric field times h.
+
+123
+00:09:22,840 --> 00:09:26,060
+The electric field is constant,
+it can go from one plate to the other,
+
+124
+00:09:26,060 --> 00:09:29,060
+the integral E dot dl
+in going from one plate to the other,
+
+125
+00:09:29,060 --> 00:09:30,939
+gives me the potential difference.
+
+126
+00:09:30,940 --> 00:09:36,660
+And so I can substitute that now in here,
+I can take for A, sigma,
+
+127
+00:09:36,660 --> 00:09:42,180
+I can put in the Q and you can also
+show that this is one-half Q V.
+
+128
+00:09:42,180 --> 00:09:45,760
+V being, now, the potential difference between
+the plates.
+
+129
+00:09:45,760 --> 00:09:49,319
+And so this is a rather fast way
+that you can calculate
+
+130
+00:09:49,320 --> 00:09:54,560
+what the total energy is in the field,
+or, say, the same thing,
+
+131
+00:09:54,560 --> 00:09:58,040
+the total work you have to do
+to assemble these charges.
+
+132
+00:09:58,040 --> 00:10:03,620
+Or, to say it differently, the total work
+you have to do to create electric fields.
+
+133
+00:10:03,620 --> 00:10:09,080
+You have created electric fields
+that were not there before.
+
+134
+00:10:10,020 --> 00:10:20,500
+I now will introduce something that we haven't
+had before, that is the word "capacitance".
+
+135
+00:10:20,500 --> 00:10:29,920
+I will define the capacitance of an object
+to be the charge of that object
+
+136
+00:10:29,920 --> 00:10:34,439
+divided by the potential
+of that object.
+
+137
+00:10:34,440 --> 00:10:41,460
+And so the unit is coulombs per volt,
+this V is volt, now, it's potential.
+
+138
+00:10:41,460 --> 00:10:47,640
+But we never say that it is coulombs per
+volt in physics, we write for that a capital F,
+
+139
+00:10:47,640 --> 00:10:53,360
+which is Farad, we call that.
+One farad is the unit of capacitance,
+
+140
+00:10:53,360 --> 00:10:56,320
+undoubtedly called
+after the great maestro Faraday,
+
+141
+00:10:56,320 --> 00:10:59,340
+we will learn more about Faraday
+later in this course.
+
+142
+00:10:59,340 --> 00:11:06,340
+So let us go to a sphere
+which has a radius R
+
+143
+00:11:06,340 --> 00:11:11,280
+and let us calculate what the capacitance is
+of this sphere.
+
+144
+00:11:11,280 --> 00:11:16,240
+Think of it as being a conductor, and we bring
+a certain charge Q on this conductor,
+
+145
+00:11:16,240 --> 00:11:23,960
+it will then get a potential V, which we know
+is Q divided by four pi epsilon zero R.
+
+146
+00:11:23,960 --> 00:11:33,620
+We've seen this many times and so, by definition,
+the capacitance now is Q divided by the potential,
+
+147
+00:11:33,620 --> 00:11:39,780
+and therefore, this becomes
+four pi epsilon zero R.
+
+148
+00:11:39,780 --> 00:11:43,560
+So that is the capacitance
+of a single sphere.
+
+149
+00:11:44,780 --> 00:11:50,680
+And so we can now look at the values
+as a function of R.
+
+150
+00:11:50,680 --> 00:11:54,680
+I have here some numbers,
+I calculated it for the VandeGraaff
+
+151
+00:11:54,680 --> 00:11:59,000
+and I calculated it for the Earth.
+
+152
+00:11:59,000 --> 00:12:03,280
+If you want one Farad capacitance,
+that's a real biggie,
+
+153
+00:12:03,280 --> 00:12:06,520
+you need a radius of 9 times ten
+to the 9 meters,
+
+154
+00:12:06,520 --> 00:12:09,400
+that's the four pi epsilon zero
+that comes in there.
+
+155
+00:12:09,400 --> 00:12:12,939
+That's huge, that's twenty-five times
+the distance from the Earth to the moon,
+
+156
+00:12:12,940 --> 00:12:16,780
+that's a big sphere to have a capacitance
+of one farad.
+
+157
+00:12:16,780 --> 00:12:20,480
+The Earth itself, with a radius
+of sixty-four hundred kilometers,
+
+158
+00:12:20,480 --> 00:12:22,580
+would have seven hundred microfarad,
+
+159
+00:12:22,580 --> 00:12:26,360
+the VandeGraaff, thirty centimeters radius,
+would be 30 picofarad,
+
+160
+00:12:26,360 --> 00:12:28,640
+the pico is ten to the minus twelve.
+
+161
+00:12:28,640 --> 00:12:31,680
+And if you take a sphere with a
+radius of one centimeter,
+
+162
+00:12:31,680 --> 00:12:38,300
+then you have, roughly, one picofarad,
+ten to the minus twelve farad.
+
+163
+00:12:38,300 --> 00:12:42,439
+So this gives you a rough idea
+about the size of objects
+
+164
+00:12:42,440 --> 00:12:45,660
+and how they connect
+to their capacitance.
+
+165
+00:12:45,660 --> 00:12:50,540
+So if I bring all these spheres,
+at the same potential,
+
+166
+00:12:50,540 --> 00:12:53,219
+so I charge them all up
+to the same potential,
+
+167
+00:12:53,220 --> 00:12:55,900
+then the one
+with the largest capacitance,
+
+168
+00:12:55,900 --> 00:12:58,980
+will have the most charge.
+
+169
+00:12:58,980 --> 00:13:01,640
+And that, of course, is where
+the word "capacitance" comes from,
+
+170
+00:13:01,640 --> 00:13:07,720
+it is the capability of holding charge
+for a given electric potential.
+
+171
+00:13:07,720 --> 00:13:11,680
+Don't confuse that with electric fields
+because if you bring all these spheres
+
+172
+00:13:11,680 --> 00:13:15,520
+at the same potential, then the one
+with the strongest electric field,
+
+173
+00:13:15,520 --> 00:13:18,079
+that's the one which has the short--
+smallest radius,
+
+174
+00:13:18,080 --> 00:13:21,020
+we discussed that last time.
+
+175
+00:13:21,900 --> 00:13:28,140
+Now, I will look at the situation
+a little bit differently.
+
+176
+00:13:28,140 --> 00:13:35,920
+I have here a sphere, B,
+positively charged
+
+177
+00:13:35,920 --> 00:13:41,959
+and I place it close to another sphere, A,
+which is negatively charged.
+
+178
+00:13:41,960 --> 00:13:47,780
+And so, by my definition,
+I can say that the capacitance of B
+
+179
+00:13:47,780 --> 00:13:54,160
+is the charge that I have on B
+divided by the potential of B.
+
+180
+00:13:54,160 --> 00:13:57,300
+That will be my definition.
+
+181
+00:13:57,300 --> 00:14:04,260
+But, there is here, this object
+which charged negative.
+
+182
+00:14:04,260 --> 00:14:09,580
+And how did we define potential?
+Potential was work per unit charge.
+
+183
+00:14:09,580 --> 00:14:15,200
+I go to infinity, I put plus q in my pocket,
+I approach B
+
+184
+00:14:15,200 --> 00:14:17,740
+and the work I have to do
+per unit charge
+
+185
+00:14:17,740 --> 00:14:21,820
+is the potential of B,
+that's the definition of potential.
+
+186
+00:14:21,820 --> 00:14:23,560
+But B is repelling me.
+
+187
+00:14:23,560 --> 00:14:25,219
+So I have to do positive work.
+
+188
+00:14:25,220 --> 00:14:27,500
+But A is now attracting me.
+
+189
+00:14:27,500 --> 00:14:31,200
+And so the work I have to do is less,
+the work per unit charge.
+
+190
+00:14:31,200 --> 00:14:36,260
+And so, because of the presence of A,
+the potential of B goes down
+
+191
+00:14:36,260 --> 00:14:41,220
+and therefore,
+the capacitance of B goes up.
+
+192
+00:14:41,220 --> 00:14:47,180
+And so now you see that the presence
+of this charged sphere here
+
+193
+00:14:47,180 --> 00:14:52,959
+has an influence, an important impact,
+on the capacitance of B and therefore,
+
+194
+00:14:52,960 --> 00:14:58,780
+it is really unfair to call this
+the capacitance of B.
+
+195
+00:14:58,780 --> 00:15:03,199
+We think of it as the capacitance of B
+in the presence of A.
+
+196
+00:15:03,200 --> 00:15:06,180
+So it's no longer just B alone.
+
+197
+00:15:06,180 --> 00:15:10,280
+And so I'm now going to change
+the definition of capacitance.
+
+198
+00:15:10,280 --> 00:15:13,079
+And I'm going to change it
+in the following way.
+
+199
+00:15:13,080 --> 00:15:15,540
+I have two conductors.
+
+200
+00:15:15,540 --> 00:15:20,240
+And these two conductors have the
+same charge, but different polarities.
+
+201
+00:15:20,240 --> 00:15:25,020
+And now the capacitance
+of this combination of two conductors
+
+202
+00:15:25,020 --> 00:15:29,699
+is the charge on one of them--
+which is the same, of course,
+
+203
+00:15:29,700 --> 00:15:32,700
+on the charge of the other,
+except different polarity--
+
+204
+00:15:32,700 --> 00:15:36,860
+divided by the potential difference.
+
+205
+00:15:36,860 --> 00:15:44,300
+So that now,
+is my new definition of capacitance.
+
+206
+00:15:44,300 --> 00:15:47,920
+So we always deal with two objects,
+not with one in isolation,
+
+207
+00:15:47,920 --> 00:15:49,959
+if you have the charge
+on one of the two,
+
+208
+00:15:49,960 --> 00:15:53,600
+and you divide it by the potential
+difference between the two.
+
+209
+00:15:53,600 --> 00:15:55,660
+You may say, "Well,
+it's a little artificial
+
+210
+00:15:55,660 --> 00:15:59,040
+to have two conductors
+and one is positively charged
+
+211
+00:15:59,040 --> 00:16:02,319
+and the other has exactly the same
+amount of negatively charge."
+
+212
+00:16:02,320 --> 00:16:05,180
+Well, it is not so artificial
+as you may think.
+
+213
+00:16:05,180 --> 00:16:08,599
+Remember, then, we have this Windhurst
+machine, which I was cranking
+
+214
+00:16:08,600 --> 00:16:12,220
+and I was charging one plate positive
+and the other one negative.
+
+215
+00:16:12,220 --> 00:16:15,540
+Without my doing anything,
+if one becomes positive,
+
+216
+00:16:15,540 --> 00:16:18,339
+the other one becomes negative
+by exactly the same amount,
+
+217
+00:16:18,340 --> 00:16:21,840
+because you cannot create
+charge out of nothing.
+
+218
+00:16:21,840 --> 00:16:25,380
+So if you charge one thing positive,
+chances are that something else
+
+219
+00:16:25,380 --> 00:16:29,480
+is charged negative by the same amount,
+but with opposite polarity.
+
+220
+00:16:29,480 --> 00:16:32,520
+So it's not so artificial,
+that you have two conductors
+
+221
+00:16:32,520 --> 00:16:37,560
+with the same charge
+but opposite polarities.
+
+222
+00:16:37,560 --> 00:16:44,180
+So now, we have two conductors there,
+so if we go to this-- these two parallel plates,
+
+223
+00:16:44,180 --> 00:16:47,099
+the question now is,
+what is now the capacitance then,
+
+224
+00:16:47,100 --> 00:16:51,340
+according to our new definition
+of these parallel plates?
+
+225
+00:16:51,340 --> 00:16:55,960
+Well, that capacitance C,
+is the charge on one plate
+
+226
+00:16:55,960 --> 00:17:00,060
+divided by the potential difference
+between the two plates.
+
+227
+00:17:00,060 --> 00:17:04,240
+And the charge on one plate is sigma A.
+
+228
+00:17:04,240 --> 00:17:09,800
+And the potential difference between the plates
+is the integral of E dot dl,
+
+229
+00:17:09,800 --> 00:17:12,619
+they are separated there by a distance h.
+
+230
+00:17:12,619 --> 00:17:16,159
+I will change that now to a d,
+because that's more commonly done,
+
+231
+00:17:16,160 --> 00:17:18,660
+that the separation
+between plates is d.
+
+232
+00:17:18,660 --> 00:17:21,240
+There was a reason
+why I didn't want to put a d there,
+
+233
+00:17:21,240 --> 00:17:24,839
+because I didn't want to get you confused,
+but now there is no confusion.
+
+234
+00:17:24,839 --> 00:17:29,159
+And so the potential difference is
+the electric field between the plates
+
+235
+00:17:29,160 --> 00:17:31,480
+times the distance d.
+
+236
+00:17:31,480 --> 00:17:35,320
+But E itself is sigma
+divided by epsilon zero.
+
+237
+00:17:35,320 --> 00:17:40,520
+So we get here sigma
+divided by epsilon zero, divided by d,
+
+238
+00:17:40,520 --> 00:17:49,000
+I lose my sigma, and so, two parallel
+plates have this as the capacitance.
+
+239
+00:17:49,000 --> 00:17:54,580
+It's linearly proportional with the area of
+the plates, that's intuitively pleasing.
+
+240
+00:17:54,580 --> 00:17:57,960
+The larger the plate, the more charge you
+can put on there.
+
+241
+00:17:57,960 --> 00:18:01,160
+And it's inversely proportional with the distance
+between the plates.
+
+242
+00:18:01,160 --> 00:18:04,340
+The smaller you make the distance,
+the larger is the capacitance.
+
+243
+00:18:04,350 --> 00:18:08,419
+Well, that goes back to this idea,
+that the closer A is to B,
+
+244
+00:18:08,420 --> 00:18:11,460
+the larger effect that will have
+on the capacitance.
+
+245
+00:18:11,470 --> 00:18:15,100
+And if you bring them very close together,
+this potential will go down
+
+246
+00:18:15,100 --> 00:18:16,800
+and so the capacitance will go up.
+
+247
+00:18:16,810 --> 00:18:20,360
+So it's not too surprising
+that you see d here downstairs.
+
+248
+00:18:20,360 --> 00:18:28,080
+The closer you bring the plates together,
+the higher the capacitance will be.
+
+249
+00:18:28,080 --> 00:18:32,139
+Let us look at a-- uh--
+at some numbers.
+
+250
+00:18:32,140 --> 00:18:38,200
+Suppose I have a a plate,
+very large,
+
+251
+00:18:38,200 --> 00:18:44,420
+twenty five meters long
+and five centimeters wide--
+
+252
+00:18:44,420 --> 00:18:46,820
+twenty five meters long
+and five centimeters wide.
+
+253
+00:18:46,820 --> 00:18:50,020
+I have two of them.
+
+254
+00:18:50,020 --> 00:18:52,480
+Called a plate capacitor.
+
+255
+00:18:52,480 --> 00:18:58,780
+And let the distance between them, d,
+let d be-- ooh, let's make it very small,
+
+256
+00:18:58,780 --> 00:19:04,460
+because we want a real big capacitor,
+point oh one millimeters.
+
+257
+00:19:04,460 --> 00:19:07,560
+Very small gap between them.
+
+258
+00:19:07,560 --> 00:19:13,679
+So, now I substitute the numbers in there,
+I can calculate the area,
+
+259
+00:19:13,680 --> 00:19:17,600
+Calculate the area here for the plates
+in square meters of course,
+
+260
+00:19:17,600 --> 00:19:21,240
+multiply by epsilon zero
+and divide it by d in meters
+
+261
+00:19:21,240 --> 00:19:26,620
+and when you do that, you find that
+the capacitance of this big monster
+
+262
+00:19:26,620 --> 00:19:29,060
+is only one microfarad.
+
+263
+00:19:29,060 --> 00:19:31,280
+It's not very much.
+
+264
+00:19:31,280 --> 00:19:36,180
+And when you go to Radio Shack and you buy
+yourself a one microfarad capacitor,
+
+265
+00:19:36,180 --> 00:19:40,780
+you don't buy something that is
+twenty five meters long and yea big.
+
+266
+00:19:40,780 --> 00:19:46,600
+Well, you may actually have-- you may
+actually buy that without you realizing that.
+
+267
+00:19:46,600 --> 00:19:53,860
+Because these large plates, these very long
+ribbons of conductors,
+
+268
+00:19:53,860 --> 00:19:57,479
+two very close together, separated by
+some insulating material,
+
+269
+00:19:57,480 --> 00:19:59,920
+very thin,
+they're rolled up often.
+
+270
+00:19:59,920 --> 00:20:03,580
+And you don't notice that, but they are rolled up
+and they are put in a little canister,
+
+271
+00:20:03,580 --> 00:20:06,840
+and that then gives you
+a parallel plate capacitor.
+
+272
+00:20:06,840 --> 00:20:13,220
+I brought one with me, that is one
+that I have used for several years,
+
+273
+00:20:13,220 --> 00:20:17,840
+but today I decided to cut it open for you
+so that you can look inside
+
+274
+00:20:17,840 --> 00:20:22,679
+and then you actually will see the eh--
+you're going to see there,
+
+275
+00:20:22,680 --> 00:20:28,060
+this is the canister in which it was--
+and so I cut the canister open
+
+276
+00:20:28,060 --> 00:20:32,600
+and when you look here, you see,
+there is this conductor--
+
+277
+00:20:32,600 --> 00:20:36,480
+looks like aluminum foil--
+and then there is insulating material
+
+278
+00:20:36,480 --> 00:20:38,920
+and then you find more conductor,
+on the other side.
+
+279
+00:20:38,920 --> 00:20:40,860
+And so you--
+and it's rolled up.
+
+280
+00:20:40,870 --> 00:20:45,050
+Here, if I unroll it here--
+I'm breaking it, but that's OK--
+
+281
+00:20:45,050 --> 00:20:49,470
+so you see the idea
+of a parallel plate capacitor,
+
+282
+00:20:49,470 --> 00:20:53,720
+how it can be rolled up nicely
+and you not realizing that
+
+283
+00:20:53,720 --> 00:20:59,400
+you're really talking often about meters,
+many meters of material.
+
+284
+00:20:59,400 --> 00:21:02,980
+Now, through chemical techniques,
+the distance d
+
+285
+00:21:02,980 --> 00:21:07,900
+can easily be made
+a thousand times smaller than this.
+
+286
+00:21:07,900 --> 00:21:10,060
+And if the distance is
+thousand times smaller,
+
+287
+00:21:10,060 --> 00:21:14,399
+then you would get a capacitance
+of one thousand microfarads.
+
+288
+00:21:14,400 --> 00:21:18,580
+Compare that with the Earth, which is only
+seven hundred microfarads.
+
+289
+00:21:18,580 --> 00:21:25,300
+So a capacitor like this
+is one thousand microfarads.
+
+290
+00:21:25,300 --> 00:21:28,180
+If we bring the potential difference
+over here,
+
+291
+00:21:28,180 --> 00:21:30,980
+then we get a tremendous amount
+of charge on here.
+
+292
+00:21:30,980 --> 00:21:37,140
+In fact, if I hold this in my hands
+and if I assume that the potential difference
+
+293
+00:21:37,140 --> 00:21:41,400
+between my left hand and my right hand
+is ten millivolts,
+
+294
+00:21:41,400 --> 00:21:46,340
+then I would bring on this capacitor,
+ten microcoulombs.
+
+295
+00:21:46,340 --> 00:21:49,000
+That is a tremendous amount of charge.
+
+296
+00:21:49,000 --> 00:21:52,480
+In fact, ten microcoulombs
+is the maximum charge
+
+297
+00:21:52,480 --> 00:21:54,200
+we can ever put
+on the big VandeGraaff,
+
+298
+00:21:54,200 --> 00:21:55,840
+we calculated it last time.
+
+299
+00:21:55,850 --> 00:21:59,129
+If we put more on the VandeGraaff,
+it goes into discharge.
+
+300
+00:21:59,130 --> 00:22:01,490
+And by simply holding this
+in my hands,
+
+301
+00:22:01,490 --> 00:22:05,640
+I can put ten microcoulombs here
+on this capacitor.
+
+302
+00:22:05,640 --> 00:22:08,920
+Now, you may say, "Well, yes, but, uh,
+potential difference
+
+303
+00:22:08,920 --> 00:22:12,660
+between your right hand and your left hand,
+ten millivolts, isn't that funny?"
+
+304
+00:22:12,660 --> 00:22:14,340
+No, not really.
+
+305
+00:22:14,340 --> 00:22:19,120
+Uh, in the future, I will give a lecture and
+then discuss electrocardiograms.
+
+306
+00:22:19,120 --> 00:22:22,100
+And you will see then,
+that there is a potential difference
+
+307
+00:22:22,100 --> 00:22:24,899
+between the left side of your body
+and the right side
+
+308
+00:22:24,900 --> 00:22:26,080
+which is several millivolts.
+
+309
+00:22:26,080 --> 00:22:30,260
+So it is not as artificial
+as you may think.
+
+310
+00:22:30,260 --> 00:22:37,100
+Actually, we'll take a cardiogram in--
+in class, so you can see it really working.
+
+311
+00:22:37,100 --> 00:22:44,159
+How much energy can I store in a capacitor?
+Well, we already calculated that.
+
+312
+00:22:44,160 --> 00:22:50,020
+We had the energy, is it uh--
+this was the plate capacitor,
+
+313
+00:22:50,020 --> 00:22:57,320
+one-half Q V
+and we can now substitute for, uh--
+
+314
+00:22:57,320 --> 00:23:01,020
+we can substitute in there
+the capacitance C
+
+315
+00:23:01,020 --> 00:23:10,580
+and the C is Q divided by V
+and so this is also one-half C V-squared
+
+316
+00:23:10,580 --> 00:23:12,580
+that's one and the same thing.
+
+317
+00:23:12,580 --> 00:23:17,020
+So either you take the charge on the capacitor,
+multiply it by V,
+
+318
+00:23:17,020 --> 00:23:22,000
+or you take the capacitance
+and multiply it by V-squared.
+
+319
+00:23:22,000 --> 00:23:26,740
+The capacitance is never a function of the
+charge that is on the object.
+
+320
+00:23:26,740 --> 00:23:30,780
+Here, if you look here, the capacitance is only
+a matter of geometry.
+
+321
+00:23:30,780 --> 00:23:34,980
+And when you look there, the plate capacitor,
+it's only a matter of geometry,
+
+322
+00:23:34,980 --> 00:23:40,080
+never does the charge
+show up in there.
+
+323
+00:23:40,080 --> 00:23:46,520
+So I mentioned that I can bring
+ten microcoulombs on this capacitor,
+
+324
+00:23:46,520 --> 00:23:50,840
+and yet, on the VandeGraaff,
+I can also only bring ten microcoulombs,
+
+325
+00:23:50,840 --> 00:23:54,159
+that's the maximum I can do
+before it goes into breakdown.
+
+326
+00:23:54,160 --> 00:24:01,640
+We can think of a capacitor as a device
+that can store electric energy.
+
+327
+00:24:01,640 --> 00:24:08,500
+I will now return to my promise that I was
+going to demonstrate to you
+
+328
+00:24:08,500 --> 00:24:12,480
+that I have to do positive work
+when I create electric fields.
+
+329
+00:24:12,480 --> 00:24:16,200
+In other words, when I take
+these two charged plates,
+
+330
+00:24:16,200 --> 00:24:20,660
+and I bring them further away from each other,
+that I do positive work.
+
+331
+00:24:20,660 --> 00:24:25,400
+And how am I going to show that to you?
+I have two parallel plates.
+
+332
+00:24:25,400 --> 00:24:30,020
+They're on the table there, you're going to
+see them shortly, projected there.
+
+333
+00:24:30,020 --> 00:24:35,580
+And we have, here, a current meter--
+I put an A in there for amperes,
+
+334
+00:24:35,580 --> 00:24:42,100
+symbolic for current meter--
+and I'm going to have a power supply
+
+335
+00:24:42,100 --> 00:24:46,000
+and put a potential difference over here,
+this is the capacitance C--
+
+336
+00:24:46,000 --> 00:24:51,840
+we normally use for capacitor
+the symbol of two parallel lines
+
+337
+00:24:51,840 --> 00:24:57,300
+I'm going to put a potential difference
+V over the capacitor of thousand volts.
+
+338
+00:24:57,300 --> 00:25:02,600
+So let me put a delta here to remind you that
+it's the difference between the two plates.
+
+339
+00:25:02,600 --> 00:25:09,480
+As I do that, as I connect the power supply
+to these two ends, charge will flow on here,
+
+340
+00:25:09,480 --> 00:25:13,040
+and so you will see
+a very short surge of current.
+
+341
+00:25:13,040 --> 00:25:17,520
+So the amp meter will give you, only for
+the short amount of time that I am charging,
+
+342
+00:25:17,520 --> 00:25:18,400
+[wssshhht]
+
+343
+00:25:18,400 --> 00:25:21,340
+will see you -- will show you that there is
+charge flowing.
+
+344
+00:25:21,340 --> 00:25:22,179
+And you will see that.
+
+345
+00:25:22,180 --> 00:25:26,120
+But that's not really the goal of my demonstration.
+
+346
+00:25:26,120 --> 00:25:31,719
+What I'm now going to do, is,
+I'm now going to increase the separation,
+
+347
+00:25:31,720 --> 00:25:34,960
+the instance d of these two plates.
+
+348
+00:25:34,960 --> 00:25:39,900
+And remember that the potential difference
+over the capac-- over the plates,
+
+349
+00:25:39,900 --> 00:25:43,920
+which I call now a capacitor,
+is the electric field times the distance
+
+350
+00:25:43,920 --> 00:25:45,740
+and the electric field is constant.
+
+351
+00:25:45,740 --> 00:25:50,920
+If I charge the capacitor up with a certain
+charge, there is plus Q here,
+
+352
+00:25:50,920 --> 00:25:54,580
+there's minus Q there
+and then I remove the power supply,
+
+353
+00:25:54,580 --> 00:25:57,159
+it's no longer there,
+that charge is trapped,
+
+354
+00:25:57,160 --> 00:25:58,820
+that charge can never change.
+
+355
+00:25:58,820 --> 00:26:03,399
+And so if the charge doesn't change,
+the charge surface density doesn't change,
+
+356
+00:26:03,400 --> 00:26:06,360
+and so the electric field inside
+remains constant.
+
+357
+00:26:06,360 --> 00:26:08,040
+So exactly what we did there.
+
+358
+00:26:08,040 --> 00:26:15,120
+And now I'm going to move them further apart,
+therefore I'm going to make d larger
+
+359
+00:26:15,120 --> 00:26:19,780
+and that can only happen if the potential difference
+between the plates increases.
+
+360
+00:26:19,780 --> 00:26:24,360
+And I will start off with thousand volts,
+whereby d is one millimeter
+
+361
+00:26:24,360 --> 00:26:27,260
+and then I will open up this gap
+up to ten millimeters.
+
+362
+00:26:27,260 --> 00:26:32,720
+And then I have a potential difference of
+ten thousand volts.
+
+363
+00:26:32,720 --> 00:26:40,780
+But since the energy in the capacitor is one-half
+Q times the potential difference V--
+
+364
+00:26:40,780 --> 00:26:44,860
+this V is the same as this delta V--
+and if Q is not changing,
+
+365
+00:26:44,860 --> 00:26:49,600
+but if I go from V from one thousand volts,
+to ten thousand volts,
+
+366
+00:26:49,600 --> 00:26:51,540
+it's very clear
+that I have done work,
+
+367
+00:26:51,540 --> 00:26:55,340
+I have increased
+the electrostatic potential energy.
+
+368
+00:26:55,340 --> 00:26:59,959
+And this is what I want to show you,
+we're going to have that there--
+
+369
+00:26:59,960 --> 00:27:05,380
+so I've changed my television and
+I will have to change the lights a little bit
+
+370
+00:27:05,380 --> 00:27:08,580
+so that you can see that.
+
+371
+00:27:08,580 --> 00:27:14,919
+Well, turn this one off, this one off,
+and all dim [?]--
+
+372
+00:27:14,920 --> 00:27:21,760
+let's wait for the light to settle
+and we want also the-- the current meter.
+
+373
+00:27:21,770 --> 00:27:26,910
+So the one on the right there is the, uh--
+the amp meter, the current meter,
+
+374
+00:27:26,910 --> 00:27:33,230
+and you see here these two plates,
+they are separated now by about one millimeter.
+
+375
+00:27:33,230 --> 00:27:39,330
+I have here a very thin sheet, transparency
+which I can move in between
+
+376
+00:27:39,330 --> 00:27:44,010
+to make sure that they don't make contact--
+and here is my power supply
+
+377
+00:27:44,010 --> 00:27:49,930
+and I have there, this, uh, propeller-type thing
+which is some kind of a volt meter.
+
+378
+00:27:49,930 --> 00:27:52,770
+And if it's going to move
+in this direction,
+
+379
+00:27:52,770 --> 00:27:56,750
+that means that the voltage
+between the plates increases.
+
+380
+00:27:56,750 --> 00:28:02,810
+And so I'm going to charge it now, with a
+potential difference of, uh, thousand volts,
+
+381
+00:28:02,810 --> 00:28:09,050
+and as I do that, you will see a very short
+surge here on this amp meter.
+
+382
+00:28:09,050 --> 00:28:13,330
+That's not very spectacular, but at least
+you can see, for the first time in your life,
+
+383
+00:28:13,330 --> 00:28:18,330
+that charge is actually flowing from my power
+supply onto the plates.
+
+384
+00:28:18,330 --> 00:28:20,620
+Then you will see [pssshhht],
+and that's it.
+
+385
+00:28:20,620 --> 00:28:23,959
+There will only be a current as long as the
+charge is flowing.
+
+386
+00:28:23,960 --> 00:28:30,820
+So let my first do that, look at the amp meter
+there, three, two, one, zero.
+
+387
+00:28:30,820 --> 00:28:34,419
+That's all it took
+to charge these plates.
+
+388
+00:28:34,420 --> 00:28:38,060
+It's now fully charged,
+thousand-volt difference
+
+389
+00:28:38,060 --> 00:28:41,860
+and now, as I'm going
+to increase the gap,
+
+390
+00:28:41,860 --> 00:28:45,139
+there's no reason for any charge
+to go away from the plates,
+
+391
+00:28:45,140 --> 00:28:47,360
+so the amp meter will do nothing,
+
+392
+00:28:47,360 --> 00:28:50,840
+but you're going to see this propeller
+which indicates the potential difference
+
+393
+00:28:50,840 --> 00:28:53,480
+between the plates,
+you're going to see it move,
+
+394
+00:28:53,480 --> 00:28:55,560
+because I'm doing all this work,
+
+395
+00:28:55,560 --> 00:28:57,980
+I'm going from one millimeter
+to ten millimeters,
+
+396
+00:28:57,980 --> 00:29:01,980
+I'm creating all this electric field
+and this hard work pays off
+
+397
+00:29:01,980 --> 00:29:07,340
+in terms of increasing the potential
+from thousand volts to ten thousand volts.
+
+398
+00:29:07,340 --> 00:29:13,399
+So there I go, I'm two millimeters now,
+look at the volt meter, there it's going...
+
+399
+00:29:13,400 --> 00:29:16,300
+Aargh, three millimeters,
+I'm doing all this hard work
+
+400
+00:29:16,300 --> 00:29:19,139
+while you're doing nothing--
+four millimeters...
+
+401
+00:29:19,140 --> 00:29:23,000
+I'm creating electric field--
+you should be proud of me,
+
+402
+00:29:23,000 --> 00:29:25,580
+I'm creating electric field,
+look at that.
+
+403
+00:29:25,580 --> 00:29:28,220
+The electric field remains constant
+between the plates,
+
+404
+00:29:28,220 --> 00:29:31,600
+because the charge is trapped,
+the charge can't go anywhere.
+
+405
+00:29:31,600 --> 00:29:37,939
+I'm now at seven millimeters,
+seven thousand volts, eight thousand volts,
+
+406
+00:29:37,940 --> 00:29:41,760
+I'm at nine millimeters, nine thousand volts--
+notice that the amp meter does nothing,
+
+407
+00:29:41,760 --> 00:29:46,460
+no charge is flowing to the plates,
+no charge is flowing from the plates,
+
+408
+00:29:46,460 --> 00:29:50,720
+I'm not at ten millimeters and now
+I have created a huge volume,
+
+409
+00:29:50,720 --> 00:29:54,600
+electric field, and the potential difference
+is ten times larger
+
+410
+00:29:54,600 --> 00:29:59,580
+than it was before, and so you see,
+that I indeed, have done work.
+
+411
+00:29:59,580 --> 00:30:05,740
+You see it here
+in front of your own eyes.
+
+412
+00:30:05,740 --> 00:30:09,940
+All right, let's get this down,
+and I'll take the--
+
+413
+00:30:09,940 --> 00:30:18,000
+bring the lights back up
+and we go back to normal.
+
+414
+00:30:23,020 --> 00:30:29,500
+I have here a hundred microfarad capacitor--
+it's a dangerous baby--
+
+415
+00:30:29,500 --> 00:30:33,380
+and we can charge that up
+to three thousand volts,
+
+416
+00:30:33,380 --> 00:30:34,720
+and when we do that,
+
+417
+00:30:34,720 --> 00:30:41,080
+we get three-tenths of a coulomb of charge
+on that capacitor.
+
+418
+00:30:41,080 --> 00:30:47,780
+So the, um, I'll give you some numbers--
+
+419
+00:30:47,780 --> 00:30:52,240
+so it is one hundred microfarads,
+
+420
+00:30:52,240 --> 00:30:56,060
+I'm going to put a potential difference over it
+of three thousand volts,
+
+421
+00:30:56,060 --> 00:31:01,060
+that gives it a charge Q of
+oh point three coulombs
+
+422
+00:31:01,060 --> 00:31:04,540
+and that means that
+one-half C V squared,
+
+423
+00:31:04,540 --> 00:31:07,700
+which is the energy that is stored, then,
+in the capacitor,
+
+424
+00:31:07,700 --> 00:31:12,100
+is four hundred and fifty joules.
+
+425
+00:31:12,100 --> 00:31:15,100
+And this will take fifteen minutes.
+
+426
+00:31:15,100 --> 00:31:19,179
+And so I'm going to charge it now,
+because at the end of the lecture,
+
+427
+00:31:19,180 --> 00:31:22,680
+I need a charge capacitor
+for a demonstration.
+
+428
+00:31:22,680 --> 00:31:29,220
+And so I can show you there
+the potential difference over the capacitor,
+
+429
+00:31:29,220 --> 00:31:33,280
+which will slowly change--
+
+430
+00:31:33,280 --> 00:31:36,000
+and we'll keep an eye on it
+during the lecture
+
+431
+00:31:36,000 --> 00:31:41,080
+and then, by the time it's fully charged,
+we will have reached the end of the lecture
+
+432
+00:31:41,080 --> 00:31:44,159
+and then we can continue.
+
+433
+00:31:44,160 --> 00:31:49,240
+So here is, then, this monster,
+the hundred microfarad--
+
+434
+00:31:49,240 --> 00:31:54,280
+I call it a monster because the amount of energy
+that you can pump in there is frightening,
+
+435
+00:31:54,280 --> 00:31:58,200
+it's four hundred and fifty joules.
+
+436
+00:31:58,200 --> 00:32:06,120
+And my power supply is here, that will deliver,
+comfortably, the three thousand volts.
+
+437
+00:32:06,120 --> 00:32:08,939
+In fact, this is the voltage
+of the power supply,
+
+438
+00:32:08,940 --> 00:32:12,260
+this is about thirty eight
+hundred volts.
+
+439
+00:32:12,260 --> 00:32:17,300
+And so, now, the idea is that I'm going to
+charge this capacitor--
+
+440
+00:32:17,300 --> 00:32:21,560
+always have to be very slow and careful
+that I don't make mistakes,
+
+441
+00:32:21,560 --> 00:32:26,899
+because this is really a device that could be
+lethal if you are not careful.
+
+442
+00:32:26,900 --> 00:32:28,940
+So I think we're OK.
+
+443
+00:32:28,940 --> 00:32:31,600
+Uh, the moment that I'm going
+to charge this capacitor,
+
+444
+00:32:31,600 --> 00:32:36,780
+the reading there will show you
+the potential difference over these plates
+
+445
+00:32:36,780 --> 00:32:41,820
+and it will take a long time for that
+to go up to three thousand volts.
+
+446
+00:32:41,820 --> 00:32:48,379
+And so I think I'm ready to go
+and I'm going to charge it now.
+
+447
+00:32:48,380 --> 00:32:54,400
+So you see now that the potential difference
+over the plates is very low, it's near zero,
+
+448
+00:32:54,400 --> 00:32:58,100
+but if you wait just a-- a few seconds,
+you will see, very slowly,
+
+449
+00:32:58,100 --> 00:33:02,879
+that, um, it is charging up
+and fifteen minutes from now,
+
+450
+00:33:02,880 --> 00:33:06,800
+we will be very close to the
+three thousand volt mark
+
+451
+00:33:06,800 --> 00:33:08,500
+and then we will return to this.
+
+452
+00:33:08,500 --> 00:33:14,780
+So we'll leave it on just for now,
+while it is charging.
+
+453
+00:33:14,780 --> 00:33:21,080
+The idea of a photo flash is
+that you charge up a capacitor
+
+454
+00:33:21,080 --> 00:33:26,300
+and that you discharge it
+over a light source.
+
+455
+00:33:26,300 --> 00:33:34,220
+So the idea being that you have a capacitor--
+let me erase some of this--
+
+456
+00:33:34,220 --> 00:33:39,420
+and that we charge the capacitor up,
+put a certain amount of energy in there
+
+457
+00:33:39,420 --> 00:33:44,560
+and then we dump
+all that energy in a bulb.
+
+458
+00:33:44,560 --> 00:33:49,080
+So here is the capacitor,
+we're going to charge it up,
+
+459
+00:33:49,080 --> 00:33:52,460
+we have a switch here
+and here is a light bulb
+
+460
+00:33:52,460 --> 00:33:54,640
+and when we throw the switch,
+
+461
+00:33:54,640 --> 00:33:59,060
+then all the energy
+will be going to the light bulb,
+
+462
+00:33:59,060 --> 00:34:01,940
+if this is positively charged
+and this is negatively charged,
+
+463
+00:34:01,940 --> 00:34:07,260
+a current will start to flow
+and you will see a flash of light.
+
+464
+00:34:07,260 --> 00:34:12,420
+I have, here, a capacitance
+of thousand microfarad.
+
+465
+00:34:12,420 --> 00:34:17,460
+So C equals thousand microfarad.
+
+466
+00:34:17,460 --> 00:34:21,040
+I'm going to put a potential difference
+over that capacitor
+
+467
+00:34:21,040 --> 00:34:30,080
+of one hundred volts, which then gives me
+a energy of one-half C V squared,
+
+468
+00:34:30,080 --> 00:34:33,560
+which is five joules.
+
+469
+00:34:33,560 --> 00:34:38,380
+In fact, this is not just one capacitor,
+but these are twelve capacitors
+
+470
+00:34:38,380 --> 00:34:40,140
+which I hooked up
+in such a way
+
+471
+00:34:40,139 --> 00:34:44,259
+that the twelve capacitors
+of eighty microfarad each
+
+472
+00:34:44,260 --> 00:34:49,560
+are a combined capacitor
+of one thousand microfarads.
+
+473
+00:34:49,560 --> 00:34:55,779
+And so I'm going to charge it up, and then
+I'm going to discharge the capacitor
+
+474
+00:34:55,780 --> 00:35:00,660
+through the light and then you will be able to see
+some lights, perhaps,
+
+475
+00:35:00,660 --> 00:35:05,180
+depending upon how  much energy
+we dump through there.
+
+476
+00:35:05,190 --> 00:35:08,540
+So concentrate now on this light bulb.
+
+477
+00:35:08,540 --> 00:35:13,520
+The hundred volts-- you should see here,
+do you see it?
+
+478
+00:35:13,520 --> 00:35:15,920
+So it's set at hundred volts now
+
+479
+00:35:15,920 --> 00:35:18,760
+and I'm now going to charge it,
+and the moment that I charge,
+
+480
+00:35:18,760 --> 00:35:22,260
+you will see the voltage
+over the capacitor
+
+481
+00:35:22,260 --> 00:35:24,680
+and so it takes a while
+for it to charge up,
+
+482
+00:35:24,680 --> 00:35:27,560
+so it goes very [unintelligible] down to zero
+and then slowly comes back to a hundred,
+
+483
+00:35:27,560 --> 00:35:29,200
+it may take five or ten seconds.
+
+484
+00:35:29,200 --> 00:35:32,700
+So if you're ready, then there we go.
+
+485
+00:35:32,700 --> 00:35:34,560
+Took only five or six seconds.
+
+486
+00:35:34,560 --> 00:35:39,259
+And so now we have a hundred volts,
+so we have five joules stored in there
+
+487
+00:35:39,260 --> 00:35:43,540
+and I'm going to discharge that now
+over this light bulb,
+
+488
+00:35:43,540 --> 00:35:47,180
+if you're ready,
+three, two, one, zero.
+
+489
+00:35:47,180 --> 00:35:49,200
+A little bit of light.
+
+490
+00:35:49,200 --> 00:35:51,060
+I can tell that you're disappointed.
+
+491
+00:35:51,060 --> 00:35:51,880
+[laughter]
+
+492
+00:35:51,880 --> 00:35:53,720
+It's not very exciting.
+
+493
+00:35:53,720 --> 00:35:55,839
+It's not really my style, is it?
+
+494
+00:35:55,840 --> 00:35:56,940
+[laughter]
+
+495
+00:35:56,940 --> 00:36:02,120
+Well, what we can do,
+we can increase the voltage a little bit.
+
+496
+00:36:02,120 --> 00:36:06,339
+Uh, we could go to two hundred and fifty volts,
+in which case,
+
+497
+00:36:06,340 --> 00:36:09,820
+since it goes with V-squared,
+we would have six times more energy,
+
+498
+00:36:09,820 --> 00:36:12,000
+so then we have thirty joules,
+
+499
+00:36:12,000 --> 00:36:15,060
+so let's see whether that's
+a little bit more exciting.
+
+500
+00:36:15,060 --> 00:36:19,259
+So now I have to jack up the voltage
+to two hundred fifty volts--
+
+501
+00:36:19,260 --> 00:36:24,360
+now you see the power supply again--
+two hundred fifty volts--
+
+502
+00:36:24,360 --> 00:36:27,900
+we're getting there, we don't have--
+oh, boy, huh, am I lucky, on the button.
+
+503
+00:36:27,900 --> 00:36:31,680
+So two hundred fifty volts
+and now I can charge up again
+
+504
+00:36:31,680 --> 00:36:33,020
+will take a little longer,
+
+505
+00:36:33,020 --> 00:36:36,160
+so you'll see the voltage
+over the capacitor,
+
+506
+00:36:36,160 --> 00:36:41,660
+hundred forty, hundred seventy,
+two hundred, two fifty, there we are.
+
+507
+00:36:41,660 --> 00:36:44,839
+And now we can see whether
+we get a little bit more light.
+
+508
+00:36:44,840 --> 00:36:47,960
+So you go from five joules now,
+to thirty joules.
+
+509
+00:36:47,970 --> 00:36:50,290
+Three, two, one, zero.
+
+510
+00:36:50,290 --> 00:36:52,890
+Waahaa, now we're getting somewhere.
+
+511
+00:36:52,890 --> 00:36:57,980
+Now you really see
+how a photo flash works.
+
+512
+00:36:57,980 --> 00:37:03,800
+Now, we all, of course,
+have destructi-- destructive instincts.
+
+513
+00:37:03,800 --> 00:37:05,840
+And so you wonder...
+
+514
+00:37:05,840 --> 00:37:09,480
+[laughter]
+
+515
+00:37:09,480 --> 00:37:10,500
+Right?
+
+516
+00:37:10,500 --> 00:37:14,200
+You- you're thinking
+the same thing that I do.
+
+517
+00:37:14,200 --> 00:37:16,620
+Shall we try three hundred forty volts?
+
+518
+00:37:16,620 --> 00:37:21,339
+And see whether the bulb [ptchee]
+maybe explodes?
+
+519
+00:37:21,340 --> 00:37:22,840
+[laughter]
+
+520
+00:37:22,840 --> 00:37:25,500
+I don't know how high this
+voltage supply can go, let's see.
+
+521
+00:37:25,500 --> 00:37:29,380
+Let's - let's go all the way.
+
+522
+00:37:29,380 --> 00:37:31,240
+Three hundred thirty seven volts.
+
+523
+00:37:31,240 --> 00:37:32,020
+OK.
+
+524
+00:37:32,020 --> 00:37:35,440
+So that would mean that we have
+fifty joules, roughly.
+
+525
+00:37:35,440 --> 00:37:38,920
+It goes as the voltage squared.
+
+526
+00:37:38,920 --> 00:37:44,240
+Well, let's charge again,
+so we're charging now.
+
+527
+00:37:44,240 --> 00:37:48,879
+Two hundred, two eighty,
+three hundred,
+
+528
+00:37:48,880 --> 00:37:52,860
+there we go,
+three hundred and thirty seven volts.
+
+529
+00:37:52,860 --> 00:37:54,240
+Now let's see--
+
+530
+00:37:54,240 --> 00:37:57,580
+Aaah! We did it! It broke!
+
+531
+00:37:57,580 --> 00:37:59,580
+[laughter]
+
+532
+00:38:07,980 --> 00:38:13,960
+I have a photo flash
+and I have the photo flash here
+
+533
+00:38:13,960 --> 00:38:21,560
+and this photo flash has a capacitor
+of about five thousand microfarads,
+
+534
+00:38:21,560 --> 00:38:23,460
+A real biggie.
+
+535
+00:38:23,460 --> 00:38:28,060
+And we can charge that up to a potential
+difference of one hundred volts,
+
+536
+00:38:28,060 --> 00:38:32,420
+even though the batteries in there
+are only six volts, there is a circuit in there--
+
+537
+00:38:32,420 --> 00:38:36,700
+we'll learn about that later-- which converts the six
+volts to a hundred volts,
+
+538
+00:38:36,700 --> 00:38:40,540
+and so we can charge up this capacitor
+to a hundred volts.
+
+539
+00:38:40,540 --> 00:38:45,340
+And that means that the one-half C V squared,
+the energy stored, then, in that capacitor,
+
+540
+00:38:45,340 --> 00:38:47,280
+will be twenty five joules.
+
+541
+00:38:47,280 --> 00:38:50,960
+And I can dump that energy
+over the light bulb
+
+542
+00:38:50,960 --> 00:38:54,360
+and then we see a bright
+flash of light,
+
+543
+00:38:54,360 --> 00:38:59,240
+because this discharge can occur
+in something, like, only a millisecond.
+
+544
+00:38:59,240 --> 00:39:03,819
+So you get a tremendous amount of light,
+only for that millisecond.
+
+545
+00:39:03,820 --> 00:39:06,160
+And I want to demonstrate that to you.
+
+546
+00:39:06,160 --> 00:39:11,540
+And the only way I can demonstrate that to
+you is by aiming this flashlight you.
+
+547
+00:39:11,540 --> 00:39:15,759
+I don't want to damage your eyes,
+so I warn you in advance.
+
+548
+00:39:15,760 --> 00:39:19,520
+So I am charging up, now, my capacitor,
+it will take a while
+
+549
+00:39:19,520 --> 00:39:21,180
+and I'm going to take your picture.
+
+550
+00:39:21,180 --> 00:39:23,000
+I might as well.
+
+551
+00:39:23,000 --> 00:39:27,180
+But, um, it's going to be very dark
+in the back, there
+
+552
+00:39:27,180 --> 00:39:32,879
+and so I've asked Marcos and Bill
+to also have some flashlights,
+
+553
+00:39:32,880 --> 00:39:36,580
+which go off at the same time
+that my flashlight goes off.
+
+554
+00:39:36,580 --> 00:39:41,580
+Now, you may say, "Well, how can you do that,
+because if this flash only lasts a millisecond,
+
+555
+00:39:41,580 --> 00:39:43,259
+how can you synchronize that?"
+
+556
+00:39:43,260 --> 00:39:46,280
+Well, the way that's done
+is that those flashlights
+
+557
+00:39:46,280 --> 00:39:48,960
+are waiting for my light signal
+to reach them,
+
+558
+00:39:48,960 --> 00:39:50,760
+and that goes
+with the speed of light.
+
+559
+00:39:50,760 --> 00:39:53,280
+Takes way less than a millisecond
+to get there,
+
+560
+00:39:53,280 --> 00:39:56,640
+and they go at the same time
+that they receive my light flash.
+
+561
+00:39:56,640 --> 00:39:59,379
+And so we call them flash-assists.
+
+562
+00:39:59,380 --> 00:40:02,220
+And so let's-- let's see
+whether we can do this.
+
+563
+00:40:02,220 --> 00:40:06,540
+I-- I have a green light here,
+that means I can take my picture,
+
+564
+00:40:06,540 --> 00:40:12,180
+and-- yeah, you can-- oh, you don't have
+to comb your hair, but -- you're looking good.
+
+565
+00:40:12,180 --> 00:40:16,859
+OK, let me-- let me, let me focus,
+because that's important--
+
+566
+00:40:16,860 --> 00:40:18,880
+so make sure you see the flash.
+
+567
+00:40:18,880 --> 00:40:20,600
+You ready for this?
+
+568
+00:40:20,600 --> 00:40:21,160
+[click]
+
+569
+00:40:21,160 --> 00:40:25,359
+Did you see the flash?
+Did it flash? Oh, it did.
+
+570
+00:40:25,360 --> 00:40:26,440
+Oh, you can say yes.
+
+571
+00:40:26,440 --> 00:40:30,220
+So, um, did the--
+did the light-assists also flash?
+
+572
+00:40:30,220 --> 00:40:32,359
+OK, but you haven't seen that, yet,
+right?
+
+573
+00:40:32,360 --> 00:40:34,040
+Because you were looking at them.
+
+574
+00:40:34,050 --> 00:40:36,010
+You should have looked--
+you really should have looked at me.
+
+575
+00:40:36,010 --> 00:40:39,570
+So why don't we take a picture,
+Marcos, Bill,
+
+576
+00:40:39,570 --> 00:40:44,390
+aim the fli- li- the flash-assists
+at the students here
+
+577
+00:40:44,390 --> 00:40:46,799
+and then we'll try it again.
+
+578
+00:40:46,800 --> 00:40:48,720
+You ready?
+
+579
+00:40:48,720 --> 00:40:51,439
+OK.
+
+580
+00:40:51,440 --> 00:40:53,320
+Oh, boy.
+
+581
+00:40:53,320 --> 00:40:56,600
+Why don't you say cheese for a change?
+OK, look at me--
+
+582
+00:40:56,600 --> 00:41:01,240
+oh, boy, you're looking great,
+you really -- oh, you're, you're out of focus.
+
+583
+00:41:01,240 --> 00:41:02,799
+[laughter]
+
+584
+00:41:02,800 --> 00:41:05,880
+Uh, one person's sleeping there,
+oh, we'll let him sleep.
+
+585
+00:41:05,880 --> 00:41:06,540
+[click]
+
+586
+00:41:06,540 --> 00:41:07,380
+That's OK.
+
+587
+00:41:07,380 --> 00:41:14,460
+Did that work? Did you see the flash?
+You did, eh? Twenty five-- twenty five joules.
+
+588
+00:41:14,460 --> 00:41:16,340
+But those haven't seen it yet.
+
+589
+00:41:16,340 --> 00:41:20,080
+So Marcos, Bill, make sure that we go
+this way
+
+590
+00:41:20,080 --> 00:41:25,020
+and give them a chance
+to see this light flash.
+
+591
+00:41:25,020 --> 00:41:29,420
+So we get a little bit of assistance there,
+the lights--
+
+592
+00:41:29,420 --> 00:41:33,300
+and let's see how this works,
+
+593
+00:41:33,300 --> 00:41:37,360
+make sure that you see the flash,
+very good, you can--
+
+594
+00:41:37,360 --> 00:41:42,280
+going to see another twenty five joules
+going through this light bulb--
+
+595
+00:41:42,280 --> 00:41:47,020
+very good--
+oh, oh, oh, yes, yes, uh, yes,
+
+596
+00:41:47,020 --> 00:41:51,400
+your hand is in front of your mouth, sir,
+yes, that's OK, thank you.
+
+597
+00:41:51,400 --> 00:41:51,900
+[click]
+
+598
+00:41:51,900 --> 00:41:56,760
+Very good, did you see the flash?
+Did the f- did the-- did the assist go?
+
+599
+00:41:56,760 --> 00:42:01,340
+So that's the idea of--
+of photo flashes.
+
+600
+00:42:01,340 --> 00:42:05,680
+So you dump a lot of energy in a very short
+amount of time
+
+601
+00:42:05,680 --> 00:42:10,180
+and you get a very bright flash.
+
+602
+00:42:10,180 --> 00:42:17,399
+Professor Edgerton at MIT became very famous
+for his flashlights.
+
+603
+00:42:17,400 --> 00:42:23,220
+He invented flashes that can handle
+way more energy than this flash
+
+604
+00:42:23,220 --> 00:42:28,740
+and they can dump that energy
+in less that one microsecond.
+
+605
+00:42:28,740 --> 00:42:32,299
+And so this opened up the road
+to high-speed photography
+
+606
+00:42:32,300 --> 00:42:35,760
+and that made it possible
+to study the motion of objects
+
+607
+00:42:35,760 --> 00:42:41,440
+on time scales of microseconds
+and even shorter than that.
+
+608
+00:42:41,440 --> 00:42:49,180
+And I'd like to show you some of the pictures
+that were taken with Doc Edgerton's flashes.
+
+609
+00:42:49,180 --> 00:42:57,480
+The first slide -- you see a bullet coming
+from the right going for a light bulb.
+
+610
+00:42:57,480 --> 00:43:02,960
+The exposure of this, uh, picture
+is only one-third of a microsecond,
+
+611
+00:43:02,960 --> 00:43:06,960
+during which the bullet probably moved
+only a third of a millimeter,
+
+612
+00:43:06,960 --> 00:43:10,360
+so it looks like
+it's completely standing still.
+
+613
+00:43:10,360 --> 00:43:13,540
+And the bulb is heading for disaster,
+but it doesn't know that yet.
+
+614
+00:43:13,540 --> 00:43:15,480
+[laughter]
+
+615
+00:43:15,480 --> 00:43:21,900
+Uh, the bullet, uh, moves, uh, in hundred
+microseconds about eight centimeters,
+
+616
+00:43:21,900 --> 00:43:26,460
+and the next picture is taken
+a hundred microseconds later,
+
+617
+00:43:26,460 --> 00:43:28,640
+again one-third
+of a microseconds exposure.
+
+618
+00:43:28,640 --> 00:43:31,759
+So if we can look at that--
+there, you see,
+
+619
+00:43:31,760 --> 00:43:35,420
+so the bullet now
+just penetrates the light bulb
+
+620
+00:43:35,420 --> 00:43:39,020
+and then the next picture is another
+hundred microseconds later,
+
+621
+00:43:39,020 --> 00:43:42,580
+and there you see the bullet
+emerging from the light bulb.
+
+622
+00:43:42,580 --> 00:43:48,299
+And, uh, this, uh, light bulb
+has hardly realized that it is broken.
+
+623
+00:43:48,300 --> 00:43:51,040
+But it's beginning to dawn on it, and--
+
+624
+00:43:51,040 --> 00:43:53,440
+[laughter]
+
+625
+00:43:53,440 --> 00:43:56,100
+and then the next slide--
+
+626
+00:43:56,100 --> 00:43:59,960
+is one wonderful picture of a boy
+who is popping a balloon,
+
+627
+00:43:59,960 --> 00:44:02,660
+and you see half the balloon
+doesn't even know yet--
+
+628
+00:44:02,660 --> 00:44:03,779
+[laughter]
+
+629
+00:44:03,780 --> 00:44:08,100
+that it is broken.
+
+630
+00:44:08,100 --> 00:44:15,020
+Doc Edgerton also developed
+a lot of, um, strobes.
+
+631
+00:44:15,020 --> 00:44:22,980
+A strobe, I have one here, is an instrument
+that repeatedly discharges,
+
+632
+00:44:22,980 --> 00:44:27,900
+um, energy over a--
+over the light bulb--
+
+633
+00:44:27,900 --> 00:44:36,840
+and so you get repeated flashes
+and that then, gives you an instrument like this.
+
+634
+00:44:36,840 --> 00:44:38,760
+[laughter]
+
+635
+00:44:38,760 --> 00:44:43,440
+Uh, you've seen them in use--
+uh, they are being used at airplanes,
+
+636
+00:44:43,440 --> 00:44:45,260
+just for warning signals.
+
+637
+00:44:45,260 --> 00:44:48,800
+And you've also seen them on tall
+towers near airports, also warning signals,
+
+638
+00:44:48,800 --> 00:44:50,920
+but there are lot of more things
+you can do with strobes.
+
+639
+00:44:50,920 --> 00:44:55,420
+And later in 802, uh, I will show you,
+for instance, that you can measure
+
+640
+00:44:55,420 --> 00:44:59,700
+the rotation rate of motors with flash lights,
+with these, uh, stroboscopes,
+
+641
+00:44:59,700 --> 00:45:04,839
+and the motors are going to play
+a more important role in 802 than, uh,
+
+642
+00:45:04,840 --> 00:45:07,880
+than you may have guessed
+before you took this course.
+
+643
+00:45:07,880 --> 00:45:12,600
+You can also measure
+with strobes the rotation,
+
+644
+00:45:12,600 --> 00:45:15,140
+the speed of your record player,
+if you still have one
+
+645
+00:45:15,140 --> 00:45:20,319
+and then you can adjust it so that
+it just has the right speed that is required.
+
+646
+00:45:20,320 --> 00:45:22,640
+So you have a lot of things
+you can do with strobes
+
+647
+00:45:22,640 --> 00:45:27,339
+and some of which
+we will see also in 802.
+
+648
+00:45:27,340 --> 00:45:34,100
+So, now,
+I return to my capacitor there.
+
+649
+00:45:34,100 --> 00:45:37,000
+And let's see how it is doing.
+
+650
+00:45:37,000 --> 00:45:41,280
+Ah, boy, we are close to the three thousand,
+which was my goal.
+
+651
+00:45:41,280 --> 00:45:44,480
+It takes a -- you see,
+a good fifteen minutes,
+
+652
+00:45:44,480 --> 00:45:47,000
+to actually reach
+the three thousand volts
+
+653
+00:45:47,000 --> 00:45:51,940
+on this huge capacitor
+and to get in there, the energy,
+
+654
+00:45:51,940 --> 00:45:55,840
+the four hundred fifty joules
+that I wanted.
+
+655
+00:45:55,840 --> 00:45:58,360
+And why is it
+that I want to show you this?
+
+656
+00:45:58,360 --> 00:46:02,680
+Well, I want you to appreciate
+the idea of a fuse.
+
+657
+00:46:02,680 --> 00:46:04,740
+You have lots of fuses at home.
+
+658
+00:46:04,740 --> 00:46:07,319
+A fuse is a safety device.
+
+659
+00:46:07,320 --> 00:46:12,320
+A fuse is something that melts,
+something that breaks
+
+660
+00:46:12,320 --> 00:46:16,540
+if the current that you are using is too high.
+
+661
+00:46:16,540 --> 00:46:23,580
+Suppose you have a short, electric short
+without realizing it, in your desk lamp,
+
+662
+00:46:23,580 --> 00:46:27,779
+and a very high current could start to flow,
+then the fuse will say,
+
+663
+00:46:27,780 --> 00:46:28,840
+"Sorry, you can't do that"
+
+664
+00:46:28,840 --> 00:46:34,960
+the fuse will melt, and then that's--
+prevents you from a disaster,
+
+665
+00:46:34,960 --> 00:46:38,960
+which, actually,
+might give you a fire.
+
+666
+00:46:38,960 --> 00:46:41,640
+And we already showed, in a way,
+the idea of a fuse,
+
+667
+00:46:41,640 --> 00:46:46,319
+because when we broke this light bulb,
+that was, in a way, a fuse.
+
+668
+00:46:46,320 --> 00:46:51,000
+We dumped too much energy through that
+light bulb, and so, the light bulb itself [crack]
+
+669
+00:46:51,000 --> 00:46:53,100
+was already like a fuse.
+
+670
+00:46:53,100 --> 00:46:59,540
+This is really more like a fuse that we are
+used to, it is a-- we have a wire there,
+
+671
+00:46:59,540 --> 00:47:04,160
+which is an iron wire,
+which is twelve inches long,
+
+672
+00:47:04,160 --> 00:47:09,940
+and it has a thickness of
+thirtythousandths of an inch.
+
+673
+00:47:09,940 --> 00:47:14,520
+And we're going to dump the four hundred fifty
+joules through that wire.
+
+674
+00:47:14,520 --> 00:47:22,840
+So the idea is very much like we had the--
+the photo flash, we, um, have all this energy
+
+675
+00:47:22,840 --> 00:47:27,220
+in the capacitor, and instead of dumping it
+through the light bulb,
+
+676
+00:47:27,220 --> 00:47:31,220
+which was this system,
+we now have here, a wire,
+
+677
+00:47:31,220 --> 00:47:35,500
+and when I throw this switch,
+the energy will go through the wire.
+
+678
+00:47:35,500 --> 00:47:40,320
+And chances are that you may see
+the wire glowing a little bit
+
+679
+00:47:40,320 --> 00:47:44,360
+and then it would melt and that would then
+give you the idea of a fuse.
+
+680
+00:47:44,360 --> 00:47:47,440
+And it's also possible that
+after we have done that,
+
+681
+00:47:47,440 --> 00:47:51,240
+that there may still be energy left
+on this capacitor
+
+682
+00:47:51,240 --> 00:47:54,859
+and I can show that to you too, then,
+because I can short out
+
+683
+00:47:54,860 --> 00:47:59,100
+the two ends of the capacitor
+and see whether we still see some--
+
+684
+00:47:59,100 --> 00:48:03,540
+some sparks, which would indicate
+that there's still some energy left.
+
+685
+00:48:03,540 --> 00:48:10,020
+So if you are ready-- I'm always a little bit
+scared with this demonstration--
+
+686
+00:48:10,020 --> 00:48:13,000
+not so much about what's going happen,
+that thing will probably just melt
+
+687
+00:48:13,000 --> 00:48:14,400
+and maybe we'll see
+a little bit of light,
+
+688
+00:48:14,400 --> 00:48:17,260
+that's not the issue--
+but I'm afraid of this baby,
+
+689
+00:48:17,260 --> 00:48:20,480
+because that has, now,
+a tremendous amount of energy.
+
+690
+00:48:20,480 --> 00:48:24,640
+So I stop the charging--
+so let's do that--
+
+691
+00:48:24,640 --> 00:48:26,879
+and if you're ready,
+then I will try to
+
+692
+00:48:26,880 --> 00:48:30,520
+dump all that energy
+through this wire.
+
+693
+00:48:30,520 --> 00:48:32,440
+Three, two, one, zero.
+
+694
+00:48:32,440 --> 00:48:33,960
+[loud bang]
+
+695
+00:48:35,720 --> 00:48:39,980
+[low rumbling sound due to slowmotion]
+
+696
+00:48:44,660 --> 00:48:46,960
+This is the way a fuse works.
+
+697
+00:48:46,960 --> 00:48:49,640
+This is very effective, as you see.
+
+698
+00:48:49,640 --> 00:48:53,960
+And if you hear this happening
+in your basement, then, well--
+
+699
+00:48:53,960 --> 00:48:56,380
+maybe that's a fuse.
+
+700
+00:48:56,380 --> 00:49:01,200
+We can now check whether there is
+energy left on that capacitor.
+
+701
+00:49:01,200 --> 00:49:06,379
+Maybe not very much, but it's unlikely that
+everything was dumped in the iron,
+
+702
+00:49:06,380 --> 00:49:10,540
+so let's see whether there is some left,
+if I'm going to short it out with this--
+
+703
+00:49:10,540 --> 00:49:13,320
+conducting bar and see
+whether we can get a spark.
+
+704
+00:49:13,320 --> 00:49:13,820
+[spark]
+
+705
+00:49:13,820 --> 00:49:16,120
+And we can, so there's still
+some energy left.
+
+706
+00:49:16,120 --> 00:49:18,920
+OK, see you Friday.
+
+707
+00:49:18,920 --> 00:49:20,920
+[applause]
+

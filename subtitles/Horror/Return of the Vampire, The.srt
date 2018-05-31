@@ -1,0 +1,1234 @@
+{4605}{4679}So you want me to tell|you the story of my life.
+{4682}{4766}Like I said, that's what I do.|I interview people.
+{4769}{4808}I'm a collector of lives.
+{4811}{4856}FM radio, KFRC.
+{4859}{4923}You'll need a lot of tape|for my story.
+{4926}{5008}No problem.|I got a bag full of tape.
+{5022}{5087}You followed me here,|didn't you?
+{5090}{5148}Yeah, I suppose I did.
+{5151}{5217}You seemed very interesting.
+{5228}{5279}This is where you live?
+{5282}{5308}No.
+{5311}{5369}It's just a room.
+{5416}{5490}What do you say|we get started?
+{5547}{5586}What do you do?
+{5589}{5647}I'm a vampire.
+{5695}{5763}I haven't heard that before.
+{5766}{5826}You mean this literally,|I take it?
+{5829}{5882}Absolutely.
+{5885}{5947}I was waiting for you|in that alley.
+{5950}{6022}Watching you watching me.
+{6027}{6093}And then you began to speak.
+{6100}{6155}What a lucky break for me.
+{6158}{6224}Perhaps lucky for both of us.
+{6304}{6360}You said you were...
+{6363}{6412}...waiting for me.
+{6415}{6497}What were you going to do?|Kill me, drink my blood?
+{6500}{6546}Yes.
+{6552}{6624}But you needn't be|concerned now.
+{6667}{6766}You really believe this, don't you,|that you're a vampire?
+{6769}{6818}We can't begin this way.
+{6821}{6881}Let me turn on the light.
+{6884}{6984}- I thought vampires didn't like light.|- We love it.
+{7001}{7075}I only wanted to prepare you.
+{7115}{7140}Christ!
+{7143}{7200}Don't be frightened.
+{7203}{7258}I want this opportunity.
+{7261}{7308}How the hell did you do that?
+{7311}{7363}The same as you do.
+{7366}{7427}A series of simple gestures.
+{7430}{7508}Only I moved too fast|for you to see.
+{7524}{7565}I'm flesh and blood...
+{7568}{7617}...but not human.
+{7620}{7716}I haven't been human|for 200 years.
+{7745}{7793}Please...
+{7987}{8045}How can I put you at ease?
+{8048}{8113}Shall we begin like|"David Copperfield"?
+{8116}{8145}"I am born..."
+{8148}{8199}"...I grew up."
+{8227}{8351}Or shall we begin when I was|born to darkness, as I call it.
+{8373}{8459}That's where we should start,|don't you think?
+{8494}{8562}You're not lying, are you?
+{8571}{8631}Why should I lie?
+{8663}{8740}1791 was the year it happened.
+{8848}{8893}I was 24.
+{8896}{8958}Younger than you are now.
+{8961}{9044}But times were different then.|I was a man at that age.
+{9047}{9165}The master of a large plantation,|just south of New Orleans.
+{9230}{9294}I had lost my wife|in childbirth.
+{9297}{9395}She and the infant had been|buried less than half a year.
+{9405}{9479}I would've been happy|to join them.
+{9522}{9592}I couldn't bear the pain|of their loss.
+{9595}{9673}I longed to be released from it.
+{9975}{10026}I wanted to lose it all:
+{10029}{10080}my wealth...
+{10083}{10130}...my estate...
+{10133}{10191}...my sanity.
+{10379}{10435}How many aces are in a deck?
+{10438}{10502}Are you calling me a cheat?
+{10559}{10649}No, I'm calling you|a piece of stinking offal!
+{10773}{10858}You lack the courage|of your convictions. Do it!
+{10861}{10937}Most of all,|I longed for death.
+{10940}{10993}I know that now.
+{10996}{11056}I invited it.
+{11061}{11143}A release|from the pain of living.
+{11658}{11740}My invitation|was open to anyone.
+{11743}{11815}To the whore at my side.
+{11822}{11894}To the pimp that followed.
+{11931}{12023}But it was a vampire|that accepted.
+{12665}{12733}Give me your money|or you die!
+{13582}{13632}Do you still want death?
+{13635}{13688}Or have you|tasted it enough?
+{13691}{13739}Enough.
+{13960}{14056}He left me there, on the banks|of the Mississippi...
+{14066}{14160}...somewhere between|life and death.
+{14604}{14688}Who are you?|What're you doing in my house?
+{14693}{14777}I've come to answer|your prayers.
+{14821}{14899}Life has no meaning anymore...|does it?
+{14981}{15036}The wine has no taste.
+{15039}{15088}The food sickens you.
+{15091}{15183}There seems no reason for any of it...|does there?
+{15294}{15360}What if I could|give it back to you?
+{15363}{15402}Pluck out the pain...
+{15405}{15469}...and give you another life?
+{15472}{15548}One you could never imagine.
+{15557}{15627}And it would be...|for all time.
+{15669}{15703}And sickness...
+{15706}{15745}...and death...
+{15748}{15824}...could never touch you again.
+{15848}{15903}Don't be afraid.
+{15906}{15969}I'm going to give you|the choice...
+{15972}{16003}...I...
+{16006}{16062}...never had.
+{16278}{16346}That morning,|I was not yet a vampire...
+{16349}{16433}...and I saw my last sunrise.
+{16436}{16507}I remember it completely...
+{16510}{16611}...and yet I can't recall|any sunrise before it.
+{16652}{16745}I watched the whole magnificence|of the dawn for the last time...
+{16748}{16812}...as if it were the first.
+{16894}{16960}And then I said farewell|to sunlight...
+{16963}{17013}...and set out to become...
+{17016}{17061}...what I became.
+{17557}{17645}Have you said your good-byes|to the light?
+{18187}{18227}I've drained you...
+{18230}{18301}...to the point of death.
+{18312}{18365}If I leave you here...
+{18368}{18420}...you'll die.
+{18430}{18472}Or...
+{18480}{18576}...you can be young always,|my friend...
+{18589}{18653}...as we are now.
+{18672}{18732}But you must tell me...
+{18735}{18769}...will you come...
+{18772}{18819}...or no?
+{18897}{18948}Yes.
+{19064}{19116}Yes.
+{20681}{20733}Your body's dying.
+{20736}{20791}Pay no attention.
+{20794}{20859}It happens to us all.
+{21595}{21622}Now look...
+{21625}{21701}...with your vampire eyes.
+{22146}{22201}What did you see?
+{22205}{22276}No words can describe it.
+{22300}{22363}Might as well ask Heaven|what it sees.
+{22366}{22427}No human can know.
+{22447}{22523}The statue seemed to move,|but didn't.
+{22526}{22617}The world had changed,|yet stayed the same.
+{22634}{22749}I was a newborn vampire,|weeping at the beauty of the night.
+{22876}{22952}Perhaps you'd like|another cigarette?
+{22967}{23036}I would.|It's not bothering you, is it?
+{23039}{23153}I don't assume it would.|It's not like you'll die from cancer.
+{23156}{23215}I don't think so.
+{23243}{23307}- What about crucifixes?|- Crucifixes?
+{23310}{23360}Can you look at them?
+{23363}{23453}Actually, I'm quite fond of|looking at crucifixes.
+{23459}{23511}And the stake|through the heart?
+{23514}{23544}Nonsense.
+{23547}{23596}And coffins?
+{23601}{23636}Coffins.
+{23639}{23724}Coffins, unfortunately,|are a necessity.
+{23772}{23825}Don't worry.
+{23831}{23870}Soon...
+{23873}{23976}...you'll be sleeping as|soundly as you've ever slept.
+{24001}{24066}And when you awake...
+{24073}{24140}...I'll be waiting for you...
+{24143}{24224}...and so will all the world.
+{24423}{24523}Blood, I was to find,|was a necessity as well.
+{24531}{24644}I awoke the next evening with|a hunger I had never felt.
+{24670}{24724}Once you taste this...
+{24727}{24816}...you'll never go to|another tavern again.
+{24819}{24879}You think so?
+{24886}{24971}But what if I'd rather|taste your lips?
+{24974}{25057}My lips are even sweeter still.
+{25425}{25480}My friend...
+{25483}{25547}...should taste those lips.
+{25550}{25580}Is his...
+{25583}{25614}...kiss...
+{25617}{25646}...as deep...
+{25649}{25705}...as yours?
+{25717}{25781}Deeper, ma chérie.
+{26596}{26668}I will not take her life.
+{26679}{26740}I've done it for you.
+{26793}{26849}She's dead...
+{26855}{26931}...as a doornail, my friend.
+{27093}{27193}It's so easy, you almost feel sorry for them.
+{27343}{27384}You'll get used to killing.
+{27387}{27466}Just forget about that mortal coil.
+{27469}{27557}You'll become accustomed to it,|all too quickly.
+{27738}{27774}Are you not hungry?
+{27777}{27820}Au contraire, ma chérie.
+{27823}{27891}He could eat the whole colony.
+{28344}{28375}I will finish it.
+{28378}{28428}Now leave us.
+{28607}{28665}Can't you pretend, you fool?
+{28668}{28723}Don't give the game away.
+{28726}{28802}We're lucky to have such a home.
+{29028}{29108}Pretend to drink, at least.
+{29212}{29296}Such fine crystal|shouldn't go to waste.
+{29808}{29843}I know.
+{29846}{29901}It gets cold so quickly.
+{29904}{29943}We can live like this?
+{29946}{29985}On animal blood?
+{29988}{30077}I wouldn't call it living.|Call it surviving.
+{30080}{30166}Useful trick if you're|on a ship for a month.
+{30215}{30289}There's nothing in the world|now that doesn't hold some...
+{30292}{30344}Fascination.
+{30353}{30399}Yes.
+{30414}{30487}- I'm bored with this prattle.|- We can live without killing.
+{30490}{30525}It's possible.
+{30528}{30565}Anything is possible.
+{30568}{30625}But just try it for a week.
+{30628}{30756}Come into New Orleans and let|me show you some real sport.
+{30995}{31095}Lestat killed two,|sometimes three a night.
+{31099}{31144}A fresh young girl...
+{31147}{31234}...was his favorite for|the first of the evening.
+{31237}{31341}For seconds, he preferred a gilded,|beautiful youth.
+{31364}{31463}But the snob in him|loved to hunt in society.
+{31466}{31562}The blood of the aristocrat|thrilled him best of all.
+{31573}{31645}The trick is|not to think about it.
+{31648}{31682}You see that one?
+{31685}{31726}Widow St. Clair.
+{31729}{31839}She had that gorgeous young fop|murder her husband.
+{31842}{31895}How do you know?
+{31911}{31969}Read her thoughts.
+{32007}{32069}Read her thoughts.
+{32196}{32248}I can't.
+{32273}{32346}The "dark gift"|is different for each of us.
+{32349}{32469}But one thing is true of everyone.|We grow stronger as we go along.
+{32476}{32544}Just take my word for it.
+{32553}{32619}She blamed a slave|for his murder.
+{32622}{32690}Imagine what they did to him.
+{32693}{32787}Evil-doers are easier,|and they taste better.
+{33571}{33627}Where are we going?
+{33798}{33846}Nowhere.
+{33854}{33950}Now, young man,|you really amaze me!
+{34002}{34100}I'm old enough|to be your grandmother.
+{34438}{34508}Oh, yes, that's the melody.
+{34511}{34571}I remember it.
+{34853}{34902}Murderer!
+{34905}{34938}My little papillons!
+{34941}{35021}My butterflies, he killed them!
+{35078}{35136}You...|whining coward of a vampire...
+{35139}{35246}...who prowls killing rats and poodles!|You could've finished us!
+{35249}{35284}You've condemned me to Hell!
+{35287}{35346}I don't know any Hell.
+{35452}{35501}That's more like it!
+{35504}{35538}Anger! Fury!
+{35541}{35623}That's why I chose you!
+{35735}{35817}But you can't kill me, Louis.
+{35971}{36014}Feed...
+{36017}{36070}...on what you will.
+{36073}{36120}Rats, chickens...
+{36123}{36171}...poodles.
+{36182}{36229}I'll leave you to it...
+{36232}{36289}...and watch you come around.
+{36292}{36327}Remember:
+{36330}{36383}Life without me...
+{36386}{36429}...would be even more...
+{36432}{36484}...unbearable.
+{37942}{38010}Consider yourself lucky.
+{38019}{38115}In Paris, a vampire must be|clever for many reasons.
+{38123}{38154}Paris?
+{38157}{38245}Here all one needs|is a pair of fangs.
+{38250}{38295}You came from Paris?
+{38298}{38374}As did the one who made me.
+{38401}{38501}Tell me about him.|You must've learned something from him.
+{38540}{38616}I learned absolutely nothing.
+{38626}{38706}I wasn't given a choice, remember?
+{38709}{38773}You must know something|about the meaning of it all.
+{38776}{38846}Why? Why should I know|these things?
+{38849}{38888}Do you know them?
+{38891}{38921}That noise...
+{38924}{38977}...it's driving me mad!
+{38980}{39063}We've been here for weeks|with nothing but that noise!
+{39066}{39107}They know about us.
+{39110}{39223}They watch us dine on empty plates|and drink from empty glasses.
+{39226}{39257}Come...
+{39260}{39311}...to New Orleans then.
+{39314}{39405}The Paris Opera's in town.|We can try some French...
+{39408}{39455}...cuisine.
+{39458}{39554}Forgive me if I have a|lingering respect for life.
+{39604}{39682}You'll soon run out|of chickens, Louis.
+{40494}{40539}Monsieur Louis?
+{40542}{40606}You don't want any supper?
+{40632}{40682}No, ma chérie.
+{40688}{40760}We're worried about you, Master.
+{40797}{40879}When is it that you go|riding in the field?
+{40895}{40988}And how long since you've|been to the slave quarter?
+{41045}{41113}Everywhere there is death.
+{41160}{41221}Are you still our master at all?
+{41224}{41290}That will be all, Yvette.
+{41293}{41375}I will not go|unless you listen to me.
+{41402}{41484}You must send away|this friend of yours.
+{41493}{41575}The slaves are all|frightened of him...
+{41598}{41670}...and they are|frightened of you.
+{41787}{41859}I'm frightened of myself.
+{43049}{43100}Hear me now!
+{43103}{43155}This place is cursed!
+{43158}{43196}Damned!
+{43199}{43281}And, yes,|your master is the Devil!
+{43289}{43363}Get out while you can!|You're all free!
+{43366}{43420}Do you hear me?
+{43429}{43457}Run!
+{43460}{43482}Run!
+{43485}{43555}Save yourselves!
+{44751}{44800}Perfect! Perfect!
+{44803}{44891}Just burn the place!|Burn everything we own!
+{44894}{44958}Have us living in a field,|like cattle!
+{44961}{45015}You thought|you could have it all.
+{45018}{45074}Shut up, Louis!
+{45089}{45139}Come on!
+{45647}{45703}Where are we?
+{45706}{45774}Where do you think,|my idiot friend?
+{45777}{45857}We're in a nice,|filthy cemetery.
+{45860}{45899}Are you happy?
+{45902}{45978}Is this fitting?|Proper enough?
+{45981}{46027}We belong in Hell.
+{46030}{46074}What if there is no Hell?
+{46077}{46172}Or they don't want us there?|Ever think of that?
+{46198}{46267}But there was a Hell.
+{46270}{46361}And no matter where we moved to,|I was in it.
+{46382}{46478}We rented rooms on the|waterfront of New Orleans.
+{46498}{46568}Your skin is icy.
+{47073}{47146}Your friend has|no head for wine.
+{47233}{47283}Don't worry.
+{47286}{47383}I can warm that cold skin|of yours better than she can.
+{47386}{47439}Do you think so?
+{47457}{47491}Why...
+{47494}{47554}...you're warm now!
+{47566}{47622}But the price is high.
+{47625}{47705}Your pretty friend,|I exhausted her.
+{47782}{47833}Soft.
+{47862}{47922}So soft.
+{47946}{48037}I can see you lying|on a bed of satin.
+{48045}{48117}Such things you say.
+{48137}{48208}Do you know|what manner of bed?
+{48863}{48931}Should we put out the light?
+{49053}{49127}And then put out the light.
+{49475}{49546}But once I've put out|thy light...
+{49572}{49622}...I cannot...
+{49634}{49715}...give it vital breath again.
+{49743}{49811}Its needs must wither.
+{50098}{50137}For you, Louis.
+{50140}{50204}You can pretend it's wine.
+{50439}{50469}She's not dead!
+{50472}{50570}You're in love with your mortal nature.|You resist what can bring you peace.
+{50573}{50607}You call this peace?
+{50610}{50708}We're predators, whose all-seeing|eyes give them detachment!
+{50711}{50775}- The girl, Lestat!|- Take her! End that hunger!
+{50778}{50822}No!
+{50973}{51030}Now, my child.
+{51060}{51137}You're tired,|you want to sleep!
+{51358}{51399}It's a coffin!
+{51402}{51462}A coffin! Let me out!
+{51465}{51503}I'm not dead!
+{51506}{51622}It's your coffin, enjoy it. Most of us|never get to know what it feels like.
+{51625}{51661}Why do you do this?
+{51664}{51784}I like to do it. I enjoy it.|Take your aesthete's taste to purer things.
+{51787}{51859}Kill them swiftly if you will,|but do it!
+{51862}{51948}For do not doubt|you are a killer, Louis!
+{52111}{52195}- What's that?|- It's a coffin.
+{52203}{52272}So it is. You must be dead.
+{52294}{52343}I'm not dead, am I?
+{52346}{52379}You're not dead.
+{52382}{52414}Not yet.
+{52417}{52460}Finish this now!
+{52463}{52491}You finish it!
+{52494}{52541}Save me from him!
+{52544}{52588}Save me!
+{52624}{52668}You'll let me go?
+{52671}{52731}I can't die like this!
+{52734}{52764}I need a priest.
+{52767}{52838}My friend is a priest.|He'll hear your sins before you die.
+{52841}{52894}Unless...|I make her one of us.
+{52897}{52922}No!
+{52925}{53038}Then take her, Louis,|end her suffering!|End yours!
+{53050}{53094}No!
+{53555}{53594}Now...
+{53597}{53657}...are you happy?
+{53738}{53791}My God!
+{53821}{53864}To think you...
+{53867}{53943}...are all I have to learn from.
+{54013}{54082}In the Old World...
+{54085}{54169}...they called it the|"dark gift."
+{54219}{54291}And I gave it to you.
+{54822}{54903}Don't go that way, Monsieur.|It's the plague.
+{54906}{55003}- Go back the way you came!|- The way I came...
+{55375}{55417}Mama.
+{56000}{56054}Please help us.
+{56057}{56134}Papa left us|and didn't come back.
+{56313}{56396}Please, wake Mama, Monsieur.
+{57054}{57118}My philosopher.|My martyr.
+{57121}{57198}"Never take a human life."
+{57224}{57298}This calls for a celebration.
+{57522}{57609}There's still life|in the old lady yet.
+{57677}{57714}Come back!
+{57717}{57789}You are what you are!
+{57821}{57889}Merciful death.
+{57892}{57977}How you love|your precious guilt.
+{58198}{58249}Her blood coursed in my veins...
+{58252}{58300}...sweeter than life itself.
+{58303}{58365}And, as it did, Lestat's words|made sense to me.
+{58368}{58415}I knew peace|only when I killed.
+{58418}{58551}When I heard her heart in that terrible|rhythm, I knew what peace could be.
+{59386}{59502}All I need to find you, Louis,|is follow the corpses of rats.
+{59694}{59759}Pain is terrible for you.
+{59773}{59882}You feel it like no other creature,|because you're a vampire.
+{59908}{59964}You don't want it to go on.
+{59967}{60015}No.
+{60074}{60168}Then do what it is|in your nature to do...
+{60171}{60278}...and you will feel as you felt|with that child in your arms.
+{60312}{60379}Evil is a point of view.
+{60382}{60454}God kills indiscriminately...
+{60467}{60531}...and so shall we.
+{60537}{60657}For no creatures under God are as we are.|None so like Him...
+{60660}{60713}...as ourselves.
+{60754}{60827}I have a gift for you.
+{60844}{60896}Come.
+{60976}{61020}Please.
+{61333}{61409}- She's here.|- What are you saying?
+{61429}{61476}You need...
+{61479}{61516}...company...
+{61519}{61592}...more congenial than mine.
+{61701}{61769}Remember how you wanted her?
+{61777}{61836}The taste of her?
+{61864}{61935}I thought I'd killed her.
+{61992}{62045}Don't worry.
+{62072}{62136}Your conscience is clear.
+{62443}{62492}Claudia.
+{62648}{62703}Listen to me.
+{62706}{62762}You're ill, my precious.
+{62765}{62880}And I'm going to give you|what you need to get well.
+{63174}{63220}No.
+{63223}{63287}You want her to die then?
+{63648}{63709}That's it. Yes.
+{64046}{64094}Stop!
+{64136}{64180}Stop!
+{64183}{64231}Enough!
+{65201}{65240}I want some more.
+{65243}{65323}Of course you want more.
+{66048}{66112}Gently, chérie.
+{66119}{66187}They're so innocent.
+{66202}{66274}They must not be made|to suffer.
+{66288}{66337}Good.
+{66376}{66407}Yes.
+{66410}{66448}All right, now.
+{66451}{66499}Stop.
+{66544}{66601}That's enough, chérie.
+{66604}{66685}You must stop|before the heart stops.
+{66700}{66731}I want more.
+{66734}{66770}I know.
+{66773}{66829}But it's best in the beginning...
+{66832}{66919}...lest the Death|takes you down with it.
+{66927}{66986}You've done very well.|Look at you.
+{66989}{67065}Not a drop spilt.|Very good.
+{67115}{67171}Where is Mama?
+{67239}{67291}Mama's gone...
+{67294}{67394}...to Heaven, chérie, like|that sweet lady... right there.
+{67410}{67463}They all go to Heaven.
+{67466}{67522}All but us.
+{67532}{67592}Do you want to|frighten our daughter?
+{67595}{67634}I'm not your daughter.
+{67637}{67688}Oh, yes, you are.
+{67691}{67754}You're my and|Louis' daughter now.
+{67757}{67842}You see,|Louis was going to leave us.
+{67853}{67917}He was going to go away.
+{67923}{67979}But now he's not.
+{67986}{68030}Now he's going to stay...
+{68033}{68097}...and make you happy.
+{68137}{68184}Louis.
+{68312}{68357}You fiend.
+{68360}{68424}One happy family.
+{68654}{68706}He did it to make you|stay with him?
+{68709}{68746}Perhaps.
+{68749}{68870}He knew me. He knew I would love|her more than the waking world.
+{68899}{68959}But there was more to it.
+{68962}{69067}He lavished affection on her,|there is no doubt about that.
+{69079}{69200}Perhaps, in the end,|he did it because he was lonely too.
+{69216}{69260}- I need more light.|- She needs more light.
+{69263}{69330}- I'll go blind without another lamp.|- She'll go blind.
+{69333}{69394}Or let me fit this child|during the day.
+{69397}{69508}Well, I am afraid, madame,|that my days are sacrosanct.
+{69526}{69582}A little child, she was.
+{69585}{69635}But also a fierce killer...
+{69638}{69775}...now capable of the ruthless pursuit|of blood with all a child's demanding.
+{69801}{69864}Let me kiss it better.
+{70194}{70232}Now...
+{70235}{70328}...who will we get to finish|your dress? Be practical!
+{70331}{70406}Remember, never in our home!
+{70410}{70481}She slept in my coffin|at first...
+{70484}{70558}...curling her little fingers|around my hair...
+{70561}{70647}...till the day when she|wanted her own coffin.
+{70819}{70883}But still,|whenever she awoke...
+{70886}{70953}...she would crawl into mine.
+{71211}{71308}They died fast in those days, before,|she learned to play with them...
+{71311}{71413}...to delay the moment till|she had taken what she wanted.
+{71741}{71798}Why are you crying, child?
+{71801}{71848}Are you lost, my love?
+{71851}{71905}Mama!
+{71916}{71965}Hush, now, don't cry.
+{71968}{72028}We'll find her.
+{72181}{72291}Mind the thumb, girl. Mind the thumb.|That little digit.
+{72631}{72713}They're expensive, my dear.
+{72729}{72833}Maybe too expensive for|a young girl like you.
+{73161}{73231}Claudia!|What have we told you!
+{73234}{73296}Never in the house.
+{73334}{73390}Give me some room.
+{73405}{73450}To me, she was a child.
+{73453}{73519}But to Lestat, a pupil...
+{73522}{73617}...an infant prodigy with|a lust for killing like his own.
+{73620}{73714}Together, they finished off|whole families.
+{73872}{73919}Wonderful, wonderful.
+{73922}{74008}Now try something|on a more somber note.
+{74333}{74409}Time can pass quickly for|mortals when they're happy.
+{74412}{74466}With us, it was the same.
+{74469}{74553}The years flew by like minutes.|The city grew.
+{74556}{74610}Sailboats gave way|to steamships...
+{74613}{74727}...disgorging an endless menu|of magnificent strangers.
+{74734}{74789}A new world had sprung up around us.
+{74792}{74868}And we were all Americans now.
+{75055}{75110}This filthy modern tide!
+{75113}{75225}What I wouldn't give for a drop|of old-fashioned Creole blood!
+{75228}{75289}Yankees are not|to your taste?
+{75292}{75396}Their Democratic flavor|doesn't suit my palate, Louis.
+{75845}{75913}Now that is pure Creole.
+{75979}{76063}Trust Claudia|to have found her.
+{76113}{76155}What?
+{76158}{76203}Don't you want her?
+{76206}{76269}I want to be her.
+{76314}{76343}Can I?
+{76346}{76402}Be like her one day?
+{76492}{76582}More melancholy nonsense.|You grow more like Louis daily!
+{76585}{76649}Soon you'll be eating rats.
+{76669}{76759}Rats?|When did you eat rats, Louis?
+{76764}{76814}It was a long, long time ago.
+{76817}{76875}Before you were born.
+{76889}{76954}And I don't recommend them.
+{77005}{77135}Thirty years had passed, yet her body|remained that of an eternal child.
+{77142}{77256}Her eyes alone told the story of her age,|staring from under her curls...
+{77259}{77294}...with a questioning...
+{77297}{77377}...that would one day|need an answer.
+{77607}{77642}Another doll.
+{77645}{77717}I have dozens,|you realize.
+{77722}{77794}I thought you could use one more.
+{77797}{77867}Why always on this night?
+{77878}{77917}What do you mean?
+{77920}{78016}You always give me a doll on|the same night of the year.
+{78043}{78087}I didn't realize.
+{78090}{78153}Is this my birthday?
+{78246}{78305}You dress me like a doll.
+{78308}{78355}You make my hair like a doll.
+{78358}{78395}Why?
+{78398}{78489}Some of these, Claudia,|are so old...
+{78492}{78542}...tattered.
+{78553}{78642}- You should throw them away.|- I will, then!
+{78957}{78997}What have you done?
+{79000}{79052}What you told me to do!
+{79055}{79129}- You leave a corpse here to rot?|- I wanted her!
+{79132}{79191}- I wanted to be her!|- She's mad!
+{79194}{79278}She pollutes the very house|we live in!
+{79286}{79376}Do you want me to be|a doll forever?
+{79388}{79419}Don't!
+{79422}{79477}Why not?|Can't I change...
+{79480}{79539}...like everyone else?
+{80177}{80236}Which one of you did it?
+{80239}{80290}Which one of you did it?
+{80293}{80361}Which one of you|made me the way I am?
+{80364}{80402}What you are?
+{80405}{80491}A vampire gone insane,|that pollutes its own bed!
+{80494}{80540}And if I cut my hair again?
+{80543}{80591}It will grow back again.
+{80594}{80635}But it wasn't always so!
+{80638}{80715}I had a mother once.|And Louis, he had a wife.
+{80718}{80766}He was mortal, same as she.
+{80769}{80818}And so was I!
+{80821}{80866}You made us what we are!
+{80869}{80903}Stop her.
+{80906}{80964}Did you do it to me?
+{81121}{81158}How did you do it?
+{81161}{81229}And why should I tell you?
+{81232}{81294}It's in my power.
+{81297}{81342}Why yours alone?
+{81345}{81394}Tell me how it was done!
+{81397}{81429}Be glad...
+{81432}{81502}...I made you what you are.
+{81519}{81569}You'd be dead now|if I hadn't.
+{81572}{81650}Like that damned corpse!|Now get rid of it!
+{81653}{81717}You get rid of it.
+{81979}{82019}Louis, why?
+{82022}{82090}You've got to tell me.
+{82233}{82295}You see the old woman?
+{82304}{82372}That will never happen to you.
+{82379}{82438}You will never grow old.
+{82441}{82503}And you will never die.
+{82525}{82631}And it means something else too,|doesn't it?
+{82704}{82782}I shall never, ever grow up.
+{82890}{82944}I hate him.
+{82984}{83087}Tell me how it came to be|that I am this...
+{83090}{83139}...thing.
+{83271}{83363}For thirty years|I'd avoided that place.
+{83384}{83448}Yet I found my way|back there...
+{83451}{83538}...with hardly|an upward glance.
+{83912}{83944}You...
+{83947}{83996}...fed on me?
+{83999}{84047}Yes.
+{84074}{84140}And he found me with you.
+{84184}{84265}Then he cut his wrist|and fed you from him...
+{84268}{84324}...and you were a vampire then...
+{84327}{84407}...and have been|every night thereafter.
+{84473}{84531}You both did it.
+{84534}{84595}I took your life.
+{84640}{84706}He gave you another one.
+{84731}{84778}And here it is.
+{84781}{84843}I hate you both.
+{85140}{85204}I walked all night.
+{85217}{85277}I walked as I walked|years before...
+{85280}{85380}...when my mind swam with guilt|at the thought of killing.
+{85395}{85517}I thought of all the things|I'd done and couldn't undo.
+{85528}{85606}And I longed for|one second's peace.
+{85824}{85900}Locked together in hatred.
+{86001}{86073}But I can't hate you, Louis.
+{86216}{86282}Louis, my love.
+{86311}{86380}I was mortal till you...
+{86399}{86476}...gave me your immortal kiss.
+{86500}{86596}You became my mother|and my father.
+{86619}{86695}And so I'm yours forever.
+{86731}{86813}But now it's time|to end it, Louis.
+{86833}{86909}Now it's time to leave him.
+{86987}{87056}He will never let us go.
+{87334}{87382}Really?
+{87662}{87738}What is it now? You irritate me.|Your very presence...
+{87741}{87769}...irritates me!
+{87772}{87810}Does it?
+{87813}{87897}I found someone who'll be a|vampire better than you both!
+{87900}{87967}Is that supposed to|frighten me?
+{87970}{88065}You're spoiled,|because you're an only child.
+{88068}{88123}You need a brother.
+{88126}{88172}Or I do.
+{88175}{88235}I'm weary of you both.
+{88238}{88311}I suppose we could people|the world with vampires...
+{88314}{88373}...the three of us.
+{88376}{88415}Oh, not you...
+{88418}{88473}...my little Claudia.
+{88476}{88533}You're a liar.
+{88538}{88607}But you upset my plans.
+{88617}{88682}What plans?
+{88685}{88745}I came to make peace|with you.
+{88748}{88828}Even though you're|the father of lies...
+{88831}{88909}...I want things to be|as they were.
+{88921}{88983}Stop pestering me then.
+{89055}{89129}I must do more than that.
+{89136}{89205}I've brought|a present for you.
+{89248}{89287}Then I hope it's...
+{89290}{89341}...a beautiful woman...
+{89344}{89438}...with endowments|you'll never possess.
+{89507}{89573}Why do you say such things?
+{89778}{89842}You haven't fed enough.
+{89845}{89911}I can tell by your color.
+{90056}{90112}Come and see.
+{90511}{90560}Don't be angry with me.
+{90563}{90647}When I saw them,|I knew they were for you.
+{90666}{90713}Drunk...
+{90716}{90798}...on brandywine.|A thimbleful.
+{91001}{91045}You certainly have...
+{91048}{91104}...outdone yourself.
+{91131}{91213}I promise|I'll get rid of the bodies.
+{91539}{91604}We forgive each other then?
+{91624}{91673}Yes.
+{92042}{92093}Absinthe?
+{92142}{92196}You've given them absinthe?
+{92199}{92231}No.
+{92234}{92281}Laudanum.
+{92299}{92329}Laudanum.
+{92332}{92368}Yes.
+{92371}{92439}It killed them, unfortunately.
+{92442}{92512}But it keeps the blood warm.
+{92601}{92657}You let me drink...
+{92687}{92738}...dead blood?
+{92741}{92786}You let me...
+{92789}{92838}...drink...
+{92845}{92900}One lesson you taught me...
+{92903}{92970}...never drink from the dead.
+{93025}{93077}Put me in my coffin.
+{93080}{93117}Put me in my coffin.
+{93120}{93186}I'll put you in your coffin!
+{93295}{93339}My God!
+{93758}{93814}Lift me up!
+{94165}{94229}Good night, sweet prince.
+{94255}{94363}May flights of devils wing|you to your rest.
+{94389}{94433}Should we burn him?
+{94436}{94471}Bury him?
+{94474}{94538}What would he have liked?
+{94620}{94668}The swamp?
+{95235}{95303}He belongs with those reptiles.
+{95343}{95411}He deserved to die.
+{95420}{95510}Then perhaps so do we,|every night of our lives.
+{95579}{95643}He was my maker.
+{95650}{95693}He gave me this life...
+{95696}{95754}...whatever it is.
+{95812}{95872}It shouldn't have been|this way.
+{95875}{95928}I did it for us.
+{95948}{96014}So we could be free.
+{96154}{96206}You missed him?
+{96230}{96270}He was all I knew.
+{96273}{96334}It's as simple as that.
+{96342}{96430}We were like two orphans|learning to live again.
+{96469}{96537}We booked a passage|to Europe.
+{96542}{96608}Over the weeks,|while waiting for the boat...
+{96611}{96702}...she studied the myths|and legends of the Old World...
+{96705}{96805}...obsessed with the search|of what she called "our kind."
+{97151}{97213}Look who we forgot.
+{97305}{97366}Let's set them free.
+{97380}{97429}- Yes.|- Yes.
+{97545}{97605}It's the carriage.
+{98751}{98812}Listen, Louis...
+{98838}{98879}...there's life...
+{98882}{98954}...in these old hands still.
+{99007}{99081}Not quite furioso.
+{99133}{99185}Moderato...
+{99197}{99248}...cantabile, perhaps.
+{99251}{99298}How could it be?
+{99301}{99363}Ask the alligator.
+{99366}{99430}His blood helped.
+{99470}{99580}Then, on a diet of|the blood of snakes...
+{99583}{99631}...toads...
+{99666}{99730}...and all the putrid life...
+{99733}{99795}...of the Mississippi...
+{99810}{99863}...slowly...
+{99875}{99939}...Lestat became something...
+{99942}{100006}...like himself again.
+{100111}{100160}You've been...
+{100163}{100210}...a very...
+{100213}{100245}...very...
+{100248}{100309}...naughty little girl.
+{101848}{101920}The ship is sailing without us!
+{102392}{102458}Though the fire|seemed to spread...
+{102461}{102560}...I stood on that deck,|fearful, he would come out again...
+{102563}{102655}...from the river like some monster,|to destroy us.
+{102667}{102729}And all the while I thought...
+{102732}{102762}"Lestat..."
+{102765}{102835}"...we deserve your vengeance."
+{102840}{102902}"You gave me the 'dark gift'..."
+{102905}{103026}"...and I delivered you into the|hands of Death for the second time."
+{103434}{103523}Though the ship was|blessedly free of rats...
+{103526}{103638}...a strange plague nonetheless|struck its passengers.
+{103657}{103737}Claudia and I alone|seemed immune.
+{103759}{103812}We kept to ourselves...
+{103815}{103897}...pondering the mystery|of each other.
+{103949}{103992}We reached the Mediterranean.
+{103995}{104100}I wanted those waters to be blue...|but they were black...
+{104103}{104142}...night-time waters.
+{104145}{104202}And how I suffered then...
+{104205}{104319}...straining to recall the color|that in my youth I took for granted.
+{104462}{104519}We searched|village after village...
+{104522}{104559}...ruin after ruin...
+{104562}{104613}...country after country.
+{104616}{104686}And always we found nothing.
+{104729}{104833}I began to believe|we were the only ones.
+{104852}{104928}There was a strange|comfort in that thought.
+{104931}{105041}For what could the damned really|have to say to the damned?
+{105071}{105105}You found nothing?
+{105108}{105153}Peasant rumors...
+{105156}{105210}...superstitions about garlic...
+{105213}{105245}...crosses...
+{105248}{105320}...the old stake in the heart.
+{105329}{105379}But one of our kind?
+{105382}{105434}Not a whisper.
+{105461}{105566}There are no vampires in Transylvania?|No Count Dracula?
+{105569}{105610}Fictions, my friend.
+{105613}{105690}The vulgar fictions|of a demented Irishman.
+{105711}{105737}Paris...
+{105740}{105800}...September, 1870.
+{105809}{105875}The city I'd always|dreamed of.
+{105878}{105996}I was Creole, after all,|and Paris was the mother of New Orleans.
+{105999}{106101}A universe whole|and entire unto herself.
+{106956}{107007}We were alive again.
+{107010}{107053}Just the two of us.
+{107056}{107180}And so euphoric was I|that I yielded to her every desire.
+{107480}{107518}So it was...
+{107521}{107598}...when I'd given up the|search for vampires...
+{107601}{107677}...that a vampire found me.
+{109901}{109955}Buffoon!
+{109976}{110026}Santiago!
+{110203}{110333}I've searched the world for an|immortal and this is what I find!
+{110720}{110798}Bring the petite|beauty with you.
+{110814}{110853}No one will harm you.
+{110856}{110910}I won't allow it.
+{110960}{110997}And...
+{111000}{111062}...remember my name:
+{111092}{111142}Armand.
+{111325}{111372}Remember what I told you.
+{111375}{111489}They have different powers.|They'll read your thoughts.
+{111792}{111864}He's the one,|that's the vampire.
+{111886}{111925}Two lovers...
+{111928}{112022}...wandering down|their violet way...
+{112026}{112111}...whose passionate embraces,|each to each...
+{112114}{112216}...permit no meditations|on decay...
+{112251}{112298}...until they find themselves...
+{112301}{112359}...within my reach!
+{112504}{112596}Vampires who pretend to be humans|pretending to be vampires.
+{112599}{112640}How avant-garde.
+{112643}{112745}The monk whose soul with|Heaven doth commune...
+{112752}{112792}...and spends his days...
+{112795}{112875}...in pious contemplation...
+{112919}{113031}...finds he will meet|his Maker all too soon.
+{113042}{113142}For all his prayers|gets no remuneration.
+{113252}{113308}The lesson endeth here...
+{113311}{113372}...and it is this:
+{113375}{113485}Each one of you,|my clammy hands must touch.
+{113509}{113613}Each one must bend his|forehead to my kiss.
+{113657}{113702}But, hark!
+{113705}{113779}Methinks a mortal|doth approach!
+{113842}{113906}What have we here?
+{113909}{113979}What beauty by my side?
+{113993}{114079}A rose in bloom,|a shrinking violet?
+{114105}{114183}Perhaps she has a mind|to be my bride.
+{114186}{114268}Perhaps my lesson|has not ended yet!
+{114310}{114354}I don't want to die!
+{114357}{114423}But Death we are|and have always been.
+{114426}{114465}Someone help me!
+{114468}{114526}Please!
+{114743}{114815}- What have I done?|- We all die!
+{114818}{114845}But I'm young!
+{114848}{114974}Death is no respecter of age!|It can come any time, any place.
+{115298}{115374}Just as this flesh|is pink now...
+{115377}{115456}...so it will turn gray|and wrinkle with age.
+{115459}{115504}Let me live!|I don't care!
+{115507}{115577}Then why should you care|if you die now?
+{115580}{115685}And suppose Death had a heart|to love and to release you?
+{115688}{115743}To whom would he turn|his passion?
+{115746}{115818}Would you choose a person|from the crowd there?
+{115821}{115866}A person to suffer as you do?
+{115869}{115917}Monsieur Vampire, take me!
+{115920}{115977}I adore you!
+{115980}{116058}You wait your turn!
+{116063}{116119}Well...
+{116122}{116236}Do you know what it means|to be loved by Death?
+{116259}{116343}To become our bride?
+{117824}{117880}No pain.
+{117976}{118032}No pain.
+{118332}{118386}Monstrous.
+{119607}{119660}We live beneath.
+{119663}{119721}Let me show you.
+{119853}{119911}Monstrous.
+{119915}{119969}Yes.
+{119976}{120042}But very beautiful.
+{120556}{120624}Welcome to my home.
+{120981}{121035}Try him.
+{121584}{121646}Two vampires...
+{121652}{121718}...from the New World...
+{121721}{121798}...come to guide us|into the new era...
+{121801}{121873}...as all we love slowly rots...
+{121888}{121950}...and fades away.
+{121953}{122025}Are you the leader|of this group?
+{122028}{122085}If there were a leader...
+{122088}{122129}...I would be the one.
+{122132}{122221}- So you have the answers?|- So you have questions?
+{122272}{122326}What are we?
+{122358}{122404}Nothing...
+{122407}{122473}...if not vampires.
+{122541}{122603}Who made us what we are?
+{122606}{122655}Surely you know the one|who made you?
+{122658}{122723}Yes, but the one|who made him?
+{122726}{122757}The source...
+{122760}{122814}...of all this...
+{122818}{122864}...evil.
+{122900}{122950}I understand.
+{122973}{123041}I saw you in the theater.
+{123062}{123128}Your suffering...
+{123154}{123224}...your sympathy for that girl.
+{123252}{123293}You die...
+{123296}{123350}...when you kill.
+{123356}{123466}You feel you deserve to die|and you stint on nothing.
+{123494}{123562}But does that make you evil?
+{123569}{123666}Since you comprehend what you call|goodness, doesn't that make you...
+{123669}{123710}...good?
+{123713}{123764}Then there is nothing?
+{123767}{123827}Perhaps.
+{123851}{123911}But perhaps...
+{123936}{123981}...this...
+{123984}{124064}...is the only real evil left.
+{124078}{124142}Then God does not exist?
+{124145}{124220}I know nothing of God.
+{124227}{124270}Or the Devil.
+{124273}{124374}I have never seen a vision,|nor learned a secret...
+{124377}{124469}...that would damn|or save my soul.
+{124498}{124537}As far as I know...
+{124540}{124611}...after 400 years...
+{124614}{124661}...I am the oldest...
+{124664}{124712}...living vampire...
+{124715}{124770}...in the world.
+{124789}{124869}Then it's as I always feared.
+{125068}{125133}You fear too much.
+{125174}{125242}So much you make me fear...
+{125357}{125417}The one who made you...
+{125420}{125488}...should have told you this.
+{125502}{125574}The one who left the|Old World for the New...
+{125577}{125613}He knew nothing.
+{125616}{125659}Nor did he care.
+{125662}{125688}Knew?
+{125691}{125743}Come, beloved.
+{125749}{125802}It's time we were on our way.
+{125805}{125831}I'm hungry...
+{125834}{125880}...and the city awaits.
+{125912}{125980}The place was empty|as we left.
+{125983}{126029}Silent as the grave.
+{126032}{126121}And as we blundered through it,|again came the thought:
+{126124}{126179}"I have wronged Lestat."
+{126182}{126237}"I have hated him|for the wrong reasons."
+{126240}{126299}How did you wrong him?
+{126336}{126375}You said a name.
+{126378}{126446}Yes, a name I don't|care to say again.
+{126449}{126497}There is but one crime...
+{126500}{126567}...among us vampires here.
+{126579}{126683}It is the crime that means|death to any vampire:
+{126709}{126776}To kill your own kind.
+{126862}{126943}- Do you think I'd let them harm you?|- No, you would not.
+{126946}{126989}Danger holds you to me.
+{126992}{127030}Love holds you to me.
+{127033}{127073}- Love?|- Love.
+{127076}{127169}You would leave me for Armand|if he beckoned you.
+{127172}{127202}Never.
+{127205}{127293}He wants you as you want him.|He's been waiting for you.
+{127296}{127355}He wants you as a companion.
+{127358}{127411}He bides his time there.
+{127414}{127480}He finds it as dull|and lifeless as we do.
+{127483}{127515}Perhaps.
+{127518}{127634}Do you know what his soul said to me|without saying a word?
+{127647}{127707}"Let him go," he said.
+{127710}{127769}"Let him go."
+{127797}{127872}Is that what I should do?
+{127884}{127944}Let you go?
+{127951}{127986}My father...
+{127989}{128027}...my Louis...
+{128030}{128087}...who made me?
+{128114}{128178}It will be all right.
+{128189}{128256}You really believe that?
+{128439}{128466}The soldier...
+{128469}{128524}...on returning from the war...
+{128527}{128624}...thinks victory has enured|him against sorrow...
+{128627}{128683}...till Death comes by...
+{128686}{128756}...and chops him|from his horse.
+{128893}{128957}I was waiting for you.
+{129002}{129055}Listen to me.
+{129099}{129165}Claudia is very dear to me.
+{129168}{129199}She's my daughter.
+{129202}{129257}Your lover.
+{129260}{129296}No, my beloved.
+{129299}{129354}My child.
+{129373}{129442}You say so.|You're innocent.
+{129452}{129504}She's in danger, isn't she?
+{129507}{129557}- She is.|- Why?
+{129611}{129687}I could give you reasons.
+{129698}{129763}Her silence.
+{129766}{129821}Her youth.
+{129840}{129916}It's forbidden|to make one so young...
+{129919}{129972}...so helpless...
+{129975}{130033}...that cannot survive|on its own.
+{130036}{130080}Then blame the one|who made her.
+{130083}{130137}Did you kill this vampire|who made you both?
+{130140}{130180}Is that why you won't say|his name?
+{130183}{130225}Santiago thinks you did.
+{130228}{130318}- We want no quarrel with him.|- It's already begun.
+{130336}{130379}If you want to save her...
+{130382}{130462}- ...send her away!|- Then I leave too.
+{130613}{130669}So soon?
+{130709}{130797}Without any of those answers|you so longed for?
+{130800}{130830}You said there are none.
+{130833}{130906}But you asked|the wrong questions.
+{131283}{131331}Do you know...
+{131334}{131402}...how few vampires...
+{131409}{131493}...have the stamina|for immortality?
+{131525}{131607}How quickly they perish|of their own will.
+{131693}{131747}The world...
+{131750}{131806}...changes.
+{131838}{131895}We do not.
+{131917}{131968}Therein lies the irony...
+{131971}{132032}...that finally kills us.
+{132035}{132135}I need you to make contact|with this age.
+{132138}{132181}Me?
+{132184}{132244}Don't you see?
+{132247}{132327}I'm not the spirit|of any age.
+{132330}{132381}I'm at odds with everything.
+{132384}{132448}I always have been.
+{132468}{132557}That is the very spirit|of your age.
+{132573}{132629}The heart of it.
+{132652}{132698}Your fall...
+{132701}{132748}...from grace...
+{132751}{132836}...has been the fall|of a century.
+{132847}{132916}But the vampires|in the theater?
+{132944}{132994}Decadent...
+{132997}{133053}...useless.
+{133072}{133141}They can't reflect anything.
+{133144}{133178}But...
+{133181}{133233}...you do.
+{133270}{133299}You reflect...
+{133302}{133362}...its broken heart.
+{133657}{133720}A vampire...
+{133737}{133804}...with a human soul.
+{133816}{133907}An immortal|with a mortal's passion.
+{133947}{133988}You...
+{133991}{134043}...are...
+{134062}{134130}...beautiful, my friend.
+{134170}{134266}Lestat must have wept|when he made you.
+{134329}{134389}You knew Lestat?
+{134441}{134493}Yes.
+{134504}{134559}I knew him.
+{134587}{134687}Knew him well enough|not to mourn his passing.
+{134738}{134814}I felt a kind of peace|at last.
+{134817}{134945}I had found the teacher which Lestat|could never, I knew now, have been.
+{134949}{135030}I knew knowledge would|never be withheld by Armand.
+{135033}{135137}It would pass through him|as through a pane of glass.
+{135493}{135545}Madeleine...
+{135549}{135609}...Louis is shy.
+{135983}{136033}Drink.
+{136054}{136086}Do it.
+{136089}{136167}Because I cannot do it.|I haven't the strength.
+{136170}{136294}- You saw to that when you made me.|- You don't know what you ask!
+{136335}{136355}I have.
+{136358}{136458}You have found your new companion!|You will make me mine!
+{136464}{136524}How do we seem to you?
+{136529}{136582}Do you find us beautiful?
+{136585}{136633}Magical?
+{136636}{136764}Our white skin, our fierce eyes?|Do you know the thing you will become?
+{136767}{136831}Your evil is that|you cannot be evil!
+{136834}{136906}And I shall suffer|for it no longer!
+{136909}{136977}Don't make me do this!|I cannot!
+{136980}{137031}Yet, you could do it to me.
+{137034}{137171}Snatching me from my mother's hands,|like two monsters in a fairy tale.
+{137174}{137221}And now you weep!
+{137224}{137300}I haven't tears enough|for what you've done to me!
+{137303}{137356}You give her to me, Louis!
+{137359}{137439}Do this before you leave me!
+{137480}{137523}Oh, God!
+{137526}{137581}I love you still!
+{137584}{137656}That's the torment of it!
+{137664}{137725}Who'll care for me,|my love...
+{137728}{137818}...my dark angel,|when you are gone?
+{137970}{138052}What do you think she is,|Madeleine?
+{138074}{138128}A doll?
+{138183}{138249}A child who cannot die.
+{138262}{138330}And the child who did die?
+{138360}{138416}My daughter.
+{139820}{139859}What's happening to her?
+{139862}{139918}She's dying.
+{139922}{139978}It happened to you too...
+{139981}{140065}...only you were too young|to remember.
+{140095}{140159}But if she dies?
+{140166}{140238}It's only mortal death.
+{140310}{140388}Bear me no ill will, my love.
+{140441}{140507}We are now even.
+{140519}{140577}What do you mean?
+{140594}{140694}What died in that room|was not that woman.
+{140769}{140833}What has died is the...
+{140850}{140918}...last breath in me...
+{140923}{140987}...that was human.
+{141075}{141137}Yes, Father.
+{141144}{141210}At last we are even.
+{141330}{141420}It's time for justice,|little one.
+{141822}{141904}Get me Armand.|He wouldn't stand for this.
+{141907}{141965}Death for the others.
+{141968}{142004}For you...
+{142007}{142082}...eternity in a box.
+{142094}{142141}Walled in a dungeon.
+{142144}{142223}Your only company|will be your screams.
+{142232}{142307}Perhaps it will|take centuries.
+{142331}{142378}Take them!
+{144237}{144302}Pleasant dreams.
+{144341}{144407}No! No!
+{144416}{144470}Help!
+{145348}{145397}Wake up!
+{147055}{147105}Where's Claudia?
+{147108}{147183}Claudia. I cannot help her.
+{147186}{147266}- Where's Claudia?|- I can't save her!
+{147299}{147368}I will only risk losing you!
+{147405}{147455}Don't!
+{150131}{150183}Come, Louis.
+{150198}{150251}Not here.
+{150445}{150520}So a vampire can cry?
+{150558}{150593}Once...
+{150596}{150662}...maybe twice, in eternity.
+{150695}{150804}And maybe it was to quench those tears|forever that I took such revenge.
+{152214}{152281}Stop him! It's burning!
+{152284}{152341}Get him! Stop him!
+{155463}{155538}You didn't even warn them,|did you?
+{155571}{155616}No.
+{155651}{155726}And you knew what I would do.
+{155738}{155780}I knew.
+{155783}{155834}I rescued you, didn't I?
+{155837}{155902}From the terrible dawn.
+{155993}{156061}You were their leader.|They trusted you.
+{156064}{156108}No.
+{156117}{156197}You made me see|their failings, Louis.
+{156217}{156249}They were...
+{156252}{156340}...doomed, stuck|in their decadent time.
+{156346}{156414}They had forgotten|the first lesson...
+{156417}{156469}...that we must be powerful...
+{156472}{156506}...beautiful...
+{156509}{156570}...and without regret.
+{156576}{156615}You can teach me this?
+{156618}{156657}Yes.
+{156660}{156728}To be without regret?
+{156764}{156839}Then, what a pair|we could make.
+{156890}{156986}But what if it's a lesson|I don't care to learn?
+{157009}{157041}What?
+{157044}{157115}What if all I have|is my suffering?
+{157118}{157182}My regret?
+{157206}{157254}Don't you want to lose it?
+{157257}{157325}So you can have that too?
+{157328}{157390}The heart that mourns her...
+{157393}{157449}...whom you burnt to a cinder?
+{157452}{157491}I swear I didn't...
+{157494}{157553}But I know you did.
+{157557}{157608}I know...
+{157627}{157670}...you...
+{157673}{157734}...regret nothing.
+{157764}{157816}You feel...
+{157819}{157867}...nothing.
+{157898}{157979}If that's all|I have left to learn...
+{158002}{158070}...I can do that on my own.
+{158312}{158346}I will die.
+{158349}{158367}No.
+{158370}{158408}You are dead.
+{158411}{158496}And you want me to|quicken you once more.
+{158537}{158644}And as much as your invitation|might appeal to me...
+{158662}{158713}...I must regretfully...
+{158716}{158764}...decline.
+{159067}{159121}For years I wandered:
+{159124}{159180}Italy, Greece...
+{159183}{159239}...all the ancient lands.
+{159242}{159305}But the world was a tomb to me...
+{159308}{159389}...a graveyard|full of broken statues.
+{159392}{159498}And each of those statues|resembled her face.
+{159630}{159675}Then, out of curiosity...
+{159678}{159729}...boredom, who knows what...
+{159732}{159771}...I left the Old World...
+{159774}{159848}...and came back|to my America.
+{159909}{160017}And there a mechanical wonder|allowed me to see the sunrise...
+{160020}{160067}...for the first time...
+{160070}{160134}...in 200 years.
+{160147}{160205}And what sunrises!
+{160208}{160298}Seen as the human eye|could never see them.
+{160301}{160361}Silver at first...
+{160364}{160442}...then, as the years progressed,|in tones of purple...
+{160445}{160476}...red...
+{160479}{160557}...and my long-lost blue.
+{160656}{160756}In the spring of 1988,|I returned to New Orleans.
+{160762}{160868}And as soon as I smelled|the air, I knew I was home.
+{160881}{160916}It was rich...
+{160919}{160962}...almost sweet...
+{160965}{161085}...like the fragrance of jasmine|and roses around our old courtyard.
+{161102}{161230}I walked the streets savoring|that long-lost perfume.
+{161348}{161402}And then on Prytania Street...
+{161405}{161483}...only blocks from the|Lafayette cemetery...
+{161486}{161552}...I caught the scent of death.
+{161555}{161635}And it wasn't coming|from the graves.
+{161657}{161727}The scent grew stronger|as I walked.
+{161730}{161775}Old death.
+{161778}{161862}A scent too faint|for mortals to detect.
+{164148}{164218}I'm so glad you are here!
+{164221}{164279}I've dreamed...
+{164282}{164346}...of this moment.
+{164367}{164439}She never should|have been one of...
+{164442}{164483}...us.
+{164486}{164554}That's all past, Lestat.
+{164651}{164707}Past.
+{165272}{165344}Still beautiful, Louis.
+{165393}{165473}You always were|the strong one.
+{165560}{165620}Don't be frightened.
+{165704}{165770}I mean you no harm.
+{165844}{165914}You've come home|to me then?
+{166008}{166086}You remember how I was?
+{166119}{166162}The vampire...
+{166165}{166229}...that I was?
+{166238}{166298}Yes, I remember.
+{166440}{166470}No one...
+{166473}{166535}...could refuse me...
+{166555}{166609}...not even you.
+{166630}{166679}I tried.
+{166682}{166746}Yes, you tried.
+{166761}{166829}And the more you tried...
+{166915}{166981}...the more I wanted you.
+{167222}{167284}I can't bear it.
+{167326}{167380}Such lights...
+{167401}{167461}...and that noise!
+{167483}{167575}They make the night|brighter than the day.
+{167766}{167818}It's false light.
+{167821}{167883}It can't harm you.
+{168146}{168228}If you stay with me, Louis...
+{168246}{168313}...I could venture out again.
+{168369}{168439}Become the old Lestat.
+{168459}{168523}I must leave now.
+{169207}{169291}Whatever happened to Lestat,|I do not know.
+{169307}{169344}I go on...
+{169347}{169392}...night after night.
+{169395}{169475}I feed on those|who cross my path.
+{169524}{169622}But all my passion went|with her golden hair.
+{169683}{169775}I'm a spirit|of preternatural flesh.
+{169787}{169847}Detached.
+{169850}{169902}Unchangeable.
+{169956}{170006}Empty.
+{170014}{170053}Empty?
+{170056}{170104}That's it?
+{170142}{170208}No, it can't end like that.
+{170229}{170268}But it has.
+{170271}{170333}There's no more to tell.
+{170338}{170470}There must be more to tell. You don't|understand yourself. You're not empty.
+{170473}{170554}What I wouldn't give to be like you,|to have your power...
+{170557}{170616}...to have seen the things|you have seen.
+{170619}{170654}You haven't been listening.
+{170657}{170727}I have been listening.|Your story is incredible.
+{170730}{170780}- It's amazing.|- Do what you want with it.
+{170783}{170850}Give it to others.|Learn what you can.
+{170853}{170948}There's only one way I'll|truly learn and you know it.
+{170951}{171019}You brought me here|for a reason.
+{171022}{171048}Didn't you?
+{171051}{171096}What reason would that be?
+{171099}{171200}You want a companion. You want a link|to the outside world. That's me.
+{171203}{171262}Take me.|That's what I want.
+{171265}{171357}- I refuse to let it end like this.|- God, I've failed again.
+{171360}{171452}You haven't failed.|God has nothing to do with it.
+{171512}{171565}Do you like this?
+{171568}{171657}Do you like being food|for the immortals?
+{171660}{171692}Do you like dying?
+{171695}{171741}Stop!
+{173416}{173482}1791 was the year|it happened.
+{173485}{173583}I was 24.|Younger than you are now.
+{173587}{173663}But times were different then.|I was a man at that age.
+{173666}{173772}The master of a large plantation,|just south of New Orleans.
+{173787}{173853}I had lost my wife|in childbirth.
+{173856}{173899}Someone change my shorts.
+{173902}{173978}She and the infant had been|buried less than half a year.
+{173981}{173999}It's good stuff.
+{174002}{174036}I would've been happy|to join them.
+{174039}{174101}Good stuff.
+{174171}{174245}I assume|I need no introduction.
+{174590}{174658}I feel better already.
+{174746}{174829}Most of all,|I longed for death.
+{174832}{174890}I invited it.
+{174899}{174981}A release|from the pain of living.
+{175049}{175111}Still whining.
+{175159}{175202}Heard enough?
+{175205}{175286}I've had to listen to that|for centuries.
+{175335}{175388}Don't be afraid.
+{175430}{175508}I'm going to give you|the choice...
+{175514}{175576}...I never had.

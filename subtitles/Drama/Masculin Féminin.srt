@@ -1,0 +1,932 @@
+{1}{1}25.000
+{344}{410}Argos, Svenskfilmindustri,|Sandrews, Anouchka...
+{416}{490}...present in light and shadow...
+{496}{626}...one of the 121 French language|films of which only 3 or 4 get made
+{706}{772}MASCULIN FEMININE
+{804}{867}Never do...
+{940}{1011}...two glances meet...
+{1052}{1115}...no trace...
+{1188}{1283}...of life, silence...
+{1340}{1371}...emptiness...
+{1420}{1467}...burning...
+{1508}{1563}The light dims
+{2076}{2122}Nowhere...
+{2128}{2219}...does the setting of this story...
+{2276}{2331}...without end...
+{2380}{2459}...tell of the monotony...
+{2508}{2579}...tell of the toil...
+{2644}{2675}...every day...
+{2844}{2931}Nameless this boy from Marseilles...
+{2980}{3083}...tells it twenty-four hours a day...
+{3090}{3171}...tells it with others...
+{3308}{3371}...sharing life...
+{3421}{3531}...unable to be alone...
+{3596}{3675}No trace anywhere...
+{4396}{4459}Excuse me, but aren't you|Madeleine Zimmer?
+{4466}{4514}Yes, why? Do you know me?
+{4520}{4587}I've seen you here before
+{4594}{4643}Could be
+{4756}{4834}A friend of mine, Robert Poiccard...
+{4840}{4923}...knows someone called Dumas|who knows you
+{4940}{4987}Yes, Marcel
+{5404}{5489}He said this Dumas might find me a job
+{5494}{5603}- On the magazine?|- I didn't know he worked on a magazine
+{5608}{5691}If it's Marcel Dumas you mean, he does
+{5956}{6027}Do you work for this magazine, too?
+{6052}{6155}I used to be in the picture department,|but now I want to be a singer
+{6160}{6255}Why, are you looking for work?
+{6260}{6334}Well, I've just finished my|military service
+{6340}{6382}Did you enjoy it?
+{6388}{6478}Sixteen months without comfort,|money, love or leisure
+{6484}{6599}Subjected to absolute authority|twenty-four hours a day
+{6604}{6659}Just like modern society,|in other words
+{6666}{6747}Sixteen months which confirm that|for a young Frenchman...
+{6752}{6819}...even relative freedom is|difficult to achieve...
+{6828}{6956}...in the face of established authority|when he's had the wrong education
+{6972}{7055}Sixteen months of obedience|likely to become permanent...
+{7061}{7143}...since the military and industrial|systems co-exist happily
+{7148}{7239}Discipline and finance|share the same logic
+{7244}{7355}It doesn't sound much fun.|Now you're at a loose end?
+{7396}{7483}Not exactly, but I'd like a change
+{7556}{7703}I often have to work under adverse|conditions. I'm at Napthachemicals now
+{7708}{7743}What's that?
+{7748}{7822}It's the big white building|near Citroën's
+{7829}{7955}I've met some great guys there;|the working class in Paris is O.K.
+{7972}{8083}They talk a lot; maybe that's|what's wrong with the Party
+{8108}{8207}There aren't all that many militants,|really
+{8212}{8284}Working conditions are to blame
+{8290}{8403}The bosses have cut down on breaks,|to step up production
+{8428}{8509}So a worker isn't his own man any more
+{8516}{8619}It's work, eat, sleep, and|that's my lot, thank you
+{8644}{8757}I'm meeting Marcel here, actually;|what's your friend called?
+{8796}{8847}You're a bitch!
+{8852}{8903}I'm sick of your insults!
+{8908}{9030}That's your look-out, you slut;|you don't know what you want
+{9036}{9070}Yes, I do!
+{9076}{9155}Let go of Patrick, I'm taking him!
+{9236}{9307}Find someone else to slave for you
+{10444}{10503}- Everything O.K.?|- No
+{10508}{10611}- What's wrong?|- Everything's wrong till ten o'clock
+{10748}{10851}- It's five past ten now|- Everything's O.K., then
+{10964}{11003}Still on night shift?
+{11012}{11139}Haven't you seen the papers?|We're on strike
+{11172}{11278}- With union backing?|- The communists, anyway
+{11284}{11363}What do the anti-communist creeps say?
+{11380}{11483}I know... the same as the Catholics
+{11508}{11571}While I think of it, sign this
+{11732}{11822}"The undersigned, deeply concerned|at the imprisonment...
+{11828}{11959}"...of eight members of the world of|arts and letters in Rio de Janiero...
+{11964}{12075}"...for expressing their disagreement|with official policy...
+{12108}{12247}"...protest against this violation of|freedom of thought in Brazil...
+{12252}{12339}"...and demand the liberation of|the eight prisoners"
+{12420}{12559}Last week it was Madrid. What next?
+{12564}{12622}Athens, Baghdad, Lisbon
+{12628}{12684}What do you earn now?
+{12696}{12724}HUMAN LABOUR
+{12732}{12783}MAKES THINGS RISE
+{12790}{12816}FROM THE DEAD
+{12900}{12963}Have you asked about the room?
+{13028}{13123}I can't; I was meaning to tell you
+{13173}{13219}Still sleeping in your car?
+{13268}{13323}Yes, I'm still at Soissons
+{13340}{13459}Did you see me the other day in|the Place Clichy? I shouted
+{13524}{13589}Yes, but I was with my cousin
+{13595}{13691}- Making out?|- It's pretty heavy going
+{13724}{13782}Have you seen that girl again?
+{13788}{13875}Madeleine? I can't be bothered|with her any more
+{13900}{13963}Given up screwing, have you?
+{14092}{14171}- The Sports Palace?|- The other side of town
+{14348}{14427}- The Sports Palace?|- The other side of town
+{14476}{14563}- What are you doing?|- Putting myself in his place
+{14645}{14691}Nothing happened
+{14796}{14899}So to put yourself in his place|doesn't make you understand someone
+{15037}{15080}Watch this
+{15173}{15227}May I take some sugar?
+{15620}{15659}Not bad
+{15676}{15715}What, her breasts?
+{15732}{15771}I'll try
+{15884}{15939}May I take some sugar?
+{16156}{16195}Fantastic!
+{16252}{16331}- I'm off|- See you on Friday
+{16876}{16963}Paris today; what do young girls|dream about?
+{16970}{17030}But which girls?
+{17036}{17174}The checkers at Simca who are|too tired after work to make love?
+{17180}{17305}Eighteen-year-old manicurists and|hairdressers whoring in posh hotels?
+{17348}{17459}Schoolgirls who know their Bergson|and Sartre and nothing else...
+{17466}{17539}...because their parents|shut them up at home?
+{17578}{17611}The average Frenchwoman doesn't exist
+{18556}{18619}Marcel told me it was all right
+{18788}{18899}- How about the pay?|- He said he'd see on Tuesday
+{19076}{19131}It's the twenty-third today
+{19148}{19195}So what?
+{19260}{19307}What about the twenty-third?
+{19340}{19422}You said we could go out on|the twenty-third
+{19428}{19475}I never said that
+{19748}{19795}I never said that
+{19868}{19939}I think you're an awful liar
+{19996}{20043}I don't agree
+{20100}{20203}- Why "Ha-ha"?|- I don't know; don't you ever lie?
+{20252}{20284}Never?
+{20290}{20382}Well, sometimes, naturally,|but not often
+{20388}{20435}How come?
+{20588}{20639}With you, sometimes
+{20644}{20699}Why do you lie to me?
+{20972}{21051}Don't I appeal to you?
+{21068}{21115}It isn't that
+{21212}{21283}Do you think my nose is too big?
+{21300}{21347}Not at all
+{21532}{21611}Why do you want to go out with me?
+{21644}{21739}Because you're pretty,|because of tenderness...
+{21860}{21923}Doesn't anything else about me|interest you?
+{21964}{22011}Yes, everything
+{22044}{22123}Your hair, eyes, nose, mouth, hands...
+{22212}{22275}By going out, you mean|sleeping with me?
+{22380}{22443}Tell me the truth
+{22620}{22659}How old are you?
+{22700}{22747}Twenty-one
+{22932}{22995}Are your parents alive?
+{23132}{23219}- Do you see them often?|- Now and again
+{23540}{23614}- Do you often go out with girls?|- Now and again
+{23636}{23731}Yes, I'd really like to sleep with you
+{23772}{23851}- How about you?|- I've never thought about it
+{23868}{23931}But now that I've asked you?
+{24036}{24109}Why did you say we'd go out|on the twenty-third?
+{24116}{24159}That was a lie
+{24164}{24235}Why? I believed you
+{24268}{24347}I know it wasn't nice, but...
+{24516}{24599}Do you sometimes go out with girls|at night?
+{24604}{24651}I told you I did
+{24764}{24859}- What kind of girls?|- Girls I like
+{24866}{24915}Girls like me?
+{25060}{25126}Have you been with whores, too?
+{25132}{25255}Once in a way; but I find them cold|and depressing
+{25260}{25351}- I don't want to know|- I didn't mean anything
+{25356}{25407}Why say it, then?
+{25412}{25503}I don't know; it's what I think
+{25516}{25670}What do you do when you're alone in|the evenings? What about tonight?
+{25677}{25811}I've a whole lot of photographs|to sort for the magazine
+{25916}{26011}- What kind of photographs?|- Some fashion shots we took
+{26172}{26267}You said you were trying to become|a singer now
+{26292}{26374}I can do both, can't I?
+{26380}{26455}I still sort and classify photographs
+{26461}{26523}- Of you?|- No, never
+{26652}{26726}Are you going out with somebody|tonight?
+{26733}{26811}I saw you with a big, tall bloke|the other night
+{26836}{26909}I just happened to run into him
+{26916}{26982}That's not true
+{26988}{27047}It is true... it is
+{27052}{27155}- Where did you go?|- Just to a café
+{27212}{27307}- What did you talk about?|- My record
+{27420}{27499}Are you afraid I'll make love to you?
+{27556}{27659}- Is that why you won't go out with me?|- Could be
+{27677}{27771}Why should you be afraid?|I think you're lovely
+{27796}{27843}It makes me uneasy
+{27900}{27987}I think you have very classy breasts
+{28052}{28099}It's important, you know
+{28268}{28315}Look me in the eyes
+{28364}{28459}What are you thinking of|at this very moment?
+{28477}{28507}Nothing
+{28540}{28647}You have to be thinking something.|Now, looking at me?
+{28652}{28747}- I'm looking|- But what are you thinking?
+{28796}{28864}What is the centre of the world|for you?
+{28870}{28915}The centre of the world?
+{28948}{29043}Our first real conversation, and|you ask such amazing questions
+{29133}{29259}It's quite an ordinary question.|What's your answer?
+{29277}{29323}Love, I suppose
+{29420}{29499}That's odd. I'd have answered: Me
+{29661}{29715}Does that seem funny to you?
+{29844}{29915}Don't you feel you're the centre|of the world?
+{29940}{29987}Yes, of course, in a way
+{30020}{30067}In what way?
+{30084}{30163}Living, being, seeing|with your own eyes...
+{30170}{30259}...speaking with your own mouth,|thinking with your own head
+{30492}{30595}Do you think one can live alone?|Always alone?
+{30612}{30709}No, I don't think one can,|it's impossible
+{30716}{30819}Without tenderness you'd|shoot yourself
+{31020}{31067}Look me in the eyes
+{31261}{31359}Would it please you if I said|I might love you some day?
+{31364}{31415}Of course it would
+{31660}{31774}The coming December elections|raised great hopes on the Left
+{31780}{31892}I was now twenty-one. Robert and I|stuck posters everywhere
+{31916}{31982}Meantime, I made progress|with Madeleine
+{31988}{32034}She introduced me to Elisabeth
+{32052}{32128}Robert was interested in Catherine...
+{32136}{32218}...probably a virgin, but|good militant material
+{33828}{33882}Great guns in Vietnam, eh?
+{33932}{33986}Killing lots of communists there?
+{34052}{34130}Burning the place with napalm?|Terrific!
+{34244}{34338}Peace in Vietnam
+{34620}{34736}PHILOSOPHER AND FILM-MAKER SHARE|A GENERATION'S OUTLOOK
+{34780}{34853}Paris, 25 November, 1965
+{34860}{34962}I have a blue coat; Elisabeth's|is trimmed with white
+{34980}{35061}I share her flat opposite|the elevated Métro
+{35068}{35098}It's cold out
+{35116}{35174}We lunched in a snack bar|on Rue Marbeuf
+{35180}{35242}Paul kissed me for the second time
+{35248}{35334}Elisabeth is a bit jealous;|I don't care
+{35340}{35442}My first single comes out tomorrow;|I hope it sells
+{35468}{35538}If so, I'll buy a Morris-Cooper
+{35544}{35650}I'm glad Paul's in love with me;|I'll sleep with him eventually
+{35684}{35746}I hope he doesn't become a nuisance
+{37172}{37258}- Did you see?|- No. What'll we do?
+{37276}{37326}I'm going on to the Etoile
+{37332}{37413}- Let's go to the Palladium|- No, I'm tired
+{37420}{37490}I'll go as far as Montparnasse|with you, then
+{37916}{37974}- How about it?|- I don't feel like it
+{37980}{38053}You can be a real nigger bastard|when you try
+{38060}{38154}No comment. No comment, I said
+{38236}{38303}That's enough; now shut it!
+{38340}{38466}You know what you niggers are?|You're killers in the making
+{38492}{38534}And you know it
+{38540}{38630}You just dream of being like|those Hollywood whores
+{38636}{38746}All you think of is money;|it's written all over your face
+{38796}{38866}They don't even know|what it's all about
+{38980}{39042}They don't even know|what it's all about
+{39048}{39146}"Oh, I adore Bessie Smith",|they mutter
+{39508}{39574}They don't understand what|Bessie's telling them
+{39580}{39690}"Here's my big, black ass!"|She's not singing about love
+{39716}{39762}What, then?
+{39876}{39954}It's not about desire or the blues
+{39988}{40034}Nothing like that
+{40100}{40146}Want me to tell you?
+{40204}{40330}She's shouting: Kiss my big,|black ass, that's what
+{40436}{40495}Charlie Parker's the same
+{40540}{40588}Look out!
+{40594}{40660}If you told Charlie...
+{40674}{40736}...throw away your sax...
+{40756}{40838}...and you can kill the first ten|whites you see, he'd do it
+{40844}{40886}He'd never play another note
+{40892}{40945}What are you staring at?
+{41048}{41090}NOTHING: JUST A WOMAN
+{41098}{41138}AND A MAN
+{41146}{41187}AND AN OCEAN
+{41196}{41234}OF SPILT BLOOD
+{41252}{41338}The sexual organ is purely natural
+{41344}{41394}Yes, obviously, but...
+{41420}{41469}So is sexuality
+{41508}{41554}I don't agree
+{41580}{41730}For me, sexuality involves the skin.|I think that's very important
+{41844}{41957}Otherwise, there can be no real|contact between two people
+{41964}{42053}You shake someone by the hand,|for instance...
+{42060}{42131}...and you know at once|if you felt anything
+{42164}{42266}What about the eyes, looking?|Isn't that important?
+{42308}{42362}The eyes, looking
+{42416}{42498}Do you think he's good in bed? Paul?
+{42566}{42682}THE MOLE IS BLIND, YET BURROWS|IN A PARTICULAR DIRECTION
+{42740}{42834}- I've no time|- It will only take five minutes
+{43180}{43253}It's my first record,|but you don't care
+{43260}{43322}Yes, I do, really
+{43372}{43418}Let's sit down
+{43908}{43954}Well, what do we do?
+{44076}{44157}Let's go over there;|I don't like it here
+{44164}{44210}Say your piece
+{44508}{44578}"Eglantine, madly in love"
+{44692}{44805}"There will always be girls who|lie down when asked to sit"
+{44812}{44914}"The duchess was nude; the little|prince was dressed as Chaplin"
+{44948}{45053}"Not even a bra or panties,|entirely nude"
+{45060}{45157}"Finally, the fleur-de-lys panties|had slipped off"
+{45164}{45218}"She had long legs"
+{45276}{45382}"Early the next morning I went|into the little garden"
+{45388}{45509}"I've seen all kinds,|but never one so willing"
+{45516}{45597}"Quickly I laid her, naked,|on my coverlet
+{45604}{45698}"Her arms reached out in|the most wonderful..."
+{45716}{45805}"She weighed only a hundred and|twelve pounds...
+{45812}{45878}"...but her plump thighs|were like satin"
+{45884}{45938}It's nicer over there
+{46188}{46230}What would you like?
+{46236}{46306}I haven't time for anything, thanks
+{46324}{46402}It's not that I want to; I have to
+{46476}{46574}I learned one thing when|I lost my wife
+{46580}{46706}It's that you just can't stop;|I have to begin all over again
+{46764}{46842}I'm just asking you to be patient
+{46848}{46906}I have to dash
+{46932}{46997}Won't you leave me, let me go?
+{47004}{47078}To you I'm just a girl, I know
+{47084}{47154}Let me set my life aflow
+{47228}{47330}What I wanted to say was:|Will you marry me?
+{47348}{47408}Let's discuss it later
+{47576}{47638}Won't you let me know the day
+{47644}{47718}My first true love will come my way?
+{47724}{47782}Won't you let me find at last
+{47788}{47853}The one who'll come to hold me fast?
+{48054}{48134}For you somehow girls must cry
+{48140}{48197}For you somehow I don't know why
+{48204}{48278}For you I'd gladly spend all day
+{48284}{48374}Waiting for you to come my way
+{48380}{48450}Leave me with my unhappiness
+{48458}{48518}I believe in faithfulness
+{48524}{48594}Give me time to dream a while
+{48860}{48906}Like a drink?
+{49412}{49474}I'm sorry about before
+{49580}{49634}Sandie Shaw's terrific, isn't she?
+{49740}{49858}I think it's disgusting,|exhibiting yourself like that
+{50116}{50234}How about going? I've had enough|of him today
+{50260}{50306}Good idea
+{50564}{50610}Will you pay?
+{50692}{50746}Shall I see you at the baths later?
+{51540}{51650}Would you like to take some pictures|with me?
+{51676}{51714}Photographs, I mean
+{52452}{52526}It's 15,000 francs to see my breasts
+{52532}{52574}I've only got 10,000
+{52580}{52642}O.K., but hands off, then
+{52648}{52714}You must be kidding
+{53436}{53498}I want to live with you
+{53572}{53666}You won't come to meet me tonight
+{53708}{53794}The stars are falling, Madeleine
+{53836}{53901}Here we are in the city
+{53908}{54005}lmagine it's written, Madeleine, like:
+{54012}{54101}"Astor, the modern man's cigarette!"
+{54108}{54226}Remember: You were leaving the baths,|the same record was playing
+{54364}{54450}5 December, 1965. The stars
+{54556}{54661}I want to live with you, bikini-bronzed
+{54668}{54722}We'll play the machines
+{54812}{54906}Look, it's the airport here
+{54924}{55010}You put on your lipstick,|snuggle against me
+{55036}{55082}We've taken off
+{55147}{55222}Hello, control tower here
+{55228}{55322}Boeing 737 calling Caravelle,|Paul calling Madeleine
+{55788}{55890}I don't believe your promises,|you've lied to me once more
+{55897}{56013}You know what my address is,|but there's no letter at my door
+{56020}{56109}For days and days I waited,|but it was all in vain
+{56116}{56226}You broke my heart completely|when no message came
+{57164}{57212}Guess what happened
+{57224}{57274}I hear running footsteps
+{57324}{57369}What is it? I wonder
+{57378}{57418}I turn round
+{57468}{57602}And a bloke says: "Did I frighten you?|Do forgive me"
+{57636}{57671}I wait
+{57680}{57764}But when I go on, so do the footsteps
+{57780}{57909}The guy says: "Did I frighten you?|Do forgive me"
+{57916}{58042}All very courteous, but I realize|it's a different man
+{58060}{58106}I go on
+{58203}{58310}This time the footsteps go past
+{58372}{58447}But the guy stops just in front of me
+{58456}{58582}I look at him, and it's not|the same guy
+{58588}{58666}I mean, it's a third guy
+{58732}{58794}"You're not the same one", I say
+{58828}{58913}He looks at me and says: "Maybe so...
+{58920}{59042}"...but the point is you thought|you were being followed
+{59084}{59130}"Who by doesn't matter
+{59156}{59202}"If I'd run faster...
+{59324}{59388}"You would have been afraid
+{59394}{59466}"But I didn't and you weren't"
+{59500}{59557}"Listen", I say to this guy...
+{59564}{59674}"...if that's your idea of a joke,|I don't think much of it"
+{59691}{59738}He looks at me and says:
+{59744}{59858}"Do you really think it's a joke?|Well!
+{59966}{60031}"You just haven't understood", he says
+{60036}{60156}- Coming poster-sticking on Saturday?|- You know I can't on Saturday
+{60174}{60272}- Bring her along|- Hell, no
+{60278}{60364}Well, it's up to you
+{60430}{60526}But there are no individual solutions,|you know
+{60532}{60684}One learns by joining the struggle.|You accept too many things too easily
+{60747}{60828}My problems with women are my affair
+{60853}{60948}It's all very simple really:|Women, money
+{61053}{61148}It's like a movement of|perpetual revolt
+{61166}{61284}I can't accept things like you.|That's what makes me a militant
+{61326}{61385}I admire you for it
+{61392}{61444}Join in, then
+{61486}{61532}I'll think about it
+{61574}{61656}- What are you reading?|- An article on Bob Dylan
+{61662}{61726}- Who's he?|- A Vietnik
+{61732}{61836}- What's that?|- It comes from beatnik and Vietnam
+{61918}{61988}"Who are you, Mr. Bob Dylan?"
+{62190}{62276}Old Hitler said it
+{62282}{62368}And old Stalin, too
+{62374}{62447}Now old Johnson says it
+{62453}{62548}There's only one thing to do
+{62574}{62628}And that's to kill them all
+{62709}{62806}Hasn't Madeleine mentioned him?|He sells 10,000 records a day
+{62812}{62948}I think I'm going to drop her.|I'll find out tonight, anyway
+{63006}{63116}My landlady wants my room|for her nephew
+{63182}{63260}Madeleine might let me stay with her
+{63286}{63335}But that bitch Elisabeth?
+{63341}{63406}I'm crazy about freckles!
+{63412}{63472}Catherine's a better bet
+{63478}{63588}Think so? Last Saturday I asked her|what make of bra she wore
+{63630}{63670}What a clout I got
+{63718}{63768}That must be an Oh Yes!
+{63774}{63828}"Oh Yes! The bra that boosts"!
+{63853}{63924}Do you know why Camille was|such a success?
+{63958}{64052}Give me your hand...|with your finger like that
+{64278}{64391}I don't know why I'm joking;|actually, I feel miserable
+{64397}{64436}Because of Madeleine?
+{64486}{64596}Do you realize the word masculine|comprises mask and ass?
+{64678}{64740}- And feminine?|- Sweet nothing
+{64806}{64847}PURITY IS NOT
+{64856}{64894}OF THIS WORLD
+{64926}{64942}BUT
+{64974}{65064}ONCE IN TEN YEARS ITS LIGHT|GLEAMS BRIEFLY
+{65078}{65172}Lonely and terrible the night|followed by no day
+{65192}{65313}American scientists have succeeded|in transmitting thoughts...
+{65322}{65376}...through injections
+{65382}{65505}Man's existence is not determined by|his conscience. Rather, the reverse
+{65566}{65687}In the near future, each citizen|could well be wearing...
+{65694}{65772}...an electrical apparatus designed|to stimulate pleasure...
+{65786}{65839}...and sexual gratification
+{65850}{65884}Give us this day...
+{65896}{65982}...TVand car, but deliver us|from freedom
+{66370}{66451}My dear Marquis, you seem so cheerful
+{66458}{66505}Joyous, of nothing fearful
+{66512}{66572}Is it simply satisfaction?
+{66578}{66632}Or is there cause for your reaction?
+{66770}{66872}My voice doesn't match my deep|and solemn thoughts
+{66890}{66944}Unlike Boileau
+{67018}{67099}That struck me when I was at school
+{67106}{67200}I don't know why, but it often|happens to me
+{67546}{67600}What are they playing at?
+{67634}{67696}Do you often fall in love?
+{67778}{67848}- Can I speak frankly?|- Of course
+{68010}{68104}- You don't really mean that|- Yes, I do
+{68234}{68373}You look sincere, but I'm sure|you're being defensive
+{68382}{68512}Still, it's Madeleine I care about.|It's a pity, though
+{68594}{68648}You said it
+{68738}{68800}I'm going to ask you a question, too
+{68882}{68952}Actually, she asked me to;|she's afraid...
+{69026}{69066}...of getting pregnant
+{69154}{69240}The idiot. I'm old enough|to know better
+{69258}{69424}- Would you be afraid?|- No, I've got a thingumajig
+{69594}{69672}- What is it?|- An American contraption
+{69706}{69776}An Air France bloke brought it over|for Elisabeth
+{69794}{69872}Madeleine won't use it; she's shocked
+{69938}{70000}I can see why she's afraid
+{70066}{70176}- I'm sure this wasn't her idea|- Ask her yourself
+{70322}{70400}- Ask me what?|- Nothing
+{70442}{70539}My record's number six in Japan
+{70546}{70620}Who is there ahead of you?
+{70626}{70747}The Beatles, France Gall,|Bob Dylan, Frank Sinatra
+{70754}{70827}I didn't know you were warm and lively
+{70890}{70995}"She continues to create a world|entirely of her own
+{71002}{71099}"The chiselled, classic beauty|of her features...
+{71106}{71228}"...is belied by a mischievous,|fun-loving smile
+{71234}{71330}"Instinctively mistrustful of|any kind of insincerity...
+{71336}{71432}"...her artistic integrity makes her|spurn the 'modern' style"
+{71602}{71630}Stop making fun
+{71762}{71824}Someone phoned for you
+{71842}{71984}The memory's gone, I don't know who.|Paul took the call
+{71990}{72080}I told him to let my poor old mum|alone
+{72122}{72210}No poor old mum? How dare you,|Marquis!
+{72216}{72276}Has he gone mad?
+{72282}{72324}Clear the table
+{72330}{72428}Madame Durand,|your daughters are grand
+{72434}{72520}But, Madame Durand,|their noses expand
+{72538}{72600}Right. A bath and then bed
+{72930}{73008}Going to listen to that|outlandish music?
+{73042}{73088}Then I'm off
+{73922}{73968}It's fantastic
+{75434}{75504}- What's wrong?|- I've got a flea
+{75690}{75755}And there's no paper in the bog
+{75762}{75824}There's a copy of Le Figaro
+{75850}{75899}Poor Mauriac!
+{75906}{76040}When you think that Beaumarchais|invented the word Figaro...
+{76074}{76203}...and now it's a synonom for|bourgeois; it makes you sick
+{76210}{76272}She's been seeing Robert, obviously
+{76314}{76372}You keep Paul, Catherine
+{76378}{76424}No, come here, Paul
+{76698}{76784}- Do you mind?|- Please yourself
+{76790}{76856}I'm going to have a last cigarette
+{76874}{76952}Don't switch the light off yet
+{77586}{77643}Move your backside over, Madeleine
+{77650}{77712}Don't say my backside,|say chubby cheeks
+{77730}{77784}Don't say chubby cheeks, say jacksey
+{77810}{77880}No, say my posterior
+{77886}{77939}Sit-me-down
+{77946}{77984}Parson's nose
+{78010}{78043}Fanny
+{78050}{78080}Bum
+{78098}{78160}What do you say for sexual organs?
+{78186}{78260}You say three-piece suite
+{78746}{78808}Can I put my hand there?
+{78866}{78920}Do me a favour!
+{79122}{79176}I've always wondered...
+{79210}{79256}Not so loud, Paul
+{79378}{79488}Love, love... in the man's heart|is solitude
+{79514}{79640}And on the face of my naked|femininity your face is mirrored
+{79674}{79768}And my love is in the sea, in dreams
+{79786}{79848}And we are faced by death
+{80050}{80143}KIND SLEEP, FREE ME BRIEFLY|FROM MYSELF
+{80150}{80256}Here on Earth, the cruelest star,|among men less feeling than stones
+{80866}{80912}What are you doing?
+{80978}{81072}Take that string there
+{81330}{81400}You've heard of the Marquis de Sade?
+{81442}{81552}Didn't he say: "Once more into|the Republican breach..."?
+{81626}{81703}A nation took up Turenne's sword...
+{81712}{81788}...launching the first army|of justice into Europe
+{81810}{81955}For a hundred years this ragged army|fulfilled the highest dreams
+{81962}{82076}It drove out a king, crossed|the Alps and the Rhine
+{82082}{82184}What have you and I,|Monsieur Mitterand, to do...
+{82190}{82330}...with this vast shadow which made|Europe dance to the tune of liberty?
+{82768}{82868}I don't believe your promises|any more
+{82874}{82980}Too many girls have believed you|before
+{82986}{83029}You're laughing at my tears...
+{83034}{83121}DIALOGUE WITH A CONSUMER PRODUCT
+{83128}{83180}You're a friend of Madeleine's?
+{83254}{83356}- Where did you meet?|- She used to work on the magazine
+{83430}{83492}What magazine? Miss 19?
+{83590}{83647}What's your job?
+{83654}{83726}Well, I was chosen as Miss 19
+{83734}{83831}Why all these questions, anyway?|What are you doing?
+{83836}{83926}- It's a public opinion survey|- Changed jobs?
+{83934}{84044}Yes, I wasn't earning enough|with the magazine
+{84062}{84132}I've always been interested in|sociology
+{84206}{84312}Why do you want to be Miss 19?
+{84318}{84456}I don't particularly; I just had|the good luck to be chosen
+{84462}{84580}I've never really known why,|but I'm Miss 19 for a year
+{84586}{84664}Why do you say "good luck"?
+{84670}{84740}For me there are all sorts of|advantages; it's fantastic
+{84774}{84908}All sorts of things... I have a car,|I get fabulous trips
+{84950}{85052}- What did you do before?|- I was studying
+{85110}{85180}- What for?|- My baccalauréat
+{85238}{85312}Didn't you want to go on?
+{85318}{85428}No, everything changed when|I was chosen, you see
+{85434}{85526}You'd rather have your car than|your baccalauréat?
+{85532}{85604}I'm happy to say I have both
+{85846}{85935}Do you think socialism has a future?
+{85942}{86020}Socialism, did you say?
+{86054}{86143}I don't really know enough about it
+{86150}{86216}What do you understand by socialism?
+{86222}{86316}I won't try to answer that,|or I'll get all muddled
+{86374}{86428}Say you had to choose...
+{86486}{86572}...between socialism and|the American way of life
+{86614}{86656}Is there a difference?
+{86662}{86740}Of course, but it's difficult|to explain
+{86790}{86872}What do you understand by|American way of life?
+{86878}{86964}Everything going at a terrific pace,|very free and easy
+{87006}{87124}I was lucky enough to be able to go|and see what America was like
+{87142}{87180}What was it like?
+{87186}{87268}Pretty terrific; I really liked it
+{87310}{87412}What was terrific about it?|I mean, what in particular?
+{87430}{87512}It's all so different from France,|you see
+{87518}{87652}They live and work hard, but|everything goes at such a pace
+{87686}{87748}You get the impression...
+{87766}{87860}...that everyone's running all the|time, busy with important things
+{87918}{88024}One thing is that women play|a more important role there
+{88030}{88116}Does the word reactionary|mean anything to you?
+{88318}{88388}It's difficult to explain|what it means
+{88422}{88520}To be reactionary is to be|in opposition...
+{88526}{88664}...to react against things,|not to accept just anything
+{88670}{88724}Is it a good or a bad thing?
+{88742}{88828}Good; I don't like yes-people
+{88910}{89012}Does the Popular Front|mean anything to you?
+{89054}{89112}What awful questions!
+{89118}{89228}- What's so funny?|- I don't want to answer such questions
+{89262}{89372}- Do you want to have children?|- Later, not just yet
+{89398}{89439}Why later?
+{89446}{89572}Because I want to live a little first,|to be independent
+{89622}{89672}So children are out
+{89678}{89780}Do you know what birth-control means?
+{89814}{89916}More or less; there's a lot|talked about it
+{89950}{90028}What does it actually involve?
+{90182}{90236}Come on, tell me
+{90286}{90396}It's so embarrassing...|I know what it is, but...
+{90430}{90464}...I can't...
+{90470}{90580}I'm making a general survey of|Frenchwomen, not just you
+{90586}{90692}I see; well, birth-control is...
+{90782}{90860}Do you know any practical methods?
+{90902}{90999}I know some, but I'd rather not|name them
+{91006}{91068}Just give one or two examples
+{91118}{91220}Well, there are pills,|to use a general sort of term
+{91238}{91295}Or else a diaphragm
+{91302}{91391}Yes, but aren't there other things|besides pills?
+{91398}{91452}I told you: A diaphragm
+{91478}{91532}Do you often fall in love?
+{91614}{91652}Certainly not
+{91686}{91743}Don't you like being in love?
+{91750}{91847}Yes, but it isn't something|you go looking for
+{91854}{91951}It just happens; and when it does,|it's terrific
+{91958}{92052}It's something you can't help, and|it doesn't happen every day
+{92070}{92148}Do you know of a war going on|just now?
+{92286}{92335}That doesn't concern me
+{92342}{92436}No, but isn't there one|going on somewhere?
+{92454}{92516}I don't know... I don't know...
+{93060}{93098}Well?
+{93788}{93834}She'll be here in fifteen minutes
+{93860}{93933}If she appears at the Olympia,|I'll kill her
+{93940}{93988}You're crazy
+{93994}{94074}No, I think it's disgusting;|I'll kill her
+{94372}{94434}Let's talk about something else
+{94572}{94626}That's between you and Madeleine
+{94892}{94938}Still thinking about her?
+{94964}{95074}No, I was thinking about my father.|It's the mashed potatoes
+{95268}{95386}One day at home we were eating|mashed potatoes
+{95436}{95554}Suddenly my father stopped and said:|"I've got it!"
+{95620}{95682}"Got what?", my sister asked
+{95740}{95842}He'd discovered why the earth|goes round the sun
+{95868}{95946}Of course, Galileo discovered it first
+{95980}{96077}But all of a sudden, just like that,|my father...
+{96084}{96173}...had rediscovered why the earth|goes round the sun...
+{96180}{96242}...exactly as Galileo did originally
+{96260}{96346}So he stopped eating mashed potatoes|and said: "I've got it!"
+{96492}{96586}Me, I made a crack, and got|the mashed potatoes in my face
+{96748}{96826}Did I tell you I saw that guy again?
+{96876}{96962}The one we went to Fontainebleau with?
+{96980}{97038}I hadn't heard about that
+{97044}{97138}Surely Madeleine told you|we went with him?
+{97308}{97410}- Remember how cross you were after?|- Not about that
+{97484}{97538}I thought you were angry about...
+{97588}{97646}Nothing; you'd be hurt
+{97652}{97708}Tell me, anyway
+{97716}{97762}It was nothing
+{97768}{97846}The guy wants to go again|this weekend, because...
+{97852}{97922}...he saw you with me and|wants to bring his woman
+{97964}{98018}- Poor Paul!|- Why?
+{98124}{98198}We're not the sort of girls for you
+{98204}{98266}What bloody business is it of yours?
+{98500}{98570}I repeat: What bloody business is it|of yours?
+{98588}{98642}I just mentioned it
+{98748}{98826}I don't care, anyway;|Madeleine's pregnant
+{98940}{98994}She isn't; I know her
+{99060}{99122}I don't think you do, really
+{99180}{99266}She takes her temperature|before sleeping around
+{99332}{99378}She's very careful
+{99956}{100018}I'm still out of breath
+{100188}{100269}- I've been rushing|- It doesn't show
+{100276}{100306}Feel
+{100348}{100387}Well, really!
+{100394}{100482}Oh, come on. He's entitled to that
+{100892}{101018}I met Sylvie at the studio; she|gave me a signed copy of her record
+{101044}{101106}Here you are
+{101148}{101218}Something less hip for you
+{101268}{101370}Yes, I'd rather have had|Bach's Concerto in D
+{102164}{102246}May I wait until you've finished?
+{102252}{102338}Look, I think I know that woman
+{102388}{102477}She's the one who took a shot|at her husband
+{102484}{102546}I don't think it's the same woman
+{102564}{102613}She's hustling
+{102636}{102694}I haven't much money
+{102700}{102806}I have to economize if I'm to see|the châteaux on the Loire
+{102812}{102908}How much can you give me?
+{102914}{102962}That's too much
+{102980}{103042}How much do you have on you?
+{103107}{103229}Not much; why, do you have|different prices?
+{103236}{103290}It depends on what you want
+{103324}{103394}Let me work it out
+{103507}{103554}Are you German?
+{103628}{103714}I'm not French, and people think|I'm German...
+{103740}{103794}...but I hate the Germans
+{103876}{103954}Because my parents died in Germany
+{104004}{104034}Whereabouts?
+{104060}{104130}Never heard of concentration camps?
+{104148}{104242}I'm fed up with people saying|things like that
+{104307}{104413}I was ten years old at the time;|you, too, probably
+{104419}{104517}Maybe you were, but your father wasn't
+{104524}{104571}I dissociate myself from him
+{104619}{104706}It must be strange, screwing|fifty guys a day
+{104724}{104806}I don't suppose it's more than|two or three
+{104812}{104908}No, at weekends they do|over a hundred in the slums
+{104914}{104941}Who's to blame, then?
+{105060}{105162}- Laughing on your lonesome?|- That's why I'm laughing
+{105172}{105246}She looks just like Brigitte Bardot,|doesn't she?
+{105252}{105342}No, the sequence doesn't work;|I'd marked it already
+{105348}{105418}You don't take it quickly enough
+{105436}{105517}Vauthier's direction says "quickly"
+{105524}{105606}I love sham, I love lies,|everything phoney...
+{105612}{105690}...everything secret, caressing,|reassuring and false
+{105707}{105821}You've got to go much quicker;|the same with the accident bit
+{105828}{105888}After the guy's run over?
+{105894}{106029}Yes, the rhythm's wrong there;|it says "in convulsive snatches"
+{106036}{106158}It was terrible, whoever was at|fault; and what did I say?
+{106164}{106229}There's one idiot the less
+{106236}{106269}It says "quickly"
+{106276}{106394}He should have been more careful;|nobody loves a loser
+{106419}{106525}The same goes for the visit to|the housing project
+{106531}{106621}It says "with a sort of|wild enthusiasm"
+{106628}{106717}The memory of the marvellous|innovation will remain
+{106724}{106788}The play isn't called The Marvels|for nothing
+{106794}{106908}She speaks "ardently": A vast area|raised by human hand...
+{106914}{107021}...and where there was nothing,|endless identical boxes
+{107028}{107162}I think you must try to forget you've|rehearsed it, forget it all
+{107169}{107277}Do it as if you were reading it|for the first time
+{107284}{107358}Just read it any old how
+{107364}{107434}All right, I'll try
+{107457}{107512}It was constructed, it was perverse
+{107519}{107630}There was no one there. The people|had gone, leaving their traces
+{107640}{107704}There was nothing, nothing at all
+{107714}{107794}They were lost and happy,|nothing left to desire
+{108300}{108394}Got any change? Neither have I
+{109460}{109514}What are you doing there, Paul?
+{109731}{109774}I'm going for a pee
+{109795}{109850}It's the sub-titled version
+{109876}{109950}Good; dubbing's strictly for suckers
+{110412}{110466}Get lost, punk!
+{111084}{111218}Down with the republic of rat-finks
+{111972}{112048}Don't mess about, Paul
+{112188}{112250}Make your minds up
+{112412}{112474}I love you, you silly oaf
+{112556}{112650}- Have you finished, darlings?|- Shut up, Trotskyite!
+{113834}{113930}They're cropping the picture;|I'll go and complain
+{114204}{114266}Where's the projection box?
+{114444}{114578}"The film should be projected in the|ratio in which it was shot
+{114612}{114754}"The ratio of 1:1.85 constitutes a|limit which should not be exceeded...
+{114780}{114898}"...in accordance with standards set|by international agreement"
+{116380}{116506}We master ideas, which are nothing,|but not our emotions, which are all
+{116652}{116702}What's happening?
+{116707}{116802}A man and a woman in a foreign city...
+{117580}{117690}- I don't like it; let's leave|- I want to see it
+{117772}{117866}Oh, let's go. All this eroticism|is disgusting, anyway
+{117884}{117938}Speak for yourself
+{118188}{118234}Come on, let's go
+{118260}{118322}- Are you staying?|- Yes, I am
+{118860}{118887}At movies...
+{118916}{118994}...the screen would light up|and we'd shiver
+{119084}{119148}But more often we'd be disappointed,|Madeleine and I
+{119619}{119676}But more often we'd be disappointed,|Madeleine and I
+{119731}{119869}The images seemed old and flickery;|Marilyn Monroe had aged terribly
+{119876}{119917}We were sad
+{119924}{119998}This wasn't the film we'd imagined...
+{120004}{120088}...the perfect film each of us|carried within...
+{120094}{120234}...the film we would like to have|made, or perhaps even to have lived
+{120472}{120539}Why do you find discussion|so difficult?
+{120544}{120635}The government won't let workers|go to university
+{120640}{120727}They're afraid, so they shut us out
+{120744}{120810}It's the lack of money that does it
+{120816}{120911}You need to learn how to say|what you want
+{120981}{121047}What was it you were trying to tell me?
+{121072}{121199}- Why do you love Paul, not me?|- I don't love Paul; Madeleine does
+{121280}{121399}- Oh, sure. Why?|- I don't want to talk about it
+{121528}{121599}Because it's none of your business
+{121696}{121799}- Don't you like going out with boys?|- It depends on the boy
+{121881}{121962}Are you going out with someone|just now?
+{121969}{122015}Mind your own business
+{122128}{122207}- Where do you want to take me?|- To the cinema
+{122336}{122415}- Do you often take girls out?|- Now and again
+{122512}{122559}What kind of girls?
+{122569}{122602}Just girls
+{122640}{122703}What's your boy friend like?
+{122752}{122831}I'm not going out with|anyone special just now
+{122872}{122959}- So you sleep around?|- No, I don't sleep around
+{122976}{123027}You just said you did
+{123032}{123131}I said I'm not going out with|anyone special
+{123136}{123223}There's a difference between|going out and sleeping with
+{123320}{123439}- Have you any ideas about democracy?|- Not particularly
+{123688}{123779}Are you interested in|what goes on around you?
+{123784}{123850}Of course, but it depends on|what it is
+{123856}{123951}Politics don't interest me,|but there are other things
+{124032}{124095}I can't think offhand...
+{124120}{124227}...but there are all sorts of things|I'm interested in
+{124232}{124321}Well, I read the newspapers,|for instance...
+{124326}{124431}...and if it's an interesting article,|I go on; if not, I skip
+{124448}{124519}You don't like being bored?
+{124576}{124635}Why won't you speak about yourself?
+{124640}{124754}Because it's none of your business|and I don't see any point in it
+{124760}{124847}What good would it do you?
+{124881}{124935}I'm none of your business
+{124962}{125039}Do you often go with whores?
+{125081}{125114}Now and then
+{125120}{125166}If you can't find a girl?
+{125172}{125258}No, not because I can't find a girl
+{125264}{125391}I can't... I like whores in a way,|for lots of reasons
+{125456}{125518}- How much does it cost?|- I never pay
+{125536}{125607}About us going out...
+{125640}{125743}- You prefer going out with Paul?|- Listen, I don't go out with Paul
+{125905}{125991}The way you look at him,|I'd say you were in love
+{125998}{126071}I'm not; don't go on about it
+{126193}{126263}- Are you in love with anyone?|- No, why?
+{126360}{126415}Really? No kidding?
+{126464}{126535}Do you think I'm prettier|than Madeleine?
+{126569}{126639}No, physically I prefer Madeleine
+{126760}{126858}Madeleine said she'd shown you|her breasts; is it true?
+{126864}{126911}I don't remember
+{126936}{126975}That's not true
+{127064}{127121}Did she show them to Paul?
+{127193}{127303}- Like to talk about Paul, don't you?|- Don't go on so!
+{127424}{127511}- Don't you like going out with boys?|- It depends on the boy
+{127608}{127666}What kind do you like?
+{127672}{127766}No particular kind, but I know|right away
+{127772}{127839}- Johnny Halliday?|- Not likely!
+{127856}{127919}- General de Gaulle?|- No fear!
+{127936}{128028}Who, then? American film stars?
+{128064}{128166}I get the feeling I'd seen you|somewhere before Paul introduced you
+{128172}{128235}Maybe in a bar in Montparnasse?
+{128240}{128319}Could be, I'm often around|the Montparnasse bars
+{128344}{128379}Doing what?
+{128384}{128467}Talking to friends,|playing pinball machines
+{128502}{128559}Don't you like talking about yourself?
+{128600}{128679}Because it's none of your business
+{128728}{128823}- But you're your business|- Yes, but I'm not yours
+{128840}{128959}- Why not talk, then?|- Because I don't concern you
+{129064}{129146}But I love you, so I want to know|what you're like
+{129152}{129255}Well, if it isn't mutual,|it's just egoism on your part
+{129400}{129495}- Do you sleep with boys sometimes?|- No, why?
+{129502}{129567}- Never?|- Mind your own business!
+{129624}{129711}- Have you ever made love?|- Mind your own business
+{129896}{129996}- What's the paper?|- My lecture to the cell
+{130064}{130127}- What's it about?|- The revolution
+{130160}{130295}Why is a workman described as skilled,|but not actors or clerks?
+{130302}{130435}I go into that. There are three|categories of skilled worker
+{130440}{130562}Being capable of executing a complete|revolution, I belong to the third
+{130569}{130627}What is a complete revolution?
+{130632}{130739}Take a piece of complex machinery,|for instance
+{130744}{130835}You're given the raw material|and the design...
+{130840}{130920}...showing what it should be like|when finished
+{130926}{131010}There's no time to lose,|so you must be capable...
+{131016}{131119}...of exceptional precision in thought|as well as gesture...
+{131136}{131263}...visualizing at once not only how to|do it, but each stage in the operation
+{131280}{131410}You have each stage clearly in mind,|even before you start
+{131416}{131543}You take it up and you know|exactly what you have to do
+{131632}{131743}And as you work, your mind can see|what must come next
+{131750}{131841}You have already foreseen|the necessary tools and phases
+{131848}{131983}This is known as a revolution; this,|too, is the revolutionary spirit
+{132068}{132124}THIS FILM COULD BE CALLED
+{132132}{132185}THE CHILDREN OF MARX AND COCA-COLA
+{132196}{132243}MAKE OF IT WHAT YOU WILL
+{132480}{132527}Got a light?
+{132656}{132695}My matches!
+{132936}{132975}Kiss the children
+{133096}{133175}- My matches!|- Let this poor Messiah pass
+{133240}{133303}I want to see what he does
+{133592}{133683}He poured petrol over himself|and set fire to it
+{133688}{133791}He can't have, he'd have cried out;|I heard nothing
+{133816}{133895}He'd put sticking-plaster over his|mouth to silence himself
+{133902}{133971}Why would he do it outside|the American Hospital?
+{133976}{134055}There's a piece of paper;|go and look for yourself
+{134288}{134333}What does it say?
+{134340}{134415}"Peace in Vietnam". He's dead
+{134904}{134975}Kill a man and you're a murderer
+{135032}{135135}Kill thousands and you're a conqueror
+{135168}{135247}Kill them all and you're a god
+{135264}{135319}God doesn't exist
+{135352}{135399}We'll soon see
+{135448}{135527}- Do you love Madeleine?|- Don't start that again!
+{135752}{135903}First tell me your name|and I'll tell you mine
+{135952}{136079}Let's go far away from here|and then we'll talk
+{136096}{136239}I don't want anyone to know|I've met you
+{136272}{136415}I don't want them to say|you've kissed me
+{136480}{136551}What is it? Can't you go away?
+{136576}{136627}Watch your p's, Madeleine
+{136632}{136720}It's the echo; I can't hear|what I'm singing
+{136726}{136799}Watch my baton, Madeleine
+{138064}{138143}Not bad, Madeleine... it was so-so
+{138248}{138319}Did you like it? Was it good?
+{138752}{138863}Could we re-do that tomorrow?|I'm not so good there
+{138896}{138975}All right, three o'clock tomorrow
+{139200}{139263}Someone from Radio Europe One|is waiting for you
+{139416}{139514}Madeleine Zimmer? Did the session|go well?
+{139520}{139610}Very well. I must speak to|my secretary
+{139616}{139658}The car, Paul
+{139664}{139711}- What car?|- Don't be thick
+{139776}{139895}- How do I get a car?|- Use those cool wits you boast about
+{139902}{139935}Shut up!
+{139960}{139999}I'll phone
+{140344}{140387}Your favourite singers?
+{140392}{140483}The Beatles; and for the classics,|Bach
+{140488}{140591}Bach seems rather surprising, given|the kind of songs you sing
+{140602}{140675}They don't rule each other out,|you know
+{140680}{140810}- Any special traits?|- Well, I hardly ever wear make-up
+{140816}{140943}And I like flat shoes and short skirts
+{140950}{141023}You like the young look?
+{141040}{141139}In America you see billboards|along the highways saying:
+{141144}{141187}"You're in the Pepsi Generation"
+{141192}{141283}I love Pepsi-Cola, really I do
+{141288}{141359}Well, we look forward to|your third record
+{141456}{141559}- What about the car?|- What car? Did you steal one?
+{141592}{141706}You haven't the guts,|you're no Pierrot le Fou
+{141712}{141779}No? Well, I phoned the War Ministry
+{141784}{141887}"This is General Doinel", I said.|"Where the hell's my car?"
+{141912}{142031}It may not come; Robert and I|have worked the trick before
+{142392}{142455}Long live the French army!
+{142752}{142825}January to March: I continue my survey
+{142832}{142910}Do you like cheese in tubes?
+{142918}{142956}Do you read?
+{142964}{143034}What is a cadre?
+{143048}{143126}What do you think of short skirts?
+{143136}{143178}What do you do at an accident?
+{143192}{143276}Suppose your fiancée took up|with a black?
+{143288}{143398}Do you know there's a famine|in India? What is a communist?
+{143408}{143473}Do you take the pill?
+{143488}{143551}Or do you prefer|vaginal contraception?
+{143576}{143675}Why are society women more often|frigid than working class women?
+{143688}{143774}Do you know the Kurds are|at war with Iraq?
+{143784}{143879}Gradually I began to realize|that such questions...
+{143888}{143996}...often distorted rather than|reflected a collective mentality
+{144016}{144145}My own lack of objectivity,|even though unconscious...
+{144168}{144254}...was inevitably matched by|insincerity in those I questioned
+{144264}{144357}Unaware of deceiving them, I may|have been deceived, too. Why?
+{144376}{144478}Probably because such surveys tend|to forget their real objective...
+{144488}{144609}...seeking value judgements,|instead of observing behaviour
+{144664}{144811}I discovered that all these questions|I was asking French people...
+{144824}{144919}...expressed an ideology of the past|and not of the present
+{144936}{145072}I had to remain vigilant; I had|gleaned a few insights as guidelines
+{145096}{145191}A philosopher is a man who pits|his awareness against opinion
+{145198}{145283}To be a aware is to be open|to the world
+{145288}{145366}To be honest is to act as though|time didn't exist
+{145424}{145551}To see life, to really see it,|that is what wisdom means
+{145728}{145787}What happened?
+{145792}{145906}He inherited some money from his|mother and bought a flat
+{145912}{146047}Nobody really believed it until|Elisabeth and Madeleine saw the flat
+{146104}{146239}It was in a tower block|being built at Neuilly
+{146296}{146366}They talked about furnishing|the rooms...
+{146372}{146447}...the kitchen, the dining-room|and so on
+{146464}{146531}They had a quarrel
+{146536}{146671}I think because Madeleine wanted|Elisabeth to live with them
+{146776}{146875}Anyway, Paul apparently wanted|to take some photographs
+{146880}{146991}He must have retreated too far|and he fell
+{147048}{147151}I can't believe it was suicide;|it was a stupid accident
+{147728}{147775}Madeleine Zimmer?
+{147912}{147959}What happened?
+{147984}{148095}It happened exactly as Catherine|told you... exactly
+{148152}{148255}Your friend Elisabeth says you're|pregnant. What will you do?
+{148328}{148375}I don't know
+{148424}{148463}I'm not sure
+{148544}{148639}I don't know... Elisabeth mentioned|curtain rods...
+{148936}{148959}I'm not sure

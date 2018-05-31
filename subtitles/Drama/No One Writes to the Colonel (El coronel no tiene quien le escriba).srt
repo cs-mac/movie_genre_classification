@@ -1,0 +1,1399 @@
+{1}{1}25.000
+{292}{404}NO ONE WRITES TO THE COLONEL
+{5789}{5841}You mean to tell me|you're afraid?
+{5849}{5897}Like some ordinary pet.
+{5914}{5958}You're a battle cock!
+{5967}{6027}How can you act like a pansy|because of a few mice?
+{6098}{6135}I scared them off.
+{6141}{6222}Quiet now.|Don't wake her.
+{7383}{7404}What about you?
+{7466}{7499}I already had mine.
+{7530}{7563}There was enough left.
+{7572}{7627}There was a big spoonful.
+{7707}{7748}It's about to start raining again.
+{7772}{7822}I wonder if my asthma|will survive the rains.
+{7832}{7876}Your asthma and my guts.
+{7925}{7971}Don't forget to stop by the wake.
+{7984}{8062}They're taking him to the cemetery|at noon. Before it rains.
+{8076}{8159}If you take the umbrella,|don't open it. Someone might notice.
+{8163}{8230}This humidity consumes everything,|even the umbrella.
+{8287}{8328}He was born on April 9.
+{8352}{8419}Exactly one month after our son.
+{8438}{8475}Always Agustín...
+{8504}{8554}Before Agustín...
+{8570}{8622}After Agustín's death...
+{8657}{8720}When will you get him|out of your head?
+{8748}{8799}Not until my mourning is over.
+{8826}{8850}Never.
+{8861}{8886}Mourning...|Mourning...
+{8969}{8994}Are you coming?
+{9024}{9072}In these rags?|Not on my life.
+{9102}{9172}Anyway, the next funeral I attend,|will be my own.
+{9246}{9273}And mine?
+{9339}{9419}Your bad luck.|You're healthier than I am.
+{10806}{10852}Taking it out on the cock again?
+{10865}{10936}A rooster squatting on the toilet?|It's unheard of.
+{10946}{11006}Can't you see?|This cock is all we have left.
+{11095}{11161}A brooding fowl perched|on my toilet seat.
+{11165}{11203}That's what I see.
+{11207}{11279}I see there's no iodine|to dry up the phlegm in my chest.
+{11389}{11446}I see that it rains and rains.
+{11579}{11640}And I see what matters to you,|is that rooster.
+{12173}{12229}When will we get to use|the lavatory again?
+{12240}{12322}All the neighbors can see|what you're up to in there.
+{12378}{12429}Even these snotty little kids.
+{12622}{12648}Calm down!
+{12652}{12724}And don't stare at the cock.|You'll jinx him!
+{12727}{12777}Get along, now!|Get going!
+{13024}{13057}It's Friday.
+{13112}{13153}It's your day.
+{15961}{15992}Nothing, Colonel.
+{16024}{16089}I wasn't expecting anything.|I just dropped by.
+{16387}{16468}POST OFFICE
+{16998}{17078}Look how handsome|they left my son, Colonel.
+{17111}{17181}It's Don Dimas' work.|The barber.
+{17199}{17262}He looks healthier now|than when he was alive.
+{17271}{17335}He smiles now, and everything.
+{17346}{17391}But please, come in.
+{17395}{17435}Come in.
+{17522}{17576}He really does seem to be smiling.
+{17587}{17675}Poor kid. It came to him too early,|as it did to our Agustín...
+{17683}{17751}your son, and my godson,|may he rest in peace.
+{17779}{17856}They look the same because|don Dimas made them both up.
+{17863}{17929}He uses the same rouge|for everyone.
+{17936}{18038}Be that as it may, he leaves|the dead to rest in peace.
+{18053}{18124}Just look, healthier now than alive.
+{18174}{18263}His health fills me with envy,|with all due respect.
+{18500}{18565}Priest-bashing as ever, Colonel?
+{18570}{18625}No matter where the wind blows.
+{18640}{18717}The times may change,|but my coat does not.
+{18729}{18753}You see.
+{18835}{18867}Well?
+{18880}{18906}Well, what?
+{18936}{18989}Well, the gamecock!
+{19013}{19042}The gamecock?
+{19060}{19091}Just there.
+{19095}{19128}The same as me.
+{19143}{19187}Another dead boy.
+{19203}{19295}They end up getting into squabbles,|scrapes with the unions, quarrels...
+{19299}{19362}Then their number comes up.
+{19367}{19432}- Like Agustín.|- Oh, come now.
+{19438}{19502}My unlucky godson quarreled|over cockfighting.
+{19506}{19552}One of those normal things|that can happen.
+{19559}{19648}An affair of men.|It was his time, that's all.
+{19665}{19711}My son had ideals.
+{19727}{19811}No drunken brawl|took him to his grave.
+{19837}{19873}Not at all.|Ridiculous!
+{19877}{19941}Whatever you say, Colonel.|Just don't let it get to you.
+{19957}{20023}Calm down, you're even blushing.
+{20055}{20150}{Y:i}Try to see a doctor, compadre.|You look like a dry twig.
+{20169}{20225}See how your jacket hangs on you.
+{20231}{20271}One of these days, Sabas.
+{20275}{20308}One of these days.
+{20323}{20353}Listen to me.
+{20357}{20387}Take care of yourself.
+{20391}{20439}And take care of that gamecock.
+{21116}{21182}Rest here.|Quiet now.
+{21188}{21213}Nice and quiet.
+{21897}{21970}Two drags, now.|Then, after dinner, two more.
+{21976}{22006}To make it last.
+{22071}{22102}Just listen to this:
+{22142}{22234}{Y:i}"... and thus, the nation's Senate|bestows a full pension...
+{22238}{22327}{Y:i}equal to 76% of their|monthly salary...
+{22332}{22447}{Y:i}to all Federal army veterans who|fought in the revolutionary wars...
+{22456}{22557}{Y:i}including those who fought in the|religious hostilities of the 1920's... "
+{22581}{22626}Religious hostilities!
+{22630}{22667}Today that's what|they call that swarm
+{22671}{22724}of priest and their|crucifix idolaters.
+{22783}{22868}You should have seen the wake|today... A mass, prayers...
+{22875}{22921}Just like that.|In broad daylight.
+{22927}{22968}Even blessings in Latin!
+{22988}{23042}And to think how once we fought|against them...
+{23046}{23110}those priests who told the people|that the government was Communist...
+{23114}{23167}and had no legal authority!
+{23194}{23266}We fought against ignorance,|and we won.
+{23286}{23335}And look how things are now.
+{23357}{23397}Everything is as it was.
+{23418}{23498}And I wait and wait for a pension|that never comes.
+{23524}{23584}{Y:i}Three years of the Cristero revolt.
+{23604}{23682}Three years of faith mongers...
+{23686}{23716}Masses...
+{23730}{23784}but not a single peso of my pension.
+{23821}{23868}Not one miserable peso.
+{23891}{23927}There's no justice.
+{24000}{24026}Again?
+{24030}{24118}Twenty-seven years waiting for|that pension. Can't I complain?
+{24128}{24185}- To the rooster?|- If not to him, to whom?
+{24241}{24274}To me.
+{24278}{24314}Who else?
+{24390}{24462}Just look at you.|Dressed for a ball...
+{24473}{24540}and all you get is supper|with this cranky old man.
+{24547}{24581}As always.
+{24791}{24833}The years haven't dulled|the gentility
+{24837}{24872}of my young lady from Madrid.
+{24889}{24975}And you went and married a Spaniard.|You, the great nationalist!
+{24982}{25038}To conquer the conquerors.
+{25179}{25207}Not again!
+{25215}{25259}Four bells!
+{25281}{25317}For adults only.
+{25328}{25427}Forbidden for pernicious content.|It's a melodrama, to be sure.
+{25436}{25524}The real tearjerker is Father Angel|dictating what films can be shown.
+{25551}{25618}He prohibits the films,|but he sure watches them.
+{25623}{25674}He's a priest, not a saint.
+{25681}{25744}The poor fellow enjoys films,|just like I do.
+{25749}{25830}I'm on my way. If I don't hurry,|it will have started.
+{26126}{26177}I didn't know you loved me so.
+{26336}{26365}Again!
+{26385}{26473}You struggle and scrape, then|these gate crashers show up.
+{26736}{26808}I mean you too,|so don't play dumb!
+{26818}{26887}Quite the Spanish lady...|But you're still a freeloader!
+{26963}{27037}Tomorrow, don't even show up;|I won't absolve you.
+{27041}{27071}I was absolutely clear.
+{27075}{27130}It's not the fondling I mind,|it's the movie!
+{27134}{27162}Am I invisible?
+{27166}{27313}{Y:i}I made it very clear, "Four Bells|Picture Prohibited by the Vatican. "
+{27582}{27666}Until the boy leaves the girl,|don't even think I'll be moving.
+{27670}{27754}You can watch concupiscence,|because you're no spring chicken...
+{27769}{27802}if you'll excuse my saying so.
+{27821}{27878}Although, you're not yet|out of mourning.
+{27906}{27952}My mourning is inside.
+{27970}{28013}Don't spoil my evening.
+{28021}{28084}Laris already caught me sneaking in.
+{28101}{28162}It's his business. Concupiscent|and all, still,
+{28166}{28211}this is how he makes a living.
+{28234}{28297}And me, Father?|How do I make a living?
+{28382}{28455}Just look at this.|Like reaping the wind.
+{28459}{28539}The cinema is full,|church bells and all.
+{28557}{28651}Let's hope I've banned something|that's at least worth the sinning.
+{28696}{28738}She's a country girl.
+{28758}{28801}She has a half-wit boyfriend.
+{28805}{28850}Lame, too. Imagine that.
+{28855}{28912}She gets to the city.|She wants to dance...
+{28916}{28990}- With the lame guy?|- No! With another.
+{29022}{29095}She'll end up a tramp.|You'll see.
+{30343}{30384}Tomorrow is Friday.
+{30475}{30504}It's your day.
+{31499}{31527}Nothing today, either.
+{31629}{31654}Doctor.
+{31823}{31878}It's good for making cough syrup.
+{31883}{31946}It's medicinal.|It's no ordinary rum.
+{31982}{32044}Rather early to be making|your syrup, isn't it?
+{32060}{32118}In the mornings,|it tones up the mind.
+{32237}{32285}These come to me...
+{32297}{32342}but here...
+{32382}{32418}You keep them.
+{32492}{32553}Why would I want to know why|the nation ended up like me?
+{32557}{32594}An old rag.
+{32621}{32646}That's why.
+{32662}{32704}Ill omens please you, don't they?
+{32734}{32781}If not, I wouldn't be a doctor.
+{32787}{32846}That's because you're a cynic,|not because you're a doctor.
+{32869}{32939}That's how I was born,|a cynic and disbeliever.
+{32964}{33016}Your sin is that you're credulous.
+{33054}{33136}We're a bad match.|That's why dominoes don't suit us.
+{33153}{33237}{Y:i}"Dominoes don't suit us... " because|I haven't played with you in years.
+{33241}{33323}- Do you know why?|- Because I play with the priest.
+{33328}{33365}But he plays better than you.
+{33369}{33415}Let's just say|I offered you a drink.
+{33419}{33479}Let's just say|I let you enjoy it alone.
+{33483}{33513}Take care of your wife.
+{33517}{33593}Ever since this mortgage deal,|her asthma has gotten worse.
+{33823}{33842}And?
+{33958}{34050}Why should I read up on the misdeeds|of that pack of thieves?
+{34094}{34124}Better this way.
+{34163}{34235}Not knowing in whose pockets|my money ended up.
+{34293}{34338}They filled their coffers.
+{34368}{34434}They divided up the money|by the hands full.
+{34444}{34500}A position for this one...
+{34515}{34586}A handout for that one...
+{34672}{34716}Everyone but you...
+{34727}{34835}who still waits for a miser's|pension twenty-seven years overdue.
+{34840}{34876}Twenty-six.
+{34893}{34935}It's almost August.
+{34939}{34999}Twenty-six years and eight months.
+{35152}{35203}- Do they say anything?|- About what?
+{35221}{35277}What else?|About the pensioners.
+{35291}{35329}What would they say?
+{35333}{35415}There can't be more than five of us|left alive in the whole country.
+{35419}{35484}Well, those five have|a right to know.
+{35489}{35566}The years haven't dulled|your stubborn Spanish nature.
+{35570}{35634}There's nothing there.|There never will be.
+{35797}{35835}What's this about a mortgage?
+{35884}{35948}- Who told you?|- The doctor. Who else?
+{36026}{36064}They posted a notice.
+{36090}{36132}The payment is due in October.
+{36156}{36198}October twenty-fourth.
+{36220}{36272}Not one day more.|Not one day less.
+{36295}{36339}The date is irrevocable.
+{36349}{36423}If my pension is revocable,|why not the mortgage?
+{36484}{36536}Because the tax collectors came.
+{36540}{36590}Because they brought the order,|and I signed it.
+{36594}{36634}Because I showed it to the doctor.
+{36638}{36700}Even he agreed that this|time they mean it.
+{36745}{36803}And because life|is unjust and unfair.
+{36808}{36851}Why hadn't you told me?
+{36876}{36972}Because, I expected|that Friday would come...
+{36994}{37024}and that the mail...
+{37028}{37056}and that maybe...
+{37061}{37122}You see, you're the same as I am.
+{37226}{37293}Now that you know, can you tell me|what you'll do?
+{37298}{37358}We have the cock.|The cock can pay the mortgage.
+{37363}{37414}The rooster!|The famous rooster!
+{37418}{37491}Do you really believe that wretched|animal will get us out of hock?
+{37525}{37557}It was the same with Agustín.
+{37561}{37613}That animal took him to his death.
+{37617}{37659}Let the dead rest in peace.
+{37663}{37715}Let his death rest in peace!
+{37751}{37812}You didn't tell me how|we'll pay the mortgage...
+{37816}{37866}or what we're going to eat.
+{38140}{38176}I eat, too.
+{38209}{38244}Just like the rooster.
+{38320}{38347}Just the same.
+{38459}{38497}He looks cockier every day.
+{38501}{38541}If Agustín could only see him now.
+{38545}{38609}- Any news?|- Same old.
+{38614}{38655}The end of November,|the cockfighting tours arrive.
+{38659}{38677}It's all set.
+{38681}{38761}The owners get 20% of the bets.|Same as always, the usual.
+{38768}{38850}He must be trained, Colonel.|You can't be too sure.
+{38862}{38939}Anything can happen.|Life's a real bitch.
+{38943}{38989}Watch your tongue, lad.
+{39002}{39036}Show some respect.
+{39087}{39139}The kids can take|the cock for walks...
+{39143}{39194}and I'll make sure he gets|lots of sun and fresh air.
+{39208}{39248}And good feed, Colonel!
+{39251}{39334}Man doesn't live on bread alone,|and cocks need more than strolls.
+{39338}{39400}Where will I get the money|to buy good feed?
+{39404}{39436}You do what you can.
+{39440}{39485}And what you can't do as well.
+{39489}{39538}He has to be conditioned|by someone who knows how.
+{39542}{39571}He can't let us down.
+{39575}{39607}Us...
+{39613}{39643}Agustín...
+{39647}{39676}the people.
+{39692}{39738}Suppose I can get an advance.
+{39758}{39814}Everyone knows he'll fight here,|I'd say.
+{39824}{39880}Everyone knows he's a pure-bred.
+{40027}{40085}{Y:i}My compadre inquired about him.
+{40089}{40137}That sly old fox|never takes a false step.
+{40141}{40188}You know he's got his eye|on our cock.
+{40205}{40255}Times are hard.
+{40262}{40289}That's worse.
+{40301}{40394}If he suspects you're on the ropes,|he'll exploit that. For sure.
+{40408}{40464}No one gets rich for free.
+{40471}{40524}Every rich man took money|from another's pocket.
+{40528}{40584}Worse still,|in this forsaken country.
+{40588}{40624}{Y:i}"This forsaken country,"
+{40628}{40687}is the country that gave|us the Revolution...
+{40691}{40738}our Revolution.
+{40761}{40809}{Y:i}Careful of your compadre.
+{40820}{40901}Not only does he want your bird,|but he's sneaky as well.
+{40905}{40992}The day they raided the union press,|he was snooping around.
+{41004}{41075}He had one of those newspapers|that we gave you.
+{41115}{41196}He's the Governor's snitch,|on his payroll.
+{41214}{41268}Now he fancies himself as a cocker.
+{41277}{41331}Give us a little more time.
+{41335}{41372}I have a deadline.
+{41376}{41428}My mortgage deadline.
+{41453}{41522}That comes due before November.
+{41589}{41634}Before the game season.
+{42599}{42657}You know full well|we already have a lawyer.
+{42660}{42708}What good has he done us?
+{42722}{42773}This one only charges a percentage.
+{42790}{42829}What can you lose?
+{42852}{42918}My time. I waste my time.
+{42955}{43033}I've reached a decision.|I'm changing lawyers.
+{43085}{43124}I need money.
+{43169}{43227}It's nothing personal.|It's just that...
+{43231}{43336}I mortgaged my house when my son|died and that is coming due and...
+{43362}{43396}You know how they can be.
+{43418}{43479}Years have passed,|and nothing.
+{43529}{43579}All that happened was|that my comrades
+{43583}{43630}died waiting their pensions.
+{43689}{43724}That's the way of it, right?
+{43739}{43793}Well, there may be some way.
+{43808}{43887}You don't want ways,|you want miracles.
+{43904}{43946}I don't know how to do miracles.
+{43970}{44047}Every last cent went|to cover court costs.
+{44053}{44104}I'll need all my documents.
+{44125}{44212}That won't be possible. Your files|have been passed from hand to hand.
+{44216}{44267}They're very complicated actions.
+{44285}{44360}I'll track them down for you, but|I'd have to charge you a stipend...
+{44364}{44459}to hire an agent in Jalapa,|or maybe even Mexico City.
+{44467}{44548}They're very important papers.|Historic, even.
+{44556}{44639}One was the act that established|socialist and sex education...
+{44643}{44687}back when we struggled|against the clergy...
+{44692}{44766}their priests, altar boys|and superstitions.
+{44806}{44865}No point in speaking of that|any longer, Colonel.
+{44884}{44945}{Y:i}During the Cristero revolt,|so many people died.
+{44959}{45048}Many had to be baptized in cellars.|Nobody liked that.
+{45053}{45092}Everyone was appalled.
+{45134}{45188}Why parade about, Colonel?
+{45223}{45281}You don't like it; I don't either.
+{45297}{45367}But this is a Catholic, apostolic|and Roman country.
+{45372}{45417}To my disgrace,|and everyone else's.
+{45436}{45510}I fought against that for|three years and five months.
+{45531}{45603}But that was years ago.|Administrations ago.
+{45616}{45665}These are new times.
+{45692}{45752}And those times past, no one|can be bothered to remember.
+{45761}{45783}I can.
+{45801}{45835}You're the only one.
+{45908}{45945}Good luck, Colonel.
+{45961}{45995}And keep waiting.
+{46041}{46066}I'll wait.
+{47038}{47069}Get out of there!
+{47073}{47138}Rice isn't for beasts!
+{47182}{47266}And thank your lucky saints.|If it were up to me, you'd be stew.
+{47981}{48025}I was looking for doña Amalia.
+{48029}{48080}You were looking,|but you won't find her.
+{48085}{48137}You've found me,|not my mother-in-law.
+{48157}{48214}Then, I'll return when|I can find her.
+{48219}{48251}That won't be possible.
+{48269}{48322}She's had a stroke.
+{48332}{48377}The doctor has ordered rest.
+{48436}{48477}Then, when will I find her?
+{48497}{48558}For freeloaders,|she won't be back at all.
+{48680}{48768}Can I do anything for you?|Or did you just drop by.
+{48799}{48838}I just dropped by...
+{48866}{48924}and to inquire about the health|of your mother-in-law.
+{49270}{49295}{Y:i}Then, nothing?
+{49302}{49329}Nothing.
+{49337}{49368}And doña Amalia?
+{49378}{49454}Her daughter-in-law was there|with another of her stories.
+{49484}{49553}That one is so nasty.|She's young.
+{49607}{49648}But don't worry about me.
+{49657}{49730}You know how asthmatics|loose our appetites.
+{49753}{49793}How fortunate, don't you think?
+{49827}{49874}And the pot on the fire?
+{49887}{49925}Cabbage stew.
+{49930}{49990}Boiled leaf, as we say in my town.
+{49994}{50028}In such a big pot?
+{50040}{50112}It's just for show.|Why make others feel sorry for us?
+{50120}{50185}Yes, why arouse the pity of others.
+{50190}{50248}We're sorry enough on our own.
+{50880}{50913}I have an idea.
+{51104}{51191}The German pays fairly.|He may be interested in the clock.
+{51194}{51236}It hasn't worked in years.
+{51240}{51283}All the more reason.
+{51307}{51360}Then, it's just in the way.
+{51482}{51549}May I give you a hand, Colonel?|Don't slip, it's very muddy.
+{51553}{51582}It's just the rain.
+{51586}{51645}Every year we get|more rain and mud.
+{51660}{51727}It may just need an adjustment.|Where are you taking it?
+{51730}{51793}To the German.|He knows about these things.
+{51797}{51835}He knows about everything,|and charges for everything.
+{51839}{51881}Maybe I can fix it for you.
+{52399}{52452}There, you see!|It had gotten stuck here.
+{52456}{52518}But, I should warn you,|this clock is falling apart.
+{52522}{52615}Like mother says,|"Why throw good money after bad?"
+{52624}{52700}That's right, "Why throw|good money after bad?"
+{52709}{52749}- Thank you.|- You're welcome.
+{52765}{52819}{Y:i}Comes the Sacred Host!
+{52903}{52935}I'll walk with you, Colonel.
+{52948}{52995}Comes the Sacred Host!
+{53110}{53142}You see that?
+{53146}{53205}Still proclaiming in the streets|as if it were nothing. It's cynical.
+{53219}{53297}It's against the law.|This is a layman's country.
+{53311}{53413}Three years of my life I fought|so those idolaters would realize...
+{53417}{53482}that from now on this would be|a free country, a nation of reason.
+{53488}{53527}And just look.
+{53557}{53624}I'm still waiting for my pension|from that war...
+{53628}{53707}and the priest struts through|the streets. That's not right.
+{53711}{53782}And worst of all, they've got|that boy in a girl's dress.
+{53786}{53821}Like some sissy.
+{54547}{54604}When the Spanish woman comes,|what does she buy?
+{54626}{54667}The Colonel's wife.
+{54671}{54740}Doña Lola?|What's she gonna' buy?
+{54751}{54804}They can't even afford to drop dead.
+{54823}{54903}Alright, but when they could,|what did they buy?
+{54930}{54986}Since I was born,|they've never had anything.
+{55074}{55125}Then, give me some cans of tuna.
+{55129}{55157}Some sardines...
+{55169}{55194}Coffee...
+{55199}{55229}Guava fruit...
+{55305}{55395}No, better this guava candy.|It's nourishing.
+{55408}{55440}She likes it.
+{55464}{55501}A little luxury, right?
+{55777}{55810}Don't worry.
+{55831}{55879}We streetwalkers always pay.
+{55898}{55938}Because we always collect.
+{56718}{56742}What's this?
+{56765}{56796}It works now.
+{56820}{56893}The idea was to sell it, not fix it.
+{56897}{56959}The German was supposed to buy it.
+{56976}{57045}Well, I didn't sell it,|but it works now.
+{57120}{57195}Weren't you always so upset|because you didn't know the time?
+{57264}{57320}You ran into someone, then got|ashamed they'd find out
+{57324}{57355}you were selling it.
+{57367}{57394}I know you so well.
+{57419}{57503}I hope you didn't pay a nickel|to fix this thing.
+{57814}{57860}She's like a soothsayer.
+{57873}{57937}She always knows.|Always.
+{58283}{58334}Just look at those shoes.
+{58339}{58374}All holes.
+{58394}{58434}This way the foot breathes.
+{58478}{58541}If I could, I'd buy you new ones.
+{58580}{58652}As soon as the pension arrives,|the first thing...
+{58656}{58684}The very first...
+{58875}{58922}Let me, I'll do it.
+{58970}{59002}Like we used to.
+{59067}{59100}Like we used to.
+{59276}{59309}Tomorrow is Friday!
+{59347}{59376}It's your day.
+{61626}{61690}Aren't you going to ask me|if there was any mail?
+{61798}{61852}Sell that rooster, right now!
+{62135}{62187}Take it easy, Blondie.|Take it easy.
+{62205}{62256}Pay no attention to her whims.
+{62260}{62317}Asthma exasperates her nerves.
+{62323}{62380}One moment bad,|the next moment worse.
+{62499}{62567}{Y:i}Life is hard and friends are few.
+{62594}{62656}You've become a stranger, Colonel.
+{62681}{62771}Just look at me. Sticking|this pesky contraption in my...
+{62775}{62831}...rear end, as you would say|so as not to offend.
+{62834}{62896}Jacinta, don't be such a lout!|Stick this in me!
+{62902}{62941}Wash your hands, dammit!
+{62945}{62984}{Y:i}Offer something to my compadre.
+{62988}{63047}{Y:i}We don't seem so compadres|as we used to.
+{63051}{63101}Nowadays, your wife doesn't|even come around.
+{63105}{63161}She used to drop by|to listen to the Mad Monk show.
+{63176}{63252}She's dumped me.|She only goes to movies.
+{63278}{63309}Watch it!
+{63355}{63429}You can't get enough|pain and indignity.
+{63473}{63535}If I only wasn't so fat...
+{63551}{63596}I'd do it myself.
+{63600}{63634}I yearn for that.
+{63665}{63737}What I wouldn't give to have|your health, Colonel.
+{63741}{63788}I get around,|but that's about all.
+{63936}{64013}{Y:i}- So, how about a coffee?|- Thank you, compadre.
+{64054}{64096}Jacinta is right.
+{64100}{64150}You never show yourself any longer.
+{64197}{64258}- What brings you around?|- My battle cock.
+{64267}{64295}He's a little...
+{64307}{64334}crestfallen.
+{64338}{64410}One worries about people,|not about beasts.
+{64423}{64485}It's not a beast.|He's my battle cock.
+{64488}{64551}{Y:i}That's right, he's|my compadre's gamecock.
+{64555}{64579}And more so...
+{64583}{64617}my godson's.
+{64621}{64667}I was just saying to say so.
+{64672}{64740}Have a little nip.|To brighten up the soul.
+{64758}{64826}The Mad Monk show is about to start.|Why not stick around?
+{64830}{64874}Then you can tell doña Lola|all about it.
+{64916}{64967}Between us, she's right.
+{64976}{65032}You speak about that cock|as if it were a person.
+{65036}{65118}It's that, he's no ordinary rooster.|Everyone knows that.
+{65143}{65192}I'm thinking of training him.
+{65199}{65251}Teaching him the Prussian attack...
+{65258}{65300}The one to the flanks.
+{65334}{65440}{Y:i}I don't mean to offend, compadre,|but you know nothing about it.
+{65459}{65564}You'd never been inside a game pit|until you recovered Agustín's body.
+{65592}{65639}This is an art.
+{65661}{65693}A trade.
+{65720}{65782}Sell the cock before it's too late.
+{65786}{65840}You're not the kind for that game.
+{65877}{65942}The bird is getting awfully ragged.|Look here.
+{65982}{66006}Right now...
+{66136}{66185}I know who would give you this.
+{66224}{66269}Maybe even more.
+{66307}{66353}Do your arithmetic.
+{66361}{66431}I know him.|I could speak to him.
+{66436}{66482}Present your case.
+{66504}{66531}You'd do that?
+{66599}{66644}{Y:i}Are we compadres,|or not?
+{66664}{66718}{Y:i}Did we fight the Cristeros together,|or not?
+{66730}{66786}Did we grow old together,|or not?
+{66809}{66848}We owe it to each other.
+{66853}{66896}For old times' sake.
+{67868}{67916}- That's what he said.|- Really?
+{67919}{67943}His word on it.
+{67956}{68048}His word! Your word is good,|Colonel. Not that faker's.
+{68063}{68087}He's right.
+{68091}{68159}He's just going around lying|when he says he's got a buyer.
+{68163}{68202}He wants it all to himself.
+{68206}{68236}{Y:i}And he's your compadre.
+{68240}{68310}Believe him if you want,|it's your divine right.
+{68377}{68456}Stay with us, Colonel.|We'll buy you a drink.
+{68460}{68526}A while out of your house|won't do you any harm.
+{68630}{68672}{Y:i}Place your bets!
+{68728}{68784}Come on, play one for Agustín.
+{68791}{68843}He had a gambling debt|with me anyhow.
+{68854}{68923}On the nine.|It was his birthday.
+{68988}{69028}- Cheers, Colonel.|- Thanks.
+{69040}{69062}Fifteen!
+{69106}{69161}Oh, well, Colonel.|Maybe the next time around.
+{69165}{69238}"Unlucky in money; lucky in love. "
+{69270}{69297}Thank you.
+{69493}{69563}Read it.|Agustín wrote for this one.
+{69647}{69681}Hey there, boys!
+{69685}{69711}We're back again.
+{69717}{69748}Nogales is here.
+{69753}{69797}Drinks all around!
+{69815}{69854}Peanut liquor shots.
+{69860}{69908}Here, Julia, drink up.|To your health.
+{69912}{69976}My health doesn't depend|on your drinks.
+{70023}{70129}So I stay away for a year,|and she gets uppity.
+{70170}{70199}Right?
+{70216}{70247}There must be some reason.
+{70265}{70319}Some reason why your|conscience bothers you.
+{70437}{70499}What's he doing here?|It's not the circus season yet.
+{70503}{70546}He does small time jobs now.
+{70550}{70611}Small time dirty work for|the Governor and his cronies.
+{70620}{70693}So he comes back here!|To the same place!
+{70697}{70740}Shut up, the old man will hear you.
+{70744}{70782}A round for everyone.
+{70790}{70857}Compliments of me, Nogales.
+{70862}{70957}It's not for nothing I'm the best|acrobat in all the South.
+{71080}{71111}Good night.
+{71174}{71204}You'll excuse me.
+{71229}{71262}Of course, Colonel.
+{71569}{71591}What?
+{71624}{71682}Is it my fault that|I bumped into him here?
+{71715}{71754}It's not like it was on purpose.
+{71766}{71802}You should have warned me.
+{71810}{71860}One of you should have told me.
+{72202}{72263}What is my son's|murderer doing here?
+{72340}{72377}The circus is coming.
+{72407}{72454}Nogales is still with them.
+{72466}{72508}The circus isn't until November.
+{72581}{72639}Nogales is always up to something.
+{72647}{72689}Making his deals.
+{72876}{72937}I wondered how your wife was doing?
+{72981}{73042}How would a dead boy's mother be?
+{73061}{73129}Older and thinner by the day.
+{73357}{73394}Do you need anything?
+{73500}{73558}No, I don't need anything.
+{73592}{73630}You were his...
+{73651}{73704}...my son's woman, right?
+{73784}{73807}Well...
+{73825}{73871}The reason I ask is...
+{73891}{73952}You'll probably say,|"The things that cross your mind... "
+{73978}{74037}But at times I've asked myself...
+{74070}{74130}if maybe you had a child by him.
+{74161}{74232}You know, those things that happen.
+{74296}{74320}No...
+{74345}{74430}My kind aren't given much to that.
+{74530}{74597}It upsets the clients,|and then...
+{74613}{74673}How to know who the father is...
+{74687}{74720}Well...
+{74749}{74823}maybe they're the musings|of a foolish old man, but...
+{74865}{74910}my blood has died.
+{74940}{74991}My bloodline is finished.
+{75165}{75195}Such a pity.
+{75257}{75334}I'd love to have given you|that pleasure, Colonel.
+{75415}{75447}Such a pity.
+{75634}{75661}Colonel!
+{75704}{75798}At least I'd like you to know|that it wasn't my fault.
+{75857}{75891}It was destiny.
+{75942}{76001}Destiny is always to blame.
+{76019}{76044}Julia!
+{76594}{76620}What's this?
+{76647}{76677}Look here.
+{76708}{76775}Your guava candy|is turning to juice.
+{76778}{76810}What's it to you?
+{76850}{76886}I was just saying.
+{76933}{76966}I was just saying.
+{77332}{77386}Out! Out! Get out!
+{77700}{77756}Sheesh!|Who can make a living like this?
+{77760}{77794}Ma'am, please...
+{77937}{77988}It seems I'll never see how it ends.
+{77992}{78079}The other day the film broke,|and today Laris runs me out.
+{78625}{78663}Here! Take it.
+{78671}{78721}There's guava candy inside.
+{78722}{78801}It's a little mushy, but if|you put it under the faucet...
+{78805}{78875}and run a little water over it,|it will be fine.
+{78956}{78980}Take it.
+{79006}{79038}You need it.
+{79058}{79098}Do it for your husband.
+{79133}{79163}My husband?
+{79180}{79234}Give it to him, if you're|so concerned about him.
+{79238}{79268}How can you say that?
+{79277}{79361}Men don't like to accept gifts|from women like me.
+{79379}{79443}Especially, someone like|your husband.
+{79447}{79513}A respected man, and all.
+{79518}{79553}We're not like that.
+{79557}{79619}We women are different.
+{79643}{79695}We find a way.
+{79702}{79738}We do what we must.
+{79781}{79825}Here, don't be foolish.
+{79842}{79885}No one will find out.
+{79907}{79961}I'd be foolish, as you say.
+{79980}{80060}But your course and mine,|crossed only one night.
+{80075}{80140}That accursed night my son died.
+{80161}{80219}And they will never cross again.
+{80237}{80294}No matter how hungry I get.
+{80334}{80401}So, change your course.
+{80407}{80450}Think about your husband.
+{80454}{80481}Alright...
+{80513}{80568}It's plain you're both needy.
+{80606}{80698}- Leave us a shred of decorum.|- Leave decorum to the men.
+{80733}{80794}Woman to woman, take it.
+{80805}{80869}No one will know,|no one will find out.
+{81051}{81101}At least the guava candy.
+{81129}{81174}He liked it so much.
+{81178}{81203}I mean...
+{81222}{81265}You like it.
+{81271}{81302}So, I've heard.
+{81336}{81402}They say it has a lot of|ascorbic acid.
+{81440}{81501}Look, Ma'am, I mean well.
+{81523}{81571}It's not to humiliate you...
+{81576}{81642}and it's nothing to do with guilt.
+{81658}{81730}You don't really believe anyone|kills for the likes of me?
+{81789}{81823}You know...
+{81835}{81891}my kind can't say, "I love you. "
+{81923}{81989}The word sticks here,|in our chests.
+{82000}{82051}That happened to me with your son.
+{82104}{82175}I never told him,|and he died on me.
+{82195}{82246}He died on me just as|he died on you.
+{82286}{82334}He and I laughed together.
+{82346}{82390}We had good times.
+{82418}{82459}That's loving, isn't it?
+{82479}{82519}Agustín and I...
+{82527}{82552}Hush!
+{82917}{82972}Decorum? No way!
+{84286}{84326}Those were the mortgage people.
+{84362}{84396}What are we going to do?
+{84400}{84434}What are you going to do?
+{84438}{84522}Find another attorney.|Like you said the other day.
+{84548}{84592}That was the other day.
+{84627}{84672}You wrote, and there's been|no response.
+{84686}{84711}I was wrong.
+{84725}{84762}You were wrong.
+{84767}{84806}We were wrong.
+{84823}{84905}And you'll wait another thirty years|while they continue to cheat you.
+{84968}{85010}We still have the rooster.
+{85047}{85097}It's all we have left.
+{85131}{85166}And you know that.
+{85496}{85546}I've got a little something|special for you.
+{85585}{85629}Let's say we moisten it a bit,
+{85633}{85697}and it will be like nectar|from the gods.
+{85792}{85860}I'm sorry.|Don't think the worst of me.
+{85892}{85949}What must be done, must be done.
+{86418}{86448}{Y:i}Compadre...
+{86452}{86513}{Y:i}you sure don't waste|a single minute.
+{86527}{86575}I no sooner tell you of|an interested party...
+{86579}{86630}than two days later,|you're here with that animal.
+{86634}{86714}- It's been two weeks.|- It's just a saying, Colonel.
+{86720}{86804}- You can be so rigid.|- A soldier's habits.
+{86815}{86895}This comes on a bad day.|My blood sugar is up.
+{86908}{86992}Look! Dilated pupils and all.
+{87046}{87103}I take a turn for the worse,|and you don't come.
+{87114}{87177}Your patients will all die off|at this rate, my dear Doctor.
+{87182}{87235}And there you are,|fluttering about in the streets.
+{87239}{87295}Don't complain.|Take a lesson from the Colonel.
+{87300}{87339}A solid oak.
+{87343}{87408}I've never seen a sick skinny man.
+{87412}{87448}Who wouldn't be healthy like that?
+{87468}{87528}I was just telling my compadre here,|the skinny one...
+{87533}{87577}he's come at a bad time.
+{87607}{87673}The lads in town are all excited|about the fighting cock.
+{87685}{87739}They're calling it,|the Town Cock.
+{87759}{87876}I'm debating whether to give it|to them, or to that client you said.
+{87887}{87928}I said, I said...
+{87949}{87977}Pay him no mind, Doc.
+{87981}{88053}The Colonel here has too many|gray hairs to be so gullible.
+{88057}{88122}It seems to me the Colonel is right|to make you keep your word.
+{88127}{88185}You owe him the truth,|as well as your career.
+{88224}{88278}Your gullibility is just as sinful.
+{88282}{88311}Come on, stick me!
+{88315}{88377}I don't have all day to spend|with a stretcher bearer...
+{88381}{88435}with a boozer's breath.
+{88576}{88606}Look, Colonel.
+{88630}{88671}Redder than a baby's fu...
+{88677}{88740}...frigging mother.|With all due respect.
+{88776}{88851}This sugar is killing me|before my time.
+{88865}{88946}Fat, ruddy and flabby...
+{88988}{89033}That's why no one|takes me seriously.
+{89047}{89151}For anyone to feel sorry for you,|I guess you need a gruff complexion.
+{89191}{89274}Regarding your business,|I spoke to the interested party.
+{89285}{89324}He did his arithmetic.
+{89338}{89382}Now, he follows boxing on the radio.
+{89386}{89449}Hardly anyone goes to|the cock-matches any more.
+{89463}{89507}He'll pay half of what he said.
+{89518}{89622}You know attendance is down,|but betting is up.
+{89626}{89681}Keeping a battle cock costs a lot.
+{89685}{89743}If were up to me, I'd give you|four times that amount, but...
+{89751}{89844}But you're just speaking for your|friend, in the vein of a go-between.
+{89848}{89905}The only vein you know of,|is the one you jabbed.
+{89914}{89945}What do you say, Colonel?
+{89958}{90007}- But...|- There are no "buts" in business.
+{90011}{90115}Look. Right now, I'll give you an|advance to nourish you as God wishes.
+{90129}{90209}And by mid-December,|I'll pay you the balance...
+{90214}{90253}in my friends name.
+{90438}{90465}Alright.
+{90494}{90535}I'll leave him to you.
+{90572}{90627}He likes his walks.
+{90695}{90736}His name is Tadeo.
+{90749}{90787}He's very sensitive.
+{90834}{90868}I call him Blondie.
+{91137}{91202}Now I'll tell you how far|the diabetes has advanced.
+{91224}{91272}As the saying goes...
+{91330}{91384}"Let me die a dimwit. "
+{91497}{91528}He cheated you.
+{91567}{91631}I don't know a peep about the game|of cockfighting. Not a peep.
+{91635}{91666}We do what we must.
+{91701}{91827}You said so yourself, more|than asthma, my wife is hungry.
+{91845}{91879}There are bad men.
+{91883}{91960}But bad men, thinly disguised,|exist only in ballads.
+{92012}{92075}Hello, Doc.|Same as always?
+{92086}{92135}And for you, Colonel?|The same as always.
+{92139}{92191}Yes, my water.|As always.
+{92239}{92316}All because I sit here every|morning, and drink his water.
+{92323}{92360}As if water cost money.
+{92380}{92434}Never trust redheads.
+{92442}{92494}There's a reason why they|were killed in the Middle Ages.
+{92510}{92548}His hair is brown.
+{92555}{92609}Reddish-brown.|That's red enough.
+{92624}{92692}Doctor, the Colonel|can sit over here.
+{92696}{92739}I'm not even wearing|my cassock.
+{92743}{92782}This time, bet something.
+{92805}{92839}Otherwise, it's no fun.
+{92843}{92881}You have your advance.
+{92886}{92944}If I bet it, my wife will kill me.
+{92964}{93050}If you've just sold your rooster,|you should at least enjoy it.
+{93057}{93161}Leave him alone. Doña Lola will|really tighten the strap if he bets.
+{93204}{93229}I won.
+{93238}{93297}You see.|You should have bet.
+{93315}{93365}You have the soul|of a killjoy, Doctor.
+{93369}{93428}You must relish giving injections.
+{93440}{93503}- How could you tell?|- It's the years.
+{93555}{93605}And I'm off, because there are|too many vultures here.
+{93609}{93652}Anyway, my wife is waiting for me.
+{93656}{93747}Don't even tell her, she'll surely|scold you for not betting.
+{93790}{93813}Your turn, my son.
+{94187}{94268}- How long before you get off work?|- A while.
+{94309}{94349}The same while as always.
+{94591}{94637}Doc! Doc!
+{94663}{94731}His shift ends when it ends.
+{94738}{94824}And if some pretender,|or friend wants to wait for him...
+{94836}{94900}he'll have to do it|in the alley out back.
+{94912}{94980}That's how it is, Doc.
+{95005}{95069}You know this is|a family establishment.
+{95074}{95141}You're married and all.
+{95154}{95189}Why, Doc?
+{95208}{95243}Why?
+{95414}{95474}{Y:i}I have three years worth of pension|in my hands.
+{95477}{95519}{Y:i}And the medicine|the doctor gave you.
+{95528}{95616}{Y:i}I have coffee for the mornings.|Good coffee, and all that.
+{96125}{96162}{Y:i}I have shoes.
+{96168}{96241}{Y:i}Finery as you call them.
+{96269}{96306}{Y:i}And I have the mortgage...
+{96329}{96360}{Y:i}or almost...
+{96364}{96391}Almost.
+{96399}{96434}Whatever we're missing,
+{96438}{96492}we can extend until after|the gamin season.
+{96496}{96538}When did you say that was?
+{96542}{96588}Around Christmas,|right after the circus.
+{96592}{96647}Imagine, I've spent my life|shut away in this town...
+{96651}{96696}and I don't even know when|the gaming season begins.
+{96700}{96765}As if there was so much|to do around here.
+{96791}{96873}Now, show me those shoes once again.
+{97242}{97283}You look so handsome.
+{99962}{100010}You miss that animal.
+{100036}{100076}The things you think up.
+{100195}{100266}I was simply picking up the feathers|so you wouldn't complain.
+{100310}{100378}It's been two weeks since|I picked up the last feather.
+{100405}{100441}Yes, I do miss him.
+{100460}{100504}But I'll get over it.
+{100532}{100592}If Agustín's death hasn't|killed me...
+{100609}{100684}this longing will surely pass, too.
+{100824}{100856}Go get him.
+{100911}{100974}It bothers me to see|you grieving so.
+{100991}{101033}It brings on my asthma.
+{101042}{101081}Are you serious?
+{101131}{101193}Would I waste my morning on jokes?
+{101215}{101287}Go on! Get up and go deal|with Sabas.
+{101463}{101536}"I'll take care of the cock|in the meantime. "
+{101551}{101630}"I'll take care of the cock|in the meantime. "
+{101673}{101753}"I'll take care of the cock... "
+{101963}{102017}I'll take care of the animal|until the season.
+{102021}{102088}You're sure it's mold?|Do you swear it, Sotero?
+{102092}{102158}Thirty years in the business,|of course I know.
+{102176}{102220}It's what they call White Lily.
+{102271}{102305}It's a terrible disease.
+{102310}{102394}I'll handle his training.|The kids and I will.
+{102412}{102495}If we do nothing, within three days,|we'll be up to our ears in it.
+{102499}{102552}The sparring partner|is all set to go. Everything.
+{102681}{102714}Who'd believe it?
+{102724}{102801}A fighting cock conditioned|by a three unsullied children...
+{102806}{102842}and an old pensioner.
+{102851}{102889}They will mess him up.
+{102893}{102935}Did someone ask you?
+{102962}{103047}Colonel, really...|Why do you want him?
+{103058}{103105}The house is lonely without him.
+{103109}{103136}Sad.
+{103145}{103181}He keeps me company.
+{103185}{103242}You should have said so at first.|Take him.
+{103255}{103323}{Y:i}I just want you to keep him|in shape for me, compadre.
+{103327}{103372}Fed and trained.
+{103389}{103421}Jacinta, the gamecock!
+{103490}{103558}You're giving it back?
+{103562}{103606}The animal is spoken for.|You even gave him an advance.
+{103751}{103793}Just on loan, Colonel.
+{103798}{103853}Blondie! Blondie!
+{104213}{104244}Get going!
+{104565}{104637}Get going!|Let that animal be!
+{104641}{104736}The Colonel asked us to exercise|him. Besides, he's the Town Cock.
+{104755}{104833}He belonged to the people;|he has a new owner, now.
+{104838}{104879}So, be off with you.
+{104883}{104942}Don't make me lose my temper|so early in the morning.
+{104946}{105014}You're always angry, morning|and afternoon. You're a sourpuss.
+{105019}{105056}Bad luck as a hold on you.
+{105060}{105105}It's your fault!|Your rotten luck killed Agustín.
+{105109}{105137}Dirty rotten Spaniard!
+{105160}{105217}Out of here! Get out!
+{105323}{105383}What did I tell you?|Get out!
+{105396}{105420}Out!
+{105541}{105648}Woe to those who cross me again.|Cross me, or the memory of my son.
+{105661}{105722}Woe to them and the whole town!
+{105775}{105841}This Spaniard gets her due.
+{105959}{106040}I wish you'd all rotted|in your mothers' wombs.
+{106058}{106163}I hope your mothers find|you disemboweled in an alley.
+{106214}{106282}I hope I'll be there...
+{106288}{106327}to enjoy it.
+{106412}{106447}It's your fault!
+{106475}{106525}You have them all under your spell.
+{106538}{106567}Him, too.
+{106639}{106668}Hush!
+{106685}{106727}He can't find out about this.
+{106747}{106825}It's enough that I have|problems with the neighbors...
+{106857}{106896}more than enough.
+{106973}{107014}Best you not even look.
+{107031}{107089}Some things are better left unsaid.
+{107347}{107430}What was that racket?|I heard you scolding the kids.
+{107499}{107537}They can't come around any more.
+{107556}{107637}- They're out to get me.|- What an imagination you have.
+{107642}{107700}Besides, they're exercising|the cock for me.
+{107705}{107772}They're bringing a sparring|partner, so he'll master the attack.
+{107787}{107818}You train him.
+{107829}{107900}But I don't know about gamecocks.|That's why I asked them.
+{107957}{108012}They can't find out I know|nothing about cockfighting.
+{108030}{108091}I'm a full Colonel, and all.
+{108125}{108170}Those boys will not|come here again!
+{108403}{108490}I want it understood, I'm lending|her to you for a little while.
+{108507}{108564}If anything happens to her,|you pay.
+{108571}{108605}I gave you my word.
+{108652}{108734}Who's ever seen a hen used as a|sparring partner to train a rooster.
+{108744}{108793}You train those with fighting cocks.
+{108799}{108873}Who would ask you?|Are you a cockfighter?
+{108881}{108923}The Colonel will know how.
+{108991}{109028}You do know, don't you?
+{109044}{109086}See you in a while.
+{109363}{109411}Here, I've brought you the enemy.
+{109445}{109479}You'll see.
+{109618}{109642}Come on.
+{109670}{109748}Now, you'll attack on the flanks.
+{109756}{109801}Just like you do in the mirror.
+{109808}{109893}Pretend you're not you.|You're the opponent.
+{109898}{109981}This is like war.|He who strikes first, wins.
+{109988}{110065}The law of strategy,|the Prussian law.
+{110112}{110134}That's it.
+{110182}{110222}There.
+{110277}{110308}Here's the enemy.
+{110312}{110350}Attack! Attack!
+{110354}{110410}Prussian law, I told you!
+{110450}{110504}Where did you get that morose hen?
+{110541}{110574}From doña Amalia.
+{110601}{110673}- A purchase?|- No, on loan.
+{110696}{110736}I didn't spend a cent.
+{110788}{110838}You made me come here|to look for you?
+{110861}{110909}Here, where he died.
+{110924}{110957}In the same place?
+{110963}{111006}As if it were nothing to you.
+{111021}{111101}- No one told you to come.|- I had a premonition.
+{111107}{111187}Premonitions are only that.
+{111216}{111276}That night, I had a premonition.
+{111316}{111366}As you've had on so many nights.
+{111391}{111438}But that night, it came true.
+{111627}{111668}Tell me where you found him.
+{111751}{111776}Tell me.
+{111835}{111855}Over there.
+{111891}{111930}Just under the car.
+{111962}{112017}Those headlights|were shining on him.
+{112476}{112503}Like this?
+{112534}{112559}Like that.
+{112604}{112626}Leave.
+{112643}{112709}Go on, now.|Don't torment yourself any longer.
+{112763}{112810}I told him, clearly.
+{112832}{112870}I warned him.
+{112906}{112979}When I saw him leave, all primped|and perfumed, I told myself...
+{112983}{113029}"He's going out with her. "
+{113070}{113112}And he did.
+{113143}{113181}Because of her...
+{113194}{113283}and because of that rooster you're|so in love with, they killed him.
+{113334}{113366}They killed him on me.
+{113373}{113414}You've started in again.
+{113538}{113579}And I'm never going to stop.
+{113591}{113621}Never!
+{113625}{113650}Leave!
+{113713}{113794}Go away. Carry on with|your stories somewhere else.
+{113819}{113858}Torment yourself alone.
+{113947}{113991}Because of that Julia woman...
+{114029}{114090}That one was also seeing Nogales.
+{114183}{114245}You made me say his name.
+{114306}{114340}Nogales.
+{114652}{114687}They told me that one...
+{114691}{114765}the one who killed my son,|arrived wearing a hat and all.
+{114775}{114820}He came looking for|that Julia woman.
+{114835}{114870}He brought his rooster.
+{114907}{114956}As if one could really|love those women...
+{114961}{114989}those who charge.
+{115001}{115088}I'm spelling it out for you|because my husband isn't here.
+{115098}{115133}The sows.
+{115172}{115206}This one was the worst.
+{115222}{115291}She made him believe it|was different with him.
+{115317}{115400}If they'd only gone out for a|drink, nothing would have happened.
+{115404}{115483}But that one was buzzing around,|buzzing about like a fly.
+{115492}{115546}She brought him her bad luck.
+{115584}{115664}My son had arranged for her|to be the handler in the cockpit.
+{115677}{115702}Then, he...
+{115706}{115774}"that one," claimed she had|fixed the fight with my son.
+{115788}{115828}That he was her pimp.
+{115876}{115963}That she had stuck a hairpin|in his belly. The rooster's belly!
+{115983}{116031}The fool probably did.
+{116049}{116082}She wanted to trap him.
+{116086}{116148}Her kind will do anything|to trap a man.
+{116174}{116221}To stick a hairpin in the rooster...
+{116225}{116273}As if the other fellow|wouldn't notice.
+{116315}{116378}They say her hand was bloody.
+{116412}{116463}Cock's blood. What else?
+{116505}{116571}My son's blood flowed later.
+{116635}{116738}I knew as soon as I saw him|leave the house all gussied up.
+{116784}{116819}Sometimes I tell myself...
+{116848}{116931}"If I only hadn't sewn that|button, he wouldn't have gone...
+{116952}{116987}and he wouldn't have been killed. "
+{117100}{117168}It is a sin to live longer|than one's children.
+{117194}{117259}A sin to wake up alive each morning.
+{117292}{117357}I and that Julia woman still live.
+{117392}{117459}That's why it hurts me|when my husband greets her.
+{117469}{117516}It's not jealousy, it's rage.
+{117522}{117568}Rage to still be alive.
+{117620}{117682}And today, I go to the game pit,|and find him there with a hen...
+{117687}{117752}and I get the same feeling.
+{117770}{117843}The same premonition,|the same rage.
+{117882}{117917}And you, not a word!
+{117936}{117974}It's my anger.
+{117987}{118032}It's a sin, and I don't care.
+{118036}{118095}Look here!|I spit on God.
+{118099}{118138}I spit on fate.
+{118202}{118230}And then?
+{118308}{118375}And then, they came to tell me.
+{118446}{118518}Did I tell you, it rained|during the funeral?
+{118546}{118581}Yes, you told me.
+{118797}{118860}If you don't want the little snots|to come here and exercise him...
+{118864}{118901}I'll have to do it myself.
+{118952}{118997}It's for you that I got the hen.
+{119001}{119032}For you.
+{119052}{119093}For you, I train him.
+{119097}{119128}For you.
+{119225}{119284}You love that rooster more than|you love me.
+{119318}{119383}It's all we have left of our son.
+{119777}{119813}Believe me, I hate this.
+{120121}{120151}Let's go.
+{120294}{120363}The mortgage people stuck|the eviction notice on the door.
+{120386}{120435}They say they hate to do it.
+{120441}{120479}Hypocrites.
+{120486}{120554}They don't want money;|they want the house.
+{120582}{120628}You see spooks behind every tree.
+{120686}{120746}{Y:i}I see the Governor and|your compadre don Sabas...
+{120750}{120846}picking over each and every property|in town for their factory.
+{120922}{120962}Then, there's no other way.
+{121032}{121052}No...
+{121091}{121125}there's no other way.
+{121190}{121274}I looked for you everywhere,|and they told me you were here.
+{121281}{121370}- I came to discuss the mortgage.|- You know the rules, Colonel.
+{121373}{121426}Rules are for breaking.
+{121431}{121506}How could you consider taking out|a mortgage in times like these?
+{121516}{121588}They said they were about to bury|my son in the common grave.
+{121592}{121678}So, if one cannot even afford|to bury his own son...
+{121682}{121711}where does one stand?
+{121715}{121734}Where?
+{121777}{121851}It's for three months.|The cock is already sold.
+{121854}{121890}They've given me an advance.
+{121897}{121980}Look, I'm even wearing new shoes.
+{121984}{122046}Then, tell the buyer to pay you|the rest of your money.
+{122068}{122137}You'll have to excuse me, Colonel,|but I'm busy.
+{122696}{122738}The cock is a living creature.
+{122753}{122840}Suppose my friend pays you off, then|the animal dies before the fight?
+{122852}{122935}And now that you've taken him|into your care, who's responsible?
+{122960}{123033}And you, Colonel,|you spend money fast.
+{123047}{123105}New shoes, and all.
+{123123}{123198}I kept my word,|and you took the cock.
+{123274}{123353}{Y:i}Between compadres,|I'll see what can be done.
+{123386}{123461}But up front, I'm telling you,|it will be very difficult.
+{123541}{123619}Damn, Sotero, you can't|even solve problems.
+{123623}{123715}I've told you before, act like|we live in a civilized society.
+{123720}{123779}Otherwise, there's no progress,|there just isn't.
+{123955}{123979}Colonel...
+{124025}{124116}People can buy shoes when|they blessed well feel like it.
+{124165}{124249}- And since when the wheelchair?|- Well, since the rains started.
+{124301}{124363}I no sooner put the clothes|out to dry,
+{124367}{124438}then suddenly there's|a downpour.
+{124442}{124478}This is no way to get by.
+{124800}{124826}What's happened to you?
+{124861}{124891}What's the matter?
+{124928}{124963}You can't die!
+{124997}{125017}Not you!
+{125066}{125110}Not you, treacherous bird.
+{125157}{125216}Don't you know the fight season|isn't even here yet?
+{125229}{125290}If you die, he'll die along|with you.
+{125407}{125442}Get better...
+{125446}{125485}even if it's just for him.
+{125534}{125576}You have to get better, alright?
+{125649}{125713}I'll take you to the doctor.|That's it.
+{125738}{125826}I'll take you to the doctor.|That's what to do.
+{125972}{125999}Doctor!
+{126080}{126106}Doctor!
+{126141}{126196}Doña Lola, you'll get soaked!|Come in.
+{126200}{126236}How could you go out|on a day like this?
+{126240}{126307}- Where is the doctor?|- He went to the mountains.
+{126316}{126357}Something about a house call...
+{126362}{126437}That he might stay the night...
+{126446}{126488}He doesn't even bother|coming around here any more.
+{126499}{126543}The rooster won't last|until morning.
+{126554}{126617}He's a doctor, not a veterinarian.
+{126661}{126724}I didn't do anything to you.|Nothing.
+{127115}{127167}He's been like this|since mid-afternoon.
+{127189}{127233}The lightning...
+{127285}{127343}The doctor is in the mountains.
+{127391}{127419}Do something!
+{127466}{127514}Since when do you care|about the rooster?
+{127543}{127573}Insulin?
+{127577}{127655}The doctor suggested it.|That will raise even the dead.
+{127660}{127702}Then, he would have|given it to you.
+{127707}{127789}Well, his wife suggested it,|that's almost the same thing.
+{127801}{127878}The doctor is up|to his usual mischief.
+{127882}{127952}One grubby doctor in this small|town, and he's out running around...
+{127956}{127996}like some fairy in the bushes.
+{128000}{128032}That's no way to do things.
+{128036}{128105}And what's all this about|injecting a cock?
+{128122}{128154}That's for humans.
+{128158}{128219}Insulin for an animal?|What's next?
+{128228}{128267}{Y:i}A drink, compadre.
+{128335}{128364}Don't even listen to her.
+{128381}{128432}She gets crasser by the day.
+{128477}{128516}But an injection...
+{128605}{128654}You'll have to pay him back.
+{128682}{128730}Things get more expensive|every day.
+{128735}{128825}Imagine! There are days when Sabas|takes as many as two.
+{128831}{128863}That's a lot of money.
+{128878}{128948}The Mad Monk show|is about to start.
+{128959}{129012}Come on, then you can|tell your wife all about it.
+{129087}{129140}Just don't let that old hag see.
+{129158}{129190}She butts into everything.
+{129195}{129239}She counts my injections.
+{129250}{129287}I'm supposed to obey|her every notion.
+{129303}{129361}{Y:i}If I could only do more, compadre.
+{129389}{129476}I often wish I could get around|alone. Offer no excuses to anybody.
+{129491}{129517}Chat.
+{129551}{129607}Do whatever I please.
+{129643}{129678}Breathe in the mountain air.
+{129687}{129728}Talk to friends.
+{129733}{129765}{Y:i}To my compadres.
+{129783}{129849}To you, like when we were warriors.
+{129949}{130000}We've gotten old, Colonel.
+{130009}{130102}When you left Tabasco, you were a|little snot and about one hand tall.
+{130116}{130168}Now you're old and fat.
+{130183}{130236}Enough! I'll get nostalgic.
+{130252}{130285}Nostalgic about me.
+{130295}{130331}Nostalgic about you.
+{130347}{130376}About then.
+{130429}{130472}Meaningless nostalgia.
+{130513}{130554}I hope your rooster gets well.
+{130565}{130598}From my heart.
+{130619}{130656}For your sake.
+{130673}{130737}I've come to think of him|as a kind of son.
+{131057}{131130}- Can I help?|- No! You make him nervous.
+{131149}{131191}He knows you dislike him.
+{131199}{131237}Don't be silly.
+{131476}{131506}I could have done it alone.
+{131605}{131660}It's been years since|you've done anything yourself.
+{131720}{131769}It's over now, Blondie.|All over.
+{131816}{131841}Here.
+{132059}{132136}If they are real revolutionaries,|they should learn about printing.
+{132141}{132184}Just look at this.
+{132188}{132248}All the letters have faded.
+{132298}{132331}{Y:i}The letterary...
+{132350}{132390}as Agustín used to say.
+{132472}{132506}Come, now.
+{132682}{132723}That's what Agustín used to read...
+{132727}{132768}Politics.
+{132789}{132836}Ideals and principles.
+{133034}{133060}As I was saying...
+{133081}{133175}{Y:i}"A band of White Guards in|the Governor's service...
+{133186}{133248}{Y:i}attacked the union local...
+{133258}{133363}{Y:i}and the constables|attacked the union men. "
+{133377}{133403}The constables...
+{133427}{133462}Just like that day.
+{133474}{133524}Just like...
+{133632}{133674}Just like that night.
+{133695}{133731}And him in my house!
+{133746}{133785}Just like that night.
+{133805}{133873}Hear what I'm saying!|I'm not going to die.
+{133877}{133916}Even if it's just to deprive|you of the pleasure...
+{133920}{133954}of rubbing me down with your oils.
+{133958}{134027}He came along only because|we were playing dominoes.
+{134034}{134073}I don't enter where|I'm not summoned.
+{134076}{134150}They didn't summon you that night.|I didn't summon you this night.
+{134190}{134265}He's blaspheming again.|He's on the road to recovery.
+{134274}{134312}Alright, doña Lola.
+{134316}{134404}Since you're already here,|let's clear things up, Father.
+{134437}{134479}You saw it, too.
+{134500}{134556}I found the body about two hours later.
+{134566}{134602}You were there.
+{134619}{134711}They must have said, "Why call the|doctor? Better the priest, now. "
+{134723}{134776}If you're worried that I|gave him the last rites...
+{134780}{134821}I arrived too late even for that.
+{134825}{134896}No, that's not what|I want to talk about.
+{134913}{134995}When you arrived, the|body was still there.
+{135004}{135077}Nogales was still there, so complacent.
+{135092}{135144}If there had really been a|brawl during the cockfight...
+{135148}{135183}do you think Nogales|would have stayed?
+{135188}{135248}Answer me.|Don't be so quiet.
+{135263}{135326}No, he wouldn't have stayed.
+{135333}{135375}You saw it, too.
+{135380}{135466}I saw when Agustín slipped|the newspaper under his shirt.
+{135475}{135537}I saw that, and told him...
+{135551}{135602}"At the dance, the ink will|run from the propaganda...
+{135606}{135673}then you'll have the evidence|printed on your chest. "
+{135709}{135766}And he laughed, the way he always did...
+{135803}{135826}a bit to the side...
+{135847}{135888}like my wife does.
+{135915}{135947}The same laugh.
+{135952}{135995}Just the same.
+{136017}{136125}And he said, "I'm not dancing today,|I'm a handler at the cock-match. "
+{136156}{136211}But by fight time, he was sweating.
+{136244}{136346}Maybe you haven't noticed, but at|that game pit, they have no permit...
+{136350}{136431}so they use car headlights for lighting.
+{136447}{136535}All the handlers who work|with the gamecocks sweat.
+{136587}{136640}Look, if you don't believe me.
+{136654}{136702}It's the same thing|on the bathroom mirror.
+{136706}{136741}Indigo blue.
+{136762}{136835}The same ink that ran|from the same newspaper.
+{136871}{136923}They never learned to print.
+{136936}{136960}Never.
+{136964}{136996}If you don't calm down,
+{137000}{137046}I'll have the doctor|give a shot of morphine...
+{137050}{137090}then sweet peace.
+{137115}{137137}Peace?
+{137156}{137212}There's been no peace since|that night.
+{137280}{137312}You know it.
+{137319}{137350}You saw it.
+{137364}{137422}My boy was involved in politics.
+{137427}{137508}I had to sign the death certificate:|"Altercation at the cockfights. "
+{137521}{137564}Like he was some common drunk.
+{137590}{137652}You signed that death certificate|because, for a change...
+{137656}{137728}the doctor was off in the mountains.
+{137772}{137822}You know as well as I do.
+{137871}{137947}The boy is dead,|it doesn't matter.
+{137976}{138042}No, it does matter.
+{138150}{138206}Don't take this as my confession.
+{138210}{138263}It hadn't crossed my mind.
+{138359}{138454}Anyway, keep it as|secret as a confession.
+{138586}{138621}He's right.
+{138637}{138707}It does matter why|they kill one's son.
+{138955}{139056}All this over a cock.|They get themselves all wound up.
+{139249}{139305}Didn't I bring you the shirt?
+{139319}{139383}Wasn't it stained with ink?
+{139388}{139484}- It was stained with blood.|- It was stained with blood and ink.
+{139494}{139546}And once and for all,|I'm telling you...
+{139550}{139606}your son was killed for his ideals...
+{139612}{139652}and for nothing else.
+{139696}{139784}No matter what, you won't have|the rooster blamed for the funeral.
+{139808}{139883}- Our funeral.|- Our funeral.
+{139931}{140011}Come now, find your sewing|and start working next to me.
+{140028}{140059}That's comforting.
+{140072}{140103}It calms me.
+{140124}{140195}- I have no sewing to do.|- Then make some to do.
+{140576}{140641}This way I can see you better.
+{140705}{140811}You know, which is the only|funeral we'll go to together?
+{140847}{140885}Our own funeral.
+{142100}{142179}{Y:i}The circus is here!|The circus is here!
+{142184}{142292}{Y:i}It's the phenomenal circus of the|Amazing Quintanilla Brothers...
+{142317}{142377}{Y:i}now on their annual tour of|the midlands of the Republic!
+{142389}{142426}{Y:i}The circus is here!
+{142779}{142811}The circus is here.
+{142825}{142865}It's here, and August isn't over yet.
+{142869}{142900}Cover up.
+{142914}{142964}You'll get pneumonia|in this humidity.
+{142968}{143040}This humidity is all the same|in the bathtub, or in the bed.
+{143057}{143131}Are you trying to frighten me|to death, or kill me with rage.
+{143164}{143201}Let's go to bed.
+{143221}{143271}- Today is Friday.|- Yes...
+{143293}{143345}but you have a while yet.
+{143457}{143556}But I filed an appeal, and|I'm waiting for an answer.
+{143579}{143628}It's no longer|an ordinary procedure.
+{143757}{143802}If you like, I'll repeat...
+{143806}{143862}No one writes to the Colonel.
+{144601}{144645}I have something to tell you.
+{144651}{144716}I heard the circus had arrived,|and then...
+{144758}{144804}I want to keep the cock.
+{144808}{144848}To call off the sale.
+{144859}{144891}Call off the sale?
+{144915}{144963}But we've spent|all the advance money.
+{144967}{145068}Germán is right.|Sabas can't keep the cock.
+{145072}{145130}He can't finagle Agustín's battle cock.
+{145157}{145205}He's going to give it to Nogales.
+{145209}{145286}Hush! That name is not spoken here.
+{145355}{145397}Sabas will give it to him.
+{145401}{145462}Agustin's battle cock|won't end up in his hands.
+{145487}{145591}I want you to know, I'm off to|see Sabas and return his money.
+{145595}{145678}I'll wash the shoes with|saddle soap, then return them...
+{145682}{145716}or I'll sell the clock.
+{145765}{145832}Agustín's battle cock|is the best in the town.
+{145846}{145940}The cocker who wins gets|20% of the betting stakes.
+{145947}{145993}Triple what Sabas offers!
+{146036}{146066}I'm not asking you.
+{146083}{146117}I'm telling you.
+{146123}{146163}I'm warning you.
+{146179}{146213}I'm doing this for him...
+{146238}{146263}for you...
+{146287}{146313}and for me.
+{146335}{146411}As far as I'm concerned, I'm|not a Colonel for nothing.
+{146635}{146733}I'll have to mend your pants with|white thread so they won't notice.
+{146784}{146859}Cockers don't dress in rags.
+{147865}{147907}How much for the ring?
+{147965}{147996}Go away!
+{148000}{148029}I don't do those things.
+{148033}{148087}Father Angel, how much?
+{148129}{148155}How much?
+{148252}{148345}The Church forbids these kinds|of things. Anyway, I'm a priest.
+{148348}{148396}A priest, not a pawnbroker.
+{148400}{148463}Even if a black legend befalls us.
+{148470}{148506}Find someone else.
+{148510}{148541}A money lender.
+{148545}{148603}I am a priest,|but I'm also your friend.
+{148607}{148700}That's why I dare, because|you are my only friend.
+{148706}{148759}If not you, then with whom?
+{148780}{148824}Please take pity.
+{148841}{148896}For all those times|we've gone to the movies.
+{148935}{149006}Then, what do I do with the ring?
+{149010}{149038}Do I sell it?
+{149042}{149097}It has your name etched in it.
+{149101}{149129}In this town, they find out|about everything.
+{149133}{149217}Then your husband will come and burn|the church for the second time...
+{149221}{149261}with me inside.
+{149265}{149303}He'll understand.
+{149318}{149349}How much?
+{149629}{149662}Thank you, Father.
+{149777}{149844}I don't know how to beg.|They never taught me.
+{149879}{149945}Only life teaches that.
+{149969}{149997}Good-bye.
+{150034}{150123}She wouldn't let me absolve her.|An eye for an eye.
+{151306}{151358}I wasn't able to return the shoes.
+{151363}{151411}But you won't know|the time any longer.
+{151521}{151545}What's this?
+{151574}{151640}I'm so thin now, it was|bound to fall off one day.
+{151666}{151760}Now I can take a lover, Colonel.|No one will know I'm married.
+{151764}{151798}What did you do?
+{151819}{151890}- I went to visit Father Angel.|- The cassocked one.
+{151924}{151997}I hope he'll keep this a|secret, as he would a confession.
+{152151}{152185}Where are you going in this rain?
+{152189}{152263}To settle my accounts.|My cockfighting accounts.
+{153023}{153064}I'm here to settle some business.
+{153078}{153174}{Y:i}I'm not here to see my compadre.|I'm here to see a comrade in arms.
+{153268}{153313}Where do you think you're going?
+{153318}{153357}What right do you have|to come in here?
+{153361}{153401}Stand aside, I'm asking you.
+{153409}{153444}I'm begging you.
+{153452}{153481}I'm warning you.
+{153485}{153541}That rooster will not leave|here as long as I'm alive.
+{153545}{153592}Don't make me hurt you,|you're Agustín's mother.
+{153596}{153658}Well, you'll have to hurt me.|That rooster is mine!
+{153666}{153703}Mine and my husbands, the Colonel.
+{153707}{153746}Shut up and take it easy.
+{153750}{153798}This cock belongs to the|people. It fights for the town.
+{153803}{153863}And we're taking it, even|over your dead bodies!
+{153875}{153909}Kill me, then!
+{154735}{154782}They took it by force.
+{154834}{154899}I told them the rooster|wouldn't leave here...
+{154906}{154956}as long as I lived.
+{154984}{155021}But you're still alive.
+{156071}{156118}You weren't home.
+{156127}{156184}This has nothing to do|with the circus.
+{156194}{156286}They wanted to use the|circus tent as their game pit.
+{156289}{156362}The only one in charge of|handling this cock, is me.
+{156401}{156465}The one who cared for him,|is me.
+{156472}{156529}The one who trained him,|is me.
+{156540}{156597}The one who paid for him,|is me.
+{156609}{156659}{Y:i}Not Sabas, my compadre.
+{156663}{156691}Not any of you.
+{156711}{156767}Not even Agustín's memory.
+{156779}{156802}It's me.
+{156807}{156842}Tell him the truth.
+{156855}{156947}Nogales, was there boasting,|strutting about in front of everyone.
+{156959}{157025}So the people challenged him|with Agustín's fighting cock.
+{157033}{157080}There was no other way, Colonel.
+{157091}{157146}My battle cock|doesn't engage this one.
+{157153}{157224}As long as there is|a breath of life left in me...
+{157238}{157315}my cock will not cover|itself in the blood of his.
+{157321}{157370}It was all in goodwill, Colonel.
+{157424}{157476}I have no goodwill towards you.
+{157497}{157566}I didn't break into your house|like a burglar to take him.
+{157570}{157641}It was these fellows, your|son's so-called friends.
+{157705}{157741}I owe you.
+{157794}{157824}I know that.
+{157892}{157945}But it wasn't my fault alone.
+{157969}{158027}We both were armed.
+{158031}{158056}Both of us.
+{158060}{158124}A little more the other way,|and I'd have been the dead one.
+{158149}{158222}But his death was all he|needed to become a saint.
+{158256}{158327}Still, I am in your debt.
+{158358}{158412}I may be only a circus man,|but I'm forthright.
+{158417}{158485}Here, take this for your rooster.
+{158563}{158622}And, my connections.
+{158659}{158726}I have friends, contacts.
+{158764}{158811}Tomorrow I can arrange|for your pension.
+{158820}{158890}Your god-forsaken pension|the whole town knows about.
+{158899}{158956}In the blink of an eye, Colonel.
+{158960}{159008}In a simple stroke of magic.
+{159037}{159077}All because I owe it to you.
+{159110}{159161}All because I have a father.
+{159195}{159282}All because I'm sentimental.
+{159343}{159370}Look...
+{159390}{159483}I do magic for you, and you'll never|again linger at the post office.
+{159512}{159559}Not for your stroke of magic.
+{159575}{159618}Not for your connections.
+{159640}{159688}Not for all the gold in the world.
+{159721}{159774}Nor for all the pensions.
+{159799}{159826}Nothing.
+{159886}{159923}Let's go, Blondie.
+{159955}{159997}Good evening, gentlemen.
+{160863}{160898}It will happen again.
+{160902}{160943}Over and over again.
+{160947}{161002}They will end up taking him again.
+{161009}{161054}The next time...
+{161068}{161123}you won't be able|to keep him with you.
+{161127}{161161}The cock is not for sale.
+{161180}{161224}You're more stubborn|than stubborn can be.
+{161236}{161271}And in the meanwhile, what?
+{161275}{161300}What?
+{161304}{161359}You'll just sit here,|and wait for that pension.
+{161365}{161427}- That pension won't come.|- It will come.
+{161469}{161540}Come to your senses.|You're old.
+{161560}{161650}Today, you got a break because|you're old. You surprised them.
+{161657}{161723}Tomorrow, they'll put a knife in you|because you're old.
+{161728}{161802}They'll end up with the rooster,|and I'll end up widowed and alone.
+{161834}{161879}Now, I've come to realize it.
+{161894}{161931}You have, too.
+{161987}{162018}Reconsider.
+{162033}{162070}I won't reconsider.
+{162094}{162153}You haven't reconsidered|in twenty years.
+{162156}{162196}Then it will be twenty more.
+{162301}{162355}You're stubborn and inconsiderate.
+{162394}{162472}My life is burning away|slowly, like some cheap candle.
+{162477}{162520}And there's stubborn you,|and your rooster.
+{162570}{162616}And if the rooster doesn't win?
+{162653}{162750}What if you don't get your famous 20%?
+{162756}{162821}That's only if it wins.|What if it loses?
+{162827}{162890}Have you thought about|what we'll do if it loses?
+{162937}{162989}That cock can't lose.
+{163000}{163038}Suppose it does?
+{163151}{163236}I have forty-five days to suppose that.
+{163678}{163739}And until then, tell me,|what are we going to eat?
+{163756}{163782}Answer me.
+{163834}{163872}Come on, tell me!
+{163884}{163927}Don't just sit there silent.
+{164013}{164064}Tell me!|After all, you're my husband.
+{164164}{164206}Tell me, what we'll eat.
+{164221}{164243}Tell me.
+{164322}{164351}Shit.

@@ -1,0 +1,616 @@
+{341}{396}You ready|for our big opening night?
+{480}{547}You're very intense|back there in the chorus.
+{549}{592}ls everything okay?
+{624}{664}l'm a little frustrated.
+{705}{770}Frustration's a useless emotion.
+{772}{847}lf you see something you want,|you just got to go for it.
+{849}{880}Easy to say.
+{919}{981}lt's better to regret|something you have done
+{983}{1024}than something you haven't done.
+{1026}{1086}- Trust me, l'm the expert.|- Really?
+{1127}{1230}l've been watching you,|and you are a scary little girl.
+{1252}{1321}There's nothing you can't do|if you put your mind to it.
+{1403}{1441}Thank you, Mr. Hanley.
+{1468}{1516}You've been very helpful.
+{1688}{1787}Luhch is how beihg seved.|Everybody should be at luhch.
+{2690}{2770}l'd like to propose a toast.
+{2844}{2937}Here's to the ladies who lunch
+{2937}{3000}Everybody laugh
+{3283}{3326}Lounging in their caftans
+{3326}{3467}And planning a brunch|on their own behalf
+{3709}{3765}- l'm going to call it off.|- l think you'd better.
+{3767}{3796}Wait.
+{3863}{3908}What in the hell|are you doing here?
+{3911}{3966}l knew you'd be discussing|stopping the show,
+{3968}{4031}and l just thought how|disappointed the kids would be.
+{4033}{4131}- You scheming little bitch!|- Please! l'm a child.
+{4134}{4167}lf you think for one...
+{4170}{4203}Save the speech, rummy.
+{4206}{4251}She's fucked, l'm ready,
+{4251}{4304}and the goddamn show|must go on.
+{4306}{4369}So let's get cracking, shall we?
+{4431}{4469}l'll drink to that
+{4549}{4616}Here's to the girls|who just watch
+{4618}{4668}Aren't they the best?
+{4709}{4860}When they get depressed,|it's a bottle of scotch plus a little jest
+{4930}{5023}Another chance to disapprove
+{5023}{5119}Another brilliant zinger
+{5122}{5215}Another reason not to move
+{5218}{5289}Another vodka stinger
+{5373}{5424}l'll drink to that
+{5491}{5563}So here's to the girls on the go
+{5565}{5618}Everybody tries
+{5661}{5750}Look into their eyes|and you'll see what they know
+{5750}{5862}Everybody dies
+{5865}{5934}A toast|to that invincible bunch
+{5963}{6030}The dinosaurs|surviving the crunch
+{6059}{6126}Let's hear it|for the ladies who lunch
+{6129}{6258}Everybody rise
+{6260}{6340}Rise
+{6925}{7023}Two households,|both alike in dignity
+{7023}{7107}in fair Verona,|where we lay our scene.
+{7109}{7196}From ancient grudge|break to new mutiny,
+{7198}{7294}where civil blood|makes civil hands unclean.
+{7512}{7589}Romeo, come forth.
+{7591}{7651}Come forth,|thou fearful man.
+{7653}{7721}Affliction is enamored|of thy parts
+{7723}{7797}and thou art wedded|to calamity.
+{7826}{7893}Father, 'tis l, Romeo.
+{7896}{7960}What news?|What is the Prince's doom?
+{7963}{8020}What sorrow|craves acquaintance...
+{8392}{8471}Tell me, Chino...
+{8514}{8584}...how many bullets|are left in this gun?
+{8663}{8764}Enough for you?|And you? And you?
+{8766}{8845}How many can l shoot|and still have one left for me?
+{9656}{9694}Michael, where are you?
+{10056}{10130}Dude, we looked|all over for you.
+{10190}{10231}l heard about what happened.
+{10262}{10312}l called them afterwards...
+{10356}{10408}...to make sure they|weren't dead somewhere
+{10408}{10447}on the New York State Thruway.
+{10571}{10651}My father decided he couldn't|put himself through seeing me.
+{10684}{10722}What does that even mean?
+{10754}{10811}lt means they think l'm a freak,
+{10811}{10862}like the kids at my school.
+{10936}{11005}Let's face it, even here|l'm in the upper third.
+{11116}{11171}Why don't you live at home?
+{11192}{11233}Prom night,
+{11233}{11315}my father looked at me|bleeding in a dress.
+{11346}{11401}He told me|l brought it upon myself.
+{11403}{11468}He said that if l did that|when he were in school,
+{11471}{11542}he'd have been one of those boys|kicking my ass, too.
+{11545}{11581}That's crazy.
+{11583}{11638}When it was happening,
+{11638}{11775}l just projected myself out of it,
+{11777}{11833}and in my head|l went somewhere else.
+{11876}{11902}Where?
+{12032}{12063}Here.
+{12219}{12274}Why would you wear a dress|to your prom, dude?
+{12300}{12355}You had to know|you were going to get creamed.
+{12358}{12446}- l don't get that.|- Of course you don't get that.
+{12487}{12573}That's because your life|is pretty damn close to perfect.
+{12600}{12693}Mine is like, one from column ''A,''|one from column ''shit.''
+{12739}{12775}Perfect.
+{12955}{12993}How about this?
+{13019}{13096}3, 4, 6, 1 ,|3, 4, 6, 4, 10,
+{13096}{13173}4, 1 4, 3, 1 7, 1 , 1 8,
+{13173}{13252}6, 24, 4, 28, 3, 31 , 4.
+{13276}{13353}- What's that?|- Have you ever heard of OCD?
+{13396}{13446}l count letters involuntarily.
+{13449}{13523}That was ''one from column 'A,'|one from column 'shit.'''
+{13525}{13564}l don't understand.
+{13566}{13595}lt's like,
+{13597}{13705}lf l don't take my pill,|then every time someone speaks,
+{13705}{13859}or if l have an idea,|or if somebody talks--anything--
+{13859}{13940}l break it down into words,|then into letters,
+{13942}{13986}and l add them up.
+{14019}{14113}3, 1 , 3, 4, 2.|''And l add them up.''
+{14141}{14228}l take those numbers,|and l add them up backwards.
+{14230}{14336}3, 1 , 3, 4, 2|was 6, 3, 9, 1 , 10, 3, 1 3, 4.
+{14338}{14384}The last word,|plus the word before that,
+{14386}{14446}plus the word before that,|and on and on...
+{14487}{14537}...till it ends in a prime number.
+{14539}{14616}lt's, like, constantly in my head.
+{14640}{14674}l take it all back.
+{14695}{14743}That's the sickest thing|l ever heard.
+{14784}{14815}l know.
+{14846}{14897}lt's weird 'cause it's,|like, it's just there.
+{14952}{15036}3, 4, 5, 9, 3, 1 2, 3.|''lt's just there.''
+{15182}{15254}lt's crazy. Oh, my God.
+{15479}{15558}That's why l act.|That's why l want to be an actor.
+{15594}{15738}'Cause when l'm acting,|it's not there if it's really going good.
+{15741}{15803}lt's like the character|doesn't have it...
+{15861}{15911}...so l don't have it.
+{16342}{16395}A teenage Prozac junkie.
+{16479}{16515}That's my perfect life.
+{16764}{16810}l guess we're both freaks.
+{16937}{16997}You can take a pill for yours.
+{16997}{17153}l'm still some|teenage drag queen with bad skin
+{17155}{17254}who can't put on a dress without|getting the crap beat out of him.
+{17412}{17450}Let's get out of here, man.
+{17757}{17841}Good morhihg. campers.|Time to rise ahd shihe.
+{17863}{17966}Todays wake-up sohg|is a special bithday dedicatioh
+{17966}{18021}to Michael Flores.
+{18045}{18086}Happy bithday. Michael.
+{18198}{18265}Surprise!
+{18311}{18349}Happy birthday!
+{18675}{18711}Oh, my God, look at you!
+{18932}{18997}The only thing l have to say is,|the hair on my legs better grow back,
+{18999}{19047}or else somebody's getting sued.
+{19049}{19138}- You did not!|- God shave the queen.
+{19167}{19260}Surprise!|Drag Kings ''R'' Us!
+{19704}{19738}Make a wish.
+{19771}{19843}Right at this moment,|l have everything l want.
+{19865}{19903}So...
+{19932}{19984}l'll give this wish to you guys.
+{20701}{20766}l sing for you
+{20797}{20850}And only you
+{20850}{20965}Wherever l go, l find you
+{21035}{21140}You're in the sound|of every ''hello''
+{21164}{21236}ln everything l do
+{21284}{21373}You're the song|l was destined to know
+{21397}{21500}And l only sing for you
+{21672}{21754}You went away
+{21756}{21821}l should have known
+{21823}{21934}You'd leave so many dreams|behind you
+{22013}{22109}Thought l'd be fine|just being alone
+{22130}{22214}l didn't have a clue
+{22241}{22349}But my heart|had a mind of its own
+{22375}{22490}And would only sing for you
+{22639}{22751}You're in the sound of rain
+{22981}{23013}Who are you people?
+{23015}{23087}What planet did you|beam down from?
+{23159}{23188}l'm serious.
+{23238}{23286}lf l can teach you one thing,
+{23288}{23344}which is supposed|to be my job here...
+{23375}{23442}...it'd be that|you should all go home.
+{23475}{23583}Michael Bennett's dead.|Bob Fosse is dead.
+{23586}{23684}Times Square|is a theme park now.
+{23730}{23773}l hate to be the Grinch,
+{23775}{23835}but it's not normal|what goes on up here.
+{23854}{23919}Somebody has got to warn you.
+{23921}{24003}Teenage faghags|become adult faghags.
+{24044}{24077}Straight boys are straight.
+{24080}{24171}You can't turn 'em|just because you need to be loved.
+{24171}{24221}The foundation|that's being laid here
+{24221}{24303}is not going to help you|in the real world.
+{24305}{24420}lt's going to lead to|waitressing jobs and bitterness
+{24422}{24535}and the obsessive,|pointless collecting
+{24535}{24636}of out-of-print|original cast albums.
+{24912}{24974}l don't know what your problem is,|and l don't really care.
+{24974}{25043}Maybe you're a son of a bitch|just 'cause you haven't written a show
+{25046}{25091}in, like, a million years.
+{25094}{25139}Or maybe you're|just a stupid drunk,
+{25142}{25190}but those kids,|they look up to you.
+{25192}{25252}And they don't deserve|to be treated like that.
+{25252}{25331}''They''? Did you think|l wasn't talking to you, too?
+{25334}{25370}Or did l forget to mention that
+{25370}{25451}you're a fraud who has to be|everybody's golden boy,
+{25453}{25494}or you'll just shrivel up?
+{25497}{25537}l've taken shots at drunks before.
+{25540}{25590}Don't think l have some|honor code about it.
+{25592}{25624}Bring it on.
+{25669}{25708}What is your problem?
+{25710}{25748}l don't have a problem.
+{25787}{25847}There's a theater in Brooklyn|that's got a problem.
+{25849}{25914}Seems they need|a rehearsal pianist,
+{25914}{26019}and they thought l might just be|hard up enough to oblige.
+{26022}{26106}So l sit in hot, stinking traffic|for three hours
+{26106}{26163}just to drive down there|to find out it's not
+{26163}{26252}the 200th revival|of my one hit show they wanted.
+{26254}{26350}You should never meet your heroes.|They always disappoint you.
+{26353}{26422}Come on, kid.|Come here. Help me out.
+{26458}{26492}l think l'm going to be sick.
+{26602}{26638}Oh, Jesus!
+{26650}{26683}God!
+{27865}{27901}Get it away.
+{27925}{27964}You don't even know what it is.
+{27966}{28043}l don't care. lf it's been|touched by him, it's diseased.
+{28112}{28158}- Oh, my God.|- Spit.
+{28268}{28333}lt's everything he's written|since The Childrehs Crusade.
+{28335}{28386}There's a ton more at his place.
+{28386}{28460}lt's like the Holy Grail|of musical theater.
+{28506}{28551}This one doesn't look so good.
+{28554}{28621}Some are lousy,|but most of 'em are great.
+{28652}{28714}lt's like they don't even|seem like they're from shows.
+{28717}{28755}They're just songs he wrote.
+{28781}{28820}There's funk, gospel.
+{28844}{28930}There's this awesome,|rootsy Neil Young song.
+{28990}{29031}Come on. Neil Young?
+{29119}{29199}He doesn't know l took 'em.|They're just copies.
+{29201}{29242}What are you going|to do with them?
+{29244}{29311}What time's that benefit rehearsal|start tomorrow?
+{29314}{29350}1 2:00 to 3:00.
+{29374}{29402}That's it?
+{29405}{29477}Ever since Michael's drag party,|Glen's been on a crusade
+{29479}{29525}to make us|more like a normal camp,
+{29527}{29616}so he's cutting back the benefit|rehearsals to three hours a day.
+{29618}{29652}That's enough time.
+{29671}{29757}- Time for what?|- He'll be late. He's always late.
+{29757}{29781}For...?
+{29808}{29831}Come on.
+{30354}{30433}Outside my house|is a cactus plant
+{30433}{30505}They call the century tree
+{30505}{30577}Only once in a hundred years
+{30577}{30639}lt flowers gracefully
+{30639}{30759}And you never know|when it will bloom
+{30791}{30978}Hey, do you want|to come out and play the game?
+{30980}{31069}lt's never too late
+{31097}{31280}Hey, do you want|to come out and play the game?
+{31282}{31359}lt's never too late
+{31416}{31582}Clementine Hunter was 54|before she packed up her paint
+{31704}{31778}Old Uncle Taylor was 81
+{31781}{31898}When he rode his bike|across the plains of China
+{31985}{32100}And the sun|was shining on that day
+{32102}{32143}Just like today
+{32145}{32301}Do you want to come out|and play the game?
+{32303}{32404}lt's never too late
+{32428}{32603}Hey, do you want|to come out and play the game?
+{32606}{32713}lt's never too late
+{32805}{32941}Didn't know how to tell her|for over 30 years
+{32944}{33087}He kept locked up inside himself,|and no one saw the tears
+{33090}{33248}Then she went away,|and he woke up that day
+{33251}{33342}Now he brings roses| to his sweetheart
+{33342}{33416}She lives most anywhere
+{33418}{33493}He sees someone suffering
+{33495}{33572}He knows that despair
+{33574}{33711}He offers them a rose|and some quiet prose
+{33713}{33843}'Bout dancing|in a shimmering ballroom
+{33845}{33982}'Cause you never know|when they will bloom
+{34015}{34190}Hey, do you want|to come out and play the game?
+{34193}{34313}lt's never too late|to play the game
+{34315}{34490}Hey, do you want|to come out and play the game?
+{34490}{34536}lt's never too late
+{34538}{34603}Never too late to play the game
+{34605}{34751}Hey, do you want|to come out and play the game?
+{34754}{34831}And play the game,|it's never too late
+{34833}{34876}Never too late
+{34895}{35068}Hey, do you want|to come out and play the game?
+{35070}{35125}And play...
+{35197}{35370}Hey, do you want|to come out and play the game?
+{35372}{35435}lt's never too late
+{35435}{35499}lt's never too late,|never too late
+{35502}{35665}Hey, do you want|to come out and play the game?
+{35665}{35737}lt's never too late
+{35742}{35787}lt's never too late
+{35790}{35972}Hey, do you want|to come out and play the game?
+{35974}{36082}lt's never too late
+{36084}{36238}Hey, do you want|to come out and play the game?
+{36240}{36300}Wanna come out,|wanna come out
+{36303}{36372}lt's never too late
+{37017}{37084}l ever tell you we did|The Childrehs Crusade?
+{37087}{37178}Five summers ago.|lt was good.
+{37180}{37283}The kids want to do a revue|of my music for the benefit.
+{37286}{37350}l heard.|What did you tell them?
+{37374}{37454}- l told them yeah.|- Good. l'm glad.
+{37456}{37516}But not on|three hours' rehearsal a day.
+{37518}{37595}You tell me, am l wrong?|Am l doing such a horrible thing?
+{37597}{37660}l don't know.
+{37660}{37734}l was like you, except l was|feeling sorry for myself,
+{37736}{37811}and l thought these kids|needed a hard dose of reality,
+{37811}{37868}so l gave it to them.|Both barrels.
+{37909}{37993}But l've been watching them,|and l was wrong.
+{38024}{38075}They're a bunch of little freaks.
+{38101}{38151}The more normal|we try to make them,
+{38154}{38230}the more lonely and isolated|they're gonna feel.
+{38369}{38427}Summer is almost over, Glen.
+{38477}{38537}Let's all go out like pros.|What do you say?
+{40506}{40558}Dee, ehtra.
+{40652}{40700}What are you doing here?
+{40781}{40822}Look, l don't speak no Spanish,
+{40822}{40868}so you better habla your ass|some English.
+{40904}{40983}Peter Piper picked a peck|of pickled peppers. Add that one.
+{41000}{41076}- Cut it out, dude.|- l'm gonna cure you.
+{41079}{41129}Supercalifragilisticexpialidocious.
+{41131}{41170}Why are you in a good mood?
+{41170}{41266}- You want to know?|- Yeah.
+{41340}{41369}What is that?
+{41484}{41513}No way.
+{41585}{41645}- Who?|- Dee.
+{41669}{41719}Dee? You slept with a girl?
+{41762}{41800}You slept with a girl?
+{41803}{41856}You're so full of shit.|l don't believe you.
+{41858}{41904}l mean, why would you?
+{41906}{42026}Maybe l didn't want a whole lifetime|of feeling the way l have so far.
+{42115}{42150}l'm asking Dee.
+{42174}{42234}- Don't.|- l'm calling your bluff.
+{42237}{42299}- Don't be a jerk.|- What're you gonna do?
+{42692}{42724}Ellen's not here.
+{42724}{42798}l know. What are you doing?
+{42834}{42865}A journal.
+{43090}{43150}Oh, my God!
+{43227}{43287}- Michael told me.|- That punk!
+{43289}{43344}l'm going to give him|a bitch slap so hard.
+{43344}{43452}- This is the trippiest thing l ever--|- All right.
+{43452}{43548}Could he do it, even?|Were his eyes open?
+{43548}{43587}Nothing against you, it's just...
+{43589}{43656}lf you wanna know, he talked|about you most of the time.
+{43659}{43692}During?
+{43692}{43752}Who knows?|l finally tuned him out.
+{43807}{43913}Come on.|Seriously, tell me.
+{43937}{43985}Why are you|so interested, anyway?
+{43985}{44076}- What's going on with you two?|- Nothing. Why?
+{44078}{44119}What did he say?
+{44121}{44210}l'm just saying you guys|hang out an awful lot.
+{44210}{44272}So what? l'm straight.
+{44316}{44368}- Straight.|- All right.
+{44399}{44493}- You don't believe me?|- All l'm saying is that people talk.
+{44781}{44848}Sorry. That was stupid.
+{44879}{44960}lt wasn't that stupid.|Do you know how long it's been
+{44963}{45020}since a guy's liked me|that wasn't gay?
+{45037}{45076}l don't like you.
+{45095}{45162}l mean, l like you,|but that's not why l did that.
+{45229}{45275}l don't know why l did that.
+{45339}{45373}lt's all right.
+{45435}{45464}Wait.
+{45490}{45529}You just slept with Michael.
+{45531}{45627}l'm sorry.|Then go back to your boyfriend.
+{45629}{45699}- Shut up.|- Why don't you make me?
+{46116}{46147}Shit!
+{46284}{46332}Come on, wait up!
+{46363}{46389}Leave me alone.
+{46392}{46459}- Wait up!|- Don't follow me!
+{47044}{47111}- Oh, baby!|- Doesn't she look pretty?
+{47114}{47173}- l missed you so much!|- You look so beautiful.
+{47320}{47387}l don't understand.|How can you spend all summer
+{47389}{47447}with your jaw wired shut|and still look like that?
+{47449}{47492}Fred!
+{47512}{47574}l'll tell you what,|we'll keep it on for fall term.
+{47576}{47646}You won't be sneaking milkshakes|with me around the house.
+{47684}{47725}l have to get ready.
+{47747}{47775}What?
+{48734}{48852}Oh, my God, it's him.|Stephen Sondheim.
+{50482}{50559}They called places already.|You're not even dressed yet?
+{50811}{50863}How paranoid can you be?
+{51079}{51110}Oh, my God.
+{51142}{51225}Was that your plan?|Did you put something in there?
+{51228}{51293}l only wish l'd thought of it.
+{51384}{51444}Can you please pass the base?
+{51602}{51655}- Thank you.|- This is ridiculous.
+{51657}{51691}lf you say one more syllable,
+{51691}{51748}l will shove a powder puff|down your windpipe...
+{51751}{51827}Do not underestimate my ass,|because l will knock you flat.
+{51827}{51868}- Girls, why don't we--|- Butt out.
+{51870}{51923}And there's no such thing|as bisexuality, you know.
+{51995}{52098}- Julie? What are you doing here?|- l took the bus.
+{52302}{52336}How are you?
+{52336}{52381}- l'm good. How about you?|- Good.
+{52381}{52446}- l give up.|- You give up?
+{52554}{52628}Julie, this is Ellen,|Michael, and Dee.
+{52654}{52710}Listen, is there|somewhere private we can go?
+{52712}{52758}Right now? l have a show.
+{52758}{52817}- l'll see you after, okay?|- Great.
+{52870}{52899}- Bye.|- Bye.
+{53474}{53563}- What?|- l hardly know where to begin.
+{53594}{53647}Why didn't you tell us|you had a girlfriend?
+{53647}{53673}You didn't ask.
+{53676}{53714}You never asked me|if l had a boyfriend,
+{53717}{53774}but if l did,|l would've said something...
+{53920}{53985}Except you assumed|l wouldn't have a boyfriend.
+{54064}{54091}Right.
+{54110}{54199}No sense in asking a question|like that to someone like me, right?
+{54201}{54225}Stop it.
+{54227}{54309}And l was supposed to assume|that you did have a girlfriend.
+{54326}{54376}And of course that you screw around.
+{54378}{54426}That's not true.|l'm sorry about Dee.
+{54429}{54498}lt's just...|l have no excuse.
+{54525}{54561}lt's all my fault.
+{54587}{54649}Maybe you and l only went out
+{54652}{54728}because l thought|it would make you happy.
+{54731}{54764}l'm sorry.
+{54767}{54798}Right.
+{54829}{54908}l knew that.|l knew that all along.
+{54942}{54985}l guess l just didn't care.
+{55009}{55069}But tell me one thing.
+{55119}{55206}What was going to happen to us|when we got back home?
+{55208}{55244}Places!
+{56042}{56141}Jesus Christ!|Oh, God!
+{56172}{56253}You sabotaged my makeup!|You bitch!
+{56256}{56292}l did not. Sit down.
+{56447}{56488}- l can't do it.|- Come on, Jenna.
+{56488}{56531}Fritzi's got multiple fractures,
+{56534}{56608}and Jill's face looks like|40 miles of bad road.
+{56611}{56644}You've got to do it.
+{56699}{56738}l know you're scared.
+{56788}{56822}lt's not that.
+{56850}{56886}My parents are here.
+{56927}{56987}lt's about time|they met their daughter.
+{57632}{57752}Here in the dark|l stand before you
+{57754}{57903}You know this is my chance|to show you my heart
+{57905}{57965}This is the start
+{57970}{58083}This is the start
+{58085}{58155}l have so much to say
+{58157}{58325}And l'm hoping|that your arms are open
+{58327}{58423}Don't turn away,|l want you near me
+{58423}{58533}But you have to hear me
+{58533}{58665}Here's where l stand,|here's who l am
+{58668}{58807}Love me, but don't tell me|who l have to be
+{58807}{58975}Here's who l am,|l'm what you see
+{58975}{59102}You said l had to change,|and l was trying
+{59104}{59219}But my heart was lying
+{59219}{59322}l'm not a child any longer
+{59325}{59483}l am stronger
+{59483}{59620}Here's where l stand,|here's who l am
+{59622}{59689}Help me to move on
+{59691}{59759}But please don't tell me how
+{59759}{59950}l'm on my way,|l'm moving now
+{59972}{60073}ln this life we've come so far
+{60075}{60171}But we're only who we are
+{60173}{60296}With the courage of love|to show us the way
+{60298}{60519}We've got the power|to stand up and say
+{60545}{60744}Here's where l stand,|here's who l am
+{60744}{60816}Stand up and be counted
+{60816}{60888}l'm counting on you
+{60888}{61051}lf you're with me,|we'll make it through
+{61053}{61183}Here's where l stand,|here's who l am
+{61183}{61276}Love me, love me, love me
+{61276}{61331}And we'll make it through
+{61334}{61423}Here's where l stand
+{61423}{61554}Baby, baby, baby,|l'm counting on you
+{61557}{61646}Here's where l stand
+{61646}{61725}Love me, love me, love me
+{61727}{61881}And we'll make it through
+{61883}{61979}l'm counting
+{62012}{62111}Oh, l'm counting
+{62111}{62171}l'm counting
+{62171}{62245}l'm counting on
+{62367}{62485}You
+{62487}{62633}Here's where l stand,|here's who l am
+{62633}{62681}l'm counting on you
+{62684}{62732}l'm counting on you
+{62734}{62871}Here's where l stand,|here's who l am
+{62873}{62911}We'll make it through
+{62914}{63034}Here's where l stand,|here's who l am
+{63036}{63108}Here's who l am,|l'm counting on you
+{63110}{63161}l'm counting on you
+{63163}{63228}Here's where l stand
+{63230}{63312}Here's who l am
+{63314}{63367}We'll make it through
+{63369}{63425}Here's where l stand
+{63427}{63530}Here's who l am
+{63530}{63573}l'm counting on you
+{63578}{63631}l'm counting on you
+{63631}{63691}Here's where l stand
+{63746}{63808}We'll make it through
+{63808}{63954}Here's where l stand,|here's who l am
+{63957}{64029}l'm counting on you
+{64031}{64194}Here's where l stand,|here's who l am
+{64635}{64712}Good job, Bert.|Really terrific.
+{64779}{64885}Thank you. l had no idea|you chaired this benefit.
+{64887}{64952}l'm giving a party on the 1 8th.|l'll give you a call.
+{64954}{65012}Great. Love to.
+{65508}{65537}Who's that?
+{65594}{65633}Go away.
+{66119}{66191}- What are you doing?|- l'm going swimming.
+{66194}{66247}Don't! l don't|even want to talk to you!
+{66419}{66472}l want to apologize.
+{66712}{66772}You are either the biggest|closet case l've ever seen,
+{66774}{66822}or you're just plain evil.
+{66824}{66875}Why? l thought now|that you're straight...
+{66875}{66916}Don't get carried away.
+{66916}{67007}- l slept with her 'cause of you.|- Me?
+{67007}{67055}l figured you might|feel less threatened
+{67057}{67115}if you thought l was capable|of sex with a woman.
+{67115}{67182}l don't even know how|to respond to that, dude.
+{67184}{67220}With a straitjacket, perhaps?
+{67328}{67407}Things went so good with Dee.|lsn't it just possible that you're...
+{67409}{67433}No.
+{67479}{67570}The only thing that's possible now|is l'll get beat up once too often
+{67572}{67637}and decide to be with some woman|because l know l can.
+{67678}{67731}lt's not exactly something|l wish l knew.
+{67731}{67774}You can't pin that on me.
+{67776}{67853}We can't pin anything on you|'cause you're perfect.
+{67855}{67884}l'm not perfect!
+{67887}{67970}Except for that little|obsessive-compulsive thing.
+{67973}{68021}Even that makes you|kind of sexily damaged.
+{68023}{68107}l hate people like you.|l really do.
+{68786}{68829}Oh, my God.
+{69004}{69045}Water's freezing.
+{69073}{69124}Why are you doing this?
+{69124}{69198}Doing what?|Skinny-dipping.
+{69277}{69351}Maybe l do flirt, but if l do,
+{69354}{69397}it's only because|l want to be liked.
+{69447}{69519}And...maybe l'm|a little confused.
+{69857}{69903}You're not confused.
+{69958}{69987}You like girls.
+{70078}{70131}You're right. l do.
+{70133}{70186}l was just trying|to give you what you want.
+{70188}{70212}l'm an asshole.
+{70212}{70296}Man, l don't know.|l just love attention.
+{70299}{70356}l'm an attention junkie, l guess.
+{70399}{70459}Why do l do shit like that?
+{70613}{70649}Do you forgive me?
+{70749}{70783}Do you?
+{70872}{70905}Come on!
+{71090}{71140}Do you? Do you forgive me?
+{71190}{71222}Do you?
+{71224}{71267}lf l forgive you,|will you get off of me?
+{71270}{71303}- Yeah.|- Then no.
+{71332}{71375}Oh, God.
+{71495}{71562}Michael, who are you with?
+{71689}{71773}Don't hate me.|l made up with him.
+{71893}{71922}Where's Julie?
+{71986}{72037}- She broke up with me.|- What?
+{72039}{72109}She came here 'cause|she wanted to tell me in person.
+{72111}{72212}Well, well, well. How's that|for a little opening night present?
+{72238}{72298}How does it feel to be|on the other end, lover boy?
+{72339}{72375}Actually...
+{72428}{72495}- Never mind.|- What?
+{72581}{72619}Now that camp's almost over,
+{72622}{72696}and we live|kind of close to each other,
+{72699}{72797}l was hoping that|we can go out sometime.
+{72866}{72941}l know you're not asking|girlfriend out for a date after all this.
+{72943}{72986}lf she'll forgive me.
+{73075}{73118}This boy not only has cojohes.
+{73118}{73176}but he's got burritos|and huevos rancheros, too.
+{73288}{73339}- Okay.|- What?
+{73341}{73370}Really?
+{73396}{73425}l'll go out with you.
+{73427}{73507}You're like|some Jenny Jones guest!
+{73509}{73581}Eventually l have to start|hanging out with boys
+{73583}{73622}who don't wear dresses.
+{73667}{73718}l thought we came here|to go swimming.
+{73859}{73888}You coming in?
+{73921}{73953}lt's pretty cold.
+{73979}{74034}l'll take my chances.
+{74514}{74545}lt's not that cold.
+{74583}{74633}Don't be a girl.|Leave that to Michael.
+{74636}{74677}You two are like a bad car wreck.
+{74679}{74734}l wash my hands|of the both of you!
+{74734}{74780}lt's cold!
+{74804}{74840}Quit splashing!
+{75664}{75720}For the want of a nail
+{75722}{75758}The world was lost
+{75758}{75813}For the want of a nail
+{75815}{75871}The world was lost
+{75873}{75959}The want of a nail
+{75964}{76046}The want of a nail
+{76048}{76149}For the want of a nail,|the shoe was lost
+{76154}{76237}For the want of a shoe,|the horse was lost
+{76240}{76338}For the want of a horse,|the rider was lost
+{76341}{76436}For the want of a rider,|the message was lost
+{76439}{76535}For the want of a nail,|the world was lost
+{76537}{76635}For the want of a nail,|the world was lost
+{76638}{76739}The want of a nail
+{76743}{76815}The want of a nail
+{76818}{76923}For the want of a rider,|the message was lost
+{76926}{77007}For the want of a message,|the battle was lost
+{77007}{77110}For the want of a battle,|the war was lost
+{77110}{77216}For the want of a war,|the kingdom was lost
+{77218}{77300}The want of a nail,|the world was lost
+{77300}{77374}The want of a nail
+{77376}{77475}l've been wrong
+{77477}{77585}l had plans so big
+{77587}{77688}But the devil's in the details
+{77688}{77772}l left out one thing
+{77774}{77813}No one to love me
+{77817}{77861}No one to love me
+{78050}{78088}And no one to love
+{78273}{78355}What's all this talk|about horses and war?
+{78355}{78458}Put yourself in the place|of the man at the forge
+{78458}{78544}And day after day|you live a life without love
+{78546}{78609}Till the morning|you can't take it anymore
+{78611}{78642}And you don't get up
+{78642}{78690}Multiply it a billion times
+{78693}{78745}Spread it all around the world
+{78745}{78844}Put the curse of loneliness|on every boy and every girl
+{78846}{78894}Until everybody's kickin',|everybody's scratchin'
+{78896}{78935}Everything seems to fail
+{78937}{78983}And it was all
+{78983}{79028}All
+{79031}{79124}For the want of a nail
+{79129}{79160}The want of a nail
+{79163}{79222}Tell me, what else|could the answer be?
+{79225}{79326}The want of a nail,|not one thing
+{79326}{79388}The want of a nail
+{79481}{79558}Want of a nail,|the world was lost...
+{82287}{82318}Action.
+{82450}{82498}What a dump.
+{82498}{82613}Hey, where's that from?|''What a dump.''
+{82675}{82721}How would l know, Martha?
+{87907}{87986}So you weht to this camp.|What was that like?
+{87986}{88051}l was consistently miscast--
+{88053}{88166}Titus Andronicus,|Stanley Kowalski.
+{88168}{88247}Then there was the year they|couldn't find a girl to cast as Annie,
+{88250}{88293}so l played ''Andy.''
+{88430}{88530}Subs Fixed By|Pacman

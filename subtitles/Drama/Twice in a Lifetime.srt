@@ -1,0 +1,3782 @@
+1
+00:00:41,542 --> 00:00:43,627
+Calling Cape Com. Cape Com?
+
+2
+00:00:43,752 --> 00:00:45,587
+This is Jupiter 16.
+
+3
+00:00:45,712 --> 00:00:47,756
+Can you give a go for fourth orbit?
+
+4
+00:00:47,923 --> 00:00:49,716
+Cape Com to Jupiter 16.
+
+5
+00:00:49,842 --> 00:00:52,594
+Can you confirm 02 pressure
+is within limit?
+
+6
+00:00:52,719 --> 00:00:56,473
+Roger. It all looks good
+in the environmental control system.
+
+7
+00:00:56,598 --> 00:00:59,268
+OK. Everything looks good from here.
+
+8
+00:00:59,393 --> 00:01:01,854
+You have a go for fourth orbit.
+
+9
+00:01:01,979 --> 00:01:04,022
+Jupiter 16. Roger.
+
+10
+00:01:04,147 --> 00:01:07,693
+You're stowing all loose gear.
+Ready for the EVA.
+
+11
+00:01:07,818 --> 00:01:09,361
+Jupiter 16, this is Cape Com.
+
+12
+00:01:09,486 --> 00:01:11,321
+Start your EVA when you're ready.
+
+13
+00:01:11,488 --> 00:01:14,199
+You have time in the other EVAs
+for experiments.
+
+14
+00:01:14,324 --> 00:01:16,368
+So don't stay out too long, Chris.
+
+15
+00:01:16,535 --> 00:01:17,703
+OK, flight.
+
+16
+00:01:17,870 --> 00:01:20,956
+- Don't worry. We'll stick to plan.
+- Roger.
+
+17
+00:01:21,039 --> 00:01:25,669
+Cape Com to Jupiter 16. On my mark
+it will be four plus three seven.
+
+18
+00:01:25,794 --> 00:01:28,714
+Four, three, two
+
+19
+00:01:28,839 --> 00:01:31,049
+one, mark.
+
+20
+00:01:37,639 --> 00:01:39,683
+Cape Com, this is Chris.
+
+21
+00:01:39,808 --> 00:01:41,727
+I'm out.
+
+22
+00:01:41,852 --> 00:01:43,937
+Everything looks OK.
+
+23
+00:01:44,104 --> 00:01:45,397
+Good.
+
+24
+00:01:45,522 --> 00:01:47,900
+The manoeuvring unit works this time.
+
+25
+00:01:48,025 --> 00:01:50,569
+I used it to get out.
+It makes things a lot easier.
+
+26
+00:01:50,694 --> 00:01:53,780
+Cape Com to Hawaii,
+this is flight control, come in.
+
+27
+00:01:53,906 --> 00:01:55,490
+Hawaii, roger.
+
+28
+00:01:55,616 --> 00:01:59,453
+Hawaii, we expect to start EVA
+over your station on this pass.
+
+29
+00:01:59,620 --> 00:02:01,121
+Hawaii to Jupiter 16.
+
+30
+00:02:01,246 --> 00:02:04,583
+An unidentified object is closing on you
+fast from astern.
+
+31
+00:02:04,708 --> 00:02:05,918
+Can you see it?
+
+32
+00:02:07,127 --> 00:02:10,672
+Hawaii, we have nothing here.
+Hold while we check the space track.
+
+33
+00:02:11,256 --> 00:02:13,050
+Hawaii to Jupiter 16.
+
+34
+00:02:13,175 --> 00:02:16,970
+Repeat, Hawaii to Jupiter 16.
+
+35
+00:02:17,095 --> 00:02:19,306
+An unidentified object is on our scope.
+
+36
+00:02:19,932 --> 00:02:21,517
+We see nothing.
+
+37
+00:02:22,643 --> 00:02:24,645
+Can you give me a bearing?
+
+38
+00:02:24,811 --> 00:02:26,396
+Appears to be coming up fast,
+
+39
+00:02:26,522 --> 00:02:28,440
+from astern.
+
+40
+00:02:28,565 --> 00:02:30,609
+Hey, now I see it.
+
+41
+00:02:31,235 --> 00:02:33,237
+It's another spacecraft!
+
+42
+00:02:33,820 --> 00:02:35,781
+Repeat, it's another spacecraft!
+
+43
+00:02:35,906 --> 00:02:38,951
+Does it looks like a close pass?
+
+44
+00:02:39,117 --> 00:02:40,827
+You're breaking up. Say again.
+
+45
+00:02:40,953 --> 00:02:44,164
+- Does it look like a close pass?
+- Chris, what's happening?
+
+46
+00:02:44,289 --> 00:02:47,334
+It's coming right at us.
+The front is opening up!
+
+47
+00:02:47,417 --> 00:02:50,295
+I repeat, the front is opening up!
+
+48
+00:02:51,505 --> 00:02:56,218
+- It's coming right at us.
+- Chris, get back in, get back in!
+
+49
+00:02:56,385 --> 00:02:58,762
+Do you read me? You're breaking up.
+
+50
+00:02:58,887 --> 00:03:01,306
+- Repeat, you're breaking up.
+- What's happening?
+
+51
+00:03:01,473 --> 00:03:03,517
+Hawaii to Jupiter 16.
+
+52
+00:03:04,226 --> 00:03:06,937
+Hawaii to Jupiter 16. Are you receiving?
+
+53
+00:03:07,062 --> 00:03:09,773
+You're breaking up. Come in, please.
+Jupiter 16!
+
+54
+00:03:09,857 --> 00:03:11,900
+You're breaking up...
+
+55
+00:03:18,615 --> 00:03:20,951
+My lead line! It's cu...
+
+56
+00:03:22,703 --> 00:03:26,248
+Hawaii to Jupiter 16, Hawaii to Jupiter 16.
+
+57
+00:03:26,373 --> 00:03:29,543
+Are you receiving me?
+Come in, please. Over.
+
+58
+00:03:29,668 --> 00:03:30,878
+Hello, Houston.
+
+59
+00:03:31,044 --> 00:03:34,131
+We've lost radio contact.
+We've also lost him on the scope.
+
+60
+00:03:34,214 --> 00:03:36,633
+Unidentified object is still orbiting.
+
+61
+00:03:36,758 --> 00:03:39,720
+Alert all stations and track him closely.
+
+62
+00:03:49,479 --> 00:03:53,150
+It is ridiculous for the Soviet government
+to deny responsibility.
+
+63
+00:03:53,275 --> 00:03:56,528
+The Soviet government denies
+all knowledge of this affair.
+
+64
+00:03:56,612 --> 00:03:59,239
+The world knows
+we are a peace-loving people.
+
+65
+00:03:59,364 --> 00:04:01,408
+I hereby give notice that in 20 days
+
+66
+00:04:01,533 --> 00:04:04,203
+the United States
+will launch her next spaceship.
+
+67
+00:04:04,328 --> 00:04:07,539
+My government has instructed me
+to inform you
+
+68
+00:04:07,664 --> 00:04:11,251
+that any interference with it
+will be regarded as an act of war.
+
+69
+00:04:11,376 --> 00:04:13,045
+May I ask what motive
+
+70
+00:04:13,170 --> 00:04:15,631
+our Russian friends would have
+
+71
+00:04:15,797 --> 00:04:18,425
+for wishing to destroy
+American spacecraft?
+
+72
+00:04:18,550 --> 00:04:21,178
+My government sees this
+as a blatant attempt
+
+73
+00:04:21,261 --> 00:04:25,766
+to gain complete and absolute control
+of space itself for military purposes.
+
+74
+00:04:25,891 --> 00:04:27,935
+We don't agree.
+
+75
+00:04:28,101 --> 00:04:30,562
+Her Majesty's Government
+is not convinced
+
+76
+00:04:30,687 --> 00:04:34,024
+that this intruder missile
+originated from Soviet Russia.
+
+77
+00:04:34,233 --> 00:04:36,902
+Our tracking station in Singapore
+
+78
+00:04:37,027 --> 00:04:41,406
+reported faint echoes of this craft
+coming down in the Sea of Japan area.
+
+79
+00:04:41,532 --> 00:04:44,493
+Might I suggest
+that this is where you should
+
+80
+00:04:44,618 --> 00:04:46,870
+concentrate your intelligence forces?
+
+81
+00:04:46,995 --> 00:04:50,707
+The prime minister asked me to assure
+you this is what we propose to do.
+
+82
+00:04:50,833 --> 00:04:54,795
+As a matter of fact, our man in Hong Kong
+is working on it now.
+
+83
+00:05:02,803 --> 00:05:06,390
+Why do Chinese girls taste different
+from all other girls?
+
+84
+00:05:06,515 --> 00:05:08,559
+You think we better?
+
+85
+00:05:08,684 --> 00:05:10,644
+No, just different.
+
+86
+00:05:10,811 --> 00:05:12,729
+Like Peking duck is different from
+
+87
+00:05:12,855 --> 00:05:15,148
+Russian caviar, but I love 'em both.
+
+88
+00:05:15,274 --> 00:05:17,359
+Darling, I give you very best duck.
+
+89
+00:05:17,484 --> 00:05:19,528
+That would be lovely.
+
+90
+00:05:19,653 --> 00:05:23,282
+We've had some interesting times
+together, Ling. I'll be sorry to go.
+
+91
+00:05:45,929 --> 00:05:47,681
+Take that door.
+
+92
+00:05:47,806 --> 00:05:49,850
+The bed!
+
+93
+00:05:56,732 --> 00:06:00,277
+- We're too late.
+- At least he died on the job.
+
+94
+00:06:01,111 --> 00:06:03,113
+He'd have wanted it this way.
+
+95
+00:09:12,010 --> 00:09:14,680
+We shall not all sleep,
+but we shall all be changed
+
+96
+00:09:14,805 --> 00:09:18,183
+in a moment,
+in the twinkling of an eye,
+
+97
+00:09:18,308 --> 00:09:20,269
+at the last trump.
+
+98
+00:09:20,394 --> 00:09:24,273
+For the trumpet shall sound and
+the dead shall be raised incorruptible,
+
+99
+00:09:24,398 --> 00:09:26,441
+and we shall all be changed.
+
+100
+00:09:26,567 --> 00:09:30,237
+We therefore commit his body to the deep
+to be turned into corruption,
+
+101
+00:09:30,362 --> 00:09:34,491
+looking for the resurrection of the body
+when the sea shall give up her dead.
+
+102
+00:09:34,616 --> 00:09:36,535
+Present!
+
+103
+00:09:38,745 --> 00:09:40,789
+Fire!
+
+104
+00:09:41,582 --> 00:09:43,625
+Fire!
+
+105
+00:09:44,626 --> 00:09:46,670
+Fire!
+
+106
+00:10:57,908 --> 00:11:00,077
+- Carry on.
+- Aye aye, sir.
+
+107
+00:11:19,429 --> 00:11:21,139
+Permission to come aboard?
+
+108
+00:11:21,265 --> 00:11:23,559
+- Permission granted.
+- Thank you.
+
+109
+00:11:26,103 --> 00:11:28,647
+- Take this officer aft.
+- Yes, sir.
+
+110
+00:11:33,402 --> 00:11:36,905
+Number One, take her up to 90ft.
+Course zero four five.
+
+111
+00:11:37,030 --> 00:11:39,074
+Aye aye, sir.
+
+112
+00:11:44,580 --> 00:11:47,291
+- Hello, Penny.
+- You'd better go right in.
+
+113
+00:11:47,457 --> 00:11:50,043
+You're late as usual,
+even from your own funeral.
+
+114
+00:11:50,169 --> 00:11:52,212
+We corpses have no sense of timing.
+
+115
+00:11:54,089 --> 00:11:55,924
+In you go... sir.
+
+116
+00:11:56,049 --> 00:11:58,093
+Thank you... ma'am.
+
+117
+00:12:08,395 --> 00:12:11,773
+- Sit down, 007.
+- Thank you, sir.
+
+118
+00:12:12,566 --> 00:12:14,776
+- No ill effects?
+- None at all, sir.
+
+119
+00:12:14,985 --> 00:12:19,990
+Now you're dead, perhaps some of your
+old friends will pay less attention to you.
+
+120
+00:12:20,157 --> 00:12:23,660
+Give you more elbow room.
+You'll need it, too.
+
+121
+00:12:23,785 --> 00:12:27,915
+This is the big one, 007. That's why
+I'm out here. You're fully briefed?
+
+122
+00:12:28,040 --> 00:12:30,584
+Yes, but there's one thing
+I don't understand.
+
+123
+00:12:30,709 --> 00:12:33,462
+If our Singapore tracking
+station is correct
+
+124
+00:12:33,587 --> 00:12:36,840
+about the rocket not landing
+in Russia, where did it land?
+
+125
+00:12:36,965 --> 00:12:39,593
+We assume it's Japan.
+All this is guesswork,
+
+126
+00:12:39,718 --> 00:12:42,888
+but the PM wants us to play it
+with everything we've got.
+
+127
+00:12:43,013 --> 00:12:46,266
+- And the aerial reconnaissance?
+- All photographed. Nothing.
+
+128
+00:12:46,433 --> 00:12:49,061
+Are the Japanese equipped
+to launch such a rocket?
+
+129
+00:12:49,811 --> 00:12:52,064
+- We don't think so.
+- Then who else is?
+
+130
+00:12:52,189 --> 00:12:54,566
+That's what you've got to
+find out, and fast.
+
+131
+00:12:54,733 --> 00:12:56,527
+Before the real shooting starts.
+
+132
+00:12:56,652 --> 00:13:00,447
+This damn thing could blow up
+into a full-scale war.
+
+133
+00:13:01,490 --> 00:13:04,618
+When you get to Tokyo,
+go to that name and address.
+
+134
+00:13:04,785 --> 00:13:07,037
+Our man Henderson
+will contact you there.
+
+135
+00:13:07,162 --> 00:13:10,457
+- Henderson.
+- Captain here. Full ahead.
+
+136
+00:13:10,582 --> 00:13:12,167
+Right.
+
+137
+00:13:13,710 --> 00:13:16,964
+- That's all.
+- Thank you, sir.
+
+138
+00:13:17,130 --> 00:13:18,549
+- 007.
+- Sir?
+
+139
+00:13:18,674 --> 00:13:21,426
+We've only three weeks
+to the next American launch.
+
+140
+00:13:21,552 --> 00:13:23,011
+- You know that?
+- Yes, sir.
+
+141
+00:13:23,095 --> 00:13:26,890
+My sources tell me the Russians
+are planning one even earlier.
+
+142
+00:13:27,057 --> 00:13:30,143
+- So move fast, 007.
+- Yes, sir.
+
+143
+00:13:37,234 --> 00:13:39,444
+By the way, how was the girl?
+
+144
+00:13:40,279 --> 00:13:41,905
+Which girl?
+
+145
+00:13:42,030 --> 00:13:44,324
+The Chinese one we fixed you up with.
+
+146
+00:13:44,449 --> 00:13:46,869
+Another five minutes, I'd have found out.
+
+147
+00:13:46,994 --> 00:13:49,621
+She'll never know what she missed.
+
+148
+00:13:50,956 --> 00:13:54,042
+Miss Moneypenny,
+give 007 the password we've agreed
+
+149
+00:13:54,168 --> 00:13:56,712
+- with Japanese SIS.
+- Yes, sir.
+
+150
+00:13:56,879 --> 00:13:59,631
+We tried to think of something
+you wouldn't forget.
+
+151
+00:13:59,756 --> 00:14:00,799
+Yes?
+
+152
+00:14:02,426 --> 00:14:05,262
+I... love... you.
+
+153
+00:14:05,387 --> 00:14:07,598
+Repeat it, please,
+to make sure you get it.
+
+154
+00:14:07,764 --> 00:14:09,391
+Don't worry, I get it.
+
+155
+00:14:09,516 --> 00:14:11,226
+Sayonara.
+
+156
+00:14:11,351 --> 00:14:13,604
+James... good luck.
+
+157
+00:14:15,105 --> 00:14:17,608
+Instant Japanese. You may need it.
+
+158
+00:14:19,109 --> 00:14:22,613
+You forget, I took a first
+in oriental languages at Cambridge.
+
+159
+00:14:27,159 --> 00:14:29,161
+Stand by to load.
+
+160
+00:14:31,955 --> 00:14:33,999
+Lift to the launch!
+
+161
+00:14:39,004 --> 00:14:40,589
+Tube loaded.
+
+162
+00:14:40,756 --> 00:14:41,715
+Hubcap open.
+
+163
+00:14:45,302 --> 00:14:46,470
+Fire.
+
+164
+00:16:33,368 --> 00:16:35,412
+This is your ticket.
+
+165
+00:16:39,124 --> 00:16:41,168
+Thank you.
+
+166
+00:16:41,376 --> 00:16:43,378
+Dozo.
+
+167
+00:18:18,015 --> 00:18:19,725
+I love you.
+
+168
+00:18:21,435 --> 00:18:23,061
+I have a car nearby.
+
+169
+00:18:23,187 --> 00:18:26,899
+- Where do you suggest we go?
+- I know a quiet hotel.
+
+170
+00:18:29,234 --> 00:18:32,988
+- And?
+- Where your friend is waiting.
+
+171
+00:18:34,698 --> 00:18:36,283
+Mr Henderson.
+
+172
+00:18:40,704 --> 00:18:42,998
+Wasn't Mr Henderson
+able to come himself?
+
+173
+00:18:43,123 --> 00:18:45,792
+- I suppose not.
+- Why?
+
+174
+00:18:45,918 --> 00:18:48,128
+He didn't say.
+
+175
+00:19:03,310 --> 00:19:05,854
+I think it's about hotel-time.
+
+176
+00:19:32,422 --> 00:19:34,758
+How long have you
+worked for Henderson?
+
+177
+00:19:34,883 --> 00:19:39,096
+Long enough to learn not to discuss
+such matters with strangers.
+
+178
+00:19:58,282 --> 00:20:01,994
+- Mr Henderson's waiting for you.
+- You're not coming in with me?
+
+179
+00:20:02,119 --> 00:20:05,122
+Mr Henderson would like
+to see you alone.
+
+180
+00:20:14,756 --> 00:20:16,800
+Do come in.
+
+181
+00:20:18,802 --> 00:20:20,804
+Mr Henderson?
+
+182
+00:20:20,929 --> 00:20:22,973
+At your service.
+
+183
+00:20:39,072 --> 00:20:42,409
+I believe you wanted to
+ask me some questions.
+
+184
+00:20:42,576 --> 00:20:44,912
+Yes. Excuse me.
+
+185
+00:20:50,125 --> 00:20:52,669
+- Thank you.
+- I'm glad you got it right.
+
+186
+00:20:53,629 --> 00:20:56,089
+I lost that in Singapore in '42.
+
+187
+00:20:57,466 --> 00:21:00,511
+You must excuse
+this rather odd mixture of styles,
+
+188
+00:21:00,636 --> 00:21:03,430
+but I refuse to go entirely Japanese.
+
+189
+00:21:03,555 --> 00:21:06,642
+Very fond of some of these old things.
+
+190
+00:21:07,893 --> 00:21:10,771
+- You've never been to Japan before?
+- No, never.
+
+191
+00:21:10,896 --> 00:21:13,899
+I myself have lived here for...
+
+192
+00:21:14,650 --> 00:21:16,652
+28 years.
+
+193
+00:21:16,777 --> 00:21:19,154
+And I'm just beginning
+to know my way about.
+
+194
+00:21:19,321 --> 00:21:23,659
+- Your most vital contact will be Tanaka.
+- Tanaka?
+
+195
+00:21:23,784 --> 00:21:26,453
+He's head of the Japanese secret service.
+
+196
+00:21:26,578 --> 00:21:30,165
+And his identity is the most
+closely guarded secret in Japan.
+
+197
+00:21:30,290 --> 00:21:32,376
+When can I see him?
+
+198
+00:21:33,377 --> 00:21:36,463
+- You can see Tiger tonight.
+- Tiger?
+
+199
+00:21:36,630 --> 00:21:40,217
+His closest friends
+are permitted to call him that.
+
+200
+00:21:40,342 --> 00:21:42,886
+- Do you have any leads of your own?
+- Yes, I do.
+
+201
+00:21:43,011 --> 00:21:45,764
+That's stirred not shaken.
+That was right?
+
+202
+00:21:45,889 --> 00:21:47,474
+Perfect.
+
+203
+00:21:47,599 --> 00:21:49,643
+Cheers.
+
+204
+00:21:51,311 --> 00:21:53,397
+Russian vodka. Well done.
+
+205
+00:21:53,605 --> 00:21:57,067
+Yes, I get it from the doorman
+at the Russian embassy.
+
+206
+00:21:57,192 --> 00:21:59,403
+Amongst certain other things.
+
+207
+00:21:59,528 --> 00:22:01,822
+Now, look. I think London's theory
+
+208
+00:22:01,947 --> 00:22:05,492
+about the missile being fired
+from this country is right.
+
+209
+00:22:05,617 --> 00:22:08,120
+I don't know how or where.
+
+210
+00:22:08,287 --> 00:22:10,706
+And don't ask me who's doing it either.
+
+211
+00:22:10,831 --> 00:22:17,129
+But I have a fairly shrewd idea
+that a major foreign power is behind it all.
+
+212
+00:22:17,254 --> 00:22:19,965
+You mean, apart from Russia and Japan?
+
+213
+00:22:20,090 --> 00:22:23,260
+It's not Russia, old boy, I'm sure of that.
+
+214
+00:22:23,385 --> 00:22:25,387
+It's not Japan either.
+
+215
+00:22:25,512 --> 00:22:29,850
+Although a large Japanese
+industrial concern is...
+
+216
+00:24:30,220 --> 00:24:32,264
+Good evening.
+
+217
+00:25:57,933 --> 00:25:59,977
+Cheers.
+
+218
+00:26:04,189 --> 00:26:06,233
+Siamese vodka?
+
+219
+00:27:33,195 --> 00:27:35,239
+There he is!
+
+220
+00:27:44,873 --> 00:27:46,291
+Freeze!
+
+221
+00:28:03,183 --> 00:28:04,643
+Get in, quick!
+
+222
+00:28:11,650 --> 00:28:13,861
+What the hell's the score?
+
+223
+00:28:14,903 --> 00:28:17,573
+What do you mean?
+My job is to help you.
+
+224
+00:28:17,698 --> 00:28:19,741
+Like you helped Henderson?
+
+225
+00:28:19,867 --> 00:28:21,994
+I'm taking you to a place of safety.
+
+226
+00:28:22,119 --> 00:28:25,372
+No, this time I'm taking you.
+I want some information now.
+
+227
+00:28:25,539 --> 00:28:29,626
+- I have no information to give you.
+- We'll see about that. Slow down.
+
+228
+00:29:21,970 --> 00:29:23,972
+Welcome.
+
+229
+00:29:27,726 --> 00:29:29,603
+Welcome to Japan, Mr Bond.
+
+230
+00:29:30,437 --> 00:29:32,689
+It is a great pleasure to meet you at last.
+
+231
+00:29:35,400 --> 00:29:37,819
+And how do you like our country so far?
+
+232
+00:29:40,823 --> 00:29:44,827
+I am a trifle disappointed at the ease
+with which I could pull you in.
+
+233
+00:29:44,910 --> 00:29:48,622
+The one thing my honourable mother
+taught me long ago
+
+234
+00:29:48,747 --> 00:29:51,542
+was never to get into a car
+with a strange girl.
+
+235
+00:29:51,667 --> 00:29:55,754
+But you, I'm afraid,
+will get into anything with any girl!
+
+236
+00:30:00,050 --> 00:30:03,595
+You have a lot of energy
+for a dead man, Mr Bond.
+
+237
+00:30:09,101 --> 00:30:11,103
+You are James Bond, aren't you?
+
+238
+00:30:15,899 --> 00:30:19,486
+I am so very pleased to meet you,
+Bond-san. I really am.
+
+239
+00:30:20,529 --> 00:30:22,614
+Permit me to introduce myself.
+
+240
+00:30:22,739 --> 00:30:26,076
+My name is Tanaka. Please call me Tiger.
+
+241
+00:30:26,201 --> 00:30:29,288
+If you're Tanaka,
+how do you feel about me?
+
+242
+00:30:30,414 --> 00:30:32,624
+I... love you.
+
+243
+00:30:32,749 --> 00:30:35,544
+I'm glad we got that out of the way.
+
+244
+00:30:35,669 --> 00:30:38,714
+I'd like you to examine these
+as soon as possible.
+
+245
+00:30:38,797 --> 00:30:40,841
+They're from Osato's safe.
+
+246
+00:30:44,094 --> 00:30:46,305
+This is an order for naval stores.
+
+247
+00:30:46,430 --> 00:30:50,100
+500 kilos of butter, 50 containers of lox.
+
+248
+00:30:51,268 --> 00:30:53,020
+What is lox?
+
+249
+00:30:53,145 --> 00:30:55,856
+An American name for smoked salmon.
+
+250
+00:30:55,981 --> 00:30:59,067
+But it's also the technical name
+for liquid oxygen.
+
+251
+00:30:59,193 --> 00:31:01,236
+Which makes rocket fuel.
+
+252
+00:31:01,361 --> 00:31:03,405
+- Very interesting.
+- Yes.
+
+253
+00:31:03,530 --> 00:31:05,365
+We must go.
+
+254
+00:31:05,491 --> 00:31:08,535
+The journey out will be more dignified
+than the journey in.
+
+255
+00:31:08,702 --> 00:31:10,787
+That wouldn't be difficult.
+
+256
+00:31:10,913 --> 00:31:13,207
+I'd like that negative enlarged.
+
+257
+00:31:13,332 --> 00:31:15,334
+OK.
+
+258
+00:31:21,089 --> 00:31:22,799
+My private train.
+
+259
+00:31:22,925 --> 00:31:25,344
+I never travel in the streets of Tokyo.
+
+260
+00:31:25,469 --> 00:31:28,222
+In my position, it would be most unwise.
+
+261
+00:31:32,184 --> 00:31:33,852
+Very convenient.
+
+262
+00:31:33,977 --> 00:31:37,814
+I imagine that your Mr M in London
+has a similar arrangement.
+
+263
+00:31:37,940 --> 00:31:39,983
+M? Oh yes, but of course.
+
+264
+00:31:40,108 --> 00:31:43,111
+Then the girl in the white
+sports car's one of us.
+
+265
+00:31:43,237 --> 00:31:45,072
+- Aki? Yes.
+- Very competent.
+
+266
+00:31:45,197 --> 00:31:46,949
+- Domo arigato.
+- Dozo.
+
+267
+00:31:46,990 --> 00:31:50,786
+Do you like Japanese sake,
+or would you prefer vodka martini?
+
+268
+00:31:50,953 --> 00:31:52,788
+Oh, no. I like sake.
+
+269
+00:31:54,832 --> 00:31:58,043
+Especially when it's served
+at the correct temperature.
+
+270
+00:31:58,168 --> 00:32:00,212
+98.4° Fahrenheit, like this is.
+
+271
+00:32:00,337 --> 00:32:03,465
+For a European,
+you are exceptionally cultivated.
+
+272
+00:32:05,717 --> 00:32:08,595
+- We'll see the photograph you found.
+- Good.
+
+273
+00:32:14,810 --> 00:32:17,521
+A ship and a strip of land.
+It could be anywhere.
+
+274
+00:32:17,646 --> 00:32:19,606
+My men found a microdot on the paper.
+
+275
+00:32:19,731 --> 00:32:21,775
+Enlarge!
+
+276
+00:32:21,900 --> 00:32:27,447
+It says, 'Photograph taken by female
+American tourist from coastal vessel. '
+
+277
+00:32:27,573 --> 00:32:30,617
+'The woman has been liquidated
+as a routine precaution. '
+
+278
+00:32:30,742 --> 00:32:34,329
+- Can we see the photograph again?
+- Of course.
+
+279
+00:32:34,454 --> 00:32:37,791
+They killed an innocent tourist
+for taking this?
+
+280
+00:32:37,916 --> 00:32:40,127
+Can you make it bigger?
+
+281
+00:32:40,252 --> 00:32:42,045
+Ning-Po.
+
+282
+00:32:42,171 --> 00:32:45,215
+Check motor vessel Ning-Po. Full details.
+
+283
+00:32:45,340 --> 00:32:48,302
+All recent movements
+and present whereabouts.
+
+284
+00:32:49,428 --> 00:32:52,556
+- What's that on the left?
+- Focus on the left!
+
+285
+00:32:52,723 --> 00:32:55,184
+Ama. Diving girls.
+
+286
+00:32:55,309 --> 00:32:57,311
+Can you identify that coastline?
+
+287
+00:32:57,436 --> 00:32:59,479
+Given time, yes.
+
+288
+00:33:05,152 --> 00:33:08,030
+- Who is the head of Osato Chemicals?
+- Mr Osato.
+
+289
+00:33:08,155 --> 00:33:10,782
+Can you arrange an appointment
+with him tomorrow?
+
+290
+00:33:10,908 --> 00:33:12,242
+Of course.
+
+291
+00:33:12,409 --> 00:33:14,953
+But tonight, consider my house yours.
+
+292
+00:33:15,120 --> 00:33:18,290
+Including all of my possessions,
+naturally.
+
+293
+00:33:26,590 --> 00:33:29,593
+My friend, now you take
+your first civilised bath.
+
+294
+00:33:29,718 --> 00:33:32,262
+Really? Well, I like the plumbing.
+
+295
+00:33:32,387 --> 00:33:36,225
+Place yourself entirely in their hands,
+my dear Bond-san.
+
+296
+00:33:36,350 --> 00:33:39,645
+Rule number one...
+is never do anything for yourself
+
+297
+00:33:39,770 --> 00:33:41,897
+when someone else can do it for you.
+
+298
+00:33:42,022 --> 00:33:44,566
+- And number two?
+- Rule number two:
+
+299
+00:33:44,775 --> 00:33:48,529
+in Japan, men always come first.
+Women come second.
+
+300
+00:33:48,654 --> 00:33:50,864
+I might just retire to here.
+
+301
+00:33:56,119 --> 00:34:00,040
+Your English girls would never perform
+this simple service.
+
+302
+00:34:00,165 --> 00:34:02,501
+I know one or two
+who might get round to it.
+
+303
+00:34:02,626 --> 00:34:05,128
+Miss Moneypenny, perhaps?
+
+304
+00:34:05,295 --> 00:34:07,798
+We have our sources,
+Bond-san, just like you.
+
+305
+00:34:09,049 --> 00:34:11,760
+Don't get the soap in my eye, will you?
+
+306
+00:34:17,808 --> 00:34:21,103
+I suppose you know what it is about you
+that fascinates them.
+
+307
+00:34:21,228 --> 00:34:25,899
+It's the hair on your chest.
+Japanese men have beautiful bare skin.
+
+308
+00:34:26,024 --> 00:34:28,068
+Japanese proverb say,
+
+309
+00:34:28,193 --> 00:34:31,655
+'Bird never make nest in bare tree. '
+
+310
+00:34:36,702 --> 00:34:38,745
+If Henderson's theory is right,
+
+311
+00:34:38,871 --> 00:34:42,499
+why would a foreign power
+want to launch missiles from Japan?
+
+312
+00:34:42,624 --> 00:34:46,211
+Because if they were discovered,
+they could deny responsibility.
+
+313
+00:34:46,336 --> 00:34:49,506
+Especially if some private organisation's
+doing the work.
+
+314
+00:34:49,631 --> 00:34:51,675
+- Osato?
+- Perhaps.
+
+315
+00:34:51,800 --> 00:34:54,595
+Mr Osato is one of
+our greatest industrialists.
+
+316
+00:34:54,720 --> 00:34:56,471
+No, he's merely a front.
+
+317
+00:34:56,597 --> 00:34:59,558
+- Who is big enough?
+- SPECTRE.
+
+318
+00:34:59,683 --> 00:35:01,018
+Could be.
+
+319
+00:35:01,185 --> 00:35:03,979
+Now, massage. Which girl do you select?
+
+320
+00:35:09,401 --> 00:35:11,695
+I'll settle for this little old lady here.
+
+321
+00:35:11,820 --> 00:35:13,030
+Good choice.
+
+322
+00:35:13,155 --> 00:35:15,199
+She's very sexyful.
+
+323
+00:35:22,748 --> 00:35:26,668
+The last time someone gave me
+a massage was in Hong Kong.
+
+324
+00:35:28,295 --> 00:35:32,007
+But unfortunately...
+we had to cut it short.
+
+325
+00:35:32,132 --> 00:35:35,719
+We were rudely interrupted
+by a couple of gunmen.
+
+326
+00:35:36,595 --> 00:35:39,223
+So, we never got around to finishing it.
+
+327
+00:35:40,599 --> 00:35:42,809
+This time, you shall finish it.
+
+328
+00:35:45,979 --> 00:35:47,523
+Aki.
+
+329
+00:35:54,404 --> 00:35:56,865
+No one will disturb you tonight.
+
+330
+00:36:01,286 --> 00:36:04,915
+I think I will enjoy very much
+serving under you.
+
+331
+00:36:30,816 --> 00:36:32,317
+- Mr Fisher?
+- Yes.
+
+332
+00:36:32,442 --> 00:36:34,945
+- This way, please.
+- Thank you.
+
+333
+00:36:41,660 --> 00:36:43,704
+Please come in, Mr Fisher.
+
+334
+00:36:43,829 --> 00:36:46,623
+- Mr Osato is expecting you.
+- Thank you.
+
+335
+00:36:46,748 --> 00:36:48,792
+You are three and a half minutes early.
+
+336
+00:36:48,917 --> 00:36:50,961
+Please be seated.
+
+337
+00:38:17,172 --> 00:38:19,466
+- How do you do, Mr Fisher?
+- How do you do?
+
+338
+00:38:19,591 --> 00:38:22,636
+Miss Grant, my confidential secretary.
+
+339
+00:38:22,761 --> 00:38:24,763
+- Hello.
+- Hello.
+
+340
+00:38:24,888 --> 00:38:28,851
+- May we offer you some champagne?
+- No, thank you, it's too early for me.
+
+341
+00:38:28,976 --> 00:38:31,019
+- You're quite sure?
+- Quite sure.
+
+342
+00:38:31,186 --> 00:38:34,022
+I always take a glass in the morning.
+
+343
+00:38:34,189 --> 00:38:36,650
+- You should try it.
+- It's bad for your liver.
+
+344
+00:38:36,775 --> 00:38:40,863
+- Nonsense, it adds a sparkle to the day.
+- I'm sure it does.
+
+345
+00:38:46,994 --> 00:38:50,038
+A Dom Pérignon '59, Mr Fisher.
+
+346
+00:38:50,164 --> 00:38:53,917
+- Sure you won't change your mind?
+- Well, if you insist.
+
+347
+00:38:54,042 --> 00:38:57,129
+- Please be seated, Mr Fisher.
+- Thank you.
+
+348
+00:39:02,843 --> 00:39:04,970
+So, you are the new managing director
+
+349
+00:39:05,095 --> 00:39:06,889
+- of Empire Chemicals?
+- Yes.
+
+350
+00:39:07,014 --> 00:39:09,600
+- What happened to Williamson?
+- Williamson?
+
+351
+00:39:09,725 --> 00:39:12,436
+He died rather suddenly, poor chap.
+
+352
+00:39:12,519 --> 00:39:14,438
+Ah, so. From what?
+
+353
+00:39:14,563 --> 00:39:16,607
+He fell into a pulveriser at the works.
+
+354
+00:39:16,732 --> 00:39:18,775
+Ah, so.
+
+355
+00:39:18,901 --> 00:39:20,903
+How shocking.
+
+356
+00:39:21,778 --> 00:39:25,365
+- A very honourable death, all the same.
+- Very.
+
+357
+00:39:25,491 --> 00:39:27,701
+He gained great face with the company.
+
+358
+00:39:28,869 --> 00:39:32,456
+I hope you are not taking
+any risks yourself, Mr Fisher.
+
+359
+00:39:32,581 --> 00:39:34,917
+Me? I never take any risks.
+
+360
+00:39:35,042 --> 00:39:37,961
+You forgive me for saying so, but...
+
+361
+00:39:38,921 --> 00:39:40,964
+I think you are taking one now.
+
+362
+00:39:41,965 --> 00:39:42,925
+I am?
+
+363
+00:39:43,050 --> 00:39:45,177
+You should give up smoking.
+
+364
+00:39:45,302 --> 00:39:47,346
+Cigarettes are very bad for your chest.
+
+365
+00:39:47,471 --> 00:39:50,182
+Mr Osato believes in a healthy chest.
+
+366
+00:39:50,307 --> 00:39:52,059
+Really?
+
+367
+00:39:52,184 --> 00:39:55,229
+You must tell me what I can do for you.
+
+368
+00:39:55,354 --> 00:39:59,066
+We're interested in the bulk-buying
+of fermentation chemicals.
+
+369
+00:39:59,233 --> 00:40:02,236
+Monosodium glutamate
+and ascorbic acid.
+
+370
+00:40:02,361 --> 00:40:05,989
+- Would you like a manufacturing licence?
+- Yes, very much.
+
+371
+00:40:06,114 --> 00:40:10,244
+I'll have my sales manager
+get the quotations
+
+372
+00:40:10,369 --> 00:40:13,163
+and delivery dates for you
+as soon as possible.
+
+373
+00:40:13,288 --> 00:40:16,708
+We'll contact you later today
+at your hotel.
+
+374
+00:40:16,834 --> 00:40:19,837
+- Which hotel are you staying at?
+- The Hilton.
+
+375
+00:40:21,588 --> 00:40:23,423
+Goodbye, Mr Fisher.
+
+376
+00:40:23,549 --> 00:40:26,552
+- A pleasure to meet you.
+- A pleasure to meet you, too.
+
+377
+00:40:27,761 --> 00:40:30,514
+- Goodbye, Miss Brandt.
+- Goodbye, Mr Fisher.
+
+378
+00:40:34,685 --> 00:40:36,728
+Kill him.
+
+379
+00:40:53,370 --> 00:40:54,663
+Get down!
+
+380
+00:41:36,622 --> 00:41:39,833
+294 here. Tiger, immediate.
+
+381
+00:41:39,958 --> 00:41:42,044
+Come in, 294.
+
+382
+00:41:42,169 --> 00:41:47,299
+Zero-zero is with me. We are being
+chased by gunmen, in black sedan.
+
+383
+00:41:47,424 --> 00:41:49,510
+I'm heading south for Highway Two.
+
+384
+00:41:49,635 --> 00:41:51,678
+Arrange usual reception, please.
+
+385
+00:43:26,440 --> 00:43:30,277
+- How's that for Japanese efficiency?
+- Just a drop in the ocean.
+
+386
+00:43:32,404 --> 00:43:35,491
+- Zero-zero?
+- Yes, Tiger.
+
+387
+00:43:35,616 --> 00:43:37,826
+Ning-Po is owned by Osato Chemicals.
+
+388
+00:43:37,993 --> 00:43:41,830
+- That fits. Go on.
+- Vessel now loading in Kobe docks.
+
+389
+00:43:41,997 --> 00:43:45,250
+Sailing for Shanghai
+at 5pm this afternoon.
+
+390
+00:43:46,126 --> 00:43:49,755
+Suggest you proceed Kobe immediately
+to look her over.
+
+391
+00:43:49,880 --> 00:43:52,508
+- Can we make it?
+- Yes, just.
+
+392
+00:43:52,633 --> 00:43:54,843
+Proceeding immediately, Kobe docks.
+
+393
+00:43:54,134 --> 00:43:56,178
+Tiger, contact M.
+
+394
+00:43:58,347 --> 00:44:00,390
+Tell him to send Little Nellie.
+
+395
+00:44:00,098 --> 00:44:02,142
+Repeat, Little Nellie.
+
+396
+00:44:03,519 --> 00:44:05,854
+Suggest she be accompanied
+by her father.
+
+397
+00:44:06,396 --> 00:44:08,440
+Most urgent. Understood?
+
+398
+00:44:08,148 --> 00:44:09,733
+Understood.
+
+399
+00:44:35,634 --> 00:44:38,595
+Condensation: ice-cold. Liquid oxygen.
+
+400
+00:45:09,710 --> 00:45:11,795
+Get out of here. Contact Tanaka.
+
+401
+00:45:11,962 --> 00:45:14,006
+I'm not leaving you.
+
+402
+00:45:14,131 --> 00:45:17,759
+Tell him to keep that ship shadowed.
+
+403
+00:45:17,885 --> 00:45:19,720
+Go now.
+
+404
+00:46:48,517 --> 00:46:50,561
+Take him to Number 11.
+
+405
+00:46:53,188 --> 00:46:55,774
+- Wake him up.
+- Are you finished?
+
+406
+00:46:57,484 --> 00:46:59,486
+Where am I?
+
+407
+00:46:59,611 --> 00:47:01,655
+You're in my cabin on the Ning-Po.
+
+408
+00:47:01,780 --> 00:47:05,534
+Leave him to me now. Wait in there.
+And shut the door.
+
+409
+00:47:06,160 --> 00:47:07,870
+I've got you now.
+
+410
+00:47:07,995 --> 00:47:09,997
+Enjoy yourself.
+
+411
+00:47:12,040 --> 00:47:15,586
+- Who are you working for?
+- Empire Chemicals, you know that.
+
+412
+00:47:15,711 --> 00:47:19,173
+- Do all their people carry guns?
+- When they're abroad, yes.
+
+413
+00:47:19,339 --> 00:47:22,467
+And why were you
+snooping around the docks?
+
+414
+00:47:22,593 --> 00:47:25,554
+I like ships. And I used to be a sailor.
+
+415
+00:47:25,679 --> 00:47:27,347
+You are a liar.
+
+416
+00:47:33,478 --> 00:47:36,356
+- Do you know what this is?
+- I'd rather not.
+
+417
+00:47:36,482 --> 00:47:39,193
+Plastic surgeons call it a dermatome.
+
+418
+00:47:40,152 --> 00:47:42,279
+They use it to slice off skin.
+
+419
+00:47:45,741 --> 00:47:48,202
+I hope you won't force me to use it.
+
+420
+00:47:56,793 --> 00:48:00,172
+Now, what's a nice girl like you
+doing in a place like this?
+
+421
+00:48:10,098 --> 00:48:12,351
+I have a confession to make.
+
+422
+00:48:12,476 --> 00:48:14,186
+What?
+
+423
+00:48:14,311 --> 00:48:16,855
+Actually, I'm a spy.
+
+424
+00:48:16,980 --> 00:48:19,024
+I know that.
+
+425
+00:48:24,321 --> 00:48:27,783
+I suppose you know that
+industrial secrets are big business?
+
+426
+00:48:29,743 --> 00:48:34,873
+I've stolen Osato's new process
+for making monosodium glutamate.
+
+427
+00:48:35,040 --> 00:48:36,291
+And...
+
+428
+00:48:36,416 --> 00:48:38,585
+Well, it's worth
+
+429
+00:48:38,710 --> 00:48:40,879
+$300,000.
+
+430
+00:48:41,630 --> 00:48:42,798
+So?
+
+431
+00:48:42,965 --> 00:48:47,261
+I'll split it with you if you'll get me
+out of here and back to Tokyo.
+
+432
+00:48:47,344 --> 00:48:49,471
+That's a nice offer.
+
+433
+00:48:49,596 --> 00:48:53,475
+- How about it?
+- I'm afraid not.
+
+434
+00:48:53,600 --> 00:48:55,269
+Why?
+
+435
+00:49:00,649 --> 00:49:02,693
+Osato would kill me.
+
+436
+00:49:06,738 --> 00:49:09,825
+We could fly to Europe tomorrow,
+you and I.
+
+437
+00:49:35,142 --> 00:49:37,311
+The things I do for England.
+
+438
+00:49:48,572 --> 00:49:54,745
+Now, you are going to need some
+very close... protection tonight in Tokyo
+
+439
+00:49:54,912 --> 00:49:58,332
+because... well, that's when
+they'll try and get at you.
+
+440
+00:49:58,457 --> 00:50:00,501
+You'll need the best man we've got.
+
+441
+00:50:00,626 --> 00:50:02,669
+And who do you suggest?
+
+442
+00:50:03,295 --> 00:50:04,630
+Well,
+
+443
+00:50:04,755 --> 00:50:05,964
+me.
+
+444
+00:50:06,173 --> 00:50:09,301
+I'm afraid I have another appointment
+tonight, Mr Fisher.
+
+445
+00:50:11,428 --> 00:50:14,515
+I'm awfully sorry to leave you...
+but I have to get off.
+
+446
+00:51:12,281 --> 00:51:16,076
+Chasing girls will be the end of you,
+Bond-san, I have told you before.
+
+447
+00:51:16,243 --> 00:51:18,912
+He didn't chase her.
+He did it so I could get away.
+
+448
+00:51:19,037 --> 00:51:21,206
+He wouldn't touch that horrible girl.
+
+449
+00:51:21,373 --> 00:51:23,417
+- Would you?
+- Heaven forbid.
+
+450
+00:51:23,542 --> 00:51:25,335
+Any progress?
+
+451
+00:51:25,460 --> 00:51:28,380
+Yes. We identified
+the coastline in the photograph.
+
+452
+00:51:28,505 --> 00:51:33,177
+It is an island called Matsu, on the direct
+route between Kobe and Shanghai.
+
+453
+00:51:33,302 --> 00:51:35,512
+We shadowed the Ning-Po in a helicopter.
+
+454
+00:51:35,679 --> 00:51:37,848
+- Did it stop at the island?
+- I think so.
+
+455
+00:51:37,973 --> 00:51:41,393
+It was a very dark night.
+Impossible to see her all the time.
+
+456
+00:51:41,518 --> 00:51:44,313
+But we know she stopped somewhere.
+Look at these.
+
+457
+00:51:44,438 --> 00:51:46,648
+That one we took last night.
+
+458
+00:51:48,317 --> 00:51:51,069
+And that one, early this morning.
+
+459
+00:51:52,029 --> 00:51:55,199
+- Notice, please, the water line.
+- You're right.
+
+460
+00:51:55,324 --> 00:51:57,659
+Fully laden here and empty here.
+
+461
+00:51:58,660 --> 00:52:00,913
+I want to take a fast look
+at the island now.
+
+462
+00:52:01,038 --> 00:52:04,583
+- Has Little Nellie arrived yet?
+- Yes, and her father.
+
+463
+00:52:06,585 --> 00:52:09,713
+Ah, welcome to Japan, Dad.
+Is my little girl hot and ready?
+
+464
+00:52:09,838 --> 00:52:13,800
+Look, 007, I've had a long and tiring
+journey, probably to no purpose.
+
+465
+00:52:13,926 --> 00:52:16,345
+I'm in no mood for your juvenile quips.
+
+466
+00:52:33,904 --> 00:52:35,948
+I have much curiosity, Bond-san.
+
+467
+00:52:36,073 --> 00:52:37,825
+What is Little Nellie?
+
+468
+00:52:37,950 --> 00:52:41,537
+She's a wonderful girl.
+Very small, quite fast.
+
+469
+00:52:41,662 --> 00:52:43,914
+Can do anything. Just your type.
+
+470
+00:52:44,039 --> 00:52:46,041
+A toy helicopter?
+
+471
+00:52:46,166 --> 00:52:49,753
+No, it's certainly not a toy! You'll see.
+
+472
+00:52:49,878 --> 00:52:52,714
+We've made some improvements
+since you used her last.
+
+473
+00:52:52,881 --> 00:52:56,677
+- I'll give you the drill.
+- This is only for children. Don't use it!
+
+474
+00:52:56,802 --> 00:52:58,846
+Take my helicopter instead.
+
+475
+00:52:59,096 --> 00:53:01,139
+Right. Now pay attention.
+
+476
+00:53:01,265 --> 00:53:03,892
+- Two machine guns, fixed.
+- Synchronised to what?
+
+477
+00:53:03,976 --> 00:53:07,020
+100 yards, using incendiaries
+and high explosives.
+
+478
+00:53:07,187 --> 00:53:09,189
+Two rocket launchers,
+
+479
+00:53:09,314 --> 00:53:11,900
+- forward-firing on either side.
+- Fine.
+
+480
+00:53:12,025 --> 00:53:16,446
+Now, these fire heat-seeking
+air-to-air missiles. 60 a minute.
+
+481
+00:53:16,572 --> 00:53:17,781
+Good.
+
+482
+00:53:17,948 --> 00:53:20,576
+Flame guns. Two of 'em. Firing astern.
+
+483
+00:53:20,701 --> 00:53:24,246
+- What range?
+- 80 yards. Two smoke ejectors next door.
+
+484
+00:53:25,914 --> 00:53:28,250
+Aerial mines. Now remember,
+
+485
+00:53:28,375 --> 00:53:30,878
+use them only
+when directly above target.
+
+486
+00:53:31,003 --> 00:53:34,339
+- That's about the lot. You know the rest.
+- Yes.
+
+487
+00:53:35,215 --> 00:53:37,009
+Cine camera.
+
+488
+00:53:37,134 --> 00:53:40,429
+- Tanaka, listen in on 410 megacycles.
+- Good luck!
+
+489
+00:53:40,554 --> 00:53:42,973
+I'll contact you when I get over the island.
+
+490
+00:53:43,098 --> 00:53:45,184
+Be careful, Bond-san!
+
+491
+00:54:45,911 --> 00:54:48,038
+Hello, Base One.
+
+492
+00:54:48,163 --> 00:54:51,625
+I'm over the island and the fishing village.
+Nothing to report.
+
+493
+00:54:51,750 --> 00:54:53,585
+We'll keep listening.
+
+494
+00:55:21,864 --> 00:55:25,367
+Hello, Base One.
+There's nothing here but volcanoes.
+
+495
+00:55:25,492 --> 00:55:28,495
+Understood. Carry on.
+
+496
+00:58:24,880 --> 00:58:26,965
+- Hello, Base One.
+- Listening.
+
+497
+00:58:27,090 --> 00:58:29,134
+Little Nellie got a hot reception.
+
+498
+00:58:29,301 --> 00:58:31,637
+Four big-shots made
+improper advances,
+
+499
+00:58:31,762 --> 00:58:34,640
+but she defended her honour
+with great success.
+
+500
+00:58:34,765 --> 00:58:36,934
+- Heading for home.
+- Do not come home.
+
+501
+00:58:37,059 --> 00:58:39,102
+Russian space shot imminent.
+
+502
+00:58:39,228 --> 00:58:42,231
+Proceed vector4-6 degrees
+and await instructions.
+
+503
+00:58:42,356 --> 00:58:44,358
+- Understood?
+- Roger and out.
+
+504
+01:01:59,887 --> 01:02:02,931
+Clear the area. Clear the area.
+
+505
+01:02:13,066 --> 01:02:15,152
+Prepare for reception.
+
+506
+01:02:16,528 --> 01:02:18,572
+Prepare for reception.
+
+507
+01:02:19,364 --> 01:02:22,159
+Radar blackout is now complete.
+
+508
+01:02:23,285 --> 01:02:26,205
+Radar blackout is now complete.
+
+509
+01:02:43,805 --> 01:02:46,475
+Moscow radio's already saying we did it.
+
+510
+01:02:46,600 --> 01:02:49,394
+The president's called
+a press conference for 2pm.
+
+511
+01:02:49,520 --> 01:02:51,855
+He'll deny emphatically we were involved.
+
+512
+01:02:51,980 --> 01:02:53,982
+- But can we prove it?
+- Of course not.
+
+513
+01:02:54,107 --> 01:02:56,318
+No one will believe the Russians did it.
+
+514
+01:02:56,443 --> 01:02:59,738
+Now they'll use the excuse
+to shoot down our next Jupiter.
+
+515
+01:02:59,863 --> 01:03:04,284
+Houston to Washington. We followed him
+for one orbit, now he's off the screen.
+
+516
+01:03:04,451 --> 01:03:06,495
+That means he's coming down.
+
+517
+01:03:06,620 --> 01:03:10,541
+- Yeah, but where?
+- Some place in Russia. It has to be.
+
+518
+01:03:11,250 --> 01:03:14,378
+The British theory about Japan
+is nonsense.
+
+519
+01:03:14,503 --> 01:03:16,547
+- Forget Japan.
+- I agree.
+
+520
+01:03:16,713 --> 01:03:20,092
+We've re-photographed
+every square inch.
+
+521
+01:03:55,085 --> 01:03:57,880
+Ventilator fans to full power.
+
+522
+01:03:58,005 --> 01:04:00,090
+Open all air ducts.
+
+523
+01:04:00,215 --> 01:04:02,217
+Area safe to enter.
+
+524
+01:04:02,342 --> 01:04:04,386
+All crews to stations.
+
+525
+01:04:04,511 --> 01:04:06,763
+All air ducts to normal.
+
+526
+01:04:08,557 --> 01:04:10,601
+Air ducts opened.
+
+527
+01:04:10,767 --> 01:04:12,895
+- Close crater.
+- Closing crater.
+
+528
+01:04:13,937 --> 01:04:15,939
+Fire guards to station.
+
+529
+01:04:27,201 --> 01:04:30,370
+Ventilator fans to normal. Open shutters.
+
+530
+01:04:32,956 --> 01:04:35,000
+Reception complete.
+
+531
+01:04:37,252 --> 01:04:39,588
+Withdraw captive spaceship.
+
+532
+01:04:42,841 --> 01:04:44,843
+Guards to stations.
+
+533
+01:05:15,123 --> 01:05:18,293
+Remove the prisoners.
+
+534
+01:05:40,190 --> 01:05:42,734
+I shall be in my apartment.
+
+535
+01:05:43,777 --> 01:05:46,029
+I may send for you later.
+
+536
+01:06:13,974 --> 01:06:17,644
+I must congratulate you, gentlemen,
+upon your superb equipment.
+
+537
+01:06:17,769 --> 01:06:20,689
+We congratulate you, sir,
+upon the way you handle it.
+
+538
+01:06:20,814 --> 01:06:24,067
+Our clients are satisfied
+with the progress so far?
+
+539
+01:06:24,276 --> 01:06:27,696
+- My government is quite satisfied.
+- Good.
+
+540
+01:06:27,821 --> 01:06:29,364
+Hans!
+
+541
+01:06:34,036 --> 01:06:37,664
+You will see that my piranha fish
+get very hungry.
+
+542
+01:06:38,582 --> 01:06:42,544
+They can strip a man to the bone
+in 30 seconds.
+
+543
+01:06:54,181 --> 01:06:57,601
+I have decided to ask for
+a little money in advance.
+
+544
+01:06:57,726 --> 01:07:02,022
+I want the sum of 100 million dollars,
+in gold bullion,
+
+545
+01:07:02,147 --> 01:07:04,775
+deposited in our account in Buenos Aires.
+
+546
+01:07:04,900 --> 01:07:07,402
+Our agreement states
+no money should be paid
+
+547
+01:07:07,528 --> 01:07:11,031
+until war has broken out
+between Russia and the United States.
+
+548
+01:07:11,198 --> 01:07:15,327
+- This is extortion.
+- Extortion is my business.
+
+549
+01:07:15,452 --> 01:07:17,913
+Go and think it over, gentlemen. I'm busy.
+
+550
+01:07:18,914 --> 01:07:22,084
+Osato and Number 11, report now.
+
+551
+01:07:36,974 --> 01:07:40,144
+An unknown Englishman
+was in your office the other day.
+
+552
+01:07:40,269 --> 01:07:42,146
+Correct, Number One.
+
+553
+01:07:42,271 --> 01:07:45,232
+- Do you know what gun this is?
+- Walther PPK.
+
+554
+01:07:46,233 --> 01:07:49,486
+Only one person we know
+uses this sort of gun.
+
+555
+01:07:50,571 --> 01:07:52,781
+James Bond.
+
+556
+01:07:53,323 --> 01:07:56,493
+- But Bond is dead.
+- It was in all the newspapers.
+
+557
+01:07:56,618 --> 01:07:57,911
+Rubbish.
+
+558
+01:07:58,078 --> 01:08:00,080
+Bond is alive.
+
+559
+01:08:00,205 --> 01:08:02,583
+Unless you killed him, Mr Osato?
+
+560
+01:08:03,834 --> 01:08:05,878
+Don't tell me you let him go.
+
+561
+01:08:06,336 --> 01:08:09,506
+I gave Number 11
+the strictest orders to eliminate him.
+
+562
+01:08:09,631 --> 01:08:11,466
+And did she?
+
+563
+01:08:11,592 --> 01:08:13,719
+She failed.
+
+564
+01:08:13,844 --> 01:08:17,139
+You should have killed him.
+You had plenty of opportunity.
+
+565
+01:08:17,264 --> 01:08:20,100
+This organisation
+does not tolerate failure.
+
+566
+01:08:20,225 --> 01:08:23,103
+- I know, but you see, I...
+- Go!
+
+567
+01:08:25,355 --> 01:08:26,732
+Well?
+
+568
+01:08:35,407 --> 01:08:37,826
+Osato!
+
+569
+01:08:47,085 --> 01:08:49,505
+Kill Bond! Now!
+
+570
+01:08:50,172 --> 01:08:52,674
+Yes, Number One. Yes. Yes, yes.
+
+571
+01:09:32,923 --> 01:09:35,551
+- Hello.
+- Bad news from outer space.
+
+572
+01:09:35,676 --> 01:09:39,346
+Yes, I heard it. Now the Russians
+are accusing the Americans.
+
+573
+01:09:39,471 --> 01:09:41,557
+Next time it will be war.
+
+574
+01:09:41,682 --> 01:09:44,601
+- We'll have to get down to the volcanoes.
+- I agree.
+
+575
+01:09:44,685 --> 01:09:47,771
+We'll also need
+a company of first-rate men.
+
+576
+01:09:47,896 --> 01:09:50,107
+Do you have any commandos here?
+
+577
+01:09:50,232 --> 01:09:52,276
+I have much, much better.
+
+578
+01:09:52,776 --> 01:09:55,154
+Ninjas. Top-secret, Bond-san.
+
+579
+01:09:56,071 --> 01:09:58,073
+This is my ninja training school.
+
+580
+01:10:04,955 --> 01:10:08,333
+- Ninjas?
+- The art of concealment and surprise.
+
+581
+01:10:44,328 --> 01:10:46,747
+This must develop
+very fast reflex actions.
+
+582
+01:10:46,872 --> 01:10:48,624
+And spiritual strength.
+
+583
+01:11:21,573 --> 01:11:24,576
+Now, we will see some modern ninjas.
+
+584
+01:11:28,163 --> 01:11:30,207
+My plan is this.
+
+585
+01:11:30,332 --> 01:11:32,376
+I make a base on the Ama island.
+
+586
+01:11:32,459 --> 01:11:34,878
+100 of my ninjas will slide in unseen.
+
+587
+01:11:35,629 --> 01:11:37,965
+They will be workers and fishermen.
+
+588
+01:11:38,090 --> 01:11:40,217
+- What about me?
+- Later.
+
+589
+01:11:40,342 --> 01:11:43,762
+But for the moment,
+these will interest you. Rocket guns.
+
+590
+01:11:43,887 --> 01:11:45,556
+Very powerful.
+
+591
+01:11:45,681 --> 01:11:48,142
+See the holes in the back
+for jet propulsion.
+
+592
+01:11:51,728 --> 01:11:54,356
+- It's a fine gun.
+- All rocket guns.
+
+593
+01:11:56,066 --> 01:11:58,193
+This is our special baby rocket.
+
+594
+01:11:59,611 --> 01:12:02,990
+Very useful for people who smoke
+too many cigarettes, like you.
+
+595
+01:12:10,247 --> 01:12:13,167
+- Accurate up to 30 yards.
+- Very neat.
+
+596
+01:12:13,292 --> 01:12:16,753
+- It can save your life.
+- You sound like a commercial.
+
+597
+01:12:18,338 --> 01:12:21,758
+- What's the plan for me?
+- First, you become a Japanese.
+
+598
+01:12:21,884 --> 01:12:24,261
+Second, you train hard and quickly
+
+599
+01:12:24,386 --> 01:12:26,805
+to become a ninja like us.
+
+600
+01:12:27,389 --> 01:12:30,851
+And third, to give you extra-special cover,
+
+601
+01:12:30,976 --> 01:12:33,020
+you take a wife.
+
+602
+01:12:41,653 --> 01:12:43,572
+Regretfully impossible.
+
+603
+01:12:43,655 --> 01:12:45,491
+You must marry Ama girl.
+
+604
+01:12:45,657 --> 01:12:47,701
+One who is known on the island.
+
+605
+01:12:47,826 --> 01:12:51,163
+- Is she pretty?
+- She has a face like a pig.
+
+606
+01:12:51,288 --> 01:12:54,750
+- To hell with that idea.
+- But this is duty.
+
+607
+01:12:56,835 --> 01:12:59,379
+The girl I have chosen
+is an agent of mine.
+
+608
+01:12:59,505 --> 01:13:01,965
+But first, you must become Japanese.
+
+609
+01:13:07,179 --> 01:13:10,015
+Eyepieces to Hera.
+
+610
+01:13:15,687 --> 01:13:17,981
+Why don't you just
+dye the parts that show?
+
+611
+01:13:27,908 --> 01:13:31,411
+- Konbanwa.
+- Konbanwa.
+
+612
+01:13:37,209 --> 01:13:39,837
+Tiger said, from now on,
+
+613
+01:13:39,962 --> 01:13:42,881
+you must do everything Japanese-style.
+
+614
+01:13:43,048 --> 01:13:45,050
+Everything?
+
+615
+01:13:45,175 --> 01:13:47,219
+Good for Tiger.
+
+616
+01:15:51,844 --> 01:15:53,387
+I'm...
+
+617
+01:15:55,806 --> 01:15:58,142
+I... I...
+
+618
+01:15:58,267 --> 01:15:59,309
+Aki!
+
+619
+01:15:59,434 --> 01:16:01,520
+I'm...
+
+620
+01:16:10,112 --> 01:16:12,156
+She's dead.
+
+621
+01:16:13,240 --> 01:16:15,284
+Poisoned.
+
+622
+01:16:18,871 --> 01:16:21,081
+Tiger, we must get to that island.
+
+623
+01:16:21,248 --> 01:16:24,459
+You're almost ready.
+Just two more days' training.
+
+624
+01:17:05,542 --> 01:17:08,837
+- You killed him.
+- Yeah, he tried to kill me.
+
+625
+01:17:12,341 --> 01:17:14,384
+This man is a stranger from outside.
+
+626
+01:17:16,345 --> 01:17:18,555
+It's lucky we're getting out of here.
+
+627
+01:17:18,722 --> 01:17:22,518
+Tomorrow you will be a poor Japanese
+worker, with humble Japanese wife.
+
+628
+01:17:22,684 --> 01:17:24,728
+Yeah, with a face like a pig.
+
+629
+01:20:57,274 --> 01:20:59,318
+My men are already ashore.
+
+630
+01:20:59,443 --> 01:21:01,487
+All over the island.
+
+631
+01:21:01,612 --> 01:21:05,365
+We have four days left.
+It is not much time.
+
+632
+01:22:06,802 --> 01:22:08,846
+This is my house.
+
+633
+01:22:13,100 --> 01:22:15,644
+My friend has made us some food.
+
+634
+01:22:17,729 --> 01:22:19,731
+Do you live here alone?
+
+635
+01:22:19,857 --> 01:22:22,484
+Yes. My parents are dead.
+
+636
+01:22:22,609 --> 01:22:24,653
+Sit down, please.
+
+637
+01:22:26,822 --> 01:22:28,407
+Oysters.
+
+638
+01:22:28,532 --> 01:22:31,160
+Is this the only room there is?
+
+639
+01:22:31,285 --> 01:22:32,995
+Yes.
+
+640
+01:22:33,203 --> 01:22:35,164
+That is your bed.
+
+641
+01:22:35,330 --> 01:22:37,374
+I shall sleep over there.
+
+642
+01:22:39,001 --> 01:22:42,129
+- We're supposed to be married.
+- Think again, please.
+
+643
+01:22:42,254 --> 01:22:44,298
+You gave false name to priest.
+
+644
+01:22:44,423 --> 01:22:47,634
+But we must keep up appearances!
+We're on our honeymoon.
+
+645
+01:22:47,759 --> 01:22:50,220
+No honeymoon. This is business.
+
+646
+01:22:54,850 --> 01:22:57,102
+I won't need these.
+
+647
+01:23:26,590 --> 01:23:29,092
+- Bond-san.
+- What's wrong?
+
+648
+01:23:29,843 --> 01:23:32,638
+The Americans have changed
+the launching date.
+
+649
+01:23:32,763 --> 01:23:34,807
+The countdown has already started.
+
+650
+01:23:34,932 --> 01:23:38,018
+The president has given
+a last warning to the Russians.
+
+651
+01:23:38,143 --> 01:23:40,771
+- When does it go up?
+- Tonight, midnight. Our time.
+
+652
+01:23:40,896 --> 01:23:44,608
+- Did your men search the island?
+- Yes. There is nothing but volcanoes.
+
+653
+01:23:44,733 --> 01:23:46,777
+Everything is so normal around here.
+
+654
+01:23:46,902 --> 01:23:49,196
+- Nothing happens.
+- One thing has happened.
+
+655
+01:23:49,321 --> 01:23:52,407
+Yesterday an Ama girl
+rowed her boat into Ryuzaki.
+
+656
+01:23:52,533 --> 01:23:55,202
+- Ryuzaki?
+- It is a big cave on the mainland.
+
+657
+01:23:55,327 --> 01:23:57,663
+And when her boat floated out again,
+
+658
+01:23:57,830 --> 01:23:59,623
+she was dead.
+
+659
+01:24:01,667 --> 01:24:04,711
+- Was that the funeral we saw yesterday?
+- Yes.
+
+660
+01:24:04,837 --> 01:24:07,214
+- How did she die?
+- Nobody knows.
+
+661
+01:24:09,007 --> 01:24:11,009
+- Can you take me to this cave?
+- Yes.
+
+662
+01:24:11,176 --> 01:24:12,886
+We'll slip away from the fishing fleet
+in the morning.
+
+663
+01:24:55,345 --> 01:24:57,181
+All right?
+
+664
+01:24:57,306 --> 01:24:59,349
+Now, where is this cave?
+
+665
+01:24:59,475 --> 01:25:01,518
+It's straight across.
+
+666
+01:25:01,643 --> 01:25:03,645
+The cave is over there.
+
+667
+01:25:32,424 --> 01:25:34,510
+Gas. Get over the side.
+
+668
+01:25:34,676 --> 01:25:36,011
+Quick!
+
+669
+01:26:00,911 --> 01:26:04,081
+Phosgene gas, to keep the visitors away.
+
+670
+01:26:04,790 --> 01:26:07,042
+Did you notice the sulphur on the walls?
+
+671
+01:26:07,167 --> 01:26:09,211
+- The yellow?
+- Yes.
+
+672
+01:26:09,378 --> 01:26:12,631
+It was once an underground outlet
+for the volcanic lava.
+
+673
+01:26:12,756 --> 01:26:16,468
+- There must be a long tunnel.
+- Miles of it.
+
+674
+01:26:16,593 --> 01:26:18,887
+It leads all the way,
+
+675
+01:26:19,012 --> 01:26:20,556
+right up to the top.
+
+676
+01:26:20,681 --> 01:26:22,975
+That's where we have to go.
+Can you make it?
+
+677
+01:26:23,100 --> 01:26:25,769
+Of course. It's business.
+
+678
+01:26:25,894 --> 01:26:27,229
+Good.
+
+679
+01:26:47,082 --> 01:26:49,084
+May I rest a moment?
+
+680
+01:26:49,209 --> 01:26:51,253
+Surely.
+
+681
+01:26:54,548 --> 01:26:56,550
+It's hard work.
+
+682
+01:26:58,135 --> 01:26:59,761
+Some honeymoon!
+
+683
+01:27:27,915 --> 01:27:31,168
+It's going down! Into the volcano!
+
+684
+01:27:36,131 --> 01:27:38,383
+Heliport to position.
+
+685
+01:27:40,719 --> 01:27:43,096
+The honeymoon's over. Come on.
+
+686
+01:28:18,715 --> 01:28:21,343
+This volcano isn't active, is it?
+
+687
+01:28:21,510 --> 01:28:23,846
+It never has been. Not in my lifetime.
+
+688
+01:28:23,971 --> 01:28:27,141
+There's been some
+terrific heat here recently.
+
+689
+01:28:27,266 --> 01:28:29,351
+What happened to the helicopter?
+
+690
+01:28:29,476 --> 01:28:31,478
+It's down there somewhere.
+
+691
+01:28:32,396 --> 01:28:34,439
+Come on.
+
+692
+01:28:36,567 --> 01:28:38,569
+Stand by. Mark.
+
+693
+01:28:38,694 --> 01:28:40,863
+Stand by for ten-second countdown.
+
+694
+01:28:41,029 --> 01:28:42,823
+10, 9, 8...
+
+695
+01:28:42,948 --> 01:28:45,659
+All units worldwide
+will remain at readiness
+
+696
+01:28:45,784 --> 01:28:48,036
+so long as the spacecraft is in orbit.
+
+697
+01:28:48,203 --> 01:28:50,289
+.. 3, 2, 1.
+
+698
+01:28:52,207 --> 01:28:54,209
+Ignition.
+
+699
+01:29:04,761 --> 01:29:08,056
+This is it, gentlemen.
+All we can do now is wait and pray.
+
+700
+01:29:29,286 --> 01:29:31,163
+Is that deep?
+
+701
+01:29:31,288 --> 01:29:33,332
+They usually are - very.
+
+702
+01:29:38,003 --> 01:29:39,922
+It's metal!
+
+703
+01:29:40,047 --> 01:29:42,090
+Wait here.
+
+704
+01:29:56,438 --> 01:29:59,066
+Heliport to takeoff position.
+
+705
+01:30:05,572 --> 01:30:07,241
+Open crater.
+
+706
+01:30:25,968 --> 01:30:27,886
+Emergency crews to stations.
+
+707
+01:30:29,012 --> 01:30:32,099
+Go to Tanaka.
+Tell him to come with every man he's got.
+
+708
+01:30:32,266 --> 01:30:33,433
+Yes.
+
+709
+01:31:06,800 --> 01:31:09,511
+Heliport to standby position.
+
+710
+01:31:51,845 --> 01:31:54,348
+Astronauts to dressing rooms.
+
+711
+01:31:55,224 --> 01:31:57,226
+Astronauts to dressing rooms.
+
+712
+01:32:07,694 --> 01:32:09,488
+Attention, attention.
+
+713
+01:32:09,613 --> 01:32:13,075
+American target vehicle is now in orbit.
+
+714
+01:32:13,992 --> 01:32:17,162
+Interception will take place
+in two hours' time.
+
+715
+01:32:32,136 --> 01:32:34,179
+Washington, this is Houston.
+
+716
+01:32:34,304 --> 01:32:36,306
+Houston to Washington.
+
+717
+01:32:37,015 --> 01:32:40,853
+Our vehicle is now
+120 nautical miles altitude,
+
+718
+01:32:41,520 --> 01:32:44,314
+170 miles downrange.
+
+719
+01:32:47,526 --> 01:32:50,737
+Jupiter to Houston,
+we now have second phase.
+
+720
+01:32:50,904 --> 01:32:52,865
+Roger, Jupiter.
+
+721
+01:32:53,031 --> 01:32:56,034
+Four hours 36 minutes into the mission.
+
+722
+01:32:56,160 --> 01:32:58,829
+- Can you give us a time?
+- Roger.
+
+723
+01:33:02,541 --> 01:33:04,543
+Connect igniter cable.
+
+724
+01:33:06,003 --> 01:33:08,255
+Connect igniter cable.
+
+725
+01:33:34,573 --> 01:33:37,409
+Radar technicians, report to control room.
+
+726
+01:33:38,535 --> 01:33:41,705
+Radar technicians, report to control room.
+
+727
+01:34:00,808 --> 01:34:03,769
+T minus 100 minutes and counting.
+
+728
+01:34:05,020 --> 01:34:08,023
+Did you volunteer for astronaut training?
+
+729
+01:34:08,148 --> 01:34:11,401
+In our country, we say cosmonaut.
+Yes, both of us...
+
+730
+01:34:13,904 --> 01:34:16,698
+Yes, since six months we started training.
+
+731
+01:34:17,741 --> 01:34:19,701
+Good evening.
+
+732
+01:34:19,827 --> 01:34:21,703
+Who the hell are you?
+
+733
+01:34:21,829 --> 01:34:24,248
+Stand back, I'm gonna blow the lock.
+
+734
+01:34:31,588 --> 01:34:33,715
+Stand back.
+
+735
+01:34:43,267 --> 01:34:45,310
+Get into their uniforms.
+
+736
+01:35:47,706 --> 01:35:50,000
+Astronauts have two minutes.
+
+737
+01:35:50,125 --> 01:35:52,169
+Repeat, two minutes.
+
+738
+01:35:59,009 --> 01:36:02,054
+Reserve astronaut to stand by.
+
+739
+01:36:04,723 --> 01:36:07,810
+- Lock on target.
+- Lock on target vehicle.
+
+740
+01:36:07,893 --> 01:36:10,145
+Check secondary guidance.
+
+741
+01:36:10,270 --> 01:36:14,858
+Launch time is now
+T minus 90 minutes and counting.
+
+742
+01:36:15,025 --> 01:36:17,444
+Astronauts to launching pad.
+
+743
+01:36:17,569 --> 01:36:19,738
+Astronauts to launching pad.
+
+744
+01:36:20,864 --> 01:36:24,660
+Repeat, astronauts
+to launching pad immediately.
+
+745
+01:37:03,824 --> 01:37:06,743
+Crews, stand by on gantry.
+
+746
+01:37:07,786 --> 01:37:09,663
+Crews, stand by on gantry.
+
+747
+01:37:44,323 --> 01:37:48,243
+- Stop that astronaut. Bring him to me.
+- Stop that astronaut!
+
+748
+01:37:48,410 --> 01:37:51,872
+- Summon the reserve astronaut!
+- Reserve astronaut!
+
+749
+01:37:51,997 --> 01:37:55,793
+Reserve astronaut
+to launching pad, immediately.
+
+750
+01:38:04,718 --> 01:38:07,596
+Re-coordinate with target vehicle.
+
+751
+01:38:07,721 --> 01:38:09,014
+A new update
+
+752
+01:38:09,139 --> 01:38:13,644
+with target vehicle
+has been received from computers.
+
+753
+01:38:15,187 --> 01:38:19,358
+We now have T minus seven minutes
+and counting.
+
+754
+01:38:19,483 --> 01:38:21,985
+You made a mistake, my friend.
+
+755
+01:38:22,152 --> 01:38:25,322
+No astronaut enters the capsule
+with his air conditioner.
+
+756
+01:38:25,447 --> 01:38:27,157
+Remove his helmet!
+
+757
+01:38:32,788 --> 01:38:34,832
+James Bond.
+
+758
+01:38:36,083 --> 01:38:38,752
+Allow me to introduce myself.
+
+759
+01:38:40,212 --> 01:38:43,173
+I am Ernst Stavro Blofeld.
+
+760
+01:38:44,341 --> 01:38:47,219
+They told me
+you were assassinated in Hong Kong.
+
+761
+01:38:47,928 --> 01:38:49,972
+Yes, this is my second life.
+
+762
+01:38:52,099 --> 01:38:54,309
+You only live twice, Mr Bond.
+
+763
+01:38:54,434 --> 01:38:57,104
+Target vehicle
+passing over central Russia.
+
+764
+01:38:57,229 --> 01:38:59,356
+Approaching Mongolia.
+
+765
+01:38:59,481 --> 01:39:02,192
+Track is as predicted. All computers...
+
+766
+01:39:02,317 --> 01:39:05,654
+As you see,
+I am about to inaugurate a little war.
+
+767
+01:39:05,779 --> 01:39:10,325
+In a matter of hours, when America
+and Russia have annihilated each other,
+
+768
+01:39:10,450 --> 01:39:13,203
+we shall see a new power
+dominating the world.
+
+769
+01:39:13,328 --> 01:39:17,583
+- Target vehicle on scope.
+- Brief check on target vehicle.
+
+770
+01:39:17,708 --> 01:39:20,335
+Remove his suit and search him.
+
+771
+01:39:20,461 --> 01:39:23,589
+Reserve astronaut ready on Bird 1.
+
+772
+01:39:33,348 --> 01:39:34,725
+Prepare for firing.
+
+773
+01:39:34,850 --> 01:39:36,894
+Clear the area.
+
+774
+01:39:37,936 --> 01:39:39,980
+Clear the area.
+
+775
+01:39:42,232 --> 01:39:44,735
+Emergency services to stand by.
+
+776
+01:39:45,736 --> 01:39:47,779
+Area now clear.
+
+777
+01:39:51,366 --> 01:39:54,995
+T minus one minute,
+30 seconds and counting.
+
+778
+01:39:55,621 --> 01:39:58,415
+Re-coordinate with target vehicle.
+
+779
+01:39:58,540 --> 01:40:00,626
+Bird 1 now in readiness.
+
+780
+01:40:01,376 --> 01:40:04,755
+Astronauts ready on Bird.
+All systems are go.
+
+781
+01:40:04,880 --> 01:40:07,966
+Close shutters.
+
+782
+01:40:09,051 --> 01:40:12,262
+- Radar blackout commence.
+- Radar blackout in operation.
+
+783
+01:40:15,724 --> 01:40:18,393
+Effective range, kilometres 800.
+
+784
+01:40:18,519 --> 01:40:21,480
+- Open crater.
+- Opening crater.
+
+785
+01:40:24,024 --> 01:40:26,068
+Crater opening.
+
+786
+01:40:26,193 --> 01:40:29,238
+Bird 1 to liftoff position.
+
+787
+01:40:47,339 --> 01:40:51,802
+Gimbal the engines.
+Pressurised tanks open.
+
+788
+01:40:51,927 --> 01:40:54,930
+Ventilator fans to full power.
+
+789
+01:40:55,097 --> 01:40:56,265
+10 seconds.
+
+790
+01:40:56,390 --> 01:40:58,267
+9, 8,
+
+791
+01:40:58,392 --> 01:41:00,060
+7, 6,
+
+792
+01:41:00,227 --> 01:41:02,187
+5, 4,
+
+793
+01:41:02,312 --> 01:41:04,231
+3, 2,
+
+794
+01:41:04,356 --> 01:41:06,275
+1, 0.
+
+795
+01:41:06,400 --> 01:41:08,694
+Ignition.
+
+796
+01:41:34,428 --> 01:41:36,263
+Close crater!
+
+797
+01:41:36,388 --> 01:41:38,390
+Closing crater.
+
+798
+01:41:41,310 --> 01:41:43,770
+Open shutters!
+
+799
+01:42:23,227 --> 01:42:25,479
+Bird 1 to base. Separation complete.
+
+800
+01:42:25,604 --> 01:42:27,898
+Confirm acquisition.
+
+801
+01:42:28,023 --> 01:42:30,234
+Calling Bird 1.
+
+802
+01:42:30,359 --> 01:42:33,821
+You are 70 nautical miles downrange.
+200 miles altitude.
+
+803
+01:42:33,987 --> 01:42:37,115
+Hans, our job will soon be done.
+
+804
+01:42:37,241 --> 01:42:41,662
+Blow them up as soon as they have
+captured the Americans. Here is the key
+
+805
+01:42:42,996 --> 01:42:45,332
+to operate the exploder button.
+
+806
+01:42:45,457 --> 01:42:47,668
+There are men in the crater!
+
+807
+01:42:49,336 --> 01:42:50,337
+Crater guns, fire.
+
+808
+01:42:51,338 --> 01:42:53,382
+Crater guns, open fire.
+
+809
+01:43:15,612 --> 01:43:17,823
+The firing power inside my crater
+
+810
+01:43:17,948 --> 01:43:20,242
+is enough to annihilate a small army.
+
+811
+01:43:21,076 --> 01:43:23,287
+You can watch it all on TV.
+
+812
+01:43:23,412 --> 01:43:26,498
+It's the last programme
+you're likely to see.
+
+813
+01:43:26,623 --> 01:43:30,127
+If I'm going to be forced
+to watch television, may I smoke?
+
+814
+01:43:31,336 --> 01:43:33,464
+Yes. Give him his cigarettes.
+
+815
+01:43:33,589 --> 01:43:37,134
+It won't be the nicotine
+that kills you, Mr Bond.
+
+816
+01:43:54,568 --> 01:43:57,112
+Armed guards to control room.
+
+817
+01:44:12,002 --> 01:44:14,296
+- Close the crater.
+- Close crater!
+
+818
+01:44:14,421 --> 01:44:18,008
+I shall look forward personally
+to exterminating you, Mr Bond.
+
+819
+01:45:15,357 --> 01:45:17,109
+Close the shutters.
+
+820
+01:45:25,576 --> 01:45:27,870
+We are now impregnable.
+
+821
+01:45:28,078 --> 01:45:31,874
+Interception takes place in eight minutes.
+Nothing can prevent that.
+
+822
+01:47:00,587 --> 01:47:03,090
+Impregnable?
+
+823
+01:47:03,215 --> 01:47:06,468
+- Come with me, Mr Bond.
+- Bird 1 to base. Locked on target.
+
+824
+01:47:06,593 --> 01:47:09,263
+- Osato?
+- Yes, Number One?
+
+825
+01:47:10,889 --> 01:47:12,975
+Base calling Bird 1.
+
+826
+01:47:13,142 --> 01:47:16,436
+You are to assume full control
+of operation from now on.
+
+827
+01:47:16,562 --> 01:47:18,605
+Seven minutes to interception.
+
+828
+01:47:18,730 --> 01:47:20,774
+Roger, Base One.
+
+829
+01:47:21,483 --> 01:47:23,277
+Houston, this is Hawaii.
+
+830
+01:47:23,402 --> 01:47:25,445
+We have an unidentified object on scope.
+
+831
+01:47:25,571 --> 01:47:27,906
+Order first alert. Arm all weapons.
+
+832
+01:47:28,031 --> 01:47:30,784
+Interception will occur in six minutes.
+
+833
+01:47:37,749 --> 01:47:40,919
+This is the price of failure, Mr Bond.
+
+834
+01:47:46,633 --> 01:47:48,677
+Come on.
+
+835
+01:47:59,062 --> 01:48:01,273
+Goodbye, Mr Bond.
+
+836
+01:48:11,742 --> 01:48:15,871
+There's an exploder button in the
+control room. We've got to get up there.
+
+837
+01:48:15,996 --> 01:48:18,040
+Impossible. Too well defended.
+
+838
+01:48:23,879 --> 01:48:25,923
+Evacuate the control!
+
+839
+01:48:26,423 --> 01:48:27,883
+Evacuate the control!
+
+840
+01:48:47,820 --> 01:48:52,074
+Control room technicians.
+There must be another way up there.
+
+841
+01:49:03,752 --> 01:49:05,963
+Give me cover till I get to the staircase.
+
+842
+01:50:51,276 --> 01:50:53,278
+Bon appétit.
+
+843
+01:51:09,545 --> 01:51:12,381
+Closing fast on our vehicle.
+Orbit identical.
+
+844
+01:51:13,006 --> 01:51:16,510
+All units stand by for codeword.
+Codeword is imminent.
+
+845
+01:51:16,635 --> 01:51:19,429
+I repeat, closing fast on our vehicle.
+
+846
+01:51:49,710 --> 01:51:51,545
+It's blown up! The enemy!
+
+847
+01:51:51,670 --> 01:51:54,131
+I repeat, the enemy has blown up.
+
+848
+01:51:54,256 --> 01:51:56,717
+All units will return to first alert.
+
+849
+01:51:56,842 --> 01:52:00,179
+Codeword is not -
+I say again, not - imminent.
+
+850
+01:52:03,557 --> 01:52:05,517
+Tiger,
+
+851
+01:52:05,601 --> 01:52:06,894
+we've done it.
+
+852
+01:52:26,455 --> 01:52:28,874
+Down the tunnel!
+
+853
+01:53:50,456 --> 01:53:52,499
+Steady.
+
+854
+01:54:07,723 --> 01:54:10,392
+Now... about that honeymoon.
+
+855
+01:54:10,517 --> 01:54:12,561
+Why not?
+
+856
+01:54:12,686 --> 01:54:14,938
+But they'll never let you stay.
+
+857
+01:54:16,148 --> 01:54:18,192
+But they'll never find us.
+
+858
+01:54:44,718 --> 01:54:48,305
+- Dinghy's on board, sir.
+- Tell him to come below and report.
+
+859
+01:54:48,472 --> 01:54:50,891
+It'll be a pleasure, sir.
+

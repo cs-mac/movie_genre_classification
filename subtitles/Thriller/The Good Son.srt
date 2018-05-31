@@ -1,0 +1,711 @@
+{3475}{3525}Pass it to me!
+{3891}{3924}Hit it!
+{3927}{3966}Yes! Yes!
+{5298}{5376}Jack, I just wanted to say that|she's not doing too well right now.
+{5378}{5498}Her condition has gotten a lot worse.|I've given her something for the pain.
+{6398}{6457}Mark?
+{6472}{6532}Hi, sweetie.
+{6534}{6584}Hi, Mom.
+{6587}{6683}- Why didn't you wake me?|- I thought you should sleep.
+{6750}{6807}Rather see you.
+{6852}{6962}- Has Dad told you everything?|- Yeah.
+{6979}{7032}I know you'll be OK.
+{7051}{7104}Mom...
+{7107}{7164}I'll always be with you, Mark.
+{7188}{7245}Always.
+{7301}{7360}I love you.
+{7380}{7439}I love you too, Mom.
+{7730}{7813}You're not gonna die, Mom.
+{7816}{7863}I promise.
+{7896}{7966}You're not gonna die cos I won't let you.
+{8165}{8284}Earth to earth,|ashes to ashes, dust to dust.
+{8287}{8342}The Lord bless her and keep her.
+{8345}{8448}The Lord make his face to shine|upon her and be gracious to her.
+{8451}{8581}The Lord lift up his countenance upon her|and give her peace. Amen.
+{9801}{9850}I can't leave him.
+{9901}{9975}- He needs me.|- It's two weeks, Jack.
+{10011}{10074}I can't do it.
+{10076}{10151}It's not like you'll be|leaving him with strangers.
+{10165}{10231}- I'm your brother. We're family.|- Mm-hm.
+{10233}{10323}You said, if you could close this deal|in Tokyo, you and Mark would be set.
+{10326}{10429}- You'd never have to leave him again.|- I only want what's best for him.
+{10432}{10521}I know this is tough,|but this is your chance, Jack.
+{10523}{10610}You have to take it, for you and for Mark.
+{10676}{10770}Besides, it'll do him good|to be around other kids right now.
+{10852}{10912}I'll bring him to Maine myself.
+{10943}{11020}We need to spend some time together.
+{11640}{11694}Hey, you. Copilot.
+{11696}{11769}If you ever get tired|of bombing the universe...
+{11771}{11849}...you're missing|a lot of great stuff out here.
+{12334}{12459}Mark, I know you're hurting...|but please don't shut me out like this.
+{12501}{12566}- She's coming back.|- No, Mark.
+{12568}{12642}Maybe not as herself,|but she's gonna come back.
+{12696}{12745}Mark, I miss her, too.
+{12785}{12845}But she's gone.
+{12857}{12899}No.
+{12902}{12936}Mark.
+{12946}{12996}Mark!
+{15445}{15494}They're here!
+{15553}{15654}- You made it.|- Oh, man. Eleven states in three days.
+{15656}{15736}- Connie, say hello to your Uncle Jack.|- Hello, Uncle Jack.
+{15739}{15795}- She's beautiful, Wallace.|- Like her mom.
+{15797}{15853}- How's it goin', Mark?|- Pretty good.
+{15856}{15977}- Mom said I can show you the house.|- She always gets her way.
+{15980}{16034}Things are gonna be OK, Jack.
+{16058}{16117}Mom! Guess who's here!
+{16155}{16215}- Mark?|- Hi.
+{16261}{16339}Oh, my gosh. Look at you!
+{16405}{16465}I can't believe it's been ten years.
+{16499}{16555}Jack.
+{16558}{16645}Hi. I really appreciate|everything you're doing.
+{16647}{16694}Janice would have done the same.
+{16749}{16798}Henry. Come on down here.
+{16977}{17026}Hospitality, Henry.
+{17064}{17159}Here. I made two of 'em,|so we could be brothers.
+{17162}{17236}Oh, well,|as if one wasn't enough.
+{17361}{17443}OK. You know, I spoke with|Alice Davenport this morning.
+{17446}{17522}She's the therapist who works|with Wallace at the hospital.
+{17524}{17601}She said she'd be glad|to talk with Mark while you're gone.
+{17603}{17683}I think it's a good idea.|I can't seem to reach him.
+{17762}{17819}Does everyone have everything they need?
+{17822}{17883}Sure, Mom.
+{17894}{17938}This is really beautiful.
+{17940}{18001}- Do you want some salad, Jack?|- Please.
+{18004}{18068}You know they|tore down the lighthouse?
+{18069}{18180}Oh, no. That one on the point?|I loved that old place.
+{18183}{18232}Yeah, so did we.
+{18269}{18359}- Isn't that where you two first, uh...|- First what?
+{18385}{18523}It's, um... where your father|and I... had our first picnic.
+{18587}{18667}- No, that's not gonna do it.|- Hey, here we go.
+{18670}{18773}Now you have to get the insides out.|That's where this comes in.
+{18776}{18825}Like that.
+{18916}{18968}Henry, please!
+{18971}{19013}OK, wait, wait, wait.
+{19016}{19087}Jack. I think he's gonna be fine.
+{19176}{19220}Yeah.
+{19593}{19652}Mark, you understand, don't you?
+{19699}{19825}I'm leaving you now so I...|so I never have to leave you again.
+{19866}{19925}Two weeks, could be less.
+{19968}{20027}So cheer up!
+{20030}{20154}It's winter break. All you have to do is|play with Henry and you have a great time.
+{20263}{20322}I love you, Dad.
+{20325}{20374}I love you, too.
+{20466}{20527}We'll be together real soon.
+{20569}{20633}I promise.
+{20634}{20684}Give me a kiss.
+{20727}{20784}I love you.
+{20787}{20846}Bye, Dad.
+{22136}{22185}Grenade!
+{23131}{23180}Whoa, whoa, whoa.
+{23183}{23261}Not so fast. How about some breakfast?
+{23329}{23394}- Did you sleep OK last night?|- Yeah.
+{23397}{23467}Yeah? Henry didn't keep you|up all night talking?
+{23470}{23519}- No. It was fine.|- Good.
+{23646}{23713}We're really glad you're here, Mark.
+{23747}{23814}Hey, Mark! Come on! Let's go!
+{23844}{23921}- See you at lunch.|- Thanks.
+{24214}{24243}Mark!
+{24246}{24326}- Nice catch. Hit me.|- Hey!
+{24933}{25000}Afraid of heights?
+{25003}{25052}- No.|- Good.
+{25093}{25163}See you at the top.
+{25324}{25388}- You coming?|- Sure.
+{27043}{27092}Come on, it's easy.
+{27255}{27304}Help me up.
+{27566}{27654}If I let you go,|do you think you could fly?
+{27688}{27737}Help.
+{28172}{28219}Hey!
+{28404}{28453}Stop!
+{28804}{28853}Hey, Henry, grenade!
+{28881}{28946}Oh, yeah? Watch this.
+{28999}{29052}Wow! Great shot.
+{29312}{29372}Yeah!
+{29745}{29826}Hey! What the hell's goin' on here,|goddamn it?!
+{29829}{29935}- Time to go.|- Come back here, you little bastards!
+{30705}{30754}Hey, wait up, Henry!
+{31107}{31167}Hey, cool.
+{31249}{31320}What you got in the box?
+{31699}{31779}- Go on.|- They give you cancer.
+{31797}{31861}Who cares? You're gonna die anyway.
+{32194}{32251}Did you see your mom after she was dead?
+{32254}{32355}I wanted to. They wouldn't let me.
+{32356}{32442}You should have made them let you.|It's very important.
+{32444}{32552}See, people don't like to talk about death.|That's why you have to investigate.
+{32555}{32631}- It's scientific.|- It doesn't feel like that.
+{32664}{32734}What did your mom look like|the last time you saw her?
+{32737}{32817}- Kinda pale.|- Kinda pale.
+{32819}{32917}I took a real good look when my kid brother|Richard drowned in the bathtub.
+{32920}{33009}- Your brother drowned?|- He was completely blue.
+{33012}{33094}You should've looked at her eyes and lips...
+{33097}{33198}...and touched her skin to see|what it felt like-hot, cold.
+{33201}{33269}- Shut up about my mom.|- Hey, don't get mad.
+{33272}{33345}- I'm just trying to be scientific.|- Shut up or I'll hit you.
+{33348}{33412}Try it...
+{33414}{33463}...and I'll throw you down there.
+{33516}{33565}Oh, yeah?
+{33607}{33660}Hey, look. I'm sorry.
+{33662}{33772}That was really dumb of me.|I know how I'd feel if I didn't have a mom.
+{33806}{33862}Friends?
+{33973}{34022}OK.
+{34449}{34553}- I know, but that guy was scary.|- I know, and big. You were just...
+{34556}{34643}You were white.|And you were like, brrrrm!
+{34646}{34715}All right, guys, it's late.|Knock it off.
+{34754}{34815}I mean it. Not another peep.
+{34818}{34867}Peep! Peep!
+{35058}{35115}Hey, Henry.
+{35118}{35190}- What?|- Today was fun.
+{35193}{35252}Tomorrow will be even better.
+{35453}{35502}Whoa!
+{35658}{35725}- Hey, you ever read Skeleton Man?|- Who?
+{35726}{35814}He's this really cool superhero|you can't kill cos he's already dead.
+{35817}{35899}- Don't you ever read comic books?|- No, those things warp your mind.
+{35901}{35951}Hey!
+{36174}{36235}Nice knowin' ya!
+{36541}{36581}Come on!
+{36771}{36823}No!
+{37279}{37331}Henry, come on! Let's go.
+{37403}{37452}I love that dog.
+{38013}{38110}- Isn't that your mom?|- Yeah. She's always out there.
+{38122}{38215}- Why?|- She's goes up there to think about Richard.
+{38218}{38263}Kinda weird, huh?
+{38266}{38327}Come on. I wanna show you|my new invention.
+{38904}{38953}Come on.
+{39094}{39159}- Where are we going?|- To my shed.
+{39472}{39567}Awesome! What does it do?
+{39583}{39672}It took me three months|to make it. Beautiful, huh?
+{39683}{39790}You pull the cable back to here,|and you load over there.
+{39793}{39872}Grab a bolt. Go ahead. Lock and load.
+{39979}{40040}Now we...
+{40043}{40111}...line up the kitty cat.
+{40114}{40182}Don't hit her! Just give her a scare.
+{40210}{40259}Sure.
+{40736}{40795}What a great shot!
+{40798}{40872}Yeah. But the sight's not right yet.
+{41449}{41523}You know, this is a nice change.
+{41525}{41617}Most of my patients,|all they wanna do is talk.
+{41620}{41694}Well, I just don't have anything else to say.
+{41697}{41758}Your dad thinks you do.
+{41761}{41860}- He wants me to talk about my mom.|- Sometimes it helps.
+{41874}{41926}I can handle it.
+{41929}{42008}- You can?|- I have to.
+{42018}{42067}Why?
+{42114}{42183}Because when you make a promise...
+{42203}{42270}...when something's your fault...
+{42273}{42323}What did you do?
+{42401}{42450}I let someone die.
+{43186}{43235}Mom?
+{43737}{43787}Mom?
+{43826}{43876}Mark?
+{44004}{44070}Honey...
+{44073}{44122}...what's the matter?
+{44226}{44278}It is you.
+{44281}{44330}You came back.
+{44353}{44400}I knew you'd come back.
+{44417}{44486}Oh, sweetheart. I'm right here.
+{44554}{44603}OK, I'm right here.
+{44667}{44705}It's OK.
+{44707}{44757}Shh, it's OK.
+{44855}{44904}It's all right.
+{44998}{45081}I'm right here. I'm right here.
+{45170}{45220}I know you miss her.
+{45313}{45378}It's OK. It's gonna be OK.
+{45440}{45489}It's OK.
+{45530}{45581}It's OK.
+{45807}{45870}OK. All right, you got a piece. Now.
+{45873}{45934}- It's got blue on it.|- So it has to be the sky.
+{45937}{45992}Right. And it's got a straight edge.
+{45995}{46046}So it has to go here.
+{46049}{46104}Hey, you got it. All right!
+{46106}{46140}- Mark.|- Yeah?
+{46143}{46202}- Do you like living in our house?|- Sure.
+{46205}{46300}We're gonna look after you real good,|so you won't be sad.
+{46363}{46423}Mark, 0900 hours. Let's move out.
+{46447}{46524}- Not you.|- Why not? He's my friend, too.
+{46527}{46586}I'll play with you later.
+{46656}{46734}I don't care about your stupid secrets!|I got my own secrets.
+{46737}{46819}I'm not gonna tell you a single one!
+{47312}{47368}Status.
+{47371}{47420}System armed and ready.
+{47519}{47617}- Try to hit that sign.|- Negative.
+{47635}{47685}Try to hit that light.
+{47687}{47754}Negative.
+{47771}{47820}Targeting.
+{47905}{47954}What are you doing?
+{47987}{48036}What are you doing?!
+{48231}{48280}Oh, my God.
+{48712}{48776}I was only trying to scare him.
+{49879}{49948}Hey, Mark. Where's your sense of humour?
+{51095}{51142}Mark?
+{51145}{51234}- I'm sorry.|- It doesn't matter. They always fall down.
+{51392}{51458}Isn't she beautiful?
+{51459}{51517}Did you like her?
+{51520}{51596}Yeah. Everybody did.
+{51599}{51658}She was a wonderful person.
+{51688}{51759}And she loved you very much, Mark.
+{51761}{51888}The last time I saw her...|she said she'd always be with me.
+{51931}{51980}It's true.
+{51983}{52076}Your mother's alive in you.|She'll always be part of you.
+{52097}{52147}And you.
+{52171}{52230}Yeah.
+{52255}{52313}Is that Richard?
+{52368}{52412}Yeah.
+{52440}{52515}- I bet you miss him.|- Yeah, I sure do.
+{52518}{52570}- Hi.|- Hi, Henry.
+{52573}{52644}Mark, I have something|to show you in the shed.
+{52669}{52744}You want to? Go ahead.|I'll put these away, OK?
+{52785}{52860}So what are you guys up to out there?
+{52863}{52912}Sorry, Mom. Top secret.
+{53145}{53251}Look, I'm sorry about the dog.|It was an accident.
+{53254}{53359}You don't think I'd do a thing|like that on purpose now, do you?
+{53361}{53484}- So what d'you wanna show me?|- I want you to meet somebody very special.
+{53643}{53740}- Who is he?|- Mr Highway.
+{53743}{53811}Wow. What are you gonna do with him?
+{53814}{53863}It depends.
+{53866}{53923}- On what?|- On you.
+{53948}{54028}- Whether or not you'll help me.|- Help you?
+{54031}{54095}I promise you something amazing...
+{54096}{54156}...something you'll never forget.
+{54180}{54229}Are you in?
+{54876}{54928}Where are we goin'?
+{54931}{54980}We're here.
+{55056}{55105}Here. Help me rest him up here.
+{55107}{55157}OK.
+{55236}{55295}Come on, Mr Highway. Take a look.
+{55416}{55467}Poor Mr Highway.
+{55470}{55569}He's thinking about the end.|He's had enough of this terrible life.
+{55572}{55626}- What?|- Say goodbye.
+{55629}{55666}No!
+{57127}{57182}Come on. Let's go.
+{57357}{57405}I didn't know. I didn't know.
+{57408}{57499}- You didn't tell me. How could you do that?|- Shh. Just be quiet.
+{57723}{57777}Do you know what you did?
+{57780}{57851}Hey, come on. We did it together.
+{57854}{57925}You could have killed people.
+{57928}{58026}- With your help.|- Hey, I didn't know you were gonna do that.
+{58029}{58126}I feel sorry for you, Mark.|You just don't know how to have fun.
+{58143}{58221}- What?|- It's because you're scared all the time.
+{58224}{58302}I know. I used to be scared, too.
+{58305}{58404}- But that was before I found out.|- Found out what?
+{58416}{58510}That once you realise|you can do anything, you're free.
+{58532}{58592}You could fly.
+{58594}{58644}Nobody can touch you.
+{58669}{58721}Nobody.
+{58724}{58773}Mark...
+{58796}{58854}...don't be afraid to fly.
+{58895}{58936}You're sick.
+{58939}{59061}Hey, I promised you something amazing,|something you'll never forget.
+{59064}{59122}Where's the gratitude?
+{59377}{59451}- The largest one.|- The largest one? Ready?
+{59454}{59513}Can you catch this?
+{59557}{59603}Where'd it go?
+{59606}{59652}Hey, hey, hey.
+{59655}{59726}I'm here at Route 233 on|the outskirts of Rock Harbor...
+{59729}{59793}...where today there was a ten-car accident.
+{59794}{59881}Lieutenant Holman of the Rock Harbor|police said it was a miracle...
+{59883}{60008}...no one was seriously injured. Four people|were taken to the hospital for minor injuries.
+{60010}{60135}They have since been released. This is|Andrea Hall reporting. Back to you, Bob.
+{60416}{60538}Go ahead, tell him. Or better yet,|why don't we tell him together?
+{60541}{60601}"It was Mark, Dad. He talked me into it."
+{60621}{60732}"We were just playing a game. I had no idea|he was gonna do something like that."
+{60734}{60880}"Please, go easy on him. It's not his fault|he's all screwed up cos he misses his mom."
+{60909}{60976}What are we waiting for? Let's go.
+{60979}{61038}Dad, Mark has something to tell ya.
+{61069}{61180}- What is it? What's wrong with Mark?|- I don't know. He's been acting pretty weird.
+{61183}{61236}I better go see if he's OK.
+{61481}{61551}I told my dad I'd see if you were OK.
+{61554}{61624}Well, are you OK, Mark?
+{61627}{61674}Leave me alone.
+{61697}{61757}Leave you alone? This is my room.
+{61798}{61873}Guess what? Mom says|we can go skating tomorrow.
+{61876}{61954}Connie, what did I tell you|about coming into my room?
+{61968}{62035}But you guys weren't working or anything.
+{62038}{62115}You didn't answer my question,|so I'm gonna have to do it for you.
+{62118}{62210}You're not allowed to come into my room.|Not now, not ever. Never!
+{62213}{62327}You're wrong about that.|This is my room, too.|And I say she can stay.
+{62393}{62432}Mom, they're fighting!
+{62435}{62522}You like my sister, don't you?|Such a sweet little girl.
+{62555}{62673}It'd be too bad if something were|to happen to her, if she got hurt.
+{62676}{62730}You'd be sad, wouldn't you, Mark?
+{62733}{62790}But, hey, accidents will happen.
+{62793}{62849}Just ask my mom about Richard.
+{62881}{62929}Boys, boys! Henry!
+{62932}{62981}What's going on?
+{63010}{63092}I'm sorry, Mom. We were playing|this really dumb game.
+{63094}{63224}We weren't fighting.|We were just playing. Weren't we, Mark?
+{63272}{63322}Yeah. Playing.
+{63414}{63485}Well, all right,|but just not so rough, OK?
+{63488}{63577}You two looked like you were|trying to kill each other.
+{64127}{64200}Susan told me you were here.
+{64203}{64270}I guess you forgot our appointment.
+{64273}{64334}I just didn't feel like talking.
+{64375}{64474}Talking helps.|It helped the last time, didn't it?
+{64485}{64544}You're a doctor.
+{64547}{64594}You know things.
+{64596}{64664}Well, some things.
+{64692}{64766}What do you think? What makes people evil?
+{64807}{64935}Evil's a word people use when they've|given up trying to understand someone.
+{64938}{65042}There's a reason for everything|if we could just find it.
+{65044}{65100}What if there isn't a reason?
+{65103}{65155}What if something just is?
+{65176}{65256}Why, Mark? Do you think you're evil?
+{65259}{65308}Cos you let your mother die?
+{65311}{65360}You know that's not true.
+{65443}{65492}What if there was this boy...
+{65494}{65584}...and he did these terrible things|because he liked doing them?
+{65586}{65638}Wouldn't you say he was evil?
+{65669}{65724}I don't believe in evil.
+{65788}{65852}You should.
+{65854}{65923}Connie, come on! It's time for lunch.
+{65994}{66078}- Evans' residence. Henry speaking.|- Hey, it's Uncle Jack.
+{66081}{66145}- Oh. Hi, Uncle Jack.|- Is Mark around?
+{66146}{66256}Mark? No. Mark's not here right now.
+{66278}{66367}- Do you know where he is?|- No, I don't know where he is.
+{66398}{66472}- Are you boys having fun?|- We're having lots of fun.
+{66475}{66579}Mark really likes it here. You know|something? We really like him, too.
+{66581}{66654}Great. Well, would you tell him I called?
+{66656}{66724}- OK, Uncle Jack. Bye.|- Bye.
+{66759}{66826}So what are you guys up to this afternoon?
+{66852}{66905}I don't know. Not much.
+{66907}{66982}Well, I'm taking your mother|out to dinner tonight.
+{66985}{67099}Can you characters baby-sit yourselves|and not get into too much trouble?
+{67102}{67131}Sure, Dad.
+{67133}{67208}Dad, can I stay up and watch|Monster Theater tonight?
+{67211}{67282}No. It might warp|your impressionable brain.
+{67284}{67348}- You're not the boss.|- Yes, I am, vermin.
+{67351}{67412}Henry. That's enough.
+{67415}{67471}What's a vermin?
+{67473}{67584}Mom, Dad, guess what? Mark's been saying|he'd like to move into Richard's room.
+{67586}{67647}- That's not true.|- He seems to like it in there.
+{67650}{67725}- You know, that's not a bad idea.|- Wallace.
+{67763}{67821}We've been through this before. I just...
+{67824}{67883}- I don't wanna move in there.|- Mark, don't lie.
+{67886}{67988}Honey, give it some thought.|We can't keep it like that for ever.
+{67991}{68082}- It's turning into a museum.|- I know, but I didn't say for ever.
+{68085}{68141}That room'll change when I'm ready.
+{68144}{68219}If Mark wants to move,|there's a nice room on the third floor.
+{68222}{68322}- But Henry's making it up.|- Honey, if Mark moved in, it could help.
+{68325}{68395}It needs to be lived in.|I'm not saying throw out the toys.
+{68398}{68497}Let's... I... I just don't wanna|talk about it right now.
+{68500}{68574}I know you don't, but we've gotta face it.
+{68599}{68648}I do face it.
+{68688}{68737}I face it every day.
+{68781}{68869}- You're the one who's forgetting.|- Susan.
+{68871}{68937}- Oh, Wallace.|- Susan.
+{69605}{69654}Henry!
+{69656}{69704}Hi, Mom.
+{69818}{69867}Don't cry, Mom.
+{69939}{69988}Don't cry, Mom.
+{70255}{70325}- You look fantastic.|- Do you really have to go out?
+{70327}{70416}Yeah, Mark. We've been planning this|for weeks. You guys'll have fun.
+{70418}{70511}Listen, honey. Restaurant number's|by the phone if you need us, OK?
+{70513}{70561}All right, guys, good night!
+{70563}{70610}Night, Mom and Dad!
+{70612}{70662}We won't be late.
+{70710}{70819}Mark! Guess what we're gonna play?|Hide-and-seek, and I'm hiding first.
+{70821}{70886}No, Connie, wait! I've got a better idea.
+{70907}{70961}I bet I find her first.
+{71228}{71278}Connie, where are you?
+{71337}{71387}Connie!
+{71468}{71518}Connie!
+{71655}{71705}Aagh!
+{71707}{71751}Hey, no fair.
+{71753}{71806}"No fair"?
+{71808}{71868}What do you think this is? A game?
+{72206}{72256}Connie, where are you?
+{72946}{72996}Connie!
+{73022}{73056}Connie!
+{73078}{73129}What's going on?
+{73131}{73180}This is fun. Let's do it again.
+{73182}{73245}No, Connie. It's bedtime.
+{73247}{73315}You heard her. She wants to play again.
+{73317}{73412}Connie, what if I read you|a bedtime story instead?
+{73432}{73515}Connie doesn't wanna read stories.|Do you, Connie?
+{73575}{73625}I do too, vermin!
+{73707}{73757}(hums "Camptown Races')
+{74264}{74394}"And all the girls cried 'Boohoo!|We want to have our appendix out too."'
+{74451}{74528}"Good night, little girls.|Thank the Lord you are well."
+{74530}{74654}"'And now go to sleep' said Miss Clavell.|She turned out the light and closed the door."
+{74656}{74731}"And that's all there is.|There isn't any more."
+{75129}{75189}That was a darling story, Mark.
+{75222}{75311}- What are you doing?|- I wanna tuck in my kid sister.
+{75516}{75566}Such a sweet little thing.
+{75603}{75682}Do you really think I'd hurt her?
+{75684}{75736}Yes.
+{75738}{75794}What are you gonna do?
+{75796}{75846}Watch her all night?
+{76282}{76332}Wallace, I'm sorry, but...
+{76334}{76409}You've gotta stop|blaming yourself about Richard.
+{76411}{76494}I can't. I just can't.
+{76545}{76699}I left him alone. Less than six inches of water|in the tub and I left him to answer the phone.
+{76701}{76775}Susan, it wasn't your fault.
+{76946}{76996}You better get to the hospital.
+{77092}{77163}Do you want me to drop|Connie off at the Andersons'?
+{77165}{77214}No, she, uh...
+{77216}{77287}She went skating with Henry in Miller's pond.
+{78411}{78476}- Hey, where's your skates?|- Connie!
+{78701}{78751}Connie!
+{79406}{79456}Connie!
+{80019}{80067}- Connie!|- Don't go with him!
+{80069}{80117}Thin ice!
+{80320}{80370}Henry!
+{80499}{80588}Look out! Look out! Look out! No!
+{80698}{80748}Help me, Henry. Help me.
+{80759}{80812}Connie! Connie!
+{80814}{80881}Henry, help me. Help me.
+{80977}{81027}Help me out!
+{81348}{81398}Let us through. Let us through.
+{81400}{81450}Stay back. Stay back.
+{81796}{81863}Right. All right.
+{81865}{81915}All right, let's get her up.
+{82465}{82516}- Wallace!|- Susan, she's fine.
+{82518}{82583}She's fine. It's OK.
+{82585}{82685}They pulled her out in time.|She's gonna be OK. She's OK.
+{83767}{83827}I just thank God she's all right.
+{83884}{83949}There's something I have to tell you.
+{83978}{84068}- What?|- I'm not sure. I wasn't real close.
+{84105}{84206}At the pond... I don't think what|happened at the pond was an accident.
+{84267}{84316}What do you mean?
+{84318}{84413}The ice was too thin.|Henry was spinning her around.
+{84415}{84475}They were going way too fast.
+{84507}{84620}And he just let go.|He threw her toward the thin ice.
+{84662}{84728}- Mark.|- Henry said he hated her.
+{84757}{84836}- What are you trying to tell me?|- I've told you.
+{84838}{84887}I'm telling you.
+{84889}{84983}Connie didn't just slip.|You don't know what he is.
+{84996}{85063}Henry tried to kill Connie|and he could do it again...
+{85065}{85135}Stop it! Stop it, that's a lie.
+{85183}{85286}Henry's my son.|He's my little boy and I love him.
+{85288}{85363}Don't ever come to me with these lies again.
+{86437}{86494}- Henry.|- Mom.
+{86496}{86568}- I didn't see you.|- Shh. Don't wake her up.
+{86595}{86695}- I thought you were home with Daddy.|- I was worried about Connie.
+{86745}{86805}She's gonna be fine.
+{86807}{86882}- She wake up yet?|- Yeah, for a little while.
+{86915}{87020}- She's still pretty confused, though.|- Yeah.
+{87022}{87108}I don't think she's gonna|remember much of what happened.
+{87110}{87224}That's good. It's probably better|for her to forget about the whole thing.
+{87226}{87310}Henry. What did happen on the ice?
+{87312}{87387}I told you, Mom. It was an accident.
+{87389}{87442}Yeah?
+{87444}{87519}I know I've always treated her|like a bratty kid sister...
+{87521}{87629}...but until yesterday I never realised|how much she meant to me.
+{87672}{87731}I know.
+{87753}{87803}I'd better go home now.
+{87896}{87946}- Henry.|- Yeah, Mom?
+{88070}{88137}Never mind. I'll see you at home.
+{88159}{88236}- Tell Connie I was here.|- I will.
+{88539}{88611}- Hello, Dad.|- Mark, how are you, son?
+{88613}{88677}- You've gotta come back here.|- Why? What's wrong?
+{88679}{88770}It's Henry. He's been doing things.|Terrible things.
+{88772}{88854}- What do you mean, terrible things?|- He's got everyone fooled.
+{88856}{88918}Everyone thinks he's this great kid...
+{88920}{88977}...but he's really evil.|- Evil?
+{88979}{89106}He killed this dog with this thing|that he made that fires steel bolts.
+{89108}{89197}Then yesterday... he tried to kill Connie.
+{89199}{89296}Whoa, wait...|Mark, is Wallace there? Or Susan?
+{89298}{89438}I tried to tell them,|but they won't believe me. Nobody will.
+{89440}{89488}What about Dr Davenport?
+{89490}{89555}She just thinks|I'm some screwed-up little kid.
+{89557}{89674}Mark, I want you to go to Dr Davenport|and you tell her what you told me.
+{89676}{89734}- All right.|- I'll be there soon.
+{89736}{89786}Please hurry.
+{90216}{90305}What's been going on?|What's troubling you?
+{90307}{90355}Mark! Good.
+{90357}{90407}Hi, Mark.
+{90447}{90543}- What are you doing here?|- He's just here because he wants to help.
+{90545}{90603}He says you two have been|having some problems.
+{90605}{90675}- He's the problem.|- Mark!
+{90705}{90772}You're on his side, aren't you?
+{90774}{90851}- I'm on your side, too.|- No, you're not.
+{90853}{90914}He's got you fooled, just like everybody else.
+{90916}{90976}Mark! Wait.
+{91022}{91081}I didn't mean to cause you any trouble.
+{91083}{91207}It's not your fault, Henry.|Mark is going through some difficult things.
+{91209}{91311}- Is he OK?|- What do you mean?
+{91313}{91372}Maybe I shouldn't say anything.
+{91374}{91450}But the way he acts when nobody's around...
+{91452}{91545}Dr Davenport, he scares me sometimes.
+{91566}{91616}Why?
+{91713}{91763}What does he do?
+{91784}{91834}Please don't ask me that.
+{91859}{91934}- I can't tell you.|- Why not?
+{91936}{91986}Cos Mark's my friend.
+{92008}{92094}You won't be betraying him, I promise you.
+{92096}{92166}Please, Henry. Tell me everything.
+{92192}{92254}Everything?
+{92405}{92490}Sure missed an interesting session.|I like therapy.
+{92492}{92609}- What did you tell her?|- Sorry. That's strictly confidential.
+{92611}{92717}But you better stop telling lies about me,|cos no one's gonna believe you.
+{92719}{92783}Sooner or later|they're gonna find out about you.
+{92785}{92879}Who's "they"? My dad? My mom?
+{92907}{93005}- I told your mom.|- Why would she believe you?
+{93028}{93128}- She's my mom, not yours.|- You know, you're wrong about that.
+{93148}{93249}- She is my mother.|- Your mom? You crazy?
+{93251}{93301}Your mom's maggot food.
+{93303}{93365}My mom said she'd always be with me.
+{93367}{93433}She chose your mom|as a way of coming back...
+{93435}{93523}...but I guess you wouldn't|understand that. But it's true.
+{93525}{93588}She's my mother now.
+{93628}{93694}Hey, Mark.
+{93726}{93776}Don't fuck with me.
+{95307}{95367}Looking for a midnight snack?
+{95394}{95500}Go ahead. Eat. Drink.
+{95536}{95607}- Don't let me stop you.|- What did you do?
+{95632}{95692}"Do"? Me?
+{95694}{95758}Oh, I get it.
+{95760}{95832}You think I put something|in my family's food.
+{95834}{95879}You think I...
+{95881}{95939}Mark, come on.
+{95941}{96016}Do you really think|I'd do a thing like that?
+{96076}{96151}Mom, Dad, it's Mark! Better come quick.
+{96581}{96651}No, Mark, stop. Stop.
+{96653}{96736}It's all a mistake.|He's trying to poison you!
+{96738}{96805}- Oh, Mark.|- No!
+{96837}{96886}Calm down.
+{96888}{96944}Mark, please stop.
+{96946}{97033}Stop, stop, stop, stop.
+{97035}{97128}- Just stop.|- No! No!
+{97256}{97321}- We'll talk in the morning.|- What for?
+{97375}{97435}- Nobody believes me.|- Mark.
+{97504}{97554}Good night.
+{97824}{97865}- He's OK.|- Oh, Wallace.
+{97867}{97949}He's OK. Now, look,|Jack'll be back in a few days.
+{97951}{98026}Let's just keep it together|until he gets here.
+{98235}{98301}Henry... go to bed.
+{100246}{100319}Mom? What are you doing?
+{100370}{100430}I was... I was just looking around.
+{100454}{100504}Uh-huh.
+{100583}{100732}Henry, if something were wrong...|you would tell me, wouldn't you?
+{100734}{100784}What do you mean?
+{100824}{100902}I mean, sometimes when we're kids,|we do things that, um...
+{100904}{100961}What kind of things?
+{101016}{101074}Things we feel bad about?
+{101093}{101153}I don't feel bad about anything.
+{101344}{101404}Look what I found.
+{101498}{101560}Where did you get that?
+{101608}{101668}You know where I got it.
+{101705}{101780}I couldn't find it after Richard's accident.
+{101836}{101911}Have you had it all this time?
+{101913}{101973}It was mine before it was his.
+{102054}{102119}But you knew I was looking for it.
+{102177}{102227}How did you get it?
+{102255}{102305}Henry?
+{102346}{102406}How did you get this?
+{102434}{102506}I took it. I'm sorry, Mom.
+{102508}{102634}I took it because I wanted something|to remember Richard by. That's all.
+{102636}{102706}So can I have it back, please?
+{102757}{102797}No.
+{102799}{102854}No, you can't have it back.
+{102888}{102955}- But it's mine.|- Henry!
+{102987}{103062}- Give it to me!|- Henry!
+{103106}{103156}Henry?
+{105086}{105180}- What are you doing?|- Missing someone.
+{105182}{105225}Who?
+{105227}{105322}Mark, did you cry at your mom's funeral?
+{105346}{105394}Why?
+{105396}{105501}I don't know. I figure you're expected|to cry at your mom's funeral.
+{105526}{105599}- But I don't know.|- You wouldn't.
+{105601}{105651}- Wouldn't what?|- Hurt her.
+{105682}{105754}Do you really think I'd hurt my own...
+{105756}{105805}- Oh, wait.|- What?
+{105807}{105883}I just remembered.|She's not my mom any more.
+{105885}{105944}She's yours. Isn't that what you said?
+{105946}{106026}- She's your mother now.|- Yeah.
+{106053}{106169}Your mom, my mom. What the hell?|We'll both miss her.
+{106171}{106242}I'll kill you first.
+{106244}{106291}Poor Mark.
+{106293}{106398}So violent, so disturbed.
+{106400}{106484}If you don't watch out,|they're gonna lock you up.
+{106590}{106638}I could kill you now.
+{106640}{106696}Go ahead. Jam it in.
+{106698}{106756}Gotta push pretty hard, though.
+{106758}{106827}The blood'll go right across the room.
+{106829}{106907}Come on. Come on.
+{106925}{106983}- Henry, have you seen...|- Dad, Dad, help me!
+{106985}{107067}Mark! What the hell|do you think you're doing?
+{107069}{107142}- Answer me!|- Don't be mad at Mark. He's not himself.
+{107144}{107232}- You could have hurt him.|- He's the one who wants to hurt people.
+{107234}{107301}Mark, I'm sorry you don't wanna be friends.
+{107303}{107367}He's gonna do something.|He said he's gonna kill her.
+{107369}{107438}We're gonna call|Alice Davenport and have a talk.
+{107440}{107511}- You gotta believe me.|- You have got to calm down.
+{107513}{107581}- Mark. Mark!|- I gotta get outta here.
+{107622}{107707}- If that's the way you want it.|- You don't understand, Uncle Wallace!
+{107709}{107794}You will stay in here|until you are ready to talk.
+{107832}{107885}Uncle Wallace!
+{108133}{108190}Uncle Wallace! Uncle Wallace!
+{108416}{108504}Susan! Susan! Susan!
+{108534}{108579}Susan! Susan!
+{108606}{108670}No. No... Susan!
+{108684}{108737}Mom, I decided to clear up the shed.
+{108739}{108803}Henry, stop. Just stop.
+{108821}{108886}We have to talk.
+{108888}{108948}Can we go for a walk, Mom?
+{108950}{109015}You know, like we did when I was little.
+{109118}{109158}No. Susan!
+{109203}{109231}Susan!
+{109383}{109430}Susan! Susan!
+{109519}{109546}Susan!
+{109661}{109704}Susan!
+{109891}{109947}Mark! Watch the glass! Take it easy.
+{109949}{109988}Easy. Take it easy.
+{109990}{110040}Mark! Mark!
+{110477}{110537}- Henry?|- Yes, Mom?
+{110565}{110630}You have to tell me the truth now.
+{110659}{110765}- What happened the night Richard died?|- Don't you know?
+{110767}{110863}- I'd like to hear it from you.|- I was downstairs playing.
+{110865}{110951}Henry. Don't lie to me, all right?
+{110953}{111021}Just don't lie to me.
+{111051}{111106}Now you tell me...
+{111179}{111239}...did you kill Richard?
+{111280}{111338}What if I did?
+{111407}{111454}Well, um...
+{111480}{111540}- What, Mom?|- We'll get you help.
+{111561}{111641}You don't look too good, Mom.|Looks like you need the help.
+{111643}{111726}- You have to trust me, Henry.|- No.
+{111728}{111778}No, I can't.
+{111811}{111880}You just wanna send me away, don't you?
+{111882}{111921}Why, no. No, I don't.
+{111923}{112000}- You wanna put me in one of those places.|- No, Henry.
+{112002}{112111}Well, I'd much rather die, you hear me?|I'd much rather be dead.
+{112113}{112173}Henry! Henry, no.
+{112221}{112271}Henry!
+{112411}{112477}Henry! Henry!
+{112604}{112654}Henry! Henry!
+{112734}{112792}Looking for me, Mom?
+{112794}{112889}- Oh, Henry.|- You really thought I was gonna jump, huh?
+{112891}{112951}I guess you don't know me very well, Mom.
+{112972}{113011}Henry!
+{113267}{113308}Henry!
+{113310}{113367}Yes, Mom?
+{113369}{113417}Henry, please! No!
+{114021}{114081}I'm gonna kill you.
+{114394}{114444}- No! No!|- I'm gonna kill you!
+{115122}{115172}Hold on, Henry. Hang on to me.
+{115201}{115272}Come on! Don't let go.
+{115274}{115324}Hold on, Mark.
+{115358}{115408}Hang on to me! Come on!
+{115433}{115489}Come on. Get up. Pull up.
+{115506}{115544}Come on!
+{115546}{115596}Mark! Hang on!
+{115629}{115662}- Mom.|- Henry.
+{115664}{115714}Mom, I love you.
+{115716}{115785}Mom, I need your other hand.
+{115787}{115814}Come on.
+{115816}{115920}- Help me.|- Mark! Hang on.
+{115962}{116053}- Help me.|- Hang on, Henry, come on!
+{116069}{116119}Mom, pull me up.
+{116248}{116324}- Help.|- No, Mark. No!
+{116326}{116372}Mom! Mom, I love you.
+{116374}{116410}Help me!
+{116482}{116521}- Hang on.|- Help me.
+{116523}{116598}Mom, help! Help me, please.
+{116600}{116639}Henry.
+{116641}{116721}- Mom.|- Henry.
+{118056}{118142}Henry is gone,|and the rest of us are safe.
+{118144}{118205}But sometimes, late at night...
+{118207}{118315}...I find myself thinking,|not about Henry, but about Susan...
+{118317}{118402}...and wondering,|if she had it to do over...
+{118404}{118466}...would she make the same choice?
+{118468}{118521}I guess I'll always wonder.
+{118523}{118573}But I know I'll never ask.

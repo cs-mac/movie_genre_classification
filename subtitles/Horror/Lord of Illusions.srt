@@ -1,0 +1,993 @@
+{500}{750}Lord of Illusions
+{5132}{5178}Swann.
+{5330}{5418}And the fire said to me...
+{5512}{5558}" Nix, Nix,
+{5560}{5616}you are my instrument.
+{5642}{5707}From now on you shall be known...
+{5709}{5744}as...
+{5791}{5834}the Puritan.
+{5858}{5930}You will find a few good men...
+{5932}{5968}and women...
+{6019}{6077}and together...
+{6114}{6160}together...
+{6212}{6271}you will cleanse the world. "
+{6344}{6387}Master.
+{6460}{6506}Swann's here.
+{6862}{6908}Are we ready?
+{6952}{7019}- Ready.|- Maybe we should think about this.
+{7021}{7083}He's gone too far.
+{7084}{7123}So he took a kid.
+{7124}{7162}He's gonna kill her.
+{7164}{7219}He could drive us crazy.
+{7220}{7271}So stay out here!
+{7404}{7455}Please get away from me.
+{7590}{7615}Hush!
+{7617}{7688}Please don't hurt me!
+{7739}{7803}I said, hush.
+{7970}{7999}What is it?
+{8164}{8224}What's the matter, huh?
+{8260}{8290}Please! Please!
+{8344}{8403}What are you gonna do to me?
+{8517}{8562}Leave me alone!
+{8608}{8659}Want me to shoot, Swann?
+{8673}{8706}Leave me alone!
+{8708}{8762}You don't like him, do you?
+{8796}{8871}- He wants her magic.|- Maybe.
+{8872}{8923}Go! Fetch him.
+{9030}{9088}I think he's in love.
+{9196}{9242}If you see the kid, yell.
+{9381}{9422}- Quaid.|- Hey, man.
+{9441}{9484}It's Quaid.
+{9567}{9623}I thought you weren't|coming back.
+{9644}{9690}I changed my mind.
+{9760}{9816}You can't leave, man.
+{9818}{9864}He won't let you.
+{10511}{10557}You're gonna be okay.
+{10559}{10591}Okay?
+{10951}{10992}I knew you'd come.
+{11020}{11091}I've got so much power|to give you, Swann.
+{11118}{11164}All you have to do...
+{11190}{11220}is beg.
+{11265}{11295}Fuck you.
+{11297}{11380}You don't think|that I've got it to give?
+{11420}{11460}You're wrong!
+{11541}{11627}I could eat your fucking soul!
+{11855}{11912}Now be a good girl.
+{11981}{12008}Fuck!
+{12010}{12063}Stay here.
+{12065}{12130}- Jennifer, are you okay?|- Jesus!
+{12192}{12246}Stay away.
+{12248}{12294}Stay the fuck away.
+{12524}{12563}Are you okay?
+{12600}{12647}How would you like...
+{12672}{12706}to see the world...
+{12708}{12763}the way it really is?
+{12764}{12840}You wanna see flesh...|with a god's eyes?
+{13573}{13608}Swann?
+{13633}{13668}Here he is.
+{13740}{13790}Take a look, Swann.
+{13862}{13915}These are your friends.
+{14429}{14498}What have you done to him?
+{14531}{14584}- Swann--|- Don't touch me!
+{14586}{14640}He got into my head!
+{14684}{14734}You wanna be like that, Swann?
+{14776}{14847}Mud? Shit?
+{14888}{14949}Come here.
+{15005}{15071}Share the power.
+{15834}{15863}Swann.
+{15881}{15913}Help me.
+{16145}{16183}Bag.
+{16351}{16397}Help me.
+{16399}{16467}- What are you doing?|- Binding you.
+{16469}{16520}You piece of shit!
+{16793}{16860}This isn't over, Swann.
+{16960}{16985}This isn't finished.
+{18173}{18208}Dead?
+{18297}{18331}Dead.
+{18373}{18415}What now?
+{18448}{18502}We bury him so deep...
+{18534}{18593}no one will ever find him.
+{20623}{20693}I been calling you|for three days, Harry.
+{20695}{20741}I missed you too, Loomis.
+{20769}{20816}You got a beer?
+{21025}{21074}I got a job for you...
+{21076}{21148}if you can tear yourself away|from all this weird shit.
+{21149}{21214}You need a woman's touch|in here.
+{21216}{21283}Why don't you get yourself|a secretary?
+{21285}{21325}On what you pay me?
+{21351}{21388}So get married.
+{21440}{21480}Tried that.
+{21481}{21516}Oh, yeah.
+{21544}{21621}" Harry D'Amour, who describes himself|as a private detective...
+{21622}{21699}has been linked with occult activities|on several occasions.
+{21701}{21801}'We regard D'Amour|as a highly dubious character...'
+{21803}{21834}quoted one source. "
+{21860}{21894}That's nice, Harry.
+{21932}{21972}It's all bullshit.
+{22009}{22062}It was on TV last night.
+{22064}{22129}You looked like shit,|by the way.
+{22131}{22176}- Thanks.|- What's the story?
+{22177}{22224}Was the kid really possessed?
+{22309}{22343}Probably.
+{22434}{22471}By what?
+{22498}{22553}You know.
+{22555}{22589}The usual.
+{22617}{22672}You need a vacation.
+{22692}{22753}Somewhere sunny, like...
+{22755}{22787}L.A.
+{22789}{22843}That's where the job is?
+{22870}{22940}Guy's name's Tapert.|Big insurance fraud.
+{22941}{23013}He's gone west to spend|his ill-gotten gains.
+{23040}{23076}It's worth ten grand...
+{23077}{23124}if you catch him doing it.
+{23125}{23152}If I don't?
+{23183}{23209}Catch a tan.
+{23257}{23316}I need someone of your caliber|on this, Harry.
+{23489}{23544}Taste the darkness, D'Amour.
+{23545}{23587}It's been waiting for you.
+{23689}{23786}Yeah, well, maybe I do|need a vacation.
+{23788}{23818}You'll like L.A.
+{23820}{23894}There's great weather,|great women.
+{24463}{24512}- Here you go.|- Thanks. Have a nice evening.
+{24514}{24549}You bet.
+{24660}{24697}Hello, L.A.
+{25001}{25038}9:18 p.m.
+{25087}{25143}Tapert's paying by the hour.
+{25145}{25192}He's getting his money's worth.
+{25477}{25552}Come here, you fuckers!|Come on in!
+{25725}{25756}Wait a minute.
+{25757}{25804}He's late for something.
+{29373}{29419}What the hell?
+{29687}{29733}Ever watched a man die?
+{29785}{29833}If you watch very closely...
+{29835}{29918}you can sometimes|see the soul escaping.
+{30000}{30066}And if you're very quick...
+{30068}{30105}you can catch it.
+{30189}{30234}I wasn't there.
+{30314}{30360}Ask Pimm.
+{30362}{30396}Pimm's dead.
+{30451}{30510}Jennifer Desiderio's|disappeared.
+{30573}{30646}They knew the Puritan|was coming home.
+{30648}{30690}So did you.
+{31381}{31415}Wait.
+{31417}{31451}Don't leave me.
+{31712}{31763}Did you come for a reading?
+{31919}{31945}My God.
+{31947}{31990}What?
+{31991}{32069}You are drawn|to the dark side...
+{32107}{32154}over and over.
+{32173}{32211}You don't like that.
+{32213}{32247}Not much.
+{32287}{32352}You can't change it.
+{32354}{32419}You must walk the line...
+{32421}{32467}between heaven and hell.
+{32515}{32562}It is your destiny.
+{32588}{32623}Accept it.
+{32703}{32750}Hang on.
+{32771}{32817}I'm not afraid to die.
+{32932}{32996}There's something terrible...
+{32998}{33066}coming home soon.
+{33091}{33116}The Puritan?
+{33213}{33257}Who is he?
+{33403}{33437}Shit.
+{33919}{33966}What were you doing up here?
+{33967}{34002}I'm a private detective.
+{34003}{34098}I was hired to follow a guy|named Tapert for a couple of days.
+{34099}{34164}- Insurance fraud.|- Tapert.
+{34166}{34233}So now I've got Tapert,|Butterfield--
+{34235}{34293}Tapert's got nothin'|to do with this.
+{34295}{34353}He just came|to get his palm read.
+{34419}{34466}This is something else.
+{34508}{34567}You ever heard of somebody|called the Puritan?
+{34568}{34615}New one on me.|Let's see him.
+{34671}{34705}Where the fuck is he?
+{34707}{34751}He got up and walked.
+{34782}{34852}After that fall,|he would've broken half his bones.
+{34895}{34954}I don't think|he'd have given a shit.
+{35063}{35095}D'Amour.
+{35096}{35159}Why do I know that name?
+{35187}{35238}I know him.
+{35239}{35299}I saw him on TV.
+{35301}{35379}Some kid got possessed,|and he saved the little bastard's life.
+{35399}{35443}A priest?
+{35631}{35690}He's just some guy...
+{35691}{35745}who's got a nose for this shit.
+{35775}{35818}Like you.
+{35900}{35947}I don't want him|getting in the way.
+{35949}{35989}He won't.
+{36059}{36110}We've, all of us,|waited too long...
+{36112}{36178}to have the homecoming spoiled.
+{36232}{36289}What do you mean,|" all of us " ?
+{36291}{36358}A lot of people|believed in Nix.
+{36359}{36418}They haven't forgotten|his promise.
+{36484}{36515}About?
+{36517}{36551}Death.
+{36580}{36615}What about death?
+{36724}{36780}It's an illusion.
+{37420}{37461}Coffee, Mrs. Swann?
+{37463}{37509}Yes, thank you.
+{37560}{37590}Where's Mr. Swann?
+{37592}{37630}In his study.
+{37632}{37691}He got something on his mind?
+{38040}{38086}Hey. Mr. Sunshine.
+{38219}{38266}That's what I'm gonna call you.
+{38328}{38369}Bad show?
+{38486}{38516}The usual.
+{38518}{38573}Full house.
+{38575}{38617}Standing ovation.
+{38619}{38659}I tell them it's magic.
+{38661}{38703}They believe you.
+{38705}{38739}Yeah.
+{38871}{38911}Remember Quaid?
+{38954}{38988}Sure.
+{39081}{39127}I think they killed him.
+{39215}{39246}Oh, God.
+{39297}{39345}I just saw him too.
+{39551}{39602}I'm putting in|a new illusion tonight.
+{39639}{39701}Something special.|I want you to be there.
+{39824}{39861}Of course.
+{39895}{39966}You want me|to find out about Quaid?
+{39967}{40020}- I mean, the funeral?|- No.
+{40112}{40161}I'm not going anywhere near him.
+{40524}{40557}Higher.
+{40629}{40662}Another inch.
+{40688}{40751}The left hand side is too low.
+{40792}{40818}Valentin?
+{40888}{40942}Good. There.
+{41044}{41081}Yes?
+{41121}{41191}I want you to find|this man D'Amour for me.
+{41509}{41539}Shit.
+{41714}{41758}Mr. D'Amour.
+{41760}{41794}Go away.
+{41829}{41875}It's 1:00 in the afternoon.
+{41877}{41929}Who are you, my mother?
+{41958}{42032}I'm here to offer you|a job, Mr. D'Amour.
+{42088}{42139}I'm going back to New York.
+{42190}{42275}Have you got something in New York|that'll pay you 5,000 a day?
+{42502}{42549}Do I get lunch?
+{42551}{42603}Whose car?
+{42605}{42641}Mine.
+{42643}{42726}No, it's not.|You're driving it too carefully.
+{42727}{42786}Maybe I just bought it.
+{42816}{42886}Well, somebody's been|smoking in here for months.
+{43058}{43092}Havanas.
+{43134}{43168}You're not the smoker.
+{43198}{43233}So, who is?
+{43266}{43330}You'd almost pass|for a detective, D'Amour.
+{43365}{43443}I work for the best illusionist|in the world.
+{43474}{43532}- Philip Swann?|- You know of him?
+{43561}{43607}Kinda hard to miss him.
+{43609}{43657}I saw him perform once|in Vegas.
+{43659}{43706}Are you a gambling man?
+{43787}{43830}Swann is quite a magician.
+{43831}{43888}Never call him that.
+{43890}{43934}He's strictly an illusionist.
+{43936}{43970}What's the difference?
+{44063}{44108}Illusions...
+{44110}{44144}are trickery.
+{44201}{44247}Magicians do it for real.
+{44311}{44362}Where'd the flower go?
+{44635}{44682}Any movie stars buried here?
+{44706}{44746}Probably.
+{44748}{44811}It's not a bad place.|It's warm, lots of palm trees.
+{44813}{44883}I don't think the dead|much care.
+{44885}{44919}You sure?
+{44960}{45006}- Are you a believer, then?|- Oh, yeah.
+{45008}{45078}I signed on for all of them|in my time.
+{45080}{45153}Catholic, Hindu, Moonies.
+{45192}{45238}You can't have|too many saviors.
+{45357}{45410}Who's that?
+{45412}{45467}Swann's wife.
+{45671}{45742}I want you to help me|help my husband.
+{45743}{45862}He's in some kind of trouble-- something|to do with the man you saw murdered.
+{45886}{45968}I think Philip believes|all that stuff with the tarot cards.
+{45997}{46031}And you don't?
+{46058}{46117}I think we make|our own futures.
+{46171}{46222}So, what's the connection?
+{46224}{46274}I don't exactly know.
+{46276}{46341}Philip doesn't like to talk|about the past.
+{46342}{46377}Why not?
+{46488}{46539}He's a secretive man.
+{46597}{46643}And you don't ask questions?
+{46696}{46766}We don't share our lives|the way a lot of people do.
+{46768}{46839}But obviously|you still care about him.
+{46841}{46911}We wouldn't be having|this conversation if I didn't.
+{46970}{47041}Swann is one of the most|remarkable men alive.
+{47098}{47137}You don't believe me?
+{47158}{47231}He's an illusionist.|That's not exactly brain surgery.
+{47258}{47304}I'm sorry. You asked.
+{47378}{47441}No, you're right.
+{47478}{47539}He could've been something more.
+{47541}{47576}Maybe a lot more.
+{47613}{47697}But sometimes people get lost.|Even good people.
+{47699}{47787}- Too much money, too much fame.|- Where do I sign up?
+{47863}{47909}Will you take the job,|Mr. D'Amour?
+{47936}{47997}- Harry.|- Harry.
+{48020}{48078}When do you want me to start?
+{48079}{48137}Come to the show with me.
+{48138}{48197}It's his last performance|in L.A. tonight.
+{48234}{48326}I want you to see him with an audience.|They love him.
+{48351}{48377}Do you?
+{48419}{48490}I didn't marry him for love,|Mr. D'Amour.
+{48517}{48567}- Tonight?|- Sure.
+{48602}{48637}Okay.
+{49897}{49931}Excuse me.
+{49985}{50016}Sorry.
+{50113}{50160}- I'm glad you could make it.|- Are you kidding?
+{50161}{50208}This is a big deal for me.
+{50237}{50296}I gotta have the tux back|by midnight.
+{50358}{50389}Valentin!
+{50489}{50524}I'm here.
+{50556}{50641}The guy with Dorothea--|is that him?
+{50875}{50934}- Check if he's ready.|- Ready?
+{50964}{50998}Ready.
+{51705}{51769}How the fuck does he do that?
+{51771}{51807}It's wires.
+{51809}{51884}- I don't see no wires.|- So, what is it? Magic?
+{51940}{51982}Ladies and gentlemen...
+{51984}{52078}you are standing on the threshold|of a miracle.
+{54506}{54578}Come with me|into the great beyond.
+{54689}{54723}He's good.
+{54725}{54771}You haven't seen anything yet.
+{55408}{55461}This is the new illusion.
+{56706}{56771}Have you seen this before?
+{57008}{57053}There's something wrong here.
+{58333}{58384}For God's sake!
+{58386}{58416}Wait! Who are you?
+{58477}{58506}Oh, God.
+{58587}{58613}Please.
+{58707}{58749}Please, Dorothea.
+{58783}{58817}Come away.
+{58819}{58857}It's no use.
+{60197}{60249}I got you, you fucker!
+{60475}{60512}Who did this, D'Amour?
+{60514}{60552}Who killed Swann?
+{60572}{60606}You did.
+{60631}{60672}Didn't you?
+{60674}{60700}Why would I?
+{60702}{60746}Beats me.
+{60748}{60818}You don't have a clue|what you're into, do you?
+{60820}{60849}I feel it!
+{60850}{60890}Deep shit?
+{60990}{61021}Who did this?
+{61080}{61114}It was...
+{61142}{61168}It was...
+{63307}{63365}And this Butterfield guy?
+{63366}{63393}Vanished.
+{63424}{63505}Another fucking magician.|Jesus.
+{63548}{63594}You through with me?
+{63643}{63679}For now.
+{63681}{63741}You planning on moving back|to New York?
+{63778}{63813}No, not yet.
+{64362}{64409}- They treating you all right?|- Yeah.
+{64492}{64540}I heard what happened.
+{64542}{64614}I think I'm gonna|stick around for a while.
+{64616}{64681}Maybe dig in places|that cops wouldn't look.
+{64712}{64774}I wouldn't know|where you'd start.
+{64776}{64830}Maybe with the other illusionists?
+{64850}{64896}They won't tell you anything.
+{64918}{64965}I can be very persuasive.
+{65044}{65074}Yeah.
+{65109}{65155}I think you probably can.
+{66023}{66053}Scotch on the rocks.
+{66130}{66166}Where did you learn that?
+{66168}{66246}Oh, this stuff?|At birth.
+{66301}{66412}Are you a professional, or did you|just come here to watch the shows?
+{66414}{66461}A bit of both.
+{66462}{66542}I know most of the young kids|who are coming up...
+{66543}{66578}but didn't recognize you.
+{66579}{66626}Well, I'm in from New York.
+{66654}{66701}I came out to see Swann.
+{66746}{66797}Yeah, Swann. Swann.
+{66826}{66872}Jeez, that was a tragedy.
+{66899}{67002}The general thinking around this place|was that it was just a question of time.
+{67022}{67069}He was taking a lot of risks?
+{67070}{67106}You'd better believe it.
+{67108}{67168}A lot of risks.
+{67170}{67221}My name's Walter Wilder,|by the way.
+{67246}{67277}Not the Walter Wilder.
+{67278}{67342}Dear boy,|the one and the only.
+{67371}{67442}Take a couple of cards|and try this nonsense.
+{67535}{67609}If you knew Swann,|you must have known Vinovich.
+{67636}{67662}Yeah.
+{67664}{67749}Vinovich knew Swann|way, way back.
+{67751}{67840}He said there were a lot of drugs|around, a lot of crazy shit.
+{67842}{67929}Let me ask you something...|Walter.
+{67949}{68034}I'd love to hang|with you guys for a while.
+{68060}{68140}Magicians are|a pretty cagey bunch.
+{68187}{68268}I suppose it's a question of|who do you know?
+{68286}{68333}Actually, nobody.
+{68410}{68476}Well, you do now.
+{68538}{68633}Now, down here is|what they call the repository.
+{68666}{68710}Behind those locked doors...
+{68711}{68802}lies every secret of magic|known to mankind.
+{68822}{68872}- Ever been in there?|- Me? No.
+{68874}{68930}No, there are only three keys.
+{68931}{68986}Vinovich has got one,|of course.
+{69012}{69068}It is more than entertainment.
+{69070}{69132}We are opening up people's heads.
+{69134}{69249}We are bringing miracles|back into their miserable little lives.
+{69250}{69298}But they're fake miracles.
+{69300}{69366}Houdini believed|he had spirit guides.
+{69368}{69402}Do you believe that?
+{69403}{69438}I believe...
+{69439}{69509}that we walk a narrow path...
+{69510}{69561}between--
+{69563}{69594}Heaven and hell?
+{69596}{69634}Divinity and trickery.
+{69679}{69733}So then, sometimes...
+{69734}{69797}the miracles are real.
+{69799}{69847}No. They are always fake.
+{69849}{69930}The saints, the messiahs,|they were just illusionists.
+{69931}{69978}You could walk on water?
+{69980}{70098}I can reproduce any miracle|that has ever been performed...
+{70099}{70142}with a little preparation.
+{70159}{70201}Even one of Swann's?
+{70260}{70318}- They were no damn good.|- Really?
+{70320}{70384}That's funny.|I heard he was one of the best.
+{70386}{70456}If he was so good,|why is he so dead?
+{70506}{70534}You tell me.
+{70624}{70676}I figured|you'd have some theory.
+{70678}{70722}I have many theories.
+{70723}{70781}I'd like to hear one of them.
+{70838}{70884}I'm not saying another word.
+{70886}{70945}You damn fool, Wilder.
+{70946}{70988}This man is a journalist.
+{70990}{71078}No, I'm not a journalist.|I just wanted to know about Swann.
+{71080}{71129}He was a freak.
+{71131}{71186}Everything he did was tainted.
+{71188}{71244}- With what?|- Evil!
+{71246}{71306}He was evil.
+{71362}{71396}Are you coming?
+{71482}{71589}Do not speak to this man|if you wish to keep my company.
+{71590}{71644}That's a great accent.|What is it, Brooklyn?
+{71646}{71684}Fuck you, all right?
+{72099}{72133}Harry.
+{72644}{72696}I've got to be careful.
+{72698}{72787}- If Vinovich sees me talking to you--|- What do you want, Billy?
+{72789}{72836}I heard a name.
+{72863}{72909}Someone they talk about|in whispers.
+{72911}{72944}Who?
+{72971}{73001}Nix.
+{73068}{73153}He's dead now,|but I think maybe he taught Swann.
+{73155}{73207}Who's doing the talking?
+{73209}{73253}Vinovich.
+{73255}{73301}But you burned|your bridges there.
+{73404}{73436}This is me.
+{73468}{73498}Good luck.
+{73564}{73610}I loved what you did in there.
+{73740}{73772}What are you looking at?
+{74027}{74121}I just want to know what Philip saw in|those cards and stop it from happening.
+{74229}{74276}Divinity and trickery.
+{74403}{74473}Jennifer Desiderio's disappeared.
+{75226}{75260}I know it's late.
+{75292}{75326}It's okay.
+{75365}{75403}How'd it go today?
+{75443}{75510}Went up to the Magic Castle.
+{75544}{75626}You were right. He didn't|have a lot of friends up there.
+{75628}{75666}They were jealous of him.
+{75692}{75730}Why?|Because he had you?
+{75786}{75844}He didn't have me.|I told you.
+{75845}{75901}Yeah, you didn't marry him|for love.
+{75903}{75951}So, why did you marry him?
+{75953}{76000}That's none of your business,|Harry.
+{76054}{76127}You ever hear of somebody|called Nix?
+{76224}{76264}Dorothea?
+{76402}{76448}Yeah, I'm here.
+{76475}{76521}I don't know the name.
+{76523}{76577}What about Jennifer Desiderio?
+{76609}{76656}It doesn't ring a bell.
+{76673}{76699}I have to go.
+{76701}{76736}That's it?
+{76780}{76850}All right.|Look, I'll keep digging.
+{76852}{76910}Yeah. You do that.
+{77251}{77321}" Keep Out|Police Department "
+{77781}{77843}Ever watched a man die?
+{78836}{78874}Yes.
+{79148}{79199}" Desiderio. "
+{79518}{79562}What are you doing here?
+{79564}{79610}Looking for you.
+{79612}{79690}- I tried the hotel.|- So why you'd come here?
+{79692}{79754}You're a detective|with no clues.
+{79756}{79802}Where else would you look?
+{79840}{79879}Do you mind?
+{79917}{79952}I'll keep this brief.
+{79985}{80036}Here's $30,000.
+{80076}{80104}What for?
+{80106}{80144}A ticket home.
+{80170}{80271}You didn't hire me. She did. She wants|me to stop, I wanna hear it from her.
+{80273}{80342}- She doesn't want to see you.|- No?
+{80344}{80407}- People are dying here.|- Yes.
+{80409}{80473}It's a terrible tragedy.
+{80475}{80529}Is that all you have to say?
+{80555}{80605}It's a fucking terrible tragedy?
+{80636}{80706}- I want to know why.|- Why people die?
+{80806}{80888}Give it up, D'Amour.|Go home.
+{80960}{81014}Don't try to see her, D'Amour.
+{81016}{81067}Just leave her alone.
+{81069}{81120}Lock up, will you?
+{81159}{81223}Jennifer has only ever had|one visitor.
+{81225}{81285}- Mr. Quaid?|- Right.
+{81307}{81374}- He's dead, isn't he?|- Yeah.
+{81375}{81423}Heard it on the news.
+{81425}{81471}Jennifer doesn't know...
+{81473}{81540}and frankly, this isn't|the best time for her to be told.
+{81542}{81583}I won't say anything.
+{81622}{81715}She's been with us for four years|and she was coming along nicely.
+{81747}{81802}Past month she's been|worst than ever.
+{81803}{81886}- What's her problem?|- She has no real grip on reality.
+{81907}{81972}- Does anybody?|- Oh, yes.
+{81974}{82063}We have to agree on what's real and not.|That's what holds us together.
+{82087}{82141}What does Jennifer think|is real?
+{82143}{82192}She thinks the devil's|coming for her.
+{82279}{82325}Have we met before?
+{82379}{82420}Only I forget.
+{82488}{82586}They give me pills, you know,|to make me even.
+{82587}{82631}And I...
+{82633}{82677}I forget things.
+{82679}{82715}You didn't forget me.
+{82794}{82884}I just came to see if you remembered|a man named Butterfield.
+{82977}{83020}Maybe. I...
+{83131}{83217}That's okay.|What about Philip Swann?
+{83315}{83348}I knew Swann.
+{83419}{83454}He's a fucking liar.
+{83456}{83493}Why is that?
+{83495}{83542}He said he knew|how to protect us.
+{83563}{83609}But he didn't know anything.
+{83657}{83716}He made us think|it was over and done with.
+{83718}{83757}What was?
+{83847}{83895}I don't wanna think about it.
+{83896}{83947}If I think about it, he'll...
+{83949}{83995}he'll hear me.
+{83997}{84039}He'll find me.
+{84040}{84085}Swann?
+{84087}{84134}I told you. I don't want...
+{84319}{84351}What is it?
+{84352}{84390}Calm down.
+{84442}{84478}No, he'll get me!
+{84479}{84535}He's not-- He's not--
+{84589}{84631}Who's not gonna get you?
+{84632}{84671}Nix. Nix.
+{84673}{84722}- And he's the Puritan?|- Yes!
+{84778}{84828}- And he's dead?|- No.
+{84830}{84877}He's coming back.
+{84879}{84930}He's digging his way out.
+{84932}{84996}I'll take care of her now.
+{85338}{85376}Jesus.
+{87863}{87904}Swann Residence.
+{87906}{87959}I wanna talk to Dorothea.
+{87960}{88012}I'm afraid she's not home.
+{88014}{88056}When will she be home?
+{88082}{88124}Who is it?
+{88170}{88206}Crank call.
+{88267}{88314}I'll get the number changed.
+{88335}{88386}No word from D'Amour yet?
+{88388}{88428}It's better he's gone.
+{88430}{88492}He would have done|more harm than good.
+{88527}{88598}Better for whom? Me?
+{88599}{88634}I don't think so.
+{88675}{88719}Try him again at the hotel.
+{88914}{88971}- This is Billy.|- Billy.
+{88973}{89023}Harry D'Amour.
+{89025}{89070}Listen.
+{89071}{89162}Supposing I wanted to get into|the repository at the Magic Castle.
+{89233}{89271}There we go.
+{89329}{89380}You done something|like this before?
+{89382}{89423}I've had my moments.
+{89457}{89495}Hold that up.
+{89584}{89640}- They've gotta have this place rigged.|- How?
+{89642}{89688}It'll be something hokey.
+{90174}{90207}Whoa!
+{90273}{90319}Let's have a look around.
+{91170}{91239}Butterfield's pal had this|carved on his forehead.
+{91241}{91287}Any idea what it is?
+{91334}{91368}Nope.
+{91680}{91753}What'd I tell you?|So fucking hokey.
+{91886}{91921}What have we got here?
+{92113}{92161}- Get the files.|- Fuck the files.
+{92163}{92228}Billy, get the files!
+{92284}{92321}Go on!
+{92510}{92536}Jesus!
+{92562}{92599}I could have lost|my fucking hands!
+{92667}{92726}That would have kept you|out of the magic circle...
+{92727}{92818}which was presumably|the idea.
+{92851}{92893}Why don't you take|a look through these?
+{92939}{92974}Go on.
+{93222}{93256}These must be about Nix.
+{93285}{93314}The Puritan?
+{93473}{93502}Look at that.
+{93504}{93540}A Nix specialty?
+{93589}{93636}I don't know|any of these tricks.
+{93675}{93717}Maybe they're not tricks.
+{93797}{93874}What did Vinovich say? Something|about walking the path between--
+{93875}{93929}Trickery and divinity.|He's saying that all the time.
+{93930}{93980}He said that because he knew.
+{93982}{94026}Son of a bitch.
+{94027}{94073}He'd seen these and he knew.
+{94074}{94102}Knew what?
+{94841}{94901}Get it off of me!|Where the fuck are you?
+{94902}{94944}Hold it right there.
+{94966}{95024}I said hold it--
+{95538}{95578}Hokey enough for you?
+{95663}{95710}I'm out of here, man.
+{95806}{95845}Comin'?
+{95846}{95881}Yeah.
+{95906}{95952}I'm comin'.
+{96140}{96176}I can't let you in.
+{96534}{96581}This is the way he wanted it.
+{96638}{96673}No autopsy...
+{96710}{96742}no embalming...
+{96814}{96864}nobody meddling with his body.
+{96929}{96981}" Flesh is a trap, "|he used to say.
+{97010}{97048}" Flesh is a trap...
+{97113}{97162}and magic sets us free. "
+{97232}{97268}Why did you come back?
+{97307}{97359}I've been doing some digging.
+{97361}{97400}What did you find?
+{97486}{97554}Jennifer Desiderio, for one.
+{97608}{97674}She threw herself in front|of a car this afternoon.
+{97791}{97846}Why don't you tell me|the truth?
+{98006}{98060}Nix ran some kind|of a cult, right?
+{98098}{98173}Some kind of|a Charlie Manson deal?
+{98174}{98230}It was more than that, I think.
+{98258}{98305}He was the real thing,|wasn't he?
+{98306}{98347}Swann said he could do stuff.
+{98376}{98417}Like?
+{98418}{98478}He could levitate,|juggle fire...
+{98510}{98584}and he could get|into people's heads...
+{98587}{98628}make them see things.
+{98630}{98683}- Terrible things.|- What things?
+{98684}{98741}I don't know.
+{98741}{98838}- And he taught some of this to Swann?|- Yes, some of it.
+{98841}{98926}So then, Swann wasn't|performing illusions.
+{98927}{98965}He was doing magic.
+{98984}{99017}Yes.
+{99018}{99108}What? You thought he should be|using it to cure cancer...
+{99110}{99142}instead of making millions?
+{99205}{99273}- Look, I told you.|- Right. I know. Too much fame.
+{99275}{99353}That'd be enough to turn|anybody's head, including yours.
+{99354}{99384}Oh, fuck you.
+{99386}{99442}You're the one who said|you weren't with him for love.
+{99443}{99486}I wasn't.
+{99488}{99524}Then what?
+{99570}{99624}What the hell was going on here?
+{99697}{99766}- I was grateful to him.|- For what?
+{99767}{99840}Everything I had|I owed to him.
+{100021}{100059}And he loved me.
+{100090}{100150}He couldn't always show it,|but he felt it.
+{100152}{100212}He thought Nix was coming back,|didn't he?
+{100336}{100374}Didn't he?
+{100451}{100515}I can't help you|unless you talk to me!
+{100544}{100614}- You can't help me.|- You don't know that!
+{100968}{101019}Nothing's gonna happen to you.
+{101090}{101127}Nothing?
+{101193}{101239}Nothing you don't want.
+{103523}{103561}I was so afraid.
+{103640}{103672}Don't be.
+{103721}{103767}Nix can't hurt you now.
+{103804}{103840}Are you sure?
+{103842}{103880}Yeah.
+{103913}{103939}He's dead.
+{104067}{104107}I know.
+{104148}{104194}I was the one who shot him.
+{104260}{104296}I was 12.
+{104325}{104414}Nix took me hostage|to get Swann to come to him.
+{104452}{104490}And they all came.
+{104526}{104583}- Yeah.|- Quaid and Jennifer and--
+{104584}{104632}Swann and Pimm.
+{104760}{104790}What was that?
+{104925}{104963}Valentin?
+{105093}{105131}Wait!
+{105547}{105577}What the hell?
+{105838}{105900}It's him. It's Nix.
+{105944}{105986}Dorothea, stay there.
+{107814}{107858}Find Valentin!
+{107894}{107961}Find him and get him in here.|Now!
+{108140}{108172}This is sacrilege.
+{108245}{108295}Are you satisfied now?
+{108369}{108432}Don't worry.|I'm not hurting him.
+{108564}{108627}Looks like you're not|a widow after all.
+{108764}{108802}Sit down.
+{108903}{108958}You rigged the illusion|to fail, right?
+{108960}{108990}Yes.
+{109016}{109055}You set up the fake body?
+{109109}{109147}And then what?
+{109186}{109274}Because I was getting too close|to something or someone...
+{109276}{109332}you called Swann?
+{109333}{109395}No. First I tried|to pay you off.
+{109444}{109493}Was it Swann's idea?
+{109538}{109571}It was mine.
+{109597}{109647}I didn't want any more bloodshed.
+{109649}{109739}That's why we went to all this trouble.|So Nix would have no one to come after.
+{109741}{109828}Nix is dead and buried, for fuck's sake!|What is wrong with you people?
+{109830}{109912}Haven't you seen enough|to know that doesn't matter?
+{109957}{110041}I want to meet with Swann|face to face.
+{110044}{110129}Why can't you just|let this alone?
+{110130}{110184}Let everyone think it's over.
+{110295}{110333}Maybe he's right.
+{110372}{110438}Maybe we should just|let him stay dead.
+{112947}{112993}Couldn't stay away, could you?
+{113174}{113231}Had to see who cried over you|the most, huh?
+{113279}{113322}You know...
+{113323}{113421}a lot of people are gonna be pissed off|when they find out you're still alive.
+{113594}{113641}And they will, you know.
+{113683}{113766}No matter how much shit you|bury yourself under, you're gonna--
+{114051}{114110}You shouldn't have followed me.
+{114135}{114175}How do you do that?
+{114199}{114235}Now I'm going to|have to kill you.
+{114237}{114272}I don't think so.
+{114298}{114335}You need me alive.
+{114338}{114408}Why? So you can fuck|the woman I love?
+{114411}{114487}If you love her so much,|why did you widow her?
+{114897}{114940}What a waste.
+{114942}{114996}You can do shit that most of us|can only dream about.
+{115031}{115097}Then you go around pretending|it's just some trick.
+{115116}{115194}Illusionists get|Las Vegas contracts.
+{115221}{115267}Magicians get burned.
+{115269}{115313}Yeah, or murdered like Nix.
+{115315}{115394}Oh, he deserved it.
+{115396}{115454}Maybe he doesn't feel that way.
+{115455}{115541}Maybe he's digging himself out of|that hole you put him in right now.
+{115543}{115593}That's what|you're hiding away from?
+{115614}{115653}I did it for Dorothea.
+{115679}{115714}Yeah?
+{115764}{115863}Now that I'm dead,|the spotlight's off her.
+{115864}{115953}- So Nix won't be looking for her.|- I betrayed him.
+{115980}{116083}But she shot him. If I'm Nix,|that'd piss me off a little bit.
+{116085}{116142}I don't know what else to do.
+{116142}{116180}Help me.
+{116244}{116277}Look...
+{116369}{116433}if Nix is back from the dead...
+{116434}{116493}then he is some kind of a god...
+{116493}{116560}and he'll find you|wherever the fuck you go.
+{116582}{116658}But if he's just another|phony messiah...
+{116684}{116762}then you can stage|the greatest comeback in history.
+{117451}{117489}Who's there?
+{117667}{117702}Easy.
+{117938}{117980}I've sometimes thought...
+{117981}{118045}if I'd had another profession...
+{118078}{118131}I would have been a surgeon.
+{118229}{118305}To be able to heal|with one little cut.
+{118477}{118553}Say that those eyes of yours|were troubling you.
+{118624}{118682}- Please.|- I could just scoop them out.
+{118728}{118763}No, don't.
+{118765}{118821}Then tell me where Nix is buried.
+{118821}{118891}I don't know.
+{119110}{119158}Wait! Wait!
+{119289}{119318}I'll tell you.
+{119321}{119395}Oh, you'll do more than that.
+{121607}{121655}Clemencia?
+{122466}{122513}Is there somebody there?
+{122982}{123020}I'm-- I'm sorry.
+{123021}{123067}Jesus, Valentin!
+{123132}{123163}I'm sorry.
+{123413}{123474}I can do a lot of shit.
+{123476}{123522}But you know that.
+{123599}{123647}I like playing|with people's heads.
+{123649}{123699}Is that the best you can do?
+{123702}{123788}It's important to distract them|from their banality for a few minutes.
+{123834}{123902}Doesn't mean much in the end.|They're all gonna die.
+{123930}{123969}But you're not?
+{124053}{124133}I was going to discover|the secrets of the universe.
+{124193}{124239}That's why I liked Nix.
+{124268}{124328}He promised me|all these explanations.
+{124331}{124384}But he didn't have them.
+{124385}{124423}He had something.
+{124425}{124493}Showed me how to bend the rules.
+{124495}{124551}A little levitation,|a few fireworks.
+{124553}{124614}- Is that all?|- No.
+{124616}{124725}At the end, when we had him cornered,|he got into my head.
+{124725}{124813}Showed me what we really look like|when the veneer's gone.
+{124830}{124905}Jelly. Shit.
+{124906}{124954}And you believed him?
+{124956}{125024}I saw it with|my own fucking eyes!
+{125025}{125122}That's his best trick:|No illusions, just the truth.
+{125174}{125227}Are you ready for that?
+{125470}{125509}I thought not.
+{126088}{126129}What is it?
+{126346}{126409}Did Dorothea know|where Nix was buried?
+{126502}{126546}Did Valentin?
+{126547}{126585}Yes.
+{126929}{126981}Do you like the look of these?
+{127022}{127061}I made them myself...
+{127086}{127125}to set him free.
+{127156}{127199}Why did you wait so long?
+{127201}{127277}I didn't have the skill...
+{127278}{127329}to resurrect him...
+{127330}{127382}to teach myself.
+{127384}{127434}That took time.
+{127436}{127519}Think he'll be in a fit state|to resurrect after 13 years?
+{127521}{127573}If he was just a man...
+{127598}{127653}like me, then no...
+{127696}{127774}but he's not.
+{127853}{127896}What is he, then?
+{127938}{127989}Maybe he'll show you.
+{128177}{128211}Anything?
+{128244}{128279}Not yet.
+{128540}{128609}- If you have lied to me--|- No, I swear!
+{128612}{128678}This is the place|Swann told me about.
+{128679}{128725}- The rocks--|- Five more minutes.
+{128758}{128827}- Are you hearing me?|- I'm doing my best.
+{129065}{129111}What have you got there?
+{129149}{129183}Fucker!
+{129369}{129407}Butterfield!
+{129522}{129565}He's in the corner!
+{129565}{129608}Don't touch him.
+{130010}{130049}It's him.
+{130807}{130859}Oh, Jesus Christ!
+{131402}{131442}Smell it.
+{131514}{131565}He's coming. He's coming.
+{131599}{131634}He will come.
+{132837}{132889}Help me!
+{132921}{132965}Get out of the car.
+{132966}{133018}Get out of the fuckin' car!
+{133446}{133490}He's got Dorothea.
+{133510}{133582}- And Nix?|- Yes.
+{133584}{133642}- Don't bother about me.|- Shut up!
+{133644}{133690}We've already lost|enough lives.
+{133691}{133785}Please accept my apologies,|D'Amour.
+{133786}{133818}For what?
+{133820}{133892}You're going to lose one more.
+{134053}{134081}No!
+{134082}{134136}He's better off this way.
+{134171}{134219}Nobody's better off this way.
+{134221}{134273}You don't get it, do you?
+{134354}{134404}This is where we're all goin'.
+{134794}{134843}Do you wish him amongst us?
+{134845}{134890}Yes.
+{134891}{134941}Will you come unto him|upon your knees?
+{135005}{135050}Be ready.
+{135750}{135830}Listen. You got|everything you want.
+{135831}{135867}You don't need me.
+{135869}{135951}No, but he will,|after what you did to him.
+{135974}{136021}He'll want vengeance.
+{138411}{138459}Christ in heaven!
+{138541}{138574}My lord.
+{138575}{138632}He's coming home.
+{138739}{138786}He's with us.
+{138787}{138836}He's with us.
+{138912}{138952}Hold her!
+{139756}{139802}Open your eyes.
+{140035}{140073}He's with us.
+{140654}{140701}Where is Swann?
+{140771}{140833}- He's dead.|- No, he isn't.
+{140975}{141015}I swear.
+{141359}{141394}Children.
+{141510}{141578}Will you suffer to come unto me?
+{141968}{142003}Jesus.
+{142045}{142096}What the hell|is goin' on in there?
+{142125}{142204}At a guess,|they just resurrected him.
+{142306}{142341}Fuck!
+{142344}{142447}I've come back to bring you|the wisdom of the grave.
+{142477}{142538}- Will you hear it?|- Yes.
+{142696}{142743}Follow me.
+{143015}{143081}Do I know you, child?
+{143143}{143178}Yes.
+{143214}{143267}I do, don't I?
+{143269}{143346}No gun this time, child?
+{143431}{143475}Where is Swann?
+{143559}{143606}I don't know where he is.
+{143699}{143745}He'll come.
+{143747}{143844}We have unfinished business,|he and I.
+{144522}{144563}This is where we killed him.
+{144821}{144876}Looks like you didn't try|hard enough.
+{144910}{144970}I can't go any further.
+{145094}{145187}Where is she, you fuck, huh?
+{145188}{145257}Are you ready for my wisdom?
+{145327}{145411}Here is my wisdom.
+{145800}{145843}Go! Help her!
+{145993}{146059}You see, I escaped|from the grave...
+{146060}{146177}so I have to give something|to the grave in return.
+{146179}{146232}Yes. Show us.
+{146234}{146276}Show us, Puritan.
+{146944}{147006}I have to give something back...
+{147008}{147070}so I'm giving you.
+{147103}{147142}What's happening?
+{148038}{148073}Go ahead, bleed.
+{148075}{148110}Bleed!
+{149427}{149458}What are you doing?
+{149671}{149748}You're not worthy.
+{149750}{149781}None of you.
+{149783}{149830}Fuck you!
+{149849}{149942}Only Swann is worthy.
+{149963}{150030}You just waited like lambs.
+{150350}{150410}I'm not your shepherd.
+{151668}{151715}You're not Swann.
+{151717}{151757}Who are you?
+{151780}{151852}Oh, I know what you want.
+{152008}{152046}Hold on!
+{152105}{152130}Nix!
+{152192}{152242}There you are.
+{152244}{152290}Come on!
+{152292}{152356}I've had a long time...
+{152358}{152399}to think about you.
+{152421}{152495}Where did I go wrong?
+{152520}{152550}And?
+{152552}{152631}I should have been honest|with you from the start.
+{152632}{152746}I wasn't born to show people|the error of their ways.
+{152748}{152811}I was born...
+{152812}{152872}to murder the world.
+{152873}{152943}You can still help me do that|if you want.
+{152944}{152991}Why would I wanna do that?
+{152992}{153083}The lady has a new love|in her life.
+{153084}{153162}Your friends are all dead.
+{153164}{153225}No one can save you now...
+{153227}{153273}but me.
+{153392}{153451}- Come on!|- We can't leave him there!
+{153515}{153563}I'm not going to!
+{153689}{153727}Bitch!
+{153774}{153816}Butterfield!
+{153818}{153858}Will you help me?
+{153897}{153927}Yes.
+{153929}{154012}Now you know I will kill you|when we're done. I have to.
+{154051}{154104}- Yes.|- But until then...
+{154106}{154168}it'll be just the two of us...
+{154170}{154228}the way it always was.
+{154270}{154290}Yes.
+{154421}{154452}Wait.
+{154454}{154538}You still feel something|for that bitch?
+{154595}{154620}Yes.
+{154625}{154654}Will...
+{154732}{154771}you...
+{154808}{154840}never...
+{154892}{154950}learn?
+{155328}{155386}She's just flesh...
+{155388}{155434}Swannie boy!
+{155477}{155515}I'll show you.
+{156347}{156417}Where is she?|Where did she go?
+{156460}{156526}You've got Swann's disease.
+{156528}{156615}You think that with a little courage|and a little love...
+{156616}{156673}that it'll all be all right.
+{156792}{156882}Tell me where she is|and I'll make it go away.
+{157210}{157234}Dig, D'Amour.
+{157288}{157322}Touch the darkness.
+{157360}{157403}It's been waiting for you.
+{157766}{157812}Harry, it's not real.
+{157846}{157887}Now listen to me.
+{157889}{157926}Look at me!
+{157989}{158022}You'll be okay.
+{158024}{158092}There you are, child.
+{158132}{158176}Come along, child.
+{158931}{158975}What are you seeing now?
+{159178}{159204}There.
+{159933}{159965}One...
+{159967}{160003}last...
+{160036}{160068}illusion.
+{160135}{160183}What's it going to be?
+{160185}{160279}- Fire to burn out your eyes?|- Let's go!
+{160281}{160354}I'm sure Swann loved your eyes.
+{160377}{160463}You shouldn't have taken him|away from me.
+{160492}{160564}We were going to be together...
+{160566}{160615}when I finished with the world.
+{160617}{160672}We were going to keep|each other company...
+{160674}{160713}in the dark.
+{160848}{160914}But I'm on my own.
+{160916}{160983}We're all on our own.
+{161020}{161074}The grave is lonely.
+{161114}{161170}But living is worse.
+{161254}{161300}What the fuck are you?
+{161302}{161374}A man who wanted to be a god...
+{161414}{161485}then changed his mind.
+{161487}{161563}I'm going to be rotten shit|from now on.
+{161614}{161650}The car.
+{161716}{161763}Can you raise me up like the car?
+{161764}{161881}I'm going to show the world|what's waiting at the end.
+{161883}{161937}And I am going to make it...
+{161969}{162010}despair.
+{162834}{162863}Fucker!
+{163516}{163560}It's me.
+{164439}{164477}Is it finished?
+{164558}{164594}I think so.
+{165275}{165310}Run.
+{165338}{165383}Run!
+{166921}{166991}And the fire said to me...
+{166992}{167030}said to me...
+{167086}{167120}Hush!
+{167167}{167275}You will see flesh|with a god's eyes.
+{167341}{167414}I was born...
+{167415}{167467}to murder the world.
+{167613}{167665}" Flesh is a trap. "
+{167667}{167713}That's what he used to say.
+{167745}{167801}" Flesh is a trap...
+{167803}{167858}and magic sets us free. "
+{168000}{168250}Lord of Illusions

@@ -1,0 +1,1064 @@
+{3346}{3426}- Thank you, Jason. On time.|- You bet!
+{3463}{3559}Link. Link Appleyard!
+{3575}{3649}- Miss Hallie.|- Hello, Marshal.
+{3650}{3738}- Howdy, Mr.. Senator.|- No, no. Rance. Rance.
+{3739}{3821}Rance. Sure glad you could come.
+{3822}{3894}Your wire caught us in St Louis.|Thank you.
+{3896}{4005}My buckboard's right over there.|Jason, give me that box.
+{4006}{4051}You knew they were coming!
+{4053}{4154}That's the first time you ever|kept a secret! Blabbermouth!
+{4155}{4216}Was that anybody|worth a line in the paper?
+{4218}{4325}A line? You blasted young fool,|that's Senator Stoddard and his wife.
+{4326}{4400}You can fill your newspaper|with them!
+{4485}{4556}Hi, Lydia. Charlie Hasbrouck.|Emergency!
+{4557}{4664}Tell the office Senator Stoddard|and his wife just got here!
+{4665}{4761}- That's right! Thanks!|- Hey, that's a nickel!
+{4762}{4815}Charge the "Shinbone Star"!
+{5111}{5191}Senator! Senator Stoddard, ma'am.
+{5193}{5306}Could you give me an interview?|Exclusive-like. A scoop!
+{5307}{5451}"Shinbone Star"...|Well, now, son... all right.
+{5452}{5534}I'll give the interview,|but only for one reason.
+{5535}{5584}One reason. Dutton Peabody, founder,
+{5586}{5724}publisher, editor in chief|of the "Shinbone Star" once fired me.
+{5726}{5804}I'll be fired|if I don't get this interview.
+{5806}{5898}Is it true you're going to...|Here he comes now.
+{5991}{6079}Senator Stoddard, this is a surprise|and an honour, sir!
+{6081}{6163}- Maxwell Scott, editor.|- How do you do, Mr. Scott?
+{6164}{6236}- This is Mrs. Stoddard.|- A pleasure, ma'am.
+{6237}{6317}What brings you back to town, sir?|Is it true...?
+{6318}{6369}Oh, no. Hold on, Mr. Scott.
+{6370}{6472}Who am I giving this interview to,|you or this young fellow?
+{6473}{6547}- Who asked first, by the way.|- I sure did.
+{6548}{6673}If you're a good reporter invite|them in, out of the sun and dust.
+{6675}{6761}He's right. To make a man talk,|make him comfortable.
+{6763}{6864}It's back in business again.|Politics.
+{6865}{6967}Link, why don't you take Hallie|for a little ride around town?
+{6968}{7019}Lot of changes, huh?
+{7021}{7118}I'll go with these fellows|and mend a few political fences.
+{7320}{7402}I notice|you're not wearing the star.
+{7403}{7539}Shucks, Miss Hallie. They haven't|elected me Town Marshal for ages.
+{7540}{7684}The only one of us from the old days|still working steady is the senator.
+{7736}{7903}Place has sure changed.|Churches, high school, shops.
+{7940}{8084}Well, the railroad done that.|Desert's still the same.
+{8175}{8300}- The cactus rose is in blossom.|- Maybe...
+{8396}{8532}Maybe you' d like to take a ride out|desert way, and maybe look around.
+{8596}{8645}Maybe.
+{9575}{9647}You knew where I wanted to go,|didn't you?
+{9649}{9760}Well, you said you wanted|to see the cactus blossoms.
+{9761}{9839}There's his house down there,|what's left of it.
+{9841}{9890}Blossoms all around it.
+{9976}{10101}He never did finish that room|he started to build on, did he?
+{10103}{10218}No...|Well, you know all about that.
+{10364}{10415}There's a lovely one there.
+{11396}{11515}Gentlemen, I promised myself|this trip I would not talk politics,
+{11516}{11623}and look here,|that's about all I've been doing.
+{11624}{11718}Surely you're going to Capitol City|and talk to the assembly?
+{11719}{11785}Not this trip. It's purely personal.
+{11786}{11880}Purely personal? That isn't good|enough for my readers.
+{11881}{11955}Why did you come to Shinbone?|No mystery, is there?
+{11957}{12122}No. No, there's no mystery.|I'm here to go to a funeral.
+{12134}{12228}- Funeral?|- Who 's dead, sir?
+{12230}{12351}- No, sir. I...|- A man by the name of Tom Doniphon.
+{12388}{12517}There's my good wife. I'll...|I've enjoyed the visit, gentlemen.
+{12741}{12788}Tom Doniphon?
+{13433}{13571}- Hello, Clute.|- Ransom Stoddard! And Miss Hallie!
+{13572}{13697}Senator, I didn't think... Why didn't|you let me know they was coming?
+{13699}{13766}I' d have had a real bang-up funeral.
+{13767}{13849}Folks from all over everywhere|would have come.
+{14304}{14427}The county's gonna bury him.|I won't make a nickel out of it.
+{14997}{15042}Pompey?
+{15387}{15510}- Miss Hallie.|- Pompey, I'm sorry.
+{15843}{15898}Maybe you' d like to...
+{16118}{16167}Where are his boots?
+{16205}{16320}They was an awful nice pair of boots,|almost brand-new, and I thought...
+{16321}{16424}Put his boots on, Clute,|and his gun belt and his spurs.
+{16426}{16528}He didn't carry no handgun, Rance.|He didn't for years.
+{16529}{16576}Yeah, sure.
+{17284}{17430}Sir, I don't wish to intrude,|but a United States senator is news.
+{17448}{17563}I'm the editor of a newspaper|with a statewide circulation.
+{17565}{17614}I've got a responsibility to know
+{17615}{17712}why you came all the way down here|to bury a man.
+{17713}{17816}You can't say his name was|Tom Doniphon and leave it at that.
+{17818}{17873}Who was Tom Doniphon?
+{17874}{18006}He was a friend, Mr. Scott,|and we' d like to be left alone.
+{18007}{18050}Scott, let's go.
+{18052}{18173}I'm sorry. That's not enough.|I have a right to have the story.
+{18469}{18536}Yes, I guess maybe you have.
+{19006}{19078}This story not only concerns me.
+{19089}{19179}Old Pompey in there, Link...|they were part of it.
+{19181}{19269}But I suppose I'm the only one|who can tell it through.
+{19271}{19380}I read of the old days in the paper's|files. There was no mention...
+{19381}{19465}You're a young man! A young man.
+{19466}{19535}You only know it|since the railroad came.
+{19536}{19664}A lot different then. A lot different|before, Mr. Scott. A lot different.
+{19665}{19759}First time I came to Shinbone,|I came by stagecoach.
+{19761}{19816}A lot like that one right there.
+{19960}{20108}Could be the same one.|Could be the same one.
+{20152}{20234}"Overland"...?|Say, I think it is the same one!
+{20236}{20283}Well, I declare.
+{20336}{20391}Well, I declare.
+{20392}{20497}I was just a youngster,|fresh out of law school,
+{20498}{20646}bag full of law books and my|father's gold watch, $14.80 in cash.
+{20677}{20815}I had taken|Horace Greeley's advice literally:
+{20826}{20990}Go west, young man, go west,|and seek fame, fortune, adventure.
+{21133}{21186}Stand and deliver!
+{21595}{21650}Shotgun, shuck your shells.
+{21776}{21854}Throw down the cash box. Now!
+{21879}{21965}All right.|Get the passengers out of the coach.
+{22610}{22709}Looks like slim pickings,|but lift their wallets anyway.
+{22899}{23012}- I'll take that pin, too.|- No. My dead husband gave it to me.
+{23013}{23093}- Please!|- A widow? I'll take it...
+{23095}{23189}Take your hands off!|What kind of men are you?
+{23191}{23240}This kind, dude.
+{23339}{23411}Now, what kind of man are you, dude?
+{23466}{23597}I am an attorney at law, and I'm|duly licensed by the territory.
+{23598}{23690}You may have us now,|but I'll see you in jail for this!
+{23691}{23734}Jail?
+{23808}{23849}Stop it!
+{23851}{23943}Get him out of here!|Get in that coach! Go on, move!
+{23944}{24043}Get in there! You, too!|Come on, inside!
+{24044}{24120}- He could die!|- We'll send him flowers!
+{24149}{24194}Chico, cut the leaders!
+{24572}{24615}Get going!
+{24826}{24902}Put that in here|and get to your horses. Hurry!
+{24903}{24958}A book?
+{24976}{25021}Law?
+{25526}{25579}Lawyer, huh?
+{25656}{25767}I'll teach you law... Western law.
+{25911}{26028}Let's get out of here.|Come on! Come on!
+{27172}{27241}Hallie! Wake up, gal!
+{27396}{27495}Tom Doniphon! 5:30am.|What's the matter with you?
+{27496}{27576}We've got a man down here ambushed.|Ambushed!
+{27577}{27644}Like to die|if we don't get care for him.
+{27902}{27990}- It's the man from the hold up.|- That's right.
+{28025}{28074}How did you know?
+{28076}{28145}Stagecoach stopped by last night|to notify the marshal.
+{28146}{28193}Link Appleyard?
+{28194}{28290}Don't stand there gossiping.|Get him inside. Pompey!
+{28291}{28390}Think you can make it, pilgrim?|Pick him up, Pompey.
+{28766}{28815}Put him on the couch.
+{29146}{29240}Tom, he's hurt real bad.
+{29831}{29878}Thanks, Pompey.
+{29961}{30122}Poor man. Beaten, whipped and kicked,|just for trying to protect a woman.
+{30128}{30241}- How's that again?|- Stage driver told us all about it.
+{30274}{30401}Well, Pompey, looks like|we got ourselves a ladies' man.
+{30520}{30565}Hallie, we...
+{30566}{30617}- Get some bandage.|- But...
+{30618}{30675}I'll take care of him.
+{30828}{30939}Pilgrim, you'll need|a couple of stitches.
+{30941}{31048}Pompey, go find Doc Willoughby.|If he's sober, bring him back.
+{31229}{31358}Nora, sorry to bust in on you|like this. He's in trouble.
+{31359}{31466}- Such a beating.|- This is just simply terrible.
+{31468}{31540}By golly,|I'm going to get the marshal.
+{31541}{31641}You want coffee?|I make some breakfast. Hallie?
+{31766}{31846}Take her easy there, pilgrim.
+{31895}{31946}You all right?
+{32474}{32573}Here we are. Drink this.
+{32860}{32905}Is that coffee?
+{32906}{33006}Yah, coffee, and aquavit.|Swedish brandy. Good for you.
+{33007}{33074}No, I don't care for that.
+{33097}{33173}Here, you must drink.|That make you feel better.
+{33202}{33315}It ain't mannerly out west|to let a fellow drink by himself.
+{33564}{33667}- All right if I smoke, ain't it?|- Sure. Go right ahead.
+{34142}{34241}- Good. Now you will feel stronger.|- Thank you, ma'am.
+{34278}{34406}Took my watch. My money's gone,|every cent I had in the world.
+{34407}{34470}Don't fret about that, pilgrim.
+{34471}{34571}You can eat here|until you get back on your feet.
+{34572}{34666}- My credit's still good, Nora?|- Yah, Tom.
+{34723}{34846}- Lie down. Please lie down.|- No. No, not now.
+{34896}{34993}Not now.|I've got something to do.
+{35034}{35101}Got something to do.
+{35137}{35221}What did you say his name was?
+{35223}{35309}The man with the silver-knobbed whip?
+{35310}{35425}I said Liberty Valance,|but if that's what you got to do,
+{35427}{35486}you better start packing a handgun.
+{35513}{35572}A gun? I don't want a gun.
+{35598}{35680}I don't want a gun.|I don't want to kill him.
+{35696}{35743}I want to put him in jail.
+{35802}{35919}I know those law books mean a lot|to you, but not out here.
+{35921}{35997}Out here,|a man settles his own problems.
+{36036}{36137}But do you know|what you're saying to me?
+{36172}{36320}You're saying just exactly|what Liberty Valance said.
+{36346}{36416}What kind of community|have I come to?
+{36417}{36486}You all seem to know Liberty Valance.
+{36487}{36575}He's a no-good, gun-packing,|murdering thief,
+{36576}{36664}but the only advice you give me|is to carry a gun.
+{36666}{36775}Well, I'm a lawyer!|Ransom Stoddard, Attorney at Law.
+{36799}{36895}And the law is the only...
+{36931}{37025}A little law and order around|Shinbone wouldn't hurt anyone.
+{37026}{37091}All right, Hallie.
+{37220}{37325}Arrest this man! Arrest him!|Nobody seems to want...
+{37327}{37442}Well.|Here comes Mr. Law and Order himself.
+{37443}{37574}- He's hurt bad.|- What are you dragging me here for?
+{37575}{37675}Ain't being up all night on account|of this hold up business...
+{37700}{37765}- Who 's this?|- From the hold up.
+{37766}{37860}- I knew I shouldn't come over.|- Wait a minute, Marshal.
+{37897}{38012}Tom, if he's got a formal complaint|to make, he should make it to me.
+{38013}{38111}He just wants you|to put Liberty Valance in jail.
+{38144}{38259}Liberty Valance? Do you think|I'm crazy? Tom, let me out of here.
+{38260}{38363}Hallie thinks he's right.|You' d better listen. He's a lawyer.
+{38365}{38436}Somebody better listen to somebody|about him!
+{38487}{38567}Mamma, Liberty Valance|rides into town...
+{38568}{38689}If he behaves himself in this town,|I ain't got no...
+{38690}{38737}Jurisdiction.
+{38739}{38811}What he said.|I ain't got none of it.
+{38813}{38877}You all know|I'm only the town marshal.
+{38878}{38979}What Liberty does out on the|road ain't no business of mine.
+{38980}{39039}Ain't that right, Mr. Lawyer?
+{39112}{39210}Technically, I suppose|it is a territorial offence.
+{39211}{39314}- You mean I'm right?|- Yes, Marshal, you're right.
+{39315}{39443}I knew it! I knew we' d be friends|the minute I stepped in here.
+{39444}{39551}You folks all know that,|well, the jail's only got one cell,
+{39552}{39626}and the lock's broke,|and I sleep in it.
+{39628}{39722}I should have known nothing would|happen when you came in here.
+{39724}{39796}Now get out,|you big old fat water buffalo!
+{39798}{39888}- We got work to do!|- Hallie, I ain't ate yet.
+{39889}{40024}I could sure use a snack|of six or seven of those hen's egg
+{40025}{40142}and maybe a side order of bacon,|and is that flapjack batter?
+{40143}{40252}On the cuff. Sit down.|Papa, get your pants on!
+{40253}{40321}Get out of the way! Sit down!
+{40451}{40558}You know, you look mighty pretty|when you get mad.
+{40591}{40688}Like I say, you can eat here|till you get back on your feet.
+{40689}{40837}- May I have your name?|- Doniphon. Tom Doniphon.
+{40877}{40996}Forget what I said about buying|a gun. You're a tenderfoot.
+{41008}{41148}Liberty Valance is the toughest man|south of the Picketwire, next to me.
+{43350}{43463}- Mr. Peabody!|- Evening, Marshal.
+{43701}{43798}Did you know that Liberty Valance|is in town tonight?
+{43799}{43866}I' d be a poor newspaperman indeed
+{43867}{43941}if I didn't know|what everybody else knows.
+{43942}{44026}I don't know what to do,|Mr. Peabody, I swear.
+{44027}{44099}Do what you're paid to. Run him out!
+{44101}{44146}Run him out... Liberty Val...me?
+{44148}{44226}- My advice to you as...|- Coroner.
+{44227}{44327}- And your personal pos...|- Physician!
+{44328}{44429}Is to get supper and go to bed.|No charge.
+{44454}{44542}Sound advice, Marshal. Sound advice.
+{44753}{44845}Hallie, my love, where are you?|I await you, my dear.
+{44847}{44918}Good evening.|Saturday night, Mr. Peabody.
+{44919}{45013}Better order early before those|drunks come from across the street.
+{45014}{45150}Hallie, please. The proprieties|concerning the cutlery.
+{45152}{45203}How many times have I told you,
+{45205}{45293}the fork goes to the left|of the plate, the knife goes...
+{45295}{45410}You superstitious or something?|What are you having to eat?
+{45426}{45471}The usual.
+{45473}{45576}Steak, beans, potatoes|and deep-dish apple pie.
+{45578}{45716}- Three steaks with a lot of black.|- All right.
+{45718}{45810}- Lot of black-eyes, Hallie.|- All right, Kaintuck!
+{45812}{45888}Three steaks,|burnt black for the Lazy "J" boys.
+{45889}{45973}Heavy on the beans.|Usual for Mr. Peabody with fixings.
+{45975}{46102}- Steak, beans, potatoes.|- And deep-dish apple pie.
+{46103}{46206}Someday, he'll order something|different, and we'll all faint.
+{46386}{46445}Goodness, Rance,|aren't you finished yet?
+{46447}{46531}No wonder if your mind isn't on it.|Let me help.
+{46533}{46617}Hallie, I found it. I'll show...|No, my hands are wet.
+{46618}{46687}Get the book.|Come on, take the book a minute.
+{46688}{46795}Nora, Peter, come here and hear this.|Now, get the book.
+{46797}{46879}That place right here where it says,
+{46880}{46993}"Under the law of this territory."|Hallie, you read it out loud.
+{46995}{47116}I got Liberty Valance exactly where|I want him. Exactly where I want him.
+{47118}{47173}What's the matter? Go ahead. Read it.
+{47243}{47393}- I can't.|- What? You... Well, why not?
+{47438}{47524}I never had the schooling,|that's why not.
+{47720}{47767}You mean you can't read at all?
+{47818}{47962}No, I can't read, and I can't write.|Here, take your book.
+{47963}{48043}For heaven's sakes,|isn't Mr. Peabody's order ready?
+{48074}{48166}- Hallie...|- Not enough beans on it.
+{48203}{48252}Hallie, I'm sorry.
+{48336}{48389}I could teach you.
+{48442}{48543}What for? What good has reading|and writing done you?
+{48544}{48603}Look at you. In an apron.
+{48707}{48750}Be right with you, boys.
+{48752}{48834}I do look funny in this.|I didn't mean to hurt her.
+{48835}{48940}She'll get over it. What is|reading and writing for a girl?
+{48941}{49038}She'll make a wonderful wife|for any man.
+{49039}{49117}And if Tom Doniphon is smart,|he pops the question
+{49118}{49227}before some busybody I am married to|upsets his bag of apples.
+{49229}{49305}Aw, you!|Eat supper before come the drunks.
+{49307}{49395}- But I'm not finished.|- Go sit down! Eat!
+{49931}{50019}What you cooking, steak and potatoes?
+{50021}{50117}I'm hungry. Could I impose|upon your hospitality?
+{50118}{50202}Just a couple of those steaks|and no beans.
+{50204}{50278}Marshal.|You're the man I'm looking for.
+{50279}{50392}Not so loud.|And double on the potatoes.
+{50393}{50475}One steak for one marshal|on the cuff.
+{50556}{50622}Marshal, I was wrong the other day,
+{50623}{50691}but I've been reading up,|and there it is.
+{50692}{50778}I'll draw up the complaint,|take care of the details,
+{50780}{50862}but you do have jurisdiction,|it says so right there.
+{50864}{50985}The next time he sets foot|in this town, you arrest him.
+{50987}{51135}Anything you say, Mr. Stoddard.|I'll be tickled to death to...
+{51161}{51263}- What was that? Arrest who?|- Liberty Valance.
+{51264}{51397}Arrest Liberty Val...|You mean Liberty Valance?
+{51398}{51505}Just when I was starting|to get my appetite back.
+{51507}{51572}A lot of black-eyes.
+{51573}{51670}Steaks for the Brophy boys|with black-eyed peas. Burn 'em.
+{51671}{51755}- They're sober tonight, too.|- Burn four.
+{51969}{52030}Here's the supper for Rance.
+{52122}{52181}- Thank you, Hallie.|- Sit down!
+{52182}{52256}You pop up|every time a girl speaks to you.
+{52258}{52342}- You get in the habit.|- Rance, do you think I could?
+{52344}{52424}I mean, grown-up and all?|Could I learn to read?
+{52426}{52547}Sure you can, Hallie.|There's nothing to it.
+{52549}{52670}It' d be... Can you learn to read?!|Why, I can teach you.
+{52671}{52780}A smart girl like you? Of course|you can. Do you want to try?
+{52781}{52923}It's awful worrisome not knowing how.|I know the Bible from preacher talk,
+{52924}{53012}but it' d be a soul comfort|to read it myself.
+{53013}{53120}I'll teach you how. In no time,|you'll be reading everything.
+{53205}{53295}Hallie, can I have|just one more steak?
+{53323}{53386}One steak on the cuff!
+{53843}{53894}All right, all right.
+{53965}{54029}Excuse me.
+{54075}{54142}- Nora, did you hear the news?|- No.
+{54143}{54221}- Rance'll learn me to read.|- "Teach me to read."
+{54222}{54275}Teach me to read.
+{54304}{54442}I cannot say my ABC in Swedish.|Maybe you can teach me in English.
+{54449}{54510}Sure, Nora.|You'll be my second pupil.
+{54512}{54571}Hal's my first. You'll be my second.
+{54572}{54633}Peter, you hear that? Peter!
+{54697}{54806}Well, pilgrim, I see you're still|protecting the ladies.
+{54808}{54884}Tom, look at you.|You're all dressed up.
+{54885}{54963}- It's Saturday night.|- Don't you look handsome?
+{54987}{55059}I brought you a little present.
+{55060}{55138}Prettiest cactus rose|I ever did see.
+{55139}{55182}It's a beauty. Look at it, Nora.
+{55183}{55284}- Should look nice in your garden.|- But it should go in now...
+{55285}{55384}- I'll be pleased to plant that.|- Thank you, Pompey.
+{55385}{55461}The Hash outfit just arrived.|Burn eight.
+{55499}{55601}- Not too close to the ocotillo bush.|- Yes, ma'am.
+{55692}{55784}"Ransom Stoddard, Attorney at Law."
+{55808}{55865}You're a persistent cuss, pilgrim.
+{55888}{55958}You really aim to hang that up|outside?
+{55959}{56074}- That's why I painted it.|- Take some advice, pilgrim.
+{56076}{56183}You put that thing up,|you'll have to defend it with a gun,
+{56184}{56254}and you ain't exactly the type.
+{56318}{56367}Comin' up.
+{56395}{56436}Thank you.
+{56437}{56562}A girl needs six hands on Saturday|night, and it's so hot. Look at me.
+{56564}{56662}Any more colour and you' d be|prettier than that cactus rose.
+{56663}{56743}Tom, that's mighty flattering.
+{56744}{56845}Burn me a good, thick one, Pete,|meat and potatoes.
+{56846}{56928}- Hello, Kaintuck.|- Evening, Tom.
+{57045}{57125}- Tom.|- Object to company, Mr. Peabody?
+{57127}{57207}Not to yours, Tom.|Sit down, sit down.
+{57300}{57371}I suppose you know|who 's across the street?
+{57398}{57480}Yeah. I hear he sent word on ahead.
+{57482}{57611}He won't like what the town's been|saying about him and that hold-up.
+{57663}{57704}How about you, Kaintuck?
+{57705}{57748}- I'd like a st...|- Steak?
+{57750}{57793}- Yes, ma'am.|- Well-burnt.
+{57795}{57858}- And d-d-dee...|- Deep-dish apple pie.
+{57859}{57920}- Yeah.|- Coming up.
+{57941}{58041}Mighty nice girl,|that Hallie. Mighty pretty.
+{58042}{58139}I agree with you, sir.|Just told her so.
+{58140}{58261}What? Do I hear wedding bells?|When can I print the story?
+{58262}{58369}Don't rush me,|Mr. Editor. Don't rush me.
+{58516}{58586}There's your cactus rose.|Sure is pretty.
+{58587}{58665}Thank you, Pompey. It is pretty.|Go and get supper.
+{58667}{58716}Thank you, ma'am.
+{58866}{58958}Look at that. Isn't that|the prettiest thing you ever saw?
+{58960}{59011}Very pretty.
+{59072}{59187}- Did you ever see a real rose?|- No.
+{59239}{59296}But someday if they dam the river,
+{59297}{59362}we'll have water|and all kinds of flowers.
+{59561}{59635}When you finish the dishes,|will you help wait tables?
+{59636}{59708}- Sure.|- Washing dishes is enough for him.
+{59710}{59825}- A man waiting on tables?!|- No, I' d be glad to help.
+{59827}{59905}- Be glad to.|- I thought we was busy.
+{60814}{60892}These steaks look done|just right for us.
+{60947}{61035}You cowhands ain't in no hurry|to eat, are you?
+{61086}{61137}Well, I am!
+{61164}{61256}I guess we could do|with another drink.
+{61290}{61364}That's right neighbourly|of you, partner.
+{61485}{61536}Especially after all the lies
+{61538}{61618}I hear folks been saying|about Liberty Valance.
+{61689}{61800}Wait a minute!|One of Mamma's pies for Tom.
+{62282}{62343}Lookee at the new waitress.
+{62735}{62790}That's my steak, Valance.
+{62918}{63014}You heard him, dude. Pick it up.
+{63038}{63093}- No!|- Pilgrim, hold it.
+{63094}{63186}I said you, Valance. You pick it up.
+{63211}{63369}- Three against one, Doniphon.|- My boy Pompey in the kitchen door.
+{63569}{63618}I'll get it, Liberty.
+{63737}{63839}I said you, Liberty. You pick it up.
+{63925}{64042}What's the matter?|Everybody here kill-crazy? Here!
+{64121}{64285}There! There!|Now, it's picked up!
+{64414}{64512}Why don't you get yourself|a fresh steak on me?
+{64628}{64679}Show's over for now.
+{64769}{64880}Try it, Liberty. Just try it.
+{65011}{65054}Get out!
+{66254}{66320}I wonder what scared him off.
+{66321}{66407}You know what!|The spectacle of law and order here,
+{66408}{66480}rising up from the gravy|and the potatoes.
+{66481}{66604}All right, you made your point.|The gun scared him off.
+{66605}{66673}Pompey's gun, your gun, Tom.
+{66674}{66735}Why did you interfere? He tripped me.
+{66736}{66781}It was my steak.
+{66782}{66839}And you would have killed him for it,
+{66841}{66931}or he would have killed you|over one measly steak!
+{66933}{67035}- That's why I picked it up!|- Thanks for saving my life, pilgrim.
+{67036}{67168}That isn't why I did it!|Nobody fights my battles.
+{67879}{67938}Rance, I'm sorry.
+{68295}{68396}I'm not in the habit|of eating my steak off the floor.
+{68499}{68622}Well, cool off, pilgrim.|It's all over. Nobody got hurt.
+{68623}{68723}It's not all over, and everybody|here knows it. He'll be back.
+{68724}{68812}He will, but not after me.|After you, pilgrim.
+{68813}{68895}And you can't shoot back|with a law book.
+{68897}{68944}What Peabody's saying is,
+{68946}{69034}if you want to stay healthy,|there's two ways to do it.
+{69036}{69126}Buy a gun or leave the territory,|is that what he meant?
+{69127}{69188}- That's it, pilgrim.|- By golly...
+{69190}{69278}I' d hate to see you go.|You're news, Mr. Stoddard,
+{69280}{69354}and you've been news|ever since you hit town.
+{69355}{69427}"Ransom Stoddard, Attorney at Law."
+{69429}{69546}I didn't mean to hurt|your feelings out there.
+{69547}{69639}I'll tell you what.|You decide to stick around,
+{69640}{69730}and I'll let you hang this|outside the newspaper office
+{69732}{69793}rent-free, for as long as it lasts.
+{69794}{69909}No. The first time|Liberty rides into town,
+{69911}{70007}he'll shoot it to pieces,|and the whole newspaper office.
+{70008}{70142}- How about that, Mr. Peabody?|- Well, that' d be news.
+{70143}{70198}I accept your offer, Mr. Peabody.
+{70199}{70271}How about letting me hang that up|tomorrow?
+{70291}{70406}- Tomorrow? Well, of course.|- Thank you.
+{70407}{70452}Why not?
+{70537}{70625}I'm staying,|and I'm not buying a gun either.
+{70651}{70702}Good luck, pilgrim.
+{70743}{70821}Hallie,|I'll be out of town for a while,
+{70823}{70893}north of the Picketwire,|horse-trading.
+{70951}{71008}Goodbye, Tom.
+{71061}{71196}And take note of what goes on around|town, because by the time I get back,
+{71197}{71273}there won't be no newspaper|to read it in.
+{72021}{72132}- Well, any news?|- Hansons had a baby, eight pounds.
+{72134}{72204}- But not twins?|- Not twins.
+{72205}{72276}I got this list of voters for you.
+{72277}{72359}There are 37 new registrations|over last year,
+{72361}{72427}and not one needed a lawyer.
+{72428}{72576}37? By golly!|lf we can only get them to vote,
+{72577}{72700}maybe we can handle those cattle|barons from across the Picketwire.
+{73246}{73349}- Did you write this, Mr. Peabody?|- Yeah.
+{73412}{73558}- This is great.|- You like it?
+{73559}{73606}This thing's just great.
+{73709}{73799}As my old boss,|Horace Greeley, used to say,
+{73800}{73853}we'll tear their hearts out.
+{73920}{73971}I'll be right there.
+{74129}{74196}Let me have this.|I'll use it in class.
+{74302}{74372}Good morning. I'm sorry I'm late.
+{74373}{74469}A teacher should never|be late for class. Take your seats.
+{74470}{74593}Quite a turnout this morning.|We have more pupils every day.
+{74594}{74697}- Morning, Marshal. How you feeling?|- Just fine, fine.
+{74699}{74773}- Your head cold?|- No, no. I have a...
+{74820}{74919}Excuse me. I just wanted|to see how Julietta was doing.
+{74920}{75000}- Julietta's doing fine.|- Gracias, se?or.
+{75002}{75078}How's the rest of my family|doing in reading?
+{75079}{75151}Hallie's in charge|of the kindergarten.
+{75153}{75229}Hallie, why don't you run through|the ABCs?
+{75329}{75502}All right, you ready?|One, two, three.
+{75504}{75601}A, B, C, D, E, F , G
+{75602}{75696}H, l, J, K, L, M, N, O, P
+{75697}{75789}Q, R, S and T, U, V
+{75790}{75889}W, X and Y and Z
+{75890}{75989}Now I know my ABCs
+{75990}{76076}Tell me what you think of me
+{76078}{76148}That was just fine, just fine.
+{76149}{76225}Well, I see a couple more|new pupils back there.
+{76226}{76345}Highpockets, Kaintuck, you fellas|really serious about readin'?
+{76347}{76414}Go on. Stand up. Tell him.
+{76465}{76570}Well, Miss Hallie, she|talked such a right smart argument
+{76571}{76694}to the Lazy " J",|the boss of the Lazy " J".
+{76695}{76795}He just up and told|all the hands to cut the cards
+{76796}{76888}to see who come to school,|and I lost.
+{76889}{76983}I see. We'll try.|Good morning, Mr. Carruthers.
+{76985}{77084}Good morning. Caught him|playing hookey again, fishing.
+{77085}{77132}Catch anything, Herbert?
+{77133}{77213}- No, sir. They weren't biting.|- That's too bad.
+{77215}{77284}- Ain't you gonna whop him?|- He's too big.
+{77285}{77353}For the benefit of those of you|just starting...
+{77371}{77492}None of us in here smoke,|Mr. Carruthers. Thank you.
+{77519}{77597}For those of you|who have just started,
+{77599}{77681}I might explain to you|that we've begun the school
+{77682}{77805}by studying about our country,|and how it's governed.
+{77832}{77910}Now, let's see. Well, Nora...
+{77912}{78027}Would you tell the class what you've|learned about the United States?
+{78160}{78275}The United States is a republic,
+{78308}{78417}and a republic is a state
+{78418}{78539}in which the people are the boss.
+{78583}{78721}That means us.|And if the big shots in Washington
+{78722}{78855}don't do like we want, we don't vote|for them, by golly, no more.
+{78856}{78919}- Any more!|- Any more.
+{78920}{79000}That's fine, Nora. That's just fine.
+{79001}{79085}Now, I wonder|if anybody in class remembers
+{79086}{79166}what the basic law of the land|is called.
+{79168}{79285}You remember I told you it had|to be added to and changed sometimes,
+{79287}{79336}by things called amendments.
+{79338}{79430}Does anybody remember?|Julietta, your hand's always up.
+{79432}{79504}Pompey, you try this one.
+{79631}{79705}It was writ by Thomas Jefferson|of Virginia.
+{79706}{79807}- "Was written", Pompey.|- Written by Thomas Jefferson.
+{79808}{79907}- He called it the Constitution.|- Declaration of Independence.
+{79908}{80072}It begun with the words...|"We hold these truths to be..."
+{80073}{80147}- Self-evident.|- Let him alone, Charlie.
+{80148}{80294}- "Self-evident, that..."|- "That all men are created equal."
+{80365}{80470}- That's fine, Pompey.|- I knew that, but I plumb forgot it.
+{80472}{80573}A lot of people forget that part.|You did just fine, Pompey.
+{80574}{80638}- Thank you.|- This law also states
+{80639}{80721}that governing power rests|with the electorate.
+{80722}{80812}That means you,|that means the people.
+{80813}{80930}And you ex ercise this power|through the vote. Yes?
+{80931}{80992}Con permiso, los gentlemen's?
+{81072}{81144}Well, Hallie?|Go right ahead, Hallie.
+{81146}{81292}Here is the best textbook in|the world. It's an honest newspaper.
+{81293}{81402}This is the "Shinbone Star,"|Dutton Peabody, Editor in Chief.
+{81404}{81480}And reading this ought to bring home|to everybody
+{81482}{81589}the importance of using that vote.|Now, the headlines say:
+{81590}{81688}"Cattlemen fight statehood.|Small homesteaders in danger."
+{81689}{81798}It says clearly that if big ranchers|north of the Picketwire River
+{81800}{81888}win their fight to keep this|territory in open reign,
+{81889}{82002}then all your truck farms and your|corn, the small shopkeepers
+{82004}{82148}and everything, your kids' future,|it will all be all over, be gone!
+{82150}{82226}And they call upon you,|in this article,
+{82227}{82348}they call upon you to unite|behind a real strong delegate
+{82349}{82443}and carry this fight|to Washington if necessary.
+{82445}{82545}Hello, Tom.|Welcome back. You want to join us?
+{82546}{82595}I'm looking for Pompey.
+{82597}{82700}I've been away three weeks, and|there's no sashes or doors in yet.
+{82701}{82822}Why have you been wasting time here?|Get to work. Your schooling's over.
+{82824}{82914}Don't get rough with Pompey.|He's entitled to a...
+{82915}{83017}What I got to say to you|will be a whole lot rougher.
+{83018}{83106}The good editor here|has written some noble words,
+{83108}{83196}and you read 'em good,|but if you put that paper out,
+{83198}{83280}the streets of Shinbone|will be running with blood.
+{83282}{83360}Why are you against this,|you of all people?
+{83361}{83466}Aren't there more votes|south of the Picketwire than north?
+{83467}{83549}That's right, but votes|won't stand up against guns.
+{83551}{83612}Guns? What guns, Tom?
+{83613}{83715}You think Valance stays away|from here cos he's scared of you?
+{83716}{83796}He's recruiting hired guns|for the big ranchers.
+{83798}{83880}- Sí, papacito?|- Take the little ones home.
+{83908}{83953}Come on.
+{83954}{84046}Hallie, it would be a good idea|if you dismissed class.
+{84047}{84133}- Dismiss class?|- Go on. Dismiss them, please.
+{84165}{84226}Class dismissed! Same time tomorrow.
+{84227}{84288}You get to the store.
+{84363}{84427}It could get worse|than the sheep wars.
+{84428}{84485}You think|they'll start something here?
+{84486}{84582}It's already started. Valance and|his men crossed the river yesterday,
+{84583}{84673}killed a couple of sodbusters,|old man Holiday and his son.
+{84674}{84731}You know that for a fact?
+{84732}{84845}I do. They tried to bushwhack me,|unfortunately for one of them.
+{84846}{84944}- You putting that in your newspaper?|- It's news, and I'm a newspaperman.
+{84945}{85019}Print that,|he'll kill you sure as hell.
+{85021}{85095}You think they'll come here, Tom?
+{85097}{85169}They'll be here,|tomorrow or the next day
+{85171}{85263}according to how much|who-hit-John they consume,
+{85265}{85382}but election day, pilgrim, you|can depend on it. They'll be here.
+{85383}{85486}Hallie, go where you belong. I don't|want you in no shooting gallery.
+{85488}{85545}Now, you listen to me, Tom Doniphon.
+{85546}{85665}What I do and where I go isn't|your business. You don't own me.
+{85699}{85810}Like I said, Hallie,|you're awful pretty when you get mad.
+{86318}{86381}Rance. After all you've taught us,
+{86382}{86468}how can you say|we should knuckle under now?
+{86470}{86523}You heard what Tom said.
+{86524}{86624}When force threatens,|talk's no good any more.
+{86837}{86913}Hallie, go find Tom|and make it up to him.
+{86952}{87009}He's only trying to protect you.
+{88101}{88150}Better let him go, Hallie.
+{88232}{88312}Why? Where's he going?
+{88313}{88403}He's going to need|all the practice he can get.
+{88405}{88491}Practice? What are you talking about?
+{88596}{88653}I might as well let you know.
+{88655}{88762}When he came in with me,|I let him have a gun of mine.
+{88763}{88872}He's been going out in the country|twice a week practising ever since.
+{88909}{89053}You mean he's going to face up|to Liberty Valance? Rance?
+{89054}{89179}That's the only way I figure it.|He never discussed it.
+{89180}{89241}He just keeps on practising.
+{89471}{89543}Tom! Tom Doniphon!
+{89709}{89766}Hey, professor.
+{89800}{89853}Where you going?
+{89967}{90061}- I want to talk to you at my place.|- Tom, I'm going...
+{90609}{90699}Step down, pilgrim. Take a look.
+{90827}{90917}All right, Tom,|what are you trying to tell me?
+{90918}{91000}I'm telling you|that Hallie's my girl.
+{91024}{91157}I'm building that room and porch|for her for when we get married.
+{91158}{91242}Tom, I guess everybody|pretty much takes that for granted.
+{91244}{91326}Everybody except Hallie, maybe you.
+{91358}{91422}That's a damn lie, and you know it.
+{91495}{91573}Why did she come to me|fretting herself sick
+{91575}{91667}because you were going to get killed|facing up to Liberty Valance?
+{91669}{91755}- I never told her.|- Peabody did.
+{91757}{91806}I think you're bluffing.
+{91808}{91923}I'm not bluffing about anything.|Wait a minute, Tom. What?
+{91925}{92034}Pompey, bring two or three|of those paint cans.
+{92234}{92293}- You have a gun, right?|- Yes.
+{92294}{92339}Get it.
+{92497}{92544}Come on.
+{92654}{92711}All right, gunslinger.
+{92807}{92856}Hit that can.
+{92889}{92940}Pretty far.
+{92952}{93080}- Pilgrim, you got to cock it.|- I forgot.
+{93253}{93387}Balance it light in your hand|and don't jerk the trigger. Squeeze.
+{93388}{93441}You don't have to coach me.
+{93650}{93775}Pompey, bring me those cans.|Give me that thing.
+{93782}{93835}I'll show you how easy it is.
+{93858}{93969}Take these cans.|Put them on those three posts.
+{94013}{94058}Go ahead.
+{94192}{94249}That's it. That first post.
+{94251}{94308}- There?|- That's right.
+{94441}{94529}Not there! On the far post.
+{94557}{94608}That's right.
+{94641}{94696}Now put that last one in the middle.
+{94906}{94945}Pilgrim.
+{95290}{95349}I hate tricks, pilgrim,
+{95351}{95425}but that's what you're up against|with Valance.
+{95449}{95513}He's almost as fast as I am.
+{95669}{95774}I don't like tricks myself,|so that makes us even.
+{95898}{96007}Pilgrim, you forgot your popgun.
+{96435}{96591}I got you, Lyde. Ruf McMard.|Highpockets. Kaintuck.
+{96593}{96660}Kaintuck! Leave the jug.
+{97021}{97074}I am so proud of him.
+{97159}{97222}Dutton Peabody|exercising his franchise.
+{97223}{97299}- Dutton Peabody.|- Ransom Stoddard.
+{97307}{97401}Rance, we'll need you|for some of that legal stuff later.
+{97402}{97484}"Ransom Stoddard, Attorney at Law."|Check.
+{97522}{97629}- Peter Ericson, American citizen.|- Go on in, Pete.
+{97631}{97707}- See you for supper, Pete?|- Yeah.
+{97813}{97897}- Tom, look, we need a statehood!|- I agree.
+{98027}{98125}Herbert? You're too young to vote.|Back to school.
+{98615}{98676}Greetings. Hey, excuse me. Excuse me.
+{98727}{98809}- I'll have the usual.|- Bar's closed.
+{98810}{98888}The bar is closed, Mr. Editor,|during voting.
+{98890}{98943}You can blame your lawyer friend.
+{98945}{99066}He says that's one of the fundamental|laws of democracy, no exception.
+{99087}{99227}No exceptions for the working press?|That's carrying democracy too far.
+{99258}{99303}A small beer.
+{99304}{99370}Bar's closed.|Give me that bung starter.
+{99571}{99649}All right. Settle down!|Sit down, everybody!
+{99651}{99706}Come on. Settle down.
+{99801}{99904}Since our legal authority|closed the bar on us,
+{99906}{100027}I propose that Ransom Stoddard,|Attorney at Law,
+{100028}{100081}come up here and run this meeting.
+{100084}{100158}- I second the motion.|- I third it.
+{100519}{100599}Ransom. There he is. There he is.
+{100730}{100791}All right. All right. All right.
+{100792}{100909}All right, now, if you want,|I can show you the rules.
+{100943}{101048}The meeting will come to order.|Settle down please.
+{101049}{101131}Mr. Peabody, would you keep|a record of the meeting?
+{101133}{101232}Rance, please. There are other men...|Give me a drink.
+{101233}{101286}- Bar's closed.|- Just a beer!
+{101288}{101347}- Bar's closed.|- A beer's not drinking!
+{101348}{101424}- Before we start...|- Sit down, Doctor, please?
+{101456}{101542}I have a pencil right here.|Thank you.
+{101594}{101678}You all know why we're here.
+{101679}{101781}We're here to elect two delegates,|because a growing population
+{101782}{101864}south of the Picketwire entitles us|to two.
+{101866}{101921}These two delegates will represent us
+{101923}{102005}in the territorial convention|for statehood.
+{102103}{102150}You know the issue.
+{102151}{102251}The cattle interests want to keep|this territory an open range.
+{102252}{102309}No!
+{102310}{102409}Ruled by their high-handed ideas,|whatever they are.
+{102410}{102521}And we - that means everybody|in this room - we're for statehood!
+{102609}{102747}We want statehood, because it means|the protection of farms and fences.
+{102748}{102847}It means schools for our children|and progress for the future!
+{102916}{102969}Just sit down, please.
+{102971}{103076}Now we'll proceed|with the nominations.
+{103077}{103136}You can nominate as many as you like,
+{103137}{103217}and in order to show you|how this procedure works,
+{103219}{103270}I'll leave the chair temporarily.
+{103271}{103330}That's parliamentary law.|You can do that.
+{103331}{103471}I'll step out of the chair,|and I'll make the first nomination.
+{103472}{103602}I' d like to nominate a man I think|is the only man in Shinbone
+{103603}{103706}who has the right qualifications to|lead us in our fight for statehood.
+{103708}{103784}I could stand here|talking about him all day,
+{103785}{103852}but I know everybody here|could do the same.
+{103853}{103962}I don't think that's necessary.|I nominate Tom Doniphon.
+{104283}{104361}Come on, sit down. Sit down.
+{104409}{104491}Stop sucking on that cigar|and put that pencil away.
+{104492}{104584}- I refuse the nomination.|- You can't refuse now.
+{104586}{104716}Yes I can, because I got|other plans, personal plans.
+{104717}{104805}Mr. Attorney, go on with your meeting.
+{105196}{105276}You don't live south|of the Picketwire. You can't vote.
+{105277}{105338}I live where I hang my hat.
+{105657}{105728}Come on, move! Out of the way!
+{105973}{106074}Hashslinger, why are you|standing there so high and mighty?
+{106075}{106163}He's running this here meeting,|or hadn't you heard?
+{106165}{106214}The whole shebang.
+{106253}{106314}I' d like to nominate the chairman,
+{106316}{106431}Mr. Ransom Stoddard, as delegate|to the territorial convention.
+{106433}{106468}Wait a minute.
+{106469}{106559}And I second that nomination,|not only because he knows law,
+{106561}{106612}but because he throws a good punch.
+{106614}{106702}Now listen, all you sodbusters,|you hard-rock farmers.
+{106704}{106803}- I aim to be the delegate.|- You don't live south.
+{106804}{106855}Floyd, say your piece like I said.
+{106857}{106906}I nominate|Liberty Valance for delegate.
+{106907}{106993}- I second the nomination.|- Move the nominations be closed.
+{106995}{107116}Now wait a minute. That ain't|exactly legal, is it, Mr. Attorney?
+{107142}{107242}We need two good delegates|to Capitol City, Valance,
+{107243}{107342}Two honest men.|We've got one in you, Mr. Stoddard.
+{107343}{107454}- You looking for trouble, Doniphon?|- You helping me find some?
+{107597}{107706}- You heard my motion, dude!|- All right. Put his name down.
+{107728}{107841}- Liberty Valance, address unknown.|- Have I got a right to speak?
+{107843}{107915}- Go ahead, Highpockets.|- Then what about Mr. Peabody?
+{107916}{107982}He can read and write|and runs the newspaper.
+{107983}{108036}Yeah, and when he's drinking,
+{108037}{108135}why, he can talk the ears|off of a w-wooden Indian.
+{108159}{108212}I second the motion.
+{108323}{108384}No, you don't. No!
+{108385}{108498}I'm a newspaperman, not a politician.
+{108499}{108604}No, politicians are my meat!|I build them up. I tear them down.
+{108605}{108693}But I wouldn't be one.|I couldn't be one.
+{108695}{108775}- It would destroy me! Give me a...|- Bar's closed.
+{108792}{108905}Good people of Shinbone,|I'm your conscience.
+{108906}{108988}I'm the still, small voice|that thunders in the night.
+{108989}{109083}I'm your watchdog|that howls against the wolves.
+{109084}{109137}I'm your Father confessor!
+{109206}{109273}- What else am l?|- Town drunk?
+{109358}{109456}- Dutton Peabody. Write it down.|- I move the nominations be closed.
+{109457}{109514}- I second the motion.|- All in favour?
+{109556}{109607}Now we'll proceed with the election.
+{109671}{109784}You sodbusters are a brave bunch|when you're together, but don't vote
+{109786}{109889}any way now that you'll regret|later when you're alone.
+{109986}{110136}Those in favour of Ransom Stoddard|as delegate, raise your hands.
+{110212}{110310}All those in favour of Liberty|Valance, raise your hands.
+{110611}{110701}All those in favour of Dutton|Peabody, raise your hands.
+{110728}{110802}- Let's get you a drink.|- The bar's closed.
+{110804}{110855}According to Mr. Stoddard,|the bar's closed.
+{110857}{110962}- Anything further on the election?|- Legally, the election's finished.
+{110963}{111012}Then the bar is open.
+{111222}{111304}That vote don't mean a thing.|Stay out of this.
+{111306}{111365}He's been hiding|behind your gun long enough.
+{111366}{111413}You got a choice, dishwasher.
+{111415}{111505}Either you leave town,|or tonight be on that street alone.
+{111507}{111604}You be there,|and don't make us come and get you.
+{111966}{112044}Well, he called it plain.
+{112086}{112186}Too bad you didn't come|to me sooner with that gun.
+{112259}{112374}Pilgrim. Come full dark, Pompey will|be at the Swedes' place
+{112375}{112467}with a buckboard.|Why don't you leave town?
+{112525}{112578}Thanks.
+{113355}{113429}"Liberty Valance defeated."
+{113430}{113566}D-E-F-E-E... T-E-D?
+{113610}{113706}The unsteady hand betrays.
+{113734}{113808}What's the matter, Mr. Peabody?
+{113847}{113914}Are you afraid?
+{113969}{114100}The answer is indub... yes.
+{114258}{114315}No courage left.
+{114365}{114501}Well, courage can be purchased|at yon tavern.
+{114530}{114684}But have we credit?|That is the question. Have we credit?
+{114715}{114824}Well, credit is cheap.
+{114896}{115023}Wait for me,|old servant of the public wheel.
+{115071}{115165}Our shining hour is yet to come.
+{115377}{115436}As for you, Horace Greeley,
+{115438}{115576}go west, old man,|and grow young with the country.
+{115966}{116075}Don't do that, Mr. Peabody.|Why are you out here?
+{116077}{116169}Don't you know that everybody|is supposed to get off the street?
+{116170}{116260}My inalienable right,|the pursuit of happiness.
+{116261}{116368}Sure, but it don't go to the saloon.|Liberty Valance is back there.
+{116370}{116454}You should hear|what he's swearing to do to Rance.
+{116456}{116592}And he ain't leaving you out, either.|Go in and let the Mexican fill that.
+{116593}{116724}But I doubt if my credit is good with|these Spanish-American gentlemen.
+{116725}{116822}Sure, it is. He's my wife's|step-uncle by her sister's marriage.
+{116823}{116907}But would you say something nice|about me in your paper?
+{116909}{116978}My dear friend, Link Appleyard?
+{116979}{117050}The fearless,|fighting marshal of the west?
+{117076}{117164}Your name will go down in history|with Buffalo Bill.
+{117419}{117513}Mr. Peabody's drunker than a skunk|over in that Mexican joint.
+{117514}{117563}He ain't eating tonight.
+{117587}{117644}He "isn't" eating tonight, remember?
+{117645}{117731}Isn't, ain't,|what difference does it make?
+{117733}{117832}Ain't going to be no school anymore|with you leaving tonight.
+{117942}{118047}Good evening, folks. Mr. Rance,|I have the buckboard out here.
+{118048}{118146}I'll be waiting for you|if you need me.
+{118147}{118231}Go, Rance. Go now, while you can.
+{118232}{118316}Nora and Hallie|can finish the dishes.
+{118395}{118473}Go. Please go.
+{118500}{118600}I owe you for|three days' room and board.
+{118633}{118746}I want to square my account. I want|to square my account before I go.
+{119182}{119305}And those in England now asleep|shall think themselves accursed.
+{119307}{119385}They were not here whilst any lives
+{119387}{119496}that fought with us|on St Crispin's Day.
+{119559}{119668}But when the blast, the blast of war,
+{119670}{119779}blows in our ears and we summon up...
+{119864}{119967}Liberty Valance. And his vermidons!
+{120143}{120274}Liberty Valance taking liberties|with the liberty of the press?
+{120283}{120385}- Had your supper yet, Peabody?|- My supper?
+{120386}{120441}No. That's a splendid idea.
+{120758}{120871}- You can start by eating this.|- That's a poor joke, Liberty.
+{120873}{120957}Eat it!
+{121043}{121088}Eat it!
+{122020}{122069}He's dead.
+{124267}{124312}Mr. Peabody.
+{124431}{124575}Rance? Rance Stoddard?
+{125037}{125111}- Mr. Peabody.|- Let's get him up.
+{125236}{125304}- Where's Doc Willoughby?|- Still in the saloon.
+{125305}{125350}Go get him.
+{125357}{125435}Rance? Rance!
+{125673}{125809}I sure told that Liberty Valance
+{125810}{125946}about the freedom of the press.
+{126241}{126286}Marshal?
+{126811}{126854}Marshal...
+{126919}{127003}you tell Liberty Valance|I'll be outside.
+{128207}{128262}- Pompey!|- Miss Hallie?
+{128264}{128319}- Where's Mr. Tom?|- Down the road.
+{128320}{128381}Get him!|Rance is out front with a gun!
+{128383}{128424}Yes, ma'am.
+{128425}{128505}You've heard of Gettysburg. 240...
+{128507}{128610}Doc, Mr. Peabody's awful hurt.|He needs you at his office.
+{128611}{128670}What's wrong?|Somebody have an accident?
+{128720}{128820}So that's it. Another one of your|accidents, Valance?
+{128821}{128919}I'm waiting for the day|when they'll call me for you.
+{128956}{129001}Paid in advance.
+{129177}{129222}$10 into the cans.
+{129247}{129368}Liberty, what you did to Mr. Peabody,|ain't that enough?
+{129373}{129428}Ain't that enough what, Mr. Marshal?
+{129430}{129473}You all know that Rance Stoddard
+{129474}{129575}couldn't shoot the hat off his head|with a gun in his hand.
+{129576}{129654}You mean, he's got a gun in his hand?
+{129659}{129704}I'm calling you, Valance.
+{129705}{129758}Kings and threes.
+{129761}{129810}Good hand,
+{129812}{129947}but not good enough.|An ace is an ace. Thank you.
+{129957}{130049}If you gun him down,|it'll just be pure murder.
+{132093}{132165}Well, Mr. Professor,|I thought you left town.
+{132166}{132215}Why are you out here?
+{132234}{132343}I'm waiting for Liberty Valance.|Why doesn't he come out?
+{132345}{132416}Well, that's none of our business.
+{132474}{132542}You heard him say he had a gun,|right?
+{132543}{132606}- I didn't say that!|- That ain't murder.
+{132607}{132679}That's a clean-cut case of|self-defence.
+{132680}{132766}You heard him call me out,|didn't you?
+{132802}{132855}Now get out of my way.
+{132937}{132996}Hashslinger, are you out here?
+{133032}{133155}I'd say that was Liberty Valance|there now. Wouldn't you?
+{133171}{133280}- Yes, I would.|- We be seeing you, Mr. Stoddard.
+{133626}{133685}Come closer where I can see you.
+{133864}{133925}Get out of that shadow, dude.
+{135017}{135101}You got two hands, Hashslinger.|Pick it up!
+{135714}{135875}All right, dude...|this time, right between the eyes.
+{136256}{136311}Liberty?
+{136312}{136383}Liberty? Liberty!
+{136814}{136863}Hey, Doc! Doc!
+{136909}{136954}Liberty!
+{137860}{137965}It's Liberty! He's hurt!|It's Liberty!
+{138064}{138160}- Whisky, quick.|- Here, sir.
+{138454}{138501}Dead.
+{139736}{139874}Rance, if it had been you|instead of Valance, I would...
+{139875}{139969}Oh, no, Hallie. Hallie...
+{140000}{140130}I can't help it.|This feels so guilty.
+{140163}{140276}I didn't want you to run away.|I wanted you to stay.
+{140278}{140364}He might... I'm sorry.
+{140365}{140455}- Forgive me.|- Hallie.
+{140456}{140556}Hallie, please don't.
+{140557}{140626}Hallie.
+{141035}{141134}I'm sorry I got here too late,|Hallie.
+{141135}{141223}You got yourself|out of that fix real handy.
+{141285}{141334}I'll be around.
+{142175}{142278}- Tom! Liberty...|- I know.
+{142616}{142710}He wasn't going to kill him,|just nick him a little.
+{142712}{142796}He was just gonna make a pass.|You saw that!
+{142798}{142903}- That lawyer shot him in cold blood!|- Now, that ain't the way.
+{142905}{142968}It was murder! Pure murder!
+{142969}{143051}And I say if the marshal|don't put Stoddard in jail,
+{143053}{143117}we ought to|take care of him ourselves!
+{143118}{143212}- I say we ought to hang him!|- That's right! Hang him!
+{143214}{143263}Give him a rope! Let him swing!
+{143265}{143386}Can't a man get a drink|around this town in peace?
+{143514}{143612}- No one's bothering you, Doniphon.|- You are!
+{143715}{143760}Marshal!
+{143864}{143928}Why are you paid? Drag this scum out.
+{143929}{143986}You heard him.|Kaintuck and Highpockets,
+{143987}{144118}- I deputise you to give a hand.|- Hand me that bung st... That's it.
+{144207}{144309}Tell those ranchers north of the|Picketwire that hired you
+{144310}{144398}that me, Link Appleyard,|run you out of town,
+{144400}{144497}and I'll do it again|if you ever come back!
+{144624}{144747}- Now look, Pompey, you know l...|- Who says he can't?
+{144749}{144856}- Pour yourself a drink, Pompey.|- I don't drink no drams, Mr. Tom.
+{144857}{144902}I said take a drink.
+{144903}{145028}No. We got a mare in foal and horses|to feed and water. Come on home.
+{145046}{145111}Home...
+{145170}{145254}Home sweet home.|You're right, Pompey.
+{145256}{145350}We got plenty to do at home.
+{145351}{145456}Well, what are they|paying you guys for? Play!
+{145458}{145525}Be merry! Sing!
+{145670}{145719}Leave me be!
+{147743}{147788}Mr. Tom!
+{148532}{148614}The horses, Pompey. The horses.
+{150300}{150376}Hello! How are you?
+{150455}{150570}- You made it on your own feet!|- Yeah! Thanks to Doc Willoughby.
+{150572}{150691}- Here. Let me pin this on you.|- That's him.
+{150804}{150902}- Well, this must be Ransom Stoddard.|- Rance, this is Handy Strong.
+{150903}{150983}How do you do, sir?|It's quite a city here.
+{150985}{151049}It's not much according|to your eastern standards,
+{151050}{151146}but that railroad station there|leads straight to Washington.
+{151226}{151271}Come on, Rance.
+{151638}{151784}Order! Order!
+{151799}{151883}Order! Order!
+{151930}{152084}Order! Order! Quiet!
+{152086}{152152}Order! Quiet!
+{152201}{152291}The roll call having been completed
+{152292}{152393}and the delegates|recognised and seated,
+{152394}{152486}this session|of the territorial convention
+{152487}{152567}is hereby declared open.
+{152639}{152692}Order!
+{152695}{152759}Order!
+{152792}{152845}Mr. Chairman.
+{152905}{153065}The chair recognises the Honourable|Major Cassius Starbuckle...
+{153066}{153160}soldier, jurist, and statesman.
+{153164}{153320}Mr. Chairman, fellow delegates...
+{153321}{153368}ladies...
+{153369}{153455}and gentlemen,
+{153456}{153596}I came here|with a carefully prepared speech,
+{153597}{153706}but this is no time for oratory.
+{153848}{153963}Let me speak to you from the heart.
+{154002}{154109}I come before you|to place in nomination
+{154110}{154241}the name of a man|more qualified than any other
+{154242}{154328}to represent you in Washington.
+{154354}{154424}You ill-advised.
+{154425}{154509}You poorly counselled.
+{154510}{154631}Fly not in the face|of heaven's handiwork.
+{154632}{154726}Join with us in supporting the man
+{154728}{154812}who for five terms in Congress
+{154816}{154968}has kept this great territory|inviolate.
+{154970}{155105}I nominate|for the territorial delegate
+{155106}{155211}to the Congress of the United States
+{155213}{155305}the Right Honourable|Custis Buck Langhorne.
+{155949}{155990}Order! Order!
+{156309}{156414}Now that you got your rope on him,|hang the horse thief!
+{157069}{157149}Order! Order!
+{157150}{157249}This is a convention,|not a rodeo, Langhorne!
+{157342}{157401}Mr. Chairman! Mr. Chairman!
+{157405}{157512}The chair recognises|its old friend...
+{157514}{157625}that distinguished member|of the fourth estate...
+{157626}{157790}founder, owner, publisher and editor|of the "Shinbone Star"...
+{157791}{157906}Mr. Dutton Peabody, Esquire.
+{158000}{158078}Thank you, Mr. Chairman,|for those kind words,
+{158080}{158129}but tell them the whole truth...
+{158130}{158232}founder, owner, editor|and I also sweep out the place.
+{158302}{158376}Fellow delegates, like all of you,
+{158377}{158513}I've listened in awe and admiration|to the magnificent oratory
+{158515}{158607}of the Honourable|Major Cassius Starbuckle...
+{158609}{158650}the cattlemen's mouthpiece.
+{158651}{158723}The lowing herd is still with us.
+{158764}{158856}But, seriously,|under the spell of his eloquence,
+{158858}{158956}I could see once again|the vast herd of buffalo
+{158957}{159031}and savage redskin|roaming our beautiful territory
+{159032}{159116}with no law to trammel them|except the law of survival,
+{159118}{159196}the law of the tomahawk|and the bow and arrow.
+{159197}{159279}And then, with|the westward march of our nation,
+{159281}{159394}came the pioneer and the buffalo|hunter, the adventurous and the bold.
+{159395}{159475}The boldest of these|were the cattlemen,
+{159476}{159581}who seized the wide-open range|for their own personal domain,
+{159583}{159717}and their law|was the law of the hired gun.
+{159749}{159914}But now, today have come|the railroads and the people.
+{159915}{160003}The steady, hard-working citizens,
+{160005}{160170}the homesteader, the shopkeeper,|the builder of cities.
+{160174}{160237}We need roads to join those cities,
+{160238}{160316}dams to store up|the waters of the Picketwire,
+{160317}{160389}and we need statehood|to protect the rights
+{160390}{160480}of every man and woman,|however humble.
+{160515}{160586}How do we get it? I'll tell you how.
+{160587}{160661}We get it by placing our votes|behind one man.
+{160663}{160760}One man!|And we have that man with us here.
+{160761}{160897}He is a man who came to us|not packing a gun,
+{160898}{161025}but carrying instead|a bag of law books.
+{161029}{161154}Yes. He is a lawyer and a teacher.
+{161158}{161258}The first west of the rosy buttes.|But more important,
+{161259}{161370}he's a man who has come to be known|throughout this territory
+{161372}{161516}in the last few weeks as|a great champion of law and order.
+{161529}{161671}Ladies and gentlemen,|I nominate as your delegate and mine,
+{161673}{161821}to the Congress at Washington,|the Honourable Ransom Stoddard!
+{162242}{162287}Let's have order!
+{162323}{162376}Get going, Starbuckle.
+{162517}{162630}Thank you, Mr. Chairman. Thank you.
+{162683}{162728}Well...
+{162738}{162882}I see this demonstration,|but I can't believe my eyes.
+{162884}{162980}Is it possible|that such a representative body
+{162981}{163108}of honest, hard-working Americans|can endorse a candidate
+{163109}{163175}for the Congress|of our beloved country
+{163176}{163285}whose only claim to the office|is that he killed a man.
+{163287}{163342}Do you call Liberty Valance a man?!
+{163423}{163486}Order! Order!
+{163489}{163542}Hear me out!
+{163586}{163742}Who is this Ransom Stoddard?|And what qualifications has he
+{163743}{163860}that entitle him to aspire|to such great office?
+{163864}{164047}We are told he's a lawyer,|an attorney at law,
+{164052}{164216}an officer of the court.|Yes, but what kind of lawyer?
+{164217}{164349}A man who usurps the function|of both judge and jury
+{164350}{164430}and takes the law into his own hand.
+{164623}{164707}Quiet! Quiet!
+{164751}{164841}What other qualifications|has he, then?
+{164843}{164917}The blood on his hands?
+{164918}{165000}The hidden gun beneath his coat?
+{165001}{165106}The bullet-riddled body|of an honest citizen?
+{165107}{165160}Honest citizen?! Liberty Valance?
+{165162}{165244}You fool! Liberty Valance,|an honest citizen?
+{165246}{165346}Is this your fearless champion|of law and order?
+{165347}{165470}- Mr. Chairman!|- The mark of Cain is on this man,
+{165472}{165552}and the mark of Cain|will be on all of us
+{165553}{165641}if we send him|with bloodstained hands
+{165643}{165717}to walk the hallowed|halls of government...
+{165719}{165795}- ..where Washington...|- Mr. Chairman!
+{165826}{165877}- Mr. Chairman!|- Order! Order!
+{165879}{166043}...yes, and Lincoln still live,|immortals in the memory of man.
+{166044}{166089}Mr. Chairman!
+{166302}{166326}Rance! Rance!
+{166366}{166425}Order! Order!
+{166532}{166579}Pilgrim.
+{166670}{166781}- Where are you going?|- I'm going home, Tom.
+{166782}{166852}I'm going back east where I belong.
+{167090}{167232}Valance couldn't make you run away.|What is it now, your conscience?
+{167251}{167393}Isn't it enough to kill a man,|without trying to build a life on it?
+{167397}{167496}You talk too much, think too much.
+{167497}{167612}Besides,|you didn't kill Liberty Valance.
+{167691}{167793}- What?|- Think back, pilgrim.
+{167876}{167946}Valance came out of the saloon.
+{167947}{168052}You were walking toward him|when he fired his first shot.
+{168053}{168104}Remember?
+{168640}{168685}Pompey.
+{168812}{168976}All right, dude.|This time...right between the eyes.
+{169566}{169668}But...|Tom, why did you do it?
+{169669}{169763}Cold-blooded murder,|but I can live with it.
+{169764}{169846}Hallie's happy. She wanted you alive.
+{169847}{169929}- But you saved my life!|- I wish I hadn't.
+{169980}{170037}Hallie's your girl now.
+{170085}{170163}Go on back in there|and take that nomination.
+{170165}{170224}You taught her|how to read and write.
+{170225}{170293}Now give her something|to read and write about!
+{171184}{171278}Well, you know the rest of it.
+{171280}{171362}I went to Washington,|and we won statehood.
+{171363}{171441}I became the first governor.
+{171443}{171570}Three terms as governor,|two terms in the Senate,
+{171571}{171727}Ambassador to the Court of St James,|back again to the Senate,
+{171728}{171847}and a man who,|with the snap of his fingers,
+{171848}{171948}could be the next vice president|of the United States.
+{172059}{172126}You're not going to use the story,|Mr. Scott?
+{172127}{172193}No, sir.
+{172254}{172325}This is the west, sir.
+{172326}{172414}When the legend becomes fact,|print the legend.
+{172415}{172474}He's right, Rance.
+{172990}{173039}It's getting late, Hallie.
+{173127}{173263}We'll keep in touch with you,|Pompey. I promise.
+{173264}{173371}- But, Mr. Rance...|- Pork chop money.
+{173830}{173916}Hallie...
+{173917}{174001}Hallie, would you be too sorry
+{174003}{174136}if once I get the new|irrigation bill through,
+{174137}{174293}would you be too sorry|if we just up and left Washington?
+{174295}{174476}I sort of have a hankering|to come back here to live.
+{174499}{174597}- Maybe open up a law office.|- Rance...
+{174626}{174725}If you knew how often|I'd dreamed of it.
+{174726}{174866}My roots are here.|I guess my heart is here.
+{174899}{174954}Yes, let's come back.
+{175009}{175110}Look at it.|It was once a wilderness.
+{175111}{175207}Now it's a garden. Aren't you proud?
+{175299}{175441}Hallie, who put the cactus roses|on Tom's coffin?
+{175465}{175510}I did.
+{175671}{175763}Here, I got a brand-new spittoon...|Cuspidor, Hallie.
+{175765}{175863}and Luke the engineer's got a full|head of steam in this tar bucket.
+{175864}{175956}We'll make 25 miles an hour|or bust a boiler trying.
+{175957}{176097}And we wired ahead to Junction City.|They'll hold the Express.
+{176099}{176187}In two days and two nights,|you'll be in Washington.
+{176188}{176233}Thank you, Jason.
+{176234}{176312}I'm going to write a letter|to the officials of this railroad
+{176313}{176416}and thank them for their kindness|and for going to all this trouble.
+{176418}{176463}You think nothing of it.
+{176464}{176538}Nothing's too good for the man|who shot Liberty Valance.
+{177148}{177222}www.xfilms.sk

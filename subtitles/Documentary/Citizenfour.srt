@@ -1,0 +1,7993 @@
+1
+00:00:13,820 --> 00:00:24,640
+
+
+2
+00:00:25,430 --> 00:00:30,770
+
+3
+00:00:31,280 --> 00:00:38,170
+
+4
+00:00:48,530 --> 00:00:49,970
+"Laura,
+
+5
+00:00:50,190 --> 00:00:53,180
+at this stage, I can offer nothing more than my word.
+
+6
+00:00:53,530 --> 00:00:57,430
+I'm a senior government employee in the intelligence community
+
+7
+00:00:57,600 --> 00:01:00,710
+I hope you understand that contacting you is extremely high risk
+
+8
+00:01:00,930 --> 00:01:03,130
+and you are willing to agree to the following precautions
+
+9
+00:01:03,330 --> 00:01:04,780
+before I share more.
+
+10
+00:01:05,360 --> 00:01:07,760
+This will not be a waste of your time.
+
+11
+00:01:08,510 --> 00:01:10,060
+The following sounds complex,
+
+12
+00:01:10,240 --> 00:01:13,510
+but should only take minutes to complete for someone technical.
+
+13
+00:01:13,900 --> 00:01:17,700
+I would like to confirm out of email
+that the keys we exchanged were not intercepted
+
+14
+00:01:18,110 --> 00:01:20,150
+and replaced by your surveillants.
+
+15
+00:01:21,260 --> 00:01:24,530
+Please confirm that no one
+has ever had a copy of your private key
+
+16
+00:01:24,700 --> 00:01:26,680
+and that it uses a strong passphrase.
+
+17
+00:01:26,820 --> 00:01:30,350
+Assume your adversary is capable
+of one trillion guesses per second.
+
+18
+00:01:31,000 --> 01:31:47,060
+
+
+19
+00:01:31,590 --> 00:01:35,110
+If the device you store the private key
+and enter your passphrase on
+
+20
+00:01:35,310 --> 00:01:36,450
+has been hacked,
+
+21
+00:01:36,630 --> 00:01:38,810
+it is trivial to decrypt our communications.
+
+22
+00:01:40,000 --> 01:28:51,870
+
+
+23
+00:01:40,040 --> 00:01:42,370
+Understand that the above steps
+are not bullet proof,
+
+24
+00:01:42,530 --> 00:01:44,700
+and are intended only to give us breathing room.
+
+25
+00:01:44,920 --> 00:01:47,130
+In the end if you publish the source material,
+
+26
+00:01:47,380 --> 00:01:49,130
+I will likely be immediately implicated.
+
+27
+00:01:49,320 --> 00:01:52,860
+This must not deter you from releasing
+the information I will provide.
+
+28
+00:01:54,330 --> 00:01:55,850
+Thank you, and be careful.
+
+29
+00:01:57,510 --> 00:02:00,800
+Citizen Four"
+
+30
+00:02:23,220 --> 00:02:26,210
+Radio: ... surveillance means that there are facts
+
+31
+00:02:26,380 --> 00:02:27,960
+under the law to apply to
+
+32
+00:02:28,170 --> 00:02:29,500
+if we should take away the surveillance
+
+33
+00:02:29,730 --> 00:02:31,910
+there are no facts the government could manufacture
+
+34
+00:02:32,330 --> 00:02:34,580
+- Oh, that's right
+and it's all about creating an independent record
+
+35
+00:02:35,460 --> 00:02:39,300
+- To me this goes to the question
+
+36
+00:02:40,000 --> 00:02:41,500
+of independently verifying
+
+37
+00:02:41,690 --> 00:02:41,700
+
+
+38
+00:02:41,840 --> 00:02:44,330
+what the government is doing.
+
+39
+00:02:44,440 --> 00:02:44,500
+
+
+40
+00:02:44,540 --> 00:02:44,600
+
+
+41
+00:02:44,640 --> 00:02:46,040
+That's why I keep going
+back to that question.
+
+42
+00:02:47,170 --> 00:02:52,150
+- So, that was David Suruda. 
+After CBS News traffic and weather...
+
+43
+00:02:59,720 --> 00:03:01,180
+Hey, can you hear me?
+
+44
+00:03:01,980 --> 00:03:03,980
+I am here David, how are you?
+
+45
+00:03:06,400 --> 00:03:08,150
+
+
+46
+00:03:08,410 --> 00:03:09,560
+Well, I would just point...
+
+47
+00:03:09,710 --> 00:03:12,720
+start by pointing to (what) Barack Obama 
+himself said about those questions
+
+48
+00:03:12,910 --> 00:03:15,630
+when he was running for
+the office that he now occupies.
+
+49
+00:03:15,810 --> 00:03:19,190
+On December 2007 he said 
+"The president does not have
+
+50
+00:03:19,500 --> 00:03:23,410
+the power under the Constitution to
+unilaterally authorize a military attack
+
+51
+00:03:23,710 --> 00:03:27,830
+in a situation that does not involve stopping
+an actual or imminent threat to the nation".
+
+52
+00:03:28,150 --> 00:03:32,430
+So by Obama's own words, the president doesn't
+have the power that he is now exercising
+
+53
+00:03:32,620 --> 00:03:34,130
+under the Constitution.
+
+54
+00:03:34,390 --> 00:03:37,570
+And as far of why it matters,
+in... on August 1st 2007
+
+55
+00:03:37,820 --> 00:03:41,130
+when he laid out his reasons
+why he was running for office
+
+56
+00:03:41,360 --> 00:03:43,970
+and why he thought it was so important
+to change the way we were doing things
+
+57
+00:03:44,380 --> 00:03:45,020
+he said
+
+58
+00:03:45,230 --> 00:03:48,480
+"No more ignoring the law
+when it's inconvenient,
+
+59
+00:03:48,680 --> 00:03:50,100
+that is not who we are.
+
+60
+00:03:50,260 --> 00:03:54,070
+We will again set an example for the world
+that the law is not subject 
+
+61
+00:03:54,220 --> 00:03:55,560
+to the whims of stubborn rulers."
+
+62
+00:03:55,800 --> 00:03:59,410
+- So to allow presidents to simply
+start wars on their own without any...
+
+63
+00:03:57,730 --> 00:04:07,140
+
+
+64
+00:04:07,320 --> 00:04:14,900
+
+
+65
+00:04:24,210 --> 00:04:26,090
+
+
+66
+00:04:26,720 --> 00:04:27,860
+
+
+67
+00:04:28,030 --> 00:04:29,490
+
+
+68
+00:04:29,650 --> 00:04:32,060
+
+
+69
+00:04:32,650 --> 00:04:34,910
+
+
+70
+00:04:35,070 --> 00:04:38,880
+
+
+71
+00:04:39,080 --> 00:04:43,240
+For now, know that every border you cross, every purchase you make,
+
+72
+00:04:43,580 --> 00:04:46,460
+every call you dial, every cell phone tower you pass,
+
+73
+00:04:46,700 --> 00:04:48,870
+friend you keep, article you write,
+
+74
+00:04:49,120 --> 00:04:51,530
+site you visit, subject line you type,
+
+75
+00:04:52,010 --> 00:04:53,400
+and packet you route,
+
+76
+00:04:53,780 --> 00:04:56,030
+is in the hands of a system 
+whose reach is unlimited
+
+77
+00:04:56,230 --> 00:04:58,260
+but whose safeguards are not.
+
+78
+00:04:59,590 --> 00:05:02,450
+Your victimisation by the NSA system means 
+that you are well aware
+
+79
+00:05:02,640 --> 00:05:05,570
+of the threat 
+that unrestricted secret police pose
+
+80
+00:05:05,760 --> 00:05:07,600
+for democracies.
+
+81
+00:05:07,780 --> 00:05:10,080
+This is a story few, but you, can tell.
+
+82
+00:05:10,350 --> 00:05:19,050
+
+
+83
+00:05:40,880 --> 00:05:52,730
+
+
+84
+00:06:04,580 --> 00:06:05,900
+Thank you for inviting me here,
+
+85
+00:06:06,330 --> 00:06:10,390
+to give me the opportunity to express my story.
+
+86
+00:06:10,540 --> 00:06:12,160
+But let me give you some of my background.
+
+87
+00:06:13,210 --> 00:06:16,740
+I spent about 4 years in the military and then I went to NSA directly, so...
+
+88
+00:06:17,600 --> 00:06:21,860
+so I ended up with about 37 years of service combined.
+
+89
+00:06:22,210 --> 00:06:24,610
+Most of it was a lot of fun!
+I tell you, it was really a lot of fun,
+
+90
+00:06:24,790 --> 00:06:25,910
+breaking these puzzles.
+
+91
+00:06:26,060 --> 00:06:27,750
+You know, solving problems
+and things like that.
+
+92
+00:06:27,970 --> 00:06:29,820
+So, and that's really what I did.
+
+93
+00:06:30,110 --> 00:06:33,240
+Fundamentally started working with data,
+looking at data and datasystems
+
+94
+00:06:33,440 --> 00:06:34,490
+and how you do that.
+
+95
+00:06:34,770 --> 00:06:39,600
+I was developing this concept of analysis
+where you could lay it out in such a way
+
+96
+00:06:39,990 --> 00:06:44,850
+that it could be coded and executed electronically.
+Meaning you could automate analysis.
+
+97
+00:06:45,160 --> 00:06:48,700
+And it has to do with metadata
+and using metadata relationships.
+
+98
+00:06:48,900 --> 00:06:51,540
+So that was the whole,
+that was my whole theme there at NSA
+
+99
+00:06:52,000 --> 00:06:54,950
+that was eventually what I ended up to,
+I was the only one there doing that, by the way.
+
+100
+00:06:55,130 --> 00:06:56,190
+
+
+101
+00:06:56,390 --> 00:06:58,470
+So any rate, you know, 9/11 happened.
+
+102
+00:07:00,180 --> 00:07:02,630
+And it must have been right after.
+
+103
+00:07:02,780 --> 00:07:05,180
+A few days, no more than a week after 9/11
+
+104
+00:07:05,700 --> 00:07:11,110
+that they decided to begin actively spying on everyone in this country.
+
+105
+00:07:11,490 --> 00:07:16,730
+And they wanted that back part of our program to run all the spying.
+
+106
+00:07:17,390 --> 00:07:20,420
+So that's that's exactly what they did.
+
+107
+00:07:21,160 --> 00:07:22,930
+And then they started taking the telecom data,
+
+108
+00:07:23,140 --> 00:07:24,730
+and expanded after that.
+
+109
+00:07:26,240 --> 00:07:28,100
+So, I mean, the one I knew was AT&T,
+
+110
+00:07:28,320 --> 00:07:31,380
+and that one provided
+320 million records every day.
+
+111
+00:07:32,500 --> 00:07:35,320
+That program was reauthorized every 45 days by the,
+
+112
+00:07:35,950 --> 00:07:37,430
+what I call the "Yes Committee"
+
+113
+00:07:37,630 --> 00:07:41,330
+which way Hayden, and Tenet, and the DOJ,
+
+114
+00:07:42,300 --> 00:07:44,490
+that program was called STELLARWIND.
+
+115
+00:07:44,710 --> 00:07:47,490
+So first I went to the
+House Intelligence Committee,
+
+116
+00:07:47,690 --> 00:07:49,560
+and the staff member I personally knew there
+
+117
+00:07:50,290 --> 00:07:53,630
+and she then went to the Chairman
+of that Committee, Nancy Pelosi,
+
+118
+00:07:53,870 --> 00:07:55,960
+who was the Minority Rep.
+
+119
+00:07:56,560 --> 00:07:59,720
+They were all briefed in to
+the program at the time, by the way,
+
+120
+00:08:00,010 --> 00:08:01,660
+and all the other programs that were going on,
+
+121
+00:08:01,880 --> 00:08:04,500
+including all those CIA programs.
+
+122
+00:08:04,780 --> 00:08:07,270
+I wasn't alone in this,
+there were four others out of NSA,
+
+123
+00:08:07,550 --> 00:08:10,720
+we were all trying to work interally
+in the government over these years
+
+124
+00:08:11,000 --> 00:08:14,650
+trying to get them to come around,
+to being constitutionally acceptable,
+
+125
+00:08:14,930 --> 00:08:18,210
+and take it in to the courts
+and have the courts' oversight of it too.
+
+126
+00:08:18,810 --> 00:08:23,060
+So we naïvely kept thinking
+that that could, that could happen,
+
+127
+00:08:24,050 --> 00:08:25,640
+and it never did.
+
+128
+00:08:26,430 --> 00:08:29,410
+But any rate after that
+and all the stuff we were doing
+
+129
+00:08:30,110 --> 00:08:32,490
+they decided to raid us
+to keep us quiet,
+
+130
+00:08:32,870 --> 00:08:33,990
+threaten us, you know.
+
+131
+00:08:34,280 --> 00:08:36,990
+So we were raided simultaneously,
+four of us.
+
+132
+00:08:37,200 --> 00:08:39,100
+In my case they came in
+with guns drawn,
+
+133
+00:08:39,300 --> 00:08:42,220
+I don't know why they did that,
+but they did. So....
+
+134
+00:08:48,380 --> 00:08:59,380
+
+
+135
+00:09:01,760 --> 00:09:02,800
+"Laura,
+
+136
+00:09:03,530 --> 00:09:04,420
+I will answer what I remember
+
+137
+00:09:04,650 --> 00:09:06,480
+of your questions as best I can.
+
+138
+00:09:06,790 --> 00:09:09,070
+Forgive the lack of structure, I am not a writer,
+
+139
+00:09:09,300 --> 00:09:11,320
+and I have to draft this in a great hurry.
+
+140
+00:09:13,530 --> 00:09:15,280
+What you know as STELLARWIND has grown,
+
+141
+00:09:16,600 --> 00:09:17,580
+SSO,
+
+142
+00:09:17,740 --> 00:09:21,590
+the expanded Special Source Operations that took over STELLARWIND's share
+
+143
+00:09:21,810 --> 00:09:22,830
+of the pie
+
+144
+00:09:23,020 --> 00:09:24,560
+has spread all over the world
+
+145
+00:09:24,760 --> 00:09:25,640
+to practically include
+
+146
+00:09:25,950 --> 00:09:28,660
+comprehensive coverage of the United States.
+
+147
+00:09:28,910 --> 00:09:31,600
+Disturbingly, the amount of US communication
+
+148
+00:09:31,860 --> 00:09:34,800
+ingested by NSA is still increasing.
+
+149
+00:09:35,310 --> 00:09:36,240
+Publicly,
+
+150
+00:09:36,470 --> 00:09:38,000
+we complain that things are going dark,
+
+151
+00:09:38,290 --> 00:09:41,260
+but in fact our accesses are improving.
+
+152
+00:09:41,540 --> 00:09:43,370
+The truth is that the NSA has never
+
+153
+00:09:43,550 --> 00:09:44,180
+in its history
+
+154
+00:09:44,370 --> 00:09:47,560
+collected more than it does now.
+
+155
+00:09:48,710 --> 00:09:51,730
+I know the location of most 
+domestic interception points,
+
+156
+00:09:52,160 --> 00:09:55,230
+and that the largest 
+telecommunication companies in the US
+
+157
+00:09:55,530 --> 00:09:57,380
+are betraying the trust of their customers,
+
+158
+00:09:57,630 --> 00:09:58,980
+which I can prove.
+
+159
+00:10:00,170 --> 00:10:03,530
+We are building the greatest weapon 
+for oppression in the history of Man.
+
+160
+00:10:03,730 --> 00:10:07,700
+Yet its directors 
+exempt themselves from accountability.
+
+161
+00:10:08,190 --> 00:10:11,540
+NSA director Keith Alexander 
+lied to Congress,
+
+162
+00:10:11,790 --> 00:10:13,230
+which I can prove.
+
+163
+00:10:14,250 --> 00:10:17,860
+Billions of US communications 
+are being intercepted.
+
+164
+00:10:19,080 --> 00:10:20,720
+In gathering evidence of wrongdoing
+
+165
+00:10:20,990 --> 00:10:23,510
+I focused on the wronging 
+of the American people,
+
+166
+00:10:23,690 --> 00:10:26,090
+but believe me when I say that 
+the surveillance we live under
+
+167
+00:10:26,300 --> 00:10:28,310
+is the highest privilege 
+compared to how we treat
+
+168
+00:10:28,530 --> 00:10:29,960
+the rest of the world,
+
+169
+00:10:30,360 --> 00:10:32,410
+this I can also prove.
+
+170
+00:10:34,070 --> 00:10:37,100
+On cyberoperations 
+the government's public position
+
+171
+00:10:37,400 --> 00:10:39,050
+is that we still lack a policy framework.
+
+172
+00:10:39,250 --> 00:10:40,360
+This too is a lie.
+
+173
+00:10:40,550 --> 00:10:42,180
+There is a detailed policy framework,
+
+174
+00:10:42,500 --> 00:10:44,870
+a kind of martial law for Cyber Operations
+
+175
+00:10:45,160 --> 00:10:46,740
+created by the White House.
+
+176
+00:10:46,940 --> 00:10:49,100
+It's called "Presidential Policy Directive 20"
+
+177
+00:10:49,260 --> 00:10:51,970
+and was finalized at the end of last year.
+
+178
+00:10:52,180 --> 00:10:54,370
+This I can also prove.
+
+179
+00:10:55,080 --> 00:10:57,250
+I appreciate your concern for my safety,
+
+180
+00:10:57,530 --> 00:10:59,620
+but I already know how this will end for me,
+
+181
+00:10:59,810 --> 00:11:01,280
+and I accept the risk.
+
+182
+00:11:01,790 --> 00:11:03,550
+If I have luck, and you are careful,
+
+183
+00:11:04,800 --> 00:11:06,270
+you will have everything you need.
+
+184
+00:11:06,450 --> 00:11:07,660
+I ask only that you ensure
+
+185
+00:11:07,850 --> 00:11:10,730
+this information makes it home 
+to the American public.
+
+186
+00:11:12,720 --> 00:11:16,600
+Does the NSA routinely intercept 
+American citizen's emails?
+
+187
+00:11:17,300 --> 00:11:18,220
+No.
+
+188
+00:11:18,000 --> 00:11:24,310
+
+
+189
+00:11:19,700 --> 00:11:25,830
+Does the NSA intercept Americans' 
+cell phone conversations.
+
+190
+00:11:26,160 --> 00:11:26,990
+No.
+
+191
+00:11:27,240 --> 00:11:28,440
+Google searches?
+
+192
+00:11:28,630 --> 00:11:29,440
+No.
+
+193
+00:11:29,630 --> 00:11:30,850
+Text messages?
+
+194
+00:11:31,030 --> 00:11:31,700
+No.
+
+195
+00:11:31,910 --> 00:11:33,790
+Amazon.com orders?
+
+196
+00:11:34,150 --> 00:11:35,030
+Nope
+
+197
+00:11:35,250 --> 00:11:36,080
+Bank records?
+
+198
+00:11:36,320 --> 00:11:36,880
+No.
+
+199
+00:11:37,150 --> 00:11:40,250
+What judicial consent is required for NSA
+
+200
+00:11:40,440 --> 00:11:42,130
+to intercept communications
+
+201
+00:11:43,130 --> 00:11:46,580
+and information 
+involving American citizens?
+
+202
+00:11:46,910 --> 00:11:49,920
+Within the United States 
+that would be the FBI lead.
+
+203
+00:11:50,220 --> 00:11:52,050
+If it was a foreign actor in the United states
+
+204
+00:11:52,240 --> 00:11:55,570
+the FBI would still have the lead 
+and could work that with NSA
+
+205
+00:11:55,780 --> 00:11:58,360
+or other intelligence 
+agencies as authorized.
+
+206
+00:11:58,840 --> 00:11:59,890
+But to conduct that kind
+
+207
+00:12:00,800 --> 00:12:02,770
+of collection within the United states
+
+208
+00:12:03,170 --> 00:12:04,950
+it would have to go through a court order.
+
+209
+00:12:05,870 --> 00:12:07,520
+And the court would have to authorize it.
+
+210
+00:12:07,770 --> 00:12:08,750
+We are not authorized to do it,
+
+211
+00:12:08,960 --> 00:12:11,540
+nor do we do it.
+
+212
+00:12:18,690 --> 00:12:20,480
+All rise.
+
+213
+00:12:20,880 --> 00:12:22,030
+The United States Court of Appeals
+
+214
+00:12:22,260 --> 00:12:24,200
+for the Ninth Circuit is now in session.
+
+215
+00:12:24,350 --> 00:12:30,940
+
+
+216
+00:12:25,700 --> 00:12:28,600
+Please be seated.
+
+217
+00:12:31,510 --> 00:12:35,660
+
+
+218
+00:12:37,140 --> 00:12:38,500
+Good morning and welcome 
+to the Ninth Circuit.
+
+219
+00:12:39,760 --> 00:12:44,310
+The first case for argument is 
+Jewell vs. National Security Agency.
+
+220
+00:12:44,900 --> 00:12:46,030
+You may proceed.
+
+221
+00:12:49,250 --> 00:12:52,360
+May it please the Court, 
+Kevin Bankston for Carolyn Jewell
+
+222
+00:12:52,680 --> 00:12:55,450
+and her fellow plaintiff appellants 
+in Jewell vs. NSA.
+
+223
+00:12:55,690 --> 00:12:57,040
+- Your Honors,
+
+224
+00:12:57,230 --> 00:13:00,930
+plaintiffs have specifically 
+alleged that their own communications
+
+225
+00:13:01,140 --> 00:13:04,170
+and communications records have been 
+acquired by the government.
+
+226
+00:13:04,430 --> 00:13:08,170
+But the District Court found that 
+we failed to allege facts
+
+227
+00:13:08,550 --> 00:13:11,510
+that differentiated the injury 
+of our plaintiffs sufferred
+
+228
+00:13:11,720 --> 00:13:15,090
+from the injury suffered 
+by every other AT&T user
+
+229
+00:13:15,450 --> 00:13:18,050
+whose communications and records 
+have been acquired by the government.
+
+230
+00:13:18,310 --> 00:13:21,580
+Basically concluding that so long as 
+every one is being surveilled,
+
+231
+00:13:22,070 --> 00:13:23,850
+no one has standing to sue.
+
+232
+00:13:24,770 --> 00:13:27,000
+However to deny standing to persons 
+who are injured simply because
+
+233
+00:13:27,190 --> 00:13:29,870
+many others are also injured 
+would mean that the most injurious
+
+234
+00:13:30,280 --> 00:13:32,810
+and widespread government actions 
+could be questioned by nobody.
+
+235
+00:13:33,850 --> 00:13:38,640
+- Do they have anything concrete 
+that in fact a specific communication
+
+236
+00:13:39,010 --> 00:13:41,930
+of your client was intercepted?
+
+237
+00:13:42,130 --> 00:13:44,260
+- We have evidence that all 
+the communications passing
+
+238
+00:13:44,450 --> 00:13:47,920
+between AT&T's network and other networks 
+in their Northern California facility
+
+239
+00:13:49,520 --> 00:13:52,380
+have been intercepted, 
+so that would necessarily include
+
+240
+00:13:52,610 --> 00:13:56,200
+the Internet communications of 
+our Northern California plaintiffs.
+
+241
+00:13:56,520 --> 00:13:57,870
+- Okay, thank you.
+
+242
+00:13:58,450 --> 00:14:00,030
+- Thank you, your honor
+
+243
+00:14:06,790 --> 00:14:07,460
+- May it please the Court,
+
+244
+00:14:07,690 --> 00:14:09,490
+I'm Thomas Byron from 
+the Department of Justice
+
+245
+00:14:09,710 --> 00:14:11,470
+here on behalf of 
+the Government defendants.
+
+246
+00:14:12,090 --> 00:14:16,310
+We think this litigation 
+need not be resolved in Federal Court.
+
+247
+00:14:16,690 --> 00:14:19,590
+In light of the oversight 
+of the political branches
+
+248
+00:14:19,850 --> 00:14:21,650
+both Legislative and Executive,
+
+249
+00:14:22,260 --> 00:14:26,980
+which provides a better opportunity 
+for oversight and resolution
+
+250
+00:14:27,780 --> 00:14:30,570
+of the concerns raised 
+concerning nationwide policies
+
+251
+00:14:31,080 --> 00:14:35,540
+of alleged surveillance 
+in these complaints.
+
+252
+00:14:36,040 --> 00:14:39,120
+- Even if it's revealed 
+that one or more of the plaintiffs
+
+253
+00:14:39,420 --> 00:14:43,780
+had email or telephone conversations 
+intercepted that had nothing to do
+
+254
+00:14:43,990 --> 00:14:45,480
+with the national security?
+
+255
+00:14:45,760 --> 00:14:47,760
+- Your honor, I don't know 
+that anyone necessarily
+
+256
+00:14:48,100 --> 00:14:51,030
+would have standing to raise
+the particular claims that issue
+
+257
+00:14:51,220 --> 00:14:52,830
+in these 2 cases.
+
+258
+00:14:53,170 --> 00:14:58,760
+We think instead that the kinds of claims
+that issue here against these defendants
+
+259
+00:14:59,010 --> 00:15:01,550
+are those that are 
+better suited to resolution
+
+260
+00:15:02,540 --> 00:15:04,440
+before the representative branches 
+of our government...
+
+261
+00:15:04,670 --> 00:15:10,840
+- What role... would the Judiciary have 
+if your.. approach is adopted...
+
+262
+00:15:11,100 --> 00:15:13,290
+- Judge Peterson, I think the...
+
+263
+00:15:13,660 --> 00:15:16,760
+- I mean, we just get out of the way, is that it?
+
+264
+00:15:17,050 --> 00:15:19,190
+- Well, Judge Peterson, what I think 
+is that there is a narrow category,
+
+265
+00:15:19,600 --> 00:15:23,680
+subset of cases in which 
+it may be appropriate
+
+266
+00:15:23,890 --> 00:15:27,440
+to step aside
+for that narrow category of cases.
+
+267
+00:15:27,630 --> 00:15:30,070
+- But mmm... the Judiciary plays a role...
+
+268
+00:15:30,240 --> 00:15:31,340
+- To be sure, Judge Peterson....
+
+269
+00:15:31,520 --> 00:15:32,720
+- ...in our system.
+
+270
+00:15:32,880 --> 00:15:35,820
+- Yes Your Honor and we don't mean to diminish that.
+
+271
+00:15:36,060 --> 00:15:38,510
+-  You're asking us to abdicate that role
+
+272
+00:15:38,910 --> 00:15:40,230
+- No, Your Honor,
+
+273
+00:15:40,600 --> 00:15:44,110
+but it is a question of this court's discretion
+whether to reach that issue.
+
+274
+00:15:44,650 --> 00:15:48,230
+We do think that there is simply
+no way for the litigation to proceed
+
+275
+00:15:48,540 --> 00:15:52,750
+without risk of divulging 
+those very questions of privileged information
+
+276
+00:15:53,270 --> 00:15:55,410
+that would cause, 
+as Director of National Intelligence
+
+277
+00:15:55,580 --> 00:15:56,820
+has explained,
+
+278
+00:15:57,350 --> 00:15:59,950
+exceptionally great damage to 
+National Security's disclose.
+
+279
+00:16:04,590 --> 00:16:05,770
+Thanks for having me.
+
+280
+00:16:06,740 --> 00:16:08,870
+Hum, if anybody has any questions,
+like I said just..
+
+281
+00:16:09,060 --> 00:16:11,690
+Basically just raise your hand 
+and I'll try to call on you
+
+282
+00:16:11,890 --> 00:16:13,200
+as soon as I possibly can.
+
+283
+00:16:13,850 --> 00:16:16,790
+So, who here actually feels like 
+they are under surveillance,
+
+284
+00:16:17,330 --> 00:16:18,720
+pretty regularly?
+
+285
+00:16:21,330 --> 00:16:22,310
+Everyone inside of Occupy.
+
+286
+00:16:22,600 --> 00:16:24,120
+How many people here have been arrested
+
+287
+00:16:24,300 --> 00:16:27,210
+and at their Court date had
+their phone taken into the back room?
+
+288
+00:16:27,830 --> 00:16:29,790
+How many people here
+had their retina scanned?
+
+289
+00:16:30,970 --> 00:16:32,090
+Wow.
+
+290
+00:16:34,620 --> 00:16:36,540
+So you guys are actually, in a sense, 
+the canaries in the coal mine,
+
+291
+00:16:36,750 --> 00:16:37,490
+right,
+
+292
+00:16:37,720 --> 00:16:39,460
+because the incentives 
+are all lined up against you.
+
+293
+00:16:39,710 --> 00:16:42,520
+Anybody see how the subway link 
+your metro card to your debit card,
+
+294
+00:16:43,610 --> 00:16:45,360
+right? And, like, auto refill.
+
+295
+00:16:45,710 --> 00:16:47,970
+This is a concept which is key 
+to everything we'll talk about today.
+
+296
+00:16:48,170 --> 00:16:49,460
+And it's called linkability.
+
+297
+00:16:49,680 --> 00:16:52,500
+Take one piece of data 
+and link it to another piece of data.
+
+298
+00:16:52,900 --> 00:16:53,920
+So for example,
+
+299
+00:16:54,140 --> 00:16:56,290
+if you have your metro card 
+and you have your debit card,
+
+300
+00:16:56,530 --> 00:16:58,390
+you have those things 
+and you can draw a line between them right?
+
+301
+00:16:58,960 --> 00:17:01,360
+So that's, like, not a scary thing.
+
+302
+00:17:01,580 --> 00:17:04,880
+Except your bank card is tied 
+to everything else that you do during the day.
+
+303
+00:17:05,070 --> 00:17:08,060
+So now they know where you're going, 
+when you make purchases.
+
+304
+00:17:08,720 --> 00:17:12,060
+So when they decide to target you, 
+they can actually recreate your exact steps.
+
+305
+00:17:12,350 --> 00:17:14,410
+With a metro card and with a credit card alone.
+
+306
+00:17:14,760 --> 00:17:16,450
+Like literally where you go and what you buy
+
+307
+00:17:16,930 --> 00:17:19,440
+and potentially by linking that data with other people
+
+308
+00:17:19,640 --> 00:17:21,650
+on similar travel plans,
+
+309
+00:17:21,880 --> 00:17:23,960
+they can figure out who you 
+talk to and who you met with.
+
+310
+00:17:24,480 --> 00:17:27,240
+When you then take cellphone data, 
+which logs your location
+
+311
+00:17:27,830 --> 00:17:32,660
+and you link up purchasing data, 
+metro card data and your debit card.
+
+312
+00:17:32,920 --> 00:17:35,160
+You start to get what you could call metadata,
+
+313
+00:17:35,340 --> 00:17:37,190
+an aggregate over a person's life.
+
+314
+00:17:37,430 --> 00:17:40,200
+And metadata, an aggregate, is content.
+
+315
+00:17:40,410 --> 00:17:42,100
+It tells a story about you,
+
+316
+00:17:42,350 --> 00:17:45,270
+which is made up of facts, 
+but is not necessarily true.
+
+317
+00:17:45,430 --> 00:17:47,290
+So for example, just because 
+you were on the corner,
+
+318
+00:17:47,620 --> 00:17:51,000
+and all these data points point to it, 
+it doesn't mean you committed the crime.
+
+319
+00:17:51,350 --> 00:17:52,910
+So it's important to note
+
+320
+00:17:53,200 --> 00:17:55,150
+that if someone has a perception 
+of you having done a thing,
+
+321
+00:17:55,330 --> 00:17:57,730
+it will  now follow you 
+for the rest of your life.
+
+322
+00:17:58,090 --> 00:18:00,640
+So just keep in mind that 
+what happens to you guys for example
+
+323
+00:18:00,870 --> 00:18:04,620
+with fingerprints, and retinal scans, and photographs.
+
+324
+00:18:04,940 --> 00:18:06,910
+That is what is going to happen 
+to people in the future
+
+325
+00:18:07,100 --> 00:18:09,050
+when they resist policy changes 
+and when they try to protest
+
+326
+00:18:09,460 --> 00:18:12,720
+in a totally constitutionally protected way.
+
+327
+00:18:13,280 --> 00:18:15,710
+This is for you, Director Clapper, again on the surveillance front.
+
+328
+00:18:13,450 --> 00:18:22,800
+
+
+329
+00:18:15,910 --> 00:18:18,520
+And I hope we can do this in just a yes or no answer,
+
+330
+00:18:18,740 --> 00:18:20,820
+because I know Senator Feinstein wants to move on.
+
+331
+00:18:21,290 --> 00:18:26,290
+- So, does the NSA collect any type of data at all,
+
+332
+00:18:26,480 --> 00:18:29,500
+on millions or hundreds of millions of Americans ?
+
+333
+00:18:30,680 --> 00:18:31,810
+- No sir.
+
+334
+00:18:32,510 --> 00:18:33,510
+- It does not?
+
+335
+00:18:35,040 --> 00:18:36,990
+- Not wittingly.
+
+336
+00:18:37,380 --> 00:18:40,320
+There are cases where they could inadvertently,
+
+337
+00:18:41,030 --> 00:18:44,400
+perhaps, collect, but not wittingly.
+
+338
+00:18:45,550 --> 00:18:57,500
+
+
+339
+00:19:00,140 --> 00:19:03,330
+Email from April 2013
+
+340
+00:19:10,150 --> 00:19:11,110
+The encrypted archive
+
+341
+00:19:11,270 --> 00:19:13,880
+should be available to you within seven days.
+
+342
+00:19:14,060 --> 00:19:16,900
+The key will follow when everything else is done.
+
+343
+00:19:18,580 --> 00:19:19,990
+The material provided,
+
+344
+00:19:20,280 --> 00:19:24,090
+and investigative effort required 
+will be too much for any one person.
+
+345
+00:19:24,320 --> 00:19:27,640
+I recommend at a very minimum 
+you involve Glen Greenwald.
+
+346
+00:19:27,840 --> 00:19:29,790
+I believe you know him.
+
+347
+00:19:31,780 --> 00:19:33,020
+The plaintext of the payload
+
+348
+00:19:33,200 --> 00:19:36,050
+will include my true name details 
+for the record.
+
+349
+00:19:36,830 --> 00:19:38,100
+Though it will be your decision
+
+350
+00:19:38,330 --> 00:19:41,330
+as to whether or how 
+to declare my involvement.
+
+351
+00:19:42,190 --> 00:19:46,780
+My personal desire is that you 
+paint the target directly on my back.
+
+352
+00:19:47,020 --> 00:19:52,320
+No one, not even my most trusted confidant, 
+is aware of my intentions
+
+353
+00:19:52,860 --> 00:19:56,250
+and it would not be fair for them 
+to fall under suspicion for my actions.
+
+354
+00:19:56,490 --> 00:19:58,420
+You may be the only one 
+who can prevent that,
+
+355
+00:19:58,860 --> 00:20:01,230
+and that is by immediately 
+nailing me to the cross
+
+356
+00:20:01,460 --> 00:20:04,450
+rather than trying 
+to protect me as a source.
+
+357
+00:20:06,830 --> 00:20:10,470
+On timing, regarding 
+meeting up in Hong Kong,
+
+358
+00:20:10,730 --> 00:20:13,650
+the first rendezvous attempt 
+will be at 10 A.M. local time
+
+359
+00:20:13,860 --> 00:20:15,780
+on Monday.
+
+360
+00:20:16,090 --> 00:20:18,340
+We will meet in the hallway outside of the restaurant
+
+361
+00:20:18,500 --> 00:20:20,090
+in the Mira Hotel.
+
+362
+00:20:20,870 --> 00:20:22,270
+I will be working on a Rubik's cube
+
+363
+00:20:22,450 --> 00:20:23,750
+so that you can identify me.
+
+364
+00:20:25,030 --> 00:20:28,910
+Approach me and ask if I know the hours of the restaurant.
+
+365
+00:20:29,090 --> 00:20:31,490
+I'll respond by stating that I'm not sure
+
+366
+00:20:31,790 --> 00:20:34,310
+and suggest you try the lounge instead.
+
+367
+00:20:34,480 --> 00:20:38,500
+I'll offer to show you where it is, and at that point we're good.
+
+368
+00:20:38,880 --> 00:20:41,510
+You simply need to follow naturally.
+
+369
+00:21:01,120 --> 00:21:05,210
+
+
+370
+00:21:05,420 --> 00:21:08,840
+
+
+371
+00:21:18,340 --> 00:21:19,750
+As far as positioning I mean
+
+372
+00:21:19,920 --> 00:21:22,060
+if you want us to sit in any particular way or whatever.
+
+373
+00:21:22,220 --> 00:21:25,090
+You know, I'm gonna go there just like we get better light.
+
+374
+00:21:25,930 --> 00:21:32,630
+
+
+375
+00:21:36,300 --> 00:21:38,040
+There is, you know, so many different
+
+376
+00:21:38,350 --> 00:21:40,430
+enormous stories
+
+377
+00:21:40,660 --> 00:21:42,870
+just that are kind of standalone stories
+
+378
+00:21:44,190 --> 00:21:46,920
+that, even like you know certain things on my individual document
+
+379
+00:21:47,100 --> 00:21:49,120
+that can just be their own story
+
+380
+00:21:49,320 --> 00:21:51,430
+and I just want to start turning those stories out.
+
+381
+00:21:51,590 --> 00:21:54,510
+I basically woke up this morning and I already started writing stories
+
+382
+00:21:55,150 --> 00:21:57,030
+hum so I'm hoping to, you know,
+
+383
+00:21:57,260 --> 00:21:59,580
+start publishing within like a day or two days.
+
+384
+00:21:59,930 --> 00:22:00,640
+- OK
+
+385
+00:22:00,780 --> 00:22:02,180
+it's as long as you're good with that
+
+386
+00:22:02,350 --> 00:22:02,940
+- Yeah
+
+387
+00:22:03,500 --> 00:22:04,820
+and so as far as I...
+
+388
+00:22:04,990 --> 00:22:06,200
+the stuff we have to talk about,
+
+389
+00:22:06,360 --> 00:22:07,510
+I mean I'm kind of like
+
+390
+00:22:07,860 --> 00:22:11,080
+dichotomizing it between,
+
+391
+00:22:11,810 --> 00:22:13,400
+you know, stuff that I'd like 
+to talk you about,
+
+392
+00:22:13,560 --> 00:22:15,260
+in terms of like the documents 
+and the content.
+
+393
+00:22:15,460 --> 00:22:17,000
+Laura has a bunch of questions 
+about that as well.
+
+394
+00:22:17,240 --> 00:22:19,780
+So while we're working through 
+the documents getting your take-on,
+
+395
+00:22:19,960 --> 00:22:21,610
+a lot of the stuff that, you know,
+
+396
+00:22:21,830 --> 00:22:25,260
+help me understand it better, 
+but then also the sort of You story, right...
+
+397
+00:22:25,530 --> 00:22:27,150
+like the <i>who you are</>?
+
+398
+00:22:27,340 --> 00:22:27,820
+- Yeah
+
+399
+00:22:28,080 --> 00:22:29,960
+what you've done, why you've 
+done what you've done
+
+400
+00:22:30,110 --> 00:22:30,310
+- Yeah
+
+401
+00:22:31,080 --> 00:22:32,020
+and I'd love to do that first
+
+402
+00:22:32,180 --> 00:22:32,420
+- OK
+
+403
+00:22:33,190 --> 00:22:35,520
+in part because, you are 
+the only one who can do that
+
+404
+00:22:35,710 --> 00:22:36,200
+- Yeah
+
+405
+00:22:36,410 --> 00:22:38,740
+so I'd like to just get it done 
+so let it's done,
+
+406
+00:22:38,910 --> 00:22:42,650
+and also because, you know, 
+it might be that you wanna do that early
+
+407
+00:22:42,890 --> 00:22:43,480
+- Yeah
+
+408
+00:22:44,080 --> 00:22:47,490
+because, it might be necessary, 
+we might choose to have that done early.
+
+409
+00:22:47,830 --> 00:22:50,570
+What are you... tell me your thoughts, 
+just where you are with that?
+
+410
+00:22:50,840 --> 00:22:52,930
+- So primary one on that, 
+I think I've expressed it
+
+411
+00:22:53,160 --> 00:22:54,280
+a couple times online,
+
+412
+00:22:54,510 --> 00:22:59,230
+is I feel the modern media 
+has a big focus on personalities.
+
+413
+00:22:59,430 --> 00:23:00,260
+- Totally
+
+414
+00:23:00,520 --> 00:23:04,970
+- And I'm a little concerned (that)
+the more we focus on that
+
+415
+00:23:05,150 --> 00:23:07,060
+the more they're going 
+to use that as a distraction.
+
+416
+00:23:08,080 --> 00:23:12,360
+I don't necessarily want that to happen, 
+which is why I've consistently said, you know,
+
+417
+00:23:12,590 --> 00:23:16,590
+I'm not the story here, 
+hum haha, nervous uh?
+
+418
+00:23:17,300 --> 00:23:21,470
+- No it's a very very cheap pen, I just, the slider is broke, 
+go ahead.
+
+419
+00:23:22,440 --> 00:23:28,270
+- Hum, but hum, yeah, anything I can do 
+to help you guys get this out,
+
+420
+00:23:28,690 --> 00:23:29,610
+I will do,
+
+421
+00:23:29,900 --> 00:23:36,440
+I don't have any experience 
+with media, with how this works
+
+422
+00:23:36,840 --> 00:23:39,610
+so I'm kind of learning as I go.
+
+423
+00:23:40,060 --> 00:23:43,590
+Right, so, I just want to get a sense of 
+why did you decide to do what you've done.
+
+424
+00:23:43,960 --> 00:23:49,160
+So for me it all comes down to 
+State Power against the people's ability
+
+425
+00:23:49,410 --> 00:23:51,980
+to meaningfully oppose that power.
+
+426
+00:23:52,230 --> 00:23:54,790
+And I'm sitting there everyday,
+
+427
+00:23:54,990 --> 00:24:00,690
+getting payed to design methods 
+to amplify that State Power.
+
+428
+00:24:01,590 --> 00:24:05,010
+And I'm realizing that if, you know, 
+the policy switches,
+
+429
+00:24:05,470 --> 00:24:09,000
+that there are the only things that restrains 
+these states, were changed,
+
+430
+00:24:10,330 --> 00:24:12,880
+there, you couldn't meaningfully 
+oppose these.
+
+431
+00:24:13,120 --> 00:24:18,220
+I mean, you have to be the most 
+incredibly sophisticated ta* col* actor in existence.
+
+432
+00:24:18,650 --> 00:24:23,150
+I'm not sure there's anybody, 
+no matter how gifted you are,
+
+433
+00:24:23,400 --> 00:24:27,700
+who could oppose all of the 
+offices and all the bright people
+
+434
+00:24:28,120 --> 00:24:32,500
+even all the mediocre people out there 
+with all of their tools and all of their capabilities.
+
+435
+00:24:33,840 --> 00:24:36,860
+And as I saw the promise 
+of the Obama administration
+
+436
+00:24:38,390 --> 00:24:42,270
+be betrayed and walk away from it. 
+In fact, actually advance
+
+437
+00:24:43,220 --> 00:24:47,240
+the things that had been promised 
+to be sort of curtailed and rained in
+
+438
+00:24:47,680 --> 00:24:49,080
+and dialed back.
+
+439
+00:24:49,270 --> 00:24:51,620
+It actually gets worse,
+particularly drone strikes.
+
+440
+00:24:51,950 --> 00:24:53,100
+Which I also learned in NSA,
+
+441
+00:24:53,360 --> 00:24:56,310
+we could watch drone videos 
+from our desktops,
+
+442
+00:24:59,950 --> 00:25:02,120
+as I saw that, that really hardened me to action.
+
+443
+00:25:02,410 --> 00:25:03,350
+- In real time?
+
+444
+00:25:03,540 --> 00:25:04,730
+- In real time, yeah,
+
+445
+00:25:04,990 --> 00:25:09,560
+it'll stream a lower quality 
+of the video to your desktop,
+
+446
+00:25:10,040 --> 00:25:13,040
+typically you'd be watching surveillance drones
+as opposed to actually letting you know,
+
+447
+00:25:13,300 --> 00:25:16,070
+murder drones really going out there 
+and bomb somebody.
+
+448
+00:25:17,010 --> 00:25:19,530
+But you'll have a drone 
+that's just following somebody's house
+
+449
+00:25:19,720 --> 00:25:21,080
+for hours and hours.
+
+450
+00:25:21,270 --> 00:25:23,090
+And you won't know who it is because, you know,
+
+451
+00:25:23,380 --> 00:25:26,570
+you don't have the context for that 
+but it's just a page
+
+452
+00:25:26,730 --> 00:25:29,820
+where it's lists 
+and lists of drone feeds
+
+453
+00:25:30,020 --> 00:25:32,770
+and all these different countries 
+with all these different code names
+
+454
+00:25:32,990 --> 00:25:36,180
+and you can just click 
+on which one you want to see.
+
+455
+00:25:37,470 --> 00:25:40,870
+- Right, so if your self interest 
+is to live in a world in which
+
+456
+00:25:41,080 --> 00:25:43,140
+there's maximum privacy,
+
+457
+00:25:43,320 --> 00:25:45,870
+doing something that could 
+put you into prison,
+
+458
+00:25:46,090 --> 00:25:49,970
+in which your privacy is completely destroyed 
+is sort of the antithesis of that,
+
+459
+00:25:50,350 --> 00:25:54,220
+how did you reach the point where 
+that was a worthwhile calculation for you?
+
+460
+00:25:55,180 --> 00:25:58,170
+- I remember what the Internet was like 
+before it was being watched.
+
+461
+00:25:58,510 --> 00:26:01,210
+And there has never been anything 
+in the history of man like it.
+
+462
+00:26:01,630 --> 00:26:05,920
+I mean you could have children 
+from one part of the world
+
+463
+00:26:06,570 --> 00:26:08,290
+having an equal discussion,
+
+464
+00:26:08,860 --> 00:26:10,870
+where you know they were sort of granted
+
+465
+00:26:11,960 --> 00:26:14,870
+the same respect 
+for their ideas and conversation,
+
+466
+00:26:15,470 --> 00:26:18,250
+with experts in the field 
+from another part of the world
+
+467
+00:26:18,630 --> 00:26:21,820
+on any topic, anywhere, 
+anytime, all the time.
+
+468
+00:26:24,150 --> 00:26:25,640
+And it was free and unrestrained.
+
+469
+00:26:25,830 --> 00:26:29,910
+And we've seen the chilling of that, 
+the cooling of that and the changing
+
+470
+00:26:30,100 --> 00:26:34,350
+of that model towards something 
+which people self police their own views.
+
+471
+00:26:34,590 --> 00:26:37,420
+And they literally make 
+their own jokes on ending up on the list
+
+472
+00:26:37,780 --> 00:26:42,890
+if they donate to a political cause 
+or if they say something in a discussion.
+
+473
+00:26:43,200 --> 00:26:47,080
+And it has become an expectation that we're being watched.
+
+474
+00:26:47,850 --> 00:26:50,620
+Many people I've talked to have mentioned 
+that they're careful about what they type
+
+475
+00:26:50,950 --> 00:26:52,340
+into search engines.
+
+476
+00:26:52,640 --> 00:26:54,240
+Because they know that it's being recorded.
+
+477
+00:26:54,510 --> 00:26:58,410
+And that limits the boundaries 
+of their intellectual exploration.
+
+478
+00:27:03,220 --> 00:27:08,020
+And I'm more willing to risk
+
+479
+00:27:08,610 --> 00:27:09,660
+imprisonment
+
+480
+00:27:09,870 --> 00:27:12,890
+or any other negative outcome personally
+
+481
+00:27:13,250 --> 00:27:16,620
+than I am willing to risk
+
+482
+00:27:17,050 --> 00:27:19,480
+the curtailment of my intellectual freedom
+
+483
+00:27:20,270 --> 00:27:22,800
+and that of those around me,
+
+484
+00:27:23,130 --> 00:27:26,770
+whom I care for equally as I do for myself.
+
+485
+00:27:27,240 --> 00:27:29,970
+And again that's not to say that I'm self sacrificing
+
+486
+00:27:32,520 --> 00:27:34,210
+because it gives me, I feel good,
+
+487
+00:27:34,740 --> 00:27:36,160
+in my human experience
+
+488
+00:27:36,440 --> 00:27:38,400
+to know that I can contribute to the good of others.
+
+489
+00:27:43,560 --> 00:27:46,080
+
+
+490
+00:27:50,180 --> 00:27:55,060
+
+
+491
+00:27:55,270 --> 00:27:57,030
+- Could you elaborate on that?
+
+492
+00:27:57,790 --> 00:28:02,240
+- So, I don't know how much the programs 
+and the actual technical capacities
+
+493
+00:28:02,560 --> 00:28:05,850
+everybody's talked to you about 
+but there is an infrastructure in place
+
+494
+00:28:06,080 --> 00:28:10,940
+in the United States 
+and world wide that NSA has built
+
+495
+00:28:11,940 --> 00:28:16,620
+in cooperation with 
+other governments as well,
+
+496
+00:28:17,560 --> 00:28:19,360
+that intercepts
+
+497
+00:28:20,580 --> 00:28:21,720
+basically every
+
+498
+00:28:21,990 --> 00:28:23,730
+digital communication,
+
+499
+00:28:24,170 --> 00:28:26,050
+every radio communication,
+
+500
+00:28:26,590 --> 00:28:28,300
+every analog communication
+
+501
+00:28:28,660 --> 00:28:31,920
+that it has sensors in place to detect.
+
+502
+00:28:32,260 --> 00:28:34,670
+And with these capabilities,
+
+503
+00:28:35,110 --> 00:28:38,670
+basically the vast majority
+
+504
+00:28:39,660 --> 00:28:40,430
+of human
+
+505
+00:28:41,230 --> 00:28:43,360
+and computer to computer communications,
+
+506
+00:28:43,690 --> 00:28:44,840
+device-based communication,
+
+507
+00:28:45,190 --> 00:28:48,420
+which that sort of then forms 
+the relationships between humans,
+
+508
+00:28:50,020 --> 00:28:52,650
+are automatically ingested 
+without targeting.
+
+509
+00:28:53,720 --> 00:28:56,520
+And that allows individuals 
+to retroactively
+
+510
+00:28:56,920 --> 00:29:00,900
+search your communications 
+based on self certifications.
+
+511
+00:29:01,270 --> 00:29:04,830
+So for example, if I wanted 
+to see the content
+
+512
+00:29:05,070 --> 00:29:07,080
+of your email or,
+
+513
+00:29:07,610 --> 00:29:09,130
+you know, your wife's phone calls
+
+514
+00:29:09,380 --> 00:29:11,010
+or anything like that.
+
+515
+00:29:11,410 --> 00:29:15,310
+All I have to do is use 
+what's called a selector.
+
+516
+00:29:15,560 --> 00:29:18,730
+Any kind of thing
+
+517
+00:29:19,160 --> 00:29:21,020
+in the communication's chain
+
+518
+00:29:21,910 --> 00:29:24,510
+that might uniquely or almost uniquely
+
+519
+00:29:24,720 --> 00:29:25,480
+identify you as an individual.
+
+520
+00:29:25,690 --> 00:29:27,580
+And I'm talking about 
+things like email addresses,
+
+521
+00:29:27,950 --> 00:29:29,340
+IP addresses, phone numbers,
+
+522
+00:29:29,560 --> 00:29:30,590
+credit cards,
+
+523
+00:29:31,960 --> 00:29:33,420
+even passwords
+
+524
+00:29:33,760 --> 00:29:36,210
+that are unique to you, 
+that aren't used by anyone else.
+
+525
+00:29:37,400 --> 00:29:39,540
+I can input those into the system
+
+526
+00:29:40,010 --> 00:29:42,030
+and it will not only go 
+back through the database
+
+527
+00:29:42,630 --> 00:29:46,050
+and go 
+"have I seen this anywhere in the past?",
+
+528
+00:29:47,470 --> 00:29:50,770
+it will basically put an 
+additional level of scrutiny on it
+
+529
+00:29:51,380 --> 00:29:53,080
+moving into the future that says
+
+530
+00:29:53,790 --> 00:29:56,030
+"if this is detected now 
+or at anytime in the future,
+
+531
+00:29:57,770 --> 00:30:00,800
+I want this to go to me immediately" 
+and alert me in real time
+
+532
+00:30:00,990 --> 00:30:02,580
+that you're communicating 
+with someone,
+
+533
+00:30:02,760 --> 00:30:03,500
+things like that.
+
+534
+00:30:08,090 --> 00:30:10,190
+- So I don't know who you are 
+or anything about you.
+
+535
+00:30:11,860 --> 00:30:18,260
+- Ok. I work for Booz Allen Hamilton, 
+defense contractor.
+
+536
+00:30:19,440 --> 00:30:22,860
+I am sort of on loan to NSA, 
+I don't talk to Booz Allen boss,
+
+537
+00:30:23,110 --> 00:30:25,340
+I don't get tasking from Booz Allen, 
+it's all from NSA.
+
+538
+00:30:26,110 --> 00:30:27,270
+- So, I don't know your name.
+
+539
+00:30:27,580 --> 00:30:31,000
+- Oh, sorry, my name is Edward Snowden,
+
+540
+00:30:31,350 --> 00:30:32,730
+I go by Ed.
+
+541
+00:30:33,930 --> 00:30:36,220
+Edward Joseph Snowden is the full name.
+
+542
+00:30:36,480 --> 00:30:39,580
+(spelling) S. N. O. W. D. E. N..
+
+543
+00:30:39,920 --> 00:30:41,070
+- And where are you from ?
+
+544
+00:30:41,530 --> 00:30:44,810
+- I'm originally...
+I was born in North Carolina,
+
+545
+00:30:45,190 --> 00:30:47,000
+small town, Elizabeth City.
+
+546
+00:30:47,190 --> 00:30:48,160
+There is a Coast Guard station there,
+
+547
+00:30:48,420 --> 00:30:49,700
+I'm from a military family.
+
+548
+00:30:50,460 --> 00:30:54,630
+But I spent most of my time 
+growing up around Fort Meade in Maryland.
+
+549
+00:30:57,440 --> 00:31:01,490
+- And your family, 
+what's the consequences for them?
+
+550
+00:31:03,400 --> 00:31:06,080
+- This is actually 
+what has made this hardest.
+
+551
+00:31:06,460 --> 00:31:11,960
+My family doesn't know 
+what's happening, they're unaware.
+
+552
+00:31:15,210 --> 00:31:18,230
+I don't think I'll be able 
+to keep the family ties
+
+553
+00:31:18,520 --> 00:31:22,420
+that I've had for all my life
+
+554
+00:31:22,780 --> 00:31:26,080
+because of the risk of 
+associating them with this.
+
+555
+00:31:27,440 --> 00:31:31,280
+And I'll leave what to publish 
+and what not to publish to you guys,
+
+556
+00:31:31,910 --> 00:31:38,680
+I trust you'll be responsible on this. 
+But basically, the closer I stay to my family,
+
+557
+00:31:40,660 --> 00:31:42,030
+the more likely they are 
+to be leaned on.
+
+558
+00:31:42,280 --> 00:31:43,450
+- So you don't want me to report this?
+
+559
+00:31:43,730 --> 00:31:45,540
+- We dont have ... I mean, 
+we definitely want to do
+
+560
+00:31:45,750 --> 00:31:49,330
+whatever we can not to 
+include them or bring them into the mix
+
+561
+00:31:49,810 --> 00:31:51,870
+- Oh I'm sorry that's fine, I won't...
+
+562
+00:31:52,540 --> 00:31:53,570
+- I'm sorry I'm going to interrupt you.
+
+563
+00:31:53,910 --> 00:31:56,430
+Can we just stop for a second, 
+do the document and then go back to that?
+
+564
+00:31:57,460 --> 00:32:01,130
+- What do I need? Do I need 
+an email address that we're using or...
+
+565
+00:32:01,420 --> 00:32:06,670
+- Well you can send... Once you've encrypted it, 
+you can send it from whatever you think is appropriate.
+
+566
+00:32:07,150 --> 00:32:09,370
+The main thing is 
+you've got to encapsulate all of this
+
+567
+00:32:09,820 --> 00:32:13,800
+in a way that it can't be 
+decrypted and read
+
+568
+00:32:14,210 --> 00:32:18,760
+once it's in transit across the 
+network or on either of the end points.
+
+569
+00:32:19,270 --> 00:32:21,500
+- Ok I mean just  so you know 
+these documents are basically all going
+
+570
+00:32:22,120 --> 00:32:23,990
+to be uploaded within like 48 hours.
+
+571
+00:32:24,380 --> 00:32:25,670
+- This is simply..
+
+572
+00:32:25,910 --> 00:32:28,100
+You want to get in the process 
+of doing this for everything because
+
+573
+00:32:28,380 --> 00:32:31,370
+it seems hard but it's not hard, 
+this is super easy.
+
+574
+00:32:31,710 --> 00:32:33,030
+- Ok so just walk me through it.
+
+575
+00:32:33,270 --> 00:32:37,550
+- Ok. Show me the actual folder structure 
+where these files are first.
+
+576
+00:32:41,910 --> 00:32:43,120
+- How many documents 
+did you say there were?
+
+577
+00:32:43,490 --> 00:32:44,750
+- Seven
+
+578
+00:32:44,960 --> 00:32:45,630
+- Ok well, while you're working...
+
+579
+00:32:45,890 --> 00:32:47,560
+- Ok go ahead
+
+580
+00:32:48,870 --> 00:32:50,020
+- How many documents are we talking about?
+
+581
+00:32:50,470 --> 00:32:51,160
+Because in The Guardian,
+
+582
+00:32:51,420 --> 00:32:53,170
+that Wikileaks, technical people
+
+583
+00:32:53,350 --> 00:32:54,940
+set up a system
+
+584
+00:32:55,190 --> 00:32:57,530
+so that they were available 
+for anybody to see
+
+585
+00:32:58,640 --> 00:33:01,490
+and I just wonder if it's 
+possible to do the same thing.
+
+586
+00:33:02,720 --> 00:33:04,410
+- That would be the ideal end game.
+
+587
+00:33:06,500 --> 00:33:11,430
+But because some of these documents 
+are legitimately classified
+
+588
+00:33:12,080 --> 00:33:15,400
+in ways that could cause harm 
+to people and methods.
+
+589
+00:33:16,440 --> 00:33:19,600
+I'm comfortable in my 
+technical ability to protect them.
+
+590
+00:33:19,880 --> 00:33:21,610
+I mean you could literally 
+shoot me or torture me
+
+591
+00:33:22,200 --> 00:33:25,290
+and I could not disclose 
+the password, if I wanted to.
+
+592
+00:33:27,000 --> 00:33:29,730
+I have the sophistication to do that.
+
+593
+00:33:30,100 --> 00:33:32,990
+There are some journalists
+that I think could do that,
+
+594
+00:33:33,430 --> 00:33:35,340
+but there are a number 
+of them that couldn't.
+
+595
+00:33:35,640 --> 00:33:37,520
+But the question becomes,
+
+596
+00:33:37,760 --> 00:33:39,770
+can an organization
+
+597
+00:33:40,080 --> 00:33:42,900
+actually control that information
+
+598
+00:33:43,170 --> 00:33:44,470
+in that manner
+
+599
+00:33:44,770 --> 00:33:47,550
+without risking basically 
+an uncontrolled disclosure?
+
+600
+00:33:48,180 --> 00:33:49,800
+But I do agree with that, honestly
+
+601
+00:33:50,430 --> 00:33:53,100
+I don't want to be 
+the person making the decisions
+
+602
+00:33:53,440 --> 00:33:55,130
+on what should be public 
+and what shouldn't.
+
+603
+00:33:55,480 --> 00:33:58,590
+Which is why rather than 
+publishing these on my own,
+
+604
+00:33:59,220 --> 00:34:02,680
+or putting them out openly, 
+I'm running them through journalists.
+
+605
+00:34:02,930 --> 00:34:05,420
+So that my bias, and my things,
+
+606
+00:34:05,670 --> 00:34:08,200
+because clearly 
+I have some strongly held views,
+
+607
+00:34:08,490 --> 00:34:10,460
+are removed from that equation
+
+608
+00:34:11,020 --> 00:34:13,340
+and the public interest is being 
+represented in the most responsible manner.
+
+609
+00:34:14,270 --> 00:34:15,100
+- Yeah.
+
+610
+00:34:15,990 --> 00:34:22,750
+- Actually given your sort of... 
+Geographic familiarity
+
+611
+00:34:23,110 --> 00:34:24,410
+with the U.K and whatnot.
+
+612
+00:34:24,940 --> 00:34:32,860
+I'd like to point out that 
+GCHQ has probably the most invasive...
+
+613
+00:34:33,150 --> 00:34:37,980
+- I know 
+- network intercept program anywhere in the world.
+
+614
+00:34:38,530 --> 00:34:42,450
+It's called TEMPORA, 
+(spelling) T. E. M. P. O. R. A.
+
+615
+00:34:43,860 --> 00:34:46,500
+and it's the world's first "full take", 
+they call it, and that means 
+
+616
+00:34:46,810 --> 00:34:48,100
+content in addition to metadata
+
+617
+00:34:48,270 --> 00:34:49,730
+on everything.
+
+618
+00:34:52,210 --> 00:34:54,930
+- So this is what I'd like to do 
+just in term of scheduling
+
+619
+00:34:55,120 --> 00:34:58,690
+if it's good with everybody else. 
+Are you feeling you're done?
+
+620
+00:34:58,920 --> 00:35:00,090
+- Yeah yeah I'm done.
+
+621
+00:35:01,280 --> 00:35:03,270
+- So, I'm anxious to go back,
+
+622
+00:35:03,550 --> 00:35:04,860
+get those articles done
+
+623
+00:35:05,460 --> 00:35:07,010
+and then there is a 
+bunch of documents
+
+624
+00:35:07,200 --> 00:35:09,980
+that aren't about those first two or three stories 
+that I'd like to spend time with you...
+
+625
+00:35:10,200 --> 00:35:10,900
+- Sure yeah
+
+626
+00:35:11,100 --> 00:35:12,010
+- ...kinda going over.
+
+627
+00:35:12,760 --> 00:35:14,610
+- I'm not going anywhere.
+
+628
+00:35:14,840 --> 00:35:17,160
+- You're available? 
+You want to check your book first?
+
+629
+00:35:18,600 --> 00:35:19,950
+- Let me check my schedule.
+
+630
+00:35:20,190 --> 00:35:21,040
+- Is that good for you Laura? 
+You want to...
+
+631
+00:35:21,110 --> 00:35:23,270
+- It's great.
+- OK
+
+632
+00:35:23,460 --> 00:35:23,520
+
+
+633
+00:35:24,990 --> 00:35:27,720
+
+
+634
+00:35:38,290 --> 00:35:40,220
+- Hello
+
+635
+00:35:40,460 --> 00:35:41,750
+- Yes
+
+636
+00:35:41,950 --> 00:35:47,570
+- My meal was great thank you very much
+
+637
+00:35:47,910 --> 00:35:50,940
+- No I still have some left and I think 
+I'm gonna be eating it later
+
+638
+00:35:51,210 --> 00:35:54,930
+so you can just leave me alone for now.
+
+639
+00:35:55,330 --> 00:35:58,440
+- Ok great thank you so much, have a good one bye.
+
+640
+00:36:01,700 --> 00:36:03,940
+Let's fix that real quick.
+
+641
+00:36:06,240 --> 00:36:07,880
+So another fun thing I was telling 
+Laura about this:
+
+642
+00:36:08,270 --> 00:36:09,910
+all these new VOIP phones
+
+643
+00:36:10,160 --> 00:36:11,400
+they have little computers in them
+
+644
+00:36:11,680 --> 00:36:13,890
+and you can hot mike these 
+over the network,
+
+645
+00:36:14,090 --> 00:36:16,200
+all the time even when 
+the receiver's down so...
+
+646
+00:36:16,810 --> 00:36:17,840
+as long as it's plugged in
+
+647
+00:36:18,110 --> 00:36:19,020
+it can be listening on.
+
+648
+00:36:19,430 --> 00:36:22,010
+And I haven't even considered 
+that earlier. But yeah...
+
+649
+00:36:22,200 --> 00:36:22,880
+- OK.
+
+650
+00:36:23,060 --> 00:36:24,770
+- There are so many ways... This could be...
+
+651
+00:36:25,670 --> 00:36:27,160
+Everything that's in here 
+is pretty much gonna be
+
+652
+00:36:27,480 --> 00:36:28,860
+on the public record at some point.
+
+653
+00:36:29,070 --> 00:36:30,330
+We should operate on that.
+
+654
+00:36:30,560 --> 00:36:32,220
+- Yeah. Yeah, I think... 
+I think we are...
+
+655
+00:36:32,820 --> 00:36:34,590
+- So, do you have your 
+air gapped machine with you?
+
+656
+00:36:34,810 --> 00:36:35,730
+- I do, I do.
+
+657
+00:36:35,920 --> 00:36:37,030
+- Let me pop that out.
+
+658
+00:36:40,630 --> 00:36:42,050
+- Do you have an 
+understanding or commitment on
+
+659
+00:36:42,340 --> 00:36:44,650
+when you guys are gonna 
+to press for the first stories?
+
+660
+00:36:45,380 --> 00:36:47,550
+- It's very seven or eight 
+in the morning in London.
+
+661
+00:36:48,170 --> 00:36:49,200
+- Uh uh, OK.
+
+662
+00:36:51,220 --> 00:36:54,440
+Oh, let's see here.
+
+663
+00:37:00,960 --> 00:37:02,830
+Ok, hey look there's another one.
+
+664
+00:37:04,910 --> 00:37:10,260
+Pro tip, let's not leave the same SD cards
+in our laptops forever in the future.
+
+665
+00:37:15,350 --> 00:37:18,520
+- Did you know this was still 
+kicking around in your laptop?
+
+666
+00:37:19,080 --> 00:37:19,640
+- Yeah, I mean that was the... mmh...
+
+667
+00:37:19,860 --> 00:37:20,770
+- OK, just to make it sure.
+
+668
+00:37:21,930 --> 00:37:23,270
+- OK, yeah. This is it?
+
+669
+00:37:23,450 --> 00:37:23,680
+- Yeah.
+
+670
+00:37:24,070 --> 00:37:24,410
+- OK.
+
+671
+00:37:24,700 --> 00:37:25,260
+- Right there.
+
+672
+00:37:25,930 --> 00:37:28,310
+- Thanks. You will have a new one 
+who will look exactly identical
+
+673
+00:37:28,520 --> 00:37:30,840
+but it's a different archive. 
+So you might want to take 
+a sharpie to it or something.
+
+674
+00:37:33,090 --> 00:37:36,400
+Could you pass me my 
+magic mantle of power?
+
+675
+00:37:36,620 --> 00:37:38,060
+- Uh uh...
+
+676
+00:37:44,780 --> 00:37:47,530
+Is that about possibility of overhead?
+
+677
+00:37:48,010 --> 00:37:53,950
+- Visual. yes, 
+Visual collection.
+
+678
+00:37:56,290 --> 00:37:57,700
+I don't think at this point 
+there is anything in this regards
+
+679
+00:37:57,960 --> 00:37:59,700
+that would shock us.
+
+680
+00:38:00,580 --> 00:38:02,830
+We become pretty... 
+Ewen you once said before,
+
+681
+00:38:03,060 --> 00:38:05,330
+he's like, he's like: 
+I'm never leaving my room,
+
+682
+00:38:05,510 --> 00:38:07,490
+I'm never leaving anything 
+in my room again.
+
+683
+00:38:07,690 --> 00:38:08,540
+And the single machine...
+I was like
+
+684
+00:38:08,760 --> 00:38:13,280
+you've been infected by the paranoia bug, 
+happens to all of us.
+
+685
+00:38:13,500 --> 00:38:16,260
+He was like...
+I would never leave a single of these device,
+
+686
+00:38:16,490 --> 00:38:18,440
+and I would never leave my and again alone.
+
+687
+00:38:18,970 --> 00:38:20,290
+- My bag's getting heavier and heavier
+
+688
+00:38:20,500 --> 00:38:21,290
+- Exactly
+
+689
+00:38:26,680 --> 00:38:27,840
+Alright, I'm gonna need you to enter
+
+690
+00:38:28,160 --> 00:38:32,410
+your root password 'cause 
+I don't know what it is.
+
+691
+00:38:32,890 --> 00:38:35,660
+If you wanna use this 
+you're more than welcome, so uh ..
+
+692
+00:38:36,000 --> 00:38:38,660
+- OK, looks like your root 
+password's not 4 caracters long anyway.
+
+693
+00:38:38,850 --> 00:38:41,970
+- it's usually a lot longer 
+but that's just like a one time only thing, right?
+
+694
+00:38:42,260 --> 00:38:43,870
+- So, it is uh...
+
+695
+00:38:44,110 --> 00:38:47,300
+- It had been a lot longer but ever since 
+I knew is that it was a one time only session,
+
+696
+00:38:47,740 --> 00:38:49,790
+I've been making it shorter. Is that not good?
+
+697
+00:38:50,170 --> 00:38:53,700
+- It's actually not. I was expressing this 
+with Laura either.
+
+698
+00:38:54,420 --> 00:38:56,340
+The issue is because of the fact 
+it's got a hardware MAC address
+
+699
+00:38:56,600 --> 00:38:57,370
+and things like that,
+
+700
+00:38:57,670 --> 00:39:02,130
+and if people are able to identify 
+your machine and they're able to...
+
+701
+00:39:02,300 --> 00:39:04,310
+- This is the fact you're about 
+to break the most upsetting story?
+
+702
+00:39:04,560 --> 00:39:05,620
+- Yeah, that's true.
+
+703
+00:39:06,050 --> 00:39:07,240
+- So they might kinda prioritize
+
+704
+00:39:07,620 --> 00:39:10,600
+- It's ten letters I type very quickly. 
+Actually it's ten letters but...
+
+705
+00:39:10,880 --> 00:39:15,670
+- So ten letters would be good 
+if they had to bruteforce the entire key space.
+
+706
+00:39:16,890 --> 00:39:20,070
+That would still probably only take 
+a couple of days for NSA. Uh...
+
+707
+00:39:23,090 --> 00:39:27,470
+That's a fire alarm, OK...
+
+708
+00:39:28,370 --> 00:39:32,810
+- hopefully this just sounds like a 3 seconds test 
+or is this...
+
+709
+00:39:33,030 --> 00:39:37,960
+Do you wanna to call the desk and ask? It's fine.
+
+710
+00:39:38,230 --> 00:39:40,780
+- Yeah, I don't think it's an issue, 
+but it's interesting that I just.
+
+711
+00:39:40,970 --> 00:39:42,070
+- did that happen before?
+
+712
+00:39:42,270 --> 00:39:46,400
+- Maybe they got mad cause they couldn't listen 
+into us through the phone anymore.
+
+713
+00:39:47,250 --> 00:39:49,880
+- Has the fire alarm gone off before?
+
+714
+00:39:50,240 --> 00:40:00,040
+- No that's the first time that has happened. 
+Let me... so just in case they have like an alert 
+that goes to...    That's unusual...
+
+715
+00:40:02,300 --> 00:40:03,450
+- We probably...
+
+716
+00:40:03,650 --> 00:40:05,270
+- We might have to evacuate.
+
+717
+00:40:05,490 --> 00:40:07,900
+- Should we ignore that, I don't know?
+
+718
+00:40:08,190 --> 00:40:09,650
+- It's not continuous.
+
+719
+00:40:09,900 --> 00:40:14,160
+- It's not continuous. 
+No, I'm just saying if it continues...
+
+720
+00:40:18,120 --> 00:40:20,110
+- And then we come and 
+meet the guys down in the lobby.
+
+721
+00:40:20,790 --> 00:40:21,390
+- Yeah, alright.
+
+722
+00:40:21,680 --> 00:40:22,860
+- Yeah.
+
+723
+00:40:23,650 --> 00:40:29,540
+- Yeah let's, let's leave for now 
+when we'll have finished this up.
+
+724
+00:40:40,740 --> 00:40:43,320
+Not that they're gonna answer 'cause 
+they probably have seven thousands calls.
+
+725
+00:40:43,530 --> 00:40:44,690
+- Yeah.
+
+726
+00:40:47,480 --> 00:40:50,190
+- Hi, we hear a loud buzzing on the tenth flour.
+
+727
+00:40:50,460 --> 00:40:51,660
+Can you tell us what that is?
+
+728
+00:40:54,100 --> 00:40:54,900
+Ah, OK.
+
+729
+00:40:55,710 --> 00:40:56,500
+OK, great.
+
+730
+00:40:56,680 --> 00:40:57,900
+Thank you, bye.
+
+731
+00:40:59,430 --> 00:41:01,540
+Fire alarm testing, maintenance.
+
+732
+00:41:01,790 --> 00:41:03,530
+- Yes. that's good, 
+that's what I wanted to hear.
+
+733
+00:41:05,650 --> 00:41:11,640
+- Nice of them to... 
+Nice of them to let us know 
+about it in advance.
+
+734
+00:41:13,330 --> 00:41:15,430
+Uhm, I just wanna give you 
+kind of a quick tour, uh..
+
+735
+00:41:15,700 --> 00:41:17,870
+when Laura was looking at this 
+she was kind of salivating...
+
+736
+00:41:18,210 --> 00:41:20,150
+and couldn't stop like 
+actually reading these documents
+
+737
+00:41:20,570 --> 00:41:22,260
+- Right, right. 
+So we'll try and restrain ourselves
+
+738
+00:41:22,500 --> 00:41:23,910
+although I don't promise 
+that it will succeed.
+
+739
+00:41:24,370 --> 00:41:26,510
+- I just wanna kinda explain 
+a brief overview
+
+740
+00:41:27,210 --> 00:41:29,060
+of what these are 
+and how they're organized.
+
+741
+00:41:29,390 --> 00:41:31,400
+On the beginning of 
+document of interest,
+
+742
+00:41:31,710 --> 00:41:34,090
+the primary purposes of the second archive 
+is to bring the focus over to
+
+743
+00:41:34,340 --> 00:41:37,400
+SSO as opposed to PRISM.
+
+744
+00:41:37,640 --> 00:41:40,970
+This is in general. 
+SSO are the Special Source Operations.
+
+745
+00:41:41,530 --> 00:41:45,750
+This is the world wide 
+passive collection on networks
+
+746
+00:41:46,210 --> 00:41:49,610
+they're both domestic to the US 
+and international.
+
+747
+00:41:50,040 --> 00:41:52,150
+There's a lot of 
+different ways they do it
+
+748
+00:41:52,400 --> 00:41:55,210
+but, uh corporate partnerships 
+are one of the primary things,
+
+749
+00:41:55,410 --> 00:41:57,560
+they do domestically 
+they also do this for multinationals
+
+750
+00:41:57,770 --> 00:42:00,020
+that might be headquarted 
+in the US so they can kinda coerce
+
+751
+00:42:00,220 --> 00:42:02,240
+or just pay into giving them access.
+
+752
+00:42:02,590 --> 00:42:05,720
+And they also do bilaterally 
+with the assistance of certain governments.
+
+753
+00:42:06,340 --> 00:42:07,930
+And that's based on the premise that they go
+
+754
+00:42:08,190 --> 00:42:11,490
+"All right, we'll help you set the system up 
+if you give us all the data from it".
+
+755
+00:42:12,590 --> 00:42:17,090
+Hum, there's... there's a lot more here
+
+756
+00:42:17,410 --> 00:42:19,510
+than any one person 
+or probably one team could do.
+
+757
+00:42:19,700 --> 00:42:20,660
+- Right
+
+758
+00:42:20,900 --> 00:42:22,790
+Hum, XKEYSCORE Deep Dive.
+
+759
+00:42:23,200 --> 00:42:26,500
+XKEYSCORE in general, and there's 
+a huge folder of documentation
+
+760
+00:42:26,700 --> 00:42:28,500
+on XKEYSCORE and how it works,
+
+761
+00:42:29,310 --> 00:42:31,490
+is the front-end system 
+that analysts use
+
+762
+00:42:33,920 --> 00:42:34,830
+for querying that sort of ocean of raw singing
+that I was telling you about.
+
+763
+00:42:35,230 --> 00:42:38,170
+All that stuff where you can sort of 
+do the retroactive searches,
+
+764
+00:42:38,520 --> 00:42:40,320
+live searches, get flagging, what not.
+
+765
+00:42:41,060 --> 00:42:43,440
+XKEYSCORE is the front-end for that.
+
+766
+00:42:45,150 --> 00:42:48,980
+I'm just gonna show you one slide here, 
+'cause Laura thought it was valuable
+
+767
+00:42:49,190 --> 00:42:53,590
+on this talk on kinda 
+how these capabilities ramp up
+
+768
+00:42:53,800 --> 00:42:56,260
+in sophistication over time.
+
+769
+00:42:56,730 --> 00:42:58,020
+This is kinda nice.
+
+770
+00:42:58,340 --> 00:43:00,230
+As of fiscal year 2011, they could monitor
+
+771
+00:43:00,620 --> 00:43:05,040
+1 billion telephones and internet sessions simultanously,
+
+772
+00:43:05,300 --> 00:43:06,870
+per one of these devices,
+
+773
+00:43:07,340 --> 00:43:12,210
+and they can collect at a rate of 125 Gigabytes a second,
+
+774
+00:43:14,090 --> 00:43:15,090
+which is a Terabit per second.
+
+775
+00:43:15,500 --> 00:43:16,210
+- That's for each one of these?
+
+776
+00:43:16,470 --> 00:43:17,790
+- That's for each one of these, yeah.
+
+777
+00:43:18,020 --> 00:43:20,440
+- How many TUMULT missions would that be then?
+
+778
+00:43:20,640 --> 00:43:22,980
+- Part of this, back then there were 20 sites,
+
+779
+00:43:23,350 --> 00:43:26,250
+there's ten at DOD installations.
+
+780
+00:43:26,470 --> 00:43:29,220
+But these are all outdated, we've expanded pretty rapidly.
+
+781
+00:43:31,850 --> 00:43:33,960
+But still 20 sites, that's at least 20 billion.
+
+782
+00:43:34,220 --> 00:43:37,450
+- This all need to get out. 
+You know what I mean, it's like...
+
+783
+00:43:37,830 --> 00:43:43,510
+Just in terms of understanding, 
+the capabilities, it's so opaque.
+
+784
+00:43:43,820 --> 00:43:46,040
+- It's not science fiction. 
+This stuff is happening right now.
+
+785
+00:43:46,320 --> 00:43:48,420
+- No, that's what I mean, it's like... 
+The magnitude of it,
+
+786
+00:43:49,270 --> 00:43:53,490
+and like this a pretty inaccessible 
+technical document.
+
+787
+00:43:54,330 --> 00:43:57,190
+But, even this it's really chilling, 
+you know what I mean?
+
+788
+00:43:57,600 --> 00:44:00,210
+Yeah, I mean, we should be having debates
+
+789
+00:44:00,680 --> 00:44:02,410
+about whether we want Government
+
+790
+00:44:02,760 --> 00:44:06,250
+I mean this is massive and extraordinary. 
+It's amazing...
+
+791
+00:44:07,170 --> 00:44:08,840
+Even though you know it...
+Even though you know that...
+
+792
+00:44:09,380 --> 00:44:12,780
+to see it like the physical blueprints of it
+
+793
+00:44:13,140 --> 00:44:14,930
+and sort of the technical expressions of it,
+
+794
+00:44:15,850 --> 00:44:20,210
+brutally hits home like...
+in a super visceral way that is so needed.
+
+795
+00:44:19,810 --> 00:44:24,810
+
+
+796
+00:44:25,850 --> 00:44:27,080
+<font color="#FFFF00">This is CNN Breaking news</font>
+
+797
+00:44:27,380 --> 00:44:30,920 X1:0
+<font color="#FFFF00">An explosive new report is 
+re-igniting the concerns</font>
+
+798
+00:44:31,210 --> 00:44:35,050 X1:0
+<font color="#FFFF00">that your privacy is being violated 
+to protect America's "security".</font>
+
+799
+00:44:35,470 --> 00:44:39,260 X1:0
+<font color="#FFFF00">It reveals a court order giving 
+the National Security Agency</font>
+
+800
+00:44:39,960 --> 00:44:42,670 X1:0
+<font color="#FFFF00">blanket access to millions of 
+Verizon customer's records</font>
+
+801
+00:44:42,950 --> 00:44:44,350
+<font color="#FFFF00">on a daily basis.</font>
+
+802
+00:44:44,580 --> 00:44:46,610
+<font color="#FFFF00">Earlier I had the chance to 
+conduct the first TV interview</font>
+
+803
+00:44:46,850 --> 00:44:49,150
+<font color="#FFFF00">with the reporter 
+who broke this story wide open,</font>
+
+804
+00:44:49,590 --> 00:44:51,920
+<font color="#FFFF00">Glenn Greenwald, of The Guardian.</font>
+
+805
+00:44:52,760 --> 00:44:53,920
+<font color="#FFFF00">Congratulations on the scoop!</font>
+
+806
+00:44:54,210 --> 00:44:57,190
+<font color="#FFFF00">Explain for our viewers 
+why this is important?</font>
+
+807
+00:44:58,810 --> 00:45:00,510
+<font color="#FFFF00">It's important because people have understood</font>
+
+808
+00:45:00,740 --> 00:45:03,280
+<font color="#FFFF00">that the law that this was done under, 
+which is the Patriot Act</font>
+
+809
+00:45:03,510 --> 00:45:05,120
+<font color="#FFFF00">enacted in the wake of 9/11.</font>
+
+810
+00:45:05,500 --> 00:45:08,980
+<font color="#FFFF00">Was a law that allowed the government 
+very broad powers to get records</font>
+
+811
+00:45:09,210 --> 00:45:14,560
+<font color="#FFFF00">about people with a lower level of suspicion 
+and probable cause to traditional standards.</font>
+
+812
+00:45:14,770 --> 00:45:16,930
+<font color="#FFFF00">So it has always been assumed 
+that under the Patriot Act,</font>
+
+813
+00:45:17,100 --> 00:45:19,350
+<font color="#FFFF00">if the government had even any suspicion 
+that you where involved</font>
+
+814
+00:45:19,500 --> 00:45:22,770
+<font color="#FFFF00">in a crime or terrorism, 
+they could get a lot of information about you.</font>
+
+815
+00:45:23,100 --> 00:45:26,000
+<font color="#FFFF00">What this court order does 
+that makes it so striking</font>
+
+816
+00:45:26,250 --> 00:45:30,920
+<font color="#FFFF00">is that it's not directed at any individuals 
+who they believe or have suspicion of</font>
+
+817
+00:45:31,180 --> 00:45:33,450
+<font color="#FFFF00">committing crime or a part of 
+a terrorist organization.</font>
+
+818
+00:45:33,770 --> 00:45:38,480
+<font color="#FFFF00">It's collecting the phone records of 
+every single customer of Verizon business</font>
+
+819
+00:45:38,910 --> 00:45:42,000
+<font color="#FFFF00">and finding out every single call 
+that they've made internationally and locally.
+
+820
+00:45:42,470 --> 00:45:45,890
+<font color="#FFFF00">So it's indiscriminant and it's sweeping.
+It's a Government program designed</font>
+
+821
+00:45:46,180 --> 00:45:47,900
+<font color="#FFFF00">to collect information about all Americans</font>
+
+822
+00:45:48,230 --> 00:45:50,460
+<font color="#FFFF00">not just people 
+where they believe there is reason to think</font>
+
+823
+00:45:50,680 --> 00:45:51,740
+<font color="#FFFF00">they've done anything wrong.</font>
+
+824
+00:45:56,820 --> 00:45:58,710
+
+
+825
+00:46:53,840 --> 00:46:55,030
+It's a tough situation
+
+826
+00:46:55,280 --> 00:46:56,490
+You know hearing that
+
+827
+00:46:56,700 --> 00:46:59,560
+the person that you love 
+that you've spent the decade with
+
+828
+00:47:00,040 --> 00:47:01,710
+may not be coming back.
+
+829
+00:47:06,560 --> 00:47:07,780
+- What did they ask her?
+
+830
+00:47:09,460 --> 00:47:11,410
+- Hum... When was the last time she saw me?
+
+831
+00:47:11,580 --> 00:47:12,880
+Where am I?
+
+832
+00:47:13,190 --> 00:47:14,660
+What am I doing?
+
+833
+00:47:14,900 --> 00:47:15,740
+Hum.. you know.
+
+834
+00:47:15,940 --> 00:47:17,800
+What does she know about my illness?
+
+835
+00:47:18,250 --> 00:47:19,320
+Things like that.
+
+836
+00:47:22,550 --> 00:47:27,580
+So yeah they're pretty solidly aware.
+
+837
+00:47:27,950 --> 00:47:29,760
+Cause she's...
+
+838
+00:47:30,070 --> 00:47:32,920
+I'm clearly not at home ill.
+
+839
+00:47:53,740 --> 00:47:55,690
+- Hello, hello
+
+840
+00:47:57,090 --> 00:48:00,100
+- Hello, let me disconnect 
+from the Internet.
+
+841
+00:48:04,500 --> 00:48:06,150
+- So there is some news?
+
+842
+00:48:06,710 --> 00:48:08,280
+- Yes there was indeed some news.
+
+843
+00:48:09,910 --> 00:48:12,800
+- I have config today, I think, 
+maybe just a few hours ago.
+
+844
+00:48:13,310 --> 00:48:16,530
+- What kind of people does it...?
+
+845
+00:48:18,630 --> 00:48:23,920
+- An HR lady I'm assuming from NSA 
+as opposed to Booz Allen.
+
+846
+00:48:24,400 --> 00:48:25,950
+Because she has was accompanied by a police officer
+
+847
+00:48:26,240 --> 00:48:29,300
+which mean the NSA police 
+and they're planning to break into my house
+
+848
+00:48:29,690 --> 00:48:32,140
+which regular police don't do.
+
+849
+00:48:32,360 --> 00:48:33,840
+- Does she lives there?
+
+850
+00:48:34,110 --> 00:48:37,200
+- Yeah she lives there so I told her to cooperate fully
+
+851
+00:48:37,770 --> 00:48:39,260
+I can't find my phone just one second.
+
+852
+00:48:39,540 --> 00:48:40,800
+and don't worry about herself
+
+853
+00:48:41,070 --> 00:48:43,200
+You know what I gonna do, 
+I'll just take out the stuff I want to use.
+
+854
+00:48:43,450 --> 00:48:44,430
+- OK
+
+855
+00:48:45,170 --> 00:48:47,790
+- OK well look I mean this is not a surprise at all.
+
+856
+00:48:48,040 --> 00:48:51,000
+- Not yeah I know I planned for it but it's just you know 
+when it's impacting
+
+857
+00:48:51,330 --> 00:48:53,400
+and when they're talking to you 
+it's a little bit different.
+
+858
+00:48:53,670 --> 00:48:54,350
+- Absolutely
+
+859
+00:48:56,360 --> 00:48:59,640
+- But it's possible that they just noticed 
+that you're missing
+
+860
+00:48:59,830 --> 00:49:01,140
+I guess it's not really possible.
+
+861
+00:49:01,350 --> 00:49:06,260
+- It is but yeah they're I mean
+
+862
+00:49:09,250 --> 00:49:11,340
+Hum... let me just get rid of this.
+
+863
+00:49:13,340 --> 00:49:17,310
+So I obviously was focused on other things 
+than appearance this morning.
+
+864
+00:49:19,510 --> 00:49:22,430
+- How was she? How does she reacted? 
+Was she relatively calm about it?
+
+865
+00:49:22,610 --> 00:49:23,810
+- She's relatively calm.
+
+866
+00:49:24,100 --> 00:49:25,680
+- Does she know anything about what you're doing?
+
+867
+00:49:25,970 --> 00:49:28,010
+- She has, she has no idea
+
+868
+00:49:28,470 --> 00:49:32,050
+and that's I mean I feel badly about that
+
+869
+00:49:32,280 --> 00:49:34,090
+but that's the only way I could think of where
+
+870
+00:49:34,420 --> 00:49:36,540
+like she can't be in trouble.
+
+871
+00:49:36,740 --> 00:49:38,400
+- Did you just basically do a 
+"I have to go somewhere for reasons
+
+872
+00:49:38,670 --> 00:49:40,250
+that I can't tell you about" kind of thing?
+
+873
+00:49:40,480 --> 00:49:42,640
+- I just disappeared when she was on vacation
+
+874
+00:49:43,050 --> 00:49:45,270
+and I left a note saying
+
+875
+00:49:45,460 --> 00:49:47,520
+"Hey I'm gonna be away for a while for work"
+
+876
+00:49:47,740 --> 00:49:49,760
+which isn't unusual for me in my business
+
+877
+00:49:50,260 --> 00:49:50,820
+- Right
+
+878
+00:49:51,070 --> 00:49:51,640
+you know so
+
+879
+00:49:51,880 --> 00:49:54,120
+- OK so let me ask a couple things just quickly.
+
+880
+00:49:54,340 --> 00:49:57,550
+Are they gonna be able to go into your stuff 
+and figure out what you took?
+
+881
+00:50:00,440 --> 00:50:06,960
+- Hum in some kind of some sort of like 
+peripheral sense but not necessarily
+
+882
+00:50:07,470 --> 00:50:11,110
+- Yes because I cast such a wide net
+
+883
+00:50:11,350 --> 00:50:13,400
+I they do that the only thing they're gonna do 
+is they're gonna have a heart attack
+
+884
+00:50:13,620 --> 00:50:15,460
+because they're gonna go 
+"He had access to everything"
+
+885
+00:50:15,720 --> 00:50:16,180
+- Yeah
+
+886
+00:50:16,440 --> 00:50:19,630
+and they not gonna know what 
+specifically has been done.
+
+887
+00:50:19,910 --> 00:50:22,740
+I think they're gonna start to actually feel a little better
+
+888
+00:50:23,040 --> 00:50:26,570
+although they're not gonna be wild about this in any case.
+
+889
+00:50:27,030 --> 00:50:30,040
+When they see that the stories are kind of cleaving to a trend
+
+890
+00:50:30,440 --> 00:50:31,230
+you know it's not like
+
+891
+00:50:31,500 --> 00:50:33,440
+"Here is the list of everybody who works everywhere"
+
+892
+00:50:33,670 --> 00:50:34,460
+- Right
+
+893
+00:50:34,740 --> 00:50:37,370
+- I also think you know there're gonna be 
+paranoid in the extreme
+
+894
+00:50:37,730 --> 00:50:39,520
+and assuming all kind of 
+worst case scenarios
+
+895
+00:50:41,070 --> 00:50:42,510
+which is gonna you know I think
+
+896
+00:50:42,810 --> 00:50:47,050
+make them react in ways that probably aren't like 
+gonna be particularly
+
+897
+00:50:47,420 --> 00:50:49,380
+rational on their part
+
+898
+00:50:50,460 --> 00:50:53,130
+but at the same time there's... 
+I do think they're limited
+
+899
+00:50:53,330 --> 00:50:54,470
+for the moment.
+
+900
+00:50:54,690 --> 00:50:58,940
+- I agree and I mean, 
+I had kind of time to set a stage where
+
+901
+00:50:59,270 --> 00:51:01,420
+we all enjoy at least a minimum 
+level of protection you know
+
+902
+00:51:01,650 --> 00:51:04,210
+no matter who we are who's involved in this 
+you know you're either a journalist
+
+903
+00:51:04,460 --> 00:51:05,040
+- Right
+
+904
+00:51:05,230 --> 00:51:06,530
+or you're either out of jurisdiction
+
+905
+00:51:06,760 --> 00:51:09,240
+so we have some time to play this 
+before they can really get nasty.
+
+906
+00:51:09,440 --> 00:51:11,730
+I think it's over you know the weeks 
+when they have times to get lawyers,
+
+907
+00:51:12,170 --> 00:51:13,420
+really sort of go
+
+908
+00:51:13,590 --> 00:51:17,290
+"This is a special situation 
+how can we interpret this to our advantage?"
+
+909
+00:51:17,820 --> 00:51:19,210
+like we seen them do this all the time you know
+
+910
+00:51:19,630 --> 00:51:21,980
+whether it's drones or wiretapping 
+or whatever they'll go.
+
+911
+00:51:22,410 --> 00:51:25,460
+Well according to this law 
+from the 1840's you know
+
+912
+00:51:25,810 --> 00:51:26,910
+- Yeah yeah of course
+
+913
+00:51:27,110 --> 00:51:27,840
+we can apply x, y to the Authority.
+
+914
+00:51:28,120 --> 00:51:30,040
+But that takes time and that takes agreement.
+
+915
+00:51:30,270 --> 00:51:32,080
+Yeah and also you know I mean I think
+
+916
+00:51:32,380 --> 00:51:34,790
+the more public we are out there 
+to like as journalists
+
+917
+00:51:35,710 --> 00:51:38,060
+and the more protection 
+it's gonna give as well.
+
+918
+00:51:39,170 --> 00:51:42,680
+- Have you started to give thoughts 
+to when you're ready to come forward?
+
+919
+00:51:43,250 --> 00:51:48,930
+- I'm ready whenever huh honestly 
+I think there is sort of an agreement
+
+920
+00:51:49,250 --> 00:51:51,600
+that it's not going to bias 
+the reporting process.
+
+921
+00:51:51,900 --> 00:51:52,810
+That's my primary concern at this point.
+
+922
+00:51:53,050 --> 00:51:56,590
+I don't want to get myself into the issue 
+before it's gonna happen anyway
+
+923
+00:51:57,160 --> 00:51:59,610
+and where it takes away 
+for the stories that are getting out.
+
+924
+00:52:38,540 --> 00:52:41,870
+We're talking about tens of millions 
+of Americans
+
+925
+00:52:39,250 --> 00:52:41,750
+
+
+926
+00:52:42,320 --> 00:52:43,560
+who weren't suspected of doing anything
+
+927
+00:52:44,140 --> 00:52:45,690
+who were surveilled in this way.
+
+928
+00:52:45,970 --> 00:52:54,420
+
+
+929
+00:52:46,010 --> 00:52:48,280
+...thoughts for a moment, I want to 
+continue this conversation,
+
+930
+00:52:48,530 --> 00:52:50,100
+these are really important sensitive issues
+
+931
+00:52:50,590 --> 00:52:53,670
+and the public out there has the right 
+to know what's going on... Stand by...
+
+932
+00:52:53,970 --> 00:52:56,520
+<font color="#FFFF00">This is CNN breaking news</font>
+
+933
+00:52:57,070 --> 00:53:01,320
+<font color="#FFFF00">Another explosive article has just appeared 
+this time in the Washington Post</font>
+
+934
+00:53:01,830 --> 00:53:06,880
+<font color="#FFFF00">it's breaking news and it reveals another 
+broad and secret US government surveillance program.</font>
+
+935
+00:53:07,360 --> 00:53:12,150
+<font color="#FFFF00">The Washington Post and The Guardian in London
+reporting that the NSA and the FBI</font>
+
+936
+00:53:12,540 --> 00:53:17,570
+<font color="#FFFF00">are tapping directly into the 
+central servers of nine leading Internet companies</font>
+
+937
+00:53:18,010 --> 00:53:23,620
+<font color="#FFFF00">including Microsoft, Yahoo, Google, 
+Facebook, AOL, Skype, YouTube and Apple.</font>
+
+938
+00:53:23,920 --> 00:53:28,330
+<font color="#FFFF00">Reports says they're extracting audio, 
+video, photographs, e-mails, documents</font>
+
+939
+00:53:28,870 --> 00:53:34,490
+<font color="#FFFF00">and connection logs that enable analysts
+to track a person's movements and context over time.</font>
+
+940
+00:53:36,070 --> 00:53:38,900
+<font color="#FFFF00">Let's discuss this latest revelation 
+that coming out fast,</font>
+
+941
+00:53:39,290 --> 00:53:41,680
+<font color="#FFFF00">Bill Binney, the formal official of the NSA</font>
+
+942
+00:53:41,920 --> 00:53:44,810
+<font color="#FFFF00">who quit back in 2001, you were angry about 
+what was going on</font>
+
+943
+00:53:45,210 --> 00:53:46,910
+<font color="#FFFF00">you've been known as 
+a whistleblower right now.</font>
+
+944
+00:53:47,220 --> 00:53:49,090
+<font color="#FFFF00">- Bill, what do you think about 
+this Washington Post story?</font>
+
+945
+00:53:49,570 --> 00:53:52,560
+<font color="#FFFF00">- Well, I assume it's just the continuation 
+of what they've been doing all along.</font>
+
+946
+00:53:52,840 --> 00:53:53,700
+<font color="#FFFF00">- So you're not surprised?</font>
+
+947
+00:53:54,140 --> 00:53:54,760
+<font color="#FFFF00">- No</font>
+
+948
+00:53:54,920 --> 00:53:56,490
+<font color="#FFFF00">- Do you have any idea who's leaking this information?</font>
+
+949
+00:53:56,760 --> 00:53:58,590
+<font color="#FFFF00">- I don't know who leaked this,</font>
+
+950
+00:53:58,900 --> 00:54:01,960
+<font color="#FFFF00">I have no doubt that the administration will 
+launch an investigation</font>
+
+951
+00:54:02,960 --> 00:54:07,000
+<font color="#FFFF00">not into who approved these programs 
+but into who leaked the information.</font>
+
+952
+00:54:07,740 --> 00:54:11,050
+I'm not shocked they come to denying it, I don't assume that...
+
+953
+00:54:11,280 --> 00:54:12,270
+- Do you believe it?
+
+954
+00:54:12,660 --> 00:54:15,600
+<font color="#FFFF00">- There're maybe some technical basis on which 
+they can say that we are not</font>
+
+955
+00:54:15,970 --> 00:54:20,090
+<font color="#FFFF00">actively collaborating or they don't have 
+what we consider in our definition</font>
+
+956
+00:54:20,390 --> 00:54:23,500
+<font color="#FFFF00">to be direct access to our servers 
+but what I do know is that I've talked to</font>
+
+957
+00:54:24,000 --> 00:54:25,610
+<font color="#FFFF00">more that one person</font>
+
+958
+00:54:25,960 --> 00:54:30,510
+<font color="#FFFF00">who has sat at a desk at a web portal 
+and typed out commands</font>
+
+959
+00:54:30,890 --> 00:54:33,420
+<font color="#FFFF00">and reached into those servers 
+from a distance.</font>
+
+960
+00:54:34,230 --> 00:54:36,190
+<font color="#FFFF00">So, whatever they want to call that, 
+that's what's happening.</font>
+
+961
+00:54:36,620 --> 00:54:40,580
+Hold on, what are we calling the 
+single biggest infringement on American civil liberties
+
+962
+00:54:40,990 --> 00:54:42,550
+probably of all time, isn't it?
+
+963
+00:54:43,110 --> 00:54:47,030
+<font color="#FFFF00">- ...we already have the New York Times now today
+saying that the Administration has lost all credibility.</font>
+
+964
+00:54:47,820 --> 00:54:49,200
+<font color="#FFFF00">- The New York Times slammed 
+President Obama for this</font>
+
+965
+00:54:49,600 --> 00:54:50,590
+<font color="#FFFF00">and frankly I was used to that</font>
+
+966
+00:54:50,910 --> 00:54:54,060
+<font color="#FFFF00">the New York Times used to slam George Bush
+for protecting the country for the steps he took.</font>
+
+967
+00:54:54,460 --> 00:54:55,720
+<font color="#FFFF00">I don't want us to drop our guard.</font>
+
+968
+00:54:56,120 --> 00:54:58,900
+I don't want us to be struck again as we saw in Boston,
+
+969
+00:54:59,150 --> 00:55:00,160
+I understand,
+
+970
+00:55:00,490 --> 00:55:04,290
+<font color="#FFFF00">people are willing to sacrifice their 
+civil liberties, people are sheltered inside which is enough...</font>
+
+971
+00:55:04,550 --> 00:55:05,850
+- How can you believe in freedom, do you see?
+
+972
+00:55:06,120 --> 00:55:08,920
+I mean try and play the devil's advocate for me, 
+when you have secret courts,
+
+973
+00:55:09,310 --> 00:55:13,670
+secret operations like PRISM, secret investigations which go into
+
+974
+00:55:14,060 --> 00:55:18,090
+every spit and cough of every American's lives without any Member 
+of the American public
+
+975
+00:55:18,480 --> 00:55:20,090
+knowing about it. That's not freedom is it?
+
+976
+00:55:20,300 --> 00:55:24,350
+<font color="#FFFF00">- In 2008, they eliminated the 
+warrant requirement for all conversations</font>
+
+977
+00:55:24,690 --> 00:55:27,340
+<font color="#FFFF00">except ones that takes place 
+by and among Americans</font>
+
+978
+00:55:27,750 --> 00:55:29,460
+exclusively on America's soil.
+
+979
+00:55:29,780 --> 00:55:32,780
+So they don't need warrants now for people 
+who are foreigners
+
+980
+00:55:33,180 --> 00:55:36,130
+outside of the US but they also don't need 
+warrants for Americans
+
+981
+00:55:36,510 --> 00:55:38,480
+who are in the United States 
+communicating with people
+
+982
+00:55:38,970 --> 00:55:41,050
+reasonably believed to be 
+outside of the US.
+
+983
+00:55:41,490 --> 00:55:46,110
+So again, the fact that there are no checks, 
+no oversight about who's looking over the NSA's shoulder,
+
+984
+00:55:46,430 --> 00:55:49,080
+means that they can take whatever they want 
+and the fact that it's all behind a wall
+
+985
+00:55:49,350 --> 00:55:52,490
+of secrecy and they threaten people 
+who want to expose it
+
+986
+00:55:52,830 --> 00:55:55,900
+means that whatever they're doing 
+even violating the law
+
+987
+00:55:56,280 --> 00:55:58,830
+is something we're unlikely to know 
+until we start having real investigations
+
+988
+00:55:59,260 --> 00:56:02,770
+and real transparency into 
+what it is the government is doing.
+
+989
+00:56:03,140 --> 00:56:06,670
+<font color="#FFFF00">Glenn Greenwald, congratulations again 
+on exposing what is a true scandal,</font>
+
+990
+00:56:06,950 --> 00:56:08,130
+I appreciate you joining me.
+
+991
+00:56:56,850 --> 00:57:02,260
+Hey I just heard from Lindsay and huh... 
+she's still alive, which is good and free.
+
+992
+00:57:03,660 --> 00:57:07,190
+My rent checks apparently are no longer 
+getting through to my landlord
+
+993
+00:57:07,700 --> 00:57:11,700
+so they said if we don't pay them 
+in five days we will be evicted,
+
+994
+00:57:12,500 --> 00:57:16,260
+which is strange because I got a system 
+set up that automatically pays them.
+
+995
+00:57:18,560 --> 00:57:21,580
+So there is that apparently there is 
+construction trucks all over the street
+
+996
+00:57:25,300 --> 00:57:31,250
+of my house, so that's, I wonder 
+what they're looking for.
+
+997
+00:58:13,230 --> 00:58:18,180
+It is... It is an unusual feeling 
+that's kind of hard to...
+
+998
+00:58:20,290 --> 00:58:23,760
+hard to like, describe or convey in words 
+but not knowing what's gonna happen
+
+999
+00:58:24,460 --> 00:58:27,040
+in the next days, the next hour 
+or the next week
+
+1000
+00:58:28,350 --> 00:58:31,310
+it's scary but at the same time 
+it's liberating, you know,
+
+1001
+00:58:33,060 --> 00:58:34,960
+the planning comes a lot easier 
+because you don't have
+
+1002
+00:58:35,200 --> 00:58:38,260
+that many variables to take into plate, 
+you can only act, and then act again.
+
+1003
+00:58:39,680 --> 00:58:41,800
+Now all these phone calls 
+are being recorded digitally
+
+1004
+00:58:42,280 --> 00:58:44,670
+not for content but 
+for origin and destination
+
+1005
+00:58:45,050 --> 00:58:48,820
+now word the government is going right into 
+the servers of these large Internet companies.
+
+1006
+00:58:49,610 --> 00:58:53,580
+- How does the government politically speaking 
+make the argument that this is essential
+
+1007
+00:58:53,990 --> 00:58:56,420
+to National Security and not 
+a dramatic overreach
+
+1008
+00:58:57,150 --> 00:58:59,370
+in terms of personal privacy?
+
+1009
+00:58:59,650 --> 00:59:02,670
+- It's difficult Matt, because 
+as Peter was pointing out, overnight
+
+1010
+00:59:03,720 --> 00:59:06,470
+we had an extraordinary late night 
+close to midnight announcement
+
+1011
+00:59:06,740 --> 00:59:09,180
+and a declassification from the 
+Director of National Intelligence.
+
+1012
+00:59:09,740 --> 00:59:13,390
+They are scrambling, the Administration is 
+already supported strongly by leaders
+
+1013
+00:59:13,780 --> 00:59:15,760
+in both parties from the 
+Intelligence Committees.
+
+1014
+00:59:16,250 --> 00:59:21,620
+GCHQ has an internal Wikipedia at the top secret
+you know, super classified level
+
+1015
+00:59:22,670 --> 00:59:24,850
+where anybody working intelligence 
+can work on anything they want.
+
+1016
+00:59:25,930 --> 00:59:30,400
+That's what this is, I'm giving it to you, 
+you can make the decision on that what's appropriate what's not.
+
+1017
+00:59:30,710 --> 00:59:32,550
+Hum it's gonna be documents of, 
+you know, different types,
+
+1018
+00:59:32,920 --> 00:59:35,740
+pictures and Power Points and Word documents.
+Stuff like that ...
+
+1019
+00:59:36,290 --> 00:59:37,540
+- Sorry can I take that seat?
+
+1020
+00:59:37,790 --> 00:59:38,750
+- Yeah
+
+1021
+00:59:41,160 --> 00:59:44,860
+- Sorry, I'm sorry I've got used to repeat, 
+so in these documents, they will show...
+
+1022
+00:59:45,090 --> 00:59:46,790
+- Yeah there will be 
+a couple more documents on that,
+
+1023
+00:59:47,090 --> 00:59:49,990
+that's only one part though, 
+like it talks about Tempora
+
+1024
+00:59:50,250 --> 00:59:52,780
+and a little more thing 
+that's the wiki article itself.
+
+1025
+00:59:53,830 --> 00:59:59,750
+It was also talking about a self-developed tool 
+called UDAQ U.D.A.Q. it's their search tool
+
+1026
+00:59:59,990 --> 01:00:02,340
+for all the stuff they collect 
+was what it looked like.
+
+1027
+01:00:02,640 --> 01:00:03,030
+- Yeah
+
+1028
+01:00:03,480 --> 01:00:06,040
+- Hum it's gonna be projects, 
+it's gonna be troubleshooting pages
+
+1029
+01:00:06,250 --> 01:00:07,580
+for a particular tool.
+
+1030
+01:00:07,830 --> 01:00:08,510
+- Thanks
+
+1031
+01:00:09,200 --> 01:00:13,000
+- And, the next step, 
+when do you think you'll go public?
+
+1032
+01:00:13,680 --> 01:00:18,350
+- Arh... I think it's pretty soon, 
+I mean, with the reaction, this escalated more quickly,
+
+1033
+01:00:18,670 --> 01:00:21,400
+I think pretty much as soon as they 
+start trying to make this about me
+
+1034
+01:00:21,770 --> 01:00:23,130
+which should be any day now.
+
+1035
+01:00:23,350 --> 01:00:23,980
+- Yeah
+
+1036
+01:00:24,590 --> 01:00:29,660
+- Hum I'll come out just to go hey, 
+you know, this is not a question of
+
+1037
+01:00:30,140 --> 01:00:33,000
+somebody skulking around in the shadows. 
+These are public issues,
+
+1038
+01:00:33,390 --> 01:00:36,180
+these are not my issues 
+you know these are everybody's issues,
+
+1039
+01:00:37,130 --> 01:00:40,150
+I'm not afraid of you, you know, 
+you're not gonna bully me in the silence
+
+1040
+01:00:40,420 --> 01:00:42,180
+like you've done to everybody else
+
+1041
+01:00:42,770 --> 01:00:44,230
+and if no body else is gonna do it I will
+
+1042
+01:00:45,410 --> 01:00:47,500
+and hopefully when I'm gone 
+whatever you do to me,
+
+1043
+01:00:47,890 --> 01:00:49,680
+there will be somebody else 
+who will do the same thing.
+
+1044
+01:00:50,810 --> 01:00:52,910
+It will be the sort of Internet principle 
+you know, of the Hydra:
+
+1045
+01:00:54,300 --> 01:00:56,860
+you can stop one person 
+but there is gonna be seven more of us.
+
+1046
+01:00:57,130 --> 01:00:58,140
+- Yeah
+
+1047
+01:01:01,200 --> 01:01:02,960
+Are you getting more nervous?
+
+1048
+01:01:06,060 --> 01:01:11,680
+- I mean...  no. I think the way 
+I look at stress... particularly because
+
+1049
+01:01:12,900 --> 01:01:18,500
+I sort of knew this was coming...
+because I sort of volunteered to walk into it.
+
+1050
+01:01:22,290 --> 01:01:26,140
+I'm already sort of familiar with the idea.
+
+1051
+01:01:26,330 --> 01:01:27,410
+I'm not worried about it.
+
+1052
+01:01:27,730 --> 01:01:29,680
+When somebody like 
+busts in the door suddenly
+
+1053
+01:01:29,880 --> 01:01:31,250
+I'll get nervous and it'll affect me
+but until they do, you know...
+
+1054
+01:01:30,000 --> 00:42:33,720
+
+
+1055
+01:01:31,510 --> 01:01:31,980
+- Yeah, yeah.
+
+1056
+01:01:32,160 --> 01:01:34,630
+But until they do umm... you know.
+
+1057
+01:01:34,840 --> 01:01:37,840
+I'm eating a little less 
+that's the only difference I think.
+
+1058
+01:01:46,670 --> 01:01:49,140
+- Let's talk about the issue with when we're gonna say 
+who you are.
+
+1059
+01:01:49,350 --> 01:01:49,900
+- Yeah
+
+1060
+01:01:50,180 --> 01:01:54,920
+- This is, you know, you have to talk me through this 
+because I have a big worry about this.
+
+1061
+01:01:55,110 --> 01:01:55,930
+- OK tell me
+
+1062
+01:01:56,450 --> 01:01:59,510
+- Which is that...
+if we come out and
+
+1063
+01:02:00,690 --> 01:02:05,120
+I know that you believe 
+that your detection is inevitable
+
+1064
+01:02:05,480 --> 01:02:07,240
+and that it's inevitable imminently.
+
+1065
+01:02:08,070 --> 01:02:10,400
+There is, you know, in the New York Times 
+today Charlie Savage the fascinating
+
+1066
+01:02:11,150 --> 01:02:13,650
+Sherlock Holmes of political reporting deduced that
+
+1067
+01:02:14,830 --> 01:02:16,480
+the fact that there has been these leaks in succession
+
+1068
+01:02:16,700 --> 01:02:19,110
+probably means that there's some one person 
+that decided to leak...
+
+1069
+01:02:19,340 --> 01:02:21,470
+- Somebody else quoted you saying 
+it was one of your readers
+
+1070
+01:02:21,780 --> 01:02:22,280
+- Yeah
+
+1071
+01:02:22,820 --> 01:02:23,890
+- And somebody else is putting on things
+
+1072
+01:02:24,170 --> 01:02:28,100
+- Yeah so you know, I mean it's fine 
+I want people to, I wanted to be like
+
+1073
+01:02:28,470 --> 01:02:28,940
+- Yeah
+
+1074
+01:02:29,190 --> 01:02:31,880
+- You know like this is a person, 
+I want to start introducing the concept of
+
+1075
+01:02:32,100 --> 01:02:35,510
+this is a person who has a particular set 
+of political objectives
+
+1076
+01:02:35,870 --> 01:02:37,770
+about informing the world about 
+what's taking place.
+
+1077
+01:02:38,210 --> 01:02:41,480
+Like you know, 
+I'm keeping it all anonymous totally
+
+1078
+01:02:41,700 --> 01:02:45,270
+but I want to start introducing you 
+in that kind of incremental way.
+
+1079
+01:02:46,430 --> 01:02:47,610
+But here's the thing.
+
+1080
+01:02:48,080 --> 01:02:50,790
+What I'm concerned about it 
+that if come out and say
+
+1081
+01:02:51,070 --> 01:02:53,160
+here's who this is, here's what he did 
+the whole thing
+
+1082
+01:02:53,390 --> 01:02:54,220
+that we talked about.
+
+1083
+01:02:55,230 --> 01:02:56,670
+Then we're gonna basically be doing 
+the government's work for them
+
+1084
+01:02:57,250 --> 01:03:00,070
+and we're gonna basically be handing them 
+you know a confession
+
+1085
+01:03:02,100 --> 01:03:04,100
+and helping them identify who find it.
+
+1086
+01:03:04,620 --> 01:03:07,390
+I mean maybe you're right, 
+maybe they'll find out quickly
+
+1087
+01:03:07,640 --> 01:03:10,100
+and maybe they'll know but is there 
+any possible idea that they won't?
+
+1088
+01:03:10,560 --> 01:03:13,670
+Are we kind of giving them stuff 
+that we don't...? Or...
+
+1089
+01:03:14,970 --> 01:03:17,030
+- It's possible that they already know 
+but they don't want to reveal
+
+1090
+01:03:17,380 --> 01:03:19,240
+it because they don't know...
+
+1091
+01:03:19,520 --> 01:03:20,790
+- Or that they don't know 
+and we're gonna be telling them like
+
+1092
+01:03:20,760 --> 01:03:24,200
+is it a possibility that 
+they're gonna need like 2 3 months or uncertainty
+
+1093
+01:03:24,510 --> 01:03:26,210
+and we're gonna be 
+solving their problem for them?
+
+1094
+01:03:26,620 --> 01:03:29,890
+or let me just say the or part 
+maybe it doesn't matter to you,
+
+1095
+01:03:30,150 --> 01:03:32,870
+maybe you want it, maybe, I mean,
+
+1096
+01:03:33,220 --> 01:03:34,930
+you're not coming out because
+
+1097
+01:03:35,170 --> 01:03:37,030
+you think inevitably 
+they're gonna catch you
+
+1098
+01:03:37,510 --> 01:03:38,610
+and you want to do it first,
+
+1099
+01:03:39,210 --> 01:03:40,960
+you're coming out because 
+you want to fucking come out and...
+
+1100
+01:03:41,320 --> 01:03:43,210
+- Oh there is that, 
+I mean that's the thing,
+
+1101
+01:03:43,680 --> 01:03:45,640
+I don't want to hide on this 
+and skulk around,
+
+1102
+01:03:46,110 --> 01:03:47,260
+I don't think I should have to
+
+1103
+01:03:48,110 --> 01:03:49,690
+obviously there is circumstances 
+that are saying that.
+
+1104
+01:03:50,480 --> 01:03:52,620
+I think it is powerful 
+to come out and be like
+
+1105
+01:03:53,050 --> 01:03:56,550
+look I'm not afraid and I don't think 
+other people should either,
+
+1106
+01:03:56,800 --> 01:03:59,590
+you know, I was sitting 
+in the office right next to you last week,
+
+1107
+01:03:59,930 --> 01:04:02,400
+we all have a stake in this, 
+this is our country
+
+1108
+01:04:03,310 --> 01:04:06,530
+and the balance of power 
+between the citizenry and the government
+
+1109
+01:04:07,360 --> 01:04:09,450
+is becoming that 
+of the ruling and the ruled
+
+1110
+01:04:09,770 --> 01:04:13,390
+as opposed to actually, you know, 
+the elected and the electorate.
+
+1111
+01:04:13,880 --> 01:04:16,750
+- OK so that's what I need to hear, 
+that this is not about...
+
+1112
+01:04:17,810 --> 01:04:21,020
+- But I do want to say, 
+I don't think there is a case
+
+1113
+01:04:21,320 --> 01:04:24,370
+that I'm not gonna be discovered, 
+in the fullness of time.
+
+1114
+01:04:24,860 --> 01:04:26,010
+It's just a question of time for me.
+
+1115
+01:04:26,270 --> 01:04:27,730
+You're right, it could take them 
+a long time, I don't think it will
+
+1116
+01:04:28,890 --> 01:04:32,370
+but I didn't try to hide the footprint 
+because again I intended to come forward.
+
+1117
+01:04:32,910 --> 01:04:37,130
+- OK I'm gonna post this morning 
+just a general defense of whistleblowers
+
+1118
+01:04:37,450 --> 01:04:40,570
+and you in particular 
+without saying anything about you.
+
+1119
+01:04:40,910 --> 01:04:41,920
+I'm gonna go post 
+that right when I get back
+
+1120
+01:04:42,620 --> 01:04:44,690
+and I'm also doing like a big fuck you 
+to all the people who keep like talking
+
+1121
+01:04:45,080 --> 01:04:47,990
+about investigations like that. 
+I want that to be like...
+
+1122
+01:04:48,980 --> 01:04:51,690
+the fearlessness and the fuck you to like 
+the bullying tactics,
+
+1123
+01:04:53,390 --> 01:04:55,990
+has go to be completely preventing 
+every thing we do.
+
+1124
+01:04:56,260 --> 01:04:58,850
+- I think that's brilliant. 
+I mean your principles on this I love,
+
+1125
+01:04:59,150 --> 01:05:03,530
+I can't support them enough because it is, 
+it's inverting the model
+
+1126
+01:05:03,950 --> 01:05:06,000
+of the government has laid out 
+where people where trying to,
+
+1127
+01:05:06,520 --> 01:05:08,880
+you know, say the truth, skulk around, 
+and then hide in the dark,
+
+1128
+01:05:09,340 --> 01:05:12,390
+and then quote anonymously. 
+I say yes, fuck that, let's just...
+
+1129
+01:05:13,020 --> 01:05:16,430
+- OK, so here is the plan then, 
+I mean, and this is a thing, it's like
+
+1130
+01:05:16,790 --> 01:05:19,970
+once, I think we all just felt the fact 
+that this is the right way to do it.
+
+1131
+01:05:20,850 --> 01:05:23,530
+You feel the power of your choice, 
+you know what I mean,
+
+1132
+01:05:23,890 --> 01:05:26,280
+it's like I want that power 
+to be felt in the world.
+
+1133
+01:05:26,480 --> 01:05:27,080
+- OK
+
+1134
+01:05:27,930 --> 01:05:30,500
+- and it is the... 
+it's the ultimate standing up to them
+
+1135
+01:05:30,760 --> 01:05:33,890
+right like I'm not gonna fucking hide 
+even for one second,
+
+1136
+01:05:35,070 --> 01:05:36,590
+I'm gonna get right in your face,
+
+1137
+01:05:36,890 --> 01:05:39,290
+you don't have to investigate, 
+there's nothing to investigate,
+
+1138
+01:05:39,520 --> 01:05:40,900
+here I am!
+
+1139
+01:05:41,220 --> 01:05:44,550
+You know, and I think that 
+is just incredibly powerful,
+
+1140
+01:05:45,310 --> 01:05:46,660
+and then the question just becomes
+
+1141
+01:05:47,200 --> 01:05:49,250
+how do we do this in the right, 
+you know the perfect way,
+
+1142
+01:05:49,560 --> 01:05:52,320
+that's my burden and 
+that's what I'm gonna spend...
+
+1143
+01:05:52,780 --> 01:05:54,650
+So today it's gonna be 
+this story in the morning,
+
+1144
+01:05:54,940 --> 01:05:56,880
+assuming that 
+it doesn't change in The Guardian,
+
+1145
+01:05:57,120 --> 01:05:58,230
+it's gonna be this story in the morning,
+
+1146
+01:05:58,390 --> 01:06:01,320
+just to keep the mental going, 
+just to keep like the disclosures coming.
+
+1147
+01:06:01,740 --> 01:06:04,430
+A big one at night, now it's becoming like
+
+1148
+01:06:04,780 --> 01:06:07,230
+"OK, this is a major leak"
+
+1149
+01:06:07,470 --> 01:06:09,760
+and after today when we post 
+the two stuff things that we're gonna post.
+
+1150
+01:06:10,550 --> 01:06:14,890
+It's gonna be 
+"what the fuck is this leak and who did it?"
+
+1151
+01:06:15,160 --> 01:06:16,230
+I guarantee you.
+
+1152
+01:06:26,030 --> 01:06:28,410
+I just want to make sure, 
+move over slightly...
+
+1153
+01:06:28,660 --> 01:06:29,920
+- Do you want me to move 
+a little move over...
+
+1154
+01:06:30,490 --> 01:06:31,700
+- I just wanna move... all right
+
+1155
+01:06:32,960 --> 01:06:35,870
+- OK
+
+1156
+01:06:36,100 --> 01:06:36,730
+- We are ready
+
+1157
+01:06:36,950 --> 01:06:38,150
+- So let's us begin with some basic
+
+1158
+01:06:38,350 --> 01:06:39,550
+background information like
+
+1159
+01:06:40,010 --> 01:06:40,850
+just state your name,
+
+1160
+01:06:41,420 --> 01:06:43,400
+what position you held 
+in intelligence community
+
+1161
+01:06:43,670 --> 01:06:45,700
+and how long you worked 
+within that community
+
+1162
+01:06:47,350 --> 01:06:50,620
+- OK, uh... just some... 
+how are we going, like,
+
+1163
+01:06:51,100 --> 01:06:51,970
+in depth or 
+are we going like in general,
+
+1164
+01:06:52,250 --> 01:06:54,030
+like I'm currently 
+an infrastructure analyst, you know,
+
+1165
+01:06:54,330 --> 01:06:56,690
+Booz Allen Hamilton, 
+not going through my whole back story
+
+1166
+01:06:57,130 --> 01:06:57,520
+- Yes
+
+1167
+01:06:57,750 --> 01:06:58,330
+- OK,
+
+1168
+01:06:58,550 --> 01:06:59,560
+- Just like summary kind of
+
+1169
+01:06:59,790 --> 01:07:00,420
+- OK
+
+1170
+01:07:00,670 --> 01:07:03,540
+- My Name is Ed Snowden, 
+I'm 29 years old,
+
+1171
+01:07:04,450 --> 01:07:07,570
+I work for Booz Allen Hamilton 
+as an infrastructure analyst
+
+1172
+01:07:07,790 --> 01:07:10,050
+for NSA in Hawaii.
+
+1173
+01:07:11,420 --> 01:07:13,980
+- And what are some of the positions 
+that you held previously
+
+1174
+01:07:14,380 --> 01:07:15,760
+within the intelligence community?
+
+1175
+01:07:15,970 --> 01:07:19,370
+- I've been a system engineer, 
+system administrator, uh...
+
+1176
+01:07:20,770 --> 01:07:25,740
+senior advisor, uh... 
+for the, Central Intelligence Agency,
+
+1177
+01:07:26,050 --> 01:07:29,620
+solutions consultant and a 
+telecommunications information
+
+1178
+01:07:29,830 --> 01:07:31,580
+systems officer.
+
+1179
+01:07:32,580 --> 01:07:34,880
+- And what kind of clearances have... 
+have you held,
+
+1180
+01:07:35,060 --> 01:07:36,280
+what kinda classification?
+
+1181
+01:07:37,210 --> 01:07:39,270
+- Uh... Top secret,
+
+1182
+01:07:42,510 --> 01:07:45,590
+So, people in my levels of access 
+for systems administration
+
+1183
+01:07:46,230 --> 01:07:50,550
+or as a infrastructure analyst 
+typically have higher accesses
+
+1184
+01:07:51,200 --> 01:07:54,100
+than an NSA employee would normally have.
+
+1185
+01:07:54,550 --> 01:07:57,370
+Normal NSA employees have a 
+combination of clearances called
+
+1186
+01:07:58,170 --> 01:08:01,580
+TS SI TK and Gamma.
+
+1187
+01:08:03,060 --> 01:08:06,880
+Uh, that's a Top Secret Signals 
+Intelligence Talent Keyhole
+
+1188
+01:08:07,300 --> 01:08:08,180
+and Gamma.
+
+1189
+01:08:08,460 --> 01:08:12,080
+And they all relate to certain things 
+that are sort of core to the NSA mission.
+
+1190
+01:08:13,110 --> 01:08:16,040
+As a systems administrator 
+you get a special clearance
+
+1191
+01:08:16,370 --> 01:08:18,750
+called PrivAcc 
+for Privileged Access,
+
+1192
+01:08:19,130 --> 01:08:22,940
+which allows you to be exposed 
+to informations of any classification
+
+1193
+01:08:23,230 --> 01:08:26,060
+regardless of what 
+your position actually needs.
+
+1194
+01:08:43,050 --> 01:08:48,680
+Monday
+
+1195
+01:08:48,910 --> 01:08:51,590
+June 10, 2013
+
+1196
+01:09:01,030 --> 01:09:02,880
+Just before we go, 
+a remind of our top story,
+
+1197
+01:09:03,120 --> 01:09:06,240
+and that's the full map, 
+CIA typically worked at Edward Snowden
+
+1198
+01:09:06,600 --> 01:09:11,860
+says he's responsible for leaking information 
+that US authorities have been monitoring
+
+1199
+01:09:12,260 --> 01:09:14,250
+phone and Internet data.
+
+1200
+01:09:14,840 --> 01:09:17,500
+The US justice deparment confirmed 
+it is the first stages
+
+1201
+01:09:18,130 --> 01:09:20,010
+of a criminal investigation.
+
+1202
+01:09:20,250 --> 01:09:22,560
+- Leave it long or got it shorter, 
+what do you think?
+
+1203
+01:09:22,920 --> 01:09:25,770
+As far as the video the people saw. 
+Am I less identifiable now?
+
+1204
+01:09:26,030 --> 01:09:26,550
+- lose it?
+
+1205
+01:09:26,750 --> 01:09:30,240
+- lose it? Cause I can't go 
+all the way down, it's still gonna be stubble.
+
+1206
+01:09:30,480 --> 01:09:32,730
+I don't have the blade for closer.
+
+1207
+01:09:35,010 --> 01:09:37,390
+- Will you be talking 
+to any other media about this story today?
+
+1208
+01:09:38,230 --> 01:09:38,930
+- I am.
+
+1209
+01:09:40,280 --> 01:09:41,280
+- Uh, will you be coming to our office
+
+1210
+01:09:41,750 --> 01:09:44,300
+- ... about where is Snowden now, what his plans are?
+
+1211
+01:09:45,200 --> 01:09:47,510
+- No, I won't talk about that, 
+so unless you have any other questions...
+
+1212
+01:09:47,750 --> 01:09:48,210
+- OK
+
+1213
+01:09:48,630 --> 01:09:51,750
+- What are you plans please? 
+Are you staying in Hong Kong
+
+1214
+01:09:51,950 --> 01:09:52,760
+for a the time being?
+
+1215
+01:09:53,010 --> 01:09:53,740
+- For a little while.
+
+1216
+01:09:53,970 --> 01:09:56,580
+- And do you have any hopes 
+to write more about this story
+
+1217
+01:09:56,830 --> 01:09:58,980
+or are you stopping 
+new writing about this story?
+
+1218
+01:09:59,190 --> 01:10:00,330
+- No, I'm gonna continue 
+to write about it.
+
+1219
+01:10:00,760 --> 01:10:02,560
+- Have you had any pressure 
+from the US Authorities
+
+1220
+01:10:02,780 --> 01:10:04,260
+about continuing to report on this?
+
+1221
+01:10:04,440 --> 01:10:05,160
+- No.
+
+1222
+01:10:05,690 --> 01:10:07,720
+- And have you heard anything about 
+what could be...
+
+1223
+01:10:07,970 --> 01:10:11,750
+asked you the Hong Kong Authorities 
+towards this case,
+
+1224
+01:10:12,020 --> 01:10:15,090
+whether they contacted you or asked you 
+anything about the whereabouts of Snowden
+
+1225
+01:10:15,800 --> 01:10:17,040
+and whether that's just another...
+
+1226
+01:10:17,570 --> 01:10:20,290
+- I haven't heard about 
+the Authorities of any Government.
+
+1227
+01:10:21,500 --> 01:10:23,950
+- And do, where do you think 
+this story is going then?
+
+1228
+01:10:24,280 --> 01:10:28,290
+For you and of course for Snowden 
+and of course for the US media
+
+1229
+01:10:28,480 --> 01:10:29,910
+and the US Administration in general?
+
+1230
+01:10:30,140 --> 01:10:31,610
+- Uh, for me, I'm gonna continue to report.
+
+1231
+01:10:32,430 --> 01:10:36,740
+Reporting on what the Government has been doing 
+and what I think people should know about.
+
+1232
+01:10:37,410 --> 01:10:39,310
+As for him I don't think anyone knows
+
+1233
+01:10:40,180 --> 01:10:45,570
+... people come after me or any of their third partners 
+you know they work closely with a number of other nations
+
+1234
+01:10:46,560 --> 01:10:51,580
+or you know they could pay off the trial 
+you know any of their agents are assets ...
+
+1235
+01:11:25,880 --> 01:11:32,800
+A criminal investigation the whistleblower... 
+monitoring phone calls and Internet data goes public...
+
+1236
+01:11:34,160 --> 01:11:38,100
+Security forces in Afghanistan 
+say a number of...
+
+1237
+01:11:41,020 --> 01:11:44,440
+Now it's time for our news paper review 
+and looking at what's making headlines
+
+1238
+01:11:44,890 --> 01:11:45,950
+around the world.
+
+1239
+01:11:46,370 --> 01:11:51,810
+Let's start with The Guardian our top story 
+which is revealing the identity of the former CIA employee.
+
+1240
+01:11:52,250 --> 01:11:57,630
+The paper says he leaks information exposing the scale 
+of American's surveillance of the Internet.
+
+1241
+01:11:58,870 --> 01:12:01,130
+Edward Snowden, 
+what a great story...
+
+1242
+01:12:02,440 --> 01:12:06,050
+Well I think it's a fantastic story this could be 
+straight out from a John Le Carré novel
+
+1243
+01:12:06,720 --> 01:12:08,920
+I mean when you read what he did, 
+yes he got the material,
+
+1244
+01:12:09,610 --> 01:12:13,530
+he then decided to go to a place he identified to be 
+very difficult for America to get at him
+
+1245
+01:12:13,740 --> 01:12:14,770
+- God dammit
+
+1246
+01:12:15,320 --> 01:12:20,330
+which is Hong Kong because of course technically inside China, 
+the one country two systems policy
+
+1247
+01:12:20,710 --> 01:12:23,540
+there meaning he would get potentially some protection,
+
+1248
+01:12:23,790 --> 01:12:27,040
+he thought, all very well planned, 
+could be just out of a spy novel.
+
+1249
+01:12:27,430 --> 01:12:28,820
+But what about the details.
+
+1250
+01:12:32,990 --> 01:12:41,500
+- That could make it worse. 
+But just the lower half of my face.
+
+1251
+01:13:15,540 --> 01:13:19,680
+Snowden says he'd become increasingly 
+dismay by what he saw as the growing power
+
+1252
+01:13:20,050 --> 01:13:21,080
+of the NSA.
+
+1253
+01:13:21,400 --> 01:13:24,530
+And it's his decision to pass on 
+documents which is said to reveal
+
+1254
+01:13:25,050 --> 01:13:29,070
+the organisation monitored 
+millions of phone calls
+
+1255
+01:13:29,310 --> 01:13:31,850
+but that it had direct access 
+to some of the...
+
+1256
+01:13:32,150 --> 01:13:33,170
+- How do you feel?
+
+1257
+01:13:33,440 --> 01:13:34,440
+...Internet companies in the world.
+
+1258
+01:13:36,300 --> 01:13:39,000
+- uuh what happens, happens. 
+We've uh we've talked about this
+
+1259
+01:13:39,210 --> 01:13:42,570
+I knew what the risks and if I get arrested, 
+I get arrested,
+
+1260
+01:13:45,810 --> 01:13:49,860
+we were able to get the information 
+that needed to get out, out.
+
+1261
+01:13:52,230 --> 01:13:57,170
+And you and Glenn are able to keep reporting 
+regardless what happens to me.
+
+1262
+01:13:59,410 --> 01:14:04,580
+Now 29 year old Edward Snowden says that US intelligence agencies 
+gathered millions of phone records
+
+1263
+01:14:05,250 --> 01:14:07,730
+and monitored Internet data...
+
+1264
+01:14:13,630 --> 01:14:15,420
+- Yes. I'm sorry who's asking?
+
+1265
+01:14:18,090 --> 01:14:23,050
+- I'm afraid you have the wrong room thank you. 
+Wall Street Journal.
+
+1266
+01:14:39,000 --> 01:14:41,340
+- Yes. I'm sorry say again?
+
+1267
+01:14:42,910 --> 01:14:44,440
+Uh, no thank you. No calls.
+
+1268
+01:14:44,870 --> 01:14:46,460
+I think they have the wrong number.
+
+1269
+01:14:47,940 --> 01:14:49,430
+Yeah, no calls. Thank you.
+
+1270
+01:14:49,770 --> 01:14:56,120
+Uh wait I'm sorry if it's two men from the front desk 
+they can call but no outside calls.
+
+1271
+01:14:56,650 --> 01:15:01,590
+Wait actually just... let them through. Wait, wait m'am?
+
+1272
+01:15:02,050 --> 01:15:02,600
+Fuck
+
+1273
+01:15:09,860 --> 01:15:20,050
+- Yes. Wait is it a lawyer? Yeah, no no no I mean,
+
+1274
+01:15:21,440 --> 01:15:27,170
+the people who are asking. Ask them if they are lawyers.
+
+1275
+01:15:33,220 --> 01:15:35,130
+No tell her that she has the wrong number 
+and there is no Mr. Snowden here.
+
+1276
+01:15:35,890 --> 01:15:41,000
+
+
+1277
+01:15:43,940 --> 01:15:45,520
+
+
+1278
+01:15:46,270 --> 01:15:48,050
+
+
+1279
+01:15:49,250 --> 01:15:51,730
+
+
+1280
+01:15:51,980 --> 01:15:55,270
+
+
+1281
+01:15:55,470 --> 01:15:58,930
+
+
+1282
+01:16:02,230 --> 01:16:03,430
+
+
+1283
+01:16:03,630 --> 01:16:06,210
+
+
+1284
+01:16:08,170 --> 01:16:12,060
+
+
+1285
+01:16:15,540 --> 01:16:18,210
+Would you mind to talk in speakerphone?
+
+1286
+01:16:19,620 --> 01:16:20,420
+- Sorry
+
+1287
+01:16:20,860 --> 01:16:21,750
+
+
+1288
+01:16:22,260 --> 01:16:23,370
+
+
+1289
+01:16:23,670 --> 01:16:26,850
+
+
+1290
+01:16:25,100 --> 01:16:25,890
+- Hi. I'm the client
+
+1291
+01:16:26,100 --> 01:16:27,750
+
+
+1292
+01:16:28,210 --> 01:16:30,200
+- Pretty good. I'm doing well
+
+1293
+01:16:31,040 --> 01:16:35,960
+
+
+1294
+01:16:36,460 --> 01:16:41,280
+
+1295
+01:16:41,480 --> 01:16:42,620
+
+
+1296
+01:16:43,490 --> 01:16:46,180
+
+
+1297
+01:16:46,710 --> 01:16:46,950
+- Ok
+
+1298
+01:16:48,510 --> 01:16:52,390
+
+
+1299
+01:16:52,740 --> 01:16:53,390
+- Ok
+
+1300
+01:16:54,580 --> 01:16:57,030
+
+
+1301
+01:16:57,450 --> 01:17:01,550
+
+1302
+01:17:02,190 --> 01:17:04,100
+
+1303
+01:17:04,610 --> 01:17:10,270
+- Ok, that's great. Is it OK if i bring equipment? 
+Because i'm just kind of going, so i can leave in any direction,
+
+1304
+01:17:10,540 --> 01:17:13,120
+at any time, and not come back. If necessary.
+
+1305
+01:17:13,250 --> 01:17:15,920
+
+
+1306
+01:17:16,400 --> 01:17:18,950
+
+
+1307
+01:17:19,570 --> 01:17:21,790
+
+
+1308
+01:17:22,450 --> 01:17:23,740
+
+
+1309
+01:17:23,950 --> 01:17:25,140
+- Ok, that sounds good.
+
+1310
+01:17:25,310 --> 01:17:26,300
+
+
+1311
+01:17:26,730 --> 01:17:28,390
+- Thank you, thank you so much for helping us.
+
+1312
+01:17:28,660 --> 01:17:31,410
+
+
+1313
+01:17:34,040 --> 01:17:36,790
+
+
+1314
+01:17:38,250 --> 01:17:40,980
+
+
+1315
+01:17:41,490 --> 01:17:45,010
+
+
+1316
+01:17:45,910 --> 01:17:46,470
+
+
+1317
+01:17:46,670 --> 01:17:47,160
+
+
+1318
+01:17:47,330 --> 01:17:47,810
+
+
+1319
+01:17:47,950 --> 01:17:48,390
+
+
+1320
+01:17:51,740 --> 01:17:54,460
+
+1321
+01:17:56,390 --> 01:18:01,040
+
+
+1322
+01:18:01,440 --> 01:18:04,070
+
+
+1323
+01:18:04,970 --> 01:18:08,610
+
+1324
+01:18:11,250 --> 01:18:15,220
+- Yeah... And so, is there a precedent for this 
+where Hong Kong would extradite someone
+
+1325
+01:18:15,480 --> 01:18:16,990
+for political speech ?
+
+1326
+01:18:17,490 --> 01:18:18,480
+
+
+1327
+01:18:19,090 --> 01:18:23,180
+
+
+1328
+01:18:24,200 --> 01:18:28,380
+
+
+1329
+01:18:28,760 --> 01:18:32,790
+
+1330
+01:19:24,370 --> 01:19:26,620
+"The President surely does not welcome 
+the way that this debate
+
+1331
+01:19:26,770 --> 01:19:28,530
+has earned a greater attention 
+the last week,
+
+1332
+01:19:29,000 --> 01:19:32,210
+the leaked classified information about 
+sensitive programs that are
+
+1333
+01:19:32,480 --> 01:19:34,190
+important in our 
+fight against terrorists
+
+1334
+01:19:34,530 --> 01:19:36,950
+who would do harm 
+to Americans is a problem,
+
+1335
+01:19:38,270 --> 01:19:41,820
+but the debate itself is legitimate 
+and should be engaged.
+
+1336
+01:19:41,870 --> 01:19:49,250
+
+
+1337
+01:19:43,280 --> 01:19:44,680
+
+
+1338
+01:19:44,990 --> 01:19:46,820
+
+
+1339
+01:19:47,340 --> 01:19:50,190
+
+
+1340
+01:19:51,360 --> 01:19:54,530
+
+
+1341
+01:20:01,880 --> 01:20:17,740
+
+
+1342
+01:20:18,900 --> 01:20:23,530
+
+
+1343
+01:20:26,940 --> 01:20:27,540
+
+
+1344
+01:20:29,230 --> 01:20:30,060
+
+
+1345
+01:20:30,390 --> 01:20:31,570
+
+
+1346
+01:20:32,550 --> 01:20:34,380
+
+
+1347
+01:20:35,230 --> 01:20:36,840
+
+
+1348
+01:20:38,460 --> 01:20:41,980
+
+
+1349
+01:20:42,250 --> 01:20:45,970
+
+
+1350
+01:20:46,180 --> 01:20:48,580
+
+
+1351
+01:20:49,010 --> 01:20:50,700
+
+
+1352
+01:20:51,110 --> 01:20:56,990
+
+1353
+01:20:57,230 --> 01:21:00,680
+
+1354
+01:21:00,910 --> 01:21:03,760
+
+1355
+01:21:04,190 --> 01:21:06,590
+
+1356
+01:21:06,920 --> 01:21:13,710
+
+1357
+01:21:17,260 --> 01:21:21,320
+
+
+1358
+01:21:24,460 --> 01:21:27,330
+
+
+1359
+01:21:28,600 --> 01:21:33,150
+
+1360
+01:21:34,290 --> 01:21:36,890
+
+
+1361
+01:21:37,840 --> 01:21:40,590
+
+
+1362
+01:21:41,530 --> 01:21:47,500
+
+
+1363
+01:21:48,360 --> 01:21:51,350
+
+
+1364
+01:21:51,690 --> 01:21:53,110
+
+
+1365
+01:21:53,380 --> 01:21:55,600
+
+
+1366
+01:21:55,920 --> 01:21:57,830
+
+
+1367
+01:21:58,160 --> 01:22:02,220
+
+
+1368
+01:22:02,940 --> 01:22:05,090
+
+
+1369
+01:22:05,650 --> 01:22:08,500
+
+
+1370
+01:22:08,910 --> 01:22:11,800
+
+
+1371
+01:22:12,420 --> 01:22:15,350
+
+
+1372
+01:22:15,630 --> 01:22:18,050
+
+
+1373
+01:22:19,130 --> 01:22:23,480
+
+
+1374
+01:22:23,910 --> 01:22:28,500
+
+
+1375
+01:22:29,550 --> 01:22:30,580
+
+
+1376
+01:22:30,820 --> 01:22:32,110
+
+
+1377
+01:22:32,290 --> 01:22:33,340
+
+
+1378
+01:22:33,600 --> 01:22:34,370
+
+
+1379
+01:22:54,490 --> 01:22:56,930
+
+1380
+01:22:57,210 --> 01:23:00,060
+
+1381
+01:23:00,230 --> 01:23:02,580
+
+1382
+01:23:02,770 --> 01:23:04,760
+
+1383
+01:23:05,390 --> 01:23:07,500
+
+1384
+01:23:09,290 --> 01:23:12,040
+
+1385
+01:23:12,890 --> 01:23:18,860
+
+1386
+01:23:19,030 --> 01:23:22,000
+
+1387
+01:23:22,200 --> 01:23:25,120
+
+1388
+01:23:27,600 --> 01:23:31,510
+
+
+1389
+01:23:32,770 --> 01:23:35,070
+- Right, so which one do we want here then.
+
+1390
+01:23:35,270 --> 01:23:37,760
+This is operational stuff, 
+so we mustn't say any of this.
+
+1391
+01:23:38,010 --> 01:23:38,950
+- So redact that.
+
+1392
+01:23:39,450 --> 01:23:40,770
+- Go near the top
+
+1393
+01:23:41,000 --> 01:23:42,810
+- What about the Alexander's quote, 
+is that something ...
+
+1394
+01:23:43,040 --> 01:23:46,820
+- Yeah. That's in TARMAC. 
+"Why can't we collect all the signals all the times?
+
+1395
+01:23:47,020 --> 01:23:50,190
+Sounds like a good 
+summer homework project for Menwith"
+
+1396
+01:23:50,430 --> 01:23:53,500
+Keith Alexander the head of the NSA 
+on a visit to the UK. This one.
+
+1397
+01:23:53,910 --> 01:23:54,740
+- Yeah.
+
+1398
+01:23:54,990 --> 01:23:58,370
+- Yeah. It's a secret document 
+in that secret document.
+
+1399
+01:23:58,610 --> 01:24:02,320
+We've got a stick here 
+that should just have three single slides on it.
+
+1400
+01:24:02,590 --> 01:24:06,150
+If it's got more than three single slides, 
+we have to be extremely careful.
+
+1401
+01:24:09,160 --> 01:24:09,620
+- Yeah?
+
+1402
+01:24:09,810 --> 01:24:10,860
+- Yeah, that's it.
+
+1403
+01:24:11,400 --> 01:24:13,980
+This is really dangerous stuff for us, Guardian
+
+1404
+01:24:14,250 --> 01:24:16,500
+If we make mistakes, ...very angry.
+
+1405
+01:24:16,850 --> 01:24:20,180
+We kept it all under lock and key
+and no one knows. No, I'm not saying that.
+
+1406
+01:24:21,380 --> 01:24:21,950
+- OK
+
+1407
+01:24:22,230 --> 01:24:24,860
+- They will come in and snap the front door down 
+if we elaborate on that...
+
+1408
+01:24:25,980 --> 01:24:26,720
+And he said...
+
+1409
+01:24:27,090 --> 01:24:29,720
+The Prime Minister is extremely concerned about this.
+
+1410
+01:24:30,020 --> 01:24:32,030
+And they kept saying, "this is from the very top."
+
+1411
+01:24:33,920 --> 01:24:36,260
+
+
+1412
+01:24:36,770 --> 01:24:41,570
+
+
+1413
+01:24:42,230 --> 01:24:45,750
+
+
+1414
+01:24:46,800 --> 01:24:49,520
+
+
+1415
+01:24:50,310 --> 01:24:52,870
+
+
+1416
+01:24:53,410 --> 01:24:58,590
+
+
+1417
+01:24:59,840 --> 01:25:05,590
+
+
+1418
+01:25:05,840 --> 01:25:08,200
+
+
+1419
+01:25:08,350 --> 01:25:12,540
+
+
+1420
+01:25:16,290 --> 01:25:24,270
+
+
+1421
+01:25:32,520 --> 01:25:43,150
+
+
+1422
+01:25:43,540 --> 01:25:46,030
+As you can see on this map 
+the flight that probably has Snowden aboard,
+
+1423
+01:25:46,250 --> 01:25:49,350
+has almost reached its destination here 
+in Moscow's scheduled plan,
+
+1424
+01:25:48,910 --> 01:25:50,930
+
+
+1425
+01:25:49,780 --> 01:25:51,650
+in the Russian capital within minutes...
+
+1426
+01:25:53,230 --> 01:25:59,210
+As you may have heard, there is a CIA agent 
+who has revealed a lot of information
+
+1427
+01:25:57,410 --> 01:26:03,430
+
+
+1428
+01:26:00,070 --> 01:26:01,220
+and he is now trapped in the
+
+1429
+01:26:03,310 --> 01:26:04,460
+airport in Moscow
+
+1430
+01:26:05,370 --> 01:26:06,880
+We managed to get him out of Hong Kong,
+
+1431
+01:26:07,120 --> 01:26:09,040
+but when he landed in the Moscow airport,
+
+1432
+01:26:09,740 --> 01:26:13,630
+the American government had canceled his passport.
+
+1433
+01:26:14,030 --> 01:26:16,680
+So formally he hasn't entered into Russian territory,
+
+1434
+01:26:17,010 --> 01:26:19,250
+he is in the transit area of the airport
+
+1435
+01:26:17,900 --> 01:26:22,790
+
+
+1436
+01:26:20,400 --> 01:26:22,830
+And one of our people is accompanying him
+
+1437
+01:26:23,160 --> 01:26:25,610
+We are trying to arrange a private jet
+
+1438
+01:26:27,420 --> 01:26:31,990
+to take him from Moscow
+
+1439
+01:26:32,950 --> 01:26:37,870
+to Ecuador or perhaps maybe Venezuela
+
+1440
+01:26:38,120 --> 01:26:39,130
+or maybe Iceland,
+
+1441
+01:26:39,990 --> 01:26:41,480
+countries where he would be safe.
+
+1442
+01:26:42,980 --> 01:26:47,220
+
+
+1443
+01:26:50,200 --> 01:26:53,470
+
+
+1444
+01:26:55,570 --> 01:26:58,060
+
+
+1445
+01:26:58,380 --> 01:26:59,240
+
+
+1446
+01:27:01,510 --> 01:27:04,050
+
+
+1447
+01:27:07,330 --> 01:27:10,550
+
+
+1448
+01:27:11,080 --> 01:27:12,830
+
+
+1449
+01:27:13,370 --> 01:27:14,540
+
+
+1450
+01:27:15,310 --> 01:27:18,330
+
+
+1451
+01:27:19,470 --> 01:27:27,170
+
+
+1452
+01:27:27,460 --> 01:27:30,350
+
+
+1453
+01:27:31,640 --> 01:27:34,950
+
+
+1454
+01:27:35,870 --> 01:27:38,220
+
+
+1455
+01:27:38,740 --> 01:27:42,980
+
+
+1456
+01:27:43,370 --> 01:27:49,200
+
+
+1457
+01:27:49,480 --> 01:27:56,540
+
+
+1458
+01:27:56,890 --> 01:28:00,090
+
+
+1459
+01:28:00,910 --> 01:28:05,290
+
+
+1460
+01:28:05,670 --> 01:28:08,700
+
+
+1461
+01:28:08,910 --> 01:28:11,530
+
+
+1462
+01:28:11,810 --> 01:28:13,730
+
+
+1463
+01:28:14,120 --> 01:28:17,250
+
+
+1464
+01:28:17,480 --> 01:28:19,460
+
+
+1465
+01:28:19,830 --> 01:28:22,600
+
+
+1466
+01:28:23,230 --> 01:28:26,510
+
+
+1467
+01:28:26,940 --> 01:28:30,530
+
+
+1468
+01:28:31,040 --> 01:28:34,760
+
+
+1469
+01:28:35,050 --> 01:28:39,040
+
+
+1470
+01:28:39,280 --> 01:28:43,960
+
+
+1471
+01:28:52,260 --> 01:28:55,470
+
+
+1472
+01:28:56,010 --> 01:28:59,670
+
+
+1473
+01:29:00,090 --> 01:29:05,190
+
+
+1474
+01:29:05,480 --> 01:29:09,060
+
+
+1475
+01:29:09,940 --> 01:29:16,410
+
+
+1476
+01:29:16,890 --> 01:29:18,920
+
+
+1477
+01:29:19,170 --> 01:29:21,470
+
+
+1478
+01:29:23,840 --> 01:29:26,930
+
+
+1479
+01:29:27,420 --> 01:29:30,870
+
+
+1480
+01:29:31,270 --> 01:29:34,220
+
+
+1481
+01:29:34,580 --> 01:29:36,880
+
+
+1482
+01:29:37,150 --> 01:29:40,220
+
+
+1483
+01:29:41,060 --> 01:29:46,700
+
+
+1484
+01:29:46,930 --> 01:29:52,030
+
+
+1485
+01:29:52,530 --> 01:29:55,840
+
+
+1486
+01:29:56,130 --> 01:29:58,190
+
+
+1487
+01:29:58,730 --> 01:30:03,240
+
+
+1488
+01:30:05,800 --> 01:30:08,910
+
+
+1489
+01:30:12,210 --> 01:30:15,760
+May I collect all the phones please?
+
+1490
+01:30:22,980 --> 01:30:24,900
+I have everything in here
+
+1491
+01:30:27,050 --> 01:30:29,600
+Put them in the refrigerator
+
+1492
+01:30:30,400 --> 01:30:38,500
+
+
+1493
+01:30:40,390 --> 01:30:42,650
+- So, as you know, in June,
+
+1494
+01:30:43,060 --> 01:30:46,380
+Snowden was in charge with 3
+
+1495
+01:30:46,770 --> 01:30:48,170
+legal violations felonies
+
+1496
+01:30:47,200 --> 01:30:51,320
+
+
+1497
+01:30:49,440 --> 01:30:51,650
+Principaly under a World War I era
+
+1498
+01:30:52,630 --> 01:30:54,280
+criminal law called the Espionage Act
+
+1499
+01:30:56,010 --> 01:30:58,330
+The Espionage Act is an extremely broad
+
+1500
+01:30:58,970 --> 01:31:00,110
+criminal prohibition against
+
+1501
+01:31:01,370 --> 01:31:03,110
+the sharing or dissemination
+
+1502
+01:31:03,720 --> 01:31:05,280
+of what's called 
+"National Defense information"
+
+1503
+01:31:06,080 --> 01:31:08,640
+it was only used to
+
+1504
+01:31:08,980 --> 01:31:11,080
+prosecute people who had been accused of
+
+1505
+01:31:11,360 --> 01:31:14,530
+acting with a foreign power, 
+spies not whistleblowers
+
+1506
+01:31:14,930 --> 01:31:17,050
+and it's a very unusual legal 
+representation I think
+
+1507
+01:31:17,560 --> 01:31:20,240
+not just for all of you, 
+but for me as well.
+
+1508
+01:31:21,070 --> 01:31:24,200
+The Espionage Act has not 
+distinguished between
+
+1509
+01:31:24,620 --> 01:31:26,490
+leaks to the press 
+and the public interest,
+
+1510
+01:31:26,980 --> 01:31:29,130
+and selling secrets to foreign enemies
+
+1511
+01:31:29,700 --> 01:31:31,210
+for personal profit.
+
+1512
+01:31:31,730 --> 01:31:33,220
+So, under the Espionage Act
+
+1513
+01:31:33,460 --> 01:31:36,570
+it's not a defense if the information that was disclosed
+
+1514
+01:31:36,840 --> 01:31:38,980
+should not have been withheld 
+in the first place,
+
+1515
+01:31:39,220 --> 01:31:40,510
+that it was improperly classified.
+
+1516
+01:31:40,920 --> 01:31:44,100
+It's not a defense if the 
+dissemination was in the public interest
+
+1517
+01:31:44,530 --> 01:31:45,730
+that it led to reforms.
+
+1518
+01:31:46,230 --> 01:31:49,740
+Even if the court determines 
+that the programs that were revealed
+
+1519
+01:31:50,040 --> 01:31:51,670
+were illegal or unconstitutional.
+
+1520
+01:31:51,930 --> 01:31:54,190
+that's still not a defense under the Espionage Act,
+
+1521
+01:31:54,440 --> 01:31:57,230
+the Government doesn't have 
+to defend the classification,
+
+1522
+01:31:57,550 --> 01:32:00,500
+it doesn't have to demonstrate 
+harm from the release,
+
+1523
+01:32:00,940 --> 01:32:02,760
+All this is irrelevant.
+
+1524
+01:32:03,250 --> 01:32:05,920
+So when we say that 
+the trial wouldn't be fair,
+
+1525
+01:32:06,820 --> 01:32:09,090
+we are not talking about 
+what human rights lawyers think
+
+1526
+01:32:09,370 --> 01:32:10,740
+of this fair trial practices
+
+1527
+01:32:11,050 --> 01:32:12,740
+We are saying the law, the statute itself,
+
+1528
+01:32:14,130 --> 01:32:16,480
+eliminates any kind of defense
+
+1529
+01:32:16,830 --> 01:32:18,500
+that Snowden might be able to make
+
+1530
+01:32:18,910 --> 01:32:21,200
+and essentially will equate him with a spy.
+
+1531
+01:32:21,540 --> 01:32:25,850
+And of course those three counts 
+could be increased to a hundreed or two hundreed
+
+1532
+01:32:26,150 --> 01:32:27,830
+or three hundreed, they could charge him separately
+
+1533
+01:32:28,100 --> 01:32:31,220
+for each document that has been 
+published by a journalist.
+
+1534
+01:32:31,740 --> 01:32:34,600
+And I think that we all recognize, 
+even though we sit here as lawyers
+
+1535
+01:32:36,140 --> 01:32:37,020
+in a lawyer's meeting
+
+1536
+01:32:37,820 --> 01:32:42,100
+that it's propably 
+95% politics and 5% law.
+
+1537
+01:32:42,790 --> 01:32:44,790
+How this would be resolved.
+
+1538
+01:32:45,840 --> 01:32:48,310
+
+
+1539
+01:32:48,730 --> 01:32:51,530
+
+
+1540
+01:32:52,120 --> 01:32:58,300
+
+
+1541
+01:32:59,160 --> 01:33:02,070
+
+
+1542
+01:33:02,990 --> 01:33:05,880
+
+
+1543
+01:33:06,370 --> 01:33:12,310
+
+
+1544
+01:33:16,580 --> 01:33:19,780
+"Mr. Snowden has been charged with very serious crimes
+
+1545
+01:33:20,570 --> 01:33:23,640
+and he should be returned to the United States 
+where he would be granted full due process
+
+1546
+01:33:24,200 --> 01:33:27,710
+and every right available to him 
+as a United States citizen.
+
+1547
+01:33:28,970 --> 01:33:31,830
+Facing our justice system 
+under the Constitution."
+
+1548
+01:33:32,920 --> 01:33:36,270
+
+
+1549
+01:33:45,770 --> 01:33:53,420
+
+
+1550
+01:34:03,520 --> 01:34:16,030
+
+
+1551
+01:34:19,270 --> 01:34:22,690
+
+
+1552
+01:34:23,010 --> 01:34:24,640
+No, I don't think Mr. Snowden was a Patriot.
+
+1553
+01:34:24,880 --> 01:34:27,340
+I called for a federal review
+
+1554
+01:34:28,130 --> 01:34:30,880
+of our surveillance operations
+
+1555
+01:34:31,360 --> 01:34:33,830
+before Mr. Snowden made these leaks.
+
+1556
+01:34:34,170 --> 01:34:35,760
+My preference,
+
+1557
+01:34:37,430 --> 01:34:38,900
+and I think the American people's preference,
+
+1558
+01:34:39,110 --> 01:34:42,630
+would have been for a lawful, orderly
+
+1559
+01:34:42,970 --> 01:34:45,250
+examination of these laws.
+
+1560
+01:34:45,940 --> 01:34:50,590
+A thoughtful, fact based debate,
+
+1561
+01:34:51,080 --> 01:34:54,260
+that would then lead us to a better place.
+
+1562
+01:35:10,070 --> 01:35:23,580
+
+
+1563
+01:35:35,790 --> 01:35:38,440
+- Oh my God. David. Hello my baby.
+
+1564
+01:35:39,780 --> 01:35:40,360
+- I'm OK.
+
+1565
+01:35:40,590 --> 01:35:41,810
+- You're OK?
+
+1566
+01:35:46,540 --> 01:35:47,390
+- I just wanna go home.
+
+1567
+01:35:48,020 --> 01:35:51,010
+- OK, OK OK. You just have to walk...
+
+1568
+01:35:57,900 --> 01:35:58,970
+- How are you?
+
+1569
+01:35:59,300 --> 01:36:01,670
+- Good, good. I'm totally fine, I didn't sleep at all, I couldn't sleep.
+
+1570
+01:36:01,880 --> 01:36:02,870
+- I know.
+
+1571
+01:36:03,120 --> 01:36:07,720
+"Brazil Demands Explanation from UK Government"
+
+1572
+01:36:13,560 --> 01:36:16,800
+
+
+1573
+01:36:18,360 --> 01:36:24,940
+
+
+1574
+01:36:25,200 --> 01:36:29,270
+Recent reports have revealed that the NSA 
+have access to encryption keys
+
+1575
+01:36:29,630 --> 01:36:32,890
+and they paid tech companies to introduce 
+backdoors in encryption protocols
+
+1576
+01:36:33,670 --> 01:36:38,400
+So we are going to talk about ways in which 
+we can defend ourselves against
+
+1577
+01:36:38,740 --> 01:36:40,770
+governments spying on us.
+
+1578
+01:36:41,020 --> 01:36:44,660
+So Mr. Jacob Appelbaum, as an encryption and 
+security software developper,
+
+1579
+01:36:44,870 --> 01:36:45,980
+and journalist.
+
+1580
+01:36:46,340 --> 01:36:49,530
+Ladar Levison, the founder of the 
+encrypted email service
+
+1581
+01:36:50,000 --> 01:36:51,350
+Lavabit
+
+1582
+01:36:51,610 --> 01:36:52,670
+used by Edward Snowden.
+
+1583
+01:36:52,850 --> 01:36:53,560
+You have the floor.
+
+1584
+01:36:53,970 --> 01:36:54,880
+Thank you
+
+1585
+01:36:55,030 --> 01:36:57,680
+Lavabit is an email service 
+that hopefully one day
+
+1586
+01:36:57,930 --> 01:37:03,470
+will be able to stand on its own 
+without any references to Snowden.
+
+1587
+01:37:03,780 --> 01:37:06,720
+My service was designed to remove me
+
+1588
+01:37:07,000 --> 01:37:09,870
+from the possibility of being forced
+
+1589
+01:37:10,110 --> 01:37:12,130
+to violate a person's privacy.
+
+1590
+01:37:12,480 --> 01:37:13,370
+Quite simply
+
+1591
+01:37:13,740 --> 01:37:15,900
+Lavabit was designed to remove the service provider
+
+1592
+01:37:16,170 --> 01:37:17,420
+from the equation,
+
+1593
+01:37:17,860 --> 01:37:19,890
+by not having logs on my server
+
+1594
+01:37:20,250 --> 01:37:23,600
+and not having access to 
+a person's emails on disk,
+
+1595
+01:37:23,880 --> 01:37:24,920
+I wasn't elimitating
+
+1596
+01:37:25,190 --> 01:37:26,350
+the possibility of surveillance,
+
+1597
+01:37:26,640 --> 01:37:29,700
+I was simply removing myself 
+from that equation.
+
+1598
+01:37:30,980 --> 01:37:32,630
+And that surveillance 
+would have to be conducted
+
+1599
+01:37:32,810 --> 01:37:34,230
+on the target
+
+1600
+01:37:34,520 --> 01:37:35,620
+either the sender
+
+1601
+01:37:35,820 --> 01:37:37,540
+or the receiver of the messages.
+
+1602
+01:37:38,280 --> 01:37:41,690
+But I was approached 
+by the FBI quite recently,
+
+1603
+01:37:41,890 --> 01:37:43,010
+and told
+
+1604
+01:37:43,580 --> 01:37:45,690
+that because I couldn't 
+turn over the information
+
+1605
+01:37:45,970 --> 01:37:47,680
+from that one particular user,
+
+1606
+01:37:47,920 --> 01:37:49,990
+I would be forced to 
+give up those SSL keys
+
+1607
+01:37:50,230 --> 01:37:52,140
+and let the FBI 
+collect every communication
+
+1608
+01:37:52,390 --> 01:37:54,700
+on my network without 
+any kind of transparency.
+
+1609
+01:37:56,080 --> 01:37:58,050
+And of course,
+
+1610
+01:37:58,350 --> 01:37:59,920
+I wasn't comfortable with that,
+
+1611
+01:38:00,410 --> 01:38:01,570
+to say the least!
+
+1612
+01:38:02,310 --> 01:38:06,640
+More disturbing was the fact that 
+I couldn't even tell anybody that it was going on.
+
+1613
+01:38:07,200 --> 01:38:08,870
+So I decided:
+
+1614
+01:38:09,120 --> 01:38:11,940
+"If I didn't win the fight to unseal my case,
+
+1615
+01:38:12,340 --> 01:38:13,570
+if I didn't win the battle
+
+1616
+01:38:13,940 --> 01:38:16,470
+to be able to tell people 
+what was going on,
+
+1617
+01:38:17,470 --> 01:38:20,130
+then my only ethical choice left 
+was to shutdown".
+
+1618
+01:38:22,500 --> 01:38:24,620
+Think about that.
+
+1619
+01:38:25,300 --> 01:38:29,600
+I believe in the rule of law, 
+I believe in the need to conduct investigations,
+
+1620
+01:38:30,670 --> 01:38:34,390
+but those investigations 
+are supposed to be difficult for a reason.
+
+1621
+01:38:34,760 --> 01:38:38,570
+It's supposed to be difficult 
+to invade somebody's privacy.
+
+1622
+01:38:38,850 --> 01:38:41,230
+Because of how intrusive it is,
+
+1623
+01:38:41,540 --> 01:38:43,810
+because of how disruptive it is.
+
+1624
+01:38:44,250 --> 01:38:46,790
+If we can't, if we don't have 
+a right to privacy,
+
+1625
+01:38:47,130 --> 01:38:49,890
+how do we have 
+a free and open discussion?
+
+1626
+01:38:50,190 --> 01:38:52,460
+What good is the right 
+to free speech,
+
+1627
+01:38:54,930 --> 01:38:57,240
+if it's not protected,
+
+1628
+01:38:57,540 --> 01:38:59,730
+in a sense that you can't have 
+a private discussion
+
+1629
+01:39:00,110 --> 01:39:02,750
+with somebody else 
+about something you disagree with.
+
+1630
+01:39:03,490 --> 01:39:05,500
+Think about the chilling effect 
+that that has.
+
+1631
+01:39:06,320 --> 01:39:07,800
+Think about the chilling effect 
+it does have
+
+1632
+01:39:08,240 --> 01:39:11,260
+on countries that don't have 
+a right to privacy.
+
+1633
+01:39:11,570 --> 01:39:13,630
+I've noticed a really interesting 
+discussion point
+
+1634
+01:39:13,990 --> 01:39:16,220
+which is that what people used to call 
+liberty and freedom
+
+1635
+01:39:16,490 --> 01:39:17,850
+we now call privacy.
+
+1636
+01:39:18,880 --> 01:39:20,710
+And we say in the same breath
+
+1637
+01:39:21,110 --> 01:39:22,630
+that privacy is dead.
+
+1638
+01:39:23,170 --> 01:39:25,120
+This is something 
+that really concerns me
+
+1639
+01:39:25,360 --> 01:39:26,400
+about my generation
+
+1640
+01:39:26,680 --> 01:39:29,280
+especially when we talk about 
+how we're not surprised by anything.
+
+1641
+01:39:29,590 --> 01:39:31,060
+I think that we should consider that
+
+1642
+01:39:31,370 --> 01:39:33,340
+when we lose privacy we lose agency,
+
+1643
+01:39:33,630 --> 01:39:34,770
+we lose liberty itself
+
+1644
+01:39:35,050 --> 01:39:37,310
+because we no longer feel free 
+to express what we think.
+
+1645
+01:39:38,020 --> 01:39:40,130
+There is this myth of 
+the passive surveillance machine
+
+1646
+01:39:40,410 --> 01:39:43,080
+but actually what is surveillance 
+except control?
+
+1647
+01:39:43,640 --> 01:39:45,260
+This notion that the NSA are passive
+
+1648
+01:39:45,530 --> 01:39:46,340
+this is nonsense
+
+1649
+01:39:46,600 --> 01:39:47,790
+what we see is that they actively attack
+
+1650
+01:39:48,140 --> 01:39:49,850
+European citizens, American citizens and,
+
+1651
+01:39:50,870 --> 01:39:52,240
+in fact, anyone that they can
+
+1652
+01:39:52,480 --> 01:39:53,560
+if they perceive an advantage.
+
+1653
+01:39:56,510 --> 01:40:00,890
+
+
+1654
+01:40:08,960 --> 01:40:13,480
+
+
+1655
+01:40:14,360 --> 01:40:16,160
+
+
+1656
+01:40:16,390 --> 01:40:19,170
+
+
+1657
+01:40:19,530 --> 01:40:20,910
+
+
+1658
+01:40:22,420 --> 01:40:27,160
+
+
+1659
+01:40:27,660 --> 01:40:30,300
+
+
+1660
+01:40:30,680 --> 01:40:33,900
+
+
+1661
+01:40:35,280 --> 01:40:37,840
+
+
+1662
+01:40:38,130 --> 01:40:42,200
+
+
+1663
+01:40:42,970 --> 01:40:49,380
+
+
+1664
+01:40:53,400 --> 01:41:00,050
+
+
+1665
+01:41:15,700 --> 01:41:19,760
+
+
+1666
+01:41:20,040 --> 01:41:27,120
+
+
+1667
+01:41:30,500 --> 01:41:32,470
+- OK. Right.
+
+1668
+01:41:34,160 --> 01:41:36,580
+
+
+1669
+01:41:38,040 --> 01:41:40,390
+- I have to give that in testimony.
+
+1670
+01:41:40,770 --> 01:41:42,130
+- What are you going to tell?
+
+1671
+01:41:42,370 --> 01:41:45,630
+- Everything I can truthfully.
+
+1672
+01:41:46,100 --> 01:41:48,050
+- What will you talk about?
+
+1673
+01:41:48,380 --> 01:41:50,880
+- Uh, whatever the questions they ask me.
+
+1674
+01:41:51,140 --> 01:41:52,040
+- Yeah I think it's over there.
+
+1675
+01:41:52,270 --> 01:41:55,450
+- Ok, it's alright. Thank you.
+
+1676
+01:41:59,690 --> 01:42:01,110
+
+
+1677
+01:42:01,950 --> 01:42:03,250
+- Hey, how are you?
+
+1678
+01:42:03,390 --> 01:42:04,030
+- Good.
+
+1679
+01:42:04,240 --> 01:42:04,730
+- How are you?
+
+1680
+01:42:04,930 --> 01:42:05,490
+- Good to see you again.
+
+1681
+01:42:05,660 --> 01:42:06,840
+- Nice to meet you again, yes.
+
+1682
+01:42:08,360 --> 01:42:09,320
+- Yeah
+
+1683
+01:42:16,340 --> 01:42:19,470
+
+
+1684
+01:42:20,020 --> 01:42:25,210
+
+
+1685
+01:42:25,450 --> 01:42:27,350
+
+
+1686
+01:42:27,730 --> 01:42:30,280
+
+
+1687
+01:42:30,670 --> 01:42:33,460
+
+
+1688
+01:42:34,040 --> 01:42:37,320
+
+
+1689
+01:42:37,610 --> 01:42:42,160
+
+
+1690
+01:42:42,410 --> 01:42:44,830
+
+
+1691
+01:42:45,100 --> 01:42:48,830
+
+
+1692
+01:42:49,680 --> 01:42:59,490
+
+
+1693
+01:43:13,020 --> 01:43:15,160
+
+
+1694
+01:43:15,470 --> 01:43:21,790
+
+
+1695
+01:43:22,860 --> 01:43:26,630
+
+
+1696
+01:43:28,710 --> 01:43:34,480
+
+
+1697
+01:43:34,910 --> 01:43:37,840
+
+
+1698
+01:43:38,210 --> 01:43:42,080
+- What do you think they're doing to reporters, 
+those of us that are working directly with...
+
+1699
+01:43:42,690 --> 01:43:44,000
+Snowden documents?
+
+1700
+01:43:44,250 --> 01:43:46,300
+How do you think they would approach 
+dealing with people like us?
+
+1701
+01:43:46,580 --> 01:43:49,720
+- You're.. You're on a cast iron cover list.
+
+1702
+01:43:50,370 --> 01:43:53,650
+Which means any electronic device you use
+
+1703
+01:43:54,310 --> 01:43:57,600
+that they can attach to you 
+they all record and capture all that data.
+
+1704
+01:43:56,000 --> 01:43:59,350
+
+
+1705
+01:43:58,010 --> 01:44:00,150
+- And what do they do with that data? 
+They're just trying to figure out what we're doing?
+
+1706
+01:44:01,420 --> 01:44:03,250
+- Uh, well the primary...
+
+1707
+01:44:03,430 --> 01:44:05,130
+That's part of it. But the other part, primarily part,
+
+1708
+01:44:05,500 --> 01:44:07,640
+is for them. I think it's to find the 
+sources of information you're getting.
+
+1709
+01:44:08,250 --> 01:44:12,040
+- So if I have a confidential source 
+who's giving me information as a whistleblower,
+
+1710
+01:44:12,700 --> 01:44:15,430
+and he works within the US Government, 
+and he's concerned about
+
+1711
+01:44:15,860 --> 01:44:18,680
+what he perceives as 
+violation of the Constitution,
+
+1712
+01:44:19,210 --> 01:44:21,270
+uhm... and he gets in touch with me, 
+they...
+
+1713
+01:44:21,530 --> 01:44:22,110
+- Yeah...
+
+1714
+01:44:22,450 --> 01:44:23,210
+- Go ahead. Yeah.
+
+1715
+01:44:23,470 --> 01:44:26,850
+- Yeah. From there on, they would nail him 
+and start watching everything he did.
+
+1716
+01:44:28,710 --> 01:44:30,820
+and if you start passing data,
+I'm sure they'd take him off the street.
+
+1717
+01:44:31,090 --> 01:44:34,260
+I mean, the way you have to do it 
+is like Deep Throat did, right?
+
+1718
+01:44:34,630 --> 01:44:38,110
+In the Nixon years, 
+meet in a basement of a parking garage...
+
+1719
+01:44:38,890 --> 01:44:40,160
+physically.
+
+1720
+01:45:00,780 --> 01:45:04,470
+
+
+1721
+01:45:07,300 --> 01:45:15,700
+
+
+1722
+01:45:21,120 --> 01:45:23,500
+Let's disassociate our metadata one last time.
+
+1723
+01:45:23,840 --> 01:45:26,850
+So we don't have a clear record of your true name 
+in our final communication chain.
+
+1724
+01:45:27,490 --> 01:45:35,080
+
+
+1725
+01:45:29,240 --> 01:45:31,800
+This is obviously not to say 
+you can't claim your involvement,
+
+1726
+01:45:31,970 --> 01:45:34,320
+but as every trick in the book 
+is likely to be used and looking into this,
+
+1727
+01:45:35,610 --> 01:45:38,000
+I believe it's better, 
+that that particular disclosure
+
+1728
+01:45:38,200 --> 01:45:39,730
+come on your own terms.
+
+1729
+01:45:40,180 --> 01:45:42,630
+Thank you again for all you've done.
+
+1730
+01:45:42,890 --> 01:45:44,670
+So sorry again for the multiple delays.
+
+1731
+01:45:44,850 --> 01:45:46,370
+But we've been entering a territory
+
+1732
+01:45:46,780 --> 01:45:48,060
+with no model to benefit from.
+
+1733
+01:45:49,610 --> 01:45:51,040
+If all ends well,
+
+1734
+01:45:51,420 --> 01:45:53,560
+perhaps the demonstration that our mess has worked
+
+1735
+01:45:54,070 --> 01:45:55,770
+would embolden more to come forward
+
+1736
+01:45:56,720 --> 01:45:58,020
+Citizen.
+
+1737
+01:46:03,010 --> 01:46:06,920
+- So the update that I want to give you is about the new,
+
+1738
+01:46:08,830 --> 01:46:10,910
+uh.. the new source that, that we...
+
+1739
+01:46:12,310 --> 01:46:13,370
+- OK.
+
+1740
+01:46:16,110 --> 01:46:19,460
+- that... uh, this is what... this is the...
+
+1741
+01:46:19,990 --> 01:46:23,620
+you know this is the person who is doing 
+the... the most of the...
+
+1742
+01:46:23,790 --> 01:46:24,840
+- Right, right, right.
+
+1743
+01:46:25,200 --> 01:46:28,820
+- ...the work on it, uh... 
+And now... and now,
+
+1744
+01:46:29,000 --> 01:46:30,730
+what basically, what happens is...
+
+1745
+01:46:33,700 --> 01:46:34,460
+- and...
+
+1746
+01:46:35,300 --> 01:46:37,720
+- That's actually... 
+That's really dangerous...
+
+1747
+01:46:39,370 --> 01:46:41,000
+uh, on the source's side.
+
+1748
+01:46:41,320 --> 01:46:42,570
+Do they know how to 
+take care of themselves...
+
+1749
+01:46:42,790 --> 01:46:43,790
+-  Well he knows...
+
+1750
+01:46:44,960 --> 01:46:45,460
+- ...or do you know anything about...
+
+1751
+01:46:45,830 --> 01:46:46,790
+- ...he means it's, uh...
+
+1752
+01:46:48,740 --> 01:46:50,310
+It's all being done.. 
+through this...
+
+1753
+01:46:50,540 --> 01:46:51,240
+- OK.
+
+1754
+01:46:51,740 --> 01:46:54,870
+- and they're all talking this way...
+
+1755
+01:46:55,190 --> 01:46:55,930
+- OK.
+
+1756
+01:46:56,320 --> 01:46:57,160
+- and, uh...
+
+1757
+01:46:57,450 --> 01:46:59,840
+- I was gonna say 
+one of the big questions there is:
+
+1758
+01:47:00,170 --> 01:47:01,560
+can they handle it? 
+You know with...
+
+1759
+01:47:01,790 --> 01:47:03,370
+- Yeah, they're very careful...
+
+1760
+01:47:03,940 --> 01:47:04,960
+even they're through that.
+
+1761
+01:47:05,190 --> 01:47:05,960
+- OK
+
+1762
+01:47:06,230 --> 01:47:06,940
+- Yeah.
+
+1763
+01:47:10,960 --> 01:47:12,420
+- And...
+
+1764
+01:47:19,170 --> 01:47:21,800
+- That's what that is.
+
+1765
+01:47:23,110 --> 01:47:24,600
+- Wow, that's really something.
+
+1766
+01:47:29,010 --> 01:47:30,350
+- Oh, oh...
+
+1767
+01:47:37,830 --> 01:47:38,890
+- Did you know that?
+
+1768
+01:47:39,370 --> 01:47:46,360
+One key thing: ALL drone strikes are done through 
+Ramstein Air Base in Germany - German govt has always 
+denied this. Will be a huge controversy.
+
+1769
+01:47:46,590 --> 01:47:47,890
+- It's not the actual plan.
+
+1770
+01:47:48,560 --> 01:47:49,950
+- Right, right right. You mean the control.
+
+1771
+01:47:50,400 --> 01:47:51,810
+- It's the process, who's sending the...
+
+1772
+01:47:52,050 --> 01:47:53,030
+- Yeah.
+
+1773
+01:47:53,420 --> 01:47:57,670
+- There's a... There's a chart. 
+You know, it goes like a whole layout in it
+
+1774
+01:47:57,880 --> 01:47:58,850
+for everyone and it's...
+
+1775
+01:47:59,070 --> 01:48:00,390
+- Yeah. It's really bold, but it's really risky.
+
+1776
+01:48:00,830 --> 01:48:02,380
+But you know that... that's the thing if...
+
+1777
+01:48:02,590 --> 01:48:03,290
+- There's more...
+
+1778
+01:48:03,520 --> 01:48:04,430
+- ... if they understand what they're doing.
+
+1779
+01:48:04,920 --> 01:48:09,060
+-  There's this chart, it goes like this... 
+It shows the decision making chart.
+
+1780
+01:48:09,340 --> 01:48:15,680
+It's a chart... It's, it's... it's shaped like this.
+
+1781
+01:48:18,630 --> 01:48:19,270
+- Hum hum...
+- So up here it says "POTUS" (President of the Uniteed States)
+
+1782
+01:48:19,540 --> 01:48:22,190
+- That's the decision making chart for each... one.
+
+1783
+01:48:27,430 --> 01:48:27,830
+- And...
+
+1784
+01:48:28,180 --> 01:48:29,660
+- And it's so political...
+
+1785
+01:48:29,890 --> 01:48:33,810
+- This is...  This part's amazing.
+
+1786
+01:48:37,910 --> 01:48:38,960
+- That's...
+
+1787
+01:48:39,300 --> 01:48:41,190
+- That's fucking ridiculous.
+
+1788
+01:48:42,110 --> 01:48:43,770
+- This... This is... it's so shocking.
+
+1789
+01:48:46,550 --> 01:48:48,930
+- (laugh) That's...
+
+1790
+01:48:50,590 --> 01:48:50,990
+- No, I know...
+
+1791
+01:48:51,300 --> 01:48:51,600
+- That's...
+
+1792
+01:48:51,830 --> 01:48:52,230
+- ... I know...
+
+1793
+01:48:53,050 --> 01:48:55,380
+There are 1.2 m people on various stages 
+of their watch list.
+
+1794
+01:48:55,840 --> 01:48:57,640
+- ... the population of an entire country.
+
+1795
+01:48:58,070 --> 01:48:58,910
+- I know.
+
+1796
+01:48:59,220 --> 01:49:02,480
+- That's... what we're working on.
+
+1797
+01:49:12,490 --> 01:49:15,150
+- That person is incredibly bold, but, uh...
+
+1798
+01:49:16,030 --> 01:49:17,480
+- But also very well aware.
+
+1799
+01:49:17,890 --> 01:49:19,550
+- Right. I... You know, I just hope. I mean...
+
+1800
+01:49:20,410 --> 01:49:21,300
+- No, I mean...
+
+1801
+01:49:21,760 --> 01:49:23,710
+the boldness of it is shocking, 
+but I mean it was obviously..
+
+1802
+01:49:24,160 --> 01:49:25,850
+- But the other thing is just...
+
+1803
+01:49:26,160 --> 01:49:27,260
+- ...motivated by what you did, 
+I mean, it...
+
+1804
+01:49:27,950 --> 01:49:29,640
+- This is going to... This is going to...
+
+1805
+01:49:30,290 --> 01:49:32,120
+That could raise a profile
+
+1806
+01:49:33,030 --> 01:49:34,290
+of this whole political situation
+
+1807
+01:49:34,600 --> 01:49:36,890
+with whistleblowing 
+to a whole new level, because...
+
+1808
+01:49:37,200 --> 01:49:37,810
+- exactly...
+
+1809
+01:49:38,160 --> 01:49:39,250
+- It's gonna...
+
+1810
+01:49:39,500 --> 01:49:40,300
+- Yeah, I mean...
+
+1811
+01:49:40,510 --> 01:49:41,890
+I actually think 
+that's a great thing.
+
+1812
+01:49:42,200 --> 01:49:44,180
+And I think people 
+are gonna see what's being hidden...
+
+1813
+01:49:44,930 --> 01:49:48,730
+again, again.. 
+by a totally different part 
+of the government.
+
+1814
+01:49:51,440 --> 01:49:54,660
+POTUS

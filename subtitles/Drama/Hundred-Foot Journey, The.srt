@@ -1,0 +1,301 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Italics Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Dialogue Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Episode Title,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,3,27,136,80,1
+Style: Flashback Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00451900,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,53,53,24,0
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Next Episode Title,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00000000,&H00DB9F29,1,0,0,0,100,110,0,0,1,2,0,8,27,27,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:49.22,0:01:50.82,Main Dialogue,Emile,0000,0000,0000,,That was great, Hayato!
+Dialogue: 0,0:01:50.82,0:01:53.50,Main Dialogue,Emile,0000,0000,0000,,Karen-chan's song was really good.
+Dialogue: 0,0:01:53.50,0:01:54.15,Main Dialogue,Hayato,0000,0000,0000,,Yeah.
+Dialogue: 0,0:01:55.69,0:01:56.73,Main Dialogue,Hayato,0000,0000,0000,,It was.
+Dialogue: 0,0:01:58.49,0:01:59.84,Main Dialogue,Sakura,0000,0000,0000,,Okay, everyone!
+Dialogue: 0,0:02:00.09,0:02:02.38,Main Dialogue,Sakura,0000,0000,0000,,Now we're going to sing a song together!
+Dialogue: 0,0:02:02.74,0:02:04.10,Main Dialogue,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:03:50.25,0:03:57.17,Episode Title,,0000,0000,0000,,{\fad(1500,1500)}Garden's {\c&H0303C1&} Crisis
+Dialogue: 0,0:04:19.25,0:04:21.56,Main Dialogue,Mei-Mai,0000,0000,0000,,They're both very cute.
+Dialogue: 0,0:04:21.56,0:04:22.47,Main Dialogue,Char,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:23.32,0:04:25.28,Main Dialogue,Char,0000,0000,0000,,LiZA seems to like them, too.
+Dialogue: 0,0:04:36.89,0:04:37.98,Main Dialogue,Chris,0000,0000,0000,,Claire-sama.
+Dialogue: 0,0:04:39.10,0:04:40.82,Main Dialogue,Chris,0000,0000,0000,,We're getting word that a security officer
+Dialogue: 0,0:04:40.82,0:04:43.30,Main Dialogue,Chris,0000,0000,0000,,was found unconscious near the staff gate.
+Dialogue: 0,0:04:44.83,0:04:46.80,Main Dialogue,Claire,0000,0000,0000,,Get me the details.
+Dialogue: 0,0:04:47.37,0:04:51.27,Italics Dialogue,R,0000,0000,0000,,The person we found unconscious is \NWendy Velvet, dispatched from Liberia.
+Dialogue: 0,0:04:51.88,0:04:54.83,Italics Dialogue,R,0000,0000,0000,,She doesn't have any obvious external wounds \Nand has regained consciousness,
+Dialogue: 0,0:04:55.90,0:04:58.56,Main Dialogue,R,0000,0000,0000,,but it seems like she's lost her memories.
+Dialogue: 0,0:04:59.26,0:05:02.44,Main Dialogue,R,0000,0000,0000,,She says she doesn't know why she's here.
+Dialogue: 0,0:05:03.01,0:05:05.16,Main Dialogue,R,0000,0000,0000,,Also, she's saying something strange.
+Dialogue: 0,0:05:05.61,0:05:07.95,Main Dialogue,R,0000,0000,0000,,Something about a Savage without a core.
+Dialogue: 0,0:05:08.66,0:05:10.53,Main Dialogue,Claire,0000,0000,0000,,A Savage without a core?
+Dialogue: 0,0:05:11.90,0:05:14.92,Main Dialogue,Claire,0000,0000,0000,,Chris, tell Charlotte to \Ncome here immediately.
+Dialogue: 0,0:05:14.92,0:05:15.74,Main Dialogue,Chris,0000,0000,0000,,Understood.
+Dialogue: 0,0:05:18.89,0:05:21.69,Main Dialogue,Alphonse,0000,0000,0000,,Silver Blitz, you can do it!
+Dialogue: 0,0:05:21.69,0:05:22.83,Main Dialogue,Alphonse,0000,0000,0000,,That's good.
+Dialogue: 0,0:05:23.13,0:05:26.31,Main Dialogue,Alphonse,0000,0000,0000,,Give him a big hand, everyone!
+Dialogue: 0,0:05:26.59,0:05:29.72,Main Dialogue Top,,0000,0000,0000,,Oh, but things are about to get even better!
+Dialogue: 0,0:05:29.72,0:05:30.60,Main Dialogue Top,,0000,0000,0000,,Watch this.
+Dialogue: 0,0:05:30.93,0:05:33.10,Main Dialogue Top,,0000,0000,0000,,Go, Silver Blitz!
+Dialogue: 0,0:05:32.67,0:05:34.01,Main Dialogue,Vitaly,0000,0000,0000,,It's almost time.
+Dialogue: 0,0:05:48.45,0:05:50.62,Main Dialogue,Noah,0000,0000,0000,,I'm going on break.
+Dialogue: 0,0:05:52.75,0:05:55.87,Main Dialogue,Noah,0000,0000,0000,,I wanted to see \NKirishima Sakura's concert in person.
+Dialogue: 0,0:05:56.16,0:05:57.46,Main Dialogue,Xuemei,0000,0000,0000,,No use complaining about it.
+Dialogue: 0,0:05:57.46,0:05:59.10,Main Dialogue,Xuemei,0000,0000,0000,,We'll just have to deal with the broadcast.
+Dialogue: 0,0:05:59.10,0:06:00.26,Main Dialogue,Noah,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:01.51,0:06:02.33,Main Dialogue,Xuemei,0000,0000,0000,,What's that?
+Dialogue: 0,0:06:10.35,0:06:11.48,Main Dialogue,Noah,0000,0000,0000,,What's that?
+Dialogue: 0,0:06:11.48,0:06:12.50,Main Dialogue,Xuemei,0000,0000,0000,,A bee?
+Dialogue: 0,0:06:12.50,0:06:13.32,Main Dialogue,Reitia,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:13.71,0:06:15.02,Main Dialogue,Reitia,0000,0000,0000,,But something's weird.
+Dialogue: 0,0:06:16.43,0:06:18.30,Main Dialogue,Erica,0000,0000,0000,,It seems mechanical.
+Dialogue: 0,0:06:20.56,0:06:23.78,Main Dialogue,Erica,0000,0000,0000,,Is someone controlling that?
+Dialogue: 0,0:06:25.20,0:06:26.77,Main Dialogue,Reitia,0000,0000,0000,,So its owner isn't here.
+Dialogue: 0,0:06:27.28,0:06:29.75,Main Dialogue,Erica,0000,0000,0000,,We can't just let it sit there.
+Dialogue: 0,0:06:29.75,0:06:31.00,Main Dialogue,Erica,0000,0000,0000,,Let's capture it.
+Dialogue: 0,0:06:32.83,0:06:33.70,Main Dialogue,Erica,0000,0000,0000,,Hundred On!
+Dialogue: 0,0:06:39.47,0:06:41.08,Main Dialogue,Reitia,0000,0000,0000,,Okay, you got it!
+Dialogue: 0,0:06:46.47,0:06:47.59,Main Dialogue,Erica,0000,0000,0000,,It self-destructed?
+Dialogue: 0,0:06:48.02,0:06:49.26,Main Dialogue,Reitia,0000,0000,0000,,There's one over there, too!
+Dialogue: 0,0:06:51.60,0:06:52.73,Main Dialogue,Erica,0000,0000,0000,,It's an electrical relay.
+Dialogue: 0,0:06:52.73,0:06:54.26,Main Dialogue,Erica,0000,0000,0000,,If it explodes near that...!
+Dialogue: 0,0:06:54.62,0:06:56.10,Main Dialogue,Reitia,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:06:56.39,0:06:58.02,Main Dialogue,Reitia,0000,0000,0000,,Hundred On!
+Dialogue: 0,0:06:59.71,0:07:02.02,Main Dialogue,Reitia,0000,0000,0000,,Rocket Knuckle!
+Dialogue: 0,0:07:06.03,0:07:07.05,Main Dialogue,Reitia,0000,0000,0000,,Got it!
+Dialogue: 0,0:07:07.05,0:07:09.51,Main Dialogue,Erica,0000,0000,0000,,Excellent work, Reitia Saintemilion.
+Dialogue: 0,0:07:25.76,0:07:27.78,Main Dialogue,Reitia,0000,0000,0000,,How many of those bees are there?!
+Dialogue: 0,0:07:28.23,0:07:31.00,Main Dialogue,Erica,0000,0000,0000,,We need to find and take them\Nall out before they explode.
+Dialogue: 0,0:07:31.71,0:07:34.38,Main Dialogue,Erica,0000,0000,0000,,You two, get the civilians to safety.
+Dialogue: 0,0:07:34.38,0:07:35.23,Main Dialogue,Both,0000,0000,0000,,Understood!
+Dialogue: 0,0:07:36.17,0:07:38.39,Main Dialogue,O1,0000,0000,0000,,We've detected bee-type mechas in Area 4.
+Dialogue: 0,0:07:38.39,0:07:39.79,Main Dialogue,O1,0000,0000,0000,,Area 6, as well.
+Dialogue: 0,0:07:39.79,0:07:42.39,Main Dialogue,O3,0000,0000,0000,,The electrical relay in Block 42\N has been damaged.
+Dialogue: 0,0:07:42.39,0:07:43.94,Main Dialogue,O3,0000,0000,0000,,We're unable to maintain power.
+Dialogue: 0,0:07:44.34,0:07:45.78,Main Dialogue,Liddy,0000,0000,0000,,Switch to emergency power.
+Dialogue: 0,0:07:45.78,0:07:47.44,Main Dialogue,Liddy,0000,0000,0000,,Send repair teams.
+Dialogue: 0,0:07:47.44,0:07:47.98,Main Dialogue,R,0000,0000,0000,,Roger that!
+Dialogue: 0,0:07:47.98,0:07:50.24,Main Dialogue,Chris,0000,0000,0000,,The grid has been interrupted \Nin several areas.
+Dialogue: 0,0:07:50.24,0:07:53.19,Main Dialogue,Chris,0000,0000,0000,,I believe that the bee-types \Nare targeting the relays.
+Dialogue: 0,0:07:53.19,0:07:57.11,Main Dialogue,Liddy,0000,0000,0000,,All security teams are to destroy the bee-types\Nand help with the evacuations.
+Dialogue: 0,0:07:57.11,0:07:58.47,Main Dialogue,Liddy,0000,0000,0000,,I'm going out, too.
+Dialogue: 0,0:07:59.58,0:08:02.12,Main Dialogue,O,0000,0000,0000,,Changing over to emergency power.
+Dialogue: 0,0:08:03.54,0:08:07.39,Italics Dialogue,Claire,0000,0000,0000,,There's no way those things\Nappeared out of nowhere.
+Dialogue: 0,0:08:07.84,0:08:10.09,Italics Dialogue,Claire,0000,0000,0000,,Where were they hidden?
+Dialogue: 0,0:08:10.68,0:08:12.22,Italics Dialogue,Noah,0000,0000,0000,,Security HQ, we have an emergency report.
+Dialogue: 0,0:08:12.57,0:08:13.80,Italics Dialogue,Noah,0000,0000,0000,,Please take a look at this.
+Dialogue: 0,0:08:14.10,0:08:17.73,Italics Dialogue,Xuemei,0000,0000,0000,,While we were evacuating everyone, \Nwe ran into this and managed to record it!
+Dialogue: 0,0:08:27.61,0:08:28.62,Main Dialogue,O1,0000,0000,0000,,What...
+Dialogue: 0,0:08:28.62,0:08:30.01,Main Dialogue,O2,0000,0000,0000,,What does this mean?
+Dialogue: 0,0:08:30.01,0:08:31.11,Main Dialogue,Chris,0000,0000,0000,,Claire-sama!
+Dialogue: 0,0:08:31.39,0:08:34.06,Main Dialogue,Claire,0000,0000,0000,,Shut down all the automatic cleaning robots,
+Dialogue: 0,0:08:34.06,0:08:37.12,Main Dialogue,Claire,0000,0000,0000,,and destroy the ones that are \Nstill operating immediately!
+Dialogue: 0,0:08:37.12,0:08:38.16,Italics Dialogue,Erica,0000,0000,0000,,Claire-sama.
+Dialogue: 0,0:08:40.37,0:08:44.37,Italics Dialogue,Erica,0000,0000,0000,,We've discovered variable stones \Nfrom the bee-type's debris.
+Dialogue: 0,0:08:44.62,0:08:45.58,Main Dialogue,Claire,0000,0000,0000,,This was obviously...
+Dialogue: 0,0:08:47.05,0:08:49.46,Main Dialogue,Claire,0000,0000,0000,,...a carefully planned attack.
+Dialogue: 0,0:08:49.46,0:08:51.80,Main Dialogue,Claire,0000,0000,0000,,A gauntlet has been thrown\N at the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:08:51.80,0:08:52.72,Main Dialogue,Chris,0000,0000,0000,,It couldn't be!
+Dialogue: 0,0:08:52.72,0:08:55.73,Main Dialogue,Claire,0000,0000,0000,,Indeed. There's only one person\Nwho could be behind this...
+Dialogue: 0,0:08:55.73,0:08:58.43,Main Dialogue,Char,0000,0000,0000,,Vitaly Tynyanov, I'd imagine.
+Dialogue: 0,0:09:01.50,0:09:05.39,Main Dialogue,Claire,0000,0000,0000,,Chris, announce that the Garden's Festa\Nwill be put on hold for now.
+Dialogue: 0,0:09:05.39,0:09:06.43,Main Dialogue,Claire,0000,0000,0000,,And issue evac orders.
+Dialogue: 0,0:09:06.43,0:09:07.20,Main Dialogue,Chris,0000,0000,0000,,Right!
+Dialogue: 0,0:09:08.01,0:09:12.00,Main Dialogue,Claire,0000,0000,0000,,Also, inform all of the military arts students \Nthat there's been an emergency.
+Dialogue: 0,0:09:12.00,0:09:15.28,Main Dialogue,Claire,0000,0000,0000,,Have them all help with getting rid \Nof the bees and the evacuation.
+Dialogue: 0,0:09:15.59,0:09:17.70,Main Dialogue,Claire,0000,0000,0000,,You all know what to do, right?
+Dialogue: 0,0:09:17.70,0:09:18.65,Main Dialogue,O,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:09:39.14,0:09:40.02,Italics Dialogue,Souffle,0000,0000,0000,,Sakura.
+Dialogue: 0,0:09:41.11,0:09:42.24,Main Dialogue,Souffle,0000,0000,0000,,We have an emergency.
+Dialogue: 0,0:09:48.15,0:09:49.55,Main Dialogue,Sakura,0000,0000,0000,,I'm sorry, everyone!
+Dialogue: 0,0:09:49.85,0:09:51.43,Main Dialogue,Sakura,0000,0000,0000,,I know we're in the middle \Nof a concert here,
+Dialogue: 0,0:09:51.43,0:09:53.94,Main Dialogue,Sakura,0000,0000,0000,,but it seems like there's been \Na bit of trouble outside.
+Dialogue: 0,0:09:57.53,0:09:59.39,Main Dialogue,Sakura,0000,0000,0000,,Settle down. It'll be fine.
+Dialogue: 0,0:09:59.39,0:10:02.12,Main Dialogue,Sakura,0000,0000,0000,,We're going to evacuate \Ninto shelters right now.
+Dialogue: 0,0:10:02.12,0:10:04.95,Main Dialogue,Sakura,0000,0000,0000,,Please calm down and\Nstay where you are.
+Dialogue: 0,0:10:05.55,0:10:07.14,Main Dialogue,Sakura,0000,0000,0000,,It'll be safer that way.
+Dialogue: 0,0:10:08.07,0:10:09.88,Main Dialogue,Sakura,0000,0000,0000,,I'm telling you it'll be okay,
+Dialogue: 0,0:10:09.88,0:10:11.46,Main Dialogue,Sakura,0000,0000,0000,,so there's no reason to worry!
+Dialogue: 0,0:10:12.12,0:10:13.46,Main Dialogue,Char,0000,0000,0000,,Look at this.
+Dialogue: 0,0:10:14.05,0:10:15.98,Main Dialogue,Char,0000,0000,0000,,This is footage from a security camera.
+Dialogue: 0,0:10:15.98,0:10:17.97,Main Dialogue,Char,0000,0000,0000,,It shows Wendy Velvet.
+Dialogue: 0,0:10:18.83,0:10:19.65,Main Dialogue,Claire,0000,0000,0000,,Vitaly?
+Dialogue: 0,0:10:20.52,0:10:24.72,Main Dialogue,Char,0000,0000,0000,,It looks like she controlled Wendy\Nin order to get into the ship.
+Dialogue: 0,0:10:25.34,0:10:29.23,Main Dialogue,Char,0000,0000,0000,,The Garden's Festa is also open to the public,\Nwhich made it easier to infiltrate the ship.
+Dialogue: 0,0:10:30.03,0:10:35.46,Main Dialogue,Char,0000,0000,0000,,I'm sure she's also the one who sent us \Nthe rigged automatic cleaning robots, too.
+Dialogue: 0,0:10:36.16,0:10:39.54,Main Dialogue,Char,0000,0000,0000,,They're both feats no\Nordinary person could pull off.
+Dialogue: 0,0:10:40.05,0:10:44.24,Main Dialogue,Char,0000,0000,0000,,Only she, a former technologist\Nat Warslarn, could have.
+Dialogue: 0,0:10:45.29,0:10:48.20,Main Dialogue,Claire,0000,0000,0000,,Then she took Judar's invitation.
+Dialogue: 0,0:10:49.34,0:10:52.31,Main Dialogue,Claire,0000,0000,0000,,We'll need to increase the security \Nfor the three of them.
+Dialogue: 0,0:10:54.44,0:10:57.22,Main Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato. Emile Crossfode.
+Dialogue: 0,0:10:57.63,0:10:59.94,Main Dialogue,Claire,0000,0000,0000,,This is Claire Harvey. Can you hear me?
+Dialogue: 0,0:11:00.83,0:11:02.68,Main Dialogue,Erica,0000,0000,0000,,I'm not letting a single one \Nof you get away!
+Dialogue: 0,0:11:07.42,0:11:09.21,Main Dialogue,Alphonse,0000,0000,0000,,Go!
+Dialogue: 0,0:11:09.49,0:11:10.78,Main Dialogue,Alphonse,0000,0000,0000,,Silver Blitz!
+Dialogue: 0,0:11:11.08,0:11:13.08,Main Dialogue,Alphonse,0000,0000,0000,,Hundred On!
+Dialogue: 0,0:11:18.65,0:11:20.14,Main Dialogue,Noah,0000,0000,0000,,Please don't run.
+Dialogue: 0,0:11:19.30,0:11:20.96,Main Dialogue Top,Xuemei,0000,0000,0000,,Please don't panic.
+Dialogue: 0,0:11:20.14,0:11:21.66,Main Dialogue,Noah,0000,0000,0000,,It'll be all right. Don't push.
+Dialogue: 0,0:11:27.07,0:11:28.87,Main Dialogue,Fritz,0000,0000,0000,,That was close.
+Dialogue: 0,0:11:34.21,0:11:36.78,Main Dialogue,Liddy,0000,0000,0000,,We're going to help out Area 7 next.
+Dialogue: 0,0:11:37.10,0:11:40.40,Main Dialogue,Fritz,0000,0000,0000,,You're such a slave driver, \NVice President.
+Dialogue: 0,0:12:05.44,0:12:07.79,Main Dialogue,RB,0000,0000,0000,,What's going on in the ship?
+Dialogue: 0,0:12:08.14,0:12:12.46,Main Dialogue,RG,0000,0000,0000,,Looks like some bee-type mechas \Nare causing issues.
+Dialogue: 0,0:12:12.46,0:12:13.79,Main Dialogue,RB,0000,0000,0000,,I wonder if everything'll be okay.
+Dialogue: 0,0:12:14.31,0:12:17.52,Main Dialogue,Claudia,0000,0000,0000,,Who cares?
+Dialogue: 0,0:12:17.52,0:12:21.02,Main Dialogue,Claudia,0000,0000,0000,,I wanted to eat a chocolate \Nbanana with Emilia-sama.
+Dialogue: 0,0:12:22.64,0:12:25.15,Main Dialogue,Claudia,0000,0000,0000,,This is all Kisaragi Hayato's fault.
+Dialogue: 0,0:12:26.52,0:12:31.56,Main Dialogue,Claudia,0000,0000,0000,,Having to keep watch here, being so bored,\Nand those things coming this way...
+Dialogue: 0,0:12:32.12,0:12:32.69,Main Dialogue,Claudia,0000,0000,0000,,Wait.
+Dialogue: 0,0:12:33.65,0:12:35.32,Main Dialogue,RB,0000,0000,0000,,What are those?
+Dialogue: 0,0:12:36.23,0:12:38.69,Main Dialogue,O1,0000,0000,0000,,Unidentified aircraft approaching!\NDistance: 200 meters.
+Dialogue: 0,0:12:39.06,0:12:42.44,Main Dialogue,Claire,0000,0000,0000,,Why didn't we notice them \Nuntil they were so close?
+Dialogue: 0,0:12:42.72,0:12:45.20,Main Dialogue,O2,0000,0000,0000,,Distance: 100 meters.\NWe won't be able to intercept.
+Dialogue: 0,0:12:45.20,0:12:46.70,Main Dialogue,Claudia,0000,0000,0000,,They're coming!
+Dialogue: 0,0:12:49.98,0:12:52.40,Main Dialogue,O3,0000,0000,0000,,Virus detected in the air defense network!
+Dialogue: 0,0:12:52.40,0:12:55.96,Main Dialogue,O4,0000,0000,0000,,Part of our radar has been blanked!
+Dialogue: 0,0:12:56.25,0:12:57.96,Main Dialogue,Chris,0000,0000,0000,,I'll get the system back online.
+Dialogue: 0,0:12:58.50,0:13:02.88,Main Dialogue,O2,0000,0000,0000,,Unidentified aircraft have crashed into\Nthe Airport Deck and the Rear Deck, too!
+Dialogue: 0,0:13:03.18,0:13:05.47,Main Dialogue,O2,0000,0000,0000,,We're currently assessing damage!
+Dialogue: 0,0:13:06.94,0:13:10.89,Main Dialogue,Char,0000,0000,0000,,Vitaly was heavily involved in \Nthe design of the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:13:11.32,0:13:14.91,Main Dialogue,Char,0000,0000,0000,,It seems there was a back door \Nthat I didn't know about.
+Dialogue: 0,0:13:24.01,0:13:25.24,Main Dialogue,Claudia,0000,0000,0000,,Savage?!
+Dialogue: 0,0:13:28.60,0:13:30.08,Main Dialogue,Claudia,0000,0000,0000,,Those Savage...
+Dialogue: 0,0:13:31.06,0:13:32.58,Main Dialogue,Claudia,0000,0000,0000,,...don't have cores!
+Dialogue: 0,0:13:32.92,0:13:34.60,Main Dialogue,Claire,0000,0000,0000,,Savages without cores?
+Dialogue: 0,0:13:34.60,0:13:35.58,Main Dialogue,Chris,0000,0000,0000,,On screen.
+Dialogue: 0,0:13:47.94,0:13:50.22,Main Dialogue,RB,0000,0000,0000,,Conventional weapons have no effect on them.
+Dialogue: 0,0:13:50.22,0:13:52.16,Main Dialogue,Claire,0000,0000,0000,,We'll handle this!
+Dialogue: 0,0:14:00.38,0:14:03.00,Main Dialogue,Char,0000,0000,0000,,I guess we should call them replicants.
+Dialogue: 0,0:14:03.44,0:14:08.95,Main Dialogue,Char,0000,0000,0000,,They're composites Vitaly made in the image\Nof humanity's enemies, the Savage.
+Dialogue: 0,0:14:09.74,0:14:15.31,Main Dialogue,Char,0000,0000,0000,,She was collecting variable stones and\NSavage cores to create these replicants.
+Dialogue: 0,0:14:16.43,0:14:18.41,Main Dialogue,Char,0000,0000,0000,,She's declared war on us...
+Dialogue: 0,0:14:19.32,0:14:22.78,Main Dialogue,Char,0000,0000,0000,,No, on Warslarn.
+Dialogue: 0,0:14:23.62,0:14:26.80,Main Dialogue,Claire,0000,0000,0000,,Liddy, Erica, you heard what's going on, right?
+Dialogue: 0,0:14:27.42,0:14:30.44,Main Dialogue,Claire,0000,0000,0000,,Liddy, take charge of intercepting\Nall of the replicants on each deck.
+Dialogue: 0,0:14:30.74,0:14:33.06,Main Dialogue,Claire,0000,0000,0000,,Erica, you take out the \Nbee-types as fast as you can.
+Dialogue: 0,0:14:33.73,0:14:34.86,Main Dialogue,Both,0000,0000,0000,,Roger that.
+Dialogue: 0,0:14:35.99,0:14:37.34,Main Dialogue,Claire,0000,0000,0000,,No matter what happens,
+Dialogue: 0,0:14:37.34,0:14:39.69,Main Dialogue,Claire,0000,0000,0000,,I'm not letting anyone get hurt.
+Dialogue: 0,0:14:40.30,0:14:41.09,Main Dialogue,Hayato,0000,0000,0000,,President!
+Dialogue: 0,0:14:41.09,0:14:43.07,Main Dialogue,Emile,0000,0000,0000,,What's going on?
+Dialogue: 0,0:14:43.41,0:14:46.78,Main Dialogue,Char,0000,0000,0000,,Vitaly Tynyanov is behind it all.
+Dialogue: 0,0:14:47.29,0:14:48.32,Main Dialogue,Hayato,0000,0000,0000,,Vitaly...
+Dialogue: 0,0:14:48.83,0:14:51.57,Main Dialogue,Claire,0000,0000,0000,,She's already infiltrated the ship.
+Dialogue: 0,0:14:51.95,0:14:55.08,Main Dialogue,Claire,0000,0000,0000,,I want you to join the security\Nfor those three prisoners.
+Dialogue: 0,0:14:55.61,0:14:58.71,Main Dialogue,Claire,0000,0000,0000,,We're not letting them \Nfall into Vitaly's hands.
+Dialogue: 0,0:14:59.02,0:14:59.86,Main Dialogue,Hayato,0000,0000,0000,,Right!
+Dialogue: 0,0:14:59.86,0:15:01.58,Main Dialogue,Emile,0000,0000,0000,,No problem. Leave it to us.
+Dialogue: 0,0:15:02.11,0:15:05.05,Main Dialogue,Claire,0000,0000,0000,,We're not sure what Vitaly is going to do.
+Dialogue: 0,0:15:05.35,0:15:07.06,Main Dialogue,Claire,0000,0000,0000,,Be careful.
+Dialogue: 0,0:15:07.06,0:15:08.59,Main Dialogue,O1,0000,0000,0000,,Unidentified aircraft approaching.
+Dialogue: 0,0:15:08.97,0:15:10.22,Main Dialogue,O1,0000,0000,0000,,It's coming in from above.
+Dialogue: 0,0:15:11.36,0:15:12.59,Main Dialogue,Claire,0000,0000,0000,,What was that?
+Dialogue: 0,0:15:37.87,0:15:40.02,Main Dialogue,Sakura,0000,0000,0000,,Everyone, remain calm!
+Dialogue: 0,0:15:40.02,0:15:42.65,Main Dialogue,Karen,0000,0000,0000,,Please stay calm!
+Dialogue: 0,0:15:42.65,0:15:44.29,Main Dialogue,Sakura,0000,0000,0000,,This is the {\i1}Little Garden!{\i0}
+Dialogue: 0,0:15:44.29,0:15:47.13,Main Dialogue,Sakura,0000,0000,0000,,The Slayers will protect us!
+Dialogue: 0,0:15:47.63,0:15:50.10,Main Dialogue,O1,0000,0000,0000,,Unidentified aircraft has\N crashed into the barrier.
+Dialogue: 0,0:15:50.10,0:15:51.63,Main Dialogue,O2,0000,0000,0000,,Assessing damage.
+Dialogue: 0,0:15:52.97,0:15:54.44,Main Dialogue,Claire,0000,0000,0000,,They just keep coming.
+Dialogue: 0,0:16:00.04,0:16:01.10,Main Dialogue,Emile,0000,0000,0000,,Those are...
+Dialogue: 0,0:16:01.10,0:16:02.34,Main Dialogue,Char,0000,0000,0000,,Replicants.
+Dialogue: 0,0:16:02.64,0:16:05.90,Main Dialogue,Char,0000,0000,0000,,Man-made Savages developed by Vitaly.
+Dialogue: 0,0:16:06.65,0:16:08.07,Main Dialogue,Hayato,0000,0000,0000,,Replicants...
+Dialogue: 0,0:16:15.16,0:16:16.38,Main Dialogue,Claire,0000,0000,0000,,They're big.
+Dialogue: 0,0:16:21.41,0:16:24.29,Main Dialogue,O1,0000,0000,0000,,Aerial barrier strength: 98...
+Dialogue: 0,0:16:24.29,0:16:25.01,Main Dialogue,O1,0000,0000,0000,,95...
+Dialogue: 0,0:16:25.01,0:16:26.60,Main Dialogue,O2,0000,0000,0000,,They're going to break through!
+Dialogue: 0,0:16:27.37,0:16:28.67,Main Dialogue,Claire,0000,0000,0000,,I'll head out myself.
+Dialogue: 0,0:16:30.56,0:16:34.31,Main Dialogue,Claire,0000,0000,0000,,I'm the only one who can handle them.
+Dialogue: 0,0:16:34.70,0:16:36.55,Main Dialogue,Claire,0000,0000,0000,,Chris, you take care of things here.
+Dialogue: 0,0:16:36.79,0:16:38.07,Main Dialogue,Chris,0000,0000,0000,,No!
+Dialogue: 0,0:16:38.07,0:16:41.13,Main Dialogue,Chris,0000,0000,0000,,Claire-sama, you should stay in command.
+Dialogue: 0,0:16:41.43,0:16:42.56,Main Dialogue,Claire,0000,0000,0000,,Chris.
+Dialogue: 0,0:16:42.92,0:16:45.42,Main Dialogue,Chris,0000,0000,0000,,You're the commander of the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:16:45.42,0:16:47.09,Main Dialogue,Chris,0000,0000,0000,,Only you can rally the Slayers
+Dialogue: 0,0:16:47.09,0:16:50.94,Main Dialogue,Chris,0000,0000,0000,,and calm everyone's nerves.
+Dialogue: 0,0:16:51.56,0:16:52.51,Main Dialogue,Claire,0000,0000,0000,,But...
+Dialogue: 0,0:16:53.00,0:16:54.34,Main Dialogue,Hayato,0000,0000,0000,,We'll go.
+Dialogue: 0,0:16:57.23,0:16:58.46,Main Dialogue,Claire,0000,0000,0000,,But...
+Dialogue: 0,0:16:58.46,0:17:01.65,Main Dialogue,Char,0000,0000,0000,,LiZA agrees with them.
+Dialogue: 0,0:17:06.73,0:17:07.59,Main Dialogue,Hayato,0000,0000,0000,,President.
+Dialogue: 0,0:17:08.31,0:17:10.33,Main Dialogue,Hayato,0000,0000,0000,,I promised you that
+Dialogue: 0,0:17:10.65,0:17:14.47,Main Dialogue,Hayato,0000,0000,0000,,I'd use my abilities and ideals \Nto protect the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:17:15.20,0:17:16.48,Flashback Dialogue,Claire,0000,0000,0000,,Kisaragi Hayato,
+Dialogue: 0,0:17:17.24,0:17:23.14,Flashback Dialogue,Claire,0000,0000,0000,,would you continue to use your ideals\N and your power for the {\i1}Little Garden?{\i0}
+Dialogue: 0,0:17:28.95,0:17:29.89,Main Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:30.60,0:17:32.76,Main Dialogue,Emile,0000,0000,0000,,Hayato, when did that happen?
+Dialogue: 0,0:17:33.50,0:17:36.06,Main Dialogue,Hayato,0000,0000,0000,,I, uh...
+Dialogue: 0,0:17:37.42,0:17:38.41,Main Dialogue,Claire,0000,0000,0000,,Understood.
+Dialogue: 0,0:17:39.04,0:17:40.74,Main Dialogue,Claire,0000,0000,0000,,I will leave it to you.
+Dialogue: 0,0:17:41.45,0:17:43.41,Main Dialogue,Claire,0000,0000,0000,,However, there's a condition.
+Dialogue: 0,0:17:44.15,0:17:46.17,Main Dialogue,Claire,0000,0000,0000,,You must come back alive,
+Dialogue: 0,0:17:47.25,0:17:52.99,Main Dialogue,Claire,0000,0000,0000,,and you must protect the people\Nhere at the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:17:54.09,0:17:55.29,Main Dialogue,Claire,0000,0000,0000,,Understood?
+Dialogue: 0,0:17:56.54,0:17:57.26,Main Dialogue,Hayato,0000,0000,0000,,Right!
+Dialogue: 0,0:18:02.84,0:18:05.05,Main Dialogue,Char,0000,0000,0000,,Leave security to Mei-Mai.
+Dialogue: 0,0:18:05.43,0:18:08.37,Main Dialogue,Char,0000,0000,0000,,She'll take care of those three just fine.
+Dialogue: 0,0:18:12.33,0:18:14.57,Main Dialogue,Krovanh,0000,0000,0000,,Just what's going on?
+Dialogue: 0,0:18:14.86,0:18:16.11,Main Dialogue,Nakri,0000,0000,0000,,It's Vitaly.
+Dialogue: 0,0:18:16.11,0:18:18.45,Main Dialogue,Nakri,0000,0000,0000,,Vitaly must've come to save us.
+Dialogue: 0,0:18:19.55,0:18:23.30,Main Dialogue,Nesat,0000,0000,0000,,But Mei-Mai said that\N today's supposed to be a festival.
+Dialogue: 0,0:18:23.62,0:18:27.29,Main Dialogue,Krovanh,0000,0000,0000,,Vitaly wouldn't hurt ordinary civilians.
+Dialogue: 0,0:18:28.17,0:18:32.71,Main Dialogue,Krovanh,0000,0000,0000,,She's doing all of this to take revenge against \Nthe Slayers and build her ideal world.
+Dialogue: 0,0:18:33.01,0:18:36.09,Main Dialogue,Krovanh,0000,0000,0000,,She wouldn't attack on a day like this.
+Dialogue: 0,0:18:36.55,0:18:37.69,Main Dialogue,Nakri,0000,0000,0000,,But...
+Dialogue: 0,0:18:44.09,0:18:45.99,Main Dialogue,Nakri,0000,0000,0000,,It was Vitaly!
+Dialogue: 0,0:18:47.46,0:18:49.84,Main Dialogue,Vitaly,0000,0000,0000,,I'm attacking the {\i1}Little Garden.{\i0}
+Dialogue: 0,0:18:50.31,0:18:51.86,Main Dialogue,Vitaly,0000,0000,0000,,I want you to help, too.
+Dialogue: 0,0:18:52.15,0:18:53.86,Main Dialogue,Nakri,0000,0000,0000,,Our Hundred!
+Dialogue: 0,0:18:56.39,0:18:58.82,Main Dialogue,Nakri,0000,0000,0000,,Nesat's Hundred is still there.
+Dialogue: 0,0:18:59.96,0:19:02.74,Main Dialogue,Nesat,0000,0000,0000,,They said I wouldn't be able \Nto see if they took it.
+Dialogue: 0,0:19:03.32,0:19:05.07,Main Dialogue,Vitaly,0000,0000,0000,,What a naive bunch.
+Dialogue: 0,0:19:05.07,0:19:06.36,Main Dialogue,Krovanh,0000,0000,0000,,Hey, Vitaly.
+Dialogue: 0,0:19:07.18,0:19:09.00,Main Dialogue,Krovanh,0000,0000,0000,,What's up with this attack?
+Dialogue: 0,0:19:09.00,0:19:10.46,Main Dialogue,Krovanh,0000,0000,0000,,This isn't what we discussed.
+Dialogue: 0,0:19:11.71,0:19:15.65,Main Dialogue,Krovanh,0000,0000,0000,,I won't help you hurt normal people.
+Dialogue: 0,0:19:17.15,0:19:18.26,Main Dialogue,Krovanh,0000,0000,0000,,Also...
+Dialogue: 0,0:19:19.34,0:19:20.26,Main Dialogue,Vitaly,0000,0000,0000,,What is it?
+Dialogue: 0,0:19:21.43,0:19:22.90,Main Dialogue,Krovanh,0000,0000,0000,,I don't think the people here
+Dialogue: 0,0:19:23.67,0:19:26.19,Main Dialogue,Krovanh,0000,0000,0000,,are all that bad.
+Dialogue: 0,0:19:29.58,0:19:30.84,Main Dialogue,Vitaly,0000,0000,0000,,I see.
+Dialogue: 0,0:19:31.69,0:19:33.31,Main Dialogue,Vitaly,0000,0000,0000,,You leave me no choice.
+Dialogue: 0,0:19:40.48,0:19:42.82,Main Dialogue,Krovanh,0000,0000,0000,,Wh-What are you doing?
+Dialogue: 0,0:19:44.45,0:19:46.00,Main Dialogue,Krovanh,0000,0000,0000,,Vitaly!
+Dialogue: 0,0:19:46.00,0:19:47.33,Main Dialogue,Krovanh,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:55.22,0:19:58.01,Main Dialogue,Liddy,0000,0000,0000,,If they don't have cores, \Nwe'll just have to tear them apart!
+Dialogue: 0,0:20:05.09,0:20:07.14,Main Dialogue,Liddy,0000,0000,0000,,We're going to wipe them all out right here.
+Dialogue: 0,0:20:07.14,0:20:09.22,Main Dialogue,Liddy,0000,0000,0000,,Don't let them in the ship!
+Dialogue: 0,0:20:29.22,0:20:30.49,Main Dialogue,Karen,0000,0000,0000,,Sakura-san!
+Dialogue: 0,0:20:31.21,0:20:32.24,Main Dialogue,Sakura,0000,0000,0000,,It's okay.
+Dialogue: 0,0:20:32.75,0:20:35.91,Main Dialogue,Sakura,0000,0000,0000,,I'm sure Hayato-kun and the others \Nwill do something about this.
+Dialogue: 0,0:20:40.85,0:20:41.91,Italics Dialogue,Karen,0000,0000,0000,,Nii-san!
+Dialogue: 0,0:20:43.24,0:20:44.20,Main Dialogue,Emile,0000,0000,0000,,Right there!
+Dialogue: 0,0:20:45.67,0:20:48.36,Main Dialogue,Chris,0000,0000,0000,,Barrier strength just dropped below 40%.
+Dialogue: 0,0:20:49.14,0:20:51.06,Main Dialogue,Hayato,0000,0000,0000,,We're not letting Vitaly have her way.
+Dialogue: 0,0:20:51.92,0:20:54.54,Main Dialogue,Hayato,0000,0000,0000,,We're going to protect the {\i1}Little Garden!{\i0}
+Dialogue: 0,0:21:12.10,0:21:13.08,Main Dialogue,Mei-Mai,0000,0000,0000,,Everyone!
+Dialogue: 0,0:21:16.79,0:21:19.35,Italics Dialogue,Mei-Mai,0000,0000,0000,,Oh, no. I messed up.
+Dialogue: 0,0:21:25.05,0:21:26.43,Main Dialogue,Vitaly,0000,0000,0000,,An automaton...
+Dialogue: 0,0:21:27.54,0:21:30.43,Main Dialogue,Vitaly,0000,0000,0000,,A robot that Linis made.
+Dialogue: 0,0:21:30.90,0:21:32.96,Main Dialogue,Mei-Mai,0000,0000,0000,,I'm not just a robot...
+Dialogue: 0,0:21:33.26,0:21:35.56,Main Dialogue,Mei-Mai,0000,0000,0000,,My name is Mei-Mai.
+Dialogue: 0,0:21:38.37,0:21:39.27,Main Dialogue,Vitaly,0000,0000,0000,,Let's go.
+Dialogue: 0,0:21:44.36,0:21:45.36,Main Dialogue,Mei-Mai,0000,0000,0000,,Please wait!
+Dialogue: 0,0:21:55.30,0:21:56.52,Main Dialogue,Mei-Mai,0000,0000,0000,,No...
+Dialogue: 0,0:21:57.32,0:21:59.66,Main Dialogue,Mei-Mai,0000,0000,0000,,You mustn't go...
+Dialogue: 0,0:24:00.79,0:24:05.74,Next Episode Title,Mei-Mai,0000,0000,0000,,{\fad(1000,1)}{\c&H0303C1&}Fri{\c&HFFFFFF&}ends

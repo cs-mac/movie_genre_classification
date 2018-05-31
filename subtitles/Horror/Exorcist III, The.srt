@@ -1,0 +1,3459 @@
+[INFORMATION]
+[TITLE]Exorcist
+[AUTHOR]tomkins
+[SOURCE]Subtitles captured by SubRip 0.8b
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&H00FFFF,[STYLE]no,[SIZE]12,[FONT]Courier New
+00:00:00.00,00:00:00.10
+
+
+00:00:07.51,00:00:10.92
+Hello. I'm William Friedkin,[br]director of "The Exorcist."
+
+00:00:11.55,00:00:14.54
+"The Exorcist" is a film[br]about the mystery of faith.
+
+00:00:15.22,00:00:19.16
+And I think the fact that it has endured[br]for more than 25 years now...
+
+00:00:19.26,00:00:23.89
+...is due, in large part, to what it leaves[br]you with after you've seen the film.
+
+00:00:24.83,00:00:27.03
+It starts with a brilliant screenplay...
+
+00:00:27.10,00:00:30.16
+...from an equally powerful novel[br]by William Peter Blatty.
+
+00:00:30.87,00:00:35.57
+And it's a story that can, perhaps,[br]make you question your own value system.
+
+00:00:36.04,00:00:37.67
+Even your own sanity.
+
+00:00:37.98,00:00:40.71
+Because it strongly and realistically...
+
+00:00:40.98,00:00:44.64
+...tries to make the case for spiritual forces[br]in the universe.
+
+00:00:45.05,00:00:46.88
+Both good and evil.
+
+00:00:47.99,00:00:50.01
+But what you may not be aware of...
+
+00:00:50.09,00:00:53.29
+...is the fact that "The Exorcist"[br]is based on a true story.
+
+00:00:53.63,00:00:57.65
+It took place in Silver Spring, Maryland,[br]in 1949...
+
+00:00:57.73,00:01:00.67
+...and was widely reported[br]by the American press.
+
+00:01:00.93,00:01:03.90
+When I saw the files[br]at Georgetown University...
+
+00:01:04.00,00:01:06.27
+...pertaining to the actual case...
+
+00:01:06.51,00:01:10.17
+...I knew that this was going to be,[br]or needed to be...
+
+00:01:10.31,00:01:13.01
+...something more[br]than just another horror film.
+
+00:01:13.35,00:01:15.78
+This had to be a realistic film...
+
+00:01:16.12,00:01:18.14
+...about inexplicable events.
+
+00:01:19.92,00:01:23.98
+I've always thought that a film should,[br]first of all, be an emotional experience.
+
+00:01:24.06,00:01:27.42
+It should make you laugh,[br]or cry, or be scared.
+
+00:01:27.86,00:01:30.83
+But it should also inspire[br]and provoke you...
+
+00:01:31.03,00:01:32.69
+...and make you reflect.
+
+00:01:33.43,00:01:35.26
+Over the years, I think that...
+
+00:01:35.34,00:01:39.17
+...most people take out of "The Exorcist"[br]what they bring to it.
+
+00:01:39.97,00:01:43.34
+If you believe that the world is[br]a dark and evil place...
+
+00:01:43.61,00:01:46.44
+...then "The Exorcist" will reinforce that.
+
+00:01:46.78,00:01:49.91
+But if you believe that there is[br]a force for good...
+
+00:01:50.08,00:01:53.61
+...that combats and, eventually,[br]triumphs over evil...
+
+00:01:54.29,00:01:58.35
+...then you'll be taking out of the film[br]what we tried to put into it.
+
+00:01:59.26,00:02:03.66
+In any case, turn down the lights,[br]turn up the sound...
+
+00:02:04.13,00:02:08.69
+...and enjoy the digitally[br]re-mastered version of "The Exorcist."
+
+00:14:08.89,00:14:10.22
+I sure do love you.
+
+00:14:12.56,00:14:14.49
+Good morning, Mrs. MacNeil.
+
+00:14:14.56,00:14:16.96
+-How are you today?[br]-Fine, thank you.
+
+00:14:18.10,00:14:19.89
+It's okay, I've got it. Thanks.
+
+00:14:20.93,00:14:23.23
+-Good morning, Madam.[br]-Good morning, Karl.
+
+00:14:23.97,00:14:27.30
+Oh, Karl, we've got rats in the attic.[br]You'd better get some traps.
+
+00:14:27.71,00:14:28.70
+Rats?
+
+00:14:29.48,00:14:30.70
+I'm afraid so.
+
+00:14:31.21,00:14:32.61
+But the attic is clean.
+
+00:14:32.85,00:14:34.84
+All right, then, we've got clean rats.
+
+00:14:35.48,00:14:37.45
+-No rats.[br]-I just heard them, Karl.
+
+00:14:38.22,00:14:39.38
+Maybe prowlers.
+
+00:14:39.62,00:14:42.68
+Yeah, or maybe rats.[br]Now, will you just get the traps?
+
+00:14:43.02,00:14:44.01
+Yes, I go now.
+
+00:14:44.12,00:14:46.96
+-Don't go now. The stores aren't open yet.[br]-I'll go see.
+
+00:14:47.03,00:14:48.25
+They're closed!
+
+00:14:48.83,00:14:52.99
+In the group over here,[br]I need a couple of priests, a nun....
+
+00:14:55.64,00:14:57.80
+That's exactly what we want.
+
+00:15:03.14,00:15:07.51
+Is this scene really essential? Would you[br]just consider if we can do without it?
+
+00:15:07.61,00:15:10.28
+Look at this damn thing.[br]It just doesn't make sense.
+
+00:15:10.38,00:15:11.44
+It's perfectly plain.
+
+00:15:11.52,00:15:14.71
+You're a teacher of the college.[br]You don't want the building torn down.
+
+00:15:14.79,00:15:17.72
+-I can read, for Christ's sake![br]-Well, what's wrong?
+
+00:15:17.89,00:15:20.19
+Well, why are they tearing[br]the building down?
+
+00:15:20.29,00:15:23.23
+Shall we summon the writer?[br]He's in Paris, I believe.
+
+00:15:23.36,00:15:24.09
+Hiding?
+
+00:15:24.16,00:15:25.15
+Fucking.
+
+00:15:27.97,00:15:30.23
+Scene 39: Hotel. Take four.
+
+00:15:30.37,00:15:32.80
+All right. Hustle back on in.
+
+00:15:36.54,00:15:38.41
+Is this your campus?
+
+00:15:39.45,00:15:42.41
+Let's get the Defense Department[br]off this campus!
+
+00:15:44.78,00:15:46.45
+It's our school!
+
+00:15:46.59,00:15:48.38
+They have no right!
+
+00:15:53.46,00:15:55.79
+I've seen enough killing in my life!
+
+00:15:56.23,00:15:58.36
+There's no reason for it anymore!
+
+00:16:00.73,00:16:01.89
+Wait a minute!
+
+00:16:05.04,00:16:07.90
+We're all concerned with human rights,[br]for God's sake...
+
+00:16:08.07,00:16:11.53
+...but the kids who want[br]to get an education have a right, too!
+
+00:16:16.42,00:16:19.85
+Don't you understand? It's against[br]your own principle, for God's sake!
+
+00:16:23.62,00:16:26.96
+You can't accomplish anything[br]by shutting kids off from their....
+
+00:16:34.73,00:16:38.97
+If you want to effect any change,[br]you have to do it within the system.
+
+00:16:41.04,00:16:43.17
+Okay, cut! That's a wrap.
+
+00:17:00.56,00:17:02.15
+I think I'll walk home tonight, Mike.
+
+00:17:02.23,00:17:04.56
+Here, take that and drop it by my house.
+
+00:17:04.86,00:17:06.42
+Good night, Tom.
+
+00:17:44.24,00:17:47.17
+There's not a day in my life[br]that I don't feel like a fraud.
+
+00:17:47.51,00:17:50.34
+I mean, priests, doctors, lawyers.[br]I've talked to them all.
+
+00:17:50.51,00:17:52.34
+I don't know anyone who hasn't felt that.
+
+00:17:58.78,00:17:59.81
+Hello?
+
+00:18:00.05,00:18:01.11
+In here.
+
+00:18:03.12,00:18:05.61
+-Hi, how did your day go?[br]-Not too bad.
+
+00:18:05.83,00:18:08.95
+It was kind of like the Walt Disney version[br]of the "Ho Chi Minh Story".
+
+00:18:09.03,00:18:12.46
+Other than that, it was terrific.[br]What have we got, anything exciting here?
+
+00:18:14.17,00:18:15.66
+Also, you got an invitation.
+
+00:18:15.87,00:18:17.06
+What's this?
+
+00:18:17.20,00:18:18.57
+Dinner at the White House.
+
+00:18:18.64,00:18:20.90
+You're kidding me![br]What is it, a big party or something?
+
+00:18:20.97,00:18:22.30
+I think it's five or six people.
+
+00:18:22.91,00:18:25.24
+Thursday, huh? All right.
+
+00:18:25.41,00:18:26.57
+Hi, Mom.
+
+00:18:26.65,00:18:28.08
+What did you do today?
+
+00:18:28.51,00:18:30.51
+-Stuff.[br]-What does that mean, "stuff"?
+
+00:18:32.32,00:18:34.95
+Me and Sharon played a game[br]in the backyard.
+
+00:18:35.19,00:18:37.31
+And we had a picnic down by the river.
+
+00:18:38.89,00:18:43.56
+Mom, you should have seen it! This man[br]came along on this beautiful gray horse.
+
+00:18:43.70,00:18:45.13
+Really? What kind?
+
+00:18:45.23,00:18:46.72
+Was it a mare, a gelding?
+
+00:18:47.60,00:18:49.16
+I think it was a gelding.
+
+00:18:49.74,00:18:50.67
+It was gray.
+
+00:18:50.74,00:18:55.17
+Oh, it was so beautiful. The guy let me[br]ride it all around and everything.
+
+00:18:55.51,00:18:57.41
+She rode it for about half an hour.
+
+00:18:58.41,00:19:02.11
+I loved it! Oh, Mom, can't we get a horse?
+
+00:19:02.21,00:19:05.24
+-Not while we're in Washington, honey.[br]-Why not, Mom?
+
+00:19:05.69,00:19:07.48
+We'll see when we get home, okay?
+
+00:19:07.59,00:19:08.61
+When could I have one?
+
+00:19:08.69,00:19:10.35
+We'll see, Regan. We'll see.
+
+00:19:10.86,00:19:13.59
+Listen, on the party invitations[br]I want to write a personal--
+
+00:19:13.79,00:19:16.19
+Regan, don't! Come back!
+
+00:19:21.20,00:19:22.69
+All right, give it up. Give it up!
+
+00:19:22.77,00:19:23.74
+No!
+
+00:19:25.94,00:19:27.37
+You'll be sorry!
+
+00:19:58.64,00:19:59.73
+Father?
+
+00:19:59.81,00:20:01.57
+Could you help an old altar boy?
+
+00:20:02.88,00:20:03.86
+I'm a Catholic.
+
+00:21:30.56,00:21:31.59
+Mama?
+
+00:21:55.89,00:21:58.29
+-I'm so glad to see you.[br]-You look good.
+
+00:21:58.36,00:21:59.65
+I'm all right.
+
+00:22:00.26,00:22:02.92
+-How's your leg?[br]-How about you? You are all right?
+
+00:22:03.33,00:22:04.39
+Mama, I'm fine.
+
+00:22:09.34,00:22:10.39
+Your Uncle John...
+
+00:22:10.47,00:22:12.53
+...passed by to visit me.
+
+00:22:12.61,00:22:13.63
+Really, when?
+
+00:22:13.81,00:22:14.90
+Last month.
+
+00:22:19.28,00:22:21.25
+-Is that too tight?[br]-No.
+
+00:22:22.78,00:22:26.74
+You have to stay off it. You can't go[br]up and down the stairs. Give it a rest.
+
+00:22:27.22,00:22:28.38
+Okay.
+
+00:22:38.83,00:22:42.53
+Mama, I could take you somewhere where[br]you'd be safe. You wouldn't be alone.
+
+00:22:42.60,00:22:43.83
+There would be people around.
+
+00:22:43.90,00:22:46.46
+You wouldn't be sitting here[br]listening to the radio.
+
+00:22:51.21,00:22:52.40
+You understand me?
+
+00:22:52.65,00:22:56.84
+This is my house[br]and I'm not going no place.
+
+00:23:10.33,00:23:12.59
+Dimmie, you worry for something?
+
+00:23:12.70,00:23:14.50
+-No, Mama.[br]-You are not happy?
+
+00:23:14.67,00:23:16.36
+Tell me, what is the matter?
+
+00:23:16.67,00:23:19.00
+Mama, I'm all right. I'm fine. Really, I am.
+
+00:23:54.04,00:23:55.23
+Here it comes.
+
+00:23:55.87,00:23:56.90
+There!
+
+00:23:59.81,00:24:01.51
+-Oh, look at that![br]-Do you like it?
+
+00:24:01.58,00:24:03.41
+Oh, isn't that funny!
+
+00:24:05.05,00:24:07.95
+I better put him over here to dry, though.[br]He's still wet.
+
+00:24:13.49,00:24:15.08
+Hey, where did this come from?
+
+00:24:17.16,00:24:18.69
+-I found it.[br]-Where?
+
+00:24:20.83,00:24:21.99
+In the closet.
+
+00:24:24.97,00:24:26.63
+Have you been playing with it?
+
+00:24:26.71,00:24:28.43
+-Yep.[br]-Do you know how?
+
+00:24:28.84,00:24:30.14
+I'll show you.
+
+00:24:34.58,00:24:36.21
+Wait a minute. You need two.
+
+00:24:36.58,00:24:39.42
+No, you don't. I do it all the time.
+
+00:24:40.19,00:24:41.88
+Well, let's both play.
+
+00:24:44.92,00:24:46.82
+You really don't want me to play, huh?
+
+00:24:46.89,00:24:49.45
+No, I do! Captain Howdy said no.
+
+00:24:50.20,00:24:52.25
+-Captain who?[br]-Captain Howdy.
+
+00:24:53.33,00:24:54.56
+Who's Captain Howdy?
+
+00:24:55.00,00:24:57.80
+You know. I make the questions[br]and he does the answers.
+
+00:24:59.44,00:25:02.24
+-Captain Howdy. I see.[br]-He's nice.
+
+00:25:03.34,00:25:04.83
+I'll bet he is.
+
+00:25:04.91,00:25:06.17
+Here, I'll show you.
+
+00:25:07.91,00:25:10.88
+Captain Howdy,[br]do you think my Mom is pretty?
+
+00:25:16.06,00:25:18.42
+Captain Howdy, that isn't very nice.
+
+00:25:18.49,00:25:20.65
+-Maybe he's sleeping.[br]-You think?
+
+00:25:23.26,00:25:25.32
+Why are you reading that stuff?
+
+00:25:25.66,00:25:26.82
+Because I like it.
+
+00:25:27.07,00:25:28.80
+It's not even a good picture of you.
+
+00:25:30.20,00:25:32.64
+-You look so mature.[br]-I wouldn't talk!
+
+00:25:32.94,00:25:34.03
+You wouldn't talk?
+
+00:25:35.77,00:25:37.90
+Well, I didn't have my makeup man there.
+
+00:25:38.64,00:25:40.64
+Let me take an eyelash off your face.
+
+00:25:41.45,00:25:42.78
+No, I didn't get it.
+
+00:25:44.22,00:25:48.41
+What are we going to do on your birthday?[br]isn't it nice it's on Sunday this year?
+
+00:25:48.89,00:25:50.98
+No work? What can we do?
+
+00:25:51.22,00:25:52.28
+I don't know.
+
+00:25:52.36,00:25:54.79
+What would you like to do? Got any ideas?
+
+00:25:57.86,00:25:59.30
+Let me think....
+
+00:26:00.50,00:26:03.56
+You know, we never finished seeing[br]all the sights in Washington.
+
+00:26:03.64,00:26:06.04
+We didn't get to the Lee Mansion,[br]lots of stuff.
+
+00:26:06.11,00:26:08.10
+Shall we do that? Go sightseeing...
+
+00:26:08.64,00:26:11.27
+-...if it's a nice day?[br]-Yeah, let's do that.
+
+00:26:12.41,00:26:16.54
+And tomorrow night,[br]I'll take you to a movie, okay?
+
+00:26:17.75,00:26:19.01
+Oh, I love you!
+
+00:26:19.79,00:26:21.31
+I love you, Rags.
+
+00:26:24.76,00:26:26.25
+We'll have a good day, huh?
+
+00:26:26.39,00:26:28.55
+You can bring Mr. Dennings, if you like.
+
+00:26:29.33,00:26:30.99
+Mr. Dennings?
+
+00:26:31.06,00:26:32.59
+Well, you know, it's okay.
+
+00:26:33.27,00:26:34.60
+Thank you very much...
+
+00:26:34.67,00:26:37.57
+...but why would I want to bring Burke[br]on your birthday?
+
+00:26:37.64,00:26:38.86
+Well, you like him.
+
+00:26:39.67,00:26:43.23
+Yeah, I like him. Don't you like him?[br]What's going on? What is this?
+
+00:26:43.58,00:26:45.48
+You're going to marry him, aren't you?
+
+00:26:46.41,00:26:49.01
+You've got to be kidding![br]Me marry Burke Dennings?
+
+00:26:49.21,00:26:51.44
+Don't be silly. Of course not.
+
+00:26:51.62,00:26:53.61
+Where did you ever get an idea like that?
+
+00:26:53.69,00:26:55.08
+But you like him.
+
+00:26:55.99,00:26:59.58
+Of course, I like him. I like pizzas too,[br]but I'm not going to marry one.
+
+00:26:59.66,00:27:01.39
+You don't like him like Daddy?
+
+00:27:03.13,00:27:04.99
+Regan, I love your Daddy.
+
+00:27:05.83,00:27:07.86
+I'll always love your Daddy, honey.
+
+00:27:09.23,00:27:11.46
+Burke just comes around here a lot[br]because...
+
+00:27:13.31,00:27:15.57
+...well, he's lonely.[br]He don't got nothing to do!
+
+00:27:15.74,00:27:18.40
+Well, I heard differently.
+
+00:27:19.01,00:27:21.07
+Oh, you did? What did you hear?
+
+00:27:21.51,00:27:24.31
+I don't know. I just thought.
+
+00:27:24.42,00:27:26.04
+Well, you didn't think so good.
+
+00:27:26.12,00:27:27.59
+How do you know?
+
+00:27:28.52,00:27:31.39
+Because Burke and I are just friends.[br]Okay? Really.
+
+00:27:33.03,00:27:34.36
+Are you ready for sleep?
+
+00:27:38.36,00:27:39.83
+Good night, honey.
+
+00:28:00.45,00:28:01.92
+It's my mother, Tom.
+
+00:28:02.99,00:28:05.55
+She's alone and I never[br]should have left her.
+
+00:28:07.16,00:28:10.03
+At least in New York, I'd been near.[br]I'd been close to her.
+
+00:28:10.30,00:28:12.32
+I could see about a transfer, Damien.
+
+00:28:14.73,00:28:18.90
+I need reassignment, Tom. I want out[br]of this job. It's wrong, it's no good.
+
+00:28:19.50,00:28:20.97
+You're the best we've got.
+
+00:28:22.57,00:28:23.91
+Am I really?
+
+00:28:26.85,00:28:29.14
+It's more than psychiatry,[br]and you know that, Tom.
+
+00:28:29.21,00:28:31.77
+Some of their problems[br]come down to their faith...
+
+00:28:32.18,00:28:35.95
+...their vocation, the meaning of their lives,[br]and I can't cut it any more.
+
+00:28:41.03,00:28:42.52
+I need out. I'm unfit.
+
+00:28:47.40,00:28:49.16
+I think I've lost my faith, Tom.
+
+00:28:52.74,00:28:53.90
+Hello?
+
+00:28:54.07,00:28:55.80
+Yes, this is Mrs. MacNeil.
+
+00:28:56.88,00:28:58.87
+Operator, you have got to be kidding!
+
+00:28:58.94,00:29:01.61
+I have been on this line for 20 minutes!
+
+00:29:02.05,00:29:04.52
+Jesus Christ, can you believe this?
+
+00:29:04.58,00:29:07.58
+He doesn't even call his daughter[br]on her birthday!
+
+00:29:08.52,00:29:11.01
+Oh, circuits, my ass![br]He doesn't give a shit!
+
+00:29:11.29,00:29:14.45
+-Why don't you let me--[br]-No, I've got it, Sharon. It's all right.
+
+00:29:16.46,00:29:20.12
+Operator, don't tell me there's no answer.[br]It's the Hotel Excelsior in Rome!
+
+00:29:20.20,00:29:22.69
+Would you try it again, please,[br]and let it ring?
+
+00:29:23.04,00:29:24.66
+Hello? Yes.
+
+00:29:26.07,00:29:29.30
+No, Operator,[br]I've given you the number four times!
+
+00:29:30.08,00:29:33.44
+What do you do, take an illiteracy test[br]to get that job, for Christ's sake?
+
+00:29:33.51,00:29:36.07
+Don't tell me to be calm, goddamn it!
+
+00:29:36.55,00:29:38.98
+I've been on this fucking line[br]for 20 minutes!
+
+00:29:50.73,00:29:52.09
+Yeah?
+
+00:29:53.83,00:29:55.66
+You're kidding me!
+
+00:29:58.34,00:29:59.90
+I thought I just went to bed.
+
+00:30:03.94,00:30:05.67
+What are we doing, Scene 61?
+
+00:30:07.45,00:30:10.07
+Oh, just remind Phil[br]about that blue belt, huh?
+
+00:30:25.70,00:30:27.16
+What are you doing here?
+
+00:30:27.83,00:30:29.96
+My bed was shaking.
+
+00:30:30.30,00:30:31.93
+I can't get to sleep.
+
+00:31:55.35,00:31:56.68
+Goddamn it!
+
+00:32:44.84,00:32:47.40
+Jesus Christ, Karl, don't do that!
+
+00:32:48.21,00:32:50.70
+I'm very sorry, but you see? No rats.
+
+00:32:50.91,00:32:53.47
+No rats. Thanks a lot. That's terrific.
+
+00:34:04.75,00:34:07.18
+The edema affected her brain,[br]you understand?
+
+00:34:07.25,00:34:08.95
+She don't let no doctor come near her.
+
+00:34:09.02,00:34:11.72
+She was all the time screaming,[br]even talking to the radio.
+
+00:34:11.79,00:34:13.72
+You should've called me when it happened.
+
+00:34:13.79,00:34:16.82
+Regular hospital is not going[br]to put up with that, Dimmie.
+
+00:34:16.93,00:34:18.79
+So we give her a shot and bring her here...
+
+00:34:18.86,00:34:21.96
+...until the doctors fix up her leg,[br]then we take her right out.
+
+00:34:22.03,00:34:24.47
+Two or three months and she's out,[br]good as new!
+
+00:34:32.54,00:34:33.91
+We want to see Mrs. Karras.
+
+00:34:33.98,00:34:35.50
+-Do you have an appointment?[br]-Yes.
+
+00:34:35.58,00:34:38.28
+-Are you a relative?[br]-I am her brother. He is her son.
+
+00:34:38.85,00:34:39.94
+Just a minute.
+
+00:35:03.21,00:35:04.57
+You know, it's funny...
+
+00:35:04.91,00:35:08.11
+...if you weren't a priest, you'd be[br]a famous psychiatrist now on Park Avenue.
+
+00:35:08.18,00:35:11.08
+Your mother would be living[br]in a penthouse instead of there.
+
+00:35:15.99,00:35:18.72
+You go in, Dimmie.[br]I'll wait for you outside.
+
+00:35:21.46,00:35:24.49
+You'll find Mrs. Karras on the last bed[br]on the left-hand side.
+
+00:35:52.99,00:35:54.22
+It's Dimmie, Mama.
+
+00:36:00.47,00:36:02.87
+Why did you do this to me, Dimmie?
+
+00:36:03.30,00:36:04.27
+Why?
+
+00:36:07.77,00:36:11.40
+Come on, I'll take you out of here.[br]Mama, I'm going to take you home.
+
+00:36:13.98,00:36:17.31
+Mama, everything's going to be all right.[br]I'm going to take you home.
+
+00:36:22.65,00:36:24.28
+Couldn't you have put her someplace else?
+
+00:36:24.36,00:36:27.98
+Like what? Private hospital?[br]Who's got the money for that, Dimmie?
+
+00:36:28.49,00:36:29.46
+You?
+
+00:37:01.16,00:37:04.36
+There seems to be[br]an alien pubic hair in my drink.
+
+00:37:05.03,00:37:06.02
+I beg your pardon?
+
+00:37:06.10,00:37:09.36
+Never seen it before in my life. Have you?
+
+00:37:16.57,00:37:18.34
+We're pretty comfortable up there...
+
+00:37:18.41,00:37:21.78
+...compared to the Gemini and Mercury[br]programs, where they were tight for space.
+
+00:37:21.85,00:37:25.25
+You see, we've got about 210 cubic feet,[br]so we can move around.
+
+00:37:25.38,00:37:28.05
+If you ever go up there again,[br]will you take me along?
+
+00:37:28.22,00:37:29.28
+What for?
+
+00:37:29.99,00:37:31.35
+First missionary on Mars!
+
+00:37:31.42,00:37:36.26
+Tell me, was it public relations you did[br]for the Gestapo or community relations?
+
+00:37:36.59,00:37:37.56
+I'm Swiss!
+
+00:37:37.63,00:37:38.79
+Yes, of course.
+
+00:37:39.93,00:37:43.20
+And you never went bowling[br]with Goebbels, either, I suppose, huh?
+
+00:37:44.44,00:37:46.03
+Nazi bastard!
+
+00:37:46.17,00:37:50.01
+Over behind the church. You know where[br]I mean? It's a red brick wing.
+
+00:37:51.24,00:37:54.27
+What goes on there? I mean,[br]who's the priest I keep seeing there?
+
+00:37:54.35,00:37:55.31
+He's there all the time.
+
+00:37:55.38,00:37:58.28
+He has black hair and he's[br]very intense looking. Who's that?
+
+00:37:58.35,00:38:01.48
+Damien Karras.[br]That's his office the back of Saint Mike's.
+
+00:38:01.79,00:38:03.85
+He's our psychiatric counselor.
+
+00:38:06.09,00:38:09.72
+He had a pretty rough knock last night,[br]poor guy. His mother passed away.
+
+00:38:09.86,00:38:11.76
+She was living by herself, and...
+
+00:38:12.23,00:38:15.29
+...I guess she was dead a couple of days[br]before they found her.
+
+00:38:17.57,00:38:19.09
+Cunting Hun!
+
+00:38:19.80,00:38:23.43
+Bloody, damned, butchering, Nazi pig!
+
+00:38:24.41,00:38:26.74
+Stop it! I'll kill you!
+
+00:38:39.66,00:38:41.25
+What's for dessert?
+
+00:38:49.07,00:38:50.26
+You sleeping?
+
+00:39:08.49,00:39:12.62
+Burke, your car's at the curb.[br]Louie's waiting. It's nice and warm.
+
+00:39:21.43,00:39:22.92
+Yes, honey. What?
+
+00:39:32.18,00:39:34.77
+Oh, was he acting up! Why?
+
+00:39:44.89,00:39:46.38
+Hi, Chris, it's a great party.
+
+00:39:46.46,00:39:48.02
+Yeah, don't stop. Keep going.
+
+00:39:48.09,00:39:52.32
+I don't need any encouragement. My idea[br]of Heaven is a solid white nightclub...
+
+00:39:52.50,00:39:56.49
+...with me as a headliner for all eternity,[br]and they love me.
+
+00:39:58.40,00:40:03.14
+"Down on the eastside of toidy-toid[br]and toid
+
+00:40:03.27,00:40:07.80
+"That's my home sweet home! "
+
+00:40:17.89,00:40:19.38
+I think we've got a guest.
+
+00:40:22.03,00:40:23.69
+You're going to die up there.
+
+00:40:33.07,00:40:34.47
+Oh, my God, honey.
+
+00:40:34.87,00:40:36.53
+Honey, what's the matter?
+
+00:40:37.04,00:40:40.27
+I'm sorry, she's been sick.[br]She didn't know what she was saying.
+
+00:40:50.59,00:40:52.28
+What made you say that, Regan?
+
+00:40:54.93,00:40:56.33
+Do you know, sweetheart?
+
+00:41:02.17,00:41:03.29
+Mother?
+
+00:41:04.37,00:41:05.77
+What's wrong with me?
+
+00:41:13.04,00:41:16.88
+It's just like the doctor said.[br]It's nerves, and that's all.
+
+00:41:18.52,00:41:21.14
+You just take your pills[br]and you'll be fine. Really.
+
+00:41:21.79,00:41:22.95
+Okay?
+
+00:41:48.45,00:41:50.00
+Is it coming out, Willie?
+
+00:41:50.38,00:41:52.11
+Yes, I think so.
+
+00:41:55.15,00:41:56.38
+Mother!
+
+00:42:42.80,00:42:45.77
+Where'd you get the money[br]for the Chivas Rega, the poor box?
+
+00:42:46.34,00:42:48.60
+That's an insult. I've got a vow of poverty.
+
+00:42:51.94,00:42:53.47
+Where'd you get it, then?
+
+00:42:53.71,00:42:54.70
+I stole it.
+
+00:42:57.62,00:42:58.71
+I believe you.
+
+00:42:59.05,00:43:02.38
+College presidents shouldn't drink.[br]Tends to set a bad example.
+
+00:43:02.72,00:43:04.92
+I figure I saved him from a big temptation.
+
+00:43:07.56,00:43:08.89
+Oh, Christ!
+
+00:43:09.23,00:43:11.56
+I should have been there. I wasn't there.
+
+00:43:12.06,00:43:13.76
+There was nothing you could do.
+
+00:43:14.40,00:43:15.46
+Lie down.
+
+00:43:16.40,00:43:18.27
+Give me the butt. Come on.
+
+00:43:21.44,00:43:22.84
+Now you think you can sleep?
+
+00:43:23.11,00:43:25.94
+What are you going to do,[br]steal my shoes now?
+
+00:43:26.24,00:43:27.23
+No.
+
+00:43:27.51,00:43:30.88
+I tell fortunes by reading the creases.[br]Now, shut up and go to sleep.
+
+00:43:42.53,00:43:44.09
+Good night.
+
+00:43:50.33,00:43:52.06
+Stealing is a sin.
+
+00:44:39.32,00:44:40.81
+I don't want it!
+
+00:44:41.72,00:44:43.45
+Honey, it's to help you.
+
+00:44:43.85,00:44:45.32
+I don't want it!
+
+00:44:46.99,00:44:48.58
+You fucking bastard!
+
+00:44:49.89,00:44:52.86
+Remember also, O Lord,[br]Thy servant, Mary Karras...
+
+00:44:56.37,00:45:00.74
+...who has gone before us, with the sign[br]of faith, and sleeps the sleep of peace.
+
+00:45:03.21,00:45:06.54
+"Lord, I am not worthy to receive you.
+
+00:45:07.28,00:45:10.08
+"But only say the Word[br]and I shall be healed.
+
+00:45:12.72,00:45:15.48
+"May the body of Christ bring thee[br]to everlasting life."
+
+00:45:30.30,00:45:32.46
+It's a symptom...
+
+00:45:35.27,00:45:39.04
+...of a type of disturbance in[br]the chemical-electrical activity of the brain.
+
+00:45:39.38,00:45:41.28
+In the case of your daughter,[br]in the temporal lobe.
+
+00:45:41.35,00:45:43.71
+That's up here in the lateral part[br]of the brain.
+
+00:45:44.38,00:45:47.08
+It's rare, but it does cause[br]bizarre hallucinations...
+
+00:45:47.32,00:45:49.45
+...and usually just before a convulsion.
+
+00:45:49.52,00:45:50.58
+A convulsion?
+
+00:45:50.76,00:45:53.92
+The shaking of the bed.[br]That's doubtless due to muscular spasms.
+
+00:45:55.19,00:45:57.46
+No, no, that was no spasm.
+
+00:45:58.40,00:46:03.23
+I got on the bed. The whole bed was[br]thumping and rising off the floor...
+
+00:46:03.33,00:46:06.03
+...and shaking, the whole thing![br]With me on it!
+
+00:46:06.30,00:46:09.40
+Mrs. MacNeil, the problem[br]with your daughter is not her bed.
+
+00:46:09.47,00:46:10.63
+It's her brain.
+
+00:46:19.12,00:46:20.55
+What causes this?
+
+00:46:21.29,00:46:22.84
+Lesion in the temporal lobe.
+
+00:46:22.92,00:46:24.68
+It's a kind of seizure disorder.
+
+00:46:24.86,00:46:29.09
+Look, Doc, I really don't understand[br]how her whole personality could change.
+
+00:46:29.73,00:46:31.63
+In temporal lobe, it's very common.
+
+00:46:31.80,00:46:32.66
+It is?
+
+00:46:33.36,00:46:35.23
+It can last for days, even weeks.
+
+00:46:36.27,00:46:38.74
+It isn't rare to find destructive...
+
+00:46:39.34,00:46:40.74
+...even criminal behavior.
+
+00:46:42.94,00:46:45.57
+Hey, do me a favor, will you?[br]Tell me something good.
+
+00:46:45.88,00:46:49.87
+Don't be alarmed. If it's a lesion,[br]in a way, she's fortunate.
+
+00:46:50.45,00:46:52.47
+All we have to do is remove the scar.
+
+00:47:08.57,00:47:10.69
+Regan, can you sit up and scoot over here?
+
+00:47:17.21,00:47:18.51
+A little more.
+
+00:47:19.24,00:47:20.57
+Good.
+
+00:47:24.82,00:47:27.81
+I'm just going to move you down[br]on the table, okay?
+
+00:47:40.23,00:47:41.99
+Just for a short time.
+
+00:47:56.71,00:47:57.65
+Very sticky.
+
+00:47:59.25,00:48:02.41
+Now, Regan, you're going to feel[br]something a little cold and wet.
+
+00:48:13.70,00:48:17.03
+Now you're going to feel a little stick here.[br]Don't move.
+
+00:48:21.87,00:48:23.27
+Good.
+
+00:48:27.71,00:48:31.11
+You're going to feel some pressure here.[br]Now, don't move.
+
+00:49:29.24,00:49:30.30
+Hook up!
+
+00:50:02.94,00:50:04.50
+There's just nothing there.
+
+00:50:04.91,00:50:06.77
+No vascular displacement at all.
+
+00:50:07.34,00:50:09.14
+Do you want me to run another series?
+
+00:50:09.98,00:50:11.07
+I don't think so.
+
+00:50:11.25,00:50:12.88
+I'd like you to see her again.
+
+00:50:13.28,00:50:16.12
+Excuse me, Doctor.[br]Chris MacNeil is on the phone.
+
+00:50:16.22,00:50:17.52
+She says it's urgent.
+
+00:50:18.19,00:50:19.71
+Have you got some time?
+
+00:50:25.90,00:50:26.83
+Dr. Klein?
+
+00:50:26.90,00:50:29.16
+Yes, I'm Dr. Klein. This is Dr. Tanney.
+
+00:50:29.53,00:50:32.00
+Things have gotten worse since I phoned.[br]Come upstairs.
+
+00:50:32.10,00:50:34.59
+-Is she having the spasms again?[br]-Yeah, but they've gotten violent.
+
+00:50:34.67,00:50:36.77
+Did you give her[br]the medication I gave you?
+
+00:50:36.84,00:50:38.57
+-What was that?[br]-Thorazine.
+
+00:50:39.68,00:50:41.24
+Before that, it was Ritalin.
+
+00:50:44.52,00:50:45.85
+Chris, doctors.
+
+00:50:46.78,00:50:48.12
+Mother, please!
+
+00:50:48.22,00:50:50.74
+Oh, please, Mother, make him stop!
+
+00:50:50.82,00:50:53.12
+It's burning! It's burning!
+
+00:50:53.22,00:50:55.28
+Do something, Doctor. Please, help her!
+
+00:50:58.03,00:51:00.66
+Make it stop! He's trying to kill me!
+
+00:51:01.07,00:51:02.36
+Mother!
+
+00:51:11.21,00:51:12.30
+Keep away!
+
+00:51:12.44,00:51:13.71
+The sow is mine!
+
+00:51:14.68,00:51:15.80
+Fuck me!
+
+00:51:15.98,00:51:17.07
+Fuck me!
+
+00:51:28.36,00:51:29.62
+Stay away from me!
+
+00:51:33.86,00:51:34.85
+Hold her tight!
+
+00:51:34.93,00:51:36.87
+Don't let them, Mother, please!
+
+00:52:01.09,00:52:02.79
+She's heavily sedated.
+
+00:52:03.33,00:52:05.39
+She'll probably sleep through tomorrow.
+
+00:52:07.56,00:52:10.90
+What was going on in there?[br]How could she fly off the bed like that?
+
+00:52:12.04,00:52:16.30
+Pathological states can induce[br]abnormal strength...
+
+00:52:17.64,00:52:19.54
+...accelerated motor performance.
+
+00:52:20.48,00:52:21.81
+For example...
+
+00:52:22.78,00:52:26.74
+...say a 90-pound woman sees her child[br]pinned under the wheel of a truck...
+
+00:52:27.25,00:52:30.28
+...runs out and lifts the wheels[br]a half foot up off the ground.
+
+00:52:30.79,00:52:33.19
+You've heard the story. Same thing here.
+
+00:52:35.03,00:52:36.55
+Same principle, I mean.
+
+00:52:39.66,00:52:41.19
+So what's wrong with her?
+
+00:52:43.07,00:52:44.93
+We still think that the temporal lobe--
+
+00:52:45.00,00:52:47.87
+What are you talking about,[br]for Christ's sake?
+
+00:52:48.27,00:52:49.97
+Did you see her or not?
+
+00:52:50.51,00:52:52.74
+She's acting like she's fucking[br]out of her mind!
+
+00:52:52.81,00:52:56.30
+Psychotic, like a split personality, or....
+
+00:53:01.45,00:53:03.98
+There haven't been more than[br]a hundred authentic cases...
+
+00:53:04.05,00:53:06.92
+...of so-called "split personality,"[br]Mrs. MacNeil.
+
+00:53:08.63,00:53:12.29
+Now, I know the temptation is[br]to leap to psychiatry...
+
+00:53:13.33,00:53:17.86
+...but any reasonable psychiatrist would[br]exhaust the somatic possibilities first.
+
+00:53:20.87,00:53:21.96
+So, what's next?
+
+00:53:23.27,00:53:27.27
+A pneumoencephalogram,[br]I would think, to pin down that lesion.
+
+00:53:27.88,00:53:29.68
+It will involve another spinal.
+
+00:53:29.75,00:53:30.91
+Oh, Christ!
+
+00:53:31.18,00:53:34.55
+What we missed in the EEG[br]and the arteriograms...
+
+00:53:34.85,00:53:36.72
+...could conceivably turn up there.
+
+00:53:38.32,00:53:42.09
+At least it would eliminate[br]certain other possibilities.
+
+00:53:56.41,00:53:58.37
+Dr. Tanney says the X-rays are negative.
+
+00:53:59.58,00:54:01.10
+In other words: normal.
+
+00:54:09.05,00:54:10.68
+Do you keep any drugs in your house?
+
+00:54:10.75,00:54:13.72
+No, of course not. Nothing like that.
+
+00:54:14.46,00:54:15.62
+Are you sure?
+
+00:54:15.79,00:54:17.78
+Of course, I'm sure.
+
+00:54:18.10,00:54:19.12
+I'd tell you.
+
+00:54:19.70,00:54:21.46
+Christ, I don't even smoke grass.
+
+00:54:27.24,00:54:29.33
+Are you planning to be home soon?
+
+00:54:29.51,00:54:31.00
+I mean to L.A.
+
+00:54:34.71,00:54:35.84
+No, l...
+
+00:54:37.51,00:54:39.28
+...I'm building a new house.
+
+00:54:40.55,00:54:42.11
+My old one has been sold.
+
+00:54:52.23,00:54:56.36
+I was going to take Regan to Europe[br]for a while after she finished school.
+
+00:54:59.44,00:55:00.49
+Why do you ask?
+
+00:55:04.27,00:55:07.44
+I think it's time we started[br]looking for a psychiatrist.
+
+00:55:36.64,00:55:37.80
+Hello?
+
+00:56:57.49,00:57:00.42
+What the hell do you mean going off[br]and leaving Regan by herself?
+
+00:57:00.49,00:57:02.52
+Are you crazy? Her window's wide open!
+
+00:57:02.79,00:57:04.95
+-Didn't he tell you?[br]-Didn't who tell me?
+
+00:57:05.43,00:57:06.79
+What's Burke got to do with it?
+
+00:57:06.86,00:57:09.30
+There wasn't anybody here,[br]so when I went to get the Thorazine...
+
+00:57:09.37,00:57:10.99
+...I had him stay with her, and....
+
+00:57:11.94,00:57:13.10
+I should have known better.
+
+00:57:13.17,00:57:14.66
+I guess you should have!
+
+00:57:14.77,00:57:16.03
+How were the tests?
+
+00:57:16.31,00:57:18.33
+We have to start looking for a shrink.
+
+00:57:18.68,00:57:20.30
+Hi, Chuck. Come on in.
+
+00:57:21.78,00:57:23.14
+I suppose you heard.
+
+00:57:23.31,00:57:24.51
+Heard what?
+
+00:57:27.38,00:57:28.54
+You haven't heard.
+
+00:57:31.02,00:57:32.25
+Burke is dead.
+
+00:57:35.69,00:57:39.09
+He must have been drunk. He fell down[br]from the top of the steps right outside.
+
+00:57:39.20,00:57:41.79
+By the time he hit 'M' street,[br]he broke his neck.
+
+00:57:43.30,00:57:44.63
+Oh, God!
+
+00:57:54.41,00:57:56.90
+Yeah, I know.
+
+00:57:58.58,00:58:01.75
+When I touch your forehead,[br]open your eyes.
+
+00:58:08.99,00:58:10.55
+Are you comfortable, Regan?
+
+00:58:13.66,00:58:14.63
+Yes.
+
+00:58:16.47,00:58:17.59
+How old are you?
+
+00:58:18.17,00:58:19.29
+Twelve.
+
+00:58:21.04,00:58:22.67
+Is there someone inside you?
+
+00:58:24.11,00:58:25.47
+Sometimes.
+
+00:58:27.38,00:58:28.34
+Who is it?
+
+00:58:29.58,00:58:30.74
+I don't know.
+
+00:58:31.92,00:58:33.21
+Is it Captain Howdy?
+
+00:58:34.02,00:58:35.18
+I don't know.
+
+00:58:35.99,00:58:38.58
+If I ask him to tell me,[br]will you let him answer?
+
+00:58:40.72,00:58:41.69
+No.
+
+00:58:42.89,00:58:43.86
+Why not?
+
+00:58:44.56,00:58:45.96
+I'm afraid.
+
+00:58:46.83,00:58:49.09
+If he talks to me, I think he'll leave you.
+
+00:58:49.43,00:58:50.90
+Do you want him to leave you?
+
+00:58:52.04,00:58:53.02
+Yes.
+
+00:59:01.95,00:59:04.68
+I'm speaking to the person[br]inside of Regan now.
+
+00:59:05.48,00:59:08.14
+If you are there, you, too, are hypnotized...
+
+00:59:08.55,00:59:10.65
+...and must answer all my questions.
+
+00:59:12.42,00:59:13.65
+Come forward...
+
+00:59:15.99,00:59:17.29
+...and answer me now.
+
+00:59:27.74,00:59:29.80
+Are you the person inside of Regan?
+
+00:59:34.38,00:59:35.47
+Who are you?
+
+01:00:33.64,01:00:34.97
+Father Karras?
+
+01:00:38.71,01:00:39.80
+Have we met?
+
+01:00:41.41,01:00:44.07
+No, we haven't met,[br]but they said I could tell.
+
+01:00:45.38,01:00:47.08
+That you look like a boxer.
+
+01:00:48.62,01:00:50.61
+William F. Kinderman. Homicide.
+
+01:00:51.86,01:00:53.25
+What's this all about?
+
+01:00:53.66,01:00:55.89
+It's true. You do look like a boxer.
+
+01:00:57.03,01:01:00.19
+Like John Garfield in "Body And Soul."
+
+01:01:00.33,01:01:03.63
+Exactly. John Garfield.[br]Do people tell you that, Father?
+
+01:01:04.97,01:01:06.99
+Do people tell you[br]you look like Paul Newman?
+
+01:01:07.07,01:01:08.09
+Always.
+
+01:01:15.25,01:01:19.77
+You know this director who was[br]doing the film here, Burke Dennings?
+
+01:01:20.45,01:01:21.38
+I've seen him.
+
+01:01:22.15,01:01:23.18
+You've seen him.
+
+01:01:24.39,01:01:27.05
+You're also familiar how last week he died?
+
+01:01:28.16,01:01:29.52
+Only what I read in the papers.
+
+01:01:29.99,01:01:33.95
+Father, what do you know[br]on the subject of witchcraft?
+
+01:01:35.27,01:01:37.46
+From the witching end, not the hunting.
+
+01:01:38.40,01:01:39.80
+I once did a paper on it.
+
+01:01:40.34,01:01:41.57
+Really?
+
+01:01:41.81,01:01:43.17
+From the psychiatric end.
+
+01:01:44.67,01:01:45.87
+I know. I read it.
+
+01:01:48.04,01:01:51.01
+All of this desecration in the church...
+
+01:01:51.08,01:01:53.38
+...does this have anything to do[br]with witchcraft?
+
+01:01:55.09,01:01:57.58
+Maybe. Some rituals used[br]in the Black Mass.
+
+01:01:58.26,01:02:02.02
+And now, Dennings.[br]You read how he died?
+
+01:02:02.89,01:02:03.92
+In a fall.
+
+01:02:07.50,01:02:11.02
+Let me tell you how. Please, Father...
+
+01:02:12.67,01:02:13.73
+...confidential.
+
+01:02:15.97,01:02:18.87
+Burke Dennings, good Father, was found...
+
+01:02:18.94,01:02:21.17
+...at the bottom of those steps[br]leading to 'M' street...
+
+01:02:21.28,01:02:23.84
+...with his head turned completely around...
+
+01:02:24.41,01:02:25.71
+...facing backwards.
+
+01:02:31.99,01:02:33.46
+That didn't happen in the fall?
+
+01:02:33.82,01:02:34.98
+It's possible.
+
+01:02:37.26,01:02:39.46
+-Possible. However--[br]-Unlikely.
+
+01:02:40.40,01:02:41.52
+Exactly.
+
+01:02:43.27,01:02:47.53
+So, on the one hand,[br]we've got a witchcraft kind of murder...
+
+01:02:47.60,01:02:52.51
+...and on the other hand, a Black Mass-type[br]desecration in the church.
+
+01:02:53.14,01:02:55.74
+You think the killer[br]and the desecrator are the same?
+
+01:02:57.91,01:03:01.08
+Maybe somebody crazy, somebody with...
+
+01:03:01.15,01:03:02.74
+...a spite against the church.
+
+01:03:02.82,01:03:05.19
+Some unconscious rebellion.
+
+01:03:05.69,01:03:06.99
+A sick priest, is that it?
+
+01:03:07.06,01:03:10.93
+Look, Father, this is hard for you.[br]Please, I understand...
+
+01:03:12.13,01:03:15.56
+...but for priests on the campus here,[br]you're the psychiatrist.
+
+01:03:15.63,01:03:18.12
+You'd know who was sick at the time,[br]who wasn't.
+
+01:03:18.20,01:03:20.60
+I mean, this kind of sickness,[br]you'd know that.
+
+01:03:21.17,01:03:23.30
+I don't know anyone[br]who fits that description.
+
+01:03:28.75,01:03:31.41
+Doctor's ethics. If you knew,[br]you wouldn't tell, huh?
+
+01:03:31.51,01:03:32.88
+No, I probably wouldn't.
+
+01:03:33.32,01:03:35.98
+Not to bother you with trivia,[br]but a psychiatrist...
+
+01:03:36.32,01:03:38.69
+...in sunny California, no less...
+
+01:03:39.42,01:03:43.12
+...was put in jail for not telling the police[br]what he knew about a patient.
+
+01:03:44.56,01:03:45.53
+Is that a threat?
+
+01:03:45.60,01:03:47.59
+No, I mention it only in passing.
+
+01:03:50.50,01:03:52.33
+Incidentally, I mention it only in passing...
+
+01:03:52.40,01:03:55.46
+...I could always tell the judge[br]it was a matter of confession.
+
+01:04:00.54,01:04:02.01
+Father, wait a minute!
+
+01:04:02.08,01:04:04.14
+-Do you like movies?[br]-Very much.
+
+01:04:04.25,01:04:06.94
+Well, I get passes[br]to the best shows in town.
+
+01:04:07.42,01:04:10.58
+Mrs. "K," you know,[br]she gets tired, never likes to go.
+
+01:04:11.32,01:04:12.41
+That's too bad.
+
+01:04:12.49,01:04:13.65
+I hate to go alone.
+
+01:04:13.76,01:04:16.25
+I love to talk film...
+
+01:04:16.83,01:04:19.09
+...discuss, to critique.
+
+01:04:20.06,01:04:24.16
+You want to see a film with me?[br]I've got passes to the Crest. It's "Othello."
+
+01:04:25.34,01:04:27.06
+Who's in it?
+
+01:04:27.37,01:04:31.07
+Debbie Reynolds, Desdemona and Othello:[br]Groucho Marx. Are you happy?
+
+01:04:31.51,01:04:32.48
+I've seen it.
+
+01:04:33.84,01:04:37.57
+One last time. Can you think[br]of some priest who fits the bill?
+
+01:04:37.65,01:04:38.38
+Come on!
+
+01:04:38.45,01:04:41.21
+No, answer the question, Father Paranoia.
+
+01:04:46.82,01:04:48.35
+You know who I think really did it?
+
+01:04:48.49,01:04:49.36
+Who?
+
+01:04:49.49,01:04:51.26
+The Dominicans. Go pick on them.
+
+01:04:52.06,01:04:53.93
+I could have you deported, you know that?
+
+01:04:56.67,01:04:57.72
+I lied.
+
+01:04:59.30,01:05:00.93
+You look like Sal Mineo.
+
+01:05:05.44,01:05:08.81
+It looks like a type of disorder[br]that's rarely ever seen anymore...
+
+01:05:08.88,01:05:11.11
+...except in primitive cultures.
+
+01:05:11.58,01:05:15.07
+We call it "somnambuliform possession."
+
+01:05:16.12,01:05:19.82
+Quite frankly, we really don't know[br]much about it at all, except that it...
+
+01:05:20.42,01:05:23.69
+...it starts with a conflict or a guilt...
+
+01:05:23.76,01:05:26.16
+...and it leads to the patient's delusions[br]that his body...
+
+01:05:26.23,01:05:30.39
+...has been invaded[br]by some alien intelligence:
+
+01:05:31.70,01:05:32.76
+A spirit, if you will.
+
+01:05:32.84,01:05:35.93
+Look, I'm telling you again,[br]and you'd better believe me...
+
+01:05:36.61,01:05:39.60
+...I am not going to lock her up[br]in some goddamn asylum!
+
+01:05:40.78,01:05:43.87
+And I don't care what you call it.[br]I'm not putting her away!
+
+01:05:44.98,01:05:46.01
+I'm sorry.
+
+01:05:46.08,01:05:48.92
+You're sorry? Jesus Christ, 88 doctors...
+
+01:05:48.99,01:05:51.45
+...and all you can tell me,[br]with all your bullshit is....
+
+01:06:09.51,01:06:13.20
+Of course, there is one[br]outside chance for a cure.
+
+01:06:17.41,01:06:20.18
+I think of it as a shock treatment.
+
+01:06:22.02,01:06:23.99
+As I said, it's a very outside chance.
+
+01:06:24.05,01:06:26.58
+Would you just name it,[br]for God's sake? What is it?
+
+01:06:26.82,01:06:28.55
+Do you have any religious beliefs?
+
+01:06:28.89,01:06:29.82
+No.
+
+01:06:29.89,01:06:31.38
+What about your daughter?
+
+01:06:32.23,01:06:33.02
+No.
+
+01:06:33.10,01:06:34.09
+Why?
+
+01:06:34.33,01:06:36.06
+Have you ever heard of exorcism?
+
+01:06:38.33,01:06:41.93
+Well, it's a stylized ritual in which the...
+
+01:06:43.31,01:06:47.07
+...Rabbi or the Priest try to drive out[br]the so-called invading spirit.
+
+01:06:47.98,01:06:50.78
+It's been pretty much discarded[br]these days except by...
+
+01:06:50.95,01:06:54.91
+...the Catholics, who keep it in the closet[br]as a sort of embarrassment. But...
+
+01:06:55.52,01:06:57.42
+...it has worked...
+
+01:06:58.15,01:07:01.06
+...in fact, although,[br]not for the reasons they think.
+
+01:07:01.86,01:07:04.92
+It's purely force of suggestion.
+
+01:07:05.46,01:07:08.52
+The victim's belief in possession...
+
+01:07:09.37,01:07:11.89
+...is what helped cause it,[br]so in that same way...
+
+01:07:12.10,01:07:15.13
+...the belief in the power of exorcism[br]can make it disappear.
+
+01:07:17.94,01:07:21.27
+You're telling me I should take[br]my daughter to a witch doctor.
+
+01:07:22.81,01:07:23.84
+Is that it?
+
+01:09:05.95,01:09:07.81
+Did you put this in Regan's bedroom?
+
+01:09:11.15,01:09:12.52
+She's going to be well?
+
+01:09:14.12,01:09:18.29
+Karl, if you put this in Regan's bedroom,[br]I want you to tell me. Now, did you?
+
+01:09:18.86,01:09:20.76
+No, not me.
+
+01:09:21.73,01:09:22.79
+I didn't.
+
+01:09:41.02,01:09:44.01
+This was under Regan's pillow.[br]Did you put it there?
+
+01:09:44.62,01:09:45.92
+Of course, I didn't.
+
+01:09:47.59,01:09:48.68
+I didn't put it.
+
+01:09:50.69,01:09:51.68
+Excuse me, Madam.
+
+01:09:51.76,01:09:52.75
+What?
+
+01:09:54.10,01:09:55.22
+A man to see you.
+
+01:09:55.53,01:09:56.62
+What man?
+
+01:10:02.94,01:10:05.10
+Might your daughter remember, perhaps...
+
+01:10:05.17,01:10:08.11
+...if Mr. Dennings was in her room[br]that night?
+
+01:10:09.91,01:10:11.21
+Why do you ask?
+
+01:10:12.22,01:10:13.71
+Might she remember?
+
+01:10:17.19,01:10:18.98
+No, she was heavily sedated.
+
+01:10:20.02,01:10:21.22
+It's serious?
+
+01:10:22.29,01:10:23.69
+Yes, I'm afraid it is.
+
+01:10:25.43,01:10:26.42
+May I ask...?
+
+01:10:26.53,01:10:27.76
+We still don't know.
+
+01:10:28.93,01:10:30.49
+Watch out for drafts.
+
+01:10:30.67,01:10:33.13
+A draft in the fall,[br]when the house is hot, is...
+
+01:10:33.77,01:10:35.76
+...a magic carpet for bacteria.
+
+01:10:36.04,01:10:38.10
+Excuse me, Madam. Anything else?
+
+01:10:38.21,01:10:40.20
+No, Karl, we're fine. Thank you.
+
+01:10:40.84,01:10:41.90
+It's all right.
+
+01:10:46.82,01:10:48.31
+Why are you asking all this?
+
+01:10:48.72,01:10:49.84
+It's strange.
+
+01:10:51.29,01:10:54.85
+The deceased comes to visit,[br]stays only 20 minutes...
+
+01:10:55.89,01:10:59.35
+...and leaves all alone a very sick girl.
+
+01:11:01.46,01:11:03.26
+And speaking plainly, Mrs. MacNeil...
+
+01:11:03.33,01:11:07.77
+...it isn't likely he would[br]fall from a window.
+
+01:11:09.21,01:11:12.20
+Besides, a fall wouldn't do to his neck[br]what we found.
+
+01:11:12.28,01:11:14.68
+Except maybe one chance in a thousand.
+
+01:11:15.71,01:11:17.04
+No. My hunch....
+
+01:11:18.21,01:11:20.55
+My opinion...
+
+01:11:21.65,01:11:25.55
+...he was killed by a very powerful man:[br]point one.
+
+01:11:27.06,01:11:29.55
+And the fracturing of his skull: point two.
+
+01:11:29.63,01:11:32.19
+Plus the various other things[br]we mentioned...
+
+01:11:33.63,01:11:35.56
+...would make it very probable...
+
+01:11:36.67,01:11:38.60
+...probable, not certain...
+
+01:11:40.17,01:11:44.77
+...that the deceased was killed and then[br]pushed from your daughter's window.
+
+01:11:46.01,01:11:50.38
+But nobody was in the room[br]except your daughter, so how can this be?
+
+01:11:54.52,01:11:56.04
+It could be one way.
+
+01:11:57.25,01:12:00.38
+If someone came calling[br]between the time Miss Spencer left...
+
+01:12:00.46,01:12:02.15
+...and the time you returned.
+
+01:12:02.53,01:12:04.49
+Judas Priest, just a second.
+
+01:12:06.10,01:12:07.93
+The servants? They have visitors?
+
+01:12:08.23,01:12:09.22
+Not at all.
+
+01:12:09.33,01:12:11.96
+You were expecting a package that day,[br]some delivery?
+
+01:12:12.03,01:12:13.37
+Not that I know of.
+
+01:12:13.47,01:12:16.23
+Groceries, cleaning...a package?
+
+01:12:16.31,01:12:18.87
+I really wouldn't know.[br]Karl takes care of all that.
+
+01:12:21.11,01:12:22.27
+I see.
+
+01:12:22.58,01:12:24.05
+Would you like to ask him?
+
+01:12:25.62,01:12:27.01
+No, never mind, it's...
+
+01:12:29.22,01:12:30.85
+...it's very remote.
+
+01:12:32.36,01:12:34.26
+No, never mind.
+
+01:12:45.33,01:12:46.67
+Would you like some more coffee?
+
+01:12:48.00,01:12:49.03
+Please.
+
+01:13:24.51,01:13:25.50
+That's cute.
+
+01:13:27.28,01:13:29.11
+Your daughter, she's the artist?
+
+01:13:31.85,01:13:33.25
+Thank you.
+
+01:13:34.48,01:13:35.81
+Incidentally...
+
+01:13:37.39,01:13:39.15
+...you might ask your daughter if she...
+
+01:13:39.22,01:13:42.05
+...remembers seeing Mr. Dennings[br]in her room that night.
+
+01:13:42.89,01:13:46.12
+Look, he wouldn't have any reason[br]in the world to go up to her room.
+
+01:13:46.20,01:13:48.39
+Oh, I know, I realize, but...
+
+01:13:49.83,01:13:52.93
+...if certain British doctors had[br]never asked, "What is this fungus?"...
+
+01:13:53.00,01:13:55.30
+...we wouldn't today have penicillin.[br]Correct?
+
+01:13:59.11,01:14:00.67
+When she's better, I'll ask her.
+
+01:14:01.14,01:14:02.37
+It couldn't hurt.
+
+01:14:03.28,01:14:04.80
+In the meantime....
+
+01:14:07.05,01:14:08.18
+That's okay.
+
+01:14:08.68,01:14:10.78
+I really hate to ask you this, but...
+
+01:14:13.26,01:14:16.28
+...for my daughter,[br]could you please give an autograph?
+
+01:14:17.39,01:14:19.55
+Of course. Where's a pencil?
+
+01:14:19.96,01:14:21.12
+Right here.
+
+01:14:24.00,01:14:25.13
+She'd love it!
+
+01:14:26.77,01:14:27.86
+What's her name?
+
+01:14:30.97,01:14:32.77
+I lied. It's for me.
+
+01:14:34.91,01:14:37.07
+The spelling is on the back: Kinderman.
+
+01:14:39.45,01:14:42.25
+You know that film you made, "Angel"?
+
+01:14:43.55,01:14:45.28
+I saw that six times!
+
+01:14:45.35,01:14:46.32
+Really?
+
+01:14:46.52,01:14:47.78
+It was beautiful.
+
+01:14:49.09,01:14:50.15
+Thank you.
+
+01:14:53.26,01:14:55.39
+You're a very nice lady.
+
+01:14:58.67,01:15:00.83
+-Thank you.[br]-You're a nice man.
+
+01:15:02.61,01:15:04.84
+I'll come back when she's feeling better.
+
+01:15:08.88,01:15:10.68
+-'Bye.[br]-'Bye.
+
+01:15:31.83,01:15:33.36
+Please, no!
+
+01:15:33.77,01:15:35.57
+-Do it![br]-Please, don't!
+
+01:15:35.97,01:15:39.41
+You bitch! Do it! Do it!
+
+01:15:39.48,01:15:40.91
+Please, no!
+
+01:15:44.58,01:15:46.31
+Let Jesus fuck you!
+
+01:15:46.65,01:15:48.34
+Let Jesus fuck you!
+
+01:15:55.19,01:15:56.66
+Give it! Give it to me!
+
+01:15:59.76,01:16:01.92
+Lick me! Lick me!
+
+01:16:10.67,01:16:12.97
+Mrs. MacNeil, open the door!
+
+01:16:22.38,01:16:27.15
+Do you know what she did,[br]your cunting daughter?
+
+01:16:47.18,01:16:48.37
+Chris MacNeil?
+
+01:16:49.11,01:16:50.14
+Please go away.
+
+01:16:50.21,01:16:51.44
+I'm Father Karras.
+
+01:16:54.25,01:16:55.65
+I'm very sorry. Hello.
+
+01:16:56.35,01:16:58.72
+It's all right. I should have told you[br]I wouldn't be in uniform.
+
+01:16:58.79,01:17:00.52
+Yeah, that would have helped.
+
+01:17:00.59,01:17:02.39
+Have you got a cigarette, Father?
+
+01:17:06.96,01:17:08.36
+Thanks.
+
+01:17:20.31,01:17:21.67
+Cold.
+
+01:17:27.48,01:17:29.75
+How did a shrink ever get to be a priest?
+
+01:17:30.05,01:17:33.22
+It's the other way around. The Society[br]sent me through medical school.
+
+01:17:34.46,01:17:35.62
+Where?
+
+01:17:36.79,01:17:38.26
+Harvard, Bellevue...
+
+01:17:39.16,01:17:41.15
+...Johns Hopkins. Places like that.
+
+01:17:44.70,01:17:47.23
+-You're a friend of Father Dyer's, right?[br]-Yes, I am.
+
+01:17:47.84,01:17:49.70
+-Pretty close?[br]-Pretty close.
+
+01:17:50.31,01:17:51.86
+Did he talk to you about my party?
+
+01:17:52.37,01:17:53.43
+He sure did.
+
+01:17:54.58,01:17:55.67
+About my daughter?
+
+01:17:56.25,01:17:57.87
+No, I didn't know you had one.
+
+01:18:00.35,01:18:01.94
+-He didn't mention her?[br]-No.
+
+01:18:05.12,01:18:06.55
+He didn't tell you what she did?
+
+01:18:07.49,01:18:08.65
+He didn't mention her.
+
+01:18:10.96,01:18:12.95
+Priests are pretty tight-mouthed,[br]then, huh?
+
+01:18:13.50,01:18:14.62
+That depends.
+
+01:18:15.93,01:18:17.76
+-On what?[br]-The priest.
+
+01:18:21.64,01:18:23.37
+I mean, what if a person...
+
+01:18:24.84,01:18:28.47
+...came to you, you know, that was[br]a murderer or a criminal of some kind...
+
+01:18:28.81,01:18:32.21
+...and they wanted some kind of help?
+
+01:18:32.28,01:18:34.22
+Would you have to turn them in?
+
+01:18:34.45,01:18:37.25
+Well, if he came to me for spiritual advice,[br]I'd say no.
+
+01:18:37.59,01:18:39.21
+-You wouldn't?[br]-No, I wouldn't.
+
+01:18:40.19,01:18:42.62
+But I would try to convince him[br]to turn himself in.
+
+01:18:44.29,01:18:47.49
+And, how do you go about[br]getting an exorcism?
+
+01:18:52.67,01:18:53.83
+I beg your pardon?
+
+01:18:58.77,01:19:02.80
+If a person's, you know,[br]possessed by a demon, or something...
+
+01:19:03.31,01:19:05.11
+...how do they get an exorcism?
+
+01:19:06.45,01:19:08.42
+First thing, I'd have to get them[br]into a time machine...
+
+01:19:08.48,01:19:10.35
+...and get them back to the 16th century.
+
+01:19:10.45,01:19:11.65
+I didn't get you.
+
+01:19:12.35,01:19:14.22
+It just doesn't happen any more,[br]Mrs. MacNeil.
+
+01:19:14.66,01:19:16.09
+Oh, yeah? Since when?
+
+01:19:17.76,01:19:21.06
+Since we learned about mental illness,[br]paranoia, schizophrenia...
+
+01:19:21.93,01:19:23.86
+...all those things they taught me[br]at Harvard.
+
+01:19:23.93,01:19:26.37
+Mrs. MacNeil,[br]since the day I joined the Jesuits...
+
+01:19:26.80,01:19:30.57
+...I've never met one priest[br]who has performed an exorcism. Not one.
+
+01:19:32.07,01:19:33.10
+Yeah, well...
+
+01:19:36.38,01:19:39.61
+...it just so happens[br]that somebody very close to me...
+
+01:19:40.58,01:19:42.45
+...is probably possessed.
+
+01:19:43.22,01:19:44.69
+And needs an exorcism.
+
+01:19:45.39,01:19:47.48
+Father Karras, it's my little girl.
+
+01:19:49.63,01:19:51.62
+Then that's all the more reason[br]to forget about exorcism.
+
+01:19:52.19,01:19:53.59
+Why? I don't understand.
+
+01:19:53.70,01:19:55.53
+To begin with, it could make things worse.
+
+01:19:55.80,01:19:56.70
+How?
+
+01:19:56.80,01:19:59.10
+Secondly, the Church,[br]before it approves an exorcism...
+
+01:19:59.17,01:20:01.36
+...conducts an investigation[br]to see if it's warranted.
+
+01:20:01.44,01:20:03.20
+That takes time.
+
+01:20:03.61,01:20:04.83
+You could do it yourself.
+
+01:20:04.94,01:20:07.74
+No, I couldn't. I'd need Church approval,[br]and that's rarely given.
+
+01:20:11.81,01:20:12.87
+Could you see her?
+
+01:20:12.95,01:20:15.28
+Yes, I could.[br]I could see her as a psychiatrist, but--
+
+01:20:15.35,01:20:17.68
+Not a psychiatrist! She needs a priest!
+
+01:20:17.82,01:20:20.72
+She's already seen[br]every fucking psychiatrist in the world...
+
+01:20:20.79,01:20:23.52
+...and they sent me to you![br]Are you gonna send me back to them?
+
+01:20:23.63,01:20:26.22
+Jesus Christ, won't somebody help me?
+
+01:20:26.83,01:20:29.76
+Oh, God, can't you help her? Just help her!
+
+01:21:00.83,01:21:02.30
+It wants no straps.
+
+01:21:18.15,01:21:19.84
+Hello, Regan.
+
+01:21:23.15,01:21:25.85
+I'm a friend of your mother's.[br]I'd like to help you.
+
+01:21:26.66,01:21:28.89
+You might loosen these straps then.
+
+01:21:29.99,01:21:31.96
+I'm afraid you might hurt yourself, Regan.
+
+01:21:33.03,01:21:34.50
+I'm not Regan.
+
+01:21:36.10,01:21:37.12
+I see.
+
+01:21:42.27,01:21:45.14
+Well, then, let's introduce ourselves.[br]I'm Damien Karras.
+
+01:21:45.47,01:21:46.84
+And I am the devil.
+
+01:21:47.11,01:21:48.94
+Now kindly undo these straps.
+
+01:21:49.75,01:21:52.34
+If you're the devil,[br]why not make the straps disappear?
+
+01:21:52.61,01:21:55.48
+That's much too vulgar[br]a display of power, Karras.
+
+01:21:57.15,01:21:58.31
+Where's Regan?
+
+01:21:58.69,01:22:00.52
+In here, with us.
+
+01:22:02.76,01:22:05.16
+Show me Regan[br]and I'll loosen one of the straps.
+
+01:22:05.33,01:22:07.42
+Could you help an old altar boy, Father?
+
+01:22:09.87,01:22:12.16
+Your mother is in here with us, Karras.
+
+01:22:12.40,01:22:14.34
+Would you like to leave a message?
+
+01:22:14.57,01:22:16.16
+I'll see that she gets it.
+
+01:22:22.21,01:22:23.44
+If that's true...
+
+01:22:26.35,01:22:28.65
+...then you must know[br]my mother's maiden name.
+
+01:22:30.85,01:22:31.95
+What is it?
+
+01:22:40.16,01:22:41.25
+What is it?
+
+01:23:35.65,01:23:37.28
+Thank you.
+
+01:23:39.66,01:23:43.59
+Look, I'm only against the possibility[br]of doing her more harm than good.
+
+01:23:45.06,01:23:47.39
+Nothing you could do[br]could make it any worse.
+
+01:23:48.63,01:23:49.72
+I can't do it.
+
+01:23:50.87,01:23:54.06
+I need evidence that the Church[br]would accept as signs of possession.
+
+01:23:54.40,01:23:55.30
+Like what?
+
+01:23:55.37,01:23:57.74
+Like her speaking in a language[br]she's never known or studied.
+
+01:23:57.81,01:23:58.93
+What else?
+
+01:24:00.41,01:24:03.04
+I don't know. I'd have to look it up.
+
+01:24:03.91,01:24:05.97
+I thought you were supposed[br]to be an expert.
+
+01:24:07.15,01:24:08.88
+There are no experts.
+
+01:24:09.89,01:24:12.82
+You probably know as much[br]about possession as most priests.
+
+01:24:14.02,01:24:16.29
+Look, your daughter doesn't say[br]she's a demon.
+
+01:24:16.36,01:24:18.16
+She says she's the devil himself.
+
+01:24:18.83,01:24:20.82
+If you've seen as many psychotics[br]as I have...
+
+01:24:20.90,01:24:24.13
+...you'd realize that's the same as saying[br]you're Napoleon Bonaparte.
+
+01:24:26.20,01:24:29.86
+You asked me what I think[br]is best for your daughter.
+
+01:24:31.61,01:24:34.44
+Six months under observation...
+
+01:24:35.04,01:24:37.07
+...in the best hospital you can find.
+
+01:24:40.02,01:24:41.57
+You show me Regan's double...
+
+01:24:42.32,01:24:45.55
+...same face, same voice, everything...
+
+01:24:46.52,01:24:48.35
+...and I'd know it wasn't Regan.
+
+01:24:49.46,01:24:50.76
+I'd know in my gut.
+
+01:24:52.53,01:24:55.50
+I'm telling you that that thing upstairs[br]isn't my daughter.
+
+01:24:56.80,01:24:59.36
+Now, I want you to tell me[br]that you know for a fact...
+
+01:24:59.43,01:25:02.60
+...that there's nothing wrong[br]with my daughter except in her mind!
+
+01:25:02.67,01:25:05.87
+You tell me that you know for a fact[br]that an exorcism wouldn't do any good!
+
+01:25:05.94,01:25:07.34
+You tell me that!
+
+01:25:19.32,01:25:21.41
+Did Regan know a priest was coming over?
+
+01:25:23.73,01:25:24.49
+No.
+
+01:25:24.56,01:25:26.53
+Did you know my mother died recently?
+
+01:25:27.50,01:25:28.99
+Yes, I did. I'm very sorry.
+
+01:25:30.77,01:25:32.20
+Is Regan aware of it?
+
+01:25:33.70,01:25:34.90
+Not at all.
+
+01:25:36.44,01:25:37.53
+Why do you ask?
+
+01:25:39.61,01:25:41.54
+It's not important. Good night.
+
+01:26:10.51,01:26:13.34
+"He broke the bread,[br]and gave it to his disciples and said:
+
+01:26:16.91,01:26:18.97
+"Take this, all of you, and eat it.
+
+01:26:23.19,01:26:24.71
+"For this is my body.'
+
+01:26:31.33,01:26:33.79
+"When the supper was ended,[br]he took the cup.
+
+01:26:34.63,01:26:36.79
+"Again he gave you thanks and praise.
+
+01:26:38.13,01:26:40.86
+"He gave the cup to his disciples and said:[br]'Take this...
+
+01:26:41.87,01:26:43.84
+"...all of you, and drink from it.
+
+01:26:47.68,01:26:49.44
+"This is the cup of my blood.
+
+01:26:51.88,01:26:55.44
+"The blood of the new and everlasting[br]covenant, the mystery of faith."
+
+01:26:57.12,01:26:59.38
+What an excellent day for an exorcism.
+
+01:27:01.66,01:27:02.95
+You'd like that?
+
+01:27:03.06,01:27:04.46
+Intensely.
+
+01:27:05.79,01:27:07.99
+But wouldn't that drive you out of Regan?
+
+01:27:08.33,01:27:10.09
+It would bring us together.
+
+01:27:11.97,01:27:13.13
+You and Regan?
+
+01:27:13.40,01:27:14.70
+You and us.
+
+01:27:26.31,01:27:27.47
+Did you do that?
+
+01:27:35.22,01:27:36.25
+Do it again.
+
+01:27:36.32,01:27:37.31
+In time.
+
+01:27:37.39,01:27:38.42
+No, now.
+
+01:27:39.06,01:27:40.22
+In time.
+
+01:27:41.86,01:27:44.53
+Mirabile dictu, don't you agree?
+
+01:27:46.70,01:27:47.83
+You speak Latin?
+
+01:27:48.37,01:27:50.67
+Ego te absolvo.
+
+01:27:51.81,01:27:53.17
+Quod nomen mihi est?
+
+01:27:54.11,01:27:55.10
+Bonjour!
+
+01:27:55.18,01:27:56.61
+Quod nomen mihi est?
+
+01:27:56.98,01:27:58.38
+La plume de ma tante.
+
+01:27:59.31,01:28:01.54
+How long are you planning[br]to stay in Regan?
+
+01:28:01.82,01:28:04.68
+Until she rots and lies stinking in the earth.
+
+01:28:07.49,01:28:08.65
+What's that?
+
+01:28:09.16,01:28:10.22
+Holy water.
+
+01:28:12.13,01:28:13.56
+You keep it away!
+
+01:28:16.93,01:28:18.37
+It burns!
+
+01:28:19.03,01:28:21.26
+Oh, it burns!
+
+01:28:44.59,01:28:46.62
+Who are you?
+
+01:28:58.27,01:29:00.61
+You know, I'm like in seclusion.
+
+01:29:05.01,01:29:06.98
+No, I'm just exhausted from work.
+
+01:29:11.65,01:29:14.75
+She's, she's all right. She's just....
+
+01:29:18.93,01:29:20.79
+I don't want to talk about it, okay?
+
+01:29:25.73,01:29:29.47
+Okay, I'll talk to you, huh?[br]I'll call as soon as it's over, all right?
+
+01:29:31.31,01:29:34.94
+No, I just, I'm going through something[br]and I just have to....
+
+01:29:36.81,01:29:37.94
+No, no....
+
+01:29:38.65,01:29:39.88
+There's nothing.
+
+01:29:41.38,01:29:43.32
+Hey, thanks a lot.
+
+01:29:59.37,01:30:01.06
+-Want a drink?[br]-Please.
+
+01:30:02.34,01:30:03.60
+What do you drink?
+
+01:30:04.14,01:30:05.13
+Scotch.
+
+01:30:06.78,01:30:08.11
+Ice and water.
+
+01:30:15.72,01:30:17.91
+No ice. I'll get some from the kitchen.
+
+01:30:18.02,01:30:19.49
+That's all right. I'll take it straight.
+
+01:30:19.55,01:30:21.11
+No, that's fine. Please sit.
+
+01:30:34.60,01:30:35.76
+Where's her father?
+
+01:30:36.27,01:30:37.36
+In Europe.
+
+01:30:37.77,01:30:39.76
+-Have you told him what's happening?[br]-No.
+
+01:30:39.84,01:30:41.40
+Well, I think you should.
+
+01:30:49.58,01:30:51.05
+I told Regan that was holy water.
+
+01:30:51.12,01:30:53.82
+I sprinkled it on her[br]and she reacted very violently.
+
+01:30:56.83,01:30:58.02
+It's tap water.
+
+01:30:58.23,01:30:59.56
+What's the difference?
+
+01:30:59.63,01:31:03.32
+Holy water is blessed. And that doesn't[br]help support a case for possession.
+
+01:31:14.71,01:31:17.68
+She killed Burke Dennings.
+
+01:31:18.55,01:31:19.57
+What?
+
+01:31:23.25,01:31:24.91
+She killed Burke Dennings.
+
+01:31:26.99,01:31:28.72
+She pushed him out her window.
+
+01:31:47.48,01:31:50.27
+It's a language, all right. It's English.
+
+01:31:51.65,01:31:52.77
+What do you mean, English?
+
+01:31:52.85,01:31:54.82
+It's English in reverse. Listen.
+
+01:31:55.78,01:31:57.27
+Give us time.
+
+01:31:57.69,01:31:59.38
+Let her die.
+
+01:32:02.62,01:32:05.09
+I am no one. I am no one.
+
+01:32:05.36,01:32:06.59
+Fear the priest.
+
+01:32:08.63,01:32:09.96
+Fear the priest.
+
+01:32:13.07,01:32:14.13
+Merrin!
+
+01:32:22.18,01:32:23.58
+I am no one.
+
+01:32:26.68,01:32:27.81
+Merrin!
+
+01:32:30.09,01:32:31.28
+Merrin!
+
+01:32:38.89,01:32:39.99
+Yeah?
+
+01:32:41.60,01:32:42.59
+I'll be right there.
+
+01:33:01.02,01:33:02.74
+I don't want Chris to see this.
+
+01:33:02.82,01:33:04.41
+What's wrong? What is it?
+
+01:34:14.32,01:34:15.98
+You're convinced that it's genuine?
+
+01:34:17.26,01:34:18.49
+I don't know.
+
+01:34:19.76,01:34:21.25
+No, not really, I suppose.
+
+01:34:22.50,01:34:23.73
+But I have made...
+
+01:34:24.77,01:34:28.33
+...a prudent judgement that it meets[br]the conditions set down in the Ritual.
+
+01:34:29.04,01:34:31.20
+You would want to do[br]the exorcism yourself?
+
+01:34:33.11,01:34:34.13
+Yes.
+
+01:34:38.21,01:34:40.01
+It might be best to have a man[br]with experience.
+
+01:34:40.08,01:34:43.02
+Maybe someone who's spent time[br]in the foreign missions.
+
+01:34:44.25,01:34:45.84
+I understand, Your Excellency.
+
+01:34:46.69,01:34:48.21
+Let's see who's around.
+
+01:34:48.32,01:34:50.81
+In the meantime,[br]I'll call you as soon as I know.
+
+01:34:52.19,01:34:53.68
+Thank you, Your Excellency.
+
+01:34:54.86,01:34:56.80
+Well, he does know the background.
+
+01:34:57.13,01:35:00.03
+I doubt there's any danger[br]in just having him assist.
+
+01:35:00.64,01:35:03.00
+There should be[br]a psychiatrist present, anyway.
+
+01:35:03.64,01:35:05.27
+What about the exorcist?
+
+01:35:05.61,01:35:06.84
+Have you any ideas?
+
+01:35:08.11,01:35:09.70
+How about Lankester Merrin?
+
+01:35:12.41,01:35:14.18
+I had a notion he was over in Iraq.
+
+01:35:14.25,01:35:16.41
+I think I read he was working[br]on a dig near Nineveh.
+
+01:35:16.48,01:35:18.01
+You're right, but he's finished.
+
+01:35:18.09,01:35:21.21
+He came back three or four months ago.[br]He's at Woodstock now.
+
+01:35:21.82,01:35:23.72
+What's he doing there, teaching?
+
+01:35:23.93,01:35:25.48
+He's working on another book.
+
+01:35:26.46,01:35:29.49
+Don't you think he's too old, Tom?[br]How's his health?
+
+01:35:30.57,01:35:33.80
+He must be all right.[br]He's still running around digging up tombs.
+
+01:35:36.10,01:35:38.37
+Besides, he's had experience.
+
+01:35:38.44,01:35:39.41
+I didn't know that.
+
+01:35:39.47,01:35:41.67
+Ten, 12 years ago, I think, in Africa.
+
+01:35:42.28,01:35:46.21
+The exorcism supposedly lasted months.[br]I heard it damn near killed him.
+
+01:35:50.52,01:35:51.85
+Father?
+
+01:36:58.69,01:37:00.71
+-You're Mrs. MacNeil?[br]-Yes.
+
+01:37:00.92,01:37:02.15
+I'm Father Merrin.
+
+01:37:02.46,01:37:03.45
+Come in.
+
+01:37:03.89,01:37:04.88
+Thank you.
+
+01:37:05.43,01:37:08.59
+-Is Father Karras here?[br]-Yes. He's here already.
+
+01:37:11.40,01:37:13.30
+It's an honor to meet you, Father.
+
+01:37:19.31,01:37:20.93
+-Are you very tired?[br]-No.
+
+01:37:22.61,01:37:25.37
+I'd like you to go quickly[br]across to the Residence...
+
+01:37:25.71,01:37:27.61
+...and gather up a cassock for myself...
+
+01:37:27.68,01:37:31.38
+...two surplices, a purple stole,[br]and some holy water...
+
+01:37:31.89,01:37:32.85
+...and...
+
+01:37:33.72,01:37:36.25
+...your copy of "The Roman Ritual."[br]The large one.
+
+01:37:36.89,01:37:38.36
+I believe we should begin.
+
+01:37:39.16,01:37:41.69
+Do you want to hear the background[br]of the case first, Father?
+
+01:37:41.76,01:37:42.75
+Why?
+
+01:37:44.80,01:37:48.36
+Especially important is the warning[br]to avoid conversations with the demon.
+
+01:37:50.17,01:37:54.23
+We may ask what is relevant,[br]but anything beyond that is dangerous.
+
+01:37:54.61,01:37:56.91
+He's a liar. The demon is a liar.
+
+01:37:57.01,01:37:58.64
+He will lie to confuse us.
+
+01:38:00.31,01:38:03.84
+But he will also mix lies with the truth...
+
+01:38:05.09,01:38:06.42
+...to attack us.
+
+01:38:07.52,01:38:09.68
+The attack is psychological, Damien.
+
+01:38:11.06,01:38:12.22
+And powerful.
+
+01:38:13.36,01:38:17.32
+So don't listen. Remember that.[br]Do not listen!
+
+01:38:19.70,01:38:21.69
+It might be helpful[br]if I gave you some background...
+
+01:38:21.77,01:38:24.50
+...on the different personalities[br]Regan has manifested.
+
+01:38:25.04,01:38:27.44
+So far, I'd say there seem to be three.
+
+01:38:27.58,01:38:29.60
+-She's convinced that--[br]-There is only one.
+
+01:39:27.60,01:39:32.47
+Stick your cock up her ass,[br]you mother-fucking worthless cock sucker!
+
+01:39:32.54,01:39:33.77
+Be silent!
+
+01:39:46.39,01:39:51.38
+"Our Father, who art in Heaven[br]hallowed be Thy name.
+
+01:39:51.89,01:39:53.72
+"Thy kingdom come, Thy will be done[br]on earth as it is in Heaven.
+
+01:39:56.20,01:39:59.03
+" Give us this day our daily bread.
+
+01:39:59.17,01:40:00.90
+" Forgive us our trespasses...
+
+01:40:02.00,01:40:04.47
+"...as we forgive those[br]who trespass against us.
+
+01:40:05.01,01:40:06.87
+"And lead us not into temptation...
+
+01:40:07.24,01:40:08.73
+"...but deliver us from the evil one.
+
+01:40:08.81,01:40:12.97
+"Save me, O God, by Thy name.[br]By Thy might, defend my cause.
+
+01:40:14.58,01:40:18.61
+"Proud men have risen up against me,[br]and men of violence seek my life...
+
+01:40:19.55,01:40:23.25
+"...but God is my helper[br]and the Lord sustains my life.
+
+01:40:24.29,01:40:26.12
+"In every need He has delivered me.
+
+01:40:26.19,01:40:28.79
+"Glory be to the Father and to the Son[br]and to the Holy Spirit.
+
+01:40:28.86,01:40:32.06
+"As it was in the beginning, is now and[br]ever shall be, world without end. Amen."
+
+01:40:32.13,01:40:35.13
+"Save your servant who places[br]her trust in Thee, my God.
+
+01:40:35.54,01:40:37.80
+"Be unto her, O Lord, a fortified tower."
+
+01:40:37.87,01:40:39.64
+"In the face of the enemy...
+
+01:40:39.97,01:40:41.74
+"...let the enemy have no power over her.
+
+01:40:41.81,01:40:43.94
+"And the son of iniquity[br]be powerless to harm her."
+
+01:40:44.01,01:40:47.41
+Your mother sucks cocks in Hell, Karras![br]You faithless slime!
+
+01:40:48.12,01:40:49.21
+"The Lord be with you."
+
+01:40:49.28,01:40:51.18
+-"And also with you."[br]-Let us pray.
+
+01:40:51.55,01:40:55.28
+"Holy Lord, Almighty Father,[br]everlasting God...
+
+01:40:55.36,01:40:57.76
+"...and Father of our Lord, Jesus Christ...
+
+01:40:58.16,01:41:01.89
+"...who, once and for all, consigned[br]that fallen tyrant to the flames of Hell...
+
+01:41:02.13,01:41:06.90
+"...who sent your only begotten Son[br]into the world to crush that roaring lion...
+
+01:41:07.37,01:41:09.23
+"...hasten to our call for help...
+
+01:41:09.30,01:41:11.27
+"...and snatch from ruination...
+
+01:41:11.67,01:41:14.23
+"...and from the clutches[br]of the noon-day devil...
+
+01:41:14.61,01:41:17.87
+"...this human being,[br]made in Your image and likeness.
+
+01:41:18.91,01:41:20.85
+"Strike terror, Lord into the beast...
+
+01:41:21.38,01:41:23.35
+"...now laying waste to your vineyard.
+
+01:41:23.92,01:41:26.39
+"Let Your mighty hand cast him out...
+
+01:41:26.45,01:41:28.95
+"...of Your servant, Regan Teresa MacNeil...
+
+01:41:29.82,01:41:32.73
+"...so he may no longer hold captive[br]this person...
+
+01:41:33.26,01:41:35.75
+"...whom it pleased You[br]to make in Your image...
+
+01:41:36.93,01:41:40.87
+"...and to redeem through Your Son,[br]who lives and reigns with You...
+
+01:41:41.27,01:41:45.57
+"...in the Unity of the Holy Spirit,[br]God, forever and ever."
+
+01:41:46.11,01:41:48.10
+-Amen.[br]-O Lord, hear my prayer.
+
+01:41:55.02,01:41:56.57
+Father Karras.
+
+01:41:58.55,01:41:59.38
+Damien.
+
+01:41:59.45,01:42:00.94
+The response please, Damien!
+
+01:42:02.89,01:42:04.72
+"And let my cry come unto Thee.
+
+01:42:05.46,01:42:09.16
+"Almighty Lord, Word of God the Father,[br]Jesus Christ...
+
+01:42:09.60,01:42:11.50
+"...God and Lord of all creation...
+
+01:42:12.10,01:42:14.36
+"...who gave to your holy apostles...
+
+01:42:14.44,01:42:18.20
+"...the power to tramp underfoot[br]serpents and scorpions.
+
+01:42:18.61,01:42:20.67
+"Grant me...
+
+01:42:20.74,01:42:22.50
+"...Your unworthy servant...
+
+01:42:22.61,01:42:24.41
+"...pardon for all my sins...
+
+01:42:24.81,01:42:28.61
+"...and the power to confront[br]this cruel demon. Amen."
+
+01:42:46.20,01:42:49.73
+"See the cross of the Lord.[br]Be gone, you hostile power.
+
+01:42:50.37,01:42:51.93
+"O Lord, hear my prayer.
+
+01:42:53.81,01:42:55.90
+-"The Lord be with you."[br]-"And also with you."
+
+01:43:50.46,01:43:54.23
+I cast you out, unclean spirit!
+
+01:43:54.30,01:43:57.40
+-Shove it up your ass, you faggot![br]-"In the name of our Lord, Jesus Christ.
+
+01:43:59.21,01:44:01.14
+"It is He who commands you!
+
+01:44:01.24,01:44:05.30
+"He who flung you from the heights[br]of Heaven to the depths of Hell! "
+
+01:44:05.38,01:44:07.31
+-Fuck him![br]-Be gone...
+
+01:44:07.38,01:44:09.25
+...from this creature of God.
+
+01:44:12.35,01:44:13.41
+Be gone!
+
+01:44:13.85,01:44:16.79
+"In the name of the Father,[br]and of the Son...
+
+01:44:18.06,01:44:19.75
+"...and of the Holy Spirit.
+
+01:44:20.13,01:44:24.06
+"By this sign of the Holy Cross,[br]of our Lord Jesus Christ...
+
+01:44:24.73,01:44:28.46
+"...who lives and reigns[br]with the Father and the Holy Spirit."
+
+01:44:30.54,01:44:31.53
+Damien!
+
+01:44:32.61,01:44:33.60
+Amen.
+
+01:44:33.67,01:44:36.51
+"God, Defender of the human race...
+
+01:44:39.08,01:44:40.44
+"...look down in pity--"
+
+01:44:40.51,01:44:43.48
+You killed your mother![br]You left her alone to die!
+
+01:44:43.78,01:44:44.51
+Shut up!
+
+01:44:44.59,01:44:46.55
+She'll never forgive you!
+
+01:44:49.82,01:44:54.09
+"l command you by the judge[br]of the living and the dead...
+
+01:44:54.66,01:44:57.29
+"...to depart from this servant of God!
+
+01:45:00.94,01:45:02.23
+"It's the power...."
+
+01:45:02.60,01:45:03.59
+Holy water!
+
+01:45:08.01,01:45:11.07
+"It's the power of Christ that compels you!
+
+01:45:12.01,01:45:14.50
+"The power of Christ compels you!
+
+01:45:15.32,01:45:17.78
+"The power of Christ compels you!
+
+01:45:18.62,01:45:20.92
+"The power of Christ compels you!
+
+01:46:02.73,01:46:05.93
+"He brought you low[br]by His blood-stained quest!
+
+01:46:06.43,01:46:09.46
+"Do not despise my command[br]because you know me to be a sinner.
+
+01:46:14.28,01:46:16.47
+"It is God himself who commands you!
+
+01:46:20.31,01:46:23.41
+"The majestic Christ who commands you!
+
+01:46:25.09,01:46:27.21
+"God, the Father, commands you!
+
+01:46:30.52,01:46:32.62
+"God, the Son, who commands you!
+
+01:46:36.66,01:46:38.83
+"God, the Holy Spirit, who commands you!
+
+01:46:39.67,01:46:41.73
+"The mystery of the Cross commands you!
+
+01:46:41.94,01:46:44.37
+"The blood of the martyrs commands you!
+
+01:47:04.86,01:47:08.62
+"Give way to Christ,[br]you prince of murderers!
+
+01:47:10.16,01:47:12.96
+"You're guilty before Almighty God.
+
+01:47:14.23,01:47:15.90
+"Guilty before His Son.
+
+01:47:16.87,01:47:18.80
+"Guilty before the whole human race.
+
+01:47:20.34,01:47:22.10
+"It is the Lord who expels you...
+
+01:47:22.71,01:47:25.70
+"...He, who is coming to judge[br]both the living and the dead...
+
+01:47:25.78,01:47:27.30
+"...and the world, by fire."
+
+01:47:50.27,01:47:51.40
+Are you tired?
+
+01:47:59.41,01:48:01.18
+Let's rest before we start again.
+
+01:48:44.46,01:48:45.95
+Will you excuse me, Damien?
+
+01:50:14.62,01:50:17.14
+Dimmie, why do you do this to me?
+
+01:50:20.52,01:50:23.32
+Please, Dimmie. I'm afraid.
+
+01:50:25.49,01:50:26.82
+You're not my mother.
+
+01:50:28.50,01:50:29.86
+Dimmie, please!
+
+01:50:43.84,01:50:45.00
+What is it?
+
+01:50:50.45,01:50:51.47
+Her heart.
+
+01:50:52.12,01:50:53.59
+Can you give her something?
+
+01:50:54.09,01:50:55.42
+She'll go into a coma.
+
+01:50:59.96,01:51:01.86
+You're not my mother!
+
+01:51:02.36,01:51:03.39
+Don't listen.
+
+01:51:03.46,01:51:04.76
+Why, Dimmie?
+
+01:51:06.10,01:51:07.09
+Damien!
+
+01:51:07.63,01:51:09.16
+Dimmie, please!
+
+01:51:13.17,01:51:14.23
+Get out.
+
+01:53:08.26,01:53:12.35
+"Our Father, who art in Heaven,[br]hallowed be Thy name...."
+
+01:53:28.21,01:53:29.47
+Is it over?
+
+01:53:40.02,01:53:41.35
+Is she going to die?
+
+01:53:47.16,01:53:48.18
+No.
+
+01:55:06.41,01:55:07.87
+You son of a bitch!
+
+01:55:14.28,01:55:15.65
+Take me!
+
+01:55:16.42,01:55:17.58
+Come in to me!
+
+01:55:18.15,01:55:20.42
+Goddamn you, take me!
+
+01:55:21.56,01:55:22.99
+Take me!
+
+01:55:36.24,01:55:37.20
+No!
+
+01:55:47.51,01:55:48.88
+Mother.
+
+01:55:51.49,01:55:52.71
+Mother.
+
+01:55:58.69,01:56:00.06
+Mother.
+
+01:56:04.33,01:56:05.32
+Did somebody fall?
+
+01:56:05.40,01:56:06.92
+He fell from the steps here!
+
+01:56:13.51,01:56:14.34
+Rags?
+
+01:56:36.06,01:56:37.96
+Do you want to make your confession?
+
+01:56:44.50,01:56:45.70
+Are you sorry for...
+
+01:56:46.61,01:56:50.51
+...are you sorry for having offended God[br]and for all the sins of your past life?
+
+01:56:56.88,01:56:58.98
+"Ego te absolvo in nomine Patris...
+
+01:57:00.35,01:57:04.08
+"...et Filii, et Spiritus Sancti. Amen."
+
+01:57:20.27,01:57:21.90
+-Where do you want this?[br]-What is it?
+
+01:57:21.98,01:57:22.96
+Phonograph.
+
+01:57:23.34,01:57:24.33
+Storage.
+
+01:57:34.22,01:57:35.35
+That's everything.
+
+01:57:37.69,01:57:38.99
+I'm going to miss you.
+
+01:57:39.43,01:57:40.52
+Same here.
+
+01:57:41.39,01:57:43.19
+Sure you won't change your mind?
+
+01:57:59.05,01:58:00.71
+I found this in her room.
+
+01:58:06.22,01:58:07.71
+You better hurry.
+
+01:58:17.80,01:58:19.82
+Come on, honey, we have to get going.
+
+01:58:43.72,01:58:45.38
+She doesn't remember any of it.
+
+01:58:46.03,01:58:47.22
+That's good.
+
+01:58:51.63,01:58:53.06
+-All done.[br]-Okay.
+
+01:58:53.40,01:58:54.99
+Honey, this is Father Dyer.
+
+01:58:55.10,01:58:56.53
+-Hi, Father.[br]-Hello.
+
+01:58:58.14,01:58:59.30
+Ready, Missus.
+
+01:59:01.17,01:59:02.66
+-Good-bye, Father.[br]-Good-bye.
+
+01:59:02.74,01:59:03.90
+I'll call you.
+
+01:59:30.84,01:59:32.60
+-'Bye, Father.[br]-I hope I see you again.
+
+01:59:32.67,01:59:33.87
+I hope so, too.
+
+01:59:34.94,01:59:36.43
+Father Dyer?
+
+01:59:41.45,01:59:43.25
+I thought you'd like to keep this.
+

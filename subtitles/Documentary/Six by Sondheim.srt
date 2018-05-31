@@ -1,0 +1,3370 @@
+<SAMI>
+<HEAD>
+<Title>제목을 적어 주세요.</Title>
+<Style TYPE="text/css">
+<!--
+P {margin-left:2pt; margin-right:2pt; margin-bottom:1pt; margin-top:1pt;
+    text-align:center; font-size:22pt; font-family: Arial, Sans-serif;
+    font-weight:bold; color:white;}
+.KRCC {Name:Korean; lang:ko-KR; SAMIType:CC;}
+#STDPrn {Name:Standard Print;}
+#VLargePrn {Name:32pt (VLarge Print); font-size:32pt;}
+#LargePrn {Name:28pt (Large Print); font-size:28pt;}
+#MediumPrn {Name:24pt (Medium Print); font-size:24pt;}
+#BSmallPrn {Name:18pt (BSmall Print); font-size:18pt;}
+#SmallPrn {Name:12pt (Small Print); font-size:12pt;}
+-->
+</Style>
+<!--
+자막 제작 :
+제작 날짜 :
+-->
+</HEAD>
+<BODY>
+
+<SYNC Start=23423><P Class=KRCC>
+<font color=#FFFAC7> 자막제작 - 네이트 드라마 24<br>
+(http://club.nate.com/24)
+<SYNC Start=27318><P Class=KRCC>&nbsp;
+<SYNC Start=27487><P Class=KRCC>
+<font color=#FFFAC7>동영상 정보 - dvdrip.xvid.24club/700MB
+<SYNC Start=31271><P Class=KRCC>&nbsp;
+<SYNC Start=67086><P Class=KRCC>
+<font color=#90D133>동영상 - 김상수(terius2k@nate.com)
+<SYNC Start=71086><P Class=KRCC>&nbsp;
+<SYNC Start=71486><P Class=KRCC>
+<font color=#90D133>싱크편집 - 동가(nadongga@lycos.co.kr)
+<SYNC Start=75486><P Class=KRCC>&nbsp;
+<SYNC Start=84686><P Class=KRCC>
+<font color=#90D9FF>ORIGINAL AIR DATE ON HBO : July 22, 2001
+<SYNC Start=87686><P Class=KRCC>&nbsp;
+
+<SYNC Start=91270><P Class=KRCC>
+<font color=#C4DAFF>Six Feet Under <br>
+Season1. Episode08. Crossroads
+<SYNC Start=97905><P Class=KRCC>&nbsp;
+
+<SYNC Start=109154><P Class=KRCC>
+I am such a fucking idiot. 
+
+<SYNC Start=111676><P Class=KRCC>&nbsp;
+
+<SYNC Start=112034><P Class=KRCC>
+I should have dumped him years ago. 
+
+<SYNC Start=113679><P Class=KRCC>
+Oh, yeah! 
+
+<SYNC Start=114346><P Class=KRCC>
+I feel 20 pounds lighter. 
+
+<SYNC Start=117347><P Class=KRCC>
+More like 180 pounds. 
+
+<SYNC Start=119614><P Class=KRCC>&nbsp;
+<SYNC Start=121539><P Class=KRCC>
+What do you think he's doing tonight? 
+
+<SYNC Start=122984><P Class=KRCC>
+Oh, he's fucking his old grad student, thinking he's king of the world. 
+
+<SYNC Start=127302><P Class=KRCC>&nbsp;
+<SYNC Start=128422><P Class=KRCC>
+God, I wish I knew who invented Viagra...
+
+<SYNC Start=131385><P Class=KRCC>
+so I could shoot him. 
+
+<SYNC Start=133516><P Class=KRCC>
+I'll drink to that. 
+
+<SYNC Start=135188><P Class=KRCC>
+Shit, I got it on my shirt! 
+
+<SYNC Start=137849><P Class=KRCC>
+Hold this. I've got an idea.
+
+<SYNC Start=139988><P Class=KRCC>&nbsp;
+<SYNC Start=140999><P Class=KRCC>
+Driver! 
+
+<SYNC Start=142218><P Class=KRCC>
+Hey, Driver! 
+
+<SYNC Start=143124><P Class=KRCC>&nbsp;
+<SYNC Start=144711><P Class=KRCC>
+Take us to Miagi's ' ok
+
+<SYNC Start=147247><P Class=KRCC>
+cause I feel like dancing!
+
+<SYNC Start=148965><P Class=KRCC>
+Look what I found! 
+
+<SYNC Start=151278><P Class=KRCC>&nbsp;
+<SYNC Start=154977><P Class=KRCC>
+Promise me, no dancing on the tables tonight. 
+
+<SYNC Start=157621><P Class=KRCC>
+You just open this. 
+
+<SYNC Start=159432><P Class=KRCC>&nbsp;
+
+<SYNC Start=170007><P Class=KRCC>
+I'm king of the world! 
+
+<SYNC Start=172230><P Class=KRCC>
+I'm king of the world! 
+
+<SYNC Start=173638><P Class=KRCC>
+I'm king of the world! 
+<SYNC Start=176077><P Class=KRCC>&nbsp;
+
+
+<SYNC Start=180699><P Class=KRCC>
+"CHLOE ANNE BRYANT YORKIN 
+
+DECEMBER 7, 1959-APRIL 5, 2001"
+
+<SYNC Start=186874><P Class=KRCC>&nbsp;
+<SYNC Start=210420><P Class=KRCC>
+This is how you study for the funeral director's license? 
+
+<SYNC Start=213630><P Class=KRCC>&nbsp;
+<SYNC Start=214242><P Class=KRCC>
+Now, you must really like wearing a suit. 
+
+<SYNC Start=216470><P Class=KRCC>
+There's always a chance we'll get a walk-in. 
+
+<SYNC Start=218843><P Class=KRCC>
+There's always a chance we might get abducted by aliens. 
+
+<SYNC Start=221709><P Class=KRCC>&nbsp;
+<SYNC Start=226876><P Class=KRCC>
+What's the longest we've ever gone without a body? 
+
+<SYNC Start=229229><P Class=KRCC>&nbsp;
+<SYNC Start=230358><P Class=KRCC>
+I remember Dad saying something like <BR>9 days during the '84 Olympics. 
+
+<SYNC Start=233860><P Class=KRCC>
+"The Drought of '84." 
+
+<SYNC Start=235954><P Class=KRCC>&nbsp;
+<SYNC Start=237075><P Class=KRCC>
+You remember how Dad used to do Walter Brennan? 
+
+<SYNC Start=239004><P Class=KRCC>
+"Come on, Lil' Luke, let's stitch this dead guy up, 
+
+<SYNC Start=241411><P Class=KRCC>
+'cause Maw's made a mess of catfish,<BR> and I'm powerful hungry!" 
+
+<SYNC Start=244882><P Class=KRCC>&nbsp;
+<SYNC Start=247669><P Class=KRCC>
+OK, well, thank you for making me feel like an idiot. 
+
+<SYNC Start=249987><P Class=KRCC>
+No, you just 
+
+<SYNC Start=251993><P Class=KRCC>
+knew a whole side of Dad I never did. 
+
+<SYNC Start=254554><P Class=KRCC>&nbsp;
+<SYNC Start=256495><P Class=KRCC>
+9 days, huh? 
+
+<SYNC Start=258195><P Class=KRCC>
+This might beat that. 
+
+<SYNC Start=260104><P Class=KRCC>
+When a family places money in <BR>a funeral trust for a pre-need, 
+
+<SYNC Start=263063><P Class=KRCC>
+how much money can the funeral home use for purposes until the family requires your services? 
+
+<SYNC Start=268346><P Class=KRCC>
+50%.
+
+<SYNC Start=269820><P Class=KRCC>&nbsp;
+<SYNC Start=271582><P Class=KRCC>
+25%. 
+
+<SYNC Start=272416><P Class=KRCC>
+Zero. 
+
+<SYNC Start=273156><P Class=KRCC>
+None. 
+
+<SYNC Start=273974><P Class=KRCC>
+I knew that. 
+
+<SYNC Start=275378><P Class=KRCC>&nbsp;
+<SYNC Start=278350><P Class=KRCC>
+Hello? 
+
+<SYNC Start=279075><P Class=KRCC>
+Hey, it's me. 
+
+<SYNC Start=280372><P Class=KRCC>
+Well, it's about time! 
+
+<SYNC Start=281801><P Class=KRCC>
+I've only been calling you for 6 days straight. 
+
+<SYNC Start=283557><P Class=KRCC>
+Yeah, I've been incredibly busy. 
+
+<SYNC Start=285221><P Class=KRCC>
+Lots of new clients. 
+
+<SYNC Start=286335><P Class=KRCC>
+Sorry. 
+
+<SYNC Start=286933><P Class=KRCC>
+How's Billy? 
+
+<SYNC Start=287890><P Class=KRCC>&nbsp;
+
+<SYNC Start=288424><P Class=KRCC>
+Uh--better. 
+
+<SYNC Start=290113><P Class=KRCC>&nbsp;
+
+<SYNC Start=290432><P Class=KRCC>
+It only happens once a year, 
+
+<SYNC Start=292374><P Class=KRCC>
+you know. 
+
+<SYNC Start=292819><P Class=KRCC>
+Twice at the most. 
+
+<SYNC Start=293963><P Class=KRCC>&nbsp;
+
+<SYNC Start=294523><P Class=KRCC>
+So when can I see you? 
+
+<SYNC Start=296081><P Class=KRCC>
+I don't know--
+
+<SYNC Start=297280><P Class=KRCC>
+Tuesday? 
+
+<SYNC Start=298287><P Class=KRCC>&nbsp;
+<SYNC Start=299769><P Class=KRCC>
+Well, is he staying with you? 
+
+<SYNC Start=300898><P Class=KRCC>&nbsp;
+
+<SYNC Start=301359><P Class=KRCC>
+Yeah, just for a few more days.
+
+<SYNC Start=302705><P Class=KRCC>
+Listen, I've gotta go. 
+
+<SYNC Start=303687><P Class=KRCC>
+I'll call you, OK? 
+
+<SYNC Start=304829><P Class=KRCC>
+I promise.
+
+<SYNC Start=306085><P Class=KRCC>&nbsp;
+<SYNC Start=309669><P Class=KRCC>
+You think we're weird being undertakers' kids? 
+
+<SYNC Start=311870><P Class=KRCC>
+Just be thankful our parents weren't shrinks. 
+
+<SYNC Start=314120><P Class=KRCC>
+How many days does a family have to cancel a contract for services? 
+
+<SYNC Start=317384><P Class=KRCC>
+I'm so sick of this bizarre behavior that I'm supposed to figure out,<BR> and then she seems pissed off when I can't.
+
+<SYNC Start=321591><P Class=KRCC>
+It?s fuckin' neurotic. 
+
+<SYNC Start=322355><P Class=KRCC>
+Would you concentrate on this, please? 
+
+<SYNC Start=324521><P Class=KRCC>
+I need you to get your license so you can start handling your share of things.
+
+<SYNC Start=327893><P Class=KRCC>
+How many--
+
+<SYNC Start=328402><P Class=KRCC>
+3 days.
+
+<SYNC Start=329957><P Class=KRCC>&nbsp;
+
+<SYNC Start=331025><P Class=KRCC>
+It's not exactly the LA Bar, David. 
+
+<SYNC Start=333880><P Class=KRCC>
+Come on, make me earn it. 
+
+<SYNC Start=336215><P Class=KRCC>&nbsp;
+<SYNC Start=336818><P Class=KRCC>
+When a funeral home advertises their services, which 2 specific pieces of information are legally required on all advertisements? 
+
+<SYNC Start=344347><P Class=KRCC>&nbsp;
+<SYNC Start=352878><P Class=KRCC>
+I'd start with some heavy-duty armature material and Plaster of Paris,
+
+<SYNC Start=357166><P Class=KRCC>
+mastic compound for her face, tissue builder and wax for her features. 
+
+<SYNC Start=363539><P Class=KRCC>&nbsp;
+<SYNC Start=364392><P Class=KRCC>
+I'd finish her off with a good sealer. 
+
+<SYNC Start=367079><P Class=KRCC>
+She'll leak like a garden hose. 
+
+<SYNC Start=369105><P Class=KRCC>&nbsp;
+
+<SYNC Start=369590><P Class=KRCC>
+A little airbrushing and a high quality foundation, and she's good to go.
+
+<SYNC Start=373184><P Class=KRCC>&nbsp;
+<SYNC Start=374872><P Class=KRCC>
+How much time would you need? 
+
+<SYNC Start=376385><P Class=KRCC>&nbsp;
+
+<SYNC Start=377464><P Class=KRCC>
+At least a day to do it right. 
+
+<SYNC Start=379049><P Class=KRCC>&nbsp;
+
+<SYNC Start=379953><P Class=KRCC>
+The Fishers can spare you for a full day? 
+
+<SYNC Start=382017><P Class=KRCC>&nbsp;
+
+<SYNC Start=383079><P Class=KRCC>
+I'm not auditioning for you. 
+
+<SYNC Start=385177><P Class=KRCC>
+This is a one-time freelance job, 
+
+<SYNC Start=387221><P Class=KRCC>
+and I use my own materials. 
+
+<SYNC Start=388444><P Class=KRCC>
+Kroehner's tecturizers--they blow. 
+
+<SYNC Start=390165><P Class=KRCC>
+How much? 
+
+<SYNC Start=390956><P Class=KRCC>
+1500. 
+
+<SYNC Start=391998><P Class=KRCC>&nbsp;
+<SYNC Start=393678><P Class=KRCC>
+OK. 
+
+<SYNC Start=395358><P Class=KRCC>&nbsp;
+<SYNC Start=397337><P Class=KRCC>
+For someone with your talent, that's a bargain. 
+
+<SYNC Start=400943><P Class=KRCC>&nbsp;
+<SYNC Start=401971><P Class=KRCC>
+Stop blowing smoke up my ass. 
+
+<SYNC Start=404689><P Class=KRCC>
+I'm not quitting the Fishers. 
+
+<SYNC Start=406929><P Class=KRCC>&nbsp;
+<SYNC Start=408020><P Class=KRCC>
+Mr. F. put me through school. 
+
+<SYNC Start=409621><P Class=KRCC>
+Have her done by 5...
+
+<SYNC Start=411439><P Class=KRCC>
+and she'd better look flawless.
+
+<SYNC Start=413240><P Class=KRCC>&nbsp;
+<SYNC Start=416920><P Class=KRCC>
+Don't think about how steep it is. 
+
+<SYNC Start=419478><P Class=KRCC>&nbsp;
+<SYNC Start=420130><P Class=KRCC>
+We've got 8 more miles. 
+
+<SYNC Start=422118><P Class=KRCC>&nbsp;
+<SYNC Start=427691><P Class=KRCC>
+Carlos Castenada wrote, "A warrior takes his lot, whatever it may be, 
+
+<SYNC Start=432086><P Class=KRCC>
+and accepts it in ultimate humbleness."
+
+<SYNC Start=434817><P Class=KRCC>&nbsp;
+
+<SYNC Start=435296><P Class=KRCC>
+Well, yeah, 
+
+<SYNC Start=437990><P Class=KRCC>
+Carlos Castenada can blow me. 
+
+<SYNC Start=440286><P Class=KRCC>&nbsp;
+
+<SYNC Start=441457><P Class=KRCC>
+Tell me about it. 
+
+<SYNC Start=442416><P Class=KRCC>
+Where's the whole spiritual transcendence part from the brochure? 
+
+<SYNC Start=445978><P Class=KRCC>
+This is like fuckin' boot camp. 
+
+<SYNC Start=447698><P Class=KRCC>&nbsp;
+<SYNC Start=448376><P Class=KRCC>
+Have I--Have 
+
+<SYNC Start=449295><P Class=KRCC>
+I, uh, thanked you for getting me high this morning? 
+
+<SYNC Start=451309><P Class=KRCC>&nbsp;
+<SYNC Start=451858><P Class=KRCC>
+Like 12 times. 
+
+<SYNC Start=453130><P Class=KRCC>&nbsp;
+<SYNC Start=454413><P Class=KRCC>
+Just making sure. 
+
+<SYNC Start=455749><P Class=KRCC>
+Claire, 
+
+<SYNC Start=456633><P Class=KRCC>
+Topher, 
+
+<SYNC Start=458467><P Class=KRCC>
+you're straggling! 
+
+<SYNC Start=459671><P Class=KRCC>
+You know the rules. 
+
+<SYNC Start=460639><P Class=KRCC>
+The group stays together. 
+
+<SYNC Start=462888><P Class=KRCC>
+Period. 
+
+<SYNC Start=464182><P Class=KRCC>
+Yavo, mein commandant! 
+
+<SYNC Start=465909><P Class=KRCC>&nbsp;
+
+<SYNC Start=469209><P Class=KRCC>
+I've got a new way to make money. 
+
+<SYNC Start=470964><P Class=KRCC>
+We rent out the slumber room for meetings--
+
+<SYNC Start=472552><P Class=KRCC>
+12-step groups, that sort of thing. 
+
+<SYNC Start=473940><P Class=KRCC>
+Are you insane? 
+
+<SYNC Start=475386><P Class=KRCC>
+Drunks and drug addicts inside our home? 
+
+<SYNC Start=477437><P Class=KRCC>
+The insurance issues alone--
+
+<SYNC Start=478712><P Class=KRCC>
+Well, then, how about senior dance lessons? 
+
+<SYNC Start=481133><P Class=KRCC>
+Twice a week at 50 bucks a pop, that's 5200 a year. 
+
+<SYNC Start=483765><P Class=KRCC>
+That's 6 months property tax. 
+
+<SYNC Start=485167><P Class=KRCC>
+What if we've got a viewing? 
+
+<SYNC Start=486897><P Class=KRCC>
+They'll work around our schedule.
+
+<SYNC Start=488062><P Class=KRCC>
+David, these old people have nothing else to do. 
+
+<SYNC Start=489713><P Class=KRCC>
+They dance for twice a week, have fun. 
+
+<SYNC Start=491305><P Class=KRCC>
+Who do you think gets a call when they drop? 
+
+<SYNC Start=492909><P Class=KRCC>&nbsp;
+<SYNC Start=494454><P Class=KRCC>
+That's actually not a bad idea. 
+
+<SYNC Start=495931><P Class=KRCC>
+Well, good, because they're coming here at 2, so
+
+<SYNC Start=497890><P Class=KRCC>
+no more comments about me not pulling my weight for a while, OK? 
+
+<SYNC Start=501214><P Class=KRCC>&nbsp;
+<SYNC Start=507973><P Class=KRCC>
+Is this a new company policy?
+
+<SYNC Start=509070><P Class=KRCC>
+Casual Fridays? 
+
+<SYNC Start=510136><P Class=KRCC>
+Nice of you to drop by. 
+
+<SYNC Start=511314><P Class=KRCC>
+It's almost noon. 
+
+<SYNC Start=512079><P Class=KRCC>
+And I stayed till after 9 last night restocking and sterilizing. 
+
+<SYNC Start=514985><P Class=KRCC>
+You mean you didn't check? 
+
+<SYNC Start=516410><P Class=KRCC>&nbsp;
+<SYNC Start=516996><P Class=KRCC>
+Look, if it's alright with you guys, I need the day off. 
+
+<SYNC Start=519428><P Class=KRCC>
+Vanessa's got an ultrasound. 
+
+<SYNC Start=520824><P Class=KRCC>
+She just had one last week. 
+
+<SYNC Start=522238><P Class=KRCC>
+Well, they want to do another one. 
+
+<SYNC Start=525012><P Class=KRCC>
+I think I should be there with her, don't you? 
+
+<SYNC Start=526365><P Class=KRCC>
+Well, of course. 
+
+<SYNC Start=527031><P Class=KRCC>
+You could have just called. 
+
+<SYNC Start=527949><P Class=KRCC>
+I left my jacket in the prep room. 
+
+<SYNC Start=529702><P Class=KRCC>
+It has my wallet, my insurance card, all that stuff. 
+
+<SYNC Start=532198><P Class=KRCC>
+Thanks, guys.
+
+<SYNC Start=533080><P Class=KRCC>&nbsp;
+<SYNC Start=535602><P Class=KRCC>
+Great! Once again I'm the asshole, and you're the cool guy. 
+
+<SYNC Start=538912><P Class=KRCC>
+Well, you can tell him tomorrow that he's cleaning out the body fridge. 
+
+<SYNC Start=541442><P Class=KRCC>
+I want it scrubbed and hosed and disinfected. 
+
+<SYNC Start=543366><P Class=KRCC>
+You tell him. 
+
+<SYNC Start=544126><P Class=KRCC>
+It's Fisher & Sons. 
+
+<SYNC Start=545618><P Class=KRCC>
+Sometimes you have to be the bad cop. 
+
+<SYNC Start=547229><P Class=KRCC>
+But you're so good at it. 
+
+<SYNC Start=548930><P Class=KRCC>&nbsp;
+<SYNC Start=564135><P Class=KRCC>
+Hey, Rico! 
+
+<SYNC Start=564486><P Class=KRCC>&nbsp;
+<SYNC Start=568347><P Class=KRCC>&nbsp;
+Nate, 
+
+<SYNC Start=569206><P Class=KRCC>
+Please don't do that! 
+
+<SYNC Start=571183><P Class=KRCC>&nbsp;
+<SYNC Start=572065><P Class=KRCC>
+I've got a lot on my mind, with the ultrasound and all. 
+
+<SYNC Start=575189><P Class=KRCC>
+David wants you to clean out--
+
+<SYNC Start=576765><P Class=KRCC>
+The body fridge. 
+
+<SYNC Start=577397><P Class=KRCC>
+I know. 
+
+<SYNC Start=578053><P Class=KRCC>
+I know your brother's got a bug up his ass about cleanliness. 
+
+<SYNC Start=580528><P Class=KRCC>
+I know. 
+
+<SYNC Start=581707><P Class=KRCC>&nbsp;
+
+<SYNC Start=582012><P Class=KRCC>
+When we used to play G.I. 
+
+<SYNC Start=582814><P Class=KRCC>
+Joes, he always used to want to give his a shower. 
+
+<SYNC Start=585068><P Class=KRCC>&nbsp;
+<SYNC Start=587295><P Class=KRCC>
+Yeah, well. 
+
+<SYNC Start=588890><P Class=KRCC>
+Running late. 
+
+<SYNC Start=590359><P Class=KRCC>&nbsp;
+<SYNC Start=590861><P Class=KRCC>
+Where's your jacket? 
+
+<SYNC Start=592400><P Class=KRCC>&nbsp;
+<SYNC Start=593307><P Class=KRCC>
+Oh, shit! 
+
+<SYNC Start=595124><P Class=KRCC>&nbsp;
+<SYNC Start=595906><P Class=KRCC>
+I must have left it at home. 
+
+<SYNC Start=597029><P Class=KRCC>
+Oh. 
+
+<SYNC Start=598078><P Class=KRCC>
+Told you, man. 
+
+<SYNC Start=598631><P Class=KRCC>
+I've got a lot on my mind from the ultrasound. 
+
+<SYNC Start=600780><P Class=KRCC>&nbsp;
+<SYNC Start=601462><P Class=KRCC>
+See ya.
+
+<SYNC Start=602098><P Class=KRCC>
+See ya. 
+
+<SYNC Start=602905><P Class=KRCC>&nbsp;
+<SYNC Start=611964><P Class=KRCC>
+Now begins the vision quest part of our journey. 
+
+<SYNC Start=614981><P Class=KRCC>
+Oh, great, now we get to starve and sweat ourselves into a hallucinogenic state of ecstasy. 
+
+<SYNC Start=619483><P Class=KRCC>
+It's gonna get harder and harder for the next couple of days. 
+
+<SYNC Start=622152><P Class=KRCC>
+Now, you all know how tough physically. 
+
+<SYNC Start=625209><P Class=KRCC>&nbsp;
+<SYNC Start=626002><P Class=KRCC>
+Now the mental challenges begin. OK? 
+
+<SYNC Start=628776><P Class=KRCC>
+Starting now, 
+
+<SYNC Start=630056><P Class=KRCC>
+you guys lead. 
+
+<SYNC Start=631184><P Class=KRCC>
+I just follow.
+
+<SYNC Start=632411><P Class=KRCC>&nbsp;
+<SYNC Start=633471><P Class=KRCC>
+So, 
+
+<SYNC Start=634600><P Class=KRCC>
+I hope, for my sake, 
+
+<SYNC Start=636169><P Class=KRCC>
+you've all perfected your map and compass skills. 
+
+<SYNC Start=639737><P Class=KRCC>
+Parker. 
+
+<SYNC Start=640557><P Class=KRCC>
+Oh, God, not Parker! 
+
+<SYNC Start=641961><P Class=KRCC>
+Which way do we go? 
+
+<SYNC Start=643240><P Class=KRCC>
+Uh-
+
+<SYNC Start=644745><P Class=KRCC>&nbsp;
+<SYNC Start=647529><P Class=KRCC>
+That way. 
+
+<SYNC Start=649069><P Class=KRCC>
+What are you waiting for? 
+
+<SYNC Start=650674><P Class=KRCC>
+You lead. 
+
+<SYNC Start=651928><P Class=KRCC>&nbsp;
+<SYNC Start=653327><P Class=KRCC>
+Fuckin' girl scout! 
+
+<SYNC Start=655011><P Class=KRCC>&nbsp;
+
+<SYNC Start=665130><P Class=KRCC>
+Good call, Parker! 
+
+<SYNC Start=666271><P Class=KRCC>&nbsp;
+<SYNC Start=666925><P Class=KRCC>
+So who do you think plays Parker in the movie of her life? 
+
+<SYNC Start=669769><P Class=KRCC>
+Sandy Bullock or Julia Roberts? 
+
+<SYNC Start=672153><P Class=KRCC>
+Oh, please, she'd never rate that high. 
+
+<SYNC Start=674216><P Class=KRCC>
+She'd get one of those Buffy or Dawson's Creek chicks, tops! 
+
+<SYNC Start=677868><P Class=KRCC>&nbsp;
+<SYNC Start=680615><P Class=KRCC>
+What is that? 
+
+<SYNC Start=681932><P Class=KRCC>
+This? 
+
+<SYNC Start=683417><P Class=KRCC>
+Inkali. 
+
+<SYNC Start=684562><P Class=KRCC>&nbsp;
+<SYNC Start=685688><P Class=KRCC>
+It's like dumpling with spicy meat inside. 
+
+<SYNC Start=690993><P Class=KRCC>
+I cannot believe you never hear of Inkali! 
+
+<SYNC Start=694701><P Class=KRCC>&nbsp;
+<SYNC Start=695532><P Class=KRCC>
+You know, 
+
+<SYNC Start=696489><P Class=KRCC>
+you need to go out from the house more. 
+
+<SYNC Start=698248><P Class=KRCC>
+I get out. 
+
+<SYNC Start=699349><P Class=KRCC>&nbsp;
+<SYNC Start=699575><P Class=KRCC>
+I took a very enjoyable trip to San Bernadino just a few weeks ago. 
+
+<SYNC Start=702927><P Class=KRCC>
+You should come to my neighborhood. 
+
+<SYNC Start=704705><P Class=KRCC>
+All Russian. 
+
+<SYNC Start=706307><P Class=KRCC>
+You would love it. 
+
+<SYNC Start=707693><P Class=KRCC>
+People will passion, full of life. 
+
+<SYNC Start=710085><P Class=KRCC>
+Not like your family. 
+
+<SYNC Start=711431><P Class=KRCC>
+What do you mean? 
+
+<SYNC Start=712550><P Class=KRCC>
+Russians speak from here  
+
+<SYNC Start=714009><P Class=KRCC>
+from the heart, 
+
+<SYNC Start=715008><P Class=KRCC>
+with their souls, 
+
+<SYNC Start=716558><P Class=KRCC>
+not like Fisher, like from here like a little mouse goes
+
+<SYNC Start=719554><P Class=KRCC>&nbsp;
+<SYNC Start=720770><P Class=KRCC>
+Not like that. 
+
+<SYNC Start=721794><P Class=KRCC>&nbsp;
+<SYNC Start=722897><P Class=KRCC>
+If it's so wonderful in Russia, you should take the first flight back. 
+
+<SYNC Start=726674><P Class=KRCC>&nbsp;
+<SYNC Start=726984><P Class=KRCC>
+In Russia, 
+
+<SYNC Start=728122><P Class=KRCC>
+I was engineer! 
+
+<SYNC Start=729328><P Class=KRCC>&nbsp;
+<SYNC Start=732001><P Class=KRCC>
+Knock knock. 
+
+<SYNC Start=733451><P Class=KRCC>
+Hiram! 
+
+<SYNC Start=734320><P Class=KRCC>&nbsp;
+<SYNC Start=734657><P Class=KRCC>
+I tried my hand at Jamaican Jerk Chicken, turned out good. 
+
+<SYNC Start=736837><P Class=KRCC>
+Thought you might like some for lunch.
+
+<SYNC Start=738580><P Class=KRCC>
+That's so thoughtful. 
+
+<SYNC Start=740173><P Class=KRCC>
+Thank you.
+
+<SYNC Start=741032><P Class=KRCC>&nbsp;
+<SYNC Start=744706><P Class=KRCC>
+Hiram, this is my boss, Nikolai. 
+
+<SYNC Start=747060><P Class=KRCC>
+Hi. 
+
+<SYNC Start=747987><P Class=KRCC>
+She has a lunch. 
+
+<SYNC Start=749184><P Class=KRCC>
+Here, try some. 
+
+<SYNC Start=749983><P Class=KRCC>
+Please. 
+
+<SYNC Start=750436><P Class=KRCC>&nbsp;
+<SYNC Start=751460><P Class=KRCC>
+You burned it! 
+
+<SYNC Start=752842><P Class=KRCC>&nbsp;
+<SYNC Start=752851><P Class=KRCC>
+Nikolai! 
+
+<SYNC Start=754576><P Class=KRCC>
+Ruth is busy. 
+
+<SYNC Start=755631><P Class=KRCC>&nbsp;
+<SYNC Start=756683><P Class=KRCC>
+I'm on my lunch break. 
+
+<SYNC Start=758072><P Class=KRCC>&nbsp;
+
+<SYNC Start=758417><P Class=KRCC>
+Lunch is over! 
+
+<SYNC Start=759916><P Class=KRCC>
+Now we work!
+
+<SYNC Start=761193><P Class=KRCC>&nbsp;
+<SYNC Start=766316><P Class=KRCC>
+Sorry I got you in trouble with your boss.
+
+<SYNC Start=768529><P Class=KRCC>
+Don't you worry. I can handle him. 
+
+<SYNC Start=770970><P Class=KRCC>&nbsp;
+
+<SYNC Start=781388><P Class=KRCC>
+Everybody ready? 
+
+<SYNC Start=783332><P Class=KRCC>
+And round and left. 
+
+<SYNC Start=784710><P Class=KRCC>&nbsp;
+<SYNC Start=785799><P Class=KRCC>
+Right. 
+
+<SYNC Start=786209><P Class=KRCC>
+Left. 
+<SYNC Start=787637><P Class=KRCC>&nbsp;
+
+<SYNC Start=788736><P Class=KRCC>
+Good! 
+
+<SYNC Start=789217><P Class=KRCC>
+Good, 
+
+<SYNC Start=790318><P Class=KRCC>
+swing your partners! 
+
+<SYNC Start=792002><P Class=KRCC>&nbsp;
+<SYNC Start=795525><P Class=KRCC>
+And promenade home! 
+
+<SYNC Start=797716><P Class=KRCC>&nbsp;
+<SYNC Start=798258><P Class=KRCC>
+Very good! 
+
+<SYNC Start=799539><P Class=KRCC>&nbsp;
+<SYNC Start=800626><P Class=KRCC>
+Hey, Vanessa. 
+
+<SYNC Start=801960><P Class=KRCC>
+Is Rico there? 
+
+<SYNC Start=802899><P Class=KRCC>
+No. Should I page him? 
+
+<SYNC Start=803949><P Class=KRCC>
+No, 
+
+<SYNC Start=804313><P Class=KRCC>
+no, it's nothing important. 
+
+<SYNC Start=805269><P Class=KRCC>
+I just wanted to run something by him. 
+
+<SYNC Start=806639><P Class=KRCC>
+OK. 
+
+<SYNC Start=807520><P Class=KRCC>
+Hey, did you have your ultrasound already? 
+
+<SYNC Start=809155><P Class=KRCC>
+Yeah. 
+
+<SYNC Start=809871><P Class=KRCC>
+Last week. 
+
+<SYNC Start=811260><P Class=KRCC>&nbsp;
+<SYNC Start=811994><P Class=KRCC>
+You're not having one today? 
+
+<SYNC Start=814011><P Class=KRCC>&nbsp;
+<SYNC Start=815097><P Class=KRCC>
+Oh, yeah, 
+
+<SYNC Start=816572><P Class=KRCC>
+yeah, but not till this afternoon. 
+
+<SYNC Start=819111><P Class=KRCC>
+Huh. 
+
+<SYNC Start=820119><P Class=KRCC>
+I'm sorry, Nate, but the UPS guy's at the door. 
+
+<SYNC Start=822853><P Class=KRCC>
+I gotta go, and I'll tell Rico you called, OK? 
+
+<SYNC Start=825305><P Class=KRCC>&nbsp;
+<SYNC Start=826033><P Class=KRCC>
+Shit! 
+
+<SYNC Start=827327><P Class=KRCC>
+Shit! 
+
+<SYNC Start=828516><P Class=KRCC>
+Hey, 
+
+<SYNC Start=829754><P Class=KRCC>
+don't say that, papito, that's a grown-up word. 
+
+<SYNC Start=833431><P Class=KRCC>&nbsp;
+
+<SYNC Start=846603><P Class=KRCC>
+OK, very good!
+
+<SYNC Start=847722><P Class=KRCC>
+Very good, ladies and gentlemen. 
+
+<SYNC Start=849023><P Class=KRCC>
+Now, if I could just have your attention, please, for just one second. 
+
+<SYNC Start=851578><P Class=KRCC>
+I want to teach you a new figure for the repertoire. 
+
+<SYNC Start=853818><P Class=KRCC>
+You're gonna love it, 
+
+<SYNC Start=854551><P Class=KRCC>
+your friends are gonna be very impressed, 
+
+<SYNC Start=856549><P Class=KRCC>
+I promise. 
+
+<SYNC Start=857247><P Class=KRCC>
+It's called the Hungarian Swing, and I need a volunteer,
+
+<SYNC Start=860885><P Class=KRCC>
+so if I could just borrow you for one second. 
+
+<SYNC Start=864050><P Class=KRCC>
+I promise, it won't hurt a bit. 
+
+<SYNC Start=866060><P Class=KRCC>
+It goes like this.
+
+<SYNC Start=867181><P Class=KRCC>
+You're gonna stand right hip to right hip, 
+
+<SYNC Start=871000><P Class=KRCC>
+your other hand is gonna go up on your partner's waist, 
+
+<SYNC Start=873941><P Class=KRCC>
+and your left hand is gonna go up over the head. 
+
+<SYNC Start=876058><P Class=KRCC>
+Now, you're gonna swing 
+
+<SYNC Start=878076><P Class=KRCC>
+one and a half times, 
+
+<SYNC Start=880202><P Class=KRCC>
+she will turn 
+
+<SYNC Start=881196><P Class=KRCC>
+one and a half times
+
+<SYNC Start=882174><P Class=KRCC>&nbsp;
+<SYNC Start=882926><P Class=KRCC>
+into the promenade position. 
+
+<SYNC Start=885414><P Class=KRCC>&nbsp;
+<SYNC Start=885779><P Class=KRCC>
+That wasn't so bad, was it? 
+
+<SYNC Start=887306><P Class=KRCC>
+Let's do it again, with the music. OK? 
+
+<SYNC Start=889475><P Class=KRCC>
+Uh, not so fast. 
+
+<SYNC Start=890933><P Class=KRCC>&nbsp;
+<SYNC Start=891921><P Class=KRCC>
+OK, ladies and gentlemen, 
+
+<SYNC Start=893383><P Class=KRCC>
+with the music. 
+
+<SYNC Start=894486><P Class=KRCC>&nbsp;
+<SYNC Start=895032><P Class=KRCC>
+Here we go, 
+
+<SYNC Start=896154><P Class=KRCC>
+OK, 
+
+<SYNC Start=896939><P Class=KRCC>
+and 1-
+
+<SYNC Start=897322><P Class=KRCC>
+2-
+
+<SYNC Start=897828><P Class=KRCC>
+3-
+
+<SYNC Start=898329><P Class=KRCC>
+4.
+
+<SYNC Start=899464><P Class=KRCC>&nbsp;
+<SYNC Start=911758><P Class=KRCC>
+Kiss him! 
+
+<SYNC Start=913192><P Class=KRCC>&nbsp;
+
+<SYNC Start=927095><P Class=KRCC>
+Interesting technique. 
+
+<SYNC Start=928104><P Class=KRCC>
+Where'd you train? 
+
+<SYNC Start=928766><P Class=KRCC>&nbsp;
+<SYNC Start=929618><P Class=KRCC>
+Cypress College. 
+
+<SYNC Start=930852><P Class=KRCC>
+Interned at Fisher & Sons. 
+
+<SYNC Start=932334><P Class=KRCC>
+Oh, so, you're the guy from Fisher & Sons! 
+
+<SYNC Start=934029><P Class=KRCC>
+You got out of there just in time. 
+
+<SYNC Start=935883><P Class=KRCC>
+Kroehner's gonna bury him. 
+
+<SYNC Start=936972><P Class=KRCC>&nbsp;
+<SYNC Start=938480><P Class=KRCC>
+I don't think so. 
+
+<SYNC Start=939799><P Class=KRCC>&nbsp;
+<SYNC Start=940138><P Class=KRCC>
+Somebody burned down the funeral home 
+
+<SYNC Start=941692><P Class=KRCC>
+Kroehner was building across the street. 
+
+<SYNC Start=943526><P Class=KRCC>
+Somebody? 
+
+<SYNC Start=944783><P Class=KRCC>
+You ever heard of Jewish lightning? 
+
+<SYNC Start=946758><P Class=KRCC>&nbsp;
+
+<SYNC Start=948132><P Class=KRCC>
+Oh, sorry. Did I offend you? 
+
+<SYNC Start=949158><P Class=KRCC>
+I'm Jewish. 
+
+<SYNC Start=949883><P Class=KRCC>
+I can say that. 
+
+<SYNC Start=951914><P Class=KRCC>&nbsp;
+<SYNC Start=953010><P Class=KRCC>
+Kroehner burned down their own building for the insurance money? 
+
+<SYNC Start=956097><P Class=KRCC>
+Trust me, it's not over. 
+
+<SYNC Start=957381><P Class=KRCC>
+It's like Matt Gilardi's personal vendetta. 
+
+<SYNC Start=959603><P Class=KRCC>&nbsp;
+<SYNC Start=960157><P Class=KRCC>
+Fisher's history. 
+
+<SYNC Start=961512><P Class=KRCC>&nbsp;
+<SYNC Start=965967><P Class=KRCC>
+Take care now. 
+
+<SYNC Start=966469><P Class=KRCC>
+Get home safe.
+
+<SYNC Start=967425><P Class=KRCC>&nbsp;
+<SYNC Start=968611><P Class=KRCC>
+Aren't they a trip? 
+
+<SYNC Start=969627><P Class=KRCC>
+I love 'em. 
+
+<SYNC Start=970471><P Class=KRCC>
+Old people still know how to boogie. 
+
+<SYNC Start=972057><P Class=KRCC>
+Yeah. 
+
+<SYNC Start=972189><P Class=KRCC>
+More than me. 
+
+<SYNC Start=973421><P Class=KRCC>
+Oh, I can change that. 
+
+<SYNC Start=975143><P Class=KRCC>&nbsp;
+<SYNC Start=975894><P Class=KRCC>
+I'm Kurt, by the way.
+
+<SYNC Start=977151><P Class=KRCC>&nbsp;
+<SYNC Start=978647><P Class=KRCC>
+How'd it go? 
+
+<SYNC Start=979963><P Class=KRCC>
+Uh, terrific. 
+
+<SYNC Start=981524><P Class=KRCC>
+Uh, great. 
+
+<SYNC Start=983149><P Class=KRCC>
+So I guess you'll be coming back? 
+
+<SYNC Start=984534><P Class=KRCC>
+I hope so. 
+
+<SYNC Start=985528><P Class=KRCC>&nbsp;
+<SYNC Start=987076><P Class=KRCC>
+This really was a great idea, Nate. 
+
+<SYNC Start=988991><P Class=KRCC>
+So it seems, Dave. 
+
+<SYNC Start=990969><P Class=KRCC>&nbsp;
+<SYNC Start=993010><P Class=KRCC>
+So--
+
+<SYNC Start=993496><P Class=KRCC>
+Dave--
+
+<SYNC Start=994525><P Class=KRCC>
+you free tomorrow night? 
+
+<SYNC Start=995738><P Class=KRCC>&nbsp;
+<SYNC Start=997129><P Class=KRCC>
+Yes. 
+
+<SYNC Start=998443><P Class=KRCC>
+We're in the middle of a dry spell. 
+
+<SYNC Start=999723><P Class=KRCC>
+He's got nothing but time. 
+
+<SYNC Start=1000816><P Class=KRCC>&nbsp;
+<SYNC Start=1001711><P Class=KRCC>
+How's 8? 
+
+<SYNC Start=1003352><P Class=KRCC>&nbsp;
+<SYNC Start=1003922><P Class=KRCC>
+8 for dinner? 
+
+<SYNC Start=1006693><P Class=KRCC>
+Is OK. 
+
+<SYNC Start=1007332><P Class=KRCC>
+Great! 
+
+<SYNC Start=1008110><P Class=KRCC>
+I'll pick you up. 
+
+<SYNC Start=1009730><P Class=KRCC>
+See you tomorrow.
+<SYNC Start=1010726><P Class=KRCC>&nbsp;
+
+<SYNC Start=1021209><P Class=KRCC>
+You just pimped me out to that kid. 
+
+<SYNC Start=1023023><P Class=KRCC>&nbsp;
+<SYNC Start=1023274><P Class=KRCC>
+That kid wants to jump your bones. 
+
+<SYNC Start=1025759><P Class=KRCC>
+Oh, come on, David. 
+
+<SYNC Start=1026452><P Class=KRCC>
+I watch "Will and Grace." 
+
+<SYNC Start=1027503><P Class=KRCC>
+I've got gay-dar. 
+
+<SYNC Start=1028538><P Class=KRCC>&nbsp;
+<SYNC Start=1029124><P Class=KRCC>
+OK, don't say 
+
+<SYNC Start=1029751><P Class=KRCC>
+"gay-dar."
+
+<SYNC Start=1031343><P Class=KRCC>&nbsp;
+<SYNC Start=1032752><P Class=KRCC>
+Sure wish we could light up that joint. 
+
+<SYNC Start=1034686><P Class=KRCC>&nbsp;
+<SYNC Start=1035244><P Class=KRCC>
+Yeah, 
+
+<SYNC Start=1035662><P Class=KRCC>
+Dennis is watching us like a hawk
+
+<SYNC Start=1037629><P Class=KRCC>
+now that we have officially established ourselves as the anti-social losers. 
+
+<SYNC Start=1041847><P Class=KRCC>
+Uh, we'll just sneak off after we set up camp, 
+
+<SYNC Start=1044938><P Class=KRCC>
+while the rest of the bush group groom each other for lice. 
+
+<SYNC Start=1047819><P Class=KRCC>&nbsp;
+<SYNC Start=1052248><P Class=KRCC>
+Hi, Claire. 
+
+<SYNC Start=1053598><P Class=KRCC>&nbsp;
+<SYNC Start=1054477><P Class=KRCC>
+Hi. 
+
+<SYNC Start=1055399><P Class=KRCC>
+Whoa, whoa. 
+
+<SYNC Start=1057187><P Class=KRCC>
+You two are friends? 
+
+<SYNC Start=1058376><P Class=KRCC>&nbsp;
+<SYNC Start=1059248><P Class=KRCC>
+We go to the same school. 
+
+<SYNC Start=1060318><P Class=KRCC>
+We're not exactly friends. 
+
+<SYNC Start=1062248><P Class=KRCC>&nbsp;
+<SYNC Start=1062733><P Class=KRCC>
+We're not exactly enemies, either. 
+
+<SYNC Start=1064536><P Class=KRCC>
+we have classes together. 
+
+<SYNC Start=1065878><P Class=KRCC>
+One. 
+
+<SYNC Start=1067700><P Class=KRCC>
+Shouldn't you be leading us? 
+
+<SYNC Start=1069545><P Class=KRCC>
+Now the guy with braces is doing it. 
+
+<SYNC Start=1072106><P Class=KRCC>
+You know, everyone gets a turn. 
+
+<SYNC Start=1074341><P Class=KRCC>&nbsp;
+<SYNC Start=1074385><P Class=KRCC>
+Yeah, I thought we were gonna do some daredevil shit. 
+
+<SYNC Start=1076302><P Class=KRCC>
+I mean, we're just following a fuckin' map. 
+
+<SYNC Start=1078023><P Class=KRCC>
+This is fucking adolescent. 
+
+<SYNC Start=1079775><P Class=KRCC>&nbsp;
+<SYNC Start=1080526><P Class=KRCC>
+You guys have some pot? 
+
+<SYNC Start=1081966><P Class=KRCC>&nbsp;
+
+<SYNC Start=1082259><P Class=KRCC>
+Maybe. 
+
+<SYNC Start=1083084><P Class=KRCC>&nbsp;
+
+<SYNC Start=1093197><P Class=KRCC>
+Beautiful. 
+
+<SYNC Start=1094699><P Class=KRCC>&nbsp;
+<SYNC Start=1094958><P Class=KRCC>
+Absolutely beautiful. 
+
+<SYNC Start=1097733><P Class=KRCC>&nbsp;
+<SYNC Start=1098377><P Class=KRCC>
+What'd you use for the cheek bones? 
+
+<SYNC Start=1100206><P Class=KRCC>&nbsp;
+<SYNC Start=1100717><P Class=KRCC>
+Elmer's glue, dental floss, and modeling clay. 
+
+<SYNC Start=1103669><P Class=KRCC>&nbsp;
+<SYNC Start=1104283><P Class=KRCC>
+Should have had your work videotaped.
+
+<SYNC Start=1106101><P Class=KRCC>
+These lesser lites could learn from you. 
+
+<SYNC Start=1107982><P Class=KRCC>&nbsp;
+<SYNC Start=1108583><P Class=KRCC>
+I have a lot to learn myself. 
+
+<SYNC Start=1109945><P Class=KRCC>&nbsp;
+<SYNC Start=1110521><P Class=KRCC>
+Any interest in consulting? 
+
+<SYNC Start=1112076><P Class=KRCC>&nbsp;
+<SYNC Start=1112488><P Class=KRCC>
+My plate is full. 
+
+<SYNC Start=1113489><P Class=KRCC>&nbsp;
+
+<SYNC Start=1114264><P Class=KRCC>
+How about something more permanent? 
+
+<SYNC Start=1115908><P Class=KRCC>&nbsp;
+<SYNC Start=1116554><P Class=KRCC>
+What's gonna happen to Fisher & Sons? 
+
+<SYNC Start=1118360><P Class=KRCC>
+What do you care?
+
+<SYNC Start=1119037><P Class=KRCC>
+Is your name Fisher? 
+
+<SYNC Start=1119911><P Class=KRCC>&nbsp;
+<SYNC Start=1121666><P Class=KRCC>
+Within 8 months, I can offer you your own home. 
+
+<SYNC Start=1124229><P Class=KRCC>&nbsp;
+<SYNC Start=1124964><P Class=KRCC>
+There's a position opening up in San Diego early next year.
+
+<SYNC Start=1127943><P Class=KRCC>&nbsp;
+<SYNC Start=1128921><P Class=KRCC>
+I'll think about it. 
+
+<SYNC Start=1130005><P Class=KRCC>
+Sure. 
+
+<SYNC Start=1130852><P Class=KRCC>
+Take some time. 
+
+<SYNC Start=1131933><P Class=KRCC>
+Talk it over with your wife. 
+
+<SYNC Start=1133843><P Class=KRCC>
+Oh, and, by the way, 
+
+<SYNC Start=1135820><P Class=KRCC>
+this offer lasts 48 hours. 
+
+<SYNC Start=1137645><P Class=KRCC>&nbsp;
+<SYNC Start=1162288><P Class=KRCC>
+Brenda?
+
+<SYNC Start=1163502><P Class=KRCC>&nbsp;
+<SYNC Start=1176928><P Class=KRCC>
+Bren? 
+
+<SYNC Start=1178202><P Class=KRCC>&nbsp;
+<SYNC Start=1186570><P Class=KRCC>
+Hello? 
+
+<SYNC Start=1188509><P Class=KRCC>&nbsp;
+<SYNC Start=1189160><P Class=KRCC>
+Billy? 
+
+<SYNC Start=1190024><P Class=KRCC>&nbsp;
+<SYNC Start=1203606><P Class=KRCC>
+Fuck! 
+
+<SYNC Start=1204379><P Class=KRCC>&nbsp;
+<SYNC Start=1206334><P Class=KRCC>
+Crikey! 
+
+<SYNC Start=1206999><P Class=KRCC>&nbsp;
+<SYNC Start=1207431><P Class=KRCC>
+Who the fuck are you?!? 
+
+<SYNC Start=1208924><P Class=KRCC>&nbsp;
+<SYNC Start=1209427><P Class=KRCC>
+Name's Connor. 
+
+<SYNC Start=1210377><P Class=KRCC>
+Connor Thompson. 
+
+<SYNC Start=1211352><P Class=KRCC>&nbsp;
+
+<SYNC Start=1212107><P Class=KRCC>
+You gotta be Nate. 
+
+<SYNC Start=1213674><P Class=KRCC>&nbsp;
+<SYNC Start=1214926><P Class=KRCC>
+Brenda's given me the John Dory on you. 
+
+<SYNC Start=1217647><P Class=KRCC>&nbsp;
+<SYNC Start=1218407><P Class=KRCC>
+Never told me you were this territorial, though. 
+
+<SYNC Start=1220610><P Class=KRCC>
+What's with the broken glass? 
+
+<SYNC Start=1223105><P Class=KRCC>&nbsp;
+<SYNC Start=1224224><P Class=KRCC>
+One too many largies last night. 
+
+<SYNC Start=1226504><P Class=KRCC>&nbsp;
+<SYNC Start=1228573><P Class=KRCC>
+Do you mind putting something on? 
+
+<SYNC Start=1231083><P Class=KRCC>&nbsp;
+<SYNC Start=1231401><P Class=KRCC>
+You, don't worry. 
+
+<SYNC Start=1232745><P Class=KRCC>
+Don't fancy blokes. 
+
+<SYNC Start=1234199><P Class=KRCC>&nbsp;
+<SYNC Start=1234886><P Class=KRCC>
+Nice pants there.
+
+<SYNC Start=1235746><P Class=KRCC>&nbsp;
+
+<SYNC Start=1241584><P Class=KRCC>
+Is Brenda here? 
+
+<SYNC Start=1242567><P Class=KRCC>&nbsp;
+<SYNC Start=1243308><P Class=KRCC>
+Doesn't look like it. 
+
+<SYNC Start=1244746><P Class=KRCC>&nbsp;
+<SYNC Start=1245207><P Class=KRCC>
+Well, do you know where she is? 
+
+<SYNC Start=1246377><P Class=KRCC>&nbsp;
+<SYNC Start=1246790><P Class=KRCC>
+No. 
+
+<SYNC Start=1248297><P Class=KRCC>&nbsp;
+<SYNC Start=1254234><P Class=KRCC>
+I'm not ruining her, if that's what you think. 
+
+<SYNC Start=1256570><P Class=KRCC>
+No, she made it quite clear that wasn't an option. 
+
+<SYNC Start=1258926><P Class=KRCC>
+Her heart's got your name on it now. 
+
+<SYNC Start=1260771><P Class=KRCC>
+No, that would be her ass.
+
+<SYNC Start=1262148><P Class=KRCC>&nbsp;
+<SYNC Start=1265685><P Class=KRCC>
+You're thinkin' I'm pretty sass, arencha? 
+
+<SYNC Start=1267767><P Class=KRCC>&nbsp;
+
+<SYNC Start=1273203><P Class=KRCC>
+Hey? 
+
+<SYNC Start=1273865><P Class=KRCC>&nbsp;
+<SYNC Start=1275204><P Class=KRCC>
+Any of you guys seen Topher? 
+
+<SYNC Start=1276382><P Class=KRCC>&nbsp;
+<SYNC Start=1279616><P Class=KRCC>
+Bet you can't wait to get back to Stepford.
+
+<SYNC Start=1281827><P Class=KRCC>&nbsp;
+<SYNC Start=1294102><P Class=KRCC>
+Take it you two have met. 
+
+<SYNC Start=1295507><P Class=KRCC>&nbsp;
+<SYNC Start=1297991><P Class=KRCC>
+These took forever to dry.
+
+<SYNC Start=1299813><P Class=KRCC>&nbsp;
+<SYNC Start=1301068><P Class=KRCC>
+Hey, you. 
+
+<SYNC Start=1301897><P Class=KRCC>&nbsp;
+<SYNC Start=1314421><P Class=KRCC>
+So apparently you were mad at me because I went to the desert without you. 
+
+<SYNC Start=1317918><P Class=KRCC>
+No. 
+
+<SYNC Start=1318820><P Class=KRCC>
+Well, what's with Crocodile Dundee then?
+
+<SYNC Start=1320371><P Class=KRCC>
+Why the fuck are you doing his laundry? 
+
+<SYNC Start=1322039><P Class=KRCC>
+Oh, dear. 
+
+<SYNC Start=1322455><P Class=KRCC>
+This is really unattractive behavior, Nate. 
+
+<SYNC Start=1324621><P Class=KRCC>
+Huh. 
+
+<SYNC Start=1325198><P Class=KRCC>
+Sorry. 
+
+<SYNC Start=1325603><P Class=KRCC>
+I guess I'm just a little weirded out that I keep running into naked guys in your house. 
+
+<SYNC Start=1331527><P Class=KRCC>
+They're still warm. 
+
+<SYNC Start=1332707><P Class=KRCC>
+Thanks, Lollies!
+
+<SYNC Start=1333696><P Class=KRCC>&nbsp;
+<SYNC Start=1336157><P Class=KRCC>
+Connor is a very old friend from a totally previous life. 
+
+<SYNC Start=1338966><P Class=KRCC>
+He hasn't been in LA for 10 years. 
+
+<SYNC Start=1340560><P Class=KRCC>
+Don't freak! 
+
+<SYNC Start=1341487><P Class=KRCC>
+I am not freaking. 
+
+<SYNC Start=1342696><P Class=KRCC>&nbsp;
+<SYNC Start=1343391><P Class=KRCC>
+ust exactly where does Nature Boy sleep? 
+
+<SYNC Start=1346113><P Class=KRCC>&nbsp;
+<SYNC Start=1355800><P Class=KRCC>
+Why didn't you tell me about him? 
+
+<SYNC Start=1356993><P Class=KRCC>&nbsp;
+<SYNC Start=1357572><P Class=KRCC>
+Because I knew that you would react like this. 
+
+<SYNC Start=1360974><P Class=KRCC>&nbsp;
+<SYNC Start=1362698><P Class=KRCC>
+I am touched that you're jealous. 
+
+<SYNC Start=1365450><P Class=KRCC>&nbsp;
+<SYNC Start=1366649><P Class=KRCC>
+Now, get over it, 
+
+<SYNC Start=1368608><P Class=KRCC>
+because you have no reason to be. 
+
+<SYNC Start=1371503><P Class=KRCC>&nbsp;
+<SYNC Start=1372016><P Class=KRCC>
+I promise.
+
+<SYNC Start=1373168><P Class=KRCC>&nbsp;
+
+<SYNC Start=1376756><P Class=KRCC>
+If I was fucking him, I'd tell you. 
+
+<SYNC Start=1378512><P Class=KRCC>
+Oh, Jesus, that's comforting! 
+
+<SYNC Start=1380381><P Class=KRCC>
+Thank you! 
+
+<SYNC Start=1380950><P Class=KRCC>
+Come to dinner tomorrow night. 
+
+<SYNC Start=1382083><P Class=KRCC>
+Connor's cooking some Australian thing. 
+
+<SYNC Start=1383530><P Class=KRCC>
+Billy's coming over. 
+
+<SYNC Start=1385062><P Class=KRCC>
+Oh, Billy's coming over! 
+
+<SYNC Start=1386629><P Class=KRCC>
+Well, I thought he was staying with you. 
+
+<SYNC Start=1387898><P Class=KRCC>
+you've been fucking lying to me! 
+
+<SYNC Start=1389392><P Class=KRCC>
+I have spent the last 6 days worried sick about you, 
+
+<SYNC Start=1392371><P Class=KRCC>
+and you've been fuckin' partying your ass off! 
+
+<SYNC Start=1394210><P Class=KRCC>
+OK. 
+
+<SYNC Start=1395855><P Class=KRCC>
+I fucked up. 
+
+<SYNC Start=1397982><P Class=KRCC>&nbsp;
+<SYNC Start=1398754><P Class=KRCC>
+OK? 
+
+<SYNC Start=1400130><P Class=KRCC>&nbsp;
+<SYNC Start=1404255><P Class=KRCC>
+I've been under a little pressure, you know, with my brother having a nervous breakdown and everything. 
+
+<SYNC Start=1408492><P Class=KRCC>
+I was 
+
+<SYNC Start=1410790><P Class=KRCC>
+just trying to simplify things.
+
+<SYNC Start=1413192><P Class=KRCC>&nbsp;
+<SYNC Start=1414922><P Class=KRCC>
+Don't blow this out of proportion, please, Nate. 
+
+<SYNC Start=1418775><P Class=KRCC>&nbsp;
+<SYNC Start=1422437><P Class=KRCC>
+OK. 
+
+<SYNC Start=1423305><P Class=KRCC>&nbsp;
+<SYNC Start=1427305><P Class=KRCC>
+What time tomorrow night? 
+
+<SYNC Start=1428571><P Class=KRCC>&nbsp;
+
+<SYNC Start=1443375><P Class=KRCC>
+Topher? 
+
+<SYNC Start=1444241><P Class=KRCC>&nbsp;
+<SYNC Start=1450492><P Class=KRCC>
+Fucking asshole! 
+
+<SYNC Start=1451743><P Class=KRCC>&nbsp;
+<SYNC Start=1452159><P Class=KRCC>
+Oh, Jesus! 
+
+<SYNC Start=1453248><P Class=KRCC>&nbsp;
+
+<SYNC Start=1454346><P Class=KRCC>
+Oh, fuck! 
+
+<SYNC Start=1456083><P Class=KRCC>
+Shit! I'm sorry. 
+
+<SYNC Start=1457780><P Class=KRCC>&nbsp;
+<SYNC Start=1459037><P Class=KRCC>
+Fuck me!
+<SYNC Start=1460135><P Class=KRCC>&nbsp;
+
+<SYNC Start=1461336><P Class=KRCC>
+Aw, shit! 
+
+<SYNC Start=1462741><P Class=KRCC>&nbsp;
+<SYNC Start=1463632><P Class=KRCC>
+Look, look,
+
+<SYNC Start=1465201><P Class=KRCC>
+she tells anybody, no one will believe her. 
+
+<SYNC Start=1467751><P Class=KRCC>
+Everyone thinks she's like crazy
+
+<SYNC Start=1470066><P Class=KRCC>&nbsp;
+<SYNC Start=1471659><P Class=KRCC>
+The sexual habits of the Koala are quite mysterious 
+
+<SYNC Start=1474657><P Class=KRCC>
+because of the complicated reproductive systems...
+
+<SYNC Start=1477359><P Class=KRCC>&nbsp;
+<SYNC Start=1478218><P Class=KRCC>
+The male Koala's penis is forked like a snake's tongue...
+
+<SYNC Start=1482222><P Class=KRCC>&nbsp;
+<SYNC Start=1482486><P Class=KRCC>
+The female has two vaginas.
+
+<SYNC Start=1485215><P Class=KRCC>
+Whatchu watching? 
+
+<SYNC Start=1486321><P Class=KRCC>&nbsp;
+
+<SYNC Start=1488510><P Class=KRCC>
+Very funny. 
+
+<SYNC Start=1490044><P Class=KRCC>&nbsp;
+<SYNC Start=1492118><P Class=KRCC>
+What's up? 
+
+<SYNC Start=1492980><P Class=KRCC>&nbsp;
+
+<SYNC Start=1493760><P Class=KRCC>
+Well, just thought you should know, 
+
+<SYNC Start=1496290><P Class=KRCC>
+I called Vanessa, and there was no ultrasound today. 
+
+<SYNC Start=1498790><P Class=KRCC>&nbsp;
+<SYNC Start=1499418><P Class=KRCC>
+And I also think Rico took a couple of bottles of stuff from the prep room. 
+
+<SYNC Start=1502643><P Class=KRCC>&nbsp;
+<SYNC Start=1503504><P Class=KRCC>
+Shit. 
+
+<SYNC Start=1504398><P Class=KRCC>&nbsp;
+<SYNC Start=1505592><P Class=KRCC>
+Fucking Kroehner. 
+
+<SYNC Start=1506737><P Class=KRCC>&nbsp;
+<SYNC Start=1508867><P Class=KRCC>
+Alright, I'll call around, see what I can find out. 
+
+<SYNC Start=1510596><P Class=KRCC>
+Why didn't you tell me about this earlier? 
+
+<SYNC Start=1512175><P Class=KRCC>&nbsp;
+<SYNC Start=1513178><P Class=KRCC>
+I was going to, but I got distracted by you and the square dance guy.
+
+<SYNC Start=1516767><P Class=KRCC>&nbsp;
+<SYNC Start=1518703><P Class=KRCC>
+Look, it's not like Rico has an exclusive contract with us or anything.
+
+<SYNC Start=1521900><P Class=KRCC>
+So he's moonlighting. 
+
+<SYNC Start=1522873><P Class=KRCC>
+Moonlighting is when you take a job when your first job is over. 
+
+<SYNC Start=1525713><P Class=KRCC>
+When he takes a job for Gilardi while he's still on the clock with us, that's treason. 
+
+<SYNC Start=1529362><P Class=KRCC>
+Stop being such a drama queen. 
+
+<SYNC Start=1530666><P Class=KRCC>
+Stop acting like your honorary mayor of West Hollywood all of a sudden. 
+
+<SYNC Start=1534462><P Class=KRCC>&nbsp;
+<SYNC Start=1538910><P Class=KRCC>
+He lied to our faces. 
+<SYNC Start=1541250><P Class=KRCC>&nbsp;
+
+<SYNC Start=1543367><P Class=KRCC>
+Yeah, he did. 
+
+<SYNC Start=1545602><P Class=KRCC>&nbsp;
+
+<SYNC Start=1552181><P Class=KRCC>
+Hey, Claire. 
+
+<SYNC Start=1553723><P Class=KRCC>&nbsp;
+<SYNC Start=1555147><P Class=KRCC>
+Hey, look, I'm sorry about last night. 
+
+<SYNC Start=1559039><P Class=KRCC>
+I thought you and Topher-- 
+
+<SYNC Start=1560072><P Class=KRCC>
+It's OK. 
+
+<SYNC Start=1560938><P Class=KRCC>
+But, whatever, it's none of my business. 
+
+<SYNC Start=1562647><P Class=KRCC>
+No, it's OK. 
+
+<SYNC Start=1563432><P Class=KRCC>
+I just--I don't know--<br>I hope you won't just write me off now. 
+
+<SYNC Start=1568326><P Class=KRCC>
+I mean, maybe it'll even like break the ice. 
+
+<SYNC Start=1572701><P Class=KRCC>&nbsp;
+<SYNC Start=1574102><P Class=KRCC>
+Yeah. 
+<SYNC Start=1575088><P Class=KRCC>&nbsp;
+
+<SYNC Start=1578997><P Class=KRCC>
+I just kinda, you know, think you're funny <br>and cool and, well, sometimes, 
+
+<SYNC Start=1584826><P Class=KRCC>
+I feel boring and lame around you, and I think it's 'cause,<br> I don't know, I kind of wanna be your friend. 
+
+<SYNC Start=1596567><P Class=KRCC>&nbsp;
+<SYNC Start=1598083><P Class=KRCC>
+Why? 
+
+<SYNC Start=1599266><P Class=KRCC>&nbsp;
+
+<SYNC Start=1600616><P Class=KRCC>
+Why not? 
+
+<SYNC Start=1601623><P Class=KRCC>&nbsp;
+<SYNC Start=1606454><P Class=KRCC>
+OK, this is totally weird. 
+
+<SYNC Start=1608567><P Class=KRCC>&nbsp;
+<SYNC Start=1626934><P Class=KRCC>
+How's Vanessa? 
+
+<SYNC Start=1628046><P Class=KRCC>&nbsp;
+<SYNC Start=1629922><P Class=KRCC>
+She's great. Yeah. 
+
+<SYNC Start=1633154><P Class=KRCC>
+The baby's as strong as a bouncer.
+
+<SYNC Start=1634641><P Class=KRCC>
+How's Chloe Yorkin? 
+
+<SYNC Start=1637170><P Class=KRCC>
+Some of your more ardent fans in prep room around LA<br> are calling this one your Sistine Chapel. 
+
+<SYNC Start=1646623><P Class=KRCC>
+Look, I told Gilardi it was a 1 time thing. 
+
+<SYNC Start=1651458><P Class=KRCC>
+I mean, come on, guys, <br>you gotta--you gotta understand. 
+
+<SYNC Start=1654546><P Class=KRCC>
+It wasn't for the money. 
+
+<SYNC Start=1656555><P Class=KRCC>
+I mean, her head was like a--
+
+<SYNC Start=1659034><P Class=KRCC>
+like a watermelon somebody hit with a sledgehammer. 
+
+<SYNC Start=1662442><P Class=KRCC>
+I mean, a case like that doesn't come along every day. 
+
+<SYNC Start=1665431><P Class=KRCC>
+What did he offer you to leave? 
+
+<SYNC Start=1667448><P Class=KRCC>&nbsp;
+<SYNC Start=1669930><P Class=KRCC>
+What are you offering me to stay?
+
+<SYNC Start=1672381><P Class=KRCC>&nbsp;
+<SYNC Start=1676772><P Class=KRCC>
+What?
+
+<SYNC Start=1677724><P Class=KRCC>&nbsp;
+<SYNC Start=1679401><P Class=KRCC>
+You guys thought I would stay out of loyalty? 
+
+<SYNC Start=1681680><P Class=KRCC>&nbsp;
+<SYNC Start=1683061><P Class=KRCC>
+Unlike you two, 
+
+<SYNC Start=1683976><P Class=KRCC>
+I have a wife and kids to think about. 
+
+<SYNC Start=1686091><P Class=KRCC>&nbsp;
+<SYNC Start=1687104><P Class=KRCC>
+What do you want? 
+
+<SYNC Start=1688696><P Class=KRCC>&nbsp;
+<SYNC Start=1690008><P Class=KRCC>
+I want to be a partner. 
+
+<SYNC Start=1691045><P Class=KRCC>
+That would require a significant financial investment on your part. 
+
+<SYNC Start=1695404><P Class=KRCC>&nbsp;
+<SYNC Start=1697114><P Class=KRCC>
+That's what partners are. 
+
+<SYNC Start=1698845><P Class=KRCC>&nbsp;
+<SYNC Start=1701182><P Class=KRCC>
+Rico, let Dave and me talk. 
+
+<SYNC Start=1702869><P Class=KRCC>
+Don't do anything until we have a chance to counter, OK? 
+
+<SYNC Start=1705547><P Class=KRCC>&nbsp;
+<SYNC Start=1708639><P Class=KRCC>
+OK. 
+
+<SYNC Start=1709795><P Class=KRCC>&nbsp;
+<SYNC Start=1719052><P Class=KRCC>
+Maybe we can work out some sort of profit-sharing plan. 
+
+<SYNC Start=1721103><P Class=KRCC>
+He's finally figured out he's worth more than we can pay him. 
+
+<SYNC Start=1723961><P Class=KRCC>
+We're fucked. 
+
+<SYNC Start=1725280><P Class=KRCC>&nbsp;
+
+<SYNC Start=1726822><P Class=KRCC>
+OK, 
+
+<SYNC Start=1728927><P Class=KRCC>
+today we're gonna climb about 3000 feet<br> to a shelter close to the summit. 
+
+<SYNC Start=1735057><P Class=KRCC>
+Now, we have to move fast. 
+
+<SYNC Start=1736995><P Class=KRCC>
+When it gets dark, it gets cold. 
+
+<SYNC Start=1739008><P Class=KRCC>
+Why did you sleep with him? 
+
+<SYNC Start=1740507><P Class=KRCC>
+I don't know. 
+
+<SYNC Start=1741825><P Class=KRCC>
+Just to see if I could. 
+
+<SYNC Start=1743908><P Class=KRCC>&nbsp;
+<SYNC Start=1745184><P Class=KRCC>
+So who hasn't been leader yet? 
+
+<SYNC Start=1748125><P Class=KRCC>&nbsp;
+<SYNC Start=1753357><P Class=KRCC>
+Claire. 
+
+<SYNC Start=1754993><P Class=KRCC>&nbsp;
+
+<SYNC Start=1755527><P Class=KRCC>
+What? 
+
+<SYNC Start=1757023><P Class=KRCC>
+Which way do we go? 
+
+<SYNC Start=1758747><P Class=KRCC>
+I don't know. 
+
+<SYNC Start=1759888><P Class=KRCC>
+I really don't care. 
+
+<SYNC Start=1761838><P Class=KRCC>&nbsp;
+<SYNC Start=1763187><P Class=KRCC>
+Somebody else pick. 
+
+<SYNC Start=1764271><P Class=KRCC>
+Come on, Claire.<BR>Don't you wanna consult your map and compass? 
+
+<SYNC Start=1766705><P Class=KRCC>
+No, I think I lost my compass anyway. 
+
+<SYNC Start=1769028><P Class=KRCC>
+Well, borrow one from someone else. 
+
+<SYNC Start=1771505><P Class=KRCC>&nbsp;
+<SYNC Start=1772776><P Class=KRCC>
+Look, just pick someone else, OK? 
+
+<SYNC Start=1775152><P Class=KRCC>
+Please. 
+
+<SYNC Start=1776851><P Class=KRCC>&nbsp;
+<SYNC Start=1782138><P Class=KRCC>
+OK. 
+
+<SYNC Start=1782743><P Class=KRCC>
+That way. 
+
+<SYNC Start=1784065><P Class=KRCC>&nbsp;
+<SYNC Start=1784620><P Class=KRCC>
+I think we should go that way. 
+
+<SYNC Start=1785551><P Class=KRCC>
+It's obviously the path.
+
+<SYNC Start=1787172><P Class=KRCC>
+OK, maybe someone else would like to--
+
+<SYNC Start=1789113><P Class=KRCC>
+Hey, Claire paid her 1200 bucks, too. 
+
+<SYNC Start=1792132><P Class=KRCC>
+Doesn't she get a turn?
+
+<SYNC Start=1793294><P Class=KRCC>
+Don't pull me into your shit, OK? 
+
+<SYNC Start=1795828><P Class=KRCC>&nbsp;
+<SYNC Start=1801481><P Class=KRCC>
+OK, look, alright. 
+
+<SYNC Start=1803790><P Class=KRCC>
+Let's all take out our maps and compasses.
+
+<SYNC Start=1807084><P Class=KRCC>
+It's Claire's turn, Dennis. 
+
+<SYNC Start=1809319><P Class=KRCC>&nbsp;
+<SYNC Start=1810745><P Class=KRCC>
+I think we should follow Claire, <br>and she said we should go this way. 
+
+<SYNC Start=1815842><P Class=KRCC>&nbsp;
+<SYNC Start=1819676><P Class=KRCC>
+OK, 
+
+<SYNC Start=1821740><P Class=KRCC>
+this way it is. 
+
+<SYNC Start=1822866><P Class=KRCC>&nbsp;
+<SYNC Start=1828052><P Class=KRCC>
+Thanks a lot. 
+
+<SYNC Start=1829291><P Class=KRCC>
+What? 
+
+<SYNC Start=1830196><P Class=KRCC>
+Now this trip is finally starting to be fun. 
+
+<SYNC Start=1832975><P Class=KRCC>&nbsp;
+<SYNC Start=1834319><P Class=KRCC>
+I prefer busy to quiet. 
+
+<SYNC Start=1837550><P Class=KRCC>
+Some peoples, 
+
+<SYNC Start=1840067><P Class=KRCC>
+they like nothing to do. 
+
+<SYNC Start=1841894><P Class=KRCC>
+Me, drives me crazy, 
+
+<SYNC Start=1844553><P Class=KRCC>
+and, besides, 
+
+<SYNC Start=1846421><P Class=KRCC>
+no customer, 
+
+<SYNC Start=1847473><P Class=KRCC>
+no money. 
+
+<SYNC Start=1849925><P Class=KRCC>
+When I'm walking by this restaurant every day while I'm going home, 
+
+<SYNC Start=1854468><P Class=KRCC>
+this Ethiopian restaurant, 
+
+<SYNC Start=1857319><P Class=KRCC>
+no customer, 
+
+<SYNC Start=1858734><P Class=KRCC>
+every night, night after night, no customer! 
+
+<SYNC Start=1862009><P Class=KRCC>
+How they can make a living, I don't know. 
+
+<SYNC Start=1863655><P Class=KRCC>
+I don't understand this...
+
+<SYNC Start=1891670><P Class=KRCC>
+I boring you? 
+
+<SYNC Start=1893475><P Class=KRCC>&nbsp;
+<SYNC Start=1895718><P Class=KRCC>
+Heavens no. 
+
+<SYNC Start=1897776><P Class=KRCC>
+Good. 
+
+<SYNC Start=1899389><P Class=KRCC>
+Watch you don't cut your finger. 
+
+<SYNC Start=1901722><P Class=KRCC>&nbsp;
+<SYNC Start=1907141><P Class=KRCC>
+Did you really put a foot in Gabe Dimas' locker? 
+
+<SYNC Start=1910210><P Class=KRCC>
+Yeah. 
+
+<SYNC Start=1911185><P Class=KRCC>
+Oh my God, that is like the greatest thing ever.
+
+<SYNC Start=1914351><P Class=KRCC>
+Anyone ever deserved it--
+
+<SYNC Start=1916670><P Class=KRCC>&nbsp;
+<SYNC Start=1916830><P Class=KRCC>
+Did you have sex with him? 
+
+<SYNC Start=1918099><P Class=KRCC>
+Oh, yeah. 
+
+<SYNC Start=1920062><P Class=KRCC>&nbsp;
+<SYNC Start=1920233><P Class=KRCC>
+Did you suck his toes? 
+
+<SYNC Start=1921926><P Class=KRCC>
+Yup. 
+
+<SYNC Start=1923636><P Class=KRCC>
+I'm gonna have to ask the two of you to turn around. 
+
+<SYNC Start=1926094><P Class=KRCC>
+What? 
+
+<SYNC Start=1927451><P Class=KRCC>
+I'll accompany you both back to the last camp. 
+
+<SYNC Start=1929346><P Class=KRCC>
+A jeep will meet you there, take you back to base parking. 
+<SYNC Start=1931250><P Class=KRCC>
+You're kicking us out?
+
+<SYNC Start=1933046><P Class=KRCC>
+You can't do that! 
+
+<SYNC Start=1933860><P Class=KRCC>
+Yes we can. 
+
+<SYNC Start=1934770><P Class=KRCC>
+It's on the contract that you and your adult guardian signed. 
+
+<SYNC Start=1938157><P Class=KRCC>
+What? 
+
+<SYNC Start=1938338><P Class=KRCC>
+Anyone who witnesses a group leader having sex <br>with a student can be thrown out? 
+
+<SYNC Start=1942031><P Class=KRCC>
+I doubt it. 
+
+<SYNC Start=1942443><P Class=KRCC>
+You purposely lead us off the predetermined course, <br>endangering everyone's safety, 
+
+<SYNC Start=1949212><P Class=KRCC>
+and I'd be willing to bet that there's drugs in your pack. 
+
+<SYNC Start=1951597><P Class=KRCC>
+You can't go through my stuff. 
+
+<SYNC Start=1952616><P Class=KRCC>
+You need a search warrant!
+
+<SYNC Start=1954175><P Class=KRCC>&nbsp;
+<SYNC Start=1956811><P Class=KRCC>
+OK? 
+
+<SYNC Start=1958418><P Class=KRCC>
+Now, look, we can do this the easy way or<br> we can get the cops involved. 
+
+<SYNC Start=1960819><P Class=KRCC>
+What do you want? 
+
+<SYNC Start=1962006><P Class=KRCC>
+You are such a total loser. 
+
+<SYNC Start=1964578><P Class=KRCC>
+This is not a game, you little bitch. 
+
+<SYNC Start=1967071><P Class=KRCC>
+You are fucking with people's lives here. 
+
+<SYNC Start=1968720><P Class=KRCC>
+Some of those people are completely innocent bystanders! 
+
+<SYNC Start=1971609><P Class=KRCC>
+Hello! 
+
+<SYNC Start=1972848><P Class=KRCC>&nbsp;
+<SYNC Start=1978363><P Class=KRCC>
+David Fisher.
+
+
+<SYNC Start=1979748><P Class=KRCC>
+Is this the adult guardian of Claire Fisher? 
+
+<SYNC Start=1983004><P Class=KRCC>
+Uh--yes, 
+
+<SYNC Start=1984092><P Class=KRCC>
+that is correct. 
+
+<SYNC Start=1985413><P Class=KRCC>
+I'm with Sierra Crossroads. 
+
+<SYNC Start=1986521><P Class=KRCC>
+Your daughter was discovered with marijuana. 
+
+<SYNC Start=1988418><P Class=KRCC>
+She's leaving the expedition. 
+
+<SYNC Start=1990618><P Class=KRCC>
+Transportation's on its way to take her back to her car. 
+
+<SYNC Start=1992547><P Class=KRCC>
+She should be back in LA by midnight tonight <br>instead of Sunday, as planned. 
+
+<SYNC Start=1996832><P Class=KRCC>
+Any questions? 
+
+<SYNC Start=1998295><P Class=KRCC>
+Uh--no,<br> thank you for calling. 
+
+<SYNC Start=2003131><P Class=KRCC>
+Your dad sounds like a real tight-ass. 
+
+<SYNC Start=2006319><P Class=KRCC>&nbsp;
+<SYNC Start=2009289><P Class=KRCC>
+Castenada, huh? 
+
+<SYNC Start=2011125><P Class=KRCC>&nbsp;
+<SYNC Start=2012095><P Class=KRCC>
+You still read that? 
+
+<SYNC Start=2012730><P Class=KRCC>
+Look, don't even. 
+
+<SYNC Start=2014749><P Class=KRCC>
+All need for us to interact has been removed. 
+
+<SYNC Start=2017645><P Class=KRCC>&nbsp;
+<SYNC Start=2020570><P Class=KRCC>
+Listen, how well do you know Parker? 
+
+<SYNC Start=2023575><P Class=KRCC>
+Hardly at all. 
+
+<SYNC Start=2024921><P Class=KRCC>
+'Cause I'd really hate it if she's one of those people who would,
+
+<SYNC Start=2027359><P Class=KRCC>
+you know, create a huge stink and ruin my life <br>just for the entertainment value of it. 
+
+<SYNC Start=2032533><P Class=KRCC>
+Sorry. <br>I don't really know her. 
+
+<SYNC Start=2034649><P Class=KRCC>
+God,<br> I hate pissing outdoors! 
+
+<SYNC Start=2039292><P Class=KRCC>
+Parker, don't light that. 
+
+<SYNC Start=2041428><P Class=KRCC>&nbsp;
+
+<SYNC Start=2046485><P Class=KRCC>
+So who's in charge while you're here babysitting us? 
+
+<SYNC Start=2049300><P Class=KRCC>
+Topher. 
+
+<SYNC Start=2050909><P Class=KRCC>
+What? <br>He hates this whole Sierra Crossroads bullshit. 
+
+<SYNC Start=2053419><P Class=KRCC>
+What, are you kidding? 
+
+<SYNC Start=2054972><P Class=KRCC>
+He's been doing it since he's 14 years old. 
+
+<SYNC Start=2057737><P Class=KRCC>&nbsp;
+<SYNC Start=2058709><P Class=KRCC>
+You're so full of shit.
+
+<SYNC Start=2059973><P Class=KRCC>
+It's one of the things that helped him get accepted to Stanford. 
+
+<SYNC Start=2063146><P Class=KRCC>&nbsp;
+<SYNC Start=2064064><P Class=KRCC>
+Topher is going to Stanford? 
+
+<SYNC Start=2066097><P Class=KRCC>
+Pre-law. 
+
+<SYNC Start=2067976><P Class=KRCC>&nbsp;
+<SYNC Start=2069654><P Class=KRCC>
+This whole experience just gets more and more irritating. 
+
+<SYNC Start=2073057><P Class=KRCC>
+Here's your ride. 
+
+<SYNC Start=2075200><P Class=KRCC>&nbsp;
+<SYNC Start=2091691><P Class=KRCC>
+10 minutes. 
+
+<SYNC Start=2093530><P Class=KRCC>&nbsp;
+
+<SYNC Start=2108235><P Class=KRCC>
+Damn, she looks good. 
+
+<SYNC Start=2110819><P Class=KRCC>
+You took Polaroids, right? 
+
+<SYNC Start=2112428><P Class=KRCC>
+Polaroids? 
+
+<SYNC Start=2114114><P Class=KRCC>&nbsp;
+<SYNC Start=2114209><P Class=KRCC>
+I borrowed Jacob's digital camera.
+
+<SYNC Start=2117244><P Class=KRCC>&nbsp;
+<SYNC Start=2120767><P Class=KRCC>
+You blended the filler material just perfect! 
+
+<SYNC Start=2124501><P Class=KRCC>&nbsp;
+<SYNC Start=2124917><P Class=KRCC>
+Honey,
+
+<SYNC Start=2125888><P Class=KRCC>
+she really is your Sistine Chapel! 
+
+<SYNC Start=2129191><P Class=KRCC>
+You think? 
+
+<SYNC Start=2130081><P Class=KRCC>
+Baby, you know. 
+
+<SYNC Start=2133689><P Class=KRCC>
+Too bad you gotta bury her. 
+
+<SYNC Start=2135456><P Class=KRCC>
+Yeah. 
+
+<SYNC Start=2136810><P Class=KRCC>&nbsp;
+<SYNC Start=2139712><P Class=KRCC>
+She looks beautiful, doesn't she? 
+
+<SYNC Start=2141655><P Class=KRCC>
+Never better. 
+
+<SYNC Start=2142732><P Class=KRCC>
+You should've seen her yesterday. 
+
+<SYNC Start=2144550><P Class=KRCC>&nbsp;
+<SYNC Start=2145036><P Class=KRCC>
+You're gonna take the offer. 
+
+<SYNC Start=2146314><P Class=KRCC>
+I haven't decided yet. 
+
+<SYNC Start=2147753><P Class=KRCC>
+No,<br> I said, you're gonna take the offer. 
+
+<SYNC Start=2150746><P Class=KRCC>&nbsp;
+<SYNC Start=2151821><P Class=KRCC>
+Where would I be without the Fishers? 
+
+<SYNC Start=2153471><P Class=KRCC>
+In a house. 
+
+<SYNC Start=2154332><P Class=KRCC>
+Not some lousy apartment. <br>They treat you like a migrant worker. 
+
+<SYNC Start=2158391><P Class=KRCC>&nbsp;
+<SYNC Start=2160047><P Class=KRCC>
+They'll never make me a partner. 
+
+<SYNC Start=2162311><P Class=KRCC>
+Not ever. 
+
+<SYNC Start=2163665><P Class=KRCC>&nbsp;
+<SYNC Start=2165262><P Class=KRCC>
+1500 a restoration. 
+
+<SYNC Start=2168841><P Class=KRCC>&nbsp;
+<SYNC Start=2170790><P Class=KRCC>
+Tuition at SC's highway robbery, so<br> calling helps pay for books and beer
+
+<SYNC Start=2175351><P Class=KRCC>
+It's either that or become a beeper boy.
+
+<SYNC Start=2176928><P Class=KRCC>
+I'm not quite ready to go there. 
+
+<SYNC Start=2178919><P Class=KRCC>&nbsp;
+<SYNC Start=2179932><P Class=KRCC>
+So <br>what's with the International Male shirt? 
+
+<SYNC Start=2182585><P Class=KRCC>
+This? 
+
+<SYNC Start=2183146><P Class=KRCC>
+Oh, <br>I borrowed it from my sister. 
+
+<SYNC Start=2187388><P Class=KRCC>
+It looks good. 
+
+<SYNC Start=2189219><P Class=KRCC>
+I bet it looks even better off. 
+
+<SYNC Start=2191067><P Class=KRCC>&nbsp;
+<SYNC Start=2197013><P Class=KRCC>
+So you were talking about square dance calling? 
+
+<SYNC Start=2200202><P Class=KRCC>
+Yeah, <br>it's my grandparents' group. 
+
+<SYNC Start=2202542><P Class=KRCC>
+They practically raised me after my parents kicked me out. 
+
+<SYNC Start=2205354><P Class=KRCC>
+Kicked you out? 
+
+<SYNC Start=2206880><P Class=KRCC>&nbsp;
+<SYNC Start=2208115><P Class=KRCC>
+When they found out about you--
+
+<SYNC Start=2209399><P Class=KRCC>
+When my father walked in on me and my <br>high school boyfriend fucking on the desk in his study. 
+
+<SYNC Start=2214023><P Class=KRCC>
+It was awful. 
+
+<SYNC Start=2215158><P Class=KRCC>
+My mother had a complete breakdown. 
+
+<SYNC Start=2217144><P Class=KRCC>
+My parents eventually split. 
+
+<SYNC Start=2219717><P Class=KRCC>
+It was a total movie for Lifetime. 
+
+<SYNC Start=2221680><P Class=KRCC>
+What about you?<br> What did your parents do? 
+
+<SYNC Start=2224019><P Class=KRCC>
+When I came out? 
+
+<SYNC Start=2225907><P Class=KRCC>
+Uh, <br>my dad was OK with it. 
+
+<SYNC Start=2228088><P Class=KRCC>
+My mom's still a little uncomfortable. 
+
+<SYNC Start=2230327><P Class=KRCC>
+It still baffles me that anyone even gives a shit, <br>you know? 
+
+<SYNC Start=2233419><P Class=KRCC>
+Here you go. <br>For you. Enjoy.
+
+<SYNC Start=2237196><P Class=KRCC>
+You have a boyfriend? 
+
+<SYNC Start=2239647><P Class=KRCC>
+Uh--<br>no. 
+
+<SYNC Start=2241476><P Class=KRCC>
+Why not? 
+
+<SYNC Start=2243061><P Class=KRCC>
+I'm not sure. 
+
+<SYNC Start=2245677><P Class=KRCC>
+You ever have one? 
+
+<SYNC Start=2247157><P Class=KRCC>&nbsp;
+<SYNC Start=2247791><P Class=KRCC>
+Yeah. You? 
+
+<SYNC Start=2249220><P Class=KRCC>
+Yeah. Several. 
+
+<SYNC Start=2251143><P Class=KRCC>&nbsp;
+<SYNC Start=2254143><P Class=KRCC>
+You've got the longest eyelashes I've ever seen. 
+
+<SYNC Start=2257174><P Class=KRCC>&nbsp;
+<SYNC Start=2258535><P Class=KRCC>
+I've always liked older guys. 
+
+<SYNC Start=2260652><P Class=KRCC>&nbsp;
+<SYNC Start=2261916><P Class=KRCC>
+I'm "the older guy"? 
+
+<SYNC Start=2263036><P Class=KRCC>
+Guys my age are idiots. 
+
+<SYNC Start=2265247><P Class=KRCC>
+They're fun to fuck, but<br> it usually ends there. 
+
+<SYNC Start=2268494><P Class=KRCC>
+And I hate the way they treat older men, you know? 
+
+<SYNC Start=2270185><P Class=KRCC>
+"Tired old queen, fossil, troll"? 
+
+<SYNC Start=2272397><P Class=KRCC>
+As if we're not gonna end up there ourselves one day,<br> if we're lucky. 
+
+<SYNC Start=2276263><P Class=KRCC>&nbsp;
+<SYNC Start=2278430><P Class=KRCC>
+Uh, I'm getting my Masters in Social <br>Work with a concentration on Services for Seniors, 
+
+<SYNC Start=2283075><P Class=KRCC>
+so it's a pet peeve of mine. 
+
+<SYNC Start=2284488><P Class=KRCC>
+Are you a top or a bottom? 
+
+<SYNC Start=2286262><P Class=KRCC>
+What? 
+<SYNC Start=2287501><P Class=KRCC>&nbsp;
+
+<SYNC Start=2289999><P Class=KRCC>
+Oh, I'm versatile. 
+
+<SYNC Start=2293731><P Class=KRCC>
+Bottom. 
+
+<SYNC Start=2294095><P Class=KRCC>
+Good. <br>Wow. 
+
+<SYNC Start=2294655><P Class=KRCC>
+This'll work out well. 
+
+<SYNC Start=2295992><P Class=KRCC>
+You wanna get out of here? 
+
+<SYNC Start=2298037><P Class=KRCC>&nbsp;
+<SYNC Start=2299188><P Class=KRCC>
+Yeah. 
+
+<SYNC Start=2300266><P Class=KRCC>&nbsp;
+<SYNC Start=2304446><P Class=KRCC>
+So the bastard took it! 
+
+<SYNC Start=2306391><P Class=KRCC>
+I lost my investment, my bike, fuckin' everything. 
+
+<SYNC Start=2309655><P Class=KRCC>
+Connor, that always happens to you! 
+
+<SYNC Start=2312256><P Class=KRCC>
+Know, <br>I guess I can always get back on the old Banana Roll, hey? 
+
+<SYNC Start=2318468><P Class=KRCC>
+You remember, what was that, that thing in Texas? 
+
+<SYNC Start=2321588><P Class=KRCC>
+You lost your bike in Texas? 
+
+<SYNC Start=2323049><P Class=KRCC>
+Oh, not that fuckin one! 
+
+<SYNC Start=2324482><P Class=KRCC>
+Yes, that like '95 one, what was that. 
+
+<SYNC Start=2333297><P Class=KRCC>
+Hey, Nate, 
+
+<SYNC Start=2336072><P Class=KRCC>
+listen. 
+
+<SYNC Start=2337407><P Class=KRCC>
+I'm sorry about last week. 
+
+<SYNC Start=2341217><P Class=KRCC>
+I go off the meds now and then, just to feel alive. 
+
+<SYNC Start=2346648><P Class=KRCC>
+I'm sure you must have thought I was a total psycho. 
+
+<SYNC Start=2350399><P Class=KRCC>&nbsp;
+<SYNC Start=2350750><P Class=KRCC>
+Crossed my mind. 
+
+<SYNC Start=2352812><P Class=KRCC>&nbsp;
+<SYNC Start=2355002><P Class=KRCC>
+Well, I'm not.
+
+<SYNC Start=2356654><P Class=KRCC>&nbsp;
+<SYNC Start=2370860><P Class=KRCC>
+I don't wanna come between you and my sister. 
+
+<SYNC Start=2373397><P Class=KRCC>&nbsp;
+<SYNC Start=2375169><P Class=KRCC>
+She's happy with you. 
+
+<SYNC Start=2377560><P Class=KRCC>
+Happier than I've seen her in a long time. 
+
+<SYNC Start=2381060><P Class=KRCC>&nbsp;
+
+<SYNC Start=2382673><P Class=KRCC>
+That is so tragic...
+
+<SYNC Start=2386139><P Class=KRCC>&nbsp;
+
+<SYNC Start=2387471><P Class=KRCC>
+So what's your story? 
+
+<SYNC Start=2389126><P Class=KRCC>
+Just another spunk to add to your collection? 
+
+<SYNC Start=2392276><P Class=KRCC>&nbsp;
+<SYNC Start=2394419><P Class=KRCC>
+So what's left for me to do? 
+
+<SYNC Start=2395973><P Class=KRCC>
+Become an air hostess? 
+
+<SYNC Start=2398281><P Class=KRCC>
+I think you should get a TV show, <br>where you wrestle things, right, 
+
+<SYNC Start=2402655><P Class=KRCC>
+but not animals...things! 
+
+<SYNC Start=2405448><P Class=KRCC>
+Like what things? 
+
+<SYNC Start=2406455><P Class=KRCC>
+Like...refrigerators...and here's the title of it... 
+
+<SYNC Start=2412404><P Class=KRCC>&nbsp;
+
+<SYNC Start=2422626><P Class=KRCC>
+Hey, Connor, 
+
+<SYNC Start=2422880><P Class=KRCC>
+What's Your John Dory? 
+
+<SYNC Start=2424719><P Class=KRCC>
+WHAT FUCKING LANGUAGE ARE YOU SPEAKING? 
+
+<SYNC Start=2428648><P Class=KRCC>&nbsp;
+<SYNC Start=2429503><P Class=KRCC>
+Hey, Nate,
+
+<SYNC Start=2430594><P Class=KRCC>
+buddy. 
+
+<SYNC Start=2432024><P Class=KRCC>
+Chill. 
+
+<SYNC Start=2434276><P Class=KRCC>&nbsp;
+<SYNC Start=2440619><P Class=KRCC>
+This car is like total Graceland on wheels. 
+
+<SYNC Start=2445013><P Class=KRCC>
+Total love nest. 
+
+<SYNC Start=2447473><P Class=KRCC>
+Have you ever fucked in here? 
+
+<SYNC Start=2449523><P Class=KRCC>&nbsp;
+<SYNC Start=2450033><P Class=KRCC>
+Once. 
+
+<SYNC Start=2451757><P Class=KRCC>&nbsp;
+
+<SYNC Start=2453446><P Class=KRCC>
+This record exec, a friend of my dad's, 
+
+<SYNC Start=2456591><P Class=KRCC>
+he's got like this total makeout van from the 70?s. 
+
+<SYNC Start=2459402><P Class=KRCC>
+He thinks it's so cool, and it's just not. 
+
+<SYNC Start=2463226><P Class=KRCC>
+How do you think Dennis knew I had pot? 
+
+<SYNC Start=2465949><P Class=KRCC>&nbsp;
+<SYNC Start=2467531><P Class=KRCC>
+So your dad died, huh? 
+
+<SYNC Start=2469686><P Class=KRCC>
+What was that like? 
+
+<SYNC Start=2471699><P Class=KRCC>&nbsp;
+<SYNC Start=2473358><P Class=KRCC>
+I don't know. 
+
+<SYNC Start=2476540><P Class=KRCC>
+Doesn't seem real. 
+
+<SYNC Start=2478739><P Class=KRCC>
+I never knew anybody that died. 
+
+<SYNC Start=2480966><P Class=KRCC>
+Well, I grew up in a funeral home,<br> so I was always around it. 
+
+<SYNC Start=2485985><P Class=KRCC>
+OK, was that completely weird? 
+
+<SYNC Start=2490354><P Class=KRCC>
+Yes. 
+
+<SYNC Start=2491399><P Class=KRCC>&nbsp;
+<SYNC Start=2494327><P Class=KRCC>
+My dad's a big shot at Disney. 
+
+<SYNC Start=2496388><P Class=KRCC>&nbsp;
+<SYNC Start=2497497><P Class=KRCC>
+Really? <br>Why don't you go to a private school? 
+
+<SYNC Start=2500715><P Class=KRCC>
+He divorced my mom a long time ago. 
+
+<SYNC Start=2503447><P Class=KRCC>
+He likes his new family better. 
+
+<SYNC Start=2505839><P Class=KRCC>
+He won't give my mom alimony because <br>he caught her having sex with like this retarded guy. 
+
+<SYNC Start=2512942><P Class=KRCC>
+Fuck. 
+
+<SYNC Start=2513947><P Class=KRCC>&nbsp;
+<SYNC Start=2516064><P Class=KRCC>
+I'm kidding. 
+
+<SYNC Start=2517192><P Class=KRCC>
+My mom gets killer alimony. 
+
+<SYNC Start=2519397><P Class=KRCC>
+I just keep getting kicked out of private schools. 
+
+<SYNC Start=2522441><P Class=KRCC>&nbsp;
+<SYNC Start=2524864><P Class=KRCC>
+I thought you were like this little overachiever, <br>like little Miss Perfect. 
+
+<SYNC Start=2529001><P Class=KRCC>
+Good. <br>That's what I want people to think. 
+
+<SYNC Start=2531975><P Class=KRCC>&nbsp;
+<SYNC Start=2532769><P Class=KRCC>
+When in reality you're like this compulsive liar/danger slut. 
+
+<SYNC Start=2538086><P Class=KRCC>&nbsp;
+<SYNC Start=2540708><P Class=KRCC>
+I thought you were like this <br>Goth arty freak girl who was like tragic and suicidal. 
+
+<SYNC Start=2548013><P Class=KRCC>
+Oh my God, that's so not who I am. 
+
+<SYNC Start=2550906><P Class=KRCC>&nbsp;
+<SYNC Start=2553163><P Class=KRCC>
+Nobody's ever who they seem to be. 
+
+<SYNC Start=2555723><P Class=KRCC>&nbsp;
+<SYNC Start=2558854><P Class=KRCC>
+Nobody interesting. 
+
+<SYNC Start=2560552><P Class=KRCC>&nbsp;
+<SYNC Start=2567376><P Class=KRCC>
+I don't get this show. 
+
+<SYNC Start=2569334><P Class=KRCC>&nbsp;
+<SYNC Start=2570188><P Class=KRCC>
+It's a game show. 
+
+<SYNC Start=2571022><P Class=KRCC>
+I know that. 
+
+<SYNC Start=2571871><P Class=KRCC>
+I just don't understand why people like it. 
+
+<SYNC Start=2574245><P Class=KRCC>&nbsp;
+
+<SYNC Start=2574594><P Class=KRCC>
+My friend Amelia says it's her favorite show. 
+
+<SYNC Start=2577478><P Class=KRCC>
+It's a great show. 
+
+<SYNC Start=2579746><P Class=KRCC>
+My son likes "Once Upon A Hamster." 
+
+<SYNC Start=2582799><P Class=KRCC>
+When I was his age, I was crazy for Mad Magazine, 
+
+<SYNC Start=2586382><P Class=KRCC>
+Ernie Kovacks, the Marx Brothers. 
+
+<SYNC Start=2589300><P Class=KRCC>
+Anybody that took pot shots at sacred cows. 
+
+<SYNC Start=2592369><P Class=KRCC>
+I mean anybody. 
+
+<SYNC Start=2594345><P Class=KRCC>&nbsp;
+<SYNC Start=2619213><P Class=KRCC>
+Yeah, I loved that stuff. 
+
+<SYNC Start=2621689><P Class=KRCC>
+Irreverence was my drug of choice. 
+
+<SYNC Start=2624387><P Class=KRCC>&nbsp;
+<SYNC Start=2626276><P Class=KRCC>
+Still is, <br>I guess.
+
+<SYNC Start=2628970><P Class=KRCC>&nbsp;
+<SYNC Start=2639621><P Class=KRCC>
+Night, mate. 
+
+<SYNC Start=2641652><P Class=KRCC>&nbsp;
+<SYNC Start=2642173><P Class=KRCC>
+I'm really glad you and Lolly's hooked up. 
+
+<SYNC Start=2644954><P Class=KRCC>&nbsp;
+<SYNC Start=2646132><P Class=KRCC>
+I mean, personally, <br>I couldn't handle her playing Freud all the fuckin' time. 
+
+<SYNC Start=2651201><P Class=KRCC>
+I mean, <br>I don't give a fuck why I am the way I am, right? 
+
+<SYNC Start=2656257><P Class=KRCC>
+Well, she is a complicated woman. 
+
+<SYNC Start=2661369><P Class=KRCC>
+No, she's not.
+
+<SYNC Start=2663530><P Class=KRCC>&nbsp;
+
+<SYNC Start=2733050><P Class=KRCC>
+WHEN WAS THAT TAKEN? 
+
+<SYNC Start=2734781><P Class=KRCC>
+Two summers ago. 
+
+<SYNC Start=2736882><P Class=KRCC>&nbsp;
+<SYNC Start=2737445><P Class=KRCC>
+I THOUGHT YOU SAID YOU HADN'T SEEN HIM 
+
+<SYNC Start=2739864><P Class=KRCC>
+IN A DECADE. 
+
+<SYNC Start=2740791><P Class=KRCC>
+No, I said Connor hasn't been to LA in a decade.
+
+<SYNC Start=2745323><P Class=KRCC>
+ALRIGHT, WHERE DO YOU SLEEP, MATE, <br>BECAUSE THAT SLEEPING BAG HASN?
+
+<SYNC Start=2749003><P Class=KRCC>
+T MOVED AN INCH IN DAYS! 
+
+<SYNC Start=2750151><P Class=KRCC>
+They sleep in the same bed, where else? 
+
+<SYNC Start=2752140><P Class=KRCC>&nbsp;
+<SYNC Start=2753304><P Class=KRCC>
+Don't crack a fit now, mate. 
+
+<SYNC Start=2755598><P Class=KRCC>
+I mean, she's totally wrapped up in you. 
+
+<SYNC Start=2758084><P Class=KRCC>
+OH, JUST SHUT THE FUCK UP, COWBOY! 
+
+<SYNC Start=2760784><P Class=KRCC>
+OK. 
+
+<SYNC Start=2761507><P Class=KRCC>
+OK.
+
+<SYNC Start=2761999><P Class=KRCC>
+I didn't tell you, because I knew you would react just like this. 
+
+<SYNC Start=2764764><P Class=KRCC>
+WELL, HOW ELSE AM I SUPPOSED TO REACT? 
+
+<SYNC Start=2766564><P Class=KRCC>
+Oh, so I'm supposed to make an old friend <br>sleep on the floor just to protect your macho pride?
+
+<SYNC Start=2770959><P Class=KRCC>
+YOU HAVE A SHIATSU MAT! 
+
+<SYNC Start=2772677><P Class=KRCC>
+Come on, man. 
+
+<SYNC Start=2773123><P Class=KRCC>
+Haven't you ever slept with a woman and not had sex with her? 
+
+<SYNC Start=2777634><P Class=KRCC>&nbsp;
+<SYNC Start=2780044><P Class=KRCC>
+NO! 
+
+<SYNC Start=2781317><P Class=KRCC>
+Outside! 
+
+<SYNC Start=2782111><P Class=KRCC>
+Get some air! 
+
+<SYNC Start=2784040><P Class=KRCC>&nbsp;
+<SYNC Start=2784327><P Class=KRCC>
+"OH, GO OUTSIDE, GET SOME AIR!" 
+
+<SYNC Start=2786773><P Class=KRCC>
+FUCK YOU!! 
+
+<SYNC Start=2788156><P Class=KRCC>
+I'M LEAVING!!! 
+
+<SYNC Start=2789680><P Class=KRCC>&nbsp;
+<SYNC Start=2793848><P Class=KRCC>
+HAVE FUN WITH YOUR AUSSIE 
+
+<SYNC Start=2795354><P Class=KRCC>
+FUCK, <br>MINDFUCKER!!! 
+
+<SYNC Start=2798551><P Class=KRCC>&nbsp;
+<SYNC Start=2810394><P Class=KRCC>
+Damn, you are versatile! 
+
+<SYNC Start=2812365><P Class=KRCC>&nbsp;
+
+<SYNC Start=2818134><P Class=KRCC>
+So, you think I'm being <br>a possessive asshole for wanting Brenda for myself? 
+
+<SYNC Start=2822231><P Class=KRCC>
+Well, when you feel connected with someone, <br>it doesn't mean you're possessive or an asshole. 
+
+<SYNC Start=2826534><P Class=KRCC>
+But until there's a commitment, you have no claim on her. 
+
+<SYNC Start=2829970><P Class=KRCC>
+A woman doesn't have to wait to be chosen anymore. 
+
+<SYNC Start=2832194><P Class=KRCC>
+Now she can do the choosing. 
+
+<SYNC Start=2833320><P Class=KRCC>
+Yeah, but if she waits too long the right guy might just move on. 
+
+<SYNC Start=2836750><P Class=KRCC>&nbsp;
+<SYNC Start=2837802><P Class=KRCC>
+You're right, dear. 
+
+<SYNC Start=2838611><P Class=KRCC>
+You're so right. 
+
+<SYNC Start=2839736><P Class=KRCC>&nbsp;
+<SYNC Start=2840949><P Class=KRCC>
+A chartered bus headed for Vegas overturned on the 10 last night! 
+
+<SYNC Start=2845106><P Class=KRCC>&nbsp;
+<SYNC Start=2846021><P Class=KRCC>
+44 passengers, 
+
+<SYNC Start=2848737><P Class=KRCC>
+most of them dead! 
+
+<SYNC Start=2850484><P Class=KRCC>&nbsp;
+<SYNC Start=2851716><P Class=KRCC>
+Did you sleep well last night? 
+
+<SYNC Start=2852974><P Class=KRCC>
+Yes, thank you. 
+
+<SYNC Start=2854635><P Class=KRCC>
+Did you sleep at all last night? 
+
+<SYNC Start=2856590><P Class=KRCC>&nbsp;
+<SYNC Start=2857655><P Class=KRCC>
+How'd the funeral director's test go? 
+
+<SYNC Start=2859772><P Class=KRCC>
+Oh, man, I choked. 
+
+<SYNC Start=2861461><P Class=KRCC>
+Had a cluster fuck. 
+
+<SYNC Start=2862681><P Class=KRCC>
+Language! 
+
+<SYNC Start=2864094><P Class=KRCC>
+You just said "asshole." 
+
+<SYNC Start=2865116><P Class=KRCC>
+Nate, I need you to pass that test. 
+
+<SYNC Start=2866883><P Class=KRCC>
+Yeah, well, Dave,<br> I need you to lighten up on me, starting now. 
+
+<SYNC Start=2871122><P Class=KRCC>&nbsp;
+<SYNC Start=2876585><P Class=KRCC>
+Hey, 
+
+<SYNC Start=2878760><P Class=KRCC>
+first of all, 
+
+<SYNC Start=2879990><P Class=KRCC>
+I just want to thank you guys for everything you've done for me. 
+
+<SYNC Start=2882864><P Class=KRCC>
+But I think it's time for me to move on. 
+
+<SYNC Start=2885305><P Class=KRCC>&nbsp;
+<SYNC Start=2885919><P Class=KRCC>
+I have to think about my future, my family's future. 
+
+<SYNC Start=2889498><P Class=KRCC>
+You're leaving us? 
+
+<SYNC Start=2890832><P Class=KRCC>
+Oh, dear! 
+
+<SYNC Start=2891969><P Class=KRCC>&nbsp;
+
+<SYNC Start=2892212><P Class=KRCC>
+You haven't even given us a chance to counter Kroehner's--
+
+<SYNC Start=2894409><P Class=KRCC>
+Am I a partner? 
+
+<SYNC Start=2895847><P Class=KRCC>&nbsp;
+<SYNC Start=2902130><P Class=KRCC>
+You guys didn't even talk about it. 
+
+<SYNC Start=2905452><P Class=KRCC>&nbsp;
+<SYNC Start=2910207><P Class=KRCC>
+Thank you, Federico. 
+
+<SYNC Start=2911806><P Class=KRCC>&nbsp;
+<SYNC Start=2913923><P Class=KRCC>
+I'm sorry that we can't offer you more. 
+
+<SYNC Start=2916084><P Class=KRCC>&nbsp;
+<SYNC Start=2918945><P Class=KRCC>
+You will always have a job waiting for you here. 
+
+<SYNC Start=2921394><P Class=KRCC>&nbsp;
+<SYNC Start=2926254><P Class=KRCC>
+Kroehner will never appreciate how good you are, Rico. 
+
+<SYNC Start=2928105><P Class=KRCC>
+You'll just be a part of their assembly line. 
+
+<SYNC Start=2931016><P Class=KRCC>&nbsp;
+<SYNC Start=2932675><P Class=KRCC>
+Hey, we'll see. 
+
+<SYNC Start=2935028><P Class=KRCC>&nbsp;
+<SYNC Start=2939425><P Class=KRCC>
+A word of advice, guys. 
+
+<SYNC Start=2941412><P Class=KRCC>
+Don't turn your back on Gilardi. 
+
+<SYNC Start=2943271><P Class=KRCC>&nbsp;
+<SYNC Start=2945369><P Class=KRCC>
+Well, so much for loyalty. 
+
+<SYNC Start=2947762><P Class=KRCC>&nbsp;
+<SYNC Start=2948311><P Class=KRCC>
+Nate, he's given us five years. 
+
+<SYNC Start=2949682><P Class=KRCC>
+He doesn't owe us anything. 
+
+<SYNC Start=2951785><P Class=KRCC>
+Nobody does. 
+
+<SYNC Start=2953328><P Class=KRCC>&nbsp;
+<SYNC Start=2974266><P Class=KRCC>
+My only defense is I think I was hallucinating. 
+
+<SYNC Start=2977798><P Class=KRCC>&nbsp;
+<SYNC Start=2979878><P Class=KRCC>
+That and the thought of you with another man makes me crazy. 
+
+<SYNC Start=2983325><P Class=KRCC>&nbsp;
+<SYNC Start=2984109><P Class=KRCC>
+Sorry. 
+
+<SYNC Start=2985609><P Class=KRCC>&nbsp;
+<SYNC Start=2987720><P Class=KRCC>
+I'm just a guy that way. 
+
+<SYNC Start=2989522><P Class=KRCC>&nbsp;
+<SYNC Start=2991136><P Class=KRCC>
+So, where's Connor? 
+
+<SYNC Start=2992171><P Class=KRCC>
+Oh, God, I threw him out. 
+
+<SYNC Start=2994149><P Class=KRCC>
+There's only so much of him I can take. 
+
+<SYNC Start=2996978><P Class=KRCC>&nbsp;
+<SYNC Start=2999452><P Class=KRCC>
+So you forgive me?
+
+<SYNC Start=3000856><P Class=KRCC>&nbsp;
+<SYNC Start=3002056><P Class=KRCC>
+Sure. Why not? 
+
+<SYNC Start=3003085><P Class=KRCC>
+Good. 
+
+<SYNC Start=3005114><P Class=KRCC>
+Now it's your turn. 
+
+<SYNC Start=3007877><P Class=KRCC>&nbsp;
+<SYNC Start=3009033><P Class=KRCC>
+You want me to apologize? 
+
+<SYNC Start=3010386><P Class=KRCC>
+Yes...
+
+<SYNC Start=3011702><P Class=KRCC>&nbsp;
+<SYNC Start=3015281><P Class=KRCC>
+For trying to use Billy's meltdown <br>and Connor's visit to push me away. 
+
+<SYNC Start=3020263><P Class=KRCC>
+For being impatient with my very valid emotional response to each one, 
+
+<SYNC Start=3023985><P Class=KRCC>
+and for always asking me to adjust my behavior and feelings <br>but never be willing to do that yourself. 
+
+<SYNC Start=3030171><P Class=KRCC>&nbsp;
+<SYNC Start=3033010><P Class=KRCC>
+OK. That's fair. 
+
+<SYNC Start=3035052><P Class=KRCC>&nbsp;
+<SYNC Start=3036952><P Class=KRCC>
+I apologize. 
+
+<SYNC Start=3038782><P Class=KRCC>&nbsp;
+<SYNC Start=3040221><P Class=KRCC>
+Part of you wants me to bail. 
+
+<SYNC Start=3042530><P Class=KRCC>&nbsp;
+<SYNC Start=3043074><P Class=KRCC>
+Yeah.<br> You're probably right. 
+
+<SYNC Start=3046552><P Class=KRCC>
+Why? 
+
+<SYNC Start=3047689><P Class=KRCC>&nbsp;
+<SYNC Start=3053096><P Class=KRCC>
+Because I've already gone further than <br>I have with anybody since--
+
+<SYNC Start=3058922><P Class=KRCC>
+since a long time ago. 
+
+<SYNC Start=3061001><P Class=KRCC>&nbsp;
+<SYNC Start=3064349><P Class=KRCC>
+Because every time I've ever believed in a happy ending, <br>I've gotten severely fucked. 
+
+<SYNC Start=3071170><P Class=KRCC>&nbsp;
+<SYNC Start=3072990><P Class=KRCC>
+Sorry.
+
+<SYNC Start=3074268><P Class=KRCC>&nbsp;
+<SYNC Start=3077007><P Class=KRCC>
+Well, do me a favor. 
+
+<SYNC Start=3078348><P Class=KRCC>&nbsp;
+<SYNC Start=3079745><P Class=KRCC>
+Promise me from here on out,<br>I am the only man in your bed and in your life. 
+
+<SYNC Start=3084084><P Class=KRCC>&nbsp;
+<SYNC Start=3084880><P Class=KRCC>
+i'm serious, Bren. 
+
+<SYNC Start=3086825><P Class=KRCC>
+Promise me. 
+
+<SYNC Start=3088088><P Class=KRCC>&nbsp;
+<SYNC Start=3091242><P Class=KRCC>
+I promise. 
+
+<SYNC Start=3092656><P Class=KRCC>&nbsp;
+<SYNC Start=3093712><P Class=KRCC>
+I love you, and I wanna be with you for the long haul, <br>but there is a limit to the amount of shit I will put up with. 
+
+<SYNC Start=3098770><P Class=KRCC>&nbsp;
+<SYNC Start=3099378><P Class=KRCC>
+Did you just make me a lifetime commitment, <br>right before the thinly veiled threat of abandonment? 
+
+<SYNC Start=3105455><P Class=KRCC>&nbsp;
+<SYNC Start=3106475><P Class=KRCC>
+Well, I don't remember using the word "lifetime." 
+
+<SYNC Start=3109278><P Class=KRCC>
+Well, I wouldn't hold you to it. 
+
+<SYNC Start=3112046><P Class=KRCC>&nbsp;
+<SYNC Start=3122098><P Class=KRCC>
+Sorry I'm so 
+
+<SYNC Start=3124385><P Class=KRCC>
+weird about intimacy. 
+
+<SYNC Start=3127402><P Class=KRCC>&nbsp;
+<SYNC Start=3128426><P Class=KRCC>
+I guess spending your childhood getting picked apart by<br> behavioral psychologists will do that. 
+
+<SYNC Start=3135583><P Class=KRCC>
+Well, not being able to sleep at night <br>because your basement's full of dead people takes its toll, too. 
+
+<SYNC Start=3143606><P Class=KRCC>&nbsp;
+<SYNC Start=3159602><P Class=KRCC>
+Sorry. 
+
+<SYNC Start=3161015><P Class=KRCC>&nbsp;
+<SYNC Start=3163373><P Class=KRCC>
+It's OK. 
+<SYNC Start=3164713><P Class=KRCC>&nbsp;
+
+<SYNC Start=3166398><P Class=KRCC>
+Nate Fisher.
+
+<SYNC Start=3167400><P Class=KRCC>
+Remember that chartered bus that overturned last night? 
+
+<SYNC Start=3170112><P Class=KRCC>
+They were all locals! <br>We're getting three of them! 
+
+<SYNC Start=3172537><P Class=KRCC>
+The first family will be here in an hour. 
+
+<SYNC Start=3174336><P Class=KRCC>
+I'm on my way. 
+
+<SYNC Start=3176588><P Class=KRCC>
+And try to curb your enthusiasm. 
+
+<SYNC Start=3178320><P Class=KRCC>
+This'll be tough without Rico. 
+
+<SYNC Start=3180403><P Class=KRCC>
+See you later.
+
+<SYNC Start=3181728><P Class=KRCC>&nbsp;
+<SYNC Start=3202033><P Class=KRCC>
+Good lord,<br> what'd they do to you? 
+
+<SYNC Start=3203304><P Class=KRCC>
+Don't ask.
+
+<SYNC Start=3205017><P Class=KRCC>&nbsp;
+<SYNC Start=3211450><P Class=KRCC>
+So did Mom freak when you told her I got busted? 
+
+<SYNC Start=3214617><P Class=KRCC>&nbsp;
+<SYNC Start=3215059><P Class=KRCC>
+I didn't tell her. 
+
+<SYNC Start=3217150><P Class=KRCC>&nbsp;
+<SYNC Start=3218310><P Class=KRCC>
+OK. Why? 
+<SYNC Start=3220244><P Class=KRCC>&nbsp;
+
+<SYNC Start=3220603><P Class=KRCC>
+I don't know.<br> Other stuff came up. 
+
+<SYNC Start=3222064><P Class=KRCC>
+Seemed like a low priority. 
+
+<SYNC Start=3224394><P Class=KRCC>&nbsp;
+<SYNC Start=3224842><P Class=KRCC>
+Are you going to? 
+
+<SYNC Start=3225850><P Class=KRCC>
+Probably not. 
+
+<SYNC Start=3227619><P Class=KRCC>&nbsp;
+<SYNC Start=3231396><P Class=KRCC>
+I'm sorry the Crossroads thing didn't work out like you had hoped. 
+
+<SYNC Start=3235072><P Class=KRCC>&nbsp;
+<SYNC Start=3235226><P Class=KRCC>
+Actually, it was kind of amazing. 
+
+<SYNC Start=3237411><P Class=KRCC>&nbsp;
+<SYNC Start=3238353><P Class=KRCC>
+I think I really learned something valuable. 
+
+<SYNC Start=3241598><P Class=KRCC>&nbsp;
+<SYNC Start=3241982><P Class=KRCC>
+Everything I think I know is wrong. 
+
+<SYNC Start=3245143><P Class=KRCC>&nbsp;
+<SYNC Start=3253449><P Class=KRCC>
+Hey, what happened to that guy, Keith? 
+
+<SYNC Start=3255714><P Class=KRCC>&nbsp;
+<SYNC Start=3260016><P Class=KRCC>
+It just didn't work out. 
+
+<SYNC Start=3262031><P Class=KRCC>&nbsp;
+<SYNC Start=3267190><P Class=KRCC>
+That's too bad. 
+
+<SYNC Start=3268721><P Class=KRCC>
+Life goes on.
+
+<SYNC Start=3270331><P Class=KRCC>&nbsp;
+<SYNC Start=3274570><P Class=KRCC>
+That it does.
+
+<SYNC Start=3276013><P Class=KRCC>&nbsp;
+<SYNC Start=3276597><P Class=KRCC>
+Well, there's work to be done. 
+
+<SYNC Start=3280420><P Class=KRCC>&nbsp;
+
+<SYNC Start=3286061><P Class=KRCC>
+<font color=#FFFAC7>자막제작 - 네이트 드라마 24 <br>
+(http://club.nate.com/24)
+<SYNC Start=3289767><P Class=KRCC>&nbsp;
+<SYNC Start=3292177><P Class=KRCC>
+<font color=#FFFAC7>동호회 외 외부유출을 금지합니다
+<SYNC Start=3295638><P Class=KRCC>&nbsp;
+
+</BODY>
+
+
+</SAMI>

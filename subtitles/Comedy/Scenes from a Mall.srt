@@ -1,0 +1,1383 @@
+{1}{1}23.976
+{2}{100}Scenes From A Mall - Woody Allen & Bette Middler.avi
+{101}{200}23.976 fps, rozdz. 640*352 (16:9), Divx v5, 2k.MP3, |Plik: 699 MB, czas 1:27:09, 1 œcie¿ka audio, jakoœæ 51 %|
+{201}{300}Synchro do wersji 23,976|Sindy
+{491}{581}{Y:i}You do
+{583}{678}{Y:i}Something to me
+{680}{839}{Y:i}Something that simply mystifies me
+{867}{955}{Y:i}Tell me
+{957}{1051}{Y:i}Why should it be
+{1053}{1240}{Y:i}You have the power to hypnotize me
+{1242}{1330}{Y:i}Let me
+{1332}{1425}{Y:i}Live 'neath your spell
+{1427}{1508}{Y:i}Do do that voodoo
+{1510}{1652}{Y:i}That you do so well
+{1654}{1779}{Y:i}Oh, you do
+{1781}{1861}{Y:i}Something to me
+{1863}{1980}{Y:i}- That nobody else could do|- Put it over there.
+{1982}{2031}Put it... Put it on...|Put it in the back. Don't...
+{2033}{2143}- Here. Take the... Hey... Will you just...|- Fifty bucks? That's not enough.
+{2145}{2195}Hey, will you stop bothering|with money all the time?
+{2197}{2269}Put... Put... Put that over there.|This is top-of-the-line stuff.
+{2271}{2339}- Take it easy on that, all right?|- You'll be all right, Mr Fifer.
+{2341}{2419}Get it... Get it in there. And don't...|Try not to scratch it|against the brace there.
+{2421}{2502}Dad, Billy's father|gave him a gold card.
+{2504}{2589}I don't care what Billy's father|gave him. You know...|What are you talking about?
+{2591}{2653}- What are you telling me?|Fifty bucks is not enough|for three days?|- No.
+{2655}{2746}- Fifty bucks is not enough.|- No.|- We need dinner. We need lunch.|We need video games.
+{2748}{2845}Well, forget it. You're not gonna get|that. And every time you roll your eyes,|it's gonna be ten bucks less.
+{2847}{2896}- So...|- That's not fair.|- Okay, so now it's 40 bucks.
+{2898}{2962}- That's...|- Forty bucks?|- Yeah, yeah. And you give me|that look, it's 30 bucks.
+{2964}{3012}- It...|- Come on. Be a...|- All right. Now it's 20.
+{3014}{3062}- Boo!|- No, I'm not gonna take that.|Fifty bucks is plenty.|- Boo!
+{3064}{3112}Listen to this, Dad.|They got more money than we did.
+{3114}{3163}Your cheering section is not gonna|get you off the hook here.
+{3165}{3218}They're gonna... These guys|are gonna bury you. Now forget it.
+{3220}{3292}You know, this is... This is a lesson|on how to cope with the Depression.
+{3294}{3342}- The Depression?|You didn't live through the Depression.|- You know, I don't...
+{3344}{3395}Stop giving me that.|Have a good time. And don't...
+{3397}{3484}You know, fifty bucks is a lot,|believe me. If you need more, call me.
+{3486}{3536}You know, but...
+{3538}{3587}Take care of her.|And let her... Let her... You know...
+{3589}{3680}It's okay if you ski down the cornice,|but don't tell your mother I said that.
+{3682}{3749}No, don't tell your mother.|Don't tell me anything.
+{3751}{3818}I don't want to know.|Oh, gosh, I'm gonna miss you.
+{3820}{3878}- This kid wanted my gold card.|- Take care.|- Okay.|- Can you believe it?
+{3880}{3960}- Bye, Mom.|- See you Thursday. But wear...|- Don't forget your thermal socks, okay?|- I won't, Mom.
+{3962}{4020}- Bye, Mom.|- Don't scratch the boots|if you can help it there.|- All right.
+{4022}{4063}- You know, that stuff|costs a fortune.|- Bye. Have a good time, I guess.
+{4065}{4147}- We'll see you when...|- Be careful.|- See ya.
+{4149}{4213}- That fast.|- Gee.|- The kid wanted my gold card.
+{4215}{4274}- Can you believe this?|- Gee, it makes you feel irrelevant,|doesn't it?
+{4276}{4324}I think we've... we've|committed ourselves.
+{4326}{4380}We've done our duty,|you know, to civilization.
+{4382}{4455}We've procreated, and now we can die.
+{4457}{4563}Debbie, tell the guy that delivers|the newspaper not to, you know...|He's gotta put it in a plastic bag.
+{4565}{4643}- Honey, I've told you a million times,|no more plastic.|- It's moist. It's moist.
+{4645}{4722}- I know. It's moist,|but it's also non-biodegradable.|- Look at the thing.
+{4724}{4823}- We can't do this any more.|- I'm starting to feel guilty|that I didn't give them enough money.
+{4825}{4886}Well, Nick, they have to have|a sense of the real world.
+{4888}{4949}So why am I so guilty about it?|I know what you're gonna tell me...
+{4951}{5002}That l... That l... That I have to be|the loved one all the time.
+{5004}{5058}Well, you don't mind being|the bad guy in business.
+{5060}{5121}In business, I'm a... I'm a killer.
+{5123}{5187}And you're a... You're a killer|in the marriage business.
+{5189}{5275}- But a sweet killer.|- The very sweetest.
+{5277}{5359}Aw. What did you just do?
+{5361}{5411}I'm drying the paper.
+{5413}{5469}Cindy...
+{5471}{5534}Daniel...
+{5536}{5602}Nora.
+{5604}{5672}I'm going to put Marty|here in the middle.
+{5674}{5769}Oh, gosh, if he starts with that|Kennedy assassination again...
+{5771}{5861}- I'm gonna put her next to Marty.|They're gonna get on great together.|- Yeah.
+{5863}{5937}Phillip... I'm gonna put here at|the end, otherwise he'll|hog the entire conversation.
+{5939}{6017}Well, the only way this guy w-won't|hog the conversation, I promise you...
+{6019}{6078}is if you don't invite him,|'cause he's just gonna rant on.
+{6080}{6152}Oh, Arthur said he... he couldn't come.|He called to say so.
+{6154}{6204}What... Arthur's at a s...|a "Save the Bats" convention.
+{6206}{6263}You hear about that?|He's in Houston.
+{6265}{6362}Isn't that incredible? Suddenly bats|are... are vital for the ozone layer.
+{6364}{6412}I'll bet ya Phillip told him that.
+{6414}{6489}Let me tell you something. If Phillip|starts in with me one more time...
+{6491}{6582}I promise you, about "New York is|the cultural centre of the world"...
+{6584}{6654}and "Los Angeles is...|is a barren desert"...
+{6656}{6732}I'm... I'm gonna stick|my fingers in his eyes.
+{6759}{6844}- Come here. Happy anniversary.|- Aw!
+{6846}{6894}I was hoping you'd say that.
+{6896}{6967}Do you have any interest at all in|making love? Can I interest you in that?
+{6969}{7027}Do we have the time? I thought|we were gonna take a brisk walk.
+{7029}{7093}You know, we always do it|on the anniversary.
+{7095}{7165}- Okay. If we hurry, we can do both.|- Well, I'll hurry.
+{7222}{7292}{Y:i}... to be able to enjoy what I have|coming up for you, it's this.
+{7294}{7411}{Y:i}Take a look at this ring.|It's the most beautiful|cocktail ring you've ever seen...
+{7413}{7467}{Y:i}in a graceful waterfall design.
+{7469}{7511}{Y:i}- It's set with both the baguette...|- The sound of ripping Velcro.
+{7513}{7607}That's the quintessential|sound of the 80's, right?
+{7609}{7691}- Or is this the 90's?|- Honey, I don't know.|- I can't get the decades straight.
+{7693}{7741}Do you think I should put Nora|next to Daniel?
+{7743}{7810}Yeah. You had to mention it.
+{7812}{7879}- Am I getting fat?|- No.|- I am, huh?|- You're crazy.
+{7881}{7976}- No. You know... M-Maybe|a tiny bit, just as a...|- That's it. That's it.
+{7978}{8066}- I'm going to a spa.|- You don't need to lose weight.|- Seven hundred and fifty calories a day.
+{8068}{8143}- Really? Where's that, Auschwitz?|- Worse. Pritikin. Come on. Come on.|I thought we were in a hurry.
+{8145}{8217}- I can't. I gotta get my pants off,|otherwise I can't be effective.|- Come on.
+{8219}{8268}Okay. Oh, g... Hey...
+{8394}{8442}Oh, you...
+{8488}{8586}{Y:i}Now, if you're out there cleaning house,|doing dishes or doing something else...
+{8588}{8649}{Y:i}stop what you're doing,|come on over to the screen...
+{8651}{8757}{Y:i}and start dialling 1-800-555-3456...
+{8759}{8853}{Y:i}- Honey, it's me or the ring.|- Why? Because we are going to offer|this today for about 50% off retail.
+{8855}{8920}{Y:i}- I'm sorry. It's my favourite show.|- Eighty-five dollars.
+{8922}{9006}{Y:i}- Don't wait. There are a limited...|- Okay, I choose you.
+{9008}{9056}Oh, I can't believe this!
+{9058}{9106}I'll get it. It's mine.
+{9214}{9273}Hello.
+{9275}{9373}Yes, this is Dr Feingold-Fifer.|Oh, hello, Elizabeth.
+{9401}{9478}No. No, you're not calling me|at a bad time, Elizabeth.
+{9480}{9528}You know you can always call me.
+{9555}{9603}Oh, I see.
+{9605}{9687}Well, we discussed that, didn't we?
+{9689}{9801}L-l-It's natural that there|would be a period of mourning|in a situation like this.
+{9838}{9887}Yes, I know he acted|inappropriately...
+{9889}{9968}but you cannot control|how another person acts.
+{9970}{10036}You can only control how you act.
+{10075}{10162}I see. Well, listen.|Elizabeth, if...
+{10164}{10214}You know, that's|an excellent idea, Elizabeth.
+{10216}{10299}Why don't you, um, call your friend|and see if you can visit her?
+{10301}{10350}But don't hesitate if you need me.
+{10352}{10400}Yes. My service can get me anywhere.
+{10402}{10476}All right. You know,|Elizabeth, you're doing fine.
+{10478}{10526}You're welcome. Bye-bye.
+{10528}{10590}Oh, that poor excuse for a husband|left her three months ago.
+{10592}{10643}She's finally starting to feel it.
+{10645}{10718}They should give you double|when they bother you on the holidays.
+{10720}{10771}Oh! Oh! L...
+{10773}{10846}That's me. That's mine. That's mine.
+{10897}{10949}Hello?
+{10951}{11010}Oh, yes, yes, yes, yes, Mrs Fong.
+{11012}{11063}Yes, yes, hello.
+{11065}{11142}You're right. No, tod...|today... today's the day.
+{11144}{11235}Yes. Abso... No, no, no.|I'm... I'm... I'm gonna get him...
+{11237}{11322}I'll get him double what|McEnroe got, I promise,|for... for... for... for everything.
+{11324}{11432}Th-Th-That's for... for sneakers|and tennis rackets and wristbands.
+{11434}{11533}Yes. Y... Stop that.|That's terrible.
+{11535}{11624}M... Mrs Fong... No, no, n-no.
+{11626}{11764}M-Mrs Fong, your son's gonna be the|richest 13-year-old tennis prodigy|in the world, l... I promise.
+{11766}{11848}N-No, l... I won't do anything|without checking with you.
+{11850}{11954}No, l... I pro... I have a beeper.|You'll be able to reach me|no matter where I am.
+{11956}{12017}Y... Okay...|Mrs Fong, I have to go.
+{12019}{12079}Yes, I promise. Okay.
+{12081}{12153}- Shh, come on.|- I think Mrs Fong is jewish.
+{12155}{12203}- Oh.|- Come here.
+{12205}{12298}Oh, honey.|Happy anniversary, baby.
+{12300}{12384}- I adore you.|- Oh, I adore you. Kiss me.
+{12577}{12638}- Did Cindy get you yesterday?|- Mm-hmm. She called my office.
+{12640}{12753}- See, I think she wants|a recommendation.|- And I suggested Branfman,|'cause he's so good with couples.
+{12755}{12803}L-It's the second marriage|for both of them, you know?
+{12805}{12870}- It'd be great if it could work out.|- Yeah. I love them both.
+{12872}{12922}- They deserve it.|- Mm-hmm.
+{12924}{12981}I was thinking about this|the other day.
+{12983}{13075}The... The two of us,|in all our, you know...
+{13077}{13172}in our whole group, we're the only two|that have been married for so long|to the same husband and wife.
+{13174}{13269}- Well, what about Isaac and Nora?|They've been married for a long time.|- Isaac and Nora, sure.
+{13271}{13335}But Isaac and Nora live in two separate|cities for the last nine years...
+{13337}{13396}so, you know, it's easy for them|to relate to one another.
+{13398}{13463}- You can't count them.|- We are pretty amazing, huh?
+{13465}{13519}- Yeah, I know.|Sixteen years is a modern record.|- Yeah.
+{13521}{13569}Seventeen. Seventeen.
+{13571}{13634}Seventeen. Right. So we count the year|we lived together as seventeen years?
+{13636}{13705}- I always do.|- I know. I always... I repress that.
+{13707}{13790}- Why? It was a great year.|- I don't know. 'Cause... 'Cause|you didn't want to split the rent.
+{13829}{13911}- Congratulations.|- Oh, you too.
+{13913}{13991}- What do you attribute|it to? Our... Our...|- Professionally?|- Yeah, yeah.
+{13993}{14079}- Or any way at all. You know,|what's the secret of our longevity?|- Oh, I don't know. Let me think.
+{14117}{14214}- I have my own theory about this.|- Commitments. You know what?|I have to admit it.
+{14216}{14267}- It's a mystery. I have no idea.|- Is it?
+{14269}{14317}- No, I have no idea.|- 'Cause I have a definite theory.|- What's that?
+{14319}{14406}- Can I say what it is?|- Sure. It's... It's|the meaningless little things.
+{14408}{14476}It's the corny things.|It's-It's-It's, you know, the kids...
+{14478}{14543}and... and, um,|our memories together...
+{14545}{14603}and the fact that we take trips|and laugh at the same thing.
+{14605}{14665}- You know, the... the corniest things.|- Oh, really?
+{14667}{14747}Yeah. A-A-Actually, when I|was outside just now with Sam...
+{14749}{14806}You know, I was helping him,|y-you know, load his skis...
+{14808}{14873}l... You know, the kid's practically a|man, and I wanted to just pick him up...
+{14875}{14961}and kiss him and hug him,|and the same with Jennifer and you.
+{14963}{15041}- You know? L-I know this sounds...|unbelievably corny.|- Oh.
+{15043}{15099}Oh, no. More, more, more, more, more.
+{15126}{15199}- Oh, that's the family line.|- Don't get it. Y-You know...
+{15201}{15248}- Let's just leave it.|- It could be about tonight though.
+{15386}{15494}Hello. Hi. Hi, how are you?
+{15496}{15552}Yes. Oh, thank you.
+{15554}{15647}Yes, thank... It's Sheila. She's...|She's wishing us a happy anniversary.
+{15649}{15697}- Thank... Yes.|- Hi, Sheila.
+{15699}{15793}To... Uh... Tonight,|about seven-thirtyish, I would say.
+{15795}{15845}Right. Uh-huh. No, it's gonna be...
+{15847}{15920}It's... It's gonna be an oriental motif,|so it'll be, you know...
+{15922}{16003}What we're discussing here basically|is sushi. So you should bring...
+{16005}{16073}You should bring Kirin Light|if you're gonna bring anything.
+{16075}{16141}Right. Oh... Oh, incidentally...
+{16143}{16191}you know, we're gonna be|seating you next to Phillip...
+{16193}{16243}so... so you'll want to bring|your earplugs.
+{16245}{16308}L... I just thought I'd warn you.|I know how you feel about that.
+{16310}{16417}Okay. Okay, yes.|Uh... Listen, I love you too.
+{16419}{16501}I love Sheila. I just wish she were|a little less anxious.
+{16503}{16553}- Well, I like her|exactly the way she is.|- Uh-huh.
+{16555}{16606}I think you like her 'cause|she's got a great body.
+{16608}{16663}Sheila has a great body?|You must be joking.
+{16665}{16715}- Oh, you rat.|- She's your best friend.
+{16717}{16803}- More your friend these days,|ever since we went to China together.|- No, it's...
+{16805}{16874}Remember how the two of you took|that long hike up the Great Wall?
+{16876}{16947}I have nothing to wear. You guys|didn't come back for four hours.
+{16949}{17007}- You had the flu, remember that?|- Well, so did she!
+{17009}{17090}And ever since she broke up|with Claude... gee, whiz...|it's hard to keep her out of the house.
+{17092}{17168}Claude was a moron, a complete moron.
+{17170}{17219}You don't think I had a thing|for Sheila, do you?
+{17221}{17330}No, not at all.|Well, hmm, maybe just a little.
+{17332}{17406}Well, you know, some affection|for friends is a natural thing.
+{17408}{17460}- Did you put your tennis racket|on my good shoes?|- Yeah. Yeah.
+{17462}{17538}I like to keep it up there on your...|on your underpants, you know?
+{17540}{17621}Brings me luck. You know,|you were the one that wrote...
+{17623}{17683}"As long as you don't act|on those affectionate feelings."
+{17685}{17774}You know what I wish? We could spend|our anniversary alone, just once.
+{17776}{17855}We're gonna be alone. We'll be alone,|you know, till 6:00 tonight...
+{17857}{17918}if you count the mall as alone,|which I do.
+{17920}{17980}You know, the lonely crowd.|Man against humanity.
+{17982}{18030}- Kafka in California.|- Mm-hmm. Mm-hmm.
+{18032}{18086}- Am I gettin' through|to you on this poetry?|- Yes, honey, yes.
+{18088}{18159}But don't forget your beeper,|okay, poet?
+{18233}{18293}{Y:i}Give me your kisses
+{18295}{18374}{Y:i}I'll give you my heart
+{18376}{18431}{Y:i}Give me your promise
+{18433}{18504}{Y:i}That we'll never part
+{18506}{18562}{Y:i}I'll give you love
+{18564}{18647}{Y:i}And devotion
+{18649}{18721}{Y:i}High as the sky above
+{18723}{18791}{Y:i}- Deeper than the deepest ocean|- Hello?
+{18793}{18861}{Y:i}- Give me the light|- Hello? L... You know, those...
+{18863}{18957}- Those field phones in Vietnam were|probably better, where they roll 'em up.|- I thought you loved that phone.
+{18959}{19084}- That's the newest model of that.|I thought you loved it.|- But, uh, you know, it's like|every spot is a... is a trouble spot.
+{19086}{19167}You know.|Hel... Court Shoe Promotions.
+{19169}{19217}L... l... Hold... Wa...
+{19219}{19301}I can hear every other word.|L... Can you hear me?
+{19342}{19444}I've heard... You know, it's like|we're in the midst of an electrical|dust bowl or something. Yeah.
+{19446}{19497}Court Shoe Promotions.
+{19525}{19574}I can't hear you.
+{19576}{19676}I can't hear you. Wait one...|Wait one second. I can't hear you.
+{19678}{19753}I can't...|Oh, Christ, it's a siren.
+{19850}{19929}- Oh, no! Oh, honey!|- Will we get a parking space?
+{19931}{20014}- All right.|- Oh, this is impossible.|- L... I can't hear you.
+{20374}{20460}I'm still at the office.|I'll, uh, be a little late tonight.
+{20462}{20530}Uh, no, nothing earth-shattering.|I, uh...
+{20532}{20580}I just have to clear up some things.
+{20582}{20640}Yeah, sure.|Yeah, I know we have guests.
+{20642}{20744}- Well, uh, entertain them till I get|there. I won't be too long.|- It's like a done deal, Tom. Exactly.
+{20746}{20839}So what I think we should do today...|today is get back together...
+{20841}{20923}get... have dinner, and we'll|talk about how we can finalize it.
+{20925}{21032}- Right. He loved it. He loved it.|- Court Shoe Promotions, please.
+{21034}{21092}Yeah. Yeah. C... C...|Uh, Court Shoe Promotions.
+{21094}{21181}- I want... I want Jack Williams.|- Nap... Napkins, gifts.|- You gotta get a phone like this.
+{21183}{21249}- And save the...|Save the sushi for last?|- This... Then... Then your patients could|track you down no matter where you are.
+{21251}{21317}They could bug you 24 hours. I should've|gotten you this for your anniversary.
+{21319}{21381}- It would've been so perfect, 'cause...|- What did you get me?|- I can't tell you that.
+{21383}{21451}Yeah. Yeah. Uh, Jack,|this is Nick Fifer.
+{21453}{21540}R... Listen, Jack. L... l...|You know, I gotta find out|where we stand on this thing.
+{21542}{21605}This is crazy.|This woman's bugging me every day.
+{21607}{21688}You know? What is the story?
+{21690}{21752}Well, I'll tell ya...
+{21754}{21829}I don't think Reebok|is gonna feel the same way.
+{21861}{21909}You kn... That's crazy!
+{21911}{21995}Danny Fong's name on your label is...|You know, it's gonna meet your...
+{21997}{22069}l-I can't talk you into this. This is...|You know, I'm not gonna negotiate.
+{22071}{22180}Y... You know, I want an answer today,|and I want it... I want it|by 12:00 noon LA time.
+{22182}{22247}And l... I want a "yes" or a "no."|I'm not negotiating here.
+{22249}{22307}Just tell me if you want|to go through with it or not.
+{22309}{22389}You know, it's... it's crazy.|I'll call you at 12:00 noon.
+{22391}{22473}And l... Yes, I want to know.
+{22475}{22556}God, please say yes. Please.|I'm bluffing. I'm bluffing.
+{22558}{22616}- Honey, calm down.|- He doesn't know that.|I'll weep if he says no.
+{22618}{22683}- Oh, dear.|- This is stress-age gum.|Have you seen this?
+{22685}{22756}- It turns pink. You chew it.|- No. What...|- If it turns pink, y-y-you're fine.|- Let me see.
+{22758}{22841}If it turns green, they rush you|immediately into intensive care.
+{22843}{22932}- You should try this.|They'll put you on a respirator.|- Oh.|- God, say yes. Oh.
+{22934}{22990}9-E, blue. Keep that in mind. 9...
+{22992}{23047}That's where we left the car|out there... 9-E, blue.
+{23049}{23131}I don't want to be like|the Springsteen concert. We had|to take a cab to find the car there.
+{23133}{23210}- 9-E, blue. Remember that... 9-E, blue.|- How's your stress gum?
+{23212}{23332}It's so... Jesus, it's green. It's a deep|green. Should l... 9-E, blue. 9-E...
+{23334}{23387}{Y:i}- Why should it be green so quickly?|- We wish you a merry Christmas|- I don't know.
+{23389}{23462}{Y:i}- 9-E, blue. Was it 9...|- We wish you a merry Christmas
+{23468}{23558}{Y:i}We wish you a merry Christmas|and a happy New Year
+{23560}{23654}{Y:i}Good tidings we bring|to you and your kin
+{23656}{23762}{Y:i}We wish you a merry Christmas|and a happy New Year
+{23764}{23842}{Y:i}- Now bring us some figgy pudding|- Now bring us some figgy pudding|- Now bring us some figgy pudding
+{23844}{23914}{Y:i}- Now bring us some figgy pudding|- Now bring us some figgy pudding|- Now bring us some figgy pudding
+{23916}{23989}{Y:i}And bring some out here
+{23991}{24042}{Y:i}Figgy pudding, figgy pudding|figgy pudding
+{24044}{24093}{Y:i}- Good tidings we bring|- Figgy pudding, figgy pudding|figgy pudding
+{24095}{24143}{Y:i}- To you and your kin|- Figgy pudding, figgy pudding|figgy pudding
+{24145}{24194}{Y:i}- We wish you a merry Christmas|- Figgy pudding, figgy pudding|figgy pudding
+{24196}{24245}{Y:i}- And a happy New Year|- Figgy pudding
+{24247}{24327}{Y:i}- Figgy pudding|- For we all like figgy pudding
+{24329}{24384}{Y:i}- We all like figgy pudding|- Yeah.
+{24386}{24488}{Y:i}Oh, we all like figgy pudding|so bring some out here
+{24490}{24540}{Y:i}Good tidings we bring
+{24542}{24602}- Oh, Barcelona!|- Let me see. Let me see.
+{24604}{24687}- Oh, there's Jennifer. Oh, gee,|we never get any good pictures.|- She... She looks adorable.
+{24689}{24740}- How can you say that?|- She always hides her face.|She's so beautiful.
+{24742}{24816}- 'Cause she thinks she's ugly,|which is so crazy. She...|- Madrid.
+{24818}{24883}- Oh, I got sick in Madrid.|Remember that?|- Salamanca.
+{24885}{24946}- Remember that olive tree we sat under?|Isn't this fab?|- I do.
+{24948}{25013}- You know, these are terrific.|I think this was our best trip so far.|- I do. It was.
+{25015}{25084}- Sex... Sexually, that was our best|trip. That's why I think of it.|- Sex is always better on vacation.
+{25086}{25165}Is it? I think it's...|Excuse us, please.
+{25167}{25215}- I hate mimes, so...|- Oh, honey, don't be mean.
+{25217}{25272}No. What is this guy, eavesdropping?|What if... This is not cute.
+{25274}{25322}- Give him a buck.|- "Give him a buck"? For what?
+{25324}{25429}- There's a time and a place|for cruelty. Give him a dollar.|- For... For listening to... to|our erotic, intimate conversation?
+{25431}{25513}Here. Now please go away.|These guys are worse than Hare Krishnas.
+{25515}{25579}You know, he's like... Come on.|Let me give you your present.
+{25581}{25638}- Oh! No. No, you first.|- This is insane.
+{25640}{25702}- Oh, really?|- I have something for you.|- Do you? I thought you forgot.
+{25704}{25775}- What'd you get me? Tell me.|- No. I am gonna head off|your mid-life crisis.
+{25777}{25844}- No kidding?|- Uh-huh.|- That could only mean|the full-body vibrator.
+{25846}{25915}Darling. Darling. Oh.
+{25917}{25967}{Y:i}Californ, Californ-l-A.
+{25969}{26022}{Y:i}Californ, Californ-l-A
+{26024}{26078}{Y:i}Californ, Californ-l-A
+{26080}{26131}{Y:i}Californ, Californ-l-A
+{26133}{26187}{Y:i}California, the sun and sounds
+{26189}{26242}{Y:i}- Christmas Eve, but I ain't snowbound|- Yo!
+{26244}{26294}{Y:i}People wear shorts on the boulevard
+{26296}{26348}{Y:i}Singin'ho-ho-ho|wavin'Christmas cards
+{26350}{26442}- You think I look silly|with this thing?|- No. I think it's important|to keep the boy in you.
+{26444}{26520}When I get out to Malibu,|I'm gonna be unbelievable, you know?
+{26522}{26592}- The waves are bouncing.|- I'm glad you like it.
+{26594}{26684}- Let me get you yours now.|- Oh, boy. I hope you|didn't spend a fortune.
+{26686}{26761}Hey, how many 16th anniversaries|does a person have in a lifetime?
+{26763}{26815}One, maybe two.
+{26867}{26918}- Here you go, Mr Fifer.|- Ah!|- Oh!
+{26920}{26981}- Happy anniversary.|- Oh, Nick! Nick, this is crazy.
+{26983}{27053}- What did this cost you? Oh!|- What's the difference what it cost?
+{27055}{27124}- You know I'd never buy anything|like this for myself.|- I know, that's the whole point.
+{27126}{27176}That's... That's why... That's what a|present is. That's why I got it for you.
+{27178}{27247}Isn't it great? This was a... a...|what... a Victorian frame that...
+{27249}{27299}- that was with the Duke of Kent|or somebody.|- Oh, it's...
+{27301}{27406}- It's just exquisite.|- I knew... And don't say you don't have|a great picture of the family any more.|- I never will again. I love you.
+{27408}{27486}- I love you.|- You're hard to find something for.|This was a...|- Yes, I know. This is...
+{27488}{27559}Would you... Would you put some tissue|or paper around it, and put...
+{27561}{27620}- you know, put it in a box and|make sure it doesn't get scratched?|- Of course, Mrs Fein.
+{27622}{27669}- Thank you.|- Of course.|- Oh, Nick.|- I would've engraved that...
+{27671}{27737}- but I can never remember your name.|- Oh, I love you so much.
+{27868}{27923}- I love my present.|- Look at that.
+{27925}{28025}Can you believe that?|It's great. They are.
+{28027}{28083}- That's fantastic. That's fantastic.|- Yeah, it looks great.
+{28085}{28168}{Y:i}I do! I do! I do!|Like it? It saved my life.
+{28170}{28242}{Y:i}I just recommitted to my husband|for our third marriage.
+{28244}{28341}{Y:i}Actually, it was our second,|but it really was our third|depending on how you look at it.
+{28372}{28477}{Y:i}I do! I do! I do!|By Deborah Feingold-Fifer, PhD.
+{28479}{28533}{Y:i}Now playing at a bookstore near you.
+{28535}{28615}{Y:i}This is Dr Hans Clava,|the eminent family therapist.
+{28617}{28703}{Y:i}- Would you care to comment, Dr Clava,|on Dr Feingold-Fifer's book?|- This is fabulous.
+{28705}{28812}{Y:i}- Well, as Dr Feingold-Fifer|so brilliantly points out...|- Why does this make me uncomfortable?|- It's great. I never saw this.
+{28814}{28928}{Y:i}Marriage began when life expectancy|was not even 30 years.
+{28930}{28995}{Y:i}Therefore, a modern marriage|has to be several marriages.
+{28997}{29045}{Y:i}- To survive, one has to make|a clean break...|- Come on, Nick.|Let's get out of here.
+{29047}{29151}{Y:i}- Just a second. This... This...|- every six or seven years|and remarry each other.
+{29153}{29264}{Y:i}This is a profound and healing insight|spoken from the heart of the author.
+{29266}{29319}I do! I do! I do!
+{29321}{29394}Recommitting Yourself to Marriage|in the Age of Divorce...
+{29396}{29480}{Y:i}- by Deborah Feingold-Fifer, PhD.|- This is great.|- Pretty tacky, huh?
+{29482}{29566}{Y:i}- No. This is... This is exactly what|you want to sell books. You should be...|- Now playing at a bookstore near you.
+{29568}{29618}Honey, you should be proud|of your book. This...
+{29620}{29683}This is fabulous. Let me...|Let me get a copy. Hang on for a second.
+{29685}{29768}- Nick!|- Come on. I'll get you... Well, you|know, I want to pick up one of these.
+{29770}{29867}It'll be great. Y... This...|This'll be the sale that'll put you,|you know, on-on the charts.
+{29869}{29958}I'm gonna get one of these, please.|Have you read this, incidentally?|It's a wonderful book. Really wonderful.
+{29960}{30020}It's full of interesting insights|about marriage and...
+{30022}{30087}Here, you can turn to any page. Like|"The Joy of Fidelity." Look at that.
+{30089}{30152}"Too many people accept that passion|must disappear from a long marriage...
+{30154}{30214}but commitment itself can be used|to generate passion."
+{30216}{30306}That's interesting. This... This is Dr|Feingold-Fifer. She... She wrote this.
+{30308}{30356}- Hi.|- See? Pictures match up and everything.|- Oh, hi.
+{30358}{30406}- Yeah.|- I'm gonna get one.|I'm gonna have... get a copy of this.
+{30408}{30514}- Y-You should pick one up. L... l...|Really, if your marriage is sinking,|this is the thing for it.|- I'll get one.
+{30550}{30607}- That was hostile.|- Why?
+{30609}{30659}Don't be silly.|You're a celebrity.
+{30661}{30762}I'm not a celebrity. But whatever I am,|public exposure makes me uncomfortable.
+{30764}{30832}- Y-Y... My heart was pounding|back there.|- What for?
+{30834}{30913}Listen, I can't help it if you wrote|a hugely successful book.
+{30915}{30974}But you know my... my feelings|about cheap publicity.
+{30976}{31034}There's competition.|This is what everybody does.
+{31036}{31084}- You didn't have to buy another book.|- It's a reality.
+{31086}{31142}I got one for Cindy. I'll give it|to Cindy and Daniel tonight.
+{31144}{31226}Believe me, with their marriage, they|could use a half dozen copies of this.
+{31228}{31276}I still think it was hostile.
+{31278}{31331}Okay, it was hostile. L... You know,|I don't know what came over me.
+{31333}{31395}I suddenly, you know,|was possessed or something.
+{31397}{31485}- L-I've been feeling|very strange lately.|- Nick, there's a difference between|a hostile act and a hostile person.
+{31487}{31542}Well, you know, I still...|Maybe I'm hostile person.
+{31544}{31610}- I know it was very silly.|- Keep it up and I'll believe you.
+{31612}{31693}- Listen, can I speak to you, Deborah?|- Oh, honey, of cour...
+{31695}{31782}What is the matter? You know|that deal's gonna come through, Nick.
+{31784}{31843}You're so low.
+{31845}{31904}Come on. We'll get some sushi.
+{31931}{32002}Mmmm, sea urchin and quail egg. Yum.
+{32004}{32060}This is pure cholesterol,|you know. This...
+{32062}{32120}- l-It's sheer death.|- You don't have to eat it.
+{32122}{32207}- Sheer death.|- Oh, Nick, look at you,|still down in the dumps.
+{32209}{32295}- I'm not. I'm fine.|- Honey, you're not destructive|or hostile. You're my sweetheart.
+{32297}{32361}- I'm absolutely fine, I swear to you.|- Here, darling, here.
+{32363}{32419}- Have a little tuna roll.|- Thank you.|- It'll cheer you up.
+{32421}{32496}Jiro, you've outdone yourself this year.|It is so beautiful.
+{32498}{32551}A flower arrangement, a painting.
+{32553}{32601}It's a $370 flower arrangement.
+{32724}{32785}- Can we talk? Is that possible?|- Of course, Nicky-san.
+{32787}{32858}Anything for Nicky-san|on most honourable anniversary.
+{32860}{32931}- Let's just... just...|- Is important, Nicky-san?
+{32933}{33018}It's important. It's not...|It's not earth-shattering, but...
+{33020}{33072}you know, it's important.
+{33074}{33122}Okay.
+{33176}{33243}- I'm gonna get a yogurt.|- Avoiding, Nicky-san?
+{33245}{33338}- No. You want a yogurt? Can I get you...|- Yeah, the usual.
+{33340}{33421}{Y:i}Walking in a winter wonderland
+{33423}{33505}{Y:i}In the meadow we can build a snowman
+{33507}{33581}{Y:i}- And pretend that he is Parson Brown|- Um, a vanilla yogurt and a...
+{33583}{33678}{Y:i}- and a chocolate yogurt in a cup.|- He'll say, "Are you married"|We'll say, "No, man
+{33680}{33754}{Y:i}But you can do thejob|when you're in town"
+{33756}{33840}{Y:i}Later on we'll conspire
+{33842}{33927}{Y:i}As we dream by the fire
+{33929}{34014}{Y:i}To face unafraid|the plans that we made
+{34016}{34101}{Y:i}Walking in a winter wonderland
+{34103}{34186}{Y:i}In the meadow we can build a snowman
+{34188}{34277}{Y:i}And pretend that he is Parson Brown
+{34279}{34325}{Y:i}- He'll say, "Are you married"|We'll say, "No, man|- Thank you.
+{34327}{34436}{Y:i}- So, I had an affair.|- But you can do thejob|when you're in town"
+{34438}{34518}{Y:i}- I see. When?|- Later on we'll conspire
+{34520}{34618}{Y:i}- Recently. It's over now, you know. L...|- As we dream by the fire
+{34620}{34707}{Y:i}- I'm sorry.|- To face unafraid the plans that we made|- Oh.
+{34709}{34778}{Y:i}- Walking in a winter wonderland|- That's why I was so crazy|before in the bookstore, you know?
+{34780}{34869}{Y:i}- Because I was... You know,|I've been trying now for weeks...|- In the meadow we can build a snowman
+{34871}{34922}{Y:i}- to figure out a way that|I could just say this to you.|- And pretend that he is Parson Brown
+{34924}{34989}{Y:i}- You know, l... My... My hope was that|I could just say it to you...|- He'll say, "Are you married"
+{34991}{35035}{Y:i}- and be honest|and that you would forgive me...|- We'll say, "No, man
+{35037}{35093}{Y:i}- and that, you know,|since it was our... our anniversary...|- But you can do thejob|when you're in town"
+{35095}{35198}{Y:i}- that we could, you know,|like in the book, we could|remarry and... and begin again.|- Later on we'll conspire
+{35200}{35301}{Y:i}- As we dream by the fire|- It's, uh, 12:00.|- Yeah, so?
+{35303}{35376}{Y:i}- To face unafraid|the plans that we made|- Well, don't you have|a phone call to make?
+{35378}{35470}- Now?|- You promised that Williams man|you'd call him back.
+{35472}{35552}{Y:i}In the meadow we can build a snowman
+{35554}{35670}{Y:i}- And pretend that he is Parson Brown|He'll say, "Are you married"|- To hell with him. I'm... I'm explaining|something very serious to you.
+{35672}{35726}{Y:i}- We'll say, "No, man|- Nicholas, this is your business.
+{35728}{35793}{Y:i}- Mrs Fong expects an answer.|Whatever we have to say to each other...|- But you can do thejob|when you're in town"
+{35795}{35843}{Y:i}- can wait for ten minutes, believe me.|- Later on
+{35845}{35902}l... I do... I don't have to make|this phone call. This is crazy.
+{35904}{35972}{Y:i}- As we dream by the fire|- No, really, you should go,|because he wants you to...
+{35974}{36031}{Y:i}- He's expecting you to call.|It'll be fine.|- Walking in
+{36033}{36167}{Y:i}- A winter wonderland|- Okay.
+{36359}{36451}{Y:i}Mister Santa, bring me some toys
+{36453}{36540}{Y:i}Bring merry Christmas|to all girls and boys
+{36542}{36645}Yeah, I'm... I'm...|I'm, uh, 213-555-427-2111.
+{36705}{36777}Uh, yeah.|C-Court Shoe Promotions.
+{36779}{36827}L-I wanna speak to Jack Williams.
+{36873}{36921}Uh, it's Nick Fifer.
+{37013}{37115}S... What are you talking about? I was|supposed to call him at 12:00 noon.
+{37117}{37191}Well... Well, where is he?
+{37193}{37282}Well... Look, tell him...|Tell him that I called him at 12:00...
+{37284}{37337}and I wanna to speak to him, or...
+{37339}{37425}you know, I'm... l-I'm just|gonna have to go to Reebok.
+{37427}{37475}Okay.
+{37505}{37571}Fuck off.
+{37573}{37629}Christ, the gum is jet black already.
+{37721}{37808}- Wow!|- Oh, wow, that's great.
+{38315}{38374}They're from Shanghai.
+{38376}{38451}- How'd it go?|- The guy won't take my call.
+{38453}{38514}- So... You know. I don't know.|- You're gonna have to go to Reebok.
+{38568}{38632}Tell me about your affair.
+{38634}{38712}- Wh-What do you wanna know?|- When was it over?
+{38714}{38815}Yesterday. Yesterday afternoon|around, uh, 4:30.
+{38842}{38921}- How long did it last?|- Do you really wanna know this?
+{38923}{38969}- Yes.|- I mean, is this really...|- Yes.
+{38971}{39028}Six months. Seven months.|Seven months.
+{39030}{39116}- Then it was serious.|- It... It wasn't serious.|It was, you know...
+{39118}{39179}If it lasted seven months,|it was serious.
+{39181}{39237}When did you meet her?|When did you find the time?
+{39239}{39287}I did. I found time. L... You know...
+{39289}{39375}After work, mostly, when l...|when I was supposed to be|going to the health club.
+{39422}{39493}I couldn't figure out why|you were working out so much.
+{39495}{39587}- That's when I was taking your daughter|to her clarinet lessons|and her soccer practise.|- I'm sorry. I'm sorry.
+{39589}{39637}- Is this your first affair,|or have there been others?|- I'm just...
+{39639}{39702}- You might as well tell me|now that we're talking.|- L-Let's go someplace else.
+{39704}{39789}This is fine. No one is|listening to us, believe me.
+{39821}{39937}I had two others, but they were|one-nighters, and this was years ago.|And that's it.
+{39939}{40020}- Who were they?|- You really wanna know this?
+{40047}{40121}What possible difference could it make?|I mean, you know... One was a...
+{40123}{40234}- One was a headhunter that I met|at O'Hare Airport in Chicago...|- A headhunter?
+{40236}{40323}Y-Yeah. She gets talent for,|you know, corporations and stuff and...
+{40325}{40406}- Then there was a legal secretary|from Atlanta. You know...|- That's it?
+{40408}{40472}- That's it?|- Two. Two, yes,|and they were one-nighters. Both.
+{40474}{40522}Three, actually, if you count|the hooker in Dallas.
+{40524}{40628}But that... that was business. That was|totally business. They sent her to my|room. I couldn't refuse. It was a gift.
+{40630}{40697}- What did she have that I didn't have?|- Who, the hooker?
+{40699}{40756}- The yesterday one.|- Nothing! That's the whole point.
+{40758}{40812}- It was not about that.|- Then what was it about?
+{40814}{40866}Did she do tricks in bed,|things I don't do?
+{40868}{40935}No. No. Yes, actually, she did some.|You know...
+{40937}{41012}But at first, You know... l-In|the beginning it's always crazy time.
+{41014}{41067}Oh, you have lots of experience|with beginnings?
+{41069}{41144}Hey, we were great in the beginning too.|You know, we were fabulous.
+{41146}{41222}You used to... You used to grab me|under the table in the restaurant...
+{41224}{41291}and, you know, in the... in the elevator|when we made it, you know.
+{41293}{41361}- Is that what you did with her?|- A little bit, yeah, at first.
+{41363}{41447}But then it tapers off very quickly|to very, very nothing, nothing.
+{41449}{41509}- Oh, nothing.|- You know... J... You know, routine sex.
+{41511}{41566}Oh, like ours was this morning.
+{41568}{41620}Fake, perfunctory.
+{41667}{41725}- Do you love her?|- L...|- Do you wanna marry her?
+{41727}{41800}- Hey, look, I told you,|this is over, so I don't wanna|make it a drawn-out thing.|- Did you love her?
+{41802}{41871}- Did you want to marry her?|- L... I couldn't marry her.|I was married.
+{41873}{41927}- Yes or no?|- How could I marry her?|- No, of course not.
+{41929}{41986}Believe me, no. I mean...
+{41988}{42048}- You never told her you loved her?|- No... I might have. Yes, I might have.
+{42050}{42118}- But I didn't love her.|I'm... I'm not even sure...|- Then you lied to her too?
+{42120}{42199}- I didn't lie. You tell people things,|you know, in the heat of passion.|- Oh, then you did love her.
+{42201}{42293}I didn't love her. L... l...|l... I liked her. I loved the sex.
+{42295}{42409}Oh. You love me,|but you only like the sex.
+{42411}{42498}No. L... I love our sex,|but after 16 years, you know...
+{42500}{42569}y-you must admit, in every family,|it gets very routine.
+{42571}{42626}You know, it becomes|like two zombies.
+{42673}{42743}- Look, I told you, it's over.|What are you... What are you...|- Then why are you telling me now?
+{42745}{42837}- What... Deborah,|what's the difference? I'm trying to...|- You're guilty, and you|want me to exonerate you.
+{42839}{42897}Hey, can l...|May I tell you something?
+{42899}{42987}Hold it. Before you get too wound up,|just... Let me point...|This is your book, right?
+{42989}{43045}This is your book. I'm... I'm giving you|a very, very good source in here.
+{43047}{43120}So... So... One second.|One second. But listen to this.
+{43122}{43197}"You cannot carry a large lie|through a marriage...
+{43199}{43247}because a large lie,|like an untreated cancer...
+{43249}{43312}will continue to grow until you|or the relationship dies."
+{43314}{43391}- This is you writing. This is your...|You don't believe your own...|- It's Sheila, isn't it?
+{43393}{43447}How can it be Sheila?|Would I do that to you? Of course not.
+{43449}{43516}It's a total stranger.|Someone you don't know.
+{43518}{43578}- How old is she?|- Her age was an accident.
+{43580}{43653}- How old?|- Twenty-five.
+{43655}{43736}She's very brilliant. Uh, a painter.|Creative and very, very lovely.
+{43738}{43801}- A painter.|- She... A paint... She paints.|- How interesting.
+{43803}{43860}She paints the sports pictures|that you hate, okay?
+{43862}{43932}- And... And how'd you meet this|very bright, creative painter?|- That's the...
+{43934}{43988}I met her in Chicago. What's|the difference? L... l... You know...
+{43990}{44055}I was... I was doing a deal for...|for... her husband.
+{44057}{44107}He was... He was being traded|to the Chicago Cubs.
+{44109}{44179}And then they had a bad marriage|and... and it... it was messy.
+{44181}{44259}And she was vulnerable, and I was, at|the time, I guess. I don't know. But...
+{44261}{44327}- What's her name?|- Her name you gotta know?|What do you have to know her name?
+{44329}{44401}- What are you gonna do, call her?|- She knew my name, didn't she?
+{44403}{44457}- What's hers?|- Ed.
+{44517}{44568}- Ed?|- Ed. Ed. Yes, Ed. Ed.
+{44570}{44678}- What's so strange? Edwina is her name.|- Edwina?
+{44709}{44771}I know. I know.
+{44773}{44827}Oh, Nick.
+{44865}{44924}What a lost boy you are.
+{45048}{45097}- I'll bet you feel better now, huh?|- I do.
+{45099}{45169}I'll tell you, I feel 100% better.|'Cause l... You know...|I didn't know how to broach this.
+{45171}{45219}I've been trying|to bring this up for weeks.
+{45221}{45315}- But you couldn't|until yesterday at 4:30.|- Right. Exactly.
+{45317}{45386}4:30 I was able to bring it up.|Who knew how you would react?
+{45388}{45440}You know, a lot of wives|would not understand this.
+{45442}{45514}You know, they would th... make a big|thing out of it. But... But, you know...
+{45516}{45585}The thought of remarrying|is such a sophisticated concept.
+{45587}{45638}- I love you. I really, really love you.|- Oh, honey.
+{45682}{45756}You are the most callow, selfish...
+{45758}{45855}short sighted son of a bitch|who has ever lived!
+{45857}{45943}I hope you fry in hell, shithead!
+{46085}{46175}- Give me the car keys.|I said, give me the car keys!|- Where are you going?
+{46177}{46228}First, I'm gonna call everyone|and let them know the party's off.
+{46230}{46325}- Then I'm gonna find myself a lawyer!|- I'm a lawyer.
+{46327}{46392}{Y:i}- Rudolf, the red-nosed reindeer|- Hi, this is Cindy Lipman.
+{46394}{46483}{Y:i}- In the holiday spirit, I'm offering|you the original soundtrack recording...|- Had a very shiny nose
+{46485}{46567}{Y:i}- of Gene Autry singing|"Rudolph the Red-Nosed Reindeer."|- And if you ever saw it
+{46569}{46631}{Y:i}- Leave your message at the beep.|- You would
+{46633}{46699}Cindy, I can't explain now,|but the party for tonight's off.
+{46701}{46783}And my marriage is also off. All right?|Let everybody know. Goodbye.
+{46785}{46866}{Y:i}Goodbye, my Coney Island baby
+{46868}{46946}{Y:i}- Farewell, my own true love, true love|- My honey
+{46948}{47024}{Y:i}I'm gonna go away and leave you
+{47026}{47111}{Y:i}- Never to see you any|- Never gonna see you any more
+{47113}{47188}{Y:i}I'm gonna sail upon that ferryboat
+{47190}{47312}{Y:i}- Never to return again|- Return again
+{47314}{47372}{Y:i}- So goodbye|- Farewell
+{47374}{47422}{Y:i}So long forever
+{47424}{47497}{Y:i}Goodbye, my Coney Island baby
+{47499}{47562}{Y:i}Farewell, my own true love|true love
+{47564}{47626}{Y:i}- My honey|- I'm gonna go away and
+{48274}{48324}9-E, blue.
+{48326}{48374}9-E, blue.
+{48642}{48695}Deborah. Deborah. Deborah, where...
+{48697}{48751}I was looking all over...
+{48753}{48820}What are you doing? What's the matter|with you, you... Are you blind?
+{48822}{48869}She can't... The woman can't move!
+{48871}{48932}I'll kill you, I swear.|I've killed before. I'll...
+{48934}{48982}Oh, Deborah. Deborah. Deborah.
+{48984}{49048}Move... Let me... Let me drive.|You're in no condition to drive.
+{49050}{49140}Let me take over. Get that space.|Pull... There's a... There's a space.
+{49142}{49199}Get... Get over there, quickly!
+{49320}{49368}- Deborah. Deborah, we have to talk.|- Go away!
+{49370}{49418}- No, I don't want to go away.|- There's no point.|- What do you mean?
+{49420}{49512}- There's always a point in talk...|- Adultery is never about|the third party.
+{49514}{49575}It's about the original couple.|It's about us!
+{49577}{49637}- You were sending me a message!|- What kind of message?
+{49639}{49706}- What kind of message? L...|She was available. I was... I was weak!|- I can't believe you...
+{49708}{49764}I can't believe you threw away|everything we had.
+{49766}{49857}Would you stop saying that?|I didn't throw away anything.
+{49859}{49922}- Hey, put yourself together.|- It's jealousy, isn't it?
+{49924}{50020}- Jealousy of what? What... What...|What am I jealous of?|- My success. My book.
+{50022}{50101}L... I'm proud of your book.|L... l... I told you that.
+{50103}{50167}- I'm... I'm...|- You started life as a public defender.
+{50169}{50231}L... I like what I'm doing.|I told you that. I'm proud of it.
+{50233}{50306}I don't care. I like negotiating|for the Chargers and the Athletics.
+{50308}{50366}It's fun, and I like the money.|I don't care about the...
+{50368}{50474}I'm happy to get the money. And I give|to the-the ACLU, and I give to Amnesty.
+{50476}{50529}- I'm proud of the money. I don't care.|- Yes, but deep down!
+{50531}{50584}- Yes...|- Deep down!|- Deep down, no...|- Yes!
+{50586}{50642}- Will you stop it? You...|- No!|- You're embarrassing me.
+{50644}{50692}You don't have to be|a shrink all the time.
+{50694}{50811}Can't things just be sometimes|exactly what they seem on the surface?
+{50813}{50912}All right, all right. I'm... I'm... So I'm|normal. So once in a while I'm jealous.
+{50914}{50962}Did you know...|Y-Y-You'll be at a party...
+{50964}{51015}- and everyone will be, you know,|fussing over your book...|- Okay. All right.
+{51017}{51070}- They'll be... They'll be making...|- It's over. It's over.|- Why is it over?
+{51072}{51145}- Because that's what you want!|- What l... What I want?
+{51147}{51202}- What l... I don't want it.|- It's classical. You had an affair...
+{51204}{51272}to sabotage the relationship because|you couldn't confront me directly.
+{51274}{51340}I was the one who brought it up. I|wanted to start over and tell the truth.
+{51342}{51411}- You were the one|who was out getting laid.|- So read your own book.
+{51413}{51465}Seventy-five percent of married couples|have adultery, but...
+{51467}{51519}I thought we were in the other 25%.
+{51521}{51586}It's over.
+{51588}{51651}- Where you going?|- To get a cab.
+{51653}{51730}- That's ridiculous, Deborah.|I'll drive you.|- No you won't.
+{51732}{51830}You're crazy. Uh, look... Okay, I made a|mistake. Statistics are bullshit, okay?
+{51832}{51920}- I was wrong to bring that up.|You know, it's... it's my adultery.|- Why are you kidding yourself, huh?
+{51922}{51980}- It's over.|- I don't want it to be over.
+{51982}{52057}What do you want? Another 16 years|of lying to each other?
+{52059}{52177}- The mature thing is to|get out now while we're both|still young enough to start over.|- I don't want to get out now.
+{52179}{52236}All right, have it your way.|I can't debate this argument.
+{52238}{52302}- What about the children?|- Children? That's a good one.
+{52384}{52476}- Debbie, will you stop this?|You can't get a cab in Los Angeles.|- Oh, of course you can.
+{52478}{52543}Look, you're gonna throw|everything away...|the whole marriage... for one lousy...
+{52545}{52622}Four! It was four by your count.|Who knows how many it really was?
+{52624}{52687}It was... Deborah, the first three|were nothing. It was... Would l...
+{52689}{52768}- How can you ever expect me|to trust you again?|- L... Yeah. I don't know what to say.
+{52770}{52833}- You... You're making a mountain|out of a molehole.|- You can't even give me a reason!
+{52835}{52922}- I can't...|- How do you expect...|Where's your present?
+{52924}{52996}- What do you mean?|- Your surfboard!|- I don't know.|- Somebody's going to take it.
+{52998}{53092}- I bought it three months ago.|I had them engrave your|name on the damn thing!|- What are you...
+{53246}{53317}{Y:i}We three kings of Orient are
+{53319}{53396}{Y:i}Bearing gifts we traverse afar
+{53398}{53474}{Y:i}Field and fountain|Moor and mountain
+{53476}{53552}{Y:i}Following yonder star
+{53554}{53599}{Y:i}Wise men from|the shepherd to the lamb
+{53601}{53647}{Y:i}Pack your bags|Shoot to Bethlehem
+{53649}{53696}{Y:i}Yo, gee, are we men or mice
+{53698}{53742}{Y:i}Find that baby|by the name of Christ
+{53744}{53792}{Y:i}You can't stop me|No man or beast
+{53794}{53842}{Y:i}I see a star shining from the East
+{53844}{53892}Safe.
+{53919}{53968}But I ruined the picture.
+{53970}{54043}You know what I should do? I should have|them deliver this. This is cumbersome.
+{54045}{54104}What are you talking about? I thought|you wanted to take it to Malibu.
+{54106}{54174}- You'll never get it this weekend.|It's Christmas!|- It's... It's not such a big deal.
+{54176}{54285}- I don't have to have it.|I'll live without it for a second.|- Maybe I could have Nora's|handyman come and p...
+{54287}{54353}- Oh, Deborah.|- Don't touch me. I'll kill you.|I'll kill you, I swear.
+{54469}{54517}Why did you do this to me?
+{54519}{54605}You've ruined my life.|Oh, God.
+{54607}{54669}I'm sorry, Deborah. L...|It... It was a mistake.
+{54671}{54739}I made a mistake.|What do you want me to say?
+{54741}{54800}- Is that you or me?|- Me.|- It's you, yeah.
+{54802}{54853}- No, you don't have to go.|- Let me alone.
+{54880}{54917}Just alone. Get it?
+{55211}{55276}I'm sorry your friends|weren't home, Elizabeth.
+{55308}{55381}No. No, I don't think Valium|is the solution.
+{55445}{55494}Oh, that's an excellent idea.
+{55496}{55583}Go to the museum for the Russian|Futurist show. Very good idea.
+{55631}{55684}Oh, there's nothing wrong with me.
+{55686}{55740}My nose is a little stuffed up,|that's all.
+{55788}{55846}Of course you can.|You can call me anytime.
+{55896}{55944}Elizabeth, you'll be fine.
+{55946}{56038}Just stay away from the Valium.
+{56040}{56090}All right. Goodbye.
+{56092}{56157}That was very touching. You know,|I thought you handled that great.
+{56159}{56232}- Come on. I'll drive you home.|- I'm not going home.
+{56234}{56295}- I'm going to Marty Lefkowitz's office.|- Marty?
+{56297}{56369}- You're gonna see Marty tonight|at the party.|- No, I won't. The party's off.
+{56371}{56477}- Remember? What, did you think I was|going to act out some humiliating|charade in front of our friends?|- No. Who wants to act out a charade?
+{56479}{56529}Besides, I need a lawyer.
+{56531}{56583}A lawyer?|Why do you need a lawyer? So soon?
+{56585}{56633}What's the matter with you?|When did you think I was going to do it?
+{56635}{56698}What are you talking about?|And Marty Lefkowitz she picks?
+{56700}{56772}- You won't accept real...|- That's who you would use? That's who|you'd use for a lawyer, Marty Lefkowitz?
+{56774}{56876}- A guy who's been sanctioned|by the bar three times?|- Look, whom I choose for a lawyer|is my business. You got that?
+{56878}{56948}- L... Are you serious?|- Yes, I'm serious.
+{56950}{57008}You... You're kidding. Marty Lefkowitz?
+{57010}{57097}That's... Th-Th-That's who you|would pick for a lawyer, my, you know...
+{57099}{57167}- l... I just...|- You got a better recommendation?|- Yes. Yes, I do. Me.
+{57169}{57217}- That's who you should use.|- You?
+{57219}{57267}- Yes, if you're serious about this.|Why... Why not? Why not?|- You!
+{57269}{57326}It's just possible that you|lack objectivity, that's all.
+{57328}{57412}- I lack objectivity? Thank you.|- Enjoy.
+{57414}{57509}- Deborah, this is y-y-your,|you know, your favourite.|- For some reason, I don't have|much of an appetite.
+{57511}{57638}Yeah, I know... What's... Look, we...|This is California, right?|So it's community property anyhow.
+{57640}{57704}So everything's gonna be split|down the middle. Use your head.
+{57706}{57796}And you know I'm not gonna screw you|when it comes to the kids|because I'm crazy about them.
+{57798}{57887}Stop for a second. So this is... I'm|talking a savings of 30,000 bucks here.
+{57889}{57952}- That's if we don't go to court even.|- I can't believe I'm hearing this.
+{57954}{58003}Hey, try me, okay?|What have you got to lose?
+{58005}{58084}Nothing. Just my shirt, my livelihood,|my house and my children.
+{58086}{58179}Hey, look, w-we'll discuss it.|If you think it's unfair...|Deborah. Deborah, wait one second.
+{58181}{58273}If you think it's unfair,|then go get Marty Lefkowitz,|get Marvin Mitchelson, whoever you want.
+{58275}{58358}You're just using this|as an excuse to stay in contact.|I've seen it 100 times with my patients.
+{58360}{58440}You're wrong. I'm... I'm s... doing this|to save us money, I promise you.
+{58442}{58532}- You really wanna do this?|- I do. L-l-I'm the guy.
+{58534}{58599}- All right. Right now.|- Now you wanna do it?
+{58601}{58669}Right now. I don't want to live|with this hanging over my head.
+{58671}{58760}If I don't see you again at the end|of today, it'll be just heaven for me.
+{58762}{58834}If you've got any trick up your sleeve,|I'd like to know it now.
+{59048}{59109}- Two... Two... Two margaritas.|- I don't want a margarita.
+{59111}{59203}- No salt. Two.|- I won't drink it. I don't want it.
+{59205}{59285}It's... It's... It's okay. I'll... I'll...|I'll... I'll drink them both. No salt.
+{59368}{59431}Soft talk, alcohol.|Next you'll be buying me flowers.
+{59433}{59538}- It's not gonna change my mind.|- So, let me... let me get this.
+{59540}{59590}I know you're... you're anxious.
+{59619}{59672}Um, what we should start with,|I guess...
+{59674}{59765}is a list of all the, uh...|all the community property stuff...
+{59767}{59815}uh... we... all the stuff|that we acquired...
+{59817}{59895}prior to residency in|a community property state.
+{59897}{59971}- You mean, like|the Early American breakfront?|- Mm-hmm.
+{59973}{60089}We should also write down our debts|and our outstanding bills...
+{60091}{60162}a list of my estate...
+{60164}{60232}with the welfare and the pension.
+{60234}{60324}{Y:i}- We should decide, uh, actually|what we're gonna do with the house.|- Dos margaritas.
+{60326}{60410}You know, 'cause it's a... We have|a number of options. Uh, thank you.
+{60412}{60476}Uh, one thing we can do, if you like...
+{60478}{60595}is, uh, sell the house|and divide the profit.
+{60597}{60710}A possibility. Uh, another possibility|for us would be, um, to...
+{60712}{60802}- Take this.|We're not gonna eat anything.|- I think we should call the kids|and tell them now.
+{60804}{60906}What is "now?" Why... Why...|Today is so urgent all of a sudden.|They're on vacation.
+{60908}{60958}They have a right to know their parents|are getting a divorce.
+{60994}{61083}Well, now... You know... Now I feel like|the... the scumbag of all time.
+{61085}{61133}You are.
+{61170}{61234}- You want another... another...|Give her another one.|- Why not?
+{61236}{61339}You know, l... I want one... I want|another one too. You can leave mine.
+{61666}{61714}The wicker chest.
+{61716}{61764}It's from my mother.
+{61814}{61890}- The folding chairs.|- Well, I should keep|the folding chairs...
+{61892}{61990}because I have the Formica table,|and they go with the Formica table.
+{61992}{62046}See?
+{62048}{62123}- The pole lamps.|- Oh, you can have the pole lamps.
+{62150}{62199}The "Free Angela Davis" posters.
+{62201}{62283}- I don't want 'em.|- The rolltop desk.
+{62285}{62396}- Nick, that was your birthday present.|- Was it?
+{62398}{62455}Yes. Don't you remember?
+{62457}{62576}We bought it in that antique shop|in Oxford. Gosh, don't you remember?
+{62662}{62751}- Was that my present?|- I remember.
+{62753}{62829}- I do remember. We missed the train.|- That's right.
+{62831}{62879}- To London, right?|Was I right about that?|- Mm-hmm.
+{62881}{63007}- And then we... s... we... we mired down in|that dreadful bed and breakfast place.|- The bed and break...
+{63009}{63081}- Oh, that was the worst.|- But the leaky toilets|and the 500 cats.|- Right. And remember...
+{63083}{63174}we s... we were up all night 'cause I|couldn't find any coins for the heater.
+{63176}{63257}- That was, uh... That was|adorable in a way.|- It was fabulous. Great.
+{63259}{63331}- We were 23 at the most, right?|- No, 24.
+{63333}{63399}Twenty-four. So... So where did we...|Where did we get the balls...
+{63401}{63470}to buy a rolltop desk|with that kind of money?
+{63472}{63520}Amazing.
+{63552}{63600}The Persian rug.
+{63602}{63662}The one in the dining room|or the one in the foyer?
+{63664}{63723}The one from law school...
+{63725}{63792}Artie Sims threw up|the... the spaghetti sauce on.
+{63842}{63894}Artie Sims.
+{63896}{63945}Hey, are you sure you wanna|go through with this?
+{64005}{64067}This was your idea.
+{64069}{64117}I know... You know, but...
+{64159}{64213}If you can't handle it,|I'm gonna get myself another lawyer.
+{64215}{64331}I can handle it. It's fine. There was|this... You know, so when l... when I said|the Persian rug, I got a little twinge.
+{64333}{64438}You know what? This is crazy.|We're just kidding ourselves.
+{64475}{64579}- Hey, I said I can handle it.|I can handle it.|- This isn't fair to either one of us.
+{64581}{64629}- Deborah, I can handle this.|- I'm gonna get a cab.
+{64631}{64686}- I think what we ought to do is...|- I said I can handle it.
+{64688}{64769}- We ought not to speak|to each other for a while.|- What are you talking about suddenly?|- That's right.
+{64771}{64826}- I tell you... Nick, what are...|- Hey.
+{64828}{64893}- Nick, it's over. L-l...|- Don't say it.|- There's no trust any more.
+{64895}{64955}The whole thing is over.|What I think you ought to do...
+{64957}{65023}is you ought to go out, and you|ought to get yourself an apartment.
+{65025}{65112}It's gonna be difficult|for a little while, but, you know,|I know we're gonna be friends again.
+{65114}{65191}After we get over the resentment|and the pain, we'll be friends again.
+{65193}{65275}Listen, thanks for|a great 16 years, honey.
+{65277}{65325}- What are you saying?|- Bye-bye.
+{65327}{65375}You... Wait a minute.|Deborah, wait a minute.
+{65466}{65515}Wait.
+{65517}{65587}Deborah... Deborah, please don't do this.|Don't do this. I need you.
+{65589}{65666}- Nicholas...|- No, please listen to me.|- Nicholas... Nicholas, you'll be fine.
+{65668}{65747}- No. No. No.|- You'll be fine. Your future|depends on yourself, not on me.
+{65749}{65814}- No... You know... Is that what you|tell your patients sometime?|- People adjust.
+{65816}{65864}At first they think|they're gonna die or something.
+{65866}{65948}- But then, a few years later,|they're perfectly fine.|I've seen it 1,000 times.|- No. Deborah. Deborah...
+{65950}{66000}- Calm down.|- I know a man's not|supposed to do this.
+{66002}{66050}- I know that.|- Men can do anything they want.
+{66052}{66112}Anything they want.
+{66114}{66221}- I love you. I need you.|Don't do... Don't do this, please! Pl...|- Nicholas...
+{66223}{66314}- I can't live without you.|- You can. You can, Nicholas. You can.
+{66316}{66364}Nicholas...
+{66403}{66483}Nicholas, breathe deeply.|Breathe deeply.|What's the matter with you people?
+{66485}{66553}Don't you have anything better to do|than to watch a person in pain?
+{66555}{66629}- This isn't a TV talk show.|- I'm ashamed.|- Two tickets for anything.
+{66631}{66691}- For what show?|- Anything. Whatever's on now.
+{66693}{66767}{Y:i}- All we've got is Salaam Bombay,|and it's ten minutes in.|- That's fine. That's fine.
+{66769}{66821}Hang on. Hang on, Nicholas.|Thank you.
+{66823}{66889}{Y:i}I saw Salaam Bombay. Deborah...
+{66891}{66929}{Y:i}Two for Predator for the 4:00 show.
+{67306}{67389}Jesus. When I see|these people in India...
+{67391}{67476}my problems seem like|complete and total bullshit.
+{67478}{67544}- Your problems are not|complete and total bullshit.|- Yes.
+{67546}{67665}Besides, I can assure you, there are|plenty of men in India doing exactly|the same thing you did.
+{67720}{67841}Let me tell you, this picture holds up|damn well for the second time.
+{68093}{68143}It's a powerful picture.
+{68190}{68282}Oh, Christ!|What do you want me to say, Deborah?
+{68284}{68336}I don't... I don't...|I don't know how I could have done it.
+{68338}{68391}You do know how|you could've done it.
+{68393}{68448}Your needs were not being met.
+{68450}{68537}- Maybe l... Maybe I was just giving|too much time to my patients.|- No, no, no.
+{68539}{68609}That's not what it is.|It's, you know... Just...
+{68611}{68672}God, it was so ridiculous.
+{68674}{68774}L-l... I'm sorry. How could...|I don't know how you could forgive me.
+{68776}{68869}- You have to forgive yourself.|- I can't! I can't.|- It's a problem of self-esteem.
+{68871}{68946}You know, you come on strong|to the world, but you hate yourself.
+{68948}{69048}And what better way|to-to deal with your hatred than|to take it out on your marriage partner.
+{69050}{69133}- This is obvious,|and yet I still act shitty.|- Only in this case,|your wife became your mother.
+{69135}{69228}- It's classical.|Think about your own mother.|- Shh!
+{69230}{69304}- She never wanted me.|- At least not when you were an infant.|- No.
+{69306}{69356}You remember how she was|when Sam was little?
+{69358}{69418}- She refused to hold him.|- Right. I remember.
+{69420}{69511}- It's no wonder you spent your life|looking for love and reassurance.|- Yes, I know. But I had it.
+{69513}{69603}That's the point. I had love|and reassurance with you and|l-I blew it. I fucked it up.
+{69605}{69664}That's because you didn't trust it.
+{69666}{69766}You had something good.|You thought it was going to go away|so you sabotaged it before it did.
+{69768}{69860}Right. Of course, that's-that's what|I'm used to. I'm used to that.
+{69862}{69917}That's right.|Now you're getting real insight.
+{69919}{70006}Of course. I'm used to a relationship|with no... with no... you know...
+{70008}{70089}So what kind of way is that to be?|How can a person be that way?
+{70124}{70182}Shh!
+{70184}{70247}- Relax. Relax. Sit back.|- That feeling is coming back.
+{70249}{70328}- I ruined our life, Deborah.|- No.|- Yes, I did.
+{70330}{70389}- No, no, you didn't ruin it.|- I feel so terrible about it.
+{70391}{70466}You didn't ruin it. It can get better,|but it's going to take a lot of work.
+{70468}{70576}You know, you're a good man.|You really are. You really are.
+{70578}{70634}- L... I betrayed us.|- Only once.
+{70636}{70687}Four times I betrayed us.|Four times.
+{70689}{70768}Once it mattered. How many in|a 16-year marriage can say that?
+{70770}{70847}Tell me. Some of my patients|do it on their honeymoon!
+{70849}{70895}- Deborah. Listen to me, Deborah.|- What, darling?
+{70897}{70975}- Listen to me. I'm gonna try.|I promise you, I'll try.|- What, darling? Yes. Of course.
+{70977}{71032}- But I can't do this by myself.|- No, of course you can't.
+{71034}{71106}- I love you.|Don't you understand that?|- I need help. I need help.
+{71108}{71222}- Deborah. Deborah, look at me.|- Oh, darling, I love you so much.|- Deborah. Deborah.|- I love you.
+{71224}{71278}- Deborah.|- Oh, darling.
+{71332}{71409}- Deborah.|- Oh, Nick. Nick, my darling.|- Oh, Deborah.
+{71544}{71592}Oh, sweetheart.
+{71693}{71746}- Deborah.|- Darling. Oh, my angel.
+{71748}{71809}- Deborah. Deborah. Deborah.|- What? What? What?
+{71811}{71857}I want you.
+{71859}{71909}I want you now.
+{72333}{72402}- Oh, my God!|- Shh!
+{73263}{73311}That was amazing.
+{73359}{73413}You wanna see another movie?
+{73481}{73577}We should really get|the sushi for the party.
+{73579}{73627}Yeah.
+{74075}{74121}{Y:i}Salaam Bombay?
+{74123}{74218}We want to make sure we get enough sushi|because it'd be a terrible thing|to-to not have enough.
+{74220}{74268}- It'd be embarrassing|at our anniversary.|- Oh, honey.
+{74270}{74402}We already spent $ 743|on this anniversary and...|and I'm absolutely exhausted.
+{74404}{74483}- I feel great.|- Do you?|- Well, listen, if you're tired,|why don't you go sit in the atrium.
+{74485}{74569}- I don't feel tired. I feel great.|- No, it's comfortable down there.|And I'll call Cindy.
+{74571}{74627}- I love you.|- I love you.|- I adore you.
+{74629}{74720}- All right, honey, hang onto this.|And I'll be right back.|- Let me have it. Okay.
+{74722}{74788}{Y:i}Gene Autry singing|"Rudolph the Red-Nosed Reindeer."
+{74790}{74855}{Y:i}- Had a very shiny nose|- Leave your message at the beep.
+{74857}{74933}Hi, Cindy, Deborah.|Cancel my previous message.
+{74935}{74992}I know it sounds schitzy,|but I'll explain later.
+{74994}{75052}Uh, just call everyone and tell them|that the party is still on.
+{75054}{75123}And I'm crazy about Nick.|Sorry for the inconvenience.
+{75125}{75187}All right.|I'll talk to you later. Bye.
+{76791}{76849}- Norteña music from Chihuahua.|Remember?|- Yeah.
+{76851}{76948}The-The train and the canyon|and the whole thing? Remember that|and how charming that was?
+{76950}{77010}- Yeah.|- We should take the kids sometime.|That would be a great trip.
+{77012}{77089}- You know, 'cause you always wanna|take 'em someplace where...|- I'm having an affair.
+{77133}{77189}His name's Dr Hans Clava.
+{77191}{77256}He's an expert in|family systems therapy...
+{77258}{77321}a refugee from Brno,|Czechoslovakia, but he's...
+{77323}{77444}but he's lived in the West|since he... since he defected in 1968.
+{77446}{77512}You saw him in that|TV blurb in the bookstore...
+{77514}{77562}the one with the beard.
+{77618}{77737}I met him at that UC retreat|for mental health practitioners|in-in Arrowhead last-last spring.
+{77739}{77839}He, uh... He was the guest lecturer.|He's 61 years old.
+{77841}{77900}And he's just brilliant.
+{77902}{77978}We went to dinner a few times and...
+{77980}{78050}You know that fixation|I had on my father.
+{78052}{78115}I guess I never worked it out.
+{78117}{78224}So... So, we met during the year|every week or two...
+{78226}{78274}sometimes not for a month.
+{78276}{78337}I tried to end it three|or four times, but I couldn't.
+{78339}{78386}I mean, I felt like I had used him.
+{78388}{78442}And-And it wasn't fair.
+{78444}{78572}And there were his feelings|to consider too. After all,|I mean, l-I got a lot out of it.
+{78574}{78636}He helped me with the book.|And it wasn't just the sex.
+{78638}{78719}Although the sex was...|the sex was... was good.
+{78721}{78814}In fact, I'm not gonna lie to you.|The sex... The sex was incredible.
+{78816}{78891}The man was insatiable.|But it wasn't about that.
+{78893}{78994}It was more about|my growing up and becoming|a fully-integrated human being...
+{78996}{79068}and working out|my relationship with my father.
+{79070}{79187}Do you see? Something like that.|In any case, um...
+{79189}{79253}l-l-l-I wanted to break up with him.
+{79255}{79354}L-I couldn't break up with him.|L-I became terribly confused.
+{79356}{79451}And, uh, I drifted|back and forth, you know.
+{79453}{79559}At one time, I tried to tell you,|but you just didn't seem to be there.
+{79561}{79611}Nick, it's not an accident...
+{79613}{79673}that both of us were doing|the same thing at the same time.
+{79675}{79771}How could it be? But it|started to become so painful.
+{79773}{79869}So much shame, so much guilt.|The children, you.
+{79871}{79933}I mean, I've just been a mess!
+{79935}{80039}But finally, I know what I have to do.|I have to end it immediately, today.
+{80041}{80098}Right now.|And that's what I'm going to do.
+{80100}{80148}Oh, you've helped me so much.
+{80150}{80198}All I wanna say is I love you.
+{80200}{80288}And thank you. Thank you.
+{80290}{80372}Well, what'll happen is...
+{80402}{80450}I'll send for my clothes.
+{80452}{80517}And you phone Marty Lefkowitz.
+{80519}{80584}I'll use Herb Brenner as a lawyer.
+{80586}{80639}And I'll call you.|And we'll have lunch.
+{81386}{81461}{Y:i}- Gene Autry singing,|"Rudolph the Red-Nosed Reindeer."|- Rudolph the red-nosed reindeer
+{81463}{81513}{Y:i}- Leave your message at the beep.|- Had a very
+{81515}{81597}It's me again, Cindy.|Disregard my previous message.
+{81599}{81663}Just call everybody and cancel.
+{81943}{82030}Christ!|Where's my fucking Saab?
+{82032}{82080}Oh, shit! I can't...
+{82587}{82677}{Y:i}- Mr Santa, bring me some toys|- This is Dr Hans Clava,|the eminent family therapist.
+{82679}{82751}{Y:i}Would you care to comment, Dr Clava,|on Dr Feingold-Fifer's book?
+{82753}{82829}{Y:i}Well, as Dr Feingold-Fifer|so brilliantly points out...
+{82831}{82945}{Y:i}the institution of marriage began when|life expectancy was not even 30 years.
+{82947}{83025}{Y:i}Therefore, a modern marriage|has to be several marriages.
+{83027}{83107}{Y:i}To survive, one has to make|a clean break with the past...
+{83109}{83188}{Y:i}every six or seven years|and remarry each other.
+{83190}{83247}{Y:i}This is a profound|and healing insight...
+{83249}{83309}{Y:i}spoken from the heart of the author.
+{83311}{83399}{Y:i}And I should know because|for the last year I have been|having an affair with the author.
+{83401}{83499}{Y:i}Three times a week. She is fantastic.|I heartily recommend her.
+{83501}{83596}{Y:i}Dr Deborah Feingold-Fifer,|I Do, I Do, I Do!
+{83598}{83653}- Calm down!|- I'm calm.
+{83655}{83745}Stop telling me to calm down. I'm calm.|I understand everything.
+{83747}{83829}I was parked in a restricted zone|and I don't have a permit.
+{83831}{83927}But I'm a cripple.|Can't you see that you're dealing|with-with a mental cripple here?
+{83929}{83988}Anything goes with me. I'm... l...
+{83990}{84068}Don't tell me it's, uh, uh,|the biggest shopping day of the year.
+{84070}{84134}I don't wanna know that. I gotta|get the car back. Give me the car.
+{84136}{84216}I gotta get the car back|and I don't want a lot of...|uh, a lot of tap dancing.
+{84218}{84285}L... Don't just sit there.|I need the car. I need the vehicle.
+{84287}{84353}I gotta get out of... Hey, I need|an aspirin. I gotta get an aspirin.
+{84381}{84405}In the drugstore.
+{84592}{84645}- Oh, my God!|- Are you okay?
+{84647}{84715}- Would someone get a glass of water?|- What happened?|- Get a doctor.
+{84717}{84799}- She's fainted.|- Excuse me. Excuse me.|- Somebody do something.|- I'm her husband.
+{84801}{84881}- Look.|- Are you okay? Deborah?|Deborah, are you all right?
+{84883}{84976}Deborah. My God. What happened?|Uh, could you please not... Go back.
+{84978}{85044}- This is my wife. I can handle this.|- Not any more. He left me.|- No, no.
+{85046}{85116}I'm her wi... I'm her husb...|I'm her husband, legally. We're still...
+{85118}{85176}- I'm all right. Really, I'm all right.|- Take-Take two... Take two...|Don't stand up!
+{85178}{85234}I'm-I'm... Here, here, let me just|have some of this. Here. Here. Here.
+{85236}{85295}Drink this. Have...|Have some. You-You...
+{85297}{85363}- I blacked out. Must be my blood sugar.|- Breathe deeply.
+{85365}{85431}- I'm fine. I'm fine. I'll be fine.|- Drink the water. Breathe...
+{85433}{85497}- Thank you.|- I know, but I see you laying here|on the floor, I get alarmed.
+{85499}{85578}- It's natural.|- I don't need your help.
+{85580}{85666}Okay, okay!|I'm not, you know... I'm not... not...
+{85668}{85716}- Jesus! I mean, what...|- You can go.
+{85718}{85792}- Stop telling me I can go.|- I'm not your responsibility|any more, all right?
+{85794}{85893}- I understand that, and I'm not yours.|That's not my point. I was concerned.|- That's a relief.
+{85895}{85977}- Believe me, sixteen years...|sixteen years worth of relief.|- Seventeen.
+{85979}{86054}Seventeen years. For Christ sakes,|what's wrong with you?
+{86056}{86129}- And l-I don't have|to listen to you any more. Can l...|- Who said you had to listen?
+{86131}{86180}- Can I have some Advil, please?|- I want one too.|- A bottle of Advil.
+{86182}{86248}- What do you need Advil...|I was gonna get one and split it.|- I don't want to split it.
+{86250}{86333}- What are you talking about? There's|250 in a jar. How many do you need?|- It's not a jar. It's a bottle.
+{86335}{86400}- Two bottles of Advil.|- Two Advils.
+{86402}{86494}- I don't know how|our marriage lasted so long.|- Mutual death wish.|- That'll be 8.95 each.
+{86496}{86561}- Yeah, yeah, here. I'll pay for my own.|- It's been interminable.|Thank God we're getting a divorce.
+{86563}{86624}- Give me that.|- I'll drink to that.
+{86771}{86837}So, how do you feel now|that the thing's over?
+{86839}{86931}- You feel relaxed? 'Cause I|feel... I feel completely relaxed.|- You know, I feel a lot better. Not bad.
+{86933}{87026}- Yeah, it's a good feeling.|- I feel kind of weightless|like I was in a spa.
+{87028}{87125}- Well, I wouldn't|overdo this if I were you.|- Like dancing in a way.
+{87127}{87209}- Really? You never liked to dance.|- Well, so what? People change.
+{87211}{87305}And you were always a lousy dancer|if you don't mind me saying so.
+{87307}{87365}- What are you laughing at?|- Still at it.
+{87367}{87455}- I don't mind.|Nothing you can say can hurt me.|- We can let it all hang out now.|You know, it's over.
+{87457}{87507}- We can...|- What else about me bothered you?
+{87509}{87566}- Go ahead. Take your best shot.|- You've gotta be kidding.
+{87568}{87626}L-l... You know,|I could go on for days.
+{87628}{87717}- Really?|- Just a numer...|Yeah. I've told you before.
+{87719}{87767}- Go ahead.|- It's like... It's like nothing new.
+{87769}{87830}Your... Your self-indulgent|fear of flying.
+{87832}{87917}You know, your-your having to take|a valium and a martini...
+{87919}{87984}just to get past security|on the aeroplane.
+{87986}{88064}Searching your hair follicles|for grey roots, you know.
+{88066}{88140}I beg your pardon.|I don't remember doing any such thing.
+{88142}{88186}What do you mean you don't...|You gotta be kidding.
+{88188}{88242}- And your interrupting me|all the time when I speak.|- Please.
+{88244}{88336}In 16 years,|I've never finished a sentence.
+{88338}{88390}- Go ahead, finish.|- I forgot what I was saying.
+{88392}{88466}- Follicles.|We were talking about follicles.|- Okay, I got a good one. How about...
+{88468}{88535}How about the way when you're nervous,|you-you chew Kleenex?
+{88537}{88593}You actually eat it.|You swallow it.
+{88595}{88676}It's endearing. In my case|it's endearing 'cause I don't...|I don't imbue it with any...
+{88678}{88768}- Okay, here's a good one. How 'bout|when we make love, not in 16 years...|- I can't finish a sentence.|I can't finish a sentence.
+{88770}{88827}Have we ever made love|unless the television was on.
+{88829}{88940}- So what? I'm a guy who can do more|than one thing at a time.|- It's... No, you're not.
+{88942}{89054}- Oh, Jesus. So was there...|There was nothing good about me?|- Oh, you had your moments, I suppose.
+{89056}{89117}Like what?
+{89145}{89224}- Like what?|- Oh, please, give me some room.
+{89256}{89333}- Really? You wanna know?|- Yeah, well.|- Well...
+{89370}{89434}Is this a tough question?|Because, uh...
+{89436}{89513}- Well, you have|a decent sense of humour.|- Mm-hmm.
+{89515}{89591}You care about people.
+{89593}{89706}- Okay. And? Nothing else?|- And when you're not being|hostile and judgmental,|you're a pretty good father.
+{89708}{89756}- When I think about it.|- No, you-you really are.
+{89758}{89845}You-You are a good father. I have to|give you that. When you think about it.
+{89847}{89936}- Okay, and you have|some good points too. You know,|I didn't mean to imply that...|- No kidding? Really?
+{89938}{89980}- Yeah.|- When?
+{89982}{90117}Well, I, you know... I have some...|I have some good memories of...|of things actually.
+{90119}{90212}You know, when-when we'd... we'd...|we would travel, that was fun.
+{90214}{90320}And... And when... when you would|sit in the car and sing|the Grateful Dead songs.
+{90322}{90374}L... You know, for some reason...
+{90376}{90457}I have a... a sweet memory of that.
+{90459}{90572}And when my father died,|you were fabulous.
+{90574}{90630}- I mean it. I'm not kidding about this.|You were... You were great.|- You know what? I was.
+{90632}{90700}- Because my mother would've gone crazy.|I mean it, Deborah.|- Your mother was completely out of it.|She was a lunatic.
+{90702}{90777}- You were really... You were really...|That was a very important thing to me.|- So you do. You have a lot|to be grateful for.
+{90779}{90869}You know, 'cause... 'cause a person|needs to be taken care of sometimes.
+{90871}{90926}And-And, you know,|you were a good mother.
+{90928}{91031}- And you... loved the kids which is|really, really important to me.|- Oh, I do. I love those kids.
+{91033}{91113}So, all right, okay, if you had it|to do all over again...
+{91115}{91163}what would you do differently?
+{91193}{91256}Uh, the truth?
+{91283}{91357}No, a lie. Of course the truth.|We're talking.
+{91359}{91462}- We're trying to be truthful.|- Well, okay, is... If-lf... If so then,|like, if I can be frank...
+{91464}{91526}I would not...|I would not marry again at 24.
+{91528}{91594}I mean, I think that's crazy.|I would wait till I was 40 or 45.
+{91596}{91660}You know, and I would want to|live to a certain amount.
+{91662}{91776}You know, I would want to travel|and see places that I've, you know...|that I haven't seen.
+{91778}{91858}Machu Picchu and Bali. You know,|because I'm more exotically inclined.
+{91860}{91944}I would like to meet some exotic women|and try some exotic things|with some exotic women.
+{91946}{92043}- That would be fun for me.|- Oh.|- You know, and, um...
+{92045}{92102}'Cause, you know, that's...|that's a young age to be married, 24.
+{92104}{92229}It's crazy. Don't-Don't you|find this? You know, that 24-year-old|marriages don't last as a general rule?
+{92231}{92289}- Statistically, no.|- Isn't that your experience? It's true.
+{92291}{92422}- So, you know, I, uh... Listen.|- And then after that was over,|would you get married to me?
+{92424}{92483}I don't think we would have met|if I lived like that. I think...
+{92485}{92594}- You know, I think...|And if we did run into each other...|- Oh, why? Because I would be like|in-in a conservative square mode?
+{92596}{92660}- I wouldn't meet anyone|as hip and cool as you?|- No. I mean...
+{92662}{92723}It would have been a one-night stand|or something. I'm sure.
+{92725}{92806}Listen. What's the difference?|We-We... You know, we found out now.
+{92808}{92916}- And I think we're lucky.|You know, it's a miracle we lasted|this long, let me tell you.|- Amen, really.
+{92918}{93006}- And we still have... we still have|plenty of time, I think, you know,|before we're old and decrepit.|- Well, l...
+{93008}{93096}I'm not going to Machu Picchu,|I can tell you that.
+{93098}{93184}You're afraid of heights|and not too adventurous.
+{93257}{93326}- Excuse me. I'll be right back.|- Don't hurry.
+{93328}{93402}{Y:i}So everybody say|Go, Santa, go, Santa, go
+{93404}{93454}{Y:i}Go, Santa|Go, Santa, go
+{93456}{93547}{Y:i}- Go, Santa, go, Santa, go|- Go, Santa, go, Santa, go
+{93549}{93659}{Y:i}- Now let me hear you say|Go, Santa, go, Santa, go|- Go, Santa, go, Santa, go
+{93661}{93725}{Y:i}And let me hear you say the break|Yo, the Christmas break
+{93727}{93781}{Y:i}With a ho-ho-ho|and a bottle of rum
+{93783}{93833}{Y:i}It's the break, yo|The Christmas break
+{93835}{93891}{Y:i}It's a ho-ho-ho|and a bottle of rum
+{93893}{93955}{Y:i}It's the break, yo|The Christmas break
+{94000}{94086}Deborah, the guy went for it,|the whole thing, the whole 600,000.
+{94088}{94147}Williams went for the whole thing.|You know, it's...
+{94149}{94211}Danny Fong's gonna be|in tennis-brat heaven.
+{94213}{94271}Well, don't... We should celebrate.|This is... Is this not fantastic?
+{94273}{94374}- Good. Go call your girlfriend.|What's her name? Ed?|- Will you stop? That's-That's over.
+{94376}{94463}- I'm talking seriously.|- Aw, poor Nicky, he hasn't got|anybody to celebrate with.
+{94465}{94543}- Hey, look, I could do this by myself.|But this is big news.|- You certainly could.
+{94545}{94616}- We'll-We'll get|some champagne or something.|- Champagne?
+{94618}{94699}- Come on. Yeah, with a little caviar?|- What do I want champagne with you for?
+{94701}{94801}Look, we'll celebrate. This is|half yours. This is not just me.
+{94803}{94890}This-This deal was made|while we were still married.|So, fifty percent of it is you.
+{94892}{94955}- Oh, all right.|That's a horse of another colour.|- Come on. This'll be fantastic.
+{94957}{95025}- Let me get my...|Let me get my burdensome surfboard.|- Let's get some Thai food.
+{95027}{95084}No! I'm talking champagne|and caviar, not Thai food.
+{95086}{95172}- Champagne. Champagne and caviar?|- Yeah. Some black eggs, some-some...
+{95174}{95229}All right, if we're gonna eat black eggs|I'm gonna get a new dress.
+{95231}{95288}- I wanna look great.|- Whatever you want.|I'll get you whatever you want.|- No, it's all right.
+{95290}{95340}I'll pay for it myself|out of my own half.
+{95342}{95442}No alimony, no special stipends,|just plain vanilla child support...|a lot of it.
+{95611}{95661}- Mrs. Feingold-Fifer?|- Oh, yes, yes!
+{95663}{95754}- How's it going?|- Well...|- Oh, you look beautiful!
+{95756}{95819}- Oh, that's fabulous.|- Look at you!
+{95821}{95878}- What do you think?|- I love it.|- Have I crossed the line?
+{95880}{95947}- Is it too much?|- No, it's radically sexy!
+{95949}{96021}- Oh, you like it.|- I do. I think you look great.|- Well, it's an awful lot of money.
+{96023}{96088}- But Fatima says it's absolutely me.|- No, I think it's wonderful.
+{96090}{96194}Now I feel that I should get|something in-in... you know, to get|in the celebrating, uh, mode.
+{96196}{96251}- Okay.|- I should get something trendy|and-and attractive too.
+{96253}{96324}- Then we'll get caviar.|- Okay.|- Okay, so I'll go over to the...|to the atrium.
+{96326}{96380}- Oh, yeah.|- And I'll meet you there.|- Well, you take your time...|- Okay.
+{96382}{96443}'Cause I'm... I'm still shopping.
+{96494}{96554}What'd he say?
+{96556}{96619}- He likes it.|- I think it's fabulous.
+{98299}{98376}- Well, look at you! Very nice.|- Me? Look at you!
+{98378}{98442}- Italian?|- Yes, I picked this up at Bernini's.|- Oh, brother.
+{98444}{98507}- Very sexy.|- But you're a... a rhapsody|in pumpkin chiffon.
+{98509}{98594}- Look, you should have dressed|Italian a long time ago!|- Yeah? You think that's, uh...
+{98596}{98679}- Would other women say that,|or is it just you? 'Cause I gotta...|I gotta start planning.|- Depends on the other woman.
+{98681}{98744}- Well, what about|this little number over here?|- Obviously.
+{98782}{98839}- Oh, let me get my...|my good prescription.|- Oh, you fancy her, do you?
+{98841}{98918}- Yeah. Wow.|- Want me to set you up?|- You don't have to. I can handle that.
+{98920}{98975}- Actually, she's probably|a little brainless for me.|- Brainless? Brainless?|- Yeah.
+{98977}{99060}- Why? Because she's young and|blonde and beautiful?|- What can I say? It's an instinct.
+{99062}{99128}- I think she...|she wouldn't be enough for me.|- Look, you're gonna have to|make up your mind.
+{99130}{99190}- Well...|- I mean, there's a world of choices|out there for you midlife guys.
+{99192}{99254}- And the demographics|are all in your favour.|- Midlife?
+{99256}{99327}- Midlife! That's you.|- You're talking to the boy.|You gotta be kiddin'.
+{99329}{99384}I got... I got... You know, most...|I'm still on the way up.
+{99386}{99446}Oh? Well, how 'bout these|two gorgeous creatures coming|along right here?
+{99448}{99496}- Oh. Yes, yes.|- Think you can handle them?
+{99498}{99572}- Handle them? I could...|I could salivate on them.|- Mm-hmm.
+{99574}{99636}- My God. Oh, look at that.|- Well, now's your chance.
+{99638}{99686}- Yeah. This could be great.|- Want me to get lost?
+{99688}{99759}- Well, it's starting to sound|like a better idea than, you know...|- Well, okay.
+{99761}{99827}- They're adorable.|- Okay. Just don't forget|to practise, um...|- Yeah, I know. Safe sex, safe sex.
+{99829}{99870}- You too.|- Oh, of course I will.
+{99872}{99941}We'll get the... We'll get|the large economy family size condom.
+{99943}{100034}You know, we can both use it.|It'll be... It'll be interesting.
+{100036}{100150}You think I'm gonna endanger|my life just for some... younger man?
+{100152}{100232}- Geez, talk about brainless.|- Who said anything about brains?|- This guy behind us.
+{100234}{100321}Oh, no, you got that, right, with your|Otto... your-your Dieter guy... that Nazi?
+{100323}{100418}He's not a Nazi.|He's a Czech. And his name is Hans.
+{100420}{100494}Mm-hmm. Go ahead, make your move.|Go ahead.
+{100526}{100596}- Nick!|- You can just grab the guy.|You can find out.
+{100598}{100646}Oh, please.
+{100711}{100764}This was the guy.|He's the guy for you.
+{100766}{100846}- He was... He was clocking you|in the... in the elevator.|- I should be so lucky.
+{100848}{100926}- No, you'd be perfect.|Older women are in.|- Will you stop calling me|an older woman?
+{100928}{100992}You know, where are you gonna meet guys|if not through a friend?|How you gonna do it?
+{100994}{101066}What about you? Planning on making|the rounds at the singles bars?
+{101068}{101139}- I hadn't thought about it,|to tell you the truth.|- Well, you ought to think about it.
+{101141}{101220}- What are you gonna do,|buy another garment?|- Maybe. What are you gonna do?
+{101222}{101320}I mean, really? You gonna join a health|club? You gonna get a big fancy car?
+{101322}{101414}You gonna have plastic surgery?|Go to a tanning salon?
+{101416}{101493}What are you gonna do? You gonna, uh,|uh, take a cruise to Machu Picchu?
+{101495}{101556}- You can't cruise to Machu Picchu.|- Oh, excuse me.
+{101558}{101636}It would be very embarrassing.|No, I'm gonna be... I'm gonna be one|of those guys...
+{101638}{101702}that... that buys a, um...|a personal ad.
+{101704}{101752}- Really?|- Yeah, they're personals. Yeah.
+{101754}{101830}- Which you can write for me|'cause you know me better than me.|- Oh, no problem.
+{101832}{101931}Hey. "Straight single man experiencing|extreme mid-life crisis.
+{101933}{101978}- Seeks second chance."|- Very depressing.
+{101980}{102050}We'll wind up with people we know,|you know that, don't you?
+{102351}{102418}To Danny Fong.
+{102420}{102500}- Don't forget Mother Fong.|To Mother Fong.|- The Fongs!
+{102663}{102752}Deborah, I hope that you get|everything that you want out of life.|I really mean that.
+{102754}{102846}I'm not joking now.|L... I just want you to have any-any|little thing your heart desires.
+{102848}{102905}And may you have|a thousand adventures.
+{102907}{102977}I want you to meet the man|of your dreams. That's important to me.
+{102979}{103037}And may you find eternal love.
+{103039}{103110}Thank you.
+{103112}{103178}Really.
+{103180}{103280}Come on.|For old time's sake. Come on.
+{103568}{103636}{Y:i}You'd be
+{103638}{103724}{Y:i}So easy to love
+{103726}{103818}{Y:i}So easy to idolize
+{103820}{103906}{Y:i}All others above
+{104163}{104249}{Y:i}Oh, we'd be
+{104251}{104331}{Y:i}So grand at the game
+{104333}{104411}{Y:i}So carefree together
+{104413}{104506}{Y:i}That it does seem a shame
+{104508}{104565}{Y:i}Though you can't see
+{104567}{104656}{Y:i}- So tell me.|You never answered my question.|- Your future with me
+{104658}{104720}{Y:i}- 'Cause we'd be|- Debbie, you never... you never...
+{104722}{104779}{Y:i}- So easy to love|- Tell me, which one of our friends...
+{104781}{104835}which one of our friends|would you wind up with?
+{104837}{104887}Oh, I like Daniel.
+{104889}{104935}Daniel. Not Marty, right?
+{104937}{105004}- 'Cause I always had that...|that secret fear that it was...|Well, Daniel doesn't turn me on.
+{105006}{105078}- But Marty really doesn't turn me on.|- Oh, really?
+{105080}{105148}- 'Cause Marty...|l-l-I always suspected Marty.|- He's big. He's a big man.
+{105150}{105205}- He's cuddly.|- He needs to lose 50 pounds.
+{105207}{105277}I'd be afraid to go to bed with him.|He'd crush me like a pea.
+{105279}{105363}I always... I always feared...|I always suspected Marty.
+{105426}{105474}Who's your "Miss Right?"
+{105476}{105568}- No one... No one in our crowd.|- Oh, come on. Nora. Oh, she's perfect.
+{105570}{105661}- You... You know me so little|after all these years.|- She's perfect. She has no breasts.
+{105663}{105715}- You know me so little.|You know me so little.|- You're a breast man.
+{105717}{105798}- You're not a breast man.|- Nora is the least interesting|of all the people we hang out with.
+{105800}{105856}Well, what about Cindy?|She's cerebral.
+{105858}{105911}Cindy's your best friend.|I couldn't do that to you.
+{105913}{105969}Cindy... Cindy and Sheila,|that would be like incest.
+{105971}{106025}I couldn't do it.|I couldn't do it to you.
+{106027}{106116}No. It's singles bars, definitely.
+{106118}{106185}- That's the... direction.|- Well, at least they're anonymous.
+{106187}{106224}Yes.
+{106226}{106296}- Blind dates are always a possibility.|- Blind dates are great.
+{106298}{106380}You know, we can tell our|life story to total strangers|two or three nights a week.
+{106382}{106458}- Oh, my God.|- It'll be fun, a little dreary,|but, uh, you'll get used to it.
+{106460}{106543}- Introducing them|to the children afterward.|- I know, it's depressing.
+{106545}{106613}- L-I know.|- It's tedious. It's unbearable.
+{106615}{106687}So, to the future.
+{106715}{106774}Many hopes and many dreams.
+{106776}{106835}Thanks a lot.
+{106949}{107028}Are you thinking what I'm thinking?
+{107030}{107123}- Yeah, unfortunately, I probably am.|- Tell me. What?
+{107125}{107206}I'm thinking that, you know...|that I'm stuck with you.
+{107208}{107296}That-That... That you betrayed me|and that I'm... that I'm stuck with you.
+{107298}{107366}- I betrayed you?|- I don't believe this.|- Well, that is a real good one.
+{107368}{107488}- Yes, you betrayed.|You sure did betray me.|- That's a good one. I betrayed you?|What about you? Who betrayed me, huh?
+{107490}{107538}- Don't think...|- What about your seven-month adventure|with a girl named Ed?
+{107540}{107607}- At least I had the guts|to call it off!|- I was gonna call mine off.|- You're still...
+{107609}{107689}- You're still out there doing it.|- I was going to call it off.|- Oh, stop it, stop it.
+{107691}{107758}- What are you talking about?|It's still going on.|- Would you lower your voice, please?
+{107760}{107826}- It's still going on. What are you...|- That's it. That's it. That's it.|- Here. Here.
+{107828}{107881}- You can keep... keep the change.|- I quit. I don't have|to listen to this.|- Just a minute.
+{107883}{107979}- That's not enough.|- Let go of me!|- Fuck you too!
+{108047}{108128}- Excuse me, pardon me.|Excuse me, pardon me. Excuse me.|- Hey, man.
+{108130}{108182}- Excuse me, pardon me. Excuse me.|- Hey, what's your hurry?
+{108184}{108246}Sweetheart, if you think you're|going someplace without me saying|what I want to say...
+{108248}{108344}I have no interest in hearing|anything you have to say. And keep|your wife-battering hands off me!
+{108346}{108394}- What are you gonna do,|make a citizen's arrest?|- Maybe I will!
+{108396}{108478}- You would, right here|in front of all these people.|- You are the lowest, two-timing|sociopath that ever walked the earth.
+{108480}{108527}- Let go of me!|- Will you please...|- Shut up and let go of me!
+{108529}{108641}How did we get to this? I don't|understand. How did l... How did I|wind up with you? It's a joke. It's a...
+{108643}{108732}- Why? Why did I ever have children|with anyone as shallow as you?|- Hey!
+{108734}{108819}She's a very sick woman, folks.|Really sick.
+{108821}{108909}- Let go of me! I said...|- What do your... What do your|patients do? You ever cure anybody?
+{108911}{108983}Keep my patients out of it.|I help my patients.
+{108985}{109083}I'm not wasting my life putting|people's names on tennis shoes.
+{109085}{109135}- You're such a fraud.|Your whole life is a sham.|- Shut up, shut up, shut up.
+{109137}{109223}- If you knew how many years|I've been dying to tell you|what I really think of you...|- Will you stop it? Stop it.
+{109225}{109345}How many times I've had to bite|my tongue, how much shit I've had to|swallow not to hurt your feelings.
+{109347}{109439}- Will you stop that? 'Cause I can say|some very ugly things to you.|- Oh, yeah? Like what?
+{109441}{109540}Like if you had any idea how you looked.|If you had any notion what a silly...
+{109542}{109599}You-You look like|my Aunt Minna in that dress.
+{109601}{109675}You look... You think you...|Will you stop it?
+{109677}{109773}I'll kill you! I will!|I'll kill you!
+{109817}{109865}I'll kill you!
+{109904}{110002}- I'm sorry. I'm sorry. Did l...|- Excuse me. Excuse me.
+{110004}{110053}- I'm sorry. I'm terribly sorry.|- What happened here?|- I never hit a mime before.
+{110055}{110145}- I'm a licensed psychotherapist.|This man is an outpatient in my care.|- I didn't mean it.|I'm not a violent person.
+{110147}{110220}- He's very, very sick. He's very sick.|- I punched him. L-I hit him in|the make-up for a minute.
+{110222}{110289}- He hit the mime.|- Here. Take this. It's $ 100.|It will make you feel much better.
+{110291}{110358}- I never hit anybody before.|- Yes, he's fine. He's fine.|- L-l-I'm an outpatient.
+{110360}{110447}- Could you back up, please?|Please, back up.|- It's all over. Break it up.
+{110449}{110507}Let's move on.
+{111176}{111243}Thank you.|L-l-I appreciate that...
+{111245}{111300}for bailing me out.
+{111437}{111513}That's probably my deal|going right into the toilet.
+{111620}{111679}Probably my patient.
+{111780}{111857}- Code 3205.|- Code 4689.
+{111904}{111978}Oh, all right. Thanks.
+{112026}{112075}The kids are fine.|They're absolutely fine.
+{112077}{112161}They-They-They've arrived there|and they're having a good time.
+{112194}{112270}- I wanna make a credit card call.|- Mine was from Hans.
+{112272}{112323}Yeah, well, that doesn't surprise me.
+{112325}{112414}Uh, it's... it's|area code 213-555-2047.
+{112416}{112474}I wanna call, uh, uh,|Mammoth Lakes...
+{112476}{112565}- person-to-person, to Sam Fifer.|- Hello, Hans. Yes, it's me.
+{112629}{112721}- Yeah, i-i-it's his father.|- Oh, you've been worried about me.
+{112723}{112802}Yes. Yes, it is my anniversary.
+{112804}{112858}- Hi, Sam!|- Thank you.
+{112860}{112919}Yes. Yes, everything is okay.
+{112921}{112993}Yes, I would say it's...|it's been pretty difficult.|- Oh, good, good.
+{112995}{113063}'Cause we-we were worried|for a second.
+{113065}{113160}- Yeah. Really? And Jennifer's okay?|- Um, Hans, I can't do that.
+{113162}{113255}- Mm-hmm.|- L... l-I don't wanna do that.
+{113257}{113336}- Right. N-No, n-nothing at all.|So... So, try the other one.|- No.
+{113338}{113440}- Not now and not tomorrow.|- Try tonight, because, you know,|sometimes, i-i-it'll be, you know...
+{113442}{113524}- Sometimes it's great|in one place and not the other.|- Hans, you don't understand.
+{113526}{113596}L-l... I don't want to.
+{113598}{113654}Absolutely not.
+{113656}{113739}- No, I'm fine. I'm... I'm...|- Hans, that's a manipulation.
+{113741}{113821}- It's over.|- What for?
+{113823}{113916}- You're kidding. What do you|want with 200 bucks? That's crazy.|- Hans, I'm sorry.
+{113918}{114011}This is turning|into a very expensive weekend.
+{114013}{114106}- No. Now...|- Goodbye and good luck.
+{114108}{114213}L-I'll give you 150. l-I'll wire|it to you. I'll wire it tonight.
+{114215}{114311}Incidentally,|your-your mother sends her love.
+{114313}{114388}Okay, Sam. Okay.
+{114390}{114470}Jesus. I really spoil them.
+{114472}{114573}Two hundred bucks they wanted.|L-I settled it at a hundred and a half.
+{114575}{114634}- Where are they?|- Well, now they're at Mammoth...
+{114636}{114733}but they-they... but I told them|to go to June Lake because there's...|there's no snow it turns out.
+{114735}{114805}- Or not enough snow.|- How could you send them there?|How could you let them go there?
+{114807}{114893}- That's where Cindy broke her leg.|- What are you getting so crazy?|Cindy's a klutz.
+{114895}{115006}Sammy's a wonderful skier and Jennifer's|already better than-than Cindy.
+{115008}{115095}- Did you send them money?|- Hey... I'm... l-I settled it|at a hundred and a half. You know.
+{115097}{115165}- I ended it.|- I know. I heard that.
+{115167}{115231}Uh, excuse me, sir.|We found your car.
+{115233}{115307}It's in security parking|on level one.
+{115309}{115369}- Okay, thank you very much.|- You're welcome.|- Level one. Now I gotta remember that.
+{115371}{115454}- You want a... You want a cab home|or do you want me to drive you or what?|- No.
+{115456}{115511}I'll drive you!
+{115585}{115679}{Y:i}You do
+{115681}{115774}{Y:i}Something to me
+{115776}{115842}{Y:i}Something that simply
+{115844}{115936}{Y:i}Mystifies me
+{115963}{116054}{Y:i}Tell me
+{116056}{116146}{Y:i}Why should it be
+{116148}{116208}{Y:i}You have the power
+{116210}{116335}{Y:i}To hypnotize me
+{116337}{116427}{Y:i}Let me
+{116429}{116520}{Y:i}Live 'neath your spell
+{116522}{116603}{Y:i}Do do that voodoo
+{116605}{116679}{Y:i}That you do
+{116681}{116750}{Y:i}So well
+{116752}{116873}{Y:i}Oh, you do
+{116875}{116959}{Y:i}Something to me
+{116961}{117035}{Y:i}That nobody else
+{117037}{117087}{Y:i}Could do
+{117811}{117864}Do you really hate this dress?
+{117905}{118027}What I hate is this jacket...|this white jacket. I look like|a Brazilian gigolo, you know.
+{118069}{118131}Oh.
+{118133}{118220}{Y:i}Let me
+{118222}{118315}{Y:i}Live 'neath your spell
+{118317}{118402}{Y:i}Do do that voodoo
+{118404}{118474}{Y:i}That you do
+{118476}{118526}{Y:i}- You should call Cindy.|I'll get the sushi.|- So well
+{118528}{118604}- I want to go with you.|- Eleven hundred bucks|for sushi already.
+{118606}{118668}Can you believe that?|That's a lot of dead fish.
+{118670}{118739}- Where'd you put the surfboard?|- What do you mean? You had the|surfboard. I didn't have the surfboard.
+{118741}{118808}- No. No, you had the surfboard.|- What are you talking about?|I gate it... I gave it to you.
+{118810}{118893}- I gave it to you.|Nick, don't lose your temper.|- I'm not losing my temper.
+{118895}{118971}- Don't be silly. Hey, am I the kind|of guy who loses his temper?|- Please.
+{118973}{119065}- You smashed the mime in the jaw!|- I gave the guy a hundred bucks.
+{119321}{119397}{Y:i}You do
+{119399}{119453}{Y:i}Something to me
+{119455}{119580}{Y:i}Something that simply mystifies me
+{119582}{119652}{Y:i}Oh, tell me
+{119654}{119710}{Y:i}Why should it be
+{119712}{119812}{Y:i}You have the power to hypnotize me
+{119847}{119965}{Y:i}Let me live 'neath your spell
+{119967}{120028}{Y:i}Do do that voodoo that
+{120030}{120073}{Y:i}You do so well
+{120075}{120155}{Y:i}Oh, you do
+{120157}{120203}{Y:i}Something to me
+{120205}{120299}{Y:i}That nobody else can do
+{120830}{120921}{Y:i}Come on, come on, come on|And let me
+{120923}{120993}{Y:i}Live under your spell
+{120995}{121093}{Y:i}Keep doin'that voodooin'that|you're doin'so well
+{121095}{121187}{Y:i}Oh, you do
+{121189}{121230}{Y:i}Something to me
+{121232}{121367}{Y:i}That nobody else can do
+{121369}{121428}{Y:i}- Nobody|- Nobody|- Nobody|- Nobody
+{121430}{121495}{Y:i}- Nobody|- Nobody|- No, nobody|- Nobody
+{121497}{121599}{Y:i}Why would I lie when, baby|don't you know it's true
+{121601}{121720}{Y:i}You do what nobody else can do
+{122297}{122359}{Y:i}Give me your kisses
+{122361}{122436}{Y:i}I'll give you my heart
+{122438}{122497}{Y:i}Give me your promise
+{122499}{122571}{Y:i}That we'll never part
+{122573}{122627}{Y:i}I'll give you love
+{122629}{122713}{Y:i}And devotion
+{122715}{122779}{Y:i}High as the sky above
+{122781}{122855}{Y:i}And deeper than the deepest ocean
+{122857}{122909}{Y:i}Give me the right
+{122911}{122994}{Y:i}To call you all mine
+{122996}{123042}{Y:i}And I'll be true
+{123044}{123129}{Y:i}Till the ending of time
+{123131}{123186}{Y:i}Give me your kisses
+{123188}{123255}{Y:i}I'm willing to start
+{123257}{123362}{Y:i}And I'll give you my heart
+{124041}{124090}{Y:i}Give me the right
+{124092}{124167}{Y:i}To call you all mine
+{124169}{124297}{Y:i}And I'll be true|till the ending of time
+{124299}{124353}{Y:i}Give me your kisses
+{124355}{124423}{Y:i}I'm willing to start
+{124425}{124534}{Y:i}And I'll give you my heart
+{124559}{124684}OdwiedŸ www.NAPiSY.info

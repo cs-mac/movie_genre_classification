@@ -1,0 +1,774 @@
+{1}{1}23.976
+{2493}{2587}Shit, you're so fuckin' dumb, Zap.|I got the keys!
+{2647}{2679}I... I zapped it.
+{2688}{2767}Zapped it.|That's all you ever do, huh?
+{2771}{2801}Zap things.
+{2814}{2856}You're real dumb, huh?
+{2878}{2916}This is my place.
+{2920}{2934}Great.
+{2938}{3026}You show us round|and we lose no time, OK?
+{3089}{3104}I need it.
+{3187}{3230}You'll get it, baby.
+{3330}{3391}Get a move on.|I'll start without you.
+{3532}{3610}This'll stop them messing us about.
+{3717}{3747}I need it.
+{3780}{3828}It's coming! Just cool it!
+{3844}{3942}Get a move on, Coyotte.|For Chrissakes!
+{4309}{4330}Fuck it!
+{4457}{4474}The light!
+{4478}{4516}Are you guys nuts?
+{4568}{4617}What are you shits after...
+{4629}{4663}apart from trouble?
+{4770}{4833}Is that your old man, Coyotte?
+{4934}{4948}Antoine?
+{5027}{5045}Dad...
+{5144}{5168}It's not you?
+{5270}{5301}We need a fix.
+{5389}{5438}Going to shoot your baby boy?
+{5582}{5598}Asshole!
+{6652}{6759}Is that it? Come on!|My name's Rico. My name's Rico!
+{6763}{6796}Go for it, Zap, go for it!
+{7254}{7347}Make it good, Zap.|Make it good, huh?
+{7366}{7422}It's gonna be good, Rico!
+{7712}{7751}It's gonna be good!
+{9418}{9434}None left?
+{9481}{9503}No...
+{10198}{10223}Can it!
+{10258}{10284}Quiet!
+{10411}{10460}Out! Hands behind your back!
+{10475}{10522}Put your legs apart. More!
+{11352}{11382}Full name.
+{11485}{11516}Nikita.
+{11587}{11645}Here's a word of advice, cutie.
+{11660}{11769}Just play it cool.|I don't think this bullshit's funny.
+{11800}{11832}Understand?
+{11851}{11885}Cutie!
+{12140}{12181}Maybe we should wait...
+{12185}{12260}Cool it. I know|what these jerks are like.
+{12272}{12307}It's all for show.
+{12324}{12338}Pencil.
+{12469}{12559}Concentrate.|Put your name and first name.
+{12594}{12620}My name's...
+{12624}{12660}cutie!
+{13710}{13820}After considering the St-Denis case,|we find the accused guilty...
+{13824}{13890}of the wilful murder|of Georges Henri...
+{13894}{13949}Grégoire Andersen|and Michel Terlin...
+{13959}{14022}all three law-enforcement officers.
+{14035}{14132}In reply to the question|of extenuating circumstances...
+{14136}{14203}the jury has replied|in the negative.
+{14220}{14343}Therefore, the accused is sentenced|according to article 304...
+{14347}{14419}to life imprisonment.
+{14423}{14512}With a 30-year minimum|before review for parole.
+{14571}{14595}Court adjourned.
+{14998}{15032}Motherfuckers!
+{15073}{15132}Motherfuckers!
+{15144}{15159}Let go...
+{15163}{15188}you asshole!
+{15204}{15223}Cut it out.
+{15234}{15265}Let me go...
+{15290}{15316}motherfucker!
+{15408}{15422}Hold her!
+{15426}{15481}Motherfuckers!
+{15528}{15561}Out of the way!
+{15574}{15603}Out of the way!
+{16927}{16976}You can't do this.
+{17042}{17097}I don't wanna go like this.
+{17192}{17236}You gotta tell my mother.
+{17270}{17302}She's been told.
+{17416}{17483}So why ain't she here?
+{17541}{17607}Why ain't my mother here?
+{17698}{17762}Can't we wait a bit longer?
+{17799}{17905}She'll come and fetch me.|My mother'll come and fetch me.
+{18046}{18080}Mom.
+{18227}{18267}Mom.
+{20416}{20439}Hello.
+{21475}{21506}What's your name?
+{21573}{21601}Nikita.
+{21700}{21726}Nice name.
+{21740}{21769}Where's it from?
+{21825}{21853}A song.
+{21862}{21894}What's it about?
+{22141}{22162}Mister...
+{22182}{22256}is this Heaven here or not?
+{22349}{22378}No... But...
+{22418}{22457}it could turn out to be.
+{22532}{22582}You died Saturday at 5 p.m.
+{22599}{22659}The prison doctor confirmed...
+{22663}{22764}suicide after an overdose|of tranquillizers. You're buried...
+{22768}{22841}in Maisons-Alfort,|row 8, plot 30.
+{22963}{23012}Titi... That's Titi!
+{23166}{23186}I work, say...
+{23221}{23259}for the government.
+{23323}{23395}We've decided|to give you another chance.
+{23590}{23616}What do I do?
+{23628}{23654}Learn.
+{23666}{23755}Learn to read, walk, talk,|smile and even fight.
+{23766}{23804}Learn to do everything.
+{23842}{23869}What for?
+{23880}{23920}To serve your country.
+{24002}{24045}What if I don't want to?
+{24146}{24198}Row 8, plot 30.
+{24360}{24428}Can I sleep a bit|before I decide?
+{24617}{24654}I'll be back in an hour.
+{25593}{25623}Motherfucker!
+{25859}{25890}Where's the way out?
+{25894}{25922}Straight ahead.
+{26047}{26077}Who're these shits?
+{26081}{26097}Employees.
+{26156}{26200}Nobody move!|It's OK!
+{26204}{26260}The hell it is!|Nothing's OK!
+{26485}{26513}Open the door!
+{26517}{26550}I can't open it.
+{26640}{26692}Tell them to open the door!
+{26728}{26748}They won't.
+{26812}{26863}I'll blow your brains out.
+{26867}{26906}It's not loaded.
+{26918}{26960}Forget it.|Get off me!
+{27138}{27164}Cool it.
+{27307}{27361}Right, get back to your desks.
+{27806}{27866}Rule 1, the first bullet's not for you.
+{27953}{27999}That'll clip your wings.
+{28947}{28984}Made your mind up?
+{29136}{29159}That's good.
+{29386}{29416}Fill that out.
+{29565}{29596}If I don't make it?
+{29692}{29725}You'll make it.
+{29899}{29960}We'll start with an easy program.
+{29964}{30049}It's like a typewriter keyboard -|letters and figures.
+{30063}{30181}That's the mouse. There's a roller|under it to move the arrow.
+{30185}{30266}If you press here,|you can make drawings.
+{30307}{30331}Go on then.
+{30367}{30464}There. Gently.|That's good. Gently. Gently!
+{30481}{30561}Bring the arrow back now.|Back up to the corner.
+{30565}{30615}Bring the arrow back here.
+{30660}{30706}Very good.|Now press here.
+{30762}{30786}There you go.
+{30814}{30838}Again.
+{31008}{31119}These are the firearms we use.|First, the simplest of all...
+{31123}{31245}the Beretta 93R, 9mm automatic,|20 shots maximum.
+{31299}{31358}The barrel towards the target.
+{31403}{31507}Before learning the correct stance,|get to know the tool.
+{31511}{31536}Target at 10 m.
+{32087}{32118}Used one before?
+{32137}{32182}Never on paper.
+{32685}{32714}Nice and round.
+{32871}{32902}Can't. My leg hurts.
+{32911}{32988}Never mind.|We'll try a reflex exercise.
+{33019}{33046}An easy one.
+{33367}{33383}Get ready.
+{33580}{33640}Now I've taken up my guard.
+{33654}{33725}I want you to try to hit my face.
+{34092}{34120}Next class.
+{36103}{36129}Sit down there.
+{36581}{36598}My dear girl...
+{36602}{36678}you don't look much now-|chewing gum...
+{36698}{36812}but if we work hard together|and if fortune smiles on us...
+{36830}{36908}we'll be able to make you|into a human being.
+{36917}{36995}An intermediary|but necessary step...
+{36999}{37079}before becoming|man's perfect complement...
+{37089}{37112}a woman.
+{37448}{37481}Do you like it?
+{37622}{37688}Can you give me|a definition of grace?
+{37745}{37768}I'm not smart.
+{37782}{37848}Smile then.|That'll be a good start.
+{37854}{37913}Smile when you|don't know something.
+{37917}{38013}You won't be any smarter|but it's nice for others.
+{38080}{38181}Allow yourself to be taken over|by the faint fragility...
+{38188}{38257}which will make|your face beautiful.
+{38266}{38311}A smile.
+{38407}{38448}A smile...
+{38476}{38551}is surface sweetness.
+{38587}{38634}Gentleness.
+{38690}{38738}Almost a mood.
+{39457}{39508}Shall we fix the wig?
+{40018}{40059}How's it going?
+{40066}{40103}I wish it had gone.
+{40129}{40192}A sense of humor.|That's a good start.
+{40365}{40386}Made friends?
+{40415}{40464}I get on well with my mouse.
+{40628}{40673}When do we go for a drink?
+{40725}{40753}Not just yet.
+{40800}{40841}No rest in this factory?
+{40845}{40869}Never.
+{40892}{40928}That suits you.
+{41072}{41125}I'm going to be 20 next week.
+{41194}{41260}Can't I have just|a bit of leave...
+{41308}{41340}if you trail me?
+{42370}{42466}How's it going?|I've a great program to try out.
+{42587}{42609}Present.
+{42743}{42779}Let's open it, huh?
+{43036}{43058}"One white mouse...
+{43062}{43142}"ran into my house.
+{43146}{43262}"I grabbed its tail|and made it wail!"
+{44800}{44852}In 3 months,|she's screwed everything up.
+{44871}{44897}Lost your touch?
+{44916}{44952}She has potential.
+{44961}{44995}Potential?
+{45003}{45104}I wonder what for, apart from|kicking and biting instructors?
+{45114}{45196}Good agents take time|to train: 5...
+{45202}{45232}6 years maybe.
+{45236}{45263}Oh come on.
+{45288}{45370}I'll give you 2 weeks.|After that, she's out.
+{45634}{45665}Who are you?
+{45669}{45691}I don't know.
+{45734}{45772}But... You are...
+{45776}{45800}Yes...
+{45828}{45876}What are you doing in my arms?
+{45880}{45909}I don't know.
+{45939}{45988}But now we've got this far...
+{46058}{46109}Maybe it's just a dream.
+{46211}{46248}Oh my darling.
+{46365}{46445}You've made progress,|especially in dance.
+{46494}{46526}In art too.
+{46570}{46624}But in all the other subjects...
+{46719}{46760}nix, zilch...
+{46782}{46807}zero.
+{46910}{46935}I'll be right back.
+{47425}{47462}Happy birthday.
+{47592}{47615}Blow them out.
+{48561}{48606}They've given us 2 weeks.
+{48649}{48700}I can't do any more after.
+{48751}{48787}Not a thing.
+{51504}{51552}Are you looking at my hands?
+{51613}{51660}They were beautiful once.
+{51679}{51734}Now, they give me away.
+{51802}{51842}Did you go through this?
+{52692}{52754}Let your pleasure|be your guide.
+{52781}{52830}Your pleasure as a woman.
+{52869}{52907}And don't forget...
+{52928}{53006}There are two things|that have no limit:
+{53019}{53151}femininity and the means|of taking advantage of it.
+{54361}{54398}I don't believe it!
+{54418}{54450}Not ready yet?
+{54498}{54536}You're uptight, Amande.
+{54540}{54612}It's five to|and I hate unpunctuality.
+{54631}{54694}Waiting sharpens the appetite.
+{54741}{54776}Put this on.
+{54851}{54899}God, this hanger's ugly.
+{54917}{54955}I have to finish work.
+{54959}{54991}No way! That'll do!
+{55019}{55050}Only for a minute.
+{55281}{55314}You look beautiful.
+{55324}{55354}Are we dining?
+{55358}{55377}Yes.
+{55422}{55450}And why?
+{55454}{55489}It's your birthday.
+{55493}{55526}Your 23rd.
+{55538}{55580}Hey, he didn't forget.
+{55922}{55966}Amande, we have a guest.
+{56166}{56216}I thought we'd have dinner...
+{56251}{56272}out.
+{56817}{56842}Shall I go?
+{59262}{59297}The usual, sir?
+{59440}{59460}You know...
+{59464}{59505}you can put your bag down.
+{59754}{59787}Watch this.
+{59806}{59828}Magic.
+{60130}{60163}Wait a minute.
+{60256}{60322}Taittinger,|king of vintage champagnes.
+{60695}{60720}To your future.
+{60848}{60864}Now?
+{61144}{61174}It's loaded.
+{61194}{61266}Six titanium bullets,|plus an extra cartridge.
+{61350}{61375}I don't get it.
+{61400}{61511}There are 3 people behind you.|A woman and 2 men in suits:
+{61516}{61538}a bodyguard...
+{61550}{61624}and a VIP. You've 2 bullets|to kill him.
+{61628}{61680}Then go down to the men's room.
+{61684}{61768}In the end booth,|there's a small window your size.
+{61772}{61881}It opens onto a courtyard.|A corridor leads to the street.
+{61907}{61955}A car's waiting already.
+{61977}{62013}You've 3 minutes.
+{62130}{62182}Please wait until I leave.
+{64530}{64568}Eddy, look down there.
+{65755}{65782}Other side.
+{65953}{65978}Stay there.
+{67165}{67191}José!
+{67251}{67280}Coming!
+{69485}{69559}Miss! Miss! Stop!
+{69645}{69664}Open up!
+{69715}{69762}There's trouble down here.
+{69774}{69789}Miss!
+{69851}{69891}Open the door...
+{69895}{69934}asshole!
+{70339}{70405}The window was walled up, Bob!
+{70417}{70475}The window was walled up!
+{70511}{70555}Of course it was...
+{70805}{70849}You filthy shit!
+{70890}{70928}Stop it, Nikita!
+{70938}{70976}Motherfucker!
+{70988}{71093}It's all over. You get out tomorrow.|You get out tomorrow!
+{71103}{71174}You get out tomorrow!|You get out tomorrow!
+{71499}{71562}Just calm down, goddammit!
+{71712}{71745}We have to...
+{71766}{71873}have to do this sort of exercise|before letting agents out.
+{72180}{72228}You've worked well, Nikita.
+{72299}{72328}Tonight...
+{72362}{72397}and all these years.
+{72503}{72538}I'll miss you.
+{73286}{73323}I'll never kiss you again.
+{74143}{74165}What category...
+{74169}{74203}of mission is she for?
+{74207}{74230}S1.
+{74258}{74299}Still as ambitious...
+{74350}{74385}Don't sit down.
+{74666}{74749}6 months set-up time.|I want her for September.
+{74759}{74871}I can't stand you.|I'd have let you die. So toe the line.
+{74887}{74933}You won't be warned. Clear?
+{75117}{75152}How many do I take?
+{75156}{75194}3 at the most.
+{75233}{75252}Jeannot.
+{75604}{75684}Marie Clément from Sarlat.|Nurse at the Salpétrière.
+{75716}{75790}You're paid at the bank|opposite the hospital.
+{75794}{75903}Passport, driving license...|And a bonus to help you out.
+{75945}{75982}Your mission code name...
+{76055}{76082}Joséphine.
+{76394}{76426}Good luck.
+{76572}{76593}I'm scared.
+{76665}{76699}The worst's over.
+{78175}{78293}Second floor, sunny,|central heating...
+{78297}{78371}and, lucky for you, it's vacant.
+{78388}{78403}Perfect.
+{78449}{78475}Perfect.
+{79920}{79979}Are you in a hurry? Huh?
+{79986}{80027}No, no, not at all...
+{80031}{80092}Good 'cos my register's acting up.
+{80096}{80153}The belt's broken too. So...
+{80179}{80221}I've plenty of time.
+{80279}{80310}That's good.
+{80314}{80375}Push it over and we'll sort it out.
+{80557}{80585}Ravioli.
+{80687}{80719}Hey, ravioli.
+{80765}{80871}I'm slow. I've only been here 2 days.|It's really complicated.
+{81066}{81116}Cookies.|Having yourself painted?
+{81253}{81360}God, no tag! Can't be worth more|than 10 francs. Call it 10!
+{81614}{81657}What time do you finish?
+{81749}{81778}Six o'clock.
+{81847}{81883}How about dinner?
+{82001}{82024}10 francs!
+{82309}{82343}It's not finished.
+{82592}{82671}I'm embarrassed.|Usually, I do the inviting.
+{82687}{82774}You've really confused me.|I don't know what to say...
+{82786}{82822}Never mind. Eat.
+{82876}{82918}Yeah, sure... eat.
+{83049}{83075}It's really good.
+{83102}{83140}Hey, something funny|happened this morning...
+{83144}{83181}at the store. Really funny!
+{83257}{83285}That neither.
+{83381}{83432}I know, I'll eat while it's hot.
+{83826}{83886}Don't start what you can't stop.
+{83914}{83950}Sorry, I want you.
+{83954}{83984}It'll get cold.
+{85090}{85129}You were getting it!
+{85140}{85185}I put the kettle on.
+{85199}{85249}Yeah, you did fuck all!
+{85352}{85382}Breakfast, highness..
+{85522}{85575}There. Shit, I'll be late!
+{85602}{85647}Your highness slept well?
+{85748}{85807}I'll invite Léon to dinner Saturday.
+{85901}{85971}He's missing Britanny, poor guy.
+{85986}{86027}I'll make crêpes.
+{86031}{86070}You know how to?
+{86140}{86183}We might go into business.
+{86187}{86219}Doing what?
+{86223}{86267}Designing boats.
+{86276}{86343}- With him as the eraser?|- Hey, Léon's a nice guy.
+{86390}{86455}I've seen more intelligent bananas.
+{86469}{86499}Give him a break.
+{86533}{86585}Why don't you invite your friend?
+{86596}{86612}Who?
+{86616}{86697}You made a friend|in a store, a blond...
+{86719}{86760}didn't you? Last week?
+{86777}{86854}Yes, but I don't know|if she's a friend yet.
+{86858}{86911}This is your chance to find out.
+{86915}{86998}If it doesn't work,|Léon will peel her bananas.
+{87272}{87309}We get on well, huh?
+{87378}{87433}We've been together 6 months now.
+{87649}{87664}Marie...
+{87698}{87758}How come you never|bring people here?
+{87866}{87928}No relatives, no friends...
+{87973}{88004}Nobody.
+{88102}{88145}Because I love only you.
+{88181}{88214}There you go.
+{88370}{88420}No! Tell him I hate his guts.
+{88747}{88772}Hello?
+{88776}{88797}Joséphine?
+{88902}{88959}The George V bar, in an hour.
+{89114}{89132}Who was it?
+{89171}{89238}The hospital. I'm on duty.
+{89474}{89502}Tea.
+{89603}{89637}Got a light?
+{89663}{89712}The Régina basement,|in an hour.
+{90444}{90473}Don't move.
+{90543}{90573}Legs apart.
+{90608}{90639}Joséphine.
+{90697}{90723}'Scuse.
+{91240}{91259}Put that on.
+{92167}{92208}What do I do now?
+{92237}{92264}You wait.
+{93044}{93084}Room service, good morning.
+{93186}{93214}Certainly, sir.
+{96459}{96498}What do I do now?
+{96516}{96552}Go home.
+{96622}{96650}Is that all?
+{97349}{97374}Marie?
+{97439}{97469}Bob speaking.
+{97522}{97550}How are you?
+{97554}{97597}Fine... I'm just fine.
+{97633}{97738}I wanted to congratulate you.|I'm glad the first job went well.
+{97766}{97789}Thanks.
+{97819}{97858}Have you settled in?
+{97898}{97929}Yes, really well.
+{97989}{98028}I have a fiancé.
+{98048}{98138}Great. I'm glad|everything's going well.
+{98180}{98269}I have to go now, Marie.|Good luck for the next.
+{98282}{98304}Bob?
+{98323}{98345}Yes?
+{98381}{98447}I'd like you over for dinner.
+{98492}{98527}I'd be delighted.
+{98620}{98646}Bob?
+{98665}{98699}Uncle Bob?
+{98739}{98802}Come in. She's in the bathroom.
+{98842}{98883}Let me help you.
+{98887}{98981}You shouldn't have, for the flowers.|Champagne was a good idea.
+{99048}{99070}Sorry.
+{99111}{99155}I'm really pleased...
+{99179}{99220}to meet you. It's...
+{99259}{99321}I haven't met her family before.
+{99346}{99391}The others aren't worth it.
+{99558}{99620}I'll put it in the fridge|before it gets cold.
+{99716}{99794}Delicious. Really.|Wonderful, fine, light...
+{99798}{99924}Stop. I'll never be able to match that.|One last compliment, OK?
+{99941}{100010}I haven't seen her|for a while. She's...
+{100026}{100120}She's radiant. I'm sure|that's thanks to you as well.
+{100129}{100221}My charm's really deceptive.|It's not immediate.
+{100238}{100291}It can take 10 or 15 years.
+{100518}{100608}Tell me, what was she like|when she was little?
+{100612}{100654}No, Marco.
+{100662}{100711}When she was 8 or so.
+{100715}{100757}Marco, you promised!
+{100761}{100834}It's him I'm asking,|Marie, not you.
+{100841}{100899}See, I can't even ask questions.
+{100910}{100954}Do I ask you things?
+{100973}{101019}No, but I wish you would.
+{101029}{101073}I love you all the same.
+{101088}{101131}See, she's a brick wall.
+{101135}{101168}So people say.
+{101183}{101197}Marie!
+{101242}{101285}At 8, she was so pretty.
+{101423}{101484}She had golden hair in a pigtail.
+{101502}{101565}There was a cousin called Caroline.
+{101591}{101689}Only Caroline could touch|her pigtail. No one else.
+{101793}{101832}She wore a ribbon...
+{101844}{101894}and always had white dresses.
+{101972}{102100}I only saw her when the family|rented a farm in summer.
+{102116}{102203}With the cousins and neighbors,|there were 20 kids...
+{102207}{102265}always causing trouble together.
+{102328}{102421}Marie had her speciality.|She imitated frogs.
+{102522}{102602}She'd squat by the pond|and jump into the mud...
+{102606}{102689}going "croak, croak".|That cracked the other kids up.
+{102728}{102756}She'd come back...
+{102760}{102868}soaked to the skin,|but always with the same excuse:
+{102904}{103003}"I slipped", she'd say|in her quiet little voice.
+{103078}{103126}That's just like her!
+{103148}{103191}Has she told you what I do?
+{103247}{103319}No. See, I can't ask her questions.
+{103372}{103477}I work in a travel agency.|I'm one of the partners.
+{103497}{103565}Two tickets to Venice.
+{103622}{103662}An engagement present.
+{103835}{103876}I don't know what to say.
+{103880}{103917}Don't say anything.
+{104410}{104462}Acajou, acajou?
+{104537}{104560}I feel rough.
+{105411}{105448}Mind the step.
+{105568}{105597}This way!
+{105703}{105761}Oh no, not the gondola, Marie!
+{105769}{105821}Not the gondola,|not the gondola...
+{105875}{105938}Gondolier...
+{105989}{106058}from... Venice!
+{106170}{106189}I want you.
+{106193}{106216}Me too.
+{106220}{106242}I'm thirsty.
+{106246}{106263}Me too.
+{106267}{106295}I'm hungry.
+{106300}{106317}Me too.
+{106321}{106364}Copy-cat! Undo my skirt!
+{106368}{106412}- Right away.|- It's undone.
+{106450}{106478}No, take it off.
+{106731}{106771}Here, hold this.
+{106838}{106927}We'd like some San Daniele ham,|a portion of cheese...
+{106931}{107019}and 2 bottles of water.|We get thirsty after sex.
+{107085}{107110}She's crazy.
+{107190}{107225}What did he say?
+{107252}{107304}He has the same problem.
+{107393}{107426}It's all OK then?
+{107596}{107628}Don't move.
+{107724}{107752}Joséphine?
+{107839}{107869}Joséphine?
+{108006}{108088}The bathroom cabinet|has a secret compartment.
+{108295}{108380}Fine, make that|a green salad then.
+{108637}{108676}They're out of ham.
+{108687}{108728}Call the management.
+{108826}{108854}I want a bath.
+{108880}{108942}Relax and wait for room service.
+{109904}{109948}Joséphine, in position.
+{109967}{110031}First items under the sink.
+{111207}{111235}Assembly completed.
+{111245}{111281}Open the window.
+{111431}{111475}There's no fucking handle!
+{111479}{111507}I don't care!
+{111600}{111616}Sweetheart?
+{111700}{111745}Know what I'm thinking about?
+{111764}{111784}No.
+{111813}{111936}That day at the store. Your beauty.|I thought life's a bitch...
+{111952}{112005}I'll never have a girl like that...
+{112052}{112087}to share my life with.
+{112137}{112162}Never.
+{112313}{112377}I can't believe I'm saying this...
+{112524}{112565}The white boat on the canal...
+{112569}{112621}with a driver in a blue shirt.
+{112639}{112731}To the left, there are 2 people|outside a door.
+{112759}{112791}Take aim on them...
+{112795}{112819}and get ready.
+{112838}{112871}We're awaiting orders.
+{113233}{113264}Can we talk?
+{113275}{113323}OK but stay there.
+{113446}{113469}Marie...
+{113606}{113658}I know questions piss you off.
+{113713}{113824}I don't know what's up...|what shit you've been through...
+{113858}{113906}to put you in that state.
+{113958}{114063}But I've got an imagination, OK?|And I imagine the worst.
+{114153}{114202}The worst would be a relief.
+{114382}{114403}Who is it?
+{114407}{114438}Room service.
+{114473}{114495}Coming.
+{114627}{114697}Hello, sir.|Beautiful day, isn't it?
+{114701}{114738}Weren't you out of ham?
+{114742}{114763}Sorry?
+{114772}{114809}OK, it's no big deal.
+{114844}{114887}How many targets?
+{114901}{114935}One but double.
+{114939}{114965}What's he like?
+{114969}{115015}I haven't been informed yet.
+{115036}{115093}My name's Roberto|if you need me...
+{115097}{115155}Yeah, Harry Vederchi.
+{115235}{115304}Target visible in 10 seconds.
+{115545}{115584}Which one of them is it?
+{115588}{115636}I haven't the data yet.
+{115702}{115730}The target, dammit!
+{115737}{115761}The woman.
+{115790}{115823}The woman in brown.
+{115837}{115864}For Chrissakes!
+{115868}{115891}The woman.
+{115908}{115938}The fucking woman!
+{116138}{116184}What's up? Why don't you reply?
+{116188}{116234}You promised not to come in.
+{116247}{116302}I know, but I heard a noise...
+{116310}{116424}I spent 15 minutes at the door.|You could have replied!
+{116800}{116834}You didn't hear me, huh?
+{117165}{117186}Fine.
+{117260}{117295}This'll keep you going.
+{118595}{118618}Miss?
+{118640}{118702}Hot chocolate. Cake.
+{118848}{118888}Interested in my vacation?
+{118951}{119030}I know you and your sadistic games.
+{119064}{119146}You're sick, Bob.|I need to tell you that.
+{119184}{119237}Your job's a sewer for you.
+{119306}{119342}I'm happy to see you.
+{119457}{119546}I miss the time when I had you|to myself every day.
+{119557}{119613}An ambassador,|leaving in 5 months.
+{119617}{119718}Get him before he goes.|It's your mission. Choose your team.
+{119722}{119822}You've 5 months. The Boss wants|a clean, smooth job.
+{119826}{119862}I thought of you.
+{119967}{120014}Always on 2 jobs at once, huh?
+{120056}{120098}It's to show I love you.
+{120926}{120985}What a welcome! I'll try again.
+{121168}{121214}There, that's much better.
+{121294}{121320}From now on...
+{121324}{121386}no more "Mr. Cashier". I resigned.
+{121398}{121412}Exactly.
+{121416}{121437}To make boats?
+{121441}{121468}You bet!
+{121472}{121486}Champagne!
+{121490}{121520}It's taken care of.
+{121847}{121893}Who taught you to smile?
+{121897}{121924}You did.
+{121986}{122033}I think we should move.
+{122045}{122158}I thought something...|bigger might suit you better.
+{123112}{123222}He's seeing his mistress there.|You're in for a two-hour wait.
+{123321}{123355}Got a light?
+{123668}{123713}Sorry, I got held up.
+{123784}{123864}Maximilien Jedreck posted|in Paris 7 years ago.
+{123901}{123973}He's keeping data|in the embassy safe...
+{123977}{124042}waiting until he goes home.|Classic.
+{124065}{124108}What sort of data is it?
+{124112}{124191}All sorts: computing,|electronics, mechanics...
+{124245}{124281}Who's the girl?
+{124298}{124386}Anne-Marie. Together for 2 years.|She's an art dealer.
+{124390}{124435}Seems safe enough.
+{124489}{124543}We're not interested in him.
+{124567}{124666}We're after the companies|selling the data...
+{124670}{124741}and to get them, we need proof.
+{124745}{124804}The proof's in the embassy safe?
+{124808}{124872}Yeah and the keys|are in his pocket.
+{124876}{124914}So we know where to look.
+{124956}{125068}Relations are strained.|Go easy and don't hurt him.
+{125092}{125170}Try to work magic, not havoc.
+{125557}{125585}Sweetheart?
+{125819}{125848}Sweetheart?
+{126044}{126099}Shit, you scared me!
+{126538}{126613}How do you smell so good|in a hospital?
+{126655}{126692}Woman's secret.
+{126844}{126916}Tell me about|these 3 months of nights.
+{126974}{127012}Tonight's the last.
+{129385}{129430}Damn paintings!
+{129447}{129495}I'm to look after you.
+{129669}{129725}Marie-Hélène, how do you do?
+{129824}{129852}How do you do?
+{130238}{130280}I won't be long.
+{130673}{130725}That'll take some selling.
+{130849}{130878}Who's it by?
+{130897}{130999}A guy who was a pain in the neck|even before I carried his stuff.
+{131006}{131040}What'll you drink?
+{131092}{131123}Whiskey.
+{131514}{131595}So you work with Anne-Marie?
+{131599}{131659}Sometimes.|Dad's gallery's near hers.
+{131678}{131711}In the same street?
+{131725}{131773}Yes, a bit further up.
+{131876}{131938}A bit further up,|a bit further up.
+{132117}{132146}Ah, I see.
+{132191}{132217}Thank you.
+{132262}{132328}After the Finnish gallery.
+{132343}{132379}No, further up...
+{132411}{132433}Your elbow!
+{132492}{132529}Glug-glug.
+{132818}{132837}Lie down.
+{132841}{132879}It's time to sleep.
+{133580}{133652}Christian, it's just|a housewife coming up.
+{133677}{133716}OK, message received.
+{134044}{134077}- Joséphine?|- Yes.
+{134111}{134174}The ambassador uses a code|with his guards.
+{134178}{134215}Yeah but we got it.
+{134219}{134246}They changed it.
+{134277}{134337}Surveillance just told me.
+{134347}{134381}So we drop everything?
+{134385}{134426}Hold on, I'll find out.
+{134777}{134824}No, mission maintained.
+{134828}{134849}What d'you mean?
+{134853}{134917}I mean we're sending|you a cleaner.
+{134966}{135013}It's my mission,|for 6 months...
+{135017}{135063}Shut it!|Orders are orders!
+{135067}{135149}Mission maintained|with maximum priority.
+{135153}{135198}Fuck your goddam cleaner!
+{135340}{135383}Shall we get out?
+{135484}{135531}No, we wait and talk to him.
+{136148}{136177}Maurice?
+{136372}{136419}Maurice, who's coming up?
+{136885}{136927}Calm down! Calm down!
+{136931}{136956}OK!
+{136989}{137016}I'll go.
+{137119}{137169}Victor, the cleaner.
+{137382}{137396}Bathroom?
+{137424}{137448}Over there.
+{137461}{137506}Bring that one too.
+{137782}{137803}And the driver?
+{137807}{137835}In the trunk.
+{137886}{137927}Go on then, talk to him.
+{137931}{138007}Drop it, OK!|Maybe you've a better idea?
+{138313}{138376}Victor,|we've got to talk first.
+{138397}{138418}After.
+{138490}{138523}What are you doing?
+{138527}{138567}Cleaning up your shit.
+{138632}{138664}Fuck, he's not dead!
+{138763}{138801}You're out of your mind!
+{138805}{138847}Hold him down, asshole!
+{138851}{138869}I've had it!
+{138873}{138906}Come and help me.
+{138910}{138960}Here, here!|I've had it!
+{138964}{138995}Shut your mouth.
+{138999}{139035}Calm down. Help me.
+{139039}{139067}You go...
+{139071}{139124}to the embassy!|Here're the keys!
+{139128}{139154}Cut it out, asshole!
+{139166}{139197}Yeah, I'll cut it out!
+{139242}{139265}Stop it!
+{139944}{139961}Victor...
+{140007}{140067}I'd better call for orders, huh?
+{140125}{140179}Victor!|No, no, Victor!
+{140245}{140308}I don't stop missions|in progress.
+{140322}{140365}You'll make no calls.
+{140369}{140480}We're going to finish this|or I'll burn your face off, OK?
+{141180}{141207}I'd better come.
+{141226}{141314}No, you'd better not.|Stay here. Give me an hour.
+{141343}{141394}And just calm down.|Calm down.
+{141427}{141460}See you in an hour.
+{147086}{147113}You said an hour.
+{147217}{147245}Time to clean up.
+{147249}{147338}No! You're not cleaning|anything, Victor.
+{147348}{147408}We'll just go|for a little drive.
+{147549}{147586}The mission's not over.
+{147650}{147744}Please, Victor.|I can't take any more of this.
+{147767}{147834}Please, let's go!
+{147947}{147974}Who's that?
+{147978}{148006}I don't know.
+{148031}{148094}Sir?|What's happening, sir?
+{148125}{148156}Oh shit!
+{148306}{148347}Let's get out of here!
+{148556}{148578}They're ready.
+{148618}{148653}Nothing's wrong.
+{148657}{148686}False alert. Calm down.
+{149018}{149085}They've shut the gate.|We can't get out.
+{149122}{149151}We'll call back.
+{149155}{149182}Stop!
+{149275}{149327}A quick drive|and we'll call back.
+{149331}{149351}Please stop!
+{152022}{152051}Move over.
+{152495}{152535}Look at me, Marie.
+{152860}{152899}My poor love.
+{152990}{153017}They'll wear you out.
+{153066}{153122}The job's too tough for you.
+{153184}{153224}Look at your tiny hands.
+{153277}{153327}They need protecting.
+{153403}{153443}They mustn't get old.
+{153554}{153617}Stop before it's too late.
+{153723}{153757}Why do you say that?
+{153875}{153913}I know everything, Marie.
+{153999}{154095}There never has been|a Marie Clément at your hospital.
+{154197}{154237}I also know about...
+{154312}{154364}the stake-outs, the tailings...
+{154383}{154418}the video cassettes.
+{154474}{154511}Why didn't you say?
+{154584}{154628}Because I love only you.
+{154781}{154806}Thank you.
+{155266}{155309}My little Marco.
+{155436}{155514}You're the most beautiful|person I ever met.
+{155648}{155704}The only one who helped me too.
+{155881}{155907}Are you going away?
+{156199}{156238}Got a little place for me?
+{156286}{156334}You're better in a big place.
+{156920}{156949}I love you.
+{158594}{158653}Mathieu! I'll go up first.
+{158675}{158721}I'll call if there's trouble.
+{159032}{159059}Come to shoot me?
+{159249}{159287}Don't you think...
+{159325}{159368}she's paid her dues?
+{159407}{159458}Hasn't she the right to live?
+{159544}{159580}Her life's been ruined.
+{159595}{159623}I know all that.
+{159632}{159700}But she ruined a life|a few years ago.
+{159715}{159747}A policeman's.
+{159779}{159819}Those are heavy dues.
+{159873}{159914}She killed for you too.
+{159933}{159989}It only counts when it suits you.
+{160153}{160241}OK, Marco, you know|what it's all about now.
+{160248}{160340}I'm listening.|What do you want me to do?
+{160366}{160403}Protect her.
+{160487}{160512}I'll try...
+{160544}{160583}but she's in danger, Marco.
+{160619}{160671}She took the embassy documents.
+{160691}{160778}She's out of danger then.|I've got the documents.
+{161423}{161450}She left you a note...
+{161475}{161509}but I tore it up.
+{161602}{161625}What did it say?
+{162165}{162199}We'll miss her, huh?
+{162362}{162380}Yeah.

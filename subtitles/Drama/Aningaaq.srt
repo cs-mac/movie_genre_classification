@@ -1,0 +1,50 @@
+﻿[Script Info]
+Title:
+Original Script:
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResY:
+PlayResX:
+PlayDepth:
+Timer: 100.0000
+WrapStyle:
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default, Ariel, 18, &H00FFFFFF, &H00FFFF00, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0, 0.00, 0, 2, 0, 2, 30, 30, 10, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:10.51,0:01:19.70,Default,,0000,0000,0000,,(Radio Static)
+Dialogue: 0,0:01:53.50,0:01:54.51,Default,,0000,0000,0000,,Houston...this is mission..
+Dialogue: 0,0:01:54.61,0:01:56.00,Default,,0000,0000,0000,,this is...this is Mission Specialist\NRyan Stone...
+Dialogue: 0,0:01:56.11,0:01:57.70,Default,,0000,0000,0000,,do you copy?
+Dialogue: 0,0:02:03.34,0:02:06.20,Default,,0000,0000,0000,,This is Mission Specialist\NRyan Stone from STS-157...
+Dialogue: 0,0:02:06.35,0:02:08.19,Default,,0000,0000,0000,,all other astronauts on the\Nmission are dead...
+Dialogue: 0,0:02:08.25,0:02:09.81,Default,,0000,0000,0000,,Houston do you copy?
+Dialogue: 0,0:02:12.50,0:02:19.03,Default,,0000,0000,0000,,I'm stranded in the Soyuz spacecraft for that\Nand fewer oxygen left. I'm feeling dizzy.
+Dialogue: 0,0:02:26.75,0:02:33.15,Default,,0000,0000,0000,,SOS.Do you understand?Mayday!\NMayday!Mayday!Do you copy? 
+Dialogue: 0,0:02:41.20,0:02:46.20,Default,,0000,0000,0000,,Ani...Aningaaq is that...Is that your name?\NAningaaq is your name?Is that your name?
+Dialogue: 0,0:02:51.20,0:02:57.78,Default,,0000,0000,0000,,No,no,no...my name is not Mayday.I'm\NStone...Dr.Ryan Stone. I need help..I'm..
+Dialogue: 0,0:03:23.85,0:03:29.60,Default,,0000,0000,0000,,Dogs.Hmm..are those dogs?\N(Heavy breathing)
+Dialogue: 0,0:03:30.10,0:03:34.19,Default,,0000,0000,0000,,Aningaaq make your dogs bark\Nagain for me would you please?
+Dialogue: 0,0:03:34.29,0:03:36.20,Default,,0000,0000,0000,,Dogs you know woof woof
+Dialogue: 0,0:03:43.30,0:03:45.90,Default,,0000,0000,0000,,(Dog Howler Imitation)
+Dialogue: 0,0:03:55.00,0:04:02.57,Default,,0000,0000,0000,,I'm gonna die Aningaaq.I know we're all gonna die,\Neverybody knows that.But I'm gonna die today!
+Dialogue: 0,0:04:05.80,0:04:09.67,Default,,0000,0000,0000,,But the thing is, I'm still too\Nscared.I'm really scared.
+Dialogue: 0,0:04:11.91,0:04:15.15,Default,,0000,0000,0000,,Nobody will mourn for me.\NNo one will pray for my soul
+Dialogue: 0,0:04:16.35,0:04:19.15,Default,,0000,0000,0000,,You mourn for me?\NWould you say a prayer for me?
+Dialogue: 0,0:04:20.23,0:04:21.55,Default,,0000,0000,0000,,Or it too late?
+Dialogue: 0,0:04:23.35,0:04:26.40,Default,,0000,0000,0000,,I mean I say one for myself,\Nbut I never prayed in my life.
+Dialogue: 0,0:04:30.15,0:04:31.45,Default,,0000,0000,0000,,There's a baby with you,huh?
+Dialogue: 0,0:04:34.45,0:04:36.25,Default,,0000,0000,0000,,Is that a lullaby you singing?
+Dialogue: 0,0:04:37.25,0:04:39.25,Default,,0000,0000,0000,,So sweet!
+Dialogue: 0,0:04:40.75,0:04:45.25,Default,,0000,0000,0000,,That's nice Aningaaq. Keep singing\Njust like that.
+Dialogue: 0,0:04:45.35,0:04:50.35,Default,,0000,0000,0000,,Sing me to sleep and I'll sleep,\Nkeep singing.
+Dialogue: 0,0:04:50.45,0:04:51.35,Default,,0000,0000,0000,,Sing,sing

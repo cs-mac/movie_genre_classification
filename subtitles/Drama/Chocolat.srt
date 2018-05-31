@@ -1,0 +1,1695 @@
+{1}{1}23.976
+{697}{745}[Church bells chiming]
+{956}{1000}BOTH: Bonjour, monsieur.
+{1048}{1083}Bonjour.
+{1084}{1135}Bonjour, monsieur.|Say bonjour.
+{1136}{1194}Bonjour.
+{1195}{1233}Ahem.
+{1260}{1307}STORYTELLER:|Once upon a time...
+{1308}{1335}there was|a quiet little village...
+{1336}{1382}in the French countryside...
+{1383}{1457}whose people believed|in "tranquilité".
+{1458}{1499}[Doors bang shut]
+{1500}{1556}Tranquility.
+{1557}{1590}[Organ playing]
+{1591}{1636}CONGREGATION SINGING:|Come Holy Ghost
+{1636}{1699}Creator come
+{1700}{1823}From Thy bright|heavenly throne
+{1824}{1965}Come take possession|of our souls
+{1966}{2143}And make them all Thine own
+{2144}{2209}Far from us drive our...
+{2210}{2266}STORYTELLER:|If you lived in this village...
+{2267}{2327}you understood|what was expected of you.
+{2328}{2416}CONGREGATION SINGING:|...unto us bring
+{2417}{2463}And through all...
+{2464}{2566}STORYTELLER: You knew your|place in the scheme of things.
+{2567}{2678}And if you happened to forget,|someone would help remind you.
+{2679}{2703}[Snorts]
+{2979}{3031}The season of Lent is upon us.
+{3032}{3135}This is, of course,|a time of abstinence.
+{3136}{3239}Hopefully,|also a time of reflection.
+{3240}{3312}Above all,|let this be for us a time...
+{3344}{3413}PERE:|a time of sincere penitence.
+{3414}{3449}[Dog whimpers]
+{3450}{3521}PERE: It is a time|to stand up and be counted.
+{3522}{3555}STORYTELLER: In this village...
+{3556}{3641}if you saw something|you weren't supposed to see...
+{3642}{3686}you learned|to look the other way.
+{3686}{3730}PERE:|This is a time for Christ.
+{3731}{3800}When you reflect,|he knows what you reflect on.
+{3800}{3829}STORYTELLER: If by chance...
+{3830}{3904}your hopes|had been disappointed...
+{3905}{3995}you learned|never to ask for more.
+{3996}{4068}PERE: He knows for what|you must be forgiven.
+{4069}{4100}[Wind whistling]
+{4101}{4179}So in this Year of Our Lord,|1959, things...
+{4180}{4266}STORYTELLER: So,|through good times and bad...
+{4267}{4310}famine and feast...
+{4311}{4403}the villagers held fast|to their traditions.
+{4404}{4449}Until...
+{4450}{4471}one winter day...
+{4472}{4493}one winter day...
+{4494}{4586}a sly wind|blew in from the north.
+{4730}{4785}PERE: Where will we find truth?
+{4786}{4829}[Wind blowing]
+{4830}{4873}Where do we start looking?
+{4874}{4921}[Wind whistling]
+{4922}{4961}PERE: Where will we find truth?
+{4962}{4997}We will find it...
+{6228}{6290}[Door closes]
+{6428}{6458}Who the hell are you?
+{6459}{6533}Oh, uh...
+{6534}{6616}We're here about the patisserie.
+{6617}{6675}We'd like to rent it...
+{6676}{6718}VIANNE:|and the apartment above.
+{6719}{6753}Where are you from?
+{6754}{6857}Well, we lived in Andalucia|for a while.
+{6858}{6949}Let me see.|Before that, Vienna...
+{6950}{7025}and before that...
+{7026}{7077}-Athens.|-Pavia.
+{7078}{7129}ANOUK:|Pantoufle hated it there.
+{7130}{7187}Pantoufle is her kangaroo.
+{7188}{7233}But he can't hop.
+{7234}{7312}Bad leg. War injury, huh?
+{7710}{7782}I'll expect you to keep it|in good condition.
+{7902}{7945}[Door slams]
+{7946}{7981}[Vianne chuckles]
+{7982}{8029}[Humming]
+{8205}{8257}ANOUK:|What a nice town this is.
+{8258}{8297}Don't you think so, Mama?
+{8298}{8348}It's a lovely town.
+{8390}{8478}Mama, Pantoufle wants to know|how long we can stay.
+{8479}{8572}VIANNE: Oh, tell Pantoufle|not to worry.
+{8573}{8608}[Whispering]
+{8609}{8666}Time for bed.|What story tonight?
+{8667}{8773}Pantoufle wants to hear|about grandmere and grandpere.
+{8774}{8829}Not tonight, Anouska.
+{8830}{8886}ANOUK: You always say that.
+{8887}{8949}Tell about|grandmere and grandpere.
+{8950}{9010}Not tonight.
+{9011}{9085}How about the princess|and the pirates?
+{9086}{9125}ANOUK: OK.
+{9158}{9197}ANOUK: Prepare to fire!
+{9198}{9261}All hands on deck!
+{9262}{9332}ANOUK: Ready, aim...
+{9333}{9364}fire!
+{9419}{9481}REYNAUD: Forgive the intrusion.
+{9482}{9526}VIANNE: It's a pleasure.
+{9590}{9637}ANOUK: Sorry, monsieur.
+{9638}{9717}-Pirate attack.|-Of course.
+{9718}{9762}What is your name?
+{9762}{9806}Anouk. What's yours?
+{9807}{9878}I am the Comte de Reynaud|at your service.
+{9878}{9917}ANOUK: A real one?
+{9918}{9970}Like the Comte de Monte Cristo?
+{9971}{10033}Ah-ah!|He was not a real one.
+{10034}{10093}VIANNE: To what do we owe|the honor of your visit?
+{10094}{10149}Well, as mayor of Lansquenet...
+{10150}{10207}I want to welcome you|to the community...
+{10208}{10295}and to invite you to worship|with us at mass on Sunday.
+{10295}{10381}That's very kind of you,|but actually we don't attend.
+{10452}{10517}VIANNE: We're glad to be|so near the church, though.
+{10518}{10572}We'll enjoy|singing with the bells.
+{10573}{10660}The bells are not intended|as an entertainment, Madame.
+{10661}{10706}They are a solemn call|to worship for--
+{10707}{10752}VIANNE: Mademoiselle.
+{10753}{10780}I beg your pardon?
+{10781}{10829}Mademoiselle.|I've never been married...
+{10830}{10896}but feel free to call me Vianne.
+{10953}{11030}I hope you'll stop by when|I open for business next week.
+{11031}{11096}Yes.
+{11097}{11186}Yes, opening a patisserie|during the holy Lenten fast.
+{11187}{11228}I could imagine better timing.
+{11229}{11288}Oh, but it's not going|to be a patisserie.
+{11289}{11328}Then what do you intend to--
+{11329}{11374}It's a surprise.
+{11375}{11437}It was sweet of you to drop by.
+{11630}{11664}STORYTELLER:|The Comte de Reynaud...
+{11665}{11780}was a student of history,|and therefore a patient man.
+{11781}{11881}He trusted the wisdom|of generations past.
+{11882}{11997}Like his ancestors, he watched|over the little village...
+{11998}{12057}and led by his own example--
+{12058}{12153}hard work, modesty...
+{12154}{12202}self-discipline.
+{12499}{12558}I have completed|the 18th Century.
+{12558}{12616}[Sniffling]
+{12617}{12656}Madame Clairmont.
+{12701}{12770}Your letter to the editor,|Monsieur le Comte.
+{12771}{12854}This paragraph about family|and tradition, it's...
+{12855}{12905}it's beautiful.
+{12906}{12949}Oh! Ha ha.
+{12950}{13006}Well, thank you.
+{13007}{13050}I value your opinion.
+{13051}{13096}[Dog barking]
+{13097}{13148}[Door closes]
+{13199}{13251}VIANNE: Bonjour! Hello!
+{13252}{13281}REYNAUD: May I ask...
+{13282}{13369}have you been in contact|with your mother recently?
+{13370}{13414}CAROLINE: Why?
+{13415}{13465}She seems to have|rented out the patisserie.
+{13466}{13524}CAROLINE: Oh.
+{13525}{13624}I haven't talked to my mother|in quite a while.
+{13625}{13673}I'm sorry.|I did not mean to pry.
+{13674}{13740}Oh, don't be silly.
+{13741}{13793}I have no secrets from you.
+{13829}{13893}How is the comtesse|enjoying Venice?
+{13894}{13990}The comtesse?|Oh, she's fine, thank you.
+{13991}{14055}Yes,|she's enjoying it very much.
+{14087}{14143}Venice.
+{14214}{14250}[Sighs]
+{14392}{14453}WOMAN: I heard she was|some kind of radical.
+{15046}{15093}I heard she's an atheist.
+{15094}{15135}What's that?
+{15136}{15191}Don't know.
+{15413}{15446}GUILLAUME: Come on, Charly.
+{15447}{15470}[Whimpering]
+{15503}{15550}Come on.
+{16128}{16164}Oh!
+{16792}{16844}Uhh! Oh!
+{16845}{16880}You should be more careful!
+{16881}{16951}-So sorry, Madame.|-I'm sorry.
+{16952}{16981}VIANNE: Are you all right?
+{16982}{17020}CAROLINE: I'm fine, I'm fine.
+{17021}{17089}VIANNE: I'm sorry. Do you want|to come in and sit down?
+{17090}{17138}CAROLINE: Please don't|trouble your self. I'm fine.
+{17140}{17203}VIANNE: No, it's no trouble.|I'm Vianne Rocher.
+{17204}{17240}Caroline Clairmont.
+{17241}{17274}I'm the daughter|of your land lady.
+{17275}{17298}This is my son Luc.
+{17299}{17355}VIANNE: Hello.|And this is my Anouk.
+{17356}{17409}Come in, please,|where it's warm.
+{17410}{17447}Try this.
+{17448}{17503}I bet you've never|had hot chocolate...
+{17504}{17563}made from|a 2,000-year-old recipe.
+{17564}{17600}Thank you, but no. Luc.
+{17628}{17660}CAROLINE: No.
+{17725}{17748}WOMAN: What's this?
+{17749}{17813}What do you see, Madame,|in this?
+{17814}{17847}Sorry?
+{17847}{17886}VIANNE:|What does it look like to you?
+{17887}{17948}Just say the first thing|that comes into your mind.
+{18024}{18055}WOMAN: Um...
+{18056}{18124}A woman riding a wild horse?
+{18125}{18153}Ha!
+{18154}{18201}-Ooh!|-Oh, silly answer.
+{18202}{18238}Oh, no.|There are no silly answers.
+{18240}{18285}The pepper triangle,|that's for you.
+{18286}{18334}A tiny hint of chili pepper...
+{18336}{18400}VIANNE:|to play against the sweetness.
+{18424}{18485}Tangy, adventurous.
+{18702}{18749}What do you see?
+{18807}{18849}I see teeth.
+{18873}{18916}LUC: I see blood...
+{18917}{18978}and a skull.
+{19037}{19079}Very dark.
+{19080}{19139}VIANNE: Bitter chocolate.|That's your favorite.
+{19140}{19214}CAROLINE: Which will|have to wait five weeks more.
+{19215}{19259}Lent. Thank you.
+{19297}{19379}We must run along.|It's been nice to meet you.
+{19404}{19434}My pleasure.
+{19435}{19491}ANOUK: Pantoufle, come on!|Pirate attack!
+{19521}{19596}WOMAN: How much are|those chili things, please?
+{19597}{19635}VIANNE: 4.50 a box.
+{19636}{19671}Could you put a ribbon on it?
+{19671}{19703}Mm-hmm.
+{19704}{19742}WOMAN: Then I can pretend|they are from my husband.
+{19743}{19781}Of course.
+{19782}{19841}[Woman laughing]
+{19841}{19900}[Whispering]
+{19901}{19950}WOMAN: Josephine Muscat.
+{19952}{20003}She waltzes to her own tune.
+{20047}{20115}And these are for your husband--
+{20116}{20192}unrefined coco nips|from Guatemala--
+{20193}{20236}to awaken the passions.
+{20237}{20286}Ha!
+{20288}{20352}You've obviously|never met my husband.
+{20353}{20437}You've obviously|never tried these.
+{20566}{20608}[Snoring]
+{20609}{20657}[Music plays on radio]
+{20945}{21011}Don't be pathetic.
+{21074}{21122}[Kids shouting]
+{21257}{21305}[Kids shouting and laughing]
+{21591}{21622}[Door opens]
+{21623}{21657}CAROLINE: Luc.
+{21658}{21719}You've got a tiny error|in problem six--Oh!
+{21720}{21779}Luc! Oh.
+{21780}{21827}It's nothing.
+{21892}{21935}It already stopped.
+{21936}{22011}Mother, the new teacher...
+{22012}{22070}wants us to correct|our own mistakes.
+{22071}{22131}I didn't tell you|how to correct the mistake...
+{22132}{22183}I just told you|that you made one.
+{23258}{23306}[Knock on door]
+{23496}{23544}[Moaning]
+{23830}{23877}[Footsteps]
+{24099}{24140}WOMAN:|Not hungry, Monsieur le Comte?
+{24141}{24187}The Lenten fast, Madame Rivet.
+{24187}{24252}Are you not supposed|to eat something?
+{24315}{24356}It's all right. Leave it.
+{25275}{25323}[Whispering]
+{25732}{25767}VIANNE: Hello.
+{25806}{25829}May I help you?
+{25885}{25951}It's expensive.|I don't waste money.
+{25952}{26024}I have a knack for|guessing people's favorites.
+{26059}{26178}These are your favorites.|Am I right?
+{26179}{26206}VIANNE: On the house.
+{26207}{26270}I think I'd better--|[Mumbling]
+{26555}{26597}WOMAN: Well...
+{26598}{26642}SECOND WOMAN:|This certainly is different.
+{26643}{26695}THIRD WOMAN:|Yes. Very different.
+{26696}{26734}WOMAN: Look at that.
+{26735}{26773}[Dog barks]
+{26773}{26811}WOMAN: Oh!
+{26812}{26866}Oh. I'm so sorry.
+{26867}{26916}Bonjour, Monsieur Blerot.
+{26917}{26988}Bonjour, Madame Audel.
+{27233}{27281}[Dog barking]
+{27325}{27349}GUILLAUME:|No. Not that way, Charly.
+{27351}{27382}Come on.
+{27383}{27434}Come in! Please.
+{27435}{27498}Come on, boy.
+{27499}{27530}I've got something for you.
+{27691}{27716}VIANNE: What's your name?
+{27717}{27778}GUILLAUME: Charly.|He's fourteen years old.
+{27779}{27842}That's ninety-eight|in human years.
+{27843}{27889}No, I meant your name.
+{27890}{27960}Oh! Guillaume Blerot.
+{27961}{28010}You're very kind.
+{28011}{28066}He has so few pleasures left.
+{28067}{28142}Would you care...
+{28143}{28194}VIANNE:|Would you care to buy...
+{28195}{28266}something special|for your lady friend?
+{28267}{28310}Lady friend?
+{28311}{28386}VIANNE: The lovely woman|your dog was so fond of.
+{28387}{28437}Oh.
+{28438}{28483}VIANNE: Her favorite|is chocolate seashells.
+{28484}{28515}That's my guess.
+{28516}{28578}Oh, no. I mustn't.
+{28579}{28650}Madame Audel is in mourning|for her husband.
+{28651}{28708}Oh, I'm sorry.
+{28709}{28750}When did he pass away?
+{28751}{28830}The war. German grenade.
+{28831}{28878}Hmm.
+{28879}{28947}Well, it's been fifteen years|since the war, so...
+{28948}{28986}Not that war.
+{28987}{29066}Monsieur Audel was killed|on January 12, 1917.
+{29101}{29166}It was quite a blow|to Madame Audel.
+{29167}{29216}Apparently so.
+{29217}{29277}-Hmm.|-Hmm.
+{29312}{29354}Bonjour, Mesdames!
+{29355}{29431}ALL: Bonjour, Monsieur le Comte.
+{29531}{29566}I wish all my tenants...
+{29567}{29622}were as reliable as you,|Madame Drou.
+{29670}{29726}How is the comtesse|enjoying Italy?
+{29755}{29850}Uh...She may be|extending her trip.
+{29851}{29918}MADAME DROU: Ah, very nice.
+{29976}{30051}Have either of you seen|the new shop across the square?
+{30052}{30111}The chocolaterie? Yes.
+{30111}{30170}Shameless, isn't it?
+{30171}{30214}[Clicks off]
+{30215}{30254}REYNAUD:|The sheer nerve of the woman...
+{30255}{30371}opening a chocolaterie|just in time for Lent.
+{30421}{30488}REYNAUD: The woman is brazen.
+{30489}{30555}My heart|goes out to that poor...
+{30556}{30610}illegitimate child of hers.
+{30635}{30658}Mmm.
+{30745}{30779}Bonjour.
+{30848}{30939}[Singing] You ain't nothin'|but a hound dog
+{30940}{31006}Cryin' all the time
+{31007}{31070}PERE SINGING: You ain't nothin'|but a hound dog
+{31071}{31121}Cryin' all the time
+{31122}{31178}Well, you ain't never|caught no rabbit
+{31179}{31230}You ain't no friend of mine
+{31231}{31261}Ooh, yeah!
+{31262}{31317}REYNAUD:|A new addition to the liturgy?
+{31352}{31410}I have a weakness|for American music...
+{31411}{31455}Monsieur le Comte.
+{31456}{31512}How long have you been with us,|Pere Henri?
+{31513}{31584}It will be five weeks.
+{31585}{31718}Your predecessor, Pere Michel,|he was with us for five decades.
+{31719}{31763}Yes, well...
+{31764}{31846}I only pray I can live up|to Pere Michel's example.
+{31847}{31928}Yes, that's my prayer also.
+{31929}{31983}I looked at your sermon,|as you requested.
+{31984}{32027}I've made one or two notes.
+{32134}{32166}You're very kind.
+{32167}{32232}Not at all.
+{32233}{32313}Oh, one more thing.
+{32314}{32370}If you haven't seen|the new chocolaterie...
+{32371}{32429}perhaps you might|like to take a look.
+{32430}{32480}It's important|to know one's enemy.
+{32481}{32550}Don't you think?
+{32612}{32671}VIANNE: Hey, where's my kiss?
+{32722}{32765}Aah! Ugh!
+{32807}{32836}Watch where you're going!
+{32837}{32860}ANOUK: Excuse me!
+{32861}{32914}Hello. Morning.
+{32939}{33033}What's the decor,|Early Mexican Brothel?
+{33285}{33359}No! If I need help,|I'll ask for it.
+{33537}{33578}What do you see in it?
+{33579}{33623}Not a damn thing.
+{33624}{33660}Come on. It's a game.
+{33661}{33721}VIANNE: What do you see?
+{33722}{33809}I see a cranky old woman|too tired to play games.
+{33810}{33890}VIANNE: Hmm. I've got|just the thing for you.
+{33952}{34021}ARMANDE: That little girl|of yours, does she mind it?
+{34022}{34051}Mind what?
+{34052}{34110}The way you move her|from place to place.
+{34111}{34205}Oh. She's doing fine.|I think it's good for her.
+{34205}{34299}VIANNE: Seeing new places,|meeting new people.
+{34395}{34451}Your cinnamon looks rancid.
+{34452}{34492}Well, it's not cinnamon.
+{34493}{34536}It's a special kind|of chili pepper.
+{34537}{34591}Chili pepper in hot chocolate?
+{34592}{34642}VIANNE: Mm-hmm.|It'll give you a lift.
+{34666}{34696}There.
+{34896}{34922}[Sniffing]
+{35134}{35208}It tastes like...
+{35254}{35293}I don't know.
+{35333}{35381}[Chuckles]
+{35446}{35475}BOY: Hop, hop, hop, hop!
+{35476}{35520}SECOND BOY:|Where's your kangaroo?
+{35521}{35550}ANOUK: Uhh!
+{35551}{35618}BOY: Hop, hop, hop!|I'm your kangaroo now!
+{35619}{35666}[All yelling]
+{35667}{35696}Stop it!
+{35697}{35774}Stop it! Unh!
+{35775}{35845}Anouk! In this school,|we are civilized.
+{35845}{35891}We do not strike one another!
+{35892}{35936}ANOUK:|But they insulted Pantoufle!
+{35937}{35993}TEACHER: I don't care.|Didi, Dedou, come along!
+{36048}{36073}[Slams door]
+{36074}{36112}TEACHER: And be quiet.
+{36152}{36207}Where's Pantoufle?
+{36208}{36243}Shh!
+{36276}{36347}My mother says|you don't have a father.
+{36348}{36400}Sure I do.
+{36401}{36443}We just don't know who he is.
+{36501}{36539}I was out all night with him.
+{36565}{36624}We swam naked in the Tannes.
+{36661}{36725}At dawn, when I returned|to my house in my bed...
+{36726}{36782}my mother poked her head|in and said...
+{36783}{36832}"Wake up sleepyhead."
+{36833}{36876}[Laughing]
+{36877}{36920}She had no idea I'd been gone.
+{36921}{36961}[Laughing]
+{37341}{37396}Sure you didn't|put booze in there?
+{37397}{37463}Nah. Something better.
+{37464}{37526}Perhaps you should|give it to my daughter.
+{37527}{37616}ARMANDE: Melt that chilly|disposition of hers.
+{37617}{37664}You and Caroline have a problem?
+{37665}{37738}Do we have a problem?
+{37772}{37848}She won't let me|see my grandson.
+{37849}{37906}I'm cut off from him.
+{37907}{37961}VIANNE: Why is that?
+{37962}{38024}Armande, why is that?
+{38055}{38114}Oh, I'm a bad influence.
+{38115}{38204}'Cause I don't like her treating|him like a trained poodle.
+{38205}{38304}I swear, that boy doesn't piss|without her permission.
+{38372}{38410}ARMANDE:|Ever since her husband died...
+{38411}{38457}she's been so...
+{38585}{38661}The way she frets|and fusses over that boy.
+{38662}{38717}If only she'd let him run,|let him breathe...
+{38718}{38775}let him live.
+{38776}{38872}But she worries|that he will overexert himself.
+{38901}{38935}Not much danger of that.
+{38936}{38994}She won't even let|the poor kid ride a bicycle.
+{39058}{39126}Do you think|he'd like to see you?
+{39181}{39250}Do you have more of|those bean thingies, please?
+{39251}{39292}Oh, sure.
+{39321}{39372}VIANNE: How many do you want?
+{39373}{39404}How many have you got?
+{39531}{39583}Jack of hearts is a better|hunter than you, eh?
+{39584}{39667}Shoots the trump|from right out under your nose.
+{39949}{39984}Are you Serge Muscat?
+{39985}{40043}The one and only.|What's your pleasure?
+{40044}{40116}-Is your wife here?|-Josephine?
+{40117}{40215}Well, it depends what|you want with Josephine.
+{40216}{40297}Oh, she left this at my shop.
+{40298}{40379}Well, let me have it.|I'll give it to her.
+{40380}{40462}Oh, no. I'll give it|to her myself, thanks.
+{40463}{40551}MAN: Got to go.|I'm late for supper.
+{40552}{40616}SECOND MAN:|But the game's not over yet.
+{40650}{40679}Do you want to play?
+{40712}{40750}You know Belote?
+{40751}{40804}Of course I do.
+{40805}{40849}Sit down.
+{40850}{40892}[Footsteps]
+{40893}{40926}VIANNE: Josephine.
+{40927}{40965}[Clatter]
+{40966}{41008}What do you want?
+{41009}{41063}You forgot this.
+{41064}{41120}What do you want?
+{41164}{41201}To be your friend.
+{41202}{41292}I don't have friends.|Does Serge know you're here?
+{41293}{41347}Does it matter?
+{41373}{41443}Do me a favor.|Try one of these rose creams.
+{41444}{41544}Tell me if you think it's|a little heavy on the Cointreau.
+{41897}{41951}SERGE: Josephine!
+{42129}{42165}I'm coming!
+{42166}{42225}JOSEPHINE: He talks about you.
+{42251}{42279}He says you're indecent.
+{42280}{42324}He says you're an influence.
+{42325}{42385}You're a bad influence|for someone like me--
+{42386}{42459}I don't have to listen to a word|your husband has to say.
+{42460}{42516}JOSEPHINE: No, not Serge.
+{42517}{42553}Not him.
+{42554}{42609}Reynaud, the mayor.
+{42644}{42711}He...he talks about you.
+{42854}{42884}Time to go.
+{42922}{42976}Look what I won.
+{42977}{43040}That's good. Come on.
+{43135}{43176}[Man laughs]
+{43276}{43328}MAN: Bonsoir.
+{43329}{43381}SECOND MAN: You see?|I said they'd be here.
+{43576}{43624}[Birds chirping]
+{43745}{43819}Luc, mind if I take a peek?
+{43820}{43898}Oh, um...|It's not really...
+{43899}{43932}Show me.
+{43932}{43959}Oh.
+{43992}{44060}Well, I exaggerated|the angle of the head.
+{44061}{44114}You draw beautifully.
+{44115}{44156}What's your going rate?
+{44156}{44182}What?
+{44183}{44228}To do a portrait.
+{44229}{44274}How much would you charge?
+{44275}{44298}Oh, I...
+{44299}{44322}[Insect buzzing]
+{44323}{44406}I couldn't.|I'm not really a...
+{44407}{44493}Fifty francs?|Sound reasonable?
+{44494}{44531}It'd be great.
+{44532}{44555}[Vianne chuckles]
+{44556}{44612}When could you come by my shop?
+{44639}{44665}Oh.
+{44666}{44737}I'm--I'm really sorry, but...
+{44738}{44781}the comte forbids it.
+{44878}{44940}He spoke to Mama this morning...
+{44941}{44982}and a lot of others.
+{45059}{45089}Whatever you say.
+{45090}{45186}I wish I could. I really do.
+{45227}{45282}Thanks for showing me|your drawing.
+{45414}{45443}Wait.
+{45748}{45775}[Door slams]
+{45897}{45968}Am I breaking any laws?
+{45969}{46058}Tell me?|Am I hurting anyone?
+{46059}{46116}You're asking me my opinion?
+{46117}{46203}What exactly have you been|telling people about me?
+{46204}{46254}Only the truth, mademoiselle.
+{46255}{46315}Well...
+{46316}{46366}if you're expecting me...
+{46367}{46455}to just shrivel up|and blow away...
+{46456}{46508}you're going to be|highly disappointed.
+{46667}{46735}Let me try and put this|into perspective for you.
+{46736}{46793}REYNAUD:|The first Comte de Reynaud...
+{46794}{46898}expelled all the radical|Huguenots from this village.
+{46899}{47020}You and your truffles|present a far lesser challenge.
+{47052}{47120}REYNAUD: You'll be|out of business by Easter.
+{47121}{47168}I promise you that.
+{47526}{47553}Aah!
+{47586}{47618}Uhh!
+{47619}{47671}Aah! Aah!
+{47700}{47744}Uhh!
+{47745}{47793}[Baby crying]
+{47863}{47925}VIANNE: How long have you|been standing here?
+{47975}{48028}I forgot to pay you|for something the other day.
+{48029}{48060}I'm sorry.
+{48061}{48100}No, it was a gift.
+{48101}{48162}No. People talk.
+{48163}{48242}No, people would lie about me.
+{48280}{48329}I don't steal.
+{48330}{48404}Not on purpose. I--
+{48405}{48440}VIANNE: Yes, I know.
+{48472}{48526}It's nice to see you.
+{48527}{48598}Would you like to come in|for some chocolate?
+{48897}{48950}This is for you.
+{48951}{48982}How sweet of you.
+{48983}{49035}VIANNE: Thank you.
+{49127}{49165}Hmm, it's lovely.
+{49279}{49337}I heard you don't go to church.
+{49372}{49417}That's right.
+{49445}{49504}You won't last long here.
+{49540}{49593}JOSEPHINE: People talk.
+{49646}{49686}Oh, sorry.
+{49687}{49744}I'm behaving badly, aren't I?
+{49744}{49779}VIANNE: No, it's OK.
+{49780}{49816}JOSEPHINE:|You don't misbehave here.
+{49817}{49883}It's just not done,|did you know that?
+{49919}{49976}If you don't go to Confession...
+{49976}{50042}or if you don't|dig your flower beds...
+{50043}{50150}or if you don't pretend...
+{50151}{50235}that you want nothing|more in your life...
+{50236}{50292}than to serve your husband|three meals a day...
+{50293}{50361}and give him children|and vacuum under his ass...
+{50362}{50456}then--then you're crazy.
+{50609}{50716}You must think I'm stupid|to stay with him.
+{50774}{50850}No, I don't think you're stupid.
+{50851}{50951}Well, I am. I'm weak.
+{50952}{51008}I don't love my husband,|and I lie.
+{51059}{51155}Things could be different|for you, Josephine.
+{51156}{51226}Serge doesn't run the world.
+{51227}{51291}He might as well.
+{51292}{51342}VIANNE:|Is that what you believe?
+{51343}{51393}I know it.
+{51394}{51454}Oh.
+{51455}{51530}Then it must be true.
+{51531}{51567}My mistake.
+{51700}{51764}You make the most|wonderful chocolate.
+{51799}{51832}[Sips]
+{51926}{51972}Pantoufle wants|to hear the story...
+{51973}{52005}of grandmere and grandpere.
+{52006}{52040}Ohh!
+{52041}{52144}Don't say, "Not tonight."|You always say, "Not tonight."
+{52144}{52211}All right, all right.
+{52212}{52238}Oh.
+{52299}{52354}Your grandfather...
+{52355}{52426}George Rocher...
+{52427}{52538}was the young apothecary|of the town of Aulus-les-Bains.
+{52539}{52563}STORYTELLER:|It was Anouk's favorite story.
+{52564}{52588}STORYTELLER:|It was Anouk's favorite story.
+{52589}{52666}Always told in the same words.
+{52667}{52747}George was honest,|prosperous...
+{52748}{52823}and trusted by his customers.
+{52824}{52890}But George was not content.
+{52891}{52938}He felt there|should be more to life...
+{52939}{52993}than dispensing liver oil.
+{53039}{53107}In the spring of 1927...
+{53108}{53153}the Societe Pharmeceutique...
+{53154}{53220}formed an expedition|to Central America...
+{53221}{53273}to study|the medicinal properties...
+{53274}{53336}of certain natural compounds.
+{53383}{53475}George was the expedition's|most eager volunteer.
+{53539}{53623}But his adventure|took a turn he did not expect.
+{53700}{53797}One night, he was invited|to drink unrefined cacao...
+{53798}{53837}with a pinch of chili.
+{53838}{53939}The very same drink|the ancient Maya...
+{53940}{53999}used in their sacred|ceremonies.
+{54049}{54117}The Maya believed|cacao held the power...
+{54118}{54178}to unlock hidden yearnings...
+{54232}{54298}and reveal destinies.
+{54364}{54471}And so it was|that George first saw Chitza.
+{54590}{54661}Now, George had been raised|a good Catholic...
+{54662}{54750}but in his romance|with Chitza...
+{54751}{54804}he was willing|to slightly bend the rules...
+{54805}{54854}of Christian courtship.
+{54896}{54978}The tribal elders|tried to warn George about her.
+{54980}{55039}She was one of the wanderers.
+{55040}{55107}Her people moved|with the North Wind...
+{55108}{55146}from village to village...
+{55147}{55212}dispensing ancient remedies...
+{55213}{55271}never settling down.
+{55272}{55331}Not a good choice for a bride.
+{55359}{55429}George did not|heed their warning...
+{55430}{55488}and for a while,|it seemed that he and Chitza...
+{55489}{55550}might lead a happy life|together in France.
+{55551}{55616}[Wind blowing]
+{55617}{55726}Alas, the clever North Wind|had other plans.
+{55775}{55832}[Banging]
+{55916}{56002}One morning,|George awoke to discover...
+{56003}{56087}that Chitza|and the little girl Vianne...
+{56088}{56124}had gone away.
+{56205}{56242}Mother and daughter...
+{56244}{56319}were fated to wander|from village to village...
+{56320}{56416}dispensing|ancient cacao remedies...
+{56417}{56470}traveling with the wind.
+{56502}{56561}Just as Chitza's people|had done...
+{56562}{56589}for generations.
+{56590}{56644}VIANNE:|Just as Chitza's people...
+{56645}{56697}had done for generations.
+{56753}{56820}Will it just go on forever?
+{56954}{56990}Night, Mama.
+{57423}{57476}I appreciate your coming in,|Armande.
+{57477}{57582}What's so important|that I had to postpone my nap?
+{57583}{57640}I've got some chocolate cake.
+{57905}{57936}Grandmother.
+{57937}{58003}Grandmother...bonjour.
+{58063}{58104}May I...
+{58161}{58216}Would you like a cup of...?
+{58217}{58261}No, thank you.
+{58262}{58332}I'm just here to do a portrait.
+{58333}{58370}Mm-hmm.
+{58371}{58414}Whose?
+{58415}{58484}Yours, actually.
+{58485}{58544}VIANNE: Is the light OK|where she's sitting?
+{58647}{58744}I have something for you, boy.
+{58745}{58814}I've been carrying it around|since your last birthday.
+{58905}{58951}It's a book of poetry.
+{59031}{59083}Oh.
+{59084}{59113}Thank you.
+{59114}{59179}You don't like poetry?
+{59180}{59257}Oh, no. Of course I do.
+{59258}{59288}Yes.
+{59289}{59329}Neither do I.
+{59362}{59424}It's not that kind of poetry.
+{59506}{59585}And in a moment of weakness...
+{59586}{59634}I prayed to the Virgin Mother...
+{59635}{59705}to soothe Charly's soul|in his hour of suffering.
+{59706}{59825}You understand an animal|has no immortal soul.
+{59826}{59898}I understand, mon pere.
+{59899}{59959}Yet you flout God's law.
+{59961}{60031}GUILLAUME:|I'm weak and a sinner.
+{60032}{60073}PERE: What else?
+{60128}{60187}Impure thoughts.
+{60189}{60261}GUILLAUME: The woman|who runs the chocolaterie.
+{60262}{60293}Vianne Rocher?
+{60294}{60354}She suggested|I buy chocolate seashells...
+{60355}{60415}for the widow Audel.
+{60417}{60483}And, well...
+{60484}{60555}I guess that got me to thinking|about the widow Audel.
+{60557}{60650}At her age? At your age?
+{60651}{60742}Yes. And yes.
+{60743}{60852}And just what were you doing|in a chocolaterie during Lent?
+{60853}{60926}It was for Charly.
+{60927}{61002}Again you flout God's law.
+{61057}{61168}Well, but if Charly|has no soul...
+{61169}{61251}then there's no harm|in him breaking Lent.
+{61252}{61310}GUILLAUME:|Isn't that so, mon pere?
+{61363}{61423}Ten Hail Marys,|twenty Our Fathers.
+{61460}{61522}"Will she never have done,|then...
+{61523}{61634}"that ghoul queen of|a million dead bodies?
+{61635}{61698}"I see myself again...
+{61699}{61775}"skin rotten|with mud and pest...
+{61776}{61904}"worms in my armpits|and in my hair."
+{61905}{61961}It's perfectly wretched,|isn't it?
+{61962}{62002}Perfectly.
+{62066}{62145}VIANNE:|Would you like some cake?
+{62146}{62207}Ahem. I'm not supposed to.
+{62208}{62294}Don't worry so much|about not supposed to.
+{62471}{62507}ARMANDE: Hmm?
+{62508}{62548}Live a little.
+{62617}{62676}Oh, her hair appointment's|almost done.
+{62721}{62752}I have to go.
+{62753}{62830}-What about my picture?|-Next time.
+{62879}{62925}LUC: Thank you for the cake.
+{63000}{63065}Don't look so damn pleased|with yourself.
+{63128}{63183}[Knock on door]
+{63279}{63325}Stay here.
+{63326}{63419}[Pounding on door]
+{63420}{63468}[Pounding louder]
+{63506}{63588}JOSEPHINE: I did it.|[Laughs]
+{63589}{63659}I did it. He...
+{63660}{63707}He was so drunk.
+{63708}{63809}[Giggles]|He woke up.
+{63810}{63883}He woke up.|He saw me packing, but...
+{63884}{63918}So he tried to come after me...
+{63919}{64009}but I had already tied his feet|with his belt, and...
+{64010}{64050}Ha ha ha ha ha.
+{64117}{64181}Boom! Right on his face.
+{64182}{64217}[Laughing]
+{64217}{64323}Right there|on his big, red face.
+{64324}{64359}VIANNE: Mmm.
+{64447}{64498}VIANNE: Oh.
+{64499}{64551}Tsk. Ohh.
+{64552}{64647}It is so stupid, isn't it?
+{64649}{64723}I never blame him.
+{64724}{64838}Sometimes I even forget|what really happened.
+{64917}{64960}VIANNE: Now, now, now.
+{64961}{65008}[Crying]
+{65054}{65092}VIANNE: Shh.
+{65138}{65176}I saved her!
+{65177}{65252}You remember her father|collaborated with the Germans?
+{65253}{65347}Nobody wanted to touch her.|Except for me.
+{65348}{65393}And this is the way|she repays me?!
+{65394}{65427}Your anger is understandable.
+{65428}{65479}Anger?|Everybody's laughing at me!
+{65480}{65538}REYNAUD:|That is not your concern.
+{65539}{65595}Your concern is|the sacrament of marriage.
+{65623}{65697}SERGE: Yeah, of course.|The sacrament.
+{65698}{65762}VIANNE: Dip the ganshbe|into the white chocolate.
+{65794}{65833}Like this?
+{65834}{65908}Good.|Yes, shake it, a little.
+{65909}{65933}Good.
+{65934}{65990}Put it on the parchment sheet.
+{65991}{66044}You're doing great.
+{66045}{66077}[Door opens]
+{66078}{66152}Oh. I'll be right back.
+{66329}{66386}Oh. Good morning.
+{66387}{66476}Can I interest you|in some Nipples of Venus?
+{66477}{66543}Rumor has it that you are|harboring Madame Muscat.
+{66544}{66595}REYNAUD: Is that true?
+{66596}{66638}You make her sound|like a fugitive.
+{66639}{66698}She is a fugitive,|from her marriage vows...
+{66699}{66757}which have been|sanctified by God.
+{66797}{66834}Josephine?
+{66835}{66895}VIANNE:|Come out here a minute.
+{66970}{67037}Let His Radiance|have a look at you, hmm?
+{67166}{67232}VIANNE: Is that sanctified|enough for you?
+{67233}{67260}It's not the first time.
+{67261}{67305}I'm truly sorry.
+{67353}{67412}REYNAUD:|You should have come to me.
+{67413}{67498}Your husband will be made|to repent for this.
+{67499}{67601}Tell him to repent|on someone else's head.
+{67604}{67639}REYNAUD: Come on. In!
+{67639}{67674}SERGE: Monsieur le Comte!
+{67675}{67728}I'm going to make|an example of you.
+{67729}{67818}In there. He's ready.
+{67819}{67874}Well, but confession|must be made...
+{67875}{67925}in the spirit of contrition.
+{67926}{67985}Have you come|in the spirit of contrition?
+{67986}{68018}Contrition, yes.
+{68019}{68061}He's ready.
+{68062}{68098}[Sighs]
+{68134}{68228}BAPTISTE: Licentiousness,|idolatry, sorcery...
+{68229}{68277}gluttony, and drunkenness.
+{68278}{68337}Correct.
+{68338}{68426}And what are the three|conditions for mortal sin?
+{68427}{68482}Serge?
+{68483}{68524}Mortal sin...
+{68572}{68664}is sin whose object is...
+{68694}{68738}committed by...
+{68739}{68827}deliberate...consequence.
+{68828}{68880}Incorrect. Didi?
+{68881}{68977}Mortal sin is sin|whose object is grave matter...
+{68978}{69037}which is committed|with full knowledge...
+{69038}{69079}and deliberate consent.
+{69080}{69104}PERE: Correct.
+{69105}{69135}Gah!
+{69356}{69391}VIANNE:|So, how do you know...
+{69392}{69441}if the coverture|is properly tempered?
+{69442}{69577}JOSEPHINE: You check to see|if it's at body temperature.
+{69578}{69636}Then you dip|the palette knife...
+{69637}{69698}to see that the coverture|hardens on it evenly.
+{69699}{69724}Correct.
+{69758}{69787}Closer.
+{69860}{69897}Aah.
+{69898}{69965}STORYTELLER:|In the village, time passed.
+{70090}{70177}And the chocolaterie|did not go out of business.
+{70354}{70382}[Drops package]
+{70536}{70562}[Charly yelps]
+{70628}{70674}STORYTELLER:|The Comte de Reynaud...
+{70675}{70756}felt himself being drawn|into a strange crusade.
+{70836}{70929}His struggle to transform Serge|into a gentleman...
+{70930}{71022}became more|than an act of good will.
+{71023}{71085}It became a test...
+{71086}{71176}a holy war between chateau...
+{71177}{71232}and chocolaterie.
+{71726}{71778}[Charly howls]
+{71779}{71816}LUC: Each time, I...
+{71817}{71886}I tell myself|it's the last time.
+{71887}{71937}But then I...
+{71938}{72008}I get a whiff|of a hot chocolate.
+{72009}{72075}Or those moon things.
+{72076}{72107}AUDEL: Chocolate seashells.
+{72108}{72200}So small, so plain, so innocent.
+{72201}{72257}I thought,|just one little taste...
+{72258}{72305}it can't do any harm.
+{72306}{72347}But it turned out|that they were filled...
+{72348}{72406}with rich, sinful...
+{72407}{72433}YVETTE: Buttery filling...
+{72434}{72491}and it melts,|God forgive me...
+{72492}{72557}it melts ever-so-slowly|on your tongue...
+{72558}{72610}and tortures you with pleasure.
+{72611}{72671}PERE: Against You alone,|have I sinned...
+{72672}{72733}and done what is evil|in Your sight.
+{72734}{72780}[Plastic crinkling]
+{72781}{72827}[Crinkling stops]
+{72828}{72880}Indeed I was born guilty...
+{72881}{72967}a sinner when my mother|conceived me.
+{72968}{73013}You desire truth|in the inward being...
+{73014}{73098}therefore teach me wisdom|in my secret heart.
+{73099}{73126}[Swallows]
+{73183}{73230}STORYTELLER:|Now, the comte was no fool.
+{73230}{73301}Though he hoped|to redeem Serge...
+{73302}{73350}he knew that|this redemption alone...
+{73351}{73382}would not be enough...
+{73383}{73439}to regain control|over the village.
+{73440}{73512}He understood|that some larger lesson...
+{73513}{73552}needed to be taught.
+{73666}{73710}Some greater problem...
+{73710}{73812}needed to be identified|and solved.
+{73870}{73962}Little did the comte suspect|that his greater problem...
+{73962}{74019}would arrive|one quiet afternoon...
+{74020}{74089}in the dull green waters|of the river Tannes.
+{74090}{74144}[Children playing]
+{74185}{74219}You're it!
+{74260}{74288}You're it!
+{74289}{74325}Hey, look!
+{74437}{74476}BOY: I'm over here!
+{74709}{74772}VIANNE: You've never really|told me what the problem is...
+{74773}{74816}between you and Caroline.
+{74817}{74872}'Cause it's none of|your damn business.
+{74902}{74951}[Armande sighs]
+{74952}{75003}ARMANDE:|I'm an embarrassment to her.
+{75054}{75173}I swear, I read dirty books.
+{75174}{75239}I eat and drink what I like.
+{75279}{75320}And sin of sins...
+{75321}{75405}I refuse to go to Les Mimosas.
+{75406}{75515}JOSEPHINE: When I was a kid,|we called it Le Mortoir.
+{75516}{75610}It's a nursing home for old...
+{75610}{75654}It's in Toulouse.
+{75654}{75690}Mmm.
+{75690}{75746}ARMANDE: Caroline loves|the thought of a nurse...
+{75747}{75833}with a clipboard|recording my bowel movements.
+{75834}{75888}ANOUK:|Mama, Mama, come quick!
+{75889}{75941}They're here!|They've come to Lansquenet!
+{75942}{76021}-Slow down, Anouk. Who's here?|-Pirates!
+{76022}{76045}Come on!
+{76046}{76098}-Why can't we stay?|-Come on!
+{76099}{76158}BOY: But why can't we stay?
+{76158}{76182}OK, enough.
+{76182}{76260}BOY: But, Mama,|just a little bit.
+{76261}{76311}MAMA: Come on.
+{76312}{76369}VIANNE: Hello. How are you?
+{76409}{76454}ANOUK:|Anybody got a sweet tooth?
+{76454}{76501}[Guitar playing]
+{76750}{76797}[Guitar continues playing]
+{76926}{76974}I bet he's the captain.
+{77054}{77104}VIANNE: Anouk, don't do that.
+{77105}{77169}Anouk, don't do that, please.
+{77170}{77227}-How do you do?|-Sorry.
+{77228}{77269}ROUX: I'd like to apologize.
+{77270}{77344}For all of us. Sincerely.
+{77345}{77377}What for?
+{77378}{77459}ROUX: For whatever it is|you're here to accuse us of.
+{77460}{77504}Why would I do that?
+{77505}{77617}Well, because we river rats|are the dregs of society.
+{77618}{77674}With horrible diseases|and criminal impulses.
+{77674}{77746}[Chuckles]|Sounds terrifying.
+{77746}{77785}Is it true?
+{77786}{77872}It's what you townspeople|always seem to think, isn't it?
+{77873}{77938}This is not my town.|Sorry.
+{77939}{77969}ROUX: Well, then,|what do you want?
+{77969}{77999}ROUX: Well, then,|what do you want?
+{78000}{78040}Are you here to save us?
+{78041}{78095}Are you|the Catholic Aid Society?
+{78096}{78153}French Family League?|Communist Workers?
+{78154}{78190}Which idea are you selling?
+{78192}{78227}Chocolate.
+{78228}{78269}I'm sorry, chocolate?
+{78270}{78315}ANOUK: What's a river rat?
+{78316}{78361}Is it like a pirate?
+{78362}{78387}[Vianne chuckles]
+{78388}{78422}Yeah, you could say that.
+{78423}{78470}You could.
+{78471}{78531}Have a look|at my treasure chest.
+{78532}{78586}VIANNE: Oh.
+{78587}{78636}Let me guess, they're for sale.
+{78637}{78672}ROUX: As a matter of fact,|they are.
+{78673}{78734}For a mere thirty francs apiece.
+{78735}{78789}You laugh? I can get fifty|for them in Paris.
+{78790}{78855}Then go to Paris.
+{79052}{79087}We'll take two, please.
+{79088}{79111}You'll take two?
+{79112}{79149}Yes, please, absolutely.
+{79150}{79211}ROUX: OK.
+{79212}{79277}VIANNE: I don't know|if I have the right change.
+{79278}{79301}Just a minute.
+{79302}{79345}They're beautiful.
+{79346}{79404}ROUX: Ireland's finest.
+{79405}{79432}Thanks.
+{79433}{79482}Thank you. Listen...
+{79484}{79535}I should probably warn you.
+{79536}{79627}You make friends with us,|you'll make enemies of others.
+{79628}{79674}That a promise?
+{79748}{79794}It's a guarantee.
+{80006}{80054}[Laughing]
+{80096}{80151}ALPHONSE: What's he up to?
+{80152}{80224}JEAN-MARC:|Maybe he's joining the circus.
+{80294}{80350}[Door rattles]
+{80351}{80395}Sorry, we're closed!
+{80731}{80802}Josephine, you look different.
+{80804}{80867}So do you.
+{80928}{81009}I just want to tell you|that I am so sorry.
+{81010}{81075}SERGE: For everything.
+{81076}{81123}But I've changed.
+{81124}{81204}You see,|God has made me a new man.
+{81254}{81335}I ask you, I beg you...
+{81336}{81396}please accept my apology.
+{81676}{81711}I accept.
+{81785}{81887}I promise, from now on,|everything will be different.
+{81939}{81998}Everything already|is different, Serge.
+{82000}{82035}[Chuckles]
+{82036}{82095}Well, I mean,|when you come home.
+{82096}{82135}Home?
+{82200}{82301}Thanks for the apology.|The flowers are lovely.
+{82302}{82352}No, please don't, Josephine.
+{82353}{82419}We are still married|in the eyes of God.
+{82420}{82482}Then he must be blind.
+{82540}{82583}[Locks door]
+{82639}{82708}JEAN-MARC: The council|has no legal authority...
+{82709}{82747}to force them to move.
+{82748}{82815}The riverbank is public land.
+{82816}{82867}[Grumbling]
+{82906}{82982}The mayor wishes|to say a few words.
+{82983}{83014}REYNAUD: If I may...
+{83015}{83062}ladies and gentlemen|of the council.
+{83099}{83205}These people are|rootless, godless drifters.
+{83206}{83250}MAN: That's right!
+{83251}{83298}REYNAUD: Theirs is the way|of slovenly pleasure.
+{83299}{83332}MAN: Yes.
+{83333}{83432}They would contaminate|the spirit of our quiet town.
+{83433}{83511}REYNAUD:|The innocence of our children.
+{83512}{83577}Now, the chairman of the council|is quite right.
+{83578}{83655}We cannot force them to leave.
+{83656}{83691}MAN: Why not?
+{83692}{83766}But we can help them|to understand...
+{83767}{83814}that they are not welcome.
+{83816}{83874}[Muttering]
+{83915}{83974}[Glass shatters]
+{84001}{84036}Josephine?
+{84105}{84201}Josephine, you think|you can just walk out on me?
+{84202}{84248}SERGE: You stupid woman!
+{84249}{84332}Worthless cow!|You're nothing without me.
+{84333}{84393}You can't even use a skillet!
+{84426}{84512}Can't even put|a goddamn meal on the table.
+{84513}{84552}He's inside.
+{84553}{84614}JOSEPHINE:|He's here. Oh, God.
+{84615}{84652}SERGE:|I need to talk to you.
+{84687}{84736}Please open the door.|I know--
+{84737}{84795}-Mama!|-Come help me!
+{84796}{84854}SERGE: Open the door.
+{84855}{84942}Open the door.|I just want to talk to you.
+{84943}{84988}VIANNE:|Go sleep it off, Serge!
+{84989}{85048}SERGE: Ah, you shut up,|you bitch!
+{85049}{85120}You've caused enough|trouble already!
+{85121}{85144}You--
+{85145}{85183}[Pounding on door]
+{85184}{85209}Unh!
+{85210}{85233}SERGE: Open this door!
+{85234}{85263}Mama!
+{85264}{85323}Aah! Aah!
+{85324}{85347}JOSEPHINE: Oh, my God!
+{85348}{85395}[Shouting]
+{85396}{85441}Stay away from me.
+{85482}{85520}Aah!
+{85521}{85593}-Come here now!|-Aah!
+{85594}{85632}SERGE: Aah!
+{85633}{85686}Why, you meddling bitch!
+{85824}{85856}You--
+{85880}{85928}[Choking]
+{85983}{86015}Ahh!
+{86016}{86083}VIANNE: Aah! Aah!
+{86084}{86128}Aah! Aah!
+{86177}{86239}Who says I can't use a skillet?
+{86240}{86270}[Drops skillet]
+{86271}{86319}[Laughs]
+{86359}{86411}[Bell tolling]
+{86481}{86509}Bonjour, monsieur.
+{86510}{86550}Bonjour, monsieur.
+{86715}{86760}Bonjour.
+{86834}{86881}Wonderful.
+{86882}{86909}Come on.
+{86910}{86987}Up. Come on. Up.
+{86988}{87014}[Groans]
+{87015}{87061}Come on.
+{87062}{87100}[Laughter]
+{87101}{87170}His skull can't be|as thick as we thought.
+{87171}{87215}[All laugh]
+{87216}{87300}VIANNE:|It was like swatting a fly.
+{87398}{87487}Ohh. The worst is over.
+{87488}{87537}He found out|what you're made of.
+{87538}{87586}[Laughs] So did I.
+{87663}{87715}-Hi.|-Hey.
+{87716}{87742}Mmm!
+{87777}{87809}How long have we got?
+{87810}{87855}She's at the hairdresser|for an hour.
+{87856}{87885}[Gasps]
+{87886}{87931}Fuffi?
+{87932}{87965}CAROLINE: Fuffi.
+{87966}{88001}I'm so sorry, but I have|to break the appointment.
+{88002}{88038}FRANÇOISE: Is something wrong?
+{88039}{88075}CAROLINE: No. I volunteered|to distribute these.
+{88076}{88149}I promised the comte I'd have|them out by the end of the day.
+{88150}{88197}FRANÇOISE: Count me in.
+{88198}{88267}Not that I expect any of them|to stop by for a hairstyle.
+{88268}{88296}CAROLINE: It's not just that.
+{88297}{88329}The comte feels|we must stand firm.
+{88329}{88382}We cannot trust these people.
+{88383}{88438}Before you know it,|they'll be doing jobs for food.
+{88439}{88464}They'll be begging|at our doors.
+{88465}{88510}FRANÇOISE: Not at this door.
+{88511}{88572}CAROLINE: Good, Fuffi, good.
+{88573}{88596}[Exhales]
+{88597}{88666}ARMANDE: Rub, rub.|Rub harder. Rub.
+{88667}{88698}[Exhales]
+{88699}{88744}ARMANDE: Rub. Rub.
+{88781}{88813}[Luc exhales]
+{88814}{88906}ARMANDE: Rub it. Hard.|Keep your head still.
+{88938}{89001}-Aha!|-Bravo!
+{89002}{89030}[Laughter]
+{89066}{89105}[Vianne and Josephine|stop clapping]
+{89214}{89258}Hello, Caroline.
+{89395}{89445}ARMANDE: If you want to|blame someone, blame me--
+{89446}{89497}corrupting him with cocoa.
+{89498}{89549}Oh, how dare you, Mother.
+{89550}{89615}He's happy. He's fine.|Look at him.
+{89616}{89642}Mama, I--
+{89643}{89694}Well, what about you, Mother?
+{89695}{89745}CAROLINE: Are you fine?
+{89802}{89864}I bet she has conveniently|forgotten to tell you.
+{89865}{89888}ARMANDE: Carol.
+{89889}{89921}Why don't you show them,|Mother?
+{89922}{89988}Are you afraid to?|Why don't you show?
+{90163}{90197}CAROLINE: Insulin shots.
+{90198}{90251}She has diabetes--|very advanced.
+{90252}{90301}CAROLINE: She could be blind|within a year.
+{90302}{90353}Yeah. Couldn't you|call me a drug addict?
+{90354}{90404}It sounds a lot more glamorous.
+{90405}{90482}And you--|you sit here feeding her sweets.
+{90513}{90555}ARMANDE:|There are worse ways to die.
+{90556}{90603}CAROLINE: Why don't you|just give her rat poison?
+{90604}{90634}It would be faster.
+{90635}{90687}ARMANDE:|Carol has a flair for drama.
+{90688}{90768}She needs to be in a place|where she can be taken care of.
+{90769}{90828}Le Mortoir?
+{90829}{90877}I'd rather be in Hell.
+{90878}{90923}Ah.
+{90924}{90993}You may get there, Mother.
+{90994}{91026}Luc, come with me.
+{91027}{91058}I don't want to.
+{91059}{91131}He's happy here.|It's good for him.
+{91132}{91244}I will decide what is good|for my son, Madame Muscat.
+{91476}{91529}[Clink clink]|Give me another.
+{91530}{91579}It's my life.|Let me enjoy what's left of it.
+{91580}{91607}Fill 'er up.
+{91608}{91672}Armande, why didn't you tell me?
+{91673}{91781}Is this a chocolaterie,|or is it a confessional?
+{91861}{91920}Don't you dare pity me.
+{92349}{92396}[People chattering]
+{92548}{92596}SERGE: Sorry, we're closed.
+{92626}{92677}She just wants a soda water.
+{92729}{92777}I don't serve animals.
+{92807}{92856}[Serge lights match]
+{92880}{92928}[Serge douses match]
+{92948}{92984}Right.
+{93149}{93196}[Humming]
+{93413}{93461}-Hello.|-Hi.
+{93461}{93500}I just made a fresh|batch of monduon.
+{93501}{93549}Anybody interested?
+{93550}{93589}My tummy hurts.
+{93590}{93614}VIANNE: Oh.
+{93615}{93664}I've got just the thing|for that. Come in.
+{93665}{93729}ROUX: What about boycotting|immorality, then?
+{93730}{93756}[Laughs]
+{93757}{93798}Come in.
+{93918}{93953}VIANNE: An old remedy.
+{93982}{94014}From the cocoa tree.
+{94015}{94052}GATI: Tastes strange.
+{94053}{94102}Mmm. Maybe your daddy|would like a taste.
+{94105}{94174}He's not my daddy.|He's my pony.
+{94214}{94269}ANOUK: Here. It's a lot|better than those leaves.
+{94336}{94365}Tastes good.
+{94366}{94400}Come on.
+{94401}{94458}ANOUK:|Pantoufle wants to meet you.
+{94458}{94514}ANOUK: He's my kangaroo.
+{94642}{94710}Go ahead. It's your favorite.
+{94783}{94829}What makes you so sure?
+{94830}{94878}Go on. Taste it.
+{94990}{95029}Hmm.
+{95030}{95058}That's fantastic.
+{95059}{95123}Oh, thanks.|I have a knack for guessing.
+{95124}{95185}It's good--|not my favorite.
+{95186}{95222}Sorry?
+{95222}{95258}[Gati and Anouk laughing]
+{95331}{95357}All right.
+{95358}{95405}Thanks very much.
+{95557}{95607}You know, I could fix that,|if you like.
+{95608}{95655}Not with glass, but...
+{95656}{95695}I can make you a nice|strong one out of wood.
+{95696}{95741}VIANNE: That's nice of you...
+{95742}{95802}but I insist on paying you|for your work.
+{95803}{95873}That makes two of us, then.
+{95914}{95950}ROUX: Bye.
+{95979}{96015}Thanks again.
+{96131}{96180}REYNAUD:|She's laughing at us.
+{96207}{96294}Now she's got one of those|river people working for her.
+{96295}{96356}PERE: Is that a problem?|Christ teaches us--
+{96357}{96405}Look at this.
+{96406}{96475}She's soliciting for stalls|and street performers...
+{96476}{96556}for a fertility celebration|on Easter Sunday.
+{96557}{96602}She's cackling at us.
+{96603}{96654}When are you going to do|something about it?
+{96655}{96683}Oh, there.
+{96753}{96812}ROUX: What part of Australia|is Pantoufle from?
+{96813}{96873}ANOUK: A small town|outside of Sydney.
+{96907}{96952}ROUX: What does he eat?
+{96953}{97016}ANOUK: Leaves, bugs...
+{97016}{97071}and worms, of course.
+{97071}{97126}What about chocolate?
+{97127}{97182}Kangaroos don't eat chocolate.
+{97183}{97228}Has he ever tried it?
+{97262}{97355}ANOUK: [Whispering]|Have you ever tried chocolate?
+{97356}{97417}He's not interested.
+{97418}{97499}ROUX: Not interested?|Mr. Pantoufle, you surprise me.
+{97500}{97535}A world traveler|such as yourself...
+{97536}{97573}not interested in new flavors?
+{97574}{97610}You should be ashamed.
+{97610}{97669}I have a very nice|truffle here...
+{97670}{97721}JOSEPHINE:|if he wants to try it.
+{97722}{97769}You're wasting your time.
+{97770}{97814}Oh, I'm sorry.
+{97814}{97853}[Roux hammers door]
+{97854}{97893}How do you know|you don't like chocolate...
+{97894}{97930}ROUX:|if you refuse to try it?
+{97931}{97994}Do you like worms?
+{97995}{98033}What?
+{98034}{98078}How do you know|if you've never tasted one?
+{98079}{98121}Ha ha!
+{98198}{98245}Ah.
+{98466}{98513}[Vianne and Josephine laugh]
+{98554}{98586}Ew.
+{98621}{98657}Subtle.
+{98694}{98717}Zesty.
+{98718}{98765}[Vianne laughs]
+{98798}{98821}Disgusting.
+{98822}{98870}[All laugh]
+{98997}{99044}Go on, my little friend.
+{99045}{99073}ROUX: Be free.
+{99074}{99114}You tricked me.
+{99143}{99173}PERE: Satan...
+{99174}{99216}wears many guises.
+{99262}{99337}At times, Satan is|the singer of a lurid song...
+{99338}{99390}PERE: you hear on the radio.
+{99391}{99506}At times, the author|of a salacious novel.
+{99506}{99593}At times, the quiet man|lurking in the schoolyard...
+{99594}{99709}asking your children|if he might join their game.
+{99710}{99812}And at times,|the maker of sweet things--
+{99813}{99871}mere trifles.
+{99872}{99921}For what could seem|more harmless...
+{99922}{99960}more innocent...
+{99985}{100021}than chocolate?
+{100102}{100125}[Sighs]
+{100126}{100185}A bit of a squeak.
+{100186}{100234}[Charly barks]
+{100258}{100322}Hey, Guillaume!
+{100323}{100401}I've got something new|Charly's going to love.
+{100402}{100449}[Laughs]
+{100485}{100508}[Whimpers]
+{100509}{100533}Come on, Charly. Come on.
+{100570}{100605}It's me. I should go.
+{100606}{100636}No, it's not you. It's--
+{100637}{100661}ANOUK: Uhh!
+{100703}{100733}VIANNE: Where have you been?
+{100734}{100767}I was worried.
+{100768}{100807}Hey! I'm talking to you.
+{100808}{100878}ANOUK: It's just like|all the other towns.
+{100955}{100981}Anouk.
+{100982}{101029}Anouk.
+{101030}{101068}VIANNE:|Just tell me what happened.
+{101069}{101112}Are you Satan's helper?
+{101158}{101262}[Sighs] Well, it's not|easy being different.
+{101263}{101352}ANOUK:|Why can't we go to church?
+{101353}{101453}Well, you can if you want,|but it won't make things easier.
+{101454}{101542}Why can't you wear black shoes|like the other mothers?
+{101654}{101752}He's a fine piece of work,|our little nobleman.
+{101753}{101808}No wonder his wife|goes gallivanting off.
+{101809}{101857}She's been in Italy for months.|Did you know that?
+{101886}{101927}Armande...
+{101928}{101982}the whole town's against me.
+{101982}{102062}[Sighs] What can I do?
+{102063}{102102}Throw me a party.
+{102103}{102166}VIANNE: Ha ha ha! What?
+{102167}{102232}ARMANDE: Wednesday's my 70th.
+{102233}{102328}Let's show the bastards|we're ready to go down dancing.
+{102329}{102369}[Both laugh]
+{102434}{102469}But a party?
+{102537}{102578}You're not well.|You have to face it.
+{102578}{102662}OK, OK, OK...
+{102663}{102733}But you do this for me,|and I promise...
+{102734}{102776}I'll check into Le Mortoir|the very next morning...
+{102777}{102835}without a care in the world.
+{102920}{102960}[Sighs]
+{102961}{103033}If I threw a party in this town,|no one would come.
+{103078}{103139}They don't need to know|who's throwing it.
+{103170}{103201}Armande, listen, I--
+{103202}{103261}No, no, no.|You listen.
+{103314}{103349}I need this.
+{103374}{103409}ARMANDE: Huh?
+{103502}{103559}When I need help, I ask for it.
+{103914}{103961}[Guitar music playing]
+{104051}{104123}WOMAN: Boys,|bring me some more wood.
+{104371}{104417}VIANNE: My mother|used to sing that song...
+{104418}{104483}when I couldn't sleep.
+{104484}{104525}And did it help?
+{104526}{104586}[Playing guitar]
+{104587}{104661}I still didn't sleep,|but, yes, it helped.
+{104758}{104805}How's the door?
+{104806}{104849}It squeaks.
+{104850}{104901}-Does it?|-Ha ha!
+{104902}{104955}How's Anouk? Is she well?
+{104956}{104998}Oh, she's better. She's fine.
+{104999}{105047}ROUX: Good. How are you?
+{105088}{105137}I'm throwing a party...
+{105164}{105199}If anyone shows up.
+{105200}{105236}Thanks.
+{105271}{105321}Who's invited?
+{105322}{105370}A bunch of townspeople.
+{105404}{105457}Tell me something.|Why do you give a damn about...
+{105458}{105506}what these narrow-minded|villagers think?
+{105536}{105616}You're not scared of them,|are you?
+{105617}{105691}Coming to the party or not?
+{105722}{105766}I can't.
+{105767}{105819}ROUX: There's a boycott|against immorality...
+{105820}{105869}and I must respect that.
+{105870}{105918}That is a problem.
+{105919}{106020}Then, I'll leave you with|this test of your convictions.
+{106021}{106044}What is that?
+{106045}{106102}Your favorite.
+{106102}{106183}My favorite?|Is that right?
+{106184}{106230}-Thank you.|-You're welcome.
+{106435}{106477}I'm undone--
+{106478}{106527}but not my favorite.
+{106572}{106608}Hmm.
+{106698}{106723}I'll come round sometime...
+{106724}{106786}get that squeak|out of your door.
+{108023}{108071}[Wind blowing]
+{108180}{108228}[Wind blowing]
+{108318}{108364}[Window bangs]
+{108601}{108653}[Music playing]
+{108654}{108708}A lot for you.
+{108737}{108780}You see? It's perfect.
+{108781}{108829}[People chattering]
+{109002}{109050}[Chattering stops]
+{109076}{109114}Bon appetit, everyone.
+{109115}{109142}GUESTS: Oh!
+{109374}{109410}Ahh.
+{109490}{109555}[Whispering]|If the comte finds out...
+{109556}{109619}ARMANDE: The comte isn't here.|He wasn't invited.
+{109652}{109688}ANOUK: Is Luc coming?
+{109770}{109831}I'm sure they have other plans.
+{109858}{109901}Luc?
+{109902}{109961}CAROLINE:|Why are you sleeping?
+{109962}{109988}Hmm?
+{110169}{110223}Are you not feeling well?
+{110645}{110682}Happy birthday, Grandmama.
+{110767}{110829}ARMANDE:|The invitation said 5:00.
+{110830}{110910}LUC: I should have read it|more closely.
+{110911}{110986}If you had, you'd know there|was supposed to be no gifts.
+{111034}{111098}Don't worry so much|about the "supposed to."
+{111172}{111206}LUC: Like it?
+{111427}{111492}You made me younger.
+{111493}{111528}Very diplomatic.
+{111884}{111919}Mmm.
+{112398}{112446}[Laughs]
+{112630}{112677}[Laughter]
+{112802}{112846}I have two announcements.
+{112847}{112888}GUESTS: Shh!
+{112889}{112945}Number one--if you like|what you tasted here...
+{112946}{113025}you're going to love|my chocolate festival on Sunday.
+{113026}{113094}Advertise on your own time.
+{113095}{113139}What's for dessert?
+{113140}{113205}That brings me to number two.
+{113206}{113263}It is my duty to announce...
+{113264}{113325}that there is no dessert|here tonight.
+{113326}{113351}GUESTS: Oh!
+{113352}{113391}WOMAN: No dessert?
+{113392}{113456}VIANNE:|Because it's on Roux's boat.
+{113510}{113589}Any complaints, see me.
+{113590}{113641}[Music playing]
+{113800}{113848}[People laughing]
+{114076}{114110}Ha ha ha!
+{115520}{115559}SERGE: Monsieur le Comte?
+{115560}{115591}Who's there?
+{115592}{115670}SERGE: I must speak to you.
+{115671}{115707}MAN: Whoo!
+{116030}{116104}You see, Monsieur le Comte?|You see?
+{116105}{116165}There's Josephine,|that stupid cow.
+{116248}{116308}Something must be done, Serge.
+{116346}{116393}Something must be done.
+{116759}{116806}["Caravan" playing]
+{117107}{117181}-You done yet?|-Almost.
+{117182}{117234}-Almost?|-Hmm?
+{117282}{117313}ROUX: Come on, leave it.|You're done.
+{117314}{117349}Come with me.
+{117393}{117429}Come on.
+{117514}{117569}I have chocolates everywhere.
+{117570}{117617}What? You're all right.
+{117758}{117810}Do you think everyone|had a good time?
+{117811}{117847}Shh.
+{118679}{118721}Mmm. Mmm.
+{119408}{119436}Ha ha ha ha!
+{119437}{119505}I'm tired.
+{119506}{119546}Vianne, Roux.
+{119608}{119657}Thanks.
+{119658}{119693}This was...
+{119743}{119780}Thank you.
+{119883}{119933}VIANNE: I'll take you home.
+{119935}{120002}Oh, for God's sake,|don't fuss.
+{120003}{120070}You'll ruin|a perfectly decadent evening.
+{120071}{120121}I'm not partial|to big, sloppy good-byes.
+{120122}{120168}Ohh.
+{120169}{120204}Armande.
+{120205}{120267}[Rubs back]
+{120268}{120298}Hmm.
+{120431}{120482}LUC: I'll take care|of the dishes.
+{120483}{120556}ARMANDE: I think I'll sleep|in my chair tonight.
+{121512}{121549}VIANNE: Do you like it?
+{121578}{121666}Taking your home with you|wherever you go?
+{121667}{121702}Yeah. Why not?
+{121735}{121770}Your way must be harder--
+{121771}{121901}each time having to make|a new home from scratch.
+{121902}{121981}Well, maybe this time|I'll get it right.
+{121982}{122020}What do you mean?
+{122020}{122058}Maybe I'll stay.
+{122111}{122148}VIANNE: What?
+{122301}{122417}Don't you ever think|about belonging somewhere?
+{122458}{122514}The price is too high.
+{122515}{122570}You end up caring what|people expect of you.
+{122571}{122600}No.
+{122601}{122649}Is that so terrible?
+{122679}{122749}Having people|expect something of you?
+{122851}{122893}How does Anouk feel about it?
+{122927}{122966}What?
+{122967}{123017}All the moving around.
+{123071}{123118}No, she's fine.
+{123119}{123165}She handles it beautifully.
+{123166}{123224}She makes friends easily.
+{123270}{123330}She has such an unusual...
+{123471}{123506}She hates it.
+{123569}{123605}She hates it.
+{124377}{124422}[Vianne moaning softly]
+{125543}{125589}[Laughing softly]
+{125940}{125981}Vianne.
+{125982}{126030}ROUX: Vianne, come on.
+{126068}{126117}Come on.
+{126218}{126262}[People shouting]
+{126531}{126578}MAN: Get 'em out of here!
+{126634}{126681}We need more! Hurry up!
+{126682}{126709}Anouk!
+{126811}{126850}CHILD: Mommy!
+{127019}{127053}CHILD: Aah!
+{127054}{127077}Anouk!
+{127078}{127128}[People shouting]
+{127407}{127439}No!
+{127484}{127526}Jesus!
+{127655}{127691}ROUX: Come back!
+{127724}{127770}VIANNE: Anouk!
+{127771}{127832}ROUX: Come back, Vianne!
+{127833}{127863}VIANNE: Aah!
+{127907}{127943}VIANNE: Anouk!
+{128035}{128086}-Stop!|-No!
+{128087}{128119}-No!|-Stop it!
+{128120}{128189}Stop it! Stop it!
+{128190}{128217}-Come back!|-No!
+{128218}{128257}[Explosion]
+{128258}{128306}[Crowd screams]
+{128379}{128423}[Coughing]
+{128577}{128613}No!
+{128639}{128674}Come on!
+{129141}{129189}[Both panting]
+{129253}{129301}[Crying]
+{129358}{129411}Why did you stop me?
+{129412}{129448}It was too late.
+{129489}{129530}[Sobs]
+{129531}{129566}ANOUK: [Faintly]Mom!
+{129670}{129730}There she is.
+{129731}{129768}Oh, my God, there she is!
+{129769}{129798}Mama!
+{129822}{129882}Anouska! I'm coming!
+{129883}{129925}Oh, my God.
+{130048}{130084}ANOUK: You're hurting me.
+{130316}{130364}VIANNE: Oh, my God.
+{130427}{130475}[Cat meows]
+{131122}{131195}[Vianne singing softly]
+{131291}{131339}[Knock on door]
+{131771}{131846}ROUX: I just wanted|to make sure that...
+{131847}{131884}Yes, we're OK.
+{131922}{131959}You?
+{132058}{132138}And I came to say...
+{132138}{132210}To say good-bye.|Yes, I know.
+{132355}{132391}What?
+{132419}{132455}Your boat.
+{132510}{132553}You've lost your home.
+{132587}{132642}No.
+{132643}{132706}Just a way to get|from place to place, really.
+{132780}{132826}So, how will you...
+{132826}{132872}I'll manage.
+{133075}{133123}[Sighs]
+{133147}{133183}Well...
+{133320}{133344}VIANNE: Well...
+{133426}{133473}Vianne...
+{133518}{133558}Listen, I...
+{133559}{133608}VIANNE: I know. I'm sorry.
+{133674}{133709}I'm sorry.
+{134038}{134173}Your papa used to ride this bike|every single morning.
+{134174}{134222}He would have wanted you|to have it.
+{134222}{134311}Just you promise me|you'll never run away again, OK?
+{134312}{134380}LUC: Mama, she...
+{134381}{134405}CAROLINE: What?
+{134437}{134491}What's wrong, Luc?
+{134608}{134640}PERE:|Though we cannot know...
+{134641}{134693}Armande Voizin's|last thoughts...
+{134720}{134809}we can hope they were|thoughts of penitence.
+{134844}{134871}We can hope she asked God...
+{134872}{134949}to forgive|the self-indulgence...
+{134950}{135028}that aggravated her illness|and caused her death...
+{135029}{135150}and we can pause|to reexamine our own lives.
+{135151}{135184}We can resist those...
+{135185}{135261}who would lead us|into temptation.
+{135543}{135611}PERE: Blessed is the one|who endures temptation...
+{135612}{135650}for when he has stood|the test...
+{135995}{136043}[Wind blowing]
+{136169}{136214}ANOUK: Mama...
+{136214}{136285}Can we go home now?
+{136822}{136871}Of course.
+{136872}{136909}Of course.
+{137007}{137055}Whatever you like, Mama.
+{137082}{137117}Vianne, did you want me...
+{137118}{137190}to start the ganache|for the festival?
+{137191}{137233}Vianne?
+{137233}{137274}Did you--
+{137322}{137378}What are you doing?
+{137378}{137458}VIANNE: Leaving.|First thing in the morning.
+{137784}{137828}Is it because of Armande?
+{137829}{137874}That was not your fault.
+{137906}{137962}It's time, that's all.
+{137963}{138005}This is who I am.
+{138222}{138277}Did you believe|anything you told me?
+{138320}{138373}JOSEPHINE: Did you believe|I could be better?
+{138398}{138451}Was it all a joke?
+{138686}{138727}I have to pack now.
+{138827}{138869}If you leave,|everything will go back...
+{138870}{138924}to the way it always was.
+{138924}{138978}It is the way it always was.
+{139042}{139085}Not for me.
+{139219}{139271}CAROLINE: I know how you feel.
+{139272}{139313}REYNAUD: Beg your pardon?
+{139354}{139446}I suppose it can't be easy...
+{139446}{139483}having her gone.
+{139562}{139637}Can't seem to get used to it,|no matter how much time.
+{139746}{139865}Ahem. But I...|look forward to her return.
+{139923}{140041}I don't believe anyone|would think less of you...
+{140086}{140157}CAROLINE: if you were to say|she was never coming back.
+{140242}{140281}Good night, Paul.
+{140584}{140608}[Panting]
+{140609}{140633}Caroline!
+{140677}{140704}I'm sorry.
+{140770}{140817}I need to talk to you.
+{140958}{140993}[Knock on door]
+{140994}{141029}Come in.
+{141062}{141094}Monsieur le Comte.
+{141128}{141164}It's all right.
+{141208}{141297}Sorry to bother you,|Monsieur le Comte.
+{141298}{141322}REYNAUD: All right.
+{141406}{141466}It was the right thing to do,|wasn't it?
+{141492}{141564}SERGE: Of course it was.|I know it was.
+{141565}{141641}It's everything with Josephine.
+{141642}{141689}REYNAUD: Serge...
+{141690}{141719}What are you talking about?
+{141720}{141749}SERGE: The fire,|Monsieur le Comte.
+{141750}{141798}I know it was|the right thing to do...
+{141798}{141929}but I can't get rid of|the faces and the screams.
+{141930}{141969}The fire...
+{142008}{142064}The fire was an act of God.
+{142098}{142154}It was me, Monsieur le Comte.
+{142202}{142258}[Sighs] What?
+{142259}{142378}You told me. Remember?
+{142379}{142462}SERGE: "Something|has to be done, Serge."
+{142525}{142568}You did, didn't you?
+{142765}{142831}People could have died.
+{142832}{142901}REYNAUD: You want|their blood on your hands?
+{142902}{142958}On--on my hands?
+{142986}{143069}Should I go to Pere Henri|and ask for forgiveness?
+{143114}{143153}Listen to me, Serge.
+{143187}{143231}Listen very carefully.
+{143269}{143333}REYNAUD: You must leave|this village at once...
+{143378}{143422}and never return.
+{143422}{143505}Why would I leave|my home and my cafe?
+{143506}{143553}Because I'm evicting you,|that's why!
+{143587}{143642}What you have done|puts you beyond anyone's help...
+{143643}{143698}beyond my help, anybody's help!
+{143699}{143743}Now get out!
+{143744}{143790}Unless you will tell the police|what you've done!
+{143790}{143848}REYNAUD:|Get out! Get out! Get out!
+{143927}{143970}Oh.
+{143971}{144016}Oh.
+{144039}{144094}[Wind howling]
+{144277}{144300}[Softly moans]
+{144301}{144343}VIANNE: Time to go.
+{144343}{144375}Hmm?
+{144400}{144439}Oh, no.
+{144440}{144463}I'm not going.
+{144464}{144502}Well, it's hard for me, too.
+{144503}{144533}Pantoufle hates this.
+{144534}{144557}VIANNE: Stop that.
+{144558}{144589}Please put it on.
+{144590}{144619}I hate you.
+{144643}{144733}You're entitled.|I said put it on.
+{144818}{144844}Ouch!
+{144845}{144873}Well, then, do it your self!
+{144874}{144897}I can't!
+{144898}{144944}Get up.
+{144945}{144994}I have a bad leg like Pantoufle.
+{144995}{145026}Stop that. Get up.
+{145027}{145097}ANOUK: Pantoufle can't walk.|I can't walk.
+{145098}{145129}Walk. Walk!
+{145130}{145153}You're hurting me.
+{145154}{145184}Well, stop being...
+{145315}{145345}[Grunts]
+{145346}{145387}Let me go!
+{145388}{145411}[Grunts]
+{145412}{145466}No!
+{145467}{145509}It's not fair!
+{145510}{145537}Stop it!
+{145564}{145591}I'm not going!
+{145592}{145626}It's--Stop it!
+{145706}{145730}[Vianne gasps]
+{146083}{146124}I'm sorry, Mama.
+{146148}{146180}ANOUK: I'm sorry.
+{146269}{146309}ANOUK: Don't worry, Mama.
+{146558}{146659}The next time will be better,|won't it, Mama?
+{146727}{146770}It will.
+{146771}{146811}ANOUK:|It will be wonderful.
+{146869}{146928}I'm ready to go now, OK?
+{147049}{147072}[Banging noises]
+{147073}{147105}[People talking]
+{147570}{147622}[People talking and laughing]
+{147678}{147726}[Indistinct conversation]
+{147775}{147813}LUC: Like this, Mama?
+{147814}{147851}CAROLINE: That's right.
+{147910}{147941}ALPHONSE: Is this right?
+{147942}{148021}No, no, you've got to cut|on the corners like this.
+{148022}{148056}So, just stop them.
+{148131}{148155}CAROLINE: Higher.
+{148515}{148562}How do you like these almonds?
+{148657}{148705}JOSEPHINE:|Are they chopped fine enough?
+{148871}{148911}Are they OK, Vianne?
+{149267}{149309}PERE: Christ is risen.
+{149310}{149402}My friends, let this Easter Day|be for us, too, a rebirth.
+{149403}{149429}Let us strive--
+{149430}{149488}REYNAUD:|No, no, no, no, no, no.
+{149489}{149536}No, don't bury|the word "rebirth."
+{149537}{149581}Let it ring out.
+{149582}{149647}Let this day be|for us, too, a rebirth!
+{149647}{149707}You see, we are extolling|our--our parishioners...
+{149708}{149773}to--to resurrect|their moral awareness.
+{149774}{149829}Hmm? OK, good, good.|T-try again.
+{149830}{149867}I think we've|gone over this enough.
+{149868}{149891}Let's call it a day.
+{149892}{149915}What?
+{149916}{149939}I'm very tired.
+{149940}{149966}Fine, fine.|Well, leave it with me.
+{149967}{149994}I may have one|or two suggestions.
+{149995}{150018}Thank you, Monsieur le Comte--
+{150019}{150050}Just a couple of suggestions.
+{150051}{150083}A revision here and there.
+{150083}{150190}We want it to be perfect|tomorrow, don't we?
+{150191}{150234}-Yes.|-Yes.
+{150355}{150466}We must resist the shallow,|worldly temptations...
+{150467}{150506}of our mortal--No, no.
+{150507}{150577}We must renounce shallow,|worldly temptations...
+{150578}{150609}of our mortal flesh.
+{150610}{150658}[Women talking]
+{150743}{150774}[Reynaud gasps]
+{150775}{150807}Caroline.
+{150943}{151013}All my efforts|have been for nothing.
+{151014}{151090}I've suffered willingly.
+{151091}{151135}I've fasted.
+{151135}{151192}I've hardly eaten for weeks now.
+{151193}{151223}I'm sorry.
+{151263}{151315}I'm sorry,|my suffering is nothing.
+{151316}{151413}It's just that I...|I feel so lost.
+{151414}{151462}I don't know what to do.
+{151513}{151561}Tell me what to do.
+{152571}{152595}[Grunts]
+{152666}{152698}Aaah!
+{153397}{153451}[Grunting]
+{153855}{153879}[Gasps]
+{154157}{154181}Huh.
+{154344}{154376}[Panting]
+{154587}{154627}[Grunting]
+{154819}{154879}Ha ha ha ha ha ha!
+{154880}{154928}[Laughing]
+{155054}{155086}[Laughing]
+{155087}{155110}Ohh!
+{155111}{155134}Unhh!
+{155135}{155182}[Laughing]
+{155493}{155539}[Sobbing]
+{155890}{155946}[Pere whistling]
+{156432}{156472}[Fizzing]
+{156560}{156592}VIANNE: Drink this.
+{156760}{156806}Drink this.
+{156806}{156839}It'll refresh you.
+{156840}{156869}I promise.
+{156893}{156926}Go ahead, drink.
+{157227}{157264}I'm so sorry.
+{157299}{157365}I won't tell a soul.
+{157429}{157515}VIANNE: Hmm.|Better get cleaned up.
+{157516}{157564}Easter Sunday.
+{157592}{157628}The sermon.
+{157741}{157792}I didn't finish it.
+{157818}{157858}I'll think of something.
+{158165}{158284}I'm not sure what the theme|of my homily today ought to be.
+{158357}{158417}PERE: Do I want to speak|of the miracle...
+{158418}{158508}of our Lord's|divine transformation?
+{158509}{158578}Not really, no.
+{158579}{158673}PERE: I don't want|to talk about His divinity.
+{158720}{158809}I'd rather talk about|His humanity.
+{158810}{158917}I mean, you know, how he|lived his life here on Earth.
+{158918}{158980}His kindness.
+{158981}{159036}His tolerance.
+{159037}{159103}Listen, here's what I think.
+{159104}{159156}I think we can't go around...
+{159157}{159262}measuring our goodness|by what we don't do.
+{159263}{159321}PERE: By what we|deny ourselves...
+{159322}{159356}what we resist...
+{159357}{159405}and who we exclude.
+{159464}{159529}I think we've got|to measure goodness...
+{159530}{159593}by what we embrace...
+{159594}{159671}what we create...
+{159672}{159717}and who we include.
+{159775}{159822}[Pipe organ playing]
+{159863}{159900}STORYTELLER:|It was certainly not...
+{159901}{159985}the most fiery sermon|Pere Henri would ever preach...
+{160029}{160077}nor the most eloquent.
+{160121}{160246}But the parishioners|felt a new sensation that day.
+{160247}{160313}A lightening of the spirit.
+{160314}{160362}[Accordion music playing]
+{160363}{160450}STORYTELLER: A freedom|from the old "tranquilité".
+{161100}{161157}Whoa! Fantastic!
+{161225}{161292}Monsieur le Comte,|try one of these.
+{161293}{161326}Thank you.
+{161326}{161366}STORYTELLER:|Even the Comte de Reynaud...
+{161366}{161441}felt strangely...
+{161442}{161474}released.
+{161603}{161650}Although, it would take|another six months...
+{161651}{161731}before he'd work up the nerve|to ask Caroline out to dinner.
+{162218}{162279}As for Josephine...
+{162280}{162380}she took over the lease|at the old cafe...
+{162381}{162429}and gave it a new name.
+{162570}{162618}[Wind howling]
+{162718}{162766}[Door banging]
+{162810}{162857}STORYTELLER: But still|the clever North Wind...
+{162858}{162905}was not satisfied.
+{163015}{163051}[Inhales]
+{163214}{163262}STORYTELLER:|The Wind spoke to Vianne...
+{163262}{163318}of towns yet to be visited.
+{163370}{163458}Friends in need,|yet to be discovered.
+{163512}{163584}Battles yet to be fought.
+{163731}{163798}By someone else...next time.
+{164130}{164218}And so it was,|the North Wind grew weary...
+{164219}{164297}and went on its way.
+{164298}{164353}When summer came|to the little village...
+{164354}{164453}a new breeze from the south|blew soft and warm.
+{164578}{164625}Just needed an adjustment.
+{164626}{164666}Hope it'll be better now.
+{164717}{164746}ANOUK: Roux!
+{164747}{164791}STORYTELLER: My mother|knew Roux's return...
+{164792}{164861}had nothing to do|with a silly old door.
+{164928}{164962}So did I.
+{165031}{165086}I thought you'd never guess.
+{165086}{165141}My favorite, hot chocolate.
+{165206}{165244}I knew that.
+{165456}{165498}STORYTELLER: As for Pantoufle?
+{165555}{165674}Well, his bad leg|miraculously healed...
+{165675}{165752}and he hopped off|in search of new adventures.
+{165814}{165856}I didn't miss him.

@@ -1,0 +1,6204 @@
+1
+00:00:23,223 --> 00:00:25,088
+<i>This is a Macintosh.</i>
+
+2
+00:00:25,291 --> 00:00:28,124
+<i>It comes from a little company</i>
+<i>called Apple.</i>
+
+3
+00:00:28,328 --> 00:00:32,059
+<i>Apple was started in a small town</i>
+<i>in northern California by two friends:</i>
+
+4
+00:00:32,265 --> 00:00:34,733
+<i>Steve Jobs and Steve Wozniak.</i>
+
+5
+00:00:34,934 --> 00:00:38,563
+<i>United by their interest in technology,</i>
+<i>and dissatisfied with the attempts...</i>
+
+6
+00:00:38,772 --> 00:00:42,173
+<i>... at personal computers by others,</i>
+<i>they knew they could do better...</i>
+
+7
+00:00:42,375 --> 00:00:45,105
+<i>... and set out to make the world's</i>
+<i>first good personal computer...</i>
+
+8
+00:00:45,311 --> 00:00:46,869
+<i>... in the form of the Apple I.</i>
+
+9
+00:00:47,080 --> 00:00:48,570
+<i>The Apple I became the Apple II.</i>
+
+10
+00:00:49,282 --> 00:00:50,874
+<i>The Apple II</i>
+<i>became the cornerstone...</i>
+
+11
+00:00:51,084 --> 00:00:53,109
+<i>... of an industry</i>
+<i>that would change the world.</i>
+
+12
+00:00:53,653 --> 00:00:56,349
+<i>In 1984, Apple introduced Macintosh...</i>
+
+13
+00:00:56,556 --> 00:00:59,923
+<i>... and Macintosh thrusted the industry</i>
+<i>forward into a new era.</i>
+
+14
+00:01:00,126 --> 00:01:02,993
+<i>Its style and ease of use</i>
+<i>gave computers to the rest of us...</i>
+
+15
+00:01:03,196 --> 00:01:05,790
+<i>... and inspired the next revolution</i>
+<i>in computing.</i>
+
+16
+00:01:05,999 --> 00:01:07,261
+<i>But dark times followed...</i>
+
+17
+00:01:07,634 --> 00:01:10,603
+<i>... and Apple slipped into the background</i>
+<i>of the computer industry.</i>
+
+18
+00:01:10,804 --> 00:01:14,831
+<i>In the late '90s, a reinvigorated Apple</i>
+<i>would return to shake things up again...</i>
+
+19
+00:01:15,041 --> 00:01:17,339
+<i>... and push the envelope of design</i>
+<i>and engineering.</i>
+
+20
+00:01:17,677 --> 00:01:21,977
+<i>Whether you know it or not,</i>
+<i>these events have changed your life.</i>
+
+21
+00:01:30,256 --> 00:01:32,156
+We're good. We got your sound?
+
+22
+00:01:32,358 --> 00:01:33,552
+- Is she on speaker?
+- Yeah.
+
+23
+00:01:33,760 --> 00:01:34,784
+Jordan, hold on.
+
+24
+00:01:36,196 --> 00:01:37,493
+- Are you ready to go?
+- Yeah.
+
+25
+00:01:37,831 --> 00:01:39,355
+Okay, so this is the story...
+
+26
+00:01:39,566 --> 00:01:44,401
+...of how I was introduced
+to Macintosh unintentionally.
+
+27
+00:01:45,205 --> 00:01:48,299
+My first Macintosh was an SE...
+
+28
+00:01:48,508 --> 00:01:52,410
+...with a 30-megabyte hard drive.
+
+29
+00:01:52,612 --> 00:01:57,072
+The first Mac I used
+was my dad's Classic.
+
+30
+00:01:57,283 --> 00:02:00,741
+He had a Mac Classic, a Mac Plus...
+
+31
+00:02:00,954 --> 00:02:04,856
+First Macintosh I purchased
+was on the day of the introduction.
+
+32
+00:02:05,058 --> 00:02:06,889
+Well, I had an Apple II in '79.
+
+33
+00:02:07,660 --> 00:02:09,321
+And then I had an Apple III.
+
+34
+00:02:09,529 --> 00:02:14,398
+And then I got to play with a Lisa
+in 1980.
+
+35
+00:02:15,635 --> 00:02:19,867
+I had a Blue and White G3,
+had a Lombard PowerBook...
+
+36
+00:02:20,073 --> 00:02:23,668
+...had a Pismo PowerBook,
+had a Titanium PowerBook.
+
+37
+00:02:23,877 --> 00:02:27,608
+I was given a Macintosh 128
+as one of the...
+
+38
+00:02:27,814 --> 00:02:30,248
+...you know,
+first hundred people in the Mac division.
+
+39
+00:02:30,450 --> 00:02:31,917
+The first computer that we had...
+
+40
+00:02:33,753 --> 00:02:36,449
+The LC, right, which I had to
+take away from you...
+
+41
+00:02:36,656 --> 00:02:40,114
+...because you told me
+it was gonna cost $2500...
+
+42
+00:02:40,326 --> 00:02:42,055
+...I gave you my credit card...
+
+43
+00:02:42,262 --> 00:02:43,854
+Thirty-five hundred.
+
+44
+00:02:44,063 --> 00:02:46,793
+I think it must've been about 1980,
+I played with a Lisa...
+
+45
+00:02:47,000 --> 00:02:48,934
+...and that changed everything.
+
+46
+00:02:49,135 --> 00:02:53,128
+So it had two floppies in front
+and a 30-meg hard drive...
+
+47
+00:02:53,339 --> 00:02:56,570
+...and I thought I was in heaven.
+
+48
+00:02:56,776 --> 00:03:01,042
+I mean, how could anybody ever use
+that much hard-drive space?
+
+49
+00:03:01,247 --> 00:03:04,978
+After the introduction, we were so keyed
+up we couldn't really go back to work.
+
+50
+00:03:05,185 --> 00:03:08,780
+So that afternoon we drove around
+to the different computer stores...
+
+51
+00:03:08,988 --> 00:03:12,389
+...in the Bay Area,
+trying to purchase a Mac.
+
+52
+00:03:12,592 --> 00:03:16,494
+The first one I owned, the first one I
+bought with my own money, was a 7200.
+
+53
+00:03:16,763 --> 00:03:19,527
+And I bought an expensive monitor...
+
+54
+00:03:19,732 --> 00:03:23,725
+...and it cost me about $3500.
+
+55
+00:03:24,270 --> 00:03:29,401
+I got my Aluminum PowerBook,
+I had a dual 800 G4 with a SuperDrive.
+
+56
+00:03:29,609 --> 00:03:32,942
+I've got my G5 at home.
+
+57
+00:03:33,146 --> 00:03:34,135
+I stopped counting.
+
+58
+00:03:34,614 --> 00:03:38,141
+Yeah, you ended up spending 7000,
+so I had to go...
+
+59
+00:03:38,351 --> 00:03:42,720
+...and retrieve the computer from you
+and get it back.
+
+60
+00:03:43,456 --> 00:03:45,720
+And so I inherited this computer...
+
+61
+00:03:45,925 --> 00:03:49,918
+...that I had no fucking idea
+what to do with or anything.
+
+62
+00:03:50,830 --> 00:03:54,266
+And it was, like, a lot of money.
+
+63
+00:03:54,467 --> 00:03:56,958
+I had to borrow it off my mom.
+
+64
+00:03:57,470 --> 00:03:59,995
+And it took me years to pay her back.
+
+65
+00:04:00,673 --> 00:04:06,077
+If you think about it, from '84 to 2007,
+you know, that's 20-something years.
+
+66
+00:04:06,279 --> 00:04:08,679
+I've probably had 50 Macs.
+
+67
+00:04:09,649 --> 00:04:15,144
+And basically I've had a Mac
+since April of '84 and pretty much...
+
+68
+00:04:15,421 --> 00:04:18,481
+...have had almost every Mac
+in my hands since then.
+
+69
+00:04:18,691 --> 00:04:23,924
+So that's how I was introduced
+to Apple.
+
+70
+00:04:24,130 --> 00:04:28,294
+I had to go and get it from you
+and retrieve it from you...
+
+71
+00:04:28,501 --> 00:04:31,197
+...because you had spent too much
+money on my credit card.
+
+72
+00:04:31,404 --> 00:04:33,372
+It was the hardest thing I ever did.
+
+73
+00:04:33,573 --> 00:04:37,532
+I had to go and retrieve the computer
+from my own son.
+
+74
+00:04:39,245 --> 00:04:42,442
+Yeah, it was pretty hard, man.
+It was not easy.
+
+75
+00:04:42,649 --> 00:04:46,016
+Okay, all right, all right.
+So that ends that discussion, okay.
+
+76
+00:04:46,219 --> 00:04:49,245
+All right, so we're gonna move on now.
+Okay, bye.
+
+77
+00:04:56,729 --> 00:04:58,196
+Apple was founded twice.
+
+78
+00:04:58,398 --> 00:05:00,195
+And each time
+there were three founders.
+
+79
+00:05:01,601 --> 00:05:03,228
+Two of them were Woz and Jobs...
+
+80
+00:05:03,436 --> 00:05:07,805
+...but the third one, in both cases,
+is not extremely well-known.
+
+81
+00:05:08,007 --> 00:05:10,669
+In the first case,
+it was this guy named Ron Wayne...
+
+82
+00:05:10,877 --> 00:05:13,641
+...who was just sort of a smart,
+general-purpose guy.
+
+83
+00:05:15,048 --> 00:05:19,109
+He, being artistically inclined,
+drew that first Newton logo...
+
+84
+00:05:19,319 --> 00:05:22,652
+...that the Apple Computer Company,
+not the corporation, had.
+
+85
+00:05:24,324 --> 00:05:26,656
+The logo essentially was my own idea.
+
+86
+00:05:26,859 --> 00:05:30,158
+They had hit upon the idea of using
+the name Apple for Apple Computer.
+
+87
+00:05:30,363 --> 00:05:33,992
+Once they had done that,
+and if you have an original idea...
+
+88
+00:05:34,200 --> 00:05:37,863
+...and you have an apple and you...
+The two simply fall together.
+
+89
+00:05:38,071 --> 00:05:41,837
+The classic story
+of Newton and the apple.
+
+90
+00:05:42,041 --> 00:05:44,908
+And so it was that I sat down...
+
+91
+00:05:45,111 --> 00:05:46,942
+...and thoroughly enjoyed myself...
+
+92
+00:05:47,146 --> 00:05:51,810
+...with India ink and pen
+and illustration board...
+
+93
+00:05:52,018 --> 00:05:57,354
+...and went ahead and created this
+image of Newton with the apple above...
+
+94
+00:05:57,724 --> 00:06:00,249
+...in a detailed, wind-blown ribbon...
+
+95
+00:06:00,460 --> 00:06:03,293
+...that had
+the "Apple Computer Company" on it.
+
+96
+00:06:04,097 --> 00:06:08,557
+And around the border I had put in
+the philosophical comment:
+
+97
+00:06:08,968 --> 00:06:12,768
+"Mind forever voyaging through
+strange seas of thought alone."
+
+98
+00:06:12,972 --> 00:06:18,103
+Which, of course,
+comes from the Wordsworth sonnet.
+
+99
+00:06:18,444 --> 00:06:23,245
+And that last line seemed to fit perfectly
+with the whole concept...
+
+100
+00:06:23,449 --> 00:06:25,314
+...of this wonderful new product...
+
+101
+00:06:25,518 --> 00:06:28,351
+...that was going to make the foundation
+of a new company.
+
+102
+00:06:28,554 --> 00:06:33,253
+Apple was founded again, though,
+as a corporation in 1977...
+
+103
+00:06:33,459 --> 00:06:35,051
+...and third founder was Mike Markkula.
+
+104
+00:06:35,261 --> 00:06:37,422
+He's a little more well-known
+than Ron Wayne.
+
+105
+00:06:39,031 --> 00:06:42,159
+When Apple came out, they were
+building the Apple I's in the garage.
+
+106
+00:06:44,504 --> 00:06:46,938
+The Apple I could have a keyboard
+attached directly to it...
+
+107
+00:06:47,140 --> 00:06:50,974
+...and a computer monitor attached to it
+instead of lights and switches.
+
+108
+00:06:51,177 --> 00:06:53,111
+You could actually have
+your own interface.
+
+109
+00:06:53,312 --> 00:06:57,271
+It was groundbreaking technology.
+
+110
+00:06:57,884 --> 00:07:00,045
+Wozniak had designed this
+genius piece of engineering...
+
+111
+00:07:01,754 --> 00:07:04,848
+...but he wanted to give it away.
+What kind of crazy idea is that?
+
+112
+00:07:05,057 --> 00:07:08,026
+So Jobs was the one who figured out
+this thing should be sold.
+
+113
+00:07:08,227 --> 00:07:10,491
+What Woz said recently...
+
+114
+00:07:10,696 --> 00:07:14,632
+...I think he said, "I don't want credit for
+designing the first personal computer...
+
+115
+00:07:14,834 --> 00:07:17,598
+...I just want credit
+for designing the first good one."
+
+116
+00:07:32,518 --> 00:07:35,180
+Rumor has it that Jobs
+hated the Apple I.
+
+117
+00:07:35,388 --> 00:07:38,687
+I've heard numerous stories
+that it didn't work properly all the time...
+
+118
+00:07:38,891 --> 00:07:40,586
+...or there was issues with it.
+
+119
+00:07:40,793 --> 00:07:43,057
+They were encouraging
+and promoting the Apple II,
+
+120
+00:07:43,262 --> 00:07:47,289
+so they were giving discounts on
+Apple II's if you traded in your Apple I.
+
+121
+00:07:47,500 --> 00:07:49,695
+Sometimes they would do
+an outright swap.
+
+122
+00:07:49,902 --> 00:07:51,631
+They wanted them off the market.
+
+123
+00:07:51,838 --> 00:07:53,669
+Then they were getting
+bandsawed in half.
+
+124
+00:07:56,075 --> 00:07:59,010
+But there was supposedly
+200 boards made.
+
+125
+00:07:59,212 --> 00:08:03,080
+Now, not all of those were sold.
+I hear Woz has some in storage...
+
+126
+00:08:03,282 --> 00:08:05,477
+...who knows how many,
+maybe a half dozen or so.
+
+127
+00:08:05,685 --> 00:08:06,674
+Value?
+
+128
+00:08:06,886 --> 00:08:09,377
+I've heard as high as 50,000 for one,
+
+129
+00:08:09,589 --> 00:08:12,490
+but a perfectly running one in a case
+is gonna fetch more.
+
+130
+00:08:12,692 --> 00:08:15,183
+If it's got the cassette and
+the manuals and all that stuff.
+
+131
+00:08:16,996 --> 00:08:20,864
+I started doing my research
+on the Apple I's and the value of them.
+
+132
+00:08:21,067 --> 00:08:23,399
+Pretty much realized
+I could never afford one.
+
+133
+00:08:23,603 --> 00:08:27,369
+And I had gone to
+the user-group website Applefritter.
+
+134
+00:08:28,774 --> 00:08:31,072
+I talked to some people
+and there was discussion...
+
+135
+00:08:31,277 --> 00:08:35,611
+...about making a replica of one, and
+nobody really stepped to the plate, so...
+
+136
+00:08:35,815 --> 00:08:38,113
+It was a lot of research.
+
+137
+00:08:38,317 --> 00:08:41,844
+I've still, to this day, never seen
+an actual Apple I in operation.
+
+138
+00:08:42,054 --> 00:08:44,249
+A lot of it, electronically,
+I could figure out.
+
+139
+00:08:44,457 --> 00:08:47,358
+Some of it, visually,
+there was no way to tell without...
+
+140
+00:08:47,560 --> 00:08:49,391
+...asking people, so I had to interview...
+
+141
+00:08:49,595 --> 00:08:51,995
+...owners or previous owners
+of Apple I's to see:
+
+142
+00:08:52,198 --> 00:08:56,430
+"Hey, what does the cursor look like?
+Is it solid, is it blinking?"
+
+143
+00:08:56,636 --> 00:09:00,402
+It's authentic and it's true to its
+memory locations and it's functioning.
+
+144
+00:09:00,606 --> 00:09:04,337
+It will completely operate
+just like the Apple I.
+
+145
+00:09:04,777 --> 00:09:07,712
+There wasn't really a lot of
+commercial software available.
+
+146
+00:09:07,914 --> 00:09:10,348
+Most of the stuff was converted from...
+
+147
+00:09:10,550 --> 00:09:13,075
+...programs that were given out in
+<i>Creative Computing</i> magazines...
+
+148
+00:09:13,286 --> 00:09:17,723
+...or written initially for another computer,
+which was converted over to the Apple I.
+
+149
+00:09:18,190 --> 00:09:20,954
+There was no such thing
+as a production case for it.
+
+150
+00:09:21,160 --> 00:09:25,529
+Most Apple I's that you see in a wooden
+case, somebody built on their own.
+
+151
+00:09:27,033 --> 00:09:29,524
+One of the most common things l...
+Questions I had was:
+
+152
+00:09:29,735 --> 00:09:32,067
+"Why didn't you
+make it look like an Apple I?"
+
+153
+00:09:32,271 --> 00:09:35,502
+I didn't want people selling these
+as forgeries, as being an actual Apple I.
+
+154
+00:09:37,777 --> 00:09:42,043
+For one, it's Woz's work, and I don't
+want anybody infracting on that.
+
+155
+00:09:42,248 --> 00:09:44,682
+It's respect for the people
+that actually do own the Apple I's.
+
+156
+00:09:44,884 --> 00:09:47,853
+I don't want this project
+to devalue the Apple I.
+
+157
+00:09:48,054 --> 00:09:51,387
+I had tried getting ahold of somebody
+from Apple and, you know, saying:
+
+158
+00:09:51,591 --> 00:09:54,822
+"This is what's going on. Can I get
+permission to use the source code?"
+
+159
+00:09:55,027 --> 00:09:56,824
+I didn't hear anything back...
+
+160
+00:09:57,029 --> 00:10:00,465
+...so I tried to get ahold of Woz
+through his website...
+
+161
+00:10:00,666 --> 00:10:03,794
+...and next thing you know,
+Wozniak had written back, saying:
+
+162
+00:10:04,003 --> 00:10:07,439
+"Go ahead and use the source code.
+I think it's, you know, a noble idea.
+
+163
+00:10:07,640 --> 00:10:11,076
+Apple probably wouldn't let you, but
+the worst thing Apple could say was...
+
+164
+00:10:11,277 --> 00:10:13,643
+...that it was mine long before
+there was an Apple computer."
+
+165
+00:10:14,046 --> 00:10:16,913
+He had given out the source code,
+schematics and everything...
+
+166
+00:10:17,116 --> 00:10:20,108
+...at the Homebrew Computer Clubs
+long before Apple existed.
+
+167
+00:10:20,319 --> 00:10:23,220
+So it was pretty much his source code
+to give out.
+
+168
+00:10:24,523 --> 00:10:28,619
+I guess, yeah, they're kind of an
+unlikely couple, an unlikely pair, to...
+
+169
+00:10:28,828 --> 00:10:32,161
+You know, Steve Wozniak
+was the hardware genius.
+
+170
+00:10:32,365 --> 00:10:37,428
+He's kind of a blue-collar hacker,
+interested only in the engineering.
+
+171
+00:10:38,204 --> 00:10:44,803
+Jobs was the salesman, the slick,
+smooth talker, good-Iooking young guy.
+
+172
+00:10:45,544 --> 00:10:49,605
+You gotta remember, the Apple II
+were designed essentially by kids...
+
+173
+00:10:49,815 --> 00:10:53,148
+...who didn't have any success
+behind them.
+
+174
+00:10:54,620 --> 00:10:59,717
+And Woz is like a hero,
+the great nerd hero of our times.
+
+175
+00:10:59,925 --> 00:11:03,622
+I mean, every geek and nerd
+reveres Woz.
+
+176
+00:11:03,829 --> 00:11:10,234
+He is, you know, a living legend,
+a demigod, a god amongst man.
+
+177
+00:11:10,770 --> 00:11:14,365
+Not only for his genius, but just
+for that sort of purity of hacker spirit...
+
+178
+00:11:14,573 --> 00:11:18,202
+...you know,
+the generosity of his genius.
+
+179
+00:11:18,411 --> 00:11:22,609
+The idea that he's not motivated
+to enrich himself.
+
+180
+00:11:22,815 --> 00:11:26,512
+You know. He wants to build
+astonishing things.
+
+181
+00:11:27,119 --> 00:11:28,211
+And he did.
+
+182
+00:11:28,421 --> 00:11:32,323
+This was more... The Apple II was more
+like a work of art, it was whimsical.
+
+183
+00:11:32,758 --> 00:11:36,785
+It was outrageous,
+some of the techniques in the ROM.
+
+184
+00:11:36,996 --> 00:11:40,762
+And so as I worked
+my way through it, I thought:
+
+185
+00:11:40,966 --> 00:11:43,662
+"Who would design
+in such a style and why?"
+
+186
+00:11:43,869 --> 00:11:47,430
+And it's just the greatest thing
+I'd ever encountered.
+
+187
+00:11:47,640 --> 00:11:49,335
+It was very much like...
+
+188
+00:11:49,542 --> 00:11:52,170
+...reading a great novel
+from an author you've never heard of...
+
+189
+00:11:52,378 --> 00:11:54,073
+...or hearing a great piece of music.
+
+190
+00:11:54,280 --> 00:11:57,283
+It captivated me.
+
+191
+00:11:57,283 --> 00:11:57,908
+It captivated me.
+
+192
+00:12:22,341 --> 00:12:25,139
+One of the biggest success stories
+would have to be Team Number 1.
+
+193
+00:12:26,579 --> 00:12:30,481
+Team Number 1
+was the original franchisee...
+
+194
+00:12:32,284 --> 00:12:35,082
+...of the Team Electronics chain.
+Team Central was the organization...
+
+195
+00:12:35,287 --> 00:12:37,915
+...of all the Team Electronics stores,
+some 100 stores...
+
+196
+00:12:38,124 --> 00:12:41,616
+...mostly in the upper Midwest,
+and it continues to operate to this day.
+
+197
+00:12:41,827 --> 00:12:43,488
+They've changed their name
+to FirstTech...
+
+198
+00:12:43,696 --> 00:12:45,823
+...with the demise of Team Electronics.
+
+199
+00:12:46,031 --> 00:12:47,999
+But to my knowledge,
+that would make them...
+
+200
+00:12:48,200 --> 00:12:52,660
+...the longest continuously running
+Apple reseller in the United States.
+
+201
+00:12:56,809 --> 00:12:59,903
+- There's more back there. Yeah.
+- You've got a Bell + Howell.
+
+202
+00:13:01,046 --> 00:13:04,573
+I don't think we ever wanna fly this.
+It's probably not...
+
+203
+00:13:04,784 --> 00:13:06,649
+- Not flight-worthy?
+- Whoa, is that a kite?
+
+204
+00:13:06,852 --> 00:13:09,582
+- It is, but it's just too valuable, you know.
+- Oh, yeah.
+
+205
+00:13:09,789 --> 00:13:14,055
+We got an Apple III back there
+and some other stuff too.
+
+206
+00:13:14,260 --> 00:13:17,491
+But most... This is mostly the fun stuff.
+
+207
+00:13:17,863 --> 00:13:20,696
+- Oh, yeah.
+- And we're pretty sure it all works.
+
+208
+00:13:22,601 --> 00:13:27,937
+Back in 1977, I convinced my boss...
+At the time I was working as a buyer...
+
+209
+00:13:28,140 --> 00:13:31,906
+...for the Team Electronics chain, which
+was headquartered here in Minneapolis.
+
+210
+00:13:32,111 --> 00:13:37,811
+- convinced him to let me go to the
+first annual West Coast Computer Faire.
+
+211
+00:13:38,017 --> 00:13:40,850
+Out there, I discovered
+a number of companies.
+
+212
+00:13:41,053 --> 00:13:43,248
+I'd gone to look
+at the processor Sol machine.
+
+213
+00:13:43,455 --> 00:13:45,355
+I was already aware of the Altair.
+
+214
+00:13:45,624 --> 00:13:47,455
+Discovered a little company
+called Apple...
+
+215
+00:13:47,660 --> 00:13:50,686
+...who had a pretty good-sized booth
+right inside the front door.
+
+216
+00:13:50,896 --> 00:13:52,796
+Struck up a conversation
+with the gentleman...
+
+217
+00:13:52,998 --> 00:13:54,898
+...who told me they really
+weren't producing yet.
+
+218
+00:13:55,100 --> 00:13:59,264
+It would probably be later that year,
+October, something like that.
+
+219
+00:13:59,471 --> 00:14:01,939
+The gentleman seemed
+quite knowledgeable...
+
+220
+00:14:02,141 --> 00:14:05,042
+...and once he found out
+that I was a buyer...
+
+221
+00:14:05,244 --> 00:14:07,644
+...for a chain of electronics stores,
+was very interested...
+
+222
+00:14:07,847 --> 00:14:10,441
+...and it turned out the person
+I was talking to was Mike Markkula.
+
+223
+00:14:10,983 --> 00:14:14,384
+Mike proceeded to talk to us about
+the program over the coming months...
+
+224
+00:14:14,587 --> 00:14:17,784
+...we put together agreements
+and whatnot, and in the end...
+
+225
+00:14:17,990 --> 00:14:20,788
+...he grabbed one of the first machines
+to come off the line...
+
+226
+00:14:20,993 --> 00:14:24,292
+...put it in a bag, jumped on an airplane
+and brought it to Minneapolis.
+
+227
+00:14:24,496 --> 00:14:25,963
+This was that machine.
+
+228
+00:14:26,498 --> 00:14:30,901
+And you'll notice that the bag
+does not have a bite out of the apple.
+
+229
+00:14:31,503 --> 00:14:34,666
+I don't know if that was a mistake on the
+part of the people who produced it...
+
+230
+00:14:34,874 --> 00:14:39,811
+...or more likely, that it was produced
+early on, before Apple decided...
+
+231
+00:14:40,012 --> 00:14:41,479
+...taking the bite out of the apple...
+
+232
+00:14:41,680 --> 00:14:44,478
+...would make it more registerable,
+if that's a word.
+
+233
+00:14:49,455 --> 00:14:53,084
+And this is the original brochure...
+
+234
+00:14:53,292 --> 00:14:56,625
+...that came with the Apple II,
+or for the Apple II.
+
+235
+00:14:56,896 --> 00:14:59,592
+It's very simple,
+has an apple on the cover.
+
+236
+00:14:59,798 --> 00:15:01,823
+And if you'll notice
+on the wall beside us...
+
+237
+00:15:02,034 --> 00:15:05,595
+...there is a photo
+that looks suspiciously familiar.
+
+238
+00:15:05,804 --> 00:15:10,434
+That is one of three photos
+that was ever produced in photo form.
+
+239
+00:15:10,643 --> 00:15:13,703
+I was given one for Christmas
+by Mike Markkula...
+
+240
+00:15:13,913 --> 00:15:17,110
+...I'm told that their banker
+at the Bank of America got one...
+
+241
+00:15:17,316 --> 00:15:19,307
+...and that there was
+a third one at Apple.
+
+242
+00:15:19,518 --> 00:15:21,145
+And to my knowledge...
+
+243
+00:15:21,353 --> 00:15:25,483
+...there are probably only one or two
+in existence any longer today.
+
+244
+00:15:25,791 --> 00:15:30,023
+You'll notice many of the things here
+on the original brochure.
+
+245
+00:15:30,229 --> 00:15:34,029
+One was that they came
+with cassette tapes to load the programs.
+
+246
+00:15:34,533 --> 00:15:37,696
+For a long time, we sold
+Apple cassette-tape machines...
+
+247
+00:15:37,903 --> 00:15:41,236
+...to sell with the machine because
+they couldn't get them otherwise.
+
+248
+00:15:41,440 --> 00:15:43,408
+Remember, the computer
+was fairly expensive.
+
+249
+00:15:43,609 --> 00:15:46,737
+In fact, I happen to have
+an October 1977 price list.
+
+250
+00:15:46,946 --> 00:15:49,244
+And a computer system
+with 16K of RAM...
+
+251
+00:15:49,448 --> 00:15:51,382
+...which was what
+we typically sold it at...
+
+252
+00:15:51,583 --> 00:15:54,017
+...was $1698.
+
+253
+00:15:54,219 --> 00:15:56,949
+Now, you can have
+a good chuckle today...
+
+254
+00:15:57,156 --> 00:16:01,024
+...16K was $540.
+
+255
+00:16:01,226 --> 00:16:04,821
+So to outfit a machine completely
+would take you up to about $40,000.
+
+256
+00:16:05,030 --> 00:16:09,364
+These are the pieces of software
+that were available originally with it.
+
+257
+00:16:09,568 --> 00:16:12,435
+There was a checkbook,
+home-management cassette.
+
+258
+00:16:12,638 --> 00:16:16,199
+There was the Breakout game,
+which was a little bit like Pong...
+
+259
+00:16:16,408 --> 00:16:19,866
+...a <i>Star Trek</i> game
+and high-res graphics routines.
+
+260
+00:16:20,079 --> 00:16:22,707
+And that was what you could get with it
+at this point in time.
+
+261
+00:16:22,915 --> 00:16:24,576
+That was every piece of software
+Apple had.
+
+262
+00:16:26,819 --> 00:16:29,117
+And then this is the real deal.
+
+263
+00:16:29,321 --> 00:16:31,812
+This is the real deal.
+It's a used computer.
+
+264
+00:16:32,024 --> 00:16:35,585
+It was actually used, but here's the key.
+
+265
+00:16:36,395 --> 00:16:38,420
+There's the serial number.
+
+266
+00:16:38,630 --> 00:16:41,428
+And as you can see,
+this was serial number five.
+
+267
+00:16:41,633 --> 00:16:43,567
+Fifth machine
+to ever come down the line...
+
+268
+00:16:43,769 --> 00:16:46,761
+...assuming they put stickers
+on one through four.
+
+269
+00:16:46,972 --> 00:16:52,604
+This machine was in regular use
+probably up until...
+
+270
+00:16:53,045 --> 00:16:56,310
+Well, it was in regular use past
+the introduction of the Macintosh...
+
+271
+00:16:56,515 --> 00:17:00,849
+...so probably up until 1984 or '80...
+No, '86 or '87.
+
+272
+00:17:01,053 --> 00:17:03,112
+- this machine was in regular use.
+
+273
+00:17:03,455 --> 00:17:05,889
+That's what you came
+all this way to see.
+
+274
+00:17:06,091 --> 00:17:09,219
+So basically you had this
+before anybody else did.
+
+275
+00:17:09,428 --> 00:17:12,261
+Yes, we...
+
+276
+00:17:12,464 --> 00:17:15,831
+I guess I have to say
+I identified the potential of the product.
+
+277
+00:17:16,035 --> 00:17:21,029
+We were the first dealer/distributor
+that Apple ever had.
+
+278
+00:17:21,240 --> 00:17:25,677
+I wrote Apple's first distributor
+agreement, which was liberally plager...
+
+279
+00:17:25,878 --> 00:17:29,473
+I mean, inspired by
+a Pioneer car-stereo agreement...
+
+280
+00:17:29,681 --> 00:17:31,615
+...went through
+and defined the terms...
+
+281
+00:17:31,817 --> 00:17:34,752
+...and what would be done
+and sent it back.
+
+282
+00:17:34,953 --> 00:17:37,820
+And Apple had their lawyers
+take a look at it and we signed it.
+
+283
+00:17:38,023 --> 00:17:41,459
+And we were the first-ever Apple dealer.
+
+284
+00:18:03,749 --> 00:18:07,378
+The Macintosh began with Jeff.
+Jeff Raskin was a professor at UCSD.
+
+285
+00:18:08,787 --> 00:18:12,951
+Jeff was a music professor
+as well as a computer professor.
+
+286
+00:18:14,693 --> 00:18:18,094
+Jeff was hired at Apple
+to start the Pubs Department at Apple.
+
+287
+00:18:18,297 --> 00:18:20,458
+Jeff is a great writer. Was always...
+
+288
+00:18:20,666 --> 00:18:24,158
+Just had a great sense of humor,
+was really articulate...
+
+289
+00:18:24,369 --> 00:18:26,803
+...had a great rebel attitude.
+
+290
+00:18:27,005 --> 00:18:29,769
+In... I believe February '79
+was the very beginning...
+
+291
+00:18:29,975 --> 00:18:33,809
+...of the Mac project, where he
+approached Mike Markkula to ask...
+
+292
+00:18:34,012 --> 00:18:37,914
+To talk about his ideas about a low-cost,
+easy-to-use computer.
+
+293
+00:18:38,117 --> 00:18:41,382
+And so he started writing
+a series of papers...
+
+294
+00:18:41,587 --> 00:18:44,579
+...later became called, I guess,
+the Macintosh Papers.
+
+295
+00:18:44,790 --> 00:18:48,248
+And then around the fall of '79, he...
+
+296
+00:18:48,460 --> 00:18:51,054
+Mike Markkula was impressed enough
+with the papers...
+
+297
+00:18:51,263 --> 00:18:54,494
+...that he gave him some budget
+to pursue starting a project.
+
+298
+00:18:55,267 --> 00:18:58,964
+Jeff needed hardware for a prototype.
+
+299
+00:18:59,171 --> 00:19:02,470
+Jeff had sort of the basic idea
+of the hardware spec'd out.
+
+300
+00:19:02,674 --> 00:19:04,699
+He had the notion
+of the bitmap display...
+
+301
+00:19:04,910 --> 00:19:07,845
+...which was, of course,
+crucial to it being a Macintosh.
+
+302
+00:19:09,414 --> 00:19:11,644
+But anyway, he needed to find
+a hardware designer...
+
+303
+00:19:13,051 --> 00:19:16,077
+...and Bill Atkinson ran into Burrell,
+who was working in Service Department.
+
+304
+00:19:17,489 --> 00:19:19,616
+Bill had seen glimmers
+of Burrell's genius.
+
+305
+00:19:19,825 --> 00:19:21,349
+He introduced him to Jeff as:
+
+306
+00:19:21,560 --> 00:19:24,154
+"Here's the guy who could design
+your Macintosh for you."
+
+307
+00:19:24,363 --> 00:19:26,763
+Jeff said, at the first...
+"We'll see about that."
+
+308
+00:19:26,965 --> 00:19:29,058
+Jeff was very proud of himself.
+
+309
+00:19:29,268 --> 00:19:30,235
+But he quickly...
+
+310
+00:19:30,435 --> 00:19:34,872
+To Jeff's credit, he quickly saw
+Burrell was the man to do the job.
+
+311
+00:19:35,073 --> 00:19:37,098
+The project really took on reality...
+
+312
+00:19:37,309 --> 00:19:40,403
+...when Burrell did his first design
+over Christmas vacation...
+
+313
+00:19:40,612 --> 00:19:42,773
+...at the very, very end of the decade.
+
+314
+00:19:42,981 --> 00:19:47,008
+I think that's a notable point about
+the Mac that writers don't really make.
+
+315
+00:19:47,219 --> 00:19:50,620
+It was really born with the 1980s...
+
+316
+00:19:50,822 --> 00:19:55,782
+...because it was designed
+right at the cusp of the decade ending.
+
+317
+00:19:55,994 --> 00:19:58,519
+But meanwhile, once he got that going...
+
+318
+00:19:58,730 --> 00:20:02,222
+...Steve Jobs got wind of it,
+as well as other people at Apple, that...
+
+319
+00:20:02,434 --> 00:20:08,066
+...boy, here's this board that is
+one-third the price of the Lisa...
+
+320
+00:20:08,273 --> 00:20:10,036
+...that's twice as fast. That's amazing.
+
+321
+00:20:11,443 --> 00:20:15,038
+The most common inspiration, clearly,
+was the Apple II.
+
+322
+00:20:15,247 --> 00:20:17,408
+Steve Jobs was even
+explicit about that...
+
+323
+00:20:17,616 --> 00:20:21,552
+...telling us we were reincarnating
+the Apple II for the '80s.
+
+324
+00:20:21,753 --> 00:20:26,520
+I realized, as we were trying
+to complete the software...
+
+325
+00:20:26,725 --> 00:20:31,719
+...that, boy, the Mac was so heavily
+graphics-based...
+
+326
+00:20:31,930 --> 00:20:36,367
+...we needed someone who was
+a world-class graphic designer.
+
+327
+00:20:37,769 --> 00:20:42,035
+I had basically asked Susan
+to come as my date...
+
+328
+00:20:42,241 --> 00:20:44,334
+...to a few of the
+Macintosh parties we had.
+
+329
+00:20:44,543 --> 00:20:46,977
+That was kind of the first connection.
+
+330
+00:20:47,179 --> 00:20:49,579
+And she met some of the team
+and really liked them...
+
+331
+00:20:49,781 --> 00:20:51,612
+...and so I proposed that she work on it.
+
+332
+00:20:51,817 --> 00:20:54,445
+But the Mac prototypes
+were too rare to get her one.
+
+333
+00:20:54,653 --> 00:20:57,417
+So I first started her off
+with graph paper.
+
+334
+00:20:57,623 --> 00:21:00,387
+Went and just bought
+some pretty fine graph paper...
+
+335
+00:21:00,592 --> 00:21:04,528
+...and told her to make drawings
+by filling in the squares or not.
+
+336
+00:21:04,730 --> 00:21:08,894
+And she did some fantastic work,
+doing some drawings that way...
+
+337
+00:21:09,101 --> 00:21:10,830
+...that I think I still have somewhere.
+
+338
+00:21:11,036 --> 00:21:13,630
+And so I showed them to people
+on the team and they said:
+
+339
+00:21:13,839 --> 00:21:15,306
+"Boy, yeah, she's good."
+
+340
+00:21:15,507 --> 00:21:18,943
+Jeff made one other key hire,
+a woman named Joanna Hoffman...
+
+341
+00:21:19,144 --> 00:21:21,339
+...who became the Macintosh's
+first marketing person.
+
+342
+00:21:22,781 --> 00:21:25,079
+She has a great story about being
+interviewed by Jeff...
+
+343
+00:21:25,284 --> 00:21:27,548
+...while Jeff was at his piano keyboard.
+
+344
+00:21:27,753 --> 00:21:31,416
+And when he liked something she said,
+he'd play a happy little melody.
+
+345
+00:21:31,623 --> 00:21:36,686
+If he didn't like it so much,
+he'd express his reactions musically.
+
+346
+00:21:36,895 --> 00:21:40,956
+And those original Mac team members,
+to this day, are my best friends...
+
+347
+00:21:41,166 --> 00:21:45,500
+...my extended family.
+I would do anything for them.
+
+348
+00:21:47,239 --> 00:21:49,605
+Apple, consciously or not...
+
+349
+00:21:49,808 --> 00:21:54,745
+...positioned itself
+as an alternative to IBM...
+
+350
+00:21:54,946 --> 00:21:59,246
+...which represented the establishment,
+the government, big corporations.
+
+351
+00:21:59,451 --> 00:22:04,650
+In 1977, Apple,
+a young, fledgling company...
+
+352
+00:22:04,856 --> 00:22:09,486
+...invents the Apple II, the first
+personal computer as we know it today.
+
+353
+00:22:09,695 --> 00:22:15,964
+IBM dismisses the personal computer
+as too small to do serious computing...
+
+354
+00:22:16,168 --> 00:22:18,534
+...and unimportant to their business.
+
+355
+00:22:18,737 --> 00:22:24,232
+And this was at a time...
+Post-Watergate, late '70s.
+
+356
+00:22:24,509 --> 00:22:27,535
+- people were suspicious of the
+government and what it represented.
+
+357
+00:22:27,946 --> 00:22:32,007
+And the PC, the personal computer,
+was a revolution in computing.
+
+358
+00:22:32,217 --> 00:22:33,912
+And at the time,
+there was a utopian mindset.
+
+359
+00:22:37,055 --> 00:22:39,683
+The idea that technology, especially
+personal-computer technology...
+
+360
+00:22:41,126 --> 00:22:43,492
+...would enable people to throw off
+the shackles of society...
+
+361
+00:22:45,163 --> 00:22:47,791
+...and foment a technological revolution.
+
+362
+00:22:49,201 --> 00:22:51,863
+IBM enters
+the personal-computer market...
+
+363
+00:22:52,070 --> 00:22:55,005
+...in November '81 with the IBM PC.
+
+364
+00:22:56,875 --> 00:23:00,936
+It is now 1984.
+
+365
+00:23:01,146 --> 00:23:05,776
+It appears IBM wants it all.
+
+366
+00:23:05,984 --> 00:23:10,512
+Will Big Blue dominate
+the entire computer industry?
+
+367
+00:23:10,722 --> 00:23:13,953
+The entire Information Age?
+
+368
+00:23:14,159 --> 00:23:18,619
+Was George Orwell right about 1984?
+
+369
+00:24:13,151 --> 00:24:14,880
+He made a lot of money out of Apple...
+
+370
+00:24:15,086 --> 00:24:18,749
+...but he dropped out of Silicon Valley
+and he taught high school for 10 years.
+
+371
+00:24:18,957 --> 00:24:21,687
+He volunteered in, you know,
+the local high school...
+
+372
+00:24:21,893 --> 00:24:24,384
+...to teach kids engineering
+and computer science.
+
+373
+00:24:26,665 --> 00:24:30,226
+When Apple lost Steve,
+they lost their way, to some extent.
+
+374
+00:24:30,435 --> 00:24:34,633
+They became a shadow
+of what they were.
+
+375
+00:24:36,374 --> 00:24:39,810
+You know, the first half of the '90s,
+they were sort of all over the place.
+
+376
+00:24:40,011 --> 00:24:43,913
+They didn't know exactly
+what the best thing for them to do was.
+
+377
+00:24:45,484 --> 00:24:48,317
+Didn't know if they were supposed
+to be licensing the operating system...
+
+378
+00:24:48,520 --> 00:24:52,047
+...or if they should be making the Newton
+and trying to do the next big thing.
+
+379
+00:24:53,258 --> 00:24:56,557
+Well, I think the main thing that
+touched most people was at the time...
+
+380
+00:24:56,761 --> 00:24:59,662
+...all the press was bad about Apple.
+Apple's gonna die...
+
+381
+00:24:59,865 --> 00:25:01,662
+...Macintosh's market share
+was slipping.
+
+382
+00:25:01,867 --> 00:25:03,698
+There's no software,
+there's no hardware.
+
+383
+00:25:03,902 --> 00:25:05,335
+Everything was coming unglued.
+
+384
+00:25:06,738 --> 00:25:09,605
+My first job at Apple
+was software evangelist.
+
+385
+00:25:09,808 --> 00:25:14,472
+So my duties were to find developers
+or meet with developers...
+
+386
+00:25:14,679 --> 00:25:17,876
+...and convince them to write
+Macintosh versions of their software...
+
+387
+00:25:19,551 --> 00:25:22,076
+...as well as hardware manufacturers,
+to create peripherals.
+
+388
+00:25:22,287 --> 00:25:25,620
+So it was basically
+to proselytize Macintosh...
+
+389
+00:25:25,824 --> 00:25:28,292
+...to the third-party-developer
+community.
+
+390
+00:25:28,493 --> 00:25:32,293
+Well, the first time I was there, we were
+going to change the world, all right?
+
+391
+00:25:32,497 --> 00:25:34,761
+We're bringing out Macintosh
+for the first time...
+
+392
+00:25:34,966 --> 00:25:36,991
+...no one's ever seen it,
+changing the world.
+
+393
+00:25:37,569 --> 00:25:41,767
+The second time, obviously,
+the world had been changed.
+
+394
+00:25:42,107 --> 00:25:45,702
+Perhaps the world had been changed
+by adopting Windows too.
+
+395
+00:25:45,911 --> 00:25:49,347
+So the second time
+was much more dire...
+
+396
+00:25:49,548 --> 00:25:54,144
+...sort of digging yourself out of a hole.
+
+397
+00:25:54,352 --> 00:25:57,048
+The first time was just...
+
+398
+00:25:57,255 --> 00:26:00,816
+It was like being paid
+to go to Disneyland.
+
+399
+00:26:01,726 --> 00:26:06,060
+Second time was more like,
+you know, Vietnam.
+
+400
+00:26:06,531 --> 00:26:09,432
+Although I wasn't in Vietnam,
+so that kind of trivializes it...
+
+401
+00:26:09,634 --> 00:26:12,102
+...but, you know, it was a war.
+
+402
+00:26:12,304 --> 00:26:16,866
+The second tour of duty came
+when Apple was supposed to die again.
+
+403
+00:26:17,075 --> 00:26:20,238
+So every 10 years ago,
+Apple's supposed to die.
+
+404
+00:26:20,445 --> 00:26:23,744
+And I went back at the height, or depth...
+
+405
+00:26:23,949 --> 00:26:28,443
+...of these problems.
+
+406
+00:26:28,653 --> 00:26:32,851
+Basically to ensure
+that the Macintosh cult...
+
+407
+00:26:33,058 --> 00:26:37,256
+...remained vibrant and alive
+and cared for.
+
+408
+00:26:37,462 --> 00:26:41,364
+And so because I couldn't really
+control any medium...
+
+409
+00:26:41,566 --> 00:26:44,797
+...I started an e-mail list server...
+
+410
+00:26:45,003 --> 00:26:48,564
+...which had at its peak
+about 44,000 subscribers.
+
+411
+00:26:48,773 --> 00:26:51,708
+And it was only good news.
+
+412
+00:26:52,177 --> 00:26:54,771
+So one could make the case
+that I was blogging...
+
+413
+00:26:54,980 --> 00:26:57,505
+...before anybody else
+knew what blogging was.
+
+414
+00:26:57,716 --> 00:27:01,277
+I just didn't know it.
+So I had a very big list.
+
+415
+00:27:01,486 --> 00:27:05,616
+Forty-four thousand for, you know...
+Even today, 44,000 would be a big list...
+
+416
+00:27:05,824 --> 00:27:10,193
+...but it was very big back then.
+And I would just push out good news.
+
+417
+00:27:10,395 --> 00:27:12,829
+And it became a source of information...
+
+418
+00:27:13,031 --> 00:27:16,432
+...so that software developers would
+send us notices and special offers...
+
+419
+00:27:16,635 --> 00:27:18,603
+...and all that, then we'd push it
+out to the community.
+
+420
+00:27:18,803 --> 00:27:21,829
+And the community would then
+push it out to the rest of the people.
+
+421
+00:27:22,040 --> 00:27:27,444
+A Guy Kawasaki law
+is sales fixes everything.
+
+422
+00:27:27,646 --> 00:27:31,480
+So when you have great sales,
+everybody gets along. Life is good.
+
+423
+00:27:31,683 --> 00:27:35,210
+Everybody's a visionary. You know,
+everybody thinks it's good, right?
+
+424
+00:27:35,420 --> 00:27:38,048
+When sales sucks, everything sucks.
+
+425
+00:27:38,256 --> 00:27:40,224
+So sales were sucking.
+
+426
+00:27:40,425 --> 00:27:42,916
+So Apple was divided into factions.
+
+427
+00:27:43,128 --> 00:27:46,063
+There was the Jean-Louis Gassée
+faction and the Bill Campbell faction.
+
+428
+00:27:49,167 --> 00:27:52,796
+Campbell believed in marketing, Gassée
+believed in engineering. Pick one.
+
+429
+00:27:53,238 --> 00:27:55,365
+And that kind of tore the company apart.
+
+430
+00:27:56,174 --> 00:27:58,472
+And the reason why I survived all this...
+
+431
+00:27:58,677 --> 00:28:03,546
+...is because I never
+really joined either camp.
+
+432
+00:28:03,748 --> 00:28:05,113
+Now, you could make the case...
+
+433
+00:28:05,316 --> 00:28:07,648
+...that that means
+that I was this neutral wimp...
+
+434
+00:28:07,852 --> 00:28:11,754
+...but I just...
+I didn't see the world divided that way.
+
+435
+00:28:11,956 --> 00:28:15,858
+And so I got along with Sculley
+and I got along with Jobs.
+
+436
+00:28:16,061 --> 00:28:19,258
+I got along with Amelio.
+I got along with everybody.
+
+437
+00:28:19,464 --> 00:28:24,197
+One of the reasons is because
+I'd never wanted any of their jobs.
+
+438
+00:28:25,070 --> 00:28:30,838
+All right? So Sculley wanted to be Steve.
+Gassée wanted to be Sculley.
+
+439
+00:28:31,176 --> 00:28:34,270
+Bill Campbell wanted to be...
+I don't know who he wanted to be.
+
+440
+00:28:34,479 --> 00:28:38,779
+But, you know, that's one of the things
+that's pathetic about Silicon Valley...
+
+441
+00:28:38,983 --> 00:28:41,417
+...is everybody wants to be
+something they're not.
+
+442
+00:28:41,619 --> 00:28:44,952
+And if you're the venture capitalist,
+you wanna be the entrepreneur.
+
+443
+00:28:45,156 --> 00:28:47,420
+Me, I just wanna be
+a hockey player, okay?
+
+444
+00:28:47,625 --> 00:28:49,855
+So everybody wants to be
+something they're not.
+
+445
+00:28:50,061 --> 00:28:54,020
+And at the time,
+that was rampant at Apple.
+
+446
+00:29:44,249 --> 00:29:47,650
+When I got started was 1979...
+
+447
+00:29:47,852 --> 00:29:51,117
+...when I took spare parts
+and built an Apple II.
+
+448
+00:29:52,524 --> 00:29:56,961
+I tried to figure out how I could attach
+musical instruments to the computer...
+
+449
+00:29:57,162 --> 00:30:00,598
+...which led to why I needed to
+learn how to write code...
+
+450
+00:30:00,799 --> 00:30:03,962
+...which led to quitting college...
+
+451
+00:30:04,169 --> 00:30:07,764
+...which then led to getting a job...
+
+452
+00:30:07,972 --> 00:30:12,671
+...and then over the years,
+that turned into getting hired at Apple.
+
+453
+00:30:14,245 --> 00:30:16,941
+I was sort of informally
+in the QuickTime group as I was...
+
+454
+00:30:17,148 --> 00:30:20,379
+...a formal member of the OS team...
+
+455
+00:30:20,585 --> 00:30:23,645
+...although I didn't really
+report too well into that group.
+
+456
+00:30:23,855 --> 00:30:27,985
+We were always kind of a renegade
+kind of a group. But we got shit done.
+
+457
+00:30:28,193 --> 00:30:31,651
+But the work was the Sound Manager,
+which was this complete rewrite...
+
+458
+00:30:31,863 --> 00:30:33,990
+...that ended up
+fixing a lot of problems...
+
+459
+00:30:34,199 --> 00:30:36,690
+...and imported it from all this
+nasty assembly code...
+
+460
+00:30:36,901 --> 00:30:40,029
+...and rewrote it in C, and made it
+actually go like 10 times faster.
+
+461
+00:30:40,638 --> 00:30:43,471
+And then right about the same time
+we got the Sound Manager working...
+
+462
+00:30:43,975 --> 00:30:47,001
+...I started working
+inside of the moonlight hours...
+
+463
+00:30:47,212 --> 00:30:51,410
+...over in the forbidden zone of what
+the QuickTime guys were doing.
+
+464
+00:30:51,616 --> 00:30:53,447
+They were hiding out
+in the Networking building.
+
+465
+00:30:54,853 --> 00:30:57,219
+And the original idea was,
+"Now we got these CD-ROMs.
+
+466
+00:30:57,422 --> 00:31:01,119
+They're not just bigger floppies.
+What can we do with them?"
+
+467
+00:31:01,626 --> 00:31:04,026
+I know. Let's make movies.
+
+468
+00:31:04,229 --> 00:31:06,629
+And so that's where the postage-stamp
+movie idea came from...
+
+469
+00:31:06,831 --> 00:31:10,631
+...was you couldn't put one on a floppy,
+but you could put one on a CD-ROM.
+
+470
+00:31:11,135 --> 00:31:13,296
+So, you know,
+taking advantage of the new media.
+
+471
+00:31:13,504 --> 00:31:15,335
+So that was the basic idea
+for QuickTime.
+
+472
+00:31:15,540 --> 00:31:17,906
+And then that invented
+all these other ideas...
+
+473
+00:31:18,109 --> 00:31:20,942
+...of how do you compress audio,
+how do you compress video...
+
+474
+00:31:21,145 --> 00:31:23,978
+...how do you stream it, how do you
+play it, how do you synchronize it...
+
+475
+00:31:24,182 --> 00:31:27,379
+...how do you do all these things
+in real time, how do you control it?
+
+476
+00:31:27,585 --> 00:31:29,883
+And then QuickTime turned into
+this entire industry...
+
+477
+00:31:30,088 --> 00:31:32,113
+...based upon that basic idea.
+
+478
+00:31:32,323 --> 00:31:35,952
+The people on the outside think that,
+you know...
+
+479
+00:31:36,394 --> 00:31:39,295
+...it's like this wonderful world of
+Oz or Disney going on...
+
+480
+00:31:39,497 --> 00:31:42,227
+...and all of us are just all these
+brilliant, amazing, happy people.
+
+481
+00:31:42,433 --> 00:31:44,492
+And it's not.
+It's like a sausage factory, man.
+
+482
+00:31:44,702 --> 00:31:46,897
+You really don't wanna know
+how this stuff happens.
+
+483
+00:31:47,105 --> 00:31:50,506
+A lot of it is just bad arguments
+and politics...
+
+484
+00:31:50,708 --> 00:31:54,974
+...and working around the rules
+and not doing the right thing...
+
+485
+00:31:55,179 --> 00:31:59,115
+...and apologizing for it later,
+getting fired a few times.
+
+486
+00:31:59,317 --> 00:32:00,750
+I mean, that's how things got done.
+
+487
+00:32:00,952 --> 00:32:04,319
+It's definitely, like, don't pay attention
+to the man behind the curtain.
+
+488
+00:32:04,522 --> 00:32:05,784
+There's a lot of that stuff.
+
+489
+00:32:05,990 --> 00:32:08,584
+And you really don't wanna know
+how this stuff is built.
+
+490
+00:32:08,793 --> 00:32:10,283
+To me, it's embarrassing, like...
+
+491
+00:32:10,495 --> 00:32:13,726
+...there's always big flaws
+to a lot of the stuff, you know?
+
+492
+00:32:13,932 --> 00:32:19,632
+There was a computer that we shipped
+where the speaker's magnet...
+
+493
+00:32:19,837 --> 00:32:22,806
+...was right next to the hard drive.
+
+494
+00:32:24,809 --> 00:32:27,744
+Now, when you played a sound...
+
+495
+00:32:27,946 --> 00:32:33,043
+...it caused
+the hard drive's read-write head...
+
+496
+00:32:33,251 --> 00:32:35,776
+...to misalign.
+
+497
+00:32:35,987 --> 00:32:39,388
+So in the midst of, like,
+playing your QuickTime movie...
+
+498
+00:32:39,590 --> 00:32:43,117
+...your computer would completely freeze
+because it played a sound.
+
+499
+00:32:43,328 --> 00:32:46,661
+And I'm like, "What kind of engineers
+do we have around here...
+
+500
+00:32:46,864 --> 00:32:49,628
+...that would put a magnet
+right next to your hard drive?"
+
+501
+00:32:49,834 --> 00:32:53,702
+Jesus Christ, it's just a...
+It beeped and it crashed, you know?
+
+502
+00:32:53,905 --> 00:32:55,998
+Then they wanted me...
+This was the solution.
+
+503
+00:32:56,207 --> 00:32:59,870
+They wanted me to change the decibels
+of the speaker...
+
+504
+00:33:00,078 --> 00:33:02,308
+...so that it wouldn't interfere
+with the hard drive.
+
+505
+00:33:02,513 --> 00:33:03,673
+You're kidding me.
+
+506
+00:33:03,881 --> 00:33:06,941
+That's classic. See, you know,
+engineers are retarded.
+
+507
+00:33:07,151 --> 00:33:09,051
+They have
+some kind of brain damage...
+
+508
+00:33:09,253 --> 00:33:12,347
+...that allows them
+to not have social skills...
+
+509
+00:33:12,557 --> 00:33:15,287
+...so that they could concentrate
+long enough to write code.
+
+510
+00:33:15,493 --> 00:33:17,723
+But it's a disease.
+
+511
+00:33:18,329 --> 00:33:21,127
+That's why I had to quit. I mean,
+I'm like an engineer in recovery.
+
+512
+00:33:21,332 --> 00:33:22,959
+I don't wanna write code anymore.
+
+513
+00:33:23,167 --> 00:33:24,759
+It just makes you retarded.
+
+514
+00:33:24,969 --> 00:33:27,096
+I mean, get a girlfriend.
+
+515
+00:33:27,305 --> 00:33:29,296
+Get a life.
+
+516
+00:33:37,782 --> 00:33:40,910
+There were times
+when it was more difficult...
+
+517
+00:33:41,119 --> 00:33:43,519
+...you know, when Microsoft
+was at its strongest.
+
+518
+00:33:43,721 --> 00:33:46,588
+Yeah, when I think about comparing
+Microsoft and Apple...
+
+519
+00:33:46,791 --> 00:33:49,316
+...I think about the basic values
+of the company...
+
+520
+00:33:49,527 --> 00:33:51,620
+...being almost diametrically opposed.
+
+521
+00:33:51,829 --> 00:33:53,990
+They have managed
+to distinguished themselves...
+
+522
+00:33:54,198 --> 00:33:56,393
+...as the company that isn't Microsoft.
+
+523
+00:33:57,101 --> 00:34:00,161
+And I think there's a lot of Mac users
+who choose to use a Mac...
+
+524
+00:34:00,371 --> 00:34:03,568
+...for that reason,
+that isn't a Windows machine.
+
+525
+00:34:03,941 --> 00:34:07,342
+I've used Windows to the extent
+that I've had to use Windows.
+
+526
+00:34:09,514 --> 00:34:14,178
+And I just cannot understand
+some stuff there.
+
+527
+00:34:14,585 --> 00:34:16,746
+I've hated Windows
+for a number of years...
+
+528
+00:34:16,954 --> 00:34:18,080
+...and I could never figure out why.
+
+529
+00:34:19,557 --> 00:34:21,991
+And about three years ago, it finally
+hit me that the reason I hated it...
+
+530
+00:34:22,193 --> 00:34:24,252
+...was because
+it always makes me feel stupid.
+
+531
+00:34:24,462 --> 00:34:25,486
+I go to do something...
+
+532
+00:34:25,696 --> 00:34:28,529
+...it gives me a warning
+that I don't understand, it's cryptic.
+
+533
+00:34:29,100 --> 00:34:35,471
+But, you know, Microsoft was one of
+the first big developers for Apple.
+
+534
+00:34:35,673 --> 00:34:38,506
+I mean, they made a fortune
+developing software for Apple.
+
+535
+00:34:38,709 --> 00:34:42,110
+And also for the Mac. They're one
+of the first big Mac developers as well.
+
+536
+00:34:42,313 --> 00:34:44,713
+As far as the PC users...
+
+537
+00:34:46,784 --> 00:34:49,844
+...and Mac users being compared?
+
+538
+00:34:50,054 --> 00:34:54,991
+I really feel that there is a lot of
+give-and-take in the PC users' world...
+
+539
+00:34:55,193 --> 00:35:00,631
+...but that the PC users really get off
+on how complicated it is.
+
+540
+00:35:00,832 --> 00:35:02,390
+It makes them feel superior...
+
+541
+00:35:02,600 --> 00:35:05,433
+...when they sit down with somebody
+and totally confuse them.
+
+542
+00:35:05,636 --> 00:35:08,196
+And, you know,
+not every PC user is like that...
+
+543
+00:35:08,406 --> 00:35:11,034
+...but the ones that I have talked to...
+
+544
+00:35:11,242 --> 00:35:14,302
+...basically just love to rattle on
+technical information...
+
+545
+00:35:14,512 --> 00:35:17,777
+...at a mile a minute
+because it makes them look good.
+
+546
+00:35:18,082 --> 00:35:21,483
+Everything that, you know,
+went into Office, I think were initially...
+
+547
+00:35:21,686 --> 00:35:24,780
+...purchased from other companies
+and developed for the Mac.
+
+548
+00:35:24,989 --> 00:35:27,457
+And then, of course, you know,
+rolled into Windows.
+
+549
+00:35:27,658 --> 00:35:29,353
+And then they... You know, I mean...
+
+550
+00:35:29,560 --> 00:35:33,894
+...Bill Gates saw that the Mac
+operating system was the way to go.
+
+551
+00:35:34,098 --> 00:35:36,931
+And Windows, you know, 3.1
+borrowed heavily from that...
+
+552
+00:35:37,135 --> 00:35:39,399
+...and then Windows 95, 10 years later.
+
+553
+00:35:40,204 --> 00:35:41,933
+The rest is history.
+
+554
+00:35:54,952 --> 00:35:57,921
+To start us off in the right direction
+is an individual...
+
+555
+00:35:58,122 --> 00:36:01,216
+...who really needs little introduction.
+
+556
+00:36:10,768 --> 00:36:13,532
+After all... After all...
+
+557
+00:36:13,738 --> 00:36:17,765
+Steve Jobs has been around
+since the very first Macintosh.
+
+558
+00:36:18,342 --> 00:36:22,438
+So please join with me now
+and welcome, from Apple Computer...
+
+559
+00:36:22,647 --> 00:36:23,739
+...Steve Jobs.
+
+560
+00:36:30,955 --> 00:36:32,115
+Thank you.
+
+561
+00:36:34,926 --> 00:36:38,362
+The last several weeks, we have
+looked at some of the relationships.
+
+562
+00:36:38,563 --> 00:36:41,464
+And I'd like to announce
+one of our first partnerships today...
+
+563
+00:36:41,666 --> 00:36:43,429
+...a very, very meaningful one.
+
+564
+00:36:43,634 --> 00:36:46,068
+And that is one with Microsoft.
+
+565
+00:36:47,772 --> 00:36:50,332
+One of the things that I hear
+over and over again...
+
+566
+00:36:50,541 --> 00:36:52,566
+...always from Windows people,
+of course...
+
+567
+00:36:52,777 --> 00:36:55,746
+...is that Microsoft saved Apple
+from certain doom...
+
+568
+00:36:55,947 --> 00:36:58,745
+...by giving them $150 million.
+
+569
+00:36:58,950 --> 00:37:02,317
+Well, if you look at the whole story,
+Steve negotiated agreement...
+
+570
+00:37:02,520 --> 00:37:06,320
+...where Microsoft agreed to produce
+Office for another five years.
+
+571
+00:37:06,524 --> 00:37:08,151
+Apple wasn't gonna compete
+with them.
+
+572
+00:37:08,359 --> 00:37:10,623
+At the same time,
+Microsoft made an investment...
+
+573
+00:37:10,828 --> 00:37:15,026
+...of $150 million in Apple stock
+that particular day.
+
+574
+00:37:15,233 --> 00:37:16,700
+That served two purposes:
+
+575
+00:37:16,901 --> 00:37:22,635
+One, it made it look like Microsoft
+was confident in Apple's survival...
+
+576
+00:37:22,840 --> 00:37:25,673
+...because they wouldn't have
+bought stock if they didn't.
+
+577
+00:37:25,876 --> 00:37:29,073
+And secondly,
+it kind of cemented the agreement that...
+
+578
+00:37:29,280 --> 00:37:32,716
+...we're not only sure you're
+gonna be successful with this product...
+
+579
+00:37:32,917 --> 00:37:36,114
+...we're gonna back it up
+by buying some stock so we're part of it.
+
+580
+00:37:36,320 --> 00:37:38,686
+We're not only a competitor
+in producing software...
+
+581
+00:37:38,889 --> 00:37:41,380
+...we're a partner and owning stock.
+
+582
+00:37:41,592 --> 00:37:43,150
+What most people don't tell you...
+
+583
+00:37:43,361 --> 00:37:46,626
+...is that they didn't need the money
+from Microsoft to survive...
+
+584
+00:37:46,831 --> 00:37:48,355
+...this was all a marketing game.
+
+585
+00:37:48,566 --> 00:37:50,796
+And a lot of Windows people
+don't understand that.
+
+586
+00:37:51,002 --> 00:37:53,027
+Microsoft didn't save Apple.
+
+587
+00:37:53,237 --> 00:37:55,603
+And if we wanna move forward...
+
+588
+00:37:55,806 --> 00:37:58,707
+...and see Apple healthy
+and prospering again...
+
+589
+00:37:58,909 --> 00:38:00,877
+...we have to let go of a few things here.
+
+590
+00:38:01,078 --> 00:38:04,514
+We have to let go of this notion
+that for Apple to win...
+
+591
+00:38:04,715 --> 00:38:07,741
+...Microsoft has to lose, okay?
+
+592
+00:38:11,689 --> 00:38:14,123
+We have to embrace the notion
+that for Apple to win...
+
+593
+00:38:14,325 --> 00:38:15,986
+...Apple has to do a really good job.
+
+594
+00:39:21,592 --> 00:39:23,992
+What makes companies
+very successful...
+
+595
+00:39:24,195 --> 00:39:27,358
+...and what makes companies fail
+is the same thing.
+
+596
+00:39:27,565 --> 00:39:33,162
+It's sort of the passionate adherence
+to a strategy.
+
+597
+00:39:33,371 --> 00:39:37,239
+People who are passionately involved
+in a concept or philosophy...
+
+598
+00:39:37,441 --> 00:39:42,606
+...a design, a product, all right,
+will put everything of themselves into it.
+
+599
+00:39:42,947 --> 00:39:47,577
+And you don't want somebody designing
+a product who isn't passionate about it.
+
+600
+00:39:47,785 --> 00:39:50,481
+Innovation is...
+
+601
+00:39:50,688 --> 00:39:55,921
+It's really the only interesting thing.
+If you're not innovating, what's the point?
+
+602
+00:39:56,127 --> 00:39:59,096
+When Apple creates through engineering
+something very cool...
+
+603
+00:39:59,296 --> 00:40:01,764
+...that people want to buy, it does well.
+
+604
+00:40:01,966 --> 00:40:04,230
+And when it doesn't, it doesn't.
+
+605
+00:40:04,435 --> 00:40:08,098
+So, you know, guess what.
+Newton didn't succeed.
+
+606
+00:40:08,305 --> 00:40:12,298
+Apple III didn't succeed.
+Lisa didn't succeed.
+
+607
+00:40:12,610 --> 00:40:15,579
+If you stand back and you look at
+the Macintosh, the Macintosh line...
+
+608
+00:40:15,780 --> 00:40:18,578
+...everything they implement
+into their computers has personality.
+
+609
+00:40:19,083 --> 00:40:22,985
+It's like the difference
+between owning a Ferrari...
+
+610
+00:40:23,187 --> 00:40:26,987
+...versus owning, you know,
+just a Ford Taurus.
+
+611
+00:40:27,191 --> 00:40:30,957
+You know, it's sleeker style, design,
+it's fun to drive...
+
+612
+00:40:31,362 --> 00:40:33,922
+...you know, versus one
+that you just use to get to work.
+
+613
+00:40:34,131 --> 00:40:39,068
+So Macintosh was the mega hit,
+but what was the first company...
+
+614
+00:40:39,270 --> 00:40:42,831
+...that really made CD-ROM drives
+on every computer?
+
+615
+00:40:43,040 --> 00:40:46,134
+Guess what. It was Apple.
+
+616
+00:40:46,343 --> 00:40:49,710
+Guess who democratized 802.11.
+
+617
+00:40:50,648 --> 00:40:52,741
+AirPort and Apple, right?
+
+618
+00:40:54,785 --> 00:40:58,186
+And so how about FireWire?
+Who made that a standard?
+
+619
+00:40:58,389 --> 00:41:00,220
+How about USB?
+
+620
+00:41:00,424 --> 00:41:03,291
+Some companies can think
+you can innovate too fast...
+
+621
+00:41:03,494 --> 00:41:07,089
+...because you don't sort of
+milk the cash cow...
+
+622
+00:41:07,298 --> 00:41:09,095
+...to the maximum before moving on.
+
+623
+00:41:09,300 --> 00:41:11,461
+That's not the way Apple usually thinks.
+
+624
+00:41:11,969 --> 00:41:14,767
+So after a while, it's not just the big hit,
+it's also...
+
+625
+00:41:14,972 --> 00:41:17,770
+You know, you can say
+that these revolutions...
+
+626
+00:41:17,975 --> 00:41:23,038
+...were caused by little uprisings
+that Apple, you know, made successful.
+
+627
+00:41:23,247 --> 00:41:24,737
+The mouse.
+
+628
+00:41:24,949 --> 00:41:27,383
+Now, someone could say,
+"Well, PARC had the mouse"...
+
+629
+00:41:27,585 --> 00:41:31,180
+...and all that, but, you know, PARC
+didn't make it a commercial success.
+
+630
+00:41:31,655 --> 00:41:33,145
+Apple sort of...
+
+631
+00:41:33,357 --> 00:41:35,951
+and it basically comes from
+both Steve Jobs and Steve Wozniak,
+
+632
+00:41:36,160 --> 00:41:38,128
+they don't really care about that.
+
+633
+00:41:38,329 --> 00:41:41,890
+Sure, they wanna make money,
+but that's not what it's about.
+
+634
+00:41:42,099 --> 00:41:43,657
+It's artistic values.
+
+635
+00:41:43,868 --> 00:41:46,735
+Apple wants to do
+the greatest thing possible.
+
+636
+00:41:46,937 --> 00:41:50,429
+They don't compare themselves
+to someone else. Who cares about...?
+
+637
+00:41:50,641 --> 00:41:53,235
+Other people can do great things too.
+That's great.
+
+638
+00:41:53,444 --> 00:41:57,642
+It's more, like, you know,
+being transcendently brilliant.
+
+639
+00:41:57,848 --> 00:42:01,215
+No matter how well you've done it,
+how can you make it better?
+
+640
+00:42:03,320 --> 00:42:06,653
+I would like to hear
+what Jonathan Ive would say.
+
+641
+00:42:09,126 --> 00:42:10,184
+His design is so inspired.
+
+642
+00:42:10,394 --> 00:42:13,454
+It's like it's divine providence
+or something.
+
+643
+00:42:13,664 --> 00:42:17,031
+He has a team of, like,
+phenomenally talented people...
+
+644
+00:42:17,234 --> 00:42:19,202
+...and they keep working on a problem...
+
+645
+00:42:19,403 --> 00:42:21,803
+...until they come up
+with something fresh and new.
+
+646
+00:42:22,006 --> 00:42:26,636
+You know, like the scroll wheel
+on the iPod or that Luxo-Iooking iMac.
+
+647
+00:42:26,844 --> 00:42:30,336
+If you look at what Apple does,
+after it does it...
+
+648
+00:42:30,548 --> 00:42:32,539
+...one thing you always have to say is:
+
+649
+00:42:32,750 --> 00:42:35,548
+"How come nobody else
+did this before?" Right?
+
+650
+00:42:35,753 --> 00:42:41,123
+There's nothing, like, mythical
+about the iPod and the wheel, right?
+
+651
+00:42:41,325 --> 00:42:42,622
+Anybody could have done that.
+
+652
+00:42:42,826 --> 00:42:48,025
+You know, the colored iMacs
+changed design in everything.
+
+653
+00:42:49,133 --> 00:42:50,862
+You know
+even on the lids of PowerBooks...
+
+654
+00:42:51,068 --> 00:42:52,831
+...you know,
+they open up very smoothly...
+
+655
+00:42:53,037 --> 00:42:56,097
+...because they have
+this weird counterbalancing system...
+
+656
+00:42:56,307 --> 00:42:59,435
+...and no one is ever gonna see this.
+
+657
+00:42:59,643 --> 00:43:03,443
+It's not something that consumers
+will actually go out and buy.
+
+658
+00:43:06,083 --> 00:43:10,110
+So wouldn't you think that some
+of these computer companies would say:
+
+659
+00:43:11,088 --> 00:43:14,785
+"Apple does well
+because it has beautiful products.
+
+660
+00:43:14,992 --> 00:43:20,726
+So how much could the most expensive
+industrial designer in the world cost?"
+
+661
+00:43:21,632 --> 00:43:24,658
+You know, a million dollars
+a year in salary?
+
+662
+00:43:24,868 --> 00:43:27,359
+Two million dollars a year?
+Five million dollars?
+
+663
+00:43:27,571 --> 00:43:29,732
+That's what makes these products
+so beautiful...
+
+664
+00:43:29,940 --> 00:43:34,172
+...that level of commitment
+and dedication to the thing...
+
+665
+00:43:34,378 --> 00:43:36,209
+...to make it the best thing possible.
+
+666
+00:43:36,413 --> 00:43:42,010
+I'll tell you what, I'll take you to Fry's
+and I will you show you lines of crap.
+
+667
+00:43:42,219 --> 00:43:48,818
+Ugly portables, ugly towers,
+ugly monitors, ugly MP3 players.
+
+668
+00:43:49,026 --> 00:43:50,789
+Why is that?
+
+669
+00:43:50,995 --> 00:43:53,122
+I guess in a sense,
+it proves the point...
+
+670
+00:43:53,330 --> 00:43:55,764
+...that these people
+don't know what to steal.
+
+671
+00:43:55,966 --> 00:43:57,797
+They don't know what to steal.
+
+672
+00:44:08,178 --> 00:44:10,510
+They seem to be all kinds
+of different people.
+
+673
+00:44:10,714 --> 00:44:13,649
+You think that the prototypical Mac
+users seem to be...
+
+674
+00:44:13,851 --> 00:44:16,843
+...like the graphic designer, you know,
+who lives in New York...
+
+675
+00:44:17,054 --> 00:44:21,753
+...or San Francisco, is liberal,
+you know, young, sort of hip.
+
+676
+00:44:21,959 --> 00:44:25,395
+You know,
+there's a lot of different age groups...
+
+677
+00:44:25,596 --> 00:44:28,030
+...a lot of different income brackets.
+
+678
+00:44:28,232 --> 00:44:30,257
+A lot of people
+who are in a lot of different jobs...
+
+679
+00:44:30,467 --> 00:44:32,128
+...a lot of different professions.
+
+680
+00:44:32,336 --> 00:44:36,739
+Although Apple would like you to think
+that everybody is a young buck...
+
+681
+00:44:36,940 --> 00:44:38,771
+...that's 20 years old that has a Mac...
+
+682
+00:44:38,976 --> 00:44:41,410
+...the truth is
+most of the user group members...
+
+683
+00:44:41,612 --> 00:44:45,446
+...are between 55
+and a hundred years old.
+
+684
+00:44:45,949 --> 00:44:49,407
+Well, I think the Apple community
+has stayed remarkably consistent.
+
+685
+00:44:49,620 --> 00:44:53,215
+It's people who love good engineering,
+they love product design.
+
+686
+00:44:53,424 --> 00:44:56,154
+They love being different.
+No pun intended.
+
+687
+00:44:56,360 --> 00:44:59,124
+They love probably being the underdog.
+
+688
+00:44:59,329 --> 00:45:02,355
+But then you ask marketers... You know,
+there are marketing guys...
+
+689
+00:45:02,566 --> 00:45:05,535
+...and they're convinced
+that Apple is a brand.
+
+690
+00:45:05,736 --> 00:45:10,969
+And it conjures up brand associations
+of creativity and liberty, freedom.
+
+691
+00:45:11,175 --> 00:45:14,110
+And people are buying into the brand,
+the way they buy a Coke...
+
+692
+00:45:14,311 --> 00:45:17,075
+...or beer or a car or a pair of sneakers.
+
+693
+00:45:17,281 --> 00:45:20,079
+It says something about them
+and their personality.
+
+694
+00:45:20,284 --> 00:45:22,809
+So I think people might be
+a little more attracted...
+
+695
+00:45:23,020 --> 00:45:26,251
+...to the rebelliousness of it.
+
+696
+00:45:26,457 --> 00:45:30,951
+I mean, you're the anti crowd anyway
+because you don't have a PC, right?
+
+697
+00:45:41,505 --> 00:45:45,339
+For a lot of people, it's a revelation when
+they go to Macworld to see other Mac users.
+
+698
+00:45:45,542 --> 00:45:48,978
+It's amazing. They never knew
+all these people were out there.
+
+699
+00:45:51,815 --> 00:45:54,340
+Yeah, actually,
+I went to my first Macworld this year...
+
+700
+00:45:54,551 --> 00:45:56,610
+...which turned out to be
+a good one to go to.
+
+701
+00:45:56,820 --> 00:45:59,050
+That was when
+they introduced the iPhone.
+
+702
+00:45:59,256 --> 00:46:02,623
+So actually, what I wanna do...
+Switch over to Danny.
+
+703
+00:46:02,826 --> 00:46:03,884
+Hey, Danny.
+
+704
+00:46:04,094 --> 00:46:06,790
+People take their vacations
+at Macworld.
+
+705
+00:46:06,997 --> 00:46:10,626
+That'll be like a weeks' vacation
+just to go to Macworld.
+
+706
+00:46:11,235 --> 00:46:12,930
+Probably 15th.
+
+707
+00:46:13,137 --> 00:46:17,198
+I missed last year and Janet and I,
+my wife, we really regretted it...
+
+708
+00:46:17,407 --> 00:46:21,673
+...because we really like coming here
+and meeting with people.
+
+709
+00:46:21,879 --> 00:46:26,248
+You know, I've seen people show up
+with these giant suitcases.
+
+710
+00:46:26,450 --> 00:46:30,045
+These huge suitcases,
+you know, the ones on wheels, empty.
+
+711
+00:46:30,254 --> 00:46:33,155
+Just for all the crap
+they're gonna collect at Macworld.
+
+712
+00:46:33,357 --> 00:46:36,087
+All that leaflets
+and the freebies and the buttons.
+
+713
+00:46:37,728 --> 00:46:40,196
+I did get my T-shirt, yeah.
+That I made sure of.
+
+714
+00:46:41,265 --> 00:46:43,961
+It's just like being on a casino floor
+at Las Vegas.
+
+715
+00:46:44,168 --> 00:46:46,864
+You know, without the cigarette smoke
+or the drinks.
+
+716
+00:46:47,070 --> 00:46:49,834
+So you're horribly sober
+and people are barging into you...
+
+717
+00:46:50,040 --> 00:46:52,941
+...and screaming and shrieking.
+
+718
+00:46:53,377 --> 00:46:54,935
+You know, I've been at Macworld...
+
+719
+00:46:55,145 --> 00:46:57,943
+...and Jobs will whip out, you know,
+some new machine.
+
+720
+00:46:58,148 --> 00:46:59,979
+And my God,
+I've gotta have that machine.
+
+721
+00:47:00,184 --> 00:47:02,015
+Even though I've already got
+six computers.
+
+722
+00:47:02,219 --> 00:47:03,982
+I've gotta have that one
+he's just unveiled.
+
+723
+00:47:04,188 --> 00:47:07,646
+Why? Because it's faster,
+or it's got a silver case...
+
+724
+00:47:07,858 --> 00:47:09,792
+...or it's got,
+you know, Bluetooth built-in...
+
+725
+00:47:09,993 --> 00:47:11,984
+...or something
+just crazy and stupid, really.
+
+726
+00:47:12,196 --> 00:47:14,357
+But I got to have that machine.
+
+727
+00:47:31,748 --> 00:47:35,309
+So just before Apple
+is about to open a brand-new store...
+
+728
+00:47:35,519 --> 00:47:37,146
+...a lot of people
+will camp out outside...
+
+729
+00:47:37,354 --> 00:47:39,618
+...just for the honor
+of being the first inside.
+
+730
+00:47:39,823 --> 00:47:42,485
+There are lot of people who
+are really passionate about it.
+
+731
+00:47:42,693 --> 00:47:44,854
+When they opened up the Apple store,
+I went out...
+
+732
+00:47:45,062 --> 00:47:48,896
+...there was 3-, 400 people who camped
+out overnight to get into the store.
+
+733
+00:47:49,099 --> 00:47:51,727
+And then by the time they opened it,
+there was several thousand.
+
+734
+00:47:51,935 --> 00:47:54,335
+I figure, 2-, 3-, 4000 people.
+
+735
+00:47:54,538 --> 00:47:58,065
+And they were wrapped around
+the block, you know, a couple of times.
+
+736
+00:47:58,275 --> 00:48:02,211
+And before Apple had Mac stores,
+you know, across the country...
+
+737
+00:48:02,412 --> 00:48:06,371
+...a lot of people would go hang out
+at their, like, mom-and-pop Apple store.
+
+738
+00:48:06,583 --> 00:48:10,519
+People would come in
+with their broken down computer...
+
+739
+00:48:10,721 --> 00:48:14,088
+...intending just to drop it off,
+but they'd end up staying all day.
+
+740
+00:48:14,291 --> 00:48:16,725
+They start bullshiting,
+talking to the other people...
+
+741
+00:48:16,927 --> 00:48:19,327
+...they would meet
+other people who are like...
+
+742
+00:48:19,529 --> 00:48:20,757
+They don't have anything in common...
+
+743
+00:48:20,964 --> 00:48:22,556
+...except they're Mac users
+and that's enough.
+
+744
+00:48:22,766 --> 00:48:24,700
+You know, to cement it for them.
+
+745
+00:48:28,372 --> 00:48:31,136
+Yeah, this is a ma-and-pa business,
+absolutely.
+
+746
+00:48:31,341 --> 00:48:33,536
+And I couldn't have three stores
+without them.
+
+747
+00:48:35,245 --> 00:48:38,214
+One of my stores is managed
+by my oldest son who's 27.
+
+748
+00:48:39,616 --> 00:48:41,584
+He manages the Ventura store.
+
+749
+00:48:42,152 --> 00:48:46,714
+My wife manages this store
+while I manage the Woodland Hills store.
+
+750
+00:48:46,924 --> 00:48:49,484
+I have two daughters
+who are teenagers.
+
+751
+00:48:49,693 --> 00:48:52,025
+Jessica works here regularly...
+
+752
+00:48:52,229 --> 00:48:55,289
+...Kayla comes over
+and kind of participates.
+
+753
+00:48:55,499 --> 00:49:00,402
+My little boy, he works here daily.
+He mans the little kid's station.
+
+754
+00:49:00,604 --> 00:49:03,198
+This is definitely his operation.
+
+755
+00:49:03,407 --> 00:49:08,606
+You know, he captures the attention
+of most women and all kids.
+
+756
+00:49:10,213 --> 00:49:12,841
+At one point,
+I became a real Mac person because...
+
+757
+00:49:13,050 --> 00:49:15,848
+- I'm not sure how it happened, but...
+- Okay. How are you doing?
+
+758
+00:49:16,053 --> 00:49:19,352
+They were just computers
+and all of a sudden I realized...
+
+759
+00:49:19,556 --> 00:49:22,684
+...you know, I am a Mac advocate.
+I do push this stuff.
+
+760
+00:49:22,893 --> 00:49:25,623
+Not just trying to sell it
+because it's my business...
+
+761
+00:49:25,829 --> 00:49:28,559
+...but because they work well.
+I don't bang my head on them.
+
+762
+00:49:28,765 --> 00:49:30,494
+Stop it, that's not nice.
+
+763
+00:49:31,034 --> 00:49:34,800
+So here's what's happening,
+there is a sound mike right there.
+
+764
+00:49:35,005 --> 00:49:38,236
+- Every time you talk, you interfere with it.
+- It's in there.
+
+765
+00:49:38,442 --> 00:49:40,103
+Sorry.
+
+766
+00:49:40,477 --> 00:49:45,312
+- This was my first foray into retail.
+- Look how cute I am.
+
+767
+00:49:45,582 --> 00:49:47,311
+Successful?
+
+768
+00:49:47,517 --> 00:49:50,816
+I'm putting everything back into it,
+working to make it successful.
+
+769
+00:49:51,021 --> 00:49:53,387
+So this started out just as an idea.
+
+770
+00:49:53,590 --> 00:49:55,751
+I'm trying to figure out new ways
+to advertise.
+
+771
+00:49:55,959 --> 00:49:59,395
+First I tossed it out to the guys
+in the Apple specialist group.
+
+772
+00:49:59,596 --> 00:50:02,224
+And I got
+maybe three or four responses...
+
+773
+00:50:02,432 --> 00:50:04,992
+...from people
+who have done similar things.
+
+774
+00:50:05,302 --> 00:50:08,430
+I didn't see any pictures
+of full-car wraps.
+
+775
+00:50:09,139 --> 00:50:11,630
+But I looked on the web
+and I saw all kinds of cars...
+
+776
+00:50:11,842 --> 00:50:14,572
+...that were wrapped
+with full-body designs, and I liked it.
+
+777
+00:50:14,778 --> 00:50:16,803
+It seemed like it could work.
+
+778
+00:50:17,014 --> 00:50:20,677
+I'm trying to become a retailer
+and learning new things about it.
+
+779
+00:50:20,884 --> 00:50:23,978
+The big box guys don't entertain me
+when I go into their stores...
+
+780
+00:50:24,187 --> 00:50:26,018
+...but they've got mountains of product.
+
+781
+00:50:26,223 --> 00:50:29,420
+They've got negotiating power,
+the likes of which I can never imagine.
+
+782
+00:50:29,626 --> 00:50:33,323
+But hopefully we give
+a little bit better experience.
+
+783
+00:50:33,530 --> 00:50:35,555
+Ninety percent of the things I do
+doesn't work.
+
+784
+00:50:35,766 --> 00:50:38,234
+Hopefully, the 10 percent that works...
+
+785
+00:50:38,435 --> 00:50:42,064
+It seems like it's paying for itself.
+Pushing things forward, so...
+
+786
+00:50:42,272 --> 00:50:44,331
+I'm gonna keep on trying.
+
+787
+00:50:45,842 --> 00:50:48,709
+People like us keep the machines
+around for so much longer.
+
+788
+00:50:48,912 --> 00:50:51,403
+I mean, I don't think
+PC owners really do that.
+
+789
+00:50:51,615 --> 00:50:52,980
+But, you know, a Mac user...
+
+790
+00:50:53,183 --> 00:50:55,208
+They'll keep
+an old machine around forever...
+
+791
+00:50:55,419 --> 00:50:57,216
+...if it's lights are still running.
+
+792
+00:50:57,421 --> 00:51:00,822
+We've all got old Macs,
+like, you can't bear to throw away...
+
+793
+00:51:01,024 --> 00:51:03,891
+...in a basement,
+or in a cupboard somewhere in the attic.
+
+794
+00:51:04,094 --> 00:51:07,552
+They're hard to part with. You figure
+one day you're gonna dust them off...
+
+795
+00:51:07,764 --> 00:51:09,595
+...do something with them.
+You never do.
+
+796
+00:51:09,800 --> 00:51:13,167
+They just sit, rotting away.
+There's a lot of people that collect them.
+
+797
+00:51:13,370 --> 00:51:15,895
+But some of them are more serious
+than others.
+
+798
+00:51:17,941 --> 00:51:19,340
+Okay.
+
+799
+00:51:19,743 --> 00:51:24,612
+Up first, this is our G3 monitor.
+Very rare.
+
+800
+00:51:24,815 --> 00:51:27,045
+When this came in...
+A friend of mine brought it in.
+
+801
+00:51:27,250 --> 00:51:28,842
+- it's the first time I'd ever seen it.
+
+802
+00:51:29,052 --> 00:51:33,546
+I didn't even know that Apple made it,
+but it was... Got the Apple logo on it.
+
+803
+00:51:33,757 --> 00:51:35,816
+And it was made for the G3 tower.
+
+804
+00:51:36,460 --> 00:51:37,927
+This is Apple's entry...
+
+805
+00:51:38,128 --> 00:51:43,725
+- It's got the Apple logo on it - 
+into the portable printer...
+
+806
+00:51:43,934 --> 00:51:45,265
+You recognize, these?
+
+807
+00:51:45,702 --> 00:51:48,728
+Black with the Bell + Howell
+name on them.
+
+808
+00:51:49,573 --> 00:51:51,871
+Apple made it for Bell + Howell.
+
+809
+00:51:52,075 --> 00:51:55,010
+And they were mainly education.
+
+810
+00:52:00,016 --> 00:52:04,316
+I started buying a couple
+of these machines from people I know.
+
+811
+00:52:04,521 --> 00:52:06,887
+And then refurbishing them.
+
+812
+00:52:07,090 --> 00:52:13,359
+Here's my II Plus that I purchased
+originally, way back when.
+
+813
+00:52:13,563 --> 00:52:16,896
+I replaced my Apple II Plus
+with an Apple IIc.
+
+814
+00:52:17,334 --> 00:52:21,566
+I should've thrown the II Plus away,
+but never did.
+
+815
+00:52:21,771 --> 00:52:24,171
+No, this is like
+our conference room that is...
+
+816
+00:52:24,374 --> 00:52:28,606
+I ran out of space to fix my laptops,
+so I started fixing them in here.
+
+817
+00:52:28,812 --> 00:52:33,977
+I didn't wanna see a nice room
+go to waste, so I put more stuff in it.
+
+818
+00:52:34,184 --> 00:52:38,780
+In education, this is probably one of
+the biggest ones, these <i>Microzines</i>.
+
+819
+00:52:38,989 --> 00:52:42,755
+Where it's like a magazine
+and a diskette.
+
+820
+00:52:42,959 --> 00:52:44,654
+Almost every school had these.
+
+821
+00:52:48,365 --> 00:52:53,268
+Here's my 20th anniversary
+and everybody's favorite, the Cube.
+
+822
+00:52:53,803 --> 00:52:56,271
+Here's a cool machine, Mac mini.
+
+823
+00:52:56,473 --> 00:52:59,772
+They hit a home run
+when they made this.
+
+824
+00:53:00,577 --> 00:53:02,442
+Here's something that's...
+
+825
+00:53:02,646 --> 00:53:05,308
+Three-and-a-half-inch diskettes,
+still shrink-wrapped.
+
+826
+00:53:05,515 --> 00:53:09,281
+They have the old, old, old Apple logo.
+
+827
+00:53:09,486 --> 00:53:13,115
+Apple's had several different logos
+over the years.
+
+828
+00:53:13,323 --> 00:53:15,553
+And that's one of the old ones.
+
+829
+00:53:16,393 --> 00:53:21,126
+You may think it's an Apple IIe,
+but when you take this cover off...
+
+830
+00:53:21,331 --> 00:53:24,664
+...you may still think it's an Apple IIe,
+but it's not.
+
+831
+00:53:24,868 --> 00:53:29,635
+Apple IIGS before the IIGS cases
+were made.
+
+832
+00:53:30,240 --> 00:53:33,403
+Anything interesting over here?
+
+833
+00:53:33,610 --> 00:53:35,043
+No.
+
+834
+00:53:35,912 --> 00:53:37,379
+And the I bought a IIe.
+
+835
+00:53:37,581 --> 00:53:40,448
+Then I bought a IIe
+with a numeric keypad.
+
+836
+00:53:40,650 --> 00:53:43,084
+I should've been throwing these away,
+but never did...
+
+837
+00:53:43,286 --> 00:53:45,049
+...so maybe that was my training.
+
+838
+00:53:46,456 --> 00:53:48,822
+Junk. That's a long name for junk.
+
+839
+00:53:49,726 --> 00:53:54,925
+Back here, we made some kind
+of attempt at putting things on shelves.
+
+840
+00:53:55,599 --> 00:53:57,123
+Dual drives.
+
+841
+00:53:57,334 --> 00:54:01,498
+The Apple 51/4s. The Apple 31/2s.
+
+842
+00:54:01,705 --> 00:54:05,471
+Some Apple printers.
+Apple keyboards, Apple mice.
+
+843
+00:54:07,611 --> 00:54:10,739
+Original boxes that are empty...
+
+844
+00:54:11,181 --> 00:54:13,843
+...that I just ain't got the heart
+to throw away.
+
+845
+00:54:14,618 --> 00:54:16,677
+Just don't film my butt
+as I'm going up here.
+
+846
+00:54:16,886 --> 00:54:20,754
+- Oh, I won't, I won't.
+- Just watch your step up here, Rob.
+
+847
+00:54:20,957 --> 00:54:25,985
+Okay, we're in the bowels of the building,
+up in the rafters.
+
+848
+00:54:26,196 --> 00:54:29,688
+There was too much nice space up here
+that we didn't wanna waste.
+
+849
+00:54:29,899 --> 00:54:36,202
+So we built little shelves
+so we could put all our IIe's, II Pluses.
+
+850
+00:54:36,973 --> 00:54:39,066
+And it looks like critters
+have been up here...
+
+851
+00:54:39,276 --> 00:54:43,736
+...because some have
+fallen down on the insulation.
+
+852
+00:54:45,515 --> 00:54:50,885
+Apple II monitors, GS monitors,
+and every single one works.
+
+853
+00:54:51,288 --> 00:54:53,950
+They were tested
+before we put them up here.
+
+854
+00:54:54,491 --> 00:54:57,654
+Back here is a storage shed.
+
+855
+00:54:57,861 --> 00:55:02,855
+It was meant to hold the things
+that were in my basement.
+
+856
+00:55:03,066 --> 00:55:08,402
+And luckily we built a little bit bigger
+than what I intended.
+
+857
+00:55:09,272 --> 00:55:11,502
+Bell + Howells.
+
+858
+00:55:12,375 --> 00:55:13,933
+These things are going on eBay...
+
+859
+00:55:14,144 --> 00:55:17,272
+I've seen them as high as,
+6-, 700 bucks.
+
+860
+00:55:18,081 --> 00:55:23,246
+It's not ever been a money issue,
+collecting or disposing of the Apples.
+
+861
+00:55:24,487 --> 00:55:28,480
+It's probably a sickness that I have.
+
+862
+00:55:29,459 --> 00:55:34,362
+I have the 128 Mac in hiding.
+
+863
+00:55:34,564 --> 00:55:37,362
+A lot of the SEs, SE/30s.
+
+864
+00:55:37,567 --> 00:55:39,865
+Classics.
+
+865
+00:55:40,070 --> 00:55:41,799
+Only a couple Color Classics.
+
+866
+00:55:43,106 --> 00:55:49,875
+Six-thousand square feet building
+and this is only maybe...
+
+867
+00:55:50,080 --> 00:55:52,878
+...less than half of what I have.
+
+868
+00:55:54,017 --> 00:55:56,247
+There are probably
+other Mac people out there...
+
+869
+00:55:56,453 --> 00:55:59,513
+...same boat as I am,
+that just won't throw this stuff away.
+
+870
+00:56:03,293 --> 00:56:05,454
+So I see all these
+complaints about <i>Cult of Mac.</i>
+
+871
+00:56:06,863 --> 00:56:08,854
+"What are...? It's not a cult.
+This a rational choice."
+
+872
+00:56:09,065 --> 00:56:12,466
+And these are all these new Windows
+people that have just come onboard.
+
+873
+00:56:12,669 --> 00:56:16,503
+You know, and are sort of defensive
+about it a little still.
+
+874
+00:56:16,706 --> 00:56:19,869
+Because their other Windows
+friends who haven't crossed over yet.
+
+875
+00:56:20,076 --> 00:56:21,805
+There's that Macintosh cult following.
+
+876
+00:56:23,213 --> 00:56:26,080
+You don't get a following for nothing,
+you know? You get a...
+
+877
+00:56:26,282 --> 00:56:29,308
+If it's a good product
+and it makes people excited...
+
+878
+00:56:29,519 --> 00:56:31,248
+You can have lots of good products.
+
+879
+00:56:31,454 --> 00:56:33,888
+They are lots of good products.
+I got a skillet and it's good.
+
+880
+00:56:34,090 --> 00:56:36,058
+But I'm not crazy about the skillet.
+
+881
+00:56:36,393 --> 00:56:39,590
+Well, it's always been
+kind of interesting.
+
+882
+00:56:39,796 --> 00:56:43,095
+There's definitely a fanatical
+sort of zealotry of Mac people.
+
+883
+00:56:44,734 --> 00:56:49,569
+You know?
+It's not a religion. It's a computer.
+
+884
+00:56:49,973 --> 00:56:53,374
+I got a lawn mower too,
+but I don't sit around talking about it.
+
+885
+00:56:53,576 --> 00:56:54,634
+Yeah, I mean...
+
+886
+00:56:54,844 --> 00:56:57,074
+So I cut my grass, whatever, you know?
+
+887
+00:56:57,280 --> 00:56:59,145
+I type a Word document.
+
+888
+00:56:59,349 --> 00:57:02,807
+It's a screwdriver or it's a blender,
+you know, like whatever.
+
+889
+00:57:03,019 --> 00:57:06,011
+You know, I'm not really in love
+with my Mac.
+
+890
+00:57:06,222 --> 00:57:09,589
+I like a good movie
+more than I do a good Mac, you know.
+
+891
+00:57:09,793 --> 00:57:12,523
+I like good beverages
+more than my computer.
+
+892
+00:57:36,653 --> 00:57:38,746
+I watch the rumor sites like a hawk.
+
+893
+00:57:40,156 --> 00:57:44,559
+And I was a little more lucky this time
+because my Blue and White G3...
+
+894
+00:57:44,761 --> 00:57:48,663
+...we got it and then the G4 came out
+two weeks later. It's like, "What?"
+
+895
+00:57:48,865 --> 00:57:51,493
+Look how they're suing bloggers now,
+you know...
+
+896
+00:57:51,701 --> 00:57:55,159
+...for revealing some details
+about a very insignificant product.
+
+897
+00:57:56,606 --> 00:58:00,633
+Although, it's a problem that's plagued
+the company, this kind of rumor control.
+
+898
+00:58:02,212 --> 00:58:07,673
+I get between 2500
+and 3000 unique visitors a day.
+
+899
+00:58:07,884 --> 00:58:11,411
+And which is, you know,
+for the fact that I'm just putting up...
+
+900
+00:58:12,989 --> 00:58:15,389
+...goofy little jokes
+about a computer company...
+
+901
+00:58:15,592 --> 00:58:17,287
+...I think that's pretty good.
+
+902
+00:58:17,494 --> 00:58:20,395
+I was a pretty avid reader
+of rumor sites for a long time.
+
+903
+00:58:20,597 --> 00:58:24,226
+And, you know, usually, I mean, pretty
+much through the late part of the '90s.
+
+904
+00:58:24,434 --> 00:58:29,371
+And constantly checking on what
+Apple's gonna do next, that kind of thing.
+
+905
+00:58:29,572 --> 00:58:31,437
+And then it sort of hit me that...
+
+906
+00:58:31,641 --> 00:58:34,542
+I think around the time
+that one of them predicted...
+
+907
+00:58:34,744 --> 00:58:38,111
+...that there was gonna be
+a crank-powered iBook...
+
+908
+00:58:38,314 --> 00:58:42,216
+...that these guys didn't necessarily know
+what they were talking about.
+
+909
+00:58:42,418 --> 00:58:45,182
+I think they also just got worse
+when Steve Jobs came back...
+
+910
+00:58:45,388 --> 00:58:48,983
+...because he cracked down on the leaks
+that were going out to these sites.
+
+911
+00:58:49,192 --> 00:58:52,059
+And so they were probably actually better
+during the mid-90s...
+
+912
+00:58:52,262 --> 00:58:53,889
+...they were probably more accurate.
+
+913
+00:58:54,097 --> 00:58:56,930
+I've actually gotten, you know...
+
+914
+00:58:57,133 --> 00:58:59,158
+Been fortunate enough
+to have some contact...
+
+915
+00:58:59,369 --> 00:59:01,200
+...with some of the Apple executives...
+
+916
+00:59:01,404 --> 00:59:05,431
+...who apparently read the site
+on a fairly regular basis...
+
+917
+00:59:05,642 --> 00:59:10,545
+...and e-mail me when they find
+something particularly amusing.
+
+918
+00:59:11,114 --> 00:59:12,843
+There's one person
+who I can mention...
+
+919
+00:59:13,049 --> 00:59:15,381
+...since he's not there anymore,
+was Avie Tevanian...
+
+920
+00:59:16,786 --> 00:59:19,721
+...who was the chief technologist
+at Apple.
+
+921
+00:59:19,923 --> 00:59:26,556
+And I had written... I had written a story
+about him going into puberty again.
+
+922
+00:59:26,763 --> 00:59:31,097
+And just how he was
+sulking around the office...
+
+923
+00:59:31,301 --> 00:59:33,963
+...and, you know,
+kind of shuffling around.
+
+924
+00:59:34,170 --> 00:59:36,035
+And he wouldn't do any work,
+and, you know...
+
+925
+00:59:36,239 --> 00:59:38,901
+And Steve was just having a terrible time
+with him...
+
+926
+00:59:39,108 --> 00:59:40,507
+...and didn't know what to do.
+
+927
+00:59:40,710 --> 00:59:43,338
+And so, you know,
+I usually end up writing...
+
+928
+00:59:43,546 --> 00:59:45,673
+Publishing the stories at night.
+And then I go...
+
+929
+00:59:45,882 --> 00:59:47,349
+You know, pretty much go right to bed.
+
+930
+00:59:47,550 --> 00:59:50,018
+And so I woke up the next morning
+and there in my Inbox...
+
+931
+00:59:50,219 --> 00:59:53,882
+...was this e-mail
+from Avie Tevanian and I thought:
+
+932
+00:59:54,924 --> 00:59:59,122
+But he was a very good sport about it.
+He was amused.
+
+933
+00:59:59,329 --> 01:00:02,821
+And I managed to avoid any litigation.
+
+934
+01:00:03,032 --> 01:00:04,192
+Well, I mean it really...
+
+935
+01:00:04,400 --> 01:00:07,301
+You know, I didn't start out
+with any goal other than...
+
+936
+01:00:07,503 --> 01:00:09,733
+I just found myself
+writing these things anyway...
+
+937
+01:00:09,939 --> 01:00:12,237
+...and I wanted a place to publish them.
+
+938
+01:00:12,442 --> 01:00:16,572
+So there was no grand plan in mind.
+
+939
+01:00:16,779 --> 01:00:19,373
+I never thought that I was gonna make
+any money doing it.
+
+940
+01:00:19,582 --> 01:00:21,072
+And I do manage to actually make...
+
+941
+01:00:21,284 --> 01:00:23,275
+...at least a little bit of money
+doing it.
+
+942
+01:00:23,820 --> 01:00:25,947
+Keeps me off the streets.
+
+943
+01:00:32,328 --> 01:00:35,559
+The idea of a start-up sound
+was from the Apple II.
+
+944
+01:00:35,765 --> 01:00:39,565
+The Apple II once it reset,
+made a little beep...
+
+945
+01:00:39,769 --> 01:00:41,259
+...with the square wave speaker.
+
+946
+01:00:41,471 --> 01:00:44,736
+So we thought that was a great idea.
+Let's the computer know it's...
+
+947
+01:00:44,941 --> 01:00:48,843
+Let's the world know it made it,
+like an infant's first cry.
+
+948
+01:00:49,045 --> 01:00:52,173
+The very first one we did
+for the earliest Mac prototypes...
+
+949
+01:00:52,382 --> 01:00:55,840
+We had a square-wave sound generator
+built into the early Mac prototypes.
+
+950
+01:00:56,052 --> 01:00:57,110
+We later got rid of that.
+
+951
+01:00:57,320 --> 01:01:01,689
+So I made a thing
+that incremented the frequency with...
+
+952
+01:01:01,891 --> 01:01:04,883
+You know, I tweaked the delay
+so it made a whooping sound.
+
+953
+01:01:05,094 --> 01:01:08,188
+The first original boot sound
+was more like something like:
+
+954
+01:01:09,132 --> 01:01:15,093
+Or whatever. And it was a little comical,
+but it wasn't very elegant.
+
+955
+01:01:15,304 --> 01:01:18,967
+And so I was experimenting
+with different things for the boot sound...
+
+956
+01:01:19,242 --> 01:01:22,268
+...but a guy named Charlie Kellner
+had just joined the Mac Team...
+
+957
+01:01:22,478 --> 01:01:24,173
+...who's also a brilliant musician...
+
+958
+01:01:24,380 --> 01:01:28,111
+...and he had actually designed one
+of the first PC-based synthesizers...
+
+959
+01:01:28,317 --> 01:01:31,377
+...called the alphaSyntauri
+for the Apple II.
+
+960
+01:01:31,587 --> 01:01:33,680
+He was an accomplished musician...
+
+961
+01:01:33,890 --> 01:01:36,120
+...and he kind of looked
+what I was doing...
+
+962
+01:01:36,359 --> 01:01:37,951
+...messing around
+with different boot sounds.
+
+963
+01:01:38,161 --> 01:01:41,153
+I guess for the time I was doing it,
+everyone could just hear it.
+
+964
+01:01:41,364 --> 01:01:43,389
+You know, trying this, trying that.
+
+965
+01:01:43,599 --> 01:01:46,534
+And he said... Oh, he had an algorithm
+he always wanted to use.
+
+966
+01:01:46,736 --> 01:01:49,534
+That was...
+It's not conceptually musical.
+
+967
+01:01:49,739 --> 01:01:52,367
+It's more conceptual
+at the algorithm level...
+
+968
+01:01:52,575 --> 01:01:55,544
+...which was just filling sound buffer
+with a square wave.
+
+969
+01:01:55,745 --> 01:02:00,409
+And then just making passes through
+averaging every adjacent sample...
+
+970
+01:02:00,616 --> 01:02:03,346
+...till they got to be all the same.
+
+971
+01:02:03,553 --> 01:02:06,249
+And that made
+a chiming, bell-like sound.
+
+972
+01:02:08,725 --> 01:02:11,455
+It was in the Mac, you know,
+starting in 1984...
+
+973
+01:02:11,661 --> 01:02:13,458
+...and it lasted up until the Mac II...
+
+974
+01:02:13,663 --> 01:02:18,100
+...where once again, they put in even
+more sophisticated sound hardware...
+
+975
+01:02:18,301 --> 01:02:20,326
+...and they came up
+with a different sound...
+
+976
+01:02:20,536 --> 01:02:21,969
+...that I wasn't involved with.
+
+977
+01:02:23,206 --> 01:02:26,232
+Well, the start-up sound, let me think...
+Well, the main inspiration was...
+
+978
+01:02:26,442 --> 01:02:28,637
+...how horrible
+the one on the Mac II was.
+
+979
+01:02:28,845 --> 01:02:32,246
+So a tritone is the most dissonant sound
+you could imagine.
+
+980
+01:02:32,448 --> 01:02:34,814
+And stack four of them together.
+
+981
+01:02:36,586 --> 01:02:40,283
+And that was the sound that you heard
+when you turned on the Mac.
+
+982
+01:02:40,490 --> 01:02:43,357
+Which was horrible. And so...
+
+983
+01:02:44,494 --> 01:02:48,021
+...I set out trying to change that
+because it didn't make any sense.
+
+984
+01:02:48,231 --> 01:02:51,632
+Especially when you usually hear
+the start-up sound after it crashed.
+
+985
+01:02:51,834 --> 01:02:54,359
+And so I'm like,
+"Great, reward for a crash."
+
+986
+01:02:55,004 --> 01:03:01,000
+So the sound that I wanted to do
+turned out to be, politically, a challenge.
+
+987
+01:03:01,210 --> 01:03:04,008
+No one wanted to change it.
+They thought of it as the brand.
+
+988
+01:03:04,347 --> 01:03:05,541
+There was this new machine...
+
+989
+01:03:05,748 --> 01:03:07,841
+...that we were building
+at the time called the Quadra.
+
+990
+01:03:08,584 --> 01:03:11,951
+And the Quadra
+was going to have better speakers.
+
+991
+01:03:12,155 --> 01:03:16,114
+And then I'm like, "Great, horrible sound
+on better speakers."
+
+992
+01:03:16,325 --> 01:03:22,286
+And so I started working on new sounds
+that would be the sound of...
+
+993
+01:03:22,698 --> 01:03:23,824
+I kind of thought of it as:
+
+994
+01:03:24,033 --> 01:03:26,297
+"What's the palette cleanser
+for a crash?"
+
+995
+01:03:26,602 --> 01:03:30,003
+Plus, it was this new,
+bigger, badder machine...
+
+996
+01:03:30,206 --> 01:03:33,664
+...and I wanted it to sound like
+a bigger, badder machine.
+
+997
+01:03:34,177 --> 01:03:36,338
+I remember when <i>Byte</i> magazine
+did the review.
+
+998
+01:03:36,546 --> 01:03:38,912
+The very opening paragraph
+of the review was:
+
+999
+01:03:39,115 --> 01:03:42,016
+"I knew it was gonna be a good
+computer by the way it sounded."
+
+1000
+01:03:42,218 --> 01:03:43,378
+So I was like, "I did it."
+
+1001
+01:03:43,586 --> 01:03:48,353
+That was the actual goal, was I wanted
+it to sound like a good computer.
+
+1002
+01:03:48,558 --> 01:03:52,119
+And then unfortunately, what happened
+was no one wanted to change the sound.
+
+1003
+01:03:52,328 --> 01:03:54,023
+We ended up just doing it.
+
+1004
+01:03:55,932 --> 01:03:57,229
+And after that...
+
+1005
+01:03:57,433 --> 01:04:00,231
+...everybody changed the start-up
+sound with every new ROM...
+
+1006
+01:04:00,436 --> 01:04:02,961
+...which was
+exactly the opposite problem.
+
+1007
+01:04:03,306 --> 01:04:04,568
+You can't establish your brand...
+
+1008
+01:04:04,774 --> 01:04:07,004
+...if you keep changing your logo
+with every release.
+
+1009
+01:04:07,210 --> 01:04:10,976
+And so, you know,
+these sonic logos or earcons...
+
+1010
+01:04:11,180 --> 01:04:14,547
+...where, you know, that should be
+a recognizable sound.
+
+1011
+01:04:15,151 --> 01:04:19,986
+Right about the same time
+Steve Jobs came back, I heard...
+
+1012
+01:04:20,189 --> 01:04:25,491
+The story I heard was he had said,
+"Let's go back to that good sound."
+
+1013
+01:04:25,695 --> 01:04:27,720
+And that was the one
+that I had done...
+
+1014
+01:04:27,930 --> 01:04:29,056
+...and so it's still been there.
+
+1015
+01:04:29,265 --> 01:04:32,132
+It's the same one. It's the only one
+that's ever been there since.
+
+1016
+01:04:32,435 --> 01:04:35,336
+So, I mean, it's kind of cool to hear it
+every time, I mean...
+
+1017
+01:04:35,538 --> 01:04:38,336
+I never really think about it,
+millions of people crashing...
+
+1018
+01:04:38,541 --> 01:04:40,475
+...and hearing me
+play the C-major chord.
+
+1019
+01:04:40,676 --> 01:04:43,304
+No, it was a widespread
+C-major chord...
+
+1020
+01:04:43,512 --> 01:04:47,881
+...with a high E, I think,
+in the upper voice...
+
+1021
+01:04:48,084 --> 01:04:52,043
+...which, to me, just sounds more bright
+and sort of unresolved, but happy.
+
+1022
+01:04:52,255 --> 01:04:53,381
+It's a happy chord.
+
+1023
+01:04:53,723 --> 01:04:56,351
+It's way better than a tritone.
+
+1024
+01:05:04,066 --> 01:05:05,590
+One psychologist said...
+
+1025
+01:05:05,801 --> 01:05:09,396
+...that, you know, people form
+a social relationship with their machine.
+
+1026
+01:05:09,605 --> 01:05:12,005
+It becomes like a friend,
+it becomes personalized.
+
+1027
+01:05:12,208 --> 01:05:13,266
+It seems a little silly...
+
+1028
+01:05:13,476 --> 01:05:16,673
+...but you kind of build up
+a relationship with your computer.
+
+1029
+01:05:16,879 --> 01:05:21,213
+And it can either be a good relationship
+or it can be a dysfunctional relationship.
+
+1030
+01:05:21,417 --> 01:05:23,442
+You can customize
+any computer system...
+
+1031
+01:05:23,653 --> 01:05:26,952
+...but these are very easy
+to develop a relationship with.
+
+1032
+01:05:27,156 --> 01:05:29,420
+That's different from customizing.
+
+1033
+01:05:29,725 --> 01:05:32,694
+They're the closest devices
+that I know of...
+
+1034
+01:05:32,895 --> 01:05:34,954
+...that are really symbiotic.
+
+1035
+01:05:35,164 --> 01:05:37,325
+And I'll admit it,
+you know, when they...
+
+1036
+01:05:37,533 --> 01:05:41,697
+When they do make it
+so that you can kind of jack in neurally...
+
+1037
+01:05:41,904 --> 01:05:43,531
+...I'll do that.
+
+1038
+01:05:43,973 --> 01:05:48,034
+Yeah, I think maybe somebody
+needs to sit down with those people.
+
+1039
+01:05:48,244 --> 01:05:50,405
+Maybe it's Dr. Phil.
+
+1040
+01:05:50,680 --> 01:05:53,945
+Your computer doesn't love you.
+
+1041
+01:05:57,586 --> 01:06:01,078
+This relationship is not working.
+
+1042
+01:06:03,359 --> 01:06:05,327
+Don't be an enabler.
+
+1043
+01:06:05,528 --> 01:06:10,465
+Their soul is somehow reflected
+in that machine.
+
+1044
+01:06:10,666 --> 01:06:15,103
+It's an object of communication,
+but also of creativity.
+
+1045
+01:06:15,304 --> 01:06:18,831
+You know, the most essential things
+that they are...
+
+1046
+01:06:19,041 --> 01:06:23,535
+...the things that express themselves,
+are expressed through the computer.
+
+1047
+01:06:23,746 --> 01:06:26,544
+And so they invest, you know,
+so much in that...
+
+1048
+01:06:26,749 --> 01:06:29,274
+...that it's a cybernetic relationship.
+
+1049
+01:06:54,110 --> 01:06:55,372
+When Steve came back...
+
+1050
+01:06:55,578 --> 01:06:58,945
+...he was like, "Hey, you know,
+we should get into this music thing."
+
+1051
+01:06:59,148 --> 01:07:01,514
+I mean, he saw it.
+
+1052
+01:07:01,884 --> 01:07:06,514
+But to me it was, like, five years late,
+like that was obvious five years earlier.
+
+1053
+01:07:06,722 --> 01:07:09,054
+I think Apple
+could be as big as Sony right now...
+
+1054
+01:07:09,258 --> 01:07:11,522
+...if it had been five years earlier.
+
+1055
+01:07:11,727 --> 01:07:14,560
+A phone? Finally? Whatever.
+
+1056
+01:07:14,897 --> 01:07:16,387
+A couple of years ago when they...
+
+1057
+01:07:16,599 --> 01:07:20,057
+Apple said it was gonna come through
+with some breakthrough device...
+
+1058
+01:07:20,269 --> 01:07:22,669
+...there was a lot of speculation
+about what this might be.
+
+1059
+01:07:22,872 --> 01:07:26,740
+People figured it was a music player,
+but exactly what, no one knew.
+
+1060
+01:07:26,942 --> 01:07:29,968
+And people were saying on the forums
+they were gonna buy it anyway.
+
+1061
+01:07:30,179 --> 01:07:34,639
+It didn't matter. They were gonna get it
+because it was gonna be fucking great.
+
+1062
+01:07:34,850 --> 01:07:37,444
+The iPod people
+have had the iPods in their pocket...
+
+1063
+01:07:37,653 --> 01:07:39,314
+...mainly because they love music.
+
+1064
+01:07:39,522 --> 01:07:43,481
+And that's... And as do
+the Apple employees who created it.
+
+1065
+01:07:43,692 --> 01:07:45,887
+You know, people complain about it,
+but it's...
+
+1066
+01:07:46,095 --> 01:07:50,759
+The fact that they were able
+to make the iPod is actually why...
+
+1067
+01:07:50,966 --> 01:07:53,901
+You know, one of the reasons
+why Macs are still around.
+
+1068
+01:07:54,103 --> 01:07:56,901
+It's only really clear
+when you compare it to other products.
+
+1069
+01:07:57,106 --> 01:08:01,099
+They're a pain in the ass to use.
+I mean, they are impossible.
+
+1070
+01:08:01,544 --> 01:08:04,911
+There are more iPods in my house
+than there are people.
+
+1071
+01:08:05,114 --> 01:08:07,344
+By probably 2-to-1.
+
+1072
+01:08:07,550 --> 01:08:09,541
+But I never use an iPod.
+
+1073
+01:08:10,019 --> 01:08:11,714
+I have...
+
+1074
+01:08:12,455 --> 01:08:13,820
+...five.
+
+1075
+01:08:14,023 --> 01:08:17,857
+I think I have five or we have five.
+The family has five, I think.
+
+1076
+01:08:18,828 --> 01:08:23,356
+You know, that's like this whole
+video thing on your iPod. Who cares?
+
+1077
+01:08:23,566 --> 01:08:26,160
+I thought we used to complain
+about postage-stamp movies.
+
+1078
+01:08:26,368 --> 01:08:29,997
+I mean, that was the complaint we had
+16 years ago and it's back to the future.
+
+1079
+01:08:30,206 --> 01:08:32,834
+I got this iPod. What am l...?
+
+1080
+01:08:33,309 --> 01:08:35,106
+A movie on an iPod.
+I don't even get it.
+
+1081
+01:08:35,311 --> 01:08:38,508
+Like, you think, "How long
+can I hold this up in front of my face...
+
+1082
+01:08:38,714 --> 01:08:40,238
+...before my arm gets tired?"
+
+1083
+01:08:40,449 --> 01:08:43,384
+I mean, I can't even get through
+one TV sitcom.
+
+1084
+01:08:43,986 --> 01:08:45,681
+Progress.
+
+1085
+01:08:50,025 --> 01:08:52,960
+A big part of Apple's marketing budget...
+
+1086
+01:08:53,162 --> 01:08:56,393
+...was, like, sticking the machines
+in movies and TV shows.
+
+1087
+01:08:56,599 --> 01:08:58,794
+You know, so it culminated with...
+
+1088
+01:08:59,001 --> 01:09:01,231
+What was it called? <i>Independence Day.</i>
+
+1089
+01:09:01,437 --> 01:09:06,602
+When the PowerBook
+taps into the alien computer...
+
+1090
+01:09:06,809 --> 01:09:09,039
+...and blows up the alien ship.
+
+1091
+01:09:09,311 --> 01:09:13,042
+They paid, you know, tens of millions
+of dollars, I believe, to do that.
+
+1092
+01:09:13,249 --> 01:09:14,876
+This is when product placement...
+
+1093
+01:09:15,084 --> 01:09:17,484
+...was starting to become big business
+in Hollywood.
+
+1094
+01:09:17,686 --> 01:09:20,849
+But since then, you know,
+you see them all over the place.
+
+1095
+01:09:21,056 --> 01:09:23,286
+I mean, they are all over TV.
+
+1096
+01:09:23,492 --> 01:09:25,585
+You know,
+part of it is product placement...
+
+1097
+01:09:25,794 --> 01:09:28,820
+...part of it is because Macs
+are popular in Hollywood, you know.
+
+1098
+01:09:29,031 --> 01:09:30,896
+Obviously, they're used for video editing.
+
+1099
+01:09:32,835 --> 01:09:36,896
+I've edited somewhere
+between 40 and 50 movies.
+
+1100
+01:09:37,106 --> 01:09:40,598
+Television, theatrical movies.
+
+1101
+01:09:40,809 --> 01:09:42,572
+No documentaries.
+
+1102
+01:09:42,778 --> 01:09:44,405
+Richard Halsey
+Los Angeles, California
+
+1103
+01:09:44,613 --> 01:09:48,777
+We'll, I'll start with my calling card:
+<i>Rocky, Down and Out in Beverly Hills...</i>
+
+1104
+01:09:48,984 --> 01:09:55,412
+<i>... Beaches, American Gigolo,</i>
+<i>Sister Act...</i>
+
+1105
+01:09:55,624 --> 01:10:00,789
+<i>... The Net, Payday</i>,
+one of my favorite movies.
+
+1106
+01:10:01,030 --> 01:10:04,363
+I was a very successful film editor.
+
+1107
+01:10:04,700 --> 01:10:07,567
+Editing mechanically
+with German machines...
+
+1108
+01:10:07,770 --> 01:10:12,730
+...KEMs, Steinbecks,
+Moviolas, whatever.
+
+1109
+01:10:12,942 --> 01:10:14,170
+Everything you can imagine.
+
+1110
+01:10:14,376 --> 01:10:17,106
+Every piece of mechanical equipment
+you can imagine, I used.
+
+1111
+01:10:17,546 --> 01:10:20,845
+Well, I wanted to move forward
+into computers...
+
+1112
+01:10:21,116 --> 01:10:24,950
+...but believe it or not,
+they were reluctant to.
+
+1113
+01:10:25,154 --> 01:10:29,921
+They still thought it was cheaper
+to edit the old mechanical way.
+
+1114
+01:10:30,125 --> 01:10:32,559
+I had experimented around
+with the Lucas system...
+
+1115
+01:10:32,761 --> 01:10:36,026
+...the Laserdisc system.
+That thing was ridiculous.
+
+1116
+01:10:36,232 --> 01:10:38,359
+The Montage, that was ridiculous.
+
+1117
+01:10:38,901 --> 01:10:43,338
+And the Lightworks,
+that was sort of starting to happen.
+
+1118
+01:10:43,839 --> 01:10:48,674
+And basically, it wasn't till 1995
+which was late in the game.
+
+1119
+01:10:48,877 --> 01:10:53,177
+And mostly at that point,
+early '90s it was, you know, the Avid.
+
+1120
+01:10:53,882 --> 01:10:56,407
+I went and I had to do a picture,
+a Columbia Picture...
+
+1121
+01:10:56,619 --> 01:10:58,746
+...a Sandra Bullock picture
+called <i>The Net.</i>
+
+1122
+01:10:58,954 --> 01:11:01,354
+Had a very short
+post-production schedule.
+
+1123
+01:11:01,890 --> 01:11:04,450
+I had no experience,
+had no idea what I was doing.
+
+1124
+01:11:04,693 --> 01:11:10,689
+Within three hours,
+I had the basic principles down.
+
+1125
+01:11:10,899 --> 01:11:13,026
+So it was a good system.
+
+1126
+01:11:13,235 --> 01:11:20,164
+I continued editing on that system
+for at least seven, eight years.
+
+1127
+01:11:20,509 --> 01:11:23,342
+And then I jumped into Final Cut.
+
+1128
+01:11:24,647 --> 01:11:30,210
+And I've been editing in Final Cut,
+you know, ever since.
+
+1129
+01:11:30,653 --> 01:11:34,521
+I mean, it's an amazing system.
+
+1130
+01:11:34,723 --> 01:11:37,749
+Take a simple film
+like <i>Edward Scissorhands.</i>
+
+1131
+01:11:39,028 --> 01:11:40,723
+We were editing mechanically.
+
+1132
+01:11:40,929 --> 01:11:42,624
+I was editing with my wife.
+
+1133
+01:11:42,831 --> 01:11:47,097
+Well, we went to location
+with four KEMs.
+
+1134
+01:11:47,469 --> 01:11:49,061
+I was editing, she was editing.
+
+1135
+01:11:49,271 --> 01:11:51,967
+And then we had
+a husband and wife team.
+
+1136
+01:11:52,174 --> 01:11:53,732
+They were our assistants.
+
+1137
+01:11:53,942 --> 01:11:58,106
+So there was four of us
+and that was really economical.
+
+1138
+01:11:58,314 --> 01:12:01,909
+And we had four editing machines, and
+we were able to keep up with camera.
+
+1139
+01:12:02,117 --> 01:12:06,076
+We were able to get a Christmas release
+and do the movie quite quickly.
+
+1140
+01:12:06,922 --> 01:12:10,881
+With this system, I'm pretty much
+a one-man band and my assistant.
+
+1141
+01:12:11,093 --> 01:12:13,425
+I can do the job...
+
+1142
+01:12:13,796 --> 01:12:18,165
+...of six or seven editors
+in the old system.
+
+1143
+01:12:18,567 --> 01:12:22,526
+Well, you can see.
+I mean, look at the environment now.
+
+1144
+01:12:22,738 --> 01:12:26,799
+Instead of editing in 1200 square feet,
+I can edit in 200 square feet.
+
+1145
+01:12:38,620 --> 01:12:40,679
+Apple is Steve Jobs, for sure.
+
+1146
+01:12:40,889 --> 01:12:43,187
+I mean, he is the one
+who defines the company.
+
+1147
+01:12:43,392 --> 01:12:46,020
+He founded it, but I mean,
+look at its recent history.
+
+1148
+01:12:46,228 --> 01:12:48,389
+He has his personality
+stamped all over it.
+
+1149
+01:12:48,597 --> 01:12:50,121
+I used to say about Steve...
+
+1150
+01:12:50,332 --> 01:12:54,530
+...that he was the best person possible
+to work for and also the worst...
+
+1151
+01:12:55,537 --> 01:12:59,769
+...because he's a man of extremes.
+Steve's extremely passionate.
+
+1152
+01:13:00,142 --> 01:13:02,303
+He's incredibly sharp.
+
+1153
+01:13:02,511 --> 01:13:05,480
+He's, more than anything else,
+incredibly quick.
+
+1154
+01:13:05,681 --> 01:13:09,583
+He's got the quickest mind
+of anyone I've ever talked to.
+
+1155
+01:13:09,785 --> 01:13:13,448
+Yeah, I mean, I idolize Steve Jobs.
+He's absolutely, you know, one of my...
+
+1156
+01:13:13,655 --> 01:13:16,852
+He's my favorite celebrity,
+but I don't pretend that I'd understand...
+
+1157
+01:13:17,059 --> 01:13:19,892
+...what would come out of his mouth
+if I asked him a question.
+
+1158
+01:13:20,262 --> 01:13:23,197
+I cannot explain
+how Steve comes up with these things...
+
+1159
+01:13:23,399 --> 01:13:25,526
+...because he has a different
+operating system.
+
+1160
+01:13:25,734 --> 01:13:28,134
+So mere mortals
+cannot understand him.
+
+1161
+01:13:28,337 --> 01:13:30,430
+That's why
+when people try to understand him...
+
+1162
+01:13:30,639 --> 01:13:34,268
+...and his quirks and all of that, they get
+very frustrated because you can't.
+
+1163
+01:13:34,476 --> 01:13:40,472
+It would be like telling a fish how
+to understand how a bird feels flying.
+
+1164
+01:13:40,682 --> 01:13:43,810
+It cannot be. The fish is stuck
+in the water, the bird is soaring.
+
+1165
+01:13:44,019 --> 01:13:47,284
+It's a different operating system.
+That's what it is.
+
+1166
+01:13:48,056 --> 01:13:50,547
+I think Apple is his place in the world.
+
+1167
+01:13:50,759 --> 01:13:52,954
+This is where it all began.
+
+1168
+01:13:53,162 --> 01:13:57,292
+And obviously, it's...
+You know, it's a piece of himself.
+
+1169
+01:13:57,499 --> 01:13:59,330
+It's a company that...
+
+1170
+01:14:00,269 --> 01:14:07,232
+...seems like it needs somebody who's
+not just your ordinary CEO to run it.
+
+1171
+01:14:07,443 --> 01:14:12,574
+They've tried a number of ordinary CEOs
+in the '90s and it just didn't work.
+
+1172
+01:14:12,948 --> 01:14:17,647
+Because if you look at the time era
+that Jobs was not there...
+
+1173
+01:14:17,853 --> 01:14:20,845
+...Apple fell into a category
+where their Macs...
+
+1174
+01:14:21,056 --> 01:14:23,752
+...were just becoming
+like everyday computers.
+
+1175
+01:14:23,959 --> 01:14:25,893
+And there was nothing special
+about them.
+
+1176
+01:14:26,094 --> 01:14:29,586
+But of course Steve Jobs
+has an incredibly strong aesthetic...
+
+1177
+01:14:29,798 --> 01:14:31,288
+...in case you can't tell.
+
+1178
+01:14:31,500 --> 01:14:35,800
+I don't think you could change the DNA
+of Apple if you tried.
+
+1179
+01:14:36,004 --> 01:14:39,440
+So Apple's DNA
+is in building cool stuff...
+
+1180
+01:14:39,641 --> 01:14:41,905
+...it's an engineering company.
+
+1181
+01:14:42,110 --> 01:14:44,169
+They can say
+they're marketing and all that.
+
+1182
+01:14:44,379 --> 01:14:46,609
+But a marketing-driven company
+is a company...
+
+1183
+01:14:46,815 --> 01:14:48,908
+...that theoretically listens
+to the market...
+
+1184
+01:14:49,117 --> 01:14:52,018
+...and delivers
+what the market says it wants.
+
+1185
+01:14:52,454 --> 01:14:56,788
+You could say many things about Apple,
+but that ain't one of them. Okay?
+
+1186
+01:14:56,992 --> 01:14:58,892
+They don't listen to anybody.
+
+1187
+01:14:59,094 --> 01:15:02,188
+Apple's idea of market research is,
+you know...
+
+1188
+01:15:02,397 --> 01:15:05,298
+...Steve's right hemisphere
+is connected to his left hemisphere.
+
+1189
+01:15:05,501 --> 01:15:06,729
+That's the focus group.
+
+1190
+01:15:06,935 --> 01:15:10,098
+Immediately when Jobs came back,
+the first thing he did was the iMac.
+
+1191
+01:15:10,305 --> 01:15:13,240
+He set the personality, he set
+the tone of the computer. He's like:
+
+1192
+01:15:13,442 --> 01:15:17,173
+"Here. We're gonna break boundaries,
+we're gonna take it to the next level...
+
+1193
+01:15:17,379 --> 01:15:18,539
+...the next edge."
+
+1194
+01:15:18,747 --> 01:15:22,706
+You could make the case
+that Apple III wasn't his...
+
+1195
+01:15:22,918 --> 01:15:26,979
+...and Newton wasn't his,
+and Lisa wasn't his.
+
+1196
+01:15:27,189 --> 01:15:30,022
+So the only time it flubbed
+or stubbed its toe...
+
+1197
+01:15:30,225 --> 01:15:32,591
+...was when Steve wasn't behind it.
+
+1198
+01:15:32,794 --> 01:15:39,222
+I don't see Apple being able to continue
+at the pace that it's going right now.
+
+1199
+01:15:39,434 --> 01:15:43,564
+I mean, I don't expect it to suddenly,
+you know, fumble and fall...
+
+1200
+01:15:43,772 --> 01:15:45,967
+...but it's not gonna be what it is now.
+
+1201
+01:15:47,442 --> 01:15:50,843
+No, the problem is going to be
+post-Steve.
+
+1202
+01:15:51,046 --> 01:15:54,607
+If you bring in some dickhead
+who thinks that he's mini-Steve...
+
+1203
+01:15:54,816 --> 01:15:56,545
+...and he, too, is a visionary...
+
+1204
+01:15:56,752 --> 01:16:00,848
+...and, he, too understands
+what people need, but cannot express.
+
+1205
+01:16:01,056 --> 01:16:02,956
+So this dickhead is gonna say:
+
+1206
+01:16:03,158 --> 01:16:06,059
+"All right, so this is what I've decreed
+people will want.
+
+1207
+01:16:06,261 --> 01:16:09,162
+And I'm the new Steve Jobs."
+
+1208
+01:16:12,501 --> 01:16:14,128
+The company will implode.
+
+1209
+01:16:14,336 --> 01:16:20,434
+That depends on whether or not
+the philosophy employed by Steve...
+
+1210
+01:16:20,642 --> 01:16:26,080
+...in focusing on product and having
+a passionate view of the product...
+
+1211
+01:16:26,281 --> 01:16:30,183
+...and it's relationship
+to the rest of the operating enterprise.
+
+1212
+01:16:30,886 --> 01:16:34,413
+If they get somebody like that in there
+then it will continue...
+
+1213
+01:16:34,623 --> 01:16:40,027
+...as an ever-growing, ever-expanding,
+ever-creative enterprise.
+
+1214
+01:16:41,096 --> 01:16:43,394
+Well, that's interesting.
+
+1215
+01:16:43,599 --> 01:16:46,033
+You know, that's an interesting thought.
+I don't know.
+
+1216
+01:16:46,234 --> 01:16:50,864
+Whether it just...
+Apple's just gonna stagnate, you know?
+
+1217
+01:16:52,107 --> 01:16:55,634
+Well, the story,
+and I don't know if it's true...
+
+1218
+01:16:55,844 --> 01:17:00,804
+...but when you went into the HP lobby,
+there was H's portrait and P's portrait.
+
+1219
+01:17:01,016 --> 01:17:05,919
+And when Carly came in,
+she put her portrait, okay?
+
+1220
+01:17:09,224 --> 01:17:10,816
+You know what I'm coming to, right?
+
+1221
+01:17:11,026 --> 01:17:14,257
+I mean,
+you hire some dickhead who does that...
+
+1222
+01:17:14,930 --> 01:17:16,192
+...it's game over, baby.
+
+1223
+01:17:16,398 --> 01:17:20,596
+We'll all be listening to Zunes
+and using Windows machines.
+
+1224
+01:17:20,802 --> 01:17:24,294
+If they get a bottom-line man in there,
+it may succeed...
+
+1225
+01:17:24,506 --> 01:17:29,603
+...but it will never have the aura
+and the passion that it has today.
+
+1226
+01:17:29,811 --> 01:17:33,110
+You can trace the greatness
+of Apple pretty closely...
+
+1227
+01:17:33,315 --> 01:17:35,249
+...back to the greatness of Steve.
+
+1228
+01:17:35,450 --> 01:17:37,941
+Some of the flaws of Apple as well.
+
+1229
+01:17:38,153 --> 01:17:43,352
+I can't build a case that it's going
+to be easy to find another Steve Jobs.
+
+1230
+01:17:43,558 --> 01:17:48,791
+It may not be that
+you want another Steve Jobs...
+
+1231
+01:17:48,997 --> 01:17:51,830
+...because there can be no other
+Steve Jobs.
+
+1232
+01:17:57,873 --> 01:18:01,639
+The Macintosh spirit was not something
+we created with the Macintosh...
+
+1233
+01:18:01,843 --> 01:18:06,007
+...although we sort of contributed to it.
+But it was there before the Macintosh...
+
+1234
+01:18:06,214 --> 01:18:08,682
+...because it's really the spirit
+of the Apple II.
+
+1235
+01:18:08,884 --> 01:18:11,079
+And so much of the spirit
+of the Apple II...
+
+1236
+01:18:11,286 --> 01:18:17,282
+...is the spirit of Steve Wozniak's
+personality as well as Steve Jobs'.
+
+1237
+01:18:17,492 --> 01:18:20,620
+You know,
+the core of Apple is to change the world.
+
+1238
+01:18:20,829 --> 01:18:23,354
+And that has not changed.
+I don't think it can.
+
+1239
+01:18:23,565 --> 01:18:26,090
+I don't think it could change
+if you tried to change it.
+
+1240
+01:18:26,301 --> 01:18:28,963
+In a broader sense,
+some of that spirit of the Apple II...
+
+1241
+01:18:29,171 --> 01:18:32,265
+...was the spirit
+of the personal computer revolution.
+
+1242
+01:18:32,474 --> 01:18:34,965
+And really what that is,
+more than anything else...
+
+1243
+01:18:35,177 --> 01:18:40,080
+...is the celebration
+of unbounded possibility.
+
+1244
+01:18:40,282 --> 01:18:42,512
+The key thing...
+Those first microcomputers...
+
+1245
+01:18:42,718 --> 01:18:46,654
+...even pre-Apple II, but even
+the Apple II's couldn't really do much.
+
+1246
+01:18:46,855 --> 01:18:48,846
+Yet they were incredibly exciting...
+
+1247
+01:18:49,057 --> 01:18:52,788
+...because you knew they were the seed
+that would change the world.
+
+1248
+01:18:52,994 --> 01:18:57,192
+And if you look at Steve and Woz,
+what they did is they created Apple I...
+
+1249
+01:18:57,532 --> 01:18:59,966
+...which was to change the world.
+
+1250
+01:19:00,168 --> 01:19:02,796
+Apple II changed the world.
+
+1251
+01:19:03,705 --> 01:19:06,173
+Macintosh changed the world.
+
+1252
+01:19:06,374 --> 01:19:07,568
+iPod changed the world...
+
+1253
+01:19:07,776 --> 01:19:09,835
+...and maybe this phone
+will change the world.
+
+1254
+01:19:10,045 --> 01:19:13,674
+So, you know, that's five things.
+You can't call that luck.
+
+1255
+01:19:13,982 --> 01:19:18,214
+We filled the machine with our love
+and passion for what we were doing.
+
+1256
+01:19:18,420 --> 01:19:20,911
+And it radiates out
+on the other side of the screen...
+
+1257
+01:19:21,123 --> 01:19:22,818
+...and it affects the user.
+
+1258
+01:19:33,401 --> 01:19:36,666
+A lot of people were shown
+Apple computers in schools.
+
+1259
+01:19:36,872 --> 01:19:39,170
+Apple's very, very prominent
+in schools...
+
+1260
+01:19:39,374 --> 01:19:42,866
+...and therefore people that have
+gone through the school systems...
+
+1261
+01:19:43,078 --> 01:19:45,012
+...into college
+have just stuck with Apple.
+
+1262
+01:19:45,213 --> 01:19:48,808
+The ones that see it as
+a truly superior product, which it can be.
+
+1263
+01:19:49,017 --> 01:19:53,044
+Well, we're like all other user groups.
+We got together because, you know...
+
+1264
+01:19:53,255 --> 01:19:55,883
+...stuff was really expensive,
+you couldn't afford much.
+
+1265
+01:19:56,091 --> 01:19:57,353
+And quite frankly...
+
+1266
+01:19:57,559 --> 01:20:01,154
+...almost every user group in the world
+started out as a pirate group...
+
+1267
+01:20:01,363 --> 01:20:03,661
+...and became legitimate.
+
+1268
+01:20:04,566 --> 01:20:08,969
+The commercial is great.
+The commercial is fantastic.
+
+1269
+01:20:09,171 --> 01:20:14,040
+I then edited <i>Pirates of Silicon Valley</i>
+many years later...
+
+1270
+01:20:14,242 --> 01:20:18,508
+...and the movie started off
+with that same commercial.
+
+1271
+01:20:22,417 --> 01:20:23,714
+Well?
+
+1272
+01:20:23,919 --> 01:20:25,682
+- Oh, my...
+- Oh, God, not...
+
+1273
+01:20:25,887 --> 01:20:28,014
+Now, I don't have... Oh, shit.
+
+1274
+01:20:30,091 --> 01:20:32,321
+Another thing Burrell and I
+would do every day...
+
+1275
+01:20:32,527 --> 01:20:35,826
+...in the earlier days of the project
+when we were at Texaco Towers...
+
+1276
+01:20:36,031 --> 01:20:38,795
+...is before we were
+doing something healthy...
+
+1277
+01:20:39,000 --> 01:20:42,959
+...we would go across the street
+to Cicero's Pizzeria and play "Defender."
+
+1278
+01:20:43,638 --> 01:20:45,162
+For one thing I'm living proof...
+
+1279
+01:20:45,373 --> 01:20:50,470
+...if you do one thing right in your career,
+you can coast for a long time.
+
+1280
+01:20:52,047 --> 01:20:53,776
+A long time.
+
+1281
+01:20:53,982 --> 01:21:00,046
+Do you think Steve Jobs is gonna
+be willing to sit down and talk to us?
+
+1282
+01:21:00,255 --> 01:21:03,281
+Sit down and talk to you? No.
+
+1283
+01:21:04,426 --> 01:21:06,018
+Oh, I didn't wanna tell you this...
+
+1284
+01:21:06,228 --> 01:21:08,458
+...but Steve was in here
+about four months ago...
+
+1285
+01:21:08,663 --> 01:21:11,461
+...and spent part of a day,
+about three hours here.
+
+1286
+01:21:11,833 --> 01:21:14,666
+But I'll make a prediction,
+and my prediction is...
+
+1287
+01:21:14,870 --> 01:21:17,464
+...you will not talk to Steve Jobs
+for this documentary.
+
+1288
+01:21:17,672 --> 01:21:20,140
+No, that's good.
+That's... I'm glad that he...
+
+1289
+01:21:20,742 --> 01:21:24,542
+Probably, probably would say no.
+
+1290
+01:21:24,846 --> 01:21:28,179
+That depends on the mood he's in
+when you try to talk to him.
+
+1291
+01:21:28,383 --> 01:21:30,977
+If you hit him on a good day,
+it's, "Come on in.
+
+1292
+01:21:31,186 --> 01:21:32,778
+Come down, we'll go to dinner."
+
+1293
+01:21:33,788 --> 01:21:37,053
+I mean, half the time he's not willing
+to sit down and talk to CNNfn.
+
+1294
+01:21:37,259 --> 01:21:38,692
+You know what I mean? He...
+
+1295
+01:21:38,894 --> 01:21:42,295
+I think he bolted out of one of those
+interviews a couple of years ago.
+
+1296
+01:21:42,497 --> 01:21:46,228
+You get him on a bad day, it's,
+"Sorry, I haven't got time for this."
+
+1297
+01:21:46,434 --> 01:21:50,268
+Presuming you don't go skidding
+down the stairs on your hindquarters.
+
+1298
+01:21:50,906 --> 01:21:54,637
+The only way you could hook him
+would be to show him some of the film.
+
+1299
+01:21:55,510 --> 01:22:00,004
+I called him up and asked him
+to come visit when he had a chance.
+
+1300
+01:22:01,616 --> 01:22:03,675
+- You're fibbing, of course.
+- I am fibbing.
+
+1301
+01:22:03,885 --> 01:22:04,986
+Okay. That was good.
+
+1302
+01:22:04,986 --> 01:22:05,452
+Okay. That was good.
+
+1303
+01:22:06,154 --> 01:22:08,554
+Had enough?
+
+1304
+01:22:08,757 --> 01:22:14,024
+Steve will not talk
+to the <i>New York Times</i> usually.
+
+1305
+01:22:14,229 --> 01:22:16,595
+It might be better
+even if you didn't have him.
+
+1306
+01:22:16,798 --> 01:22:19,289
+- It might be better...
+- That was a discussion, yes.
+
+1307
+01:22:19,501 --> 01:22:23,597
+- if you had a, like a cloaked figure
+behind the background.
+
+1308
+01:22:23,805 --> 01:22:26,865
+You know what I mean?
+And this was the mysterious Jobs.
+
+1309
+01:22:27,075 --> 01:22:28,508
+You know?
+
+1310
+01:22:30,979 --> 01:22:34,005
+I shouldn't tell you this,
+but he lives walking distance from here.
+
+1311
+01:22:34,215 --> 01:22:38,743
+- You could go stake out the house.
+- No, he'd probably call on us.
+
+1312
+01:22:38,954 --> 01:22:41,821
+- Yeah, he probably would.
+- Yeah, that's the thing.
+

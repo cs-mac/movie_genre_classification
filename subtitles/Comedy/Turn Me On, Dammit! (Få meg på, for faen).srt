@@ -1,0 +1,81 @@
+
+- What is this 'retimed' thing about?
+
+- For some reason the timing of movie subs is usually anywhere between poor and beyond fucking terrible, including official DVD/BR subs. I can't watch it like that, so I either fix it with some automation if possible, or - in most cases - retime the whole thing. 
+I'm not talking about shifting, I'm talking about all the stuff like lines randomly appearing/disappearing too early/late, those terrible 2- or 3-frame gaps between 2 lines, subs bleeding over scene changes etc. I fix all of that, which makes it 10 times more watchable.
+
+
+- What else is different, other than the timing?
+
+- Depends on how much time I was willing to dedicate to fixing any particular subs.
+Usually splitting all lines that have two people speaking to make each line separate, fixing I/l if Subrip or w/e failed on that, fixing typos and punctuation, sometimes simple styling for signs, possibly some editing if the subs are in really shitty English, rarely fixing some TL mistakes or adding missing lines.
+
+
+- What is this .ass format? How does it... why...
+
+- It's the year 2013. Unstyled subs [srt] should be a thing of the past. But mainly I'm just used to working with styled subs and they're better in every way. Using srt would be going backwards. Any decent player should be able to use this correctly but it's recommended to have vsfilter installed. If for any reason you need srt, I'm sure you can convert it, but you might have some weird things showing up on screen now and then.
+
+
+- Which release is this for?
+
+- I'll mention it in the name if I know it. For older/rare movies I may not know it though.
+Even if there's a name, the translation may not be from that release, it just means I timed it to that.
+Sometimes the subs from the release have a terrible translation so I find better subs from another release and retime them.
+It should, however, always be a BR or DVD rip, because I don't watch shit like TS/TC.
+It's also pretty easy to shift the subs with Aegisub if they show too early/late on your version. More on that below.
+
+
+- How do I make it show the correct font?
+
+- The font is not really that important because it will work just fine without it. I use different fonts because I find it boring to watch the same one every time. The font is defined in the .ass file so the subtitle renderer will use it if it's installed. If it's not, it will use whatever the default is, like Arial. If you want it to use the font specified, you have to download it somewhere and install it. [ufonts.com or fontsner.com will have most of them.]
+If there are a lot of styled signs, they will probably look much better with the intended font.
+
+You can also change this easily to any font you want [and have]. If you open the .ass in notepad, you'll see a line like this near the top:
+Style: Default,Fontin Sans Rg,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,90,90,30,1
+"Fontin Sans Rg" is the font name it will try to use. You can simply rewrite this to the name of the font you want. 
+Note that it's the FONT name that the OS uses and has nothing to do with the font's FILE name.
+The 50 after the name is font size so you can change that easily too.
+
+
+- The subs don't show up correctly...
+
+- I'm not really sure how much could go wrong, but if anything does, I suggest using vsfilter as subtitle renderer. Since I don't put any advanced tags into this, I know the ffdshow subtitle renderer works well enough too, MPC's internal renderer should be ok [it may throw off some styled signs but all the dialogue should be fine], and probably even VLC shouldn't have problems [though as I hope you all know, VLC is shit and nobody should use it, and if you have problems, the answer is "It's because you're using VLC."].
+
+
+- It works on my PC but not on my [random device that I use to watch movies]
+
+- All I can say is don't watch movies on your toaster. This is intended for PCs and if you watch it on anything else, anything may happen. 
+You can probably convert this to srt without running into much trouble if you really have to.
+
+
+
+- This doesn't fit the release I have but the only other subs I have are really shitty. How can I shift this to make it fit?
+
+- Install Aegisub.
+Load the .ass and the video/audio by logically using the menu [loading large a/v files may take a few minutes].
+If you check a few lines and look at the audio display, you should be able to figure out if the subs are early or late and by how much.
+Go to Timing - Shift Times.
+Set the amount of time you think should roughly work, forward or backward, check 'all rows' and 'start and end times'. Click OK.
+See how it worked. If it's still a bit off, shift again by that small amount.
+If you do it right, a lot of lines will end on keyframes, which you will see on the audio track.
+You can go to 'Preferences - Audio - Show inactive lines' & select "show all" to see this better.
+If you zoom the audio out and see that some lines end exactly on keyframes [the purple lines], it's [probably] shifted to where it's supposed to be.
+If you somehow can't achieve this or see it, just shift until you're happy with the result and save the file.
+
+[Should it happen that the subs fit at the beginning of the movie and then wander off more and more, you have a different framerate and fixing it might not be worth the effort. There are programs for converting between framerates, but since you never know what changes your subs have already gone through, it can be a pain in the ass trying to fix it.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3419 @@
+﻿1
+00:01:22,499 --> 00:01:24,831
+Do you find me sadistic?
+
+2
+00:01:31,341 --> 00:01:38,304
+You know, I'll bet I could fry an egg
+on your head right now.
+
+3
+00:01:38,390 --> 00:01:40,381
+If I wanted to.
+
+4
+00:01:42,269 --> 00:01:45,603
+You know, kiddo.
+
+5
+00:01:46,356 --> 00:01:52,523
+I'd like to believe
+you're aware enough, even now,
+
+6
+00:01:52,613 --> 00:01:58,575
+to know that there's nothing sadistic
+in my actions.
+
+7
+00:02:00,037 --> 00:02:04,031
+Well, maybe towards
+those other jokers.
+
+8
+00:02:06,501 --> 00:02:08,458
+But not you.
+
+9
+00:02:11,506 --> 00:02:13,042
+No, kiddo.
+
+10
+00:02:13,133 --> 00:02:14,919
+At this moment...
+
+11
+00:02:17,304 --> 00:02:23,641
+This is me
+at my most masochistic.
+
+12
+00:02:23,727 --> 00:02:25,217
+Bill.
+
+13
+00:02:26,229 --> 00:02:27,765
+It's your baby.
+
+14
+00:02:42,162 --> 00:02:44,324
+<i>♪ I was 5 and he was 6 ♪</i>
+
+15
+00:02:44,414 --> 00:02:48,203
+<i>♪ We rode on horses
+made of sticks ♪</i>
+
+16
+00:02:48,293 --> 00:02:51,957
+<i>♪ He wore black
+and I wore white ♪</i>
+
+17
+00:02:52,047 --> 00:02:53,879
+<i>♪ He would always win
+the fight ♪</i>
+
+18
+00:02:53,965 --> 00:02:55,126
+<i>♪ Bang bang ♪</i>
+
+19
+00:02:55,217 --> 00:02:56,548
+<i>♪ He shot me down ♪</i>
+
+20
+00:02:56,635 --> 00:02:57,875
+<i>♪ Bang bang ♪</i>
+
+21
+00:02:57,969 --> 00:03:00,176
+<i>♪ I hit the ground ♪</i>
+
+22
+00:03:00,263 --> 00:03:02,095
+<i>♪ Bang bang ♪</i>
+
+23
+00:03:02,182 --> 00:03:04,640
+<i>♪ That awful sound ♪</i>
+
+24
+00:03:04,726 --> 00:03:06,558
+<i>♪ Bang bang ♪</i>
+
+25
+00:03:06,645 --> 00:03:11,230
+<i>♪ My baby shot me down ♪</i>
+
+26
+00:03:19,408 --> 00:03:23,026
+<i>♪ Seasons came and changed
+the time ♪</i>
+
+27
+00:03:23,120 --> 00:03:27,535
+<i>♪ When I grew up,
+I called him mine ♪</i>
+
+28
+00:03:27,624 --> 00:03:29,615
+<i>♪ He would always laugh
+and say ♪</i>
+
+29
+00:03:29,710 --> 00:03:32,793
+<i>♪ "Remember when
+we used to play?" ♪</i>
+
+30
+00:03:32,879 --> 00:03:35,246
+<i>♪ Bang bang ♪</i>
+
+31
+00:03:35,340 --> 00:03:36,546
+<i>♪ I shot you down ♪</i>
+
+32
+00:03:36,633 --> 00:03:38,465
+<i>♪ Bang bang ♪</i>
+
+33
+00:03:38,552 --> 00:03:39,713
+<i>♪ You hit the ground ♪</i>
+
+34
+00:03:39,803 --> 00:03:41,214
+<i>♪ Bang bang ♪</i>
+
+35
+00:03:41,304 --> 00:03:43,887
+<i>♪ That awful sound ♪</i>
+
+36
+00:03:43,974 --> 00:03:46,557
+<i>♪ Bang bang ♪</i>
+
+37
+00:03:46,643 --> 00:03:51,308
+<i>♪ I used to shoot you down ♪</i>
+
+38
+00:03:58,655 --> 00:04:03,320
+<i>♪ Music played
+and people sang ♪</i>
+
+39
+00:04:03,410 --> 00:04:07,995
+<i>♪ Just for me
+the church bells rang ♪</i>
+
+40
+00:04:17,340 --> 00:04:19,377
+<i>♪ Now he's gone ♪</i>
+
+41
+00:04:19,468 --> 00:04:22,051
+<i>♪ I don't know why ♪</i>
+
+42
+00:04:22,137 --> 00:04:26,927
+<i>♪ And till this clay,
+sometimes I cry ♪</i>
+
+43
+00:04:27,017 --> 00:04:29,179
+<i>♪ He didn't even say goodbye ♪</i>
+
+44
+00:04:29,269 --> 00:04:32,762
+<i>♪ He didn't take the time
+to lie ♪</i>
+
+45
+00:04:32,856 --> 00:04:35,314
+<i>♪ Bang bang ♪</i>
+
+46
+00:04:35,400 --> 00:04:36,731
+<i>♪ He shot me down ♪</i>
+
+47
+00:04:36,818 --> 00:04:38,149
+<i>♪ Bang bang ♪</i>
+
+48
+00:04:38,236 --> 00:04:39,442
+<i>♪ I hit the ground ♪</i>
+
+49
+00:04:39,529 --> 00:04:42,237
+<i>♪ Bang bang ♪</i>
+
+50
+00:04:42,324 --> 00:04:44,406
+<i>♪ That awful sound ♪</i>
+
+51
+00:04:44,493 --> 00:04:47,360
+<i>♪ Bang bang ♪</i>
+
+52
+00:04:47,454 --> 00:04:55,248
+<i>♪ My baby shot me down ♪</i>
+
+53
+00:05:42,551 --> 00:05:44,588
+Coming!
+
+54
+00:05:44,678 --> 00:05:46,760
+Sarah, I cannot believe
+you are early.
+
+55
+00:06:50,744 --> 00:06:53,702
+What you gonna do now, huh?
+What you got?
+
+56
+00:06:53,788 --> 00:06:56,576
+I got your ass!
+Remember that? Huh? Remember?
+
+57
+00:07:06,009 --> 00:07:08,091
+Okay.
+Come on, bitch.
+
+58
+00:07:09,137 --> 00:07:12,346
+Come on.
+Bring it on.
+
+59
+00:07:51,554 --> 00:07:52,965
+Mommy, I'm home.
+
+60
+00:07:53,056 --> 00:07:54,387
+Hey, baby.
+
+61
+00:07:54,474 --> 00:07:56,385
+How was school?
+
+62
+00:07:58,228 --> 00:08:01,095
+Mommy, what happened to you
+and the TV room?
+
+63
+00:08:03,316 --> 00:08:05,899
+That good-for-nothing dog
+of yours got his ass
+
+64
+00:08:05,986 --> 00:08:08,318
+in the living room
+and acted a damn fool.
+
+65
+00:08:08,405 --> 00:08:11,067
+- That's what happened, baby.
+- Barney did this?
+
+66
+00:08:11,157 --> 00:08:13,444
+Baby, now,
+you can't come in here.
+
+67
+00:08:13,535 --> 00:08:17,494
+There's broken glass everywhere,
+and you could cut yourself.
+
+68
+00:08:23,086 --> 00:08:26,750
+This is an old friend of Mommy's
+I ain't seen in a long time.
+
+69
+00:08:26,840 --> 00:08:28,797
+Hi, honey.
+
+70
+00:08:28,883 --> 00:08:32,467
+I'm What's your name?
+
+71
+00:08:35,432 --> 00:08:37,673
+Her name is Nikki.
+
+72
+00:08:37,767 --> 00:08:39,349
+Nikki.
+
+73
+00:08:40,353 --> 00:08:42,970
+Such a pretty name
+for such a pretty girl.
+
+74
+00:08:44,774 --> 00:08:46,856
+How old are you, Nikki?
+
+75
+00:08:49,070 --> 00:08:53,655
+Nikki, asked you
+a question.
+
+76
+00:08:53,742 --> 00:08:55,608
+I'm 4.
+
+77
+00:08:55,702 --> 00:08:58,239
+4 years old?
+
+78
+00:08:58,705 --> 00:09:02,619
+You know,
+I had a little girl once.
+
+79
+00:09:04,085 --> 00:09:06,747
+She'd be about 4 now.
+
+80
+00:09:09,674 --> 00:09:12,086
+Now, baby, me and Mommy's friend
+
+81
+00:09:12,177 --> 00:09:14,635
+got some grown-up talk
+to talk about.
+
+82
+00:09:14,721 --> 00:09:16,132
+You go in your room.
+
+83
+00:09:16,222 --> 00:09:19,214
+I want you to leave us alone
+till I tell you to come out.
+
+84
+00:09:19,309 --> 00:09:21,141
+Okay?
+
+85
+00:09:22,395 --> 00:09:24,011
+Nikkia!
+
+86
+00:09:24,105 --> 00:09:26,346
+In your room.
+Now.
+
+87
+00:09:39,412 --> 00:09:41,653
+You want some coffee?
+
+88
+00:09:41,748 --> 00:09:43,989
+Yeah. Sure.
+
+89
+00:09:50,965 --> 00:09:53,002
+This Pasadena homemaker's name
+
+90
+00:09:53,093 --> 00:09:54,174
+<i>is Jeanne Bell.</i>
+
+91
+00:09:54,260 --> 00:09:56,376
+<i>Her husband is
+Dr. Lawrence Bell.</i>
+
+92
+00:09:56,471 --> 00:09:59,463
+<i>But back when we were acquainted,
+four years ago,</i>
+
+93
+00:09:59,557 --> 00:10:01,389
+<i>her name was Vernita Green.</i>
+
+94
+00:10:01,476 --> 00:10:04,468
+<i>Her code name was Copperhead.</i>
+
+95
+00:10:04,562 --> 00:10:06,303
+<i>Mine, Black Mamba.</i>
+
+96
+00:10:06,397 --> 00:10:07,979
+Do you have a towel?
+
+97
+00:10:09,192 --> 00:10:10,682
+Yeah.
+
+98
+00:10:13,696 --> 00:10:15,027
+Thanks.
+
+99
+00:10:15,115 --> 00:10:17,356
+You still take cream
+and sugar, right?
+
+100
+00:10:17,450 --> 00:10:18,986
+Yeah.
+
+101
+00:10:21,371 --> 00:10:24,079
+So I suppose it's a little late
+for an apology?
+
+102
+00:10:24,165 --> 00:10:26,452
+You suppose correctly.
+
+103
+00:10:26,543 --> 00:10:28,784
+Look, bitch, I need to know
+
+104
+00:10:28,878 --> 00:10:31,540
+if you're gonna start any more shit
+around my baby girl.
+
+105
+00:10:31,631 --> 00:10:33,793
+You can relax for now.
+
+106
+00:10:34,801 --> 00:10:38,635
+I'm not gonna murder you
+in front of your child, okay?
+
+107
+00:10:39,806 --> 00:10:41,262
+That's being more rational
+
+108
+00:10:41,349 --> 00:10:43,636
+than Bill led me to believe
+you were capable of.
+
+109
+00:10:43,726 --> 00:10:47,890
+It's mercy, compassion,
+and forgiveness I lack.
+
+110
+00:10:47,981 --> 00:10:50,097
+Not rationality.
+
+111
+00:10:54,696 --> 00:10:56,186
+Look.
+
+112
+00:10:56,281 --> 00:10:57,988
+I know I fucked you over.
+
+113
+00:10:58,074 --> 00:10:59,815
+I fucked you over bad.
+
+114
+00:10:59,909 --> 00:11:02,321
+I wish to God I hadn't,
+but I did.
+
+115
+00:11:03,288 --> 00:11:05,279
+You have every right
+to want to get even.
+
+116
+00:11:05,373 --> 00:11:07,705
+No, no, no, no, no.
+
+117
+00:11:07,792 --> 00:11:09,123
+No.
+
+118
+00:11:09,210 --> 00:11:12,794
+To get even, even Stephen,
+
+119
+00:11:12,881 --> 00:11:18,672
+I would have to kill you,
+go up to Nikki's room, kill her,
+
+120
+00:11:18,761 --> 00:11:21,970
+then wait for your husband,
+the good Dr. Bell, to come home
+
+121
+00:11:22,056 --> 00:11:24,093
+and kill him.
+
+122
+00:11:24,184 --> 00:11:26,596
+That would be even, Vernita.
+
+123
+00:11:26,728 --> 00:11:28,890
+That'd be about square.
+
+124
+00:11:28,980 --> 00:11:31,972
+Look, if I could go back
+in a machine, I would.
+
+125
+00:11:32,066 --> 00:11:33,602
+But I can't.
+
+126
+00:11:34,986 --> 00:11:37,978
+All I can tell you is that
+I'm a different person now.
+
+127
+00:11:38,072 --> 00:11:40,939
+Oh, great.
+
+128
+00:11:41,034 --> 00:11:42,034
+I don't care.
+
+129
+00:11:42,118 --> 00:11:43,700
+Be that as it may,
+
+130
+00:11:43,786 --> 00:11:46,824
+I know I don't deserve
+your mercy or your forgiveness.
+
+131
+00:11:46,915 --> 00:11:51,284
+However, I beseech you for both
+on behalf of my daughter.
+
+132
+00:11:51,377 --> 00:11:54,870
+Bitch, you can stop right there.
+
+133
+00:11:56,007 --> 00:11:58,044
+Just because I have no wish
+to murder you
+
+134
+00:11:58,134 --> 00:11:59,795
+before the eyes of your daughter
+
+135
+00:11:59,886 --> 00:12:02,469
+does not mean that parading her
+in front of me
+
+136
+00:12:02,555 --> 00:12:05,263
+is gonna inspire sympathy.
+
+137
+00:12:05,350 --> 00:12:08,342
+You and I have
+unfinished business.
+
+138
+00:12:08,436 --> 00:12:10,643
+And not a goddamn thing
+you've done
+
+139
+00:12:10,730 --> 00:12:12,220
+in the subsequent four years,
+
+140
+00:12:12,315 --> 00:12:16,525
+including getting knocked up,
+is gonna change that.
+
+141
+00:12:17,654 --> 00:12:19,941
+So when do we do this?
+
+142
+00:12:20,031 --> 00:12:21,897
+It all depends.
+
+143
+00:12:21,991 --> 00:12:24,824
+When do you want to die?
+
+144
+00:12:24,911 --> 00:12:27,653
+Tomorrow?
+The day after tomorrow?
+
+145
+00:12:27,747 --> 00:12:29,237
+How about tonight, bitch?
+
+146
+00:12:29,332 --> 00:12:31,539
+Splendid.
+Where?
+
+147
+00:12:31,626 --> 00:12:34,368
+There's a baseball diamond
+where I coach Little League
+
+148
+00:12:34,462 --> 00:12:35,748
+about a mile from here.
+
+149
+00:12:35,838 --> 00:12:38,170
+We meet there around 2.30
+in the morning,
+
+150
+00:12:38,258 --> 00:12:42,252
+dressed all in black,
+your hair in a black stocking.
+
+151
+00:12:42,345 --> 00:12:44,837
+And we have us a knife fight.
+
+152
+00:12:44,931 --> 00:12:46,888
+We won't be bothered.
+
+153
+00:12:46,975 --> 00:12:52,095
+Now, I have to fix
+Nikki's cereal.
+
+154
+00:13:00,405 --> 00:13:03,113
+Bill said you were one
+of the best ladies he saw
+
+155
+00:13:03,199 --> 00:13:04,530
+with an edged weapon.
+
+156
+00:13:04,617 --> 00:13:06,949
+Fuck you, bitch.
+
+157
+00:13:07,036 --> 00:13:09,323
+I know he didn't qualify
+that shit.
+
+158
+00:13:09,414 --> 00:13:13,703
+So you can just kiss my motherfucking ass,
+Black Mamba.
+
+159
+00:13:13,876 --> 00:13:15,617
+Black Mamba.
+
+160
+00:13:15,712 --> 00:13:18,579
+I should have been
+motherfucking Black Mamba.
+
+161
+00:13:18,673 --> 00:13:19,834
+Weapon of choice?
+
+162
+00:13:19,924 --> 00:13:22,666
+If you want to stick with
+your butcher knife, that's fine.
+
+163
+00:13:24,554 --> 00:13:26,886
+Very funny, bitch.
+
+164
+00:13:26,973 --> 00:13:28,714
+Very funny!
+
+165
+00:14:25,990 --> 00:14:30,154
+It was not my intention
+to do this in front of you.
+
+166
+00:14:31,579 --> 00:14:34,367
+For that, I'm sorry.
+
+167
+00:14:34,457 --> 00:14:37,290
+But you can take my word for it.
+
+168
+00:14:40,213 --> 00:14:42,750
+Your mother had it coming.
+
+169
+00:14:57,480 --> 00:15:04,568
+When you grow up, if you
+still feel raw about it...
+
+170
+00:15:07,698 --> 00:15:09,814
+I'll be waiting.
+
+171
+00:15:13,413 --> 00:15:16,246
+For those regarded as warriors...
+
+172
+00:15:16,332 --> 00:15:18,664
+When engaged in combat...
+
+173
+00:15:18,751 --> 00:15:24,372
+the vanquishing of thine enemy can be
+the Warrior's only concern.
+
+174
+00:15:26,175 --> 00:15:32,012
+Suppress all human emotion
+and compassion...
+
+175
+00:15:36,602 --> 00:15:43,349
+kill whoever stands in thy way, even
+if that be Lord God, or Buddha himself.
+
+176
+00:15:49,532 --> 00:15:55,528
+This truth lies at the heart
+of the art of combat.
+
+177
+00:16:20,271 --> 00:16:22,228
+Come on out to Dallas.
+
+178
+00:16:22,315 --> 00:16:26,479
+This is Rockabilly Rhythms
+on KTRN, Wichita Falls.
+
+179
+00:16:26,569 --> 00:16:28,685
+And next, we got some record.
+
+180
+00:16:28,779 --> 00:16:31,897
+Very own wild man,
+Charlie Feathers.
+
+181
+00:16:34,243 --> 00:16:37,452
+<i>♪ Well ♪ </i>
+
+182
+00:16:42,335 --> 00:16:47,501
+<i>♪ I'm just a single fellow ♪
+with a lot on my mind 4'</i>
+
+183
+00:16:47,590 --> 00:16:50,252
+<i>♪ And I'm lookin' for me
+a woman ♪</i>
+
+184
+00:16:50,343 --> 00:16:52,550
+<i>♪ But she's mighty hard
+to find' ♪</i>
+
+185
+00:16:52,637 --> 00:16:55,299
+<i>♪ Asked my country cousin ♪</i>
+
+186
+00:16:55,389 --> 00:16:57,881
+<i>♪ Checked the hottest spots
+in town ♪</i>
+
+187
+00:16:57,975 --> 00:17:00,592
+<i>♪ Oh, that little bitty woman ♪</i>
+
+188
+00:17:06,901 --> 00:17:12,067
+Well, give me the gory details,
+Son Number One.
+
+189
+00:17:12,156 --> 00:17:14,739
+It's a goddamn massacre, Pop.
+
+190
+00:17:15,910 --> 00:17:19,528
+They wiped out the whole
+wedding party, execution style.
+
+191
+00:17:21,791 --> 00:17:23,452
+Give me a figure.
+
+192
+00:17:23,543 --> 00:17:25,329
+Nine dead bodies.
+
+193
+00:17:25,419 --> 00:17:27,956
+And we're talking
+the whole shebang.
+
+194
+00:17:28,047 --> 00:17:30,880
+Bride. Groom.
+
+195
+00:17:30,967 --> 00:17:32,674
+Reverend.
+
+196
+00:17:32,760 --> 00:17:35,218
+Reverend's wife.
+
+197
+00:17:35,304 --> 00:17:39,263
+They even shot that old coloured fella
+that plays the organ.
+
+198
+00:17:39,350 --> 00:17:41,808
+It would appear to me
+somebody objected to this union
+
+199
+00:17:41,894 --> 00:17:44,761
+and wasn't able to hold
+their peace.
+
+200
+00:17:48,985 --> 00:17:52,899
+Good gravy, Marie.
+
+201
+00:17:58,077 --> 00:17:59,863
+What'd I tell you, Pop?
+
+202
+00:17:59,954 --> 00:18:03,117
+It's like a goddamn
+Nicaraguan death squad.
+
+203
+00:18:03,207 --> 00:18:05,995
+You better shit-can
+that blasphemy, boy.
+
+204
+00:18:06,085 --> 00:18:09,328
+- You're in a house of worship.
+- Sorry, Pop.
+
+205
+00:18:11,132 --> 00:18:13,920
+Well, this is definitely
+the work of professionals.
+
+206
+00:18:14,010 --> 00:18:18,004
+I'd guesstimate
+Mexican Mafia hit squad.
+
+207
+00:18:18,806 --> 00:18:21,423
+Four, maybe five strong.
+
+208
+00:18:21,517 --> 00:18:23,554
+How can you tell?
+
+209
+00:18:23,644 --> 00:18:26,306
+Well, a sure and steady hand
+did this.
+
+210
+00:18:27,732 --> 00:18:30,440
+This ain't no
+squirrelly amateur.
+
+211
+00:18:30,526 --> 00:18:33,644
+This is the work of a salty dog.
+
+212
+00:18:33,738 --> 00:18:36,605
+You can tell by the cleanliness
+of the carnage.
+
+213
+00:18:36,699 --> 00:18:40,317
+Now, a kill-crazy rampage,
+though it may be,
+
+214
+00:18:40,411 --> 00:18:43,699
+all the colours are kept
+inside the lines.
+
+215
+00:18:43,789 --> 00:18:48,283
+If you was a moron,
+you could almost admire it.
+
+216
+00:18:59,639 --> 00:19:01,425
+Who's the bride?
+
+217
+00:19:01,515 --> 00:19:02,971
+Don't know.
+
+218
+00:19:03,059 --> 00:19:04,970
+The name
+on the marriage certificate
+
+219
+00:19:05,061 --> 00:19:07,928
+is Arlene Machiavelli.
+
+220
+00:19:08,022 --> 00:19:09,308
+That's a fake.
+
+221
+00:19:09,398 --> 00:19:13,062
+We've been calling her "The Bride"
+on account of the dress.
+
+222
+00:19:13,152 --> 00:19:16,144
+You can tell she was pregnant.
+
+223
+00:19:16,238 --> 00:19:17,945
+Man would have to be a mad dog
+
+224
+00:19:18,032 --> 00:19:21,741
+to shoot a goddamn good-looking gal
+like that in the head.
+
+225
+00:19:23,621 --> 00:19:25,703
+Look at her.
+
+226
+00:19:27,583 --> 00:19:29,995
+Hay-coloured hair.
+
+227
+00:19:30,086 --> 00:19:32,544
+Big eyes.
+
+228
+00:19:32,630 --> 00:19:35,372
+She's a little
+blood-spattered angel.
+
+229
+00:19:39,053 --> 00:19:40,839
+Son Number One?
+
+230
+00:19:40,930 --> 00:19:42,091
+Yeah?
+
+231
+00:19:42,181 --> 00:19:46,721
+This tall drink of cocksucker
+ain't dead.
+
+232
+00:22:21,507 --> 00:22:24,044
+I might never have liked you.
+
+233
+00:22:25,511 --> 00:22:28,754
+Point in fact, I despise you.
+
+234
+00:22:29,974 --> 00:22:34,093
+But that shouldn't suggest
+that I don't respect you.
+
+235
+00:22:37,273 --> 00:22:40,516
+Dying in our sleep is a luxury
+
+236
+00:22:40,609 --> 00:22:43,601
+that our kind
+is rarely afforded.
+
+237
+00:22:43,696 --> 00:22:47,030
+My gift to you.
+
+238
+00:22:53,789 --> 00:22:55,530
+For fuck's sake.
+
+239
+00:22:59,253 --> 00:23:00,459
+Hello, Bill.
+
+240
+00:23:02,131 --> 00:23:04,122
+What's her condition?
+
+241
+00:23:04,216 --> 00:23:06,378
+Comatose.
+
+242
+00:23:07,344 --> 00:23:08,675
+Where is she?
+
+243
+00:23:08,762 --> 00:23:12,005
+I'm standing over her right now.
+
+244
+00:23:12,099 --> 00:23:14,181
+That's my girl.
+
+245
+00:23:17,021 --> 00:23:19,513
+Elle, you're going to abort
+the mission.
+
+246
+00:23:19,607 --> 00:23:20,813
+What?
+
+247
+00:23:20,900 --> 00:23:22,482
+We owe her better than that.
+
+248
+00:23:22,568 --> 00:23:24,309
+Oh, you don't owe her shit!
+
+249
+00:23:24,403 --> 00:23:26,019
+Will you keep your voice down?
+
+250
+00:23:26,113 --> 00:23:27,979
+You don't owe her shit!
+
+251
+00:23:28,073 --> 00:23:30,155
+May I say one thing?
+
+252
+00:23:30,242 --> 00:23:32,074
+Speak.
+
+253
+00:23:33,245 --> 00:23:35,156
+Y'all beat the hell
+out of that woman.
+
+254
+00:23:35,247 --> 00:23:37,113
+But you didn't kill her.
+
+255
+00:23:37,207 --> 00:23:39,164
+And I put a bullet in her head.
+
+256
+00:23:39,251 --> 00:23:42,414
+But her heart
+just kept on beating.
+
+257
+00:23:42,504 --> 00:23:44,086
+Now, you saw that yourself
+
+258
+00:23:44,173 --> 00:23:48,963
+with your own beautiful
+blue eye, did you not?
+
+259
+00:23:49,845 --> 00:23:53,338
+We've done a lot of things
+to this lady.
+
+260
+00:23:53,432 --> 00:23:58,927
+And if she ever wakes up,
+we'll do a whole lot more.
+
+261
+00:23:59,021 --> 00:24:00,932
+But one thing we won't do
+
+262
+00:24:01,023 --> 00:24:05,392
+is sneak into her room
+in the night like a filthy rat
+
+263
+00:24:05,486 --> 00:24:08,353
+and kill her in her sleep.
+
+264
+00:24:09,448 --> 00:24:12,110
+And the reason
+we won't do that thing
+
+265
+00:24:12,201 --> 00:24:17,116
+is because that thing
+would lower us.
+
+266
+00:24:17,206 --> 00:24:19,573
+Don't you agree, Miss Driver?
+
+267
+00:24:21,460 --> 00:24:22,791
+I guess.
+
+268
+00:24:22,878 --> 00:24:25,370
+Do you really have to guess?
+
+269
+00:24:25,506 --> 00:24:27,543
+No.
+
+270
+00:24:27,633 --> 00:24:31,376
+I don't really have to guess.
+I know.
+
+271
+00:24:32,680 --> 00:24:35,012
+Come on home, honey.
+
+272
+00:24:36,266 --> 00:24:38,382
+Affirmative.
+
+273
+00:24:39,561 --> 00:24:41,768
+I love you very much.
+
+274
+00:24:41,855 --> 00:24:43,892
+I love you, too.
+
+275
+00:24:46,735 --> 00:24:48,567
+Bye-bye.
+
+276
+00:24:59,498 --> 00:25:02,160
+Thought that was pretty
+fucking funny, didn't you?
+
+277
+00:25:05,295 --> 00:25:08,333
+Word of advice, shit head.
+
+278
+00:25:08,424 --> 00:25:11,462
+Don't you ever wake up.
+
+279
+00:25:46,045 --> 00:25:52,963
+At this moment, this is me
+at my most masochistic.
+
+280
+00:25:53,052 --> 00:25:56,215
+Bill, it's your baby.
+
+281
+00:26:58,117 --> 00:27:01,860
+Oh, my baby.
+
+282
+00:27:27,187 --> 00:27:29,554
+Four years.
+
+283
+00:27:29,648 --> 00:27:31,230
+Four years.
+
+284
+00:28:00,762 --> 00:28:03,254
+The price is $75 a fuck,
+my friend.
+
+285
+00:28:03,348 --> 00:28:05,259
+You getting your freak on
+or what?
+
+286
+00:28:05,350 --> 00:28:07,182
+Oh, yeah, boy.
+
+287
+00:28:11,565 --> 00:28:13,522
+<i>20, 40, 60, 75.</i>
+
+288
+00:28:13,609 --> 00:28:15,566
+Yeah.
+Now here's the rules.
+
+289
+00:28:15,652 --> 00:28:17,359
+Rule number one.
+
+290
+00:28:17,446 --> 00:28:18,527
+No punching her.
+
+291
+00:28:18,614 --> 00:28:20,400
+Nurse comes in
+and she got a shiner
+
+292
+00:28:20,490 --> 00:28:22,026
+or less some teeth, jig's up.
+
+293
+00:28:22,117 --> 00:28:24,484
+So no knuckle sandwiches
+under no circumstances.
+
+294
+00:28:24,578 --> 00:28:26,569
+By the way,
+this cunt's a spitter.
+
+295
+00:28:26,663 --> 00:28:28,119
+It's a motor-reflex thing.
+
+296
+00:28:28,207 --> 00:28:30,039
+But spit or no, no punching.
+
+297
+00:28:30,125 --> 00:28:33,117
+- Now, are we clear on rule one?
+- Yeah.
+
+298
+00:28:33,212 --> 00:28:36,330
+Good. Now, rule number two.
+No monkey bites. No Hickeys.
+
+299
+00:28:36,423 --> 00:28:39,040
+In fact, no leaving no marks
+of no kind.
+
+300
+00:28:39,134 --> 00:28:42,252
+After that,
+it's all good, buddy.
+
+301
+00:28:42,679 --> 00:28:44,420
+Her plumbing down there
+don't work.
+
+302
+00:28:44,514 --> 00:28:46,096
+Feel free to come in her
+all you want.
+
+303
+00:28:46,183 --> 00:28:48,049
+Keep the noise down.
+Try not to make a mess.
+
+304
+00:28:48,143 --> 00:28:49,884
+I'll be back in 20.
+
+305
+00:28:50,812 --> 00:28:52,473
+Yeah.
+
+306
+00:28:52,564 --> 00:28:54,305
+Oh, shit.
+
+307
+00:28:54,399 --> 00:28:56,891
+By the way, not all the time,
+but sometimes
+
+308
+00:28:56,985 --> 00:28:59,568
+this chick's cooch can get
+drier than a bucket of sand.
+
+309
+00:28:59,655 --> 00:29:03,068
+If she dry, lube up with this
+and you'll be good to go.
+
+310
+00:29:04,117 --> 00:29:06,028
+<i>Bon appétit, good buddy.</i>
+
+311
+00:29:15,504 --> 00:29:18,121
+Oh, yeah.
+
+312
+00:29:20,092 --> 00:29:21,207
+Oh, God damn.
+
+313
+00:29:21,301 --> 00:29:23,918
+You are the best-looking girl
+I've had today.
+
+314
+00:29:45,617 --> 00:29:46,857
+Oh.
+
+315
+00:30:12,811 --> 00:30:15,348
+Yo, stud!
+Time's up, buddy.
+
+316
+00:30:15,439 --> 00:30:17,100
+Coming in, ready or not.
+
+317
+00:30:17,190 --> 00:30:19,852
+Hey, buddy, did you have yourself
+a good time, man?
+
+318
+00:30:52,476 --> 00:30:54,012
+Where's Bill?
+
+319
+00:30:54,644 --> 00:30:56,726
+Where's Bill?
+
+320
+00:30:57,898 --> 00:30:59,184
+Please stop hitting me.
+
+321
+00:30:59,274 --> 00:31:00,435
+Where's Bill?
+
+322
+00:31:02,069 --> 00:31:03,559
+I don't know who Bill is!
+
+323
+00:31:03,653 --> 00:31:05,143
+Bullshit!
+
+324
+00:31:12,871 --> 00:31:16,614
+Well, ain't you the slice
+of cutie pie they said you was?
+
+325
+00:31:16,708 --> 00:31:19,871
+Jane Doe? We don't know
+shit about you, do we?
+
+326
+00:31:19,961 --> 00:31:21,918
+I'm from Huntsville, Texas.
+
+327
+00:31:22,005 --> 00:31:25,794
+My name is Buck,
+and I'm here to fuck.
+
+328
+00:31:29,262 --> 00:31:31,879
+Your name is Buck.
+
+329
+00:31:31,973 --> 00:31:33,555
+Right?
+
+330
+00:31:33,642 --> 00:31:36,885
+And you came here to fuck.
+
+331
+00:31:36,978 --> 00:31:38,309
+Right?
+
+332
+00:31:38,397 --> 00:31:40,434
+Wait a minute.
+Wait.
+
+333
+00:32:05,966 --> 00:32:07,957
+"Pussy Wagon."
+
+334
+00:32:08,051 --> 00:32:09,917
+You fucker.
+
+335
+00:32:37,080 --> 00:32:40,072
+Texas. Okay.
+
+336
+00:34:25,689 --> 00:34:28,477
+Wiggle your big toe.
+
+337
+00:34:32,696 --> 00:34:35,814
+Wiggle your big toe.
+
+338
+00:34:42,914 --> 00:34:45,622
+Wiggle your big toe.
+
+339
+00:34:49,963 --> 00:34:53,206
+Wiggle your big toe.
+
+340
+00:34:58,013 --> 00:34:59,924
+Wiggle your big toe.
+
+341
+00:35:00,015 --> 00:35:02,222
+<i>As I lay in the back
+of Buck's truck,</i>
+
+342
+00:35:02,309 --> 00:35:05,017
+<i>trying to will my limbs
+out of entropy...</i>
+
+343
+00:35:05,103 --> 00:35:06,764
+Wiggle your big toe.
+
+344
+00:35:06,855 --> 00:35:10,769
+<i>I could see the faces of
+the cunts who did this to me.</i>
+
+345
+00:35:10,859 --> 00:35:13,726
+<i>And the dicks responsible.</i>
+
+346
+00:35:15,030 --> 00:35:20,196
+<i>Members all of the Deadly Viper
+Assassination Squad.</i>
+
+347
+00:35:22,537 --> 00:35:24,278
+<i>When fortune smiles on something</i>
+
+348
+00:35:24,372 --> 00:35:26,613
+<i>as violent and ugly as revenge,</i>
+
+349
+00:35:26,708 --> 00:35:30,827
+<i>it seems proof like no other
+that not only does God exist,</i>
+
+350
+00:35:30,920 --> 00:35:33,036
+<i>you're doing his will.</i>
+
+351
+00:35:33,131 --> 00:35:35,714
+<i>At a time when I knew the least
+about my enemies,</i>
+
+352
+00:35:35,800 --> 00:35:37,882
+<i>the first name on my death list,</i>
+
+353
+00:35:37,969 --> 00:35:41,712
+<i>O-Ren lshii,
+was the easiest to find.</i>
+
+354
+00:35:41,806 --> 00:35:44,389
+<i>But when one
+manages the difficult task</i>
+
+355
+00:35:44,476 --> 00:35:46,934
+<i>of becoming queen
+of the Tokyo underworld,</i>
+
+356
+00:35:47,020 --> 00:35:50,183
+<i>one doesn't keep it a secret,
+does one?</i>
+
+357
+00:36:03,578 --> 00:36:07,321
+<i>0-Ren lshii was born
+on an American military base</i>
+
+358
+00:36:07,415 --> 00:36:09,497
+<i>in Tokyo, Japan.</i>
+
+359
+00:36:09,584 --> 00:36:12,997
+<i>The half-Japanese, half-Chinese
+American army brat</i>
+
+360
+00:36:13,088 --> 00:36:16,422
+<i>made her first acquaintance
+with death at the age of 9.</i>
+
+361
+00:36:16,508 --> 00:36:18,795
+<i>It was at that age she witnessed</i>
+
+362
+00:36:18,885 --> 00:36:20,751
+<i>the death of her parents
+at the hands</i>
+
+363
+00:36:20,845 --> 00:36:26,511
+<i>of Japan's most ruthless
+yakuza boss, Boss Matsumoto.</i>
+
+364
+00:36:38,947 --> 00:36:41,188
+[Whimpering 1
+
+365
+00:36:53,420 --> 00:36:54,660
+Hvah!
+
+366
+00:37:33,334 --> 00:37:34,790
+Hmm.
+
+367
+00:39:20,024 --> 00:39:21,856
+Oh.
+
+368
+00:39:41,462 --> 00:39:42,952
+Mommy.
+
+369
+00:40:52,533 --> 00:40:54,820
+She swore revenge.
+
+370
+00:40:54,911 --> 00:41:00,031
+<i>Luckily for her, Boss Matsumoto
+was a paedophile.</i>
+
+371
+00:41:02,168 --> 00:41:06,082
+<i>At 11, she got her revenge.</i>
+
+372
+00:41:08,800 --> 00:41:13,135
+Look at me, Matsumoto...
+
+373
+00:41:14,430 --> 00:41:18,139
+take a good look at my face.
+
+374
+00:41:19,602 --> 00:41:22,219
+Look at my eyes.
+
+375
+00:41:24,774 --> 00:41:27,015
+Look at my mouth.
+
+376
+00:41:27,735 --> 00:41:29,476
+Do I look familiar?
+
+377
+00:41:31,864 --> 00:41:34,322
+Do I look like somebody...
+
+378
+00:41:34,409 --> 00:41:36,571
+you murdered?!
+
+379
+00:42:49,317 --> 00:42:54,312
+<i>By 20, she was one of the top
+female assassins in the world.</i>
+
+380
+00:43:41,744 --> 00:43:44,577
+<i>At 25, she did her part
+in the killing</i>
+
+381
+00:43:44,664 --> 00:43:49,124
+<i>of nine innocent people,
+including my unborn daughter,</i>
+
+382
+00:43:49,210 --> 00:43:54,080
+<i>in a small wedding chapel
+in El Paso, Texas.</i>
+
+383
+00:43:54,173 --> 00:44:01,796
+<i>But on that day four years ago
+she made one big mistake.</i>
+
+384
+00:44:01,889 --> 00:44:04,506
+<i>She should have killed 10.</i>
+
+385
+00:44:05,143 --> 00:44:09,353
+<i>However, before satisfaction
+would be mine,</i>
+
+386
+00:44:09,438 --> 00:44:11,645
+<i>first things first.</i>
+
+387
+00:44:11,732 --> 00:44:14,724
+Wiggle your big toe.
+
+388
+00:44:21,576 --> 00:44:23,738
+Hard part's over.
+
+389
+00:44:23,828 --> 00:44:27,913
+Now, let's get
+these other piggies wiggling.
+
+390
+00:45:02,408 --> 00:45:04,490
+Welcome to Air O.
+May I help you?
+
+391
+00:45:04,577 --> 00:45:06,864
+Okinawa.
+One-way.
+
+392
+00:45:33,898 --> 00:45:35,013
+Hi.
+
+393
+00:45:35,107 --> 00:45:37,439
+Welcome...
+
+394
+00:45:41,530 --> 00:45:43,441
+Welcome.
+
+395
+00:45:44,659 --> 00:45:46,650
+You English?
+
+396
+00:45:46,786 --> 00:45:49,118
+Almost.
+American.
+
+397
+00:45:49,205 --> 00:45:52,869
+American.
+Welcome, American.
+
+398
+00:45:52,959 --> 00:45:54,324
+<i>Domo.</i>
+
+399
+00:45:54,418 --> 00:45:57,035
+My English very good.
+
+400
+00:45:57,129 --> 00:45:58,711
+You said "domo."
+Can you speak Japanese?
+
+401
+00:45:58,714 --> 00:46:00,375
+You said "domo."
+Can you speak Japanese?
+
+402
+00:46:00,466 --> 00:46:01,547
+No, no.
+
+403
+00:46:01,634 --> 00:46:04,501
+Just a few words I learned
+since yesterday.
+
+404
+00:46:06,055 --> 00:46:07,170
+May I sit at the bar?
+
+405
+00:46:07,265 --> 00:46:09,677
+Oh, sure, sure, sure.
+Please sit.
+
+406
+00:46:13,604 --> 00:46:16,437
+What other words did you learn?
+
+407
+00:46:16,524 --> 00:46:18,481
+Oh, just a minute.
+
+408
+00:46:18,567 --> 00:46:23,061
+We have a customer.
+Bring out some tea, quickly.
+
+409
+00:46:23,155 --> 00:46:26,068
+I'm watching my soap operas.
+
+410
+00:46:26,158 --> 00:46:29,617
+Lazy bastard...
+
+411
+00:46:29,704 --> 00:46:31,615
+Screw your soap opera... hurry up!
+
+412
+00:46:31,706 --> 00:46:35,370
+The tea's hot.
+Why don't you serve it yourself for once?
+
+413
+00:46:35,459 --> 00:46:37,041
+Shut up!
+
+414
+00:46:37,128 --> 00:46:39,870
+Get your ass out here!
+
+415
+00:46:39,964 --> 00:46:42,205
+Excuse me.
+
+416
+00:46:43,884 --> 00:46:47,377
+What other Japanese do you know?
+
+417
+00:46:47,471 --> 00:46:48,677
+Oh, let's see.
+
+418
+00:46:48,764 --> 00:46:50,630
+<i>"Arigato."</i>
+
+419
+00:46:50,725 --> 00:46:53,183
+<i>"Arigato. "</i>
+Good!
+
+420
+00:46:55,813 --> 00:46:57,178
+I already said "domo," right?
+
+421
+00:46:57,273 --> 00:46:59,810
+Yeah.
+Yeah, yeah, yeah.
+
+422
+00:46:59,900 --> 00:47:01,015
+"Konn-itch-iwa."
+
+423
+00:47:02,737 --> 00:47:04,648
+"Kohn-nee-chee-wah."
+
+424
+00:47:04,739 --> 00:47:06,150
+Konnichi wa.
+Please repeat.
+
+425
+00:47:06,240 --> 00:47:07,651
+<i>Konnichi wa.</i>
+
+426
+00:47:07,742 --> 00:47:10,609
+Perfect.
+Good, good, good.
+
+427
+00:47:10,703 --> 00:47:13,536
+You say Japanese word
+like you Japanese.
+
+428
+00:47:13,622 --> 00:47:15,158
+Now you're making fun of me!
+
+429
+00:47:15,249 --> 00:47:17,832
+No, no, no, no.
+Serious business.
+
+430
+00:47:17,918 --> 00:47:21,036
+Pronunciation very good.
+
+431
+00:47:21,130 --> 00:47:25,715
+<i>You say arigato
+like we say arigato.</i>
+
+432
+00:47:28,471 --> 00:47:32,009
+Well, thank you.
+I mean, arigato.
+
+433
+00:47:33,642 --> 00:47:36,054
+You should learn Japanese.
+
+434
+00:47:36,145 --> 00:47:38,136
+Very easy.
+
+435
+00:47:38,230 --> 00:47:40,267
+No kidding.
+I heard it was kind of hard.
+
+436
+00:47:40,358 --> 00:47:42,349
+Most difficult.
+
+437
+00:47:42,443 --> 00:47:45,401
+But you have Japanese tongue.
+
+438
+00:47:47,865 --> 00:47:49,447
+Okay, okay.
+
+439
+00:47:52,036 --> 00:47:56,030
+Oh, my God.
+
+440
+00:47:56,123 --> 00:48:02,586
+Hey, what the hell happened to the tea?!
+Hurry up... goddammit!
+
+441
+00:48:06,342 --> 00:48:10,085
+Lazy oaf...
+
+442
+00:48:14,517 --> 00:48:17,225
+What d'ya want?
+
+443
+00:48:17,311 --> 00:48:18,767
+I beg your pardon?
+
+444
+00:48:18,854 --> 00:48:22,063
+Drink.
+
+445
+00:48:22,149 --> 00:48:25,938
+Oh, yes.
+A bottle of warm sake, please.
+
+446
+00:48:26,028 --> 00:48:27,814
+Warm sake?
+
+447
+00:48:27,905 --> 00:48:29,737
+Very good!
+
+448
+00:48:29,824 --> 00:48:31,406
+One warm sake!
+
+449
+00:48:31,492 --> 00:48:34,484
+Sake? In the middle of the day?
+
+450
+00:48:35,329 --> 00:48:39,368
+- Day, night, afternoon -
+Who gives a damn-Get the sake!
+
+451
+00:48:39,458 --> 00:48:42,075
+How come I always have to get the sake?
+
+452
+00:48:42,169 --> 00:48:43,830
+You listen well...
+
+453
+00:48:43,963 --> 00:48:47,081
+For thirty years, you make the fish,
+I get the sake.
+
+454
+00:48:47,174 --> 00:48:49,381
+If this were the military,
+
+455
+00:48:49,468 --> 00:48:53,006
+I'd be General by now!
+
+456
+00:48:53,097 --> 00:48:55,839
+Oh, so you'd be General, huh?
+
+457
+00:48:55,975 --> 00:48:59,718
+If you were General, I'd be Emperor,
+
+458
+00:48:59,812 --> 00:49:01,974
+and you'd still get the sake -
+
+459
+00:49:01,981 --> 00:49:04,643
+and you'd still get the sake -
+So shut up and get the sake!
+
+460
+00:49:04,733 --> 00:49:05,768
+Do you understand?
+
+461
+00:49:05,860 --> 00:49:07,851
+I'm not bald, okay? I shaved my head.
+
+462
+00:49:07,945 --> 00:49:09,811
+Do you understand me?
+
+463
+00:49:13,033 --> 00:49:14,740
+<i>50"'!-</i>
+
+464
+00:49:18,456 --> 00:49:20,038
+First time in Japan?
+
+465
+00:49:21,584 --> 00:49:24,793
+What brings you to Okinawa?
+
+466
+00:49:24,879 --> 00:49:26,620
+I came to see a man.
+
+467
+00:49:26,714 --> 00:49:29,297
+Oh, yeah.
+
+468
+00:49:29,383 --> 00:49:32,296
+You have a friend
+live in Okinawa?
+
+469
+00:49:32,386 --> 00:49:33,968
+Not quite.
+
+470
+00:49:34,054 --> 00:49:35,761
+Not friend?
+
+471
+00:49:35,848 --> 00:49:37,179
+I never met him.
+
+472
+00:49:37,266 --> 00:49:39,052
+Never?
+
+473
+00:49:39,143 --> 00:49:41,305
+Who is he?
+
+474
+00:49:41,395 --> 00:49:42,726
+May I ask?
+
+475
+00:49:43,731 --> 00:49:46,348
+Hattori Hanzo.
+
+476
+00:49:58,412 --> 00:50:01,575
+What do you want with Hattori Hanzo?
+
+477
+00:50:02,917 --> 00:50:05,875
+I need Japanese steel.
+
+478
+00:50:07,671 --> 00:50:11,255
+Why do you need Japanese steel?
+
+479
+00:50:12,551 --> 00:50:15,669
+I have vermin to kill.
+
+480
+00:50:18,599 --> 00:50:24,436
+You must have big rats,
+you need Hattori Hanzo's steel.
+
+481
+00:50:26,815 --> 00:50:28,681
+Huge.
+
+482
+00:51:56,280 --> 00:51:58,612
+May I?
+
+483
+00:51:58,699 --> 00:52:00,440
+You may.
+
+484
+00:52:03,329 --> 00:52:04,819
+Wait.
+
+485
+00:52:04,913 --> 00:52:07,450
+Try the second one down.
+
+486
+00:53:00,386 --> 00:53:02,343
+Funny.
+
+487
+00:53:02,429 --> 00:53:04,887
+You like samurai swords.
+
+488
+00:53:07,643 --> 00:53:10,351
+I like baseball.
+
+489
+00:53:17,778 --> 00:53:21,442
+I wanted to show you these.
+
+490
+00:53:21,532 --> 00:53:23,443
+However...
+
+491
+00:53:23,534 --> 00:53:27,778
+someone as you, who knows so much, must
+surely know...
+
+492
+00:53:28,205 --> 00:53:34,121
+I no longer make instruments of death.
+
+493
+00:53:34,211 --> 00:53:35,997
+What I have here...
+
+494
+00:53:36,839 --> 00:53:42,835
+l keep for their aesthetic
+and sentimental value.
+
+495
+00:53:42,928 --> 00:53:48,549
+Yet proud as I am of my life's work...
+
+496
+00:53:52,271 --> 00:53:55,935
+I have retired.
+
+497
+00:54:03,866 --> 00:54:06,028
+Then give me one of these.
+
+498
+00:54:06,118 --> 00:54:08,450
+These are not for sale.
+
+499
+00:54:09,663 --> 00:54:12,030
+I didn't say "sell me."
+
+500
+00:54:12,124 --> 00:54:14,035
+I said "give me."
+
+501
+00:54:16,128 --> 00:54:19,371
+Why should I help you?
+
+502
+00:54:19,506 --> 00:54:24,342
+Because my vermin
+is a former student of yours.
+
+503
+00:54:26,972 --> 00:54:30,340
+And considering the student,
+
+504
+00:54:30,434 --> 00:54:35,554
+I'd say you have
+a rather large obligation.
+
+505
+00:55:31,745 --> 00:55:33,611
+You can sleep here.
+
+506
+00:55:34,665 --> 00:55:37,032
+It will take me a month...
+
+507
+00:55:39,670 --> 00:55:41,331
+to make the sword.
+
+508
+00:55:42,464 --> 00:55:45,206
+I suggest you spend it practicing.
+
+509
+00:57:13,472 --> 00:57:15,713
+I've completed doing...
+
+510
+00:57:17,059 --> 00:57:21,474
+what I swore an oath
+to God, 28 years ago,
+
+511
+00:57:23,440 --> 00:57:26,728
+to never do again.
+
+512
+00:57:29,613 --> 00:57:32,981
+I have created "something
+that kills people."
+
+513
+00:57:35,077 --> 00:57:41,198
+And in that purpose, I was a success.
+
+514
+00:57:43,835 --> 00:57:46,293
+I've done this because philosophically,
+
+515
+00:57:47,339 --> 00:57:52,925
+I am sympathetic to your aim.
+
+516
+00:57:55,931 --> 00:58:01,597
+I can tell you with no ego,
+this is my finest sword.
+
+517
+00:58:02,521 --> 00:58:06,105
+If on your journey, you
+should encounter God...
+
+518
+00:58:06,191 --> 00:58:09,354
+God will be cut.
+
+519
+00:58:21,665 --> 00:58:24,578
+Yellow-haired warrior...
+
+520
+00:58:24,668 --> 00:58:27,251
+Go.
+
+521
+00:58:27,337 --> 00:58:29,203
+<i>Domo.</i>
+
+522
+00:58:50,152 --> 00:58:53,816
+<i>It was one year after
+the massacre in El Paso, Texas,</i>
+
+523
+00:58:53,905 --> 00:58:55,896
+<i>that Bill backed
+his Nippon progeny</i>
+
+524
+00:58:55,991 --> 00:58:58,232
+<i>financially
+and philosophically in her</i>
+
+525
+00:58:58,326 --> 00:59:00,693
+<i>Shakespearian-in-magnitude
+power struggle</i>
+
+526
+00:59:00,787 --> 00:59:02,243
+<i>with the other yakuza clans</i>
+
+527
+00:59:02,330 --> 00:59:06,369
+<i>over who would rule vice
+in the city of Tokyo.</i>
+
+528
+00:59:06,460 --> 00:59:08,747
+<i>When the final sword
+was sheathed,</i>
+
+529
+00:59:08,837 --> 00:59:11,920
+<i>it was O-Ren lshii
+and her powerful posse...</i>
+
+530
+00:59:13,175 --> 00:59:16,463
+<i>the Crazy 88,
+that proved the victor.</i>
+
+531
+00:59:18,930 --> 00:59:20,841
+<i>The pretty lady
+to O-Ren's right,</i>
+
+532
+00:59:20,932 --> 00:59:23,469
+<i>who's dressed like
+she's a villain on "Star Trek,"</i>
+
+533
+00:59:23,560 --> 00:59:27,019
+<i>is 0-Ren's lawyer, best friend,
+and second lieutenant.</i>
+
+534
+00:59:27,105 --> 00:59:31,770
+<i>The half-French,
+half-Japanese Sofie Fatale,</i>
+
+535
+00:59:31,860 --> 00:59:35,194
+<i>another former protégée
+of Bill'</i>.
+
+536
+00:59:37,657 --> 00:59:39,864
+<i>The young girl
+in the school-girl uniform</i>
+
+537
+00:59:39,951 --> 00:59:45,242
+<i>is 0-Ren's personal bodyguard,
+17-year-old Gogo Yubari.</i>
+
+538
+00:59:45,332 --> 00:59:48,791
+<i>Gogo may be young,
+but what she lacks in age,</i>
+
+539
+00:59:48,877 --> 00:59:51,335
+<i>she makes up for in madness.</i>
+
+540
+00:59:51,421 --> 00:59:53,458
+Do you like Ferraris?
+
+541
+00:59:56,927 --> 00:59:59,385
+Ferrari... ltalian trash.
+
+542
+01:00:08,855 --> 01:00:10,516
+Do you want to screw me?
+
+543
+01:00:12,025 --> 01:00:15,734
+Don't laugh! Do you want
+to screw me, yes or no?
+
+544
+01:00:16,655 --> 01:00:18,111
+Yes.
+
+545
+01:00:21,535 --> 01:00:23,526
+How 'bout now, big boy?
+
+546
+01:00:24,579 --> 01:00:27,071
+Do you still wish to penetrate me...
+
+547
+01:00:29,042 --> 01:00:30,908
+or is it I...
+
+548
+01:00:30,919 --> 01:00:33,081
+or is it I... who has penetrated you?
+
+549
+01:00:34,214 --> 01:00:36,296
+<i>See what I mean?</i>
+
+550
+01:00:37,717 --> 01:00:42,302
+<i>The bald guy in the black suit
+and the Kato mask is Johnny Mo,</i>
+
+551
+01:00:42,389 --> 01:00:46,804
+<i>the head general of O-Ren's personal army,
+the Crazy 88.</i>
+
+552
+01:00:48,562 --> 01:00:50,849
+<i>And just in case
+you were wondering</i>
+
+553
+01:00:50,939 --> 01:00:55,183
+<i>how could a half-breed
+Japanese-Chinese American</i>
+
+554
+01:00:55,277 --> 01:01:01,273
+<i>become the boss of all bosses
+in Tokyo, Japan, I'll tell you.</i>
+
+555
+01:01:01,366 --> 01:01:04,233
+<i>The subject of O-Ren's blood
+and nationality</i>
+
+556
+01:01:04,327 --> 01:01:06,989
+<i>came up before the council
+only once.</i>
+
+557
+01:01:07,080 --> 01:01:11,995
+<i>The night O-Ren assumed power
+over the crime council.</i>
+
+558
+01:01:12,085 --> 01:01:14,452
+<i>The man who seems bound
+and determined</i>
+
+559
+01:01:14,546 --> 01:01:17,004
+<i>to break the mood
+is Boss Tanaka.</i>
+
+560
+01:01:17,090 --> 01:01:19,923
+<i>And what Boss Tanaka
+thinks</i> is...
+
+561
+01:01:24,347 --> 01:01:25,758
+Boss Tanaka!
+
+562
+01:01:25,849 --> 01:01:27,681
+What's the meaning of this outburst?
+
+563
+01:01:27,767 --> 01:01:29,804
+This is a time for celebration!
+
+564
+01:01:29,895 --> 01:01:33,183
+And what exactly are we celebrating?
+
+565
+01:01:34,191 --> 01:01:36,432
+The perversion of our illustrious council?
+
+566
+01:01:38,278 --> 01:01:41,521
+Tanaka, have you gone mad?
+
+567
+01:01:41,615 --> 01:01:42,946
+I will not tolerate this!
+
+568
+01:01:43,033 --> 01:01:45,616
+You're disrespecting our sister! Apologize!
+
+569
+01:01:46,369 --> 01:01:52,285
+Tanaka-San, of what
+perversion do you speak?
+
+570
+01:01:57,130 --> 01:01:59,292
+My father...
+
+571
+01:01:59,382 --> 01:02:03,091
+along with yours, and along with yours,
+started this council.
+
+572
+01:02:03,178 --> 01:02:04,589
+And while...
+
+573
+01:02:04,679 --> 01:02:06,340
+you laugh like stupid donkeys...
+
+574
+01:02:06,431 --> 01:02:08,342
+they weep in the afterlife...
+
+575
+01:02:08,934 --> 01:02:10,470
+Shut up!
+
+576
+01:02:10,560 --> 01:02:12,801
+Over the perversion committed today!
+
+577
+01:02:13,480 --> 01:02:16,393
+Outrageous!
+
+578
+01:02:16,483 --> 01:02:18,690
+Tanaka, it is you who insults this council!
+
+579
+01:02:18,777 --> 01:02:20,063
+Bastard!
+
+580
+01:02:20,862 --> 01:02:22,193
+Fuck face!
+
+581
+01:02:22,280 --> 01:02:23,896
+Gentlemen.
+
+582
+01:02:25,825 --> 01:02:31,491
+Tanaka obviously has something on his mind.
+
+583
+01:02:33,333 --> 01:02:37,918
+By all means, allow him to express it.
+
+584
+01:02:38,004 --> 01:02:43,090
+I speak, of the perversion done to this
+council,
+
+585
+01:02:44,594 --> 01:02:46,676
+which I love...
+
+586
+01:02:46,763 --> 01:02:48,595
+more than my own children,
+
+587
+01:02:49,391 --> 01:02:54,352
+by making a Chinese Jap-American
+half breed bitch its leader!
+
+588
+01:03:14,624 --> 01:03:21,212
+So that you understand how serious I am...
+
+589
+01:03:21,298 --> 01:03:23,630
+l'm going to say this in English.
+
+590
+01:03:37,230 --> 01:03:39,642
+As your leader...
+
+591
+01:03:39,733 --> 01:03:41,644
+I encourage you
+from time to time,
+
+592
+01:03:41,735 --> 01:03:45,729
+and always in a respectful manner,
+to question my logic.
+
+593
+01:03:45,822 --> 01:03:47,062
+If you're unconvinced
+
+594
+01:03:47,157 --> 01:03:49,615
+a particular plan of action
+I've decided is the wisest,
+
+595
+01:03:49,701 --> 01:03:50,907
+tell me so.
+
+596
+01:03:50,994 --> 01:03:52,610
+But allow me to convince you.
+
+597
+01:03:52,704 --> 01:03:54,741
+And I promise you,
+right here and now,
+
+598
+01:03:54,831 --> 01:03:58,369
+no subject will ever be taboo.
+
+599
+01:03:58,460 --> 01:04:01,748
+Except, of course, the subject
+that was just under discussion.
+
+600
+01:04:04,174 --> 01:04:05,630
+The price you Pay
+
+601
+01:04:05,717 --> 01:04:09,005
+for bringing up either
+my Chinese or American heritage
+
+602
+01:04:09,095 --> 01:04:12,929
+as a negative is,
+I collect your fucking head.
+
+603
+01:04:13,016 --> 01:04:15,383
+Just like this fucker here.
+
+604
+01:04:17,270 --> 01:04:20,262
+Now, if any of you
+sons of bitches
+
+605
+01:04:20,357 --> 01:04:25,193
+got anything else to say,
+now is the fucking time!
+
+606
+01:04:27,280 --> 01:04:28,862
+I didn't think so.
+
+607
+01:04:31,701 --> 01:04:35,035
+Gentlemen, this meeting is adjourned.
+
+608
+01:04:35,121 --> 01:04:37,579
+One ticket to Tokyo, please.
+
+609
+01:07:12,320 --> 01:07:13,560
+<i>Moshi moshi.</i>
+
+610
+01:08:49,459 --> 01:08:50,790
+Hey!
+
+611
+01:08:52,962 --> 01:08:54,578
+- Hey, yeah!
+- Hey, yeah!
+
+612
+01:09:33,586 --> 01:09:35,623
+Gogo.
+
+613
+01:10:51,581 --> 01:10:54,915
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+614
+01:11:04,177 --> 01:11:06,589
+Yeah! Whoo!
+
+615
+01:11:06,679 --> 01:11:08,295
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+616
+01:11:08,389 --> 01:11:10,130
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+617
+01:11:10,224 --> 01:11:12,010
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+618
+01:11:12,101 --> 01:11:13,887
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+619
+01:11:13,978 --> 01:11:15,810
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+620
+01:11:15,897 --> 01:11:18,104
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+621
+01:11:40,129 --> 01:11:41,915
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+622
+01:11:42,006 --> 01:11:43,838
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+623
+01:11:43,925 --> 01:11:45,711
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+624
+01:11:45,802 --> 01:11:47,588
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+625
+01:11:47,678 --> 01:11:49,510
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+626
+01:11:49,597 --> 01:11:52,635
+You have to say "Yes, yes, yes" to
+any selfish demands they make.
+
+627
+01:11:52,725 --> 01:11:54,215
+They demand ridiculous things.
+
+628
+01:11:54,310 --> 01:11:56,972
+Shut up... Do you know what would
+happen if they heard you?
+
+629
+01:11:57,063 --> 01:11:58,063
+What's gonna happen?
+
+630
+01:11:58,147 --> 01:11:59,547
+Did you hear about the Tanaka clan?
+
+631
+01:11:59,607 --> 01:12:01,439
+You're gonna get your head chopped off.
+
+632
+01:12:01,526 --> 01:12:02,937
+No, I don't want that.
+
+633
+01:12:03,027 --> 01:12:04,768
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+634
+01:12:04,862 --> 01:12:06,819
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+635
+01:12:06,906 --> 01:12:09,489
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+636
+01:12:20,586 --> 01:12:22,372
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+637
+01:12:22,463 --> 01:12:24,295
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+638
+01:12:24,382 --> 01:12:26,089
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+639
+01:12:26,175 --> 01:12:27,961
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+640
+01:12:28,052 --> 01:12:29,884
+<i>♪ Whoo-hoo hoo hoo ♪</i>
+
+641
+01:12:29,971 --> 01:12:31,803
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+642
+01:12:31,889 --> 01:12:33,630
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+643
+01:12:33,724 --> 01:12:35,510
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+644
+01:12:35,601 --> 01:12:37,308
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+645
+01:12:37,395 --> 01:12:39,181
+<i>♪ Whoo-hoo hoo hoo hoo ♪</i>
+
+646
+01:12:39,272 --> 01:12:41,809
+<i>♪ Whoo-hoo hoo hoo ♪</i>
+
+647
+01:12:50,324 --> 01:12:51,860
+Yes, it's me.
+
+648
+01:12:55,580 --> 01:12:59,039
+And if you give us a contact number,
+we will get back to you.
+
+649
+01:13:14,223 --> 01:13:17,181
+Who do you remind me of?
+
+650
+01:13:18,227 --> 01:13:20,093
+Charlie Brown!
+
+651
+01:13:21,230 --> 01:13:23,642
+You're right, he does look like
+Charlie Brown.
+
+652
+01:13:23,733 --> 01:13:25,064
+Charlie Brown.
+
+653
+01:13:25,151 --> 01:13:26,516
+Four pepperoni pizzas.
+
+654
+01:13:26,611 --> 01:13:28,443
+That's not on our menu...
+
+655
+01:13:28,529 --> 01:13:30,520
+I don't care, bring them, goddammit!
+
+656
+01:13:31,616 --> 01:13:34,608
+Hey... hey... Charlie, give me a kiss.
+
+657
+01:13:35,953 --> 01:13:38,115
+O-Ren lshii!
+
+658
+01:13:39,248 --> 01:13:41,990
+You and I have unfinished business!
+
+659
+01:15:11,674 --> 01:15:14,416
+Charlie Brown, beat it.
+
+660
+01:15:22,101 --> 01:15:23,683
+Miki.
+
+661
+01:15:41,537 --> 01:15:43,653
+TEAR THE BITCH APART!
+
+662
+01:17:13,629 --> 01:17:19,250
+So, O-Ren, any more subordinates
+for me to kill?
+
+663
+01:17:20,761 --> 01:17:22,627
+Hi!
+
+664
+01:17:23,722 --> 01:17:25,679
+Gogo. right?
+
+665
+01:17:26,642 --> 01:17:28,132
+Bingo.
+
+666
+01:17:28,227 --> 01:17:30,184
+And you're Black Mamba.
+
+667
+01:17:31,897 --> 01:17:35,515
+Our reputations precede us.
+
+668
+01:17:36,402 --> 01:17:38,188
+Don't they?
+
+669
+01:17:39,780 --> 01:17:45,071
+Gogo, I know you feel
+you must protect your mistress.
+
+670
+01:17:46,078 --> 01:17:48,661
+But I beg you.
+
+671
+01:17:48,747 --> 01:17:50,784
+Walk away.
+
+672
+01:17:57,131 --> 01:17:59,122
+You call that begging?
+
+673
+01:18:04,763 --> 01:18:08,097
+You can beg better than that.
+
+674
+01:20:07,845 --> 01:20:09,051
+Aah!
+
+675
+01:20:15,019 --> 01:20:16,019
+Aah!
+
+676
+01:20:17,980 --> 01:20:18,980
+Aah!
+
+677
+01:21:21,794 --> 01:21:23,751
+Is that what I think it is?
+
+678
+01:21:23,837 --> 01:21:26,545
+You didn't think it was
+gonna be that easy, did you?
+
+679
+01:21:26,632 --> 01:21:33,925
+You know, for a second there,
+yeah, I kind of did.
+
+680
+01:21:34,807 --> 01:21:36,673
+Silly rabbit.
+
+681
+01:21:37,184 --> 01:21:38,184
+Trix are for...
+
+682
+01:21:38,268 --> 01:21:39,349
+Kids.
+
+683
+01:21:43,315 --> 01:21:44,897
+Hvah!
+
+684
+01:22:54,636 --> 01:22:55,717
+Hvah!
+
+685
+01:23:08,901 --> 01:23:10,016
+Aaaaaaaaahh!
+
+686
+01:23:10,027 --> 01:23:11,108
+Aaaaaaaaahh!
+
+687
+01:23:29,421 --> 01:23:30,502
+Aaahh!
+
+688
+01:24:37,489 --> 01:24:38,900
+Aaaaahhh!
+
+689
+01:25:53,523 --> 01:25:54,523
+Aaah!
+
+690
+01:26:01,490 --> 01:26:02,776
+<i>♪ I'm doin' ♪</i>
+
+691
+01:26:02,866 --> 01:26:04,823
+<i>♪ Ain't nobody doin' but me ♪</i>
+
+692
+01:26:04,910 --> 01:26:06,617
+<i>♪ Nobody but me ♪</i>
+
+693
+01:26:06,703 --> 01:26:08,660
+<i>♪ Yes, I gonna Philly,
+I'm doin' ♪</i>
+
+694
+01:26:08,747 --> 01:26:10,988
+<i>♪ Ain't nobody doin' but me,
+baby ♪</i>
+
+695
+01:26:11,083 --> 01:26:12,414
+<i>♪ Nobody but me ♪</i>
+
+696
+01:26:12,501 --> 01:26:15,493
+<i>♪ Well, let me tell you
+nobody ♪</i>
+
+697
+01:26:15,587 --> 01:26:18,329
+<i>♪ Nobody but me ♪</i>
+
+698
+01:26:18,423 --> 01:26:20,289
+<i>♪ Well, let me tell you
+nobody ♪</i>
+
+699
+01:26:20,384 --> 01:26:21,840
+<i>♪ Nobody ♪</i>
+
+700
+01:26:21,927 --> 01:26:23,338
+<i>♪ Nobody ♪</i>
+
+701
+01:26:23,428 --> 01:26:24,964
+<i>♪ Nobody ♪</i>
+
+702
+01:26:25,055 --> 01:26:26,511
+<i>♪ Nobody ♪</i>
+
+703
+01:26:26,598 --> 01:26:28,088
+<i>♪ Nobody ♪</i>
+
+704
+01:26:28,183 --> 01:26:29,639
+<i>♪ Nobody ♪</i>
+
+705
+01:26:29,726 --> 01:26:30,841
+<i>♪ Nobody ♪</i>
+
+706
+01:26:30,936 --> 01:26:32,518
+<i>♪ Nobody ♪</i>
+
+707
+01:28:08,158 --> 01:28:12,743
+This is what you get for
+fucking around with yakuzas!
+
+708
+01:28:12,829 --> 01:28:14,695
+Go home to your mother!
+
+709
+01:29:13,348 --> 01:29:16,181
+Those of you lucky enough to still
+have your lives...
+
+710
+01:29:16,268 --> 01:29:19,010
+take them with you!
+
+711
+01:29:20,605 --> 01:29:22,095
+However...
+
+712
+01:29:23,358 --> 01:29:27,443
+leave the limbs you've lost.
+
+713
+01:29:28,613 --> 01:29:32,106
+They belong to me now.
+
+714
+01:29:36,580 --> 01:29:39,413
+Except you, Sofie!
+
+715
+01:29:40,125 --> 01:29:43,288
+You stay right where you are.
+
+716
+01:30:36,765 --> 01:30:39,257
+Your instrument
+is quite impressive.
+
+717
+01:30:43,688 --> 01:30:45,850
+Where was it made?
+
+718
+01:30:47,359 --> 01:30:49,020
+Okinawa.
+
+719
+01:30:50,570 --> 01:30:53,904
+Whom in Okinawa made you this steel?
+
+720
+01:30:54,824 --> 01:30:56,986
+This is Hattori Hanzo steel.
+
+721
+01:30:57,077 --> 01:30:58,488
+YOU LIE!
+
+722
+01:31:10,799 --> 01:31:13,507
+Swords, however, never get tired.
+
+723
+01:31:14,636 --> 01:31:18,254
+I hope you've saved your energy.
+
+724
+01:31:21,810 --> 01:31:23,551
+If you haven't...
+
+725
+01:31:24,896 --> 01:31:27,479
+you might not last five minutes.
+
+726
+01:31:29,484 --> 01:31:31,646
+But as last looks go,
+
+727
+01:31:32,654 --> 01:31:34,645
+you could do worse.
+
+728
+01:34:13,273 --> 01:34:17,938
+Silly Caucasian girl likes
+to play with samurai swords.
+
+729
+01:34:20,196 --> 01:34:23,063
+You may not be able to fight
+like a samurai.
+
+730
+01:34:26,202 --> 01:34:29,411
+But you can at least die
+like a samurai.
+
+731
+01:34:59,777 --> 01:35:01,484
+Attack me...
+
+732
+01:35:02,405 --> 01:35:04,112
+with everything you have.
+
+733
+01:35:59,003 --> 01:36:01,916
+For ridiculing you earlier...
+
+734
+01:36:04,384 --> 01:36:06,625
+l apologize.
+
+735
+01:36:14,936 --> 01:36:16,677
+Accepted.
+
+736
+01:36:32,662 --> 01:36:34,152
+Ready?
+
+737
+01:36:38,376 --> 01:36:40,117
+Come on.
+
+738
+01:37:13,077 --> 01:37:21,077
+That really was a Hattori Hanzo sword.
+
+739
+01:39:32,550 --> 01:39:34,257
+My Sofie.
+
+740
+01:39:34,343 --> 01:39:36,675
+I'm so sorry.
+
+741
+01:39:39,807 --> 01:39:43,175
+Please.
+Please forgive my betrayal.
+
+742
+01:39:43,269 --> 01:39:45,010
+No more of that.
+
+743
+01:39:45,480 --> 01:39:47,266
+But still...
+
+744
+01:39:47,356 --> 01:39:49,472
+But still nothing.
+
+745
+01:39:51,486 --> 01:39:54,854
+Except my aching heart
+over what she's done
+
+746
+01:39:54,947 --> 01:39:57,860
+to my beautiful
+and brilliant Sofie.
+
+747
+01:39:58,910 --> 01:40:01,902
+I've kept you alive
+for two reasons.
+
+748
+01:40:01,996 --> 01:40:04,112
+The first reason is information.
+
+749
+01:40:04,207 --> 01:40:08,292
+Burn in Hell, you stupid, stupid blonde!
+
+750
+01:40:08,294 --> 01:40:10,774
+Burn in Hell, you stupid, stupid blonde!
+I'll tell you nothing.
+
+751
+01:40:11,047 --> 01:40:15,166
+But I am gonna ask you questions.
+
+752
+01:40:15,259 --> 01:40:19,298
+And every time
+you don't give me answers,
+
+753
+01:40:19,388 --> 01:40:21,880
+I'm gonna cut something off.
+
+754
+01:40:22,850 --> 01:40:28,687
+And I promise you,
+they will be things you will miss!
+
+755
+01:40:29,440 --> 01:40:31,556
+Give me your other arm!
+
+756
+01:40:34,070 --> 01:40:38,189
+I want all the information
+on the Deadly Vipers.
+
+757
+01:40:38,282 --> 01:40:39,693
+If you had to guess...
+
+758
+01:40:39,784 --> 01:40:41,240
+What they've been doing.
+
+759
+01:40:41,327 --> 01:40:42,658
+why she left you alive...
+
+760
+01:40:42,745 --> 01:40:44,452
+And where I can find them.
+
+761
+01:40:44,539 --> 01:40:47,327
+what would be your guess?
+
+762
+01:40:48,334 --> 01:40:50,951
+Guessing won't be necessary.
+
+763
+01:40:51,045 --> 01:40:53,127
+She informed me.
+
+764
+01:40:55,466 --> 01:40:59,084
+She said I could keep
+my wicked life for two reasons.
+
+765
+01:41:00,221 --> 01:41:01,711
+As I said before,
+
+766
+01:41:01,806 --> 01:41:05,344
+I've allowed you to keep your wicked life
+for two reasons.
+
+767
+01:41:06,477 --> 01:41:11,768
+And the second reason is
+so you can tell him, in person,
+
+768
+01:41:11,857 --> 01:41:15,646
+everything that happened
+here tonight.
+
+769
+01:41:15,736 --> 01:41:19,070
+I want him to witness
+the extent of my mercy
+
+770
+01:41:19,156 --> 01:41:22,740
+by witnessing
+your deformed body.
+
+771
+01:41:22,827 --> 01:41:26,991
+I want you to tell him all
+the information you just told me.
+
+772
+01:41:27,081 --> 01:41:30,119
+I want him to know what I know.
+
+773
+01:41:30,209 --> 01:41:34,419
+I want him to know
+I want him to know.
+
+774
+01:41:34,505 --> 01:41:36,917
+And I want them all to know
+
+775
+01:41:37,008 --> 01:41:43,675
+they'll all soon be
+as dead as O-Ren.
+
+776
+01:42:06,579 --> 01:42:12,165
+Revenge is never a straight line.
+
+777
+01:42:14,879 --> 01:42:16,665
+It's a forest.
+
+778
+01:42:17,632 --> 01:42:20,841
+And like a forest it's
+easy to lose your way...
+
+779
+01:42:21,802 --> 01:42:25,215
+to get lost... to
+forget where you came in.
+
+780
+01:42:28,559 --> 01:42:32,393
+That woman deserves her revenge.
+
+781
+01:42:37,610 --> 01:42:42,070
+And we deserve to die.
+
+782
+01:42:45,451 --> 01:42:49,410
+She must suffer
+to her last breath.
+
+783
+01:43:02,176 --> 01:43:05,089
+How did you find me?
+
+784
+01:43:05,179 --> 01:43:06,920
+I'm the man.
+
+785
+01:43:10,851 --> 01:43:14,264
+One more thing, Sofie.
+
+786
+01:43:14,355 --> 01:43:19,350
+Is she aware her daughter
+is still alive?
+

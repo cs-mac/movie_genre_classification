@@ -1,0 +1,1661 @@
+{1}{1}25.000
+{2461}{2576}1937
+{5088}{5154}Gentlemen, I wanna welcome|you medical schoolmen...
+{5159}{5206}...to our new operating theatre.
+{5210}{5281}As you can see,|it isn't exactly what you'd call new.
+{5285}{5345}Used to be a library|when this was a school...
+{5349}{5426}...and maybe before that|some kind of a sugar warehouse.
+{5430}{5504}Makeshift or not, the important|thing is that we got it.
+{5509}{5581}The first to be devoted|to psychosurgery in this state.
+{5585}{5637}And that is a great step forward.
+{5642}{5698}Now you're going|to witness an operation...
+{5703}{5775}...never performed before|in this state.
+{5779}{5822}A lobotomy on a woman's brain...
+{5826}{5898}...suffering from acute|schizophrenic withdrawal.
+{5903}{5978}Our new staff member,|Dr. John Cukrowicz from Chicago...
+{5982}{6036}...will perform this operation.
+{7015}{7040}Swab.
+{8573}{8608}Sew up, will you?
+{8701}{8790}You have just witnessed a delicate|operation on the human brain...
+{8794}{8879}...performed under the most|primitive surgical conditions...
+{8884}{8961}...that I hope any of you|will ever encounter.
+{9170}{9210}Excuse us, please.
+{9374}{9434}- Son, I know how you feel.|- For six months...
+{9438}{9505}...I have listened to you|promise me this and that.
+{9509}{9565}- But I am not...|- I know, I know, I know.
+{9569}{9651}You are not the state board of health.|I am not a witch doctor.
+{9655}{9714}I need properly trained assistants.
+{9718}{9790}I need an operating room|that doesn't fall apart.
+{9795}{9837}At least lights that stay lit.
+{9842}{9903}I know, but this is a state hospital.
+{9907}{9955}There just isn't|enough money for us.
+{9959}{10020}I can't promise|that there ever will be enough.
+{10062}{10130}I'll go back to Chicago|or someplace where there is.
+{10134}{10159}John.
+{10186}{10260}Before you do that,|read this.
+{10462}{10502}Who is Violet Venable?
+{10506}{10564}You reveal your ignorance|of our fair city...
+{10568}{10629}...of which Mrs. Venable|is the richest lady.
+{10633}{10738}At one time, her husband owned most of|it. Now she's a widow and she owns it.
+{10743}{10831}"...and was very interested|in the work of your Dr. Cukrowicz."
+{10835}{10905}She must have read your|write-up in the "Herald".
+{10910}{11001}"And I wonder if the foundation|I am establishing...
+{11006}{11062}...might be of some assistance."
+{11085}{11138}Son, with one signature|on one check...
+{11142}{11206}...she can solve|all the problems we got.
+{11218}{11284}"Also there is a matter|of some urgency...
+{11289}{11347}...I should like to discuss with him.
+{11359}{11431}Would 4:30 on Tuesday be convenient?"
+{11439}{11472}That's today.
+{11486}{11530}What is her urgency, do you know?
+{11534}{11614}No, but I know what ours is.|Lack of money. Her money.
+{11619}{11654}She is serious?
+{11659}{11706}4:30 this afternoon, you'll know.
+{11711}{11747}I can tell you this much.
+{11752}{11834}I've been trying for years|just to see the Venable lawyers.
+{11839}{11919}You've been invited by her.|That's a command performance.
+{11924}{11978}That's how serious I think it is.
+{11985}{12032}And this is serious too.
+{12037}{12150}More than 1200 mental cases|Lions View can't afford to handle.
+{12465}{12490}Good afternoon.
+{12494}{12551}- Dr. Cukrowicz.|- Yes, sir.
+{12619}{12690}- Take a seat, please.|- Thank you.
+{13042}{13069}Mrs. Venable?
+{13074}{13146}I am Miss Foxhill,|Mrs. Venable's secretary.
+{13150}{13200}And you are Dr. Cukrowicz?
+{13205}{13275}- Your appointment was for...?|- 4:30.
+{13280}{13368}You are 23 seconds early.|Sit down, please.
+{13382}{13412}Thank you.
+{13496}{13564}Sebastian always said,|"Mother, when you descend...
+{13569}{13623}...it's like the goddess|from the machine."
+{13631}{13739}- Mrs. Venable's on her way down.|- I feel just like an angel...
+{13744}{13813}...coming to earth|as I float, float into view.
+{13828}{13853}Sebastian...
+{13869}{13948}...my son, Sebastian, was|very interested in the Byzantine.
+{13952}{14009}Are you interested|in the Byzantine, Dr...?
+{14018}{14044}Cukrowicz.
+{14048}{14104}I don't know very much|about the Byzantine.
+{14110}{14203}The emperor of Byzantium,|when he received people in audience...
+{14207}{14271}...had a throne which,|during the conversation...
+{14275}{14383}...would rise mysteriously in the air|to the consternation of the visitors.
+{14387}{14462}As we are living in a democracy,|I reverse the procedure.
+{14466}{14507}I don't rise. I come down.
+{14512}{14578}How do you do, Dr...?|Oh, I'm sorry, your name?
+{14582}{14609}Cukrowicz.
+{14615}{14682}It's a Polish word meaning "sugar."
+{14708}{14800}Am I only wearing one earring?|Have I forgotten my lip rouge?
+{14809}{14849}Excuse me, I...
+{14854}{14929}I guess I had been told|you were a widow.
+{14936}{14988}I am. I'm in mourning.
+{14993}{15052}White was my son's favourite colour.
+{15057}{15116}Perhaps, Dr. Sugar...
+{15121}{15175}...you expected an old widow.
+{15179}{15242}With a garnet brooch, a cane|and an ear trumpet.
+{15246}{15294}I have all that|to look forward to.
+{15299}{15407}Life is a thief. Sebastian always|said, "Life steals everything."
+{15412}{15460}I want to show you his garden.
+{15464}{15522}Are you sure you should go out,|Mrs. Venable?
+{15526}{15580}Quite sure.|They treat me like an invalid.
+{15584}{15712}You see, last spring I had a tiny|convulsion of a tiny blood vessel.
+{15716}{15754}What did your doctor call it?
+{15758}{15790}A malady of living.
+{15794}{15900}After all, I've buried a husband|and a son. I'm a widow and a...
+{15910}{15957}Funny, there's no word.
+{15962}{16015}Lose your parents, you're an orphan.
+{16020}{16098}Lose your only son and you are...
+{16135}{16162}...nothing.
+{16202}{16228}Foxhill.
+{16262}{16301}Where are they?
+{16318}{16361}I put them in the patio.
+{16366}{16462}They sent them parcel post from|Pensacola. That's why they were late.
+{16466}{16554}Another day and we'd have starved|to death. Come on, doctor.
+{16578}{16652}In your letter,|you said an urgent matter.
+{16656}{16741}I must say, you're handsomer|than your photograph in the paper...
+{16745}{16818}...without that awful paraphernalia|you doctors wear.
+{16823}{16888}Your son's favourite colour, white.
+{16893}{16950}Such extraordinary eyes.
+{16955}{17023}So like his. You must...
+{17028}{17140}I almost said, "You must meet|my son Sebastian." Force of habit.
+{17145}{17179}Is he the son who died?
+{17184}{17222}Yes, last July, in Europe.
+{17227}{17267}He must have been young to die.
+{17271}{17299}All poets...
+{17304}{17391}...whatever age they may seem|to others, die young.
+{18170}{18254}- It's unexpected.|- Like the dawn of creation.
+{18259}{18304}It was Sebastian's idea.
+{18309}{18396}Part of his lifelong war|against the herbaceous border.
+{18401}{18494}Not unlike a well-groomed jungle|and, frankly, a little terrifying.
+{18499}{18542}So was creation.
+{18546}{18626}So is creation.|Listen to them buzz, buzz.
+{18630}{18666}What's in there?
+{18670}{18735}This way, before our poor lady|dies of hunger.
+{18740}{18810}The Latin names to the plants|are printed on tags...
+{18814}{18866}...attached to them,|but the print's fading.
+{18870}{18940}Those ones there|are the oldest plants on earth.
+{18945}{19030}Survivors from the age|of the giant fern forest.
+{19035}{19077}And here's my poor lady.
+{19100}{19137}They never get away.
+{19142}{19262}The lady exudes this marvellous|perfume which attracts them.
+{19267}{19358}They plunge into her chalice.|And they never come out.
+{19370}{19429}This operation|you perform is called...?
+{19457}{19485}Lobotomy.
+{19489}{19540}- That's an unusual...|- I hate these flies.
+{19544}{19574}Foxhill!
+{19579}{19607}Foxhill!
+{19620}{19705}She loves feeding our wicked lady.|Foxhill's rather a brute.
+{19709}{19787}Such an extravagance, really,|from early fall to late spring...
+{19791}{19836}...lady must be kept under glass...
+{19841}{19926}...and we have to provide her|with flies flown in at great expense.
+{19930}{19982}Foxhill, you do the honours.
+{19987}{20074}- Lady's very hungry today.|- Of course, Mrs. Venable.
+{20078}{20172}I've never seen an insectivorous|plant before. What is it called?
+{20177}{20228}The Venus flytrap.
+{20235}{20283}A devouring organism...
+{20288}{20366}...aptly named|for the goddess of love.
+{20389}{20474}What was your son's work?|I mean, aside from this garden.
+{20478}{20554}As many times as I've had|to answer that question...
+{20558}{20608}...it still shocks me|a little to realize...
+{20612}{20684}...that Sebastian Venable the poet|was quite unknown...
+{20688}{20766}...outside of a small coterie|of friends, including his mother.
+{20770}{20850}- Your son was a poet?|- His life was his occupation.
+{20855}{20918}Yes. Yes, Sebastian was a poet.
+{20922}{20995}That's what I meant|when I said his life was his work.
+{21005}{21113}Because the work of a poet|is the life of a poet. And vice versa.
+{21118}{21173}I mean, you can't separate them.|I mean...
+{21178}{21251}...a poet's life is his work.
+{21256}{21360}And his work is his life,|in a special sense.
+{21467}{21544}- Are you all right?|- Right as rain, however right that is.
+{21559}{21625}This operation of yours,|does it really work?
+{21636}{21679}Yes, yes, it does.
+{21684}{21733}However, it is very experimental.
+{21738}{21836}I was struck by something|you said in the paper.
+{21841}{21908}About the sharp knife in the mind.
+{21912}{21956}That kills the devil in the soul?
+{21981}{22032}I'm afraid I got a bit carried away.
+{22054}{22158}No, what you said|was almost poetic itself.
+{22190}{22291}Mrs. Venable, the work|of a doctor is his life too.
+{22296}{22407}But we need help, particularly|in a field as experimental as mine.
+{22412}{22500}Particularly at a state hospital|like Lions View.
+{22518}{22576}We have very little money,|practically none.
+{22580}{22618}Yes, I know.
+{22629}{22654}Doctor...
+{22665}{22709}...I have a niece by marriage...
+{22714}{22761}...at a place called St. Mary's.
+{22766}{22798}I've heard of it.
+{22806}{22857}It's a custodial home for the insane.
+{22862}{22948}She suffers from something|called dementia praecox.
+{22953}{22981}From dementia praecox?
+{22986}{23056}Which is to say, she's mad|as a hatter, poor child.
+{23060}{23112}Would you like to|see Sebastian's studio?
+{23116}{23202}It's at the end of the jungle|in what used to be the "garçonnière.
+{23206}{23246}An old New Orleans convenience.
+{23251}{23325}A place where the young men|could go to be private.
+{23330}{23372}You're not from New Orleans?
+{23377}{23483}No, Chicago. Actually, dementia|praecox is a meaningless phrase...
+{23488}{23582}Chicago. I've always wanted|to see two places before I die.
+{23586}{23616}Hong Kong...
+{23621}{23662}...and Chicago.
+{23674}{23724}Now I shall never see either.
+{23730}{23826}Because I must use every inch and|ounce of what little strength I have...
+{23830}{23890}...in doing just what I'm doing.
+{23895}{23935}The foundation you referred to?
+{23940}{24005}Building a memorial to my son.
+{24010}{24116}You see, Sebastian had|no public name as a poet.
+{24121}{24169}He didn't want one.
+{24174}{24225}He refused to have one.
+{24230}{24327}He abhorred the false values|that come from being publicly known...
+{24332}{24422}...from fame,|from personal exploitation.
+{24426}{24517}He'd say to me, "Violet, Mother,|you're going to live longer than me.
+{24522}{24606}When I'm gone, it will be yours|to do whatever you please with."
+{24614}{24685}Meaning, of course,|his future recognition.
+{24709}{24790}- You're very like him, doctor.|- In what way?
+{24795}{24864}Because you, a doctor, a surgeon...
+{24869}{24938}...are dedicated to your art.
+{24946}{25022}Yes, to your art.|It is an art, what you do.
+{25027}{25078}Using people the way he did.
+{25083}{25136}Grandly, creatively.
+{25147}{25205}Almost like God.
+{25210}{25270}I'm afraid my art is to help.
+{25275}{25335}Not to use, but to be used.
+{25381}{25452}Well, it comes to the same,|doesn't it?
+{25457}{25511}I mean, in the end.
+{25534}{25582}Oh, I don't know what I mean.
+{25602}{25688}There is the atelier,|Sebastian's studio.
+{25702}{25749}Most people's lives...
+{25757}{25823}...what are they|but trails of debris?
+{25828}{25883}Each day more debris, more debris.
+{25888}{25971}Long, long trails of debris...
+{25980}{26064}...with nothing to clean it all up|but, finally, death.
+{26088}{26119}I guess...
+{26131}{26225}...quiet desperation|is the word for most lives.
+{26256}{26304}But ours were different.
+{26309}{26362}Sebastian's and mine.
+{26377}{26460}I know it sounds|hopelessly vain to say...
+{26465}{26519}...but we were a famous couple.
+{26524}{26595}People didn't speak of Sebastian|and his mother...
+{26600}{26662}...or Mrs. Venable and her son.
+{26666}{26713}They said, "Sebastian and Violet.
+{26718}{26802}Violet and Sebastian are at the Lido.|They're at the Ritz."
+{26812}{26898}And every appearance,|every time we appeared...
+{26903}{26962}...attention was centred on us.
+{26970}{27017}Everyone else eclipsed.
+{27028}{27100}My son, Sebastian...
+{27110}{27150}...and I...
+{27155}{27203}...constructed our days.
+{27208}{27310}Each day, we would carve each day|like a piece of sculpture.
+{27345}{27404}We left behind us a trail of days...
+{27409}{27465}...like a gallery of sculpture...
+{27493}{27582}...until suddenly, last summer...
+{27603}{27636}Your son died?
+{27827}{27921}You say that your niece suffers|from dementia praecox.
+{27926}{27983}There must have been|a more exact diagnosis.
+{28002}{28065}Such a pretty name for a disease.
+{28070}{28129}Sounds like a rare flower,|doesn't it?
+{28134}{28196}Night-blooming dementia praecox.
+{28244}{28304}What form does her disturbance take?
+{28309}{28337}Madness.
+{28349}{28394}Obsession, memory.
+{28398}{28462}She lacerates herself with memory.
+{28466}{28502}Memory of what?
+{28507}{28564}Visions, hallucinations.
+{28582}{28627}It all started last summer.
+{28632}{28749}The first I knew, there was a cable|from this clinic in Paris...
+{28754}{28829}...saying, "Your niece is out|of her mind. What shall we do?"
+{28833}{28885}I was almost out of my mind|last summer.
+{28889}{28976}Sebastian had just died, I was ill,|but I did everything I could.
+{28981}{29049}I said, "Send her straight home|with a nurse."
+{29054}{29118}So they put her on the "Berengaria"...
+{29129}{29194}...locked in her stateroom|like a wild animal.
+{29198}{29253}She was taken straight to St. Mary's.
+{29258}{29354}And now they can't keep her there,|they can't help her...
+{29358}{29408}...or cope with her fits of violence.
+{29413}{29499}Her babbling.|Her dreadful, obscene babbling.
+{29504}{29600}- What kind of babbling?|- Fantastic delusions and babblings...
+{29605}{29641}...of an unspeakable nature.
+{29646}{29702}Mostly taking the form|of hideous attacks...
+{29707}{29786}...on the moral character|of my son, Sebastian.
+{29792}{29873}And now they tell me at St. Mary's...
+{29878}{29924}...the Mother Superior tells me...
+{29929}{29994}...that we must find|another place for her.
+{30058}{30118}And then I read about you...
+{30126}{30205}...about your operation,|and I thought:
+{30210}{30267}"This may be the answer|to all our prayers."
+{30277}{30330}You must realize|the operation I do...
+{30334}{30401}...is only for the unapproachable,|for the hopeless.
+{30405}{30485}If she isn't unapproachable|and hopeless, I don't know who is.
+{30489}{30526}- The things she says.|- What?
+{30530}{30582}- Terrible, obscene things.|- Such as?
+{30586}{30630}Oh, anything.
+{30634}{30665}Such as?
+{30685}{30724}All right, you asked.
+{30729}{30789}This happened recently at St. Mary's.
+{30794}{30877}Catherine accused an elderly gardener|of making love to her.
+{30882}{30938}They questioned the gardener,|an old man.
+{30942}{30978}It was the other way around.
+{30982}{31070}Catherine had made advances to him,|spoken obscenely to him.
+{31074}{31146}When confronted with her lies,|she fought and screamed.
+{31150}{31196}It took four nuns to control her.
+{31200}{31293}Now I'm put on notice that they|won't keep her there after this week.
+{31297}{31336}You see why I said urgent.
+{31341}{31381}Yes, I do. I certainly do.
+{31385}{31445}It's important I see her|as soon as possible.
+{31449}{31515}And help her. If you can't,|I'm at my wits' end.
+{31519}{31601}I can transfer her to Lions View.|She won't be as comfortable...
+{31605}{31634}I understand.
+{31639}{31691}But the important thing|is you, doctor.
+{31695}{31758}You'll be happy to know|that at this very minute...
+{31762}{31856}...my lawyers are working on the|Sebastian Venable Memorial Foundation...
+{31861}{31948}...to subsidize the work|of young people like yourself...
+{31953}{32026}...who are pushing out|the frontiers of art and science...
+{32030}{32072}...but have a financial problem.
+{32084}{32180}Mrs. Venable, loving your niece|as you do, you must know...
+{32185}{32254}...there's great risk|in this operation.
+{32258}{32366}When you enter the brain with a foreign|object, even a needle-thin knife...
+{32371}{32427}...in the hands|of the most skilled surgeon...
+{32449}{32518}...there still is|a great deal of risk.
+{32525}{32585}But it does pacify them,|I've read that.
+{32590}{32669}It quiets them down.|It makes them peaceful.
+{32674}{32766}- Yes, that it does do, but...|- But what?
+{32771}{32858}Well, it will be years before we know|if the benefits...
+{32863}{32925}...of the operation are lasting...
+{32932}{32991}...or maybe just passing|or perhaps...
+{33005}{33099}There's a strong possibility that|the patient will always be limited.
+{33104}{33186}Relieved of acute anxiety,|yes, but limited.
+{33191}{33292}But what a blessing to them, doctor,|to be just peaceful.
+{33326}{33402}To be just suddenly peaceful.
+{33421}{33469}After all that horror...
+{33477}{33528}...after those nightmares...
+{33540}{33625}...just to be able to lift up|their eyes to a sky...
+{33630}{33686}...not black with savage,|devouring birds.
+{33691}{33769}You said a sky filled|with savage, devouring birds?
+{33774}{33799}Did I?
+{33804}{33892}How odd. I hadn't thought|about all that in years.
+{33897}{33943}Now, why should I suddenly...?
+{33948}{34050}Yes, we saw those birds|one summer in the Pacific.
+{34055}{34150}You see, my son|Sebastian was looking for...
+{34155}{34249}- Looking for what?|- Rare, hungry birds.
+{34256}{34349}- That's not what you started to say.|- You're too quick for me.
+{34354}{34458}I was going to say my son|Sebastian was looking for God.
+{34463}{34535}I stopped myself.|I thought you'd think:
+{34540}{34646}"What a pretentious young crackpot."|Which Sebastian was not.
+{34657}{34735}This is something|I've never told anyone before.
+{34740}{34781}Something so terrible.
+{34786}{34890}Forgive me if I sound quite mad,|but it's true all the same.
+{34895}{34969}Sebastian saw the face of God.
+{34977}{35026}I'd like to hear about that.
+{35035}{35097}Yes, yes.
+{35122}{35230}One long ago summer,|sitting right here in this garden...
+{35235}{35302}...Sebastian said,|"Mother, listen to this."
+{35308}{35388}And he read me|Herman Melville's description...
+{35392}{35483}...of the Encantadas,|the Galapagos Islands.
+{35488}{35583}He read me that description|and said we had to go there.
+{35588}{35640}So we did go there that summer...
+{35645}{35704}...on a boat,|a four-masted schooner...
+{35709}{35798}...the sort of boat that Melville|would have sailed on.
+{35803}{35856}We saw the Encantadas.
+{35861}{35924}But on the Encantadas|we saw something...
+{35929}{35981}...that he hadn't written about.
+{35990}{36062}We saw the sea turtles|crawl out of the sea...
+{36067}{36116}...for their annual egg-laying.
+{36121}{36196}Once a year, the female|of the sea turtles...
+{36201}{36287}...crawls out of the sea|onto the blazing sand beach...
+{36292}{36389}...of a volcanic island|to dig a pit in the sand...
+{36394}{36455}...and deposit her eggs there.
+{36460}{36560}It's a long and dreadful thing,|the depositing of the eggs in the sand.
+{36566}{36605}And when it's finished...
+{36610}{36748}...the exhausted female turtle|crawls back to the sea half-dead.
+{36753}{36805}She never sees her offspring.
+{36825}{36854}But we did.
+{36859}{36971}Sebastian knew exactly when|the sea turtle eggs would be hatched.
+{36976}{37051}- We returned in time for it.|- You went back?
+{37056}{37180}In time to witness the hatching|and their desperate flight to the sea.
+{37185}{37297}The narrow beach, the colour|of caviar, was all in motion.
+{37302}{37387}The sky was in motion,|full of flesh-eating birds.
+{37392}{37437}And the noise of the birds...
+{37442}{37500}...their savage cries|as they circled...
+{37505}{37556}...over the beach|of the Encantadas...
+{37561}{37636}...while the new sea turtles|scrambled out...
+{37641}{37701}...and started their race to the sea.
+{37706}{37789}- Race to the sea?|- To escape the flesh-eating birds...
+{37794}{37860}...that made the sky almost black.
+{37865}{37989}And I said, "Sebastian, no.|No, it's not like that."
+{37997}{38094}But he made me look.|He made me see that terrible sight.
+{38099}{38158}- What was not like that?|- Life.
+{38166}{38204}I said, "No.
+{38209}{38293}No! That's not true!"
+{38298}{38336}But he said it is.
+{38341}{38434}He said, "Look, Violet.|Look, there on the shore."
+{38439}{38547}And I looked and saw the sand|all alive, all alive...
+{38552}{38630}...as the new-hatched sea turtles|dashed to the sea...
+{38635}{38717}...while the birds hovered|and swooped to attack...
+{38722}{38796}...and hovered and swooped to attack.
+{38817}{38892}They were diving down|on the sea turtles...
+{38897}{39024}...turning them over|to expose their soft undersides...
+{39029}{39102}...tearing their undersides open...
+{39113}{39206}...and rending and eating their flesh.
+{39262}{39342}Sebastian guessed that possibly...
+{39347}{39424}...only a hundredth|of one percent of their number...
+{39429}{39473}...would escape to the sea.
+{39532}{39614}Nature isn't created|in the image of man's compassion.
+{39619}{39659}Nature is cruel!
+{39672}{39757}Sebastian knew it all along,|was born knowing it, but not I.
+{39762}{39874}I said, "No, no, those are|only birds, turtles, not us."
+{39879}{39931}I didn't know then it was us.
+{39936}{40053}That we are all of us trapped|by this devouring creation.
+{40058}{40149}I couldn't, wouldn't face|the horror of the truth...
+{40154}{40216}...even that last day|in the Encantadas...
+{40221}{40266}...when Sebastian left me...
+{40271}{40345}...and spent the whole|blazing, equatorial day...
+{40350}{40438}...in the crow's-nest,|watching that thing on the beach...
+{40442}{40496}...until it was too dark to see.
+{40501}{40605}When he came down the rigging,|he said, "Now I've seen him."
+{40610}{40695}- And he meant God.|- Do you believe he saw God?
+{40700}{40787}He saw the whole thing there|that day on the beach.
+{40792}{40859}But I was like you. I said no.
+{40864}{40914}I refused to believe...
+{40919}{41026}...until suddenly, last summer,|I learned my son was right.
+{41040}{41135}What he had shown me|in the Encantadas was the horrible...
+{41140}{41200}...the inescapable truth.
+{41553}{41578}Violet, honey.
+{41594}{41658}- You gave me a turn.|- Hi, Aunt Vi.
+{41672}{41704}Why are you two here?
+{41709}{41792}We came for Sebastian's|clothes, like you said.
+{41797}{41890}- Remember? Like you said.|- So we just kind of let ourselves in.
+{41895}{42028}- I must have got hold of this letter.|- Caught on your sleeve probably.
+{42033}{42156}That's Mrs. Holly, mother of the|St. Mary's girl, and that's her son.
+{42161}{42252}Apparently, I said|he could have Sebastian's clothes.
+{42257}{42364}You haven't forgotten what you said|at Elaine Tutweiler's?
+{42369}{42411}Since I was going to college...
+{42415}{42491}...I could have Cousin|Sebastian's clothes.
+{42496}{42528}You did say that.
+{42533}{42589}You said|that Son here could have...
+{42601}{42684}I'm accused of generosity.|Now will you please...?
+{42690}{42783}Aunt Violet is generous,|so generous to her family, Mr...
+{42788}{42819}What's your name?
+{42824}{42894}- Dr. Cukrowicz.|- Are you a doctor?
+{42899}{42956}- Violet, you're not ill again?|- No, Grace!
+{42961}{42996}I'm so relieved.
+{43001}{43112}I was afraid you had another of those|strokes of yours. Those seizures.
+{43117}{43248}I've never had a seizure nor a stroke.|We were discussing your daughter.
+{43253}{43321}My poor lamb, my poor little girl.
+{43326}{43401}- Can you help her?|- I'm gonna try to, if I can.
+{43406}{43481}Mama, look here! White silk.
+{43502}{43538}"Made in Rome."
+{43543}{43617}Oh, boy, is this one gonna|pick up lipstick!
+{43622}{43703}Take the clothes.|Don't flaunt them in my face.
+{43708}{43780}Why don't you both let yourselves out?
+{43785}{43899}- Get the rest another time.|- It won't take two seconds to finish.
+{43904}{44016}It's impossible that Sebastian|won't walk through that door again...
+{44021}{44098}...with all those bright people|he used to know.
+{44103}{44147}All laughing, carrying on...
+{44152}{44252}...saying those witty things|that were way over my poor head.
+{44257}{44316}He was such a tease too.|You know...
+{44321}{44406}...he told me that the piece of lace|on this table...
+{44411}{44525}...was made by these blind nuns|in Belgium. Imagine!
+{44530}{44613}- I thought I'd gone through everything.|- Who is that?
+{44618}{44716}- It's the girl.|- Why, that's my poor angel, Catherine.
+{44722}{44809}- I wonder why he put it there.|- Maybe he liked her.
+{44826}{44916}George, take your plunder|and get out of here.
+{44922}{44999}- Okay.|- This must've been taken last spring.
+{45004}{45066}She's wearing her Mardi Gras gown.
+{45071}{45169}Remember how lovely she was?|You loaned her your fur coat.
+{45174}{45227}I remember everything.
+{45248}{45323}I guess it was not exactly|a happy evening.
+{45332}{45441}- What did happen?|- She was, she is a lovely girl.
+{45446}{45513}And I must say, of all my relations...
+{45518}{45630}...my delightful relations,|she was the one most like me.
+{45642}{45688}That's why you've got to save her.
+{45692}{45772}Because madness is the most horrible|doom on this earth.
+{45777}{45872}Every item here has been inventoried|by the insurance people.
+{45877}{45953}They'd be upset|if anything were missing.
+{45959}{46072}- What do you think I am?|- On that subject, my lips are sealed.
+{46081}{46133}Now, both of you, please go.
+{46138}{46195}- It's almost 5:00.|- That's right.
+{46200}{46266}Violet always has,|I mean, used to have...
+{46271}{46341}...her 5:00 daiquiri|here with Sebastian.
+{46346}{46389}Now I have it here alone.
+{46399}{46460}Well, we must fly now.
+{46465}{46554}I do pray you can help my poor Cathy.|Goodbye.
+{46559}{46667}Violet, bye now.|Say thank you, George.
+{46672}{46743}Bye, Aunt Violet.|Thanks for everything.
+{46748}{46854}Aren't they awful?|Sebastian and I used to speculate...
+{46859}{46910}...on how those Neanderthals...
+{46915}{46994}...could've produced a girl|as rare as Catherine.
+{47006}{47121}You would have liked Sebastian|and he would have been charmed by you.
+{47126}{47219}He wasn't a family or a money snob,|but he was a snob.
+{47224}{47306}He was a snob about loveliness|in things...
+{47311}{47413}...about personal charm|and physical grace in people.
+{47418}{47462}We always had a perfect troupe...
+{47467}{47580}...of beautiful people around us|always, whenever we travelled.
+{47604}{47674}- May I sit here?|- Sebastian's seat.
+{47679}{47738}- Oh, well...|- No, no, please.
+{47743}{47854}It's a court jester's chair.|A rare one, 500 years old.
+{47863}{47919}Please, sit on it.
+{47929}{48023}Say something funny.|Make me stop wanting to cry.
+{48050}{48127}I'm afraid I'd make|a miserable jester.
+{48137}{48222}I get concerned when|people stop wanting to cry.
+{48227}{48289}Time for your medicine and daiquiri.
+{48294}{48341}In that order.
+{48367}{48441}Isn't it nice of the drugstore|to keep me alive?
+{48446}{48479}- Thank you.|- Foxhill...
+{48484}{48597}See the Hollys off the premises.|They're apt to remove the silver.
+{48601}{48638}Yes, Mrs. Venable.
+{48643}{48737}He would sit in his chair,|I in mine, at 5:00 every day...
+{48742}{48833}...and we'd have daiquiris|with St. Sebastian brooding above us.
+{48845}{48907}But you stayed here last summer.
+{48913}{48997}I did. I wasn't well.|He took Catherine with him.
+{49002}{49052}- And he died.|- Of a heart attack.
+{49057}{49090}Was she with him?
+{49095}{49209}She was there with him when he died,|and that day she lost her mind.
+{49214}{49273}When will you see her, doctor?
+{49281}{49334}As soon as I can.
+{49347}{49461}What can I tell Dr. Hockstader|about your interest in helping us?
+{49466}{49524}Can't that wait until|you've met my niece...
+{49529}{49616}...and decided if you think|your operation could help her?
+{49621}{49670}Yes, of course it can wait.
+{49675}{49737}Surely there's no connection between...
+{49742}{49853}Aren't we more interested in something|that concerns us personally?
+{49862}{49907}Aren't we, doctor?
+{49926}{49966}I understand.
+{50032}{50080}I can find my way out.
+{50094}{50194}Millions of years ago, dinosaurs fed|on leaves of those trees.
+{50199}{50270}They were vegetarians.|That's why they became extinct.
+{50276}{50334}They were just too gentle|for their size.
+{50341}{50421}Then the carnivores,|the ones that eat flesh...
+{50426}{50489}...the killers inherited the earth.
+{50494}{50576}But then they always do, don't they?
+{50925}{50997}Catherine.
+{51018}{51092}It's Sister Felicity, Catherine.
+{51105}{51172}Please get up. You're to come with me.
+{52640}{52686}Catherine.
+{52718}{52775}I'm not being violent, Sister.
+{53208}{53271}What are you doing, Catherine?
+{53338}{53382}Just smoking a cigarette.
+{53392}{53521}Now, you know we're not allowed|to smoke at St. Mary's.
+{53526}{53599}- Please let me smoke. Please.|- Give it here.
+{53604}{53694}- Don't be such a bully!|- Disobedience has to be paid for.
+{53699}{53779}- I'll pay for it later.|- Now, Catherine.
+{53784}{53845}I'm putting out my hand for it.
+{53851}{53910}- All right, take it!|- You burned me!
+{53915}{53978}- I'm sorry...|- You deliberately burned me.
+{53983}{54069}- You said to...|- You stuck the lit end into my hand.
+{54074}{54162}I'm so sick of being|bossed and bullied.
+{54167}{54206}I'm sick of being...
+{54225}{54306}You saw that.|Saw her deliberately burn me.
+{54313}{54396}- You better put something on that.|- I can't leave.
+{54406}{54485}- Patients classified as violent...|- Sister.
+{54490}{54586}Very well, doctor. I'll wait outside.
+{54648}{54711}Just outside the door.
+{54757}{54843}You're very brave|being in the room alone with me.
+{54848}{54921}- Do you plan to burn me too?|- Oh, much worse.
+{54939}{54997}I'm classified as violent.
+{55002}{55086}I'm apt to attack you|and then accuse you of rape.
+{55103}{55202}- Do you do that sort of thing?|- That's why I'm in isolation.
+{55218}{55310}I molested an elderly gardener|of great virtue.
+{55315}{55408}When he refused my advances,|I denounced him as a lecher.
+{55420}{55482}After that, I was punished.
+{55488}{55522}Was it true?
+{55530}{55583}That I was punished? Yes.
+{55588}{55698}- That you accused him unjustly.|- Of course I accused him unjustly.
+{55703}{55742}After all, I'm insane.
+{55747}{55831}It's the sort of thing|an insane woman would do.
+{55843}{55977}Besides, haven't you noticed|how oddly I've been looking at you?
+{55985}{56010}Have you?
+{56016}{56092}How I've been staring at your eyes.
+{56102}{56192}Your beautiful, blue, frightened eyes.
+{56197}{56274}Why are they so frightened?|Do you need help?
+{56285}{56330}Do you want help from me?
+{56370}{56425}I'm making you nervous.
+{56430}{56483}You have every reason to be.
+{56498}{56612}Because now I'm going|to attack you. Yes, attack.
+{56617}{56666}It won't be for your beauty.
+{56671}{56752}No, it's for these cigarettes.|Let me have one.
+{56757}{56816}Of course. Help yourself.
+{56851}{56901}You are good.
+{56930}{57016}- Who are you?|- I'm a doctor.
+{57024}{57081}- Sent by my aunt?|- Yes.
+{57086}{57173}- As I haven't responded to treatment.|- So they say.
+{57178}{57289}You've been invited to try|your hand at what is a hopeless case.
+{57294}{57394}Is it hopeless? What do you think?
+{57457}{57524}- Where are you from?|- Lions View.
+{57670}{57721}The state asylum.
+{57745}{57793}Where they have the Drum.
+{57798}{57884}What you call the Drum|is not a torture chamber.
+{57889}{57961}It's really a recreation hall.
+{57973}{58041}They'll keep me there forever.
+{58046}{58116}Like an animal in a cage.
+{58142}{58218}- She is merciless, isn't she?|- Who?
+{58222}{58293}Aunt Violet. Why else|do you think I'm here?
+{58297}{58354}Where no one can see me, hear me?
+{58359}{58427}You sound as if you think|she hates you.
+{58432}{58459}Doesn't she?
+{58464}{58516}Do you hate her?
+{58524}{58573}What, hate?
+{58578}{58666}No. I don't understand what hate is...
+{58671}{58744}...or how anyone could hate|and still be sane.
+{58749}{58812}I really do think I am sane...
+{58817}{58897}...despite considerable evidence|to the contrary.
+{58902}{59048}- Your aunt, Mrs. Venable...|- Can no more help herself than I could.
+{59053}{59113}Help herself? How do you mean?
+{59134}{59193}You see, we all loved Sebastian.
+{59198}{59305}Women, men, children, animal,|mineral, vegetable...
+{59310}{59396}Sebastian was a vocation, not a man.
+{59427}{59499}Poor Aunt Vi was hooked|from the beginning.
+{59504}{59579}Loved Sebastian and nobody else.
+{59584}{59660}She gave up everything for Sebastian.
+{59665}{59710}Even her husband.
+{59715}{59785}What was Mr. Venable like?
+{59790}{59850}Mr. Venable was a good man...
+{59855}{59936}...but dull to the point of genius.
+{59967}{60020}That was Sebastian talking.
+{60025}{60097}From him,|it wouldn't have sounded cruel.
+{60101}{60219}When I talk like him or when Aunt Vi|talks like him, we sound heartless.
+{60224}{60322}And we're not really.|Though we do terrible things.
+{60327}{60401}What do you consider terrible?
+{60414}{60500}Aunt Vi let her husband die|because of Sebastian.
+{60505}{60576}Killed him, some people thought.
+{60582}{60637}How, killed him?
+{60642}{60746}Once, Sebastian decided to give up|the torments of this world...
+{60750}{60831}...and become a Buddhist monk.|That was in Tibet.
+{60836}{60939}He shaved his head, was given|a wooden bowl and was happy.
+{60944}{60987}Till Aunt Vi came.
+{60992}{61040}Why? What did she do?
+{61045}{61148}Lived in a hut, even took vows,|or whatever women do.
+{61153}{61261}Anything to be near him,|to get to him, to make him come home.
+{61267}{61319}While there, word came.
+{61324}{61404}Mr. Venable was dying.|He had to see her.
+{61414}{61454}And she chose to stay?
+{61477}{61571}She chose to let her husband|die alone.
+{61576}{61681}If you'd known Sebastian, you'd|understand she had no choice...
+{61686}{61813}...how none of us ever had a choice,|once Sebastian had decided we were...
+{61822}{61861}...to be used.
+{61866}{61900}Used?
+{61905}{61973}You mean he used people?
+{61978}{62016}Yes.
+{62033}{62123}Isn't that what love is?|Using people?
+{62128}{62245}And maybe that's what hate is.|Not being able to use people.
+{62251}{62301}- Go on.|- Go on where?
+{62306}{62349}Anywhere.
+{62354}{62451}To the first memory you come to.
+{62461}{62502}My first memory?
+{62525}{62586}It was once at a Mardi Gras ball.
+{62599}{62655}The Mardi Gras ball? Yes?
+{62693}{62756}My very first memory.
+{62762}{62816}It was last spring.
+{62821}{62946}Before last spring,|I remember nothing. Nothing at all.
+{62954}{63071}It's as if my life began|and ended that night.
+{63143}{63193}Tell me about it.
+{63206}{63266}At the ball...
+{63308}{63404}I was taken there by some boy|who got too drunk to stand.
+{63409}{63488}I wanted to leave.|My coat was in the cloakroom.
+{63493}{63590}They couldn't find the check for it,|so I said, "Let it go"...
+{63595}{63662}...and started out for a taxi.
+{63668}{63739}Then somebody took my arm and said:
+{63744}{63809}"I'll drive you home."
+{63815}{63923}As we left, he took off his coat|and put it around my shoulders...
+{63928}{63993}...and then I looked at him.
+{63998}{64091}I don't think I've ever seen him|before then, really.
+{64107}{64201}He took me home.|But he took me another place first.
+{64216}{64307}Near the Duelling Oaks at the end|of Esplanade Street.
+{64312}{64431}We stopped. I asked what for.
+{64438}{64487}He didn't answer.
+{64492}{64560}Just struck a match|to light a cigarette...
+{64565}{64671}...and I looked at him,|and I knew what for.
+{64722}{64853}I think I got out of the car before|he got out of the car, and we...
+{64858}{64985}...walked through the wet grass|toward the great misty oaks as if...
+{64990}{65046}...as if somebody were...
+{65051}{65131}...calling for help there.
+{65221}{65274}And after that?
+{65390}{65430}I lost him.
+{65462}{65541}He took me home.
+{65546}{65636}Then he said an awful|thing to me. He said:
+{65649}{65702}"We'd better forget it.
+{65707}{65821}My wife's expecting a child, and..."
+{65886}{65981}I just entered the house|and sat there thinking a while.
+{65998}{66103}I called a taxi and rushed|to the Roosevelt Hotel ballroom.
+{66108}{66157}The ball was still going on.
+{66162}{66268}I thought I'd gone back|to pick up my coat. But I hadn't.
+{66272}{66406}I hadn't gone back for that at all.|I'd gone back to make a scene.
+{66411}{66513}I didn't pick up Aunt Violet's|silver fox in the coatroom.
+{66518}{66630}I rushed right into the ballroom,|spotted him on the floor...
+{66635}{66700}...ran up to him and started...
+{66705}{66821}...to beat him in the face|and the chest with my fists till...
+{66886}{66951}...Cousin Sebastian took me away.
+{67010}{67056}Miss Catherine?
+{67206}{67251}Miss Catherine?
+{67287}{67381}She's here. Miss Catherine's here.
+{67387}{67464}In spirit as well as flesh.
+{67469}{67549}And now you want to play a game.|Look at pictures?
+{67554}{67664}Tell you the first thing that comes|into my mind, my poor deranged mind.
+{67669}{67709}All right.
+{67752}{67847}That shadow on the wall.|What does it look like to you?
+{67876}{67928}Like a shadow on a wall.
+{67933}{67983}I thought we were gonna play a game.
+{67996}{68025}All right.
+{68045}{68116}I see forests.
+{68121}{68178}Trees, a girl.
+{68191}{68267}And those trees|are the Duelling Oaks...
+{68283}{68392}...and that tormented figure|is the girl, Catherine, losing her...
+{68397}{68427}...honour.
+{68453}{68511}I'm trying to make you|feel sorry for her.
+{68523}{68602}- I hope I am.|- I am sorry.
+{68631}{68703}I believe you really are.
+{68765}{68831}Tell me about your cousin, Sebastian.
+{68873}{68948}He liked me, so I loved him.
+{68953}{69030}How? I mean, in what way|did you love him?
+{69051}{69099}The only way he'd accept.
+{69199}{69292}- I tried to save him, doctor.|- Save him from what?
+{69327}{69446}Completing a sort of image|he had of himself...
+{69469}{69573}...as a sort of a sacrifice|to a terrible sort of a...
+{69577}{69626}- God?|- Yes.
+{69646}{69732}Sebastian, who was gentle, kind...
+{69737}{69822}...saw something not gentle,|not kind, in the universe.
+{69827}{69870}Something...
+{69874}{69976}- Something terrible in himself.|- What was it? Can you tell me?
+{70016}{70097}- One day at Cabeza de Lobo...|- Where?
+{70163}{70258}That's where we were last summer.|That's where...
+{70271}{70323}That's where Sebastian died?
+{70346}{70374}Yes.
+{70390}{70415}How did he die?
+{70462}{70568}They say a heart attack,|but I don't remember. I really don't.
+{70573}{70669}You see, afterwards,|I was hysterical, taut.
+{70693}{70737}Said things I don't remember.
+{70750}{70789}That's why I'm here.
+{70795}{70878}Because I say things people don't...
+{70883}{70953}...and then I don't even remember.
+{70958}{70999}Try to remember.
+{71091}{71189}You and Sebastian, last summer...
+{71211}{71250}Try to remember.
+{71451}{71533}The beach was very white.
+{71566}{71620}Oh, how the sun burned.
+{71651}{71763}It was like the eye of God|watching us.
+{71775}{71828}Burning, burning.
+{71854}{71909}There was no air that day.
+{71914}{71983}The sun had burned up all the air.
+{72007}{72107}Outside it was like inside a furnace.
+{72189}{72269}- Then they came.|- Who came?
+{72296}{72351}From all parts of the beach.
+{72391}{72445}And that awful noise they made.
+{72478}{72586}The noise of musical instruments|all made of tin.
+{72601}{72633}Who is "they"?
+{72691}{72759}And that, that music.
+{72790}{72833}That awful music.
+{72875}{72923}I hear that music!
+{72943}{72993}I still hear it!
+{73010}{73087}It's getting closer and closer!
+{73111}{73172}Sebastian! Help!
+{73253}{73371}- What happened? What happened then?|- I don't remember after that!
+{73389}{73447}Stop that this minute.|Stop that noise.
+{73451}{73515}- Doctor, I must see you at once.|- Get out of here.
+{73525}{73607}Sister, get out and don't|come back until I call you.
+{73787}{73857}I can't remember.
+{73862}{73962}- I can't remember!|- It's all right.
+{73971}{74076}- Don't worry, it's all right.|- But I have to, I want to!
+{74082}{74116}Then you will.
+{74122}{74159}Will you help me?
+{74164}{74238}- Lf you let me.|- Yes.
+{74342}{74385}I shouldn't have done that.
+{74390}{74458}Why not?|It was a friendly kiss, wasn't it?
+{74488}{74520}Maybe it wasn't.
+{74546}{74600}Maybe now you'll think|that all those...
+{74604}{74675}...stories about the gardener|are true.
+{74680}{74735}Whatever's true, we'll find.
+{75070}{75178}I want you to know that|I can look attractive...
+{75191}{75241}...if I had my hair done and if...
+{75283}{75347}When I'm at Lions View,|may I wear a pretty dress?
+{75351}{75386}If you like.
+{75459}{75557}Just imagine, once again|to be able to do...
+{75562}{75627}...one thing I'd like.
+{76143}{76215}Come out here, son.|I want you to see something.
+{76392}{76511}Take a good long look.|Tell me, what do you see?
+{76525}{76620}Old tires, tin cans,|and a "Drink Nehi" sign.
+{76625}{76670}That's the past you're looking at.
+{76675}{76737}Thanks to a certain young man|from Chicago...
+{76742}{76799}...there'll be a new building|on that lot...
+{76804}{76922}...devoted to psychosurgery, dedicated|to the memory of Sebastian Venable.
+{76946}{76996}I wish I were that optimistic.
+{77041}{77107}I've been working with|the lawyers and accountants.
+{77111}{77159}And we're getting, listen to this...
+{77164}{77267}...in big, round, beautiful figures,|$1 million.
+{77272}{77363}- Just like that, no strings attached?|- No strings attached.
+{77368}{77452}She wants you, and nobody else,|to do the operation on her niece.
+{77457}{77533}You can't blame her for that.|There isn't anybody better.
+{77582}{77667}Something horrible happened|to that girl last summer.
+{77684}{77797}Some dreadful, traumatic experience|of some kind.
+{77802}{77831}What?
+{77843}{77897}I don't know.|I haven't found out yet.
+{77915}{77991}And she refuses to allow herself|to remember.
+{78006}{78071}She's gonna have to be made|to remember.
+{78112}{78137}Come in.
+{78145}{78183}Excuse me, Dr. Hockstader.
+{78188}{78263}Mrs. Holly and her son are here|to see the new patient.
+{78270}{78327}Have them wait in my office, will you?
+{78331}{78385}- How's Miss Catherine?|- She looks lovely.
+{78390}{78486}She had her hair done this morning.|She's wearing her own clothes.
+{78491}{78591}I've never seen clothes like|that girl's got. From Paris! And...
+{78608}{78683}Thank you, Miss Benson.|I'll be along.
+{78703}{78788}But she's a patient. You can't|let her wear her own clothes.
+{78794}{78872}I put her in the nurses' wing.|I don't want her in the ward.
+{78877}{78919}The nurses' wing?
+{78927}{78982}I know I'm taking a risk...
+{78987}{79066}...but for a while I don't want her|to feel she's a patient.
+{79071}{79170}I want her to feel she's free of|restrictions, free of being watched.
+{79175}{79207}This is very unorthodox.
+{79215}{79264}So is insanity.|That's why we're here.
+{79269}{79352}Seems your whole approach|has little to do with neurosurgery.
+{79367}{79451}- For the time being.|- That's what this new building is for.
+{79459}{79555}- Dedicated to neurosurgery.|- Yes, I know.
+{79560}{79666}Mrs. Venable thinks you're prepared|to go ahead with the operation.
+{79691}{79726}Yes, I know.
+{80097}{80147}Cathy's in there?|George, hold me now.
+{80151}{80228}I'm so nervous, I could jump|clear out of my skin.
+{80233}{80285}Well, don't, Mama.
+{80451}{80545}- Kitten!|- Miss Benson, you can go to lunch now.
+{80550}{80661}- Thank you, doctor.|- My poor baby. My angel.
+{80666}{80753}- In this place.|- It's all right, Mama. I'm just fine.
+{80758}{80829}You look pretty good,|Cathy, considering.
+{80834}{80911}- So do you, George, considering.|- We wanted to see you.
+{80916}{80986}But Violet said no,|not while you were at St. Mary's.
+{80991}{81099}The doctors there didn't want|anybody to see you, so we didn't.
+{81104}{81149}My, that's a pretty dress.
+{81154}{81245}- When did you get that?|- In Paris. Sebastian bought it.
+{81250}{81330}Yeah? I'm wearing one of his suits.
+{81335}{81384}Yes, I recognize it.
+{81389}{81466}Wasn't it sweet of Vi to give George|his wardrobe?
+{81470}{81526}Not that she could've done|anything with it.
+{81531}{81622}It's the thought behind the deed|that matters.
+{81629}{81683}Have you seen Aunt Vi recently?
+{81688}{81758}Yes, we saw her last night.|At her house.
+{81763}{81829}She invited us to a private supper.
+{81834}{81921}She's had this elevator installed.|Cutest thing you ever saw...
+{81927}{81971}We've got business to talk about.
+{81976}{82054}I know, son. You know|how children are. They're critical.
+{82061}{82117}What did Aunt Vi say last night?
+{82122}{82206}That you were|in extremely capable hands.
+{82211}{82283}And I can tell they are capable too.
+{82288}{82354}Mr. Brossard, the new lawyer we got...
+{82359}{82427}Such a nice man too,|a tower of strength...
+{82432}{82506}...in all these months|since Sebastian's been gone.
+{82511}{82593}It nearly killed Violet.|I know, I was there.
+{82598}{82728}You didn't see her the way I did,|grieving like a madwoman.
+{82759}{82825}I mean, like her heart would break.
+{82870}{82968}He was her whole life. She worshipped|the ground beneath his feet.
+{82973}{83066}When she got this letter|from that place with the funny name...
+{83071}{83096}What letter?
+{83101}{83206}From the authorities, telling about|what happened to him at...
+{83211}{83287}What was the name of that place,|honey, where he passed on?
+{83295}{83334}- Cabeza de Lobo.|- That's it!
+{83339}{83378}- Did you see the letter?|- No.
+{83384}{83470}But I guess it told about|how he had this heart attack...
+{83475}{83565}...and how Catherine was|not quite herself, poor baby.
+{83570}{83643}I'm myself now, Mama.|Aren't I, doctor?
+{83659}{83692}Of course you are.
+{83697}{83756}Don't worry a thing about|what people say.
+{83760}{83832}Nobody in the city knows about|what you've been through.
+{83837}{83878}Do they, George? Not a thing.
+{83883}{83945}Nobody even knows you've come back|from Europe.
+{83950}{83996}When they question us|or inquire...
+{84001}{84103}...we just say that you stayed abroad|to study something or other.
+{84120}{84226}- Can we talk to Catherine alone?|- Yes, on a private family matter.
+{84231}{84348}Just some papers gotta be signed.|Some business.
+{84387}{84424}Is that all right?
+{84430}{84533}Don't worry. Since I've been allowed|to smoke, I've become a perfect lamb.
+{84537}{84633}My little girl was|always a perfect lamb.
+{84669}{84713}Thank you.
+{84907}{85006}- Cathy, Sebastian left a will.|- A generous, thoughtful will.
+{85011}{85095}He bequeathed to us,|to you and to me, $50,000 each...
+{85099}{85144}...after taxes are paid.
+{85149}{85224}- Sebastian always was very kind.|- Isn't that the truth?
+{85229}{85262}But there is a problem.
+{85267}{85371}It's very complicated, but|Mr. Brossard, this new lawyer, is...
+{85376}{85478}...trying to get it through probate.|- Only it won't go through probate.
+{85483}{85524}- Why not?|- Aunt Vi won't let it.
+{85528}{85627}Well, you see, it has to do with you.|With your being ill.
+{85647}{85759}- She doesn't trust me with the money?|- 50 grand is chickenfeed to Aunt Vi.
+{85764}{85848}- Then what is it?|- When you went off your rocker...
+{85853}{85950}Shut up, Mama. Cathy's not|that far gone. Are you, Cathy?
+{85955}{86038}- When I went off my rocker...?|- Yeah. You said something.
+{86043}{86105}You made up some crazy story|about Sebastian.
+{86110}{86169}- When she heard whatever it was...|- Last night...
+{86174}{86261}...not a word would she say,|except that you babbled.
+{86266}{86364}That's her word for it. You babbled|some story about Sebastian...
+{86369}{86445}...and how he lived and...|- Died...
+{86466}{86528}...in a place called Cabeza de Lobo.
+{86539}{86606}What you said gave her a real turn.
+{86611}{86727}When doctors decided you were crazy,|she wanted you to stay at St. Mary's.
+{86732}{86824}Or even right here.|This seems such a nice place too.
+{86829}{86904}- With that nice, capable doctor.|- Go on.
+{86909}{86971}Written permission was needed|to keep you here.
+{86986}{87079}So that was the point|of the private supper.
+{87083}{87124}You've gotta understand...
+{87128}{87194}This 100 grand is important to us.
+{87199}{87271}It means George will have all sorts|of advantages now.
+{87276}{87376}Things we couldn't give him, since 1929|killed your father and our nest egg.
+{87381}{87451}Mother, you didn't sign those papers?
+{87456}{87536}- You didn't commit me to Lions View?|- Not yet.
+{87541}{87631}But, Cathy, the way Aunt Vi put it,|there was no choice at all.
+{87636}{87668}Mama's gotta sign.
+{87673}{87767}Besides, honey, it's not like|it was for always.
+{87772}{87842}In no time,|after the little operation...
+{87847}{87924}...you'll be able to...
+{87941}{88008}What little operation?
+{88013}{88053}Oh, Cathy!
+{88123}{88212}There's only one little operation|they perform here.
+{88217}{88293}It's on the brain.|It's called a lobotomy.
+{88298}{88373}You may have heard of it|or read about it. I have.
+{88378}{88452}It's that nice young doctor's|specialty.
+{88464}{88536}In cases of hopeless lunacy...
+{88541}{88636}...he bores holes into the skull|and operates on the brain!
+{88642}{88738}Oh, honey, please don't|talk about it. Please!
+{88743}{88842}- You can't let them!|- Stop. It's not the end of the world!
+{88847}{88914}- Don't sign that paper!|- They say it don't hurt.
+{88919}{88984}- Don't let them!|- No worse than tonsils.
+{88989}{89078}And then, afterwards,|you're all right again.
+{92039}{92108}Miss Catherine.
+{92126}{92184}- Those faces!|- Look, for the love of...
+{92189}{92283}- You get her back to her room.|- What are you doing here?
+{92383}{92432}We've just come from your office.
+{92437}{92522}- What is all that noise? Is it fire?|- What happened?
+{92527}{92630}I don't know. We were having this chat|about your treatment.
+{92635}{92723}All of a sudden my poor baby flew|out of the room and down the hall.
+{92728}{92832}I'm sure it's the right thing,|what you and Violet are doing.
+{92837}{92890}- It is the right thing.|- Come on, Mama.
+{92895}{92953}- We're so grateful to you.|- Come on.
+{92958}{92998}Having you look after her and...
+{93003}{93060}Will you get me Dr. Van Vitch?
+{93065}{93093}- Yes.|- Thank you.
+{93216}{93280}I'm sorry they upset you.
+{93285}{93362}Miss Catherine, don't ever run away.
+{93367}{93436}Where will you cut, doctor?
+{93443}{93558}- I'm not at all sure that I will.|- Where will you cut my brain, doctor?
+{93563}{93599}In front?
+{93605}{93713}Or further back?|I suppose I'm to have my head shaved.
+{93733}{93830}It seems such a waste, seeing as how|I had my hair fixed this morning...
+{93835}{93911}...then to have it all cut off|right after it.
+{93916}{93973}I tell you, it's funny.
+{94011}{94112}And you were the one who was|going to help me. Help me.
+{94122}{94147}Help me!
+{94152}{94189}Don't talk like that.
+{94194}{94263}Why not?|Now I sound insane, don't I?
+{94268}{94328}- Are you trying to?|- No, and I'm not.
+{94333}{94413}You've got to believe me, doctor.|I am not.
+{94418}{94505}Insane is such a meaningless word.
+{94510}{94578}But lobotomy has a precise meaning,|hasn't it?
+{94583}{94703}Are you going to operate? Tell me,|doctor, please, are you going to?
+{94708}{94770}I don't know yet.
+{94839}{94883}Poor doctor.
+{94910}{94968}I bother you, don't I?
+{94973}{95018}Yes, you do.
+{95023}{95093}Well, I'll try not to anymore.
+{95173}{95247}- Three cc, please.|- Yes, doctor.
+{95252}{95308}Must I take off my pretty dress?
+{95313}{95353}Of course not.
+{95457}{95509}I want to help you.
+{95515}{95546}Trust me.
+{95572}{95638}I want to trust you.
+{95646}{95752}It seems to me that|I need help very much.
+{95947}{96025}- His eyes are so blue.|- Who?
+{96030}{96073}The doctor.
+{96089}{96144}Wonder why he isn't blond.
+{96148}{96212}They usually are blond,|with eyes that blue.
+{96217}{96266}- I'm blond.|- Are you?
+{96271}{96366}Funny. We were going to blonds next.
+{96371}{96430}Blonds were next on the menu.
+{96435}{96543}You just relax now.|Let yourself go.
+{96568}{96679}All last summer,|Sebastian was famished for blonds.
+{96686}{96736}Fed up with the dark ones.
+{96744}{96858}Famished for blonds.|The travel brochures he picked up...
+{96863}{96964}...were advertisements of blond|northern countries.
+{96969}{97073}Think he'd already booked us|to Stockholm and Copenhagen.
+{97083}{97198}Fed up with the dark ones,|famished for the light ones.
+{97206}{97308}That's the way he talked about people,|as if they were...
+{97313}{97375}...items on a menu.
+{97380}{97453}That one's delicious-looking.
+{97458}{97521}That one's appetizing.
+{97526}{97618}Or that one is not appetizing.
+{97647}{97731}I think really he was half-starved...
+{97736}{97815}...from living on pills and salads.
+{97851}{97913}You just relax, now.
+{98002}{98083}We'll fly north, little bird.
+{98090}{98158}It's what he called me sometimes.
+{98164}{98213}Little bird.
+{98238}{98378}We'll walk under those radiant,|cold northern lights.
+{98400}{98498}I've never seen the aurora borealis.
+{98549}{98583}Well...
+{98616}{98703}He never saw those northern lights.
+{98743}{98852}Who said, "We're all of us children...
+{98857}{98928}...in a vast kindergarten...
+{98934}{99088}...trying to spell God's name|with the wrong alphabet blocks"?
+{99617}{99648}Thank you.
+{99715}{99770}Mrs. Venable, I do|want to speak with you...
+{99775}{99864}Oh, this forgetfulness,|my greatest failing, doctor.
+{99869}{99936}I have a little gift for you,|this book.
+{99940}{99978}Thank you.
+{99996}{100062}- "Poem of Summer".|- By my son, Sebastian Venable.
+{100067}{100150}That volume contains only one poem,|as do the others I have.
+{100155}{100238}Each with the title "Poem of Summer"|and the date of the summer.
+{100243}{100307}If you like that one,|I'll bring the others.
+{100312}{100353}He wrote one poem a year?
+{100358}{100442}One for each summer|that we travelled together.
+{100447}{100540}The other nine months of the year|were really only a preparation.
+{100545}{100581}Nine months?
+{100586}{100632}The length of a pregnancy, yes.
+{100653}{100719}I gather the poem was hard to deliver.
+{100724}{100800}Even with me. Without me, impossible.
+{100805}{100922}- Doctor, he wrote no poem last summer.|- But he died last summer.
+{100927}{100968}Without me, he died.
+{100974}{101018}That was his last summer's poem.
+{101049}{101157}Mrs. Venable, how exactly|did your son die?
+{101178}{101251}I told you, a heart attack.
+{101256}{101317}Is that what the letter said?
+{101322}{101397}How did Catherine know|I received a letter?
+{101415}{101481}Catherine? She knows very little.
+{101486}{101526}She can't remember.
+{101531}{101634}That's her illness. She was there,|but she can't remember.
+{101639}{101719}- Mrs. Holly told me about it.|- So you've seen her too, have you?
+{101723}{101780}I must say, you have been observing.
+{101785}{101847}There was no letter,|only a death certificate.
+{101852}{101895}- I'd like to see that if...|- Why?
+{101911}{102014}I think it's important. I want to know|what happened the day your son died.
+{102027}{102094}You shall have it tomorrow.
+{102099}{102187}And tomorrow you shall also have|the permission to operate.
+{102192}{102232}And now I'd better go.
+{102237}{102296}I've got lawyers waiting for me.
+{102301}{102418}You'd think giving you a building was|simple. Apparently, I must sign papers.
+{102423}{102499}But I'm used to it.|Sebastian never signed anything.
+{102504}{102572}- He must have suspected...|- Mrs. Venable.
+{102589}{102617}Your son...
+{102638}{102670}What about my son?
+{102693}{102768}What sort of personal life|did he have?
+{102797}{102831}He was chaste.
+{102848}{102948}- You mean he was celibate?|- Yes.
+{102973}{103026}You don't believe me, do you?
+{103031}{103093}- Do you believe that he never...?|- Yes, never.
+{103098}{103237}As strictly as if he'd taken a vow.|This sounds like vanity, doctor...
+{103242}{103314}...but I was actually|the only one in his life...
+{103319}{103396}...that satisfied the demands|he made of people.
+{103401}{103469}Time after time, he'd let people go,|dismiss them...
+{103473}{103544}...because their attitude|toward him was not as...
+{103549}{103635}- As pure?|- As pure as my son demanded.
+{103643}{103713}Would you want to see Catherine?
+{103735}{103763}Is that wise?
+{103770}{103805}It might help me.
+{103811}{103867}But the lawyer.
+{103872}{103951}Surely you've kept the lawyer|waiting before.
+{103956}{104008}Yes, I have.
+{104013}{104054}Such a strong...
+{104058}{104142}...such a persuasive doctor.
+{104528}{104621}She's been under sedation.|She's just coming out of it.
+{104639}{104710}She looks lovely, doesn't she?
+{104715}{104753}Doesn't she?
+{104938}{105011}- Miss Catherine?|- Where are we going?
+{105016}{105061}His eyes...
+{105066}{105138}This one's eyes are so blue...
+{105143}{105207}...such strange, frightened...
+{105329}{105430}I'm sorry. I must have been dreaming.
+{105441}{105488}Hello, Catherine.
+{105578}{105676}I thought... we would have|seen each other before this.
+{105685}{105754}At St. Mary's, they wouldn't|let any of us see you.
+{105775}{105832}Mama was here today.
+{105837}{105939}That was today, wasn't it? I lose|track of time with all these shots.
+{105944}{105985}You look very well, Catherine.
+{105999}{106129}Mama told me how you got her|to agree to commit me here...
+{106133}{106206}...and then let them...|- She seems disturbed, doctor.
+{106214}{106316}Aunt Violet! I am disturbed.
+{106329}{106415}Don't you think I have|every reason to be?
+{106420}{106486}Forcing my mother|into signing a paper...
+{106491}{106561}I've never forced anybody|to do anything.
+{106566}{106600}Oh, yes, you have.
+{106605}{106648}Always.
+{106660}{106717}And now you're holding $100,000...
+{106721}{106806}...under Mother and George's|poor greedy noses...
+{106811}{106903}...to force her to sign a paper|authorizing this doctor to...
+{106909}{106998}Doctor. I see no purpose in my|remaining here listening to this.
+{107003}{107068}I'll wait for you in that sun room.
+{107851}{107917}Doctor, I wanted to speak|to you alone.
+{107922}{107999}Miss Catherine wanted to see you again|before you left.
+{108015}{108094}I didn't want to take your place|last summer.
+{108099}{108157}Please believe that, Aunt Vi.
+{108162}{108217}But Sebastian insisted. He said...
+{108222}{108322}...you weren't well enough to travel|with him, and he couldn't travel alone.
+{108326}{108427}So he insisted that I go along|with him in your place last summer.
+{108438}{108489}And he died last summer.
+{108539}{108655}Aunt Violet, would you like me|to tell you...?
+{109127}{109196}You fell in love with Sebastian,|didn't you?
+{109201}{109281}I tried to give him|what you had always given him:
+{109286}{109351}The tender understanding|and the love you gave...
+{109356}{109474}My son and I had a rare and wonderful|love and trust between us.
+{109479}{109522}A covenant between us...
+{109527}{109599}- I know about the covenant.|- He broke that covenant...
+{109604}{109691}...when he took her, not me,|to travel while he created his poem.
+{109696}{109781}Even when I was with him,|he'd sometimes be frightened.
+{109786}{109824}But I'd know what of.
+{109829}{109914}I'd reach across a table|and touch his hands.
+{109919}{110021}Say not a word, just look,|and touch his hands with mine.
+{110054}{110141}Then, in the morning, the summer poem|would be continued...
+{110146}{110182}...until it was finished.
+{110187}{110254}- I couldn't help him.|- Naturally not, he was mine.
+{110258}{110306}I knew how to help him.|You couldn't.
+{110311}{110342}- I tried.|- I'd force him.
+{110347}{110386}All right, I failed him.
+{110391}{110484}I knew that the day we flew down|to Cabeza de Lobo from...
+{110489}{110541}...where he'd given off|writing his poem.
+{110546}{110629}- Because he had broken...|- Yes, something had broken.
+{110634}{110714}- That string of pearls old mothers...|- Old?
+{110719}{110768}- Hold their sons by!|- Yes, from death.
+{110773}{110817}No! Hold them from life!
+{110822}{110884}You were the stranger, the destroyer.
+{110889}{110950}- We were life.|- You fed on life.
+{110955}{110998}Both of you. Taking!
+{111003}{111138}People were objects for your pleasure.|That's what you taught each other.
+{111143}{111250}- You were superior to mere mortals.|- We needed no one but one another.
+{111267}{111379}Sebastian only needed you|while you were still useful.
+{111384}{111478}- Useful?|- I mean young, able to attract.
+{111483}{111526}She's babbling and lying.
+{111531}{111597}- He left her home because she...|- You stole him!
+{111602}{111648}Lost her attraction!
+{111653}{111726}What would attraction have to do|with a son and mother?
+{111735}{111843}- Is there no way to stop these lies?|- Yes! Have my brain cut.
+{111848}{111881}This was a mistake.
+{111886}{111961}The mistake was my going|with Sebastian.
+{111966}{112049}- When he left her, she had a stroke.|- Not a stroke!
+{112054}{112096}A hysterical stroke.
+{112104}{112176}Sebastian left her home|like a toy he tired of.
+{112181}{112290}And he took me with him|like a new toy. On his last voyage.
+{112294}{112368}- Lies. All lies.|- You see, doctor, we both...
+{112403}{112451}- We were decoys.|- Decoys?
+{112456}{112531}For Sebastian. He used us as bait!
+{112547}{112657}When she was no longer able to lure|the better fish in, he let her go.
+{112662}{112725}Bait? For what?|What were the better fish?
+{112730}{112774}We procured for him.
+{112786}{112896}She'd do it in the smart, fashionable|places they went before last summer.
+{112901}{113006}Sebastian was shy with people.|She wasn't. Neither was I.
+{113011}{113085}But we both did|the same thing for him.
+{113090}{113142}We both made contacts for him.
+{113147}{113259}I can't listen to this obscenity.|Stop her, doctor.
+{113263}{113352}Cut the truth out of my brain,|is that what you want?
+{113357}{113434}You can't. Not even God|can change the truth.
+{113439}{113495}- That we were nothing but a...|- Doctor!
+{113499}{113566}- It's the truth!|- See how she destroys us?
+{113580}{113640}Cut this hideous story|out of her brain!
+{113645}{113741}How much are you willing|to pay for that, Aunt Vi?
+{113746}{113812}Get me away from her. Out of here.
+{113817}{113860}Out of this...
+{113943}{114028}- Nurse, some spirits of ammonia.|- Yes, doctor.
+{114033}{114082}- What happened?|- She fainted.
+{114087}{114152}No. No, she didn't.
+{114166}{114213}Just a little...
+{114218}{114274}...dizziness, that's all.
+{114279}{114370}Dr. Hockstader, will you|help me to my car?
+{114375}{114505}- I don't think that's a good idea.|- Whether it is or not, I'm going home.
+{114958}{115027}Tomorrow, I want that girl|operated on.
+{115032}{115156}That decision belongs to the doctor|in charge, who is also the surgeon.
+{115161}{115261}I don't want to hear from you again|until the operation has been performed.
+{118566}{118618}No! No!
+{118686}{118714}Please, no!
+{118849}{118930}- You trying to ruin this hospital?|- You know better than that.
+{118935}{119011}Can you imagine what would happen|to us if she'd jumped?
+{119016}{119048}She was frightened. She...
+{119053}{119118}Patients are here|because they can't think.
+{119140}{119187}After 24 hours observation...
+{119192}{119299}During which she tried to kill herself,|incited the men's day room to a riot...
+{119303}{119371}- She opened that door by mistake.|- Trying to get away.
+{119375}{119485}There was a riot, and she caused it.|Don't invent excuses for her.
+{119490}{119542}And from that Paris clinic:
+{119556}{119610}Delusions the world|was devouring her...
+{119614}{119695}...that she was being raped by a man|with duelling pistols.
+{119699}{119763}- The Duelling Oaks.|- Here's more of her erotomania.
+{119768}{119825}At St. Mary's, they couldn't|keep her. Why?
+{119830}{119886}Because of her obscenity and violence.
+{119891}{119951}She sexually attacked|a 60-year-old gardener.
+{119956}{120003}It was the other way around.
+{120007}{120087}She tried to burn one of the Sisters|with a cigarette.
+{120092}{120156}She was provoked.|I was there, I saw it.
+{120161}{120236}Provoked? Who would provoke|a disturbed patient?
+{120241}{120275}You'd be surprised.
+{120280}{120343}And to top it, she attempts suicide.
+{120347}{120427}Cogent proof of sanity,|wouldn't you say?
+{120440}{120481}I need time.
+{120503}{120576}When will you want|the operating room tomorrow?
+{120580}{120652}I said I need more time.
+{120664}{120704}I heard you.
+{120815}{120902}Get me Dr. Glen Kilmer|at the Seattle Clinic.
+{120916}{121005}You know I want that building|as much as you do.
+{121010}{121051}I'll hold on.
+{121073}{121190}Give me one more day to see if I can|break through that block to the truth.
+{121195}{121239}This is a medical emergency.
+{121243}{121275}I want to try something.
+{121280}{121355}I want to try something tomorrow,|at Mrs. Venable's.
+{121366}{121417}- Why Mrs. Venable's?|- I don't know.
+{121421}{121504}I feel somehow that in that garden...
+{121509}{121607}...maybe in that jungle,|we might find...
+{121611}{121687}Look, you don't want Mrs. Venable|giving her money...
+{121692}{121747}...to the Seattle Clinic, do you?
+{121751}{121855}And you don't want anybody to be able|to say that we acted hastily...
+{121860}{121915}...or unethically, do you?
+{121972}{121999}Cancel the call.
+{122023}{122107}But be sure you know where|I can find Dr. Kilmer.
+{122908}{122959}Mrs. Venable will be right down.
+{122967}{123063}- The others are here, as you asked.|- Show them into the sun room, please.
+{123073}{123112}Of course, doctor.
+{123155}{123183}Cathy, honey...
+{123188}{123226}Later, Mrs. Holly.
+{123231}{123289}Doctor, I have the things you wanted.
+{123294}{123356}- In the dining room.|- Oh, thank you.
+{123517}{123559}What's going on here?
+{123574}{123627}Sorry to keep you waiting,|Dr. Cukrowicz.
+{123631}{123708}I had to get those papers you wanted.|I mislay everything.
+{123719}{123783}My son always said,|"Mother, if you..."
+{123816}{123895}What are you two doing here?|And where is Dr. Cukrowicz?
+{123900}{123947}Why, I thought you invited us.
+{123952}{124016}Dr. Cukrowicz asked me|to ask them to come.
+{124038}{124070}Of course.
+{124075}{124112}Dr. Hockstader...
+{124125}{124188}...I want you to meet|my sister-in-law, Mrs. Ho...
+{124193}{124260}- Where is Catherine?|- In the sun room.
+{124272}{124347}Could Mrs. Holly and her son|wait for us in the garden?
+{124352}{124397}Of course. Foxhill?
+{124407}{124478}I don't know why everybody|is being so mysterious.
+{124483}{124557}I brought you some of Sebastian's|papers. Odds and ends.
+{124561}{124643}- And this, the thing you wanted.|- Your son's death certificate?
+{124647}{124735}- This must be painful for you.|- Lf you don't read Spanish, I have...
+{124740}{124778}I read Spanish.
+{124805}{124847}Well, I have a translation.
+{124851}{124895}As you see,|there was no mystery...
+{124899}{124979}...no matter what the girl said|at the time or any other time.
+{124983}{125039}It says the body was somewhat...
+{125045}{125099}...damaged in falling.|Where did he fall?
+{125104}{125192}On the ground. Where else do you fall|when you die in the hot sun...
+{125196}{125246}...in the street|of a godforsaken village?
+{125257}{125285}Did you see his body...?
+{125289}{125359}It was a primitive country.|The coffin came sealed.
+{125363}{125388}Sealed?
+{125396}{125427}Were there any rumours?
+{125431}{125508}There were no rumours.|His heart stopped and he fell.
+{125516}{125589}I'll wait in the garden now.|That is where you want me?
+{125593}{125632}Yes, if you will.
+{125659}{125691}Dr. Hockstader...
+{125701}{125768}...let me show you my son's garden.
+{125773}{125877}It's very unusual.|Like the dawn of creation.
+{125943}{125991}Sebastian's garden.
+{126041}{126093}I can still cry.
+{126124}{126170}Am I dreaming this?
+{126175}{126226}It doesn't seem real.
+{126284}{126390}Would you take off your jacket?|It's time for another injection.
+{126421}{126464}What is it this time?
+{126483}{126552}- Something different.|- The truth serum?
+{126557}{126630}Yes, except there is no such thing.
+{126637}{126668}As truth?
+{126673}{126703}Or the truth serum?
+{126711}{126789}There is truth, all right. Somewhere.
+{126799}{126831}Sit down.
+{126887}{126955}Now you want me to start|counting backwards from 100?
+{127015}{127121}- Do you enjoy counting backwards?|- Oh, I love it. Just love it.
+{127195}{127229}100...
+{127234}{127318}...99, 98, 97...
+{127322}{127393}...96, 95...
+{127467}{127516}I feel it already.
+{127520}{127595}- How funny.|- Close your eyes for a minute.
+{127907}{127962}I want you to give me something.
+{127967}{128018}Name it, it's yours.
+{128030}{128086}I want you to give me|all your resistance.
+{128097}{128144}Resistance? To what?
+{128150}{128175}To the truth.
+{128207}{128283}Truth is the one thing|I have never resisted.
+{128290}{128360}People think they don't resist it,|but they still do.
+{128369}{128414}Sebastian said:
+{128430}{128522}"Truth is at the bottom|of a bottomless well."
+{128557}{128589}Why did...?
+{128661}{128701}Open your eyes.
+{128754}{128800}Why did you try to kill yourself?
+{128851}{128903}Isn't that what everybody wants?
+{128907}{128950}Me out of the way?
+{128968}{129024}Mother and George|would get their money.
+{129029}{129078}You'd get your building.
+{129083}{129114}Aunt Vi...
+{129131}{129160}Go on.
+{129196}{129255}You know what I think|you're trying to do?
+{129287}{129344}I think you're trying|to hypnotize me.
+{129368}{129404}You're looking at me so...
+{129409}{129441}...straight.
+{129458}{129587}You're doing something strange|to me with your eyes. Your eyes...
+{129595}{129676}- Is that what you're doing?|- Is that what you feel I'm doing?
+{129690}{129755}I feel... peculiar.
+{129816}{129886}It doesn't just have to do|with what you gave me.
+{129978}{130023}I'm putting out my hands.
+{130027}{130136}I want you to put your hands into mine|and give me all your resistance.
+{130140}{130231}Pass all the resistance|from your hands into mine.
+{130265}{130313}Here are my hands...
+{130326}{130375}...but there's no resistance in them.
+{130379}{130416}You'll tell the true story?
+{130435}{130480}Yes, I'll try.
+{130491}{130559}Nothing not spoken.|Everything told exactly?
+{130569}{130619}Everything exactly.
+{130651}{130703}Because I have to.
+{130837}{130862}Can I...?
+{130869}{130899}Can I get up?
+{130903}{130990}Yes, of course, but be careful.|You'll feel a little dizzy.
+{131029}{131062}I can't.
+{131137}{131175}Tell me to.
+{131189}{131228}Then I think I could.
+{131233}{131273}Stand up.
+{131449}{131485}Now I can.
+{131502}{131608}- Oh, I'm dizzy. Help me.|- It's all right. You're all right.
+{131684}{131724}Hold me.
+{131728}{131780}I've been so lonely.
+{131887}{131919}Let me.
+{131924}{131952}Let me.
+{132147}{132227}I suggest you bring her outside,|if you don't mind, doctor.
+{132231}{132273}We'll be right out.
+{132447}{132486}Are you ready?
+{132847}{132890}Hello, Catherine.
+{132914}{132950}Now, Catherine...
+{132955}{133017}...you're going to tell|the true story.
+{133022}{133113}- Where do I start?|- Wherever you think it started.
+{133127}{133170}I think it started...
+{133174}{133229}...the day Sebastian was born|in this house.
+{133233}{133264}- Cathy.|- I don't mind.
+{133269}{133381}Let's start later than that.|Why don't we begin with last summer?
+{133386}{133414}Last summer?
+{133419}{133472}Last summer. How did it begin?
+{133481}{133517}It began...
+{133529}{133563}...after the Duelling Oaks.
+{133568}{133669}- Don't tell about that, Cathy...|- Mrs. Holly, don't interrupt.
+{133689}{133739}After that happened...
+{133746}{133823}...the next morning,|I started writing my diary...
+{133827}{133880}...in the third person singular,|such as:
+{133885}{133963}"She is still living this morning."
+{133974}{134026}Meaning that I was.
+{134031}{134113}"What's next for her? God knows."
+{134125}{134195}I couldn't go out anywhere.
+{134200}{134255}That's true.|She wouldn't leave her room.
+{134260}{134294}Shut up, Mama.
+{134299}{134387}I would write,|"She woke up early this morning.
+{134402}{134471}She had her coffee, dressed...
+{134475}{134511}...went for a brief walk."
+{134520}{134572}- Who did?|- She did.
+{134611}{134643}I did.
+{134672}{134732}From Esplanade|to Canal Street...
+{134737}{134816}...as though being pursued|by a pack of Siberian wolves.
+{134833}{134933}Went through all the stop signs.|Couldn't wait for the green signals.
+{134947}{135057}"Where did she think she was going,|back to the Duelling Oaks?"
+{135122}{135155}Everything...
+{135165}{135214}...chilly and dim.
+{135243}{135279}But that hot...
+{135285}{135315}...ravenous mouth.
+{135331}{135383}He was a very ordinary married man.
+{135393}{135418}And then?
+{135459}{135550}One morning, Cousin Sebastian|came in and said, "Get up."
+{135555}{135674}Well, if you're still alive after|dying, then you're obedient. I got up.
+{135682}{135759}He took me down to a place|where they take passport photos.
+{135780}{135843}He said, "Mother can't go|with me this summer.
+{135850}{135920}You're going with me this summer,|instead of Mother."
+{135925}{136020}- Except that it was her idea, not his.|- Mrs. Venable.
+{136040}{136070}And your cousin?
+{136087}{136147}He helped bring me back to life...
+{136152}{136219}...in Paris, Barcelona, Rome.
+{136223}{136316}All those lovely foreign cities|I'd never seen, we saw together.
+{136320}{136390}And those...|What did he call them?
+{136395}{136443}Those sunshine days...
+{136447}{136535}...where it's always noon,|and we cast no shadows.
+{136540}{136596}- But then...|- But then what?
+{136610}{136650}At Amalfi...
+{136670}{136768}...high above the Mediterranean,|in a garden, I took his arm.
+{136787}{136828}You took his arm. Yes...?
+{136832}{136914}It seemed like such a natural thing|to do, but he pulled away.
+{136919}{137000}How he must have loathed|being touched by her.
+{137010}{137112}I only did it to try and show|my appreciation for his kindness.
+{137117}{137155}I didn't want to...
+{137171}{137220}There was nothing else.
+{137263}{137297}Anyway...
+{137309}{137368}...it was there in Amalfi...
+{137373}{137469}...suddenly, last summer,|that he began to be restless and...
+{137491}{137531}Go on.
+{137576}{137615}He couldn't go on.
+{137620}{137677}He couldn't write his summer poem.
+{137684}{137757}I have his notebook here. See?
+{137762}{137860}Title, "Poem of Summer".|And the date of the summer: 1937.
+{137865}{137963}And after that, blank pages,|blank pages. Nothing but nothing.
+{137967}{138021}A poet's vocation rests|on something...
+{138025}{138077}...as fine and thin as a spider's web.
+{138085}{138142}It's all that holds him|out of destruction.
+{138147}{138195}Very few are able to do it alone.
+{138199}{138261}Great help is needed.|I did give it. She didn't.
+{138265}{138320}She's right about that.|I failed him.
+{138324}{138380}I wasn't able to keep|the web from breaking.
+{138384}{138435}I saw it breaking,|I couldn't save it.
+{138440}{138535}Now the truth's coming out. Maybe|she'll admit what really happened.
+{138541}{138619}- What did happen?|- How she killed him.
+{138623}{138690}How she murdered him|at Cabeza de Lobo. Ask her.
+{138820}{138866}What did really happen?
+{138878}{138935}Suddenly, last summer...
+{138940}{138989}...he wasn't young anymore.
+{138994}{139037}We went to Cabeza de Lobo...
+{139045}{139117}...suddenly, he switched|from the evenings to the beach.
+{139124}{139157}Evenings to the beach?
+{139167}{139272}I mean, from the evenings|to the afternoons.
+{139277}{139377}Suddenly, Cousin Sebastian changed|to the afternoons in the beach.
+{139386}{139454}What kind of a beach was it?|Was it a public beach?
+{139459}{139497}Yes, public.
+{139502}{139565}Little statements like that|give her away.
+{139585}{139679}After all I've told you about his|fastidiousness, can you accept...
+{139683}{139774}...that Sebastian would go to some|dirty public beach near a harbour?
+{139779}{139855}Whatever she wants to say,|I want her to say it.
+{139870}{139897}Go on.
+{139911}{139972}I don't want to go on.
+{139977}{140089}Every afternoon, you and your cousin|would go to this free public beach?
+{140104}{140206}It wasn't the free one.|The free one was right next to it.
+{140211}{140268}There was a fence|between the free beach...
+{140273}{140347}...and the beach that we went to|that charged admission.
+{140351}{140410}Did anything happen there|that disturbed you?
+{140441}{140486}- Yes.|- What?
+{140491}{140573}He bought me a bathing suit|I didn't want to wear.
+{140578}{140626}I laughed.|I said, "I can't wear that.
+{140631}{140708}Why, it's a scandal|to the jaybirds."
+{140713}{140768}What do you mean?|Was this suit immodest?
+{140773}{140875}It was a one-piece bathing suit.|Made of white something.
+{140880}{140933}But the water made it transparent.
+{140938}{141005}I told him I didn't want|to swim in it...
+{141010}{141095}...but he just grabbed my hand|and dragged me into the water...
+{141099}{141142}...all the way in...
+{141147}{141217}...and I came out looking naked.
+{141222}{141308}Why did he do that?|Do you know why he did that?
+{141313}{141350}Yes.
+{141355}{141452}- To attract attention.|- Because he thought you were lonely?
+{141465}{141541}Did he think he could shock you|out of your depression?
+{141559}{141647}You know why I was doing it.|I told you.
+{141651}{141713}I was procuring for him.
+{141746}{141822}Sebastian was lonely, doctor.
+{141827}{141933}That empty blue jay notebook|got bigger and bigger.
+{141938}{141996}So big, it was big and empty...
+{142000}{142095}...like that big, empty,|blue sea and sky.
+{142151}{142256}And before long, when the weather|was warmer and the beach so crowded...
+{142261}{142326}...he didn't need me anymore|for that purpose.
+{142344}{142455}The ones from the free beach climbed|over the fence or swam around it.
+{142475}{142575}So now he let me wear|a decent dark suit.
+{142579}{142657}I'd go to a faraway end|of the beach and write post cards...
+{142661}{142746}...and letters and keep up|my third person journal...
+{142751}{142850}...until it was time to meet him|outside the bathhouses on the street.
+{142867}{142942}He would come out... followed.
+{142957}{142996}Who'd follow him?
+{143001}{143116}The hungry young people that climbed|over the fence from the free beach.
+{143144}{143210}He'd pass out tips among them,|as if they'd all...
+{143215}{143308}...shined his shoes|or called taxis for him.
+{143313}{143376}Each day the crowd got bigger...
+{143381}{143454}...noisier, greedier.
+{143459}{143535}At last, we stopped going out there.
+{143540}{143632}And after that? After you stopped|going to the public beach?
+{143637}{143667}Then one day...
+{143672}{143782}...a few days after we'd stopped|going out to the beach...
+{143787}{143859}...it was a blazing white day.
+{143864}{143973}Not a blazing hot blue day,|but a blazing hot white one.
+{143988}{144091}We had a late lunch at a shabby,|lonely restaurant by the sea there.
+{144096}{144154}Sebastian was white as the weather.
+{144159}{144277}He had on a white silk suit,|a white tie, a white Panama.
+{144285}{144382}And he kept touching his face|and his throat here and there...
+{144387}{144435}...with a white silk handkerchief...
+{144439}{144514}...popping little white pills|into his mouth all the time.
+{144518}{144615}I knew he was having a bad time with|his heart and that it frightened him.
+{144620}{144667}"Let's go north," he kept saying.
+{144671}{144771}"I think we've done Cabeza de Lobo.|I think we've done it, don't you?"
+{144776}{144811}I thought we'd done it.
+{144815}{144892}Then there were those children|along the beach...
+{144897}{144987}...which was fenced off with wire|from the restaurant.
+{144991}{145092}Our table was less than a yard away|from the wire fence.
+{145097}{145149}And those children...
+{145153}{145209}There was a band of them.
+{145213}{145269}They looked like a flock|of plucked birds...
+{145274}{145334}...and they came darting up|to the wire fence...
+{145338}{145398}...as if they'd been blown|there by the wind...
+{145402}{145465}...by the hot, white wind|from the sea.
+{145470}{145555}They were all calling out,|"Pan! Pan! Pan!"
+{145560}{145599}They were calling for bread?
+{145604}{145667}They made gobbling noises|with their mouths...
+{145671}{145743}...stuffing their fists|into their mouths and making...
+{145747}{145829}...gobbling noises|with frightful grins.
+{145855}{145958}We were sorry we'd come to the place,|but it was too late to go.
+{145963}{146004}Why was it too late to go?
+{146009}{146135}I told you. Cousin Sebastian|wasn't well. His eyes looked dazed.
+{146139}{146212}But he said, "Don't look|at those little monsters.
+{146216}{146275}Beggars are a social disease|in this country.
+{146279}{146343}If you look at them,|you get sick of the country.
+{146347}{146409}It spoils the whole country for you."
+{146441}{146481}Go on.
+{146539}{146572}Go on.
+{146672}{146712}Go on.
+{146725}{146783}I am going on.
+{146788}{146873}The band of children began|to serenade us.
+{146878}{146938}- Began to what?|- Play for us on instruments...
+{146943}{147032}...make music, if you|could call it music.
+{147037}{147142}Their instruments were the instruments|of percussion, know what I mean?
+{147147}{147215}Yes, instruments of percussion,|like drums.
+{147220}{147336}As far as I could make out in|the white blaze of the sand beach...
+{147341}{147433}...the instruments were tin cans|strung together...
+{147438}{147499}...and bits of metal,|other bits of metal...
+{147504}{147580}...that had been flattened out|and made into...
+{147592}{147641}- Into what?|- Cymbals, you know?
+{147655}{147717}- Brass plates hit together.|- That's right.
+{147722}{147823}Tin cans flattened out|and clashed together. Cymbals.
+{147839}{147935}The others had other things.|All sorts of things.
+{147940}{148059}Things that they'd made or picked up|on the beach to make a sort of noise.
+{148084}{148147}A music made out of noise.
+{148151}{148178}Go on.
+{148182}{148239}I am going on.|Nothing could stop me now.
+{148244}{148339}Your Cousin Sebastian, was he|entertained by this concert?
+{148344}{148396}- Terrified of it.|- Terrified, why?
+{148401}{148490}I think he recognized some|of the musicians.
+{148495}{148527}Some of the boys.
+{148546}{148601}Between childhood and older.
+{148606}{148664}Did he complain to the manager|about it?
+{148677}{148765}What manager? God?|You don't understand my cousin.
+{148775}{148800}How do you mean?
+{148835}{148934}He accepted all as how things are...
+{148939}{149057}...and thought nobody had any right|to complain or interfere whatsoever.
+{149062}{149150}Even though he knew what|was awful was awful...
+{149155}{149204}...that what was wrong was wrong.
+{149209}{149322}He thought it unfitting to ever take|any action about anything whatsoever...
+{149327}{149414}...except to go on doing|as something in him directed.
+{149419}{149491}What did this something in him|direct him to do?
+{149495}{149597}He suddenly pushed himself|away from the table and said:
+{149601}{149675}"They've got to stop.|Make them stop. I'm not a well man.
+{149679}{149755}I have a heart condition.|It's making me sick."
+{149760}{149843}That was the first time that|Cousin Sebastian ever attempted...
+{149847}{149911}...to correct a human situation.
+{149916}{150031}I think that|that was his fatal error.
+{150035}{150144}He stalked out of the restaurant after|throwing paper money on the table.
+{150149}{150202}He fled from the place.
+{150206}{150231}I followed.
+{150235}{150343}It was all white outside.
+{150347}{150404}White hot. A blazing white hot, it...
+{150409}{150507}You followed Sebastian out of the|restaurant onto that hot, white street?
+{150512}{150544}Running along the beach...
+{150549}{150620}- You ran along the beach?|- No, no. We didn't.
+{150625}{150663}We didn't move either way.
+{150721}{150828}I rarely made any suggestion,|but this time I did.
+{150833}{150872}What did you suggest?
+{150877}{150976}Sebastian seemed to be paralysed|near the entrance at the café.
+{150982}{151056}So I said, "Let's go."|I remember I said:
+{151062}{151144}"Down that way is the harbour,|we're likely to find a taxi there.
+{151150}{151231}Or why don't we go back in|and have them call us a taxi?
+{151236}{151298}Oh, let's do! Let's do that.|That's better."
+{151303}{151404}And he said, "Are you mad?|Go back in that filthy place? Never!
+{151409}{151500}That gang of kids shouted vile|things about me to the waiters."
+{151505}{151572}I said, "Well, let's go down|towards the harbour.
+{151577}{151691}Let's not try to climb that hill|in this dreadful heat."
+{151695}{151761}And Cousin Sebastian shouted,|"Please shut up!
+{151766}{151864}Let me handle this situation, will|you? I want to handle this thing."
+{151897}{152004}And he started up the steep street|with a hand stuck in his jacket...
+{152009}{152107}...where I knew he was having|a pain from his palpitations.
+{152112}{152227}But he walked faster|and faster in panic.
+{152232}{152271}The faster he walked...
+{152276}{152350}...the louder and the closer it got.
+{152355}{152423}- Closer what got?|- The music!
+{152427}{152489}- The music again?|- The music!
+{152494}{152553}The noise of the following band.
+{152558}{152638}They were following.|They were following...
+{152643}{152707}...up the blazing white street.
+{152712}{152819}Up. Straight up. That was the only|way open, so he went that way.
+{152826}{152893}He tried to escape from those streets?
+{152898}{153000}He tried to escape|from those streets...
+{153004}{153124}- He couldn't find a way out?|- He couldn't find a way out.
+{153129}{153179}Did the band of children...?
+{153183}{153257}When he tried to escape...
+{153266}{153308}...from those streets...
+{153325}{153431}...down those little side streets,|between the buildings...
+{153435}{153496}...they came from everywhere.
+{153501}{153559}So the only way was up.
+{153564}{153613}The only way was straight up...
+{153618}{153665}...up those steep, white streets...
+{153670}{153776}...in the sun, that was like a great|white bone of a giant beast...
+{153780}{153830}...that had caught on fire in the sky.
+{153835}{153892}And Sebastian kept|running straight up.
+{153896}{153956}I don't know how he still ran.|He never ran...
+{153960}{154020}...but he ran and he ran and he ran...
+{154025}{154085}...where it was whiter and emptier.
+{154090}{154123}What was emptier?
+{154128}{154211}The light. The sky and the light.
+{154215}{154336}Those steep, white streets and the sun,|and everything blazed white and empty.
+{154340}{154407}Where did those streets lead to?
+{154411}{154436}Nowhere!
+{154440}{154465}He never reached...?
+{154470}{154582}He never reached the end.|They stopped nowhere! Never!
+{154587}{154647}Except, except...
+{154651}{154695}- Except?|- At the...
+{154704}{154763}At the very top of the hill.
+{154767}{154876}Something. A place, a ruin.
+{154881}{154928}Broken stones. Like...
+{154933}{154960}Like what?
+{154965}{155051}Like the entrance...
+{155055}{155147}...to a ruined temple...
+{155151}{155240}...some ancient ruined temple...
+{155245}{155312}...which he entered.
+{155355}{155415}And they...
+{155422}{155468}...overtook him.
+{155527}{155576}There, in that...
+{155591}{155662}And you, Catherine,|what did you do then?
+{155692}{155748}I heard Sebastian scream.
+{155843}{155900}He screamed just once.
+{155935}{155964}Then I...
+{156042}{156085}Then I...
+{156108}{156159}Help!
+{156185}{156243}Help!
+{156253}{156293}Help!
+{156312}{156347}And then? Then?
+{156351}{156407}I ran. They let me run.
+{156411}{156468}- They didn't even see me.|- Run where?
+{156472}{156497}Down.
+{156502}{156574}The waiters, police, people...
+{156579}{156654}...ran out of buildings,|back up to where...
+{156659}{156750}...to where Cousin Sebastian...
+{156799}{156903}He was lying naked...
+{156908}{156974}...on the broken stones.
+{157013}{157091}And this you won't believe.
+{157095}{157213}Nobody, nobody could believe it.
+{157292}{157356}It looked as if...
+{157361}{157442}...as if they had devoured him!
+{157469}{157535}As if they had torn or cut...
+{157540}{157624}...parts of him away|with their hands...
+{157639}{157775}...or with knives or those jagged|tin cans they made music with.
+{157806}{157888}As if they'd torn bits of him away...
+{157892}{158024}...and stuffed them|in their own gobbling mouths!
+{158091}{158207}There wasn't a sound anymore.
+{158211}{158288}There was nothing...
+{158321}{158379}...but Sebastian...
+{158443}{158553}...lying on those stones...
+{158558}{158663}...torn and crushed.
+{158920}{158962}Oh, Cathy.
+{159087}{159127}Mrs. Venable.
+{159263}{159312}There you are.
+{159317}{159361}I thought you were still on deck.
+{159366}{159475}And where's your hat?|Oh, dear, you'll get fever.
+{159479}{159557}A whole day up there in the rigging|in the hot sun.
+{159562}{159646}Watching those awful, hungry birds.
+{159651}{159725}I don't know what you see|in such terrible sights.
+{159730}{159813}It's too much for both of us,|my darling.
+{159818}{159872}That horrible sun.
+{160573}{160616}Of course God is cruel.
+{160621}{160721}We didn't need to come to the|Encantadas to find that out, did we?
+{160725}{160767}We've always known about him.
+{160771}{160883}The savage face he shows to people,|and the fierce things he shouts.
+{160888}{161007}It's all we ever see or hear|of him now. Nobody seems to know why.
+{161015}{161042}The difference is...
+{161046}{161130}...we know about him, the others don't.|That's where we're lucky.
+{161134}{161170}Go rest, my darling.
+{161175}{161223}Look out for that fever.
+{161227}{161332}I'm going to see the captain and tell|him to change our course for home.
+{161337}{161399}Oh, Sebastian.
+{161404}{161495}What a lovely summer it's been.|Just the two of us.
+{161499}{161542}Sebastian and Violet.
+{161547}{161591}Violet and Sebastian.
+{161596}{161659}Just the way it's always going to be.
+{161664}{161726}Oh, we are lucky, my darling...
+{161730}{161803}...to have one another|and need no one else, ever.
+{162139}{162242}There's every possibility|that the girl's story is true.
+{162375}{162437}George, tell her she's got|to come home with us.
+{162441}{162491}- Doctor?|- Catherine will be all right.
+{162495}{162555}- Can she come home?|- Don't worry, she will.
+{162559}{162655}- Why don't you take your mother?|- Sure. Come on, Ma.
+{162907}{162932}Miss Catherine?
+{162959}{163005}She's here, doctor.
+{163049}{163099}Miss Catherine's here.
+{164338}{164422}OCR: ShooCat

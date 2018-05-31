@@ -1,0 +1,416 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Phone,Open Sans Semibold,21,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,4,0,7,53,27,27,1
+Style: Episode Title,Open Sans Semibold,36,&H00CA60B6,&H000000FF,&H00F1C0F7,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,635,93,107,0
+Style: Participation,Open Sans Semibold,21,&H00EAEEF3,&H000000FF,&H00397488,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,107,0,239,1
+Style: King's Game Rules,Open Sans Semibold,30,&H0004129F,&H000000FF,&H00447E8E,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,291,291,24,1
+Style: I'll be waiting,Open Sans Semibold,30,&H0070E326,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,604,124,1
+Style: Read,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00CCB59B,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,475,307,69,1
+Style: Phone Right,Open Sans Semibold,21,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,488,47,272,1
+Style: Next,Open Sans Semibold,30,&H00DFDFDF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,5,64,113,1
+Style: Remain,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,1
+Style: Dead,Open Sans Semibold,30,&H00D3C8D4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,364,364,144,1
+Style: Ooi Masatoshi,Open Sans Semibold,30,&H00E7ECEE,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,1,1,91,559,105,1
+Style: Kobayashi Yuuna,Open Sans Semibold,30,&H00E7ECEE,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,1,3,539,64,109,1
+Style: Text,Open Sans Semibold,30,&H00000000,&H000000FF,&H00DADADA,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,215,215,24,1
+Style: Lose,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FDFAFD,&H00000000,1,0,0,0,100,100,0,0,1,2,0,5,235,235,0,1
+Style: sand,Open Sans Semibold,30,&H004E7690,&H000000FF,&H00C0DCEC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,357,357,24,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.32,0:00:05.22,Main,Kenta,0000,0000,0000,,No good. It's not getting through.
+Dialogue: 0,0:00:06.31,0:00:08.82,Main,Mizuki,0000,0000,0000,,Would it be back in that park?
+Dialogue: 0,0:00:09.25,0:00:12.62,Main,Kenta,0000,0000,0000,,Nobuaki, I'll look for the phone.
+Dialogue: 0,0:00:12.62,0:00:14.54,Main,Kenta,0000,0000,0000,,You go to the hospital.
+Dialogue: 0,0:00:14.54,0:00:19.74,Main,Nobuaki,0000,0000,0000,,No. There's somewhere I need to go first.
+Dialogue: 0,0:00:21.58,0:00:25.42,Main,Kenta,0000,0000,0000,,Where the heck are you \Ngonna go in that condition?
+Dialogue: 0,0:00:25.42,0:00:29.90,Main,Nobuaki,0000,0000,0000,,The key to ending the King's \NGame might be there.
+Dialogue: 0,0:00:31.59,0:00:33.70,Main,Nobuaki,0000,0000,0000,,Thirty years ago,
+Dialogue: 0,0:00:34.20,0:00:38.81,Main,Nobuaki,0000,0000,0000,,a King's Game—likely the \Nfirst—was held in that village.
+Dialogue: 0,0:00:39.76,0:00:43.27,Main,Nobuaki,0000,0000,0000,,It was a peaceful,\Ncompletely ordinary village.
+Dialogue: 0,0:00:44.00,0:00:49.40,Main,Nobuaki,0000,0000,0000,,Until a single scrap of \Npaper changed everything.
+Dialogue: 0,0:00:50.26,0:00:51.65,Main,Nobuaki,0000,0000,0000,,An order from the king.
+Dialogue: 0,0:00:52.58,0:00:54.44,Main,Nobuaki,0000,0000,0000,,Because of the King's Game,
+Dialogue: 0,0:00:54.44,0:00:56.36,Main,Nobuaki,0000,0000,0000,,the villagers disappeared,
+Dialogue: 0,0:00:56.36,0:00:58.66,Main,Nobuaki,0000,0000,0000,,and by the end, it became \Nan abandoned village.
+Dialogue: 0,0:00:59.41,0:01:03.79,Main,Nobuaki,0000,0000,0000,,But there must be some records \Nof the time left there.
+Dialogue: 0,0:01:04.66,0:01:09.76,Main,Kenta,0000,0000,0000,,I get it. So we might be able to \Nfind a way to end this game there?
+Dialogue: 0,0:01:09.76,0:01:10.76,Main,Nobuaki,0000,0000,0000,,Yeah.
+Dialogue: 0,0:01:10.76,0:01:14.05,Main,Kenta,0000,0000,0000,,All right. Then take me there, too.
+Dialogue: 0,0:01:14.36,0:01:16.97,Main,Kenta,0000,0000,0000,,I can't let you go alone and get hurt.
+Dialogue: 0,0:01:16.97,0:01:19.62,Main,Kenta,0000,0000,0000,,Better to have a guy with \Nsome brawn around, right?
+Dialogue: 0,0:01:21.30,0:01:22.38,Main,Nobuaki,0000,0000,0000,,Kenta...
+Dialogue: 0,0:01:22.81,0:01:25.22,Main,Mizuki,0000,0000,0000,,I-If Kenta's going, then I am, too.
+Dialogue: 0,0:01:25.86,0:01:28.15,Main,Mizuki,0000,0000,0000,,I'm too scared to be alone.
+Dialogue: 0,0:01:28.69,0:01:30.57,Main,Mizuki,0000,0000,0000,,I can come, right?
+Dialogue: 0,0:01:32.19,0:01:34.09,Main,Kenta,0000,0000,0000,,O-Of course!
+Dialogue: 0,0:01:34.09,0:01:35.58,Main,Kenta,0000,0000,0000,,Right, Nobuaki?
+Dialogue: 0,0:01:35.58,0:01:40.20,Main,Nobuaki,0000,0000,0000,,Yeah. Then let's all head for the \Nvillage on the first train of the day.
+Dialogue: 0,0:01:40.20,0:01:41.20,Main,Mizuki,0000,0000,0000,,Okay.
+Dialogue: 0,0:03:15.29,0:03:17.82,Main,Nobuaki,0000,0000,0000,,Uh, Mizuki?
+Dialogue: 0,0:03:17.82,0:03:18.92,Main,Mizuki,0000,0000,0000,,What?
+Dialogue: 0,0:03:18.92,0:03:20.94,Main,Nobuaki,0000,0000,0000,,I've been meaning to ask...
+Dialogue: 0,0:03:22.13,0:03:24.02,Main,Nobuaki,0000,0000,0000,,What are you wearing?
+Dialogue: 0,0:03:25.66,0:03:28.23,Main,Nobuaki,0000,0000,0000,,We're going to be hiking on a mountain path.
+Dialogue: 0,0:03:28.23,0:03:30.86,Main,Mizuki,0000,0000,0000,,But I'm wearing sneakers.
+Dialogue: 0,0:03:30.86,0:03:33.14,Main,Kenta,0000,0000,0000,,I-I can see your—
+Dialogue: 0,0:03:36.00,0:03:38.15,Main,Kenta,0000,0000,0000,,B-By the way, Mizuki.
+Dialogue: 0,0:03:38.15,0:03:40.56,Main,Kenta,0000,0000,0000,,Did you bring your old cell phone?
+Dialogue: 0,0:03:40.56,0:03:42.04,Main,Mizuki,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:03:42.04,0:03:45.42,Main,Kenta,0000,0000,0000,,When we get to the station, \Nswitch over from the broken one.
+Dialogue: 0,0:03:46.13,0:03:49.20,Main,Mizuki,0000,0000,0000,,But Natsuko said I'll die even \Nif I switch to another phone.
+Dialogue: 0,0:03:49.20,0:03:52.56,Main,Nobuaki,0000,0000,0000,,Don't take her at her word.
+Dialogue: 0,0:03:52.56,0:03:54.21,Main,Nobuaki,0000,0000,0000,,You'll be fine.
+Dialogue: 0,0:03:54.76,0:03:56.25,Main,Mizuki,0000,0000,0000,,R-Right.
+Dialogue: 0,0:03:58.83,0:04:03.67,Main,Mizuki,0000,0000,0000,,Sorry. I'm not strong like you two.
+Dialogue: 0,0:04:03.67,0:04:07.97,Main,Mizuki,0000,0000,0000,,But when I think that I could \Ndie today if I do nothing...
+Dialogue: 0,0:04:08.27,0:04:10.47,Main,Mizuki,0000,0000,0000,,I just can't sit still.
+Dialogue: 0,0:04:15.37,0:04:20.84,Main,Kenta,0000,0000,0000,,Nobuaki, who is behind the \NKing's Game? What do they want?
+Dialogue: 0,0:04:20.84,0:04:26.06,Main,Nobuaki,0000,0000,0000,,Sorry. I don't know who the king is, either.
+Dialogue: 0,0:04:26.60,0:04:32.09,Main,Nobuaki,0000,0000,0000,,During the last game, I thought that \Nthe king was a member of the class.
+Dialogue: 0,0:04:32.09,0:04:33.62,Main,Kanta,0000,0000,0000,,A member of the class?
+Dialogue: 0,0:04:33.89,0:04:38.14,Main,Nobuaki,0000,0000,0000,,Yeah. But my thinking was wrong.
+Dialogue: 0,0:04:38.46,0:04:40.13,Signs,Sign,0000,0000,0000,,{\fad(693,1)}Kanazawa
+Dialogue: 0,0:04:39.09,0:04:40.13,Flashback,Nobuaki,0000,0000,0000,,What?
+Dialogue: 0,0:04:41.26,0:04:43.01,Phone,Text Message,0000,0000,0000,,Hirano Nami\NSeat No. 12\NKing's Game\NSeat No. 22 Hirano Nami\NTouch the king.
+Dialogue: 0,0:04:47.65,0:04:48.89,Flashback Italics,Nami,0000,0000,0000,,Hello?
+Dialogue: 0,0:04:48.89,0:04:50.52,Flashback Italics,Nobuaki,0000,0000,0000,,Is this Nami?
+Dialogue: 0,0:04:50.52,0:04:51.92,Flashback Italics,Nobuaki,0000,0000,0000,,What's with that text?
+Dialogue: 0,0:04:51.92,0:04:54.86,Flashback Italics,Nobuaki,0000,0000,0000,,Touch the king? What are you thinking?
+Dialogue: 0,0:04:55.89,0:04:57.02,Phone,Text Message,0000,0000,0000,,King\NSeat No. 22\NKing's Game\N\NSeat No. 22 Hirano Nami
+Dialogue: 0,0:04:56.28,0:05:00.97,Flashback,Nobuaki,0000,0000,0000,,Your order was to order \Nyourself to do something.
+Dialogue: 0,0:04:57.02,0:04:58.23,Phone,Text Message,0000,0000,0000,,King\NSeat No. 22\NKing's Game\N\NSeat No. 22 Hirano Nami\N\NGive an order of your choice to yourself.
+Dialogue: 0,0:04:58.23,0:04:59.61,Phone,Text Message,0000,0000,0000,,Seat No. 22\NKing's Game\N\NSeat No. 22 Hirano Nami\N\NGive an order of your choice to yourself.\NFollow it as if it's an order from the king.
+Dialogue: 0,0:04:59.61,0:05:00.98,Phone,Text Message,0000,0000,0000,,King's Game\N\NSeat No. 22 Hirano Nami\N\NGive an order of your choice to yourself.\NFollow it as if it's an order from the king.
+Dialogue: 0,0:05:00.98,0:05:01.40,Phone,Text Message,0000,0000,0000,,Seat No. 22 Hirano Nami\N\NGive an order of your choice to yourself.\NFollow it as if it's an order from the king.
+Dialogue: 0,0:05:01.40,0:05:04.53,Flashback,Nobuaki,0000,0000,0000,,You should have made it something simpler.
+Dialogue: 0,0:05:05.03,0:05:07.18,Flashback,Nami,0000,0000,0000,,I had an idea.
+Dialogue: 0,0:05:08.96,0:05:13.29,Flashback,Nami,0000,0000,0000,,You think the king is someone in class, right?
+Dialogue: 0,0:05:13.29,0:05:15.54,Flashback,Nobuaki,0000,0000,0000,,Right, but...
+Dialogue: 0,0:05:15.92,0:05:19.23,Flashback,Nami,0000,0000,0000,,That's why I ordered myself to touch the king.
+Dialogue: 0,0:05:19.23,0:05:21.92,Flashback,Nami,0000,0000,0000,,To find them.
+Dialogue: 0,0:05:22.36,0:05:24.17,Flashback,Nobuaki,0000,0000,0000,,To find the king?
+Dialogue: 0,0:05:24.58,0:05:28.80,Flashback,Nami,0000,0000,0000,,All I need to do is touch \Neveryone in class, one by one.
+Dialogue: 0,0:05:28.80,0:05:33.52,Flashback,Nami,0000,0000,0000,,If the king's among us, when I touch them,\N we'll get the text about compliance.
+Dialogue: 0,0:05:34.05,0:05:35.52,Flashback,Nami,0000,0000,0000,,Perfect, right?
+Dialogue: 0,0:05:35.52,0:05:39.90,Flashback,Nobuaki,0000,0000,0000,,W-We might be able to \Nfind the king with that plan.
+Dialogue: 0,0:05:40.31,0:05:43.90,Flashback,Nobuaki,0000,0000,0000,,But if the king isn't in our class? What then?
+Dialogue: 0,0:05:44.39,0:05:48.51,Flashback,Nami,0000,0000,0000,,You believe that the king is in our class, right?
+Dialogue: 0,0:05:48.51,0:05:50.61,Flashback,Nami,0000,0000,0000,,Then I do, too.
+Dialogue: 0,0:05:50.61,0:05:51.74,Flashback,Nami,0000,0000,0000,,That's good enough for me!
+Dialogue: 0,0:05:51.74,0:05:53.04,Flashback Italics,Nobuaki,0000,0000,0000,,It's not good.
+Dialogue: 0,0:05:53.46,0:05:55.80,Flashback,Nobuaki,0000,0000,0000,,Do you understand what you're doing?
+Dialogue: 0,0:05:55.80,0:05:56.86,Flashback,Nobuaki,0000,0000,0000,,You could die—
+Dialogue: 0,0:05:56.86,0:05:58.04,Flashback Italics,Nami,0000,0000,0000,,I know.
+Dialogue: 0,0:05:58.61,0:06:00.22,Flashback,Nami,0000,0000,0000,,Thanks, Nobuaki.
+Dialogue: 0,0:06:00.88,0:06:03.56,Flashback,Nami,0000,0000,0000,,You'd even worry about me, huh?
+Dialogue: 0,0:06:03.56,0:06:07.55,Flashback Italics,Nobuaki,0000,0000,0000,,What are you saying? No duh I'm \Nworried about you. I just...
+Dialogue: 0,0:06:07.87,0:06:09.08,Flashback,Nami,0000,0000,0000,,I know.
+Dialogue: 0,0:06:09.08,0:06:13.56,Flashback,,0000,0000,0000,,You just want to end the King's Game somehow.
+Dialogue: 0,0:06:14.08,0:06:15.45,Flashback Italics,Nami,0000,0000,0000,,For all of us.
+Dialogue: 0,0:06:16.06,0:06:17.82,Flashback,Nobuaki,0000,0000,0000,,That's part of it.
+Dialogue: 0,0:06:18.48,0:06:22.41,Flashback,Nobuaki,0000,0000,0000,,I don't want to watch a \Nfriend die ever again.
+Dialogue: 0,0:06:23.28,0:06:26.92,Flashback,Nami,0000,0000,0000,,I don't want that, either. That's why...
+Dialogue: 0,0:06:26.92,0:06:27.83,Flashback Italics,Nobuaki,0000,0000,0000,,Nami...
+Dialogue: 0,0:06:28.20,0:06:33.12,Flashback Italics,Nami,0000,0000,0000,,But if we do find the king \Nthis way, I'll be a hero!
+Dialogue: 0,0:06:33.12,0:06:35.47,Flashback Italics,Nami,0000,0000,0000,,Oh, but I'm a girl, so make that a heroine.
+Dialogue: 0,0:06:35.47,0:06:36.20,Flashback,Nobuaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:36.52,0:06:39.32,Flashback,Nami,0000,0000,0000,,And we can even end the King's Game, too.
+Dialogue: 0,0:06:40.18,0:06:43.46,Flashback,Nami,0000,0000,0000,,And then you'll...
+Dialogue: 0,0:06:43.96,0:06:44.98,Flashback Italics,Nobuaki,0000,0000,0000,,Nami?
+Dialogue: 0,0:06:46.80,0:06:48.59,Flashback Italics,Nami,0000,0000,0000,,Sorry! It's nothing.
+Dialogue: 0,0:06:48.59,0:06:51.04,Flashback Italics,Nami,0000,0000,0000,,I mean, you have Chiemi.
+Dialogue: 0,0:06:51.04,0:06:52.80,Flashback Italics,Nami,0000,0000,0000,,Good luck to us tomorrow!
+Dialogue: 0,0:06:52.80,0:06:54.97,Flashback,Nobuaki,0000,0000,0000,,Huh? Hey. Nami!
+Dialogue: 0,0:06:55.51,0:06:56.72,Flashback,Nobuaki,0000,0000,0000,,God...
+Dialogue: 0,0:07:03.36,0:07:05.98,Flashback,Nobuaki,0000,0000,0000,,You all got yesterday's text.
+Dialogue: 0,0:07:06.27,0:07:10.11,Flashback,Nobuaki,0000,0000,0000,,Nami gave herself an order to touch the king.
+Dialogue: 0,0:07:10.11,0:07:13.74,Flashback,Nobuaki,0000,0000,0000,,Nami's going to touch all \Nof us one by one now.
+Dialogue: 0,0:07:13.74,0:07:16.22,Flashback,Nobuaki,0000,0000,0000,,If the person she touches is the king,
+Dialogue: 0,0:07:16.22,0:07:18.62,Flashback,Nobuaki,0000,0000,0000,,we should get a text an instant later.
+Dialogue: 0,0:07:18.62,0:07:22.62,Flashback,Naoya,0000,0000,0000,,I get it. So we're going to expose the king.
+Dialogue: 0,0:07:22.91,0:07:24.17,Flashback,Nobuaki,0000,0000,0000,,Exactly.
+Dialogue: 0,0:07:24.17,0:07:29.06,Flashback,,0000,0000,0000,,Nami gave herself this order and put \Nher life on the line to find the king.
+Dialogue: 0,0:07:30.42,0:07:32.89,Flashback,Nobuaki,0000,0000,0000,,To prevent any more victims.
+Dialogue: 0,0:07:33.56,0:07:35.89,Flashback,Nobuaki,0000,0000,0000,,To end the King's Game.
+Dialogue: 0,0:07:35.89,0:07:36.94,Flashback,Toshiyuki,0000,0000,0000,,Amazing!
+Dialogue: 0,0:07:36.94,0:07:38.36,Flashback,Misaki,0000,0000,0000,,Nami, you're so smart!
+Dialogue: 0,0:07:38.36,0:07:41.77,Flashback,Yuki,0000,0000,0000,,I'm gonna beat you black and \Nblue when we find you, King!
+Dialogue: 0,0:07:44.63,0:07:46.10,Flashback,Nobuaki,0000,0000,0000,,We'll start with the boys.
+Dialogue: 0,0:07:46.61,0:07:49.03,Flashback,Nobuaki,0000,0000,0000,,Seat number 1, Shingo.
+Dialogue: 0,0:07:49.43,0:07:53.28,Flashback,Shingo,0000,0000,0000,,I swear I'm not the king! Touch away!
+Dialogue: 0,0:07:56.76,0:08:00.22,Flashback Italics,Nobuaki narr,0000,0000,0000,,I don't want to believe \Nthat one of us is the king,
+Dialogue: 0,0:08:00.22,0:08:03.04,Flashback Italics,,0000,0000,0000,,somebody who takes lives \Nwithout remorse. But...
+Dialogue: 0,0:08:03.04,0:08:05.16,Flashback,Nami,0000,0000,0000,,H-Here goes nothing.
+Dialogue: 0,0:08:05.16,0:08:06.68,Flashback,Shingo,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:08:07.43,0:08:10.80,Flashback Italics,Nobuaki narr,0000,0000,0000,,But we have to discover the king's identity.
+Dialogue: 0,0:08:11.10,0:08:13.10,Flashback Italics,Nobuaki narr,0000,0000,0000,,To end the game.
+Dialogue: 0,0:08:21.30,0:08:24.56,Flashback,Nobuaki,0000,0000,0000,,Shingo's in the clear. He's not the king.
+Dialogue: 0,0:08:25.24,0:08:26.06,Flashback,Boy,0000,0000,0000,,That's great.
+Dialogue: 0,0:08:26.90,0:08:28.48,Flashback,Nobuaki,0000,0000,0000,,You okay, Nami?
+Dialogue: 0,0:08:28.48,0:08:30.44,Flashback,Nami,0000,0000,0000,,Y-Yeah. I'm fine.
+Dialogue: 0,0:08:32.93,0:08:34.07,Flashback,Keita,0000,0000,0000,,All right!
+Dialogue: 0,0:08:34.40,0:08:36.19,Flashback Italics,Nobuaki narr,0000,0000,0000,,Only the girls are left?
+Dialogue: 0,0:08:36.19,0:08:38.33,Flashback Italics,Nobuaki narr,0000,0000,0000,,The king's one of the girls?
+Dialogue: 0,0:08:38.66,0:08:41.21,Flashback Italics,Nobuaki narr,0000,0000,0000,,A demon wearing human skin
+Dialogue: 0,0:08:42.79,0:08:44.08,Flashback Italics,Nobuaki narr,0000,0000,0000,,is among them!
+Dialogue: 0,0:08:45.04,0:08:46.08,Flashback Italics,Nobuaki narr,0000,0000,0000,,Next is...
+Dialogue: 0,0:08:47.58,0:08:49.34,Black Signs,Text,0000,0000,0000,,Inoue\NImoto Yuuko\NIwamura Ria\NIwamoto Maki
+Dialogue: 0,0:08:49.34,0:08:51.37,Flashback,Mami,0000,0000,0000,,Next is Ria, right?
+Dialogue: 0,0:08:51.37,0:08:53.59,Flashback,Mami,0000,0000,0000,,Get up front already.
+Dialogue: 0,0:08:57.94,0:08:59.42,Flashback,Nobuaki,0000,0000,0000,,Ria, it's your turn.
+Dialogue: 0,0:08:59.42,0:09:00.60,Flashback,Nobuaki,0000,0000,0000,,Come up here.
+Dialogue: 0,0:09:01.00,0:09:04.85,Flashback Italics,Nobuaki narr,0000,0000,0000,,Sorry, but you're the most \Nsuspicious of the girls.
+Dialogue: 0,0:09:04.85,0:09:08.86,Flashback Italics,Nobuaki narr,0000,0000,0000,,She barely talks, and she has nothing \Nin common with the rest of us.
+Dialogue: 0,0:09:09.35,0:09:12.00,Flashback Italics,Nobuaki narr,0000,0000,0000,,But is she really the king?
+Dialogue: 0,0:09:12.00,0:09:16.36,Flashback Italics,Nobuaki narr,0000,0000,0000,,If Ria is the king, how could \Nshe stay so calm right now?
+Dialogue: 0,0:09:16.67,0:09:19.12,Flashback,Nami,0000,0000,0000,,I-I'm going to touch you now.
+Dialogue: 0,0:09:28.88,0:09:32.54,Flashback,Ria,0000,0000,0000,,I know who the king is.
+Dialogue: 0,0:09:33.13,0:09:34.63,Flashback,Ria,0000,0000,0000,,Because
+Dialogue: 0,0:09:35.14,0:09:36.98,Flashback,Ria,0000,0000,0000,,I'm the king.
+Dialogue: 0,0:09:38.64,0:09:43.64,King's Game Rules,Text,0000,0000,0000,,King\NKing's Game
+Dialogue: 0,0:09:38.64,0:09:43.64,Participation,Text,0000,0000,0000,,Seat No. 22 Hirano Nami
+Dialogue: 0,0:09:38.64,0:09:43.64,Participation,Text,0000,0000,0000,,Give an order of your choice to yourself.
+Dialogue: 0,0:09:38.64,0:09:43.64,Participation,Text,0000,0000,0000,,Follow it as if it's an order from the king.
+Dialogue: 0,0:09:43.64,0:09:48.65,King's Game Rules,Text,0000,0000,0000,,King\NKing's Game
+Dialogue: 0,0:09:43.64,0:09:48.65,Participation,Text,0000,0000,0000,,Seat No. 22 Hirano Nami
+Dialogue: 0,0:09:43.64,0:09:48.65,Participation,Text,0000,0000,0000,,Touch the king.
+Dialogue: 0,0:09:50.40,0:09:53.74,Flashback,Ria,0000,0000,0000,,I know who the king is.
+Dialogue: 0,0:09:53.74,0:09:55.86,Flashback,Ria,0000,0000,0000,,Because I'm the king.
+Dialogue: 0,0:10:00.53,0:10:04.00,Flashback,Mami,0000,0000,0000,,Ria?! Are you serious?!
+Dialogue: 0,0:10:04.00,0:10:06.42,Flashback,Ria,0000,0000,0000,,If I was the king, what would you do?
+Dialogue: 0,0:10:07.07,0:10:08.97,Flashback,Ria,0000,0000,0000,,Would you all gang up on me?
+Dialogue: 0,0:10:08.97,0:10:12.42,Flashback,Ria,0000,0000,0000,,Or would you try to persuade me to stop?
+Dialogue: 0,0:10:12.98,0:10:17.80,Flashback,Ria,0000,0000,0000,,You know that won't end this game, don't you?
+Dialogue: 0,0:10:19.07,0:10:24.18,Flashback,Ria,0000,0000,0000,,If it isn't 100% guaranteed to end \Nthe King's Game, there's no point.
+Dialogue: 0,0:10:24.18,0:10:26.94,Flashback,Ria,0000,0000,0000,,If you use an uncertain method and fail,
+Dialogue: 0,0:10:26.94,0:10:28.73,Flashback,,0000,0000,0000,,someone in class will die.
+Dialogue: 0,0:10:29.63,0:10:31.88,Flashback,Ria,0000,0000,0000,,You've all realized it, right?
+Dialogue: 0,0:10:31.88,0:10:34.56,Flashback,Ria,0000,0000,0000,,The only guaranteed way to end the King's Game
+Dialogue: 0,0:10:34.56,0:10:36.82,Flashback,Ria,0000,0000,0000,,is to {\i1}kill{\i0} the king.
+Dialogue: 0,0:10:37.49,0:10:39.95,Flashback,Nobuaki,0000,0000,0000,,Kill the king?!
+Dialogue: 0,0:10:39.95,0:10:43.45,Flashback,Ria,0000,0000,0000,,That's right. It's the only way.
+Dialogue: 0,0:10:43.45,0:10:45.95,Flashback,Nobuaki,0000,0000,0000,,As if we could ever do that!
+Dialogue: 0,0:10:46.48,0:10:49.15,Flashback,Ria,0000,0000,0000,,You started the hunt for the king.
+Dialogue: 0,0:10:49.15,0:10:52.36,Flashback,Ria,0000,0000,0000,,Unless you take responsibility and kill the king,
+Dialogue: 0,0:10:52.36,0:10:55.09,Flashback,Ria,0000,0000,0000,,another person here is going to die.
+Dialogue: 0,0:10:55.09,0:10:58.34,Flashback,Nobuaki,0000,0000,0000,,M-Me, kill the king?
+Dialogue: 0,0:10:59.50,0:11:01.93,Flashback,Ria,0000,0000,0000,,So, who is the king?
+Dialogue: 0,0:11:06.11,0:11:07.06,Flashback,Naoya,0000,0000,0000,,Nobuaki?
+Dialogue: 0,0:11:08.47,0:11:10.10,Flashback,Naoya,0000,0000,0000,,You okay, Nobuaki?
+Dialogue: 0,0:11:10.10,0:11:11.76,Flashback,Nobuaki,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:11:11.76,0:11:15.73,Flashback,Naoya,0000,0000,0000,,There was no text. \NRia wasn't the king after all.
+Dialogue: 0,0:11:20.38,0:11:22.84,Flashback Italics,Nobuaki,0000,0000,0000,,Only five girls left.
+Dialogue: 0,0:11:22.84,0:11:26.49,Flashback Italics,,0000,0000,0000,,Is one of them really the king?
+Dialogue: 0,0:11:26.49,0:11:27.87,Flashback,Emi,0000,0000,0000,,Kaori...
+Dialogue: 0,0:11:27.87,0:11:29.50,Flashback,Kaori,0000,0000,0000,,It's okay.
+Dialogue: 0,0:11:29.50,0:11:33.75,Flashback Italics,Nobuaki,0000,0000,0000,,But I have to end this, \Nto put a stop to the game.
+Dialogue: 0,0:11:34.79,0:11:36.74,Flashback,Chiemi,0000,0000,0000,,I'm next, right?
+Dialogue: 0,0:11:37.33,0:11:39.26,Flashback,Chiemi,0000,0000,0000,,Nami, are you okay?
+Dialogue: 0,0:11:39.26,0:11:42.26,Flashback,Nami,0000,0000,0000,,O-Of course I'm okay.
+Dialogue: 0,0:11:42.26,0:11:45.51,Flashback,Chiemi,0000,0000,0000,,B-But if the king isn't one of us...
+Dialogue: 0,0:11:45.51,0:11:47.77,Flashback,Nami,0000,0000,0000,,I said I'm fine!
+Dialogue: 0,0:11:47.77,0:11:50.02,Flashback,Nami,0000,0000,0000,,The king has to be one of you.
+Dialogue: 0,0:11:50.02,0:11:52.26,Flashback,Nami,0000,0000,0000,,Nobuaki said so, too!
+Dialogue: 0,0:11:52.84,0:11:53.77,Flashback Italics,Nobuaki narr,0000,0000,0000,,Nami...
+Dialogue: 0,0:11:54.12,0:11:58.33,Flashback,Nami,0000,0000,0000,,No matter what happens, I have no regrets.
+Dialogue: 0,0:11:58.78,0:12:02.36,Flashback,Nami,0000,0000,0000,,The king is definitely one of you five.
+Dialogue: 0,0:12:02.85,0:12:05.98,Flashback,Nami,0000,0000,0000,,Even you could be the king, Chiemi.
+Dialogue: 0,0:12:13.79,0:12:14.92,Text,,0000,0000,0000,,{\fs14}New Message: 1 Unread message.
+Dialogue: 0,0:12:14.67,0:12:16.78,Flashback Italics,Nobuaki,0000,0000,0000,,It's Chiemi?!
+Dialogue: 0,0:12:14.83,0:12:18.30,Text,Text Message,0000,0000,0000,,I won't be home tonight. Heat \Ndinner up in the microwave.
+Dialogue: 0,0:12:19.20,0:12:22.33,Flashback,Nobuaki,0000,0000,0000,,Sorry. It was an unrelated text.
+Dialogue: 0,0:12:23.34,0:12:26.59,Flashback Italics,Nami narr,0000,0000,0000,,Why? Who is the king?
+Dialogue: 0,0:12:26.59,0:12:29.06,Flashback Italics,Nami narr,0000,0000,0000,,Why isn't the compliance text coming?
+Dialogue: 0,0:12:29.40,0:12:33.16,Flashback,Nami,0000,0000,0000,,Nobuaki, the king is one of us, right?!
+Dialogue: 0,0:12:34.11,0:12:36.55,Flashback,Nami,0000,0000,0000,,The king has to be here, right?!
+Dialogue: 0,0:12:38.94,0:12:41.16,Main,Nobuaki,0000,0000,0000,,She touched every one of us,
+Dialogue: 0,0:12:41.16,0:12:43.90,Main,Nobuaki,0000,0000,0000,,and still no confirmation \Ntext came from the king.
+Dialogue: 0,0:12:43.90,0:12:48.90,Main,Kenta,0000,0000,0000,,Does that mean the king was never a\N member of your class in the first place?
+Dialogue: 0,0:12:48.90,0:12:50.74,Main,Nobuaki,0000,0000,0000,,{\fad(1,1138)}No, that's...
+Dialogue: 0,0:12:52.08,0:12:53.74,Flashback Italics,Nobuaki narr,0000,0000,0000,,This can't be happening.
+Dialogue: 0,0:12:53.74,0:12:56.80,Flashback Italics,Nobuaki narr,0000,0000,0000,,We saw Nami touch every member of the class.
+Dialogue: 0,0:12:56.80,0:12:58.59,Flashback Italics,Nobuaki narr,0000,0000,0000,,What's going on?
+Dialogue: 0,0:13:02.84,0:13:04.34,Flashback,Chiemi,0000,0000,0000,,Nami, wait!
+Dialogue: 0,0:13:04.84,0:13:06.59,Flashback,Nami,0000,0000,0000,,Leave me alone!
+Dialogue: 0,0:13:08.20,0:13:09.11,Flashback,Chiemi,0000,0000,0000,,Nami!
+Dialogue: 0,0:13:09.92,0:13:11.61,Flashback,Nobuaki,0000,0000,0000,,Chiemi, are you okay?
+Dialogue: 0,0:13:11.61,0:13:14.33,Flashback,Chiemi,0000,0000,0000,,Don't worry about me. Go after Nami!
+Dialogue: 0,0:13:14.33,0:13:15.85,Flashback,Chiemi,0000,0000,0000,,She could hurt herself!
+Dialogue: 0,0:13:16.16,0:13:17.34,Flashback,Nobuaki,0000,0000,0000,,Dammit!
+Dialogue: 0,0:13:17.85,0:13:19.61,Flashback,Nobuaki,0000,0000,0000,,Nami!
+Dialogue: 0,0:13:24.50,0:13:31.96,Flashback Italics,Operator,0000,0000,0000,,{\an8}The number you have called is out \Nof the service area or turned off.
+Dialogue: 0,0:13:27.75,0:13:31.12,Flashback,Nobuaki,0000,0000,0000,,Answer your phone, Nami!
+Dialogue: 0,0:13:31.96,0:13:35.75,Flashback Italics,Nobuaki narr,0000,0000,0000,,It's all my fault. It's my \Nfault Nami's going to...
+Dialogue: 0,0:13:36.15,0:13:39.00,Flashback Italics,Nobuaki narr,0000,0000,0000,,Calm down. You have to find Nami.
+Dialogue: 0,0:13:39.00,0:13:40.88,Flashback Italics,Nobuaki narr,0000,0000,0000,,You can't let her be alone!
+Dialogue: 0,0:13:41.20,0:13:42.88,Flashback,Nobuaki,0000,0000,0000,,Where is she? Where is she going?
+Dialogue: 0,0:13:43.22,0:13:45.12,Flashback,Nobuaki,0000,0000,0000,,Somewhere she can be alone.
+Dialogue: 0,0:13:45.12,0:13:46.13,Flashback,Nobuaki,0000,0000,0000,,If it were me, I'd...
+Dialogue: 0,0:13:55.16,0:13:56.27,Flashback,Nobuaki,0000,0000,0000,,Nami!
+Dialogue: 0,0:13:56.70,0:13:58.65,Flashback,Nobuaki,0000,0000,0000,,I had a feeling I'd find you here.
+Dialogue: 0,0:14:01.45,0:14:02.39,Flashback,Nobuaki,0000,0000,0000,,Nami?
+Dialogue: 0,0:14:03.15,0:14:08.11,Flashback,Nami,0000,0000,0000,,Nobuaki... I'm going to \Ndie at midnight, aren't I?
+Dialogue: 0,0:14:08.11,0:14:10.08,Flashback,Nobuaki,0000,0000,0000,,No way!
+Dialogue: 0,0:14:10.08,0:14:12.71,Flashback,Nobuaki,0000,0000,0000,,I bet the punishment's \Ngoing to be no big deal.
+Dialogue: 0,0:14:13.43,0:14:17.04,Flashback,Nobuaki,0000,0000,0000,,I won't let you die. Trust me.
+Dialogue: 0,0:14:17.34,0:14:20.62,Flashback,Nami,0000,0000,0000,,I didn't even help.
+Dialogue: 0,0:14:20.62,0:14:23.05,Flashback,Nami,0000,0000,0000,,All I did was cause trouble for you.
+Dialogue: 0,0:14:23.05,0:14:24.74,Flashback,Nami,0000,0000,0000,,I'm so sorry.
+Dialogue: 0,0:14:26.05,0:14:27.80,Flashback,Nobuaki,0000,0000,0000,,Don't be ridiculous.
+Dialogue: 0,0:14:28.17,0:14:30.86,Flashback,Nobuaki,0000,0000,0000,,You trusted my theory.
+Dialogue: 0,0:14:30.86,0:14:33.93,Flashback,Nobuaki,0000,0000,0000,,You fought the king for all of us.
+Dialogue: 0,0:14:33.93,0:14:37.47,Flashback,Nobuaki,0000,0000,0000,,It's all my fault that this happened!
+Dialogue: 0,0:14:37.47,0:14:40.42,Flashback,Nobuaki,0000,0000,0000,,I'll do anything I can!
+Dialogue: 0,0:14:41.35,0:14:45.07,Flashback,Nami,0000,0000,0000,,Then stay with me until midnight.
+Dialogue: 0,0:14:48.62,0:14:51.39,Flashback,Nami,0000,0000,0000,,Sorry it turned out like this.
+Dialogue: 0,0:14:51.39,0:14:53.48,Flashback,Nobuaki,0000,0000,0000,,I'm the one who should apologize.
+Dialogue: 0,0:14:54.18,0:14:56.45,Flashback,Nobuaki,0000,0000,0000,,There's nothing I can do for you.
+Dialogue: 0,0:14:56.80,0:15:01.46,Flashback,Nami,0000,0000,0000,,That's not true. Nothing could make me \Nhappier than you being here with me now.
+Dialogue: 0,0:15:04.96,0:15:06.96,Text,Text,0000,0000,0000,,Five minutes remain
+Dialogue: 0,0:15:14.07,0:15:15.35,Flashback,Nami,0000,0000,0000,,Nobuaki...
+Dialogue: 0,0:15:16.22,0:15:18.22,Phone,Text,0000,0000,0000,,King\NSeat No. 22\NKing's Game\N60 seconds remain.
+Dialogue: 0,0:15:19.36,0:15:21.60,Flashback Italics,Nami narr,0000,0000,0000,,I'm about to die,
+Dialogue: 0,0:15:21.60,0:15:25.51,Flashback Italics,Nami narr,0000,0000,0000,,and I never told Nobuaki how I feel.
+Dialogue: 0,0:15:26.90,0:15:28.40,Flashback,Nami,0000,0000,0000,,Nobuaki, listen!
+Dialogue: 0,0:15:28.40,0:15:29.49,Flashback,Nami,0000,0000,0000,,The truth is, I...
+Dialogue: 0,0:15:29.88,0:15:31.24,Flashback,Nami,0000,0000,0000,,I-I...
+Dialogue: 0,0:15:32.22,0:15:33.22,Flashback,Nobuaki,0000,0000,0000,,Nami...
+Dialogue: 0,0:15:34.17,0:15:36.99,Flashback,Nami,0000,0000,0000,,I don't regret it, so...
+Dialogue: 0,0:15:40.75,0:15:41.92,Phone,Text Message,0000,0000,0000,,King\NSeat No. 12\NKing's Game\N\NSeat No. 22 Hirano Nami\N\NWill be punished for disobeying \Nthe King's orders.\NI give you eternal darkness.\NI am in the class.
+Dialogue: 0,0:15:41.33,0:15:45.50,Italics,Nobuaki narr,0000,0000,0000,,Nami proved that King isn't \Nin our class, dammit!
+Dialogue: 0,0:15:41.92,0:15:42.96,Phone,Text Message,0000,0000,0000,,King\NSeat No. 12\NKing's Game\N\NSeat No. 22 Hirano Nami\N\NWill be punished for disobeying \Nthe King's orders.\NI give you eternal darkness.\NI am in the class.\NThere is one way to find me. Hate each other.
+Dialogue: 0,0:15:42.96,0:15:44.08,Phone,Text Message,0000,0000,0000,,Seat No. 12\NKing's Game\N\NSeat No. 22 Hirano Nami\N\NWill be punished for disobeying \Nthe King's orders.\NI give you eternal darkness.\NI am in the class.\NThere is one way to find me. Hate each other.
+Dialogue: 0,0:15:44.08,0:15:45.50,Phone,Text Message,0000,0000,0000,,Seat No. 22 Hirano Nami\N\NWill be punished for disobeying \Nthe King's orders.\NI give you eternal darkness.\NI am in the class.\NThere is one way to find me. Hate each other.
+Dialogue: 0,0:15:45.50,0:15:46.75,Flashback,Nami,0000,0000,0000,,Nobuaki...
+Dialogue: 0,0:15:46.75,0:15:48.20,Flashback,Nobuaki,0000,0000,0000,,Are you okay, Nami?!
+Dialogue: 0,0:15:48.20,0:15:49.76,Flashback,Nobuaki,0000,0000,0000,,Do you feel anything happening?!
+Dialogue: 0,0:15:49.76,0:15:54.28,Flashback,Nami,0000,0000,0000,,Where are you? I-I can't see anything.
+Dialogue: 0,0:15:54.28,0:15:56.89,Flashback,Nami,0000,0000,0000,,Why? What's happening to me?
+Dialogue: 0,0:15:57.80,0:15:59.63,Flashback,Nobuaki,0000,0000,0000,,You can't see me?
+Dialogue: 0,0:15:59.63,0:16:01.34,Flashback,Nobuaki,0000,0000,0000,,But I'm right here.
+Dialogue: 0,0:16:01.77,0:16:03.27,Phone,,0000,0000,0000,,King\NSeat No. 12\NKing's Game\N\NSeat No. 22 Hirano Nami\N\NWill be punished for disobeying \Nthe King's orders.\NI give you eternal darkness.
+Dialogue: 0,0:16:03.27,0:16:06.25,Flashback Italics,Nobuaki narr,0000,0000,0000,,No... Eternal darkness meant this?
+Dialogue: 0,0:16:07.25,0:16:11.28,Flashback,Nami,0000,0000,0000,,I've gone blind.
+Dialogue: 0,0:16:11.28,0:16:14.78,Flashback,Nobuaki,0000,0000,0000,,I'm sorry. It's my fault.
+Dialogue: 0,0:16:15.20,0:16:16.76,Flashback,Nobuaki,0000,0000,0000,,I'm so sorry.
+Dialogue: 0,0:16:17.28,0:16:22.79,Flashback,Nami,0000,0000,0000,,No. I'm still alive now because I \Nbelieved it would be the way you said.
+Dialogue: 0,0:16:22.79,0:16:24.47,Flashback,Nobuaki,0000,0000,0000,,N-Nami...
+Dialogue: 0,0:16:26.54,0:16:33.55,Phone,Text,0000,0000,0000,,King\NSeat No. 12\NKing's Game\N\NSeat No. 12 Kanazawa Nobuaki\N\NLose something important.
+Dialogue: 0,0:16:27.19,0:16:27.96,Flashback,Nobuaki,0000,0000,0000,,Wh...
+Dialogue: 0,0:16:27.96,0:16:31.48,Flashback Italics,Nobuaki narr,0000,0000,0000,,No. What more can I lose?
+Dialogue: 0,0:16:28.04,0:16:32.26,Lose,Scrolling Text,0000,0000,0000,,{\fad(447,395)}Lose something important.
+Dialogue: 0,0:16:32.16,0:16:33.55,Flashback,Nami,0000,0000,0000,,Nobuaki?
+Dialogue: 0,0:16:33.92,0:16:35.61,Flashback,Nami,0000,0000,0000,,Is it an order from the king?
+Dialogue: 0,0:16:35.61,0:16:37.11,Flashback,Nami,0000,0000,0000,,What's the order?
+Dialogue: 0,0:16:37.89,0:16:40.04,Flashback,Nobuaki,0000,0000,0000,,I-It's nothing big.
+Dialogue: 0,0:16:40.04,0:16:41.93,Flashback,Nami,0000,0000,0000,,Is it for you...?!
+Dialogue: 0,0:16:41.93,0:16:44.18,Flashback,Nobuaki,0000,0000,0000,,No, it's not me.
+Dialogue: 0,0:16:46.04,0:16:48.40,Flashback,Nami,0000,0000,0000,,Your phone's ringing.
+Dialogue: 0,0:16:48.40,0:16:50.02,Flashback,Nami,0000,0000,0000,,Is that Chiemi?
+Dialogue: 0,0:16:50.57,0:16:54.84,Flashback,Nobuaki,0000,0000,0000,,It's fine. I swear. Don't worry about it.
+Dialogue: 0,0:16:58.55,0:17:00.74,Flashback Italics,Akemi,0000,0000,0000,,Nami, thank God. Are you okay?
+Dialogue: 0,0:17:01.05,0:17:02.62,Flashback,Nami,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:17:02.62,0:17:07.47,Flashback,,0000,0000,0000,,More importantly, is \Ntoday's order for Nobuaki?
+Dialogue: 0,0:17:07.47,0:17:08.33,Flashback Italics,Akemi,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:13.48,0:17:15.66,Flashback Italics,Nobuaki narr,0000,0000,0000,,She's gone. Why?!
+Dialogue: 0,0:17:15.66,0:17:18.73,Flashback Italics,Nobuaki narr,0000,0000,0000,,Why is she going off when she can't see?!
+Dialogue: 0,0:17:20.55,0:17:22.39,Flashback Italics,Nobuaki,0000,0000,0000,,Naoya! Have you seen Nami?!
+Dialogue: 0,0:17:22.39,0:17:25.89,Flashback,Naoya,0000,0000,0000,,Not here! But what are you going \Nto do about the next order?
+Dialogue: 0,0:17:25.89,0:17:28.24,Flashback,Nobuaki,0000,0000,0000,,I don't matter right now!
+Dialogue: 0,0:17:28.24,0:17:30.15,Flashback,Nobuaki,0000,0000,0000,,We have to find Nami!
+Dialogue: 0,0:17:30.55,0:17:31.90,Flashback,Naoya,0000,0000,0000,,Nobuaki?
+Dialogue: 0,0:17:32.29,0:17:34.02,Flashback,Nobuaki,0000,0000,0000,,It's all my fault.
+Dialogue: 0,0:17:34.63,0:17:37.80,Flashback,Nobuaki,0000,0000,0000,,She went blind because of me,
+Dialogue: 0,0:17:37.80,0:17:39.77,Flashback,Nobuaki,0000,0000,0000,,and then I left her alone.
+Dialogue: 0,0:17:39.77,0:17:43.05,Flashback Italics,Naoya,0000,0000,0000,,Okay. I'll search for her until I drop.
+Dialogue: 0,0:17:43.05,0:17:45.18,Flashback Italics,Naoya,0000,0000,0000,,If I find out anything, I'll call you.
+Dialogue: 0,0:17:47.19,0:17:48.06,Flashback Italics,Nobuaki narr,0000,0000,0000,,Nami.
+Dialogue: 0,0:17:49.16,0:17:50.04,Flashback Italics,Nobuaki narr,0000,0000,0000,,Nami.
+Dialogue: 0,0:17:50.87,0:17:52.01,Flashback Italics,Nobuaki narr,0000,0000,0000,,Nami!
+Dialogue: 0,0:17:54.42,0:17:57.12,Flashback Italics,Nobuaki narr,0000,0000,0000,,Nami. Please.
+Dialogue: 0,0:17:57.12,0:17:59.76,Flashback Italics,Nobuaki narr,0000,0000,0000,,Please trust me just one more time.
+Dialogue: 0,0:17:59.76,0:18:01.29,Flashback Italics,Nobuaki narr,0000,0000,0000,,I'm begging you, Nami.
+Dialogue: 0,0:18:02.93,0:18:04.89,Flashback Italics,Nami,0000,0000,0000,,H-Hello?
+Dialogue: 0,0:18:04.89,0:18:06.67,Flashback,Nobuaki,0000,0000,0000,,Nami, is that you?!
+Dialogue: 0,0:18:06.67,0:18:07.94,Flashback,Nobuaki,0000,0000,0000,,I was worried sick!
+Dialogue: 0,0:18:08.30,0:18:11.44,Flashback,Nami,0000,0000,0000,,Sorry for disappearing on you like that.
+Dialogue: 0,0:18:11.89,0:18:15.26,Flashback,Nami,0000,0000,0000,,I didn't want to worry you anymore.
+Dialogue: 0,0:18:15.26,0:18:18.74,Flashback Italics,Nobuaki,0000,0000,0000,,I've been looking all over the \Nplace for you. Where are you?
+Dialogue: 0,0:18:19.82,0:18:24.33,Flashback,Nami,0000,0000,0000,,Nobuaki, am I important to you?
+Dialogue: 0,0:18:24.33,0:18:28.08,Flashback,Nobuaki,0000,0000,0000,,You have to ask?! Do you have \Nany idea how worried I've been?!
+Dialogue: 0,0:18:28.41,0:18:31.22,Flashback,Nami,0000,0000,0000,,I asked Akemi about the order.
+Dialogue: 0,0:18:31.67,0:18:35.46,Flashback,Nami,0000,0000,0000,,It really was for you.
+Dialogue: 0,0:18:35.46,0:18:36.41,Flashback,Nobuaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:37.45,0:18:39.96,Flashback,Nami,0000,0000,0000,,Do you think my life
+Dialogue: 0,0:18:40.98,0:18:44.47,Flashback,Nami,0000,0000,0000,,would count as something important to you?
+Dialogue: 0,0:18:45.33,0:18:47.42,Flashback,Nobuaki,0000,0000,0000,,Don't talk crazy!
+Dialogue: 0,0:18:47.42,0:18:50.60,Flashback,Nobuaki,0000,0000,0000,,I can just break something at home!
+Dialogue: 0,0:18:51.41,0:18:55.37,Flashback,Nami,0000,0000,0000,,Being blind is harder than I thought.
+Dialogue: 0,0:18:55.37,0:19:00.68,Flashback,Nami,0000,0000,0000,,I'm too scared to go any further \Nin the King's Game, too.
+Dialogue: 0,0:19:01.11,0:19:03.53,Flashback,Nobuaki,0000,0000,0000,,Then I'll be your eyes.
+Dialogue: 0,0:19:03.53,0:19:07.31,Flashback,Nobuaki,0000,0000,0000,,And I swear I'll protect you \Nfrom the King's Game.
+Dialogue: 0,0:19:07.31,0:19:08.12,Flashback,Nobuaki,0000,0000,0000,,So please!
+Dialogue: 0,0:19:08.48,0:19:12.70,Flashback,Nami,0000,0000,0000,,I actually had something I wanted to tell you.
+Dialogue: 0,0:19:12.70,0:19:15.13,Flashback,Nami,0000,0000,0000,,But it would probably only be a bother.
+Dialogue: 0,0:19:15.13,0:19:18.38,Flashback,Nobuaki,0000,0000,0000,,Nami, please. Listen to me!
+Dialogue: 0,0:19:21.83,0:19:23.53,Flashback Italics,Nobuaki narr,0000,0000,0000,,Something important to me.
+Dialogue: 0,0:19:24.68,0:19:27.80,Flashback,Nobuaki,0000,0000,0000,,Send me the damn obedience text!
+Dialogue: 0,0:19:27.80,0:19:30.64,Flashback,Nobuaki,0000,0000,0000,,I'm smashing all the things I care about!
+Dialogue: 0,0:19:31.68,0:19:32.94,Flashback,Nobuaki,0000,0000,0000,,Why?
+Dialogue: 0,0:19:33.40,0:19:35.64,Flashback,Nobuaki,0000,0000,0000,,Why won't it come?
+Dialogue: 0,0:19:40.95,0:19:43.41,Signs,Phone,0000,0000,0000,,Hirano Nami
+Dialogue: 0,0:19:43.84,0:19:45.62,Flashback,Nobuaki,0000,0000,0000,,Hello? Nami?
+Dialogue: 0,0:19:47.52,0:19:48.97,Flashback,Nobuaki,0000,0000,0000,,It's okay now, Nami.
+Dialogue: 0,0:19:48.97,0:19:54.22,Flashback,Nobuaki,0000,0000,0000,,I was just smashing everything I have, \Nand the text came suddenly.
+Dialogue: 0,0:19:54.22,0:19:55.28,Flashback,,0000,0000,0000,,So...
+Dialogue: 0,0:19:55.28,0:19:57.17,Flashback Italics,Nami,0000,0000,0000,,That's enough, Nobuaki.
+Dialogue: 0,0:19:57.81,0:19:58.98,Flashback Italics,Nami,0000,0000,0000,,Thanks.
+Dialogue: 0,0:20:00.05,0:20:03.36,Flashback Italics,Nami,0000,0000,0000,,I won't forget the time we spent together.
+Dialogue: 0,0:20:03.36,0:20:05.43,Flashback,Nobuaki,0000,0000,0000,,Nami. Nami!
+Dialogue: 0,0:20:05.74,0:20:08.12,Flashback,Nami,0000,0000,0000,,Bye-bye, Nobuaki.
+Dialogue: 0,0:20:13.70,0:20:16.19,Flashback Italics,Chiemi,0000,0000,0000,,Nobuaki?! Finally...
+Dialogue: 0,0:20:16.19,0:20:17.69,Flashback Italics,Chiemi,0000,0000,0000,,Where are you?!
+Dialogue: 0,0:20:17.69,0:20:19.90,Flashback,Nobuaki,0000,0000,0000,,Chiemi, I...
+Dialogue: 0,0:20:20.36,0:20:22.70,Flashback,Nobuaki,0000,0000,0000,,I've been with Nami!
+Dialogue: 0,0:20:23.11,0:20:24.92,Flashback,Nobuaki,0000,0000,0000,,I hugged her and kissed her!
+Dialogue: 0,0:20:24.92,0:20:26.20,Flashback,Nobuaki,0000,0000,0000,,We had sex, too!
+Dialogue: 0,0:20:26.52,0:20:29.20,Flashback,Nobuaki,0000,0000,0000,,I love Nami now!
+Dialogue: 0,0:20:29.50,0:20:31.45,Flashback,Nobuaki,0000,0000,0000,,So break up with me!
+Dialogue: 0,0:20:31.45,0:20:34.62,Flashback Italics,Chiemi,0000,0000,0000,,Wh-Why?! What are you saying—
+Dialogue: 0,0:20:34.62,0:20:35.96,Flashback,Nobuaki,0000,0000,0000,,Don't you get it?!
+Dialogue: 0,0:20:36.42,0:20:39.34,Flashback,Nobuaki,0000,0000,0000,,We're through! I'm bored of you!
+Dialogue: 0,0:20:39.79,0:20:41.52,Flashback,Nobuaki,0000,0000,0000,,I can't stand you!
+Dialogue: 0,0:20:41.52,0:20:43.34,Flashback,Nobuaki,0000,0000,0000,,Never talk to me again!
+Dialogue: 0,0:20:44.34,0:20:46.37,Flashback Italics,Nobuaki narr,0000,0000,0000,,I'm sorry, Chiemi.
+Dialogue: 0,0:20:46.37,0:20:47.85,Flashback Italics,Nobuaki narr,0000,0000,0000,,It's my only chance right now.
+Dialogue: 0,0:20:48.42,0:20:50.71,Flashback Italics,Nobuaki,0000,0000,0000,,Please let me make it in time.
+Dialogue: 0,0:20:52.02,0:20:53.10,Flashback,Nobuaki,0000,0000,0000,,Nami!
+Dialogue: 0,0:21:09.12,0:21:11.62,sand,Text,0000,0000,0000,,Nobuaki\NI love you
+Dialogue: 0,0:21:19.84,0:21:20.88,Flashback,Nobuaki,0000,0000,0000,,Nami!
+Dialogue: 0,0:21:21.24,0:21:24.88,Flashback,,0000,0000,0000,,Nami! Nami! Nami!
+Dialogue: 0,0:21:25.40,0:21:28.68,Flashback,Nami,0000,0000,0000,,I won't forget the time we spent together.
+Dialogue: 0,0:21:29.26,0:21:31.46,Flashback,Nami,0000,0000,0000,,{\fad(1,546)}Bye-bye, Nobuaki.
+Dialogue: 0,0:21:51.16,0:21:52.66,Phone,Text Message,0000,0000,0000,,King\NSeat No. 12\NKing's Game\N\NObedience confirmed.
+Dialogue: 0,0:21:52.98,0:21:54.17,Flashback,Nobuaki narr,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:21:55.04,0:21:57.04,Flashback,Nobuaki narr,0000,0000,0000,,I'm sorry, Nami.
+Dialogue: 0,0:22:03.75,0:22:05.34,Flashback,Ria,0000,0000,0000,,What are you, stupid?
+Dialogue: 0,0:23:38.22,0:23:41.39,Next,Text,0000,0000,0000,,{\fad(238,1)}Wail {\fs12}\N(Karma | Tears)

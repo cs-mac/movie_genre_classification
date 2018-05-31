@@ -1,0 +1,5838 @@
+1
+00:00:16,503 --> 00:00:19,503
+I was in my laboratory...
+
+2
+00:00:19,840 --> 00:00:22,840
+probably talking to students.
+
+3
+00:00:26,079 --> 00:00:28,681
+Here's a call, comes out of the blue.
+
+4
+00:00:28,682 --> 00:00:29,749
+This young guy...
+
+5
+00:00:29,750 --> 00:00:32,750
+wanted to know ifthe technology
+was ready to be commercialized.
+
+6
+00:00:35,489 --> 00:00:38,090
+Then he said the magic word.
+He says'
+
+7
+00:00:38,091 --> 00:00:41,091
+"I have access to some money
+that would allow us to get started."
+
+8
+00:00:42,295 --> 00:00:45,295
+And I said, "Okay."
+
+9
+00:00:45,532 --> 00:00:48,532
+I said,
+"Where does the money originate?"
+And he said,
+
+10
+00:00:49,536 --> 00:00:52,536
+"I'm a junior member
+at a venture capital firm."
+
+11
+00:00:56,943 --> 00:00:59,779
+I went to look up what
+"venture capital" meant.
+
+12
+00:00:59,780 --> 00:01:02,548
+I had never heard ofit before.
+
+13
+00:01:07,587 --> 00:01:09,622
+The risks were just enormous.
+
+14
+00:01:09,623 --> 00:01:11,390
+They came to me
+with no business plan.
+
+15
+00:01:11,391 --> 00:01:13,793
+Willing to risk everything
+You have to be a street fighter.
+
+16
+00:01:13,794 --> 00:01:16,128
+Tick, tick, tick, tick, tick.
+We didn't know what
+we were doing.
+
+17
+00:01:16,129 --> 00:01:17,997
+Silicon Valley.
+Technical breakthrough.
+
+18
+00:01:17,998 --> 00:01:19,298
+$100000.
+A million dollars.
+
+19
+00:01:19,299 --> 00:01:20,866
+$10billion.
+Intel.
+
+20
+00:01:20,867 --> 00:01:22,168
+Apple.
+Genentech.
+
+21
+00:01:22,169 --> 00:01:23,235
+Cisco.
+Good markets.
+
+22
+00:01:23,236 --> 00:01:24,637
+Create companies.
+Growing companies.
+
+23
+00:01:24,638 --> 00:01:27,638
+The sky's the limit.
+The rest is history.
+
+24
+00:01:28,675 --> 00:01:31,675
+I don't know to write a business plan.
+I can only tell you how weread them.
+
+25
+00:01:32,779 --> 00:01:34,680
+And we start at the back.
+
+26
+00:01:34,681 --> 00:01:37,681
+And ifthe numbers are big,
+we look at the front to see
+what kind ofbusiness it is.
+
+27
+00:01:43,356 --> 00:01:46,356
+You have to look at the way
+conventional wisdom works
+and abandon it.
+
+28
+00:01:51,698 --> 00:01:54,698
+No one
+has ever accused me
+ofunderestimating...
+
+29
+00:01:55,001 --> 00:01:58,001
+myself.
+
+30
+00:02:02,375 --> 00:02:05,375
+Jobs and Wozniak came up to see me.
+
+31
+00:02:06,713 --> 00:02:09,713
+Steve Jobs is a national treasure.
+
+32
+00:02:10,050 --> 00:02:13,050
+He is so visionary and so bright.
+
+33
+00:02:14,154 --> 00:02:17,154
+Uh, I had to fire him though.
+
+34
+00:02:23,830 --> 00:02:26,830
+These men didn't always wield
+such influence and power.
+
+35
+00:02:28,335 --> 00:02:31,335
+In the beginning, they barely
+knew what they were doing.
+
+36
+00:02:32,172 --> 00:02:35,172
+Fifty years ago, they were just
+young guys from modest means...
+
+37
+00:02:36,243 --> 00:02:39,243
+who thought they could
+help build innovative companies.
+
+38
+00:02:40,180 --> 00:02:42,681
+This is the story ofa handful ofmen...
+
+39
+00:02:42,682 --> 00:02:45,682
+who stirred up a revolution
+in finance and technology,
+
+40
+00:02:46,353 --> 00:02:49,353
+because they saw opportunity
+where others only saw risk.
+
+41
+00:03:14,314 --> 00:03:16,882
+Venture capital.
+
+42
+00:03:16,883 --> 00:03:19,883
+I don't think I thought ofit first.
+
+43
+00:03:23,657 --> 00:03:25,090
+But I don't know
+anyone...
+
+44
+00:03:25,091 --> 00:03:28,091
+who used the term before I did.
+
+45
+00:03:34,501 --> 00:03:36,835
+Back in the spring of1957,
+
+46
+00:03:36,836 --> 00:03:39,836
+Arthur Rock was just
+a junior banker on Wall Street.
+
+47
+00:03:40,507 --> 00:03:43,507
+But then one day, an unsolicited letter
+arrived at the office.
+
+48
+00:03:45,145 --> 00:03:48,145
+The letter was unusual,
+and no one else at his brokerage firm
+knew what to do with it.
+
+49
+00:03:50,383 --> 00:03:52,184
+It was a cry for help.
+
+50
+00:03:52,185 --> 00:03:55,185
+And it would forever change
+the trajectory ofArthur Rock's life.
+
+51
+00:03:57,157 --> 00:03:59,592
+You gotta be lucky.
+
+52
+00:03:59,593 --> 00:04:02,593
+Everybody's gonna be lucky
+at some time or another.
+
+53
+00:04:02,596 --> 00:04:05,596
+Thing I'd say is,
+I was lucky to be lucky early.
+
+54
+00:04:08,702 --> 00:04:10,869
+The letter on Arthur Rock's desk...
+
+55
+00:04:10,870 --> 00:04:13,839
+had come from eight engineers
+in California.
+
+56
+00:04:15,475 --> 00:04:17,476
+A group ofbrilliant young men...
+
+57
+00:04:17,477 --> 00:04:20,477
+who would soon become known
+as "the Traitorous Eight."
+
+58
+00:04:22,816 --> 00:04:25,784
+We were young guys.
+
+59
+00:04:25,785 --> 00:04:28,785
+A bunch ofyoung engineers
+and scientists mostly...
+
+60
+00:04:31,291 --> 00:04:34,291
+working together
+at Shockley Semiconductor.
+
+61
+00:04:36,496 --> 00:04:39,496
+They were having a hard time with
+Shockley, and they were gonna leave.
+
+62
+00:04:41,501 --> 00:04:44,501
+Things had deteriorated
+at Shockley Lab.
+
+63
+00:04:45,005 --> 00:04:48,005
+He was a very difficult person
+to work with.
+
+64
+00:04:48,408 --> 00:04:51,408
+And a group ofus started considering
+the possibility at least ofleaving.
+
+65
+00:04:53,513 --> 00:04:56,015
+So anyhow, we did write-
+
+66
+00:04:56,016 --> 00:04:59,016
+"'This prospectus is to introduce
+a group ofsenior scientists
+and engineers...
+
+67
+00:05:02,422 --> 00:05:05,422
+who have been working
+together at the Shockley
+Semiconductor Laboratory."
+
+68
+00:05:07,894 --> 00:05:10,262
+Shockley had just won a Nobel Prize.
+
+69
+00:05:10,263 --> 00:05:13,263
+It was probably a little presumptuous
+ofus to think we could push him aside.
+
+70
+00:05:14,668 --> 00:05:17,668
+"A group feeling arose
+to the effect...
+
+71
+00:05:17,971 --> 00:05:20,739
+that rather than leave one by one,
+
+72
+00:05:20,740 --> 00:05:23,740
+we believe that we are much more
+valuable to an employer as a group."
+
+73
+00:05:31,651 --> 00:05:34,651
+These were, by their résumés,
+very superior people,
+
+74
+00:05:35,955 --> 00:05:38,724
+and I thought, "Gee, maybe
+there's something here."
+
+75
+00:05:38,725 --> 00:05:41,725
+Something more valuable
+than just to be an employee.
+
+76
+00:05:44,331 --> 00:05:46,065
+That "something" that Arthur saw...
+
+77
+00:05:46,066 --> 00:05:49,066
+inspired him to step out ofhis
+ordinary role as a Wall Street banker.
+
+78
+00:05:51,237 --> 00:05:54,237
+And that's when we met
+Arthur Rock.
+
+79
+00:05:55,008 --> 00:05:58,008
+Arthur came out to meet
+with the group ofus.
+
+80
+00:05:58,812 --> 00:06:01,812
+And Arthur said, "You ought to
+start your own company,
+and we'll find financing for you."
+
+81
+00:06:04,784 --> 00:06:07,486
+They hadn't thought
+ofthis idea themselves.
+
+82
+00:06:07,487 --> 00:06:10,487
+Nobody thought ofstarting
+their own company in those days.
+
+83
+00:06:10,657 --> 00:06:12,658
+It was a new idea,
+but it was a good one.
+
+84
+00:06:12,659 --> 00:06:15,659
+At that time, there was
+no venture capital,
+
+85
+00:06:16,129 --> 00:06:18,030
+so starting companies was new.
+
+86
+00:06:18,031 --> 00:06:20,032
+It was innovative.
+
+87
+00:06:20,033 --> 00:06:23,033
+Arthur Rock had to
+get creative about finding capital
+for the Traitorous Eight.
+
+88
+00:06:24,804 --> 00:06:27,804
+His bank had contacts with
+rich families like the Rockefellers
+and the Whitneys,
+
+89
+00:06:29,509 --> 00:06:32,509
+but they weren't interested
+in backing a start-up
+all the way out in California.
+
+90
+00:06:34,981 --> 00:06:37,981
+So we, uh, made a list
+ofcompanies.
+
+91
+00:06:40,987 --> 00:06:42,888
+In fact we sat down with
+the Wall Street Journal-
+
+92
+00:06:42,889 --> 00:06:45,889
+Looking for companies to ask
+to invest in these eight fellas
+in forming a new company.
+
+93
+00:06:50,630 --> 00:06:53,630
+I think we had 35 companies.
+
+94
+00:06:54,167 --> 00:06:57,167
+All of them said no. "No!"
+
+95
+00:07:04,344 --> 00:07:06,078
+The attempt
+to start a new company...
+
+96
+00:07:06,079 --> 00:07:07,713
+might have ended
+then and there,
+
+97
+00:07:07,714 --> 00:07:10,182
+with the Traitorous Eight
+returning to their job search...
+
+98
+00:07:10,183 --> 00:07:13,118
+and Arthur Rock admitting defeat.
+
+99
+00:07:13,119 --> 00:07:16,119
+But then Arthur received
+one last lead.
+
+100
+00:07:16,856 --> 00:07:19,856
+We were pretty much at wits, end.
+
+101
+00:07:20,126 --> 00:07:23,126
+And somebody suggested
+that I see Sherman Fairchild.
+
+102
+00:07:25,565 --> 00:07:28,565
+Sherman Fairchild was
+an entrepreneur himself...
+
+103
+00:07:28,935 --> 00:07:31,935
+and also a very wealthy man.
+
+104
+00:07:32,572 --> 00:07:35,572
+He right away saw the possibilities,
+
+105
+00:07:36,476 --> 00:07:39,476
+and decided that Fairchild
+Camera and Instrument...
+
+106
+00:07:40,580 --> 00:07:43,580
+would invest the million and a half
+dollars we were looking for.
+
+107
+00:07:45,351 --> 00:07:48,351
+I call myself
+"the accidental entrepreneur."
+
+108
+00:07:50,824 --> 00:07:53,158
+With the 1.5 million Arthur raised,
+
+109
+00:07:53,159 --> 00:07:56,159
+the Traitorous Eight started
+Fairchild Semiconductor
+in Mountain View, California,
+
+110
+00:07:58,097 --> 00:08:01,097
+a sleepy rural town
+35 miles south ofSan Francisco.
+
+111
+00:08:04,437 --> 00:08:07,437
+Fairchild was the first company
+to manufacture...
+
+112
+00:08:07,474 --> 00:08:10,474
+the sophisticated silicon chips
+that would power computers,
+
+113
+00:08:10,877 --> 00:08:13,877
+rockets and spacecraft,
+
+114
+00:08:14,113 --> 00:08:17,113
+paving the way
+for the high-tech age.
+
+115
+00:08:19,152 --> 00:08:21,987
+In time, the fruit orchards
+surrounding Fairchild...
+
+116
+00:08:21,988 --> 00:08:24,790
+would give way
+to electronics companies,
+
+117
+00:08:24,791 --> 00:08:27,791
+and the area would become famous
+as the Silicon Valley.
+
+118
+00:08:30,163 --> 00:08:33,163
+Ifthey hadn't
+stayed together and formed
+Fairchild Semiconductor,
+
+119
+00:08:33,700 --> 00:08:36,700
+probably there'd be
+no silicon in Silicon Valley.
+
+120
+00:08:39,706 --> 00:08:42,706
+♪♪
+
+121
+00:08:45,445 --> 00:08:48,445
+Arthur Rock
+had gotten a taste ofsomething
+exciting and significant.
+
+122
+00:08:49,449 --> 00:08:51,583
+But as it tu ns out,
+he wasn't the only one...
+
+123
+00:08:51,584 --> 00:08:54,584
+trying to figgure out
+how to fund young companies.
+
+124
+00:08:54,654 --> 00:08:57,556
+Just up the road from Fairchild,
+a handful ofbusinessmen...
+
+125
+00:08:57,557 --> 00:09:00,557
+were experimenting with their own
+version ofventure capital...
+
+126
+00:09:01,060 --> 00:09:04,060
+together, around a lunch table
+in San Francisco.
+
+127
+00:09:04,597 --> 00:09:07,597
+♪ The best things in life
+are free ♪
+
+128
+00:09:07,967 --> 00:09:10,736
+♪ But you can give them
+to the birds and bees ♪
+
+129
+00:09:10,737 --> 00:09:13,205
+♪ I need money ♪
+
+130
+00:09:13,206 --> 00:09:15,440
+In the '50s and '60s,
+
+131
+00:09:15,441 --> 00:09:18,410
+there were a group ofus
+in San Francisco
+that used to get interested...
+
+132
+00:09:18,411 --> 00:09:21,411
+in small, high-tech companies
+down the peninsula.
+
+133
+00:09:21,748 --> 00:09:24,683
+There were, I think, five ofus
+in our group.
+
+134
+00:09:24,684 --> 00:09:27,684
+We all had jobs, but we had
+other time on our hands too,
+
+135
+00:09:28,888 --> 00:09:31,888
+and we decided we just would put
+a little investment club together.
+
+136
+00:09:32,058 --> 00:09:34,293
+We were just a bunch of
+young men in San Francisco...
+
+137
+00:09:34,294 --> 00:09:36,194
+who knew each other
+and respected each other.
+
+138
+00:09:36,195 --> 00:09:39,195
+What it was like was
+a very close fraternity.
+
+139
+00:09:39,465 --> 00:09:41,800
+I guess I can use
+that word carefully.
+
+140
+00:09:41,801 --> 00:09:44,636
+We'd have a table
+ofsix or eight for lunch.
+
+141
+00:09:44,637 --> 00:09:47,637
+None ofus had enough money
+to do an investment by ourselves,
+so we had to have help.
+
+142
+00:09:51,244 --> 00:09:53,946
+Ifone ofus ran across
+an entrepreneur...
+
+143
+00:09:53,947 --> 00:09:56,947
+who was trying to start a company,
+we would invite him up for lunch.
+
+144
+00:09:57,050 --> 00:10:00,050
+And after lunch, we would
+ask him to step out onto
+the street corner for a while.
+
+145
+00:10:02,221 --> 00:10:04,990
+Give us 10 minutes,
+and we would make up our mind
+as to whether we wanted...
+
+146
+00:10:04,991 --> 00:10:07,492
+to invest in his company or not.
+
+147
+00:10:07,493 --> 00:10:09,027
+I don't remember that.
+
+148
+00:10:09,028 --> 00:10:10,596
+We didn't do that.
+
+149
+00:10:10,597 --> 00:10:12,331
+We were too classy to do that.
+
+150
+00:10:12,332 --> 00:10:14,132
+That's a little bit quick, I think.
+
+151
+00:10:14,133 --> 00:10:17,133
+Ifthe guy's a real nut'
+why, you'd say good-bye to him...
+
+152
+00:10:17,337 --> 00:10:20,337
+without asking him
+to go get a cup ofcoffee.
+
+153
+00:10:21,808 --> 00:10:24,276
+Two members of the group
+wanted to do even more...
+
+154
+00:10:24,277 --> 00:10:27,277
+than gather around
+a lunch table every six weeks.
+
+155
+00:10:27,580 --> 00:10:30,580
+In 1962,
+Pitch Johnson and Bill Draper...
+
+156
+00:10:31,184 --> 00:10:33,952
+put up all their personal savings,
+quit their day jobs...
+
+157
+00:10:33,953 --> 00:10:36,953
+to form a partnership,
+and hit the streets.
+
+158
+00:10:37,023 --> 00:10:40,023
+Pitch and I each got a Pontiac leased,
+
+159
+00:10:40,193 --> 00:10:43,193
+and went around
+and knocked on doors.
+
+160
+00:10:44,063 --> 00:10:47,063
+And ifit sounded
+like ABC Electronics,
+
+161
+00:10:48,635 --> 00:10:51,635
+then we'd go in, ask the president
+to sit down and tell us,
+"What do you do?"
+
+162
+00:10:52,238 --> 00:10:53,905
+You know.
+"Well, what do you do?"
+
+163
+00:10:53,906 --> 00:10:55,841
+"Well, venture capital."
+"What's that?"
+
+164
+00:10:55,842 --> 00:10:57,843
+My kids would go to school.
+"What does your dad do?"
+
+165
+00:10:57,844 --> 00:11:00,512
+"My dad's a policeman."
+"My dad's a fireman."
+"My dad's a banker."
+
+166
+00:11:00,513 --> 00:11:03,513
+"And what does your dad do?"
+"Oh, he's a venture capitalist."
+
+167
+00:11:04,183 --> 00:11:07,183
+"Dad, what do you do actually?"
+You know?
+
+168
+00:11:08,221 --> 00:11:11,221
+We were just stumbling around,
+trying to figure out what to do.
+
+169
+00:11:11,658 --> 00:11:14,658
+But we just knew that ifwe got
+involved with good people
+and good markets,
+
+170
+00:11:15,328 --> 00:11:17,162
+we could probably
+build a company.
+
+171
+00:11:17,163 --> 00:11:18,597
+Growing companies.
+
+172
+00:11:18,598 --> 00:11:21,266
+Create companies.
+
+173
+00:11:21,267 --> 00:11:24,267
+You're helping to create something
+where nothing existed before.
+
+174
+00:11:25,571 --> 00:11:28,571
+And quite a large community
+gets sustenance...
+
+175
+00:11:29,175 --> 00:11:32,175
+that wouldn't have existed
+unless you had gotten together
+with this entrepreneur...
+
+176
+00:11:33,413 --> 00:11:36,413
+and his team
+and helped him along the way.
+
+177
+00:11:40,620 --> 00:11:43,121
+The Lunch Group had established
+a good formula.
+
+178
+00:11:43,122 --> 00:11:46,122
+Everyone was sharing
+in the profits and success
+at these fledgling companies.
+
+179
+00:11:48,695 --> 00:11:51,695
+But over at Fairchild
+it was a different story.
+
+180
+00:11:52,632 --> 00:11:55,632
+Fairchild was an imperfect vehicle.
+
+181
+00:11:59,105 --> 00:12:02,105
+I joined Fairchild
+at the end of the '50s.
+
+182
+00:12:03,810 --> 00:12:06,810
+I was not part of the Traitorous Eight.
+
+183
+00:12:09,415 --> 00:12:12,415
+Fairchild was owned
+by a corporation.
+
+184
+00:12:14,787 --> 00:12:16,421
+An eastern corporation,
+
+185
+00:12:16,422 --> 00:12:19,422
+and the sense of
+division ofequity...
+
+186
+00:12:19,592 --> 00:12:22,592
+was both unknown to them
+and repugnant to them.
+
+187
+00:12:24,731 --> 00:12:27,731
+All of the East Coast companies
+had this hierarchy.
+
+188
+00:12:29,502 --> 00:12:32,170
+And they didn't understand...
+
+189
+00:12:32,171 --> 00:12:35,171
+about giving options
+to all the employees...
+
+190
+00:12:36,576 --> 00:12:39,576
+the way West Coast start-ups
+saw fit to do.
+
+191
+00:12:41,180 --> 00:12:44,180
+So none of the people
+in Fairchild, including me,
+
+192
+00:12:46,452 --> 00:12:49,452
+had any kind ofsignificant
+ownership position.
+
+193
+00:12:52,525 --> 00:12:55,427
+So, in the early '60s,
+
+194
+00:12:55,428 --> 00:12:58,428
+people began leaving Fairchild
+to set up start-ups...
+
+195
+00:12:59,599 --> 00:13:02,599
+and to begin to participate
+in what people correctly realized...
+
+196
+00:13:04,103 --> 00:13:07,103
+was going to be
+something special.
+
+197
+00:13:12,411 --> 00:13:15,411
+Meanwhile,
+back at his desk in New York-
+
+198
+00:13:15,715 --> 00:13:18,715
+Well, I had wanted to do more
+of these venture capital type deals,
+
+199
+00:13:20,987 --> 00:13:23,822
+but the money was all in the east.
+
+200
+00:13:23,823 --> 00:13:26,823
+And the scientists who had moved
+from the east to the west...
+
+201
+00:13:28,127 --> 00:13:29,594
+had all the ideas.
+
+202
+00:13:29,595 --> 00:13:32,595
+So I saw a great opportunity
+in bringing the East Coast money out...
+
+203
+00:13:34,801 --> 00:13:37,801
+backing these people
+on the West Coast.
+
+204
+00:13:38,037 --> 00:13:40,272
+"Go West, young man."
+
+205
+00:13:40,273 --> 00:13:43,273
+In 1961,
+Arthur Rock raised five million dollars
+from East Coast investors...
+
+206
+00:13:46,445 --> 00:13:49,445
+and moved to San Francisco
+to start his own
+venture capital firm.
+
+207
+00:13:51,083 --> 00:13:52,684
+He found a partner in Tommy Davis,
+
+208
+00:13:52,685 --> 00:13:55,685
+who had been managing investments
+for a California oil company.
+
+209
+00:13:58,257 --> 00:14:01,257
+Davis and Rock quickly became
+the biggest venture players in town,
+
+210
+00:14:02,762 --> 00:14:05,762
+funding a series ofhugely
+successful technology companies.
+
+211
+00:14:07,500 --> 00:14:10,500
+And in the close-knit
+Silicon Valley community
+of the 1960s,
+
+212
+00:14:11,037 --> 00:14:13,839
+it was only a matter oftime
+before Arthur Rock...
+
+213
+00:14:13,840 --> 00:14:16,840
+would once again cross paths
+with the Traitorous Eight.
+
+214
+00:14:26,152 --> 00:14:29,152
+Throughout the 1960s,
+Fairchild was bleeding talent.
+
+215
+00:14:30,156 --> 00:14:32,791
+The lure ofstock options
+and independence...
+
+216
+00:14:32,792 --> 00:14:35,393
+inspired many of
+the brilliant young engineers...
+
+217
+00:14:35,394 --> 00:14:38,394
+to peel off
+and start their own companies.
+
+218
+00:14:38,931 --> 00:14:41,931
+But Gordon Moore and Bob Noyce,
+its two most important founders,
+
+219
+00:14:42,602 --> 00:14:44,803
+remained loyal to their company-
+
+220
+00:14:44,804 --> 00:14:47,105
+until May of1968,
+
+221
+00:14:47,106 --> 00:14:50,106
+when Fairchild's East Coast
+management made a fatal mistake.
+
+222
+00:14:52,311 --> 00:14:55,311
+Noyce was the logical internal
+candidate to be the next C.E.O.
+
+223
+00:14:57,984 --> 00:15:00,984
+But they decided they were gonna
+look on the outside.
+
+224
+00:15:01,687 --> 00:15:04,687
+That changed the whole ball game.
+
+225
+00:15:05,258 --> 00:15:08,258
+Noyce said, "I'm gonna leave.
+Are you interested?"
+
+226
+00:15:14,400 --> 00:15:17,400
+So I said, "Okay. Let's do it."
+
+227
+00:15:20,106 --> 00:15:22,574
+They needed financing,
+and they called me...
+
+228
+00:15:22,575 --> 00:15:25,575
+to see whether I'd be interested.
+
+229
+00:15:25,811 --> 00:15:27,812
+They came to me
+with no business plan,
+
+230
+00:15:27,813 --> 00:15:30,813
+other than what they verbally
+said they wanted to do.
+
+231
+00:15:31,951 --> 00:15:34,951
+Arthur said he needed something
+to talk to potential investors with.
+
+232
+00:15:35,821 --> 00:15:38,821
+Just to give people something.
+
+233
+00:15:40,159 --> 00:15:42,961
+We wrote a business plan,
+and it was one page-
+
+234
+00:15:42,962 --> 00:15:44,896
+Double-spaced,
+and that was it.
+
+235
+00:15:47,500 --> 00:15:50,500
+It just says we were going
+to make things out ofsilicon,
+
+236
+00:15:50,836 --> 00:15:53,836
+and some interesting
+electronic devices.
+
+237
+00:15:54,140 --> 00:15:57,140
+Oh, I said in general terms
+we were going to make memories.
+
+238
+00:15:57,610 --> 00:16:00,610
+It has lots oftypos in it.
+I think Bob typed it himself.
+
+239
+00:16:03,482 --> 00:16:06,482
+It's not a very profound document,
+but it's really kind ofcute.
+
+240
+00:16:12,024 --> 00:16:13,892
+I said, "How much money
+do you need?"
+
+241
+00:16:13,893 --> 00:16:16,628
+And they said,
+"Two and a halfmillion dollars."
+
+242
+00:16:16,629 --> 00:16:19,629
+And I said, "Okay."
+
+243
+00:16:19,799 --> 00:16:22,567
+"What percentage
+of the company do you think
+you'd be happy giving up...
+
+244
+00:16:22,568 --> 00:16:25,568
+for two and a half
+million dollars?"
+
+245
+00:16:26,639 --> 00:16:29,639
+And they thought and said,
+"Well, how about half?"
+
+246
+00:16:30,209 --> 00:16:33,209
+And I said, "That's fine."
+
+247
+00:16:34,413 --> 00:16:36,214
+And within a day and a half,
+
+248
+00:16:36,215 --> 00:16:39,215
+I had raised two and a half
+million dollars.
+
+249
+00:16:46,459 --> 00:16:49,459
+Intel opened its doors in July of'68,
+
+250
+00:16:49,795 --> 00:16:52,795
+and Arthur Rock's partnership
+with its founders
+was only just beginning.
+
+251
+00:16:54,166 --> 00:16:57,166
+Arthur was our chairman
+of the board in those days.
+
+252
+00:16:57,937 --> 00:17:00,937
+I spent a lot oftime there.
+
+253
+00:17:02,174 --> 00:17:05,174
+Venture capitalists
+do write the check,
+
+254
+00:17:05,578 --> 00:17:08,413
+but that isn't all we do.
+
+255
+00:17:08,414 --> 00:17:11,414
+Writing a check is easy.
+
+256
+00:17:11,851 --> 00:17:14,851
+Yeah, it doesn't take much ink.
+
+257
+00:17:19,258 --> 00:17:21,126
+I attended staffmeetings.
+
+258
+00:17:21,127 --> 00:17:22,861
+Arthur asked good questions.
+
+259
+00:17:22,862 --> 00:17:24,896
+I was on the phone to them a lot.
+
+260
+00:17:24,897 --> 00:17:26,965
+Was an excellent board member.
+Offer advice.
+
+261
+00:17:26,966 --> 00:17:29,000
+Planning.
+Setting up an audit committee.
+
+262
+00:17:29,001 --> 00:17:31,269
+Customer relations.
+Interviewed a lot ofpeople.
+
+263
+00:17:31,270 --> 00:17:33,805
+Built all the pieces
+ofan enterprise.
+
+264
+00:17:33,806 --> 00:17:36,806
+I just brought what I consider
+common sense to the table.
+
+265
+00:17:37,910 --> 00:17:40,910
+He even met his wife there.
+
+266
+00:17:43,049 --> 00:17:46,049
+He gave us guidance
+on when not to go public
+as well as when to go public.
+
+267
+00:17:49,088 --> 00:17:51,156
+I was very involved in that.
+
+268
+00:17:51,157 --> 00:17:54,157
+This was all new to Intel,
+but wasn't new to me.
+
+269
+00:17:55,094 --> 00:17:58,094
+We went public the same day
+that Playboy Enterprises went public.
+
+270
+00:18:01,634 --> 00:18:03,668
+At the same price.
+
+271
+00:18:03,669 --> 00:18:06,669
+And a few years later
+one of the analysts says,
+
+272
+00:18:07,673 --> 00:18:10,673
+"The market has spoken.
+It's memories over mammaries,
+10-to-1."
+
+273
+00:18:17,249 --> 00:18:20,249
+♪ Andthehome of the ♪
+
+274
+00:18:21,554 --> 00:18:23,621
+♪ Brave ♪
+
+275
+00:18:23,622 --> 00:18:26,622
+♪♪
+
+276
+00:18:44,610 --> 00:18:47,610
+♪ You know there's lots ofthings
+that I'd like to do ♪
+
+277
+00:18:48,481 --> 00:18:50,882
+♪ Yeah, child,
+I want to do them with you ♪
+
+278
+00:18:50,883 --> 00:18:52,951
+♪ And that takes money ♪
+
+279
+00:18:52,952 --> 00:18:55,952
+♪ Hey, look at those power men
+Yeah, lots ofmoney, child ♪
+
+280
+00:18:56,322 --> 00:18:59,322
+♪♪
+
+281
+00:19:05,764 --> 00:19:08,299
+Shortly after Arthur Rock
+went out on his own,
+
+282
+00:19:08,300 --> 00:19:10,835
+Forbes profiled him
+in an article that caught the eye...
+
+283
+00:19:10,836 --> 00:19:13,771
+ofa young investment manager
+in Boston.
+
+284
+00:19:13,772 --> 00:19:16,307
+When they said,
+"Well, now that you and Mr. Davis...
+
+285
+00:19:16,308 --> 00:19:18,076
+are doing separate things,
+what are you going to do?"
+
+286
+00:19:18,077 --> 00:19:21,012
+He said, "Well, I'm gonna
+find a younger partner
+and do it all over again."
+
+287
+00:19:21,013 --> 00:19:24,013
+And I said, "You know, gee."
+
+288
+00:19:24,617 --> 00:19:27,617
+I had never even-
+I mean, it was a light bulb.
+
+289
+00:19:29,788 --> 00:19:32,423
+And I sat down and I wrote him
+a longhand letter.
+
+290
+00:19:32,424 --> 00:19:35,424
+And I never had ever done
+anything like this before.
+
+291
+00:19:35,928 --> 00:19:38,663
+The following Monday
+I got a telephone call.
+
+292
+00:19:38,664 --> 00:19:41,299
+"Mr. Rock's on the line."
+I said, "Really?"
+
+293
+00:19:41,300 --> 00:19:44,300
+Dick's letter was very intriguing.
+
+294
+00:19:44,737 --> 00:19:47,737
+He's just generally knowledgeable
+and on the same, uh, piano as I was.
+
+295
+00:19:51,076 --> 00:19:54,076
+And then I found out later
+that there were over a thousand
+responses to the article.
+
+296
+00:19:56,549 --> 00:19:59,549
+And that Arthur had
+a handwriting expert
+that analyzed my letter.
+
+297
+00:20:01,453 --> 00:20:03,555
+Isn't that funny?
+
+298
+00:20:03,556 --> 00:20:06,556
+So that's how I got
+in the venture business.
+
+299
+00:20:12,631 --> 00:20:14,933
+Well, you know,
+there are no firm rules...
+
+300
+00:20:14,934 --> 00:20:16,968
+in the venture capital business,
+
+301
+00:20:16,969 --> 00:20:19,037
+except that there are no firm rules.
+
+302
+00:20:19,038 --> 00:20:22,038
+Did you have any problems
+in convincing your colleagues?
+
+303
+00:20:22,308 --> 00:20:25,308
+Oh, yeah, they thought I was
+out ofmy mind on this one.
+
+304
+00:20:26,278 --> 00:20:29,278
+By the early '70s, inspired
+by the success ofArthur Rock,
+
+305
+00:20:30,282 --> 00:20:33,251
+more members of the Lunch Group
+began to quit their day jobs...
+
+306
+00:20:33,252 --> 00:20:35,753
+and setup
+their own venture funds.
+
+307
+00:20:35,754 --> 00:20:38,754
+Reid Dennis gave notice
+to his boss at American Express.
+
+308
+00:20:39,658 --> 00:20:42,658
+He said, "Reid, are you sure
+this is what you want to do?"
+
+309
+00:20:42,728 --> 00:20:45,728
+I said, "Bill, I've never been
+so sure ofanything in all my life."
+
+310
+00:20:46,365 --> 00:20:48,866
+He said, "Well, wereally
+don't want you to go,
+
+311
+00:20:48,867 --> 00:20:51,867
+but ifyou're determined to go'
+you ought to take
+some ofour money with you."
+
+312
+00:20:54,373 --> 00:20:56,474
+And that's what gave
+us the impetus...
+
+313
+00:20:56,475 --> 00:20:59,475
+to start Institutional
+Venture Associates.
+
+314
+00:21:00,913 --> 00:21:03,913
+A career
+in venture capital now
+seemed so alluring,
+
+315
+00:21:04,049 --> 00:21:06,050
+and potentially so profitable,
+
+316
+00:21:06,051 --> 00:21:09,051
+it was attracting people
+outside offinance.
+
+317
+00:21:09,722 --> 00:21:11,322
+Two Silicon Valley engineers,
+
+318
+00:21:11,323 --> 00:21:14,323
+Eugene Kleiner and Tom Perkins,
+
+319
+00:21:14,560 --> 00:21:16,828
+formed what would become
+one of the most successful...
+
+320
+00:21:16,829 --> 00:21:19,829
+venture firms ofall time.
+
+321
+00:21:21,467 --> 00:21:24,467
+Well, I sort ofgot into venture
+capital by the back door.
+
+322
+00:21:26,071 --> 00:21:29,071
+I was working for the
+Hewlett-Packard company...
+
+323
+00:21:29,775 --> 00:21:32,775
+when I had an idea
+for a radically improved
+kind oflaser.
+
+324
+00:21:34,580 --> 00:21:37,048
+And then I started a company...
+
+325
+00:21:37,049 --> 00:21:39,217
+to manufacture the lasers.
+
+326
+00:21:39,218 --> 00:21:40,852
+When it was all over I realized,
+
+327
+00:21:40,853 --> 00:21:43,288
+gee, I had been
+a venture capitalist.
+
+328
+00:21:43,289 --> 00:21:46,289
+I put up the money.
+I put up the management.
+
+329
+00:21:47,660 --> 00:21:50,660
+So then when I met Gene Kleiner,
+who had left Fairchild,
+
+330
+00:21:52,097 --> 00:21:55,097
+we were both planning
+to go into the venture
+capital business.
+
+331
+00:21:56,869 --> 00:21:59,869
+And werealized
+we complemented each other.
+
+332
+00:22:01,307 --> 00:22:03,541
+I mean I'm pretty intense
+and high-strung'
+
+333
+00:22:03,542 --> 00:22:06,044
+and Gene was
+sort ofcalm and portly...
+
+334
+00:22:06,045 --> 00:22:09,045
+and had a soothing
+Viennese accent.
+
+335
+00:22:10,115 --> 00:22:13,115
+Eugene was just brilliant.
+He was fun to be with.
+
+336
+00:22:14,820 --> 00:22:17,820
+I remember once we met
+an entrepreneur,
+
+337
+00:22:17,823 --> 00:22:20,758
+and after he left I said, "Gene,
+
+338
+00:22:20,759 --> 00:22:23,759
+you know, do you trust him?"
+
+339
+00:22:24,163 --> 00:22:27,163
+And Gene said,
+"I would trust him with my life,
+but not my money."
+
+340
+00:22:32,838 --> 00:22:35,740
+And that's how it started.
+
+341
+00:22:35,741 --> 00:22:38,276
+We hung out our shingle'
+
+342
+00:22:38,277 --> 00:22:40,311
+and nothing happened.
+
+343
+00:22:40,312 --> 00:22:43,312
+The phone didn't ring.
+We had a part-time secretary-
+
+344
+00:22:44,016 --> 00:22:46,284
+We called out,
+nobody called in.
+
+345
+00:22:46,285 --> 00:22:49,285
+We saw some deals,
+and we did some deals.
+
+346
+00:22:51,256 --> 00:22:54,256
+We lost money
+in our original deals.
+
+347
+00:22:55,194 --> 00:22:57,962
+And I'll mention them,
+even though they were
+very embarrassing.
+
+348
+00:22:57,963 --> 00:23:00,963
+The most notorious,
+and maybe the funniest'
+
+349
+00:23:01,266 --> 00:23:02,867
+was a company called Snow Job-
+
+350
+00:23:04,203 --> 00:23:07,203
+Which was a scheme to convert
+motorcycles into snowmobiles...
+
+351
+00:23:08,474 --> 00:23:10,108
+and back and forth.
+
+352
+00:23:10,109 --> 00:23:12,877
+Which actually worked,
+and it was a lot offun,
+
+353
+00:23:12,878 --> 00:23:15,878
+But one of the fuel crises
+landed at about the time we were
+ready to go into production,
+
+354
+00:23:18,484 --> 00:23:21,484
+and we couldn't get distributors,
+and, uh, so it failed.
+
+355
+00:23:26,825 --> 00:23:29,825
+So Eugene and I thought'
+you know, "This is not working.
+
+356
+00:23:30,129 --> 00:23:33,129
+We've got to do
+something differently."
+
+357
+00:23:39,004 --> 00:23:42,004
+Tandem was a huge risk
+for Kleiner Perkins.
+
+358
+00:23:42,007 --> 00:23:45,007
+IfTandem had failed,
+there would have never been
+a second Kleiner Perkins fund.
+
+359
+00:23:51,016 --> 00:23:53,418
+I think I was 33.
+
+360
+00:23:53,419 --> 00:23:56,419
+I was young, in terms ofpeople
+starting companies,
+
+361
+00:23:57,556 --> 00:23:59,791
+but there weren't a lot
+ofpeople starting companies, so-
+
+362
+00:24:01,226 --> 00:24:04,226
+Well, Jimmy Treybig-
+very smart guy.
+Very impressive.
+
+363
+00:24:06,632 --> 00:24:09,632
+He had this idea,
+which he'd carried-
+
+364
+00:24:09,902 --> 00:24:12,902
+not the technical part ofit,
+but the need...
+
+365
+00:24:13,739 --> 00:24:15,973
+for a truly fault-tolerant
+computer.
+
+366
+00:24:15,974 --> 00:24:18,974
+A computer
+that would never fail.
+
+367
+00:24:20,512 --> 00:24:23,512
+At that time, for instance,
+the New York Stock Exchange...
+
+368
+00:24:23,749 --> 00:24:26,749
+would fail about every day,
+or every other day.
+
+369
+00:24:27,986 --> 00:24:30,986
+And something
+would go wrong in it,
+and it would destroy data.
+
+370
+00:24:37,162 --> 00:24:39,897
+People knew the problem,
+but they didn't have a solution.
+
+371
+00:24:39,898 --> 00:24:42,898
+So just think ofit.
+I mean, credit checking,
+airline reservations, banking.
+
+372
+00:24:43,535 --> 00:24:45,136
+All financial things.
+
+373
+00:24:45,137 --> 00:24:47,605
+- Hospitals.
+- All communications.
+
+374
+00:24:47,606 --> 00:24:49,507
+Just all kinds ofthings...
+
+375
+00:24:49,508 --> 00:24:52,508
+where it's just not acceptable
+to have the computer go down.
+
+376
+00:24:55,814 --> 00:24:58,015
+We knew-Tom and I knew-
+
+377
+00:24:58,016 --> 00:25:01,016
+that ifwe could figure out
+a different kind
+ofcomputer architecture...
+
+378
+00:25:01,687 --> 00:25:04,687
+to solve this problem,
+that we could create a big company.
+
+379
+00:25:09,228 --> 00:25:12,228
+The problem was IBM had won
+the mainframe battle in '74.
+
+380
+00:25:13,465 --> 00:25:16,465
+And there was an article
+that said there would never
+be a new computer company.
+
+381
+00:25:18,570 --> 00:25:20,605
+Never. That was '74.
+
+382
+00:25:20,606 --> 00:25:23,606
+And the cover was a picture
+ofa shark,
+
+383
+00:25:24,943 --> 00:25:27,943
+and IBM was eating up
+every company.
+
+384
+00:25:29,882 --> 00:25:32,882
+When you think about
+what decisions are being made,
+
+385
+00:25:33,485 --> 00:25:36,485
+you got IBM wiping out GE,
+Siemens.
+
+386
+00:25:38,824 --> 00:25:41,824
+So it would be easy not to
+want to go after that, right?
+
+387
+00:25:43,195 --> 00:25:46,195
+So you have to be brave.
+I mean, you have to see it,
+and you have to be brave.
+
+388
+00:25:47,466 --> 00:25:50,466
+And being brave is one thing
+you got to say about Tom.
+
+389
+00:25:54,506 --> 00:25:57,506
+You gotta look to get money
+from strong people.
+
+390
+00:25:58,110 --> 00:26:01,110
+Because weak people
+don't invest in tough times.
+
+391
+00:26:02,915 --> 00:26:05,915
+But that's when most of
+the big winners are created.
+
+392
+00:26:12,758 --> 00:26:15,758
+Well, first ofall, we didn't want
+to be the only backers ofTandem.
+
+393
+00:26:17,129 --> 00:26:20,129
+We tried to raise venture capital.
+I made a trip back east.
+
+394
+00:26:20,899 --> 00:26:23,899
+I remember the first time
+we gave the pitch.
+
+395
+00:26:23,936 --> 00:26:26,936
+Jimmy was straight out ofTexas,
+a real character,
+
+396
+00:26:29,408 --> 00:26:31,842
+and I didn't think he'd go over
+very well on Wall Street.
+
+397
+00:26:31,843 --> 00:26:34,843
+He had to take me to buy a suit.
+He probably shared that.
+
+398
+00:26:36,281 --> 00:26:39,281
+I literally took him to Brooks Brothers.
+And shoes, socks, the works.
+
+399
+00:26:40,719 --> 00:26:43,154
+He always said, uh-
+I forget what he said,
+
+400
+00:26:43,155 --> 00:26:46,155
+but, "He could buy the suit,
+and that still didn't help."
+
+401
+00:26:46,625 --> 00:26:49,625
+And took him back to Wall Street,
+and ofcourse the first thing he said is,
+
+402
+00:26:50,162 --> 00:26:52,830
+"Well, how do I look?
+Tom dressed me!"
+
+403
+00:26:52,831 --> 00:26:54,365
+You know-
+
+404
+00:26:54,366 --> 00:26:57,366
+Tom was, uh, a little more
+sophisticated than me.
+
+405
+00:26:58,203 --> 00:27:01,203
+But we didn't get the money.
+
+406
+00:27:03,175 --> 00:27:06,175
+Untried management.
+An unlikely idea.
+
+407
+00:27:08,146 --> 00:27:11,146
+Most people
+would not have thought this
+was gonna be a big winner.
+
+408
+00:27:13,485 --> 00:27:16,485
+But I felt strongly enough
+about Tandem that, uh,
+
+409
+00:27:16,955 --> 00:27:19,955
+even ifwe had to put up
+all the money, we would do it.
+
+410
+00:27:20,993 --> 00:27:23,993
+And then finally, at the last minute,
+Pitch Johnson put in
+a small investment.
+
+411
+00:27:26,131 --> 00:27:28,599
+I like to think that
+Tom felt my presence...
+
+412
+00:27:28,600 --> 00:27:30,735
+would be helpful
+in raising money elsewhere.
+
+413
+00:27:30,736 --> 00:27:32,703
+It ratified our concept.
+
+414
+00:27:32,704 --> 00:27:34,872
+I was credible in those days.
+
+415
+00:27:34,873 --> 00:27:37,873
+Hi. I'm standing here next to
+a beautiful Tandem computer.
+
+416
+00:27:37,876 --> 00:27:40,876
+I think everyone recognizes
+this fine computer.
+
+417
+00:27:41,146 --> 00:27:44,146
+It took us a long time
+to get that first order.
+
+418
+00:27:44,182 --> 00:27:47,182
+The very first customer
+was Citibank.
+
+419
+00:27:48,720 --> 00:27:50,388
+But when we got the first order,
+
+420
+00:27:50,389 --> 00:27:53,389
+and the computers performed
+as expected, even better,
+
+421
+00:27:54,493 --> 00:27:57,328
+the growth took off
+and became explosive.
+
+422
+00:27:57,329 --> 00:27:58,696
+We went seven,
+
+423
+00:27:58,697 --> 00:28:00,831
+25, 50, 100 million,
+
+424
+00:28:00,832 --> 00:28:03,000
+200 million, on up to a billion,
+
+425
+00:28:03,001 --> 00:28:06,001
+and we were a Fortune 500
+company in '82.
+
+426
+00:28:13,912 --> 00:28:16,912
+You use a Tandem computer today...
+
+427
+00:28:17,449 --> 00:28:20,449
+pretty much any time you use
+your credit card for anything.
+
+428
+00:28:36,301 --> 00:28:38,736
+When I started
+in the venture business,
+
+429
+00:28:38,737 --> 00:28:41,737
+it never occurred to me
+that we would have multiple funds...
+
+430
+00:28:44,176 --> 00:28:47,176
+that would easily exceed
+a billion dollars.
+
+431
+00:28:49,114 --> 00:28:52,114
+I got into the business
+somewhat fortuitously.
+
+432
+00:28:53,885 --> 00:28:56,885
+When I made the decision,
+
+433
+00:28:56,888 --> 00:28:59,888
+I had already put in 13 years
+working in real companies.
+
+434
+00:29:02,561 --> 00:29:05,196
+In 1972, Don Valentine decided...
+
+435
+00:29:05,197 --> 00:29:08,197
+to trade on his connections
+in the semiconductor industry...
+
+436
+00:29:08,433 --> 00:29:11,433
+and went in search of capital
+to start a venture fund.
+
+437
+00:29:13,605 --> 00:29:16,605
+We went to see a guy
+at Salomon Brothers,
+
+438
+00:29:17,275 --> 00:29:19,977
+and he said "You know'
+I've listened to the pitch,
+
+439
+00:29:19,978 --> 00:29:22,978
+but, you know, you didn't go
+to Harvard Business School."
+
+440
+00:29:24,983 --> 00:29:27,983
+I said, "Great observation.
+True. Guilty as charged."
+
+441
+00:29:29,788 --> 00:29:31,822
+He says, "Why didn't you
+go to business school?"
+
+442
+00:29:31,823 --> 00:29:34,823
+I said, "I went to Fairchild
+Semiconductor Business School.
+Great business school.
+
+443
+00:29:36,495 --> 00:29:39,495
+Start-up company.
+Pioneer in a technology.
+
+444
+00:29:40,098 --> 00:29:43,098
+Phenomenal leadership
+and recognition."
+
+445
+00:29:44,569 --> 00:29:47,569
+I said, "I don't need
+to go to a business school
+for what I'm gonna do."
+
+446
+00:29:51,543 --> 00:29:53,310
+Rebuffed by Wall Street,
+
+447
+00:29:53,311 --> 00:29:55,279
+Don Valentine found a mentor...
+
+448
+00:29:55,280 --> 00:29:57,782
+in a Southern California
+mutual fund manager...
+
+449
+00:29:57,783 --> 00:30:00,783
+who staked th emoney for Don's
+first venturefund.
+
+450
+00:30:01,720 --> 00:30:04,720
+I'm not interested in entrepreneurs
+who will do it our way.
+
+451
+00:30:07,125 --> 00:30:10,125
+I'm not interested
+in entrepreneurs
+who think there's a dress code.
+
+452
+00:30:11,930 --> 00:30:14,930
+I'm interested in entrepreneurs
+who have a vision...
+
+453
+00:30:15,734 --> 00:30:18,734
+of doing something consequential,
+preferably that becomes big.
+
+454
+00:30:26,344 --> 00:30:28,679
+For most people,
+there's something intimidating...
+
+455
+00:30:28,680 --> 00:30:31,649
+about the idea of interacting
+with a computer,
+
+456
+00:30:31,650 --> 00:30:34,318
+but that is
+what's happening here.
+
+457
+00:30:34,319 --> 00:30:37,288
+Atari had one of Silicon Valley's...
+
+458
+00:30:37,289 --> 00:30:40,257
+absolutely larger-than-life
+personalities leading it,
+
+459
+00:30:40,258 --> 00:30:43,258
+Nolan K. Bushnell.
+
+460
+00:30:44,196 --> 00:30:46,197
+Bushnell was a young engineer...
+
+461
+00:30:46,198 --> 00:30:48,966
+working for game manufacturer
+Nutting Associates...
+
+462
+00:30:48,967 --> 00:30:51,967
+when he decided to strike out
+on his own in 1972.
+
+463
+00:30:53,638 --> 00:30:56,638
+The real thing that
+allowed me to start Atari...
+
+464
+00:30:56,875 --> 00:30:58,976
+was I worked for Nutting,
+
+465
+00:30:58,977 --> 00:31:01,977
+and these guys couldn't find
+their butts with both hands.
+
+466
+00:31:02,247 --> 00:31:04,815
+I said, "You know,
+I can run a company,
+
+467
+00:31:04,816 --> 00:31:07,816
+and I won't make any of these same
+mistakes these idiots are doing."
+
+468
+00:31:10,755 --> 00:31:13,657
+The first game
+Atari designed was Pong.
+
+469
+00:31:15,527 --> 00:31:18,527
+Nolan took a prototype of the game,
+strapped it to his back...
+
+470
+00:31:18,563 --> 00:31:21,563
+and placed it in a bar
+in Sunnyvale, California.
+
+471
+00:31:22,334 --> 00:31:25,334
+By the next morning,
+customers were lined up outside...
+
+472
+00:31:25,337 --> 00:31:28,337
+clamoring for a chance to play.
+
+473
+00:31:28,506 --> 00:31:30,908
+We put it on location.
+It earned a lot ofmoney.
+
+474
+00:31:30,909 --> 00:31:33,909
+Production soared, and there seemed
+to be an insatiable appetite...
+
+475
+00:31:35,714 --> 00:31:37,681
+for the coin-operated game.
+
+476
+00:31:39,985 --> 00:31:42,985
+From the outside, Atari looked
+like a wildly successful company,
+
+477
+00:31:44,089 --> 00:31:47,089
+producing an endless stream
+of popular games.
+
+478
+00:31:47,359 --> 00:31:50,160
+But there was one key problem.
+
+479
+00:31:52,097 --> 00:31:55,097
+The company was started
+with 250 dollars.
+
+480
+00:31:55,333 --> 00:31:58,333
+And so we never had any money.
+
+481
+00:32:00,205 --> 00:32:03,205
+If you're
+a hardware company, you need
+a lot of capital for inventories.
+
+482
+00:32:05,377 --> 00:32:08,112
+The more successful,
+the moreyou have to raise.
+
+483
+00:32:08,113 --> 00:32:10,214
+Because the more inventory
+you have,
+
+484
+00:32:10,215 --> 00:32:13,215
+the more customers
+you're waiting to pay you.
+
+485
+00:32:13,485 --> 00:32:16,485
+It takes a lot of capital
+for a hardware start-up.
+
+486
+00:32:17,022 --> 00:32:20,022
+In 1974 Atari was
+flirting with bankruptcy...
+
+487
+00:32:21,026 --> 00:32:24,026
+and desperately needed
+financial help.
+
+488
+00:32:24,062 --> 00:32:27,062
+But Nolan found
+the traditional channels off-limits.
+
+489
+00:32:28,700 --> 00:32:31,700
+Banks-
+in the traditional sense of banks-
+lend on assets.
+
+490
+00:32:33,772 --> 00:32:36,173
+So, "Do you have a house?
+I'll give you a mortgage.
+
+491
+00:32:36,174 --> 00:32:39,174
+Doyou have a car?
+I'll giveyou a loan on your car."
+
+492
+00:32:41,046 --> 00:32:44,046
+Nolan had no basis
+for a bank to be comfortable.
+
+493
+00:32:47,886 --> 00:32:50,886
+I went through the factory,
+
+494
+00:32:51,656 --> 00:32:54,656
+and the smell of marijuana
+nearly knocked me to my knees.
+
+495
+00:32:57,329 --> 00:32:59,997
+And I was gasping and coughing.
+
+496
+00:32:59,998 --> 00:33:02,066
+Nolan says, "What's the matter?"
+
+497
+00:33:02,067 --> 00:33:05,067
+And I said, "I don't know
+what those people are smoking,
+but it's not my brand."
+
+498
+00:33:07,539 --> 00:33:09,373
+Don might have passed on Atari...
+
+499
+00:33:09,374 --> 00:33:12,374
+had Nolan not shown him
+a surprising new product
+in development-
+
+500
+00:33:15,447 --> 00:33:17,881
+Home Pong
+
+501
+00:33:17,882 --> 00:33:20,882
+Atari's engineers
+had discovered they could
+get the entire Pong game...
+
+502
+00:33:21,753 --> 00:33:24,753
+down to the size of a shoe box.
+
+503
+00:33:25,256 --> 00:33:28,256
+At the time, playing
+video games at home
+was a revolutionary concept.
+
+504
+00:33:31,496 --> 00:33:34,496
+We showed Don our plans
+for the home games.
+
+505
+00:33:36,401 --> 00:33:39,036
+He finally decided
+there was a business there.
+
+506
+00:33:39,037 --> 00:33:42,037
+Fabulous product.
+Giant market.
+
+507
+00:33:43,241 --> 00:33:46,176
+He used to say, you know,
+"The coin-op business-
+you think it's big?"
+
+508
+00:33:46,177 --> 00:33:48,245
+He says, "You ain't seen nothin'."
+
+509
+00:33:48,246 --> 00:33:49,847
+Huge.
+
+510
+00:33:51,850 --> 00:33:54,084
+Once we decided
+to finance Atari,
+
+511
+00:33:54,085 --> 00:33:57,085
+it was a matter of trying
+to figure out who else
+would invest in it.
+
+512
+00:34:00,458 --> 00:34:03,458
+Funds in those days were tiny,
+
+513
+00:34:03,561 --> 00:34:06,561
+and in order for us
+to start a company,
+
+514
+00:34:06,865 --> 00:34:09,865
+we had to very collegially
+work together.
+
+515
+00:34:13,638 --> 00:34:16,638
+I brought him other investors.
+
+516
+00:34:17,342 --> 00:34:20,342
+However, it takes a while
+to get used to Nolan.
+
+517
+00:34:23,481 --> 00:34:26,083
+And there's a story there
+about one of our meetings,
+
+518
+00:34:26,084 --> 00:34:29,084
+where the man from Fidelity
+was sitting in a chair
+with his blue suit on,
+
+519
+00:34:30,055 --> 00:34:32,656
+and the rest of us
+were in the hot tub.
+
+520
+00:34:32,657 --> 00:34:35,657
+Nolan was unrelentingly
+picking on him...
+
+521
+00:34:35,827 --> 00:34:38,827
+about his prudish behavior
+and why he wouldn't get
+in the hot tub.
+
+522
+00:34:41,633 --> 00:34:43,767
+With a controversial
+entrepreneur...
+
+523
+00:34:43,768 --> 00:34:46,336
+and no existing market
+for home video games,
+
+524
+00:34:46,337 --> 00:34:49,337
+months went by
+while the other investors remained
+on the fence about Atari.
+
+525
+00:34:51,743 --> 00:34:54,743
+So Nolan himself
+took his Home Pong prototype
+on the road in search of customers.
+
+526
+00:34:57,415 --> 00:34:59,817
+Of course, we were young
+and felt we could solve...
+
+527
+00:34:59,818 --> 00:35:02,818
+any problems that came along,
+and, you know,
+
+528
+00:35:02,854 --> 00:35:05,854
+selling them to Toys R Us,
+that can't be that hard.
+
+529
+00:35:07,392 --> 00:35:09,226
+It was, actually.
+
+530
+00:35:09,227 --> 00:35:11,028
+I like to tell the story about...
+
+531
+00:35:11,029 --> 00:35:14,029
+taking the Pong game
+to the toy fair in New York
+and selling none.
+
+532
+00:35:17,435 --> 00:35:20,435
+So we thought,
+"Let's try the television shops."
+
+533
+00:35:20,939 --> 00:35:23,939
+And they didn't want it.
+
+534
+00:35:26,144 --> 00:35:29,144
+These are very fragile companies
+with a lot of things missing.
+
+535
+00:35:30,815 --> 00:35:33,584
+And the approach
+we've always taken is,
+
+536
+00:35:33,585 --> 00:35:36,585
+if we make this investment,
+is our Rolodex...
+
+537
+00:35:36,688 --> 00:35:39,688
+strong enough
+to help these people?
+
+538
+00:35:43,361 --> 00:35:46,361
+So much luck
+goes into these things...
+
+539
+00:35:47,565 --> 00:35:50,565
+that without it, I think
+very few of us would have
+very many successes.
+
+540
+00:35:55,073 --> 00:35:58,073
+One of our investors was
+a very big shareholder of Sears.
+
+541
+00:36:00,778 --> 00:36:03,347
+And they facilitated
+the introduction...
+
+542
+00:36:03,348 --> 00:36:06,348
+to the buyer at Sears
+who would buy a product like this.
+
+543
+00:36:08,019 --> 00:36:11,019
+I think he was charmed by Nolan...
+
+544
+00:36:11,256 --> 00:36:14,256
+and found this experiment
+might be fun.
+
+545
+00:36:14,792 --> 00:36:17,792
+♪ Everybody's talkin' 'bout
+a new way of shopping ♪
+
+546
+00:36:17,996 --> 00:36:20,430
+♪ Doyou wanna lose your mind? ♪♪
+
+547
+00:36:20,431 --> 00:36:22,199
+Home Pong hit the shelves...
+
+548
+00:36:22,200 --> 00:36:25,200
+just in time
+for the 1975 Christmas season.
+
+549
+00:36:25,904 --> 00:36:27,237
+♪♪
+
+550
+00:36:27,238 --> 00:36:30,238
+And of course, the rest is history.
+
+551
+00:36:30,542 --> 00:36:33,542
+♪♪ When he plays the game
+from Atari ♪
+
+552
+00:36:34,979 --> 00:36:37,979
+♪♪ Have you played Atari today? ♪
+
+553
+00:36:39,417 --> 00:36:41,485
+♪ Have you played Atari today? ♪
+
+554
+00:37:02,340 --> 00:37:05,340
+My father was the sole proprietor
+of this little candy store.
+
+555
+00:37:06,844 --> 00:37:09,844
+My father was a very petty
+union member.
+
+556
+00:37:10,782 --> 00:37:13,483
+My dad was a wonderful guy,
+
+557
+00:37:13,484 --> 00:37:16,484
+and, um, he really encouraged
+self-reliance.
+
+558
+00:37:18,156 --> 00:37:21,156
+Well, we sold a little groceries,
+a little magazines,
+
+559
+00:37:21,259 --> 00:37:24,259
+a little candy,
+a little ice cream, cigarettes.
+
+560
+00:37:25,997 --> 00:37:28,997
+At a very early age,
+I worked there.
+
+561
+00:37:30,134 --> 00:37:32,402
+I clerked.
+
+562
+00:37:32,403 --> 00:37:35,403
+I was six years-
+seven years old.
+
+563
+00:37:36,975 --> 00:37:39,975
+It's easier to explain
+he drove a truck...
+
+564
+00:37:40,144 --> 00:37:42,212
+than it is to explain
+what he did in the union,
+
+565
+00:37:42,213 --> 00:37:44,248
+'cause I didn't understand
+what he did in the union...
+
+566
+00:37:44,249 --> 00:37:47,249
+other than fight
+with the head of the union.
+
+567
+00:37:49,487 --> 00:37:52,487
+And we used to have
+a lot of, uh, arguments...
+
+568
+00:37:53,925 --> 00:37:55,692
+once I understood
+what a union was,
+
+569
+00:37:55,693 --> 00:37:58,693
+and he couldn't understand
+why I was so adamantly
+opposed to the unions.
+
+570
+00:38:03,368 --> 00:38:06,368
+It probably has to do with my...
+
+571
+00:38:07,572 --> 00:38:10,572
+deep-seated
+sense of disobedience.
+
+572
+00:38:11,142 --> 00:38:13,210
+When I was 12 or 13,
+
+573
+00:38:13,211 --> 00:38:16,211
+I was trying to figure out
+how to earn some money
+in the summertime.
+
+574
+00:38:16,714 --> 00:38:19,714
+So I said, "You know, Dad,
+maybe I could sell light bulbs."
+
+575
+00:38:23,988 --> 00:38:26,490
+So I went down
+to the local general manager...
+
+576
+00:38:26,491 --> 00:38:29,393
+of the Sylvania operation.
+
+577
+00:38:29,394 --> 00:38:31,728
+He said the smallest amount
+that he could sell me...
+
+578
+00:38:31,729 --> 00:38:34,729
+would be a half a freight car
+full of light bulbs.
+
+579
+00:38:35,933 --> 00:38:38,933
+And so I asked my mother
+if I could populate our basement
+with all these light bulbs.
+
+580
+00:38:40,938 --> 00:38:43,573
+And so I got this wagon-
+this big wagon-
+
+581
+00:38:43,574 --> 00:38:46,574
+and I went around
+and I sold light bulbs
+for a whole summertime.
+
+582
+00:38:46,778 --> 00:38:49,246
+I called it the Bright Boy
+Light Bulb Company.
+
+583
+00:38:49,247 --> 00:38:52,247
+It's a little bit over the top,
+but that's what it was.
+
+584
+00:38:52,984 --> 00:38:55,152
+I was a nerd.
+
+585
+00:38:55,153 --> 00:38:56,987
+A highly motivated, impatient,
+
+586
+00:38:56,988 --> 00:38:59,988
+driven
+workaholic nerd.
+
+587
+00:38:59,991 --> 00:39:02,991
+Um-
+Who accidentally
+became an athlete,
+
+588
+00:39:04,996 --> 00:39:07,996
+and got some sort
+of social polish...
+
+589
+00:39:09,400 --> 00:39:12,400
+at a school for nerds- MIT.
+
+590
+00:39:14,305 --> 00:39:17,305
+I scrambled to get into
+a degree where I thought
+I could earn a living,
+
+591
+00:39:18,676 --> 00:39:21,011
+which was electronic engineering.
+
+592
+00:39:21,012 --> 00:39:24,012
+I did that for a while, and I thought,
+"God, this is pretty boring."
+
+593
+00:39:24,949 --> 00:39:27,949
+And I thought, "Well, you know,
+I've heard about business school.
+
+594
+00:39:29,921 --> 00:39:32,921
+Maybe I should
+take a crack at that."
+
+595
+00:39:34,125 --> 00:39:37,125
+And this is where I got inspired
+by Georges Doriot.
+
+596
+00:39:41,966 --> 00:39:43,667
+Professor Georges Doriot...
+
+597
+00:39:43,668 --> 00:39:46,269
+was a father figgure
+to a generation of young men...
+
+598
+00:39:46,270 --> 00:39:48,305
+at Harvard Business School.
+
+599
+00:39:48,306 --> 00:39:51,306
+This French expatriate
+had the distinction of starting..
+
+600
+00:39:51,309 --> 00:39:54,309
+the first corporation dedicated
+exclusively to venture investing,
+
+601
+00:39:55,613 --> 00:39:58,613
+American Research
+and Development,
+founded in 1946.
+
+602
+00:40:01,018 --> 00:40:03,387
+Ironically, Doriot's lasting impact...
+
+603
+00:40:03,388 --> 00:40:05,255
+would not be through A.R.D.,
+
+604
+00:40:05,256 --> 00:40:08,256
+which in its entire 25-year history
+made only one notable investment.
+
+605
+00:40:11,062 --> 00:40:13,330
+Instead, Doriot's
+most important influence...
+
+606
+00:40:13,331 --> 00:40:16,331
+came through the spell he cast
+over his Harvard classroom.
+
+607
+00:40:18,169 --> 00:40:20,470
+Doriot
+was very controversial...
+
+608
+00:40:20,471 --> 00:40:23,306
+even at the time at Harvard.
+
+609
+00:40:23,307 --> 00:40:26,276
+He taught a course
+called Manufacturing,
+
+610
+00:40:26,277 --> 00:40:28,912
+which really had nothing to do
+with manufacturing.
+
+611
+00:40:28,913 --> 00:40:31,348
+And it was an extremely
+popular course,
+
+612
+00:40:31,349 --> 00:40:34,349
+and it was
+all about starting companies,
+and technology.
+
+613
+00:40:36,354 --> 00:40:39,289
+He talked about entrepreneurs.
+He had some of them as guests-
+
+614
+00:40:39,290 --> 00:40:40,857
+what it was like
+to start a company.
+
+615
+00:40:40,858 --> 00:40:43,858
+His lectures were how to dress,
+
+616
+00:40:44,529 --> 00:40:47,197
+how many drinks you should have
+at a cocktail party.
+
+617
+00:40:47,198 --> 00:40:50,198
+It was sort of a Georges Doriot
+philosophy of life.
+
+618
+00:40:50,601 --> 00:40:53,601
+Every year, he'd take
+one whole session...
+
+619
+00:40:54,639 --> 00:40:56,540
+on how to read
+the New York Times.
+
+620
+00:40:56,541 --> 00:40:59,541
+He'd hold up the paper and say-
+
+621
+00:40:59,710 --> 00:41:02,710
+"You should be able to read
+this paper in four minutes.
+
+622
+00:41:03,748 --> 00:41:06,116
+What is the first section I read?"
+
+623
+00:41:06,117 --> 00:41:09,117
+He said, "Now the first thing
+you want to do is go
+to the obituary page.
+
+624
+00:41:10,054 --> 00:41:13,054
+There you will learn
+the lives that are important,
+
+625
+00:41:13,825 --> 00:41:16,825
+and the kind of life
+that you can build for yourself."
+
+626
+00:41:18,029 --> 00:41:21,029
+He would talk about working
+with entrepreneurs.
+
+627
+00:41:21,332 --> 00:41:24,332
+And when times got tough,
+as they always will-
+
+628
+00:41:24,802 --> 00:41:26,837
+and he made that point-
+
+629
+00:41:26,838 --> 00:41:29,838
+that he would invite
+the entrepreneur over to his home.
+
+630
+00:41:30,741 --> 00:41:33,510
+They'd have dinner, and then he'd
+just sit him down in his library...
+
+631
+00:41:33,511 --> 00:41:36,511
+and play phonograph records
+of French marching music.
+
+632
+00:41:38,850 --> 00:41:41,850
+You know, just to deal with
+the psychological wounds, you know.
+
+633
+00:41:44,155 --> 00:41:46,356
+When he was talking about
+venture capital, starting companies,
+
+634
+00:41:46,357 --> 00:41:49,025
+he was as good as there was,
+because he was the only guy
+who understood it.
+
+635
+00:41:49,026 --> 00:41:52,026
+I bought it all-
+hook, line, sinker.
+
+636
+00:41:55,299 --> 00:41:58,299
+♪♪
+
+637
+00:42:02,874 --> 00:42:05,709
+♪ Yeah, thebest things
+inlifea re free ♪
+
+638
+00:42:05,710 --> 00:42:08,178
+♪ But you can give them
+to the birds and bees ♪
+
+639
+00:42:08,179 --> 00:42:11,147
+♪ I wantmoney ♪
+
+640
+00:42:11,148 --> 00:42:14,148
+♪ That's whatI want ♪
+
+641
+00:42:14,151 --> 00:42:17,151
+♪ So give me muh, uh-huh,
+mo-mo-money ♪♪
+
+642
+00:42:32,336 --> 00:42:34,337
+♪♪
+
+643
+00:42:34,338 --> 00:42:36,039
+At the time we started Genentech,
+
+644
+00:42:36,040 --> 00:42:39,040
+there was no such thing
+as genetic engineering.
+
+645
+00:42:39,410 --> 00:42:42,410
+And to take the idea
+of commercializing gene splicing,
+
+646
+00:42:44,215 --> 00:42:46,816
+the risks were just enormous.
+
+647
+00:42:50,254 --> 00:42:52,289
+And I said, "Well, you know,
+
+648
+00:42:52,290 --> 00:42:55,290
+what if God or Darwin
+won't let us
+make a new life form?"
+
+649
+00:43:05,570 --> 00:43:08,471
+It was a bet on technology,
+
+650
+00:43:08,472 --> 00:43:11,472
+and you looked
+at the value of the
+pharmaceutical industry,
+
+651
+00:43:11,576 --> 00:43:14,576
+and if you had a better
+way to develop drugs,
+
+652
+00:43:15,246 --> 00:43:18,246
+the power was enormous.
+
+653
+00:43:18,416 --> 00:43:21,416
+Nobody had a clue
+whether they could pull that off,
+
+654
+00:43:21,786 --> 00:43:24,786
+but you did know...
+that if they could, it was big.
+
+655
+00:43:34,231 --> 00:43:37,231
+It came out of the blue for me.
+
+656
+00:43:38,202 --> 00:43:41,202
+I had not been thinking
+about starting a company.
+
+657
+00:43:43,541 --> 00:43:46,541
+I thought I was going to,
+uh, die at the lab bench
+with a pipette in my mouth.
+
+658
+00:43:48,412 --> 00:43:51,412
+But, uh, Bob called,
+
+659
+00:43:51,949 --> 00:43:54,949
+and he wanted to know
+if the technology was
+ready to be commercialized.
+
+660
+00:43:58,556 --> 00:44:01,556
+Bob Swanson,
+I think, was the most prescient
+individual I've ever met.
+
+661
+00:44:04,328 --> 00:44:05,895
+Once he understood...
+
+662
+00:44:05,896 --> 00:44:08,896
+what the potential technology was
+in genetic engineering,
+
+663
+00:44:09,900 --> 00:44:12,900
+he got the whole picture,
+way ahead ofanybody else.
+
+664
+00:44:16,907 --> 00:44:19,907
+Eugene and I were looking around
+for someone to add to the partnership,
+
+665
+00:44:21,178 --> 00:44:23,346
+and Bobjoined us.
+
+666
+00:44:23,347 --> 00:44:26,347
+But there just wasn't enough
+going on in those days, amazingly,
+
+667
+00:44:27,418 --> 00:44:30,418
+to really have him
+full-time working on our ventures.
+
+668
+00:44:31,155 --> 00:44:33,390
+We didn't have that many.
+
+669
+00:44:33,391 --> 00:44:36,391
+But we were interested
+in doing something
+in genetic engineering.
+
+670
+00:44:37,628 --> 00:44:40,628
+We sort of said,
+"Go there, find something.
+
+671
+00:44:40,765 --> 00:44:43,299
+And if you can, we'll finance it.
+
+672
+00:44:43,300 --> 00:44:46,300
+If you can't, well-"
+You know.
+
+673
+00:44:46,337 --> 00:44:49,337
+So he was motivated
+to find something.
+
+674
+00:44:50,574 --> 00:44:53,574
+And he calls Professor Boyer
+at the University of California.
+
+675
+00:44:55,112 --> 00:44:57,180
+Boyer said,
+"I'll give you five minutes."
+
+676
+00:44:57,181 --> 00:45:00,181
+It turned into,
+you know, many hours.
+
+677
+00:45:01,085 --> 00:45:04,085
+In those days, funding
+for research was, uh, difficult.
+
+678
+00:45:06,157 --> 00:45:09,157
+And so, you know,
+I had some, you know,
+ulterior reasons...
+
+679
+00:45:12,029 --> 00:45:15,029
+for paying attention
+when he said he had money.
+
+680
+00:45:16,367 --> 00:45:19,367
+Over the next couple of weeks,
+Swanson persuaded Boyer...
+
+681
+00:45:20,337 --> 00:45:23,337
+to take the idea of gene splicing
+into some sort
+of a commercial operation.
+
+682
+00:45:26,377 --> 00:45:29,377
+And Bob brought Boyer to me.
+
+683
+00:45:34,552 --> 00:45:37,552
+So we go into one of
+the, uh, Embarcadero Towers,
+
+684
+00:45:39,790 --> 00:45:42,790
+and we go up to the top floor.
+
+685
+00:45:43,327 --> 00:45:46,327
+And you can
+look out over the world.
+
+686
+00:45:49,633 --> 00:45:52,633
+It was something like
+out of a movie,
+and holy smoke.
+
+687
+00:45:55,439 --> 00:45:58,439
+So we go in, and these
+stern-looking guys are sitting
+there in a suit, you know.
+
+688
+00:46:02,346 --> 00:46:04,414
+Perkins says,
+"Okay, Well, what are you going to do?"
+
+689
+00:46:04,415 --> 00:46:07,283
+What do you do?
+What equipment do you need?
+
+690
+00:46:07,284 --> 00:46:09,719
+How do you know
+that you've done it?
+How do you test?
+
+691
+00:46:09,720 --> 00:46:11,421
+It's scary.
+
+692
+00:46:11,422 --> 00:46:14,422
+What are the risks? Contamination?
+Everything I could think-
+
+693
+00:46:14,759 --> 00:46:17,759
+Here was this rich guy, you know,
+talking to us about science,
+and funding science.
+
+694
+00:46:19,330 --> 00:46:21,264
+I paid attention, you know.
+
+695
+00:46:21,265 --> 00:46:24,100
+And I didn't know anything
+about raising money.
+
+696
+00:46:24,101 --> 00:46:27,101
+Of course, I knew nothing
+whatsoever about the technology.
+I mean, nobody did.
+
+697
+00:46:28,139 --> 00:46:29,506
+I had to rely on him.
+
+698
+00:46:29,507 --> 00:46:31,141
+Because there was so much
+to be done.
+
+699
+00:46:31,142 --> 00:46:32,909
+He was a very hands-on guy.
+
+700
+00:46:32,910 --> 00:46:35,910
+They wanted to raise, um'
+about three million dollars
+to build the factory,
+
+701
+00:46:38,249 --> 00:46:41,249
+hire the people,
+and then see if it would work.
+
+702
+00:46:42,620 --> 00:46:44,287
+But underlying it all...
+
+703
+00:46:44,288 --> 00:46:47,288
+was the-the tremendous
+risk factor of, you know,
+would it be possible?
+
+704
+00:46:53,764 --> 00:46:56,764
+It was pure research, you know,
+
+705
+00:46:57,101 --> 00:47:00,101
+and everybody knows that
+venture capitalists shouldn't
+openly fund pure research.
+
+706
+00:47:03,707 --> 00:47:06,707
+So my idea in everything
+has always been to try to
+put the risk up front...
+
+707
+00:47:08,512 --> 00:47:11,512
+and get rid of the risk
+as fast as you possibly can.
+
+708
+00:47:14,185 --> 00:47:17,185
+Bob and I were very naive...
+
+709
+00:47:17,688 --> 00:47:20,657
+about how we were going
+to do what we did.
+
+710
+00:47:20,658 --> 00:47:23,658
+We changed the business plan.
+
+711
+00:47:24,962 --> 00:47:27,962
+I persuaded them to do it
+a different way.
+
+712
+00:47:28,899 --> 00:47:31,899
+To subcontract the experiment
+to two different institutions.
+
+713
+00:47:37,107 --> 00:47:40,107
+By subcontracting,
+Tom Perkins eliminated the need...
+
+714
+00:47:40,544 --> 00:47:43,544
+to buy equipment, build a lab
+and hire staff.
+
+715
+00:47:45,015 --> 00:47:47,984
+The estimated three million dollar
+start-up costs...
+
+716
+00:47:47,985 --> 00:47:50,985
+were reduced to just 250,000.
+
+717
+00:47:52,022 --> 00:47:55,022
+Kleiner Perkins put up the money,
+and Genentech was in business.
+
+718
+00:47:56,560 --> 00:47:59,560
+It was Bob Swanson
+and a checkbook
+sitting in our office here.
+
+719
+00:48:01,131 --> 00:48:04,131
+That was Genentech.
+
+720
+00:48:04,835 --> 00:48:07,835
+Boyer and Swanson set out
+to create human insulin.
+
+721
+00:48:08,739 --> 00:48:11,739
+But, to test their concept,
+they began
+with a less complex hormone.
+
+722
+00:48:13,210 --> 00:48:15,511
+City of Hope Medical Center
+in Los Angeles...
+
+723
+00:48:15,512 --> 00:48:18,512
+would try to engineer a gene
+for that hormone.
+
+724
+00:48:19,149 --> 00:48:22,149
+Then, UC San Francisco
+would splice that gene
+into bacteria...
+
+725
+00:48:23,487 --> 00:48:26,487
+to produce the hormone
+in significant amounts.
+
+726
+00:48:28,926 --> 00:48:31,926
+after a very long time, City of Hope
+succeeded in making the gene,
+
+727
+00:48:34,265 --> 00:48:37,066
+and then we transported
+the gene-
+
+728
+00:48:37,067 --> 00:48:40,067
+Bob had it in his pocket-
+up to University of California.
+
+729
+00:48:41,839 --> 00:48:44,839
+And Herb Boyer
+inserted it into the bacterial host.
+
+730
+00:48:47,745 --> 00:48:50,745
+Then it worked.
+
+731
+00:48:52,583 --> 00:48:55,583
+So we had our breakthrough.
+
+732
+00:48:58,989 --> 00:49:01,724
+That was the first time
+in history...
+
+733
+00:49:01,725 --> 00:49:04,725
+that, uh, mankind
+had ever made an artificial, um-
+
+734
+00:49:06,764 --> 00:49:08,765
+Well, let's just say
+an artificial bacteria.
+
+735
+00:49:08,766 --> 00:49:11,200
+Most doctors aggree that
+genetic engineering..
+
+736
+00:49:11,201 --> 00:49:13,736
+will be the source of most drugs
+in the next decade.
+
+737
+00:49:13,737 --> 00:49:16,737
+As scientists look ahead, they see
+a myriad of products. New vaccines-
+
+738
+00:49:18,008 --> 00:49:19,776
+We haven't
+scratched the surface yet,
+
+739
+00:49:19,777 --> 00:49:22,777
+in terms of, uh,
+new hormones and molecules...
+
+740
+00:49:22,913 --> 00:49:25,882
+that the body produces itself
+to keep itself healthy.
+
+741
+00:49:25,883 --> 00:49:28,883
+The next step, of course-
+
+742
+00:49:29,987 --> 00:49:32,987
+You know, it wasn't my goal
+to start an industry.
+
+743
+00:49:33,590 --> 00:49:36,590
+My goal was to, um,
+make sure the science
+got translated...
+
+744
+00:49:38,495 --> 00:49:41,495
+into an endeavor
+that would be useful to people.
+
+745
+00:49:42,933 --> 00:49:45,902
+In all the things I've done,
+I think I'm most proud
+of Genentech,
+
+746
+00:49:45,903 --> 00:49:48,903
+because it, uh, Well, saved hundreds
+of thousands of people's lives.
+
+747
+00:50:01,151 --> 00:50:03,152
+Well, isn't it great if you can
+make money...
+
+748
+00:50:03,153 --> 00:50:06,153
+and change the world for the better
+at the same time?
+
+749
+00:50:22,539 --> 00:50:25,539
+We are now entering our
+fourth generation of computers.
+
+750
+00:50:25,709 --> 00:50:28,709
+Difficult problems which once
+required 30 hours of work
+by a computer as large as a house...
+
+751
+00:50:30,981 --> 00:50:33,981
+can now be solved
+in 12 seconds by a computer
+no bigger than a bathtub.
+
+752
+00:50:36,854 --> 00:50:39,854
+In 1976, the computer was
+about to get personal,
+
+753
+00:50:40,958 --> 00:50:43,958
+expanding beyond the government,
+institutions and businesses
+to enter the home.
+
+754
+00:50:45,863 --> 00:50:48,863
+For venture capitalists,
+this represented
+the opportunity of a lifetime.
+
+755
+00:50:55,139 --> 00:50:57,940
+We turned down Apple Computer.
+
+756
+00:50:57,941 --> 00:51:00,476
+We didn't-
+We didn't even turn it down.
+
+757
+00:51:00,477 --> 00:51:03,477
+We didn't agree to meet
+with Jobs and Wozniak.
+
+758
+00:51:07,451 --> 00:51:10,451
+Oh, that would have been a fabulous
+investment if we had made it,
+
+759
+00:51:11,522 --> 00:51:13,456
+but we didn't.
+
+760
+00:51:13,457 --> 00:51:16,457
+We said,
+"Oh, no, we're not really
+in that business."
+
+761
+00:51:16,527 --> 00:51:19,527
+I thought, "How can you use
+a computer at home?
+You're gonna put recipes on it?"
+
+762
+00:51:20,898 --> 00:51:23,332
+I sent my partner down
+to look at Apple.
+
+763
+00:51:23,333 --> 00:51:26,333
+He came back and he said,
+"Guy kept me waiting for an hour,
+and he's very arrogant."
+
+764
+00:51:28,572 --> 00:51:31,572
+And, of course, that's Steve Jobs!
+
+765
+00:51:31,775 --> 00:51:34,775
+I said, "Well, let's let it go."
+That was a big mistake.
+
+766
+00:51:38,649 --> 00:51:41,649
+In 1976, the only people who
+believed in the personal computer...
+
+767
+00:51:42,853 --> 00:51:45,853
+were the geeks and nerds
+who gathered at Homebrew
+Computer Clubs.
+
+768
+00:51:47,224 --> 00:51:50,224
+At one such club, 21-year-old
+Steve Jobs had partnered
+with Steve Wozniak...
+
+769
+00:51:52,296 --> 00:51:55,296
+to create a circuit board kit
+they called...
+
+770
+00:51:56,066 --> 00:51:58,901
+The Apple I.
+
+771
+00:51:58,902 --> 00:52:01,604
+Steve Jobs was
+working at Atari at the time,
+
+772
+00:52:01,605 --> 00:52:04,605
+so the most obvious person
+to ask for start-up money
+was his boss, Nolan Bushnell.
+
+773
+00:52:07,277 --> 00:52:08,845
+They needed an investment,
+
+774
+00:52:08,846 --> 00:52:11,846
+and, uh, they offered me a third
+of Apple Computer for $50,000...
+
+775
+00:52:12,816 --> 00:52:15,816
+and I said,
+"Gee, I don't think so."
+
+776
+00:52:16,520 --> 00:52:19,520
+I could have owned a third
+of Apple Computer for $50'000.
+
+777
+00:52:21,892 --> 00:52:24,892
+A big mistake.
+
+778
+00:52:26,330 --> 00:52:28,664
+But I said, "Call Don Valentine."
+
+779
+00:52:28,665 --> 00:52:31,665
+'Cause Don had a high probability
+of seeing the opportunity.
+
+780
+00:52:34,371 --> 00:52:37,371
+So we had our meeting.
+I went to Steve's house.
+
+781
+00:52:38,809 --> 00:52:41,677
+And we talked,
+
+782
+00:52:41,678 --> 00:52:44,678
+and I was convinced
+it was a big market...
+
+783
+00:52:47,584 --> 00:52:50,584
+just embryonically beginning.
+
+784
+00:52:52,156 --> 00:52:55,156
+Steve was in his Fu Manchu look,
+and his question for me-
+
+785
+00:52:59,429 --> 00:53:02,429
+"Tell me what I have to do
+to have you finance me."
+
+786
+00:53:03,534 --> 00:53:06,502
+I said, "We have to have someone
+in the company...
+
+787
+00:53:06,503 --> 00:53:09,503
+who has some sense of
+management and marketing
+and channels ofdistribution."
+
+788
+00:53:12,176 --> 00:53:15,176
+He said, "Fine.
+Send me three people."
+
+789
+00:53:15,879 --> 00:53:18,381
+I sent him three candidates.
+
+790
+00:53:18,382 --> 00:53:21,382
+One he didn't like.
+One didn't like him.
+
+791
+00:53:23,287 --> 00:53:26,287
+And the third one
+was Mike Markkula.
+
+792
+00:53:26,757 --> 00:53:29,757
+Mike Markkula
+worked for me at Fairchild
+before he went to Intel.
+
+793
+00:53:31,128 --> 00:53:34,128
+He called me up and said,
+"There's two guys over
+in Los Altos that, uh,
+
+794
+00:53:35,766 --> 00:53:38,766
+could really use your help,
+and you ought to
+go see'em."
+
+795
+00:53:39,436 --> 00:53:42,436
+I said, "Okay."
+'Cause that's what I did
+on Mondays.
+
+796
+00:53:45,042 --> 00:53:47,677
+I was retired.
+
+797
+00:53:47,678 --> 00:53:50,678
+I think I was 32
+when I retired from Intel.
+
+798
+00:53:53,250 --> 00:53:56,250
+But one day a week,
+I would help people start companies
+and write business plans.
+
+799
+00:53:57,955 --> 00:54:00,955
+I did it for free,
+just for the interaction
+with bright, uh, people...
+
+800
+00:54:03,293 --> 00:54:06,262
+that had a lot of
+fire in their belly.
+
+801
+00:54:06,263 --> 00:54:09,263
+So I went
+over and talked to the boys.
+
+802
+00:54:10,067 --> 00:54:13,067
+The two of them did not make
+a good impression on people.
+
+803
+00:54:13,971 --> 00:54:16,971
+They were bearded.
+They didn't smell good.
+
+804
+00:54:17,007 --> 00:54:20,007
+They dressed funny.
+Young, naive.
+
+805
+00:54:22,546 --> 00:54:25,546
+But Woz had designed
+a really wonderful, wonderful
+computer.
+
+806
+00:54:27,618 --> 00:54:30,618
+Technology that was
+really advanced.
+
+807
+00:54:32,556 --> 00:54:35,556
+The problem was,
+you could walk down the street
+in 1976...
+
+808
+00:54:37,961 --> 00:54:40,930
+and talk to a hundred people
+and say, "Would you like
+a personal computer?"
+
+809
+00:54:40,931 --> 00:54:43,931
+And they'd go, "What's that?"
+
+810
+00:54:46,270 --> 00:54:49,270
+And so I told them.
+I said I'd help them
+write a business plan.
+
+811
+00:54:50,540 --> 00:54:52,775
+So I got to working on it,
+
+812
+00:54:52,776 --> 00:54:55,776
+and I'd say, "Gosh", you know'
+"the opportunity here
+is just too great."
+
+813
+00:54:59,783 --> 00:55:02,783
+The business plan said that, uh'
+with $142'000 we could be
+cash-flow positive in nine months.
+
+814
+00:55:07,958 --> 00:55:10,958
+And I came to the conclusion that
+we could build a Fortune 500 company
+in less than five years.
+
+815
+00:55:15,165 --> 00:55:18,165
+I said I'd put up the money
+that was needed.
+
+816
+00:55:20,504 --> 00:55:22,772
+Not only did he write the check,
+
+817
+00:55:22,773 --> 00:55:24,407
+Mike Markkula
+came out of retirement,
+
+818
+00:55:24,408 --> 00:55:27,408
+becoming the president
+and C.E.O. of Apple.
+
+819
+00:55:27,644 --> 00:55:30,644
+His first order of business,
+build a board of directors.
+
+820
+00:55:31,448 --> 00:55:34,448
+And the first call he made
+was to Arthur Rock.
+
+821
+00:55:35,118 --> 00:55:38,118
+Arthur would have missed Apple
+if it weren't for Mike Markkula.
+
+822
+00:55:38,522 --> 00:55:41,522
+Jobs and Wozniak
+came up to see me,
+
+823
+00:55:41,625 --> 00:55:43,626
+and they were very unappealing.
+
+824
+00:55:43,627 --> 00:55:46,627
+Goatee, long hair-
+
+825
+00:55:49,132 --> 00:55:51,334
+Markkula said,
+"Well, before you make up
+your mind,
+
+826
+00:55:51,335 --> 00:55:54,335
+there's a computer show.
+
+827
+00:55:54,638 --> 00:55:57,573
+You ought to come down
+and see what's going on."
+
+828
+00:55:57,574 --> 00:56:00,574
+And he did. He thought
+somethin' was happenin'.
+He wasn't quite sure what.
+
+829
+00:56:01,712 --> 00:56:04,513
+There was this huge auditorium,
+
+830
+00:56:04,514 --> 00:56:07,514
+and there was this booth
+with everybody around it.
+
+831
+00:56:08,352 --> 00:56:09,719
+I couldn't even get next to it.
+
+832
+00:56:09,720 --> 00:56:12,054
+And it was the Apple booth.
+
+833
+00:56:12,055 --> 00:56:15,055
+And it turned out
+that I sure made an investment.
+
+834
+00:56:16,560 --> 00:56:18,494
+Then I got a call
+from Don Valentine.
+
+835
+00:56:18,495 --> 00:56:20,162
+"I want to put
+some money in that compa-"
+
+836
+00:56:20,163 --> 00:56:23,163
+I said, "Okay, you gotta
+come on the board then."
+
+837
+00:56:23,667 --> 00:56:26,667
+Don's background is
+sales and distribution
+and customer satisfaction.
+
+838
+00:56:29,439 --> 00:56:32,439
+Arthur's expertise
+comes from the way
+financial markets work,
+
+839
+00:56:34,644 --> 00:56:37,513
+and, uh,
+how to choose people.
+
+840
+00:56:37,514 --> 00:56:39,248
+I don't think
+there's a company today...
+
+841
+00:56:39,249 --> 00:56:42,249
+that could say that
+they had a better
+board than that.
+
+842
+00:56:43,587 --> 00:56:46,587
+I mean, we couldn't-
+We couldn't lose.
+
+843
+00:56:50,961 --> 00:56:53,896
+Taking his place alongside
+the venture capital luminaries...
+
+844
+00:56:53,897 --> 00:56:55,798
+was the young Steve Jobs,
+
+845
+00:56:55,799 --> 00:56:58,799
+who had never even seen
+the inside of a board room.
+
+846
+00:56:59,903 --> 00:57:02,238
+There was one board meeting
+that he took his shoes off...
+
+847
+00:57:02,239 --> 00:57:05,239
+and put his bare feet up
+on the- on the table.
+
+848
+00:57:05,509 --> 00:57:08,509
+And I said, "You're excused
+until you can come back here...
+
+849
+00:57:09,746 --> 00:57:12,746
+and act like a board member."
+
+850
+00:57:14,384 --> 00:57:17,384
+He put his shoe back on
+and everything was fine.
+
+851
+00:57:17,687 --> 00:57:20,556
+He just needed some training
+and some direction...
+
+852
+00:57:20,557 --> 00:57:23,557
+and some, um, manners.
+
+853
+00:57:43,213 --> 00:57:46,213
+You know,
+in the venture capital business,
+if you look at 200 deals,
+
+854
+00:57:47,417 --> 00:57:50,386
+and you-you might do
+10 of'em,
+
+855
+00:57:50,387 --> 00:57:53,387
+and you will think
+they're all great,
+and if one of'em is great,
+
+856
+00:57:54,658 --> 00:57:57,658
+then you're in the hall of fame.
+
+857
+00:58:12,175 --> 00:58:14,977
+If you make 10 deals,
+you know, if you do it well,
+
+858
+00:58:14,978 --> 00:58:17,346
+some of them are gonna succeed,
+some are going to fail.
+
+859
+00:58:17,347 --> 00:58:19,648
+There's usually one
+in there we call
+the living dead.
+
+860
+00:58:19,649 --> 00:58:22,649
+Living dead, living dead, living dead.
+
+861
+00:58:25,889 --> 00:58:28,889
+They don't succeed,
+they don't fail. They just sit there
+and lap up your time.
+
+862
+00:58:29,559 --> 00:58:30,860
+You're doomed.
+
+863
+00:58:32,963 --> 00:58:35,197
+They fail for
+all kinds of reasons.
+
+864
+00:58:35,198 --> 00:58:38,198
+If it's struggling,
+you probably should just get out.
+
+865
+00:58:39,536 --> 00:58:42,536
+Well, we hated to give up,
+you know,
+and hated to admit defeat.
+
+866
+00:58:43,039 --> 00:58:45,074
+It was always traumatic.
+
+867
+00:58:45,075 --> 00:58:47,309
+You get personally involved
+in these companies.
+
+868
+00:58:47,310 --> 00:58:49,278
+Everybody's heartbroken.
+
+869
+00:58:49,279 --> 00:58:51,413
+It's tough to lose money.
+
+870
+00:58:51,414 --> 00:58:54,414
+Losing money
+is not a good thing!
+
+871
+00:59:04,027 --> 00:59:06,595
+Proggrams are instructions
+to the computer...
+
+872
+00:59:06,596 --> 00:59:09,596
+that can berecorded
+on floppy disks or cassettes.
+
+873
+00:59:12,002 --> 00:59:14,303
+In the early '80s,
+a new kind of company...
+
+874
+00:59:14,304 --> 00:59:17,206
+began to attract
+attention in Silicon Valley.
+
+875
+00:59:17,207 --> 00:59:20,207
+These proggrams
+are called software.
+
+876
+00:59:21,611 --> 00:59:24,611
+A Data Quest report says there
+are now 27,000 software programs
+on the market,
+
+877
+00:59:26,316 --> 00:59:29,316
+with a new product
+being introduced
+every 11 minutes.
+
+878
+00:59:30,220 --> 00:59:33,220
+Dick Kramlich
+had been listening to endless pitches
+from software entrepreneurs...
+
+879
+00:59:33,857 --> 00:59:36,325
+in his office at
+New Enterprise Associates,
+
+880
+00:59:36,326 --> 00:59:39,326
+a venture firm he'dco-founded
+after leaving Arthur Rock.
+
+881
+00:59:40,630 --> 00:59:43,630
+One day, an entrepreneur
+named Rob Campbell marched in.
+
+882
+00:59:45,402 --> 00:59:47,970
+I was out always
+looking for money.
+
+883
+00:59:47,971 --> 00:59:50,971
+And I was flying
+from Boston
+to California,
+
+884
+00:59:51,474 --> 00:59:54,109
+and I was sitting
+in the back of the plane
+in the cheap seats,
+
+885
+00:59:54,110 --> 00:59:56,078
+where entrepreneurs
+are supposed to sit.
+
+886
+00:59:56,079 --> 00:59:59,079
+And I noticed
+half the people on the plane
+had their briefcases open,
+
+887
+01:00:01,818 --> 01:00:04,818
+and they had overhead
+transparencies.
+
+888
+01:00:04,988 --> 01:00:07,556
+And they were
+thumbing through 'em'
+and theywere marking'em up.
+
+889
+01:00:09,693 --> 01:00:12,693
+That really was kind of the genesis
+of "Why PowerPoint?"
+
+890
+01:00:14,030 --> 01:00:16,332
+I liked the way Rob was doing this,
+
+891
+01:00:16,333 --> 01:00:19,333
+and I was really impressed
+with PowerPoint.
+
+892
+01:00:20,937 --> 01:00:23,937
+You see'
+you sort of automate
+a very cumbersome process,
+
+893
+01:00:24,240 --> 01:00:26,008
+and when you see it,
+you know it!
+
+894
+01:00:26,009 --> 01:00:29,009
+It's just
+that this goes right
+through your bones.
+
+895
+01:00:29,245 --> 01:00:32,081
+So, we started funding it.
+
+896
+01:00:32,082 --> 01:00:35,082
+Dick Kramlich's firm
+provided Rob Campbell's company,
+named Forethought,
+
+897
+01:00:35,919 --> 01:00:38,919
+with an initial round of funding
+to develop this new software.
+
+898
+01:00:39,656 --> 01:00:42,424
+But while the Forethought team
+was working on PowerPoint,
+
+899
+01:00:42,425 --> 01:00:45,425
+the company was giving its
+venture capitalists cause to worry.
+
+900
+01:00:46,830 --> 01:00:49,830
+Any new business
+seldom does what's written
+in the business plan.
+
+901
+01:00:51,368 --> 01:00:54,368
+And we had
+a multitude of problems.
+
+902
+01:00:54,404 --> 01:00:56,772
+Limitations of
+the operating system.
+
+903
+01:00:56,773 --> 01:00:59,041
+Months invested in trying-
+Couldn't develop it.
+
+904
+01:00:59,042 --> 01:01:02,042
+Engineering was delayed.
+Theywere all "R" and not much "D."
+
+905
+01:01:03,647 --> 01:01:05,681
+Decision on acquiring FileMaker-
+
+906
+01:01:05,682 --> 01:01:08,682
+Our largest distributor
+went into Chapter 7.
+
+907
+01:01:08,685 --> 01:01:11,685
+So the bankruptcy judge
+is now selling
+our products off.
+
+908
+01:01:15,692 --> 01:01:18,692
+Campbell's company was burning
+through its investment money fast.
+
+909
+01:01:19,162 --> 01:01:22,162
+He approached Kramlich
+and his partners,
+looking for another infusion of cash.
+
+910
+01:01:24,167 --> 01:01:26,835
+Rob came in
+and did a presentation'
+talked about FileMaker,
+
+911
+01:01:26,836 --> 01:01:29,672
+talked about what
+the presentation product
+was going to be.
+
+912
+01:01:29,673 --> 01:01:32,673
+N.E.A. had hired
+a-a new, um, partner,
+and he didn't like us.
+
+913
+01:01:35,912 --> 01:01:38,912
+He didn't like our company.
+I don't think he liked me.
+
+914
+01:01:38,982 --> 01:01:41,982
+And then my other partner got up
+and said, you know,
+
+915
+01:01:42,218 --> 01:01:45,218
+"Basically, you have one product
+where you pay too much in royalties,
+
+916
+01:01:45,555 --> 01:01:48,555
+and the other one
+which is not gonna work,
+so this isn't worth it.
+
+917
+01:01:48,558 --> 01:01:50,859
+Dick, we're saying no."
+
+918
+01:01:50,860 --> 01:01:53,860
+And I said, "No more money?"
+He said, "No more money."
+
+919
+01:01:57,233 --> 01:01:59,234
+Despite his partner's doubts,
+
+920
+01:01:59,235 --> 01:02:02,235
+Dick Kramlich wasn't ready
+to let PowerPoint go so easily.
+
+921
+01:02:03,206 --> 01:02:06,206
+My mother used to say,
+"Don't ever underestimate Dick.
+
+922
+01:02:07,610 --> 01:02:10,579
+'Cause if
+he takes on a challenge,
+he's going to get it done."
+
+923
+01:02:10,580 --> 01:02:13,580
+I said, "You know,
+this presentation product
+is really a pretty good product."
+
+924
+01:02:15,385 --> 01:02:18,385
+So I said, "Would you all mind
+if I did it myself?"
+
+925
+01:02:19,956 --> 01:02:22,391
+And they said,
+"Well, you can do
+what you want to do.
+
+926
+01:02:22,392 --> 01:02:25,392
+It's not gonna be a conflict,
+just so long as we don't have to
+put any more money in."
+
+927
+01:02:26,463 --> 01:02:29,463
+So I called my wife,
+and I said, "Pam, um,
+stop work on the house."
+
+928
+01:02:32,936 --> 01:02:35,936
+I said, "I'm gonna fund
+this company myself."
+
+929
+01:02:36,806 --> 01:02:39,806
+We would never do
+what Dick did. Never.
+
+930
+01:02:41,111 --> 01:02:43,912
+There's so many potential
+problems with a venture,
+
+931
+01:02:43,913 --> 01:02:46,913
+that if you have a serious partner,
+a good partner, who says,
+"I just don't see this"-
+
+932
+01:02:50,353 --> 01:02:51,987
+How can you proceed?
+
+933
+01:02:51,988 --> 01:02:54,988
+As a matter of policy, we wouldn't
+permit that in our place.
+
+934
+01:02:56,192 --> 01:02:57,693
+Well, he asked permission.
+
+935
+01:02:57,694 --> 01:03:00,694
+Well, we would say no.
+
+936
+01:03:01,564 --> 01:03:04,099
+Then there wouldn't be PowerPoint!
+
+937
+01:03:04,100 --> 01:03:07,100
+Good.
+
+938
+01:03:09,439 --> 01:03:12,439
+I remember telling Dick.
+I said, "Dick, you did not make
+a mistake."
+
+939
+01:03:16,613 --> 01:03:19,613
+I thought it would be
+a million-dollar product
+right out of the chute.
+
+940
+01:03:21,651 --> 01:03:24,651
+And, instead of a million dollars
+out of the chute, I thin kwe had
+two and a half to three.
+
+941
+01:03:27,657 --> 01:03:30,459
+It was much better
+than what I had hoped for.
+
+942
+01:03:30,460 --> 01:03:33,460
+And so, I was thinking
+this was enough
+to validate a public offering.
+
+943
+01:03:34,697 --> 01:03:37,697
+I think Dick would have liked us
+not to be acquired.
+
+944
+01:03:38,701 --> 01:03:41,701
+He said, "You know, wereally
+don't have the structure in this
+company to be a public company."
+
+945
+01:03:44,107 --> 01:03:47,107
+You know, I was nervous
+about access to capital.
+
+946
+01:03:47,577 --> 01:03:50,577
+He said, "Actually, we've been
+approached by Microsoft.
+
+947
+01:03:51,247 --> 01:03:54,247
+And they have a presentation product,
+but it's not nearly as good
+as PowerPoint.
+
+948
+01:03:55,218 --> 01:03:58,218
+And they would like to acquire us
+and kill their own project."
+
+949
+01:03:59,956 --> 01:04:02,956
+I said, "If that's
+the way you want to go,
+it's okay with me."
+
+950
+01:04:07,630 --> 01:04:10,630
+Another one of my greatest mistakes,
+of which I have many,
+
+951
+01:04:12,235 --> 01:04:15,235
+is when Microsoft
+did the acquisition,
+they wanted to do it all in stock.
+
+952
+01:04:18,374 --> 01:04:21,374
+So I was, like, "Oh, you know,
+Microsoft stock
+has way too much risk.
+
+953
+01:04:22,579 --> 01:04:25,447
+They could dump their stock
+on us at their peak!"
+
+954
+01:04:25,448 --> 01:04:28,448
+So we did an all-cash transaction.
+
+955
+01:04:28,451 --> 01:04:31,451
+And don't ask me to calculate
+what that cost all ofus.
+It's too- It's too hurtful.
+
+956
+01:04:34,591 --> 01:04:37,591
+♪♪
+
+957
+01:04:50,440 --> 01:04:53,440
+♪ Money don't get everything,
+it's true ♪
+
+958
+01:04:53,943 --> 01:04:55,711
+♪ What it don't get, I can't use ♪
+
+959
+01:04:55,712 --> 01:04:58,712
+♪ I want money ♪
+♪ That's what I want ♪
+
+960
+01:05:00,283 --> 01:05:03,283
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+961
+01:05:03,953 --> 01:05:06,953
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+962
+01:05:07,724 --> 01:05:10,692
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+963
+01:05:10,693 --> 01:05:12,995
+♪♪
+
+964
+01:05:12,996 --> 01:05:15,731
+The facts are, in Silicon Valley,
+
+965
+01:05:15,732 --> 01:05:18,732
+probably 40 % of the companies
+that are financed...
+
+966
+01:05:18,868 --> 01:05:21,236
+change presidents in 18 months.
+
+967
+01:05:21,237 --> 01:05:24,072
+I mean, I always tell
+the young C.E.O.'s,
+you're gonna work hard,
+
+968
+01:05:24,073 --> 01:05:26,408
+and you're gonna, you know,
+if you're lucky,
+
+969
+01:05:26,409 --> 01:05:28,610
+you're gonna be successful,
+and your company's
+gonna get big.
+
+970
+01:05:28,611 --> 01:05:31,611
+And then you're gonna get fired.
+
+971
+01:05:33,650 --> 01:05:36,551
+Firing people is always
+the hardest for me.
+
+972
+01:05:36,552 --> 01:05:38,220
+That's a gut-wrenching
+thing to do.
+
+973
+01:05:38,221 --> 01:05:39,888
+If they gotta go, they gotta go.
+
+974
+01:05:39,889 --> 01:05:42,889
+I'd rather find the right people
+and back them,
+
+975
+01:05:44,594 --> 01:05:47,594
+uh, than find the right idea
+and have to change the people.
+
+976
+01:05:49,032 --> 01:05:52,032
+Well, nobody plans to do that,
+but those are the facts.
+
+977
+01:05:55,071 --> 01:05:58,071
+So, I operate from the principle
+that-
+
+978
+01:05:58,942 --> 01:06:01,942
+Give him his shot.
+Help him as much as we can.
+Hope that he makes it.
+
+979
+01:06:03,913 --> 01:06:06,913
+If he doesn't make it,
+
+980
+01:06:07,050 --> 01:06:10,050
+off with his head
+and on to the next guy.
+
+981
+01:06:19,462 --> 01:06:22,462
+In 1984 Cisco Systems
+was a two-person company-
+
+982
+01:06:23,866 --> 01:06:26,866
+The husband-and-wife team
+of Len Bosack and Sandy Lerner.
+
+983
+01:06:27,971 --> 01:06:29,938
+Cisco was a typical start-up.
+
+984
+01:06:29,939 --> 01:06:31,907
+It was certainly
+run out of our house.
+
+985
+01:06:31,908 --> 01:06:34,908
+A number of very
+illustrious companies
+I think have that distinction.
+
+986
+01:06:37,547 --> 01:06:40,547
+through Cisco, Sandy and Len
+were early evangelists...
+
+987
+01:06:40,583 --> 01:06:43,185
+for what would one day
+be called the Internet,
+
+988
+01:06:43,186 --> 01:06:46,186
+but which, in 1984,
+was really just a jury-rigged
+network of computers,
+
+989
+01:06:47,724 --> 01:06:50,724
+used at universities
+and in the military.
+
+990
+01:06:51,294 --> 01:06:53,528
+Cisco's product
+was called a router.
+
+991
+01:06:53,529 --> 01:06:56,164
+And it solved a very big problem.
+
+992
+01:06:56,165 --> 01:06:59,165
+It allowed all kinds of computer
+systems to talk to each other easily
+for the very first time.
+
+993
+01:07:03,706 --> 01:07:06,706
+This opened the door
+to the development
+of an online world.
+
+994
+01:07:08,978 --> 01:07:11,978
+It was a desperately-needed
+product.
+
+995
+01:07:12,482 --> 01:07:15,482
+But... no one would finance Cisco.
+
+996
+01:07:20,923 --> 01:07:23,923
+We tried from the very beginning
+to-to get funding.
+
+997
+01:07:24,560 --> 01:07:26,862
+Uh, we just
+weren't successful.
+
+998
+01:07:26,863 --> 01:07:29,331
+We were not the first people
+to see it,
+
+999
+01:07:29,332 --> 01:07:32,134
+as armies of people
+have told me-
+
+1000
+01:07:32,135 --> 01:07:34,903
+That they saw it before we did,
+and they turned it down.
+
+1001
+01:07:34,904 --> 01:07:37,904
+They took the position
+that this wasn't
+a tenable business model.
+
+1002
+01:07:38,241 --> 01:07:41,241
+I-I don't think, in their position,
+I would have disagreed
+with that.
+
+1003
+01:07:43,079 --> 01:07:46,079
+But I wasn't in their position,
+and I did disagree with it.
+
+1004
+01:07:46,349 --> 01:07:49,349
+These things are not so clear.
+
+1005
+01:07:49,452 --> 01:07:52,452
+Different people
+see them differently.
+
+1006
+01:07:52,588 --> 01:07:55,588
+The person who got us involved
+with Cisco said,
+
+1007
+01:07:56,292 --> 01:07:59,292
+"You are probably the only person
+in North America...
+
+1008
+01:07:59,562 --> 01:08:02,562
+who would be willing to deal
+with these people."
+
+1009
+01:08:02,899 --> 01:08:05,467
+The people at Cisco-
+
+1010
+01:08:05,468 --> 01:08:08,468
+If you were designing
+hard-to-get-along-with
+people,
+
+1011
+01:08:09,372 --> 01:08:11,740
+they got the model
+right down.
+
+1012
+01:08:11,741 --> 01:08:14,741
+Difficult to do business with...
+on any basis.
+
+1013
+01:08:16,946 --> 01:08:19,946
+Totally intolerant of
+a mistake made by anybody.
+
+1014
+01:08:21,317 --> 01:08:24,317
+But very instrumental
+in starting that company.
+
+1015
+01:08:24,954 --> 01:08:27,954
+I think that we were difficult
+to workwith.
+
+1016
+01:08:28,558 --> 01:08:31,558
+We were all very independent.
+We were used to
+having our own way.
+
+1017
+01:08:32,328 --> 01:08:35,328
+You know,
+certainly there's the mind-set
+that has to go along...
+
+1018
+01:08:35,531 --> 01:08:38,531
+with years and years and years
+of people saying that, you know,
+
+1019
+01:08:39,102 --> 01:08:41,002
+"You can't do what
+you say you're going to do,"
+
+1020
+01:08:41,003 --> 01:08:44,003
+"You can't make money'
+even if you could do it,"
+
+1021
+01:08:44,173 --> 01:08:47,173
+um, and that "You're
+the wrong person to do it."
+
+1022
+01:08:50,913 --> 01:08:53,913
+We bought a third of the company
+for $2.8 million.
+
+1023
+01:08:54,750 --> 01:08:57,750
+And we had an agreement
+that basically said,
+
+1024
+01:08:58,488 --> 01:09:01,189
+"You get a third of the company'
+and we get a third of the company'
+
+1025
+01:09:01,190 --> 01:09:04,190
+and we will find the people
+to run this company."
+
+1026
+01:09:10,133 --> 01:09:12,100
+None ofus had ever
+built a company.
+
+1027
+01:09:12,101 --> 01:09:15,101
+We understood that
+there was an enormous need for-
+for more structure,
+
+1028
+01:09:17,773 --> 01:09:20,773
+and to bring in people that
+we had no way to reach.
+
+1029
+01:09:24,180 --> 01:09:27,180
+Sandy and Len aggreed to
+step down into new roles.
+
+1030
+01:09:29,385 --> 01:09:32,287
+And Don Valentine
+recruited John Morgridge,
+
+1031
+01:09:32,288 --> 01:09:35,288
+a veteran of several high-tech
+start-ups, to run Cisco.
+
+1032
+01:09:37,693 --> 01:09:40,693
+Morgridge's first task was to address
+what he and Don Valentine saw...
+
+1033
+01:09:42,198 --> 01:09:44,866
+as a troubled corporate culture.
+
+1034
+01:09:44,867 --> 01:09:47,867
+The quarter that I arrived,
+we hired a shrink.
+
+1035
+01:09:49,839 --> 01:09:52,839
+He eliminated fighting
+in the open hallways.
+
+1036
+01:09:53,776 --> 01:09:56,776
+Physical fighting, I mean.
+
+1037
+01:09:57,647 --> 01:10:00,282
+I actually had the, uh...
+
+1038
+01:10:00,283 --> 01:10:03,283
+vice president of engineering deck
+the sales vice president in my office!
+
+1039
+01:10:09,625 --> 01:10:12,625
+We really did have
+a trench mentality.
+
+1040
+01:10:13,763 --> 01:10:16,763
+This is not a good
+big-company mentality.
+Quelle surprise!
+
+1041
+01:10:17,733 --> 01:10:20,001
+But, on the other hand,
+
+1042
+01:10:20,002 --> 01:10:23,002
+I think that
+there was no one there
+in that original group...
+
+1043
+01:10:23,139 --> 01:10:26,139
+who didn't ardently
+love that company.
+
+1044
+01:10:28,678 --> 01:10:31,678
+As Cisco grew,
+a culture clash developed...
+
+1045
+01:10:32,048 --> 01:10:35,048
+between the original employees
+and the new hires.
+
+1046
+01:10:36,018 --> 01:10:39,018
+And ultimately, this clash
+centered on Sandy Lerner.
+
+1047
+01:10:40,590 --> 01:10:43,590
+She was definitely
+a strong personality,
+
+1048
+01:10:43,726 --> 01:10:46,726
+and she definitely was the reason
+the company existed.
+
+1049
+01:10:48,264 --> 01:10:51,264
+Sandy was an incredible piece
+in the puzzle...
+
+1050
+01:10:53,502 --> 01:10:56,502
+of getting things done right
+for the customer.
+
+1051
+01:10:56,772 --> 01:10:59,772
+Silicon Valley has not always
+been the place where
+the customer's thought of first.
+
+1052
+01:11:02,912 --> 01:11:05,912
+They may, in some places,
+be thought of second or third.
+
+1053
+01:11:06,115 --> 01:11:09,115
+But Sandywas ensuring
+that the customer
+was thought of first.
+
+1054
+01:11:12,588 --> 01:11:15,588
+Unfortunately, at the expense
+of some of the other
+major managers.
+
+1055
+01:11:20,363 --> 01:11:23,363
+I had very much alienated
+the other people in the company,
+
+1056
+01:11:25,534 --> 01:11:28,534
+because, you know, other than Len,
+they hadn't been there very long,
+
+1057
+01:11:30,072 --> 01:11:33,072
+and, you know, I saw them,
+rightly or wrongly,
+
+1058
+01:11:34,210 --> 01:11:37,210
+as the people I was trying
+to protect the customers from.
+
+1059
+01:11:38,214 --> 01:11:41,214
+By her own admission,
+she would detonate.
+
+1060
+01:11:42,752 --> 01:11:45,752
+Usually in my office.
+
+1061
+01:11:46,856 --> 01:11:49,856
+At Cisco, you know,
+being the only woman
+and a technical woman,
+
+1062
+01:11:51,227 --> 01:11:53,328
+I think I was just very,
+very frightening.
+
+1063
+01:11:53,329 --> 01:11:56,329
+And there just
+wasn't a box for me.
+
+1064
+01:11:56,332 --> 01:11:59,332
+And I think that I didn't make it...
+
+1065
+01:11:59,869 --> 01:12:02,869
+particularly easy
+for them to ignore me.
+
+1066
+01:12:03,005 --> 01:12:06,005
+And I didn't make it
+particularly easy for them
+to find a suitable box.
+
+1067
+01:12:07,910 --> 01:12:10,578
+Um, in that, you know,
+
+1068
+01:12:10,579 --> 01:12:13,579
+the boxes that existed for women
+at the time didn't seem to fit
+what I thought I-I was doing.
+
+1069
+01:12:20,456 --> 01:12:23,456
+Finally one day,
+
+1070
+01:12:24,393 --> 01:12:27,393
+my assistant said
+the conference room is filled...
+
+1071
+01:12:30,132 --> 01:12:33,132
+with eight Cisco employees
+demanding to see you.
+
+1072
+01:12:37,039 --> 01:12:40,039
+All of the vice presidents
+of the company
+were in the conference room.
+
+1073
+01:12:41,110 --> 01:12:44,110
+They walked up Sand Hill Road
+and said, "Either she goes, or we go."
+
+1074
+01:12:46,315 --> 01:12:49,315
+"Terminate her,
+or we're quitting.
+
+1075
+01:12:49,952 --> 01:12:52,087
+All of us."
+
+1076
+01:12:52,088 --> 01:12:55,088
+And he called me and said, uh,
+"Do you want me to handle this?"
+
+1077
+01:12:56,058 --> 01:12:58,526
+And I said, "No, I'll handle it."
+
+1078
+01:12:58,527 --> 01:13:01,527
+And Sandy was retired.
+
+1079
+01:13:04,367 --> 01:13:07,367
+First of all, I mean,
+let's just get it out.
+I was fired.
+
+1080
+01:13:10,573 --> 01:13:13,573
+John called me into his office.
+
+1081
+01:13:15,378 --> 01:13:18,378
+He said, "You know,
+
+1082
+01:13:19,215 --> 01:13:20,815
+you're now worth
+so much money,
+
+1083
+01:13:20,816 --> 01:13:23,816
+it really doesn't make any sense
+foryou to work this hard.
+
+1084
+01:13:24,620 --> 01:13:27,620
+You know,
+I think it's just a good idea...
+
+1085
+01:13:28,290 --> 01:13:31,290
+if you just, you know,
+retire at this point."
+
+1086
+01:13:32,762 --> 01:13:35,196
+I said, "But, John,
+I have a lot to do here.
+
+1087
+01:13:35,197 --> 01:13:38,197
+I-You know, I think I have
+a, you know, a place in-
+in the company,
+
+1088
+01:13:40,636 --> 01:13:43,338
+and I-I-I don't really
+want to retire right now."
+
+1089
+01:13:43,339 --> 01:13:45,473
+I was... 35 years old.
+
+1090
+01:13:45,474 --> 01:13:48,474
+Um, and he said, "Well,
+
+1091
+01:13:48,911 --> 01:13:51,911
+I think today's your last day."
+
+1092
+01:13:53,382 --> 01:13:56,382
+I walked to Len's office'
+where Len informed me that
+I must surely be mistaken.
+
+1093
+01:14:00,556 --> 01:14:03,556
+And I sat in Len's office
+while Len went up
+and talked to John.
+
+1094
+01:14:04,059 --> 01:14:07,059
+And, uh, came back and
+walked out the door with me.
+
+1095
+01:14:10,933 --> 01:14:13,933
+And we never walked back in.
+
+1096
+01:14:18,207 --> 01:14:21,207
+You know, this idea that 45 %
+of founders will be gone
+in 18 months?
+
+1097
+01:14:23,412 --> 01:14:26,314
+In retrospect,
+that was clearly the mind-set.
+
+1098
+01:14:26,315 --> 01:14:29,315
+Len and I clearly did not understand
+that that was the game
+that we were playing.
+
+1099
+01:14:30,186 --> 01:14:33,186
+You know,
+the first rule of any game is
+to know that you're in one.
+
+1100
+01:14:35,157 --> 01:14:38,157
+It's an unpleasant thing to do,
+to fire anybody.
+
+1101
+01:14:39,195 --> 01:14:42,195
+But it's clearly the facts of life.
+
+1102
+01:14:47,236 --> 01:14:50,236
+I think
+each of them went away
+with 170 million.
+
+1103
+01:14:51,640 --> 01:14:54,640
+I don't know
+how people think of
+what comes next...
+
+1104
+01:14:54,877 --> 01:14:56,845
+after the first 170 million,
+
+1105
+01:14:56,846 --> 01:14:59,846
+but, uh, I don't think they've
+ever forgiven either of us.
+
+1106
+01:15:06,088 --> 01:15:09,088
+I was once asked,
+did I start Cisco to make
+a whole bunch of money?
+
+1107
+01:15:10,359 --> 01:15:13,359
+And I said, "No.
+If I measured myself that way'
+
+1108
+01:15:13,996 --> 01:15:16,996
+I probably couldn't look at myself
+in the mirror in the morning."
+
+1109
+01:15:17,066 --> 01:15:20,066
+Um, I don't.
+I think I've been a pretty good
+tool-user, and money is a tool.
+
+1110
+01:16:12,521 --> 01:16:15,089
+You know, technology
+keeps evolving,
+
+1111
+01:16:15,090 --> 01:16:18,090
+and ever since
+Leonardo da Vinci,
+it's been evolving,
+
+1112
+01:16:20,195 --> 01:16:23,195
+and it will continue to evolve
+through good times and bad times.
+
+1113
+01:16:23,666 --> 01:16:26,666
+It will evolve.
+
+1114
+01:16:27,903 --> 01:16:30,903
+Venture capital
+is here to stay though.
+
+1115
+01:16:41,483 --> 01:16:44,483
+Well, I get my greatest
+satisfaction out of thinking back
+on the companies...
+
+1116
+01:16:47,022 --> 01:16:50,022
+that I helped start
+and helped grow.
+
+1117
+01:16:58,701 --> 01:17:01,701
+It's... nice to sit in the glow
+of your adulation,
+
+1118
+01:17:03,372 --> 01:17:06,372
+but... without the entrepreneurs,
+you're nothing!
+
+1119
+01:17:08,344 --> 01:17:11,344
+You have to have these
+real people with the ideas...
+
+1120
+01:17:11,914 --> 01:17:14,515
+and their willingness
+to commit their life.
+
+1121
+01:17:14,516 --> 01:17:16,884
+I don't think,
+and I would not say...
+
+1122
+01:17:16,885 --> 01:17:19,885
+that Silicon Valley is the result
+of good venture capitalists.
+
+1123
+01:17:21,790 --> 01:17:23,191
+Not at all.
+
+1124
+01:17:23,192 --> 01:17:24,759
+Entrepreneurship
+is the main show.
+
+1125
+01:17:24,760 --> 01:17:27,528
+Venture capital is an aid,
+and sometimes people got lost-
+
+1126
+01:17:27,529 --> 01:17:29,230
+"We must have venture capital."
+
+1127
+01:17:29,231 --> 01:17:32,231
+No use having venture capital
+unless you have entrepreneurs.
+
+1128
+01:17:32,434 --> 01:17:35,434
+If it hadn't been for
+the Treybigs and Swansons,
+
+1129
+01:17:35,604 --> 01:17:38,604
+where would Kleiner and I
+have been?
+
+1130
+01:17:42,978 --> 01:17:45,978
+Without venture capital,
+the future wouldn't happen
+nearly as quickly.
+
+1131
+01:17:48,951 --> 01:17:51,951
+New companies are much better
+at exploiting new technology.
+
+1132
+01:17:52,821 --> 01:17:55,289
+They can extend
+and exploit a new idea.
+
+1133
+01:17:55,290 --> 01:17:58,290
+We would all have a lower
+standard of living, worldwide.
+
+1134
+01:17:59,094 --> 01:18:02,030
+It clearly got
+the first man to the moon.
+
+1135
+01:18:02,031 --> 01:18:04,899
+It clearly got, you know,
+
+1136
+01:18:04,900 --> 01:18:07,900
+everything from
+we're country code 1
+in the telephone system to,
+
+1137
+01:18:09,004 --> 01:18:10,638
+you know, the Internet.
+
+1138
+01:18:10,639 --> 01:18:13,639
+I think you can't ignore
+the role ofventure capital.
+
+1139
+01:18:16,445 --> 01:18:19,445
+You know, can you imagine,
+a guy going in and talking to a banker,
+
+1140
+01:18:19,448 --> 01:18:22,448
+and he says, you know,
+"Look, I want to start
+delivering mail by jets."
+
+1141
+01:18:23,919 --> 01:18:26,919
+We go into Kleiner Perkins,
+we say we want to make
+insulin in bacteria,
+
+1142
+01:18:27,690 --> 01:18:28,956
+and he goes, "Okay!"
+
+1143
+01:18:28,957 --> 01:18:31,957
+Great things don't really
+come out of the status quo.
+
+1144
+01:18:33,162 --> 01:18:36,162
+They come out of people
+with vision and drive
+to prove the difference.
+
+1145
+01:18:36,932 --> 01:18:39,932
+This underlying technology
+was there,
+
+1146
+01:18:40,636 --> 01:18:43,636
+and there was nowhere
+for it to go, until, you know,
+
+1147
+01:18:45,574 --> 01:18:48,209
+the venture capital
+is up here, saying,
+
+1148
+01:18:48,210 --> 01:18:51,210
+"We've got some money.
+Let's take a chance."
+
+1149
+01:18:56,885 --> 01:18:59,885
+We need guys with new ideas
+about how to do things.
+
+1150
+01:19:00,189 --> 01:19:02,490
+All these ideas-
+You gotta get to the frontier.
+
+1151
+01:19:02,491 --> 01:19:04,125
+Do something. Build a company.
+
+1152
+01:19:04,126 --> 01:19:06,661
+The entrepreneurial spirit.
+The entrepreneurial spirit.
+
+1153
+01:19:06,662 --> 01:19:08,896
+Entrepreneurship.
+Making the world go round.
+
+1154
+01:19:08,897 --> 01:19:10,732
+Hard-working, visionary.
+
+1155
+01:19:10,733 --> 01:19:13,601
+Change the way people work,
+educate their kids.
+
+1156
+01:19:13,602 --> 01:19:16,602
+And you can do it.
+
+1157
+01:21:47,456 --> 01:21:50,456
+♪♪
+
+1158
+01:22:03,138 --> 01:22:06,138
+♪ The best things in life are free ♪
+
+1159
+01:22:06,742 --> 01:22:09,377
+♪ But you can give them
+to the birds and bees ♪
+
+1160
+01:22:09,378 --> 01:22:12,378
+♪ I want money ♪
+♪ That's what I want ♪
+
+1161
+01:22:13,115 --> 01:22:16,115
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1162
+01:22:16,785 --> 01:22:19,785
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1163
+01:22:20,355 --> 01:22:23,355
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1164
+01:22:25,294 --> 01:22:28,294
+♪ Your love gives me such a thrill? ♪
+
+1165
+01:22:28,897 --> 01:22:31,032
+♪ But your love
+won't pay my bills ♪
+
+1166
+01:22:31,033 --> 01:22:34,033
+♪ I want money ♪
+♪ That's what I want ♪
+
+1167
+01:22:35,304 --> 01:22:38,304
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1168
+01:22:39,107 --> 01:22:42,107
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1169
+01:22:42,811 --> 01:22:45,811
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1170
+01:22:47,616 --> 01:22:50,616
+♪♪
+
+1171
+01:23:10,038 --> 01:23:13,038
+♪ Money don't get everything,
+it's true ♪
+
+1172
+01:23:13,308 --> 01:23:15,509
+♪ What it don't get, I can't use ♪
+
+1173
+01:23:15,510 --> 01:23:18,510
+♪ I want money ♪
+♪ That's what I want ♪
+
+1174
+01:23:19,881 --> 01:23:22,881
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1175
+01:23:23,618 --> 01:23:26,618
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1176
+01:23:27,322 --> 01:23:30,322
+♪ That's what I want ♪
+♪ That's what I want ♪
+
+1177
+01:23:32,294 --> 01:23:35,294
+♪ That's what I want ♪
+♪ I want money
+I want lots of money ♪
+
+1178
+01:23:38,500 --> 01:23:41,500
+♪ In fact, I want so much money ♪
+♪ That's what I want ♪
+
+1179
+01:23:42,904 --> 01:23:45,904
+♪ Give me your money?
+♪ That's what I want ♪
+
+1180
+01:23:46,675 --> 01:23:49,675
+♪ Just give me money ♪
+♪ That's what I want ♪
+
+1181
+01:23:50,779 --> 01:23:53,779
+♪ That's what I want ♪
+
+1182
+01:24:01,690 --> 01:24:04,690
+♪♪
+
+1183
+01:24:17,372 --> 01:24:20,372
+♪♪

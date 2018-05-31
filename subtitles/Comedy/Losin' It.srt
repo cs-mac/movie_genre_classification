@@ -1,0 +1,61 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Russ - Losin Control (Official Video)
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,15,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,9,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.50,0:00:25.60,Default,,0,0,0,,She's falling in love now, losing control now
+Dialogue: 0,0:00:25.62,0:00:28.02,Default,,0,0,0,,Fighting the truth, trying to hide
+Dialogue: 0,0:00:28.04,0:00:33.14,Default,,0,0,0,,But I think it's alright, girl
+Dialogue: 0,0:00:33.17,0:00:40.17,Default,,0,0,0,,Yeah, I think it's alright, girl, ooh
+Dialogue: 0,0:00:40.19,0:00:45.29,Default,,0,0,0,,She's falling in love now, losing control now
+Dialogue: 0,0:00:45.32,0:00:47.72,Default,,0,0,0,,Fighting the truth, trying to hide
+Dialogue: 0,0:00:47.74,0:00:52.84,Default,,0,0,0,,But I think it's alright, girl
+Dialogue: 0,0:00:52.86,0:01:00.16,Default,,0,0,0,,Yeah, I think it's alright, girl, ooh
+Dialogue: 0,0:01:00.19,0:01:04.39,Default,,0,0,0,,She's falling but she doesn't think he'll catch her
+Dialogue: 0,0:01:04.41,0:01:09.21,Default,,0,0,0,,'Cause her last relationship was a disaster
+Dialogue: 0,0:01:09.24,0:01:14.34,Default,,0,0,0,,Accusations everyday, she didn't know why
+Dialogue: 0,0:01:14.36,0:01:19.06,Default,,0,0,0,,All her calls would be ignored, he's on his own time
+Dialogue: 0,0:01:19.08,0:01:21.48,Default,,0,0,0,,Should've ended it before it started
+Dialogue: 0,0:01:21.51,0:01:24.01,Default,,0,0,0,,All she ever got was broken hearted
+Dialogue: 0,0:01:24.03,0:01:26.53,Default,,0,0,0,,He was cheating on her, trying to flip it...
+Dialogue: 0,0:01:26.56,0:01:28.96,Default,,0,0,0,,back on her like a victim
+Dialogue: 0,0:01:28.98,0:01:31.48,Default,,0,0,0,,Now she all alone and starting over
+Dialogue: 0,0:01:31.50,0:01:33.90,Default,,0,0,0,,Now she got baggage on her shoulder
+Dialogue: 0,0:01:33.93,0:01:36.33,Default,,0,0,0,,But the new guy really loves her
+Dialogue: 0,0:01:36.35,0:01:39.95,Default,,0,0,0,,She loves him, but she doesn't trust herself anymore
+Dialogue: 0,0:01:39.98,0:01:45.08,Default,,0,0,0,,She's falling in love now, losing control now
+Dialogue: 0,0:01:45.10,0:01:47.50,Default,,0,0,0,,Fighting the truth, trying to hide
+Dialogue: 0,0:01:47.52,0:01:52.62,Default,,0,0,0,,But I think it's alright, girl
+Dialogue: 0,0:01:52.65,0:01:59.65,Default,,0,0,0,,Yeah, I think it's alright, girl, ooh
+Dialogue: 0,0:01:59.67,0:02:04.77,Default,,0,0,0,,She's falling in love now, losing control now
+Dialogue: 0,0:02:04.80,0:02:07.20,Default,,0,0,0,,Fighting the truth, trying to hide
+Dialogue: 0,0:02:07.22,0:02:12.32,Default,,0,0,0,,But I think it's alright, girl
+Dialogue: 0,0:02:12.34,0:02:19.44,Default,,0,0,0,,Yeah, I think it's alright, girl, ooh
+Dialogue: 0,0:02:19.46,0:02:24.26,Default,,0,0,0,,Despite her past, she can't help the attraction
+Dialogue: 0,0:02:24.28,0:02:28.98,Default,,0,0,0,,He tells her that he's nothing like the last one
+Dialogue: 0,0:02:29.01,0:02:33.81,Default,,0,0,0,,He redefines in every way what love is
+Dialogue: 0,0:02:33.93,0:02:38.03,Default,,0,0,0,,She fell for him and hasn't gotten up since
+Dialogue: 0,0:02:38.06,0:02:40.46,Default,,0,0,0,,Every now and then, she goes off, though
+Dialogue: 0,0:02:40.48,0:02:43.18,Default,,0,0,0,,Beating on his chest like a bongo
+Dialogue: 0,0:02:43.20,0:02:45.70,Default,,0,0,0,,He understands she's coming from a hurt place
+Dialogue: 0,0:02:45.73,0:02:48.03,Default,,0,0,0,,Answers all the questions on her survey
+Dialogue: 0,0:02:48.05,0:02:50.55,Default,,0,0,0,,Doesn't get jealous, doesn't break trust
+Dialogue: 0,0:02:50.58,0:02:52.88,Default,,0,0,0,,Doesn’t call her, "Hoe" after hang-ups
+Dialogue: 0,0:02:52.90,0:02:55.50,Default,,0,0,0,,Give her everything she ever wanted
+Dialogue: 0,0:02:55.52,0:02:58.02,Default,,0,0,0,,And even though she still feels haunted
+Dialogue: 0,0:02:58.05,0:03:03.75,Default,,0,0,0,,She's falling in love now, losing control now
+Dialogue: 0,0:03:03.77,0:03:06.17,Default,,0,0,0,,Fighting the truth, trying to hide
+Dialogue: 0,0:03:06.19,0:03:11.29,Default,,0,0,0,,But I think it's alright, girl
+Dialogue: 0,0:03:11.32,0:03:18.32,Default,,0,0,0,,Yeah, I think it's alright, girl, ooh
+Dialogue: 0,0:03:18.34,0:03:23.44,Default,,0,0,0,,She's falling in love now, losing control now
+Dialogue: 0,0:03:23.47,0:03:25.87,Default,,0,0,0,,Fighting the truth, trying to hide
+Dialogue: 0,0:03:25.89,0:03:30.99,Default,,0,0,0,,But I think it's alright, girl
+Dialogue: 0,0:03:31.01,0:03:38.31,Default,,0,0,0,,Yeah, I think it's alright, girl, ooh

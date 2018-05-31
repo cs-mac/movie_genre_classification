@@ -1,0 +1,2130 @@
+﻿1
+00:04:29,004 --> 00:04:31,031
+Hi Dad! You're finally home.
+How was the hospital?
+
+2
+00:04:31,032 --> 00:04:33,652
+As usual, you know.
+
+3
+00:04:37,459 --> 00:04:39,454
+Let me rest five minutes,
+
+4
+00:04:39,455 --> 00:04:41,805
+then get your things
+and come in the office.
+
+5
+00:05:14,526 --> 00:05:17,350
+No clearly, you haven't understood
+the main point.
+
+6
+00:05:18,514 --> 00:05:20,546
+When one can't figure
+the antiderivativa
+
+7
+00:05:20,547 --> 00:05:21,818
+of an integral function,
+
+8
+00:05:21,819 --> 00:05:26,310
+one uses the integration by parts.
+Here, for example.
+
+9
+00:05:29,872 --> 00:05:30,392
+Now…
+
+10
+00:05:32,098 --> 00:05:37,134
+We don't know how to calculate
+the antiderivative of xcos(x).
+
+11
+00:05:37,927 --> 00:05:39,629
+But since we know the product,
+
+12
+00:05:39,630 --> 00:05:43,998
+we can try the calculation
+of the integration by parts.
+
+13
+00:05:43,999 --> 00:05:50,122
+Suppose that u'(x)=cosx and v(x)=x.
+Then u(x)=sinx et v'(x)=1. Thus:
+
+14
+00:05:50,123 --> 00:05:52,681
+<i>"Idle Youth
+By all things enslaved"</i>
+
+15
+00:05:52,682 --> 00:05:55,827
+<i>Through sensitivity
+I've wasted my days.</i>
+
+16
+00:05:55,828 --> 00:06:01,483
+<i>Let the moment come
+When hearts love as one.</i>
+
+17
+00:06:01,484 --> 00:06:04,721
+<i>I told myself: Wait
+And let no one see:</i>
+
+18
+00:06:04,722 --> 00:06:07,550
+<i>And without the promise
+Of true ecstasy.</i>
+
+19
+00:06:07,551 --> 00:06:10,497
+<i>Let nothing delay
+This hiding away.</i>
+
+20
+00:06:10,498 --> 00:06:12,923
+<i>I've been patient so long</i>
+
+21
+00:06:12,924 --> 00:06:15,668
+<i>I've forgotten even
+The terror and suffering</i>
+
+22
+00:06:15,669 --> 00:06:17,139
+<i>Flown up to heaven,</i>
+
+23
+00:06:17,140 --> 00:06:20,275
+<i>A sick thirst again
+Darkens my veins.</i>
+
+24
+00:06:20,276 --> 00:06:23,394
+<i>So the meadow Freed by neglect,</i>
+
+25
+00:06:23,395 --> 00:06:25,340
+<i>Flowered, overgrown</i>
+
+26
+00:06:26,047 --> 00:06:29,526
+<i>With weeds and incense,
+To the buzzing nearby</i>
+
+27
+00:06:29,527 --> 00:06:31,524
+<i>Of a hundred foul flies.</i>
+
+28
+00:06:31,525 --> 00:06:36,287
+<i>Thousand widowhoods
+Of a soul so poor</i>
+
+29
+00:06:36,288 --> 00:06:39,222
+<i>It bears only the image
+Of our Lady before!</i>
+
+30
+00:06:39,223 --> 00:06:41,011
+<i>Does one then pray, Lucille?</i>
+
+31
+00:06:41,012 --> 00:06:42,465
+<i>To the Virgin today?</i>
+
+32
+00:06:43,396 --> 00:06:46,560
+<i>"Idle Youth
+By all things enslaved…" Lucille!</i>
+
+33
+00:06:49,360 --> 00:06:50,217
+Lucille!
+
+34
+00:07:03,202 --> 00:07:04,590
+It is 8:05!
+
+35
+00:07:04,591 --> 00:07:07,069
+Excuse me, I didn't hear.
+I was reading.
+
+36
+00:07:08,725 --> 00:07:11,567
+If you wish to read, do so in
+the evening, after supper…
+
+37
+00:07:11,568 --> 00:07:12,804
+Yes father.
+
+38
+00:07:12,805 --> 00:07:15,555
+Next time you go without supper
+if you insist on arriving late.
+
+39
+00:07:34,082 --> 00:07:36,977
+Such a storm this morning!
+
+40
+00:07:37,592 --> 00:07:39,378
+The weather is crazy.
+
+41
+00:07:40,464 --> 00:07:43,894
+When I was young it never
+rained this time of year.
+
+42
+00:07:44,619 --> 00:07:48,452
+Human beings consume too much.
+We're suffocating the planet.
+
+43
+00:07:48,825 --> 00:07:51,147
+Can they prove it
+scientifically, dad?
+
+44
+00:07:51,827 --> 00:07:53,068
+Yes… naturally…
+
+45
+00:07:53,630 --> 00:07:57,208
+If you'ld like to learn more, I could get
+you an advanced text on meteorology.
+
+46
+00:07:58,439 --> 00:08:00,330
+For your 18th birthday.
+
+47
+00:08:02,077 --> 00:08:03,041
+For my birthday?
+
+48
+00:08:03,042 --> 00:08:05,285
+That would be a good
+practical present.
+
+49
+00:08:05,885 --> 00:08:06,470
+Yes, but…
+
+50
+00:08:06,471 --> 00:08:08,590
+Practical and educational.
+
+51
+00:08:09,451 --> 00:08:12,732
+A far cry from our
+advertising TV culture.
+
+52
+00:08:13,129 --> 00:08:16,034
+What I'ld really like to do is…
+to go to college…
+
+53
+00:08:16,580 --> 00:08:19,175
+that would be educational…
+to study poetry.
+
+54
+00:08:21,164 --> 00:08:21,991
+Poetry?
+
+55
+00:08:21,992 --> 00:08:25,553
+Yeah… Oscar Wilde, Rimbaud,
+Baudelaire... and literature too.
+
+56
+00:08:28,068 --> 00:08:30,328
+What good is studying
+literature and poetry?
+
+57
+00:08:31,133 --> 00:08:33,430
+You can read yourself
+and that's sufficient.
+
+58
+00:08:33,804 --> 00:08:36,481
+Oscar Wilde doesn't deserve
+all the attention you give him.
+
+59
+00:08:37,178 --> 00:08:40,846
+The man was a pervert and it's just
+as well that he was imprisoned.
+
+60
+00:08:41,957 --> 00:08:44,318
+And if you'd like
+to write poetry
+
+61
+00:08:44,319 --> 00:08:47,672
+you can do it to your heart's
+content right here at home.
+
+62
+00:08:48,411 --> 00:08:50,984
+But I'd learn more if
+I went away to college.
+
+63
+00:08:50,985 --> 00:08:54,448
+Not really… One doesn't learn
+as effectively in a group setting.
+
+64
+00:08:55,038 --> 00:08:57,632
+But since you really don't like
+teaching me poetry…
+
+65
+00:08:57,633 --> 00:09:00,035
+You'd be better off
+with the sciences.
+
+66
+00:09:02,067 --> 00:09:05,402
+You could help me here. Before you
+wanted to be a doctor, like me.
+
+67
+00:09:05,403 --> 00:09:06,876
+I've changed my mind.
+
+68
+00:09:11,393 --> 00:09:15,190
+And that's just the problem.
+You never stick with anything.
+
+69
+00:09:16,275 --> 00:09:18,715
+Remember what happened
+when you were twelve?
+
+70
+00:09:18,974 --> 00:09:20,835
+You wanted to go away
+to boarding school,
+
+71
+00:09:20,836 --> 00:09:22,766
+but you were back home
+three months later.
+
+72
+00:09:23,568 --> 00:09:25,891
+You told me that you
+couldn't make any friends
+
+73
+00:09:26,387 --> 00:09:31,449
+and that you cried yourself to sleep
+each night. Isn't that right?
+
+74
+00:10:10,303 --> 00:10:14,397
+<i>When your mother was
+sick those two long years…</i>
+
+75
+00:10:14,398 --> 00:10:16,091
+<i>What good is studying
+literature and poetry?</i>
+
+76
+00:10:16,092 --> 00:10:17,583
+<i>… your father asked me …</i>
+
+77
+00:10:17,584 --> 00:10:19,672
+<i>You can read yourself
+and that's sufficient.</i>
+
+78
+00:10:19,673 --> 00:10:20,949
+<i>To come and take care of you…</i>
+
+79
+00:10:20,950 --> 00:10:23,939
+<i>The man was a pervert and it's just
+as well that he was imprisoned.</i>
+
+80
+00:10:23,940 --> 00:10:25,398
+<i>… but I couldn't come then.</i>
+
+81
+00:10:25,399 --> 00:10:27,995
+<i>Now, clearly, you haven't understood
+the main point.</i>
+
+82
+00:10:33,641 --> 00:10:36,344
+<i>You'd be better off
+with the sciences.</i>
+
+83
+00:10:36,345 --> 00:10:38,874
+<i>And if you wish to write poetry</i>
+
+84
+00:10:38,875 --> 00:10:41,767
+<i>you can do it to your heart's
+content right here at home.</i>
+
+85
+00:10:52,375 --> 00:10:55,662
+<i>I hate you! Let me out!</i>
+
+86
+00:10:56,393 --> 00:10:58,131
+<i>Let me out!</i>
+
+87
+00:11:01,402 --> 00:11:03,507
+<i>You're all that he has.</i>
+
+88
+00:12:46,457 --> 00:12:48,327
+Thank you. Goodbye.
+
+89
+00:13:26,472 --> 00:13:28,289
+<i>I am Lucille's great aunt.</i>
+
+90
+00:13:28,290 --> 00:13:31,911
+<i>I'm so glad that you've come
+to help with her care.</i>
+
+91
+00:13:31,912 --> 00:13:36,991
+<i>Joan Genova. Yes. I'm thankful for
+the opportunity to be here.</i>
+
+92
+00:13:37,395 --> 00:13:40,361
+<i>I hope it wasn't too hard
+to get out here.</i>
+
+93
+00:13:40,362 --> 00:13:44,937
+<i>Oh no no. I managed to find a driver
+who knew the way from the main station.</i>
+
+94
+00:13:46,452 --> 00:13:48,477
+So, you are from Italy?
+
+95
+00:13:48,478 --> 00:13:50,752
+Yes, from Calabria, the mountains.
+
+96
+00:13:50,753 --> 00:13:54,251
+When I was 15 my parents
+sent me to my uncle's in Boston.
+
+97
+00:13:54,517 --> 00:13:56,756
+I imagine you must resemble
+your mother?
+
+98
+00:13:57,305 --> 00:13:58,225
+Yes.
+
+99
+00:13:58,732 --> 00:14:02,207
+In our family too, the girls
+all resemble their mother.
+
+100
+00:14:03,059 --> 00:14:07,975
+Let me show you to Arthur's.
+I'm sorry, Doctor Baert's office.
+
+101
+00:14:07,976 --> 00:14:09,244
+Thank you.
+
+102
+00:14:15,413 --> 00:14:16,567
+Come in.
+
+103
+00:14:19,965 --> 00:14:22,499
+Please be seated, Miss Genova.
+
+104
+00:14:27,068 --> 00:14:28,501
+You are later than we expected you.
+
+105
+00:14:28,502 --> 00:14:29,960
+Yes, I'm so sorry.
+
+106
+00:14:31,103 --> 00:14:32,539
+I shall explain the situation.
+
+107
+00:14:32,704 --> 00:14:36,835
+One week ago my daughter
+had an accident.
+
+108
+00:14:39,115 --> 00:14:41,649
+She suffered third degree
+burns on her face
+
+109
+00:14:42,140 --> 00:14:45,365
+and tissue loss around
+the left cheek and nose.
+
+110
+00:14:46,471 --> 00:14:47,847
+After first making an incision,
+
+111
+00:14:47,848 --> 00:14:50,985
+I treated the most serious wounds
+with a series of allografts
+
+112
+00:14:52,000 --> 00:14:55,438
+through which I have avoided any serious
+hydro-electrical complications.
+
+113
+00:14:58,693 --> 00:15:00,604
+She shows no respiratory
+complications, but
+
+114
+00:15:00,605 --> 00:15:05,875
+you must nonetheless observe closely
+to forestall any hypermetabolisation,
+
+115
+00:15:06,586 --> 00:15:11,372
+guard against infection, and help
+her maintain nutritional levels.
+
+116
+00:15:13,505 --> 00:15:16,279
+I would like her watched
+twenty-four hours day.
+
+117
+00:15:17,074 --> 00:15:19,917
+I shall remain with her as much
+as is necessary.
+
+118
+00:15:23,021 --> 00:15:26,588
+In this house I do not wish to hear
+any mention of the hospital.
+
+119
+00:15:27,223 --> 00:15:29,679
+Yes, of course.
+
+120
+00:15:34,145 --> 00:15:36,275
+I will show you to your room.
+
+121
+00:15:37,316 --> 00:15:39,134
+Those are Italian shoes, right?
+
+122
+00:15:40,652 --> 00:15:41,980
+Yes.
+
+123
+00:15:41,981 --> 00:15:43,496
+Very good.
+
+124
+00:15:54,188 --> 00:15:57,252
+"Pharmaceutical Formulary for
+Surgeons and Nurses."
+
+125
+00:17:14,198 --> 00:17:17,319
+Lucille, your nurse has arrived.
+
+126
+00:17:17,815 --> 00:17:18,864
+Come in.
+
+127
+00:17:26,659 --> 00:17:28,092
+Good morning, Lucille.
+
+128
+00:17:28,093 --> 00:17:31,313
+She remains in a state of shock.
+
+129
+00:17:31,912 --> 00:17:34,902
+Mutism and paralysis
+of the extremities.
+
+130
+00:17:37,679 --> 00:17:42,578
+Bandages, compresses, disinfection,
+sodium chloride solution
+
+131
+00:17:43,109 --> 00:17:44,838
+cortisone, everything
+you need is right here.
+
+132
+00:17:44,839 --> 00:17:45,636
+Very good.
+
+133
+00:17:45,637 --> 00:17:49,572
+You will give her six of these
+and two capsules four times a day.
+
+134
+00:17:52,040 --> 00:17:53,314
+I must leave now.
+
+135
+00:17:55,784 --> 00:17:58,697
+I'll be back at 6:30 sharp if
+I have no emergencies.
+
+136
+00:21:57,191 --> 00:22:00,262
+"Flowers of Evil." Baudelaire.
+
+137
+00:24:11,881 --> 00:24:13,594
+Lucille has not had any problems?
+
+138
+00:24:13,595 --> 00:24:15,294
+She refused to eat.
+
+139
+00:24:16,926 --> 00:24:18,544
+You may leave us now.
+
+140
+00:24:32,794 --> 00:24:37,329
+Lucille, my dear… you know
+that today is your birthday…
+
+141
+00:24:39,424 --> 00:24:41,076
+I'll heal you quickly,
+
+142
+00:24:41,844 --> 00:24:43,155
+I promise you.
+
+143
+00:24:44,257 --> 00:24:45,840
+Just look at your present.
+
+144
+00:25:03,158 --> 00:25:07,371
+Your mother made me promise that I give
+them to you on your 18th birthday.
+
+145
+00:25:09,853 --> 00:25:12,342
+I keep them for you… just for now…
+
+146
+00:25:13,925 --> 00:25:16,097
+Soon everything will be
+just as it was.
+
+147
+00:25:17,273 --> 00:25:18,491
+I'm sure of it…
+
+148
+00:27:03,452 --> 00:27:04,695
+Is something hurting?
+
+149
+00:27:07,095 --> 00:27:08,852
+That itches… Is that it?
+
+150
+00:27:19,184 --> 00:27:21,637
+That doesn't itch anymore…
+
+151
+00:27:21,638 --> 00:27:22,939
+look at me…
+
+152
+00:27:26,124 --> 00:27:28,433
+Breath deeply now…
+
+153
+00:29:49,270 --> 00:29:51,832
+Zygomaticus major:
+
+154
+00:29:54,417 --> 00:29:55,578
+39.
+
+155
+00:30:00,074 --> 00:30:02,613
+…Zygomaticus minor:
+
+156
+00:30:06,631 --> 00:30:08,149
+31.
+
+157
+00:30:10,680 --> 00:30:13,463
+Levator anguli oris:
+
+158
+00:30:18,064 --> 00:30:19,330
+18.
+
+159
+00:30:20,901 --> 00:30:22,143
+Masseter:
+
+160
+00:30:27,895 --> 00:30:30,176
+28. Got it?
+
+161
+00:30:39,237 --> 00:30:41,486
+You will apply this cream
+twice a day.
+
+162
+00:30:42,625 --> 00:30:45,846
+It will regenerate the tissue
+underneath the bandage.
+
+163
+00:31:07,946 --> 00:31:10,549
+Really now, be careful!
+
+164
+00:31:19,315 --> 00:31:21,347
+Always the same scarring.
+
+165
+00:31:22,615 --> 00:31:24,052
+Look at this.
+
+166
+00:31:25,631 --> 00:31:29,063
+These idiots. Incompetents!
+
+167
+00:31:31,975 --> 00:31:35,317
+Lucille will have no scars…
+not like Anna.
+
+168
+00:31:36,481 --> 00:31:38,919
+It began with a tissue sample,
+followed by an ablation.
+
+169
+00:31:38,920 --> 00:31:41,368
+They were never sure of
+anything so they cut.
+
+170
+00:31:42,026 --> 00:31:44,121
+In the end, they gave her back
+to me covered with scars
+
+171
+00:31:44,122 --> 00:31:46,053
+without ever having healed her.
+
+172
+00:31:46,766 --> 00:31:48,667
+My poor Arthur…
+
+173
+00:31:49,953 --> 00:31:51,817
+I should have kept her at home.
+
+174
+00:31:53,068 --> 00:31:55,618
+You would have taken
+good care of her.
+
+175
+00:32:54,049 --> 00:32:55,914
+She has developed a strong fever.
+
+176
+00:32:56,385 --> 00:33:01,278
+I'll be back. Above all, don't put this
+one back in the cage with the others
+
+177
+00:33:06,374 --> 00:33:12,056
+Poor Lucille, I should make her
+one of her favorite dinners.
+
+178
+00:33:41,660 --> 00:33:43,802
+Here, give her this injection.
+
+179
+00:34:03,992 --> 00:34:06,510
+Above all, keep an eye
+on her breathing.
+
+180
+00:34:39,934 --> 00:34:44,725
+Grandma… are you sure this
+is really what you want?
+
+181
+00:35:03,301 --> 00:35:05,377
+I can't possibly take it from you.
+
+182
+00:35:06,258 --> 00:35:09,424
+But she really wants you to have it.
+
+183
+00:35:44,181 --> 00:35:45,741
+Let me go!
+
+184
+00:35:47,991 --> 00:35:49,376
+A pervert…
+
+185
+00:35:51,520 --> 00:35:52,888
+imprisoned…
+
+186
+00:35:53,967 --> 00:35:55,791
+you can't make friends...
+
+187
+00:35:56,073 --> 00:35:57,678
+idiot…
+
+188
+00:36:00,849 --> 00:36:02,336
+it's fearful outside...
+
+189
+00:36:03,981 --> 00:36:11,112
+he's right… yes, you see…
+I can't … nothing nothing nothing
+
+190
+00:36:13,356 --> 00:36:16,759
+I'd rather die…
+I'm better off dead.
+
+191
+00:36:40,342 --> 00:36:45,709
+Here, take this book on
+reconstructive plastic surgery.
+
+192
+00:36:45,710 --> 00:36:47,342
+It's incomplete, of course…
+
+193
+00:36:47,343 --> 00:36:48,670
+Thank you.
+
+194
+00:36:49,776 --> 00:36:53,405
+Like all the other books, they haven't
+included my new research so
+
+195
+00:36:53,406 --> 00:36:54,997
+they're a bit outdated…
+
+196
+00:36:54,998 --> 00:36:57,621
+Yes… I'm sure.
+
+197
+00:36:59,587 --> 00:37:03,249
+I'm thinking that you must
+be up to date… Lucille…
+
+198
+00:37:03,250 --> 00:37:06,020
+Yes …that is, how so?
+
+199
+00:37:06,700 --> 00:37:09,089
+Because of her attempted suicide.
+
+200
+00:37:10,878 --> 00:37:13,100
+You have too much imagination!
+
+201
+00:37:13,919 --> 00:37:16,868
+I know that it can't be easy for
+a father to understand…
+
+202
+00:37:16,869 --> 00:37:17,794
+Foolishness!
+
+203
+00:37:17,795 --> 00:37:18,968
+But she's the one who told me…
+
+204
+00:37:18,969 --> 00:37:19,917
+Enough!
+
+205
+00:37:19,918 --> 00:37:21,157
+How can you be so…
+
+206
+00:37:21,158 --> 00:37:25,176
+That will do! I do not require a lecture
+from you… Do I make myself clear?
+
+207
+00:37:25,177 --> 00:37:26,362
+Yes.
+
+208
+00:37:58,159 --> 00:37:59,648
+No…
+
+209
+00:38:04,630 --> 00:38:05,959
+No no no!
+
+210
+00:38:06,444 --> 00:38:08,076
+I have no more use for you!
+
+211
+00:38:11,819 --> 00:38:14,237
+You slow me down more
+than you help me.
+
+212
+00:38:47,082 --> 00:38:48,384
+Here, take a sip.
+
+213
+00:38:49,857 --> 00:38:51,069
+Thank you.
+
+214
+00:38:59,318 --> 00:39:00,613
+Feel better?
+
+215
+00:39:03,775 --> 00:39:06,868
+It was one thing we didn't need…
+
+216
+00:39:07,996 --> 00:39:10,357
+Dear God, help us!
+
+217
+00:39:10,393 --> 00:39:13,974
+Above all, you have to take
+care of yourself.
+
+218
+00:39:21,671 --> 00:39:23,472
+Your pulse is low.
+
+219
+00:39:24,668 --> 00:39:29,251
+If that continues you have to talk
+to Lucille's father…
+
+220
+00:39:31,372 --> 00:39:34,768
+anyway, you can get him
+to listen to you.
+
+221
+00:39:35,929 --> 00:39:39,942
+And I never saw it coming …
+My God!
+
+222
+00:39:40,865 --> 00:39:43,760
+You have to promise not to worry
+yourself for Lucille.
+
+223
+00:39:43,761 --> 00:39:47,008
+What happened was in the
+past. I'm here to help her now.
+
+224
+00:39:47,125 --> 00:39:53,199
+Yes, but poor Arthur…
+You must not hold it against him.
+
+225
+00:39:53,777 --> 00:39:55,866
+I never expected that reaction.
+
+226
+00:39:55,867 --> 00:40:01,694
+He adores his daughter. He doesn't
+want to see any harm come to her.
+
+227
+00:40:01,695 --> 00:40:03,231
+Yes, I never doubted that…
+
+228
+00:40:04,098 --> 00:40:05,968
+And Lucille is the same as him.
+
+229
+00:40:05,969 --> 00:40:09,926
+She can't forgive herself
+for causing him pain.
+
+230
+00:40:20,827 --> 00:40:22,088
+Will you be OK?
+
+231
+00:40:23,227 --> 00:40:24,717
+Yes.
+
+232
+00:40:45,533 --> 00:40:47,686
+I'm going to go and comfort her.
+
+233
+00:40:47,687 --> 00:40:52,639
+No. This is my job; I'm the one
+who should be doing it.
+
+234
+00:40:53,120 --> 00:40:56,112
+And besides that…
+it's not good for you.
+
+235
+00:44:04,742 --> 00:44:07,000
+What is this ointment made from?
+
+236
+00:44:07,856 --> 00:44:11,680
+Growth proteins. Antihistamines as well.
+
+237
+00:44:12,042 --> 00:44:13,683
+It makes it easier for the graft to take
+
+238
+00:44:13,684 --> 00:44:16,171
+by accelerating the uniform
+budding of the skin.
+
+239
+00:44:17,208 --> 00:44:19,866
+Come see! I'll explain it to you.
+
+240
+00:44:30,435 --> 00:44:32,232
+What you see here is much more than a
+
+241
+00:44:32,233 --> 00:44:36,040
+simple culture of keratinocytes
+on a bed of fibroblasts.
+
+242
+00:44:36,970 --> 00:44:40,404
+You will find all the different
+strata of the skin:
+
+243
+00:44:40,600 --> 00:44:41,948
+The epidermis here,
+
+244
+00:44:41,949 --> 00:44:43,708
+the basal layer of course,
+
+245
+00:44:43,709 --> 00:44:48,205
+collagen that attaches the epidermis
+to the dermis, as you know,
+
+246
+00:44:48,270 --> 00:44:50,226
+melanocytes
+
+247
+00:44:50,227 --> 00:44:53,898
+and above all the different
+proteins and cells.
+
+248
+00:44:54,348 --> 00:44:57,983
+Why not use the skin you've taken
+from other parts of her body?
+
+249
+00:44:58,617 --> 00:45:02,145
+To end up with a leopard's skin,
+blemishes and scars everywhere?
+
+250
+00:45:02,146 --> 00:45:05,164
+You've seen the terrible results
+they end up with at the hospital.
+
+251
+00:45:05,165 --> 00:45:07,122
+Yes, unfortunately.
+
+252
+00:45:07,919 --> 00:45:11,181
+I've uncovered all the
+properties of the skin...
+
+253
+00:45:11,522 --> 00:45:15,072
+Resilience, flexibility,
+regeneration.
+
+254
+00:45:17,077 --> 00:45:20,452
+The sensitivity to touch, pigmentation,
+nutrition. It's all there.
+
+255
+00:45:20,453 --> 00:45:23,157
+Perfectly reconstituted skin.
+
+256
+00:45:23,853 --> 00:45:25,788
+Very impressive!
+
+257
+00:46:23,243 --> 00:46:27,424
+Tomorrow will be our day.
+
+258
+00:46:30,403 --> 00:46:32,121
+Sleep well tonight.
+
+259
+00:48:41,719 --> 00:48:43,100
+Are you alright?
+
+260
+00:48:43,857 --> 00:48:45,350
+You think you can stand?
+
+261
+00:48:45,354 --> 00:48:46,812
+My legs are weak.
+
+262
+00:48:50,995 --> 00:48:53,913
+"Quercetin/Nettle Plus."
+
+263
+00:50:08,088 --> 00:50:10,273
+Please, do it like you did yesterday.
+
+264
+00:50:34,343 --> 00:50:36,041
+You may leave us.
+
+265
+00:50:41,524 --> 00:50:42,544
+No, stay.
+
+266
+00:50:45,976 --> 00:50:48,309
+Help her to sit on the edge please.
+
+267
+00:51:48,871 --> 00:51:52,051
+70 by 110. A little bit low.
+
+268
+00:52:03,734 --> 00:52:09,459
+You will give her these in
+addition to the others.
+
+269
+00:52:10,279 --> 00:52:12,532
+She needs to regain muscle mass.
+
+270
+00:52:12,777 --> 00:52:15,888
+Surely there are other ways
+than the medication…
+
+271
+00:52:15,964 --> 00:52:18,361
+She is getting enough
+nourishment now.
+
+272
+00:52:19,070 --> 00:52:21,956
+Yeah, I can't stand
+swallowing these pills.
+
+273
+00:52:23,840 --> 00:52:26,859
+Very well… Since you're
+doing so much better
+
+274
+00:52:26,860 --> 00:52:29,090
+I'm sure you can do without them.
+
+275
+00:53:10,833 --> 00:53:13,268
+Any more problems with
+the pulse rate?
+
+276
+00:53:17,984 --> 00:53:22,948
+I'm sorry. I got a little bit
+carried away before…
+
+277
+00:53:22,949 --> 00:53:24,760
+Only three minutes left…
+
+278
+00:53:24,761 --> 00:53:26,436
+Are you baking a cake?
+
+279
+00:53:26,437 --> 00:53:29,401
+In the kitchen at
+least I'm still useful.
+
+280
+00:53:29,402 --> 00:53:33,581
+Well, I don't know how they got by
+around here before you came.
+
+281
+00:53:34,157 --> 00:53:38,793
+Poor things… frozen dinners
+and canned food…
+
+282
+00:53:39,757 --> 00:53:42,127
+They would never survive without you.
+
+283
+00:53:43,573 --> 00:53:46,540
+I'm old now… tired…
+
+284
+00:53:48,457 --> 00:53:51,075
+I'd like to be with Jan.
+
+285
+00:53:52,799 --> 00:53:55,354
+It's time that he calls
+me back to him.
+
+286
+00:53:55,355 --> 00:53:57,046
+No no, don't say that...
+
+287
+00:54:02,972 --> 00:54:04,654
+That smells good…
+
+288
+00:54:34,028 --> 00:54:35,863
+Here, for Lucille.
+
+289
+00:54:37,492 --> 00:54:40,589
+No. You go and surprise her.
+
+290
+00:56:34,147 --> 00:56:39,007
+Mussels! I missed them
+so much. Do you like it?
+
+291
+00:56:39,199 --> 00:56:40,824
+It smells delicious.
+
+292
+00:56:42,480 --> 00:56:45,850
+I have to learn how to cook so
+I can make them myself.
+
+293
+00:56:45,851 --> 00:56:47,472
+I'll show you.
+
+294
+00:56:48,349 --> 00:56:49,902
+That might come in handy.
+
+295
+00:56:52,989 --> 00:56:55,645
+Dad, when will you take off
+the last bandages?
+
+296
+00:56:56,037 --> 00:56:57,007
+In three days,
+
+297
+00:56:57,008 --> 00:57:00,352
+I've got to check the results and
+reduce the bandage once more.
+
+298
+00:57:00,659 --> 00:57:04,322
+In one more week you will feel
+the fresh air on your face.
+
+299
+00:57:05,369 --> 00:57:08,202
+And you'll be finally able
+to see what I look like.
+
+300
+00:57:08,203 --> 00:57:10,118
+I can imagine.
+
+301
+00:57:13,775 --> 00:57:16,347
+You will have some micro-scars,
+
+302
+00:57:17,559 --> 00:57:19,053
+they'll only be noticeable to the touch
+
+303
+00:57:19,054 --> 00:57:22,600
+and they will be all but
+indistinguishable before you know it.
+
+304
+00:57:23,459 --> 00:57:26,287
+You're the best, Dad.
+I knew you'ld succeed.
+
+305
+00:58:40,196 --> 00:58:43,526
+I didn't know what to do with myself,
+you know, before you came.
+
+306
+00:58:49,446 --> 00:58:53,829
+I mean I felt so alone. I never got
+to see anybody else. Just him and her.
+
+307
+00:58:53,830 --> 00:58:56,291
+I'm really glad that you're here.
+
+308
+00:59:29,229 --> 00:59:31,742
+I think Parker has
+learned his lesson...
+
+309
+00:59:32,404 --> 00:59:34,979
+after what happened
+to him this time.
+
+310
+00:59:35,534 --> 00:59:36,719
+What happened to him?
+
+311
+00:59:36,720 --> 00:59:38,470
+Accident in the car.
+
+312
+00:59:39,006 --> 00:59:40,244
+A bad one.
+
+313
+00:59:40,631 --> 00:59:41,847
+He was drunk!
+
+314
+00:59:43,407 --> 00:59:45,602
+He barely got out alive…
+
+315
+00:59:46,559 --> 00:59:49,302
+so many broken bones
+
+316
+00:59:50,463 --> 00:59:52,659
+but he hung on to life
+
+317
+00:59:53,095 --> 00:59:56,018
+and he rediscovered his faith.
+
+318
+00:59:56,897 --> 01:00:00,345
+And all the carrying on with the
+married women, it's all over?
+
+319
+01:00:00,346 --> 01:00:04,627
+Yes, he realized he was
+on the slippery slope…
+
+320
+01:00:05,018 --> 01:00:06,869
+Too bad.
+
+321
+01:00:06,870 --> 01:00:09,053
+Don't you think he was sexier before?
+
+322
+01:00:09,054 --> 01:00:10,918
+No...
+
+323
+01:00:10,919 --> 01:00:13,496
+now it's Betty who has the problems.
+
+324
+01:00:16,739 --> 01:00:20,448
+Well anyway, it's their lives and
+they should do what they want.
+
+325
+01:00:34,026 --> 01:00:35,317
+Where is Joan?
+
+326
+01:00:35,559 --> 01:00:36,961
+She's in the lab.
+
+327
+01:00:36,962 --> 01:00:39,558
+I thought you'd hired her
+to take care of me.
+
+328
+01:00:40,381 --> 01:00:43,645
+Since you don't need her anymore
+she's going to help me.
+
+329
+01:00:43,791 --> 01:00:45,705
+It's just like with the other baby-sitters.
+
+330
+01:00:45,706 --> 01:00:48,382
+Each year you found a new one and
+they were never good enough for you.
+
+331
+01:00:48,383 --> 01:00:49,967
+Stop it.
+
+332
+01:00:49,968 --> 01:00:52,275
+I need her as an assistant.
+
+333
+01:02:32,464 --> 01:02:35,117
+Lucille! Lucille!
+
+334
+01:02:35,214 --> 01:02:37,818
+Oh God, are you alright?
+
+335
+01:02:38,253 --> 01:02:40,029
+Hold on me.
+
+336
+01:09:23,700 --> 01:09:26,762
+It will all have to be removed.
+It was not irrigated.
+
+337
+01:09:27,256 --> 01:09:29,024
+But she still can be healed?
+
+338
+01:09:30,200 --> 01:09:33,870
+Of course… but I need
+living skin this time.
+
+339
+01:11:08,308 --> 01:11:10,993
+<i>It will all have to be removed.
+It was not irrigated…</i>
+
+340
+01:11:10,994 --> 01:11:12,591
+<i>But she still can be healed?</i>
+
+341
+01:11:13,279 --> 01:11:17,021
+<i>Of course… but I need
+living skin this time.</i>
+
+342
+01:12:26,105 --> 01:12:27,524
+I want to stay like this forever.
+
+343
+01:12:27,525 --> 01:12:28,878
+I know…
+
+344
+01:13:20,169 --> 01:13:21,766
+Your skin is so soft,
+
+345
+01:13:22,527 --> 01:13:24,058
+so sweet…
+
+346
+01:13:26,129 --> 01:13:27,667
+You smell so good…
+
+347
+01:13:30,598 --> 01:13:34,245
+your skin melts
+in the mouth like chocolate.
+
+348
+01:13:36,370 --> 01:13:37,712
+Your face
+
+349
+01:13:38,548 --> 01:13:42,038
+should be in a Michelangelo,
+or something.
+
+350
+01:13:46,667 --> 01:13:50,825
+I can't believe how soft
+and white your breasts are…
+
+351
+01:13:51,425 --> 01:13:53,306
+Such compliments,
+
+352
+01:13:53,947 --> 01:13:55,797
+you'll spoil me…
+
+353
+01:13:56,329 --> 01:13:58,388
+I want to know everything about you.
+
+354
+01:13:59,090 --> 01:14:02,064
+There's not so much to know.
+
+355
+01:14:02,785 --> 01:14:05,024
+Well, like…
+
+356
+01:14:05,688 --> 01:14:08,630
+Have you ever been in love before?
+
+357
+01:14:10,242 --> 01:14:13,872
+Yes, once…
+
+358
+01:14:15,878 --> 01:14:17,165
+Who was it?
+
+359
+01:14:20,408 --> 01:14:23,968
+A schoolmate, in Italy.
+
+360
+01:14:33,374 --> 01:14:36,223
+And did you let her
+touch you like that?
+
+361
+01:14:37,390 --> 01:14:38,867
+No...
+
+362
+01:14:40,768 --> 01:14:42,506
+never like that.
+
+363
+01:14:44,555 --> 01:14:47,047
+Was it better than with me?
+
+364
+01:14:48,735 --> 01:14:50,210
+No...
+
+365
+01:14:52,101 --> 01:14:54,727
+No… never this intense.
+
+366
+01:14:56,766 --> 01:14:58,735
+And...
+
+367
+01:15:04,521 --> 01:15:06,787
+were you together a long time?
+
+368
+01:15:06,788 --> 01:15:10,576
+Until my mother caught us…
+
+369
+01:15:10,577 --> 01:15:11,869
+What?
+
+370
+01:15:13,251 --> 01:15:17,404
+She sent me away, to Boston.
+
+371
+01:15:19,202 --> 01:15:24,492
+She separated you from your love?
+So mean!
+
+372
+01:15:29,402 --> 01:15:33,546
+She never told
+anyone about this.
+
+373
+01:15:33,547 --> 01:15:35,302
+She was too ashamed.
+
+374
+01:15:35,303 --> 01:15:38,863
+She banished me like
+I had the plague.
+
+375
+01:15:38,864 --> 01:15:46,864
+So she made up an excuse that I was
+going to marry my cousin, in Boston.
+
+376
+01:15:53,921 --> 01:15:55,278
+Did you marry him?
+
+377
+01:15:57,058 --> 01:15:59,027
+Of course not.
+
+378
+01:16:00,580 --> 01:16:02,349
+I refused.
+
+379
+01:16:07,338 --> 01:16:08,844
+After?
+
+380
+01:16:10,064 --> 01:16:11,307
+Nothing…
+
+381
+01:16:12,983 --> 01:16:14,674
+you.
+
+382
+01:16:19,844 --> 01:16:21,551
+You were waiting for me?
+
+383
+01:16:21,552 --> 01:16:25,016
+Yes, I was waiting
+
+384
+01:16:25,696 --> 01:16:27,188
+for you.
+
+385
+01:16:53,629 --> 01:16:55,220
+Me too,
+
+386
+01:16:58,194 --> 01:17:00,030
+I was waiting for you.
+
+387
+01:17:17,164 --> 01:17:19,019
+I have never been in love for real.
+
+388
+01:17:27,249 --> 01:17:31,786
+The girls in my age, one or two
+I met, they all seemed so stupid.
+
+389
+01:17:33,964 --> 01:17:37,986
+Maybe you didn't meet a lot of them…
+
+390
+01:17:40,169 --> 01:17:41,924
+I like older women.
+
+391
+01:17:44,577 --> 01:17:47,029
+That means if I were younger,
+
+392
+01:17:49,511 --> 01:17:52,425
+you wouldn't have fallen
+in love with me?
+
+393
+01:17:55,265 --> 01:17:57,309
+Yes, I would have…
+
+394
+01:18:00,472 --> 01:18:04,401
+as soon as I saw you,
+I fell in love with you.
+
+395
+01:18:35,719 --> 01:18:38,507
+<i>"And then by common accord"</i>
+
+396
+01:18:39,360 --> 01:18:41,968
+<i>they glide towards each other
+underwater.</i>
+
+397
+01:18:41,970 --> 01:18:44,736
+<i>The female shark using its fins,</i>
+
+398
+01:18:44,737 --> 01:18:48,761
+<i>and Maldoror cleaving the waves
+with his arms;</i>
+
+399
+01:18:49,363 --> 01:18:52,358
+<i>And they hold their breath
+in deep veneration,</i>
+
+400
+01:18:52,400 --> 01:18:58,709
+<i>each one wishing to gaze for the first
+time upon the other, his living portrait.”</i>
+
+401
+01:19:00,590 --> 01:19:02,776
+You should show me some
+of your poems.
+
+402
+01:19:03,689 --> 01:19:05,602
+Do you really want to see them?
+
+403
+01:19:05,603 --> 01:19:07,930
+Yes. Of course.
+
+404
+01:19:09,979 --> 01:19:11,430
+I might want to.
+
+405
+01:19:12,561 --> 01:19:16,307
+Later, after my face is healed,
+and we're far away from here.
+
+406
+01:21:11,117 --> 01:21:12,999
+How do you feel?
+
+407
+01:21:13,885 --> 01:21:16,960
+Still tired... and you?
+
+408
+01:21:17,241 --> 01:21:21,365
+I feel fine.
+Dad says I'm recovering fast.
+
+409
+01:21:21,716 --> 01:21:23,597
+Good.
+
+410
+01:21:24,011 --> 01:21:29,135
+It's always taken me a long time
+to heal from anything.
+
+411
+01:21:42,896 --> 01:21:44,187
+<i>The Guiding Light.</i>
+
+412
+01:21:44,188 --> 01:21:48,560
+<i>Presented by Dash. The soap that does
+everything in your washing machine.</i>
+
+413
+01:21:48,568 --> 01:21:51,839
+<i>And Ivory soap.
+The most famous soap in the world.</i>
+
+414
+01:21:56,711 --> 01:21:58,711
+<i>Looking from left to right,</i>
+
+415
+01:21:58,712 --> 01:22:01,352
+<i>Harriet and Gwendolyn.</i>
+
+416
+01:22:01,853 --> 01:22:05,144
+<i>Don't you think Harriet has an
+outstanding complexion?</i>
+
+417
+01:22:05,145 --> 01:22:07,945
+<i>Well, Ivory is her beauty soap.</i>
+
+418
+01:22:08,501 --> 01:22:10,224
+<i>Now, don't be hurt Gwendolyn.</i>
+
+419
+01:22:10,225 --> 01:22:13,395
+<i>You can have that ivory
+look yourself…</i>
+
+420
+01:22:15,020 --> 01:22:17,740
+And now a little snack!
+
+421
+01:22:34,982 --> 01:22:36,814
+Something's got you worried.
+
+422
+01:22:38,440 --> 01:22:41,519
+Pretty soon your father's going
+to ask me to leave.
+
+423
+01:22:43,893 --> 01:22:46,921
+But we will leave together
+as soon as you're better.
+
+424
+01:22:58,890 --> 01:23:01,760
+'Cause I might be jealous if you
+touch somebody else!
+
+425
+01:23:32,450 --> 01:23:33,821
+Dad! Come quick!
+
+426
+01:23:49,013 --> 01:23:50,327
+Are you in pain?
+
+427
+01:23:52,705 --> 01:23:54,058
+I saw them…
+
+428
+01:24:07,605 --> 01:24:11,170
+I hate you! Let me out!
+
+429
+01:24:11,605 --> 01:24:13,289
+Let me out!
+
+430
+01:24:18,656 --> 01:24:19,904
+Miss Genova,
+
+431
+01:24:20,920 --> 01:24:23,098
+If you'ld like, I have a job for you.
+
+432
+01:24:23,697 --> 01:24:26,763
+You must help me... my daughter
+needs a private nurse…
+
+433
+01:24:26,764 --> 01:24:28,615
+I don't want to admit her
+to the hospital…
+
+434
+01:24:28,616 --> 01:24:31,665
+I can't take anymore…
+I don't have any spare time.
+
+435
+01:24:31,666 --> 01:24:32,934
+Listen,
+
+436
+01:24:34,121 --> 01:24:36,335
+you must be careful.
+
+437
+01:24:36,336 --> 01:24:42,218
+Some colleagues are already suspicious
+of what has happened with your patients.
+
+438
+01:24:42,284 --> 01:24:43,568
+So...
+
+439
+01:24:45,674 --> 01:24:47,929
+you better leave before
+they find out.
+
+440
+01:24:53,941 --> 01:24:56,082
+You must never do that again.
+
+441
+01:24:58,299 --> 01:25:00,338
+I could crush you like a worm.
+
+442
+01:25:00,561 --> 01:25:02,152
+Just let her leave.
+
+443
+01:25:02,740 --> 01:25:04,612
+It will be the best for everyone.
+
+444
+01:25:04,613 --> 01:25:07,745
+It is you who are going to leave,
+and right away…
+
+445
+01:25:07,746 --> 01:25:11,109
+and don't think about working in
+any hospital of this country…
+
+446
+01:25:11,687 --> 01:25:14,003
+I'll scour each and every
+personnel department,
+
+447
+01:25:14,004 --> 01:25:16,905
+and I'll see to it that you are
+cut out like a cancer!
+
+448
+01:25:17,602 --> 01:25:20,104
+And you, doctor,
+
+449
+01:25:20,105 --> 01:25:22,556
+did you have the approval
+of the families
+
+450
+01:25:22,557 --> 01:25:26,028
+before taking off the
+precious skin grafts?
+
+451
+01:25:34,700 --> 01:25:36,866
+Who would believe you?
+
+452
+01:25:37,164 --> 01:25:38,940
+On the other hand,
+
+453
+01:25:38,941 --> 01:25:41,707
+I've taken the trouble of keeping an
+autopsy report
+
+454
+01:25:41,708 --> 01:25:44,086
+of each patient you euthanized.
+
+455
+01:25:45,490 --> 01:25:48,896
+I have all the proof and need only
+call the police.
+
+456
+01:26:02,344 --> 01:26:03,351
+Hello.
+
+457
+01:26:04,200 --> 01:26:10,747
+Yes, please send a taxi out here to me
+to Rockhill, The Baert Estate. Thank.
+
+458
+01:26:32,027 --> 01:26:36,555
+What did she mean with that
+story about skin grafts?
+
+459
+01:26:37,553 --> 01:26:38,945
+Nothing.
+
+460
+01:26:39,247 --> 01:26:41,746
+You have taken the skin of the dead!?
+
+461
+01:26:42,699 --> 01:26:47,852
+What is it, you want it to be like
+with Anna, that we lose Lucille, too?
+
+462
+01:27:05,992 --> 01:27:07,928
+Give me that.
+
+463
+01:27:08,775 --> 01:27:11,643
+Now all we need is for you
+to break a leg.
+
+464
+01:27:14,673 --> 01:27:16,228
+Just take it easy.
+
+465
+01:27:32,605 --> 01:27:33,813
+Lucille,
+
+466
+01:27:34,864 --> 01:27:36,424
+Lucille it's me.
+
+467
+01:27:37,192 --> 01:27:38,973
+All this will pass.
+
+468
+01:27:45,443 --> 01:27:47,820
+Pretty soon you won't
+resent me anymore.
+
+469
+01:27:49,313 --> 01:27:50,728
+Lucille?
+
+470
+01:28:02,694 --> 01:28:04,937
+Lucille, do you hear me?
+
+471
+01:28:12,544 --> 01:28:13,806
+Give me the key!
+
+472
+01:28:13,807 --> 01:28:15,254
+No.
+
+473
+01:28:15,796 --> 01:28:17,239
+Ingrid, please, give me the key!
+
+474
+01:28:17,240 --> 01:28:18,240
+No.
+
+475
+01:28:18,259 --> 01:28:19,777
+Give me the key!
+
+476
+01:28:23,670 --> 01:28:25,679
+Now give me that key!
+
+477
+01:29:09,106 --> 01:29:11,908
+<i>This time, I saw Woman in the city,</i>
+
+478
+01:29:11,909 --> 01:29:15,352
+<i>and I spoke to her,
+and she spoke to me.</i>
+
+479
+01:29:15,353 --> 01:29:17,656
+<i>I was in the bedroom,
+in the darkness.</i>
+
+480
+01:29:17,657 --> 01:29:20,560
+<i>They came to tell me that she
+there at my house;</i>
+
+481
+01:29:20,561 --> 01:29:25,034
+<i>And I saw her in my bed all mine,
+in darkness!</i>
+

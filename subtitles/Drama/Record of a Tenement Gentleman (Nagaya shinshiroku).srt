@@ -1,0 +1,239 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Title,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,40,40,80,0
+Style: Next Title,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,27,53,160,0
+Style: RightSign,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,400,27,107,0
+Style: LeftSign,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,160,533,53,0
+Style: EpNum,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,533,333,0
+Style: LowerLeft,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,27,533,27,0
+Style: LowerRight,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,533,27,27,0
+Style: MidLow,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,27,27,147,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:14.47,0:00:18.68,Default,NTP,0000,0000,0000,,The Alliance forces\Nwill arrive on this battlefield by evening.
+Dialogue: 0,0:00:22.89,0:00:24.69,Default,NTP,0000,0000,0000,,Approximately 40,000 strong.
+Dialogue: 0,0:00:25.31,0:00:26.44,Default,NTP,0000,0000,0000,,Forty Thousand?
+Dialogue: 0,0:00:29.53,0:00:31.74,Default,NTP,0000,0000,0000,,We should consider that less than expected.
+Dialogue: 0,0:00:31.74,0:00:36.24,Default,NTP,0000,0000,0000,,After all, Waldlind and Nord's forces\Nhave been depleting from all their battles.
+Dialogue: 0,0:00:36.83,0:00:39.29,Default,NTP,0000,0000,0000,,The Union really is coming, right?
+Dialogue: 0,0:00:39.70,0:00:42.12,Default,NTP,0000,0000,0000,,I've been advised that they're on their way.
+Dialogue: 0,0:00:42.12,0:00:45.92,Default,NTP,0000,0000,0000,,However, they won't be arriving\Nuntil after noon tomorrow.
+Dialogue: 0,0:00:46.71,0:00:47.96,Default,NTP,0000,0000,0000,,Kind of late, huh?
+Dialogue: 0,0:00:49.88,0:00:52.84,Default,NTP,0000,0000,0000,,There's no need for us\Nto initiate anything in this battle.
+Dialogue: 0,0:00:53.34,0:00:56.59,Default,NTP,0000,0000,0000,,We just have to hold the line\Nuntil the Union gets here.
+Dialogue: 0,0:00:56.59,0:00:58.47,Default,NTP,0000,0000,0000,,Let's put an end to this great war!
+Dialogue: 0,0:01:17.20,0:01:19.16,Default,NTP,0000,0000,0000,,Everything will be decided tomorrow.
+Dialogue: 0,0:03:00.09,0:03:04.31,Default,NTP,0000,0000,0000,,Send word to Lord Nayuta in the vanguard,\Nand Lord Shahn in the second unit.
+Dialogue: 0,0:03:05.06,0:03:06.31,Default,NTP,0000,0000,0000,,Commence the attack!
+Dialogue: 0,0:03:09.14,0:03:10.31,Default,NTP,0000,0000,0000,,Let's go!
+Dialogue: 0,0:03:10.60,0:03:14.07,Default,NTP,0000,0000,0000,,No one can defeat\Nour Divine Beast Juggernaut!
+Dialogue: 0,0:03:17.86,0:03:22.78,Default,NTP,0000,0000,0000,,Lord Nayuta will clear the path for us!\NDon't rush the attack!
+Dialogue: 0,0:03:27.66,0:03:31.58,Default,NTP,0000,0000,0000,,Use magical beasts to break through,\Nthen swallow us up with a horde of infantry.
+Dialogue: 0,0:03:32.54,0:03:35.46,Default,NTP,0000,0000,0000,,A sound strategy, so typical of Father.
+Dialogue: 0,0:03:36.84,0:03:39.09,Default,NTP,0000,0000,0000,,In that case, we'll counter with a trick move!
+Dialogue: 0,0:03:48.52,0:03:49.85,Default,NTP,0000,0000,0000,,Commence the attack!
+Dialogue: 0,0:03:56.07,0:03:57.15,Default,NTP,0000,0000,0000,,Fall back!
+Dialogue: 0,0:04:33.06,0:04:35.81,Default,NTP,0000,0000,0000,,Damn it, destroy that scaffold!
+Dialogue: 0,0:04:57.00,0:04:58.34,Default,NTP,0000,0000,0000,,Withdraw!
+Dialogue: 0,0:05:00.84,0:05:02.34,Default,NTP,0000,0000,0000,,All forces, halt!
+Dialogue: 0,0:05:08.22,0:05:10.14,Default,NTP,0000,0000,0000,,Don't let this chance slip!
+Dialogue: 0,0:05:24.90,0:05:26.11,Default,NTP,0000,0000,0000,,What in...
+Dialogue: 0,0:05:33.00,0:05:34.41,Default,NTP,0000,0000,0000,,They're not faring well.
+Dialogue: 0,0:05:34.58,0:05:38.38,Default,NTP,0000,0000,0000,,Let's ask Lords Kuban and Karim\Nfor aid at the front lines.
+Dialogue: 0,0:05:39.09,0:05:40.63,Default,NTP,0000,0000,0000,,And the Nords?
+Dialogue: 0,0:05:40.63,0:05:43.97,Default,NTP,0000,0000,0000,,I'm told they're about\Nto launch an attack on Haman.
+Dialogue: 0,0:05:44.09,0:05:45.63,Default,NTP,0000,0000,0000,,Tell them to hurry.
+Dialogue: 0,0:05:45.63,0:05:46.63,Default,NTP,0000,0000,0000,,As you wish.
+Dialogue: 0,0:05:47.84,0:05:49.85,Default,NTP,0000,0000,0000,,Nord's long ships?
+Dialogue: 0,0:05:50.72,0:05:55.44,Default,NTP,0000,0000,0000,,After being trounced by the Marquis of Jalucia,\NI'm amazed they still have troops to deploy.
+Dialogue: 0,0:05:55.44,0:05:59.65,Default,NTP,0000,0000,0000,,But this is likely the full force\Nthat the Nords can mobilize now.
+Dialogue: 0,0:06:00.32,0:06:01.65,Default,NTP,0000,0000,0000,,I'll drive them back.
+Dialogue: 0,0:06:09.91,0:06:12.29,Default,NTP,0000,0000,0000,,We'll sink any ships from Haman.
+Dialogue: 0,0:06:12.95,0:06:15.91,Default,NTP,0000,0000,0000,,Fight, and make my father Erik proud!
+Dialogue: 0,0:06:30.35,0:06:32.26,Default,NTP,0000,0000,0000,,Hey, that's a fire ship!
+Dialogue: 0,0:06:32.26,0:06:34.43,Default,NTP,0000,0000,0000,,The kind that can spread fire?
+Dialogue: 0,0:06:35.35,0:06:37.52,Default,NTP,0000,0000,0000,,Clear a pathway, and send it out to sea!
+Dialogue: 0,0:06:49.91,0:06:51.45,Default,NTP,0000,0000,0000,,You're not escaping.
+Dialogue: 0,0:07:14.39,0:07:17.56,Default,NTP,0000,0000,0000,,Letting your guard down on the battlefield?\NSuch foolishness!
+Dialogue: 0,0:07:18.02,0:07:20.27,Default,NTP,0000,0000,0000,,Start chipping away from the side!
+Dialogue: 0,0:07:25.19,0:07:29.49,Default,NTP,0000,0000,0000,,There are too many enemy troops!\NAt this rate, we'll be caught in a pincer attack.
+Dialogue: 0,0:07:29.49,0:07:30.45,Default,NTP,0000,0000,0000,,Damn!
+Dialogue: 0,0:07:31.41,0:07:35.20,Default,NTP,0000,0000,0000,,Lords Shahn and Nayuta's forces\Nhave finished regrouping.
+Dialogue: 0,0:07:35.70,0:07:39.54,Default,NTP,0000,0000,0000,,Lords Kuban and Karim\Nare advancing on both flanks.
+Dialogue: 0,0:07:40.12,0:07:42.54,Default,NTP,0000,0000,0000,,Just one more push\Nbefore we breach the enemy lines.
+Dialogue: 0,0:07:42.54,0:07:44.25,Default,NTP,0000,0000,0000,,We'll finish this once and for all.
+Dialogue: 0,0:07:45.00,0:07:46.21,Default,NTP,0000,0000,0000,,I'm heading out, as well.
+Dialogue: 0,0:07:49.17,0:07:51.30,Default,NTP,0000,0000,0000,,The Waldlind forces are on the move!
+Dialogue: 0,0:07:51.93,0:07:52.93,Default,NTP,0000,0000,0000,,I see.
+Dialogue: 0,0:07:54.80,0:07:58.52,Default,NTP,0000,0000,0000,,Petr, I want you to tell Lassic to keep fighting\Nwhile falling back to the main force.
+Dialogue: 0,0:07:58.52,0:08:00.60,Default,NTP,0000,0000,0000,,We'll draw them in, and stop them here.
+Dialogue: 0,0:08:00.85,0:08:02.56,Default,NTP,0000,0000,0000,,You're going out to fight?
+Dialogue: 0,0:08:03.69,0:08:05.40,Default,NTP,0000,0000,0000,,I won't fight one-on-one.
+Dialogue: 0,0:08:16.33,0:08:17.74,Default,NTP,0000,0000,0000,,Theo Cornaro!
+Dialogue: 0,0:08:22.42,0:08:24.50,Default,NTP,0000,0000,0000,,Theo the Hero is here!
+Dialogue: 0,0:08:25.13,0:08:26.84,Default,NTP,0000,0000,0000,,Let's drive back the enemy!
+Dialogue: 0,0:08:42.31,0:08:43.98,Default,NTP,0000,0000,0000,,It's the Waldlind army!
+Dialogue: 0,0:08:44.23,0:08:45.65,Default,NTP,0000,0000,0000,,Lady Marrine!
+Dialogue: 0,0:08:49.48,0:08:50.40,Default,NTP,0000,0000,0000,,Heavy crossbows, take position.
+Dialogue: 0,0:08:52.70,0:08:54.20,Default,NTP,0000,0000,0000,,Load the Crest Bullets!
+Dialogue: 0,0:08:55.03,0:08:57.03,Default,NTP,0000,0000,0000,,Here it comes! Put up your shields!
+Dialogue: 0,0:08:58.91,0:08:59.62,Default,NTP,0000,0000,0000,,Fire!
+Dialogue: 0,0:09:06.38,0:09:07.38,Default,NTP,0000,0000,0000,,Don't falter!
+Dialogue: 0,0:09:07.67,0:09:08.88,Default,NTP,0000,0000,0000,,Strike back!
+Dialogue: 0,0:09:10.46,0:09:11.55,Default,NTP,0000,0000,0000,,Move in!
+Dialogue: 0,0:09:32.90,0:09:33.70,Default,NTP,0000,0000,0000,,Explode!
+Dialogue: 0,0:09:33.70,0:09:34.78,Default,NTP,0000,0000,0000,,Extinguish!
+Dialogue: 0,0:09:41.54,0:09:44.75,Default,NTP,0000,0000,0000,,Allow me to guide you to the afterlife!
+Dialogue: 0,0:09:47.13,0:09:48.67,Default,NTP,0000,0000,0000,,It's a Valkyrie!
+Dialogue: 0,0:09:59.85,0:10:02.18,Default,NTP,0000,0000,0000,,- Don't fall behind.\N- You too, Irvin.
+Dialogue: 0,0:10:20.95,0:10:24.62,Default,NTP,0000,0000,0000,,Two units of infantry,\Nadvance along with the Knights-at-Arms!
+Dialogue: 0,0:11:03.24,0:11:04.41,Default,NTP,0000,0000,0000,,Parry!
+Dialogue: 0,0:11:09.25,0:11:10.88,Default,NTP,0000,0000,0000,,Until Sir Alexis...
+Dialogue: 0,0:11:13.04,0:11:14.80,Default,NTP,0000,0000,0000,,until the Union arrives...
+Dialogue: 0,0:11:14.80,0:11:17.05,Default,NTP,0000,0000,0000,,we have to hold out.
+Dialogue: 0,0:11:17.42,0:11:18.38,Default,NTP,0000,0000,0000,,Siluca!
+Dialogue: 0,0:11:20.01,0:11:21.76,Default,NTP,0000,0000,0000,,Sir Theo.
+Dialogue: 0,0:11:21.76,0:11:25.27,Default,NTP,0000,0000,0000,,The Alliance's main unit... is on the move...
+Dialogue: 0,0:11:25.60,0:11:26.89,Default,NTP,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:26.89,0:11:28.89,Default,NTP,0000,0000,0000,,With our full force, we must...
+Dialogue: 0,0:11:47.70,0:11:48.66,Default,NTP,0000,0000,0000,,Marrine.
+Dialogue: 0,0:11:49.46,0:11:51.21,Default,NTP,0000,0000,0000,,It's the Union forces!
+Dialogue: 0,0:11:51.96,0:11:54.13,Default,NTP,0000,0000,0000,,We managed to hold out!
+Dialogue: 0,0:11:54.67,0:11:55.46,Default,NTP,0000,0000,0000,,All right!
+Dialogue: 0,0:11:56.96,0:11:58.17,Default,NTP,0000,0000,0000,,Alexis.
+Dialogue: 0,0:12:01.13,0:12:03.39,Default,NTP,0000,0000,0000,,Retreat, and regroup.
+Dialogue: 0,0:12:03.64,0:12:05.60,Default,NTP,0000,0000,0000,,At this rate, they'll cut off our escape.
+Dialogue: 0,0:12:05.60,0:12:06.47,Default,NTP,0000,0000,0000,,As you wish.
+Dialogue: 0,0:12:11.10,0:12:13.06,Default,NTP,0000,0000,0000,,Looks like we managed to get through.
+Dialogue: 0,0:12:14.56,0:12:16.07,Default,NTP,0000,0000,0000,,Let's withdraw, too.
+Dialogue: 0,0:12:16.52,0:12:20.57,Default,NTP,0000,0000,0000,,And I want to hold a meeting\Nbetween the three leaders.
+Dialogue: 0,0:12:21.36,0:12:22.11,Default,NTP,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:45.68,0:12:48.35,Default,NTP,0000,0000,0000,,Allow me to offer two proposals.
+Dialogue: 0,0:12:49.39,0:12:55.27,Default,NTP,0000,0000,0000,,First, the Alliance, Union, and Treaty.\NThe three factions all agree to a truce.
+Dialogue: 0,0:12:56.02,0:12:57.52,Default,NTP,0000,0000,0000,,Out of the question.
+Dialogue: 0,0:12:57.94,0:12:59.07,Default,NTP,0000,0000,0000,,Why is that?
+Dialogue: 0,0:12:59.07,0:13:03.49,Default,NTP,0000,0000,0000,,A truce would only benefit\Nthe true enemy lurking across the Continent.
+Dialogue: 0,0:13:03.74,0:13:05.03,Default,NTP,0000,0000,0000,,True enemy?
+Dialogue: 0,0:13:06.24,0:13:09.04,Default,NTP,0000,0000,0000,,Those who caused the Great Hall Tragedy.
+Dialogue: 0,0:13:09.29,0:13:14.75,Default,NTP,0000,0000,0000,,No, I mean those who have ruled the world\Nfrom the shadows since long before that.
+Dialogue: 0,0:13:15.54,0:13:17.42,Default,NTP,0000,0000,0000,,Sir Theo knows who I'm referring to.
+Dialogue: 0,0:13:19.50,0:13:20.67,Default,NTP,0000,0000,0000,,The Mage Academy.
+Dialogue: 0,0:13:21.76,0:13:22.76,Default,NTP,0000,0000,0000,,That's right.
+Dialogue: 0,0:13:23.17,0:13:25.68,Default,NTP,0000,0000,0000,,A truce would ensure the court rank system...
+Dialogue: 0,0:13:26.01,0:13:31.18,Default,NTP,0000,0000,0000,,In other words, the current system established\Nby the Mage Academy, would remain in place.
+Dialogue: 0,0:13:31.73,0:13:36.77,Default,NTP,0000,0000,0000,,We Lords are like livestock being raised\Non a certain feed called court ranks,
+Dialogue: 0,0:13:36.77,0:13:39.52,Default,NTP,0000,0000,0000,,with which the Mage Academy rewards us.
+Dialogue: 0,0:13:40.69,0:13:43.32,Default,NTP,0000,0000,0000,,That's exactly why we're calling a truce.
+Dialogue: 0,0:13:43.53,0:13:48.45,Default,NTP,0000,0000,0000,,It's because of the strife between the Lords,\Nand our constant battling over court ranks
+Dialogue: 0,0:13:48.45,0:13:50.45,Default,NTP,0000,0000,0000,,is why we're still under\Nthe Mage Academy's sway.
+Dialogue: 0,0:13:50.83,0:13:54.66,Default,NTP,0000,0000,0000,,In fact, the Mage Academy\Nhas us right where they want us now.
+Dialogue: 0,0:13:56.12,0:14:00.00,Default,NTP,0000,0000,0000,,However, they're not likely\Nto approve of our truce.
+Dialogue: 0,0:14:00.55,0:14:03.59,Default,NTP,0000,0000,0000,,They'll unleash some kind of plot to shatter it.
+Dialogue: 0,0:14:04.59,0:14:08.64,Default,NTP,0000,0000,0000,,Please, allow me to voice my second proposal.
+Dialogue: 0,0:14:09.47,0:14:16.73,Default,NTP,0000,0000,0000,,Along with the three factions' truce,\NAlexis Doucet and Marrine Kreische will marry.
+Dialogue: 0,0:14:22.48,0:14:28.20,Default,NTP,0000,0000,0000,,You two will unify your Crests,\Nand then I will swear my loyalty to that Crest.
+Dialogue: 0,0:14:28.95,0:14:31.95,Default,NTP,0000,0000,0000,,Do you intend to create the Grancrest here?
+Dialogue: 0,0:14:31.95,0:14:32.70,Default,NTP,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:32.70,0:14:35.00,Default,NTP,0000,0000,0000,,If that happens, the tragedy will repeat!
+Dialogue: 0,0:14:35.41,0:14:40.29,Default,NTP,0000,0000,0000,,Once the Crests are unified,\Nthe Academy will surely bare its fangs in time.
+Dialogue: 0,0:14:41.21,0:14:42.59,Default,NTP,0000,0000,0000,,Absolutely.
+Dialogue: 0,0:14:43.34,0:14:46.76,Default,NTP,0000,0000,0000,,That's why I wanted to fight on my own.
+Dialogue: 0,0:14:47.43,0:14:49.05,Default,NTP,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:14:49.05,0:14:52.51,Default,NTP,0000,0000,0000,,I wanted the enemy's attack\Nto be directed only at me.
+Dialogue: 0,0:14:52.97,0:14:59.52,Default,NTP,0000,0000,0000,,Even if I perished, it would serve to let\Nthe Continent know who our true enemy is.
+Dialogue: 0,0:14:59.98,0:15:02.23,Default,NTP,0000,0000,0000,,What good would it do to let everyone know?
+Dialogue: 0,0:15:02.61,0:15:06.28,Default,NTP,0000,0000,0000,,Someday, someone will carry out my mission.
+Dialogue: 0,0:15:06.95,0:15:08.91,Default,NTP,0000,0000,0000,,That's all I need to accomplish.
+Dialogue: 0,0:15:08.91,0:15:13.12,Default,NTP,0000,0000,0000,,Never mind someday, Sir Alexis and I\Nwill fight together right now!
+Dialogue: 0,0:15:13.28,0:15:13.95,Default,NTP,0000,0000,0000,,No!
+Dialogue: 0,0:15:14.91,0:15:15.83,Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:15:15.83,0:15:18.21,Default,NTP,0000,0000,0000,,I can not let that happen, ever.
+Dialogue: 0,0:15:18.67,0:15:19.87,Default,NTP,0000,0000,0000,,Why not?
+Dialogue: 0,0:15:19.96,0:15:22.09,Default,NTP,0000,0000,0000,,Why do you wish to shoulder everything?
+Dialogue: 0,0:15:22.96,0:15:25.92,Default,NTP,0000,0000,0000,,It's ridiculous for you\Nto be the only one to sacrifice yourself.
+Dialogue: 0,0:15:27.76,0:15:31.14,Default,NTP,0000,0000,0000,,Let the three of us stand together,\Nagainst our true enemy—
+Dialogue: 0,0:15:31.14,0:15:32.64,Default,NTP,0000,0000,0000,,Not Alexis!
+Dialogue: 0,0:15:37.43,0:15:39.10,Default,NTP,0000,0000,0000,,Don't drag him into this.
+Dialogue: 0,0:15:42.90,0:15:47.44,Default,NTP,0000,0000,0000,,No matter who the enemy is,\NI wish to fight by your side.
+Dialogue: 0,0:15:50.99,0:15:52.95,Default,NTP,0000,0000,0000,,Would you mind coming with me?
+Dialogue: 0,0:16:26.90,0:16:27.86,Default,NTP,0000,0000,0000,,Marrine.
+Dialogue: 0,0:16:34.03,0:16:36.58,Default,NTP,0000,0000,0000,,I want you to be my queen.
+Dialogue: 0,0:16:39.25,0:16:46.21,Default,NTP,0000,0000,0000,,My Crest, my life, my love.\NI give them all to you.
+Dialogue: 0,0:16:46.21,0:16:47.88,Default,NTP,0000,0000,0000,,I can't accept them.
+Dialogue: 0,0:16:48.17,0:16:50.88,Default,NTP,0000,0000,0000,,I have no right to accept them.
+Dialogue: 0,0:16:52.43,0:16:53.43,Default,NTP,0000,0000,0000,,Why not?
+Dialogue: 0,0:16:54.59,0:16:55.68,Default,NTP,0000,0000,0000,,I...
+Dialogue: 0,0:16:59.68,0:17:02.31,Default,NTP,0000,0000,0000,,I surrendered my virtue\Nto the Prince of Dartania.
+Dialogue: 0,0:17:04.85,0:17:08.94,Default,NTP,0000,0000,0000,,It only happened once,\Nbut I've undoubtedly lost my purity.
+Dialogue: 0,0:17:10.19,0:17:12.95,Default,NTP,0000,0000,0000,,Were you in love with the Prince of Dartania?
+Dialogue: 0,0:17:13.41,0:17:14.36,Default,NTP,0000,0000,0000,,No.
+Dialogue: 0,0:17:14.95,0:17:17.03,Default,NTP,0000,0000,0000,,Then, there are no problems.
+Dialogue: 0,0:17:19.91,0:17:27.50,Default,NTP,0000,0000,0000,,The important thing is that I love you,\Nand whether or not you're willing to accept that.
+Dialogue: 0,0:17:28.25,0:17:30.71,Default,NTP,0000,0000,0000,,My entire body is stained with blood.
+Dialogue: 0,0:17:31.34,0:17:35.64,Default,NTP,0000,0000,0000,,Because of me, tens of thousands of people\Nhave lost their lives.
+Dialogue: 0,0:17:36.18,0:17:38.93,Default,NTP,0000,0000,0000,,I have no right to become happy!
+Dialogue: 0,0:17:40.22,0:17:43.10,Default,NTP,0000,0000,0000,,If you're forbidden from ever becoming happy,
+Dialogue: 0,0:17:44.02,0:17:46.31,Default,NTP,0000,0000,0000,,then let me accept that penalty as well.
+Dialogue: 0,0:17:46.77,0:17:50.19,Default,NTP,0000,0000,0000,,If we must make amends,\Nthen let's spend the rest of our lives doing that!
+Dialogue: 0,0:17:52.65,0:17:55.20,Default,NTP,0000,0000,0000,,I've made Siluca my bride.
+Dialogue: 0,0:17:57.91,0:18:00.83,Default,NTP,0000,0000,0000,,- Although we haven't announced it yet.\N- Sir Theo!
+Dialogue: 0,0:18:08.25,0:18:10.88,Default,NTP,0000,0000,0000,,I love Siluca with all my heart.
+Dialogue: 0,0:18:11.67,0:18:14.26,Default,NTP,0000,0000,0000,,And she's accepted how I feel about her.
+Dialogue: 0,0:18:14.92,0:18:18.09,Default,NTP,0000,0000,0000,,{\a6}It's only natural\Nfor two people in love to be together.
+Dialogue: 0,0:18:18.64,0:18:20.93,Default,NTP,0000,0000,0000,,{\a6}If we live in a world where that's forbidden,
+Dialogue: 0,0:18:21.85,0:18:24.48,Default,NTP,0000,0000,0000,,I'll change it, even if I have to destroy it!
+Dialogue: 0,0:18:27.98,0:18:29.15,Default,NTP,0000,0000,0000,,Alexis.
+Dialogue: 0,0:18:29.69,0:18:30.69,Default,NTP,0000,0000,0000,,What is it?
+Dialogue: 0,0:18:31.86,0:18:36.24,Default,NTP,0000,0000,0000,,Do you really wish\Nfor me to become your queen?
+Dialogue: 0,0:18:36.49,0:18:37.95,Default,NTP,0000,0000,0000,,I'll say it over and over.
+Dialogue: 0,0:18:38.62,0:18:41.49,Default,NTP,0000,0000,0000,,I'll repeat it as many times\Nas there are stars in the heavens.
+Dialogue: 0,0:18:42.20,0:18:44.33,Default,NTP,0000,0000,0000,,I've known the word "love."
+Dialogue: 0,0:18:45.75,0:18:49.88,Default,NTP,0000,0000,0000,,But after meeting you,\NI've come to know what it means "to love."
+Dialogue: 0,0:18:52.21,0:18:55.59,Default,NTP,0000,0000,0000,,Please. I want you to become my queen.
+Dialogue: 0,0:19:02.18,0:19:07.19,Default,NTP,0000,0000,0000,,Just gazing at you is enough\Nto make me feel unbearably happy.
+Dialogue: 0,0:19:07.94,0:19:10.36,Default,NTP,0000,0000,0000,,Even though it's forbidden for me\Nto feel this way.
+Dialogue: 0,0:19:13.19,0:19:17.40,Default,NTP,0000,0000,0000,,I shall become Alexis Doucet's queen.
+Dialogue: 0,0:19:40.64,0:19:43.10,Default,NTP,0000,0000,0000,,So which one should I pledge my loyalty to?
+Dialogue: 0,0:19:43.47,0:19:45.18,Default,NTP,0000,0000,0000,,That won't be necessary.
+Dialogue: 0,0:19:45.43,0:19:48.31,Default,NTP,0000,0000,0000,,We're going to pledge our loyalty to you.
+Dialogue: 0,0:19:48.39,0:19:49.23,Default,NTP,0000,0000,0000,,To me?
+Dialogue: 0,0:19:50.31,0:19:52.98,Default,NTP,0000,0000,0000,,I've been questioning it all this time.
+Dialogue: 0,0:19:53.82,0:19:56.36,Default,NTP,0000,0000,0000,,Who is this man, Theo Cornaro?
+Dialogue: 0,0:19:57.69,0:20:00.53,Default,NTP,0000,0000,0000,,But now I think I know the answer.
+Dialogue: 0,0:20:01.70,0:20:05.70,Default,NTP,0000,0000,0000,,My grandfather, Jurgen,\Nbelieved that in order to unify the Continent,
+Dialogue: 0,0:20:05.70,0:20:08.62,Default,NTP,0000,0000,0000,,it was necessary\Nto destroy and change the world.
+Dialogue: 0,0:20:09.21,0:20:12.75,Default,NTP,0000,0000,0000,,Sir Theo, you're attempting to do just that.
+Dialogue: 0,0:20:13.84,0:20:17.01,Default,NTP,0000,0000,0000,,You're the one\Nwho should become our first emperor.
+Dialogue: 0,0:20:18.76,0:20:20.01,Default,NTP,0000,0000,0000,,Let us accept.
+Dialogue: 0,0:20:20.55,0:20:25.56,Default,NTP,0000,0000,0000,,And after the miracle is fulfilled,\Nlet us return the Crest to Sir Alexis.
+Dialogue: 0,0:20:26.26,0:20:28.81,Default,NTP,0000,0000,0000,,Lady Marrine will become queen and chancellor.
+Dialogue: 0,0:20:29.02,0:20:34.77,Default,NTP,0000,0000,0000,,And you, Sir Theo...\NNo, you and I can return to Sistina.
+Dialogue: 0,0:20:35.02,0:20:38.44,Default,NTP,0000,0000,0000,,After all, that is your final dream.
+Dialogue: 0,0:20:39.36,0:20:40.61,Default,NTP,0000,0000,0000,,You're right.
+Dialogue: 0,0:20:43.24,0:20:45.99,Default,NTP,0000,0000,0000,,Let's spread the word\Nacross the whole Continent.
+Dialogue: 0,0:20:46.83,0:20:47.79,Default,NTP,0000,0000,0000,,Yes.
+Dialogue: 0,0:20:52.25,0:20:56.09,Default,NTP,0000,0000,0000,,PITCHED BATTLE OF THE THREE FORCES
+Dialogue: 0,0:22:44.69,0:22:46.49,Default,NTP,0000,0000,0000,,It's rather noisy here.
+Dialogue: 0,0:22:47.99,0:22:53.66,Default,NTP,0000,0000,0000,,I'm using the secret agency\Nto purge Mages supporting the Lords.
+Dialogue: 0,0:22:53.83,0:22:54.75,Default,NTP,0000,0000,0000,,Oh?
+Dialogue: 0,0:22:55.21,0:22:59.21,Default,NTP,0000,0000,0000,,Did something happen\Nat the pitched battle of the three factions?
+Dialogue: 0,0:22:59.54,0:23:02.17,Default,NTP,0000,0000,0000,,The Grancrest is about to be born.
+Dialogue: 0,0:23:02.17,0:23:03.51,Default,NTP,0000,0000,0000,,What did you say?
+Dialogue: 0,0:23:04.09,0:23:07.47,Default,NTP,0000,0000,0000,,We can no longer avoid confrontation\Nwith the Lords.
+Dialogue: 0,0:23:08.13,0:23:12.26,Default,NTP,0000,0000,0000,,Meaning that we, the Mage Academy,\Nmust become a monolith.
+Dialogue: 0,0:23:13.01,0:23:17.48,Default,NTP,0000,0000,0000,,This is all in the name of thwarting\Nthe advent of an era of order.
+Dialogue: 0,0:23:17.73,0:23:20.90,Default,NTP,0000,0000,0000,,In the name of fulfilling her intentions.
+Dialogue: 0,0:23:22.15,0:23:23.98,Default,NTP,0000,0000,0000,,Her intentions, huh?
+Dialogue: 0,0:23:24.65,0:23:28.61,Default,NTP,0000,0000,0000,,Apparently, my time\Nto make a move is coming closer.
+Dialogue: 0,0:23:35.12,0:23:40.13,Default,NTP,0000,0000,0000,,EPISODE 21\NPURGE

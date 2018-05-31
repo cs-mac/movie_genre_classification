@@ -1,0 +1,2153 @@
+﻿1
+00:00:10,037 --> 00:00:10,110
+<i>I</i>
+
+2
+00:00:10,111 --> 00:00:10,183
+<i>I </i>
+
+3
+00:00:10,184 --> 00:00:10,257
+<i>I L</i>
+
+4
+00:00:10,258 --> 00:00:10,331
+<i>I Lo</i>
+
+5
+00:00:10,332 --> 00:00:10,405
+<i>I Lov</i>
+
+6
+00:00:10,406 --> 00:00:10,478
+<i>I Love</i>
+
+7
+00:00:10,479 --> 00:00:10,552
+<i>I Love </i>
+
+8
+00:00:10,553 --> 00:00:10,626
+<i>I Love Y</i>
+
+9
+00:00:10,627 --> 00:00:10,699
+<i>I Love Yo</i>
+
+10
+00:00:10,700 --> 00:00:10,773
+<i>I Love You</i>
+
+11
+00:00:10,774 --> 00:00:10,847
+<i>I Love You </i>
+
+12
+00:00:10,848 --> 00:00:10,920
+<i>I Love You -</i>
+
+13
+00:00:10,921 --> 00:00:10,994
+<i>I Love You - </i>
+
+14
+00:00:10,995 --> 00:00:11,068
+<i>I Love You - T</i>
+
+15
+00:00:11,069 --> 00:00:11,142
+<i>I Love You - Th</i>
+
+16
+00:00:11,143 --> 00:00:11,215
+<i>I Love You - The</i>
+
+17
+00:00:11,216 --> 00:00:11,289
+<i>I Love You - The </i>
+
+18
+00:00:11,290 --> 00:00:11,363
+<i>I Love You - The T</i>
+
+19
+00:00:11,364 --> 00:00:11,436
+<i>I Love You - The Tr</i>
+
+20
+00:00:11,437 --> 00:00:11,510
+<i>I Love You - The Tru</i>
+
+21
+00:00:11,511 --> 00:00:11,584
+<i>I Love You - The True</i>
+
+22
+00:00:11,585 --> 00:00:11,657
+<i>I Love You - The True</i>
+
+23
+00:00:11,658 --> 00:00:11,731
+<i>I Love You - The True
+</i>
+
+24
+00:00:11,732 --> 00:00:11,805
+<i>I Love You - The True
+F</i>
+
+25
+00:00:11,806 --> 00:00:11,879
+<i>I Love You - The True
+Fe</i>
+
+26
+00:00:11,880 --> 00:00:11,952
+<i>I Love You - The True
+Fee</i>
+
+27
+00:00:11,953 --> 00:00:12,026
+<i>I Love You - The True
+Feel</i>
+
+28
+00:00:12,027 --> 00:00:12,100
+<i>I Love You - The True
+Feeli</i>
+
+29
+00:00:12,101 --> 00:00:12,173
+<i>I Love You - The True
+Feelin</i>
+
+30
+00:00:12,174 --> 00:00:12,247
+<i>I Love You - The True
+Feeling</i>
+
+31
+00:00:12,248 --> 00:00:12,321
+<i>I Love You - The True
+Feelings</i>
+
+32
+00:00:12,322 --> 00:00:12,394
+<i>I Love You - The True
+Feelings </i>
+
+33
+00:00:12,395 --> 00:00:12,468
+<i>I Love You - The True
+Feelings T</i>
+
+34
+00:00:12,469 --> 00:00:12,542
+<i>I Love You - The True
+Feelings Th</i>
+
+35
+00:00:12,543 --> 00:00:12,616
+<i>I Love You - The True
+Feelings Tha</i>
+
+36
+00:00:12,617 --> 00:00:12,689
+<i>I Love You - The True
+Feelings That</i>
+
+37
+00:00:12,690 --> 00:00:12,763
+<i>I Love You - The True
+Feelings That </i>
+
+38
+00:00:12,764 --> 00:00:12,837
+<i>I Love You - The True
+Feelings That H</i>
+
+39
+00:00:12,838 --> 00:00:12,910
+<i>I Love You - The True
+Feelings That He</i>
+
+40
+00:00:12,911 --> 00:00:12,984
+<i>I Love You - The True
+Feelings That He </i>
+
+41
+00:00:12,985 --> 00:00:13,058
+<i>I Love You - The True
+Feelings That He R</i>
+
+42
+00:00:13,059 --> 00:00:13,131
+<i>I Love You - The True
+Feelings That He Re</i>
+
+43
+00:00:13,132 --> 00:00:13,205
+<i>I Love You - The True
+Feelings That He Rev</i>
+
+44
+00:00:13,206 --> 00:00:13,279
+<i>I Love You - The True
+Feelings That He Reve</i>
+
+45
+00:00:13,280 --> 00:00:13,353
+<i>I Love You - The True
+Feelings That He Revea</i>
+
+46
+00:00:13,354 --> 00:00:13,426
+<i>I Love You - The True
+Feelings That He Reveal</i>
+
+47
+00:00:13,427 --> 00:00:13,500
+<i>I Love You - The True
+Feelings That He Reveale</i>
+
+48
+00:00:13,501 --> 00:00:13,574
+<i>I Love You - The True
+Feelings That He Revealed</i>
+
+49
+00:00:13,575 --> 00:00:13,647
+<i>I Love You - The True
+Feelings That He Revealed </i>
+
+50
+00:00:13,648 --> 00:00:13,721
+<i>I Love You - The True
+Feelings That He Revealed T</i>
+
+51
+00:00:13,722 --> 00:00:13,795
+<i>I Love You - The True
+Feelings That He Revealed To</i>
+
+52
+00:00:13,796 --> 00:00:13,868
+<i>I Love You - The True
+Feelings That He Revealed Too</i>
+
+53
+00:00:13,869 --> 00:00:13,942
+<i>I Love You - The True
+Feelings That He Revealed Too </i>
+
+54
+00:00:13,943 --> 00:00:14,016
+<i>I Love You - The True
+Feelings That He Revealed Too L</i>
+
+55
+00:00:14,017 --> 00:00:14,090
+<i>I Love You - The True
+Feelings That He Revealed Too La</i>
+
+56
+00:00:14,091 --> 00:00:14,163
+<i>I Love You - The True
+Feelings That He Revealed Too Lat</i>
+
+57
+00:00:14,164 --> 00:00:14,238
+<i>I Love You - The True
+Feelings That He Revealed Too Late</i>
+
+58
+00:00:14,262 --> 00:00:18,762
+<i>I Love You - The True
+Feelings That He Revealed Too Late</i>
+
+59
+00:00:28,581 --> 00:00:30,481
+Hey, don't drink too much.
+
+60
+00:00:33,182 --> 00:00:34,882
+I'm not.
+
+61
+00:00:35,882 --> 00:00:37,682
+I'm not drunk.
+
+62
+00:00:40,882 --> 00:00:43,082
+I'd like to be drunk, though.
+
+63
+00:00:47,882 --> 00:00:49,381
+Just wait.
+
+64
+00:00:49,382 --> 00:00:51,082
+Time heals all wounds.
+
+65
+00:00:52,281 --> 00:00:55,682
+I'm sure you'll forget
+about everything, with time.
+
+66
+00:00:59,082 --> 00:01:01,381
+About what you just said...
+
+67
+00:01:01,382 --> 00:01:03,481
+don't believe that drivel.
+
+68
+00:01:05,481 --> 00:01:07,382
+It's a lie.
+
+69
+00:01:10,882 --> 00:01:12,382
+I don't believe that.
+
+70
+00:01:38,881 --> 00:01:40,082
+Hello.
+
+71
+00:01:40,682 --> 00:01:42,482
+Um, what brings you here?
+
+72
+00:01:44,381 --> 00:01:46,181
+<i>You said that you weren't interested
+in my Grandpa's fortune, at all!</i>
+
+73
+00:01:46,182 --> 00:01:48,280
+I don't have any interest in
+that husband clause, yes.
+
+74
+00:01:48,281 --> 00:01:50,380
+But still, a deal must
+be fair to both parties.
+
+75
+00:01:50,381 --> 00:01:55,281
+But you know, both parties need to keep
+a promise for it to have any meaning.
+
+76
+00:02:02,482 --> 00:02:04,682
+<i>How about we save sleeping
+with each other for later?</i>
+
+77
+00:02:05,281 --> 00:02:07,481
+You must be out of your mind!
+
+78
+00:02:07,482 --> 00:02:09,082
+Who said that I wanted
+to sleep with you?
+
+79
+00:02:15,082 --> 00:02:16,881
+- What's with you?
+- Ow!
+
+80
+00:02:18,381 --> 00:02:19,381
+Ow.
+
+81
+00:02:54,881 --> 00:02:55,981
+<i>Happy birthday to you!</i>
+
+82
+00:02:55,982 --> 00:03:03,682
+<i>Congratulations on your birthday!</i>
+
+83
+00:03:04,182 --> 00:03:08,482
+<i>Come on, smile! These will
+all be treasured memories.</i>
+
+84
+00:03:10,781 --> 00:03:14,182
+I think that I might
+like you, Mr. Jae In.
+
+85
+00:03:15,082 --> 00:03:17,482
+I like kissing you, too.
+
+86
+00:04:00,282 --> 00:04:05,381
+Nobody can make me forget her.
+
+87
+00:04:21,381 --> 00:04:23,982
+- Back off.
+- Hey!
+
+88
+00:04:32,282 --> 00:04:35,682
+Wow, he's gotten a lot more handsome.
+
+89
+00:04:56,381 --> 00:04:57,682
+Big Brother!
+
+90
+00:04:58,381 --> 00:04:59,681
+Oh, you're here?
+
+91
+00:04:59,682 --> 00:05:01,481
+Oh, it's Ji-sus!
+
+92
+00:05:01,482 --> 00:05:05,081
+No, I have to resist today.
+Let's go, Big Brother.
+
+93
+00:05:10,282 --> 00:05:11,882
+Do you really need to be
+holding onto me?
+
+94
+00:05:12,682 --> 00:05:14,081
+- You're not letting go?
+- No!
+
+95
+00:05:25,782 --> 00:05:27,481
+How does this look, Big Brother?
+
+96
+00:05:27,482 --> 00:05:29,380
+Oh... yeah.
+It looks fine.
+
+97
+00:05:29,381 --> 00:05:30,881
+Big Brother!
+
+98
+00:05:34,782 --> 00:05:37,081
+It looks nice on you.
+Buy that.
+
+99
+00:05:56,381 --> 00:05:57,681
+You're really not going to go home?
+
+100
+00:05:57,682 --> 00:06:00,080
+I told you, I have an audition tomorrow!
+
+101
+00:06:00,081 --> 00:06:02,380
+Yeah, but it isn't an audition
+for potential fashion models!
+
+102
+00:06:02,381 --> 00:06:04,681
+You better go back to Canada
+if you fail this audition!
+
+103
+00:06:04,682 --> 00:06:06,880
+Canada, Canada!
+You're really being too much.
+
+104
+00:06:06,881 --> 00:06:08,981
+I'm trying so hard like this on my own
+without relying on your money, though!
+
+105
+00:06:08,982 --> 00:06:11,181
+The least you could be doing is praising
+me, and yet you're saying this?
+
+106
+00:06:11,182 --> 00:06:13,981
+Oh, fine.
+Good job.
+
+107
+00:06:13,982 --> 00:06:15,682
+You really did a good job.
+
+108
+00:06:23,081 --> 00:06:25,982
+But still, you're going back to
+Canada if you fail this audition.
+
+109
+00:06:48,581 --> 00:06:51,880
+DaDa. Ji Su has really
+become a lot more skilled!
+
+110
+00:06:51,881 --> 00:06:54,182
+Should I go and get some
+autographs from him?
+
+111
+00:06:54,881 --> 00:06:56,782
+What are you staring at?
+
+112
+00:06:59,482 --> 00:07:03,182
+Why that...
+those little... ugh!
+
+113
+00:07:04,182 --> 00:07:05,982
+That rotten bastard!
+
+114
+00:07:08,381 --> 00:07:11,481
+DaDa. Want me to go down there
+and kick him hard for you?
+
+115
+00:07:11,482 --> 00:07:14,981
+It's fine. Let's go.
+I'm hungry.
+
+116
+00:07:14,982 --> 00:07:17,681
+This is why I'm saying that you
+need to see someone, too!
+
+117
+00:07:17,682 --> 00:07:18,781
+Go on some arranged dates, or something!
+
+118
+00:07:18,782 --> 00:07:21,481
+I'll have tons of great rich guys
+lined up, just waiting!
+
+119
+00:07:21,482 --> 00:07:24,681
+It's fine. I'm not even
+completely over all this yet.
+
+120
+00:07:24,682 --> 00:07:26,981
+So it'd be unfair to the other person.
+
+121
+00:07:26,982 --> 00:07:29,281
+Unfair, my ass!
+
+122
+00:07:29,282 --> 00:07:33,081
+You can only win against
+a man with another man!
+
+123
+00:07:35,482 --> 00:07:36,682
+Let's go.
+
+124
+00:07:49,881 --> 00:07:52,381
+<i>You're not going to give me a
+"good job" stamp this time?</i>
+
+125
+00:07:55,982 --> 00:07:58,682
+Good... job.
+
+126
+00:08:17,081 --> 00:08:18,981
+There's nothing here.
+
+127
+00:08:19,481 --> 00:08:22,441
+It's not like I did anything to deserve
+getting a "good job" stamp, though.
+
+128
+00:08:22,682 --> 00:08:23,882
+Pardon?
+
+129
+00:08:24,981 --> 00:08:26,282
+Oh, it's nothing.
+
+130
+00:08:52,682 --> 00:08:54,080
+If I had known that this
+was going to happen
+
+131
+00:08:54,081 --> 00:08:56,382
+I would've given it my all
+when I was dating him.
+
+132
+00:08:58,382 --> 00:09:00,981
+I would've done everything that
+everyone else does, with him
+
+133
+00:09:01,782 --> 00:09:04,481
+so that I wouldn't have any regrets.
+
+134
+00:09:08,581 --> 00:09:09,682
+No...
+
+135
+00:09:12,481 --> 00:09:18,882
+Rather, I shouldn't have made
+any memories with him.
+
+136
+00:09:45,382 --> 00:09:49,580
+So he really ended things with Da Hyun?
+
+137
+00:09:49,581 --> 00:09:50,781
+Yes!
+
+138
+00:09:50,782 --> 00:09:55,181
+He's really a lot scarier
+than I'd thought!
+
+139
+00:09:55,182 --> 00:09:57,980
+Of course he is.
+He's my grandson, after all.
+
+140
+00:09:57,981 --> 00:10:01,882
+One's work life and dating life
+should be kept separate, after all.
+
+141
+00:10:03,882 --> 00:10:07,281
+A long, long time ago, there was a salt
+merchant travelling through the hills.
+
+142
+00:10:07,282 --> 00:10:09,881
+And then, he ran into a scary tiger.
+
+143
+00:10:09,882 --> 00:10:14,782
+The tiger rushed at the salt
+merchant, and swallowed him!
+
+144
+00:10:17,882 --> 00:10:20,080
+All right.
+Relax, and take it easy.
+
+145
+00:10:20,081 --> 00:10:21,481
+Okay, right turn.
+
+146
+00:10:23,081 --> 00:10:25,182
+Wait, you have to signal!
+
+147
+00:10:30,081 --> 00:10:31,081
+Um, right turn?
+
+148
+00:10:31,082 --> 00:10:33,182
+Just keep going straight.
+
+149
+00:10:46,382 --> 00:10:51,081
+And the salt vendor received
+a huge reward in the end!
+
+150
+00:11:54,481 --> 00:11:57,682
+After you finish your scheduled
+activities for the morning, you...
+
+151
+00:11:59,981 --> 00:12:02,301
+The chairman called and told me
+to remind you, sir, that...
+
+152
+00:12:03,481 --> 00:12:10,282
+you're having lunch with the second
+daughter of the chairman of Ganghan Inc.
+
+153
+00:12:12,382 --> 00:12:14,281
+Looks like our chairman
+is doing just fine.
+
+154
+00:12:14,282 --> 00:12:15,882
+Tell him that he needn't worry about it.
+
+155
+00:12:17,282 --> 00:12:21,182
+Are you... really going to marry
+this person right away?
+
+156
+00:12:23,182 --> 00:12:25,381
+I'm the only direct descendant
+of the Lee family line.
+
+157
+00:12:25,382 --> 00:12:30,580
+My grandfather won't stand for it
+if I don't get married.
+
+158
+00:12:30,581 --> 00:12:32,281
+But if you marry the wrong person
+
+159
+00:12:32,282 --> 00:12:35,281
+we'll potentially have a
+terrible Madam to worry about!
+
+160
+00:12:35,282 --> 00:12:36,980
+Please consider your options carefully.
+
+161
+00:12:36,981 --> 00:12:38,882
+My hands are tied, though.
+
+162
+00:12:41,882 --> 00:12:44,381
+We'll sign pre-nups
+before getting married.
+
+163
+00:12:44,382 --> 00:12:49,881
+Of course, we must sign an M&A contract
+for our companies before doing that.
+
+164
+00:12:49,882 --> 00:12:52,080
+Aren't you speaking
+a bit too matter-of-factly?
+
+165
+00:12:52,081 --> 00:12:54,681
+I don't think there is any need
+for either of us to waste time.
+
+166
+00:12:54,682 --> 00:12:56,381
+Aren't those the terms you agreed to
+by coming out here, anyway?
+
+167
+00:12:56,382 --> 00:13:00,080
+But still, I thought you'd
+maintain a basic level of etiquette.
+
+168
+00:13:00,081 --> 00:13:02,182
+A marriage isn't a
+business venture, after all.
+
+169
+00:13:10,182 --> 00:13:11,782
+How old are you?
+
+170
+00:13:14,382 --> 00:13:15,881
+28.
+
+171
+00:13:15,882 --> 00:13:19,480
+I'm sure you've been to plenty of
+meetings like this by now, at your age.
+
+172
+00:13:19,481 --> 00:13:21,181
+And yet you still aren't
+familiar of the rules of our world?
+
+173
+00:13:21,182 --> 00:13:26,281
+This marriage is a deal.
+It's strictly business.
+
+174
+00:13:26,282 --> 00:13:28,981
+Nothing more, nothing less.
+
+175
+00:13:30,282 --> 00:13:31,980
+Let's stop things here.
+
+176
+00:13:31,981 --> 00:13:34,621
+I feel like neither one of us can
+fulfill the other's expectations.
+
+177
+00:13:39,782 --> 00:13:44,881
+Yes, Jae In is quite picky when
+it comes to women. And so am I.
+
+178
+00:13:44,882 --> 00:13:49,182
+I'm sure you were well aware of the fact
+that SH Group is a formidable force.
+
+179
+00:13:53,481 --> 00:13:56,281
+Director Lee didn't go home
+yesterday, either?
+
+180
+00:13:56,282 --> 00:13:57,282
+No, ma'am.
+
+181
+00:13:57,283 --> 00:14:01,182
+I'm so worried for him,
+he's overworking himself so much!
+
+182
+00:14:01,782 --> 00:14:03,080
+Don't worry!
+
+183
+00:14:03,081 --> 00:14:04,980
+That amount of work won't kill him.
+
+184
+00:14:04,981 --> 00:14:06,580
+Father-in-Law!
+
+185
+00:14:06,581 --> 00:14:08,182
+I'll be going, then.
+
+186
+00:14:14,481 --> 00:14:16,382
+Father-in-Law.
+
+187
+00:14:16,882 --> 00:14:20,581
+I... did the right thing, didn't I?
+
+188
+00:14:23,981 --> 00:14:26,281
+They broke up because that's all
+their relationship amounted to.
+
+189
+00:14:26,282 --> 00:14:30,381
+They only liked each other
+that much, is all.
+
+190
+00:14:30,382 --> 00:14:31,781
+So don't beat yourself up too much.
+
+191
+00:14:31,782 --> 00:14:33,382
+They have nobody to blame
+but themselves.
+
+192
+00:14:41,981 --> 00:14:44,881
+Good work today everyone!
+Gather around!
+
+193
+00:14:44,882 --> 00:14:48,580
+Make sure you all get home safe, okay?
+
+194
+00:14:48,581 --> 00:14:49,581
+- Yes, Teacher.
+- Yes, Teacher.
+
+195
+00:14:49,581 --> 00:14:50,581
+And watch out for cars!
+
+196
+00:14:50,582 --> 00:14:53,181
+- Goodbye, Teacher!
+- Goodbye, Teacher!
+
+197
+00:14:53,182 --> 00:14:54,381
+Bye!
+
+198
+00:14:54,382 --> 00:14:56,681
+Oh, Ru Mi!
+Let me straighten that up for you.
+
+199
+00:14:56,682 --> 00:14:58,480
+- Goodbye, Teacher.
+- Bye, now!
+
+200
+00:14:58,481 --> 00:14:59,481
+Okay!
+
+201
+00:15:15,081 --> 00:15:18,080
+Don't worry. I can guarantee you
+this friend of mine is a good guy.
+
+202
+00:15:18,081 --> 00:15:19,381
+Is he really good-looking?
+
+203
+00:15:19,382 --> 00:15:21,681
+Yeah, totally!
+
+204
+00:15:21,682 --> 00:15:24,781
+He's like Won Bin and
+Jo In Sung put together!
+
+205
+00:15:24,782 --> 00:15:28,282
+But the most important thing of all
+is that he's an herbalist!
+
+206
+00:15:29,382 --> 00:15:30,881
+You're not lying to me, are you?
+
+207
+00:15:30,882 --> 00:15:33,681
+I'll kill you if he ends up being
+a mommy's boy or a player!
+
+208
+00:15:33,682 --> 00:15:35,080
+Hey, DaDa.
+
+209
+00:15:35,081 --> 00:15:37,181
+I told you, I did an
+initial scan of him already!
+
+210
+00:15:37,182 --> 00:15:39,181
+Man, I'm full.
+
+211
+00:15:39,182 --> 00:15:40,381
+Just try meeting him.
+
+212
+00:15:40,382 --> 00:15:43,281
+And if it doesn't work out
+even after you've dated around a bit
+
+213
+00:15:43,282 --> 00:15:45,181
+I'll take responsibility for you,
+so don't worry.
+
+214
+00:15:45,182 --> 00:15:46,281
+- Just leave it to me.
+- Geez.
+
+215
+00:15:46,282 --> 00:15:49,281
+I told you, no players!
+So stop it with that, already!
+
+216
+00:15:49,282 --> 00:15:53,182
+Hey. It's because of you
+that I can't get married!
+
+217
+00:15:55,481 --> 00:15:56,882
+You should eat more.
+
+218
+00:16:14,382 --> 00:16:16,181
+Give me an employee discount, okay?
+
+219
+00:16:16,182 --> 00:16:17,681
+It's on me.
+
+220
+00:16:17,682 --> 00:16:19,580
+It's a gift from me to commemorate
+you overcoming your heartbreak.
+
+221
+00:16:19,581 --> 00:16:21,581
+Wow! Wait, since you're
+buying me things already...
+
+222
+00:16:22,081 --> 00:16:23,681
+Um... oh!
+
+223
+00:16:23,682 --> 00:16:24,881
+Buy me this, too!
+
+224
+00:16:24,882 --> 00:16:27,682
+Geez!
+Don't make me yell at you!
+
+225
+00:16:28,882 --> 00:16:34,581
+I broke up with a guy, and
+I was in tons of pain, you know!
+
+226
+00:16:36,182 --> 00:16:39,681
+Wow, you were never this sly before!
+
+227
+00:16:39,682 --> 00:16:41,081
+So you're not going to buy this for me?
+
+228
+00:16:41,082 --> 00:16:42,582
+Fine, fine!
+
+229
+00:16:48,082 --> 00:16:51,081
+What's wrong? She eats well now
+and even smiles nowadays.
+
+230
+00:16:51,082 --> 00:16:54,081
+Da Hyun doesn't like cream spaghetti.
+
+231
+00:16:54,082 --> 00:16:56,481
+She usually can't even finish
+an entire plate of it.
+
+232
+00:16:58,882 --> 00:17:00,681
+Oh my goodness!
+
+233
+00:17:00,682 --> 00:17:03,181
+Just ask me to buy you all
+the clothes here, why don't you!
+
+234
+00:17:03,182 --> 00:17:04,682
+Wow.
+
+235
+00:17:50,481 --> 00:17:53,682
+<i>[Lee Jae]</i>
+
+236
+00:17:56,281 --> 00:17:59,682
+<i>[Lee Jae In]</i>
+
+237
+00:18:09,781 --> 00:18:11,182
+Yeah, Mom?
+
+238
+00:18:13,082 --> 00:18:15,281
+Oh, it's Dad's acquaintance?
+
+239
+00:18:15,981 --> 00:18:18,280
+Then sure, I'll meet with him.
+
+240
+00:18:18,281 --> 00:18:20,681
+Okay, I'll do well.
+
+241
+00:18:20,682 --> 00:18:21,882
+Okay.
+
+242
+00:18:30,781 --> 00:18:34,981
+Oh... it's raining.
+
+243
+00:19:20,781 --> 00:19:22,082
+<i>I think...</i>
+
+244
+00:19:22,682 --> 00:19:24,781
+that I might like you, Mr. Jae In.
+
+245
+00:19:52,582 --> 00:19:55,781
+Are you really thinking of finding
+a school to work at in Jinju, too?
+
+246
+00:19:58,981 --> 00:20:00,382
+Ms. Da Hyun.
+
+247
+00:20:02,882 --> 00:20:05,082
+I'm sorry.
+
+248
+00:20:08,582 --> 00:20:10,381
+Ms. Da Hyun.
+
+249
+00:20:10,382 --> 00:20:12,980
+I'll drive you home.
+It's raining, after all.
+
+250
+00:20:12,981 --> 00:20:15,382
+No, I can just catch
+a cab right outside.
+
+251
+00:20:15,882 --> 00:20:16,980
+Um...
+
+252
+00:20:16,981 --> 00:20:21,082
+I'm sorry about today.
+I haven't fully recovered yet.
+
+253
+00:20:21,781 --> 00:20:23,382
+Goodbye.
+
+254
+00:21:23,981 --> 00:21:26,481
+Thanks for bringing me to your hotel.
+
+255
+00:22:10,082 --> 00:22:11,786
+I'd heard that she was sick.
+
+256
+00:22:11,787 --> 00:22:13,882
+Did she lose weight?
+
+257
+00:22:44,882 --> 00:22:46,381
+Who are you?
+
+258
+00:22:46,382 --> 00:22:48,181
+My name is Jung Hyun Jin.
+
+259
+00:22:48,182 --> 00:22:50,882
+I'm your cousin's
+ex-girlfriend's best friend.
+
+260
+00:22:52,382 --> 00:22:55,682
+So, um, Kim Da Hyun is my friend.
+
+261
+00:22:57,481 --> 00:22:58,881
+Excuse me.
+
+262
+00:22:58,882 --> 00:23:00,681
+You should be showing
+interest in this issue, you know!
+
+263
+00:23:00,682 --> 00:23:02,882
+You kidnapped my Da Hyun, after all.
+
+264
+00:23:04,781 --> 00:23:06,381
+I'm not the one who kidnapped her.
+
+265
+00:23:06,382 --> 00:23:07,881
+I saved her!
+
+266
+00:23:07,882 --> 00:23:10,681
+Let's be real, though. You didn't save
+her because you wanted to.
+
+267
+00:23:10,682 --> 00:23:13,280
+You only did it because of that
+high-and-mighty cousin of yours.
+
+268
+00:23:13,281 --> 00:23:14,781
+What is it that you want to say?
+
+269
+00:23:16,981 --> 00:23:19,780
+You know that Mr. Lee Jae In
+and my friend broke up, right?
+
+270
+00:23:19,781 --> 00:23:22,381
+Well, I think I did hear
+something about that, yes.
+
+271
+00:23:22,382 --> 00:23:26,582
+Those two were really good together.
+
+272
+00:23:27,981 --> 00:23:29,281
+So what?
+
+273
+00:23:31,882 --> 00:23:35,082
+How about we do
+a good deed for those two?
+
+274
+00:23:36,382 --> 00:23:38,681
+I'm not that good of a person
+to be interested in such things.
+
+275
+00:23:38,682 --> 00:23:42,382
+Also, I have no interest in
+others' love lives.
+
+276
+00:23:46,682 --> 00:23:49,382
+Wow, what an asshole!
+
+277
+00:23:50,082 --> 00:23:53,980
+Fine. I guess Da Hyun can see other
+men without any worries now.
+
+278
+00:23:53,981 --> 00:23:56,781
+It's not like Lee Jae In is the
+only man on this planet!
+
+279
+00:23:59,682 --> 00:24:02,981
+- You have such a young-looking face.
+- Oh, thank you.
+
+280
+00:24:12,682 --> 00:24:15,481
+Well, I like to read.
+
+281
+00:24:16,182 --> 00:24:17,881
+What do you enjoy doing?
+
+282
+00:24:17,882 --> 00:24:21,181
+Well, I like exercising and watching
+movies. And watching movies alone.
+
+283
+00:24:21,182 --> 00:24:22,281
+Oh.
+
+284
+00:24:40,481 --> 00:24:42,981
+Shall we go somewhere else?
+
+285
+00:24:44,882 --> 00:24:46,681
+That'd be for the best, right?
+
+286
+00:24:46,682 --> 00:24:48,981
+If we stay, it'll just be
+uncomfortable for both of us.
+
+287
+00:25:02,182 --> 00:25:03,182
+What?
+
+288
+00:25:03,183 --> 00:25:05,781
+- You know, Cousin...
+- I told you to call me Big Bro.
+
+289
+00:25:07,682 --> 00:25:09,882
+You're only seven months
+older than me, though.
+
+290
+00:25:10,481 --> 00:25:11,881
+Well, anyway.
+Big Bro.
+
+291
+00:25:11,882 --> 00:25:14,242
+It's the first time I've seen you
+be considerate of someone.
+
+292
+00:25:16,382 --> 00:25:19,981
+I have a debt to repay to that woman.
+
+293
+00:25:30,682 --> 00:25:32,780
+I've done all that I could.
+
+294
+00:25:32,781 --> 00:25:35,182
+Man, that stubborn ass.
+
+295
+00:25:37,082 --> 00:25:40,382
+Oh, I don't mean you.
+I'm talking about your cousin.
+
+296
+00:25:40,981 --> 00:25:42,381
+Man, really.
+
+297
+00:25:42,382 --> 00:25:44,980
+I guess that's why he makes
+so much money, huh?
+
+298
+00:25:44,981 --> 00:25:47,081
+Because he's so stupidly stubborn!
+
+299
+00:25:47,082 --> 00:25:52,481
+But still, my Big Bro... no, I mean, my
+cousin... held himself back a lot.
+
+300
+00:25:53,182 --> 00:25:55,582
+Does he really not have any
+feelings left for her, then?
+
+301
+00:25:56,481 --> 00:25:58,381
+Thank you for today.
+
+302
+00:25:58,382 --> 00:26:03,980
+I guess he didn't love Da Hyun
+as much as I thought he did.
+
+303
+00:26:03,981 --> 00:26:06,381
+I guess I misunderstood.
+
+304
+00:26:06,382 --> 00:26:10,181
+Wait, no, that works out
+for the best, then.
+
+305
+00:26:10,182 --> 00:26:11,980
+Since she can meet someone better
+with no regrets.
+
+306
+00:26:11,981 --> 00:26:15,081
+At any rate, I've done all that I could.
+
+307
+00:26:15,082 --> 00:26:18,980
+So if I hear anything about contracts
+or a kidnapping through the media
+
+308
+00:26:18,981 --> 00:26:20,881
+you'll have to take responsibility
+for all that, Ms. Jung Hyun Jin.
+
+309
+00:26:20,882 --> 00:26:23,280
+My cousin is quite a
+scary fellow, you see.
+
+310
+00:26:23,281 --> 00:26:25,881
+Sure, sure.
+I know.
+
+311
+00:26:25,882 --> 00:26:28,681
+Also, I also know that it won't
+benefit Da Hyun in any way
+
+312
+00:26:28,682 --> 00:26:31,181
+for rumors like that
+to get around, either.
+
+313
+00:26:31,182 --> 00:26:35,280
+So I had no intention of posting
+an exposé about this online.
+
+314
+00:26:35,281 --> 00:26:38,682
+At any rate, thank you.
+Goodbye, now.
+
+315
+00:26:39,182 --> 00:26:40,781
+Wait.
+
+316
+00:26:41,281 --> 00:26:43,981
+Wait, so are you saying
+that you deceived me?
+
+317
+00:26:44,481 --> 00:26:46,881
+It was bad enough that
+you threatened me!
+
+318
+00:26:46,882 --> 00:26:50,081
+Oh, what do you mean, threaten?
+
+319
+00:26:50,082 --> 00:26:53,182
+I was just a bit desperate, is all.
+
+320
+00:27:40,882 --> 00:27:42,882
+<i>[Will you delete this photo?]
+[No]</i>
+
+321
+00:27:46,481 --> 00:27:48,780
+The meeting is starting, Director.
+
+322
+00:27:48,781 --> 00:27:49,981
+All right.
+
+323
+00:27:50,781 --> 00:27:52,980
+I've prepared a simulation
+of what it'd be like for us
+
+324
+00:27:52,981 --> 00:27:55,881
+to achieve 80 percent
+of our marketing goals.
+
+325
+00:27:55,882 --> 00:28:00,980
+First, we'll establish an infrastructure
+geared towards Canadian tourists.
+
+326
+00:28:00,981 --> 00:28:04,481
+And we'll prepare something
+that most Canadians like...
+
+327
+00:28:05,882 --> 00:28:07,082
+Director!
+
+328
+00:28:09,682 --> 00:28:11,481
+Oh, I'm sorry.
+
+329
+00:28:11,981 --> 00:28:16,081
+Let's end the meeting for today. Can
+you take care of the rest, Chief Park?
+
+330
+00:28:16,082 --> 00:28:17,882
+Yes, sir.
+
+331
+00:28:35,481 --> 00:28:38,382
+Is it okay for me to contact you again?
+
+332
+00:28:42,781 --> 00:28:44,082
+Sure.
+
+333
+00:28:59,182 --> 00:29:02,082
+Do you like that man?
+
+334
+00:29:11,082 --> 00:29:13,281
+Why are you asking me
+something like that?
+
+335
+00:29:13,882 --> 00:29:15,882
+Is that why you told him that it's
+okay for him to contact you again?
+
+336
+00:29:16,582 --> 00:29:18,481
+He's a good person.
+
+337
+00:29:19,481 --> 00:29:21,780
+It's about time for me to see
+other people now, too.
+
+338
+00:29:21,781 --> 00:29:23,981
+That way, I'll be able
+to get married, and...
+
+339
+00:29:26,781 --> 00:29:28,882
+Don't talk about other men.
+
+340
+00:29:29,481 --> 00:29:31,981
+This is none of your
+business, Mr. Jae In!
+
+341
+00:29:37,781 --> 00:29:39,481
+What are you...
+
+342
+00:29:40,781 --> 00:29:45,882
+If just you can bear it, DaDa,
+then so can I.
+
+343
+00:29:51,281 --> 00:29:52,980
+You'll have to quit
+your job at the school.
+
+344
+00:29:52,981 --> 00:29:55,280
+There will always be security
+guards around you
+
+345
+00:29:55,281 --> 00:29:57,681
+and there will be tons of reporters
+bothering you all the time.
+
+346
+00:29:57,682 --> 00:30:00,581
+And I can't be with you every day,
+like other men can.
+
+347
+00:30:00,582 --> 00:30:05,081
+My mother will be on my side,
+but she might be mean to you.
+
+348
+00:30:05,082 --> 00:30:08,681
+But you can just ignore what
+everyone else thinks, though.
+
+349
+00:30:08,682 --> 00:30:11,381
+You might not be able
+to do anything for me.
+
+350
+00:30:11,382 --> 00:30:13,382
+Are you okay with that?
+
+351
+00:30:14,582 --> 00:30:18,582
+How... could I possibly
+be okay with that?
+
+352
+00:30:19,082 --> 00:30:20,781
+But still, try and bear it.
+
+353
+00:30:23,582 --> 00:30:25,581
+Just do this for me, just this once.
+
+354
+00:30:25,582 --> 00:30:28,981
+I'll be good to you later,
+when we're old.
+
+355
+00:30:39,781 --> 00:30:41,382
+There's...
+
+356
+00:30:44,182 --> 00:30:46,781
+nothing that has changed
+about the two of us.
+
+357
+00:30:47,281 --> 00:30:51,981
+So... will we be able to start over?
+
+358
+00:30:55,082 --> 00:30:57,382
+You're positive that
+nothing has changed?
+
+359
+00:30:57,981 --> 00:31:00,082
+That's a relief, then.
+
+360
+00:31:03,281 --> 00:31:05,182
+I want to marry you.
+
+361
+00:31:10,781 --> 00:31:12,382
+Mr. Jae In.
+
+362
+00:31:13,882 --> 00:31:17,582
+I... I don't have the
+confidence to say yes.
+
+363
+00:31:36,882 --> 00:31:38,682
+What a terrible guy.
+
+364
+00:31:39,382 --> 00:31:41,682
+I'd almost forgotten all about him, too.
+
+365
+00:31:42,182 --> 00:31:44,582
+I've been trying to forget about him,
+so why is he here now?
+
+366
+00:31:45,882 --> 00:31:47,981
+What does he want me to do?
+
+367
+00:32:23,481 --> 00:32:26,182
+What are you so surprised about?
+You're making me feel bad.
+
+368
+00:32:31,781 --> 00:32:33,582
+I didn't know
+that I'd run into you here.
+
+369
+00:32:36,182 --> 00:32:37,480
+Well, what else was I supposed to move?
+
+370
+00:32:37,481 --> 00:32:40,281
+You wouldn't budge,
+so I had to come to you.
+
+371
+00:32:45,082 --> 00:32:46,681
+Come on, just come with me.
+
+372
+00:32:46,682 --> 00:32:49,482
+I really don't have the luxury to be
+considerate of your circumstances.
+
+373
+00:32:50,082 --> 00:32:51,682
+Oh my.
+
+374
+00:32:52,882 --> 00:32:54,682
+Do I have to drag you?
+
+375
+00:33:16,182 --> 00:33:17,980
+Are you seeing anyone?
+
+376
+00:33:17,981 --> 00:33:19,280
+No.
+
+377
+00:33:19,281 --> 00:33:21,882
+Good. I'm not dating anyone either.
+
+378
+00:33:22,882 --> 00:33:26,981
+You really aren't?
+I don't think that's quite true.
+
+379
+00:33:27,781 --> 00:33:29,480
+I told you, I'm not seeing anyone.
+
+380
+00:33:29,481 --> 00:33:32,881
+Unlike someone, who has someone
+who drops her off at home and such.
+
+381
+00:33:32,882 --> 00:33:34,082
+I really didn't do that.
+
+382
+00:33:34,682 --> 00:33:38,480
+Well, I, at the very least, didn't go
+shopping with someone all giddily!
+
+383
+00:33:38,481 --> 00:33:40,981
+What are you talking about?
+What did you even see?
+
+384
+00:33:40,982 --> 00:33:42,781
+When did I ever go shopping?
+
+385
+00:33:43,381 --> 00:33:45,780
+Oh!
+
+386
+00:33:45,781 --> 00:33:46,981
+"Oh?"
+
+387
+00:33:46,982 --> 00:33:50,082
+What, you saw that but you didn't see us
+going into the same hotel room?
+
+388
+00:33:51,781 --> 00:33:53,280
+Stop the car.
+
+389
+00:33:53,281 --> 00:33:54,982
+She's my younger sister!
+
+390
+00:33:56,182 --> 00:33:57,681
+She's from Canada.
+
+391
+00:33:57,682 --> 00:34:02,381
+You said hello back then to
+my aunt's husband, right?
+
+392
+00:34:04,182 --> 00:34:05,682
+Oh!
+
+393
+00:34:25,082 --> 00:34:28,381
+So, what's your answer?
+
+394
+00:34:30,082 --> 00:34:33,881
+Wait, no.
+Your answer isn't that important.
+
+395
+00:34:34,781 --> 00:34:39,481
+Because no matter what
+anyone says, I'm marrying DaDa.
+
+396
+00:34:39,482 --> 00:34:42,482
+We can't get married just because
+the two of us want to.
+
+397
+00:34:43,082 --> 00:34:45,880
+You don't have to tell me that.
+I already know.
+
+398
+00:34:45,881 --> 00:34:47,981
+Sheesh, you're such a preachy teach.
+
+399
+00:34:47,982 --> 00:34:49,880
+That's "Teacher," thank you!
+
+400
+00:34:49,881 --> 00:34:52,361
+I've told you that so many times,
+and yet you still don't know?
+
+401
+00:34:53,381 --> 00:34:55,982
+Yes, Teacher!
+
+402
+00:34:58,881 --> 00:35:01,181
+Don't think too long and hard about it.
+
+403
+00:35:01,182 --> 00:35:04,381
+This isn't exactly a simple matter,
+you know.
+
+404
+00:35:08,381 --> 00:35:13,582
+Do you really want to see me get married
+to another woman and live a happy life?
+
+405
+00:35:16,381 --> 00:35:18,581
+I don't want that, either.
+
+406
+00:35:18,582 --> 00:35:22,482
+I don't want another man by your side,
+or another woman by mine.
+
+407
+00:35:23,781 --> 00:35:27,781
+I don't know how you've been,
+but I wasn't okay at all.
+
+408
+00:35:29,482 --> 00:35:31,781
+I wasn't okay either!
+
+409
+00:35:33,482 --> 00:35:38,082
+Then just stay by my side.
+Let's stay together.
+
+410
+00:35:40,281 --> 00:35:44,381
+Other people break up because
+they don't love each other.
+
+411
+00:35:44,881 --> 00:35:47,781
+So I don't know why we have
+to break up because we do.
+
+412
+00:35:51,082 --> 00:35:52,881
+What... did you just say?
+
+413
+00:35:55,381 --> 00:35:58,482
+I love you, Da Hyun.
+
+414
+00:36:10,482 --> 00:36:11,682
+What is it?
+
+415
+00:36:13,182 --> 00:36:15,181
+You're such a terrible person!
+
+416
+00:36:15,182 --> 00:36:18,281
+Why are you only telling me that now?
+
+417
+00:36:25,881 --> 00:36:28,181
+My job is important to me.
+
+418
+00:36:28,182 --> 00:36:30,582
+And make sure you get
+your family's blessing!
+
+419
+00:36:34,281 --> 00:36:35,281
+What?
+
+420
+00:36:35,282 --> 00:36:42,281
+I can deal with everything you said,
+but not those two things.
+
+421
+00:36:42,881 --> 00:36:45,481
+I worked hard for ten years
+to become a teacher!
+
+422
+00:36:45,482 --> 00:36:48,381
+So I'll think about it after I've been
+a teacher for ten more years!
+
+423
+00:36:48,881 --> 00:36:50,081
+Okay.
+
+424
+00:36:50,082 --> 00:36:54,581
+It doesn't really matter to me. I'm just
+worried that it might be tough on you.
+
+425
+00:36:54,582 --> 00:36:56,981
+I'll let you know if it is.
+
+426
+00:36:56,982 --> 00:37:02,081
+And... no matter how much
+I may like you...
+
+427
+00:37:02,082 --> 00:37:05,280
+I don't have the courage to be hated
+by people who'll become my family!
+
+428
+00:37:05,281 --> 00:37:08,081
+So you have to get
+your family's blessing, okay?
+
+429
+00:37:08,082 --> 00:37:11,781
+Then... you'll marry me?
+
+430
+00:37:16,381 --> 00:37:18,182
+You mean that, right?
+
+431
+00:37:18,881 --> 00:37:22,582
+Wait, no. You already said
+you would, so no backsies.
+
+432
+00:37:23,082 --> 00:37:24,381
+Okay.
+
+433
+00:37:31,881 --> 00:37:34,082
+I love you, too.
+
+434
+00:37:46,982 --> 00:37:48,581
+Um, aren't you leaving?
+
+435
+00:37:48,582 --> 00:37:50,182
+Can't I sleep over?
+
+436
+00:37:51,482 --> 00:37:53,081
+No, you can't.
+
+437
+00:37:53,082 --> 00:37:55,322
+We're going to live together
+when we get married, anyway.
+
+438
+00:37:56,381 --> 00:37:58,280
+Who knows what'll happen later on?
+
+439
+00:37:58,281 --> 00:38:00,521
+We'll have to actually get
+married to know that for sure.
+
+440
+00:38:02,281 --> 00:38:05,182
+So, are you saying that you're
+not going to marry me, then?
+
+441
+00:38:05,482 --> 00:38:07,880
+I told you, yes!
+I will.
+
+442
+00:38:07,881 --> 00:38:09,880
+But only after we get
+our families' blessings.
+
+443
+00:38:09,881 --> 00:38:12,182
+I'll take care of that, okay?
+
+444
+00:38:16,881 --> 00:38:19,182
+I barely got a wink of sleep
+this entire time.
+
+445
+00:38:19,781 --> 00:38:21,682
+So can't you let me sleep here?
+
+446
+00:38:24,781 --> 00:38:28,381
+That company sure is strange.
+They don't even let people sleep.
+
+447
+00:38:30,482 --> 00:38:32,681
+Go home and sleep.
+
+448
+00:38:32,682 --> 00:38:35,181
+No, the reason why I didn't get
+any sleep is because of you.
+
+449
+00:38:35,182 --> 00:38:36,581
+Just stay by my side, okay?
+
+450
+00:38:36,582 --> 00:38:38,881
+That's the only way I'll
+be able to fall asleep.
+
+451
+00:38:52,582 --> 00:38:56,681
+Um, I don't have any clothes for
+you to change into at my place
+
+452
+00:38:56,682 --> 00:38:58,881
+and it'll be really
+inconvenient for you.
+
+453
+00:39:00,082 --> 00:39:02,682
+It's not too late for you
+to go home now, and...
+
+454
+00:39:49,781 --> 00:39:51,181
+Is it mine?
+
+455
+00:39:51,182 --> 00:39:53,082
+Oh, are you awake?
+
+456
+00:40:04,781 --> 00:40:06,581
+So it is you.
+
+457
+00:40:06,582 --> 00:40:10,481
+Geez, you!
+What are you doing?
+
+458
+00:40:10,482 --> 00:40:14,482
+I thought that it was just
+a dream this time, too.
+
+459
+00:40:20,582 --> 00:40:22,682
+It's not a dream.
+
+460
+00:40:29,582 --> 00:40:30,781
+Yeah.
+
+461
+00:40:31,281 --> 00:40:33,482
+I don't think it is.
+
+462
+00:40:34,582 --> 00:40:36,281
+What a relief.
+
+463
+00:40:38,781 --> 00:40:40,182
+I'm tired.
+
+464
+00:41:28,881 --> 00:41:30,380
+<i>Are you dating her again?</i>
+
+465
+00:41:30,381 --> 00:41:34,780
+<i>I can't bear to see her dating
+and marrying another man.</i>
+
+466
+00:41:34,781 --> 00:41:36,880
+<i>- No way.
+- You saved my life.</i>
+
+467
+00:41:36,881 --> 00:41:40,181
+<i>But... this is the first time
+I've ever met you.</i>
+
+468
+00:41:40,182 --> 00:41:41,481
+<i>You really don't know him?</i>
+
+469
+00:41:41,482 --> 00:41:42,581
+<i>Marriage?
+As if!</i>
+
+470
+00:41:42,582 --> 00:41:43,582
+<i>Never!</i>
+
+471
+00:41:43,583 --> 00:41:45,681
+<i>I want you to marry an average guy.</i>
+
+472
+00:41:45,682 --> 00:41:47,780
+<i>Mr. Jae In is a good person.</i>
+
+473
+00:41:47,781 --> 00:41:50,181
+<i>Everyone likes each other
+at the very beginning.</i>
+
+474
+00:41:50,182 --> 00:41:51,681
+<i>And that's why people get married!</i>
+
+475
+00:41:51,682 --> 00:41:54,481
+<i>But it's not like that anymore after
+you live with one another for a while!</i>
+
+476
+00:41:54,482 --> 00:41:58,681
+<i>The more different your partner is from
+you, the more difficult it'll be for you.</i>
+
+477
+00:41:58,682 --> 00:42:00,718
+<i>[One Percent of Something]</i>
+

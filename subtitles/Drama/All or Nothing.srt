@@ -1,0 +1,1589 @@
+{3199}{3250}Gotta be careful, floor's wet.
+{3304}{3339}Do you want a hand?
+{5018}{5059}Did you break down?
+{5060}{5139}-What?|-Did you have an accident?
+{5140}{5273}No. Some fucking monkey cunt|nicked my bike, man.
+{5344}{5425}Fucking cunt! Fucking cunt!
+{5519}{5576}Here, Pen...
+{5577}{5628}fancy going out?
+{5629}{5688}When?
+{5689}{5721}Saturday?
+{5791}{5842}Yeah, right, then.
+{5844}{5898}Don't be so enthusiastic.
+{6091}{6173}-One-three.|-Yeah?
+{6175}{6249}l'm clearing Cranston Road|in a minute or two.
+{6250}{6306}Can you just wait?
+{6400}{6429}Here.
+{6462}{6495}Are you there, one-three?
+{6607}{6694}Can you pick up|at 1 2 Bellott Street, SE10...
+{6695}{6730}going to Charlton?
+{6731}{6774}Say again?
+{6775}{6832}1 2 Bellott Street, yeah?
+{6833}{6904}Going to Charlton. Got it.
+{6939}{7021}-Mr. Eyles?|-Yeah. Elephant and Castle.
+{7451}{7487}Oh, Christ.
+{7603}{7687}l don't fucking believe it.
+{7688}{7743}l gotta get the car fixed.|Some bitch in a Volvo...
+{7744}{7805}smacked me up the arse.|l got no fucking lights.
+{7807}{7875}Ron, no swearing over the air.|What's going on?
+{7876}{7935}l gotta get the car|off the road.
+{7936}{7965}What's the damage?
+{7966}{8034}She's buggered my tail lights.|l ain't legal.
+{8035}{8111}-ls the car mobile?|-Driveable, yeah.
+{8113}{8191}-Just come back to base.|-l can't do that, Neville.
+{8193}{8238}Come back to base|and get it done tomorrow.
+{8239}{8275}No, l gotta do it now.
+{8277}{8350}Listen, don't mess me about.|l'm short of drivers.
+{8351}{8400}Neville, fuck off.
+{8970}{9012}How much, then?
+{9013}{9078}Overnight?
+{9078}{9173}-Hundred and fifty.|-ls that the best you can do?
+{9174}{9226}You want it|in the morning, innit?
+{9301}{9361}-Hello, Phil.|-Hi, Ron.
+{9363}{9402}Got smacked up the arse.
+{9403}{9470}Yeah, l heard it on the radio.
+{9471}{9522}-Are you leaving it here?|-Yeah.
+{9523}{9606}-l'll run you home.|-Cheers, mate.
+{9606}{9662}-Ain't it nice?|-Yeah.
+{9663}{9702}Feel like sunbathing.
+{9703}{9802}Get me bikini on. Not.
+{9803}{9862}l'll see ya later, alligator.
+{9863}{9902}Ta, then.
+{10621}{10674}-Hello, Rory.|-All right?
+{10675}{10717}All right, Craig?
+{10757}{10810}-Yeah, all right?|-Yeah.
+{10980}{11017}Coming in for your tea, Rory?
+{11018}{11070}-About twenty minutes?|-All right.
+{11129}{11185}Fuck off, Craig! Fucking wanker!
+{11186}{11220}Just fuck off!
+{11221}{11267}Rory!
+{11268}{11324}-What are you playing at?|-He's always doing that!
+{11326}{11364}Are you all right?
+{11366}{11437}-Did he hurt you?|-Nah.
+{11571}{11605}lt's only a ball!
+{11606}{11634}What are you doing?
+{11635}{11682}-He's a tosser.|-He ain't a tosser.
+{11683}{11738}-You're not at school now.|-l know!
+{11739}{11774}What time did you get up|this morning?
+{11775}{11810}-l don't know.|-Yes, you do.
+{11811}{11886}-No, l don't!|-Probably about 2:00, l expect.
+{11922}{11978}You should leave him alone.|He's smaller than you.
+{11979}{12038}-So? He's older.|-Yeah, but you're bigger.
+{12039}{12094}-Why are you taking his side?|-l ain't taking his side.
+{12095}{12157}-Yes, you fucking are.|-Don't swear.
+{12201}{12250}Here, it's all right.|l've got me key.
+{12252}{12294}-Come on!|-Don't shout.
+{12295}{12338}-What's she doing?|-l dunno.
+{12339}{12413}She's probably on the toilet|or something.
+{12414}{12445}What's wrong with you?
+{12446}{12502}What's wrong with you, you mean.
+{12503}{12534}All right?
+{12535}{12572}Yeah, l'm all right.
+{12792}{12911}-What have you been doing?|-Nothing. Just reading.
+{12913}{12954}How's work?
+{12955}{12985}All right.
+{12987}{13032}Everyone OK?
+{13033}{13062}Yeah.
+{13117}{13160}What's for tea?
+{13161}{13232}Chicken and vegetable pies.
+{13233}{13289}-Want a biscuit?|-No.
+{13393}{13459}-You all right?|-Yeah.
+{13460}{13512}Ain't got no whiplash|or nothing?
+{13557}{13614}-She fucked off.|-Did she?
+{13614}{13682}Did you exchange|insurance details with her?
+{13738}{13844}l pulled over, right?|She scarpers.
+{13845}{13915}That's not very nice, is it?
+{13916}{13961}Fucking women.
+{13962}{14018}Wouldn't be a world|without them, mate.
+{14150}{14198}Anyway, she might have|done you a favor.
+{14199}{14237}How do you mean?
+{14291}{14350}lf it hadn't have happened,|you might have driven...
+{14351}{14445}around the next corner|and killed a little kid.
+{14447}{14550}lt's what's-its-name,|fickle finger of fate.
+{14601}{14647}lf you knew what|was gonna happen to you...
+{14648}{14722}when you woke up in the morning,|you'd never get out of bed.
+{14792}{14852}That's life.
+{14853}{14911}The old clock ticks,|world turns around...
+{14912}{15033}tide comes in, tide goes out.|You're born, you die. That's it.
+{15135}{15184}What's your missus make|at Safeway?
+{15255}{15298}l don't know,|to tell you the truth.
+{15299}{15354}-You don't know what she earns?|-Enough, you know?
+{15355}{15471}Keeps the wolf from the door...|with the bit l make.
+{16405}{16456}-All right.|-Hello.
+{16871}{16926}-l'll see you tomorrow.|-See you, Ron.
+{17674}{17704}All right.
+{17706}{17763}All right.|What have you got there?
+{17764}{17866}Burger buns. Three dozen.
+{17867}{17911}We ain't gonna eat all them.
+{17912}{17964}No, it's all right.|They're long life.
+{17965}{18039}What's the expiry date?
+{18040}{18122}24th of October.
+{18123}{18215}That's four months away.
+{18216}{18263}What have they got in 'em?
+{18264}{18338}Don't know. Chemicals.
+{18394}{18453}Picked a bloke up|from the cash and carry.
+{18455}{18540}He was trying to get a refund.|They wouldn't have it.
+{18542}{18614}He gave 'em to me as a tip.
+{18616}{18685}He was drunk.
+{18686}{18770}He bought them for a barbecue.|No one turned up.
+{18814}{18877}We'll have to get|some burgers, then.
+{19124}{19162}All right, boy?
+{19200}{19260}What have you been up to|today, then?
+{19261}{19296}He's been fighting today.
+{19298}{19359}-What?|-Fuck off, Mum.
+{19361}{19424}Rory, will you stop|swearing at me, please?
+{19426}{19458}You been clumping people again?
+{19459}{19506}Don't listen to her.|She don't know nothing about it.
+{19508}{19548}lt's 'cause|he ain't got nothing to do.
+{19549}{19597}Shut up! He was asking for it.
+{19598}{19652}He's moping about here|all day looking for trouble.
+{19653}{19702}l ain't looking for trouble!|l ain't done nothing!
+{19703}{19741}When you gonna take him|up the job center?
+{19742}{19784}Fuck's sake!|l'll get a job when l want!
+{19785}{19814}lt ain't got nothing|to do with you!
+{19814}{19850}Stop going on about it!
+{19851}{19912}Rory, calm down.|Nobody's having a go at you.
+{19913}{19954}l'm just trying to help you.
+{19998}{20032}Fuck off!
+{20624}{20693}Filled the car up|with petrol this morning...
+{20694}{20747}thirty-eight quid.
+{20914}{20947}You been busy?
+{20948}{21019}Yeah. Rory, can you put|your plate on the table, please?
+{21020}{21050}Yeah, all right!
+{21270}{21361}Picked up at a doctor's|surgery at dinner time.
+{21362}{21484}Old bloke,|had one of them...
+{21485}{21537}-what's-the-name, frame.|-Zimmer.
+{21538}{21639}Yeah. Only wanted to go|to the next street.
+{21640}{21720}l says, ''Sorry, mate,|l got to charge you...
+{21722}{21786}''the minimum fare, L3.50.''
+{21788}{21853}You shouldn't have|charged him nothing.
+{21854}{22003}No, l know. l said,|''Call it a couple of quid.''
+{22004}{22058}No, you should have|called it nothing.
+{22059}{22107}He wasn't having it,|you know?
+{22108}{22150}He insisted on giving me|the full fare.
+{22151}{22221}You didn't have to take it,|though, did you?
+{22222}{22320}No. But...|it's his what's-its-name.
+{22321}{22390}-Dignity.|-Yeah.
+{22418}{22469}No price on that|when you're old.
+{22635}{22681}Ron's had a bump.
+{22682}{22745}Some old woman ran into him.
+{22746}{22794}-ls it a write-off?|-Nah.
+{22877}{22990}l said to him, ''Make the most|of it, mate. Have a day off.''
+{22991}{23036}He likes working.
+{23236}{23294}lt's a nice evening tonight.
+{23382}{23446}l ain't been|for a walk for ages.
+{23571}{23617}Fancy going for a walk|later on?
+{23618}{23668}No, not really.
+{23732}{23800}l'll take you out|for a drink if you like.
+{23801}{23870}No.
+{24140}{24186}-Rory.|-What?
+{24187}{24244}We ain't finished yet.
+{24245}{24282}So?
+{24284}{24331}-There's pudding.|-l know.
+{24411}{24458}-Are you in, Donna?|-Yeah.
+{24459}{24520}-Want a bit of chicken pie?|-No!
+{24584}{24638}Leave that. l'll do it later.
+{24638}{24698}Christ Almighty,|you've had all day.
+{25325}{25369}Do you want to go out later?
+{25370}{25441}-What?|-Little drink?
+{25490}{25553}-No.|-Why not?
+{25554}{25635}l had a rough day.
+{25636}{25677}Have you?
+{25869}{25919}What are you doing for tea, Dad?
+{25920}{25959}l don't know.
+{25960}{26023}-Can we get a take-away?|-No.
+{26024}{26094}Right.|Let's all starve, shall we?
+{26095}{26151}-What's in the freezer?|-Not a lot.
+{26152}{26181}Well, what?
+{26268}{26325}A sausage meal|and a raspberry ripple.
+{26326}{26364}-ls that all?|-Yeah.
+{26365}{26415}There's two chicken korma|in there.
+{26416}{26468}-No, there ain't.|-We had them last night.
+{26469}{26515}-No, we never.|-Yes, we did.
+{26517}{26544}Yeah, me and Dad.
+{26546}{26605}-You never had nothing.|-She never fucking does.
+{26606}{26689}-So what are we doing?|-Maybe l'll get a take-away.
+{26691}{26723}-When?|-Later.
+{26724}{26764}l ain't had nothing to eat|since l got up.
+{26765}{26811}-Whose fault's that?|-l'm starving!
+{26812}{26844}You ain't done nothing|since you got up!
+{26845}{26881}What about her? Lazy cow.
+{26883}{26923}When you gonna get a job?
+{26924}{26961}Fuck off.
+{27105}{27154}What's the matter?|Ain't you hungry again?
+{27155}{27183}No, l ain't.
+{27184}{27233}-What, you on a diet?|-No.
+{27234}{27264}You look like a skeleton.
+{27265}{27315}Shut up.|lt's better than being fat.
+{27317}{27357}-Yeah, it is.|-Yeah, it is.
+{27358}{27399}Exactly. So what are you|complaining about?
+{27401}{27458}l ain't complaining.|lt's you that's complaining.
+{27459}{27506}l ain't complaining.|l like a bit of fat.
+{27507}{27542}Keeps me warm at night.
+{27544}{27594}lt's all you've got|to keep you warm at night.
+{27686}{27725}l'll make you|some mashed potato.
+{27726}{27791}-l don't want mashed potato.|-Chips?
+{27792}{27823}l'll have a few chips.
+{27824}{27877}-How many's a few?|-A few!
+{27878}{27956}-Two? Three?|-Funny. Shut up!
+{27957}{28017}-You going out tonight?|-Yeah.
+{28018}{28069}-Where you going?|-Out.
+{28070}{28102}-l been there.|-Have you?
+{28103}{28138}Yeah. Gets a bit packed|though, don't it?
+{28140}{28179}Yeah, it does.
+{28181}{28220}Who you going out with?|Scarface?
+{28222}{28300}Shut up! That's bang|out of order, that is.
+{28301}{28342}Do you want this duvet cover|on your bed?
+{28343}{28414}No, l don't.|What are you ironing that for?
+{28415}{28450}Nobody irons duvet covers.
+{28450}{28484}l do, if someone pays for it.
+{28485}{28530}l'll iron anything|within reason.
+{28530}{28588}l'll put a few chips on.|Two, wasn't it?
+{28786}{28814}All right, Sam?
+{28814}{28870}All right.
+{28871}{28905}You locked out?
+{28948}{28978}No.
+{28979}{29070}Good. ls your mum in?
+{29070}{29106}Yeah.
+{29410}{29460}-Evening, Jason.|-Yeah, all right.
+{29461}{29493}-She's ready for you.|-ls she?
+{29494}{29538}Only took her two hours.
+{29901}{29960}-All right?|-All right.
+{29961}{30009}-How are you doing?|-Yeah, not bad.
+{30010}{30061}Taking her out, are ya?
+{30062}{30105}Yeah, of course.
+{30106}{30166}-Where you going, then?|-Down the pub.
+{30167}{30228}That's nice.
+{30263}{30352}-Where you going?|-l dunno.
+{30418}{30462}-All right?|-Right. Come on.
+{30463}{30511}-All right, Donna?|-Yeah.
+{30512}{30561}-Can l come, too?|-No, you can't.
+{30562}{30623}-Why not?|-Fuck off!
+{30625}{30668}Have a nice time without me.
+{30669}{30716}You off? Be good.
+{30717}{30763}lf you can't be good,|be careful.
+{30764}{30800}Fuck off.
+{30998}{31056}What, l'm not allowed|to talk to her?
+{31057}{31105}There's no need|to argue about it!
+{31106}{31146}Shut up!
+{31226}{31254}All right, Craig?
+{31255}{31317}What you keep|fucking looking at me for?
+{31319}{31389}Don't fucking look at me|or l'll slice you, you cunt!
+{31390}{31437}Fucking mug!
+{31439}{31505}Fucking wanker.|Get your fucking hands off me!
+{31850}{31884}What are you doing, Dad?
+{31932}{31986}-Get off!|-Come on, shift over.
+{31986}{32034}What are you looking for?
+{32035}{32073}Money.
+{32074}{32140}There ain't none down there.
+{32142}{32186}-Come on, get up.|-l'm telling you...
+{32187}{32236}-there ain't noth--Oh, shit!|-Give it to me.
+{32238}{32287}No, that's mine.|Finder's keepers.
+{32289}{32336}-Don't mess about.|-No, fuck off!
+{32337}{32420}-l'll give you double tomorrow.|-No.
+{32421}{32471}l ain't joking.
+{32472}{32544}You can borrow it,|but you owe me a quid.
+{32545}{32620}All right.|Come on, let go of it.
+{32621}{32650}Ta.
+{33201}{33258}-Can l come in?|-Yeah.
+{33330}{33366}All right?
+{33499}{33540}ls that any good?
+{33541}{33609}Yeah, it's all right.
+{33670}{33715}Got any spare change?
+{33717}{33769}l might have a bit.
+{33770}{33855}Only it's my what's-its-name.|Gotta pay it tomorrow.
+{33857}{33939}-Yeah, of course.|-Don't want to leave you short.
+{33940}{34005}-No, it's all right.|-l'll get it.
+{34006}{34046}-Where's your purse?|-Downstairs.
+{34047}{34090}-ln your coat?|-Yeah.
+{34460}{34537}-lt's not much.|-lt all helps.
+{34538}{34582}-You sure?|-Yeah.
+{34583}{34623}What about your dinner money?
+{34625}{34678}No, it's all right.|l still got a fiver.
+{34679}{34762}l'll give it back to you.
+{34762}{34810}Thanks, luv.
+{34811}{34862}-Good night.|-Night.
+{35482}{35556}l should have|just got half a tank.
+{35634}{35680}lt's Friday tomorrow.
+{35681}{35733}Yeah, l know.
+{35734}{35822}l ain't had a very good week|this week.
+{35823}{35882}Ain't you?
+{35883}{35928}No.
+{35977}{36033}Got any spare?
+{36077}{36191}Yeah, l got a bit,|but it ain't ever spare, is it?
+{36192}{36251}Can l borrow some?
+{36301}{36367}l'll pay you back|at the weekend.
+{36395}{36466}Why don't you get up|earlier in the mornings?
+{36467}{36540}Drive people to work,|take them to the airport.
+{36541}{36591}l know what you mean.
+{36655}{36716}lt's downstairs in me bag|in me bike basket.
+{36717}{36764}-Shall l take it out?|-No, bring it up.
+{36765}{36797}All right.
+{37131}{37175}l only need a tenner.
+{37282}{37363}Ta.
+{37364}{37401}Have you got any change?
+{37514}{37566}Yeah, l got a bit.|Ain't much, though.
+{37690}{37738}That should do it.
+{37778}{37816}Do you want me to take that|downstairs for you?
+{37818}{37846}No.
+{38018}{38074}Give us a clue, then.
+{38156}{38247}''Biblical son of lsaac,|five letters.''
+{38248}{38312}Starting with a ''J.''
+{38346}{38420}-Jonah.|-Oh, yeah.
+{38421}{38462}No, it ain't.
+{38462}{38529}lt's what's-his-name. Jacob.
+{38530}{38593}-Are you sure?|-Yeah.
+{38595}{38632}lt's a thousand pound prize.
+{38634}{38681}ls it?
+{38683}{38748}No, l ain't sure, then.
+{38818}{38850}Give us another one.
+{38851}{38912}No, l'm gonna go to sleep now.
+{38913}{38953}Right.
+{39027}{39070}l'll be up in a minute.
+{39242}{39289}-Night.|-Night.
+{40126}{40191}-Are you all right?|-Yeah.
+{40289}{40335}You going downstairs for a bit?
+{40336}{40390}-Yeah.|-All right.
+{41466}{41523}-Morning, Harold.|-Morning.
+{41788}{41819}You all right?
+{41820}{41866}Sweatin' like a pig, ain't l?
+{41867}{41914}Havin' a breather, Sid?
+{41976}{42039}-Ain't you hot, then?|-No.
+{42040}{42069}You're lucky.
+{42128}{42205}-Are you working at the weekend?|-Yeah.
+{42206}{42255}Just you and me then, innit?
+{42354}{42425}You make sure you go to bed|early tonight, then, eh?
+{42494}{42542}Mind your elbow, honey.
+{42926}{42964}Looks good.
+{42965}{43022}Hundred and fifty.
+{43022}{43067}Hundred and eighty.
+{43068}{43116}You said one-fifty.
+{43117}{43167}Overnight service, Ron.
+{43371}{43441}Sorry. Drive safe.
+{43757}{43823}You was out of order yesterday,|you know that?
+{43824}{43873}Well out of order.
+{44170}{44241}Yeah?
+{44243}{44314}-From over the chip shop?|-Morning.
+{44315}{44374}Deptford. Yeah, l know.
+{44430}{44510}-All right, Ron?|-Yeah.
+{44510}{44579}-He didn't let you down?|-No, he didn't.
+{44580}{44607}Good.
+{44776}{44851}All right, Nev?|l've got your rent.
+{44852}{44912}That's...sixty.
+{44913}{45000}-So where's the rest?|-That's eight pound coins.
+{45002}{45036}Bum ba hole.
+{45037}{45097}Twelve in change.
+{45138}{45203}-Where you going with that?|-Sorry, Nev.
+{45204}{45279}l told you already,|l don't deal in shekels.
+{45280}{45361}Go to the bank, man.|Sick in my stomach.
+{45362}{45452}Take two now|and l'll owe you a tenner.
+{45453}{45545}lf you're gonna rent my radios,|show me some respect.
+{45546}{45597}l'll drop it off later.
+{45598}{45635}Give me proper money, man.
+{45636}{45718}l'll phone you when the driver's|outside your house.
+{45769}{45822}Am l being abusive?
+{45922}{45985}Wait. Why you slam down|the phone for?
+{45986}{46040}Boy, you got bad attitudes.
+{46294}{46341}Thank you. Bye.
+{46494}{46522}See ya.
+{46994}{47025}Excuse me.
+{47026}{47085}-Thank you.|-You're welcome.
+{47250}{47306}-What?|-Nothing.
+{47307}{47356}-Got a problem?|-No, l ain't got a problem.
+{47358}{47405}-Ain't you?|-Why should l have a problem?
+{47406}{47442}Did you have a good time|last night?
+{47443}{47481}Yeah, l did, actually.
+{47482}{47529}-You sure?|-Yeah, l am sure.
+{47530}{47558}-Are you?|-Yeah.
+{47559}{47625}-That's good.|-Yeah, it's good.
+{47626}{47683}-Where did he take you?|-Never you mind.
+{47684}{47752}-Somewhere nice?|-lt was, actually.
+{47753}{47810}l reckon you got a bit|of a problem.
+{47810}{47854}Like what?
+{47854}{47898}Got a customer.
+{47898}{47954}For fuck's sake.
+{47984}{48036}-Good morning.|-Good morning.
+{48097}{48145}Just a Coke, please.
+{48233}{48274}All right.
+{48549}{48633}-Just come from work?|-Yeah.
+{48729}{48784}What have you been up to?
+{48785}{48845}Not a lot. Just got up.
+{48938}{49001}What do you have to do,|then, at work?
+{49002}{49040}Cleaning.
+{49076}{49156}You have to wipe down|the old grandads and that?
+{49192}{49231}No. lt's not my job.
+{49270}{49326}-Who does that, then?|-Carers.
+{49326}{49401}lt's disgusting.|Glad it's not my job.
+{49402}{49451}lt's better than working here.
+{49452}{49492}Yeah, but at least|l've got a job.
+{49493}{49523}Fuck off.
+{49566}{49647}What about when they die?
+{49648}{49750}Well, just gotta|clear out their rooms.
+{50165}{50226}How much you think|it's gonna be?
+{50227}{50294}About fourteen, fifteen.
+{50295}{50342}OK.
+{50343}{50387}ls that all right?
+{50388}{50424}Yeah.
+{50484}{50568}What?|You think l ain't got it?
+{50926}{50984}Fuck it. l mean, what...
+{50985}{51073}ls all the stuff that--
+{51074}{51172}l mean, it all, you know.|Like, it was supposed to--
+{51173}{51221}and he was gonna|bring round the--
+{51222}{51335}just fuckin'--l just kept|thinkin' too much.
+{51337}{51396}l mean, l don't want to,|you know--
+{51397}{51485}you seem like|a nice bloke. And...
+{51486}{51535}A fuckin' wanker, you know?
+{51536}{51605}Fuckin'--what can you--
+{51606}{51712}are we--round there,|they used to--
+{51713}{51818}See that door there?|lt used to open inwards.
+{51819}{51879}-Yeah?|-l should have--
+{51880}{51925}should have done|something else.
+{52263}{52330}Did you go to bed early, then?
+{52331}{52382}About ten-ish.
+{52383}{52459}Ten-ish? That is early.
+{52511}{52550}l'm starving.
+{52551}{52615}-Kettle's just boiled.|-l ain't on my break.
+{52683}{52766}l can't remember the last time|l was in bed by 10:00.
+{52767}{52831}About 1950, l should think.
+{52920}{53045}1 :00, me...if l'm lucky.
+{53046}{53076}2:00.
+{53144}{53203}Half-3:00, sometimes.
+{53204}{53301}And half an hour later|l'm pacing about.
+{53345}{53401}Then l try again.
+{53465}{53497}Nightmares.
+{53537}{53619}Wake up sweating...
+{53620}{53669}or freezing.
+{53706}{53762}Make meself a cup of tea.
+{53834}{53877}Drop off in the chair.
+{53922}{53950}Here.
+{54021}{54105}l'd give a year's wages|for a good night's sleep.
+{54164}{54207}Thanks.
+{54242}{54301}l'll bet you'll be up late|tonight, though...
+{54302}{54377}with your boyfriend?|Saturday night.
+{54378}{54459}l ain't got a boyfriend.|You know that.
+{54460}{54538}What do you drink, lager?
+{54570}{54613}Yeah.
+{54658}{54703}Couple of pints will do me.
+{54783}{54828}Fish 'n' chips.
+{54915}{54951}Saturday night.
+{55245}{55282}What are you doing?
+{55284}{55319}What does it look|like l'm doing?
+{55320}{55358}l don't know.|That's why l'm asking you.
+{55360}{55414}l ain't allowed|to touch you no more?
+{55414}{55479}l ain't saying that.|Get off.
+{55522}{55599}-Give us some of that.|-You got your own there.
+{55600}{55637}l don't want one of me own.
+{55638}{55692}-Come on!|-No.
+{55693}{55722}For fuck's sake.
+{55723}{55795}-Don't pinch me.|-Don't hit me.
+{55796}{55833}Right, and another thing.
+{55834}{55892}Don't you dare phone me|at half-11 :00 at night.
+{55893}{55947}l texted you.|You never phoned me back.
+{55948}{55985}Fuck that.|No, l'm out with the boys.
+{55986}{56036}You're showing me up.|Making a right mug of me.
+{56037}{56091}-That's your problem.|-l was gonna get back to you.
+{56093}{56130}-Was ya?|-Course l fucking was.
+{56132}{56167}-Just relax.|-You relax.
+{56169}{56202}Oh, fuck.
+{56296}{56374}So what are we doing?|We going out or what?
+{56374}{56404}Stayin' in.
+{56405}{56489}We're stayin' in, yeah?|That's nice, innit?
+{56490}{56522}Get off!
+{56626}{56693}-Come here.|-No.
+{56694}{56762}-Fucking come here!|-No. l don't want to.
+{56818}{56884}-You love it, don't you?|-What?
+{56886}{56942}l swear to God, you are|the biggest cock teaser...
+{56943}{56973}l've ever met in my life.
+{56974}{57010}Fuck off.|l ain't a cock teaser.
+{57010}{57061}-Where'd you get that bruise?|-You done it.
+{57063}{57101}Good.
+{57102}{57150}-Does it hurt?|-No.
+{57150}{57206}-Fucking hurts.|-No.
+{57462}{57522}-What are you doing?|-Nothing.
+{57522}{57617}-What's the matter?|-l'm all right.
+{57618}{57686}You don't like the way|l'm doing it to you?
+{57687}{57749}Yeah.
+{57751}{57810}-Stop playing about, Donna.|-l ain't playing about.
+{57811}{57869}-Just lie down.|-l don't wanna lie down.
+{57870}{57897}Just lie the fuck down!
+{57898}{57959}l don't wanna fuckin'|lie down with you.
+{58015}{58070}What? You don't|want to do it no more?
+{58071}{58141}l ain't saying that.
+{58142}{58215}No. Just tell me,|you don't wanna do it no more.
+{58283}{58338}-Fuck this.|-Where you going?
+{58339}{58439}l'm getting out of here.|l don't need this.
+{58475}{58549}Do you know what l mean?|l make the effort.
+{58550}{58612}l drive all the way round here,|nearly two miles, right?
+{58614}{58684}We're gettin' it on on the bed,|sweet, lovely?
+{58685}{58771}You go cold on me.|You blow all hot and cold...
+{58772}{58815}like some fucking tap.
+{58816}{58871}Do you know|how that makes me feel?
+{58872}{58931}Terrific, lovely.|Thanks very much.
+{58932}{58981}l can go somewhere else,|Donna, right?
+{58982}{59038}l'll go down the pub with|the boys, yeah? Right?
+{59039}{59074}l don't give a fuck.
+{59075}{59119}Fucking end of!
+{59120}{59165}Fucking little bitch.
+{59166}{59235}-l don't want you to go.|-Well, l'm going, ain't l?
+{59236}{59297}-l want to talk to you.|-What do you want to talk about?
+{59298}{59347}l don't want to talk.|l wanna shag!
+{59349}{59396}l do want to talk!|l want to tell you something.
+{59397}{59434}And what do you want|to tell me, for fuck's sake?
+{59436}{59524}-l'm pregnant.|-What?
+{59577}{59625}Say that again?
+{59626}{59680}l'm pregnant.
+{59742}{59786}No, you ain't pregnant.|You're on the pill.
+{59786}{59846}l know l'm on the pill,|but l'm having a baby.
+{59847}{59884}Bollocks.
+{59885}{59945}lt's yours.
+{59985}{60037}No. You're having|a fucking laugh.
+{60038}{60105}lt's not very funny, is it?
+{60106}{60142}How do you know?
+{60144}{60193}How do l know l'm pregnant?
+{60195}{60231}Yeah, how do you know|you're pregnant?
+{60233}{60269}-l went up the doctor's.|-When?
+{60270}{60299}Two weeks ago.
+{60300}{60342}Two weeks?
+{60342}{60379}You've fucking known|for two weeks...
+{60380}{60415}and you didn't bother|to tell me?
+{60416}{60458}l haven't seen you|for two weeks, have l?
+{60459}{60503}Bollocks!|You seen me on Thursday!
+{60504}{60552}And when l do,|you're always shouting at me!
+{60553}{60598}Fucking hell, Donna!
+{60598}{60671}For fuck's sake.
+{61510}{61546}All right, Carol?
+{61570}{61650}What?
+{61650}{61687}What's that look for?
+{61689}{61736}What look?
+{61737}{61789}You give us a fucking look.
+{61790}{61870}-No, l ain't.|-Yeah, you did.
+{61871}{61915}You getting the hump again?
+{61916}{61983}-l ain't got the hump.|-Don't get stroppy with me.
+{61984}{62030}l ain't getting|stroppy with you.
+{62030}{62091}-Ain't ya?|-No.
+{62092}{62172}l'm your mate.|We're all mates, ain't we?
+{62173}{62253}-Yeah.|-There you are. See?
+{62306}{62355}Don't take|no fucking notice of me.
+{62356}{62413}l ain't taking no notice of you.
+{62414}{62475}You've been a good friend|to me, Maureen.
+{62476}{62509}Yeah, l have.
+{62510}{62590}-l love you.|-l love you, too, Carol.
+{62590}{62641}-Do you?|-Yeah.
+{62642}{62692}lt's all right, Carol.
+{62694}{62726}Penny.
+{62794}{62838}Pretty girl.
+{62838}{62885}Your turn.
+{62886}{62956}Do you love me?
+{62957}{62994}Yeah.
+{63062}{63123}l'll bet you stopped|taking the pill on purpose.
+{63124}{63156}Of course l never.
+{63157}{63218}That's exactly what you'd do|just to fucking keep me.
+{63219}{63278}-You think so?|-Swear on your mum's grave!
+{63279}{63331}-She ain't dead yet.|-l mean it, right?
+{63333}{63376}lf l ever found out|you did that to me...
+{63378}{63417}l'll fucking kill you, you slag!
+{63418}{63492}-Go on, then. Kill me!|-Oh, fuck.
+{63558}{63645}Listen to me. This doesn't|have to be a big thing.
+{63646}{63713}-lt is a big thing.|-No, it ain't, Donna.
+{63714}{63764}This happens all the time|to people.
+{63765}{63840}All you've gotta do|is get rid of it, yeah?
+{63841}{63912}l ain't a wanker.|l'll give you a bit of money...
+{63913}{63977}and l'll even come along|and sort it with you.
+{63978}{64035}-That's nice of you.|-lt's done and dusted, then.
+{64036}{64064}Just like that.
+{64065}{64098}-Simple.|-Simple.
+{64099}{64137}l mean it, right?
+{64139}{64198}lf you keep it,|l'm fucking walking.
+{64199}{64260}You want to stay with me,|you fucking get rid of it.
+{64262}{64296}And that's it, is it?
+{64297}{64361}What do you want|to have a kid for?
+{64362}{64424}How are you gonna feed it?|Support it?
+{64425}{64489}l don't want to be a dad, Donna.
+{64490}{64550}l ain't up to it! l don't|even want to be with you!
+{64551}{64598}-Fuck off!|-Yeah.
+{64599}{64658}l been thinking about it|for a couple of months now...
+{64658}{64716}thinking about|chucking it all in.
+{64717}{64795}All we ever do|is fucking argue, innit?
+{64796}{64851}lsn't that the truth?
+{64852}{64895}lt's doing my fucking head in.
+{64970}{65030}You know when l went|up to Newcastle...
+{65032}{65102}with Cookie and the boys?|We was in a club.
+{65102}{65189}l pulled the best little bit|of pussy ever in the toilet.
+{65190}{65229}-Fuck off!|-Don't you dare!
+{65308}{65386}She had a lovely pair of tits,|tight ass...
+{65387}{65435}and l'll tell you what,|she gave me...
+{65436}{65501}the best fucking blow job|l've ever had in my life...
+{65502}{65562}ten times better|than you could ever give it.
+{65642}{65721}Are you gonna|start crying now, are you?
+{65722}{65749}l'm not crying.
+{65751}{65797}No. Go on. Cry.|Let's see you well up.
+{65798}{65830}Fuck off!
+{65831}{65939}You lumber me with a kid,|l'll make your life shit!
+{65940}{65998}-You already do!|-l'll bury you, you cunt!
+{65999}{66028}Fuckin' mug!
+{66175}{66239}Thanks.
+{66240}{66268}Cheers, girls.
+{66269}{66327}-Take this off.|-ln a minute.
+{66328}{66362}Has it got sleeves?
+{66362}{66426}-No, it's sleeveless.|-Take it off.
+{66466}{66513}lt's nice, isn't it?
+{66515}{66550}Did you get it|out of the catalogue?
+{66550}{66594}l got the cardigan|out of the catalogue.
+{66595}{66676}l got the top at the market.|They don't match. They're odd.
+{66677}{66778}Sexy girl.|Don't she look sexy?
+{66778}{66824}You gonna have a sing?
+{66825}{66888}l'll get up in a bit.|l've gotta laugh later.
+{66889}{66930}You got a good voice?
+{66971}{67046}Fucking sight better than her.
+{67047}{67102}Dolly Parton, me.
+{67406}{67493}-You gonna have a sing?|-No. lt's too embarrassing.
+{67578}{67627}How long you been|married, Penny?
+{67628}{67682}l ain't married.
+{67682}{67762}-Ain't you?|-No, she ain't.
+{67762}{67798}Why ain't you?
+{67798}{67881}l dunno. Never asked me.
+{67882}{67957}-Don't matter, does it?|-No. l ain't bothered.
+{67958}{68068}-What a cunt.|-Oh, that's nice.
+{68069}{68131}l wouldn't want to get married|in a church anyway.
+{68133}{68282}l got married in a church.|lt was lovely.
+{68283}{68392}lt was the best day|of my fucking life.
+{68393}{68456}My little Ronnie.
+{68457}{68497}Sweetheart.
+{68750}{68778}Fucking hell.
+{68779}{68830}Don't touch it.|lt's gonna make it worse.
+{68831}{68917}No. Leave it 'cause|it's right on your nipple.
+{68919}{68955}lt's my fucking nipple.
+{68957}{69016}-Leave it. l'm not kidding.|-l'm not touching your nipple.
+{69018}{69082}Ladies and gentlemen, give a big|welcome to our next singer.
+{69083}{69130}Put your hands together|for Maureen.
+{69132}{69200}-Come on down, Maureen.|-Blimey, my turn.
+{69639}{69784}Don't know when|l've been so blue
+{69786}{69916}Don't know|what's come over you
+{69918}{70003}You found someone new
+{70031}{70146}And don't it make|my brown eyes blue?
+{70198}{70249}l'll be fine
+{70250}{70321}When you are gone
+{70322}{70370}l'll just cry
+{70371}{70464}The whole night long
+{70465}{70526}Say it isn't true
+{70575}{70679}And don't it make|my brown eyes blue?
+{70730}{70793}Tell me no secrets
+{70794}{70864}Tell me no lies
+{70865}{70908}Give me no reasons
+{70909}{71000}Give me alibis
+{71001}{71112}Tell me you love me|and don't say good-bye
+{71113}{71168}Say anything
+{71169}{71258}But don't say good-bye
+{71259}{71307}Carol.
+{71352}{71450}-Mind her arms.|-Gonna take her home?
+{71452}{71512}Sit down.|lt's all right. l've got her.
+{71514}{71543}Come on.
+{71544}{71619}Come on, Carol.|You've gotta walk.
+{72381}{72453}What are you doing?|Waiting for someone?
+{72541}{72576}What's that?
+{72577}{72647}-What?|-That.
+{72648}{72709}-l cut myself shaving.|-Did you?
+{72710}{72756}You've had a shave,|have you?
+{72757}{72792}Yeah. Razor.
+{72793}{72862}Trying to look nice|for someone, are you?
+{72862}{72892}Nah.
+{72894}{72946}Why? Don't you fancy no one?
+{72994}{73028}What's that?
+{73070}{73100}What?
+{73506}{73542}What you looking at?
+{73606}{73674}ls that real gold?
+{73674}{73735}Yeah. Of course.
+{73843}{73872}What?
+{73899}{73957}-What's that, a kiss?|-Nah.
+{73958}{73991}What was it, then?
+{74215}{74255}Bad breath, ain't you?
+{74560}{74619}Ain't you never kissed|no one before?
+{74853}{74885}All right.
+{74923}{74981}Don't fucking touch.
+{75033}{75076}l can touch you...
+{75077}{75153}but you can't touch me,|all right?
+{75245}{75317}Like that, do you?
+{75318}{75345}Yeah?
+{75446}{75477}Fuck off!
+{75478}{75557}-You don't know.|-What? What don't l know?
+{75558}{75638}You're sick.|You're a fucking pervert.
+{76014}{76053}Six pound, please.
+{76260}{76306}Fuck.
+{76371}{76438}You all right?
+{76439}{76479}l ain't got it, mate.
+{76527}{76570}You ain't got nothing?
+{76571}{76606}Look...
+{76607}{76694}l'm really, really,|really truly sorry...
+{76695}{76764}but l ain't got a bean.
+{76904}{76961}Go on, then. Piss off.
+{77070}{77134}Life's too short.
+{77390}{77420}l'm free.
+{77738}{77785}Penny.
+{77786}{77826}What are you doing?
+{77828}{77869}You was asleep.
+{77870}{77925}Yeah. l know l was asleep.
+{77926}{77993}-lt's 3:00 in the morning.|-lt ain't, is it?
+{77994}{78033}lt's five past.
+{78062}{78134}-Are you stiff?|-Yeah.
+{78135}{78222}-Did you have a good time?|-No, if you must know.
+{78223}{78317}Rory's back, then?|l was waiting up for him.
+{78318}{78409}l got your money.|You gave me a tenner.
+{78410}{78467}Didn't have a bad night,|as it happens.
+{78468}{78502}Makes a change.
+{78504}{78605}And the rest came to L4.20--
+{78606}{78666}No. 21. No. Well, 26.
+{78666}{78714}Not now, Phil.
+{78715}{78778}Right. l'll put it|on the sideboard.
+{79068}{79141}Morning.
+{79142}{79177}You all right?
+{79282}{79318}What's the time?
+{79318}{79422}lt's just gone half-eight.|You're a bit late this morning.
+{79422}{79458}Sorry, Rachel.
+{79458}{79518}That's all right.|l'll go and do Bill first.
+{79519}{79579}-Just give me a minute.|-OK.
+{79811}{79884}l couldn't wear|me pajamas last night...
+{79885}{79930}laid there stark naked.
+{79931}{79963}Morning, Martha.
+{79964}{80018}Morning.
+{80019}{80067}What about you, eh?
+{80115}{80186}lt weren't that hot.
+{80187}{80219}Well, l was.
+{80558}{80595}What you sitting there for?
+{80597}{80676}-l forgot me key.|-You been crying?
+{80677}{80752}What's the matter?|What's that on your face?
+{80753}{80785}Someone hit you?
+{80821}{80866}Donna.
+{80976}{81136}l put the kettle on.|Now, what's going on?
+{81137}{81236}Has he hit ya?|He has, ain't he?
+{81238}{81285}-Donna?|-We had a fight.
+{81286}{81333}A real right or a pretend fight?
+{81334}{81378}-lt ain't funny.|-l ain't joking.
+{81378}{81433}He's a big bloke. You're only|a little skinny thing.
+{81434}{81462}l ain't skinny.
+{81463}{81553}Who's he think he is,|the bleedin' bully?
+{81554}{81601}What'd he hit you for, anyway?
+{81602}{81637}l pushed him.
+{81638}{81705}-You pushed him, so he hit you?|-Yeah.
+{81706}{81774}Nice. Better not show his face|around here again.
+{81774}{81828}-Ain't none of your business.|-lt is my business.
+{81829}{81875}-lt ain't!|-l knew he was no good.
+{81876}{81949}-You never give him a chance.|-Never give him a chance?
+{81950}{81989}You never gave|yourself a chance.
+{81990}{82025}You've only known him|a couple of months.
+{82026}{82106}Yeah, and how long|did you know my dad?
+{82107}{82174}l don't know.|About five minutes.
+{82175}{82210}Yeah. So shut up.
+{82403}{82447}Do you love him?
+{82495}{82570}l don't think you should|see him no more. He's trouble.
+{82571}{82610}Ain't as easy as that.
+{82611}{82675}-What's that supposed to mean?|-Nothing.
+{82821}{82894}Anyway, leave me alone.|l can deal with it meself.
+{82896}{82957}You ain't pregnant, are you?
+{82959}{83029}Oh, Donna...
+{83030}{83093}-l thought you was on the pill.|-l am on the pill.
+{83094}{83155}-Don't you take it no more?|-Yeah.
+{83156}{83191}What? Weekends only?
+{83283}{83369}-Been to the doctor's?|-Yeah.
+{83370}{83445}-How far gone are ya?|-Two months.
+{83446}{83486}Two months.
+{83487}{83531}You tell him you're pregnant,|so he hit you.
+{83532}{83605}-lt weren't like that.|-No? What was it like?
+{83606}{83652}Dunno.
+{83654}{83725}-l thought you had more sense.|-Fuck off!
+{83727}{83781}Don't get the hump,|you silly cow.
+{83782}{83876}-Does your face hurt?|-Yeah.
+{83877}{83956}l'll make you a cup of tea.
+{84092}{84145}Want some sugar?
+{84146}{84174}Yeah.
+{84646}{84700}How was work today?
+{84701}{84745}lt was all right.
+{84781}{84816}That was shit.
+{84817}{84868}-Rory.|-What?
+{84869}{84917}There's no need|to talk like that.
+{84918}{84946}Fuck off.
+{84947}{85014}Rory, will you stop|being rude to me, please?
+{85015}{85071}For fuck's sake,|what is your problem?
+{85072}{85112}l only said|l didn't like my dinner!
+{85113}{85174}l can't do nothing without you|having a go at me!
+{85175}{85239}You do my fucking head in!|Why don't you fuck off?
+{85388}{85432}Take no notice.
+{85702}{85749}-What do you want?|-ls Donna there, please?
+{85750}{85797}-No, she ain't.|-l know she's fucking there!
+{85798}{85861}-l'll sort it out!|-So what's going on?
+{85862}{85909}lf you ever touch my door again,|l'll phone the police.
+{85910}{85957}-Fuck off!|-Who you talking to?
+{85958}{86007}-l ain't talking to you!|-Leave it, Mum!
+{86008}{86056}-No, l bleedin' won't!|-Keep out of it.
+{86058}{86096}lt's got fuck all|to do with you!
+{86098}{86139}Ain't it? Look what|you've done to her face.
+{86141}{86176}She's fucking asking for it,|ain't she?
+{86178}{86206}You coward!
+{86207}{86259}Fuck off! She's coming|round my house, right...
+{86260}{86293}threatening to tell|me mum something.
+{86294}{86348}Tell your mum|that she's pregnant?
+{86349}{86377}What?
+{86471}{86518}-What did you tell her for?|-'Cause she's me mum!
+{86519}{86574}-Get out of my house.|-Get your fucking hands off me!
+{86575}{86603}Don't touch her!
+{86604}{86665}Fuck you. l don't even|wanna be here.
+{86666}{86703}What you doin' here, then?
+{86704}{86777}She texted me.|''Come over here,'' so here l am.
+{86778}{86826}-Did you text him?|-Yeah.
+{86826}{86876}So what's this big thing, Donna?
+{86878}{86922}What's the great secret?
+{86986}{87013}She ain't got nothing|to say to you.
+{87014}{87053}Typical Donna, ain't it?|l'll tell you what.
+{87054}{87096}You're twisted in the head.|Fucking mental!
+{87097}{87137}-Leave her alone!|-l'll tell you what.
+{87138}{87185}She's the worst fucking shag|l've had in my life.
+{87186}{87257}She said the same about you!
+{87258}{87358}l had her in your bed and all,|you cunt! Fucking mug!
+{87438}{87488}Bloody hell, Donna.
+{87489}{87533}You don't half pick 'em.
+{87830}{87880}-Dumped you, has she?|-Fuck off!
+{87881}{87909}Where are you going?
+{87910}{87949}l'm fucking getting out|of here, ain't l?
+{87950}{87989}Can l come?
+{87990}{88069}What's the matter?|Don't you like me?
+{88182}{88235}How are you feeling?
+{88236}{88317}All right.
+{88318}{88357}You're better off|without him, you know.
+{88358}{88389}l know.
+{88390}{88427}Bastard.
+{88574}{88636}Gonna keep the baby?
+{88699}{88747}Dunno.
+{88748}{88823}-You wanna have an abortion?|-No.
+{89002}{89046}You want something to eat?
+{89114}{89162}-You're eatin' for two now.|-Shut up.
+{89162}{89225}-l'll make you two chips.|-Ho ho.
+{89226}{89270}Suit yourself.
+{89470}{89520}When's your first|hospital appointment?
+{89521}{89568}l dunno.
+{89569}{89623}You want me to come with you?
+{89624}{89688}lf you want.
+{89726}{89786}No fun going on your own.
+{89834}{89876}l know.
+{90050}{90077}Let's get this off.
+{90079}{90122}All right. Easy, easy.
+{90123}{90167}What about Donna?
+{90168}{90233}What are you fucking|thinking about her for?
+{90234}{90274}l ain't thinking about her.|Come on.
+{90275}{90324}What did you say it for, then?
+{90325}{90362}She's gonna be pissed off,|ain't she?
+{90363}{90401}Right,|l'm fucking telling you.
+{90402}{90452}Don't mention|her name again, yeah?
+{90453}{90481}Why not?
+{90482}{90528}Fucking bullocks.|l'm serious.
+{90529}{90564}Get out the fucking car.
+{90565}{90616}l'll fucking drive home|and leave you here.
+{90617}{90666}ls that what you fucking want?
+{90667}{90702}Fucking hell.
+{90803}{90849}You're a fucking nightmare,|ain't you?
+{90850}{90878}Yeah.
+{91158}{91186}All right?
+{91462}{91508}l was married once, you know.
+{91509}{91614}-Was you?|-Yeah. Four months.
+{91694}{91726}Bitch.
+{91843}{91878}And she was a nurse.
+{92030}{92069}You get used to it.
+{92379}{92417}What are you doing after work?
+{92418}{92501}You wanna go for a stroll|in the park?
+{92616}{92734}We could go back to my flat.|lt's nice and cool up there.
+{92734}{92812}Only gets the sun|in the mornings.
+{92909}{92956}Sit on the bed.
+{93018}{93075}Watch a video.
+{93119}{93160}What do you think, eh?
+{93376}{93453}What's up?
+{93454}{93548}Have l said something?
+{93606}{93635}No.
+{93912}{93946}Rachel,|when you got a moment...
+{93947}{93983}you couldn't have a look|in Bertha's room?
+{93984}{94069}She did a bit of number twos|on the carpet again.
+{94070}{94155}l cleaned most of it up.|Just needs a bit of a mop.
+{95209}{95247}All right?
+{95407}{95469}You're on your own, ain't you?
+{95470}{95519}So?
+{95870}{95961}You know the center of London,|the West End?
+{95962}{95999}Yeah.
+{96000}{96063}You have been there?
+{96064}{96115}Oh, yeah.
+{96116}{96188}Ah, bon.
+{96189}{96244}lt will be much traffic?
+{96245}{96356}You might be lucky.|Have you got an appointment?
+{96358}{96432}l must go to the opera.|''Don Giovanni.''
+{96434}{96497}lt will take how long?
+{96498}{96594}lt's unpredictable, isn't it?
+{96595}{96651}You should be all right.
+{96701}{96767}Come on, babe. There you go.
+{96768}{96827}-All right, Michelle?|-Hello, Maureen.
+{96828}{96872}l brought your little shirts.
+{96873}{96938}Right. l thought|you was comin' after tea.
+{96939}{96967}No.
+{96968}{97014}Right. Do you want|the money now?
+{97014}{97094}Yeah, it ain't free.
+{97096}{97123}All right, Ange?
+{97125}{97170}All right, Maureen?|Not at work today?
+{97171}{97274}No, it's my day off.|Doing me ironing. Hi.
+{97467}{97522}l do not like this tunnel.
+{97522}{97608}Why you are not tell me,|''We must make the tunnel?
+{97609}{97672}''Do you wish another route?''|You say nothing.
+{97673}{97726}Are you claustrophobic?
+{97727}{97786}You must say it|to the passenger.
+{97786}{97860}''Excusez-moi, madame,|we must make the tunnel.
+{97861}{97937}''lt is OK?'' C'est pas|compliqué comme meme.
+{97938}{97985}We're stuck on it now,|l'm afraid.
+{97986}{98041}Evidemment. Stuck on it.
+{98193}{98287}l walked through here|when l was a boy once...
+{98288}{98349}south to north.
+{98350}{98430}Me and my best mate.
+{98430}{98518}My face turned completely black.
+{98519}{98596}But he was already black.
+{98702}{98753}How do you get on|with the what's-it...
+{98755}{98800}the Channel Tunnel?
+{98841}{98896}l do not want to talk|about the Channel Tunnel...
+{98897}{98940}or any tunnel.
+{98941}{99012}Anyway, with the train|it is completement different.
+{99013}{99042}You see nothing.
+{99043}{99094}This conversation|is very boring for me.
+{99095}{99145}Fair enough.
+{99146}{99189}You are married?
+{99232}{99261}Yeah.
+{99262}{99345}With children?
+{99346}{99443}Yeah, l got two.|A girl and a boy.
+{99444}{99509}Oh, mais c'est formidable.
+{99578}{99614}All right?
+{99666}{99718}Fat boy!
+{99719}{99814}-You want your ball?|-Just give it--
+{99815}{99906}-Fucking give it back!|-Here you are.
+{99906}{99953}Go on, Gareth, spank him.
+{99954}{100016}Let's have him.|You want it, do you?
+{100017}{100049}Fuck!
+{100050}{100097}-Get your ball back, mate.|-Fuck off!
+{100098}{100145}-Here you are.|-Come on, fat boy!
+{100146}{100210}Go on, fat boy.|Get your ball back, mate.
+{100418}{100469}-See you, Deb.|-See you later, Maureen.
+{100778}{100809}Rory!
+{101400}{101481}Oh, sweetheart.
+{101482}{101519}Do you want to cry?
+{101520}{101566}What's the matter with him?
+{101567}{101640}-Rory?|-lt's my chest.
+{101641}{101703}You got pains in your chest?
+{101704}{101777}-Get an ambulance, Carol.|-What?
+{101778}{101847}Go and phone for an ambulance!
+{101848}{101891}l think he's having|a heart attack.
+{101893}{102007}-A heart attack? ls he?|-Yes! Carol, go on!
+{102073}{102101}Do you want to lay down?
+{102256}{102312}Where are you going?
+{102345}{102417}You'll be all right.
+{102418}{102496}Oh, fuck. Hurry up!
+{102497}{102544}-And phone Penny!|-What?
+{102545}{102585}Safeways!
+{102657}{102723}Yeah.
+{102725}{102807}She works in|an old people's home.
+{102809}{102841}l'm proud of her.
+{102842}{102889}You are a very lucky man then.
+{102890}{102951}We're all gonna die one day.
+{102952}{103000}Sans doute.
+{103076}{103129}Was it a bargain?
+{103130}{103218}Of course.|lt is for my client in New York.
+{103268}{103352}And your son?|He work with you in the taxi?
+{103353}{103402}-Nah, he don't do nothin'.|-Comment cela?
+{103403}{103468}-Beg your pardon?|-How he don't do nothing?
+{103469}{103525}He does a lot of nothing.
+{103526}{103623}Mind you, if eating|was an Olympic event...
+{103625}{103668}he'd be|the world champion by now.
+{103669}{103817}lt is a joke.|lt is very funny.
+{103818}{103856}He is fat like you?
+{103910}{103978}Yeah. He's a big boy, yeah.
+{104022}{104069}Mum.
+{104139}{104219}What's the matter? What?
+{104220}{104265}Gotta phone ambulance.
+{104266}{104323}What's happened?
+{104325}{104377}-Mum!|-Heart attack.
+{104378}{104418}Who's had a heart attack?
+{104470}{104502}Fuck!
+{104503}{104558}Get out of the fucking way!
+{104662}{104693}Come on!
+{104739}{104802}Ambulance. Fuck's sake.
+{104803}{104881}Alors, l am there|in the brasserie.
+{104882}{104972}l am very happy.|l am dressed very nice.
+{104973}{105005}l am thinking it is good.
+{105006}{105093}l will make the twenty-five,|the birthday with my son.
+{105094}{105205}lt will be good. We will make|the good relationship.
+{105206}{105275}8:00, he is not there.
+{105276}{105382}8:30, 9:00, les garcons|are looking at me.
+{105383}{105483}l am ashamed. Half past nine|he arrive with two girls...
+{105484}{105548}with red plastic dresses|like this.
+{105549}{105629}He say, ''Maman,|l have already eat.
+{105630}{105704}''We go now to the casino?''|l say, ''No, Nicolas, no.
+{105705}{105783}''Ca suffit. C'est finit.''
+{105784}{105816}Shame.
+{105924}{105993}-We are nearly there.|-About five minutes.
+{106072}{106123}-What did your husband say?|-My husband?
+{106124}{106182}He don't say nothing.|He is in Algeria.
+{106182}{106222}We are divorced.
+{106360}{106406}ls he still breathing?
+{106407}{106449}Yes!
+{106450}{106491}Get out of the fucking way!
+{106492}{106552}Yeah, he's breathing.
+{106587}{106670}l dunno. lf he's breathing,|he's got a pulse, ain't he?
+{106670}{106769}l ain't with him.|l'm up here. He's down there.
+{106842}{106937}You are caring for your wife?
+{106938}{106968}Pardon?
+{106969}{107017}Do you love your wife?
+{107077}{107168}Yeah.
+{107169}{107256}Oh, yeah.
+{107257}{107345}lt's funny, isn't it?
+{107346}{107404}What's-her-name, love.
+{107443}{107505}lt's like a dripping tap.
+{107507}{107587}Bucket's either half full...
+{107588}{107654}or it's half empty.
+{107655}{107714}lf you're not together,|you're alone.
+{107767}{107817}You're born alone...
+{107818}{107861}and you die alone.
+{107921}{107969}Nothing you can do about it.
+{108034}{108095}You are right.|lt is fucking lonely.
+{108222}{108293}Mum!
+{108295}{108345}-Should have phoned Penny.|-What?
+{108346}{108427}-Safeway.|-For fuck's sake, Mum!
+{108428}{108496}You're a waste of space!|You're disgusting!
+{108497}{108532}l'll get the number.
+{108656}{108729}-All right?|-Oui, oui.
+{108730}{108777}-Be careful.|-Yeah, l got it.
+{109009}{109045}What is your name?
+{109046}{109094}Phil.
+{109095}{109141}-Phil?|-Yeah.
+{109142}{109238}l am Cécile. Bon.
+{111417}{111476}Penny.
+{112167}{112197}Hi, Penny.
+{112482}{112543}Mind out of the way!
+{112910}{112958}Come on, Phil.
+{113418}{113463}Come on.
+{113910}{113950}Nearly there now, mate.
+{114083}{114149}OK, Rory.|You're in good hands now.
+{114196}{114269}Gladiator Cars. Dinah speaking.|How can l help?
+{114270}{114341}Hello, it's Penny.
+{114342}{114389}Phil's Penny.|Do you know where he is?
+{114390}{114441}-No.|-Who is it?
+{114442}{114535}-Penny, Phil's wife.|-Give me the phone.
+{114536}{114577}Hi, Penny. lt's Neville.|What's up?
+{114578}{114629}l can't get a hold of Phil.
+{114630}{114683}l know. He's gone off the air|and switched off his phone.
+{114685}{114716}l don't know what|he's playin' at.
+{114718}{114795}Can you send us a taxi|up at Safeways?
+{114797}{114864}l gotta get to hospital.|My son's been taken in.
+{114865}{114893}Not a problem.
+{114894}{114929}Yeah, straightaway...
+{114930}{114987}and l'm waiting outside|the front entrance.
+{114988}{115065}You just wait there.|l'll get someone out to you.
+{115066}{115141}Yeah. Ta.
+{115142}{115225}She's at Safeways.|Put a call out.
+{115226}{115280}Can anyone go to Safeways?
+{115356}{115422}ls there anyone free|for Safeways?
+{115454}{115505}Two-seven.
+{115507}{115565}Can you pick up Penny,|Phil's wife?
+{115566}{115649}-l can do that.|-She's got to go to hospital.
+{115650}{115726}-She all right?|-No, it's her son.
+{115727}{115765}Something wrong with the son.
+{115766}{115797}On my way.
+{115856}{115908}Can l go home?
+{115909}{115996}Yeah, but l'm docking|your wages.
+{115997}{116038}l'm telling Mummy.
+{116488}{116516}Hello, Ron.
+{116517}{116565}-Hi, Penny.|-Sorry.
+{116566}{116604}Sorry. l nearly|got in the back there.
+{116605}{116662}Don't know what l'm doing.|l can't think straight.
+{116877}{116922}Rory, we're gonna sit you up.
+{116923}{117005}After three.|One, two, three, up.
+{117006}{117077}Let's have a deep breath,|please, Rory.
+{117123}{117170}Good, and another one.
+{117224}{117277}-Excellent.|-Lie back.
+{117278}{117373}Wicked. And another.
+{117374}{117430}Magic, and one more.
+{117430}{117493}Sweet as a nut.|Normal breathing now.
+{117494}{117578}So you're not quite|sure if you're a smoker?
+{117614}{117666}lt's all right.|l won't tell your mum.
+{117667}{117745}What did you have for breakfast|this morning, Rory?
+{117746}{117826}Fried egg sandwich.
+{117827}{117887}Fried egg sandwich.|Very tasty.
+{117928}{117969}You can have a heart attack|without knowing about it.
+{117971}{118039}-Can you?|-You just don't feel well.
+{118040}{118096}Christ, there are|some arseholes on the road.
+{118206}{118253}Fuck!
+{118313}{118381}Dickhead!|You fucking dickhead!
+{118382}{118420}l didn't see you, mate.
+{118421}{118471}What the fuck were you doing?
+{118472}{118530}Oh, for fuck's sake.
+{118530}{118569}l didn't see you|coming round the van.
+{118570}{118633}You didn't fucking look, did ya?
+{118767}{118814}You all right, Rory?
+{118814}{118876}-Want another drink?|-Yeah.
+{118961}{118999}Not too quick.
+{119470}{119500}Rory!
+{119545}{119593}Rory!
+{119778}{119894}What's happened to you, Rory?
+{119985}{120090}What's this? Look at him.
+{120090}{120167}He's got tubes|coming out of him all over.
+{120238}{120289}What are you doing here,|Maureen?
+{120290}{120344}l come with him|in the ambulance.
+{120346}{120405}Oh, did you?
+{120524}{120598}What happened, Rory?
+{120599}{120655}l couldn't breathe.
+{120656}{120734}He had pains in the chest.
+{120735}{120836}Oh, don't worry.
+{120837}{120915}l'll look after you.
+{121013}{121097}This is my little baby boy.
+{121624}{121672}Where's Dad?
+{121673}{121763}Yeah, he'll be here in a bit.
+{123066}{123106}She was pissed as a fart.
+{123107}{123202}-Good job Samantha was in.|-Yeah.
+{123202}{123284}-Thanks anyway, Maureen.|-That's all right.
+{123340}{123401}l'm starving.
+{123402}{123488}l was just gonna make meself|a bit of cheese on toast.
+{123490}{123540}Are you hungry?
+{123542}{123589}No.
+{123591}{123673}When's your Phil and Rachel|coming up?
+{123674}{123710}Rachel ain't at home.
+{123712}{123756}She's probably|gone up the market.
+{123757}{123829}l'll give her another ring|in a minute.
+{123830}{123880}My Donna ain't in, either.
+{123881}{123936}l can't get hold of Phil.
+{123937}{123973}Why? Where is he?
+{123998}{124036}Don't know.
+{125910}{125957}Mum?
+{125959}{126034}Rach. l'm just trying|to get hold of your dad.
+{126036}{126096}l don't know|what's happened to him.
+{126098}{126180}-D'you get the bus all right?|-Yeah.
+{126181}{126238}He's in here.
+{126238}{126325}Sorry. After you. There you go.
+{126429}{126459}lt's his sister.
+{126460}{126506}Hi.
+{126506}{126551}Rory...
+{126552}{126607}Rachel's come to see you.
+{126661}{126714}-Rory's mum?|-Yeah.
+{126716}{126764}Hi, l'm Simon Griffiths.|l'm the doctor.
+{126766}{126863}l examined Rory before tea.|And l bet you're Rory's sister.
+{126865}{126896}Yeah.
+{126897}{126940}Hi. Hello, Rory.
+{126941}{126992}So, why don't we have|a sit down...
+{126993}{127039}and we can have|a bit of a chat, OK?
+{127040}{127123}Make yourselves at home.|Get comfy.
+{127186}{127241}-ls he gonna be all right?|-He'll be fine.
+{127242}{127320}We've run some tests, X-ray,|checked his blood--
+{127321}{127395}-Ain't he had a heart attack?|-Well, yes and no.
+{127396}{127424}What do you mean?
+{127425}{127476}He's had a kind of heart attack.
+{127477}{127537}ln your heart,|you've got four chambers...
+{127539}{127629}divided by a big wall|of muscle, OK?
+{127630}{127685}And Rory's got a problem|with this muscle.
+{127686}{127756}He ain't never had nothing|like that before.
+{127757}{127794}That's the thing, you see.
+{127795}{127845}He's probably had it|since he was a baby...
+{127846}{127920}but it's only just|come to light.
+{127921}{127998}l can't believe all this.
+{127999}{128070}l know. We think|that's what must be wrong...
+{128071}{128121}but the consultant's got to have|a look at him tomorrow.
+{128122}{128150}What's going to happen?
+{128151}{128198}Good news is he should|be home within a week.
+{128199}{128254}But the thing|with this condition...
+{128255}{128289}is that it won't just go away...
+{128290}{128366}and we can't actually|cure it as such.
+{128368}{128417}-Can't you?|-No. Afraid not.
+{128418}{128457}We're gonna have|to put Rory on medication.
+{128458}{128489}How long for?
+{128490}{128540}Probably for the rest|of his life.
+{128541}{128586}That don't seem right.
+{128587}{128631}Not to worry.|Lots of people take pills...
+{128632}{128697}every day of their lives and|they're none the worse for it.
+{128698}{128729}Rory will just pop in...
+{128730}{128775}see a cardiologist|every six months...
+{128776}{128844}and everything should be cool.
+{128913}{128961}He's through|the worst of it now.
+{129047}{129085}He's only little.
+{129087}{129162}-He's been a good lad.|-Yeah, he is a good lad.
+{129164}{129205}Does he smoke?
+{129206}{129252}No.
+{129314}{129356}Yeah, he does a bit.
+{129357}{129396}Fuck off.
+{129397}{129473}Rory! Sorry, Doctor.
+{129474}{129547}Once Rory's decided|whether he smokes or not...
+{129548}{129583}he can give it up.
+{129584}{129659}The same goes for burgers and|chips and fry-ups and crisps.
+{129660}{129701}All that crap, eh, Rory?
+{129702}{129785}The sooner you get rid of them,|the better it'll be for you.
+{130066}{130107}-Hello?|-Phil, it's me.
+{130108}{130144}Where the bloody hell|have you been?
+{130146}{130173}What's up?
+{130174}{130228}l've been trying|to get hold of you since 5:00.
+{130229}{130259}Your phone is off,|your radio's off.
+{130260}{130313}Neville can't get hold of you.|Nobody can get hold of you.
+{130314}{130347}What's going on?|Where are you?
+{130348}{130406}l'm on the A2.
+{130406}{130454}Rory's had a heart attack.
+{130499}{130537}Phil!
+{130538}{130606}What?
+{130607}{130699}We're up at the hospital.|South London General.
+{130701}{130745}What do you mean,|''heart attack''?
+{130746}{130797}What do you mean,|''What do l mean, heart attack''?
+{130799}{130886}-ls he all right?|-No, he ain't all right!
+{130887}{130917}He ain't dead, is he?
+{130918}{130973}Of course he ain't dead.|Where are you?
+{131007}{131101}l'm just coming up to|that big Chinese supermarket.
+{131102}{131141}The one on the roundabout|down by the--
+{131142}{131189}Phil, for fuck's sake!
+{131190}{131261}Just hurry up and get here!
+{131262}{131343}Pen? Hello?
+{131729}{131824}lt's funny. l'm starving,|but l can't eat this.
+{131825}{131877}Got a bleedin' headache.
+{131878}{131953}-Do you want a bit?|-No. Ta.
+{131954}{132069}-ls he gonna be all right?|-Yeah. He's in good hands.
+{132099}{132134}Hear that baby?
+{132135}{132184}Yeah.
+{132458}{132502}Look at you.
+{132561}{132615}Come here.
+{132616}{132662}Shift up.
+{132986}{133041}Are you scared?
+{133111}{133158}We'll be all right.
+{133326}{133413}Here...what if it's a boy?
+{133519}{133579}Forget about it.
+{133580}{133650}How can l forget about it?
+{133650}{133694}l'll fucking kill him.
+{133695}{133743}Yeah.
+{133744}{133809}You gonna phone the police, Dad?
+{133810}{133893}-No.|-Why not?
+{133895}{133960}-l'll do it in the morning.|-Do it now.
+{133962}{133999}No.
+{134001}{134050}-l'll phone 'em.|-Leave it.
+{134052}{134123}Give us that bit of paper.
+{134124}{134176}Dad!
+{134177}{134217}What?
+{134218}{134262}That bloke's gonna get away|with it, isn't he?
+{134263}{134308}lt's none of|your fucking business.
+{134309}{134388}You phone Penny yet?
+{134389}{134462}You ain't, have you?
+{134463}{134546}You don't give a shit, do you?|You're useless.
+{134546}{134633}You're both fucking useless.|l'm going out.
+{135291}{135339}What?
+{135458}{135538}Oh, God.
+{135540}{135602}Fucking hell,|what have you done?
+{135758}{135812}Why'd you do that?
+{135813}{135889}lt's all right.|l love you and all.
+{135890}{135965}Don't love you, all right?|l don't even like you.
+{136022}{136059}You need to get that seen to.
+{136060}{136102}Need to go to hospital,|all right?
+{136146}{136228}lt's not funny. lt's not funny!
+{136229}{136310}Not--l'm sorry.
+{136394}{136456}l'm sorry.
+{137329}{137362}Excuse me.
+{137362}{137445}Can l help you?
+{137446}{137481}That's my boy.
+{137482}{137549}Can you tell me|his name, please?
+{137550}{137588}Rory Bassett.
+{137589}{137633}OK, Mr. Bassett, in you go.
+{137634}{137663}Right.
+{137664}{137719}lt's only two by a bedside.
+{137720}{137802}OK. Sorry.
+{138155}{138198}There's only allowed two|by the bed.
+{138199}{138271}l'll wait outside, then.
+{138272}{138320}Don't be stupid.|You've only just got here.
+{138321}{138386}No, it's all right.
+{138387}{138435}Get yourself a cup of tea.
+{138436}{138486}l'll just wait outside.
+{138582}{138615}-All right?|-Yeah.
+{139028}{139095}He's asleep now.
+{139096}{139144}ls he?
+{139366}{139453}-Has he had an operation?|-No.
+{139593}{139665}l got lost downstairs.
+{139667}{139710}Bloke said, ''Go upstairs--''
+{139711}{139775}All right, Phil,|you're here now, ain't you?
+{139930}{139993}What happened?
+{139994}{140055}Well, he collapsed.
+{140106}{140167}Maureen was with him|when l come up here.
+{140234}{140343}He's got to take pills|for the rest of his life.
+{140407}{140478}You never know what's|going to happen, do you?
+{140631}{140708}lt's wossername...fait accompli.
+{140758}{140818}He might win|the lottery tomorrow.
+{140881}{140962}lt's kismet, isn't it?
+{140963}{141033}What are you talking about?
+{141136}{141191}Where have you been?
+{141230}{141271}Out and about, you know.
+{141272}{141325}Where?
+{141366}{141418}Been a long run, then--
+{141453}{141535}You're supposed to be|a taxi, Phil.
+{141536}{141584}What are you doing|with your radio switched off?
+{141585}{141622}And your mobile--what's|the point of having them...
+{141623}{141673}if we can't get hold of you|when we need you?
+{141674}{141733}-l know what you mean.|-lt's pathetic!
+{141810}{141870}Leave it out, Mum.
+{141910}{141969}Stop having a go at him.
+{141970}{142036}Rory...
+{142132}{142200}l ain't havin' a go at him.
+{142359}{142398}lt's all right.
+{142514}{142547}You all right, Dad?
+{142698}{142783}All right, mate?
+{142785}{142846}You been in the wars, ain't you?
+{142998}{143053}D'you wanna go on holiday?
+{143134}{143175}What?
+{143226}{143290}We'll go away...|when he's better.
+{143291}{143350}Yeah? Four of us?
+{143350}{143407}Yeah?
+{143485}{143544}Disneyworld?
+{143706}{143760}What?
+{144146}{144204}lt is past 10:00.
+{144232}{144269}l don't want to leave him.
+{144270}{144336}l know, but the night staff|will take good care of him.
+{144503}{144634}Rory, gotta go home now.
+{144635}{144713}-Be back in the morning.|-All right.
+{144714}{144781}All right, mate.
+{144931}{144981}l love you, Rory.
+{145097}{145135}Gotta go home now.
+{145137}{145219}-ls he asleep?|-Yeah, nearly.
+{145221}{145286}He'll be all right.
+{147368}{147445}-Havin' a cup of tea?|-Yeah. Do you want one?
+{147446}{147501}No, l'll have hot chocolate.
+{147502}{147581}-Do you want a beer?|-No.
+{148590}{148701}l wish l could have stayed|the night up there with him.
+{148739}{148815}Well, they'll have|drugged him up...
+{148816}{148914}knocked him out until morning.|Wouldn't they, Rach?
+{148915}{148962}Yeah.
+{149014}{149073}First thing, then,|run you up there.
+{149074}{149138}-You don't have to do that.|-l won't hang about.
+{149140}{149187}l'll come in, say hello,|make sure he's all right...
+{149188}{149277}then get straight on the radio,|start work as soon as l can.
+{149278}{149365}He'll be surprised,|won't he? Neville.
+{149366}{149412}He's a bit--wossername--|unpredictable, isn't he?
+{149413}{149467}He might not have me.
+{149468}{149544}There's a lot of blokes|work mornings regular.
+{149545}{149594}l might pick up|some airport runs.
+{149595}{149643}lf he says no,|l'll try somewhere else.
+{149644}{149684}l don't want to talk|about it now, Phil.
+{149685}{149771}No, l mean it.|l'm gonna do it.
+{149772}{149821}l'm determined to do it.
+{149822}{149893}Got to get started, get saving.
+{149894}{149967}Shouldn't take long.|l'll work seven days a week.
+{150011}{150082}Start early, finish late.|Do nights, weekends--
+{150083}{150148}Phil, Rory's in hospital.
+{150149}{150229}Yeah. Sorry.
+{150299}{150401}But l made him a promise,|and l'm gonna keep it.
+{150402}{150450}What promise?
+{150482}{150545}-About going on holiday.|-Phil!
+{150546}{150603}They do these deals, don't they?|Disneyworld--
+{150604}{150657}these two nurses l picked up|was telling me about it.
+{150658}{150700}They do these all-in packages.
+{150702}{150784}Wossername--fly/drive.|Florida, innit?
+{150786}{150837}Phil, it ain't about|goin' on holiday.
+{150838}{150910}lt's about gettin' by|week in, week out.
+{150912}{150977}lt ain't a game!
+{150978}{151049}Just 'cause you suddenly got|some bee in your bonnet...
+{151050}{151099}about gettin' up in the mornings|and goin' to work...
+{151100}{151137}when you've been lying|in bed for years...
+{151138}{151178}till God knows what time!
+{151179}{151220}And we're all supposed|to be grateful...
+{151221}{151269}because you decided to do|what normal people do.
+{151270}{151357}l get up in the mornings.|Rachel gets up in the mornings.
+{151358}{151447}You make me sick.
+{151610}{151666}Doctor was asking about you.
+{151667}{151738}About your heart and stuff.|Your family.
+{151739}{151807}lf anyone in your family's|had a heart attack.
+{151808}{151869}There was your Uncle Dougie,|weren't there?
+{151870}{151929}Me Nan had one and all.
+{151930}{152009}Oh, yeah.
+{152010}{152085}-Me mum's mum.|-Forgot about that.
+{152139}{152241}Me dad's oldest brother.|What's his name?
+{152242}{152306}ln Australia...yeah.
+{152308}{152336}There you are, then.
+{152338}{152401}lt's all on your side, innit?|Ain't none on mine.
+{152546}{152603}Are you going to work|in the morning, Rach?
+{152604}{152686}Don't have to.|You can phone in.
+{152687}{152734}Dunno.
+{152734}{152797}l ain't going.
+{152886}{152966}lf you do...when you're done...
+{152967}{153017}give us a bell on the mobile.
+{153018}{153117}Run you up to the hospital,|see your brother, yeah?
+{153119}{153202}You'll have it switched on?|Not like today.
+{153204}{153250}Your son's in the hospital|having a heart attack...
+{153250}{153294}and we can't get hold of you.
+{153295}{153335}They know where l am|in an emergency...
+{153336}{153393}but we can't get hold|of his dad nowhere.
+{153453}{153541}Where was you? What have you|been doing all day?
+{153594}{153636}l switched it off.
+{153637}{153753}l know you switched it off.|Why'd you switch it off?
+{153754}{153784}l'd had enough.
+{153785}{153845}You'd had enough?|Had enough of what?
+{153846}{153935}Working for five minutes,|so you switched it off?
+{153937}{153996}What can l switch off|when l've had enough?
+{153998}{154070}Had enough of getting up|every morning, going to work...
+{154070}{154125}doing the shopping,|coming home, cooking the tea...
+{154126}{154163}cleaning the house,|doing the ironing...
+{154164}{154212}making sure everyone's got|clean clothes on their back.
+{154213}{154289}What can l switch off|when l've had enough?
+{154290}{154343}Had enough of what, anyway?
+{154411}{154461}Everything.
+{154462}{154515}What everything?
+{154688}{154747}For God's sake, Phil.
+{154936}{154996}You don't love me|no more, do you?
+{155038}{155076}What?
+{155199}{155249}You don't love me.
+{155330}{155381}Phil, what are you|talking about?
+{155382}{155455}What's that got to do|with anything?
+{155502}{155581}lt's got to do with everything.
+{155582}{155673}Rory has had a heart attack!
+{155748}{155813}You ain't loved me for years.
+{155978}{156040}You don't like me...
+{156041}{156124}you don't respect me...
+{156126}{156184}you talk to me|like l'm a piece of shit.
+{156247}{156296}l don't!
+{156298}{156343}You do.
+{156344}{156390}l don't, Phil.
+{156391}{156450}l don't talk to you|like you're a piece of shit.
+{156450}{156481}You do, Pen.
+{156482}{156529}You don't know you're doin' it,|but you do.
+{156530}{156620}That's stupid! That ain't fair!
+{156830}{156914}Why are you saying|all this to me?
+{156953}{157053}lt's wossername...
+{157054}{157126}unbearable.
+{157192}{157257}What's unbearable?
+{157294}{157424}You don't love me no more,|do you?
+{157484}{157593}Do you love me?|l've got to know.
+{157654}{157692}Well--
+{157972}{158149}lf you don't love me no more,|l might as well go.
+{158150}{158201}Where you gonna go?
+{158202}{158249}l don't know.
+{158414}{158489}lf l'm making you unhappy--
+{158490}{158528}you know what l mean?
+{158614}{158669}l ain't--
+{158670}{158744}l ain't got no skills.
+{158746}{158841}l don't earn enough money.
+{158887}{158940}l know l'm a disappointment|to you.
+{158941}{159005}l know l get on your nerves.
+{159053}{159158}lt's like something's died.
+{159322}{159438}l feel like an old tree|that ain't got no water.
+{159740}{159825}When we first met...
+{159826}{159888}l couldn't believe it.
+{159889}{159973}A pretty girl like you going|with a fat bloke like me.
+{159974}{160023}People were lookin' at us...
+{160024}{160100}l felt like the bees knees.
+{160134}{160205}We ain't got much...
+{160206}{160314}but we got each other...
+{160316}{160350}and that's enough.
+{160351}{160419}But if you don't want me,|we ain't got nothing.
+{160469}{160518}We ain't a family.
+{160670}{160717}That's it.
+{161654}{161689}Sorry.
+{161742}{161845}l know it ain't very helpful...
+{161846}{161927}what with Rory and that.
+{161929}{161980}l couldn't hold it in.
+{162113}{162187}l don't talk to you|like that, Phil.
+{162188}{162244}That's what it feels like.
+{162358}{162432}Do you want a tissue?|l've got some.
+{162433}{162500}Yeah.
+{162501}{162548}Shirt's all wet.
+{163134}{163169}Rachel?
+{163222}{163277}What are you doing there?
+{163474}{163513}Rach?
+{164987}{165073}You do talk to him like that.
+{165110}{165160}Do l?
+{165162}{165209}Sometimes.
+{166672}{166713}ls she all right?
+{166762}{166832}Yeah.
+{166833}{166878}What did she say?
+{167137}{167210}She's just a bit upset,|that's all.
+{167258}{167290}Yeah.
+{167410}{167458}Do you want one of these?
+{167459}{167519}No, l'm all right, thanks.
+{167981}{168013}What?
+{168574}{168648}Strange, isn't it?
+{168649}{168681}What?
+{168766}{168805}Don't know.
+{168915}{168998}l feel cut off all the time.
+{168998}{169038}Sort of...
+{169139}{169213}lonely.
+{169214}{169293}Yeah.
+{169294}{169341}Me and all.
+{169399}{169447}Do you?
+{169832}{169883}l love you.
+{172001}{172086}You used to make me laugh.
+{172087}{172127}Yeah.
+{172642}{172706}Do you want to go to bed?
+{172762}{172793}Yeah.
+{172858}{172905}Busy day tomorrow.
+{173232}{173289}He must be up here.
+{173446}{173514}-That's it.|-Oh, yeah.
+{173515}{173576}-Yeah, there he is.|-There he is.
+{173577}{173633}That's nice.|By the window.
+{173688}{173733}You all right?
+{173915}{173984}There's no chairs.
+{173986}{174027}There's a couple over there.
+{174029}{174061}Oh, yeah.
+{174218}{174290}You all right there, Rach?
+{174291}{174334}Yeah, thanks.
+{174488}{174527}He looks better, don't he?
+{174528}{174569}Got a bit of color|in his cheeks.
+{174570}{174607}Yeah.
+{174608}{174657}How did they get you up here?
+{174658}{174691}l come up in a wheelchair.
+{174692}{174722}-Did you?|-Yeah.
+{174723}{174773}Got you some bananas, mate.
+{174774}{174818}Cheers.
+{174820}{174861}Here, l got you|something and all.
+{174863}{174929}-What is it?|-Open it.
+{174982}{175025}What is it, a towel?
+{175026}{175065}No, it's a dressing-gown.
+{175066}{175145}What do l need|a dressing-gown for?
+{175146}{175211}For when you go toilet and that.
+{175212}{175276}All right, stick it in there.
+{175344}{175384}What's this, slippers?
+{175385}{175434}-Yeah.|-Cheers.
+{175435}{175506}-They're moccasins, ain't they?|-Yeah, nice one.
+{175506}{175586}They'll sort you out.
+{175627}{175664}You had something to eat?
+{175666}{175713}Yeah, l had fish.
+{175714}{175794}-Did you?|-No. ln batter?
+{175795}{175935}No, with sauce on the top.|Like cheese.
+{175936}{175978}Cor blimey!
+{175979}{176020}-Did you eat it?|-Yeah.
+{176021}{176056}They tie you down, did they?
+{176058}{176140}No, it was nice.|l had that, and mash...
+{176142}{176229}and, like,|green cauliflower stuff.
+{176230}{176273}Oh, yeah, broccoli.
+{176274}{176318}l don't know, but l ate it all.
+{176319}{176398}-That's good.|-Blimey.
+{176400}{176477}-You all right?|-Yeah.
+{176478}{176539}She ain't been back to work yet.
+{176541}{176600}l'm gonna go back tomorrow.
+{176601}{176672}-Why ain't you been in?|-l ain't been sleeping.
+{176673}{176705}Why not?
+{176792}{176833}She's been worried.
+{176834}{176870}What about?
+{176871}{176909}About you. We all have.
+{176910}{176952}Shut up. l'm all right.
+{176953}{177003}You are now.
+{177097}{177185}You've got|a bit of fluff on you.
+{177394}{177432}Did an airport this morning.
+{177433}{177465}Yeah, 5:00!
+{177466}{177502}Bloody hell.
+{177503}{177574}Yeah. Took this family|to Gatwick.
+{177575}{177661}They was going to--|what's the name? Cyprus.
+{177662}{177755}This bloke, two little boys,|and an old woman.
+{177756}{177902}We was going along,|and the kids started giggling...
+{177903}{178046}and the littlest one says,|''Here, Dad, she's farted.''
+{178137}{178188}Here, don't make him laugh.
+{178189}{178224}Are you hurting?
+{178226}{178262}He's all right.
+{178302}{178396}Anyway, so he turns around,|he starts clumping him.
+{178397}{178453}''Don't be rude|about your grandma.''
+{178454}{178544}He was swearing|in Greek and that.
+{178545}{178628}l had to open a window.|lt was--no, it was...
+{178707}{178751}Had all sorts in that car.
+{178752}{178845}That's right, yeah.
+{178846}{178884}You all right, Rach?
+{178886}{178917}Yeah.
+{179052}{179121}You want to be careful, you.
+{179494}{179557}Got talking to anyone in here?
+{179558}{179605}No, l ain't.
+{179606}{179647}Only just got up here,|ain't you?
+{179649}{179693}l ain't spoken to no one.
+{179694}{179760}Did you get your card|from your nan?
+{179761}{179856}Yeah, it's that one there.
+{179857}{179941}She was gonna send|one of her cakes up.
+{179942}{179990}l said, ''Leave off.''

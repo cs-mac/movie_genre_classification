@@ -1,0 +1,3809 @@
+﻿1
+00:00:06,605 --> 00:00:14,605
+Toei Co., Ltd.
+
+2
+00:00:34,533 --> 00:00:42,533
+SNAKE WOMAN'S CURSE
+
+3
+00:00:56,256 --> 00:00:58,246
+Screenplay
+Fumio Konami and Nobuo Nakagawa.
+
+4
+00:00:58,390 --> 00:01:00,085
+Producers
+Kaname Ogisawa, Tadayuki Okubo.
+
+5
+00:01:00,225 --> 00:01:02,194
+Production Design
+Hiroshi Kitagawa.
+
+6
+00:01:02,295 --> 00:01:04,091
+Director of Photography
+Yoshikazu Yamasawa.
+
+7
+00:01:04,263 --> 00:01:06,197
+Assistant Director
+Atsushi Mihori.
+
+8
+00:01:06,299 --> 00:01:08,164
+Music Shunsuke Kikuchi.
+
+9
+00:01:08,268 --> 00:01:10,236
+Set Design Masao Ishii.
+
+10
+00:01:10,335 --> 00:01:12,132
+Script Supervisor Sumiko Nakao.
+
+11
+00:01:12,237 --> 00:01:14,798
+CAST
+
+12
+00:01:14,941 --> 00:01:16,909
+Seizaburo Kawazu.
+
+13
+00:01:17,010 --> 00:01:19,478
+Yukie Kagawa Sachiko Kuwahara.
+
+14
+00:01:19,611 --> 00:01:22,546
+Shingo Yamashiro Kunio Murai.
+
+15
+00:01:22,649 --> 00:01:24,115
+Ko Nishimura.
+
+16
+00:01:24,250 --> 00:01:26,275
+Shunji Sayama.
+
+17
+00:01:26,418 --> 00:01:28,819
+Akemi Negishi Chiaki Tsukioka.
+
+18
+00:01:28,954 --> 00:01:31,445
+Tamae Kiyokawa Mariko Ko.
+
+19
+00:01:31,558 --> 00:01:33,526
+Hideo Murota Akiken Sawa.
+
+20
+00:01:44,703 --> 00:01:47,570
+Special Appearance Junzaburo Ban.
+
+21
+00:01:47,674 --> 00:01:50,575
+Tetsuro Tanba.
+
+22
+00:01:50,677 --> 00:01:53,942
+Directed by Nobuo Nakagawa.
+
+23
+00:01:58,284 --> 00:02:00,775
+In the early days of the Meiji Period,
+
+24
+00:02:00,887 --> 00:02:02,787
+in the remote countryside
+of northern Japan,
+
+25
+00:02:02,888 --> 00:02:08,793
+where deep mountains
+face the desolate Sea of Japan,
+
+26
+00:02:08,961 --> 00:02:16,265
+the village of Onuma had
+not yet been westernized.
+
+27
+00:02:16,368 --> 00:02:17,996
+Even if the people had wanted to fish,
+
+28
+00:02:18,138 --> 00:02:20,605
+there were no ports
+a fishing boat could use.
+
+29
+00:02:20,706 --> 00:02:26,838
+Villagers could survive only
+by farming the meager soil.
+
+30
+00:02:28,181 --> 00:02:35,644
+The Onuma family, who owned the land,
+were breaking the farmers' backs.
+
+31
+00:03:00,513 --> 00:03:01,513
+Come on.
+
+32
+00:03:17,530 --> 00:03:20,556
+Landlord! Please, landlord!
+
+33
+00:03:21,234 --> 00:03:22,360
+Sir, please!
+
+34
+00:03:22,467 --> 00:03:25,868
+Landlord!
+Please don't repossess my field!
+
+35
+00:03:25,972 --> 00:03:29,100
+Please! Master!
+
+36
+00:03:29,241 --> 00:03:35,237
+I will work harder than anybody else.
+Please!
+
+37
+00:03:37,817 --> 00:03:39,717
+Yasuke, it's dangerous! Stay away.
+
+38
+00:03:39,818 --> 00:03:43,345
+Please, landlord.
+Without the field, I can't live.
+
+39
+00:03:43,455 --> 00:03:47,118
+Please.
+Please say something, master!
+
+40
+00:03:47,259 --> 00:03:50,194
+Please! Landlord!
+
+41
+00:03:50,295 --> 00:03:53,924
+I'll pay off my debt.
+I will definitely do it.
+
+42
+00:03:54,067 --> 00:03:55,762
+Please don't take away my field!
+
+43
+00:03:55,901 --> 00:03:59,393
+Sir! Please!
+
+44
+00:03:59,504 --> 00:04:00,631
+Father! Father!
+
+45
+00:04:00,772 --> 00:04:03,366
+- Please! Sir!
+- Father!
+
+46
+00:04:03,475 --> 00:04:07,913
+Landlord!
+I can't live if you take the field!
+
+47
+00:04:09,949 --> 00:04:11,211
+Father!
+
+48
+00:04:12,418 --> 00:04:13,442
+Landlord!
+
+49
+00:04:14,920 --> 00:04:18,219
+Father!
+
+50
+00:04:18,324 --> 00:04:19,484
+What happened, Father?
+
+51
+00:04:19,625 --> 00:04:21,490
+Father, are you okay?
+
+52
+00:04:21,627 --> 00:04:23,788
+Father! Father!
+
+53
+00:04:26,598 --> 00:04:27,918
+- Are you okay?
+- What's going on?
+
+54
+00:04:28,999 --> 00:04:29,729
+- Father.
+- Yasuke?
+
+55
+00:04:29,836 --> 00:04:31,497
+- Yasuke? Hang on!
+- Are you okay?
+
+56
+00:04:31,637 --> 00:04:32,848
+- Yasuke? What happened?
+- Father!
+
+57
+00:04:32,872 --> 00:04:35,170
+Hang on, Father!
+
+58
+00:04:35,307 --> 00:04:36,433
+Yasuke?
+
+59
+00:05:02,802 --> 00:05:03,802
+Landlord.
+
+60
+00:05:04,836 --> 00:05:06,031
+Please.
+
+61
+00:05:07,639 --> 00:05:08,971
+Don't take the farm.
+
+62
+00:05:09,841 --> 00:05:11,002
+Father.
+
+63
+00:05:13,680 --> 00:05:15,011
+Sutematsu.
+
+64
+00:05:15,148 --> 00:05:16,148
+Thank you.
+
+65
+00:05:16,882 --> 00:05:18,850
+It's late. Please go home.
+
+66
+00:05:19,752 --> 00:05:21,549
+Please take care.
+
+67
+00:05:23,656 --> 00:05:25,715
+Thank you.
+
+68
+00:05:25,858 --> 00:05:27,689
+Please say hello to Matsugoro.
+
+69
+00:05:27,826 --> 00:05:30,317
+Yeah.
+
+70
+00:05:30,430 --> 00:05:32,454
+My father will be shocked.
+
+71
+00:05:32,564 --> 00:05:34,156
+Take care.
+
+72
+00:05:54,187 --> 00:05:55,415
+He isn't well yet.
+
+73
+00:05:55,555 --> 00:05:57,920
+Why did you let him work on the farm?
+
+74
+00:05:58,057 --> 00:05:59,217
+That was stupid.
+
+75
+00:05:59,358 --> 00:06:01,326
+My mother and I tried to stop him.
+
+76
+00:06:01,427 --> 00:06:02,427
+So foolish.
+
+77
+00:06:05,230 --> 00:06:06,391
+Sutematsu.
+
+78
+00:06:10,937 --> 00:06:14,532
+- When I feel jealous,
+- Give me candies!
+
+79
+00:06:14,639 --> 00:06:17,938
+- I have a hard time,
+- Give me candies!
+
+80
+00:06:18,076 --> 00:06:23,071
+So I make a rice dumpling for the Buddha.
+
+81
+00:06:24,783 --> 00:06:25,909
+Asa.
+
+82
+00:06:27,420 --> 00:06:29,285
+Kamekichi, do you have an errand?
+
+83
+00:06:29,422 --> 00:06:30,889
+I'm going to the next village.
+
+84
+00:06:30,990 --> 00:06:32,184
+You're working so hard.
+
+85
+00:06:32,290 --> 00:06:34,451
+By the way, how is Yasuke?
+
+86
+00:06:35,261 --> 00:06:36,261
+Thank you for asking.
+
+87
+00:06:36,329 --> 00:06:37,626
+Last night he slept well.
+
+88
+00:06:37,764 --> 00:06:40,597
+Well, I guess it was a bad day yesterday.
+
+89
+00:06:42,435 --> 00:06:44,129
+What's wrong?
+
+90
+00:06:44,269 --> 00:06:47,466
+Okay, I'll put you under hypnosis.
+
+91
+00:06:47,607 --> 00:06:49,131
+Hypnosis?
+
+92
+00:06:49,274 --> 00:06:54,473
+Yes. Hypnosis will control
+the threads of people's minds.
+
+93
+00:06:54,613 --> 00:06:55,705
+The threads of minds?
+
+94
+00:06:55,814 --> 00:06:57,475
+Don't worry. Close your eyes.
+
+95
+00:06:58,084 --> 00:06:59,381
+- Relax.
+- Like this?
+
+96
+00:06:59,485 --> 00:07:00,485
+Yes.
+
+97
+00:07:00,586 --> 00:07:03,555
+Are you ready? Relax.
+
+98
+00:07:03,656 --> 00:07:06,386
+I'm hypnotizing you.
+
+99
+00:07:06,492 --> 00:07:09,427
+You're feeling...
+
+100
+00:07:11,497 --> 00:07:14,660
+When I feel jealous,
+I have a hard time.
+
+101
+00:07:14,800 --> 00:07:19,134
+So I make a rice dumpling for the Buddha.
+
+102
+00:07:25,278 --> 00:07:27,302
+Kamekichi! Idiot!
+
+103
+00:07:27,447 --> 00:07:30,905
+So I make a rice dumpling for the Buddha.
+
+104
+00:07:34,387 --> 00:07:35,978
+Thanks for your help.
+
+105
+00:08:04,182 --> 00:08:06,617
+Poor bird. You're hurt.
+
+106
+00:08:08,019 --> 00:08:10,544
+Sue! Sue!
+
+107
+00:08:27,874 --> 00:08:30,468
+Asa! Asa.
+
+108
+00:08:30,576 --> 00:08:32,202
+Trouble. Father is in trouble.
+
+109
+00:08:32,345 --> 00:08:33,504
+- Hurry!
+- Father?
+
+110
+00:08:45,191 --> 00:08:46,191
+- Yasuke!
+- Father!
+
+111
+00:08:46,259 --> 00:08:48,419
+- What happened, Father?
+- Do you need water?
+
+112
+00:08:48,561 --> 00:08:50,256
+- Father?
+- Let me go!
+
+113
+00:08:50,395 --> 00:08:52,863
+- What did I do?
+- Father?
+
+114
+00:08:52,965 --> 00:08:54,728
+After you get better, we will.
+
+115
+00:08:54,866 --> 00:08:56,026
+- Let go.
+- Yasuke.
+
+116
+00:08:57,202 --> 00:09:01,502
+I might die tomorrow.
+
+117
+00:09:01,606 --> 00:09:04,769
+I have to see the landlord
+and ask him something!
+
+118
+00:09:06,711 --> 00:09:08,611
+I will ask him about you.
+
+119
+00:09:08,748 --> 00:09:10,908
+- Sue. Sue.
+- Yasuke. Calm down.
+
+120
+00:09:11,049 --> 00:09:14,348
+Please wake me up. Please.
+
+121
+00:09:14,452 --> 00:09:15,783
+Are you all right? Father?
+
+122
+00:09:15,922 --> 00:09:20,882
+If I die, you can't pay back the debt.
+
+123
+00:09:22,461 --> 00:09:25,430
+I have to ask him a
+once-in-a-lifetime thing:
+
+124
+00:09:25,565 --> 00:09:27,192
+Ask him about the debt.
+
+125
+00:09:29,067 --> 00:09:30,067
+Father?
+
+126
+00:09:30,135 --> 00:09:32,467
+- Yasuke?
+- Here's his medicine.
+
+127
+00:09:32,605 --> 00:09:33,981
+- Father.
+- Yasuke, take the medicine.
+
+128
+00:09:34,005 --> 00:09:35,199
+Father.
+
+129
+00:09:36,609 --> 00:09:40,067
+I... Even if I have to eat dirt,
+
+130
+00:09:40,178 --> 00:09:42,442
+for the master.
+
+131
+00:09:42,581 --> 00:09:43,707
+Landlord.
+
+132
+00:09:45,618 --> 00:09:46,949
+Please excuse me.
+
+133
+00:09:47,086 --> 00:09:48,417
+Please.
+
+134
+00:09:48,520 --> 00:09:50,988
+- Father!
+- Yasuke!
+
+135
+00:09:51,123 --> 00:09:52,750
+- Father! Father!
+- Yasuke!
+
+136
+00:09:52,857 --> 00:09:53,857
+Hang on.
+
+137
+00:09:53,960 --> 00:09:55,221
+- Father!
+- Yasuke!
+
+138
+00:09:55,327 --> 00:09:58,319
+Father! Father!
+
+139
+00:10:09,341 --> 00:10:10,467
+Landlord.
+
+140
+00:10:10,610 --> 00:10:14,067
+Even if I have to eat dirt,
+I'll pay you back.
+
+141
+00:10:42,173 --> 00:10:43,333
+Father.
+
+142
+00:10:45,711 --> 00:10:49,111
+From now on we'll try to help you.
+
+143
+00:10:50,716 --> 00:10:51,774
+Please let us know.
+
+144
+00:11:33,192 --> 00:11:35,854
+Yasuke passed away.
+
+145
+00:11:35,961 --> 00:11:37,928
+May he rest in peace.
+
+146
+00:11:40,732 --> 00:11:42,097
+This is your condolence payment.
+
+147
+00:11:44,302 --> 00:11:45,701
+Thank you.
+
+148
+00:11:47,873 --> 00:11:49,738
+Thank you very much.
+
+149
+00:11:49,875 --> 00:11:52,571
+Yasuke said that,
+even if he had to eat dirt,
+
+150
+00:11:52,711 --> 00:11:57,172
+he wanted to work for you
+until he was dead.
+
+151
+00:11:57,283 --> 00:11:59,842
+He was worried about the debt.
+
+152
+00:11:59,951 --> 00:12:01,749
+Regarding that problem,
+
+153
+00:12:01,886 --> 00:12:04,013
+I need you to return the farm.
+
+154
+00:12:05,924 --> 00:12:07,084
+But...
+
+155
+00:12:07,993 --> 00:12:10,723
+- It'll make us...
+- Don't worry.
+
+156
+00:12:10,830 --> 00:12:13,730
+Sue will work in my main building.
+
+157
+00:12:13,832 --> 00:12:17,394
+Tomorrow morning,
+we'll teach you how to weave.
+
+158
+00:12:17,503 --> 00:12:22,372
+You two will work
+to repay the debt.
+
+159
+00:12:23,942 --> 00:12:26,103
+We will tear down this place immediately,
+
+160
+00:12:27,346 --> 00:12:30,746
+to reclaim land here
+and plant mulberry trees.
+
+161
+00:12:32,451 --> 00:12:34,884
+You have to prepare for it.
+
+162
+00:12:37,923 --> 00:12:39,116
+Do you understand that?
+
+163
+00:13:02,313 --> 00:13:03,313
+Landlord.
+
+164
+00:13:20,533 --> 00:13:22,659
+- Do it.
+- Yes.
+
+165
+00:13:22,802 --> 00:13:24,201
+You guys, too.
+
+166
+00:13:24,336 --> 00:13:26,428
+- Heave-ho!
+- Do it.
+
+167
+00:13:26,538 --> 00:13:27,971
+- You, too.
+- Heave-ho!
+
+168
+00:13:29,642 --> 00:13:31,872
+Do it harder!
+
+169
+00:13:32,010 --> 00:13:33,875
+Heave-ho!
+
+170
+00:13:44,089 --> 00:13:45,818
+Heave-ho!
+
+171
+00:13:49,427 --> 00:13:50,485
+Harder!
+
+172
+00:13:52,932 --> 00:13:54,159
+Take it all away.
+
+173
+00:13:56,902 --> 00:13:59,166
+Sue, come here.
+
+174
+00:14:02,942 --> 00:14:06,969
+Sue. This is best for you two.
+
+175
+00:14:08,547 --> 00:14:09,706
+Let's go.
+
+176
+00:14:20,359 --> 00:14:21,519
+There you go.
+
+177
+00:14:25,630 --> 00:14:27,097
+Come on.
+
+178
+00:14:27,232 --> 00:14:28,392
+Yes.
+
+179
+00:14:36,642 --> 00:14:39,440
+Hey, it's not like they're going to Hell.
+
+180
+00:14:39,577 --> 00:14:40,737
+Eh, Sutematsu?
+
+181
+00:14:42,380 --> 00:14:44,007
+It might be worse than Hell.
+
+182
+00:14:47,119 --> 00:14:48,119
+Sutematsu!
+
+183
+00:14:48,254 --> 00:14:50,721
+What are you doing?
+Get back to work!
+
+184
+00:14:52,224 --> 00:14:54,749
+It's a snake! Kill it!
+
+185
+00:14:54,894 --> 00:14:56,019
+No, don't!
+
+186
+00:15:00,499 --> 00:15:05,197
+Because of the interest,
+Yasuke's debt has increased substantially.
+
+187
+00:15:06,138 --> 00:15:09,107
+From now on, you two will work to repay it.
+
+188
+00:15:09,240 --> 00:15:10,901
+Do you understand?
+
+189
+00:15:11,009 --> 00:15:13,569
+It will take ten years.
+
+190
+00:15:13,678 --> 00:15:16,442
+During that period, of course,
+I won't pay you any salary.
+
+191
+00:15:17,448 --> 00:15:20,713
+But since I'm giving you free food,
+you'll need to work hard.
+
+192
+00:15:20,818 --> 00:15:22,615
+Takeo, take them away.
+
+193
+00:15:22,754 --> 00:15:23,914
+Sure.
+
+194
+00:15:35,967 --> 00:15:39,096
+Hey, Sue, listen.
+
+195
+00:15:42,307 --> 00:15:44,139
+Now, do you understand?
+
+196
+00:15:49,014 --> 00:15:50,139
+Sue.
+
+197
+00:15:52,017 --> 00:15:56,579
+If you think that working here will be
+easier than on the farm, you're mistaken.
+
+198
+00:15:57,722 --> 00:15:59,246
+Yes.
+
+199
+00:16:04,296 --> 00:16:06,127
+It's so hot!
+
+200
+00:16:07,131 --> 00:16:08,325
+It really is.
+
+201
+00:16:10,668 --> 00:16:12,466
+If you have any questions,
+
+202
+00:16:12,571 --> 00:16:15,004
+or if others are bullying you,
+
+203
+00:16:15,139 --> 00:16:16,766
+you can ask me anything.
+
+204
+00:16:16,875 --> 00:16:17,875
+Okay?
+
+205
+00:16:18,009 --> 00:16:19,203
+Kuzu, she's new here.
+
+206
+00:16:20,846 --> 00:16:22,437
+She'll teach you, okay?
+
+207
+00:16:23,749 --> 00:16:24,942
+Good luck.
+
+208
+00:16:27,686 --> 00:16:28,846
+You will work there.
+
+209
+00:16:30,990 --> 00:16:33,048
+Listen, if you have any questions,
+
+210
+00:16:33,192 --> 00:16:34,818
+or if others are bullying you,
+
+211
+00:16:34,927 --> 00:16:36,724
+you can ask me anything, okay?
+
+212
+00:16:36,861 --> 00:16:39,329
+- Not okay!
+- Kame!
+
+213
+00:16:39,565 --> 00:16:44,161
+1. WAKE UP AT 4 A. M.
+2. WORK FROM 5 A. M. TO 9 P. M.
+
+214
+00:16:44,269 --> 00:16:48,227
+3. NO CHATTING AT WORK
+4. TAKE CARE OF YOUR TOOLS
+
+215
+00:16:48,407 --> 00:16:56,407
+Whatever the weather, I keep weaving...
+
+216
+00:17:06,991 --> 00:17:13,954
+I keep weaving...
+
+217
+00:17:16,367 --> 00:17:24,367
+Weaving woman don't sleep...
+
+218
+00:17:35,019 --> 00:17:40,013
+don't sleep...
+
+219
+00:17:40,159 --> 00:17:43,128
+Oh, no!
+You're doing it the wrong way.
+
+220
+00:17:43,261 --> 00:17:45,230
+You're hopeless.
+
+221
+00:17:45,329 --> 00:17:47,194
+IF YOU WORK HARD,
+
+222
+00:17:47,298 --> 00:17:48,960
+YOU CAN ENDURE SHORTAGE
+AND DISCOMFORT
+
+223
+00:18:25,938 --> 00:18:28,736
+Don't slack off! Do it faster!
+
+224
+00:18:30,275 --> 00:18:32,300
+Carrying only one is too slow.
+
+225
+00:18:32,443 --> 00:18:33,933
+Carry one more!
+
+226
+00:18:34,046 --> 00:18:36,014
+I can't see you work so sloppily.
+
+227
+00:18:37,648 --> 00:18:38,808
+I mean it.
+
+228
+00:18:42,721 --> 00:18:44,847
+Kame! You don't need to help her.
+
+229
+00:18:45,656 --> 00:18:46,817
+It can't be helped.
+
+230
+00:19:01,573 --> 00:19:03,006
+Sue.
+
+231
+00:19:03,142 --> 00:19:04,871
+You're doing great, aren't you?
+
+232
+00:19:08,881 --> 00:19:11,111
+What happened? You broke it!
+
+233
+00:19:13,085 --> 00:19:14,278
+Be careful.
+
+234
+00:19:16,587 --> 00:19:20,182
+You, hitting on another man
+so soon after your husband died!
+
+235
+00:19:20,992 --> 00:19:22,153
+You're like a cat in heat!
+
+236
+00:19:25,564 --> 00:19:27,827
+Hey, Tora, watch out.
+
+237
+00:19:27,932 --> 00:19:29,559
+Yes.
+
+238
+00:19:29,701 --> 00:19:32,363
+Red, red, red pepper is so hot.
+
+239
+00:19:32,503 --> 00:19:33,834
+Heat, heat.
+
+240
+00:19:33,939 --> 00:19:35,337
+Tora, thanks for helping.
+
+241
+00:19:35,440 --> 00:19:38,034
+- Sure.
+- Sue, that's a bad cough.
+
+242
+00:19:38,176 --> 00:19:39,176
+- Are you okay?
+- Yes.
+
+243
+00:19:39,243 --> 00:19:41,734
+Didn't your husband have the same illness?
+
+244
+00:19:42,948 --> 00:19:47,681
+My shoulder hurts.
+I'd rather become sick and die.
+
+245
+00:19:47,786 --> 00:19:52,086
+Well, Mino and everyone,
+I'll take care of the rest of it.
+
+246
+00:19:52,223 --> 00:19:53,247
+Please take your baths.
+
+247
+00:19:53,392 --> 00:19:55,326
+Are you sure? Thank you.
+
+248
+00:19:55,426 --> 00:19:57,087
+I appreciate it.
+
+249
+00:19:57,229 --> 00:19:58,696
+It's so hot.
+
+250
+00:19:58,797 --> 00:20:02,392
+Sue. Take care.
+
+251
+00:20:34,932 --> 00:20:40,132
+I remember the sky
+I saw this afternoon.
+
+252
+00:20:40,271 --> 00:20:44,264
+Red, red, red pepper is so hot.
+
+253
+00:20:44,409 --> 00:20:45,409
+Heat, heat.
+
+254
+00:21:02,426 --> 00:21:03,586
+Asa.
+
+255
+00:21:04,630 --> 00:21:05,790
+Mother!
+
+256
+00:21:14,472 --> 00:21:16,337
+Is anything wrong with you?
+
+257
+00:21:16,474 --> 00:21:17,998
+You look pale.
+
+258
+00:21:18,143 --> 00:21:20,838
+I'm all right.
+
+259
+00:21:22,013 --> 00:21:25,073
+You've become really thin.
+
+260
+00:21:25,182 --> 00:21:27,151
+Your work is hard, isn't it?
+
+261
+00:21:27,286 --> 00:21:31,278
+It's hard. But I'm still young.
+
+262
+00:21:31,390 --> 00:21:32,857
+It's tough for you, isn't it?
+
+263
+00:21:34,358 --> 00:21:35,916
+I'm okay.
+
+264
+00:21:36,028 --> 00:21:37,153
+Look.
+
+265
+00:21:37,296 --> 00:21:39,321
+Eat some of these and get well.
+
+266
+00:21:39,463 --> 00:21:41,090
+Can I take this many?
+
+267
+00:21:42,200 --> 00:21:46,660
+We can't eat it every day,
+but sometimes we manage.
+
+268
+00:21:46,805 --> 00:21:48,170
+Thank you.
+
+269
+00:21:48,307 --> 00:21:51,333
+I will give some to the other girls.
+They'll be happy.
+
+270
+00:21:51,476 --> 00:21:53,876
+That would be nice.
+
+271
+00:21:55,681 --> 00:22:00,174
+Anyway, keep working hard,
+and you'll get promoted soon.
+
+272
+00:22:00,318 --> 00:22:02,809
+Take care, Mother.
+
+273
+00:22:04,855 --> 00:22:05,981
+Thank you.
+
+274
+00:22:08,393 --> 00:22:11,020
+I'll visit you again.
+
+275
+00:22:28,446 --> 00:22:30,038
+Sue.
+
+276
+00:22:30,182 --> 00:22:31,512
+How dare you steal them!
+
+277
+00:22:34,051 --> 00:22:36,144
+You sneak thief!
+
+278
+00:22:36,253 --> 00:22:37,811
+Please give her a break.
+
+279
+00:22:37,923 --> 00:22:41,153
+- Please.
+- Kame, stay away.
+
+280
+00:22:41,259 --> 00:22:43,385
+Hey! You must apologize to her.
+
+281
+00:22:43,528 --> 00:22:45,222
+- Hey!
+- Saiji.
+
+282
+00:23:05,049 --> 00:23:06,210
+You sneak thief.
+
+283
+00:23:07,551 --> 00:23:10,349
+Starting tomorrow, you'll work outside.
+
+284
+00:23:10,454 --> 00:23:13,423
+I can't let a dirty thief
+stay in the house!
+
+285
+00:23:14,558 --> 00:23:17,356
+I was wrong. I'm sorry. So sorry.
+
+286
+00:23:17,461 --> 00:23:18,587
+That's enough!
+
+287
+00:23:38,316 --> 00:23:40,807
+The village mayor is coming.
+
+288
+00:23:40,951 --> 00:23:43,647
+Ma'am, the mayor is coming.
+
+289
+00:23:46,290 --> 00:23:48,759
+Welcome, Mayor.
+
+290
+00:23:48,859 --> 00:23:50,986
+- Hey, Kame.
+- Please come this way.
+
+291
+00:23:51,128 --> 00:23:52,288
+Good.
+
+292
+00:23:55,133 --> 00:23:58,227
+Thanks for coming on such a hot day.
+
+293
+00:23:58,336 --> 00:24:00,634
+No problem.
+
+294
+00:24:00,771 --> 00:24:02,170
+Please.
+
+295
+00:24:02,307 --> 00:24:03,467
+Thank you.
+
+296
+00:24:12,517 --> 00:24:14,747
+Congratulations, my young master.
+
+297
+00:24:14,853 --> 00:24:18,016
+The village mayor came today
+to talk about your bride.
+
+298
+00:24:18,957 --> 00:24:19,957
+Congratulations.
+
+299
+00:24:21,992 --> 00:24:23,585
+You're jealous, aren't you?
+
+300
+00:24:25,163 --> 00:24:27,757
+Young master won't act so filthy any more!
+
+301
+00:24:27,865 --> 00:24:29,127
+Are you sure?
+
+302
+00:24:29,233 --> 00:24:30,427
+You idiot.
+
+303
+00:24:34,038 --> 00:24:36,097
+- Snake! Snake!
+- What happened?
+
+304
+00:24:36,907 --> 00:24:38,431
+Saiji, kill it.
+
+305
+00:24:38,542 --> 00:24:39,668
+Yes.
+
+306
+00:24:41,413 --> 00:24:43,278
+Please stop. Don't kill it.
+
+307
+00:24:43,381 --> 00:24:45,042
+Help it. Please help it.
+
+308
+00:24:46,050 --> 00:24:48,019
+- Please don't kill...
+- Stay away.
+
+309
+00:24:48,854 --> 00:24:50,014
+Please.
+
+310
+00:24:51,056 --> 00:24:52,956
+What's the meaning of this?
+
+311
+00:24:53,057 --> 00:24:55,151
+I feel so sorry for it.
+
+312
+00:24:56,928 --> 00:24:58,122
+It's ominous.
+
+313
+00:24:59,931 --> 00:25:02,490
+You know how important today is.
+
+314
+00:25:02,601 --> 00:25:05,161
+Are you trying to insult our Onuma family?
+
+315
+00:25:05,269 --> 00:25:07,500
+No, I'm not.
+
+316
+00:25:07,605 --> 00:25:09,073
+- I just...
+- No excuses!
+
+317
+00:25:09,207 --> 00:25:10,868
+Snake woman!
+
+318
+00:25:11,009 --> 00:25:13,170
+- Please forgive me.
+- Don't touch it!
+
+319
+00:25:15,346 --> 00:25:16,507
+Sue!
+
+320
+00:25:22,953 --> 00:25:26,548
+It's so ominous. Hey, bring salt!
+
+321
+00:25:26,691 --> 00:25:27,851
+- Salt!
+- Salt. Yes.
+
+322
+00:25:30,628 --> 00:25:31,822
+Get her out of here.
+
+323
+00:25:33,230 --> 00:25:34,391
+Hurry.
+
+324
+00:25:35,599 --> 00:25:36,657
+Go.
+
+325
+00:25:47,645 --> 00:25:49,340
+Lay her down now.
+
+326
+00:25:49,446 --> 00:25:50,879
+Are you okay?
+
+327
+00:25:55,386 --> 00:25:57,684
+It's terrible.
+We should call a doctor immediately.
+
+328
+00:25:57,788 --> 00:26:01,280
+You idiot.
+You don't have to call a doctor.
+
+329
+00:26:03,161 --> 00:26:04,559
+Sue.
+
+330
+00:26:04,663 --> 00:26:05,788
+Hang on.
+
+331
+00:26:09,401 --> 00:26:12,768
+It's a lot of fun.
+
+332
+00:26:12,903 --> 00:26:14,394
+If you cheat a geisha.
+
+333
+00:26:14,506 --> 00:26:16,186
+You'll have bad luck
+for seven generations.
+
+334
+00:26:17,509 --> 00:26:19,271
+Of course, it was fun.
+
+335
+00:26:19,411 --> 00:26:22,244
+You'll have bad luck,
+as they're all cats.
+
+336
+00:26:22,346 --> 00:26:25,645
+It was so fun to get a lot of watermelons.
+
+337
+00:26:27,352 --> 00:26:29,615
+I know, I know so much about it.
+
+338
+00:26:31,288 --> 00:26:33,814
+I knew everything from the beginning.
+
+339
+00:26:37,761 --> 00:26:41,892
+It's a beautiful day today.
+Congratulations.
+
+340
+00:26:42,933 --> 00:26:45,060
+What about me acting as a go-between?
+
+341
+00:26:45,170 --> 00:26:47,161
+Ideal son-in-law?
+
+342
+00:26:48,640 --> 00:26:51,234
+Thank you for everything.
+
+343
+00:26:51,343 --> 00:26:54,073
+Good. No problem?
+
+344
+00:26:55,212 --> 00:26:57,976
+Of course not.
+
+345
+00:26:58,115 --> 00:26:59,777
+Right, Masae?
+
+346
+00:26:59,884 --> 00:27:01,749
+It really is a wonderful offer.
+
+347
+00:27:01,853 --> 00:27:05,516
+If her lips are thick,
+
+348
+00:27:05,656 --> 00:27:08,648
+she is compassionate.
+
+349
+00:27:08,792 --> 00:27:12,125
+The relationship between husband and wife
+would be very deep.
+
+350
+00:27:12,230 --> 00:27:13,924
+Your young master is so sweet.
+
+351
+00:27:14,031 --> 00:27:17,432
+You'll dote on the bride.
+
+352
+00:27:17,535 --> 00:27:21,835
+Your ear seems stiff and turned-up.
+
+353
+00:27:21,972 --> 00:27:24,441
+It means you'll make a lot of money,
+
+354
+00:27:24,541 --> 00:27:27,169
+and your business will go well.
+
+355
+00:27:27,311 --> 00:27:30,769
+It's so lucky.
+
+356
+00:27:30,882 --> 00:27:33,715
+Do you guys know who I was?
+
+357
+00:27:33,852 --> 00:27:37,720
+I was a soldier in the
+Satsuma gun-fighters.
+
+358
+00:27:37,855 --> 00:27:39,653
+This is the proof.
+
+359
+00:27:39,758 --> 00:27:41,726
+This stuff here.
+
+360
+00:27:41,859 --> 00:27:44,327
+When I was in the gun-fighters...
+
+361
+00:27:50,734 --> 00:27:52,998
+I carried the gun like this.
+
+362
+00:27:54,838 --> 00:27:58,798
+What a lucky man...
+
+363
+00:27:58,910 --> 00:28:04,644
+is Mr. Wakamatsu.
+
+364
+00:28:04,749 --> 00:28:05,875
+Shoot!
+
+365
+00:28:21,865 --> 00:28:23,264
+Sue.
+
+366
+00:28:23,401 --> 00:28:24,698
+I brought you food.
+
+367
+00:28:24,803 --> 00:28:26,270
+Why don't you eat some?
+
+368
+00:28:27,105 --> 00:28:28,265
+Sue.
+
+369
+00:28:29,540 --> 00:28:31,201
+Asa.
+
+370
+00:28:31,308 --> 00:28:32,707
+What did you say?
+
+371
+00:28:32,810 --> 00:28:33,834
+Say it again.
+
+372
+00:28:33,944 --> 00:28:35,105
+Asa.
+
+373
+00:28:36,714 --> 00:28:43,119
+Whatever the weather,
+
+374
+00:28:43,253 --> 00:28:49,954
+I keep weaving...
+
+375
+00:28:51,229 --> 00:28:54,756
+Every night I have to work late.
+
+376
+00:28:54,898 --> 00:28:56,058
+I'm really exhausted.
+
+377
+00:28:57,769 --> 00:28:59,430
+What the hell are you talking about?
+
+378
+00:28:59,570 --> 00:29:01,903
+Stop complaining.
+Get back to work now!
+
+379
+00:29:03,842 --> 00:29:05,104
+Asa.
+
+380
+00:29:05,242 --> 00:29:06,300
+There's trouble!
+
+381
+00:29:06,443 --> 00:29:07,774
+Your mother is in trouble.
+
+382
+00:29:07,912 --> 00:29:09,310
+Hurry.
+
+383
+00:29:09,446 --> 00:29:11,073
+Come with me.
+
+384
+00:29:11,182 --> 00:29:12,479
+Where are you going?
+
+385
+00:29:12,616 --> 00:29:13,810
+You'd better come back soon.
+
+386
+00:29:15,019 --> 00:29:16,212
+Mother.
+
+387
+00:29:19,190 --> 00:29:20,384
+Mother.
+
+388
+00:29:22,326 --> 00:29:23,487
+Mother, are you all right?
+
+389
+00:29:24,962 --> 00:29:26,123
+Dead.
+
+390
+00:29:27,531 --> 00:29:29,328
+I'm going to join your father.
+
+391
+00:29:30,501 --> 00:29:31,934
+No.
+
+392
+00:29:32,036 --> 00:29:34,766
+Please don't die.
+
+393
+00:29:34,873 --> 00:29:36,465
+Sue.
+
+394
+00:29:36,607 --> 00:29:37,768
+What?
+
+395
+00:29:39,277 --> 00:29:40,437
+What did you say?
+
+396
+00:29:43,181 --> 00:29:44,341
+Asa.
+
+397
+00:29:46,384 --> 00:29:47,407
+Mother.
+
+398
+00:29:50,320 --> 00:29:51,344
+- Mother.
+- Sue.
+
+399
+00:29:51,489 --> 00:29:53,012
+- Mother.
+- Sue.
+
+400
+00:29:58,195 --> 00:29:59,321
+Sue!
+
+401
+00:30:10,575 --> 00:30:14,135
+Hey, I feel sorry for Sue.
+
+402
+00:30:14,244 --> 00:30:15,643
+Me, too.
+
+403
+00:30:15,747 --> 00:30:17,305
+Same here.
+
+404
+00:30:24,588 --> 00:30:27,022
+- You scared us.
+- Hey, what are you doing?
+
+405
+00:30:27,157 --> 00:30:28,215
+Stop!
+
+406
+00:30:28,358 --> 00:30:30,326
+Hey!
+
+407
+00:30:30,428 --> 00:30:31,622
+Don't!
+
+408
+00:30:34,332 --> 00:30:35,390
+Stop it.
+
+409
+00:30:35,532 --> 00:30:36,692
+Please.
+
+410
+00:30:48,011 --> 00:30:49,172
+Honey?
+
+411
+00:30:50,414 --> 00:30:51,575
+What's going on?
+
+412
+00:31:40,765 --> 00:31:42,926
+You're alone, finally.
+
+413
+00:31:44,969 --> 00:31:46,527
+I want to die.
+
+414
+00:31:49,606 --> 00:31:50,606
+I'd rather die.
+
+415
+00:31:53,478 --> 00:31:56,276
+You lost your mother and father.
+
+416
+00:31:56,413 --> 00:31:57,903
+I understand how you feel.
+
+417
+00:32:00,084 --> 00:32:01,813
+Hey, cheer up.
+
+418
+00:32:02,819 --> 00:32:03,980
+I'll be with you.
+
+419
+00:32:06,990 --> 00:32:09,459
+I heard that your mother
+was driven to her death.
+
+420
+00:32:13,998 --> 00:32:15,124
+Damn it.
+
+421
+00:32:16,601 --> 00:32:18,091
+If you keep working there...
+
+422
+00:32:20,038 --> 00:32:22,801
+Someday, I will get you out of that house.
+
+423
+00:32:24,442 --> 00:32:25,635
+I have a huge debt.
+
+424
+00:32:27,111 --> 00:32:28,751
+I don't know when I can get out of there.
+
+425
+00:32:29,446 --> 00:32:32,677
+Hey, whatever happens...
+
+426
+00:32:33,718 --> 00:32:34,844
+I will marry you.
+
+427
+00:32:40,223 --> 00:32:43,125
+When the summer holiday arrives,
+let's meet here.
+
+428
+00:33:03,681 --> 00:33:05,706
+Asa, I have something to tell you.
+
+429
+00:33:18,395 --> 00:33:21,558
+Asa, I need your help.
+
+430
+00:33:21,699 --> 00:33:25,327
+I want you to visit the wholesaler in town
+and give this letter to him.
+
+431
+00:33:25,435 --> 00:33:28,336
+Yes, but...
+
+432
+00:33:30,375 --> 00:33:32,365
+Don't worry about the old man.
+
+433
+00:33:32,509 --> 00:33:36,708
+Please start getting ready now so you
+don't have to come back late at night.
+
+434
+00:33:36,847 --> 00:33:38,246
+- Please.
+- Sure.
+
+435
+00:34:15,952 --> 00:34:17,181
+Please don't.
+
+436
+00:34:18,556 --> 00:34:20,079
+Shit.
+
+437
+00:34:20,224 --> 00:34:22,249
+Asa! Asa!
+
+438
+00:34:25,463 --> 00:34:26,725
+Please don't!
+
+439
+00:34:26,831 --> 00:34:28,025
+Stay quiet.
+
+440
+00:34:31,268 --> 00:34:32,292
+Please don't!
+
+441
+00:34:35,239 --> 00:34:36,398
+Wait.
+
+442
+00:34:40,577 --> 00:34:41,737
+Asa.
+
+443
+00:34:44,181 --> 00:34:45,546
+Please don't!
+
+444
+00:34:57,961 --> 00:34:59,121
+Idiot!
+
+445
+00:35:08,706 --> 00:35:09,900
+Asa.
+
+446
+00:35:24,889 --> 00:35:26,652
+Please don't.
+
+447
+00:35:26,791 --> 00:35:28,280
+Young master!
+
+448
+00:35:28,391 --> 00:35:30,154
+Asa. Asa.
+
+449
+00:35:30,293 --> 00:35:32,955
+Please don't do this. Please.
+
+450
+00:35:33,063 --> 00:35:34,257
+Asa.
+
+451
+00:36:36,226 --> 00:36:37,887
+- Asa!
+- Asa!
+
+452
+00:36:43,434 --> 00:36:46,231
+- Asa!
+- Asa!
+
+453
+00:36:50,141 --> 00:36:52,005
+- Asa!
+- Asa!
+
+454
+00:36:52,108 --> 00:36:54,668
+Hey! You go that way!
+
+455
+00:36:54,778 --> 00:36:56,336
+Kame, you go this way.
+
+456
+00:36:56,447 --> 00:37:01,077
+- Asa!
+- Asa!
+
+457
+00:37:10,728 --> 00:37:12,251
+Asa!
+
+458
+00:37:12,396 --> 00:37:13,420
+I found Asa!
+
+459
+00:37:14,498 --> 00:37:16,398
+- You found her?
+- We found her!
+
+460
+00:37:16,500 --> 00:37:17,898
+Asa! Asa!
+
+461
+00:37:18,802 --> 00:37:21,362
+Asa! Asa! Are you okay?
+
+462
+00:37:25,476 --> 00:37:26,909
+I guess she escaped.
+
+463
+00:37:27,010 --> 00:37:29,478
+Lock her in the shed for a few days.
+
+464
+00:37:29,614 --> 00:37:31,081
+- Yes.
+- It'll serve as a warning.
+
+465
+00:37:34,985 --> 00:37:36,748
+Takeo.
+
+466
+00:37:36,853 --> 00:37:38,980
+It's you who's responsible
+for failing to supervise.
+
+467
+00:37:39,123 --> 00:37:41,818
+That's why she escaped.
+You need a tight leash.
+
+468
+00:37:41,958 --> 00:37:43,118
+Yes.
+
+469
+00:38:13,490 --> 00:38:14,490
+Asa.
+
+470
+00:38:16,693 --> 00:38:19,992
+Whatever happens, I will marry you.
+
+471
+00:38:31,876 --> 00:38:33,605
+You have to hurry up.
+
+472
+00:38:33,710 --> 00:38:34,870
+- Hey, watch out!
+- Yes.
+
+473
+00:39:10,715 --> 00:39:12,842
+You've all done a fine job.
+
+474
+00:39:12,949 --> 00:39:15,918
+I'll give you a bonus.
+
+475
+00:39:17,521 --> 00:39:19,546
+- Tami.
+- Yes.
+
+476
+00:39:20,724 --> 00:39:22,487
+It's your day off today.
+
+477
+00:39:22,592 --> 00:39:24,059
+You can go anywhere you want.
+
+478
+00:39:28,766 --> 00:39:30,097
+- Mino.
+- Yes.
+
+479
+00:39:30,233 --> 00:39:31,929
+Thank you very much.
+
+480
+00:39:32,068 --> 00:39:34,333
+- Iku.
+- Yes.
+
+481
+00:39:34,438 --> 00:39:35,638
+- Thank you very much.
+- Yoshi.
+
+482
+00:39:36,740 --> 00:39:37,900
+Thank you very much.
+
+483
+00:39:38,041 --> 00:39:39,168
+- Fuku.
+- Yes.
+
+484
+00:39:40,710 --> 00:39:41,870
+- Thank you very much.
+- Saki.
+
+485
+00:39:43,780 --> 00:39:44,838
+Thank you very much.
+
+486
+00:39:44,949 --> 00:39:46,108
+- Ume.
+- Yes.
+
+487
+00:39:47,717 --> 00:39:49,344
+- Thank you very much.
+- Tome.
+
+488
+00:39:49,452 --> 00:39:50,784
+Yes.
+
+489
+00:39:50,920 --> 00:39:52,080
+- Thank you very much.
+- Haru.
+
+490
+00:39:52,222 --> 00:39:53,849
+Yes.
+
+491
+00:39:53,958 --> 00:39:55,035
+- Thank you very much.
+- Sayo.
+
+492
+00:39:55,059 --> 00:39:56,458
+Yes.
+
+493
+00:39:56,594 --> 00:39:57,594
+Thank you very much.
+
+494
+00:40:03,166 --> 00:40:04,724
+Asa.
+
+495
+00:40:04,835 --> 00:40:06,097
+You stay.
+
+496
+00:40:07,771 --> 00:40:10,706
+After all, you might escape again, right?
+
+497
+00:40:11,608 --> 00:40:15,635
+What kind of look is that?
+
+498
+00:40:15,780 --> 00:40:20,217
+First of all, we can't afford
+to give you a break,
+
+499
+00:40:20,317 --> 00:40:24,481
+as you're only a new worker here.
+
+500
+00:40:24,621 --> 00:40:26,088
+Do you understand that?
+
+501
+00:40:26,190 --> 00:40:27,885
+Go and clean up the mosquito net.
+
+502
+00:40:28,958 --> 00:40:30,721
+Yes.
+
+503
+00:40:30,827 --> 00:40:35,458
+When you're done with that,
+polish all the lamps.
+
+504
+00:40:35,599 --> 00:40:36,599
+Yes.
+
+505
+00:40:45,376 --> 00:40:46,638
+Asa.
+
+506
+00:40:46,777 --> 00:40:47,936
+Be patient.
+
+507
+00:40:55,518 --> 00:40:56,518
+Asa.
+
+508
+00:40:56,619 --> 00:40:58,416
+Don't worry. Okay?
+
+509
+00:40:59,556 --> 00:41:01,353
+Forget about what that old hag said.
+
+510
+00:41:01,492 --> 00:41:02,981
+Do you know what I mean?
+
+511
+00:41:03,126 --> 00:41:04,458
+Now close your eyes.
+
+512
+00:41:04,561 --> 00:41:06,028
+I'll put you under hypnosis.
+
+513
+00:41:06,163 --> 00:41:10,099
+Are you ready?
+Look this way. Close your eyes.
+
+514
+00:41:10,201 --> 00:41:11,634
+Now you're ready.
+
+515
+00:41:11,735 --> 00:41:17,195
+Good. Hypnosis will disentangle
+the threads of your mind.
+
+516
+00:41:17,340 --> 00:41:21,436
+When I feel jealous,
+I have a hard time...
+
+517
+00:41:22,579 --> 00:41:23,603
+- Kame!
+- Yes.
+
+518
+00:41:23,713 --> 00:41:27,445
+When I feel jealous,
+I have a hard time.
+
+519
+00:42:19,869 --> 00:42:21,029
+Are you Sutematsu?
+
+520
+00:42:22,639 --> 00:42:23,766
+Yes.
+
+521
+00:42:28,878 --> 00:42:30,607
+Asa won't come.
+
+522
+00:42:31,748 --> 00:42:33,375
+What?
+
+523
+00:42:33,483 --> 00:42:35,918
+I'm sorry, but they didn't let her out.
+
+524
+00:42:36,052 --> 00:42:37,052
+Why?
+
+525
+00:42:38,422 --> 00:42:42,188
+When she left for the town on an errand,
+she tried to escape.
+
+526
+00:42:42,293 --> 00:42:44,385
+What? Escape?
+
+527
+00:42:48,065 --> 00:42:49,362
+That's ludicrous.
+
+528
+00:42:49,465 --> 00:42:53,266
+She tried to escape
+without telling me anything?
+
+529
+00:42:53,403 --> 00:42:56,429
+I'm not sure if I should say this.
+
+530
+00:43:00,443 --> 00:43:01,723
+Please tell me whatever you can.
+
+531
+00:43:04,114 --> 00:43:05,603
+This occurred to me afterward.
+
+532
+00:43:07,784 --> 00:43:11,379
+It was the day the lightning hit.
+
+533
+00:43:11,487 --> 00:43:15,082
+When Asa went on an errand,
+I saw the young master.
+
+534
+00:43:15,192 --> 00:43:19,594
+He was secretly heading
+for the mountain from the back door.
+
+535
+00:43:19,697 --> 00:43:21,631
+- Are you sure?
+- Yes, I'm sure.
+
+536
+00:43:23,467 --> 00:43:24,661
+From that day on,
+
+537
+00:43:24,802 --> 00:43:27,669
+Asa stopped talking,
+as if she became another person.
+
+538
+00:43:29,340 --> 00:43:30,829
+And then,
+
+539
+00:43:30,974 --> 00:43:33,170
+later that night, when we brought her back,
+
+540
+00:43:33,309 --> 00:43:37,336
+Asa squinted at the young master
+with such a terrible look.
+
+541
+00:43:38,648 --> 00:43:40,844
+I might be wrong.
+
+542
+00:43:49,827 --> 00:43:54,787
+Being carried in a palanquin,
+
+543
+00:43:54,898 --> 00:43:59,130
+I felt as if I had become a monkey.
+
+544
+00:43:59,235 --> 00:44:03,934
+- I was sold somewhere.
+- Hey, dance with me!
+
+545
+00:44:04,041 --> 00:44:07,670
+So I work in the rest of my life.
+
+546
+00:44:32,335 --> 00:44:33,461
+Please don't, young master.
+
+547
+00:44:35,105 --> 00:44:39,007
+- Asa.
+- Please don't.
+
+548
+00:44:41,411 --> 00:44:42,411
+Stay quiet.
+
+549
+00:44:45,949 --> 00:44:47,313
+Ouch! Damn it.
+
+550
+00:44:59,096 --> 00:45:00,722
+Please don't.
+
+551
+00:45:00,864 --> 00:45:03,423
+Asa, you're ruined.
+
+552
+00:45:04,934 --> 00:45:06,424
+You can't get married to Sutematsu.
+
+553
+00:45:07,905 --> 00:45:10,499
+You're not a virgin anymore.
+
+554
+00:45:10,606 --> 00:45:11,766
+You're ruined.
+
+555
+00:45:15,411 --> 00:45:16,571
+Shit.
+
+556
+00:45:19,483 --> 00:45:20,677
+Asa.
+
+557
+00:45:21,751 --> 00:45:23,116
+Wait.
+
+558
+00:45:23,253 --> 00:45:24,845
+Asa. Asa.
+
+559
+00:45:28,092 --> 00:45:30,083
+- Asa.
+- No!
+
+560
+00:45:37,601 --> 00:45:39,193
+Let's go, Mother.
+
+561
+00:45:39,302 --> 00:45:41,532
+Hurry, Mother.
+
+562
+00:45:48,144 --> 00:45:51,773
+Hey, baby, have a good night's sleep.
+
+563
+00:45:52,349 --> 00:45:57,309
+You'll enjoy staying at Shinagawa Inn.
+
+564
+00:46:27,483 --> 00:46:28,643
+Asa.
+
+565
+00:46:34,190 --> 00:46:36,818
+That day, when the lightning hit...
+
+566
+00:46:38,728 --> 00:46:40,320
+Tell me what really happened.
+
+567
+00:46:40,463 --> 00:46:41,623
+Hey.
+
+568
+00:46:41,731 --> 00:46:43,460
+Tell me the truth. Honestly.
+
+569
+00:46:44,501 --> 00:46:46,162
+The guy who just left, did he...
+
+570
+00:46:50,907 --> 00:46:52,034
+Son of a bitch.
+
+571
+00:46:55,978 --> 00:47:00,938
+Why the hell didn't you resist the guy,
+the goddamn son of a bitch? Why?
+
+572
+00:47:03,719 --> 00:47:06,951
+I asked young master not to do it.
+
+573
+00:47:09,425 --> 00:47:10,722
+I hate him.
+
+574
+00:47:10,860 --> 00:47:12,556
+I hate young master.
+
+575
+00:47:12,695 --> 00:47:13,992
+Idiot.
+
+576
+00:47:14,097 --> 00:47:15,689
+What young master?
+
+577
+00:47:15,833 --> 00:47:17,664
+What landlord?
+
+578
+00:47:17,768 --> 00:47:19,326
+You can't call him that.
+
+579
+00:47:22,505 --> 00:47:24,370
+You should have killed him.
+
+580
+00:47:24,507 --> 00:47:28,705
+Why didn't you resist
+until you really killed him?
+
+581
+00:47:33,250 --> 00:47:36,650
+I can't live any longer.
+
+582
+00:47:36,753 --> 00:47:38,687
+I'd rather die.
+
+583
+00:47:43,025 --> 00:47:45,858
+Hey, look at them. So hot!
+
+584
+00:47:45,963 --> 00:47:48,693
+A thousand degrees hot.
+
+585
+00:47:48,798 --> 00:47:51,164
+This is called "rabu-scene", isn't it?
+
+586
+00:47:51,268 --> 00:47:54,327
+No. "Labu-scene."
+
+587
+00:47:54,438 --> 00:47:57,498
+Love scene in English.
+
+588
+00:47:57,608 --> 00:47:59,166
+Love scene.
+
+589
+00:47:59,275 --> 00:48:00,765
+Hey, Sutematsu.
+
+590
+00:48:00,911 --> 00:48:03,606
+You have to buy me a drink.
+You promised me that.
+
+591
+00:48:03,746 --> 00:48:06,943
+Come and do your love scene later at night.
+
+592
+00:48:07,083 --> 00:48:08,243
+Let's go.
+
+593
+00:48:09,786 --> 00:48:14,621
+- Love scene!
+- Love scene!
+
+594
+00:48:20,664 --> 00:48:21,961
+Love scene! So hot!
+
+595
+00:48:32,409 --> 00:48:33,568
+Asa.
+
+596
+00:48:35,244 --> 00:48:36,404
+Asa.
+
+597
+00:49:20,791 --> 00:49:21,951
+Mother.
+
+598
+00:49:23,726 --> 00:49:24,920
+I'm ruined.
+
+599
+00:49:26,663 --> 00:49:28,460
+I feel sorry for Sutematsu.
+
+600
+00:49:33,235 --> 00:49:34,964
+Everyone's dead.
+
+601
+00:49:36,706 --> 00:49:38,971
+I can't live anymore.
+
+602
+00:49:41,143 --> 00:49:42,167
+What can I do?
+
+603
+00:49:43,713 --> 00:49:44,840
+Come here.
+
+604
+00:49:46,083 --> 00:49:47,516
+If you come, you'll feel better.
+
+605
+00:49:49,753 --> 00:49:51,721
+If you come, you won't suffer.
+
+606
+00:50:20,851 --> 00:50:22,318
+What happened?
+
+607
+00:50:22,418 --> 00:50:23,418
+It's scary.
+
+608
+00:50:27,456 --> 00:50:28,821
+What's going on, Kamekichi?
+
+609
+00:50:29,793 --> 00:50:31,226
+- Can you hear that?
+- What?
+
+610
+00:50:31,360 --> 00:50:33,556
+- Can you hear that?
+- What can you hear?
+
+611
+00:50:33,697 --> 00:50:35,425
+You're scared like a girl.
+
+612
+00:50:35,565 --> 00:50:37,726
+- It's scary!
+- You're a coward.
+
+613
+00:50:37,867 --> 00:50:39,335
+Are you really a man?
+
+614
+00:50:47,309 --> 00:50:49,539
+- I'm scared!
+- Be quiet.
+
+615
+00:50:50,813 --> 00:50:54,681
+I went to the toilet outside just now.
+
+616
+00:50:55,619 --> 00:50:57,553
+- And...
+- And?
+
+617
+00:50:57,653 --> 00:51:01,385
+And something tripped me.
+
+618
+00:51:01,490 --> 00:51:02,514
+What was that?
+
+619
+00:51:02,626 --> 00:51:05,254
+It was too dark to see it clearly.
+
+620
+00:51:06,295 --> 00:51:08,456
+It was squishy, something squishy.
+
+621
+00:51:08,597 --> 00:51:10,190
+- Squishy?
+- Yes.
+
+622
+00:51:10,300 --> 00:51:14,066
+When I looked carefully,
+it seemed like a human being.
+
+623
+00:51:14,170 --> 00:51:16,866
+- A woman!
+- Woman? Really?
+
+624
+00:51:16,972 --> 00:51:19,032
+You're kidding again, Kame?
+
+625
+00:51:19,141 --> 00:51:20,233
+It's true.
+
+626
+00:51:20,342 --> 00:51:22,777
+So I asked, "Who are you?"
+
+627
+00:51:22,913 --> 00:51:25,210
+But she didn't reply.
+
+628
+00:51:34,824 --> 00:51:38,056
+Do you remember
+the newspaper article sometime ago?
+
+629
+00:51:38,161 --> 00:51:40,595
+About the girl who shaved her hair,
+cut her throat,
+
+630
+00:51:40,697 --> 00:51:42,494
+and tried to commit suicide?
+
+631
+00:51:42,632 --> 00:51:44,566
+The girl was like seventeen years old.
+
+632
+00:51:44,668 --> 00:51:46,135
+She was deceived by some guy.
+
+633
+00:51:46,268 --> 00:51:47,929
+She was pregnant.
+
+634
+00:51:48,038 --> 00:51:50,972
+She cut her throat with the razor,
+but she couldn't kill herself.
+
+635
+00:51:51,108 --> 00:51:54,805
+The blood was pouring from her cut throat!
+
+636
+00:51:58,681 --> 00:51:59,909
+Hey.
+
+637
+00:52:00,016 --> 00:52:01,244
+Asa isn't here.
+
+638
+00:52:01,351 --> 00:52:02,510
+- Asa?
+- Yes.
+
+639
+00:52:21,137 --> 00:52:22,969
+Takeo?
+
+640
+00:52:23,072 --> 00:52:24,335
+Takeo.
+
+641
+00:52:24,474 --> 00:52:25,963
+What's going on?
+
+642
+00:52:26,076 --> 00:52:28,340
+- Snake!
+- Snake?
+
+643
+00:52:28,478 --> 00:52:29,604
+There is no snake.
+
+644
+00:52:32,014 --> 00:52:33,710
+You're half-asleep like a kid.
+
+645
+00:52:44,427 --> 00:52:46,019
+What the hell?
+
+646
+00:52:46,163 --> 00:52:47,221
+Rats again?
+
+647
+00:52:49,865 --> 00:52:51,025
+Damn it.
+
+648
+00:53:37,447 --> 00:53:39,244
+Asa.
+
+649
+00:53:39,382 --> 00:53:41,849
+Asa. Asa.
+
+650
+00:53:53,896 --> 00:53:55,056
+Who's there?
+
+651
+00:55:10,373 --> 00:55:12,637
+Asa!
+
+652
+00:55:12,742 --> 00:55:14,937
+Asa! Asa!
+
+653
+00:55:31,193 --> 00:55:32,456
+The bride is coming!
+
+654
+00:55:32,561 --> 00:55:33,721
+Come on!
+
+655
+00:56:17,907 --> 00:56:19,067
+You look really beautiful.
+
+656
+00:56:30,719 --> 00:56:31,879
+Takeo?
+
+657
+00:56:33,822 --> 00:56:35,119
+Let's go to the ceremony.
+
+658
+00:56:39,963 --> 00:56:44,798
+What a lucky man is Mr. Onuma.
+
+659
+00:56:52,307 --> 00:56:56,574
+What a lucky man.
+
+660
+00:56:56,679 --> 00:57:00,911
+You'll prosper increasingly...
+
+661
+00:57:01,016 --> 00:57:04,782
+in the future.
+
+662
+00:57:12,094 --> 00:57:16,588
+What a lucky man...
+
+663
+00:57:16,699 --> 00:57:23,070
+is Mr. Onuma.
+
+664
+00:57:27,811 --> 00:57:34,682
+You'll prosper increasingly in the future.
+
+665
+00:57:44,393 --> 00:57:46,293
+Hey, where the hell do you think you're...
+
+666
+00:57:47,329 --> 00:57:48,956
+Stop him!
+
+667
+00:57:51,300 --> 00:57:54,134
+You did a terrible thing to Asa!
+I'll beat you to death!
+
+668
+00:57:54,237 --> 00:57:56,204
+What the hell are you talking about?
+
+669
+00:57:56,338 --> 00:57:57,338
+Get out of here!
+
+670
+00:57:57,474 --> 00:57:59,533
+You bastard!
+What the hell are you doing?
+
+671
+00:58:02,978 --> 00:58:04,138
+Sutematsu!
+
+672
+00:58:05,981 --> 00:58:08,211
+- Come any closer and I'll kill you.
+- Sutematsu, don't!
+
+673
+00:58:14,858 --> 00:58:16,018
+Stop him!
+
+674
+00:58:20,864 --> 00:58:22,023
+Hold him.
+
+675
+00:58:26,101 --> 00:58:27,568
+You can't do it.
+
+676
+00:58:27,704 --> 00:58:29,068
+Damn it!
+
+677
+00:58:31,407 --> 00:58:32,567
+This way!
+
+678
+00:58:38,447 --> 00:58:39,641
+Where did he go?
+
+679
+00:58:41,918 --> 00:58:43,681
+Damn it.
+
+680
+00:58:43,786 --> 00:58:45,650
+- You guys search that way.
+- Yes, sir.
+
+681
+00:58:45,755 --> 00:58:47,382
+We'll go this way.
+
+682
+00:58:47,523 --> 00:58:48,650
+Come, hurry!
+
+683
+00:58:54,063 --> 00:58:55,394
+Matsugoro.
+
+684
+00:58:55,532 --> 00:58:58,763
+Your son forgot
+that he was just a tenant farmer.
+
+685
+00:58:58,902 --> 00:59:00,494
+He put up a fight with me.
+
+686
+00:59:00,603 --> 00:59:02,900
+I'm so sorry for what my son did.
+
+687
+00:59:04,740 --> 00:59:06,173
+He escaped into the mountains.
+
+688
+00:59:07,876 --> 00:59:09,936
+- Please forgive us.
+- Shut up!
+
+689
+00:59:10,079 --> 00:59:12,707
+Police officers,
+please comb the mountains.
+
+690
+00:59:12,815 --> 00:59:15,340
+- We'll arrange it right away.
+- Please find him.
+
+691
+00:59:15,451 --> 00:59:16,918
+- Landlord.
+- Shut up!
+
+692
+00:59:17,052 --> 00:59:19,384
+You guys look for him
+at the base of the mountain.
+
+693
+00:59:19,489 --> 00:59:21,129
+- Yes, sir.
+- Please forgive us, landlord!
+
+694
+00:59:22,057 --> 00:59:23,684
+Landlord!
+
+695
+00:59:23,793 --> 00:59:25,784
+Hurry!
+
+696
+00:59:27,597 --> 00:59:29,064
+Come this way!
+
+697
+01:00:08,538 --> 01:00:10,664
+The crazy man from last
+night, was he caught?
+
+698
+01:00:10,806 --> 01:00:12,398
+No, not yet.
+
+699
+01:00:14,043 --> 01:00:17,068
+It was a special day for you.
+
+700
+01:00:18,815 --> 01:00:20,338
+You were frightened, weren't you?
+
+701
+01:00:20,483 --> 01:00:22,951
+- Yes.
+- Thank you.
+
+702
+01:00:24,519 --> 01:00:26,351
+It's unjustified resentment.
+
+703
+01:00:26,489 --> 01:00:29,423
+Takeo didn't do anything wrong.
+
+704
+01:00:31,327 --> 01:00:33,420
+What's wrong?
+
+705
+01:00:46,242 --> 01:00:48,039
+Here you go.
+
+706
+01:00:48,177 --> 01:00:50,144
+I don't want it anymore.
+Take it away.
+
+707
+01:00:50,246 --> 01:00:52,009
+But you should eat.
+
+708
+01:00:52,148 --> 01:00:54,708
+I told you I didn't want it!
+Didn't you hear that?
+
+709
+01:00:58,820 --> 01:01:02,621
+Your mother seemed very terrified.
+
+710
+01:01:03,860 --> 01:01:04,884
+I'm scared.
+
+711
+01:01:06,094 --> 01:01:09,826
+Well, she was just nervous.
+Don't worry.
+
+712
+01:01:09,931 --> 01:01:11,455
+She will get better soon.
+
+713
+01:01:11,567 --> 01:01:14,400
+- Kinu, come here now.
+- Yes.
+
+714
+01:01:23,045 --> 01:01:24,307
+You've gotten so tense.
+
+715
+01:01:25,882 --> 01:01:27,349
+You're so cute.
+
+716
+01:01:30,018 --> 01:01:31,178
+You smell good.
+
+717
+01:01:41,364 --> 01:01:43,059
+What's the matter?
+
+718
+01:01:46,202 --> 01:01:47,362
+You...
+
+719
+01:01:51,974 --> 01:01:53,669
+Young master.
+
+720
+01:01:53,775 --> 01:01:55,265
+Please don't do this.
+
+721
+01:01:55,411 --> 01:01:57,106
+Please don't do this to me.
+
+722
+01:02:00,282 --> 01:02:02,409
+Young master,
+
+723
+01:02:02,552 --> 01:02:04,383
+please don't do this to me.
+
+724
+01:02:05,722 --> 01:02:06,722
+Darling!
+
+725
+01:02:36,018 --> 01:02:40,387
+Takeo, please stop acting
+like a new bridegroom,
+
+726
+01:02:40,489 --> 01:02:42,252
+and start working harder.
+
+727
+01:02:51,367 --> 01:02:53,426
+What are you doing?
+
+728
+01:02:53,536 --> 01:02:54,628
+She is a snake!
+
+729
+01:02:54,771 --> 01:02:57,672
+Snake woman! You!
+
+730
+01:02:57,806 --> 01:02:58,806
+Father!
+
+731
+01:02:58,940 --> 01:03:01,101
+Takeo. Don't get rough with her.
+
+732
+01:03:01,210 --> 01:03:02,210
+Let me go!
+
+733
+01:03:02,311 --> 01:03:04,506
+Saru? Kame? Is anyone near here?
+
+734
+01:03:04,646 --> 01:03:06,114
+You snake!
+
+735
+01:03:06,215 --> 01:03:07,477
+Anyone?
+
+736
+01:03:07,617 --> 01:03:11,109
+Shit! Snake!
+
+737
+01:05:22,418 --> 01:05:23,749
+Kinu.
+
+738
+01:05:23,853 --> 01:05:25,980
+I'm not scared anymore.
+
+739
+01:05:26,922 --> 01:05:28,947
+I'm fine with you being some monster.
+
+740
+01:05:29,090 --> 01:05:30,955
+Don't tell me something so terrible.
+
+741
+01:05:31,092 --> 01:05:33,721
+Please don't do things like that anymore!
+
+742
+01:05:33,829 --> 01:05:36,297
+Otherwise,
+
+743
+01:05:36,431 --> 01:05:38,331
+I'll return to my parents' place.
+
+744
+01:05:38,467 --> 01:05:40,434
+Sorry. I apologize.
+
+745
+01:05:42,304 --> 01:05:44,329
+Is your burn all right?
+
+746
+01:05:44,472 --> 01:05:48,067
+Yes. But it's itchy.
+
+747
+01:05:49,844 --> 01:05:51,436
+- Would you scratch it?
+- Sure.
+
+748
+01:05:54,115 --> 01:05:55,115
+- Is it here?
+- Yes.
+
+749
+01:06:11,967 --> 01:06:15,096
+Honey, are you okay? Honey!
+
+750
+01:06:37,726 --> 01:06:41,025
+- Help!
+- A snake!
+
+751
+01:06:41,163 --> 01:06:42,391
+Please don't!
+
+752
+01:06:43,365 --> 01:06:44,559
+Help!
+
+753
+01:06:44,699 --> 01:06:46,826
+- Hey, what's going on?
+- Anybody?
+
+754
+01:06:49,038 --> 01:06:51,233
+- Anybody?
+- Please help me!
+
+755
+01:06:51,373 --> 01:06:53,739
+- Hey! Is anybody here?
+- What are you doing to me?
+
+756
+01:06:53,876 --> 01:06:55,400
+Hang on, young master.
+
+757
+01:06:55,543 --> 01:06:58,011
+- Let me go!
+- Young master!
+
+758
+01:06:58,114 --> 01:06:59,206
+Young master!
+
+759
+01:07:01,416 --> 01:07:02,543
+What are you doing?
+
+760
+01:07:06,121 --> 01:07:09,056
+I'll kill anybody who gets in my way.
+
+761
+01:07:47,496 --> 01:07:48,519
+Young master.
+
+762
+01:07:50,065 --> 01:07:51,293
+Please don't do this.
+
+763
+01:08:22,965 --> 01:08:24,454
+Please don't do this.
+
+764
+01:08:26,202 --> 01:08:27,260
+Young master.
+
+765
+01:08:28,671 --> 01:08:30,570
+- Please don't do this.
+- Help me.
+
+766
+01:08:32,173 --> 01:08:33,640
+Please don't do this to me.
+
+767
+01:08:35,444 --> 01:08:36,444
+Young master.
+
+768
+01:08:38,780 --> 01:08:39,780
+Please don't do this.
+
+769
+01:08:41,216 --> 01:08:42,274
+Please don't do this.
+
+770
+01:08:44,220 --> 01:08:45,278
+Young master.
+
+771
+01:08:46,889 --> 01:08:48,288
+Please don't do this to me.
+
+772
+01:09:21,990 --> 01:09:23,822
+It's an order from the police commander.
+
+773
+01:09:23,926 --> 01:09:26,520
+Please come to headquarters immediately.
+
+774
+01:09:26,662 --> 01:09:28,061
+That's it.
+
+775
+01:09:29,864 --> 01:09:32,958
+Police commander?
+What good is the police?
+
+776
+01:09:33,068 --> 01:09:35,002
+It's just plain rude. Go.
+
+777
+01:09:35,904 --> 01:09:37,064
+Yes, sir.
+
+778
+01:10:30,391 --> 01:10:31,449
+Landlord.
+
+779
+01:10:31,594 --> 01:10:34,926
+Even if I have to eat dirt,
+I'll pay you back.
+
+780
+01:10:42,404 --> 01:10:43,632
+Commander.
+
+781
+01:10:43,771 --> 01:10:46,069
+How can you believe these rumors?
+
+782
+01:10:48,644 --> 01:10:52,045
+Mr. Onuma, why don't we talk quietly?
+
+783
+01:10:52,146 --> 01:10:53,613
+It's rude.
+
+784
+01:10:53,748 --> 01:10:55,545
+If you're acting like that, Commander,
+
+785
+01:10:55,650 --> 01:10:58,586
+I will ask the prefectural
+governor to fire you.
+
+786
+01:10:58,686 --> 01:11:01,780
+We're just asking you,
+in compliance with the law.
+
+787
+01:11:03,024 --> 01:11:05,219
+I want you to answer my questions.
+
+788
+01:11:05,327 --> 01:11:06,487
+What good is the police?
+
+789
+01:11:06,628 --> 01:11:08,619
+Don't patronize me,
+bragging about law and order.
+
+790
+01:11:10,832 --> 01:11:15,792
+First of all, you reported
+that your son died of illness.
+
+791
+01:11:17,171 --> 01:11:18,900
+I also heard that he committed suicide.
+
+792
+01:11:19,007 --> 01:11:20,635
+That's ridiculous.
+
+793
+01:11:20,775 --> 01:11:24,268
+The doctor proved that
+he died of heart failure.
+
+794
+01:11:24,380 --> 01:11:27,315
+Regarding that,
+I need him to come here as a witness.
+
+795
+01:11:28,317 --> 01:11:29,443
+Commander.
+
+796
+01:11:30,551 --> 01:11:32,246
+Are you interrogating me?
+
+797
+01:11:32,354 --> 01:11:35,914
+Not at all. But...
+
+798
+01:11:36,024 --> 01:11:38,288
+I'm asking you in person, as a commander.
+
+799
+01:11:38,394 --> 01:11:40,862
+I have nothing to hide.
+
+800
+01:11:42,331 --> 01:11:46,199
+Summoning me here!
+You won't get away with it.
+
+801
+01:11:47,903 --> 01:11:52,363
+Second, you reported that Yasuke's wife
+died of lung disease.
+
+802
+01:11:52,507 --> 01:11:54,372
+It was lung disease.
+
+803
+01:11:54,510 --> 01:11:56,637
+All of her ancestors died of lung disease.
+
+804
+01:11:57,746 --> 01:12:01,806
+The death of one or two tenant farmers
+has nothing to do with me.
+
+805
+01:12:01,917 --> 01:12:04,681
+So you insist that you have
+nothing to do with it?
+
+806
+01:12:04,819 --> 01:12:07,117
+They were working for you.
+
+807
+01:12:08,489 --> 01:12:09,684
+She died in your house.
+
+808
+01:12:11,359 --> 01:12:14,351
+Do you think you can
+take their lives so lightly?
+
+809
+01:12:16,398 --> 01:12:17,956
+Commander.
+
+810
+01:12:18,067 --> 01:12:19,193
+Your point is...
+
+811
+01:12:20,569 --> 01:12:22,628
+you're doubtful about
+the cause of Asa's death.
+
+812
+01:12:24,506 --> 01:12:26,838
+You're not sure about why Yasuke died.
+
+813
+01:12:26,942 --> 01:12:28,466
+You're suspicious of me, aren't you?
+
+814
+01:12:30,511 --> 01:12:33,241
+The lives of one or two tenant farmers.
+
+815
+01:12:33,381 --> 01:12:35,212
+They're the same as worms.
+
+816
+01:12:35,350 --> 01:12:37,181
+Worms wriggling in the rice field.
+
+817
+01:12:43,559 --> 01:12:46,323
+- What the hell?
+- Mr. Onuma!
+
+818
+01:12:46,427 --> 01:12:48,327
+- What's the matter with you?
+- Commander!
+
+819
+01:12:48,430 --> 01:12:49,920
+Damn it!
+
+820
+01:12:50,064 --> 01:12:52,055
+Mr. Onuma! What happened to you?
+
+821
+01:13:14,122 --> 01:13:16,420
+I know we can't be together.
+
+822
+01:13:16,557 --> 01:13:18,548
+Though I want to say good-bye to you.
+
+823
+01:13:38,613 --> 01:13:41,081
+Why doesn't one of us
+try acting as a medium?
+
+824
+01:13:41,917 --> 01:13:43,316
+Any volunteers?
+
+825
+01:13:43,452 --> 01:13:45,420
+Who do you think can do it?
+
+826
+01:13:45,520 --> 01:13:48,148
+I think Kame can do it.
+
+827
+01:13:48,289 --> 01:13:50,554
+- Right.
+- Kame can do it.
+
+828
+01:13:51,527 --> 01:13:52,926
+You can do it, Kame.
+
+829
+01:13:53,028 --> 01:13:54,222
+No, I can't.
+
+830
+01:13:54,328 --> 01:13:55,625
+I'm scared.
+
+831
+01:13:55,764 --> 01:13:58,163
+If I act as a medium,
+dead people appear, right?
+
+832
+01:13:58,300 --> 01:13:59,460
+No, I don't want to.
+
+833
+01:13:59,600 --> 01:14:01,465
+Kame, you're a man, aren't you?
+
+834
+01:14:01,603 --> 01:14:03,969
+You can't use hypnosis now!
+
+835
+01:14:04,105 --> 01:14:07,768
+- Do it! Do it!
+- Please don't.
+
+836
+01:14:13,481 --> 01:14:14,813
+Excuse me, priestess.
+
+837
+01:14:14,949 --> 01:14:17,612
+I've used hypnosis. Can I do it?
+
+838
+01:14:18,787 --> 01:14:22,314
+This will be "Hypnosis versus the Medium"!
+
+839
+01:14:23,625 --> 01:14:24,649
+Hey, Kinjo! Kinjo!
+
+840
+01:14:28,063 --> 01:14:29,859
+Please begin.
+
+841
+01:14:29,997 --> 01:14:33,091
+I know we can't be together.
+
+842
+01:14:33,202 --> 01:14:35,762
+Though I want to say good-bye to you.
+
+843
+01:15:00,162 --> 01:15:02,130
+It's coming! It's coming!
+
+844
+01:15:03,664 --> 01:15:06,155
+I'm begging you.
+
+845
+01:15:06,268 --> 01:15:12,332
+My soul becomes like this.
+Please don't forget about me.
+
+846
+01:15:12,440 --> 01:15:19,403
+When you can finally see
+me, please talk to me.
+
+847
+01:15:23,851 --> 01:15:25,376
+Young master.
+
+848
+01:15:25,520 --> 01:15:27,886
+Please don't do this.
+
+849
+01:15:28,023 --> 01:15:29,581
+I can't live anymore.
+
+850
+01:15:29,725 --> 01:15:31,158
+That's Asa's voice.
+
+851
+01:15:31,260 --> 01:15:32,351
+- Really?
+- Asa?
+
+852
+01:15:35,130 --> 01:15:37,427
+I want to die.
+
+853
+01:15:37,565 --> 01:15:39,533
+Asa.
+
+854
+01:15:39,635 --> 01:15:43,365
+Why did you die, Asa?
+
+855
+01:15:49,610 --> 01:15:52,045
+- I'm scared.
+- No! It's creepy!
+
+856
+01:17:05,386 --> 01:17:07,081
+- It's a snake!
+- A snake?
+
+857
+01:17:10,792 --> 01:17:11,952
+Shut up!
+
+858
+01:17:13,395 --> 01:17:14,862
+Listen up, everyone.
+
+859
+01:17:14,997 --> 01:17:19,365
+When dawn breaks, burn away
+all the mountain forest around here.
+
+860
+01:17:20,735 --> 01:17:21,760
+Burn the snakes.
+
+861
+01:17:23,005 --> 01:17:24,336
+Kill them all!
+
+862
+01:17:29,176 --> 01:17:30,336
+Shut up!
+
+863
+01:17:36,385 --> 01:17:37,646
+Masae. Masae!
+
+864
+01:17:39,820 --> 01:17:41,788
+- Saiji.
+- Yes, sir.
+
+865
+01:17:41,890 --> 01:17:47,157
+Drive nails into the shed,
+and lock it up so no one can enter.
+
+866
+01:17:47,261 --> 01:17:48,261
+Yes, sir.
+
+867
+01:17:48,363 --> 01:17:50,297
+We'll stop weaving.
+
+868
+01:17:50,399 --> 01:17:53,128
+We'll fire all the weaving women.
+
+869
+01:17:53,234 --> 01:17:54,379
+- Landlord!
+- Do you understand?
+
+870
+01:17:54,403 --> 01:17:57,372
+It's too sudden.
+We'll all have a lot of trouble.
+
+871
+01:17:57,506 --> 01:17:58,734
+Shut up!
+
+872
+01:17:58,873 --> 01:18:01,206
+Are you against me?
+Get out of here.
+
+873
+01:18:01,342 --> 01:18:03,708
+- Get out!
+- Landlord, please.
+
+874
+01:18:03,845 --> 01:18:06,871
+We're very poor,
+and can't survive if we have to go home.
+
+875
+01:18:07,015 --> 01:18:09,711
+- Please.
+- Landlord!
+
+876
+01:18:09,850 --> 01:18:13,719
+Your people can survive
+drinking water and eating anything.
+
+877
+01:18:13,854 --> 01:18:15,822
+Please don't say that, landlord.
+
+878
+01:18:15,923 --> 01:18:19,552
+We'll work day and night,
+as much as possible.
+
+879
+01:18:19,694 --> 01:18:21,719
+- Please let us work.
+- Shut up! Stop it!
+
+880
+01:18:21,863 --> 01:18:25,822
+- Please.
+- Kame, you're fired, too!
+
+881
+01:18:25,934 --> 01:18:27,162
+- Get out of here!
+- Landlord!
+
+882
+01:18:27,269 --> 01:18:29,896
+Get out of here! Now! Get out!
+
+883
+01:18:30,037 --> 01:18:33,268
+- Please let us work!
+- Get out!
+
+884
+01:18:33,408 --> 01:18:34,670
+Get out of here!
+
+885
+01:18:39,514 --> 01:18:41,038
+Masae! Masae.
+
+886
+01:18:55,229 --> 01:18:56,355
+Landlord.
+
+887
+01:18:56,465 --> 01:18:59,730
+Even if I have to eat dirt,
+I'll pay you back.
+
+888
+01:21:52,172 --> 01:21:53,367
+Landlord.
+
+889
+01:21:53,475 --> 01:21:56,535
+Even if I have to eat dirt,
+I'll pay you back.
+
+890
+01:21:58,947 --> 01:22:00,710
+Landlord.
+
+891
+01:22:00,814 --> 01:22:04,910
+Even if I have to eat dirt,
+I'll pay you back.
+
+892
+01:22:06,453 --> 01:22:08,216
+Landlord.
+
+893
+01:22:08,323 --> 01:22:12,259
+Even if I have to eat dirt,
+I'll pay you back.
+
+894
+01:22:27,042 --> 01:22:28,805
+Landlord.
+
+895
+01:22:28,944 --> 01:22:33,176
+Even if I have to eat dirt,
+I'll pay you back.
+
+896
+01:22:35,015 --> 01:22:36,015
+Landlord.
+
+897
+01:22:36,150 --> 01:22:39,278
+Even if I have to eat dirt,
+I'll pay you back.
+

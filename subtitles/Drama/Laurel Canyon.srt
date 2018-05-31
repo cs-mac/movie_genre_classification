@@ -1,0 +1,1143 @@
+{1}{1}25.000
+{1116}{1186}-You want me to stop?|-No, don't stop. Why'd you stop?
+{1190}{1268}I don't know. You moved your leg.|You want me to keep going?
+{1272}{1334}Yeah, keep going. Don't stop.
+{1462}{1536}Like that. Yeah.
+{1540}{1593}Okay. Don't move.
+{1597}{1641}Don't stop.
+{1645}{1691}Oh, God.
+{1695}{1793}Oh, Lord. Oh, Jesus.
+{1797}{1841}Fuck me. Fuck me.
+{1845}{1900}I'll fuck you.
+{1998}{2093}{Y:i}Sam, hi, it's me. You don't need to|pick up. I know you're busy packing.
+{2100}{2203}{Y:i}Just calling to say, "Yay!"
+{2207}{2286}{Y:i}And listen, I'm kind of in a situation.
+{2406}{2479}-What?|-I finished.
+{2483}{2533}-You did?|-Yeah.
+{2537}{2600}That was really good.
+{2650}{2705}What about you?
+{2727}{2781}You know, I'm fine.
+{2785}{2823}-You sure?|-Yeah.
+{2827}{2895}-Okay.|-Yeah, I'm good.
+{3120}{3205}Oh, my mother asked|about April again.
+{3212}{3323}-Why is she so fixated on April?|-I'm sure it's economic.
+{3327}{3373}I can't leave then.
+{3377}{3471}I know. She's probably just trying|to get a deal on rentals.
+{3475}{3561}-Beat the June rush or something.|-You wanna change the plan?
+{3565}{3618}No, I don't. Do you?
+{3622}{3670}No.
+{3707}{3773}I don't know why people|get married in June anyway.
+{3777}{3857}I mean, what's wrong with January?
+{4002}{4106}I just never saw the reason to go out|there. It's disruptive, in my opinion.
+{4110}{4177}Alex should be here|to finish her dissertation...
+{4182}{4276}...and you should stay in Cambridge|if you'll be practicing here.
+{4280}{4341}Well, I'd rather be in Cambridge,|absolutely...
+{4345}{4438}...but the Hausman Institute|is the best program in the country.
+{4442}{4516}I think you should reconsider|psychiatry, Sam.
+{4520}{4606}It's a feeble discipline.|If you're interested in brains...
+{4610}{4698}...get to the thick of it, the grey matter.|That's honest medicine.
+{4702}{4775}Why waste yourself on the hopeless?
+{4779}{4833}-So impressive, Alex.|-The M.D. alone is....
+{4837}{4901}-It's a tremendous achievement.|-Then the Ph.D.?
+{4905}{4965}-I haven't finished it yet.|-Genetics, my God.
+{4969}{5033}-Genomics.|-Oh, right, of course. Genomics.
+{5037}{5088}How long are you staying|with your mom?
+{5093}{5146}-We're not.|-Oh, I thought you were.
+{5150}{5261}No, no, we're staying at her house,|but she's not living there now.
+{5265}{5338}-She's an executive, isn't she?|-Not exactly.
+{5342}{5406}She's in the entertainment industry.
+{5410}{5465}She's a record producer.
+{5470}{5562}That's right.|Alex mentioned that once.
+{5592}{5673}Well, it seems you have|everything under control.
+{5677}{5738}Definitely. We've covered everything.
+{5750}{5793}Think about my suggestion.
+{5797}{5862}Oh, and take care of Alex, please.
+{5867}{5931}We don't want her joining|the Scientologists...
+{5935}{5986}...or the vegetarians.
+{6060}{6093}-You ready?|-Yeah.
+{6097}{6187}You can't leave now.|We haven't had the cake.
+{6239}{6271}-Q.|-Beautiful.
+{6276}{6322}Thank you.
+{6370}{6460}Wow, you're behind by 40.|You have to focus.
+{6467}{6541}-I am focusing.|-No, you're not. You're distracted.
+{6545}{6668}No, I just don't read the dictionary,|smarty-pants.
+{6672}{6721}Could I get another juice?
+{6725}{6771}Can I get another Scotch, please?
+{6776}{6828}You shouldn't worry about it anymore.
+{6832}{6888}I didn't plan on worrying|about it at all.
+{6892}{7002}-It's not that much time.|-Yeah, theoretically, yeah.
+{7017}{7095}Oh, God. I wish I had a Xanax.
+{7100}{7146}Well, what did she say, a week?
+{7150}{7198}She wasn't specific.
+{7202}{7246}Thanks.
+{7250}{7286}-Thank you.|-You're welcome.
+{7290}{7348}I don't know why you didn't call|her earlier.
+{7352}{7421}-Neither do I.|-I could've made other arrangements.
+{7425}{7528}I know. I don't know why|I didn't call her back.
+{7532}{7587}I should have.
+{7772}{7816}Forty-seven.
+{12008}{12090}-Whose cars?|-I don't know.
+{12157}{12241}-She's really weird.|-I know. You've told me that before.
+{12245}{12301}I just wanna re-emphasize.
+{12305}{12357}Okay.
+{12367}{12468}It's probably|a developmental disorder.
+{12472}{12504}Sam.
+{12508}{12541}Rarefied strain.
+{12546}{12653}-Why are you telling me this again?|-I just don't want you to be surprised.
+{12658}{12729}-It's temporary.|-I just don't want you getting upset.
+{12782}{12846}Anyone's tolerable for a few weeks...
+{12850}{12950}...even the developmentally disabled.
+{12997}{13080}Come on. I need to pee.
+{14102}{14159}Hey, hi.
+{14163}{14241}What time is it? God, look at you.
+{14245}{14301}-Oh, man, you look great.|-Thanks.
+{14305}{14346}Really.
+{14350}{14388}So do you.
+{14392}{14448}Sorry. Alex, this is Jane, my mother.
+{14452}{14487}Hi, nice to meet you.
+{14491}{14556}Nice to meet you too, finally.
+{14560}{14600}-It's a pleasure.|-Thanks.
+{14605}{14648}Likewise.
+{14652}{14703}Hello. I'm lan.
+{14707}{14739}One of the crew.
+{14743}{14802}lan, Dean, Rowan, Fripp.
+{14807}{14852}-Hi.|-Hi.
+{14857}{14909}This is my son.
+{14914}{14962}Sam.
+{14970}{15023}-And....|-Oh, Alex.
+{15027}{15081}Alex. God, I'm sorry.
+{15089}{15133}It's lovely to meet you, Alex.
+{15137}{15188}As well, you, Sam.
+{15192}{15235}Yeah.
+{15257}{15320}Let's go outside for a second.
+{15515}{15555}It's the shit I hate, you know?
+{15559}{15643}I give them a gorgeous record,|and they say, "There's no single."
+{15647}{15713}No superlatives, no thank-yous,|no congratulations.
+{15717}{15766}Just, "Go back in and find it."
+{15770}{15817}Otherwise...
+{15836}{15904}...I would not be behind.|I'm never behind like this.
+{15908}{16017}-Jane, you're always behind like this.|-No, I've changed. Truly, I have.
+{17020}{17077}Just take your time|and finish the record...
+{17081}{17153}-...and we'll stay in Malibu.|-You can't stay in Malibu.
+{17157}{17213}-It's a couple weeks--|-It's Bobby's.
+{17217}{17283}-What do you mean?|-I gave the house to Bobby.
+{17287}{17350}You gave the house to Bobby?
+{17372}{17438}Just for a while,|till he's back up on his feet.
+{17442}{17483}He doesn't have feet.
+{17487}{17554}-Bobby's a basket case.|-No, I gave him a deadline.
+{17558}{17651}-Oh, I'm sure that will motivate him.|-Look....
+{17655}{17711}It's complicated.|I feel a little guilty.
+{17715}{17781}-Yeah, what?|-I left him.
+{17785}{17885}-So you gave him the house?|-It was the right thing to do.
+{17897}{18015}Why'd you break up with Bobby?|I thought Bobby was the real thing.
+{18022}{18090}Well, then I got to know him.
+{18130}{18173}-What do you want to eat?|-Curry.
+{18177}{18258}-Sounds good.|-We're going for a bite. Care to join us?
+{18263}{18311}No, thanks. We're exhausted.
+{18315}{18356}No?
+{18361}{18436}Our loss. Other time.
+{18500}{18561}-See you, Jane.|-See you, baby. Bye. Later.
+{18565}{18613}See you.
+{18617}{18651}Hey.
+{18655}{18716}-See you in the morning.|-Unless you want to--
+{18720}{18781}See you in the morning.
+{18785}{18825}Nice to meet you.
+{18902}{18941}They don't have a single.
+{18945}{19021}I'm sorry. I thought Sam|would've explained how things get.
+{19025}{19103}No, he just thought you'd be gone.
+{19107}{19160}I mean, finished.
+{19164}{19265}Happens a lot in this business. Things|shift, plans change, people get fired.
+{19275}{19311}Sure. Of course.
+{19315}{19404}What are you gonna do? Things shift,|plans change, people get fired.
+{19427}{19518}Yeah, we just hadn't planned|on a change of plan, so....
+{19522}{19570}Well, who plans on a change of plan?
+{19574}{19655}I mean, that would be sort|of paranoid, don't you think?
+{19770}{19846}-Do you want something to drink?|-No, thanks.
+{19850}{19961}Look, I think you guys should stay|as long as you want.
+{19965}{20013}Really, I want you to be comfortable.
+{20018}{20087}This has nothing to do with you.
+{20112}{20177}I'm really happy to have you here.
+{20187}{20262}-Want some?|-No, thanks. I'm okay.
+{20277}{20338}-Sam?|-No.
+{20564}{20611}She is so embarrassing.
+{20615}{20658}She's fine. She's amusing.
+{20662}{20731}Oh, yeah, like a minstrel show.
+{20735}{20791}Come on.
+{20795}{20883}Well, she's a little odd.
+{20887}{20986}Her presentation's a little odd,|but I think she means well.
+{20990}{21090}I don't know what she means.|In fact, I never have.
+{21107}{21166}You made it sound|like she was autistic.
+{21170}{21281}She is, in a way. I mean, she makes|the same mistakes over and over.
+{21285}{21413}-She's obviously very accomplished.|-Yeah. The irony of all time.
+{21417}{21458}I'm sorry, Al.
+{21462}{21541}-What are you sorry about?|-For bringing you here.
+{21545}{21616}I should have taken that spot|at Mass General.
+{21620}{21688}Your dad was right.|We should've stayed. I fucked up.
+{21692}{21770}-Stop it. You didn't fuck up.|-I fucked up.
+{21807}{21888}-You didn't tell me she was successful.|-I told you.
+{21892}{21946}You've hardly told me anything|about her.
+{21950}{22042}-You hardly asked.|-That's not true.
+{22517}{22597}-Sleep tight.|-All right.
+{22879}{22961}-Do you think Sam likes me?|-No. Why would he?
+{22965}{23043}There's nothing to like about you.|You're totally unlikable.
+{23047}{23115}You bitch.
+{23187}{23250}Wait. Come here, come here.
+{23289}{23342}Shit.
+{23457}{23538}-I'm sorry, did I wake you?|-Not at all. I can't sleep lately.
+{23542}{23626}My clock's fucked. You don't have|to do that. Carmella's coming.
+{23630}{23679}-It's no problem.|-Don't cut yourself.
+{23683}{23767}Hey, hey, come on, I got it,|really. You're barefoot.
+{23855}{23933}-Why are you up?|-I've gotta be at the hospital.
+{23937}{24031}-It's so early.|-Yep, it's a real job.
+{24035}{24125}-That's too bad.|-No, I don't feel bad about it.
+{24182}{24238}-We should spend some time together.|-Yeah.
+{24242}{24274}-With Alex.|-Yeah.
+{24278}{24356}-She's sweet.|-I think so.
+{24360}{24453}Hey, I've got box seats at the Bowl.|Maybe we could do that.
+{24457}{24529}The four of us? Get some wine,|some weed, some chicken.
+{24533}{24623}-The weather's been fabulous.|-Yeah. I won't have time for a while...
+{24627}{24669}-...but I'll let you know.|-Okay.
+{24673}{24731}But thanks for the offer.|That sounds nice.
+{24735}{24785}Sure.
+{24867}{24925}That's your new guy?
+{24970}{25011}-How's it going?|-Great.
+{25015}{25063}-Yeah?|-He's a beautiful man.
+{25075}{25118}-I'm really happy.|-Yeah?
+{25122}{25166}We have a really deep connection.
+{25171}{25236}Probably deeper than I've had|with anyone...
+{25240}{25320}-...even Bobby.|-Wow.
+{25332}{25417}Didn't you have a deep connection|with that guy...
+{25437}{25495}...Randy?
+{25504}{25541}-Randy?|-Yeah, Randy.
+{25545}{25613}The roadie with the limp,|lived here when I was 12.
+{25617}{25658}-Ronny.|-Ronny.
+{25662}{25767}Yeah, I had a connection with Ronny.|It wasn't particularly deep.
+{25783}{25841}-What about Veronica?|-Veronica.
+{25845}{25913}-You got deep with her.|-We stopped having sex...
+{25917}{25974}...after the third month.
+{25985}{26021}Anyway...
+{26026}{26110}...lan gets me.|This is completely different.
+{26142}{26193}Well, that's great.
+{26197}{26236}That's great, Jane.
+{26257}{26293}Listen...
+{26297}{26380}...Alex is...
+{26390}{26522}...working hard on her dissertation.
+{26560}{26663}And I'd appreciate it if you could keep|it low-key while we're staying here.
+{26667}{26735}Just keeping doors shut and stuff.
+{26761}{26816}I think she'd appreciate it.
+{26820}{26888}-I want her to feel comfortable here.|-Yeah, so do I.
+{26892}{26978}You know, this situation's|kind of foreign to her.
+{26983}{27107}She's used to working|in a lab or an office, alone.
+{27112}{27161}She's not used|to being around people.
+{27165}{27245}Wow, she must get Ionely.
+{27312}{27364}Okay.
+{27497}{27553}Okay.
+{28940}{29021}Claudia, I'm not gonna slap|some bullshit together for radio.
+{29025}{29108}{Y:i}-I don't work that way, you know that.|-I hear you. It's all good.
+{29113}{29165}There's a slot open,|and we need to jump.
+{29169}{29229}I gotta have all my elements|for the holidays.
+{29233}{29288}-We need to move units.|-Christmas?
+{29292}{29353}-Fuck that.|-Oh, Claudia...
+{29357}{29433}...please don't take me there.|Please, don't depress me.
+{29437}{29501}I don't care about Christmas.|Fuck Christmas.
+{29506}{29596}This isn't Nat King Cole. You know that.|Why are you up my ass?
+{29601}{29651}This is why we get|in trouble with you.
+{29656}{29737}And this is why you always end up|coming back to me, Claudia.
+{29810}{29863}God, I love that woman.
+{29867}{29955}-Where are we?|-Two minutes.
+{29987}{30056}Okay, this is the locked ward,|obviously...
+{30060}{30126}...and these are the patients|in the locked ward...
+{30130}{30250}...some of whom you'll be getting|to know intimately very, very soon.
+{30287}{30319}I'm not stealing them.
+{30324}{30376}You took my medication.
+{30380}{30471}It's down your sleeve.|It's in her sleeve.
+{30581}{30693}Sara Golan, second-year resident|extraordinaire.
+{30697}{30733}Meet the new recruits.
+{30737}{30789}-Hello.|-Hi.
+{30810}{30901}I think I'm bringing them down.|Tell them it's not so bad.
+{30905}{30946}It's not so bad.
+{30950}{31032}You see, it's not so bad.
+{31080}{31147}All right, onward.
+{31320}{31396}Christmas. Slots and units.|In a limited universe.
+{31400}{31465}-It's depressing, really.|-So up your Wellbutrin.
+{31469}{31502}Rather have Vicodin.
+{31506}{31561}Move that unit, lady in the tracksuit.
+{31566}{31656}-You know what I think?|-I don't, but I'm dying to.
+{31660}{31771}I think we made a beautiful record|and cowards notice last.
+{31775}{31807}You're very deep.
+{31811}{31858}-You think so?|-I do...
+{31862}{31932}-...when you're not talking.|-Fuck off.
+{32650}{32696}Oh, I'm sorry.|Let me turn it down.
+{32700}{32753}No, it's fine, really.
+{32757}{32828}So, what are you working on|upstairs?
+{32833}{32906}-Excuse me?|-You seem exceedingly absorbed.
+{32910}{32961}Oh, I'm writing.
+{32965}{33036}-What, a novel?|-No, my dissertation.
+{33040}{33096}Brilliant. What's it on?
+{33100}{33166}-What's it on?|-You have a subject?
+{33171}{33211}Specifically?
+{33215}{33303}Yeah. We went to university.|We can handle it.
+{33320}{33418}The genomic determinance of sexual|behaviour in the drosophila fruit fly...
+{33422}{33489}...and its implications|for Homo sapiens.
+{33494}{33566}Really? The sex life of flies?
+{33570}{33651}No, the reproductive behaviour...
+{33655}{33738}...of the fruit fly.
+{33742}{33776}Excuse me.
+{33780}{33893}Oh, he didn't mean it, Alex.|Honestly, he's got low self-esteem.
+{33897}{33975}He had acne as a child.
+{33980}{34036}You cunts.
+{34147}{34191}-Hey.|-Hey.
+{34195}{34296}Yeah, there's not much in here.|We've been doing takeout lately.
+{34300}{34391}Oh, that's okay.|Is there a store nearby?
+{34395}{34463}-Why don't you join us?|-Oh, no, l--
+{34467}{34538}Seriously, Alex, you don't have|to be polite with me.
+{34542}{34613}Polite isn't my thing.|I'm sure Sam told you that.
+{34617}{34731}No, I wasn't being polite.|I should just get some air.
+{34735}{34787}Air's good.
+{34815}{34895}Always better than a cocktail|at this hour.
+{34957}{35058}We'd like you to listen|to the record sometime if you want.
+{35062}{35116}Oh, sure.
+{35120}{35183}Yeah, I'd like to. I'd like that. Thanks.
+{35187}{35228}Well, you'd be helping us out.
+{35232}{35305}It's like a psychic sauna in there.|We're wasted.
+{35310}{35401}Well, I'd love to listen,|but I don't think I'd be much help.
+{35405}{35485}I don't really know anything|about popular music.
+{35490}{35522}Sure, you do.
+{35526}{35624}Anyone with instinct knows about|popular music. That's why it's popular.
+{35672}{35756}You strike me as someone|with strong instincts.
+{35760}{35798}I guess so.
+{35807}{35916}Well, you know when you're repulsed|and when you're turned on, right?
+{35920}{36011}I suppose so, in general, I guess.
+{36016}{36128}That's all it is. Either it pulls you in|or it leaves you cold.
+{36162}{36225}Sorry, you want some?|It's great for the colon.
+{36237}{36279}Oh, no, thanks.
+{36667}{36735}And they're definitely taking it?
+{36752}{36820}Okay, thank you.
+{37088}{37151}Hi, I'm calling about the apartment.
+{37155}{37233}Is it? Okay. All right, thanks.
+{37292}{37327}Everything all right?
+{37430}{37476}Yeah.
+{38097}{38138}What'd you get?
+{38142}{38216}-Food.|-Good timing. I'm famished.
+{38220}{38311}-Get on.|-No, I'm fine. I need the exercise.
+{38315}{38397}You'll have a heart attack|dragging that load up the mountain.
+{38401}{38433}No, it's fine, really.
+{38437}{38508}Jane asked me to get you,|sweetheart. Get on.
+{38710}{38786}I promise I won't tell your parents.
+{38790}{38853}You really didn't have to get me.|I'm fine.
+{38857}{38910}Now, hold on to me.
+{38965}{39017}Tighter.
+{39160}{39258}-So where are you staying now?|-Up in Laurel Canyon.
+{39262}{39358}It's just that the house we're in|was supposed to be empty...
+{39362}{39466}...but my mother is producing|a record there.
+{39470}{39548}And she moved in because she left|her boyfriend...
+{39552}{39621}...and she gave him|her beach house...
+{39625}{39681}...because....
+{39685}{39776}Well, anyway, it's convoluted|and not very interesting.
+{39780}{39868}No, it's definitely interesting.
+{39872}{39961}It'll work out. Really, it's more|a logistics issue at the moment.
+{40062}{40166}-That was you in the car, right?|-Yeah.
+{40170}{40203}You almost killed me.
+{40207}{40251}Yeah, well....
+{40255}{40330}-Yeah, I'm sorry.|-You should be.
+{40428}{40533}It was unbelievable. Every call I made,|someone had just nabbed it.
+{40537}{40618}I'm fine staying here, honey.|I don't mind. Really, I don't.
+{40622}{40708}She's in your way, Al, you know?|I mean, she has no boundaries.
+{40712}{40771}-You need your privacy.|-She's not in my way.
+{40775}{40831}I'm working in private.|It's not a problem.
+{40835}{40867}What about the noise?
+{40871}{40931}They've been respectful|when the door's closed.
+{40935}{41011}-What about when it's not closed?|-Well, then it's open.
+{41015}{41071}-Can you hear them?|-No, not really.
+{41075}{41136}"Not really," what is that?|That's yes, right?
+{41140}{41211}No, that means, no, not really.
+{41215}{41321}Al, don't get technical. I'm just trying|to work it out. I'm just trying to help.
+{41325}{41397}-You are?|-Yeah, I am.
+{41432}{41501}-Can she pick you up tomorrow?|-She said she could.
+{41505}{41583}-Okay, then I'll start looking.|-Well, good. That'd be good.
+{41587}{41641}Maybe we should look in the Valley.
+{41645}{41759}It's cheaper and quieter.|North Hollywood or something.
+{41907}{41971}Yeah, Mickey's here.|Everybody's here. Come over.
+{41975}{42057}I'm not talking about work.|I've got a band with me.
+{42102}{42167}-Hey!|-Hey.
+{42186}{42246}You didn't have to go out.|We made tofu steaks.
+{42250}{42301}Oh, yeah? Sorry we missed that.
+{42305}{42373}-What have you got there?|-Pizza.
+{42377}{42410}You want some?
+{42425}{42475}Lovely.
+{42531}{42567}Delicious.
+{42572}{42604}Real meat.
+{42672}{42767}-Whose kid is that?|-Oh, that's Rowan's baby, China.
+{42807}{42892}Come here, you little heartbreaker.
+{42927}{42978}Are you cold?
+{42982}{43020}Meet my friend, Alex.
+{43025}{43088}Say hello. "Hello."
+{43092}{43136}-You want your dad?|-Yeah.
+{43140}{43195}Neglectful dad.
+{43245}{43345}-Can I get you two a drink?|-Sure.
+{43715}{43750}Hello?
+{43754}{43812}Hi. Is Sam there?
+{43835}{43883}-Sugar?|-Please. Thank you.
+{43887}{43931}I'm really sorry I woke you up.
+{43935}{44045}No. I'm usually up before 6.|I overslept.
+{44060}{44125}Morning. Sorry.
+{44142}{44231}-Should we go?|-Well, Alex made coffee.
+{44235}{44310}-Do we have time?|-I think so. I drive fast.
+{44320}{44375}Okay.
+{44382}{44421}Thanks for picking him up.
+{44425}{44501}I wasn't expecting to be|apartment hunting. We weren't.
+{44505}{44598}It's not a problem. Really,|I'm happy to. It's right on my way.
+{44602}{44693}-That's convenient. Where do you live?|-In the Valley.
+{44698}{44750}North Hollywood.
+{44807}{44898}-Why can't you stay up here?|-It's a little tight, with everyone....
+{44902}{44978}That's too bad. It's really nice.
+{44982}{45053}I'd sacrifice space|to be up here any day.
+{45097}{45185}-Are you a resident?|-Second-year.
+{45193}{45256}-What do you do?|-I'm writing my dissertation.
+{45260}{45320}-What on?|-Drosophila genomics.
+{45330}{45446}-She's an M.D. as well.|-Wow, that's very impressive.
+{45450}{45523}-Not really.|-Oh, it impresses me.
+{45540}{45612}-Thank you.|-You must have a lot of patience.
+{45617}{45746}I don't know, I couldn't imagine|analysing data all day. It seems so...
+{45750}{45796}...tedious.
+{45800}{45844}Well, it's not meaningless at all.
+{45849}{45937}No, no. I didn't say meaningless.|Did I?
+{45945}{46057}My English is terrible. I'm sorry.|I said tedious, I think.
+{46065}{46102}Well, same difference.
+{46106}{46168}But I didn't mean that. I meant....
+{46173}{46208}I don't know the word.
+{46212}{46251}Serious. That's all.
+{46255}{46308}It's fine. Sorry, I didn't mean to--
+{46312}{46409}No, no. I'm sorry, really.|I didn't mean the assault.
+{46414}{46468}Insult. We should probably go.
+{46602}{46671}-Well, it was nice meeting you.|-Yeah, you too.
+{46675}{46725}Bye.
+{46789}{46856}-Your girlfriend seems nice.|-Yeah.
+{46860}{46938}She was tired.|She's usually more....
+{46942}{47016}She's usually different.
+{47020}{47093}A double degree.|She must love school.
+{47097}{47163}Yeah. She got through fast.
+{47167}{47215}She's really smart.
+{47220}{47268}Yeah, she must be.
+{47272}{47308}And ambitious.
+{47312}{47345}Well, yeah.
+{47395}{47453}Top in our class, actually.
+{47457}{47493}Really?
+{47497}{47540}Yeah.
+{47544}{47607}How can you compete with that?
+{48547}{48644}Methamphetamines, Ecstasy, generic,|ice. We're not sure what he took.
+{48648}{48728}Vital signs haven't stabilized.|Page me if you have questions.
+{48732}{48796}Thanks. You wanna start?
+{48800}{48868}-No, he's yours.|-Okay.
+{48873}{48938}-How you doing, Wyatt?|-I'm fucked up, okay?
+{48942}{49038}Nazis are in the parking lot, waiting|to bang me, and I'm trapped in here.
+{49042}{49132}Okay. How old are you?
+{49142}{49193}-Eighteen.|-You have any family around?
+{49197}{49253}No, I don't have any family, asshole.
+{49257}{49361}Leave my fucking family out of it, you|paranoid Nazi freak in a white coat.
+{49365}{49413}-Sit down.|-Leave my family out of it.
+{49417}{49482}511 stat, okay? Wyatt, sit down.
+{49486}{49586}Sit down. Sit down.
+{49635}{49676}Okay.
+{49680}{49782}What the fuck is 511, huh?|What the fuck is that?
+{49786}{49851}Is that a fucking code?|Is that a fucking code?
+{49856}{49907}Is that a fucking prison code?
+{49920}{49975}Is that a fucking prison code?
+{49981}{50020}Don't fucking take me out.
+{50024}{50059}Please God, don't.
+{50064}{50116}Don't fucking take me out.|Please don't.
+{50120}{50156}Please don't take me out.
+{50161}{50210}-It's okay.|-Please don't.
+{50433}{50538}I'm not feeling that. What's up|with the gallop? The tempo's shit.
+{50543}{50621}-I'm right. Right?|-Yep, tempo's shit.
+{50743}{50826}No, no, no, no.|Let us get into it.
+{50842}{50926}It's gonna have texture.|Like, you know, like ooze.
+{50941}{50993}Sonic ooze.
+{51000}{51071}Great. Sonic ooze.
+{51113}{51161}Okay, baby, how about|a horn section?
+{51165}{51235}A little Tijuana Brass, maybe?|I heard Herb's in town.
+{51239}{51310}-Let's not get patronizing.|-That's not patronizing.
+{51314}{51357}That was accommodating.
+{51361}{51409}I was accommodating you.
+{51461}{51516}Against my better judgment, even.
+{54889}{54975}-Sweet, that's it. That's the direction.|-I've overplayed it.
+{54979}{55038}No. We just gotta|straighten out the beat.
+{55043}{55125}-It should be faster.|-No, I get what she's doing. It's sultry.
+{55129}{55166}She's going for romantic.
+{55186}{55237}Is that what you're going for, Jane?
+{55244}{55273}A love song?
+{55369}{55397}Come on!
+{55401}{55485}Let him go. No, let him go!|Let me at him!
+{55489}{55518}Those are mine.
+{55523}{55569}-What are?|-Your tits.
+{55574}{55626}You're such a brute.
+{55698}{55740}Hello.
+{55770}{55796}Hi.
+{55872}{55947}-Am I interrupting?|-Absolutely not.
+{55951}{56001}It's an unexpected pleasure,|really.
+{56005}{56058}We were just discussing romance.
+{56091}{56154}Come on in. Sit down, come on.
+{56365}{56440}-I'll see you tomorrow.|-Yeah.
+{56445}{56482}Have a good night.
+{57733}{57797}I'm really starting to love this.
+{57816}{57851}It's dated, you know?
+{57855}{57957}It's not dated. We just wrote it.|It doesn't even have a date on it yet.
+{57961}{58046}-Why are you so contrary?|-You wouldn't respect me otherwise.
+{58050}{58098}-You think so?|-Babe...
+{58102}{58145}-...I know so.|-Good.
+{58149}{58211}I love a man who|speaks his mind...
+{58248}{58298}...even when it's bullshit.
+{58786}{58826}Hey, stranger.
+{58948}{58998}-Hey, you.|-Hey.
+{59072}{59121}What time did you come to bed?
+{59125}{59164}-I tried to wake you.|-Really?
+{59168}{59225}-You didn't move.|-I didn't even feel it.
+{59234}{59269}How did it go yesterday?
+{59285}{59360}-With the apartments.|-Good.
+{59390}{59421}What's the status?
+{59426}{59500}I saw a few things.|Most of them were pretty disgusting.
+{59526}{59614}Yeah. I think it's gonna|take some time.
+{59694}{59783}I was sure there was something|perfect in here, just ready to rent.
+{59816}{59863}So how was work yesterday?
+{59868}{59937}Strange. I had to deal|with a 16-year-old...
+{59941}{60041}...having an Ecstasy-induced psychotic|episode, and he thought I was a Nazi.
+{60045}{60080}How ironic.
+{60084}{60128}-Yeah.|-And upsetting.
+{60133}{60167}Yeah, he was pretty upset.
+{60171}{60221}-I'm sure.|-This one looks good.
+{60226}{60299}-Which one?|-This house in the Valley...
+{60304}{60350}...on Greenleaf.
+{60369}{60401}Right there.
+{60444}{60481}Okay.
+{60573}{60623}Were you in the studio|for a long time?
+{60627}{60673}-No, not long.|-Just taking a break?
+{60678}{60709}Yeah.
+{60716}{60765}-Did you get much work done?|-Yeah.
+{60769}{60839}I think they're pretty close|to finishing.
+{60862}{60911}No, on your...
+{60915}{60948}...dissertation.
+{60960}{61018}Oh. Yeah, it's going really well.
+{61022}{61077}-Did you enjoy yourself?|-Where?
+{61082}{61113}In the studio.
+{61118}{61160}Yeah, I did, actually.
+{61164}{61222}-It was stimulating.|-Good.
+{61226}{61262}Jesus.
+{61299}{61409}I don't know how you two stand getting|up so early. That totally burned me out.
+{61499}{61527}-Hello.|-Hi.
+{61532}{61571}You're right on time.
+{61590}{61654}Oh, he's very friendly.|He's a pussycat.
+{61672}{61723}You see that?|He likes you already.
+{61727}{61788}Come on in.|I'll show you the house.
+{61856}{61938}I want you to take the gown|out of your bag and put it on.
+{61942}{62039}-This isn't appropriate for public.|-You don't understand naked.
+{62044}{62084}Naked is inner.
+{62104}{62190}I am here with you.|There is no shame.
+{62194}{62240}There is no separation.
+{62254}{62279}And...
+{62297}{62341}...I'm not ill.
+{62351}{62397}Yes, you are ill, Gloria.
+{62409}{62505}And I have no need|for a green synthetic nightie...
+{62509}{62603}...used to conceal the essence|of my supple skin...
+{62607}{62647}...and my aching soul...
+{62652}{62733}...in the barren desert|that is this land.
+{62746}{62803}I'm moving in with my son|in Costa Mesa.
+{62807}{62878}He thinks I'm Ionely.|Truth is, he's Ionely.
+{62882}{62955}Sweet kid.|Just can't seem to connect.
+{62989}{63053}Me and my wife lived here 40 years.
+{63057}{63131}It's lovely, really.
+{63135}{63180}It's really lovely.
+{63185}{63282}You seem like a very nice person.|I hope you take the place.
+{63618}{63705}-Come on.|-Come on! You're nothing!
+{63825}{63850}Come on!
+{63854}{63893}Pussy!
+{63902}{63964}Fucking pussy!
+{64057}{64094}I don't know about trust.
+{64098}{64156}Maybe she just needed a nap|or something.
+{64160}{64189}Believe me.
+{64193}{64249}She's been belligerent|with everybody else.
+{64253}{64303}I dealt with her last year.
+{64310}{64363}I just listened to her, really.
+{64367}{64426}Yeah. Well, listening...
+{64430}{64510}...it's better than medicating,|no matter what they tell you.
+{64602}{64666}Can I tell you something?
+{64685}{64751}Yeah. Sure.
+{64853}{64884}Hi.
+{64888}{64936}-Hi.|-Hi.
+{65009}{65078}-Hi, how are you?|-Fine, thanks. You?
+{65082}{65142}Fine, thanks.|Did I leave you enough room?
+{65173}{65227}Oh, yeah. Yeah.
+{65235}{65302}I'll see you in the morning.
+{65604}{65665}Another day at the office.
+{65688}{65720}All right.
+{65725}{65785}-Hey, how's it going?|-Good, you?
+{65795}{65820}Okay.
+{65824}{65886}Hey, come on in the water.|It's delicious.
+{65891}{65941}Maybe later. Thanks.
+{65945}{66024}You're always welcome.|In fact, more than welcome.
+{66081}{66171}Obviously, you're welcome.|Fucking hell, it's your house.
+{66294}{66360}-I'm sorry.|-It's not your fault.
+{66364}{66449}Someone else got there first.|The house was gone.
+{66524}{66633}It wouldn't be the worst thing to stay|here a little longer. It's comfortable.
+{66638}{66720}Well, depends on your definition|of comfort.
+{66742}{66866}I mean, Al, I'm hardly ever here.|It's not for me, it's for you.
+{66887}{66921}Is it?
+{67258}{67353}-Can you get me some lemonade?|-I'll see if there's some around.
+{67371}{67446}-How'd you sleep?|-I don't know.
+{67450}{67530}Whatever you hit me with took me|down. I feel fucking drugged.
+{67534}{67597}Yeah, well, you were drugged.
+{67610}{67701}-I don't like downers.|-You weren't liking the uppers either.
+{67705}{67741}Yeah.
+{67747}{67839}-I told you not to call my house.|-Look, I had to contact your family.
+{67844}{67891}You're underage. That's the law.
+{67899}{67965}My mom's gonna kick my ass.
+{67972}{68008}I mean, she's freaking now.
+{68012}{68090}But she's gonna torch my fucking ass|when I get out of here.
+{68094}{68157}Why are things so wrong|with your mom?
+{68161}{68199}I don't know.
+{68220}{68255}You seem like you do.
+{68284}{68338}She just doesn't get me, all right?
+{68342}{68440}She's in my face about my grades,|my hair, my friends, tattoos.
+{68444}{68516}All this other shit. You know?
+{68561}{68623}I can't do nothing right.
+{68627}{68675}So why should I care?
+{68975}{69000}Fuck.
+{69004}{69054}-What?|-He missed the punch, fucked up--
+{69058}{69157}Mickey, could you keep that to yourself|next time, let him play through?
+{69161}{69206}Let me talk to him.
+{69210}{69285}Sorry. Yeah. It's not there,|but that's a direction.
+{69311}{69348}-It's okay?|-Yeah.
+{69353}{69427}We'll finesse it in the mix.|We'll make it work.
+{69559}{69595}What do you think?
+{69599}{69689}-Truthfully?|-No, lie to me. Yeah, truthfully.
+{69734}{69776}I'm not feeling it.
+{69797}{69837}You're not feeling it.
+{69848}{69902}-I'm sorry.|-That's okay. Don't apologize.
+{69906}{69948}Just tell me what you mean.
+{69952}{70041}I don't know what I mean, exactly.|I just.... I mean, l--
+{70054}{70186}I guess it's just not pulling me in.|Or it feels like it's not pulling them in...
+{70200}{70272}...exactly.... Or enough.
+{70304}{70339}I don't know.
+{70396}{70457}They don't seem inspired.
+{70487}{70526}Inspired?
+{70751}{70811}-Yeah?|-Progress report.
+{70816}{70859}Excuse me?
+{70864}{70920}Progress report?|No, "Hello, how are you?"
+{70924}{71003}Jesus, Claudia, you're really warming|me up.
+{71060}{71097}What?
+{71129}{71221}I love capitalism as much as|the next guy, but this is off the charts.
+{71225}{71291}Your commerce is so far up|my ass, I can't sit up.
+{71295}{71359}Listen, the Age of Aquarius|never happened, okay?
+{71363}{71443}{Y:i}-Get real. This is commerce.|-I want to tell you something...
+{71447}{71521}...for your soul. Pushing for Christmas|and radio play...
+{71525}{71589}...will only amount to shit|and wrapping paper.
+{71605}{71702}I don't know what happened, Jane.|We really used to be on the same page.
+{71715}{71771}I don't know what happened|either, Claudia.
+{71775}{71819}I guess you started exercising.
+{71824}{71869}{Y:i}Gotta go.
+{71882}{71921}Bitch.
+{71943}{71980}Cunt.
+{72124}{72188}Can we just say how lovely|Jane looks today?
+{72193}{72269}Can we just have a moment|of appreciation for our sweet...
+{72273}{72304}...Iovely Jane?
+{72418}{72448}Jane rocks.
+{72527}{72576}Get the fuck out of my chair.
+{72585}{72687}I had a math teacher in high school|who was sort of my mentor.
+{72704}{72773}You know, I was one|of those science geeks...
+{72777}{72825}...and my mother wasn't really around.
+{72846}{72918}So he took me under his wing,|and he convinced me...
+{72922}{72963}...that I should be a doctor.
+{72967}{73044}Which seemed like the right idea|at the time.
+{73062}{73143}You know, I guess I needed|to prove myself.
+{73148}{73174}To who?
+{73218}{73281}Who were you trying|to prove yourself to?
+{73313}{73388}I don't know. My math teacher?
+{73403}{73448}Your math teacher?
+{73459}{73539}You got through Harvard Medical|School for your math teacher?
+{73543}{73574}Yeah, no.
+{73578}{73664}I guess I was trying|to prove myself to myself.
+{73668}{73720}You know, I needed...
+{73724}{73801}-...to prove that I wasn't a loser.|-A loser?
+{73806}{73857}Why would you think|you're a loser?
+{73862}{73960}I was around a lot of losers|growing up and....
+{73965}{74044}Not worthless-type loser...
+{74048}{74108}...or, you know, bad person. Just....
+{74120}{74163}Just lost. People at loose ends.
+{74167}{74219}And I didn't want to be that.
+{74223}{74310}I wanted to be anything but that.
+{74358}{74414}You're everything but that.
+{74464}{74515}I set up a meeting with his mom.
+{74519}{74581}It's not protocol,|but I think it'll help.
+{74585}{74624}Is he still violent?
+{74628}{74693}No. No, he was never violent.
+{74715}{74776}I thought you had to restrain him.
+{74784}{74831}No, I sedated him.
+{74841}{74920}-Oh, I thought he was psychotic.|-Huh? No.
+{74937}{75026}He had a psychotic episode.|He OD'd on...
+{75030}{75074}...methamphetamines. But...
+{75078}{75139}...he's not psychotic in general.
+{75275}{75339}{Y:i}When did you start reading|Spin magazine?
+{75343}{75431}-I'm not really reading it.|-You just looking at it?
+{75435}{75482}I'm skimming it.
+{75502}{75580}-Is it helping?|-Yeah, it's informative.
+{75584}{75677}-It's good for an overview.|-What, like a primer?
+{75681}{75784}-Yeah, something like that.|-Getting the basics, a light survey...
+{75788}{75842}...of popular culture.
+{75862}{75926}-Are you teasing me?|-No.
+{75935}{75995}{Y:i}Should I be reading|the Journal of Medicine...
+{75999}{76074}{Y:i}...or the Harvard Review?|Would that be more appropriate?
+{76078}{76206}-Something more scholarly?|-No, come on, Al. I was teasing.
+{76233}{76344}I could harass you about those porno|magazines, but I didn't even bring it up.
+{76418}{76466}Wha--?
+{76489}{76579}Come on. I don't care about|the porno magazines.
+{76595}{76669}{Y:i}-I just didn't know you liked Juggs.|-Oh, God.
+{76702}{76825}-Sorry I don't have enormous breasts.|-Please, stop it. Your breasts are fine.
+{76843}{76878}Your breasts are...
+{76893}{76924}...perfect.
+{76943}{76977}Really.
+{77136}{77202}Yeah, but who's had 72 lovers?
+{77206}{77266}Where did you come up|with that fucking number?
+{77270}{77342}I'm guessing from what you said.
+{77346}{77403}Well, I'm 16 years older than you.
+{77407}{77469}That's a lifetime of fucking.
+{77473}{77563}And I am not apologizing.|My past isn't about you.
+{77567}{77647}-Oh, that is cold.|-No, it's not. It's clear.
+{77692}{77756}You're gonna keep me|in my place, are you?
+{77760}{77815}I'm not gonna keep you anywhere.
+{77831}{77921}You are free to move around.
+{77925}{77990}Well, I'm not moving,|for your information.
+{78028}{78120}You can work your tough-girl thing,|but I know you're in love with me.
+{78167}{78214}That's irrelevant.
+{79038}{79083}Kind of...
+{79087}{79133}...tired, babe.
+{79140}{79174}You know?
+{80067}{80159}-You're up early.|-I know, and I'm not happy about it.
+{80163}{80245}-You need some Valium?|-I don't wanna get back into that again.
+{80249}{80309}Yeah, that wouldn't be good.
+{80313}{80376}Try swimming. It helps.
+{80391}{80464}-So how are you? How's work going?|-Good.
+{80468}{80535}-Just not sleeping enough myself.|-Oh, I'm sure.
+{80539}{80620}-Hospital's been busy.|-A lot of psychos, huh?
+{80624}{80680}No, just a lot of...
+{80684}{80741}...pained souls.
+{80843}{80932}Listen, I appreciate your interest|in Alex.
+{80936}{80994}I meant to tell you that.
+{80998}{81100}I really like Alex. I like her a lot.|She's smart.
+{81117}{81190}I was a little protective of her|when we first got here.
+{81194}{81301}I just wasn't sure how she was|gonna deal with your scene.
+{81305}{81382}I think she's dealing just fine|with my scene.
+{81386}{81477}I think she likes it. Obviously,|she's getting stoned with you...
+{81481}{81583}{Y:i}-...and she's reading Spin.|-I don't read Spin. I've never read Spin.
+{81598}{81705}She found her own way into the studio.|It had nothing to do with me.
+{81717}{81762}Yeah.
+{81774}{81849}It's always like that with you,|isn't it? They....
+{81861}{81933}They always just happen|to find their way in.
+{81937}{81997}What's that supposed to mean?
+{82042}{82120}It means you're charmed,|that's all.
+{82124}{82164}Someone's looking out for you.
+{82168}{82225}Nobody's looking out for you?|I'm sorry.
+{82229}{82293}Come on. Your life looks good|from my perspective.
+{82297}{82376}-I've worked for what I have.|-And I haven't?
+{82399}{82472}-You are so stuck on the negative.|-I'm not.
+{82476}{82520}Yes, you are.
+{82527}{82658}-You've blocked out all the fun we had.|-I haven't blocked it out. It's all filed.
+{82662}{82726}What about the trip to Veracruz?
+{82730}{82796}Yeah. When Ronny went to jail?
+{82800}{82855}Before that, when we were out|on his boat.
+{82859}{82927}In the storm? That was fun?|That sucked.
+{82931}{82992}No, it didn't.|You thought it was exciting.
+{82996}{83071}I wasn't excited. I was hysterical.
+{83075}{83197}There's a huge difference|between hysteria and excitement.
+{83277}{83358}Are we ever gonna have|a relationship?
+{83384}{83509}We're having a relationship.|Here we are, having it.
+{83520}{83588}lan's got a room at the Chateau.|We'll stay there...
+{83592}{83666}-...you can have the place to yourself.|-You should stay.
+{83670}{83804}Alex is still looking for an apartment,|and we need something permanent...
+{83808}{83853}...so just stay.
+{83857}{83951}Why don't you ask her? Maybe|she wants to be alone in the interim.
+{83970}{84018}I'm sure Alex wants you to stay.
+{84022}{84117}I mean, she can't stay away from you|as it is.
+{84431}{84477}He's gonna give her a frontal lobe.
+{84481}{84568}No, no, he'll just give her Thorazine|and then lock her up.
+{84597}{84655}I think she wants to be locked up.
+{84659}{84708}Yeah, exactly.
+{84712}{84756}{Y:i}Make your analysis at first...
+{84760}{84848}{Y:i}... with three general patterns|of emotional response.
+{84852}{84977}{Y:i}Rage is the response|to the primary stimulus of thwarting.
+{84981}{85080}-Should I be embarrassed for us?|-I am. I really am.
+{85096}{85142}You gonna have another?
+{85146}{85229}-You know, I should probably go.|-Oh, come on, Golan.
+{85233}{85295}How often do you get a night|and a morning off?
+{85380}{85449}-I'd stay for another.|-Okay.
+{85453}{85510}{Y:i}--and the emotional response to love...
+{85514}{85623}{Y:i}... is usually the result|of a show of affection or favour.
+{85627}{85728}-Tom, can I use your phone?|-Yeah, it's right over there.
+{85796}{85873}-I think we'd do really well together.|-Absolutely.
+{85877}{85910}For a while.
+{85914}{85996}God, will you get past the cynicism?
+{86000}{86070}I just broke up with somebody, baby.
+{86090}{86149}I thought you forgot all about him.
+{86199}{86232}{Y:i}Hello?
+{86236}{86269}Al?
+{86335}{86425}{Y:i}-Who are you with?|-Just some of the residents.
+{86492}{86637}I'd like to leave, but Sara's driving,|and I don't want to be rude.
+{86663}{86702}You want to come down?
+{86715}{86781}No. I'll see you when you get home.
+{86793}{86838}All right.
+{87164}{87217}You're ageist.
+{87221}{87264}-That's what it is.|-Oh, please.
+{87268}{87319}Then what are you afraid of?
+{87323}{87368}Breaking your heart.
+{87372}{87455}Running your ass|into the ground, buddy.
+{87459}{87507}Bollocks.
+{87662}{87750}Why do you want to ruin this|with domesticity?
+{87789}{87837}Because...
+{87852}{87914}...I've never met a braver woman...
+{87918}{88005}...and I'm deeply, deeply|attached to you.
+{88214}{88274}Looks like we've got company.
+{88556}{88634}-How you doing, Alex?|-Okay, I think.
+{88638}{88729}-Getting some work done?|-No. Not tonight.
+{88733}{88790}-Where's Sam?|-Out.
+{88794}{88834}What, without you?
+{88849}{88917}-Well, I didn't want to go.|-Pour yourself a drink.
+{88921}{88989}-Spend time with us.|-Get a drink and come back out.
+{88993}{89077}-Are you sure?|-She's sure. I'm positive.
+{89172}{89246}I'll have another whisky sour|while you're at the bar.
+{89250}{89304}So will Jane.
+{89952}{90002}Cheers.
+{90146}{90187}Tasty, eh?
+{90191}{90248}It's a good combination.
+{90252}{90332}You made it perfectly.|You should be a bartender.
+{90412}{90487}-Do you want to come in?|-No, that's okay.
+{90491}{90576}-You sure?|-Yeah, I'm okay.
+{90580}{90634}Oh, have you|just washed your hair?
+{90638}{90695}-No, I haven't.|-So?
+{90719}{90801}So I just don't want to get wet.
+{90805}{90881}Really? You seem like you do.
+{90885}{90949}-Cut it out.|-What? She wants to swim.
+{90953}{91028}-She's afraid to get wet.|-I'm not afraid.
+{91218}{91268}You little tart.
+{91272}{91326}You know what, you've had it.
+{91361}{91470}-Shit! God! I can't believe you!|-See what I have to put up with?
+{91474}{91533}-It's not so bad, is it?|-It's freezing.
+{91537}{91603}That's because|your clothes are wet, silly.
+{91607}{91720}-You really are a jackass. God!|-No. No name-calling now.
+{91724}{91788}We're all adults here.
+{92390}{92484}-That's better, isn't it?|-Well, it's definitely warmer.
+{92488}{92594}I'd much rather be in here|than out there in that cold world.
+{92646}{92701}You're so polite, Alex.
+{92705}{92803}It's okay to leave the ivory tower|and live a little.
+{94393}{94475}-Yes. I can drive.|-Well, you shouldn't. You're drunk.
+{94479}{94539}I'm not drunk.|I drank less than you.
+{94543}{94596}No, you did not.
+{94655}{94768}-Well, you want to kill me again?|-I didn't kill you the first time, did I?
+{94882}{94985}-Goddamn it, you're flustering me.|-Turn it to the right.
+{94989}{95066}-I know how to open a door.|-Apparently, you don't.
+{95070}{95160}-Give me a break. I'm drunk.|-You should let me drive.
+{95265}{95315}Get in.
+{95682}{95732}Sara.
+{95736}{95783}Yeah?
+{95817}{95912}I think we should take the high road.
+{95926}{95982}What would that be?
+{96052}{96102}Sublimation.
+{96220}{96277}Is that okay?
+{96319}{96363}It's intellectual.
+{96398}{96469}-I know.|-Not very honest.
+{96473}{96523}Well....
+{96537}{96604}Not very satisfactory.
+{96612}{96662}Satisfying.
+{96675}{96745}I think you know what I mean.
+{97608}{97654}Al?
+{97667}{97702}Hey.
+{97706}{97746}Al?
+{97752}{97798}You up?
+{97802}{97834}-Hi.|-You up?
+{97838}{97934}-I am now.|-Can we talk?
+{97972}{98015}Okay.
+{98019}{98100}-Are you okay?|-Yeah. I'm just...
+{98141}{98206}...wondering about something.
+{98229}{98281}Okay.
+{98326}{98438}Why does your father|hate psychiatrists?
+{98442}{98504}He doesn't hate psychiatrists.
+{98517}{98575}Okay, so...
+{98579}{98632}...why does he hate me?
+{98636}{98718}He doesn't hate you.|He thinks you're great.
+{98776}{98844}Why are you concerned about|what he thinks suddenly?
+{98855}{98937}You know, he's a puritan.|He quotes Proust and wears tweed.
+{98941}{98985}He doesn't know anything about us.
+{98989}{99073}Do you think that we should've...
+{99077}{99143}...gotten married before?
+{99147}{99205}Before when?
+{99209}{99275}Before coming out here?
+{100679}{100809}He runs around, spends my money on|drugs and ends up in a mental hospital!
+{100813}{100912}Oh, I'm so close to letting go on him.|I'm at the end of my rope here.
+{100916}{101001}I think that what's going on with Wyatt|is complicated...
+{101005}{101094}...and I don't think your anger|is helping him with his problems.
+{101098}{101130}My anger?
+{101134}{101190}I'm not angry. I'm furious!
+{101194}{101252}Because this is all about me,|you see.
+{101256}{101331}I will not tolerate disgusting,|degenerate behaviour...
+{101335}{101387}...and disrespect for me|and my values--
+{101391}{101480}Mrs. Jones, listen. Give your values|a rest for a second.
+{101484}{101516}Your kid's in trouble.
+{103071}{103106}Yeah.
+{103110}{103207}Oh, Jesus, Claudia.|Give me a fucking break.
+{103241}{103309}My relationship with lan|has nothing to do with this.
+{103313}{103383}It's none of your business anyway.
+{103407}{103496}No. It is not slowing anything down.
+{103500}{103580}These conversations|are slowing us down.
+{103584}{103685}I can't believe I'm listening to this.|That was totally patronizing.
+{103711}{103795}Claudia. It's lan McKnight.
+{103815}{103904}Lovely. I don't know why you're|so fascinated with our sex life...
+{103908}{103984}...but for the record,|Jane's an amazing shag.
+{104027}{104106}More to the point, we're just|about done with the single.
+{104110}{104230}I'm sure you'll be orgasmic when you|hear it. Let's give the telephone a rest.
+{104234}{104276}Cheers.
+{104280}{104318}Great.
+{104322}{104402}You're a fucking diplomat.|This is it. It's going to hell.
+{104406}{104438}Fuck her.
+{104442}{104502}Who cares? We'll take it|somewhere else.
+{104506}{104576}-You hire a lawyer.|-That's how I want to finish.
+{104580}{104641}-What, with a lawsuit?|-No. With that song.
+{104645}{104715}-Which song?|-The song I just played you.
+{104750}{104808}-It's a ballad.|-So what?
+{104812}{104880}-You want me to hand them a ballad?|-That's right.
+{104884}{104944}You're kidding, right?|Tell me you're kidding.
+{104948}{105011}No. I'm not fucking kidding.
+{105020}{105102}-Alex was right.|-Alex was right?
+{105106}{105214}-The other song doesn't pull you in.|-It pulled me right across the room.
+{105378}{105410}I'm serious.
+{105414}{105479}-Is this about Alex?|-No.
+{105483}{105563}Alex doesn't know about this.|She's into flies and domination.
+{105567}{105606}Determinism.
+{105610}{105642}-lan.|-Jane.
+{105646}{105689}lan!
+{105695}{105738}Do you like it?
+{105811}{105861}-Jane?|-What?
+{105865}{105935}-Did you?|-Yeah.
+{105942}{105982}Yeah?
+{106004}{106050}I said I did.
+{106065}{106150}Well, all right then.|Let's just finish the record, darling.
+{106154}{106238}I can't stand to watch Claudia|wank you off any longer.
+{106242}{106286}It's starting to make me jealous.
+{108538}{108581}Oh, God. Sorry. Excuse me.
+{108585}{108646}Sam? Hold on one second.|I'm just gonna--
+{108650}{108692}-Hey.|-Hello.
+{108696}{108745}Where?
+{108749}{108801}No, I can't hear you.
+{108891}{108946}There a lot of people there?
+{108950}{109043}Yeah. I guess, like, 15, 20 or so.
+{109068}{109162}Shrimp cocktail|and something else.
+{109166}{109250}No, I didn't see any crab cakes.
+{109259}{109359}-Do you want to come up?|-No. I probably won't.
+{109363}{109459}No. No, stay.|Yeah, yeah, I'm sure.
+{109463}{109519}Okay. I will.
+{109523}{109580}I promise.
+{109680}{109717}Were you trailing me?
+{109724}{109773}Maybe.
+{109777}{109843}Why didn't you catch up to me?
+{109951}{109987}Sara?
+{110034}{110107}I was sublimating you.
+{110348}{110455}You're not meant to be in a band.|You're meant to work in a bank.
+{110459}{110505}And everything else is happening.
+{110798}{110875}I'm not usually so aggressive.
+{110897}{110971}-I don't believe that.|-I'm not.
+{111026}{111068}I just....
+{111072}{111145}I don't really know you. I....
+{111172}{111231}I just feel connected to you.|I feel....
+{111239}{111361}I feel safe with you,|like it's okay to be honest.
+{111415}{111485}It's just one of those things.
+{111528}{111599}I'm just attracted to you.
+{111603}{111729}And it's not just because|I think you're incredibly sexy.
+{111876}{112006}I think that you're incredibly|attractive too, Sara. I do.
+{112039}{112089}You do?
+{112100}{112168}Yeah. I think about you.
+{112185}{112233}Trust me.
+{112259}{112306}A lot.
+{112328}{112400}How do you think about me?
+{112430}{112478}How?
+{112488}{112532}Yeah.
+{112548}{112625}Do you think about|having sex with me?
+{112711}{112762}Yeah.
+{112766}{112817}How?
+{112889}{112966}How do I think about|having sex with you?
+{112970}{113002}Yeah.
+{113006}{113087}Do you think about me|going down on you?
+{113147}{113194}Yeah.
+{113228}{113322}-That's part of it.|-Yeah, me too.
+{113340}{113409}I think about how you'd taste.
+{113445}{113515}I'm sure you'd taste sweeter.
+{113569}{113642}-Do you resist me?|-No.
+{113646}{113722}-Do you give yourself over?|-Yeah.
+{113726}{113804}-Completely?|-Completely.
+{113869}{113920}That gets me off.
+{113927}{113981}You're easy.
+{113989}{114068}No. With you I am.
+{114140}{114203}So do I get to...?
+{114223}{114308}Do I get to work on you|for a while...
+{114337}{114402}...or do we just fall asleep?
+{114437}{114530}You can work on me|all night long.
+{116199}{116263}I mean, you're with someone.
+{116297}{116368}Why would I let myself|fall in love with you?
+{116390}{116431}What, like...
+{116435}{116530}...I'm just an object to you?|I'm just, like, a piece of ass?
+{116534}{116608}-You just looking to get laid?|-Yeah. Right.
+{116675}{116776}-God, you're like a girl.|-Oh, thanks. That's really flattering.
+{116780}{116871}Yeah, it is.|Maybe that's why I like you.
+{116879}{116961}Are you having a sexuality crisis?
+{116975}{117088}No. I'm not having|any kind of crisis.
+{117162}{117229}You're lucky, you know that?
+{117245}{117326}No. I don't know that.
+{117359}{117420}Why am I lucky?
+{117467}{117530}You can control your heart.
+{118392}{118493}-Hey, thanks for coming out, Darla.|-Good night. Thank you.
+{118511}{118549}-It sounds amazing.|-Thanks.
+{118553}{118632}-I'll get the rest this week.|-Yeah, no problem. Good night.
+{118974}{119043}Hello? Yeah.|It's lan in the penthouse.
+{119047}{119108}We need another bottle|of Chateau Marmont.
+{119112}{119189}Sorry. Dom Perignon.
+{119193}{119251}Cheers. Thanks.
+{119546}{119614}I think it's more comfortable inside.
+{120665}{120725}I think it's one of the best records|I've done.
+{120729}{120817}I think it's the best record|you've done too.
+{120832}{120904}I didn't say "the best."
+{120913}{121029}-She said the best, didn't she?|-I thought she said "the last."
+{121053}{121095}You see?
+{121099}{121172}You saved the best for last.
+{121182}{121252}I know it's not the last.
+{121384}{121449}No, don't go. Don't go.
+{121453}{121542}-You should get some sleep.|-No, we never sleep.
+{121748}{121798}Why have you got your clothes on?
+{121841}{121961}-What are you talking about?|-You look so much better with them off.
+{122063}{122112}Come here.
+{122185}{122266}We've been entertaining you|for a while...
+{122270}{122346}...so why don't you entertain us?
+{122446}{122499}What do you want me to do?
+{122589}{122634}Finish it.
+{124324}{124410}Look, you give her an inch,|she takes a mile.
+{125415}{125474}I think we should stop.
+{125555}{125614}Oh, babe.
+{125621}{125687}Come on. Not now.
+{125697}{125756}-I'm sorry.|-No.
+{125760}{125808}You're right. I....
+{125812}{125858}I didn't....
+{125862}{125912}Sorry.
+{125955}{126026}Can I talk to you for a second?
+{126147}{126255}-You should be with her if you want.|-I don't want to. I wanna be with you.
+{126297}{126365}-I want you to be with her.|-I can't be with her.
+{126369}{126429}-Why not?|-She's Sam's girlfriend.
+{126433}{126494}They're about to break up.|It's obvious.
+{126498}{126616}-She's throwing herself at us.|-She's throwing herself, I can't do it.
+{126664}{126721}Jane....
+{126765}{126864}Look, I've done some weird shit|in my life, and I'm glad I have...
+{126868}{126972}...because I have enjoyed 99 % of it, but|I'm not screwing my son's girlfriend...
+{126976}{127040}...and I won't lay there|and watch you do it.
+{127044}{127095}Oh, who's gonna know?
+{127146}{127200}I'll know.
+{127465}{127556}-Hey. What took you so long?|-Sorry.
+{127560}{127602}Just crushing the grapes.
+{127606}{127651}Back here.
+{127953}{128011}-Is everything all right?|-Yeah.
+{128015}{128049}Sorted.
+{128053}{128105}Put it right there.
+{128113}{128167}No worries.
+{128315}{128347}Is this the party?
+{128403}{128457}What are you doing here?
+{128490}{128556}You're a sick pig. You know that?
+{128560}{128644}-Nothing-- Nothing--|-You're a fucking greedy punk.
+{128648}{128691}Okay, mate, slow down.
+{128695}{128749}Who the fuck do you think you are?
+{128753}{128837}-Stop it!|-Get the fuck off me, you nutter!
+{128866}{128914}Stop it!
+{128924}{128962}Oh, you cunt!
+{128966}{129041}Jesus Christ. Sam, stop it.
+{129100}{129150}-What are you doing?|-What am I doing?
+{129154}{129220}-What the fuck were you doing?|-Are you all right?
+{129224}{129273}Oh, shit!
+{129277}{129353}-It's not what you think it is.|-You have lost your shit!
+{129357}{129435}-It's not her fault. It's my fault.|-No, it is my fault.
+{129439}{129490}Well, it's not my fucking fault!
+{129826}{129891}-You're not getting away with this.|-What?
+{129895}{129952}-Shutting me out!|-You reduce it to that?
+{129957}{130038}Jesus! Get some therapy!|Finally, please, get some help!
+{130042}{130098}-You get some therapy!|-I don't need it!
+{130102}{130186}-That is exactly your problem!|-My problem? You're unbelievable!
+{130190}{130288}This is why I never come back! Things|always spin out of control with you!
+{130292}{130358}You're like a 2-year-old.|Like a fucking infant!
+{130362}{130402}How did you get to be so rigid?
+{130406}{130478}At least I'm living in reality!|At least I have dignity!
+{130482}{130547}Dignity? Jesus!|Why are you so afraid?
+{130551}{130620}Afraid? What are you talking about?|You're insane!
+{130624}{130684}Jane? I'm sorry, can I ask you|to step outside?
+{130688}{130733}Fuck you, Phillip.
+{130737}{130784}I'm sorry--|Can I get you some ice?
+{130788}{130828}Yes!
+{130970}{131043}I know. I know.
+{131047}{131098}It was my fault.
+{131115}{131180}-It just happened.|-These things don't just happen.
+{131184}{131252}-You got out of bed with--|-I didn't sleep with her.
+{131257}{131342}-No details! Not one fucking detail!|-I don't know what happened.
+{131347}{131452}-I got caught up. I got confused.|-Confused? Psychotic is more like it!
+{131456}{131538}I didn't think. I didn't think.
+{131543}{131611}-I never learned.|-Learned what?
+{131615}{131665}-This!|-This? What is this?
+{131670}{131752}-How to fuck up!|-You have fucking mastered it!
+{131756}{131801}It didn't mean anything to me!
+{131819}{131883}I don't want them!|I don't feel anything for them!
+{131887}{131954}I don't want either of them.|I want you!
+{131958}{132050}I wanna be with you, you asshole!|You fucking stupid, fucking asshole!
+{132054}{132121}Stupid asshole?|I'm fucking keeping this together!
+{132125}{132232}I'm fucking trying to keep this together!|I wanna make it right!
+{133591}{133686}-How you doing? You all right?|-Yeah, okay.
+{133732}{133772}I....
+{133786}{133831}I wanted to apologize.
+{133836}{133907}Oh, no, we finished with that|sorry business already.
+{133912}{133971}Sorry for getting you|into this situation.
+{133975}{134091}No, you didn't get me into anything.|I got myself into whatever we got into.
+{134096}{134209}-I was just curious about you.|-And I, you.
+{134213}{134279}You're the least likely person|in the world for me.
+{134283}{134345}-Are you insulting me now?|-No.
+{134371}{134426}No, not at all.
+{134465}{134512}A compliment.
+{134544}{134604}I think you helped me.
+{134636}{134731}Okay, a little positivity.
+{134746}{134840}Yeah, you helped open me up.
+{134845}{134922}Yeah, and I would've opened you up|further if I had my way.
+{134926}{135004}-That's disgusting.|-No, not really. It's honest.
+{135042}{135126}-You should work on your manners.|-I know.
+{135130}{135218}I'm trying, believe me.
+{135858}{135917}I wanna tell you something.
+{136012}{136060}All right.
+{136252}{136320}It doesn't matter|who's right or wrong.
+{136348}{136431}I made mistakes, a lot of them,|I know that.
+{136435}{136480}I live with them every day.
+{136531}{136652}The hardest thing I live with is knowing|how much I've disappointed you.
+{136754}{136817}I haven't been a very good parent.
+{136863}{136912}I know that.
+{136934}{136969}I fucked up.
+{137078}{137132}But I've always loved you.
+{137221}{137276}You're my baby, man.
+{137861}{137907}Hello?
+{137925}{138005}Yeah. May I say who's calling?
+{138093}{138140}You've got a lovely accent, Sara.
+{138144}{138194}Very compelling.
+{138198}{138244}Where are you from?
+{138289}{138382}What a coincidence.|I'm eating a bagel right now.
+{138396}{138440}Hang on.
+{138470}{138554}It's Sara from Israel for you.
+{138679}{138756}{Y:i}-Hey.|-Hi.
+{138761}{138820}I just wanted to make sure|you were okay.
+{138824}{138859}{Y:i}Yeah.
+{138878}{138978}Yeah, I'm just taking|a mental health day.
+{138997}{139061}How is your mental health?
+{139099}{139236}Haven't quite gotten to mine yet.|I'm still dealing with everyone else's.
+{139274}{139369}It's not true, that thing|you said last night.
+{139374}{139440}What thing I said last night?
+{139445}{139505}The thing about my heart.
+{139509}{139555}It's not true at all.
+{139584}{139644}{Y:i}I can't control my heart.
+{139667}{139718}I mean...
+{139728}{139812}...I wouldn't want to even if I could.
+{140401}{140483}{Y:i}-Sara?|-Yeah.
+{140548}{140600}Can I call you right back?
+{140604}{140644}{Y:i}Yeah.
+{148399}{148424}Subtitles by|SDI Media Group

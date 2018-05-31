@@ -1,0 +1,924 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: No Country for Old Men (2007) BluRay 23.976fps 122.10mn Eng
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,22,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:37.75,0:00:41.88,Default,,0,0,0,,{\i1\c&H00ffff&}I was sheriff of this\Ncounty when I was 25 years old.{\c}{\i0}
+Dialogue: 0,0:00:41.89,0:00:43.82,Default,,0,0,0,,{\i1\c&H00ffff&}Hard to believe.{\c}{\i0}
+Dialogue: 0,0:00:43.92,0:00:48.26,Default,,0,0,0,,{\i1\c&H00ffff&}My grandfather was a lawman. Father too.{\c}{\i0}
+Dialogue: 0,0:00:48.36,0:00:53.16,Default,,0,0,0,,{\i1\c&H00ffff&}Me and him was sheriffs at the same\Ntime, him up in Plano and me out here.{\c}{\i0}
+Dialogue: 0,0:00:53.26,0:00:55.56,Default,,0,0,0,,{\i1\c&H00ffff&}I think he's pretty proud of that.{\c}{\i0}
+Dialogue: 0,0:00:56.42,0:00:58.17,Default,,0,0,0,,{\i1\c&H00ffff&}I know I was.{\c}{\i0}
+Dialogue: 0,0:00:59.47,0:01:02.52,Default,,0,0,0,,{\i1\c&H00ffff&}Some of the old-time sheriffs\Nnever even wore a gun.{\c}{\i0}
+Dialogue: 0,0:01:02.62,0:01:06.68,Default,,0,0,0,,{\i1\c&H00ffff&}Folks find that hard to believe.\NJim Scarborough never carried one.{\c}{\i0}
+Dialogue: 0,0:01:06.78,0:01:08.28,Default,,0,0,0,,{\i1\c&H00ffff&}That's the younger Jim.{\c}{\i0}
+Dialogue: 0,0:01:08.38,0:01:12.83,Default,,0,0,0,,{\i1\c&H00ffff&}Gaston Boykins wouldn't wear\None up in Comanche County.{\c}{\i0}
+Dialogue: 0,0:01:12.93,0:01:16.47,Default,,0,0,0,,{\i1\c&H00ffff&}I always liked to hear\Nabout the old-timers.{\c}{\i0}
+Dialogue: 0,0:01:16.57,0:01:19.11,Default,,0,0,0,,{\i1\c&H00ffff&}Never missed a chance to do so.{\c}{\i0}
+Dialogue: 0,0:01:19.21,0:01:23.79,Default,,0,0,0,,{\i1\c&H00ffff&}You can't help but compare\Nyourself against the old-timers.{\c}{\i0}
+Dialogue: 0,0:01:23.89,0:01:27.95,Default,,0,0,0,,{\i1\c&H00ffff&}Can't help but wonder how they'd\Nhave operated these times.{\c}{\i0}
+Dialogue: 0,0:01:28.05,0:01:32.87,Default,,0,0,0,,{\i1\c&H00ffff&}There's this boy I sent to the electric\Nchair at Huntsville here a while back.{\c}{\i0}
+Dialogue: 0,0:01:32.97,0:01:36.62,Default,,0,0,0,,{\i1\c&H00ffff&}My arrest and my testimony.{\c}{\i0}
+Dialogue: 0,0:01:37.66,0:01:41.03,Default,,0,0,0,,{\i1\c&H00ffff&}He killed a 14-year-old girl.{\c}{\i0}
+Dialogue: 0,0:01:41.13,0:01:43.46,Default,,0,0,0,,{\i1\c&H00ffff&}Paper said it was a crime of passion,{\c}{\i0}
+Dialogue: 0,0:01:43.56,0:01:46.37,Default,,0,0,0,,{\i1\c&H00ffff&}but he told me there\Nwasn't any passion to it.{\c}{\i0}
+Dialogue: 0,0:01:46.47,0:01:50.79,Default,,0,0,0,,{\i1\c&H00ffff&}Told me he'd planned to kill somebody\Nfor as long as he could remember.{\c}{\i0}
+Dialogue: 0,0:01:50.89,0:01:53.66,Default,,0,0,0,,{\i1\c&H00ffff&}Said if they turned him out,\Nhe'd do it again.{\c}{\i0}
+Dialogue: 0,0:01:53.76,0:01:56.51,Default,,0,0,0,,{\i1\c&H00ffff&}Said he knew he was going to hell.{\c}{\i0}
+Dialogue: 0,0:01:56.61,0:01:58.88,Default,,0,0,0,,{\i1\c&H00ffff&}Be there in about 15 minutes.{\c}{\i0}
+Dialogue: 0,0:01:58.98,0:02:01.78,Default,,0,0,0,,{\i1\c&H00ffff&}I don't know what to make of that.{\c}{\i0}
+Dialogue: 0,0:02:01.88,0:02:05.28,Default,,0,0,0,,{\i1\c&H00ffff&}I sure do don't.{\c}{\i0}
+Dialogue: 0,0:02:05.39,0:02:08.79,Default,,0,0,0,,{\i1\c&H00ffff&}The crime you see now, it's\Nhard to even take its measure.{\c}{\i0}
+Dialogue: 0,0:02:10.09,0:02:13.49,Default,,0,0,0,,{\i1\c&H00ffff&}It's not that I'm afraid of it.{\c}{\i0}
+Dialogue: 0,0:02:13.59,0:02:18.30,Default,,0,0,0,,{\i1\c&H00ffff&}I always knew you had to be willing\Nto die to even do this job.{\c}{\i0}
+Dialogue: 0,0:02:18.40,0:02:22.67,Default,,0,0,0,,{\i1\c&H00ffff&}But I don't want to push\Nmy chips forward and go out{\c}{\i0}
+Dialogue: 0,0:02:22.77,0:02:26.61,Default,,0,0,0,,{\i1\c&H00ffff&}and meet something I don't understand.{\c}{\i0}
+Dialogue: 0,0:02:29.98,0:02:33.21,Default,,0,0,0,,{\i1\c&H00ffff&}A man would have\Nto put his soul at hazard.{\c}{\i0}
+Dialogue: 0,0:02:34.51,0:02:36.85,Default,,0,0,0,,{\i1\c&H00ffff&}He'd have to say, «OK.»{\c}{\i0}
+Dialogue: 0,0:02:40.70,0:02:43.07,Default,,0,0,0,,{\i1\c&H00ffff&}«I'll be part of this world.»{\c}{\i0}
+Dialogue: 0,0:02:44.53,0:02:47.28,Default,,0,0,0,,Yes, sir, I just walked in the door.
+Dialogue: 0,0:02:47.38,0:02:49.31,Default,,0,0,0,,He had some sort of thing on him,
+Dialogue: 0,0:02:49.41,0:02:52.95,Default,,0,0,0,,like a oxygen tank\Nfor emphysema or something,
+Dialogue: 0,0:02:53.05,0:02:55.28,Default,,0,0,0,,and a hose that run down his sleeve.
+Dialogue: 0,0:02:55.39,0:02:57.95,Default,,0,0,0,,{\i1\c&H00ffff&}Oxygen tank?\NWhat the hell's he got that for?{\c}{\i0}
+Dialogue: 0,0:02:58.05,0:03:00.76,Default,,0,0,0,,You got me. Well, you can\Nlook at it when you get in.
+Dialogue: 0,0:03:00.86,0:03:05.39,Default,,0,0,0,,{\i1\c&H00ffff&}- I'll be down there in a bit.{\c}{\i0} \N- Yes, sir, I got it under control.
+Dialogue: 0,0:04:05.00,0:04:15.00,Default,,0,0,0,,{\b1\c&Hc0c0c0&}FarangSiam thanks you.\NEnjoy!{\c}{\b0}
+Dialogue: 0,0:04:42.11,0:04:46.18,Default,,0,0,0,,- Howdy. What's this about?\N- Step out of the car please, sir.
+Dialogue: 0,0:04:46.28,0:04:47.56,Default,,0,0,0,,What is that?
+Dialogue: 0,0:04:47.66,0:04:50.35,Default,,0,0,0,,I need you to step out of the car, sir.
+Dialogue: 0,0:04:57.69,0:04:59.48,Default,,0,0,0,,- What is that for?\N- Would you...?
+Dialogue: 0,0:04:59.58,0:05:03.00,Default,,0,0,0,,Would you hold still please, sir?
+Dialogue: 0,0:05:32.69,0:05:35.01,Default,,0,0,0,,You hold still.
+Dialogue: 0,0:05:44.15,0:05:45.96,Default,,0,0,0,,Shit.
+Dialogue: 0,0:09:15.15,0:09:17.27,Default,,0,0,0,,{\i1\c&H0080ff&}Agua.{\c}{\i0}\NWater.
+Dialogue: 0,0:09:18.44,0:09:20.30,Default,,0,0,0,,{\i1\c&H0080ff&}Agua.{\c}{\i0}\NWater.
+Dialogue: 0,0:09:32.13,0:09:34.15,Default,,0,0,0,,{\i1\c&H0080ff&}Agua.{\c}{\i0}\NWater.
+Dialogue: 0,0:09:35.77,0:09:37.90,Default,,0,0,0,,I ain't got no water.
+Dialogue: 0,0:09:39.57,0:09:41.77,Default,,0,0,0,,{\i1\c&H0080ff&}Agua.{\c}{\i0}\NWater.
+Dialogue: 0,0:09:49.85,0:09:51.70,Default,,0,0,0,,{\i1\c&H0080ff&}Agua.{\c}{\i0}\NWater.
+Dialogue: 0,0:09:53.02,0:09:55.15,Default,,0,0,0,,I told you I ain't got no {\i1\c&H0080ff&}agua.{\c}{\i0}
+Dialogue: 0,0:10:09.82,0:10:11.45,Default,,0,0,0,,Do you speak English?
+Dialogue: 0,0:10:13.47,0:10:15.17,Default,,0,0,0,,Where's the last guy?
+Dialogue: 0,0:10:15.27,0:10:20.40,Default,,0,0,0,,{\i1\c&H0080ff&}Último hombre{\c}{\i0} , last man standing.\NThere must have been one. Where'd he go?
+Dialogue: 0,0:10:26.47,0:10:29.57,Default,,0,0,0,,I reckon I go out the way I come in.
+Dialogue: 0,0:10:30.06,0:10:31.96,Default,,0,0,0,,{\i1\c&H0080ff&}La puerta...{\c}{\i0}\NThe door...
+Dialogue: 0,0:10:32.01,0:10:35.21,Default,,0,0,0,,{\i1\c&H0080ff&}Hay lobos.{\c}{\i0}\NThere are wolves.
+Dialogue: 0,0:10:35.31,0:10:37.48,Default,,0,0,0,,There ain't no {\i1\c&H0080ff&}lobos.{\c}{\i0}
+Dialogue: 0,0:10:51.63,0:10:55.03,Default,,0,0,0,,{\i1\c&H00ffff&}You stopped to watch your backtrack.{\c}{\i0}
+Dialogue: 0,0:10:56.40,0:10:58.87,Default,,0,0,0,,Now shoot my dumb ass.
+Dialogue: 0,0:11:01.84,0:11:04.64,Default,,0,0,0,,But if you stop,
+Dialogue: 0,0:11:04.71,0:11:06.88,Default,,0,0,0,,you stopped in shade.
+Dialogue: 0,0:13:08.85,0:13:11.08,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:13:18.24,0:13:20.21,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:13:21.38,0:13:23.15,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:14:17.57,0:14:19.63,Default,,0,0,0,,{\i1\c&H00ff80&}My place is wrong?{\c}{\i0}
+Dialogue: 0,0:14:19.74,0:14:23.57,Default,,0,0,0,,{\i1\c&H00ff80&}Yours is the first place Danzer\Nand Dora will look if they...{\c}{\i0}
+Dialogue: 0,0:14:23.67,0:14:25.91,Default,,0,0,0,,{\i1\c&H00ff80&}If they know.{\c}{\i0}
+Dialogue: 0,0:14:27.14,0:14:30.81,Default,,0,0,0,,- What's in the satchel?\N- It's full of money.
+Dialogue: 0,0:14:30.91,0:14:33.08,Default,,0,0,0,,That would be the day.
+Dialogue: 0,0:14:33.18,0:14:36.13,Default,,0,0,0,,- Where'd you get the pistol?\N- At the gettin' place.
+Dialogue: 0,0:14:37.40,0:14:40.79,Default,,0,0,0,,- Did you buy that gun?\N- No. I found it.
+Dialogue: 0,0:14:42.63,0:14:45.86,Default,,0,0,0,,- Llewelyn.\N- What? Quit your hollering.
+Dialogue: 0,0:14:45.96,0:14:49.46,Default,,0,0,0,,What'd you get for that thing?
+Dialogue: 0,0:14:49.57,0:14:52.68,Default,,0,0,0,,You don't need to know\Neverything, Carla Jean.
+Dialogue: 0,0:14:52.79,0:14:56.15,Default,,0,0,0,,- I need to know that.\N- Keep running that mouth of yours,
+Dialogue: 0,0:14:56.26,0:14:58.92,Default,,0,0,0,,I'm gonna take you\Nin the back and screw you.
+Dialogue: 0,0:14:59.03,0:15:02.19,Default,,0,0,0,,- Big talk.\N- Keep it up.
+Dialogue: 0,0:15:02.29,0:15:05.35,Default,,0,0,0,,Fine. I don't want to know.
+Dialogue: 0,0:15:05.45,0:15:09.38,Default,,0,0,0,,I don't even want to know\Nwhere you been all day.
+Dialogue: 0,0:15:09.49,0:15:11.39,Default,,0,0,0,,That'll work.
+Dialogue: 0,0:15:25.12,0:15:27.05,Default,,0,0,0,,All right.
+Dialogue: 0,0:15:32.66,0:15:35.19,Default,,0,0,0,,- Llewelyn?\N- Yeah?
+Dialogue: 0,0:15:37.13,0:15:40.77,Default,,0,0,0,,- What're you doing, baby?\N- I'm going out.
+Dialogue: 0,0:15:40.87,0:15:42.77,Default,,0,0,0,,Going where?
+Dialogue: 0,0:15:42.87,0:15:45.74,Default,,0,0,0,,A little something I forgot\Nto do, but I'll be back.
+Dialogue: 0,0:15:45.84,0:15:49.22,Default,,0,0,0,,- And what're you gonna do?\N- I'm fixing to do something
+Dialogue: 0,0:15:49.33,0:15:52.13,Default,,0,0,0,,dumber than hell, but I'm going anyways.
+Dialogue: 0,0:15:53.63,0:15:56.40,Default,,0,0,0,,If I don't come back,\Nyou tell Mother I love her.
+Dialogue: 0,0:15:57.53,0:15:59.60,Default,,0,0,0,,Your mother's dead, Llewelyn.
+Dialogue: 0,0:16:03.61,0:16:05.94,Default,,0,0,0,,Well, then I'll tell her myself.
+Dialogue: 0,0:20:58.90,0:21:02.27,Default,,0,0,0,,- How much?\N- Sixty-nine cents.
+Dialogue: 0,0:21:02.37,0:21:03.87,Default,,0,0,0,,And the gas?
+Dialogue: 0,0:21:03.97,0:21:07.39,Default,,0,0,0,,Y'all getting any rain up your way?
+Dialogue: 0,0:21:07.39,0:21:12.03,Default,,0,0,0,,- What way would that be?\N- Well, I seen you was from Dallas.
+Dialogue: 0,0:21:13.23,0:21:17.00,Default,,0,0,0,,What business is it of yours\Nwhere I'm from...
+Dialogue: 0,0:21:18.09,0:21:19.87,Default,,0,0,0,,{\i1\c&H0080ff&}...friend-o?{\c}{\i0}
+Dialogue: 0,0:21:21.11,0:21:25.13,Default,,0,0,0,,- Well, I didn't mean nothing by it.\N- You didn't mean nothing?
+Dialogue: 0,0:21:25.23,0:21:28.60,Default,,0,0,0,,I was just passing the time.
+Dialogue: 0,0:21:28.78,0:21:32.97,Default,,0,0,0,,If you don't want to accept that,\NI don't know what else I can do for you.
+Dialogue: 0,0:21:35.81,0:21:39.32,Default,,0,0,0,,- Will there be something else?\N- I don't know. Will there?
+Dialogue: 0,0:21:45.51,0:21:47.58,Default,,0,0,0,,- Is something wrong?\N- With what?
+Dialogue: 0,0:21:47.58,0:21:49.55,Default,,0,0,0,,With anything.
+Dialogue: 0,0:21:49.65,0:21:54.05,Default,,0,0,0,,Is that what you're asking me?\NIs there something wrong with anything?
+Dialogue: 0,0:21:54.16,0:21:57.91,Default,,0,0,0,,- Will there be anything else?\N- You already asked me that.
+Dialogue: 0,0:22:00.93,0:22:04.37,Default,,0,0,0,,- Well, I need to see about closing now.\N- See about closing?
+Dialogue: 0,0:22:04.47,0:22:06.33,Default,,0,0,0,,- Yes, sir.\N- What time do you close?
+Dialogue: 0,0:22:06.44,0:22:08.55,Default,,0,0,0,,- Now. We close now.\N- Now is not a time.
+Dialogue: 0,0:22:08.65,0:22:13.21,Default,,0,0,0,,- What time do you close?\N- Generally around dark. At dark.
+Dialogue: 0,0:22:16.13,0:22:19.03,Default,,0,0,0,,You don't know what\Nyou're talking about, do you?
+Dialogue: 0,0:22:19.13,0:22:20.88,Default,,0,0,0,,Sir?
+Dialogue: 0,0:22:20.98,0:22:25.25,Default,,0,0,0,,I said you don't know\Nwhat you're talking about.
+Dialogue: 0,0:22:27.26,0:22:29.56,Default,,0,0,0,,- What time do you go to bed?\N- Sir?
+Dialogue: 0,0:22:29.66,0:22:33.88,Default,,0,0,0,,You're a bit deaf, aren't you? I\Nsaid, what time do you go to bed?
+Dialogue: 0,0:22:35.36,0:22:37.80,Default,,0,0,0,,Oh.
+Dialogue: 0,0:22:37.90,0:22:41.75,Default,,0,0,0,,Somewhere around 9:30.\NI'd say around 9:30.
+Dialogue: 0,0:22:41.85,0:22:43.14,Default,,0,0,0,,I could come back then.
+Dialogue: 0,0:22:43.34,0:22:45.76,Default,,0,0,0,,Why would you be coming back?\NWe'll be closed.
+Dialogue: 0,0:22:45.81,0:22:48.49,Default,,0,0,0,,Yeah, you said that.
+Dialogue: 0,0:22:48.51,0:22:54.02,Default,,0,0,0,,- Well, I got to close now.\N- You live in that house out back?
+Dialogue: 0,0:22:54.12,0:22:57.85,Default,,0,0,0,,- Yes, I do.\N- You lived here all your life?
+Dialogue: 0,0:22:58.97,0:23:03.01,Default,,0,0,0,,Well, this is my wife's\Nfather's place, originally.
+Dialogue: 0,0:23:03.11,0:23:06.78,Default,,0,0,0,,You married into it?
+Dialogue: 0,0:23:06.88,0:23:11.73,Default,,0,0,0,,We lived in Temple, Texas. for many years.
+Dialogue: 0,0:23:11.83,0:23:14.72,Default,,0,0,0,,Raised a family there. In Temple.
+Dialogue: 0,0:23:14.94,0:23:18.87,Default,,0,0,0,,- We come out here about four years ago.\N- You married into it?
+Dialogue: 0,0:23:18.97,0:23:21.26,Default,,0,0,0,,If that's the way you want to put it.
+Dialogue: 0,0:23:21.36,0:23:24.28,Default,,0,0,0,,Well, I don't have some way to put it.
+Dialogue: 0,0:23:24.38,0:23:26.26,Default,,0,0,0,,That's the way it is.
+Dialogue: 0,0:23:33.82,0:23:36.84,Default,,0,0,0,,What's the most you ever lost\Non a coin toss?
+Dialogue: 0,0:23:36.94,0:23:41.96,Default,,0,0,0,,- Sir?\N- The most you ever lost on a coin toss?
+Dialogue: 0,0:23:42.06,0:23:45.95,Default,,0,0,0,,Oh, I don't know. I couldn't say.
+Dialogue: 0,0:23:48.50,0:23:50.05,Default,,0,0,0,,- Call it.\N- Call it?
+Dialogue: 0,0:23:50.16,0:23:52.32,Default,,0,0,0,,- Yes.\N- For what?
+Dialogue: 0,0:23:52.42,0:23:54.16,Default,,0,0,0,,Just call it.
+Dialogue: 0,0:23:56.18,0:23:59.95,Default,,0,0,0,,Well, we need to know\Nwhat we're calling it for here.
+Dialogue: 0,0:24:00.05,0:24:03.20,Default,,0,0,0,,You need to call it.\NI can't call it for you.
+Dialogue: 0,0:24:03.30,0:24:06.62,Default,,0,0,0,,- Or it wouldn't be fair.\N- I didn't put nothing up.
+Dialogue: 0,0:24:06.72,0:24:10.31,Default,,0,0,0,,Yes, you did. You've been\Nputting it up your whole life.
+Dialogue: 0,0:24:10.41,0:24:12.43,Default,,0,0,0,,You just didn't know it.
+Dialogue: 0,0:24:12.53,0:24:15.55,Default,,0,0,0,,- You know what date is on this coin?\N- No.
+Dialogue: 0,0:24:15.78,0:24:20.03,Default,,0,0,0,,1958. It's been traveling\N22 years to get here.
+Dialogue: 0,0:24:20.14,0:24:24.96,Default,,0,0,0,,And now it's here.\NAnd it's either heads or tails.
+Dialogue: 0,0:24:25.06,0:24:26.46,Default,,0,0,0,,You have to say. Call it.
+Dialogue: 0,0:24:26.56,0:24:29.81,Default,,0,0,0,,Well, look, I need to know\Nwhat I stand to win.
+Dialogue: 0,0:24:29.91,0:24:32.86,Default,,0,0,0,,- Everything.\N- How's that?
+Dialogue: 0,0:24:32.96,0:24:35.77,Default,,0,0,0,,You stand to win everything. Call it.
+Dialogue: 0,0:24:39.74,0:24:43.41,Default,,0,0,0,,All right. Heads, then.
+Dialogue: 0,0:24:47.88,0:24:49.28,Default,,0,0,0,,Well done.
+Dialogue: 0,0:24:50.93,0:24:53.08,Default,,0,0,0,,- Don't put it in your pocket.\N- Sir?
+Dialogue: 0,0:24:53.19,0:24:56.72,Default,,0,0,0,,Don't put it in your pocket.\NIt's your lucky quarter.
+Dialogue: 0,0:24:56.82,0:24:58.41,Default,,0,0,0,,Where do you want me to put it?
+Dialogue: 0,0:24:58.51,0:25:00.32,Default,,0,0,0,,Anywhere not in your pocket.
+Dialogue: 0,0:25:00.43,0:25:05.21,Default,,0,0,0,,Or it'll get mixed in with the\Nothers and become just a coin.
+Dialogue: 0,0:25:08.23,0:25:09.82,Default,,0,0,0,,Which it is.
+Dialogue: 0,0:25:20.48,0:25:22.08,Default,,0,0,0,,Llewelyn?
+Dialogue: 0,0:25:24.67,0:25:27.72,Default,,0,0,0,,What the hell?
+Dialogue: 0,0:25:27.82,0:25:30.64,Default,,0,0,0,,- Odessa.\N- Why would we go to Odessa?
+Dialogue: 0,0:25:30.74,0:25:34.38,Default,,0,0,0,,No, not we. You.\NYou stay with your mother.
+Dialogue: 0,0:25:34.48,0:25:35.58,Default,,0,0,0,,Well, how come?
+Dialogue: 0,0:25:35.68,0:25:37.68,Default,,0,0,0,,Look, right now it's midnight Sunday.
+Dialogue: 0,0:25:37.78,0:25:39.73,Default,,0,0,0,,Courthouse opens nine hours from now.
+Dialogue: 0,0:25:39.83,0:25:44.09,Default,,0,0,0,,Someone's gonna call in the number\Non the inspection plate of my truck.
+Dialogue: 0,0:25:44.19,0:25:46.42,Default,,0,0,0,,And around 9:30, they'll show up here.
+Dialogue: 0,0:25:46.52,0:25:48.99,Default,,0,0,0,,- How long do we...?\N- What point would you quit
+Dialogue: 0,0:25:49.09,0:25:52.49,Default,,0,0,0,,bothering to look\Nfor your two million dollars?
+Dialogue: 0,0:25:52.59,0:25:54.53,Default,,0,0,0,,What am I supposed to tell Mama?
+Dialogue: 0,0:25:54.63,0:25:57.37,Default,,0,0,0,,Stand in the door and holler,\N«Mama, I'm home!»?
+Dialogue: 0,0:25:57.47,0:25:59.62,Default,,0,0,0,,- Llewelyn.\N- Come on, pack your things.
+Dialogue: 0,0:25:59.72,0:26:02.92,Default,,0,0,0,,Anything you leave,\Nyou ain't gonna see again.
+Dialogue: 0,0:26:04.02,0:26:07.99,Default,,0,0,0,,Well, don't fall down apologizing.
+Dialogue: 0,0:26:08.09,0:26:10.53,Default,,0,0,0,,Oh, baby, things happen.
+Dialogue: 0,0:26:11.25,0:26:13.48,Default,,0,0,0,,Come on, I can't take them back.
+Dialogue: 0,0:26:35.90,0:26:37.84,Default,,0,0,0,,Mind riding bitch?
+Dialogue: 0,0:26:50.34,0:26:53.04,Default,,0,0,0,,- This his truck?\N- Mm-hmm.
+Dialogue: 0,0:26:56.98,0:26:58.91,Default,,0,0,0,,Got a screwgie?
+Dialogue: 0,0:27:01.55,0:27:07.15,Default,,0,0,0,,- Who cut his tires?\N- Mexicans, I guess. Wasn't us.
+Dialogue: 0,0:27:07.25,0:27:10.66,Default,,0,0,0,,- That is a dead dog.\N- Yes, it is.
+Dialogue: 0,0:27:13.79,0:27:16.99,Default,,0,0,0,,- Where's the receiver?\N- I've got it.
+Dialogue: 0,0:27:17.10,0:27:20.67,Default,,0,0,0,,These are some ripe petunias.
+Dialogue: 0,0:27:20.83,0:27:22.85,Default,,0,0,0,,Hold this, please.
+Dialogue: 0,0:27:30.48,0:27:32.41,Default,,0,0,0,,Want it?
+Dialogue: 0,0:27:34.33,0:27:37.97,Default,,0,0,0,,- Getting anything on this?\N- Not a bleep.
+Dialogue: 0,0:27:38.07,0:27:40.00,Default,,0,0,0,,All right.
+Dialogue: 0,0:27:42.65,0:27:44.44,Default,,0,0,0,,Give me that.
+Dialogue: 0,0:27:54.15,0:27:56.62,Default,,0,0,0,,- I thought it was a car afire.\N- It is a car afire.
+Dialogue: 0,0:27:56.72,0:27:59.92,Default,,0,0,0,,Wendell said there's something\Nin the back country too.
+Dialogue: 0,0:28:00.02,0:28:01.29,Default,,0,0,0,,Step in there.
+Dialogue: 0,0:28:01.39,0:28:04.19,Default,,0,0,0,,When's the county gonna start\Npaying rent on my horse?
+Dialogue: 0,0:28:04.29,0:28:07.53,Default,,0,0,0,,- I love you more and more every day.\N- That's very nice.
+Dialogue: 0,0:28:08.90,0:28:10.35,Default,,0,0,0,,- Be careful.\N- Always am.
+Dialogue: 0,0:28:10.45,0:28:12.22,Default,,0,0,0,,- Don't get hurt.\N- Never do.
+Dialogue: 0,0:28:12.32,0:28:14.54,Default,,0,0,0,,Don't hurt no one.
+Dialogue: 0,0:28:16.60,0:28:18.72,Default,,0,0,0,,If you say so.
+Dialogue: 0,0:28:52.66,0:28:57.26,Default,,0,0,0,,- Wouldn't think a car'd burn like that.\N- Yes, sir.
+Dialogue: 0,0:28:57.26,0:28:58.80,Default,,0,0,0,,We should've brought wienies.
+Dialogue: 0,0:28:58.90,0:29:01.83,Default,,0,0,0,,That look like about\Na '77 Ford to you, Wendell?
+Dialogue: 0,0:29:01.93,0:29:05.14,Default,,0,0,0,,- It could be.\N- I'd say it is. Not a doubt in my mind.
+Dialogue: 0,0:29:05.24,0:29:10.21,Default,,0,0,0,,- The old boy shot by the highway?\N- Yes, sir. His vehicle.
+Dialogue: 0,0:29:10.31,0:29:14.50,Default,,0,0,0,,Man killed Lamar's deputy, took his\Ncar, killed that man on the highway,
+Dialogue: 0,0:29:14.60,0:29:20.07,Default,,0,0,0,,swapped for his car, now here it is and\Nhe's swapped again for God knows what.
+Dialogue: 0,0:29:20.17,0:29:23.47,Default,,0,0,0,,That's very linear, sheriff.
+Dialogue: 0,0:29:23.57,0:29:26.54,Default,,0,0,0,,- Age'll flatten a man, Wendell.\N- Yes, sir.
+Dialogue: 0,0:29:26.64,0:29:29.11,Default,,0,0,0,,- Then there's this other.\N- Yeah.
+Dialogue: 0,0:29:30.88,0:29:33.15,Default,,0,0,0,,- You ride Winston.\N- You sure?
+Dialogue: 0,0:29:33.25,0:29:37.52,Default,,0,0,0,,Oh, I'm more than sure. If anything\Nhappens to Loretta's horse out here,
+Dialogue: 0,0:29:37.62,0:29:40.72,Default,,0,0,0,,I can tell you, I don't want\Nto be the party that was aboard.
+Dialogue: 0,0:29:40.82,0:29:45.79,Default,,0,0,0,,It's the same tire tread coming back as\Ngoing. Made about the same time too.
+Dialogue: 0,0:29:45.89,0:29:48.43,Default,,0,0,0,,You can see the sipes real clear.
+Dialogue: 0,0:29:50.23,0:29:54.24,Default,,0,0,0,,Somebody's pried the inspection\Nplate off the door on this one.
+Dialogue: 0,0:29:55.30,0:29:57.91,Default,,0,0,0,,I know this truck.
+Dialogue: 0,0:29:58.01,0:30:00.31,Default,,0,0,0,,Belongs to a feller named Moss.
+Dialogue: 0,0:30:00.41,0:30:03.08,Default,,0,0,0,,- Llewelyn Moss?\N- That's the boy.
+Dialogue: 0,0:30:03.18,0:30:07.28,Default,,0,0,0,,- You figure him for a dope runner?\N- I don't know.
+Dialogue: 0,0:30:07.38,0:30:11.22,Default,,0,0,0,,- I kindly doubt it.\N- O.K. Corral is just yonder.
+Dialogue: 0,0:30:13.32,0:30:16.22,Default,,0,0,0,,Oh, hell's bells, they even shot the dog.
+Dialogue: 0,0:30:18.81,0:30:21.21,Default,,0,0,0,,This is just a deal gone wrong, isn't it?
+Dialogue: 0,0:30:21.31,0:30:25.82,Default,,0,0,0,,Yup. Appears to have been a glitch or two.
+Dialogue: 0,0:30:29.24,0:30:33.16,Default,,0,0,0,,- What calibers you got there, sheriff?\N- Nine-millimeter.
+Dialogue: 0,0:30:33.26,0:30:36.19,Default,,0,0,0,,Couple of .45 ACPs.
+Dialogue: 0,0:30:36.29,0:30:40.40,Default,,0,0,0,,Somebody unloaded on\Nthat thing with a shotgun.
+Dialogue: 0,0:30:42.57,0:30:45.07,Default,,0,0,0,,How come the coyotes ain't been at them?
+Dialogue: 0,0:30:45.17,0:30:47.40,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:30:51.93,0:30:54.76,Default,,0,0,0,,Supposedly, a coyote won't eat a Mexican.
+Dialogue: 0,0:30:54.86,0:30:58.00,Default,,0,0,0,,These boys appear to be managerial.
+Dialogue: 0,0:30:58.10,0:31:01.87,Default,,0,0,0,,I think we're looking at more\Nthan one fracas. Execution here.
+Dialogue: 0,0:31:01.97,0:31:03.80,Default,,0,0,0,,Wild West over there.
+Dialogue: 0,0:31:05.31,0:31:09.68,Default,,0,0,0,,- It's that Mexican brown dope.\N- Oh, these boys is all swole up.
+Dialogue: 0,0:31:09.78,0:31:12.70,Default,,0,0,0,,So this was earlier. Getting set to trade.
+Dialogue: 0,0:31:12.80,0:31:15.42,Default,,0,0,0,,Then, whoa, differences, and...
+Dialogue: 0,0:31:15.52,0:31:19.54,Default,,0,0,0,,- Might not even a been no money.\N- That's possible.
+Dialogue: 0,0:31:19.64,0:31:23.07,Default,,0,0,0,,- But you don't believe it?\N- No.
+Dialogue: 0,0:31:23.18,0:31:25.61,Default,,0,0,0,,Probably I don't.
+Dialogue: 0,0:31:27.51,0:31:30.35,Default,,0,0,0,,Well, it's a mess, ain't it, sheriff?
+Dialogue: 0,0:31:32.02,0:31:35.12,Default,,0,0,0,,If it ain't, it'll do\Ntill the mess gets here.
+Dialogue: 0,0:33:28.73,0:33:30.80,Default,,0,0,0,,Yes, sir?
+Dialogue: 0,0:33:30.90,0:33:34.84,Default,,0,0,0,,- I'm looking for Llewelyn Moss.\N- Did you go up to his trailer?
+Dialogue: 0,0:33:34.94,0:33:37.78,Default,,0,0,0,,- Yes, I did.\N- Well, I'd say he's at work.
+Dialogue: 0,0:33:37.93,0:33:41.18,Default,,0,0,0,,- Do you want to leave a message?\N- Where does he work?
+Dialogue: 0,0:33:41.28,0:33:43.28,Default,,0,0,0,,I can't say.
+Dialogue: 0,0:33:44.85,0:33:46.25,Default,,0,0,0,,Where does he work?
+Dialogue: 0,0:33:46.35,0:33:47.38,Default,,0,0,0,,Sir, I ain't at liberty
+Dialogue: 0,0:33:47.49,0:33:50.76,Default,,0,0,0,,to give out no information\Nabout our residents.
+Dialogue: 0,0:33:51.67,0:33:53.76,Default,,0,0,0,,Where does he work?
+Dialogue: 0,0:33:53.76,0:33:55.73,Default,,0,0,0,,Did you not hear me?
+Dialogue: 0,0:33:55.83,0:33:59.66,Default,,0,0,0,,We can't give out no information.
+Dialogue: 0,0:34:21.10,0:34:25.26,Default,,0,0,0,,- Why all the way to Del Rio?\N- I'm gonna borrow a car from Roberto.
+Dialogue: 0,0:34:25.36,0:34:29.23,Default,,0,0,0,,- You can't afford one?\N- I don't want to register it.
+Dialogue: 0,0:34:29.33,0:34:32.06,Default,,0,0,0,,- Look, I'll call you in a couple days.\N- Promise?
+Dialogue: 0,0:34:32.16,0:34:34.40,Default,,0,0,0,,Yes, I do.
+Dialogue: 0,0:34:34.50,0:34:37.73,Default,,0,0,0,,- I got a bad feeling, Llewelyn.\N- Well, I got a good one.
+Dialogue: 0,0:34:37.76,0:34:39.13,Default,,0,0,0,,So that oughta even out.
+Dialogue: 0,0:34:39.20,0:34:42.57,Default,,0,0,0,,Listen, you gotta quit\Nyour worrying so much.
+Dialogue: 0,0:34:42.67,0:34:44.74,Default,,0,0,0,,- Mama's gonna raise hell.\N- Mm-hm.
+Dialogue: 0,0:34:44.84,0:34:46.68,Default,,0,0,0,,She's just gonna cuss you up and down.
+Dialogue: 0,0:34:46.78,0:34:50.55,Default,,0,0,0,,- Well, you should be used to that.\N- I'm used to lots of things.
+Dialogue: 0,0:34:50.65,0:34:53.85,Default,,0,0,0,,- I work at Wal-Mart.\N- Not anymore, Carla Jean.
+Dialogue: 0,0:34:53.95,0:34:55.64,Default,,0,0,0,,You are retired.
+Dialogue: 0,0:34:55.74,0:34:57.87,Default,,0,0,0,,- Llewelyn?\N- Yes, ma'am?
+Dialogue: 0,0:34:59.64,0:35:04.61,Default,,0,0,0,,- You are coming back, ain't you?\N- I shall return.
+Dialogue: 0,0:35:09.47,0:35:11.64,Default,,0,0,0,,Sheriff's department!
+Dialogue: 0,0:35:13.49,0:35:15.66,Default,,0,0,0,,Look at that lock.
+Dialogue: 0,0:35:17.69,0:35:20.79,Default,,0,0,0,,- We going in?\N- Gun out and up.
+Dialogue: 0,0:35:24.27,0:35:27.38,Default,,0,0,0,,- What about yours?\N- I'm hiding behind you.
+Dialogue: 0,0:35:30.27,0:35:32.49,Default,,0,0,0,,Sheriff's department!
+Dialogue: 0,0:35:57.77,0:36:01.54,Default,,0,0,0,,- I believe they done lit a shuck.\N- I believe you're right.
+Dialogue: 0,0:36:01.64,0:36:05.47,Default,,0,0,0,,- That from the lock?\N- Probably must be.
+Dialogue: 0,0:36:05.57,0:36:09.01,Default,,0,0,0,,- So when was he here, sheriff?\N- I don't know. Oh...
+Dialogue: 0,0:36:09.11,0:36:11.55,Default,,0,0,0,,- Now that's aggravating.\N- Sheriff?
+Dialogue: 0,0:36:11.65,0:36:17.28,Default,,0,0,0,,- Still sweating.\N- Oh, sheriff! We just missed him!
+Dialogue: 0,0:36:18.42,0:36:22.12,Default,,0,0,0,,We gotta circulate this on radio.
+Dialogue: 0,0:36:22.22,0:36:23.82,Default,,0,0,0,,All right.
+Dialogue: 0,0:36:24.39,0:36:26.71,Default,,0,0,0,,What do we circulate?
+Dialogue: 0,0:36:28.78,0:36:32.62,Default,,0,0,0,,Looking for a man\Nwho has recently drunk milk?
+Dialogue: 0,0:36:34.94,0:36:41.54,Default,,0,0,0,,- Oh, sheriff, that's aggravating.\N- I'm ahead of you there.
+Dialogue: 0,0:36:41.59,0:36:45.50,Default,,0,0,0,,Think this boy Moss has got any notion\Nof the sorts of sons-of-bitches
+Dialogue: 0,0:36:45.60,0:36:48.85,Default,,0,0,0,,- that are hunting him?\N- I don't know. He ought to.
+Dialogue: 0,0:36:52.09,0:36:57.06,Default,,0,0,0,,He's seen the same things I've seen and\Nit certainly made an impression on me.
+Dialogue: 0,0:37:03.03,0:37:05.40,Default,,0,0,0,,- Take me to a motel.\N- Got one in mind?
+Dialogue: 0,0:37:05.50,0:37:08.39,Default,,0,0,0,,Someplace cheap.
+Dialogue: 0,0:37:08.49,0:37:12.31,Default,,0,0,0,,- You tell me the option.\N- Do what now?
+Dialogue: 0,0:37:12.41,0:37:16.11,Default,,0,0,0,,You pick the option\Ngoes with the applicable rate.
+Dialogue: 0,0:37:17.51,0:37:21.01,Default,,0,0,0,,I'm just one person, so it don't\Nmatter the size of the bed.
+Dialogue: 0,0:37:25.84,0:37:29.67,Default,,0,0,0,,{\i1\c&H80ffff&}This is Roberto's\NAutomotive. I'm not in right now.{\c}{\i0}
+Dialogue: 0,0:37:29.77,0:37:31.79,Default,,0,0,0,,{\i1\c&H80ffff&}Please leave a message.{\c}{\i0}
+Dialogue: 0,0:39:30.36,0:39:34.33,Default,,0,0,0,,{\i1\c&H80ffff&}- Hello?{\c}{\i0}\N- Is Llewelyn there?
+Dialogue: 0,0:39:34.43,0:39:37.87,Default,,0,0,0,,{\i1\c&H80ffff&}Llewelyn? No, he ain't.{\c}{\i0}
+Dialogue: 0,0:39:37.97,0:39:39.64,Default,,0,0,0,,You expect him?
+Dialogue: 0,0:39:39.74,0:39:43.91,Default,,0,0,0,,{\i1\c&H80ffff&}Now why would I expect him? Who is this?{\c}{\i0}
+Dialogue: 0,0:39:51.20,0:39:54.75,Default,,0,0,0,,- May I help you?\N- Yeah, you got a pair of Larry Mahans?
+Dialogue: 0,0:39:54.85,0:39:56.09,Default,,0,0,0,,Shoulder, size 11?
+Dialogue: 0,0:39:56.19,0:39:58.66,Default,,0,0,0,,- I'll check.\N- You all sell socks?
+Dialogue: 0,0:39:58.76,0:40:02.79,Default,,0,0,0,,- Just white.\N- Well, white's all I wear. Bathroom?
+Dialogue: 0,0:40:28.50,0:40:31.39,Default,,0,0,0,,Don't stop. Just ride me\Nup past those rooms.
+Dialogue: 0,0:40:31.49,0:40:35.83,Default,,0,0,0,,- What room?\N- Just drive me around.
+Dialogue: 0,0:40:35.93,0:40:38.40,Default,,0,0,0,,I wanna see if someone's here.
+Dialogue: 0,0:40:45.77,0:40:47.70,Default,,0,0,0,,Keep going. Don't stop.
+Dialogue: 0,0:40:47.81,0:40:50.71,Default,,0,0,0,,I don't wanna get into\Nsome kind of a jackpot here.
+Dialogue: 0,0:40:50.81,0:40:52.71,Default,,0,0,0,,It's all right.
+Dialogue: 0,0:40:52.81,0:40:56.38,Default,,0,0,0,,Why don't I just set you down\Nright here and we won't argue about it?
+Dialogue: 0,0:40:56.48,0:40:59.73,Default,,0,0,0,,- Take me to another motel.\N- Let's just call it square.
+Dialogue: 0,0:40:59.83,0:41:03.02,Default,,0,0,0,,You're in the jackpot, and I'm\Ntrying to get you out of it.
+Dialogue: 0,0:41:03.12,0:41:05.42,Default,,0,0,0,,Take me to another motel.
+Dialogue: 0,0:41:53.92,0:41:56.66,Default,,0,0,0,,Lab reports from Austin\Non that boy by the highway.
+Dialogue: 0,0:41:56.76,0:41:59.19,Default,,0,0,0,,- What was the bullet?\N- Wasn't no bullet.
+Dialogue: 0,0:42:00.73,0:42:04.00,Default,,0,0,0,,- Wasn't no bullet?\N- Yes, sir. Wasn't none.
+Dialogue: 0,0:42:04.10,0:42:09.22,Default,,0,0,0,,Well, Wendell, with all due respect,\Nthat don't make a lot of sense.
+Dialogue: 0,0:42:09.32,0:42:10.55,Default,,0,0,0,,No, sir.
+Dialogue: 0,0:42:10.65,0:42:14.69,Default,,0,0,0,,You said entry wound in the\Nforehead, no exit wound.
+Dialogue: 0,0:42:14.79,0:42:15.76,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:42:15.76,0:42:17.61,Default,,0,0,0,,You telling me he shot\Nthis boy in the head?
+Dialogue: 0,0:42:17.62,0:42:20.47,Default,,0,0,0,,And then went digging around\Nin there with a pocket knife?
+Dialogue: 0,0:42:20.57,0:42:23.78,Default,,0,0,0,,- Sir, I don't wanna picture that.\N- I don't either.
+Dialogue: 0,0:42:23.89,0:42:26.14,Default,,0,0,0,,Can I freshen that there for you, sheriff?
+Dialogue: 0,0:42:26.24,0:42:29.07,Default,,0,0,0,,Yeah, Maureen, you better had.
+Dialogue: 0,0:42:29.17,0:42:32.13,Default,,0,0,0,,Ranger and the DEA are headed\Nback out to the scene.
+Dialogue: 0,0:42:32.23,0:42:34.55,Default,,0,0,0,,Gonna join 'em?
+Dialogue: 0,0:42:34.75,0:42:38.36,Default,,0,0,0,,Any new bodies accumulate out there?
+Dialogue: 0,0:42:38.55,0:42:41.87,Default,,0,0,0,,- No, sir.\N- Well, then I guess I can skip it.
+Dialogue: 0,0:42:56.17,0:43:00.34,Default,,0,0,0,,- Twelve-gauge. You need shells?\N- Yeah, double-ought.
+Dialogue: 0,0:43:00.44,0:43:04.31,Default,,0,0,0,,- Yeah, that'll give you a wallop.\N- Y'all got camping supplies?
+Dialogue: 0,0:43:04.41,0:43:06.21,Default,,0,0,0,,- Tent poles?\N- Mm-hmm.
+Dialogue: 0,0:43:06.31,0:43:07.89,Default,,0,0,0,,You already have the tent?
+Dialogue: 0,0:43:08.00,0:43:09.60,Default,,0,0,0,,Well, something like that.
+Dialogue: 0,0:43:09.70,0:43:12.40,Default,,0,0,0,,Give me the model number on\Nthe tent, I can order poles.
+Dialogue: 0,0:43:12.50,0:43:14.94,Default,,0,0,0,,- Never mind. I want a tent.\N- What kind?
+Dialogue: 0,0:43:15.17,0:43:17.27,Default,,0,0,0,,The kind with most poles.
+Dialogue: 0,0:43:38.94,0:43:42.13,Default,,0,0,0,,- Could I get another room?\N- You wanna change rooms?
+Dialogue: 0,0:43:42.23,0:43:44.80,Default,,0,0,0,,No, ma'am, I wanna keep my room\Nand get another one.
+Dialogue: 0,0:43:44.90,0:43:47.43,Default,,0,0,0,,- Another additional?\N- Yes, ma'am.
+Dialogue: 0,0:43:47.54,0:43:49.87,Default,,0,0,0,,And do you have a map of the rooms?
+Dialogue: 0,0:43:49.97,0:43:52.81,Default,,0,0,0,,Well, yeah, we had a sorta one.
+Dialogue: 0,0:43:54.54,0:43:56.74,Default,,0,0,0,,Oh, thank you.
+Dialogue: 0,0:43:59.95,0:44:01.88,Default,,0,0,0,,How about 38?
+Dialogue: 0,0:44:01.98,0:44:06.52,Default,,0,0,0,,Well, you can have the one right next to\Nyours if you want, 137. It ain't took.
+Dialogue: 0,0:44:06.62,0:44:10.97,Default,,0,0,0,,- No, 38 will be fine.\N- Well, that's got two double beds.
+Dialogue: 0,0:50:38.00,0:50:41.30,Default,,0,0,0,,{\i1\c&H0080ff&}Yo no, amigo.{\c}{\i0}\NNot me, my friend.
+Dialogue: 0,0:50:46.19,0:50:47.60,Default,,0,0,0,,How'd you find that?
+Dialogue: 0,0:50:48.00,0:50:50.50,Default,,0,0,0,,{\i1\c&H0080ff&}Yo no, amigo.{\c}{\i0}\NNot me, my friend.
+Dialogue: 0,0:52:34.85,0:52:37.71,Default,,0,0,0,,You shouldn't be doin' that.
+Dialogue: 0,0:52:37.82,0:52:41.32,Default,,0,0,0,,Even a young man like you.
+Dialogue: 0,0:52:41.42,0:52:45.44,Default,,0,0,0,,- Doin' what?\N- Hitchhiking.
+Dialogue: 0,0:52:50.88,0:52:53.31,Default,,0,0,0,,Dangerous.
+Dialogue: 0,0:53:10.66,0:53:14.17,Default,,0,0,0,,You know Anton Chigurh by sight,\Nis that correct?
+Dialogue: 0,0:53:14.27,0:53:17.72,Default,,0,0,0,,Yes, sir, I know him every which way.
+Dialogue: 0,0:53:17.82,0:53:20.22,Default,,0,0,0,,When did you last see him?
+Dialogue: 0,0:53:20.32,0:53:21.79,Default,,0,0,0,,Uh...
+Dialogue: 0,0:53:21.89,0:53:24.79,Default,,0,0,0,,...November 28th, last year.
+Dialogue: 0,0:53:24.90,0:53:29.13,Default,,0,0,0,,Seem pretty sure of the date.\NDid I ask you to sit?
+Dialogue: 0,0:53:29.13,0:53:33.29,Default,,0,0,0,,No, sir, but you struck me as a man\Nwho wouldn't wanna waste a chair.
+Dialogue: 0,0:53:33.39,0:53:39.01,Default,,0,0,0,,I remember dates, names, numbers.\NI saw him November the 28th.
+Dialogue: 0,0:53:41.01,0:53:42.51,Default,,0,0,0,,Got a loose cannon here.
+Dialogue: 0,0:53:42.61,0:53:45.96,Default,,0,0,0,,We're out a bunch of money, and the\Nother party is out his product.
+Dialogue: 0,0:53:46.38,0:53:48.89,Default,,0,0,0,,- Yes, sir.\N- This account will give up
+Dialogue: 0,0:53:48.99,0:53:53.39,Default,,0,0,0,,$1,200 in any 24-hour period.\NThat's up from a thousand.
+Dialogue: 0,0:53:53.49,0:53:57.73,Default,,0,0,0,,If your expenses run higher,\NI hope you'll trust us for it.
+Dialogue: 0,0:53:57.83,0:53:59.56,Default,,0,0,0,,OK.
+Dialogue: 0,0:53:59.66,0:54:03.65,Default,,0,0,0,,- Just how well do you know Chigurh?\N- What do you wanna know?
+Dialogue: 0,0:54:03.75,0:54:07.44,Default,,0,0,0,,I just wanna know your\Nopinion of him, in general.
+Dialogue: 0,0:54:07.54,0:54:13.23,Default,,0,0,0,,- Just how dangerous is he?\N- Compared to what, the bubonic plague?
+Dialogue: 0,0:54:13.33,0:54:15.28,Default,,0,0,0,,He's bad enough you called me.
+Dialogue: 0,0:54:15.38,0:54:20.07,Default,,0,0,0,,Yeah, he's a psychopathic\Nkiller, but so what?
+Dialogue: 0,0:54:20.17,0:54:21.73,Default,,0,0,0,,There's plenty of them around.
+Dialogue: 0,0:54:21.84,0:54:24.49,Default,,0,0,0,,Killed three men\Nin a Del Rio motel yesterday,
+Dialogue: 0,0:54:24.59,0:54:28.59,Default,,0,0,0,,and two others in that colossal\Ngoat-fuck out in the desert.
+Dialogue: 0,0:54:28.69,0:54:31.58,Default,,0,0,0,,- We can stop that.\N- Seem pretty sure of yourself.
+Dialogue: 0,0:54:33.51,0:54:37.98,Default,,0,0,0,,You've led something of a charmed\Nlife, haven't you, Mr. Wells?
+Dialogue: 0,0:54:38.08,0:54:43.56,Default,,0,0,0,,In all honesty, I can't say that charm\Nhas had a whole lot to do with it.
+Dialogue: 0,0:54:44.84,0:54:47.23,Default,,0,0,0,,- I was wondering...\N- Yes?
+Dialogue: 0,0:54:47.43,0:54:50.96,Default,,0,0,0,,Could you validate my parking ticket?
+Dialogue: 0,0:54:52.82,0:54:57.35,Default,,0,0,0,,- An attempt at humor, I suppose?\N- I'm sorry.
+Dialogue: 0,0:55:01.73,0:55:07.26,Default,,0,0,0,,You know, I counted the floors to\Nthis building from the street.
+Dialogue: 0,0:55:07.36,0:55:10.25,Default,,0,0,0,,- And?\N- There's one missing.
+Dialogue: 0,0:55:12.87,0:55:14.80,Default,,0,0,0,,We'll look into it.
+Dialogue: 0,0:55:34.53,0:55:37.23,Default,,0,0,0,,One room. One night.
+Dialogue: 0,0:55:37.33,0:55:41.26,Default,,0,0,0,,- That'll be $26.\N- Alrighty.
+Dialogue: 0,0:55:45.19,0:55:46.49,Default,,0,0,0,,You on all night?
+Dialogue: 0,0:55:46.59,0:55:51.31,Default,,0,0,0,,Yes, sir, I'll be right here\Ntill 10:00 in the morning.
+Dialogue: 0,0:55:51.41,0:55:55.81,Default,,0,0,0,,This here's for you. Now, I ain't\Nasking you to do anything illegal.
+Dialogue: 0,0:55:55.91,0:55:58.83,Default,,0,0,0,,There's someone who been\Nlooking for me. Not police.
+Dialogue: 0,0:55:58.93,0:56:01.60,Default,,0,0,0,,You just call me if anyone else\Nchecks in tonight.
+Dialogue: 0,0:56:01.70,0:56:04.27,Default,,0,0,0,,And by anyone, I mean any swinging dick.
+Dialogue: 0,0:56:46.63,0:56:49.00,Default,,0,0,0,,There just ain't no way.
+Dialogue: 0,1:02:26.39,1:02:28.75,Default,,0,0,0,,Don't worry, I ain't gonna hurt you.
+Dialogue: 0,1:02:28.86,1:02:30.86,Default,,0,0,0,,I need you to drive me on outta here.
+Dialogue: 0,1:05:37.83,1:05:40.23,Default,,0,0,0,,- Why not?\N- I don't know, man.
+Dialogue: 0,1:06:03.94,1:06:06.20,Default,,0,0,0,,Were you in a car accident?
+Dialogue: 0,1:06:07.97,1:06:10.49,Default,,0,0,0,,I'll give you 500 bucks for that coat.
+Dialogue: 0,1:06:12.01,1:06:13.33,Default,,0,0,0,,Lemme see the money.
+Dialogue: 0,1:06:16.33,1:06:18.02,Default,,0,0,0,,Were you in a car accident?
+Dialogue: 0,1:06:20.00,1:06:22.04,Default,,0,0,0,,- Yeah.\N- OK, give me the money.
+Dialogue: 0,1:06:22.14,1:06:26.68,Default,,0,0,0,,- It's right here. Give me the clothes.\N- Let him hold the money.
+Dialogue: 0,1:06:33.15,1:06:34.88,Default,,0,0,0,,Give it here.
+Dialogue: 0,1:06:42.56,1:06:43.89,Default,,0,0,0,,Gimme that beer too.
+Dialogue: 0,1:06:46.16,1:06:47.43,Default,,0,0,0,,How much?
+Dialogue: 0,1:06:48.88,1:06:50.95,Default,,0,0,0,,Brian, give him the beer.
+Dialogue: 0,1:08:03.09,1:08:06.02,Default,,0,0,0,,Ah!
+Dialogue: 0,1:09:03.00,1:09:04.57,Default,,0,0,0,,{\i1\c&H0080ff&}Médico...{\c}{\i0}\NDoctor...
+Dialogue: 0,1:09:05.77,1:09:07.84,Default,,0,0,0,,{\i1\c&H0080ff&}...por favor.{\c}{\i0}\N...Please.
+Dialogue: 0,1:11:10.91,1:11:12.71,Default,,0,0,0,,{\i1\c&H80ffff&}Just went up!{\c}{\i0}
+Dialogue: 0,1:11:14.76,1:11:18.20,Default,,0,0,0,,{\i1\c&H80ff80&}...and I had a 44 inch waist.\NMy diet specialist got a hold of me,{\c}{\i0}
+Dialogue: 0,1:11:18.30,1:11:20.40,Default,,0,0,0,,{\i1\c&H80ff80&}and that first week, I lost seven pounds!{\c}{\i0}
+Dialogue: 0,1:11:20.50,1:11:24.07,Default,,0,0,0,,{\i1\c&H80ff80&}Looking back on the diet, it was\Nrelatively easy to lose the weight,{\c}{\i0}
+Dialogue: 0,1:11:24.07,1:11:28.06,Default,,0,0,0,,{\i1\c&H80ff80&}though it did have moments. Sometimes,\Nit looked as if I gained weight{\c}{\i0}
+Dialogue: 0,1:11:28.16,1:11:31.56,Default,,0,0,0,,{\i1\c&H80ff80&}instead of lost it. The most\Ndifficult part is still ahead.{\c}{\i0}
+Dialogue: 0,1:11:31.66,1:11:33.93,Default,,0,0,0,,{\i1\c&H80ff80&}Keeping weight off now that we've lost it.{\c}{\i0}
+Dialogue: 0,1:11:34.03,1:11:36.43,Default,,0,0,0,,{\i1\c&H80ff80&}It's natural for you to gain a few pounds.{\c}{\i0}
+Dialogue: 0,1:11:36.54,1:11:40.41,Default,,0,0,0,,{\i1\c&H80ff80&}But as soon as you do,\Nmake sure you go on...{\c}{\i0}
+Dialogue: 0,1:12:09.20,1:12:12.20,Default,,0,0,0,,{\b1\c&Hc0c0c0&}LIDOCAÏNE HCI 1%\N(Local anesthetic and antiarrhythmic){\c}{\b0}
+Dialogue: 0,1:12:37.33,1:12:41.92,Default,,0,0,0,,{\i1\c&H80ff80&}Here are a few points to remember.\NFirst of all, weigh in every day.{\c}{\i0}
+Dialogue: 0,1:13:11.03,1:13:12.96,Default,,0,0,0,,Any word on those vehicles yet?
+Dialogue: 0,1:13:13.07,1:13:15.80,Default,,0,0,0,,{\i1\c&H00ffff&}Sheriff, I found out\Neverything there was to find.{\c}{\i0}
+Dialogue: 0,1:13:15.90,1:13:20.52,Default,,0,0,0,,Those vehicles are titled and\Nregistered to deceased people.
+Dialogue: 0,1:13:20.62,1:13:23.42,Default,,0,0,0,,The owner of that Bronco's\Nbeen dead 20 years.
+Dialogue: 0,1:13:23.53,1:13:25.54,Default,,0,0,0,,Want me to find out\Nabout the Mexican ones?
+Dialogue: 0,1:13:25.65,1:13:28.60,Default,,0,0,0,,No. Lord, no.
+Dialogue: 0,1:13:28.70,1:13:31.15,Default,,0,0,0,,There's this month's checks.
+Dialogue: 0,1:13:31.25,1:13:33.94,Default,,0,0,0,,That DEA agent called again.\NYou don't wanna talk to him?
+Dialogue: 0,1:13:34.04,1:13:36.99,Default,,0,0,0,,Gonna try to keep from it much as I can.
+Dialogue: 0,1:13:37.09,1:13:39.89,Default,,0,0,0,,He's going back. Wanted to know\Nif you wanted to go with him.
+Dialogue: 0,1:13:40.04,1:13:41.59,Default,,0,0,0,,That's cordial of him.
+Dialogue: 0,1:13:43.35,1:13:44.76,Default,,0,0,0,,Can I get you to call Loretta,
+Dialogue: 0,1:13:44.81,1:13:47.32,Default,,0,0,0,,tell her I'm going to Odessa\Nto see Carla Jean Moss?
+Dialogue: 0,1:13:47.42,1:13:50.62,Default,,0,0,0,,- Yes, sheriff.\N- I'll call her when I get there.
+Dialogue: 0,1:13:50.72,1:13:53.32,Default,,0,0,0,,I'd call now, but if she\Nwant me to come home, I might.
+Dialogue: 0,1:13:53.51,1:13:56.49,Default,,0,0,0,,Do you want me to wait till\Nyou quit the building?
+Dialogue: 0,1:13:56.52,1:13:57.44,Default,,0,0,0,,Uh-huh.
+Dialogue: 0,1:13:57.45,1:14:00.85,Default,,0,0,0,,Don't wanna lie without\Nwhat it's absolutely necessary.
+Dialogue: 0,1:14:03.82,1:14:07.02,Default,,0,0,0,,What is it Torbert says\Nabout truth and justice?
+Dialogue: 0,1:14:07.12,1:14:11.12,Default,,0,0,0,,Oh, we dedicate ourselves daily\Nanew. Something like that.
+Dialogue: 0,1:14:11.22,1:14:14.08,Default,,0,0,0,,I'm gonna commence\Ndedicating myself twice daily.
+Dialogue: 0,1:14:14.18,1:14:17.15,Default,,0,0,0,,Might come to three before it's over.
+Dialogue: 0,1:14:18.53,1:14:20.03,Default,,0,0,0,,What the hell?
+Dialogue: 0,1:14:28.72,1:14:30.51,Default,,0,0,0,,Sheriff?
+Dialogue: 0,1:14:30.61,1:14:32.78,Default,,0,0,0,,You looked at your load lately?
+Dialogue: 0,1:14:32.88,1:14:35.83,Default,,0,0,0,,- Oh.\N- That is a damn outrage.
+Dialogue: 0,1:14:35.93,1:14:38.67,Default,,0,0,0,,One of those\Ntie-downs worked loose.
+Dialogue: 0,1:14:38.77,1:14:40.94,Default,,0,0,0,,How many bodies did you leave with?
+Dialogue: 0,1:14:41.04,1:14:43.97,Default,,0,0,0,,I ain't lost none of 'em, sheriff.
+Dialogue: 0,1:14:44.07,1:14:46.54,Default,,0,0,0,,Couldn't y'all have taken a van out there?
+Dialogue: 0,1:14:46.64,1:14:48.98,Default,,0,0,0,,We didn't have no van\Nwith four-wheel drive.
+Dialogue: 0,1:14:49.08,1:14:51.78,Default,,0,0,0,,You gonna write me up\Nfor improperly secured load?
+Dialogue: 0,1:14:51.88,1:14:53.91,Default,,0,0,0,,You get your ass outta here.
+Dialogue: 0,1:14:56.77,1:14:59.82,Default,,0,0,0,,{\i1\c&H0080ff&}Buenos días.{\c}{\i0}\Nood morning.
+Dialogue: 0,1:14:59.92,1:15:03.84,Default,,0,0,0,,I'm guessing this isn't the future\Nyou had pictured for yourself
+Dialogue: 0,1:15:03.94,1:15:07.04,Default,,0,0,0,,when you first clapped eyes on that money.
+Dialogue: 0,1:15:07.15,1:15:10.05,Default,,0,0,0,,Don't worry. I'm not\Nthe man who's after you.
+Dialogue: 0,1:15:11.22,1:15:13.17,Default,,0,0,0,,I know that.
+Dialogue: 0,1:15:14.42,1:15:15.47,Default,,0,0,0,,I've seen him.
+Dialogue: 0,1:15:15.57,1:15:19.12,Default,,0,0,0,,You've seen him? And you're not dead?
+Dialogue: 0,1:15:19.73,1:15:21.16,Default,,0,0,0,,Huh.
+Dialogue: 0,1:15:21.26,1:15:23.81,Default,,0,0,0,,What's this guy supposed to be,\Nthe ultimate badass?
+Dialogue: 0,1:15:23.91,1:15:26.18,Default,,0,0,0,,Don't think that's how I'd describe him.
+Dialogue: 0,1:15:26.28,1:15:27.93,Default,,0,0,0,,How would you describe him?
+Dialogue: 0,1:15:28.03,1:15:32.25,Default,,0,0,0,,I guess I'd say he doesn't\Nhave a sense of humor.
+Dialogue: 0,1:15:32.36,1:15:34.87,Default,,0,0,0,,- His name's Chigurh.\N- Sugar?
+Dialogue: 0,1:15:34.97,1:15:37.58,Default,,0,0,0,,Chigurh. Anton Chigurh.
+Dialogue: 0,1:15:37.66,1:15:40.80,Default,,0,0,0,,- You know how he found you?\N- Yeah, I know how he found me.
+Dialogue: 0,1:15:40.90,1:15:44.03,Default,,0,0,0,,- It's called a transponder.\N- I know what it's called.
+Dialogue: 0,1:15:44.13,1:15:46.88,Default,,0,0,0,,- He won't find me again.\N- Not that way.
+Dialogue: 0,1:15:46.99,1:15:49.69,Default,,0,0,0,,- Not any way.\N- Took me about three hours.
+Dialogue: 0,1:15:50.01,1:15:54.84,Default,,0,0,0,,- Yeah, well, I been immobile.\N- No. You don't understand.
+Dialogue: 0,1:15:56.71,1:15:59.98,Default,,0,0,0,,- What do you do?\N- I'm retired.
+Dialogue: 0,1:16:00.08,1:16:03.08,Default,,0,0,0,,- What did you do?\N- Welder.
+Dialogue: 0,1:16:03.19,1:16:05.24,Default,,0,0,0,,- Acetylene? Mig? Tig?\N- Any of it.
+Dialogue: 0,1:16:05.34,1:16:07.91,Default,,0,0,0,,- If it can be welded, I can weld it.\N- Cast iron?
+Dialogue: 0,1:16:08.01,1:16:09.77,Default,,0,0,0,,- Yeah.\N- I don't mean braze.
+Dialogue: 0,1:16:09.88,1:16:11.98,Default,,0,0,0,,- I didn't say braze.\N- Pot metal?
+Dialogue: 0,1:16:12.08,1:16:13.83,Default,,0,0,0,,What did I say?
+Dialogue: 0,1:16:14.85,1:16:19.92,Default,,0,0,0,,- Were you in 'Nam?\N- Yeah, I was 'Nam.
+Dialogue: 0,1:16:20.10,1:16:21.37,Default,,0,0,0,,Hmm.
+Dialogue: 0,1:16:21.47,1:16:23.50,Default,,0,0,0,,So was I.
+Dialogue: 0,1:16:23.61,1:16:27.39,Default,,0,0,0,,So, what does that make me, your buddy?
+Dialogue: 0,1:16:27.61,1:16:32.66,Default,,0,0,0,,Look, you gotta give me this money.\NI got no other reason to protect you.
+Dialogue: 0,1:16:32.77,1:16:37.37,Default,,0,0,0,,It's too late. I spent it.
+Dialogue: 0,1:16:37.47,1:16:39.87,Default,,0,0,0,,A million and a half\Non whores and whiskey,
+Dialogue: 0,1:16:39.97,1:16:42.94,Default,,0,0,0,,and the rest of it,\NI just sorta blew it in.
+Dialogue: 0,1:16:44.59,1:16:47.23,Default,,0,0,0,,How do you know he's not\Non his way to Odessa?
+Dialogue: 0,1:16:51.13,1:16:55.39,Default,,0,0,0,,- Why would he go to Odessa?\N- Kill your wife.
+Dialogue: 0,1:17:02.48,1:17:06.86,Default,,0,0,0,,Maybe he's the one that needs\Nto be worried... about me.
+Dialogue: 0,1:17:06.97,1:17:08.38,Default,,0,0,0,,He isn't.
+Dialogue: 0,1:17:08.62,1:17:12.22,Default,,0,0,0,,Yeah. You're not cut out for this.
+Dialogue: 0,1:17:12.35,1:17:16.06,Default,,0,0,0,,You're just a guy who happened\Nto find those vehicles.
+Dialogue: 0,1:17:21.61,1:17:24.18,Default,,0,0,0,,I'm across the river at the Hotel Eagle.
+Dialogue: 0,1:17:24.90,1:17:27.48,Default,,0,0,0,,Carson Wells.
+Dialogue: 0,1:17:27.59,1:17:29.72,Default,,0,0,0,,Call me when you've had enough.
+Dialogue: 0,1:17:29.82,1:17:32.59,Default,,0,0,0,,I can even let you keep\Na little of the money.
+Dialogue: 0,1:17:32.69,1:17:35.98,Default,,0,0,0,,If I was into cutting deals,\Nwhy wouldn't I deal with Sugar?
+Dialogue: 0,1:17:36.08,1:17:40.42,Default,,0,0,0,,No, no, you don't understand.\NYou can't make a deal with him.
+Dialogue: 0,1:17:40.52,1:17:45.57,Default,,0,0,0,,Even if you gave him the money, he'd\Nstill kill you for inconveniencing him.
+Dialogue: 0,1:17:45.67,1:17:47.46,Default,,0,0,0,,He's a peculiar man.
+Dialogue: 0,1:17:47.57,1:17:52.79,Default,,0,0,0,,Might even say he has principles,\Nprinciples that transcend money or drugs
+Dialogue: 0,1:17:53.00,1:17:57.45,Default,,0,0,0,,or anything like that. Not like you.
+Dialogue: 0,1:17:57.62,1:17:59.87,Default,,0,0,0,,Yeah. He's not even like me.
+Dialogue: 0,1:17:59.97,1:18:03.74,Default,,0,0,0,,No, he don't talk as much as\Nyou. I give him points for that.
+Dialogue: 0,1:18:06.21,1:18:08.59,Default,,0,0,0,,Carla Jean, thank you for coming.
+Dialogue: 0,1:18:08.69,1:18:10.39,Default,,0,0,0,,Don't know why I did.
+Dialogue: 0,1:18:10.50,1:18:13.33,Default,,0,0,0,,I told you, I don't know where he is.
+Dialogue: 0,1:18:13.43,1:18:15.80,Default,,0,0,0,,- You haven't heard from him?\N- No, I ain't.
+Dialogue: 0,1:18:15.90,1:18:17.80,Default,,0,0,0,,- Nothing?\N- Not word one.
+Dialogue: 0,1:18:17.90,1:18:22.19,Default,,0,0,0,,- Would you tell me if you had?\N- Well, I don't know.
+Dialogue: 0,1:18:22.29,1:18:24.29,Default,,0,0,0,,He don't need any trouble from you.
+Dialogue: 0,1:18:24.39,1:18:26.83,Default,,0,0,0,,It ain't me he's in trouble with.
+Dialogue: 0,1:18:26.93,1:18:30.33,Default,,0,0,0,,- Who's he in trouble with then?\N- Some pretty bad people.
+Dialogue: 0,1:18:30.62,1:18:34.34,Default,,0,0,0,,These people will kill him,\NCarla Jean. They won't quit.
+Dialogue: 0,1:18:34.44,1:18:37.19,Default,,0,0,0,,He won't neither. He never has.
+Dialogue: 0,1:18:37.42,1:18:42.71,Default,,0,0,0,,He can take all comers.
+Dialogue: 0,1:18:42.91,1:18:47.10,Default,,0,0,0,,You know Charlie Walser's got\Nthat place out east of Sanderson?
+Dialogue: 0,1:18:48.70,1:18:50.85,Default,,0,0,0,,You know how he used to slaughter beeves,
+Dialogue: 0,1:18:50.95,1:18:52.62,Default,,0,0,0,,hit 'em right there with a maul,
+Dialogue: 0,1:18:52.72,1:18:54.72,Default,,0,0,0,,truss 'em and slit their throats?
+Dialogue: 0,1:18:54.82,1:18:57.71,Default,,0,0,0,,Charlie's got one all trussed\Nup, all set to drain him
+Dialogue: 0,1:18:57.81,1:19:00.91,Default,,0,0,0,,and the beef comes to, thrashing around.
+Dialogue: 0,1:19:01.01,1:19:03.63,Default,,0,0,0,,Six hundred pounds\Nof very pissed off livestock.
+Dialogue: 0,1:19:03.73,1:19:06.27,Default,,0,0,0,,You'll excuse the... Well...
+Dialogue: 0,1:19:06.37,1:19:08.97,Default,,0,0,0,,Charlie grabs a gun,\Nshoot the thing in the head,
+Dialogue: 0,1:19:09.07,1:19:12.14,Default,,0,0,0,,but with the swinging and\Nthrashing, it's a glance shot.
+Dialogue: 0,1:19:12.24,1:19:14.61,Default,,0,0,0,,Ricochets, hits Charlie in the shoulder.
+Dialogue: 0,1:19:14.71,1:19:18.45,Default,,0,0,0,,You go see Charlie, he still can't\Npick up his right hand for his hat.
+Dialogue: 0,1:19:18.55,1:19:22.80,Default,,0,0,0,,The point being, that even in the\Ncontest between man and steer,
+Dialogue: 0,1:19:22.90,1:19:25.10,Default,,0,0,0,,the issue is not certain.
+Dialogue: 0,1:19:32.36,1:19:37.32,Default,,0,0,0,,When Llewelyn calls, just\Ntell him I can make him safe.
+Dialogue: 0,1:19:40.89,1:19:45.46,Default,,0,0,0,,'Course, they slaughter\Nsteers a lot different these days.
+Dialogue: 0,1:19:45.56,1:19:49.83,Default,,0,0,0,,Use a air gun. Shoots out a little\Nrod about that far under the brain.
+Dialogue: 0,1:19:49.93,1:19:53.31,Default,,0,0,0,,Sucks right back in.\NAnimal never knows what hit him.
+Dialogue: 0,1:19:55.82,1:19:59.95,Default,,0,0,0,,- Why are you telling me that, sheriff?\N- I don't know.
+Dialogue: 0,1:20:03.44,1:20:05.38,Default,,0,0,0,,My mind wanders.
+Dialogue: 0,1:21:28.39,1:21:30.75,Default,,0,0,0,,Hello, Carson.
+Dialogue: 0,1:21:32.90,1:21:34.67,Default,,0,0,0,,Let's go to your room.
+Dialogue: 0,1:21:46.73,1:21:49.31,Default,,0,0,0,,You don't have to do this.
+Dialogue: 0,1:21:49.41,1:21:53.67,Default,,0,0,0,,I'm a day trader. I could just go home.
+Dialogue: 0,1:21:55.44,1:21:58.27,Default,,0,0,0,,- You could.\N- Make it worth your while,
+Dialogue: 0,1:21:58.37,1:22:02.54,Default,,0,0,0,,take you to an ATM.\NThere's 14 grand in it.
+Dialogue: 0,1:22:02.64,1:22:05.16,Default,,0,0,0,,And everybody just walks away.
+Dialogue: 0,1:22:06.45,1:22:08.60,Default,,0,0,0,,An ATM.
+Dialogue: 0,1:22:12.39,1:22:15.44,Default,,0,0,0,,I know where the satchel is.
+Dialogue: 0,1:22:15.54,1:22:17.71,Default,,0,0,0,,If you knew, you would have it with you.
+Dialogue: 0,1:22:17.81,1:22:22.01,Default,,0,0,0,,I can find it from the river\Nbank. I know where it is.
+Dialogue: 0,1:22:23.17,1:22:26.13,Default,,0,0,0,,- I know something better.\N- What's that?
+Dialogue: 0,1:22:26.24,1:22:28.04,Default,,0,0,0,,I know where it's going to be.
+Dialogue: 0,1:22:29.45,1:22:33.02,Default,,0,0,0,,- Where's that?\N- It will be brought to me
+Dialogue: 0,1:22:33.12,1:22:35.93,Default,,0,0,0,,and placed at my feet.
+Dialogue: 0,1:22:37.50,1:22:40.16,Default,,0,0,0,,You don't know to a certainty.
+Dialogue: 0,1:22:40.27,1:22:44.24,Default,,0,0,0,,- In 20 minutes it could be here.\N- I do know to a certainty.
+Dialogue: 0,1:22:44.34,1:22:48.06,Default,,0,0,0,,And you know what's\Ngonna happen now, Carson?
+Dialogue: 0,1:22:48.16,1:22:49.96,Default,,0,0,0,,You should admit your situation.
+Dialogue: 0,1:22:50.06,1:22:53.11,Default,,0,0,0,,There would be\Nmore dignity in it.
+Dialogue: 0,1:22:57.88,1:23:01.45,Default,,0,0,0,,You go to hell.
+Dialogue: 0,1:23:01.59,1:23:05.12,Default,,0,0,0,,All right.\NLet me ask you something.
+Dialogue: 0,1:23:06.81,1:23:11.50,Default,,0,0,0,,If the rule you followed\Nbrought you to this,
+Dialogue: 0,1:23:11.60,1:23:14.43,Default,,0,0,0,,of what use was the rule?
+Dialogue: 0,1:23:19.69,1:23:24.79,Default,,0,0,0,,Do you have any idea\Nhow crazy you are?
+Dialogue: 0,1:23:24.89,1:23:27.18,Default,,0,0,0,,You mean the nature\Nof this conversation?
+Dialogue: 0,1:23:27.28,1:23:29.66,Default,,0,0,0,,I mean the nature of you.
+Dialogue: 0,1:23:33.75,1:23:39.79,Default,,0,0,0,,You... You can\Nhave the money, Anton.
+Dialogue: 0,1:24:19.55,1:24:22.25,Default,,0,0,0,,{\i1\c&H00ffff&}- Hello?{\c}{\i0}\N- Yes?
+Dialogue: 0,1:24:23.72,1:24:27.15,Default,,0,0,0,,{\i1\c&H00ffff&}Is, uh, Carson Wells there?{\c}{\i0}
+Dialogue: 0,1:24:29.34,1:24:31.89,Default,,0,0,0,,Not in the sense that you mean.
+Dialogue: 0,1:24:33.75,1:24:37.83,Default,,0,0,0,,{\i1\c&H00ffff&}- You need to come see me.{\c}{\i0}\N- Who is this?
+Dialogue: 0,1:24:38.07,1:24:40.85,Default,,0,0,0,,You know who it is.
+Dialogue: 0,1:24:40.95,1:24:44.22,Default,,0,0,0,,- You need to talk to me.\N{\i1\c&H00ffff&}- I don't need to talk to you.{\c}{\i0}
+Dialogue: 0,1:24:44.32,1:24:46.56,Default,,0,0,0,,I think you do.
+Dialogue: 0,1:24:46.66,1:24:48.29,Default,,0,0,0,,Do you know where I'm going?
+Dialogue: 0,1:24:48.36,1:24:51.13,Default,,0,0,0,,Why would I care where you're going?
+Dialogue: 0,1:24:51.23,1:24:53.70,Default,,0,0,0,,I know where you are.
+Dialogue: 0,1:24:53.80,1:24:56.03,Default,,0,0,0,,{\i1\c&H00ffff&}Yeah, where am I?{\c}{\i0}
+Dialogue: 0,1:24:56.13,1:25:01.24,Default,,0,0,0,,You're in the hospital across the\Nriver, but that's not where I'm going.
+Dialogue: 0,1:25:01.34,1:25:03.67,Default,,0,0,0,,Do you know where I'm going?
+Dialogue: 0,1:25:04.98,1:25:09.25,Default,,0,0,0,,{\i1\c&H00ffff&}- Yeah, I know where you're going.{\c}{\i0} \N- All right.
+Dialogue: 0,1:25:09.35,1:25:10.85,Default,,0,0,0,,{\i1\c&H00ffff&}You know she won't be there.{\c}{\i0}
+Dialogue: 0,1:25:11.02,1:25:13.37,Default,,0,0,0,,It doesn't make any difference\Nwhere she is.
+Dialogue: 0,1:25:13.47,1:25:15.89,Default,,0,0,0,,So, what're you going up there for?
+Dialogue: 0,1:25:19.16,1:25:22.06,Default,,0,0,0,,You know how this is gonna\Nturn out, don't you?
+Dialogue: 0,1:25:23.86,1:25:25.23,Default,,0,0,0,,Nope.
+Dialogue: 0,1:25:25.33,1:25:30.68,Default,,0,0,0,,I think you do.\NSo this is what I'll offer.
+Dialogue: 0,1:25:30.79,1:25:33.12,Default,,0,0,0,,You bring me the money,\Nand I'll let her go.
+Dialogue: 0,1:25:33.22,1:25:38.19,Default,,0,0,0,,{\i1\c&H00ffff&}Otherwise, she's accountable,\Nthe same as you.{\c}{\i0}
+Dialogue: 0,1:25:40.01,1:25:42.48,Default,,0,0,0,,That's the best deal\Nyou're gonna get.
+Dialogue: 0,1:25:42.53,1:25:46.72,Default,,0,0,0,,I won't tell you you can save\Nyourself, because you can't.
+Dialogue: 0,1:25:49.60,1:25:52.74,Default,,0,0,0,,Yeah, I'm gonna bring you\Nsomething, all right.
+Dialogue: 0,1:25:52.84,1:25:55.31,Default,,0,0,0,,Decided to make you\Na special project of mine.
+Dialogue: 0,1:25:55.41,1:25:58.38,Default,,0,0,0,,You ain't gonna have\Nto come look for me at all.
+Dialogue: 0,1:26:02.52,1:26:05.05,Default,,0,0,0,,- The motel in Del Rio?\N- Yes, sir.
+Dialogue: 0,1:26:05.15,1:26:06.85,Default,,0,0,0,,None of the three had ID on 'em,
+Dialogue: 0,1:26:06.96,1:26:10.74,Default,,0,0,0,,but they're tellin' me that all\Nthree is Mexicans... was Mexicans.
+Dialogue: 0,1:26:10.84,1:26:15.91,Default,,0,0,0,,There's a question, whether\Nthey stopped being and when.
+Dialogue: 0,1:26:17.75,1:26:19.62,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:26:19.72,1:26:22.29,Default,,0,0,0,,Wendell, did you inquire\Nabout the lock cylinder?
+Dialogue: 0,1:26:22.39,1:26:25.77,Default,,0,0,0,,- Yes, sir. It was punched out.\N- OK.
+Dialogue: 0,1:26:25.78,1:26:28.74,Default,,0,0,0,,- Wanna drive out there?\N- No, that's all I had to look for,
+Dialogue: 0,1:26:28.84,1:26:31.28,Default,,0,0,0,,it sound like these boys\Ndied of natural causes.
+Dialogue: 0,1:26:31.38,1:26:35.08,Default,,0,0,0,,- How's that, sheriff?\N- Natural to the line of work they was in.
+Dialogue: 0,1:26:35.18,1:26:38.30,Default,,0,0,0,,- Yes, sir.\N- My God, Wendell, it's all-out war.
+Dialogue: 0,1:26:38.40,1:26:42.22,Default,,0,0,0,,I can't think of any other word\Nfor it. Who are these people?
+Dialogue: 0,1:26:42.32,1:26:45.73,Default,,0,0,0,,Here, last week they found\Nthis couple out in California.
+Dialogue: 0,1:26:45.83,1:26:49.71,Default,,0,0,0,,They rent out rooms to old people,\Nkill 'em, bury 'em in the yard,
+Dialogue: 0,1:26:49.81,1:26:52.83,Default,,0,0,0,,cash their Social Security checks.
+Dialogue: 0,1:26:52.94,1:26:57.45,Default,,0,0,0,,Oh, they'd torture 'em first.\NI don't know why.
+Dialogue: 0,1:26:57.56,1:26:59.62,Default,,0,0,0,,Maybe their television set was broke.
+Dialogue: 0,1:26:59.76,1:27:03.26,Default,,0,0,0,,And this went on until, here, I quote,
+Dialogue: 0,1:27:03.36,1:27:07.11,Default,,0,0,0,,«Neighbors were alerted\Nwhen a man ran from the premises»
+Dialogue: 0,1:27:07.22,1:27:09.37,Default,,0,0,0,,«wearing only a dog collar.»
+Dialogue: 0,1:27:10.85,1:27:13.54,Default,,0,0,0,,You can't make up such a thing\Nas that. I dare you to try.
+Dialogue: 0,1:27:13.64,1:27:17.61,Default,,0,0,0,,But that's what it took, you notice,\Nto get somebody's attention.
+Dialogue: 0,1:27:17.71,1:27:20.43,Default,,0,0,0,,Digging graves in the backyard\Ndidn't bring any.
+Dialogue: 0,1:27:26.94,1:27:31.07,Default,,0,0,0,,Well, that's all right.\NI laugh myself sometimes.
+Dialogue: 0,1:27:32.91,1:27:35.21,Default,,0,0,0,,Ain't a whole lot else you can do.
+Dialogue: 0,1:27:37.88,1:27:39.41,Default,,0,0,0,,Tell me something.
+Dialogue: 0,1:27:39.51,1:27:42.98,Default,,0,0,0,,Who gets through this gate\Ninto the United States?
+Dialogue: 0,1:27:44.52,1:27:46.99,Default,,0,0,0,,I don't know. American citizens?
+Dialogue: 0,1:27:47.09,1:27:49.87,Default,,0,0,0,,Some American citizens.\NWho do you think decides?
+Dialogue: 0,1:27:49.98,1:27:51.83,Default,,0,0,0,,- You do, I reckon.\N- That is correct.
+Dialogue: 0,1:27:51.93,1:27:54.38,Default,,0,0,0,,- How do I decide?\N- I don't know.
+Dialogue: 0,1:27:54.48,1:27:58.40,Default,,0,0,0,,I ask questions. If I get sensible\Nanswers, then they get to go to America.
+Dialogue: 0,1:27:58.50,1:27:59.90,Default,,0,0,0,,If I don't, they don't.
+Dialogue: 0,1:28:00.00,1:28:01.99,Default,,0,0,0,,- Anything you don't understand?\N- No.
+Dialogue: 0,1:28:02.05,1:28:05.01,Default,,0,0,0,,I ask again, how you come\Nto be here with no clothes?
+Dialogue: 0,1:28:06.14,1:28:08.86,Default,,0,0,0,,Well, I got an overcoat on.
+Dialogue: 0,1:28:08.96,1:28:10.86,Default,,0,0,0,,- Are you jacking with me?\N- No, sir.
+Dialogue: 0,1:28:10.96,1:28:13.48,Default,,0,0,0,,- Don't jack with me.\N- Yes, sir.
+Dialogue: 0,1:28:13.58,1:28:15.90,Default,,0,0,0,,- You in the service?\N- No, I'm a veteran.
+Dialogue: 0,1:28:16.00,1:28:18.29,Default,,0,0,0,,- 'Nam?\N- Yes, sir, two tours.
+Dialogue: 0,1:28:18.39,1:28:20.74,Default,,0,0,0,,- What outfit?\N- Twelfth Infantry Battalion,
+Dialogue: 0,1:28:20.84,1:28:24.89,Default,,0,0,0,,August 7th, 1966, July 2nd, 1968.
+Dialogue: 0,1:28:27.26,1:28:30.48,Default,,0,0,0,,- Wilson!\N- Yes, sir!
+Dialogue: 0,1:28:30.58,1:28:34.17,Default,,0,0,0,,Get someone to help this man.\NHe needs to get into town.
+Dialogue: 0,1:28:43.03,1:28:46.21,Default,,0,0,0,,- How those Larry's holdin' up?\N- Good, good.
+Dialogue: 0,1:28:46.31,1:28:49.55,Default,,0,0,0,,- I need everything else.\N- OK.
+Dialogue: 0,1:28:49.65,1:28:52.69,Default,,0,0,0,,Have a lot of people come\Nin here without any clothes on?
+Dialogue: 0,1:28:52.79,1:28:55.36,Default,,0,0,0,,No, sir. It's unusual.
+Dialogue: 0,1:29:07.89,1:29:11.51,Default,,0,0,0,,{\i1\c&H80ffff&}- She don't want to talk to you.{\c}{\i0} \N- Yes, she does. Put her on.
+Dialogue: 0,1:29:11.61,1:29:14.07,Default,,0,0,0,,{\i1\c&H80ffff&}- Do you know what time it is?{\c}{\i0} \N- I don't care,
+Dialogue: 0,1:29:14.18,1:29:16.38,Default,,0,0,0,,and don't you hang up this phone.
+Dialogue: 0,1:29:16.48,1:29:20.01,Default,,0,0,0,,{\i1\c&H80ffff&}Discombobulated by a no-account\Nson-in-law.{\c}{\i0}
+Dialogue: 0,1:29:20.85,1:29:22.68,Default,,0,0,0,,- Llewelyn?\N{\i1\c&H00ffff&}- Hey, you.{\c}{\i0}
+Dialogue: 0,1:29:22.78,1:29:26.10,Default,,0,0,0,,- What should I do?\N{\i1\c&H00ffff&}- You know what's going on?{\c}{\i0}
+Dialogue: 0,1:29:26.20,1:29:29.81,Default,,0,0,0,,I don't know. I had the sheriff here\Nfrom Terrell County. He...
+Dialogue: 0,1:29:30.14,1:29:33.59,Default,,0,0,0,,- What'd you tell him?\N{\i1\c&H00ffff&}- What did I know to tell him?{\c}{\i0}
+Dialogue: 0,1:29:33.70,1:29:37.16,Default,,0,0,0,,{\i1\c&H00ffff&}- You're hurt, ain't you?{\c}{\i0}
+Dialogue: 0,1:29:37.27,1:29:39.33,Default,,0,0,0,,What makes you say that?
+Dialogue: 0,1:29:39.43,1:29:42.87,Default,,0,0,0,,{\i1\c&H00ffff&}- I can hear it in your voice.{\c}\N{\c&H80ffff&}- It's falseness in his voice!{\c}{\i0}
+Dialogue: 0,1:29:42.97,1:29:46.71,Default,,0,0,0,,Look, I want you to meet me at the\NDesert Sands Motel in El Paso.
+Dialogue: 0,1:29:46.81,1:29:49.31,Default,,0,0,0,,I'm gonna give you the money,\Nput you on a plane.
+Dialogue: 0,1:29:49.41,1:29:51.83,Default,,0,0,0,,Llewelyn, I ain't gonna\Nleave you in the lurch.
+Dialogue: 0,1:29:51.93,1:29:54.90,Default,,0,0,0,,This works better. With you\Ngone and I don't have the money,
+Dialogue: 0,1:29:55.00,1:29:57.97,Default,,0,0,0,,he can't touch me,\Nbut I can sure touch him.
+Dialogue: 0,1:29:58.07,1:30:00.50,Default,,0,0,0,,And after I find him,\NI'll come and join you.
+Dialogue: 0,1:30:00.61,1:30:04.14,Default,,0,0,0,,{\i1\c&H00ffff&}Find who? What am I supposed to do\Nwith mother?{\c}{\i0}
+Dialogue: 0,1:30:04.24,1:30:06.08,Default,,0,0,0,,- She'll be all right.\N{\i1\c&H80ffff&}- All right?{\c}{\i0}
+Dialogue: 0,1:30:06.18,1:30:08.81,Default,,0,0,0,,{\i1\c&H80ffff&}Be all right? I got the cancer!{\c}{\i0}
+Dialogue: 0,1:30:08.91,1:30:11.05,Default,,0,0,0,,Ain't nobody gonna bother her.
+Dialogue: 0,1:30:42.58,1:30:45.37,Default,,0,0,0,,Hmm.
+Dialogue: 0,1:30:45.47,1:30:47.12,Default,,0,0,0,,Who are you?
+Dialogue: 0,1:30:51.26,1:30:53.14,Default,,0,0,0,,- Me?\N- Yes.
+Dialogue: 0,1:30:53.24,1:30:55.36,Default,,0,0,0,,Nobody.
+Dialogue: 0,1:30:55.46,1:30:57.34,Default,,0,0,0,,Accounting.
+Dialogue: 0,1:30:58.56,1:31:01.25,Default,,0,0,0,,He gave the Mexicans a receiver.
+Dialogue: 0,1:31:03.45,1:31:05.15,Default,,0,0,0,,He feels...
+Dialogue: 0,1:31:05.25,1:31:09.14,Default,,0,0,0,,He felt that the more people looking...
+Dialogue: 0,1:31:09.24,1:31:14.11,Default,,0,0,0,,That's foolish.\NYou pick the one right tool.
+Dialogue: 0,1:31:14.21,1:31:16.31,Default,,0,0,0,,I see.
+Dialogue: 0,1:31:18.40,1:31:20.27,Default,,0,0,0,,Are you going to shoot me?
+Dialogue: 0,1:31:26.36,1:31:28.33,Default,,0,0,0,,That depends.
+Dialogue: 0,1:31:30.53,1:31:32.30,Default,,0,0,0,,Do you see me?
+Dialogue: 0,1:31:35.05,1:31:37.70,Default,,0,0,0,,I always seen this is what it'd come to.
+Dialogue: 0,1:31:37.80,1:31:39.92,Default,,0,0,0,,Three years ago, I pre-visioned it.
+Dialogue: 0,1:31:40.02,1:31:42.21,Default,,0,0,0,,It ain't three years we been married.
+Dialogue: 0,1:31:42.31,1:31:46.44,Default,,0,0,0,,Three years ago I said them\Nvery words, «no» and «good.»
+Dialogue: 0,1:31:46.54,1:31:50.15,Default,,0,0,0,,Here we are, 90 degree heat,
+Dialogue: 0,1:31:50.25,1:31:56.45,Default,,0,0,0,,I got the cancer and look at\Nthis, not even a home to go to.
+Dialogue: 0,1:31:56.55,1:31:58.97,Default,,0,0,0,,We're going to El Paso, Texas.
+Dialogue: 0,1:31:59.07,1:32:02.21,Default,,0,0,0,,You know how may people\NI know in El Paso, Texas?
+Dialogue: 0,1:32:02.31,1:32:05.75,Default,,0,0,0,,- No, ma'am.\N- That's how many.
+Dialogue: 0,1:32:14.44,1:32:17.54,Default,,0,0,0,,- I didn't see my prednisone.\N- I put it in, Mama.
+Dialogue: 0,1:32:17.64,1:32:21.41,Default,,0,0,0,,- Well, I didn't see it.\N- Well, I put it in that one.
+Dialogue: 0,1:32:21.51,1:32:25.12,Default,,0,0,0,,You just set there. I'll get\Ntickets and a cart for the bags.
+Dialogue: 0,1:32:25.22,1:32:27.35,Default,,0,0,0,,You need help with the bags, madam?
+Dialogue: 0,1:32:27.45,1:32:31.59,Default,,0,0,0,,Well, thank God, there is one\Ngentleman left in west Texas.
+Dialogue: 0,1:32:31.69,1:32:34.12,Default,,0,0,0,,Yes, thank you.\NI am old and I am not well!
+Dialogue: 0,1:32:34.33,1:32:38.90,Default,,0,0,0,,- Which bus are you taking?\N- Going to El Paso, don't ask me why.
+Dialogue: 0,1:32:39.08,1:32:42.27,Default,,0,0,0,,It's not often you see\Na Mexican in a suit.
+Dialogue: 0,1:32:42.37,1:32:44.79,Default,,0,0,0,,You go to El Paso? I know it.\NWhere are you staying?
+Dialogue: 0,1:32:44.89,1:32:45.99,Default,,0,0,0,,Oh...
+Dialogue: 0,1:32:46.09,1:32:47.89,Default,,0,0,0,,{\i1\c&H00ffff&}Carla Jean, how are you?{\c}{\i0}
+Dialogue: 0,1:32:47.99,1:32:52.03,Default,,0,0,0,,Sheriff, was that a true story\Nabout Charlie Walser?
+Dialogue: 0,1:32:52.13,1:32:54.65,Default,,0,0,0,,{\i1\c&H00ffff&}Who's Charlie Walser? Uh! Oh...{\c}{\i0}
+Dialogue: 0,1:32:54.75,1:32:56.71,Default,,0,0,0,,Um...
+Dialogue: 0,1:32:56.81,1:32:59.15,Default,,0,0,0,,True story. I couldn't\Nswear to every detail,
+Dialogue: 0,1:32:59.25,1:33:03.14,Default,,0,0,0,,- but it's certainly true it is a story.\N{\i1\c&H00ffff&}- Yeah, right.{\c}{\i0}
+Dialogue: 0,1:33:03.24,1:33:06.86,Default,,0,0,0,,Sheriff, can you give me\Nyour word on something?
+Dialogue: 0,1:33:06.96,1:33:08.79,Default,,0,0,0,,{\i1\c&H00ffff&}Yes, ma'am.{\c}{\i0}
+Dialogue: 0,1:33:08.89,1:33:13.50,Default,,0,0,0,,If I tell you where Llewelyn's headed,\Nyou promise it'll be just you
+Dialogue: 0,1:33:13.60,1:33:16.65,Default,,0,0,0,,who goes and talks with him?\NYou and nobody else.
+Dialogue: 0,1:33:16.75,1:33:20.87,Default,,0,0,0,,- Yes, ma'am, I do.\N{\i1\c&H00ffff&}-Llewelyn would never ask for help.{\c}{\i0}
+Dialogue: 0,1:33:21.07,1:33:23.74,Default,,0,0,0,,He never thinks he needs any.
+Dialogue: 0,1:33:23.84,1:33:27.56,Default,,0,0,0,,{\i1\c&H00ffff&}Carla Jean, I will not harm your man.{\c}{\i0}
+Dialogue: 0,1:33:27.66,1:33:31.47,Default,,0,0,0,,{\i1\c&H00ffff&}And he needs help,\Nwhether he knows it or not.{\c}{\i0}
+Dialogue: 0,1:33:40.04,1:33:42.31,Default,,0,0,0,,What's the problem there, neighbor?
+Dialogue: 0,1:33:42.41,1:33:47.05,Default,,0,0,0,,Yep, that'll suck some power, over time.
+Dialogue: 0,1:33:48.52,1:33:52.25,Default,,0,0,0,,- You from around here?\N- Yeah, Alpine, born and bred.
+Dialogue: 0,1:33:52.35,1:33:56.32,Default,,0,0,0,,- Here you go.\N- What airport would you use?
+Dialogue: 0,1:33:56.42,1:34:00.74,Default,,0,0,0,,- Well, airport or airstrip?\N- Airport.
+Dialogue: 0,1:34:00.85,1:34:04.55,Default,,0,0,0,,- Well, where you goin'?\N- I don't know.
+Dialogue: 0,1:34:04.65,1:34:07.52,Default,,0,0,0,,Just lightin' out for\Nthe territories, huh?
+Dialogue: 0,1:34:07.54,1:34:09.63,Default,,0,0,0,,Brother, I been there.
+Dialogue: 0,1:34:09.70,1:34:12.91,Default,,0,0,0,,Well, there's airstrips.
+Dialogue: 0,1:34:13.01,1:34:15.58,Default,,0,0,0,,The airport is El Paso.
+Dialogue: 0,1:34:15.68,1:34:17.11,Default,,0,0,0,,If you want someplace specific,
+Dialogue: 0,1:34:17.21,1:34:21.15,Default,,0,0,0,,you might could be better off just\Ndriving to Dallas, not have to connect.
+Dialogue: 0,1:34:21.25,1:34:23.72,Default,,0,0,0,,You gonna clamp them, buddy?
+Dialogue: 0,1:34:23.82,1:34:26.47,Default,,0,0,0,,Can you get those chicken crates\Nout of the bed?
+Dialogue: 0,1:34:26.57,1:34:29.57,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,1:34:45.36,1:34:49.29,Default,,0,0,0,,Hey, Mr. Sportin' Goods.
+Dialogue: 0,1:34:49.39,1:34:53.36,Default,,0,0,0,,- Hey, yourself.\N- You a sport?
+Dialogue: 0,1:34:53.46,1:34:55.83,Default,,0,0,0,,Yeah, that's me.
+Dialogue: 0,1:34:55.93,1:34:58.64,Default,,0,0,0,,I got beers in my room.
+Dialogue: 0,1:34:58.97,1:35:02.64,Default,,0,0,0,,- Oh, uh, I'm waiting on my wife.\N- Oh.
+Dialogue: 0,1:35:02.74,1:35:05.33,Default,,0,0,0,,That's who you keep\Nlooking out the window for?
+Dialogue: 0,1:35:05.43,1:35:07.89,Default,,0,0,0,,- Well, half.\N- What else then?
+Dialogue: 0,1:35:08.00,1:35:13.18,Default,,0,0,0,,- Just looking for what's comin'.\N- Yeah.
+Dialogue: 0,1:35:13.28,1:35:15.95,Default,,0,0,0,,But no one ever sees that.
+Dialogue: 0,1:35:16.05,1:35:19.27,Default,,0,0,0,,Beer! That's what's comin'.
+Dialogue: 0,1:35:19.37,1:35:22.01,Default,,0,0,0,,I'll bring the ice chest out.\NYou can stay married.
+Dialogue: 0,1:35:22.24,1:35:24.88,Default,,0,0,0,,No, ma'am, I know what beer leads to.
+Dialogue: 0,1:35:26.61,1:35:28.88,Default,,0,0,0,,Beer leads to more beer.
+Dialogue: 0,1:36:15.78,1:36:17.28,Default,,0,0,0,,You all right?
+Dialogue: 0,1:36:22.24,1:36:24.37,Default,,0,0,0,,Call the police.
+Dialogue: 0,1:36:30.06,1:36:32.53,Default,,0,0,0,,Your local law enforcement.
+Dialogue: 0,1:36:33.63,1:36:35.45,Default,,0,0,0,,I'm not on their radio.
+Dialogue: 0,1:36:35.55,1:36:38.67,Default,,0,0,0,,{\i1\c&H00ffff&}I met his daughter at the...{\c}{\i0}
+Dialogue: 0,1:37:25.95,1:37:29.12,Default,,0,0,0,,Buy you a cup of coffee\N'fore you drive home?
+Dialogue: 0,1:37:29.32,1:37:32.79,Default,,0,0,0,,- No money in his room there?\N- Couple hundred, on his person.
+Dialogue: 0,1:37:32.89,1:37:35.11,Default,,0,0,0,,Those hombres would have taken the stash.
+Dialogue: 0,1:37:35.31,1:37:37.66,Default,,0,0,0,,I suppose so.
+Dialogue: 0,1:37:37.88,1:37:40.11,Default,,0,0,0,,Though they was leavin' in a hurry.
+Dialogue: 0,1:37:40.13,1:37:45.49,Default,,0,0,0,,It's all the goddamn money,\NEd Tom. Money and the drugs.
+Dialogue: 0,1:37:46.62,1:37:49.89,Default,,0,0,0,,It's just goddamn beyond everything.
+Dialogue: 0,1:37:49.99,1:37:53.18,Default,,0,0,0,,What's it mean? What's it leading to?
+Dialogue: 0,1:37:53.19,1:37:56.18,Default,,0,0,0,,You know, if you'd have\Ntold me 20 years ago
+Dialogue: 0,1:37:56.28,1:37:59.38,Default,,0,0,0,,I'd see children walking\Nthe streets of our Texas towns
+Dialogue: 0,1:37:59.48,1:38:02.65,Default,,0,0,0,,with green hair, bones in their noses,
+Dialogue: 0,1:38:02.75,1:38:05.21,Default,,0,0,0,,I just flat-out\Nwouldn't have believed you.
+Dialogue: 0,1:38:05.31,1:38:06.74,Default,,0,0,0,,Signs and wonders.
+Dialogue: 0,1:38:06.84,1:38:09.71,Default,,0,0,0,,But I think once you quit\Nhearing «sir» and «ma'am»,
+Dialogue: 0,1:38:09.81,1:38:11.41,Default,,0,0,0,,the rest is soon to foller.
+Dialogue: 0,1:38:11.51,1:38:13.43,Default,,0,0,0,,- Oh, it's the tide.\N- Yeah.
+Dialogue: 0,1:38:13.53,1:38:17.33,Default,,0,0,0,,It's the dismal tide.\NIt is not the one thing.
+Dialogue: 0,1:38:17.37,1:38:19.02,Default,,0,0,0,,Not the one thing.
+Dialogue: 0,1:38:19.12,1:38:21.87,Default,,0,0,0,,Yeah, well, none of that\Nexplains your man, though.
+Dialogue: 0,1:38:21.97,1:38:25.07,Default,,0,0,0,,Well, he's just a goddamn\Nhomicidal lunatic, Ed Tom.
+Dialogue: 0,1:38:25.18,1:38:28.31,Default,,0,0,0,,- I'm not sure he's a lunatic.\N- Well, what would you call him?
+Dialogue: 0,1:38:28.41,1:38:31.98,Default,,0,0,0,,Well, sometimes I think\Nhe's pretty much a ghost.
+Dialogue: 0,1:38:32.08,1:38:33.93,Default,,0,0,0,,- He's real, all right.\N- Oh, yeah?
+Dialogue: 0,1:38:34.07,1:38:37.57,Default,,0,0,0,,Yeah. All of that over at the Eagle Hotel?\NJust beyond everything.
+Dialogue: 0,1:38:37.67,1:38:40.42,Default,,0,0,0,,Yeah. Got some hard bark on him.
+Dialogue: 0,1:38:40.53,1:38:43.59,Default,,0,0,0,,Why... Well, that don't hardly say it.
+Dialogue: 0,1:38:44.66,1:38:46.46,Default,,0,0,0,,He shoots a desk clerk one day,
+Dialogue: 0,1:38:46.56,1:38:51.08,Default,,0,0,0,,walks right back in the next and\Nshoots a retired Army colonel.
+Dialogue: 0,1:38:51.19,1:38:52.64,Default,,0,0,0,,It's hard to believe.
+Dialogue: 0,1:38:52.74,1:38:55.89,Default,,0,0,0,,Just strolls right back\Ninto a crime scene.
+Dialogue: 0,1:38:55.99,1:39:01.36,Default,,0,0,0,,Now, who'd do such a thing?\NHow do you defend against it?
+Dialogue: 0,1:39:01.46,1:39:04.40,Default,,0,0,0,,Well, good trip, Ed Tom.
+Dialogue: 0,1:39:04.50,1:39:07.08,Default,,0,0,0,,Sorry we couldn't help your boy.
+Dialogue: 0,1:42:38.90,1:42:42.37,Default,,0,0,0,,{\i1\c&H00ffff&}- In back!{\c}{\i0}\N- How'd you know I was here?
+Dialogue: 0,1:42:42.47,1:42:45.32,Default,,0,0,0,,{\i1\c&H00ffff&}Who else'd be driving up in in your truck?{\c}{\i0}
+Dialogue: 0,1:42:45.42,1:42:46.84,Default,,0,0,0,,- You heard it?\N- How's that?
+Dialogue: 0,1:42:46.94,1:42:51.44,Default,,0,0,0,,Did you hear my...?\NYou're having fun with me.
+Dialogue: 0,1:42:51.54,1:42:55.75,Default,,0,0,0,,What give you that idea?\NI seen one of the cats heard it.
+Dialogue: 0,1:42:55.85,1:42:57.16,Default,,0,0,0,,How'd you know it was my truck?
+Dialogue: 0,1:42:57.27,1:43:00.62,Default,,0,0,0,,I deduced it when you walked in.
+Dialogue: 0,1:43:00.72,1:43:02.89,Default,,0,0,0,,How many of them things you got now?
+Dialogue: 0,1:43:02.99,1:43:05.37,Default,,0,0,0,,Cats? Oh, I don't know, several.
+Dialogue: 0,1:43:05.47,1:43:08.86,Default,,0,0,0,,Well, it depends on what\Nyou mean by «got».
+Dialogue: 0,1:43:08.96,1:43:13.33,Default,,0,0,0,,Some of 'em are half wild,\Nsome of 'em are just outlaws.
+Dialogue: 0,1:43:16.22,1:43:20.25,Default,,0,0,0,,- How you been, Ellis?\N- You're looking at it.
+Dialogue: 0,1:43:21.26,1:43:24.61,Default,,0,0,0,,I got to say, you're looking older.
+Dialogue: 0,1:43:24.71,1:43:26.44,Default,,0,0,0,,I am older.
+Dialogue: 0,1:43:27.28,1:43:29.78,Default,,0,0,0,,Got a letter from your wife.
+Dialogue: 0,1:43:29.88,1:43:34.25,Default,,0,0,0,,She writes me pretty regular,\Nkeeps me up on the family news.
+Dialogue: 0,1:43:34.35,1:43:38.04,Default,,0,0,0,,- Didn't know there was any.\N- Told me you're quittin'.
+Dialogue: 0,1:43:40.97,1:43:44.26,Default,,0,0,0,,- You want a cup?\N- Appreciate it.
+Dialogue: 0,1:43:51.60,1:43:53.35,Default,,0,0,0,,How fresh is that coffee?
+Dialogue: 0,1:43:53.45,1:43:59.48,Default,,0,0,0,,I generally make a fresh pot every\Nweek, even if there's some left over.
+Dialogue: 0,1:44:01.21,1:44:03.83,Default,,0,0,0,,That man that shot you died in prison?
+Dialogue: 0,1:44:05.87,1:44:08.02,Default,,0,0,0,,Angola. Yeah.
+Dialogue: 0,1:44:08.12,1:44:10.89,Default,,0,0,0,,What'd you done he'd a been released?
+Dialogue: 0,1:44:10.99,1:44:13.84,Default,,0,0,0,,Oh, I don't know. Nothing.
+Dialogue: 0,1:44:13.97,1:44:15.54,Default,,0,0,0,,Wouldn't be no point in it.
+Dialogue: 0,1:44:15.64,1:44:18.85,Default,,0,0,0,,Kindly surprised to hear you say that.
+Dialogue: 0,1:44:18.95,1:44:22.63,Default,,0,0,0,,Well, all the time\Nyou spend trying to get back
+Dialogue: 0,1:44:22.73,1:44:26.42,Default,,0,0,0,,what's been took from you,\Nmore is going out the door.
+Dialogue: 0,1:44:26.52,1:44:30.32,Default,,0,0,0,,After a while, you have to try\Nto get a tourniquet on it.
+Dialogue: 0,1:44:30.42,1:44:34.99,Default,,0,0,0,,Your granddad never asked me\Nto sign on as a deputy.
+Dialogue: 0,1:44:37.55,1:44:41.75,Default,,0,0,0,,Loretta tells me you're quittin'.\NHow come you doing that?
+Dialogue: 0,1:44:41.85,1:44:44.24,Default,,0,0,0,,I don't know.
+Dialogue: 0,1:44:46.66,1:44:48.76,Default,,0,0,0,,I feel overmatched.
+Dialogue: 0,1:44:52.80,1:44:55.30,Default,,0,0,0,,I always figured when I got older,
+Dialogue: 0,1:44:55.40,1:45:00.67,Default,,0,0,0,,God would... sort of\Ncome into my life somehow.
+Dialogue: 0,1:45:03.44,1:45:04.69,Default,,0,0,0,,And He didn't.
+Dialogue: 0,1:45:08.45,1:45:10.18,Default,,0,0,0,,And I don't blame Him.
+Dialogue: 0,1:45:12.45,1:45:16.07,Default,,0,0,0,,If I was Him, I'd have the same\Nopinion of me that He does.
+Dialogue: 0,1:45:16.17,1:45:17.99,Default,,0,0,0,,You don't know what He thinks.
+Dialogue: 0,1:45:31.97,1:45:35.74,Default,,0,0,0,,I sent Uncle Mac's thumbbuster\Nand badge over to the Rangers,
+Dialogue: 0,1:45:35.84,1:45:38.24,Default,,0,0,0,,put it in their museum.
+Dialogue: 0,1:45:38.34,1:45:43.15,Default,,0,0,0,,Your daddy ever tell you how\NUncle Mac come to his reward?
+Dialogue: 0,1:45:43.25,1:45:46.98,Default,,0,0,0,,Gunned down on his own porch\Nover in Hudspeth County.
+Dialogue: 0,1:45:48.80,1:45:53.89,Default,,0,0,0,,Seven or eight of 'em come up there,\Nall wanting this, wanting that.
+Dialogue: 0,1:45:53.99,1:45:56.89,Default,,0,0,0,,Uncle Mac went back in the house\Nto get the shotgun.
+Dialogue: 0,1:45:56.99,1:46:00.66,Default,,0,0,0,,Well, they was ahead of him.
+Dialogue: 0,1:46:00.76,1:46:03.33,Default,,0,0,0,,Shot him in his doorway.
+Dialogue: 0,1:46:03.38,1:46:06.05,Default,,0,0,0,,Aunt Ella come out,\Ntried to stop the bleeding.
+Dialogue: 0,1:46:06.30,1:46:09.91,Default,,0,0,0,,Uncle Mac all the while\Ntrying to get that shotgun.
+Dialogue: 0,1:46:10.06,1:46:15.29,Default,,0,0,0,,They just sat there on their\Nhorses, watching him die.
+Dialogue: 0,1:46:15.31,1:46:20.07,Default,,0,0,0,,After a while, one of 'em said\Nsomething in Indian and they turned.
+Dialogue: 0,1:46:20.74,1:46:22.79,Default,,0,0,0,,Left out.
+Dialogue: 0,1:46:24.59,1:46:28.21,Default,,0,0,0,,Uncle Mac knew the score,\Neven if Aunt Ella didn't.
+Dialogue: 0,1:46:28.31,1:46:31.33,Default,,0,0,0,,Shot through the left lung.
+Dialogue: 0,1:46:31.43,1:46:36.27,Default,,0,0,0,,And that was that... As they say.
+Dialogue: 0,1:46:39.37,1:46:41.09,Default,,0,0,0,,When'd he die?
+Dialogue: 0,1:46:42.02,1:46:45.37,Default,,0,0,0,,Nineteen zero and, uh... nine?
+Dialogue: 0,1:46:45.48,1:46:49.15,Default,,0,0,0,,No, I mean, was it right away\Nor in the night or...
+Dialogue: 0,1:46:49.26,1:46:52.90,Default,,0,0,0,,- When was it?\N- I believe it was that night.
+Dialogue: 0,1:46:53.00,1:46:58.24,Default,,0,0,0,,She buried him the next morning.\NDigging in that hard old caliche.
+Dialogue: 0,1:47:01.06,1:47:03.94,Default,,0,0,0,,What you got ain't nothin' new.
+Dialogue: 0,1:47:05.15,1:47:07.85,Default,,0,0,0,,This country is hard on people.
+Dialogue: 0,1:47:11.37,1:47:13.65,Default,,0,0,0,,You can't stop what's coming.
+Dialogue: 0,1:47:15.26,1:47:17.66,Default,,0,0,0,,It ain't all waitin' on you.
+Dialogue: 0,1:47:20.39,1:47:22.23,Default,,0,0,0,,That's vanity.
+Dialogue: 0,1:48:22.99,1:48:25.54,Default,,0,0,0,,I knew this wasn't done with.
+Dialogue: 0,1:48:28.23,1:48:30.26,Default,,0,0,0,,I ain't got the money.
+Dialogue: 0,1:48:32.02,1:48:36.54,Default,,0,0,0,,What little I had is long gone and\Nthere's bills aplenty to pay yet.
+Dialogue: 0,1:48:38.19,1:48:43.03,Default,,0,0,0,,I buried my mother today.\NAin't paid for that neither.
+Dialogue: 0,1:48:43.79,1:48:45.90,Default,,0,0,0,,I wouldn't worry about it.
+Dialogue: 0,1:48:48.32,1:48:50.12,Default,,0,0,0,,I need to sit down.
+Dialogue: 0,1:49:05.20,1:49:07.38,Default,,0,0,0,,You got no cause to hurt me.
+Dialogue: 0,1:49:07.48,1:49:11.37,Default,,0,0,0,,No. But I gave my word.
+Dialogue: 0,1:49:12.59,1:49:16.46,Default,,0,0,0,,- You gave your word?\N- To your husband.
+Dialogue: 0,1:49:19.30,1:49:21.81,Default,,0,0,0,,That don't make sense.
+Dialogue: 0,1:49:21.92,1:49:25.18,Default,,0,0,0,,You gave your word\Nto my husband to kill me?
+Dialogue: 0,1:49:25.29,1:49:28.89,Default,,0,0,0,,Your husband had\Nthe opportunity to save you.
+Dialogue: 0,1:49:28.99,1:49:32.02,Default,,0,0,0,,Instead, he used you\Nto try to save himself.
+Dialogue: 0,1:49:36.88,1:49:39.03,Default,,0,0,0,,Not like that.
+Dialogue: 0,1:49:40.37,1:49:42.50,Default,,0,0,0,,Not like you say.
+Dialogue: 0,1:49:48.29,1:49:49.91,Default,,0,0,0,,You don't have to do this.
+Dialogue: 0,1:49:50.01,1:49:52.66,Default,,0,0,0,,People always say the same thing.
+Dialogue: 0,1:49:54.16,1:49:56.18,Default,,0,0,0,,What do they say?
+Dialogue: 0,1:49:56.28,1:49:59.90,Default,,0,0,0,,They say, «You don't have to do this».
+Dialogue: 0,1:50:00.00,1:50:05.47,Default,,0,0,0,,- You don't.\N- OK.
+Dialogue: 0,1:50:10.01,1:50:12.58,Default,,0,0,0,,This is the best I can do.
+Dialogue: 0,1:50:13.18,1:50:14.37,Default,,0,0,0,,Call it.
+Dialogue: 0,1:50:18.72,1:50:22.56,Default,,0,0,0,,I knowed you was crazy\Nwhen I saw you sitting there.
+Dialogue: 0,1:50:24.59,1:50:27.18,Default,,0,0,0,,I knowed exactly what was in store for me.
+Dialogue: 0,1:50:27.28,1:50:31.78,Default,,0,0,0,,- Call it.\N- No.
+Dialogue: 0,1:50:31.99,1:50:34.65,Default,,0,0,0,,I ain't gonna call it.
+Dialogue: 0,1:50:37.84,1:50:39.14,Default,,0,0,0,,Call it.
+Dialogue: 0,1:50:39.24,1:50:42.29,Default,,0,0,0,,The coin don't have no say.
+Dialogue: 0,1:50:42.40,1:50:44.43,Default,,0,0,0,,It's just you.
+Dialogue: 0,1:50:46.62,1:50:50.09,Default,,0,0,0,,Well, I got here\Nthe same way the coin did.
+Dialogue: 0,1:52:32.24,1:52:35.59,Default,,0,0,0,,Mister, you got a bone\Nsticking out of your arm.
+Dialogue: 0,1:52:35.69,1:52:38.11,Default,,0,0,0,,I'm all right.\NLet me just sit here a minute.
+Dialogue: 0,1:52:38.21,1:52:41.06,Default,,0,0,0,,There's an ambulance coming.\NThe man went to call.
+Dialogue: 0,1:52:41.16,1:52:43.57,Default,,0,0,0,,All right.
+Dialogue: 0,1:52:43.67,1:52:47.72,Default,,0,0,0,,Are you all right? You got\Na bone sticking out your arm.
+Dialogue: 0,1:52:48.74,1:52:50.66,Default,,0,0,0,,What'll you take for the shirt?
+Dialogue: 0,1:52:55.40,1:52:58.50,Default,,0,0,0,,Well, hell, mister,\NI'll give you my shirt.
+Dialogue: 0,1:53:05.16,1:53:08.67,Default,,0,0,0,,Look at that fucking bone.
+Dialogue: 0,1:53:08.78,1:53:10.08,Default,,0,0,0,,Tie this for me.
+Dialogue: 0,1:53:10.86,1:53:13.68,Default,,0,0,0,,Just tie it, just tie it.
+Dialogue: 0,1:53:31.00,1:53:34.68,Default,,0,0,0,,Hell, mister. Look, I don't mind\Nhelping someone out.
+Dialogue: 0,1:53:34.78,1:53:37.39,Default,,0,0,0,,- That's a lot of money.\N- Take it.
+Dialogue: 0,1:53:37.49,1:53:40.82,Default,,0,0,0,,Take it and... You didn't see me.
+Dialogue: 0,1:53:40.92,1:53:43.06,Default,,0,0,0,,I was already gone.
+Dialogue: 0,1:53:43.16,1:53:44.69,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:53:49.08,1:53:52.28,Default,,0,0,0,,- Part of that's mine, right?\N- You still got your damn shirt.
+Dialogue: 0,1:53:52.39,1:53:57.09,Default,,0,0,0,,- Ain't even what it was for.\N- Maybe. But I'm still out a shirt.
+Dialogue: 0,1:54:17.04,1:54:19.58,Default,,0,0,0,,- Maybe I'll go ridin'.\N- OK.
+Dialogue: 0,1:54:19.68,1:54:23.92,Default,,0,0,0,,- What do you think?\N- Well, I can't plan your day.
+Dialogue: 0,1:54:24.02,1:54:25.95,Default,,0,0,0,,I mean, would you care to join me?
+Dialogue: 0,1:54:26.19,1:54:28.59,Default,,0,0,0,,Lord, no, I'm not retired.
+Dialogue: 0,1:54:30.46,1:54:35.03,Default,,0,0,0,,- Maybe I'll help out here then.\N- Uh... better not.
+Dialogue: 0,1:54:38.88,1:54:42.42,Default,,0,0,0,,- How'd you sleep?\N- I don't know. Had dreams.
+Dialogue: 0,1:54:42.67,1:54:46.92,Default,,0,0,0,,Well, you got time for 'em now.\NAnything interesting?
+Dialogue: 0,1:54:47.02,1:54:49.93,Default,,0,0,0,,They always is to the party concerned.
+Dialogue: 0,1:54:52.11,1:54:54.96,Default,,0,0,0,,Ed Tom, I'll be polite.
+Dialogue: 0,1:54:56.90,1:55:02.12,Default,,0,0,0,,All right, then. Two of 'em, both had\Nmy father in 'em. It's peculiar.
+Dialogue: 0,1:55:02.22,1:55:05.19,Default,,0,0,0,,I'm older now\Nthan he ever was by 20 years.
+Dialogue: 0,1:55:05.29,1:55:08.99,Default,,0,0,0,,So, in a sense, he's the younger man.
+Dialogue: 0,1:55:09.23,1:55:12.32,Default,,0,0,0,,Anyway, the first one\NI don't remember too well,
+Dialogue: 0,1:55:12.42,1:55:14.88,Default,,0,0,0,,but it was about meeting him in town,
+Dialogue: 0,1:55:14.98,1:55:17.87,Default,,0,0,0,,somewheres, and he give me some money.
+Dialogue: 0,1:55:17.97,1:55:19.71,Default,,0,0,0,,I think I lost it.
+Dialogue: 0,1:55:21.31,1:55:26.03,Default,,0,0,0,,Second one, it was like we\Nwas both back in older times.
+Dialogue: 0,1:55:26.16,1:55:30.42,Default,,0,0,0,,And I was a-horseback, going\Nthrough the mountains of a night.
+Dialogue: 0,1:55:30.52,1:55:33.72,Default,,0,0,0,,Going through this pass in the mountains.
+Dialogue: 0,1:55:33.82,1:55:37.29,Default,,0,0,0,,It was cold, and there was\Nsnow on the ground.
+Dialogue: 0,1:55:37.39,1:55:39.81,Default,,0,0,0,,And he rode past me and kept on going,
+Dialogue: 0,1:55:39.91,1:55:42.96,Default,,0,0,0,,never said nothing going by,\Njust rode on past.
+Dialogue: 0,1:55:44.45,1:55:48.40,Default,,0,0,0,,He had his blanket wrapped\Naround him and his head down.
+Dialogue: 0,1:55:50.09,1:55:53.89,Default,,0,0,0,,When he rode past, I seen he was\Ncarrying fire in a horn,
+Dialogue: 0,1:55:53.99,1:55:55.84,Default,,0,0,0,,the way people used to do, and I...
+Dialogue: 0,1:55:55.94,1:55:58.66,Default,,0,0,0,,I could see the horn\Nfrom the light inside of it,
+Dialogue: 0,1:55:58.76,1:56:00.66,Default,,0,0,0,,'bout the color of the moon.
+Dialogue: 0,1:56:01.86,1:56:04.58,Default,,0,0,0,,And, in the dream, I knew that he was...
+Dialogue: 0,1:56:05.15,1:56:07.45,Default,,0,0,0,,...going on ahead.
+Dialogue: 0,1:56:07.55,1:56:12.66,Default,,0,0,0,,He was fixin' to make a fire somewhere\Nout there in all that dark and cold.
+Dialogue: 0,1:56:15.96,1:56:19.25,Default,,0,0,0,,And I knew that whenever\NI got there, he'd be there.
+Dialogue: 0,1:56:23.59,1:56:25.87,Default,,0,0,0,,And then I woke up.

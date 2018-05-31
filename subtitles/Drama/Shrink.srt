@@ -1,0 +1,517 @@
+{1}{1}23.976
+{799}{873}You're a really good writer.|- Thank you.
+{876}{980}It's good news because|I am a piece of shit valet.
+{982}{1010}Okay, I have bad news.
+{1012}{1040}What?
+{1043}{1111}They basically made a bad version of the script,
+{1111}{1149}and it's coming out next summer.
+{1152}{1181}What? Really?
+{1184}{1217}How is that possible?
+{1220}{1257}Mine takes place in an alternate reality.
+{1260}{1327}I know.|Yours is better, but...
+{1329}{1377}I don't know. I think maybe you should|work on something new.
+{1380}{1417}Excuse me.
+{1420}{1449}Yeah?|- Yeah.
+{1452}{1482}Okay.
+{1484}{1584}You want to get a drink|this weekend or something?
+{1593}{1619}Baby on board.
+{1621}{1653}Right. Shit.
+{1656}{1704}Sorry, I'm an idiot.
+{1705}{1759}Who's the father?
+{1761}{1850}Oh, God.|That's so long.
+{1852}{1892}You know what?|I have to go to this thing.
+{1895}{1924}It's going to really suck,
+{1926}{2008}but if you want, you could join me.
+{2011}{2048}It's not going to be fun.|- Yeah, I'll go.
+{2051}{2099}You could? Okay.|- Yeah.
+{2136}{2187}I'm glad we're finally meeting.
+{2189}{2220}Shamus is sweet.
+{2223}{2339}So you were in that vampire movie?
+{2341}{2367}Yeah.
+{2369}{2413}Did you see it?|- I didn't.
+{2416}{2508}You were in a couple of other indies...
+{2511}{2563}and that American Apparel ad.
+{2565}{2619}And you're, what, 19?
+{2621}{2647}21.
+{2649}{2689}Street legal.
+{2692}{2762}I'm just fucking him, by the way.
+{2815}{2864}You're just fucking him?
+{2903}{2950}Yep.
+{2968}{3029}Do you have any idea who I am?
+{3064}{3127}I wouldn't be here if I didn't.
+{3160}{3286}You know this information|will probably get back to him, right?
+{3372}{3397}Stop.
+{3400}{3444}Stop right there.
+{3447}{3487}You're dead, Stitch.
+{3489}{3544}You know what your problem is,|Ramirez, you piece of shit?
+{3546}{3597}What's that?
+{3600}{3648}Me.
+{3649}{3720}The fucking gun's jammed again.|- That's a cut.
+{3723}{3748}Come on, man.|- God damn it.
+{3751}{3815}Can we get Shamus a real gun?
+{5233}{5300}Hey, Shamus.|- Right here, Shamus.
+{5756}{5804}Hey.
+{5805}{5832}Hi.|- Hi.
+{5834}{5869}You made it.
+{5872}{5896}Do you like it?
+{5899}{5930}Yeah, it's cool.
+{5932}{5971}Can I get you a cocktail?
+{5973}{6027}Pregnant.
+{6029}{6082}What?|- I'm still pregnant.
+{6084}{6132}Right. Sorry.
+{6283}{6325}Look, I want to tell you something.
+{6328}{6359}Okay.
+{6361}{6406}I know we're just getting to know each other...
+{6408}{6464}and we really don't know where this is going,
+{6467}{6569}but I just really feel like|I should tell you this.
+{6575}{6647}I like you.|- I'm sorry?
+{6677}{6731}I really like you...
+{6733}{6793}and I don't have any money or insurance...
+{6796}{6834}or a valid credit card or any of those things,
+{6836}{6877}but I'll help you take care of this baby.
+{6880}{6924}I will do whatever it takes.
+{6927}{6999}I will step up big time.
+{7082}{7130}I like you, too.
+{7133}{7181}Cool.
+{7199}{7236}Do you want to go make out in your car?
+{7239}{7264}Yeah.|- Really?
+{7266}{7326}No, I don't have a car.
+{7328}{7367}I don't have a car.
+{7369}{7425}You know what?|I have a car.
+{7428}{7476}Yes.|- Okay.
+{7542}{7588}Wait, wait, wait.|We should get a condom.
+{7590}{7661}No, no.|I'm already pregnant.
+{7664}{7704}God, I can't.
+{7706}{7749}Wait. No, no, no.|You're pregnant.
+{7752}{7782}What are we doing?
+{7784}{7837}No, it's fine. Don't stop.
+{7863}{7893}Shit.|- Is everything okay?
+{7896}{7969}Yeah. Sorry.|We were just leaving.
+{8028}{8095}Little King? Shit.
+{8097}{8122}Get the fuck out.
+{8124}{8178}I was just thinking about you.
+{8180}{8216}What's going on, brother?|How you doing?
+{8218}{8260}I'm good. How are you?|- It's so good to see you.
+{8262}{8340}Did Youngblood over here|knock you up, little lady?
+{8343}{8392}No, man.|It's not mine.
+{8395}{8448}It's not even mine.
+{8497}{8531}It's not?
+{8533}{8634}No. It's... It's my sister's.
+{8636}{8689}It's a surrogate.|I'm a surrogate.
+{8692}{8736}She couldn't get pregnant, so...
+{8738}{8789}I can't say no.
+{8792}{8843}It's probably why I work for Patrick, so...
+{8845}{8911}You're serious?|- Yeah. Yeah, I'm sorry.
+{8913}{8947}It's not even my egg.
+{8949}{9001}It's just... It's just my oven.
+{9004}{9034}Wow.|- So to speak.
+{9036}{9067}That's crazy.|- Yeah.
+{9069}{9138}Yeah.|- Thank God.
+{9225}{9267}Are you guys good friends?
+{9269}{9312}You didn't have to do this.
+{9315}{9400}I didn't want you to have to ride the bus.
+{9463}{9511}Jemma Brown?
+{9550}{9581}You want me to go with you?
+{9584}{9632}I'll be okay.|- Okay.
+{9652}{9676}www.frendz4m.com
+{9700}{9724}www.frendz4m.com
+{9748}{9772}www.frendz4m.com
+{9796}{9820}www.frendz4m.com
+{10033}{10075}Hey, it's me.
+{10077}{10107}Hold on a second.
+{10109}{10164}You okay?|- Yeah, I'm fine. Hold on a second.
+{10167}{10248}What are you doing? You okay?|- I'm fine.
+{10491}{10542}Were you getting high?|- What? No.
+{10544}{10576}You weren't?|- No.
+{10578}{10626}Really?|- Yes.
+{10693}{10766}Well, some people might see|getting high in a pediatrician's office...
+{10768}{10813}as a cry for help.
+{10816}{10868}She's not my kid.
+{10871}{10908}But you probably knew that.
+{10910}{10958}Let's go.
+{11483}{11531}What'd you think?
+{11588}{11636}I want to make movies.
+{11668}{11712}You do?
+{11715}{11759}My mom used to take me to the movies.
+{11761}{11809}That was our thing.
+{11845}{11909}I kept all the tickets.
+{11912}{11965}I tape them to my ceiling.
+{12029}{12090}Maybe we could do this every week.
+{12092}{12166}I mean go to the movies...
+{12168}{12218}instead of talking.
+{12285}{12334}You have no idea how tempting that is,
+{12336}{12418}but I'm afraid we're gonna have to talk.
+{12443}{12508}I knew you were gonna say that.
+{12745}{12803}Hey.
+{12805}{12842}I see you.
+{12844}{12911}This place is a fortress, motherfucker.
+{12913}{12959}What the fuck are you trying to pull?
+{12961}{13055}That's right, you better run,|you motherfucker.
+{13104}{13161}That's from Ed Armstrong at Orion.
+{13164}{13230}You don't even know how fucked you are.
+{13232}{13317}You're not gonna be able to see a movie|in this goddamn town when l...
+{13320}{13391}Daisy.
+{13614}{13662}Okay.
+{13866}{13914}Hello?
+{14164}{14212}Evan?
+{14411}{14459}It's for you.
+{14509}{14564}Yo, this is Evan.|What's up?
+{14865}{14896}We should do this every night.
+{14898}{14971}We should start a band.
+{14973}{15014}We should start a band.
+{15016}{15078}What would our band be called?
+{15113}{15174}Let's think.
+{15176}{15229}The Neurotics.
+{15232}{15299}The Neurotics.|I love it.
+{15516}{15564}It's my fault.
+{15632}{15694}I should've seen it coming.
+{15750}{15840}I mean, all the friends we had are gone.
+{15873}{15945}I just have patients now.
+{15994}{16074}Well, you still have a step-godbrother.
+{16140}{16199}Who wants to be my patient?
+{18335}{18382}Jesus Christ Almighty,
+{18384}{18451}your face looks like a truck driver's nutsack.
+{18453}{18500}Thanks, Dad.|It was a long night.
+{18502}{18550}Yeah, I bet.
+{18588}{18632}Been thinking about your dream.
+{18635}{18665}I thought you didn't do dreams.
+{18668}{18731}No, I don't.
+{18733}{18766}But in your case...
+{18768}{18860}'It's a comfort for seafarers to know...
+{18862}{18962}'that no matter on what strange water|they may venture,
+{18964}{19070}'there are always pilots within call.
+{19110}{19241}But yet the sufferer must help himself.'
+{19269}{19326}That's Kierkegaard.
+{19366}{19421}Love his work.
+{20303}{20351}Hey.
+{20396}{20431}I saw you at the movie.
+{20433}{20481}Yeah, so?
+{20484}{20564}Do you maybe want to have|a cup of coffee or something?
+{20567}{20598}Why?
+{20600}{20659}I think we might have a lot in common.
+{20661}{20685}Yeah. I gotta go.
+{20688}{20727}Wait, wait, wait.|My name's Jeremy.
+{20729}{20763}I'm a writer and I have a girlfriend.
+{20765}{20822}She's my age,|so I'm not a weirdo or anything.
+{20824}{20953}Look, I just would really like to have|a cup of coffee with you.
+{21089}{21139}You like school?
+{21141}{21208}I guess.
+{21211}{21250}You guess?
+{21252}{21309}Sounds like a 'no' to me.
+{21312}{21380}It's all whatever.
+{21383}{21439}Whatever.
+{21441}{21511}That's a word I used...
+{21513}{21613}many, many times when|I was in high school myself.
+{21754}{21781}Yeah, I actually...
+{21784}{21872}I actually got suspended for a week because
+{21874}{21965}I wrote a report on this book|called The Anarchist's Cookbook.
+{21968}{22006}What?|- It's this book...
+{22008}{22054}It basically tells you how to make bombs.
+{22056}{22126}I wasn't trying to make bombs,|but I was trying to do this report...
+{22128}{22220}and show this subversive society, whatever.
+{22223}{22266}This whole big thing.
+{22268}{22336}What about you?|You ever get kicked out?
+{22338}{22386}Suspended or anything?
+{22418}{22477}What do you think?
+{22480}{22528}Probably.
+{22557}{22595}Probably.
+{22597}{22627}Yeah?
+{22629}{22684}Yeah? You did, didn't you?
+{22769}{22855}Do you want to go to this party with me tonight?
+{22857}{22905}Really?
+{24880}{24943}All right, Jemma Brown.
+{26334}{26382}Dr. Carter?
+{26447}{26526}Would you like me to get you a razor?
+{26528}{26576}So you could shave?
+{26604}{26656}No.
+{26659}{26693}You sure about that?|- Yeah.
+{26696}{26724}Okay.
+{26727}{26787}I'm here with Dr. Henry Carter.
+{26789}{26877}Him, the shrink of the stars.
+{26880}{26956}He's a therapist practicing in Los Angeles.
+{26959}{27039}A bestselling author...|- Hey, babe.
+{27041}{27075}That's your guy, isn't it?
+{27077}{27145}Including, of course, his 1995 classic...
+{27148}{27211}Yeah.|...Stop Feeling Sad.
+{27213}{27290}Doctor, it's good to have you here.
+{27404}{27517}Tonight's topic is suicide,
+{27520}{27570}with the implicit question...
+{27572}{27630}Why do they do it?
+{27632}{27747}Can you shed some light|on this dark topic for us?
+{27840}{27902}'Why do they do it?' That's your question?
+{27904}{27952}Yes.
+{28315}{28363}I ought to know.
+{28469}{28545}My wife committed suicide.
+{28548}{28596}She wrote me a letter.
+{28596}{28626}A note.
+{28628}{28698}You're supposed to call it a note.
+{28819}{28910}I'm a fraud.|A big fraud.
+{28946}{29020}Do you honestly believe what you're saying?
+{29023}{29071}This book.
+{29092}{29119}This book.
+{29121}{29215}I wrote this book to feel better about myself.
+{29534}{29578}Don't buy this book.
+{29580}{29623}It's bullshit.
+{29625}{29665}Don't buy this book.
+{29668}{29716}Don't buy this book.
+{29876}{29924}It's all bullshit.
+{29925}{29999}It's all bullshit, and then you die.
+{30064}{30120}We knew that going in.
+{30893}{30952}Sorry, I gotta take this.
+{30954}{31002}Hello.
+{31135}{31183}Oh, my God.
+{31562}{31660}What would make somebody do something like that?
+{31710}{31777}Take a shit on my goddamn porch.
+{31894}{31986}Hey. Are you poking my assistant?
+{31988}{32042}Because I don't know if you've noticed,|but she's pregnant,
+{32044}{32106}and that's just fucking gross.
+{32174}{32238}You really like her.
+{32240}{32288}Yeah.
+{32306}{32362}Yeah, she's a good kid.
+{32394}{32450}Don't tell her I said that.
+{32517}{32548}You guys can go home.
+{32550}{32605}We'll stay.|- No, really.
+{32608}{32663}I got my best man on it.
+{33012}{33075}Is this the John Belushi suite?
+{33100}{33134}What does it say?
+{33136}{33200}Let's see. Cocaine.
+{33203}{33239}Amphetamines.
+{33241}{33346}Klonopin. Soma?
+{33348}{33396}Alcohol.
+{33430}{33478}You have a drinking problem, my friend.
+{33480}{33525}I'm Irish.
+{33528}{33581}What the fuck is Ketamine?
+{33599}{33689}It's a horse tranquilizer.|- Of course it is.
+{33910}{33995}You may want to stand up for this next part.
+{33997}{34048}You fucking kidding?
+{34178}{34261}I did it with Keira.
+{34264}{34332}You what?|- I had sex with Keira.
+{34335}{34360}We fucked.
+{34362}{34426}So, if you need to come at me,|if you want to take a swing,
+{34428}{34464}whatever you gotta do|to make this right between us.
+{34467}{34523}I completely understand.
+{34721}{34804}I'm not fucking doing the asteroid movie.
+{35221}{35276}Have you been up all night?
+{35319}{35367}Yes.
+{35387}{35435}It's done.
+{35598}{35651}Oh, my God.
+{35746}{35803}Patrick? Read this.
+{35805}{35841}Yeah, yeah, I'm on it.
+{35844}{35933}No, I really want you to read this.
+{35936}{36013}Come on, Daisy, just give me the gist.
+{36064}{36133}When's the last time|you actually read a whole script?
+{36136}{36177}Read? I don't need to read, Daisy.
+{36180}{36223}I have an agile mind.
+{36225}{36263}Do you even like movies?
+{36265}{36325}When's the last time you actually|sat through a whole movie?
+{36328}{36370}1997, Titanic.|Way too long.
+{36372}{36443}Spoiler alert... the boat sinks.
+{36499}{36602}Patrick, I have never asked you for anything,
+{36604}{36684}and now I'm asking you to do something.
+{36731}{36816}Just fucking read it, okay?
+{38037}{38068}Okay.
+{38071}{38105}Today's gonna be our last session, all right?
+{38108}{38141}I just need you to know that.
+{38144}{38196}Why?|- It's not about you.
+{38199}{38236}All right? It's me.
+{38239}{38310}Is it because you went crazy on TV?
+{38353}{38480}Look, I'm gonna give you the name of a colleague.
+{38482}{38512}He's very, very good.
+{38515}{38573}He's gonna... What's that?
+{38576}{38628}I want you to read it.
+{38630}{38676}It's not addressed to me.
+{38679}{38809}If it says anything about why it happened,|I want you to tell me.
+{38984}{39039}Is this what I think it is?
+{40185}{40251}Does it say why?
+{41082}{41154}You tell them the next communication from them...
+{41156}{41215}better be an offer on the table,|or this is over.
+{41217}{41255}Yes.
+{41257}{41320}No. I've heard it so much.|I'm done.
+{41323}{41419}I'm done with them.|Do you understand? I'm done.
+{42210}{42258}How you doing?
+{42312}{42410}I saw you on TV.|That was dope.
+{42465}{42526}Two sacks of dankness, please.
+{42580}{42638}All right, word.
+{42640}{42678}Wait, wait, wait.|What's that?
+{42680}{42711}What's what? This?|- Yeah.
+{42713}{42755}You don't want that.|- Why not? What is it?
+{42757}{42848}Because that's some break-the-glass-|in-case-of-emergency type shit.
+{42851}{42882}And I don't...|- That sounds perfect.
+{42884}{42948}I don't...|- Yeah, I want this.
+{43103}{43162}75.
+{43674}{43714}Hey.
+{43716}{43767}What's up?
+{44102}{44150}Jemma.
+{44269}{44317}Please wait.
+{44318}{44355}I was going to tell you.|- Tell me what?
+{44357}{44420}That you were hanging out with me for research?
+{44422}{44489}I am your friend.|Can't you tell that?
+{44492}{44532}I mean, it's all in there.
+{44534}{44597}They're just words.
+{44600}{44666}They don't mean anything.
+{44856}{44904}You're in it, too.
+{44939}{45009}I didn't know anything about this.
+{45043}{45114}He must have read your...
+{45116}{45182}I trusted you.
+{45722}{45754}How fucking dare you?
+{45756}{45856}That was my patient's file|you fucking stole, you dick.
+{45858}{45900}No, listen.|- What the fuck is the matter with you?
+{45902}{45931}Listen to me. Listen.|Did you read it?
+{45933}{45969}Did I read it?|What is this, a fucking workshop?
+{45972}{46004}If you read it,|you might understand what l...
+{46006}{46078}Damn you, son of a...
+{46080}{46138}Jesus...
+{46140}{46183}You all right, J?
+{46185}{46246}No.|- Jesus.
+{46248}{46293}Come on, man, I got you.|- Fucking Christ.
+{46296}{46344}Fuck.
+{46345}{46411}Punched by Pablo Escobar.|Jesus Christ.
+{46413}{46459}Hope you have a nice career, you cunt.
+{46461}{46493}Get the fuck out of here, asshole.
+{46496}{46527}No, no, no.|Don't say that.
+{46529}{46578}Who was that guy?|- He's my godbrother.
+{46580}{46628}Fuck.
+{49880}{49928}Jesus?
+{49953}{50030}Hey, man. Fuck.
+{50103}{50163}Fucking Christmas in Vietnam.
+{50165}{50224}What?|- That's what we smoked.
+{50226}{50256}I smoked them, too.
+{50258}{50312}They were fucking laced in embalming fluid.
+{50314}{50362}Man, I'm...
+{50364}{50399}I'm sorry. I didn't...
+{50401}{50466}I didn't know.
+{50490}{50538}Wow.
+{50560}{50601}Are you mad at me?
+{50604}{50664}No.
+{50667}{50709}I appreciate that.
+{50712}{50752}Yeah, no worries.
+{50755}{50811}What are you doing here?
+{50813}{50850}I found you.
+{50852}{50928}I rode in the ambulance.
+{50997}{51065}I think they have me on a lot of drugs.
+{51068}{51155}You're on some painkillers.
+{51157}{51205}You fell pretty hard.
+{51207}{51260}I fell?
+{51263}{51311}I don't remember.
+{51312}{51365}You also have a lot of toxins in your system.
+{51368}{51421}Yeah, embalming fluid.
+{51424}{51495}That was my bad.|I'm sorry about that.
+{51497}{51538}I love your work, though.
+{51540}{51618}Where's August?
+{51770}{51825}Caroline gave him to me.
+{52215}{52279}Happiness.
+{52281}{52355}'Happiness' is a word for a feeling.
+{52380}{52432}Feelings are rarely understood in the moment.
+{52434}{52470}They are quickly forgotten...
+{52472}{52542}and almost always mis-remembered.
+{53046}{53094}'Dear Henry...'
+{54037}{54072}You've been my assistant now...
+{54075}{54150}for, what, a little over a year?
+{54152}{54224}No, two years, actually.
+{54226}{54289}Last month was our anniversary.
+{54358}{54431}What do you think of me?
+{54433}{54511}I mean really.|What do you think of me?
+{54558}{54671}I think... I think you have your moments.
+{54673}{54726}Really?
+{54728}{54790}Yeah.
+{54792}{54866}Good.Because you're fucking fired.
+{54868}{54927}What?
+{54929}{54977}You're fucking fired.
+{55005}{55031}Wow. No.
+{55033}{55067}This is because I'm pregnant.
+{55069}{55096}But you know what?
+{55098}{55141}I promise my water is not gonna break on you.
+{55144}{55177}Whoa, whoa, whoa.|- I have a scheduled C-section.
+{55180}{55228}There's no chance...
+{55269}{55333}You want to be a producer, right?
+{55336}{55393}Yeah, but how would you know that?
+{55396}{55443}I've never told you that.
+{55445}{55488}I read all your emails when you first started.
+{55491}{55545}I didn't know I could trust you.
+{55547}{55578}Obviously.
+{55580}{55708}But now, I think when you push that baby out,
+{55711}{55798}it's time you start making your first film.
+{55898}{55925}All right.
+{55928}{55965}She in there?
+{55968}{56020}Yeah, she's in there.
+{56023}{56057}Excellent. Daisy?
+{56060}{56104}Yeah?|- Please listen.
+{56107}{56145}Okay.|- When you are a producer,
+{56148}{56237}and you wish to hire one of my clients,|I'm gonna take you to the wall.
+{56240}{56279}No hard feelings.
+{56281}{56327}I am going to take you to the wall.
+{56329}{56392}Okay, yeah, no.|- Great.
+{56395}{56443}Want to open the door?
+{56444}{56470}Yeah, of course.
+{56472}{56520}You don't have to.|You're fucking fired.
+{56523}{56584}No, I just... Oh, God.
+{56832}{56880}Thank you.
+{56975}{57003}What are you doing here?
+{57005}{57037}What are you doing here?
+{57040}{57079}I have a meeting.|What the fuck are you doing here?
+{57081}{57129}Same.
+{57202}{57242}How's your face?
+{57244}{57274}Feels worse than it looks.
+{57276}{57303}Looks pretty awful.
+{57305}{57368}Yeah. How's yours?
+{57370}{57405}I almost died.
+{57408}{57460}It's not your fault.
+{57490}{57537}Come in. Welcome.|Have a seat.
+{57540}{57572}Hey.
+{57575}{57620}Apparently, everybody knows everybody here.
+{57623}{57656}What is everyone doing here?
+{57658}{57695}All will be revealed.
+{57697}{57745}Have a seat.
+{57914}{58000}This is some situation we got here.
+{58002}{58068}I'm really sorry.|- Look, no. It's my responsibility.
+{58070}{58127}You were right, Jemma.|- No, this is the worst thing I've ever done.
+{58129}{58159}Would you let me finish...|- I'm so...
+{58161}{58209}It's good.
+{58220}{58253}What's good?
+{58256}{58322}This. This is good.
+{58434}{58524}You think so?|You really think so?
+{58748}{58837}I think what my client is trying to say...
+{58840}{58897}is we are making this movie.
+{59302}{59382}You're what's-his-name.
+{59384}{59432}Jack.
+{59458}{59517}Jack what?
+{59520}{59568}Holden.|- Jack Holden.
+{59568}{59620}Yeah.|- Jack.
+{59671}{59715}You're a naughty boy, aren't you, Jack?
+{59717}{59760}Could be.|- Really?
+{59763}{59821}Yeah.
+{59824}{59885}Whoa.
+{60066}{60131}Ten years ago,
+{60133}{60185}that would've been a yes.
+{60226}{60292}I would've been in fourth grade.
+{60295}{60343}Ten years ago.
+{60356}{60404}Yeah.
+{60405}{60468}My daughter's in fourth grade.
+{60586}{60634}Good-bye, bad girl.
+{60792}{60816}Hey.
+{60818}{60855}Hey.
+{60857}{60912}She said you were out here.
+{60988}{61043}Used to smoke a lot of weed out here.
+{61045}{61095}What about now?
+{61097}{61157}Not anymore.
+{61160}{61207}That's good.
+{61466}{61515}It's never gonna go away, is it?
+{61517}{61577}No.
+{61615}{61663}But we're still here.
+{61688}{61749}That's something.
+{61862}{61913}Am I gonna see you again?
+{61953}{62001}No, never.
+{62053}{62116}You know where to find me.
+{62174}{62222}Yeah.
+{62258}{62306}Yeah.
+{62490}{62548}Look, they're not gonna make me|share a fucking room, are they?
+{62551}{62588}No, I got you a private suite.
+{62590}{62629}It's the best one they got.
+{62632}{62735}It's gonna be just like staying|at a fancy hotel for a couple of months.
+{62737}{62785}Without the minibar.
+{63082}{63148}I don't want to see you anymore.
+{63202}{63279}Professionally.
+{63299}{63323}www.frendz4m.com
+{63347}{63371}www.frendz4m.com
+{63395}{63419}www.frendz4m.com
+{63443}{63467}www.frendz4m.com

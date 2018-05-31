@@ -1,0 +1,309 @@
+﻿[Script Info]
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Title: HorribleSubs
+PlayResX: 848
+PlayResY: 480
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.7,0,2,0,0,28,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.92,0:00:09.30,Default,,0,0,0,,STOPWATCH
+Dialogue: 0,0:00:20.60,0:00:21.89,Default,,0,0,0,,STOP
+Dialogue: 0,0:00:25.10,0:00:26.52,Default,,0,0,0,,RESET
+Dialogue: 0,0:00:38.53,0:00:39.87,Default,,0,0,0,,Ow, that was hot!
+Dialogue: 0,0:00:47.08,0:00:48.63,Default,,0,0,0,,It's already morning.
+Dialogue: 0,0:00:52.42,0:00:57.55,Default,,0,0,0,,After school, shoe cupboard, resonating sound of rain
+Dialogue: 0,0:00:58.26,0:01:03.35,Default,,0,0,0,,My shirt gets wet as I run out with no umbrella
+Dialogue: 0,0:01:04.02,0:01:09.19,Default,,0,0,0,,You’re out of my league
+Dialogue: 0,0:01:09.90,0:01:15.07,Default,,0,0,0,,I wish I was the rain... so I could easily feel you
+Dialogue: 0,0:01:16.03,0:01:19.99,Default,,0,0,0,,Let me touch you...
+Dialogue: 0,0:01:25.00,0:01:30.34,Default,,0,0,0,,One, don’t treat me like a child
+Dialogue: 0,0:01:30.50,0:01:36.26,Default,,0,0,0,,Two, it’s even worse to play it off by being nice
+Dialogue: 0,0:01:36.47,0:01:39.26,Default,,0,0,0,,I love you \N（can you hear me?）
+Dialogue: 0,0:01:39.43,0:01:41.85,Default,,0,0,0,,I love you
+Dialogue: 0,0:01:42.22,0:01:47.06,Default,,0,0,0,,Right now, I can jump over the puddle
+Dialogue: 0,0:01:47.23,0:01:53.61,Default,,0,0,0,,After the rain, \NI caught your eye as a rainbow appeared
+Dialogue: 0,0:01:53.78,0:01:58.82,Default,,0,0,0,,You’re so indifferent to romance... \NThat’s why!
+Dialogue: 0,0:01:59.70,0:02:05.20,Default,,0,0,0,,Raindrops sparkle against the blue summer sky
+Dialogue: 0,0:02:05.37,0:02:08.87,Default,,0,0,0,,Lulu lala I’m in love
+Dialogue: 0,0:02:09.04,0:02:12.42,Default,,0,0,0,,After the rain...
+Dialogue: 0,0:02:15.51,0:02:18.38,Default,,0,0,0,,Right now, I have no doubts
+Dialogue: 0,0:02:18.55,0:02:20.51,Default,,0,0,0,,I need no umbrella
+Dialogue: 0,0:02:22.97,0:02:25.72,Default,,0,0,0,,AFTER THE RAIN
+Dialogue: 0,0:02:27.56,0:02:28.94,Default,,0,0,0,,Akira!
+Dialogue: 0,0:02:30.48,0:02:32.23,Default,,0,0,0,,-Hey! \N-Hi.
+Dialogue: 0,0:02:32.86,0:02:34.23,Default,,0,0,0,,Akira's pocket!
+Dialogue: 0,0:02:34.53,0:02:35.99,Default,,0,0,0,,It's so warm!
+Dialogue: 0,0:02:36.15,0:02:37.95,Default,,0,0,0,,Just take me like this.
+Dialogue: 0,0:02:38.11,0:02:39.66,Default,,0,0,0,,Please!
+Dialogue: 0,0:02:40.49,0:02:41.66,Default,,0,0,0,,Keys. Check.
+Dialogue: 0,0:02:41.95,0:02:44.37,Default,,0,0,0,,-See you at the afternoon practice. \N-See you.
+Dialogue: 0,0:02:50.71,0:02:54.04,Default,,0,0,0,,She had the same injury \Nas you two years ago.
+Dialogue: 0,0:02:55.84,0:02:58.05,Default,,0,0,0,,I shouldn't have said that to her.
+Dialogue: 0,0:03:00.59,0:03:02.05,Default,,0,0,0,,It's no use thinking about it.
+Dialogue: 0,0:03:06.60,0:03:08.64,Default,,0,0,0,,CAFÉ RESTAURANT GARDEN
+Dialogue: 0,0:03:10.77,0:03:12.52,Default,,0,0,0,,SHIFT ROSTER
+Dialogue: 0,0:03:13.19,0:03:14.23,Default,,0,0,0,,TACHIBANA'S NOVEMBER \NSHIFT REQUEST
+Dialogue: 0,0:03:14.40,0:03:15.61,Default,,0,0,0,,MON, TUE, FRI, SAT, \NI CAN DO SUNDAY TOO.
+Dialogue: 0,0:03:17.15,0:03:20.03,Default,,0,0,0,,I don't have anything else \NI want to do!
+Dialogue: 0,0:03:22.45,0:03:23.62,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:03:23.95,0:03:27.54,Default,,0,0,0,,-Oh, it's nothing. \N-Are you going to the head office again today?
+Dialogue: 0,0:03:27.70,0:03:29.41,Default,,0,0,0,,-Yeah. \N-See you then.
+Dialogue: 0,0:03:31.58,0:03:34.04,Default,,0,0,0,,All rise. Bow.
+Dialogue: 0,0:03:34.42,0:03:38.76,Default,,0,0,0,,Think carefully about it, \Nand make sure you hand it in.
+Dialogue: 0,0:03:46.60,0:03:48.14,Default,,0,0,0,,CAREER PATH SURVEY
+Dialogue: 0,0:04:08.99,0:04:10.08,Default,,0,0,0,,Your career path?
+Dialogue: 0,0:04:10.58,0:04:13.37,Default,,0,0,0,,I was told to hand in my career path survey.
+Dialogue: 0,0:04:13.62,0:04:16.13,Default,,0,0,0,,Just hearing about career paths \Ngives me stomach pain.
+Dialogue: 0,0:04:16.29,0:04:18.59,Default,,0,0,0,,Me too.
+Dialogue: 0,0:04:18.75,0:04:20.42,Default,,0,0,0,,Is your school a good school?
+Dialogue: 0,0:04:20.67,0:04:22.13,Default,,0,0,0,,-What? \N-Academically speaking.
+Dialogue: 0,0:04:24.34,0:04:26.51,Default,,0,0,0,,It's normal... A little bit...
+Dialogue: 0,0:04:26.80,0:04:27.89,Default,,0,0,0,,It's average level.
+Dialogue: 0,0:04:29.35,0:04:30.52,Default,,0,0,0,,Oh, Kubo.
+Dialogue: 0,0:04:30.98,0:04:33.56,Default,,0,0,0,,I'll be going now, \Nso you're in charge.
+Dialogue: 0,0:04:33.73,0:04:35.73,Default,,0,0,0,,-Okay. \N-I'll be back before this evening.
+Dialogue: 0,0:04:37.06,0:04:38.52,Default,,0,0,0,,Oh...um...
+Dialogue: 0,0:04:39.02,0:04:40.48,Default,,0,0,0,,You too, Tatsubana.
+Dialogue: 0,0:04:40.78,0:04:42.03,Default,,0,0,0,,Oops...I messed up her name.
+Dialogue: 0,0:04:42.19,0:04:43.45,Default,,0,0,0,,See you guys later!
+Dialogue: 0,0:04:46.70,0:04:47.83,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:04:47.99,0:04:50.16,Default,,0,0,0,,I got the career path survey too.
+Dialogue: 0,0:04:50.62,0:04:53.75,Default,,0,0,0,,It made me feel like \Nthe time has finally come.
+Dialogue: 0,0:04:54.42,0:04:57.71,Default,,0,0,0,,Are you going \Nto a beauty school, Yui?
+Dialogue: 0,0:04:57.96,0:05:00.67,Default,,0,0,0,,-Yup. \N-Nishida.
+Dialogue: 0,0:05:01.51,0:05:04.05,Default,,0,0,0,,Can you cut my bangs again \Nsometime soon?
+Dialogue: 0,0:05:05.30,0:05:06.51,Default,,0,0,0,,Okay.
+Dialogue: 0,0:05:06.93,0:05:09.68,Default,,0,0,0,,It'd be great if you could do it \Nduring our evening break.
+Dialogue: 0,0:05:18.73,0:05:19.94,Default,,0,0,0,,Come on, Yoshizawa.
+Dialogue: 0,0:05:24.36,0:05:25.99,Default,,0,0,0,,KONDO \NHEAD OFFICE
+Dialogue: 0,0:05:26.16,0:05:28.12,Default,,0,0,0,,-I'm serious. \N-What?
+Dialogue: 0,0:05:28.32,0:05:30.70,Default,,0,0,0,,-That's the truth! \N-I see.
+Dialogue: 0,0:05:31.24,0:05:35.79,Default,,0,0,0,,It's amazing that you know \Nwhat you want to do, Nishida.
+Dialogue: 0,0:05:36.00,0:05:37.58,Default,,0,0,0,,You think so?
+Dialogue: 0,0:05:37.88,0:05:40.21,Default,,0,0,0,,I'm just gonna go to college for now
+Dialogue: 0,0:05:40.38,0:05:42.42,Default,,0,0,0,,and figure out \Nwhat I want to do later on.
+Dialogue: 0,0:05:42.76,0:05:44.63,Default,,0,0,0,,When did you decide, Nishida?
+Dialogue: 0,0:05:45.76,0:05:48.84,Default,,0,0,0,,What made you decide \Nyou wanted to become a hairdresser?
+Dialogue: 0,0:05:49.60,0:05:51.47,Default,,0,0,0,,Well...
+Dialogue: 0,0:05:52.43,0:05:56.23,Default,,0,0,0,,I thought it'd be great \Nto make someone happy
+Dialogue: 0,0:05:56.39,0:05:58.10,Default,,0,0,0,,by doing something that I like.
+Dialogue: 0,0:05:58.27,0:05:59.35,Default,,0,0,0,,I see.
+Dialogue: 0,0:06:00.15,0:06:02.69,Default,,0,0,0,,The person \Nwho made me realize that was...
+Dialogue: 0,0:06:06.40,0:06:08.07,Default,,0,0,0,,That person was really happy
+Dialogue: 0,0:06:08.24,0:06:10.70,Default,,0,0,0,,when I cut his hair \Nfor the first time.
+Dialogue: 0,0:06:11.41,0:06:12.62,Default,,0,0,0,,But...
+Dialogue: 0,0:06:12.99,0:06:16.33,Default,,0,0,0,,I'm not sure if I can actually \Nbecome a hairdresser.
+Dialogue: 0,0:06:17.04,0:06:18.25,Default,,0,0,0,,I'm sure you can.
+Dialogue: 0,0:06:21.21,0:06:25.42,Default,,0,0,0,,I'm definitely going \Nto get my hair cut by you when you make your debut.
+Dialogue: 0,0:06:25.80,0:06:28.34,Default,,0,0,0,,Will you promise me that \Nyou'll cut my hair?
+Dialogue: 0,0:06:30.01,0:06:31.14,Default,,0,0,0,,Yup.
+Dialogue: 0,0:06:59.71,0:07:02.25,Default,,0,0,0,,Hello! How many are in your party?
+Dialogue: 0,0:07:03.38,0:07:05.88,Default,,0,0,0,,Here you go. Thank you for waiting.
+Dialogue: 0,0:07:07.13,0:07:08.22,Default,,0,0,0,,What?
+Dialogue: 0,0:07:08.67,0:07:10.43,Default,,0,0,0,,Mr. Kondo's still not back?
+Dialogue: 0,0:07:11.72,0:07:14.85,Default,,0,0,0,,Come to think of it, he's been going \Nto head office a lot recently.
+Dialogue: 0,0:07:15.01,0:07:16.10,Default,,0,0,0,,Really?
+Dialogue: 0,0:07:16.43,0:07:19.27,Default,,0,0,0,,Who knows... For all I know...
+Dialogue: 0,0:07:19.85,0:07:20.89,Default,,0,0,0,,Could it be...?
+Dialogue: 0,0:07:21.15,0:07:22.19,Default,,0,0,0,,No way.
+Dialogue: 0,0:07:22.35,0:07:23.90,Default,,0,0,0,,What is it? What is it?
+Dialogue: 0,0:07:25.23,0:07:26.32,Default,,0,0,0,,He's getting promoted.
+Dialogue: 0,0:07:26.48,0:07:27.78,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:07:27.94,0:07:29.40,Default,,0,0,0,,No way.
+Dialogue: 0,0:07:29.57,0:07:32.24,Default,,0,0,0,,Why else would he go \Nto head office every day?
+Dialogue: 0,0:07:32.41,0:07:33.45,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:07:33.62,0:07:37.45,Default,,0,0,0,,-What'll happen if he gets promoted? \N-He'll get transferred to the head office.
+Dialogue: 0,0:07:39.08,0:07:42.37,Default,,0,0,0,,And they'll assign a new manager \Nto this place.
+Dialogue: 0,0:07:42.58,0:07:44.29,Default,,0,0,0,,A manager who doesn't have bed hair,
+Dialogue: 0,0:07:44.46,0:07:46.46,Default,,0,0,0,,and who doesn't forget \Nto zip up his pants.
+Dialogue: 0,0:07:46.63,0:07:48.96,Default,,0,0,0,,-Seriously? \N-I'm serious!
+Dialogue: 0,0:07:49.13,0:07:52.05,Default,,0,0,0,,No way. That would never happen.
+Dialogue: 0,0:08:15.32,0:08:16.78,Default,,0,0,0,,Ow, that's hot!
+Dialogue: 0,0:08:20.83,0:08:23.62,Default,,0,0,0,,It looks like it might rain, \Nbut let's take out the hurdles.
+Dialogue: 0,0:08:23.79,0:08:24.63,Default,,0,0,0,,Okay!
+Dialogue: 0,0:08:31.26,0:08:32.88,Default,,0,0,0,,It's huge!
+Dialogue: 0,0:08:33.88,0:08:35.47,Default,,0,0,0,,-It's cold! \N-It's so cold!
+Dialogue: 0,0:08:37.14,0:08:38.39,Default,,0,0,0,,It's windy.
+Dialogue: 0,0:08:40.52,0:08:43.52,Default,,0,0,0,,The school ground looks like \Nit's floating in the sky.
+Dialogue: 0,0:08:45.98,0:08:47.19,Default,,0,0,0,,I like the name.
+Dialogue: 0,0:08:47.86,0:08:49.61,Default,,0,0,0,,A school that sees the wind.
+Dialogue: 0,0:08:50.19,0:08:53.07,Default,,0,0,0,,-I want to come here. \N-I've decided on this school too.
+Dialogue: 0,0:08:54.03,0:08:56.82,Default,,0,0,0,,-Let's see the wind here together. \N-Yup!
+Dialogue: 0,0:09:02.66,0:09:04.08,Default,,0,0,0,,Together at this place...
+Dialogue: 0,0:09:19.72,0:09:22.72,Default,,0,0,0,,Yuto. What happened to your face?
+Dialogue: 0,0:09:22.89,0:09:24.73,Default,,0,0,0,,I fell during P.E.
+Dialogue: 0,0:09:24.89,0:09:27.06,Default,,0,0,0,,-What were you doing? \N-Track and field.
+Dialogue: 0,0:09:27.98,0:09:29.06,Default,,0,0,0,,Track and field.
+Dialogue: 0,0:09:33.86,0:09:34.95,Default,,0,0,0,,Are you fast?
+Dialogue: 0,0:09:35.45,0:09:36.86,Default,,0,0,0,,At running.
+Dialogue: 0,0:09:37.82,0:09:40.33,Default,,0,0,0,,Yeah. I'm pretty fast.
+Dialogue: 0,0:09:40.87,0:09:44.83,Default,,0,0,0,,I wonder how I can get faster \Nat running.
+Dialogue: 0,0:09:49.29,0:09:50.29,Default,,0,0,0,,Teach me.
+Dialogue: 0,0:09:55.63,0:09:57.47,Default,,0,0,0,,-Sure. \N-Yippee!
+Dialogue: 0,0:10:06.44,0:10:07.60,Default,,0,0,0,,That's it.
+Dialogue: 0,0:10:13.44,0:10:16.03,Default,,0,0,0,,-Are you all right? \N-I'm fine.
+Dialogue: 0,0:10:16.74,0:10:19.28,Default,,0,0,0,,-Do you want to take a short break? \N-No!
+Dialogue: 0,0:10:19.45,0:10:21.24,Default,,0,0,0,,I haven't \Ncrossed the finish line yet.
+Dialogue: 0,0:10:21.41,0:10:22.45,Default,,0,0,0,,The finish line?
+Dialogue: 0,0:10:22.62,0:10:26.37,Default,,0,0,0,,I'm going to run till the end \Neven if I fall and come in last.
+Dialogue: 0,0:10:26.54,0:10:28.54,Default,,0,0,0,,I'm not supposed to give up.
+Dialogue: 0,0:10:30.17,0:10:32.17,Default,,0,0,0,,-Don't give up. \N-Yup!
+Dialogue: 0,0:10:32.75,0:10:36.01,Default,,0,0,0,,It doesn't matter if I fall \Nas long as I pick myself up and run.
+Dialogue: 0,0:10:36.67,0:10:39.84,Default,,0,0,0,,As long as I don't give up \Nand keep on running.
+Dialogue: 0,0:10:40.55,0:10:42.72,Default,,0,0,0,,I must cross the finish line.
+Dialogue: 0,0:10:43.39,0:10:45.31,Default,,0,0,0,,Otherwise, \Nit'll mean I didn't run at all.
+Dialogue: 0,0:10:46.73,0:10:49.10,Default,,0,0,0,,That's what my dad said.
+Dialogue: 0,0:10:49.60,0:10:52.36,Default,,0,0,0,,He said he's going to work hard too.
+Dialogue: 0,0:10:52.69,0:10:54.52,Default,,0,0,0,,He said he's not gonna give up.
+Dialogue: 0,0:11:00.11,0:11:02.53,Default,,0,0,0,,So, I promised my dad
+Dialogue: 0,0:11:02.70,0:11:05.45,Default,,0,0,0,,that I'll run till the end \Neven if I come in last.
+Dialogue: 0,0:11:05.87,0:11:07.54,Default,,0,0,0,,But I wanna finish in first place!
+Dialogue: 0,0:11:08.87,0:11:09.87,Default,,0,0,0,,Okay.
+Dialogue: 0,0:11:13.50,0:11:15.67,Default,,0,0,0,,Swing your arms as hard as you can.
+Dialogue: 0,0:11:15.84,0:11:17.88,Default,,0,0,0,,Your legs will move more \Nwhen you do that.
+Dialogue: 0,0:11:18.92,0:11:20.13,Default,,0,0,0,,Like this?
+Dialogue: 0,0:11:33.31,0:11:34.82,Default,,0,0,0,,After the Rain
+Dialogue: 0,0:11:41.99,0:11:43.24,Default,,0,0,0,,Hey.
+Dialogue: 0,0:11:43.91,0:11:44.91,Default,,0,0,0,,Hello.
+Dialogue: 0,0:11:45.87,0:11:47.74,Default,,0,0,0,,It's raining a little bit outside.
+Dialogue: 0,0:11:48.58,0:11:50.66,Default,,0,0,0,,-Okay. \N-Oh, I heard
+Dialogue: 0,0:11:50.83,0:11:53.75,Default,,0,0,0,,you taught Yuto how to run today.
+Dialogue: 0,0:11:53.96,0:11:55.09,Default,,0,0,0,,I did.
+Dialogue: 0,0:11:55.63,0:11:56.80,Default,,0,0,0,,I appreciate it.
+Dialogue: 0,0:11:56.96,0:11:59.30,Default,,0,0,0,,He was so excited. \NHe was talking about it
+Dialogue: 0,0:11:59.46,0:12:01.34,Default,,0,0,0,,the whole time \Nwhile I was driving him home.
+Dialogue: 0,0:12:01.51,0:12:03.80,Default,,0,0,0,,He said he was going \Nto practice every day,
+Dialogue: 0,0:12:04.22,0:12:06.22,Default,,0,0,0,,but I'm not sure if it'll last.
+Dialogue: 0,0:12:06.39,0:12:09.10,Default,,0,0,0,,He usually quits everything \Nhalfway through.
+Dialogue: 0,0:12:09.31,0:12:10.68,Default,,0,0,0,,I think he'll do it.
+Dialogue: 0,0:12:12.60,0:12:14.40,Default,,0,0,0,,Yuto is a quick learner,
+Dialogue: 0,0:12:14.56,0:12:16.48,Default,,0,0,0,,and once he learns \Nthe proper running form,
+Dialogue: 0,0:12:16.65,0:12:18.11,Default,,0,0,0,,I'm sure he can run a lot faster.
+Dialogue: 0,0:12:18.94,0:12:21.53,Default,,0,0,0,,He'll run till \Nhe crosses the finish line.
+Dialogue: 0,0:12:21.70,0:12:23.57,Default,,0,0,0,,That's what he promised you.
+Dialogue: 0,0:12:26.83,0:12:28.87,Default,,0,0,0,,The promise... Yeah.
+Dialogue: 0,0:12:33.21,0:12:36.33,Default,,0,0,0,,Maybe I shouldn't say that \Nit's a promise, but...
+Dialogue: 0,0:12:37.63,0:12:39.88,Default,,0,0,0,,I also made a promise to myself too.
+Dialogue: 0,0:12:41.17,0:12:42.92,Default,,0,0,0,,I made a promise again.
+Dialogue: 0,0:12:43.84,0:12:46.22,Default,,0,0,0,,A promise that I had neglected.
+Dialogue: 0,0:12:49.89,0:12:53.19,Default,,0,0,0,,-Is it about writing novels? \N-Yup.
+Dialogue: 0,0:12:53.94,0:12:55.40,Default,,0,0,0,,I've been writing.
+Dialogue: 0,0:12:55.56,0:12:58.94,Default,,0,0,0,,I haven't been able \Nto write smoothly at all though.
+Dialogue: 0,0:13:00.11,0:13:02.61,Default,,0,0,0,,But I'm really enjoying it.
+Dialogue: 0,0:13:06.07,0:13:09.58,Default,,0,0,0,,I added a promise \Nto a promise I can't fulfill.
+Dialogue: 0,0:13:10.54,0:13:14.79,Default,,0,0,0,,I suffered from that promise, \Nand I learned from it too.
+Dialogue: 0,0:13:15.96,0:13:18.79,Default,,0,0,0,,The one promise I made myself was
+Dialogue: 0,0:13:18.96,0:13:21.63,Default,,0,0,0,,to spend my life together \Nwith literature.
+Dialogue: 0,0:13:22.80,0:13:24.76,Default,,0,0,0,,I want to fulfill that.
+Dialogue: 0,0:13:31.85,0:13:33.39,Default,,0,0,0,,Oh, Tachibana.
+Dialogue: 0,0:13:35.02,0:13:39.44,Default,,0,0,0,,Here's the shift roster. \NSorry it took so long.
+Dialogue: 0,0:13:40.19,0:13:43.74,Default,,0,0,0,,I've scheduled your shift \Njust as you wanted me to, but...
+Dialogue: 0,0:13:43.90,0:13:45.11,Default,,0,0,0,,Well...
+Dialogue: 0,0:13:49.70,0:13:51.08,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:13:52.87,0:13:54.25,Default,,0,0,0,,See you later.
+Dialogue: 0,0:13:56.46,0:13:58.12,Default,,0,0,0,,Perhaps,
+Dialogue: 0,0:14:00.29,0:14:02.34,Default,,0,0,0,,you have that too, Tachibana.
+Dialogue: 0,0:14:02.96,0:14:05.92,Default,,0,0,0,,A promise you made to yourself, \Nbut have forgotten?
+Dialogue: 0,0:14:21.77,0:14:22.98,Default,,0,0,0,,TRACK AND FIELD NOTE \NAIM FOR THE TOP 5!
+Dialogue: 0,0:14:24.11,0:14:25.24,Default,,0,0,0,,PREFECTURAL HIGH SCHOOL \NKAZAMIZAWA
+Dialogue: 0,0:14:25.40,0:14:27.11,Default,,0,0,0,,A school that sees the wind...
+Dialogue: 0,0:14:29.11,0:14:30.24,Default,,0,0,0,,Haruka, wait.
+Dialogue: 0,0:14:32.91,0:14:34.20,Default,,0,0,0,,Akira.
+Dialogue: 0,0:14:35.12,0:14:36.25,Default,,0,0,0,,You're all set now.
+Dialogue: 0,0:14:36.71,0:14:38.16,Default,,0,0,0,,Thanks!
+Dialogue: 0,0:14:44.25,0:14:46.21,Default,,0,0,0,,Perhaps, you have that too, Tachibana.
+Dialogue: 0,0:14:46.84,0:14:49.47,Default,,0,0,0,,A promise you made to yourself, but have forgotten?
+Dialogue: 0,0:14:55.97,0:14:57.43,Default,,0,0,0,,GUIDE TO REHABILITATION
+Dialogue: 0,0:15:16.29,0:15:18.04,Default,,0,0,0,,Well, I have a very serious
+Dialogue: 0,0:15:18.54,0:15:22.21,Default,,0,0,0,,and important announcement \Nto make today.
+Dialogue: 0,0:15:23.46,0:15:24.46,Default,,0,0,0,,Finally.
+Dialogue: 0,0:15:24.63,0:15:26.71,Default,,0,0,0,,The moment has finally come.
+Dialogue: 0,0:15:26.88,0:15:28.30,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:15:28.51,0:15:31.34,Default,,0,0,0,,He's actually going to be promoted.
+Dialogue: 0,0:15:31.64,0:15:33.89,Default,,0,0,0,,-No way. \N-I agree.
+Dialogue: 0,0:15:34.05,0:15:35.64,Default,,0,0,0,,As you all know,
+Dialogue: 0,0:15:35.81,0:15:38.10,Default,,0,0,0,,I've been taking strict lectures
+Dialogue: 0,0:15:38.27,0:15:40.89,Default,,0,0,0,,at the head office \Nalmost every day recently,
+Dialogue: 0,0:15:41.06,0:15:42.81,Default,,0,0,0,,and I took a test.
+Dialogue: 0,0:15:44.15,0:15:45.57,Default,,0,0,0,,As a result,
+Dialogue: 0,0:15:47.32,0:15:49.24,Default,,0,0,0,,I have to retake the test.
+Dialogue: 0,0:15:50.90,0:15:53.20,Default,,0,0,0,,It wasn't a promotional exam?
+Dialogue: 0,0:15:53.45,0:15:56.66,Default,,0,0,0,,What do you mean? No, it wasn't.
+Dialogue: 0,0:15:57.08,0:15:58.66,Default,,0,0,0,,It was about this new menu.
+Dialogue: 0,0:15:58.83,0:15:59.66,Default,,0,0,0,,MARUMI PARFAIT
+Dialogue: 0,0:15:59.83,0:16:02.54,Default,,0,0,0,,Here. Take a look.
+Dialogue: 0,0:16:02.71,0:16:03.92,Default,,0,0,0,,It's the eyes...
+Dialogue: 0,0:16:04.17,0:16:07.34,Default,,0,0,0,,This part is really difficult. \NI'm serious.
+Dialogue: 0,0:16:08.84,0:16:13.34,Default,,0,0,0,,So we'll be the only branch \Nthat won't get to launch the new menu yet.
+Dialogue: 0,0:16:13.51,0:16:14.51,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:16:14.68,0:16:17.47,Default,,0,0,0,,You should be apologizing \Nto the customers.
+Dialogue: 0,0:16:17.64,0:16:19.02,Default,,0,0,0,,You're absolutely right.
+Dialogue: 0,0:16:21.10,0:16:23.14,Default,,0,0,0,,I'm off then.
+Dialogue: 0,0:16:25.40,0:16:26.86,Default,,0,0,0,,Jeez.
+Dialogue: 0,0:16:27.98,0:16:29.03,Default,,0,0,0,,This file...
+Dialogue: 0,0:16:43.37,0:16:45.67,Default,,0,0,0,,Akira! Get up!
+Dialogue: 0,0:16:48.71,0:16:49.84,Default,,0,0,0,,Run!
+Dialogue: 0,0:16:50.05,0:16:51.46,Default,,0,0,0,,Akira!
+Dialogue: 0,0:17:06.94,0:17:08.19,Default,,0,0,0,,Don't cry!
+Dialogue: 0,0:17:15.61,0:17:16.87,Default,,0,0,0,,Come back.
+Dialogue: 0,0:17:21.37,0:17:23.58,Default,,0,0,0,,Oh, I'm nervous.
+Dialogue: 0,0:17:32.92,0:17:35.05,Default,,0,0,0,,-Let's see the wind together. \N-Yup!
+Dialogue: 0,0:17:36.30,0:17:37.76,Default,,0,0,0,,That's a promise!
+Dialogue: 0,0:17:45.31,0:17:48.35,Default,,0,0,0,,It's not in here. I did it again.
+Dialogue: 0,0:17:48.65,0:17:50.44,Default,,0,0,0,,Please go ahead.
+Dialogue: 0,0:17:55.32,0:17:56.32,Default,,0,0,0,,Mr. Kondo!
+Dialogue: 0,0:17:58.57,0:17:59.78,Default,,0,0,0,,Tachibana?
+Dialogue: 0,0:18:08.50,0:18:09.63,Default,,0,0,0,,Here, Mr. Kondo.
+Dialogue: 0,0:18:10.88,0:18:13.51,Default,,0,0,0,,-Thanks, I really appreciate it. \N-Of course.
+Dialogue: 0,0:18:16.34,0:18:17.47,Default,,0,0,0,,Are you all right?
+Dialogue: 0,0:18:21.89,0:18:23.47,Default,,0,0,0,,It'll stop raining soon.
+Dialogue: 0,0:18:39.82,0:18:40.74,Default,,0,0,0,,Tachi--
+Dialogue: 0,0:18:41.53,0:18:43.20,Default,,0,0,0,,Hello? Yes.
+Dialogue: 0,0:18:43.49,0:18:45.41,Default,,0,0,0,,What? Oh, my apologies.
+Dialogue: 0,0:18:45.58,0:18:47.33,Default,,0,0,0,,I'm so sorry.
+Dialogue: 0,0:18:47.50,0:18:50.25,Default,,0,0,0,,Yes. Well...
+Dialogue: 0,0:18:50.50,0:18:51.96,Default,,0,0,0,,I'm very sorry.
+Dialogue: 0,0:18:56.13,0:18:57.72,Default,,0,0,0,,Yes. I see.
+Dialogue: 0,0:18:57.88,0:18:59.38,Default,,0,0,0,,In that case...
+Dialogue: 0,0:18:59.55,0:19:01.09,Default,,0,0,0,,Yes. I agree.
+Dialogue: 0,0:19:03.26,0:19:04.72,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:19:09.44,0:19:10.35,Default,,0,0,0,,Tachibana!
+Dialogue: 0,0:19:48.18,0:19:49.39,Default,,0,0,0,,One day...
+Dialogue: 0,0:19:51.56,0:19:55.57,Default,,0,0,0,,When each of us \Nfulfill our own promises...
+Dialogue: 0,0:20:00.53,0:20:03.66,Default,,0,0,0,,I'll definitely let you know \Nright away.
+Dialogue: 0,0:20:25.72,0:20:27.22,Default,,0,0,0,,Let's do this!
+Dialogue: 0,0:20:29.39,0:20:32.56,Default,,0,0,0,,LET'S SEE THE WIND AGAIN
+Dialogue: 0,0:20:35.02,0:20:36.11,Default,,0,0,0,,Akira.
+Dialogue: 0,0:20:38.15,0:20:39.98,Default,,0,0,0,,Kaza High!
+Dialogue: 0,0:20:40.61,0:20:42.86,Default,,0,0,0,,Go Team!
+Dialogue: 0,0:20:46.41,0:20:47.41,Default,,0,0,0,,I won't forget.
+Dialogue: 0,0:20:48.87,0:20:49.87,Default,,0,0,0,,I won't forget.
+Dialogue: 0,0:20:52.87,0:20:54.04,Default,,0,0,0,,Even when time passes.
+Dialogue: 0,0:20:55.25,0:20:56.58,Default,,0,0,0,,No matter where I am.
+Dialogue: 0,0:20:59.38,0:21:02.30,Default,,0,0,0,,I'll remember the person \Nwho taught me about my future.
+Dialogue: 0,0:21:07.26,0:21:10.68,Default,,0,0,0,,Every time I see the sky \Nafter the rain.
+Dialogue: 0,0:21:17.19,0:21:20.32,Default,,0,0,0,,AFTER THE RAIN
+Dialogue: 0,0:21:25.86,0:21:29.95,Default,,0,0,0,,Raining \NOne summer afternoon in a rain shower
+Dialogue: 0,0:21:30.12,0:21:33.04,Default,,0,0,0,,Under the umbrella \NKissing
+Dialogue: 0,0:21:33.20,0:21:38.84,Default,,0,0,0,,I kissed gently on your wet cheek
+Dialogue: 0,0:21:39.00,0:21:46.72,Default,,0,0,0,,I’m still longing for that season
+Dialogue: 0,0:21:49.30,0:21:55.39,Default,,0,0,0,,I’m so distracted that I keep daydreaming
+Dialogue: 0,0:21:55.56,0:22:00.31,Default,,0,0,0,,Nothing but you’re the part of me
+Dialogue: 0,0:22:00.48,0:22:06.53,Default,,0,0,0,,It’s still not enough \NIt still hasn’t gone away
+Dialogue: 0,0:22:06.70,0:22:12.54,Default,,0,0,0,,Innocence of our stacked hands
+Dialogue: 0,0:22:12.83,0:22:15.66,Default,,0,0,0,,What a good thing we lose?
+Dialogue: 0,0:22:15.87,0:22:18.79,Default,,0,0,0,,What a bad thing we knew
+Dialogue: 0,0:22:18.96,0:22:24.88,Default,,0,0,0,,In the rain, I get soaked in those phrases
+Dialogue: 0,0:22:25.13,0:22:27.84,Default,,0,0,0,,It’s just not enough
+Dialogue: 0,0:22:28.13,0:22:37.23,Default,,0,0,0,,I still can’t say goodbye \NTo the days I dreamed of counting down
+Dialogue: 0,0:22:37.39,0:22:40.27,Default,,0,0,0,,What a good thing we lose?
+Dialogue: 0,0:22:40.48,0:22:43.40,Default,,0,0,0,,What a bad thing we knew
+Dialogue: 0,0:22:43.61,0:22:51.62,Default,,0,0,0,,If I hadn’t touched you, would I be smiling？

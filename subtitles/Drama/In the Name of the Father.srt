@@ -1,0 +1,763 @@
+{1}{1}23.976
+{382}{428}Have you reached a verdict?
+{464}{499}Yes, we have, my lord.
+{546}{633}- How do you find the defendants?|- Guilty as charged.
+{716}{760}Hang the Irie bastards!
+{822}{880}Order! Silence!
+{925}{968}String 'em up!
+{1135}{1197}Gerard Patrick Conlon.
+{1229}{1270}Stand up.
+{1332}{1428}I feel it is my duty|to wonder aloud...
+{1430}{1545}why you were not charged|with treason to the Crown...
+{1547}{1646}a charge that carries a penalty|of death by hanging--
+{1648}{1733}a sentence I would have had|no difficulty in passing...
+{1735}{1797}in this case.
+{1831}{1878}I sentence you|to life imprisonment...
+{1914}{1962}and I instruct|that you shall serve...
+{1964}{2036}a minimum of 30 years.
+{2071}{2108}Take him down.
+{2395}{2429}Help me.
+{2654}{2707}Paul Michael Hill.
+{2773}{2874}In my view, your crime|is such that...
+{2875}{2932}life shall mean life.
+{2934}{3039}Annie Maguire,|I recommend you serve 14 years!
+{3041}{3091}- What have I done, for Christ's sake?|- Take her down!
+{3115}{3204}- Giuseppe Conlon, 12 years.|- No, my husband's innocent!
+{3206}{3235}Lord have mercy on you!
+{3235}{3307}Patrick Joseph Armstrong,|30 years.
+{3451}{3535}Carole Richardson,|30 years.
+{4880}{4973}Our case was so insane that if you|made it up, nobody would believe it.
+{4974}{5049}Look, Gareth, I know people say|that I'm a compulsive storyteller...
+{5051}{5105}and nobody believed|a word I said in court...
+{5105}{5193}but Charlie Burke did exist-- he'snot|just a figment of my imagination.
+{5328}{5358}Sorry.
+{5648}{5704}We were shippedof|to ParkRoyalPrison...
+{5704}{5813}an old Victorian fortress where the|most dangerous criminals were held...
+{5815}{5868}in the maximum-security wing.
+{5868}{5920}- Place of birth.|- Belfast.
+{5921}{5962}Then you're British.
+{5964}{5992}This is your home|for the rest of your life.
+{5992}{6055}So accept it and get on with it.|Right, come this way.
+{6057}{6088}The chief warder, Barker...
+{6090}{6170}gave us blue denim uniforms|with yellow stripes.
+{6172}{6210}We were Category A--
+{6216}{6293}the highest-security class along|with the rapists and murderers.
+{6295}{6352}My father said|we'd fight for an appeal...
+{6353}{6402}but I didn't want to know|about the legal system.
+{6440}{6491}- I'm going back to the cell.|- Come on. Follow me.
+{6759}{6785}Come on, Gerry.
+{6831}{6915}Hey, Ronnie.|There's those Irish bastards, Ronnie.
+{6961}{6991}Irish scum.
+{6993}{7060}My name's Giuseppe Conlon.|I'm an innocent man.
+{7062}{7117}So is my son.
+{7119}{7158}We shouldn't even be in here.
+{7160}{7210}Get that fucking scum|of my floor.
+{7298}{7342}I said, knock it of!
+{7790}{7870}- They must know they've made a mistake.|- No, they don't.
+{7872}{7960}The proof of our innocence|must be there in the evidence.
+{7967}{8008}We have to fight 'em|to get an appeal.
+{8054}{8145}- I'll speak to Father Wilson.|- Speak to everybody.
+{8147}{8211}We'll write letters from in here.|Start a campaign.
+{8213}{8270}Have they been|treating you all right?
+{8271}{8315}Aye, fine. Fine.
+{8333}{8366}Have they, son?
+{8407}{8458}Aye. No problem.
+{8749}{8808}Landing of icers, exercise.
+{8871}{8918}Forgot the dessert spoons.
+{8963}{9005}There we go.
+{9255}{9303}These chips are not bad.
+{9464}{9541}- Now don't you despair, son.|- Never mind about "don't despair"
+{9548}{9582}What?
+{9584}{9650}I mean, we're innocent,|we can't even go out of the cell.
+{9684}{9803}You're better of being guilty.|At least you get some respect.
+{9828}{9891}Landing of icers|on the threes for exercise.
+{9892}{9945}You can have my chips.
+{10968}{11027}Gerry, man.
+{11027}{11076}Problem? You all right?
+{11147}{11194}How you like your new home?
+{11194}{11266}Bombing of pillar-box,|Kensington High Street.
+{11268}{11314}Bombing of pillar-box,|Talbot Lodge.
+{11314}{11360}Bombing of naval club.
+{11362}{11434}Bombing of Aldershot Railway Station.|Attempted murder of Edward Heath.
+{11434}{11494}Murder of Ross McWhirter.
+{11496}{11593}Possession of irearms,|Balcombe Street, December 6, 1975.
+{11595}{11645}And the Guildford pub bombings.
+{11689}{11766}You have innocent people|in jail for that.
+{11829}{11865}Take him out.
+{12438}{12476}He did it.
+{12478}{12550}Where's all the missing pieces?
+{12646}{12715}We eat it up, man.
+{12750}{12799}Before my woman|send it in here, right...
+{12800}{12867}she have it dipped|in liquid acid--
+{12868}{12934}LSD, man.
+{12936}{13016}We've been dropping the British Empire|for the last six months.
+{13018}{13079}You want to fly?|Pick a country.
+{13081}{13158}Fuck's sake, don't give me Northern|Ireland. I don't want a bad trip.
+{13160}{13233}Try Nepal, man.|Take you to the Himalayas.
+{13635}{13703}See the dragon.
+{14320}{14395}Lights out in 15 minutes.|15 minutes.
+{14656}{14716}Are you praying|for the Seventh Cavalry?
+{14763}{14814}Hail Mary, full of grace,|the Lord is with thee.
+{14814}{14904}Blessed art thou amongst women, and|blessed is the fruit of thy womb, Jesus.
+{14905}{14949}Holy Mary, mother of God,|pray for us sinners...
+{14951}{15005}now and at the moment of our death.|Amen.
+{15006}{15052}That's not funny, Gerry.
+{15095}{15208}Hail Mary, full of grace,|the Lord is with thee.
+{15246}{15294}Blessed art thou among women...
+{15296}{15361}and blessed is the fruit|of thy womb,Jesus.
+{15438}{15482}Holy Mary, mother of God...
+{15484}{15565}pray for us sinners, now and|at the hour of our death. Amen.
+{15773}{15821}Are you on drugs?
+{16109}{16218}Look, Da, I'll be older than you are|now when I get out of this place.
+{16254}{16298}If I get out.
+{16381}{16477}- Are you listening to me?|- I'm not talking to you.
+{16479}{16530}Now who's being childish?
+{16580}{16648}I haven't had a sensible word|out of you for two weeks.
+{16698}{16732}That stuff'll kill you.
+{16770}{16813}Sure I'm dead anyway.
+{16922}{17029}Look, I'm sorry. I'll not|take it again so long as you live.
+{17057}{17107}Are you happy now?
+{17151}{17197}No.
+{17199}{17245}Why not?
+{17316}{17376}I don't want you to take it|whether I live or die.
+{17476}{17515}Jesus Christ.
+{17637}{17713}All right. I'll do nothing|to annoy you in your grave.
+{17764}{17808}Now are you happy?
+{17833}{17883}Is that a promise?
+{17955}{17979}Aye.
+{18021}{18051}Maybe.
+{18232}{18309}Gerry, man,|check out your friend.
+{18362}{18409}He look like the real thing.
+{18483}{18518}Come on.
+{18833}{18866}- Excuse me.|- All right.
+{18972}{19019}Let's have a talk.
+{19098}{19149}We have to eat in the cells.
+{19175}{19217}See ya later.
+{19275}{19322}Gerry, come on.
+{19930}{19984}Morning, paddy.
+{20102}{20133}Yes!
+{20319}{20348}Come on!
+{20370}{20401}Yes, man, Gerry!
+{20664}{20755}This one, this one, this one,|14 days solitary! Lock up!
+{20781}{20818}Lock up!
+{20820}{20902}He'll be all right.|He'll be back in a couple of days.
+{21135}{21181}I'm worried about Bridie.
+{21248}{21277}Why?
+{21313}{21378}She's dyed her hair blonde.
+{21410}{21480}Well, she's only young.
+{21547}{21609}She's wearing a dog collar.
+{21778}{21858}There's a fella chained to it.|He's got one on too.
+{21946}{21992}Well...
+{21994}{22053}as long as she's happy.
+{22315}{22354}Lunch break.
+{22422}{22470}Yes, Gerry, man!|That's right!
+{22472}{22525}Gerry's a bad boy!
+{22527}{22584}Put the Englishman|under heavy, heavy manners.
+{22591}{22697}Yes, sir. Go on, boy.|Kick out them clods, yes?
+{22699}{22776}This is Joe McAndrew.|He has something important to tell you.
+{22783}{22818}Hello, Mr Conlon.
+{22879}{22927}I'm watching you.
+{23198}{23252}What is it?
+{23254}{23320}I'm the one who planted|the Guildford bomb, Mr. Conlon.
+{23409}{23463}Did you tell the police that?
+{23465}{23538}Yes, I did.
+{23540}{23637}- But we haven't heard a thing.|- See what he has to say, Da.
+{23638}{23697}Go on.
+{23699}{23799}I told them.|They know the truth.
+{23801}{23867}They can't afford to face it.
+{23869}{23945}It's a war.|You're one if its innocent victims.
+{23947}{23997}I'm sorry foryour trouble.
+{23997}{24047}Don't be sorry for us.
+{24054}{24108}You should be sorry|for the people you killed.
+{24151}{24223}It was a military target,|a soldier's pub.
+{24225}{24333}They were innocent people,|God's children.
+{24333}{24444}Look, I'll do all I can|to help you while you're in here.
+{24446}{24477}We don't need your help.
+{24522}{24581}I'd appreciate it|ifyou'd leave us alone.
+{24614}{24646}Whatever you say.
+{24716}{24764}I'm sorry about that.
+{24859}{24908}What was that all about?|You mind your fucking manners.
+{24909}{25021}What? Manners to him? I don't want|any part of him, or his ways.
+{25023}{25100}At least he fights back, which is|more than you ever did in your life.
+{25100}{25162}- What are you talking about?|- Do you remember Lydon Hill?
+{25164}{25231}You used to ride me up|on your bike up Lydon Hill.
+{25233}{25281}And then one day|you couldn't make it to the top...
+{25283}{25388}and I hopped of and looked back,|and your face was all red.
+{25388}{25437}- Remember that?|- Aye.
+{25508}{25563}It was working in the paint shed|done that to you.
+{25565}{25596}What?
+{25598}{25684}It was the fumes from working|in the paint shed done that to you.
+{25686}{25745}Never mind jumping of the ferry,|swimming back to Mammy.
+{25747}{25832}It was the one job a Catholic can get,|and you wouldn't even fight back then.
+{25834}{25956}Go on outside.|Play with your newfound friend.
+{25958}{26058}All I'm saying is that you've been|a victim. It's time you fought back.
+{26059}{26101}- Get out of my sight.|- I'm going.
+{26171}{26251}This is the only way it'll work.|We have no alternative.
+{26658}{26731}- Well, what are you doing?|- Nothing.
+{26769}{26836}- They didn't do it.|- They all did it.
+{26922}{26970}I'm going back to Belfast.
+{27127}{27220}After the fight, nobody stopped us|going out in the yard to exercise.
+{27221}{27302}I felt brilliant.|Joe explained things to me.
+{27304}{27376}He explained how the Brits|never left anywhere without a fight...
+{27378}{27459}how they had to be beaten out of|every country they ever occupied...
+{27461}{27542}how this prison was just|an extension of their system.
+{27544}{27602}Calling for work|on the threes.
+{27604}{27677}We had to confront the chief|prison of icer, Barker.
+{27679}{27713}Mr Smalls.
+{27713}{27785}But to do that,|we had to take care of Ronnie Smalls.
+{27785}{27857}Can I have a word|about 54 Halsley Road?
+{27947}{27992}Take a walk.
+{28169}{28258}If anything happens to me|or Gerry...
+{28276}{28337}or any other Irish prisoner...
+{28337}{28441}we'll have 54 Halsley Road|blown to smithereens...
+{28443}{28512}with your family in it.
+{28544}{28614}Threaten my family|and I'll cut your fucking head of.
+{28696}{28742}I don't make threats.
+{28744}{28840}I just carry out orders.|I don't want to hurt your family.
+{28960}{29032}Your trouble is, Joe,|you want to rule the fucking world.
+{29092}{29126}Paddy's all right.
+{29402}{29440}Soon, we were all|one happy family.
+{29442}{29484}Again!
+{29486}{29557}Even Kojak was ready to forgive.
+{29559}{29630}- Live and let live.|- Barkerbegan topanic.
+{29631}{29702}He told us to take our socks|out of the window.
+{29703}{29766}He thought we were signalling|to other prisoners.
+{29768}{29845}We're not signalling.|We're drying our socks out.
+{29847}{29881}- Take the socks out of the window.|- Who says?
+{29883}{29910}Mr. Barker.
+{29912}{30006}- That was all the excuse Joe needed.|- Give us two minutes.
+{30008}{30064}- Up and away we went.|- Are you with me?
+{30071}{30105}What's he up to now?
+{30182}{30264}All prison of icers|to vacate the wing.
+{30265}{30318}All of icers|vacate the wing!
+{30459}{30503}This'll damage the whole campaign.
+{30505}{30564}Look, you do it your way,|and we'll do it ours, all right?
+{30566}{30656}- You can read our demands.|- Go back to your cells.
+{30658}{30697}Blankets!
+{30718}{30802}- For God's sake, put a stop to this.|- You're weakening my position.
+{30803}{30847}- It will end in violence.|- Good.
+{30849}{30904}- What's good about it?|- It's all they understand.
+{30982}{31024}Barker refused to negotiate.
+{31031}{31080}But with the screws gone,|we'da brief taste of freedom.
+{31082}{31113}Check out Ronnie!
+{31162}{31214}Him swallow half Africa.
+{31234}{31277}I give him about an hour.
+{31430}{31498}We found out later|our protest got on TV.
+{31500}{31560}And that's when|the riot squad was ordered in.
+{31920}{31981}We were singled out|as the ringleaders.
+{31983}{32013}Now!
+{32628}{32686}You just signed|your own death warrant, Barker.
+{32793}{32821}Are you happy now?
+{32927}{32986}And then you arrived, Gareth.
+{32988}{33084}That's the first time I saw you,|undera raining shower of sparks.
+{33084}{33180}It was the first time I'd seen a woman|in five years, other than my mother.
+{33180}{33261}But to me, you were a lawyer first.|And I hated lawyers.
+{33262}{33394}- Do you have a new isolation--|- Prisoners: Barth, Andrew.
+{33396}{33468}Bailey, Benjamin.|McAndrew, Joseph.
+{33468}{33538}- Sorry. Can you-- I can't hear.|- Conlon, Gerard.
+{33540}{33611}O'Brien, John.
+{33612}{33696}Lynch, Bernard.|Crisp, Quincy.
+{33698}{33755}Lyon, Richard.|Burns, Delrow.
+{33757}{33851}What about Conlon?|Sorry. Giuseppe Conlon.
+{33853}{33910}He's on the third floor.
+{33912}{34016}He has difficulty|getting down the stairs.
+{34018}{34089}Well, I'll just have to|go up and see him then.
+{34089}{34160}- The delegation has seen enough.|- Right-o. Sorry.
+{34162}{34235}Well, I won't be a minute. I'll just--|Is that all right? Sorry.
+{34237}{34321}I'll meet you outside, okay?|Sorry.
+{34468}{34503}Sorry, I can't--
+{34505}{34554}Pulmonary thrombosis.
+{34556}{34627}- And he's getting proper medication?|- Aye.
+{34739}{34770}Son?
+{34836}{34884}That's-- Is it Gerry?
+{34886}{34920}That's Gerry.
+{34922}{34987}He's had a spot of bother|with lawyers in the past.
+{35079}{35149}He's all yours.|Fifteen minutes.
+{35151}{35194}- Thank you.|- Sit down.
+{35362}{35410}You wanted to see me, Gerry?
+{35906}{35971}Why are you giving|my father false hope?
+{35973}{36013}Sorry?
+{36015}{36086}He's been up and down|these stairs to see you.
+{36088}{36139}He hasn't even seen|my mother in six months.
+{36141}{36209}I hear you're getting on|very well with her, by the way.
+{36211}{36264}Yes. She's a very brave woman.
+{36266}{36312}You don't know the halfof it.
+{36373}{36419}The fucking stairs are killing him.
+{36421}{36496}It's not the stairs that|are killing your father.
+{36496}{36571}- What is it, then?|- It's your lack of aith.
+{36573}{36638}Lack of aith?|Faith in what?
+{36640}{36681}In yourself.
+{36683}{36746}No, I have faith in myself.
+{36780}{36867}Gerry Conlon, lifer,|30-year sentence.
+{36872}{36922}And I know how to survive it.
+{36958}{36992}At what price?
+{36994}{37051}I'll pay the fucking price.|Don't you worry about it.
+{37053}{37118}The price for what?
+{37160}{37244}You're very good at the English,|aren't you?
+{37246}{37311}You see, I don't understand|your language.
+{37359}{37448}"Justice." "Mercy." "Clemency."
+{37448}{37535}I literally don't understand|what those words mean.
+{37537}{37610}I'd like to put in an application|to get all my teeth extracted.
+{37616}{37712}That way I could put my fist in my mouth|and never speak another word of English.
+{37714}{37776}Do you see what I'm saying?|Mrs Peirce, is it?
+{37778}{37841}Are you trying to impress me?
+{37885}{37919}Visit's up.
+{37920}{37991}Don't give my father|false hope, all right?
+{38074}{38124}You've got to help him!
+{38178}{38253}In prison, you pray for anything|to break the monotony.
+{38255}{38324}A snowstorm is like|apresent from God.
+{38575}{38618}Prison of icers are not to be hit!
+{38640}{38680}You've asked for it.
+{38682}{38725}Come along!
+{38727}{38814}After the riot, my father's|health deteriorated badly.
+{38815}{38898}He couldn't make it down|the stairs to enjoy the snow.
+{38900}{38987}I wavedup to him, but he|was looking at something else.
+{39215}{39286}My da always saw the good|in people.
+{39288}{39373}He recognized it in you|the minute he saw you, Gareth.
+{39375}{39479}Guv, guv, where you going?|Where's me letters? Guv'nor!
+{39561}{39600}Thank you.
+{39708}{39773}I see you've been mentioned|in Congress, Giuseppe.
+{39775}{39810}What's that?
+{39959}{40005}How'd you come by that name?
+{40051}{40095}An Italian ice cream maker.
+{40097}{40171}Had a shop on the corner|of the street where I was born.
+{40173}{40224}Giuseppe Fusco.
+{40229}{40287}My mother fell in love|with the name.
+{40289}{40325}Were they--
+{40362}{40399}- You know.|- What?
+{40428}{40473}- Lovers.|- Who?
+{40475}{40519}My mother and the ice cream maker?
+{40543}{40582}Oh, no, God.
+{40584}{40636}Jesus, no.|No, they were not.
+{40685}{40734}No, she just liked the name.
+{40736}{40813}But it made my life hell.
+{40815}{40912}All the other children laughing at you.|You have any kids yourself?
+{41021}{41052}He's talking to Barker.
+{41054}{41135}Forget it. He can talk|to whoever he fucking likes.
+{41201}{41237}Two.
+{41270}{41323}Flown the nest now.
+{41724}{41771}Whether Barker was|responsible or not...
+{41773}{41848}for bringing in the riot squad,|Joe never forgave him.
+{41886}{41935}Joe was still at war...
+{41937}{41995}and to him,|Barker was the enemy.
+{42042}{42078}Number?
+{42080}{42123}The name is McAndrew.
+{42171}{42222}Get out.|Get out of the light!
+{42267}{42304}- Get out of the light.|- Number?
+{42306}{42347}Name's Gerry Conlon.
+{42389}{42450}Piss of out of the light.|Get out of the light!
+{42452}{42496}You're 136.
+{42630}{42669}There's someone sitting there.
+{42739}{42781}Move when you're told.
+{42940}{42977}Put it out.
+{43694}{43756}- How's your boy?|- He's good.
+{43758}{43827}You know, he looks|more likeyou everyday.
+{43829}{43892}He's smarter than I am.
+{43897}{43945}Three years old,|he can read the funny papers.
+{43945}{43993}There's a hair|in the fucking projector!
+{43993}{44073}Yeah, get the fucking hair|out the projector, will you?
+{44101}{44171}- Come on. Get it out!|- Get it out!
+{44224}{44267}We're going fucking blind up here.
+{44269}{44305}Lively.
+{44459}{44499}- We'll get there, Pop.|- Quiet.
+{44501}{44546}- I didn't say a fucking thing.|- You're blocking.
+{44548}{44602}Shut it.
+{44644}{44702}Now, listen.|Whoever comes to you...
+{44704}{44742}with this Barzini meeting--
+{44874}{44985}I knew that Santino was gonna|have to go through all this.
+{44987}{45030}And Fredo, well--
+{45072}{45113}Fredo was wrong.
+{45172}{45242}And I never wanted this for you.
+{45323}{45340}For you!
+{45673}{45722}To the floor, mate! Get down!
+{45894}{45986}Come on, mate, get a blanket!|For God's sake, he's burning!
+{46007}{46068}Barker! Move back, Barker!
+{46069}{46107}Get in there!
+{46141}{46189}Get it out!
+{46705}{46770}- Stretcher!|- Let's check it out.
+{46774}{46817}All right, mate.|You're with us.
+{46822}{46858}All right. Stretcher!
+{46896}{46928}Gently.
+{46930}{46966}All right, up!
+{46994}{47064}That was a good day's work,|McAndrew.
+{47066}{47101}That was a good day's work.
+{47103}{47162}Get away from me.
+{47164}{47220}Will you not look me in the eye|when I'm speaking to you?
+{47284}{47374}I know how to look at people|without blinking as well.
+{47458}{47519}In all my godforsaken life,|I've never known...
+{47520}{47598}what it was like to want|to kill somebody until now.
+{47656}{47728}You're a brave man,Joe,|a brave man.
+{47796}{47853}Gerard Conlon, back on the threes.
+{47853}{47939}- Stand your ground.|- Hawkins, returning to his cell.
+{47941}{48008}Benjamin Bailey, back to him cell!
+{48010}{48059}Burns, returning to his cell.
+{48061}{48131}7445, Casey, back to his cell.
+{48133}{48195}6309,Johnston, level three.
+{48197}{48264}Regis, 113,|going up to number two.
+{48684}{48746}- Back to your cell now!|- Keep moving.
+{48770}{48816}Barker was maimed for life...
+{48818}{48878}and Joe was sent|to another prison.
+{48879}{48925}He's in solitary confinement|somewhere.
+{48927}{48988}We've had no news of him|since then.
+{48990}{49043}The new chief screw|had the yard painted...
+{49045}{49091}and I was back|walking in circles again.
+{49093}{49134}Back to the cells.
+{49198}{49253}Come on. Move.
+{49915}{49987}I'd like to help you out|with the campaign, Da...
+{50016}{50086}if that's all right with you.
+{50088}{50126}Do you mean it?
+{50131}{50166}Aye.
+{50188}{50232}That's great.
+{50234}{50317}What I need from you is|the whole story, your whole story...
+{50323}{50382}in as much detail|as you can remember.
+{50384}{50470}And I need you to write it down.|It's really important.
+{50623}{50666}I can't do this.
+{50711}{50760}I can't write this, Da.
+{50762}{50820}Could your son|not give you a hand?
+{50821}{50887}He's up in his cell writing away.
+{51173}{51219}Tape recorder.
+{51221}{51266}You're a good talker.
+{51268}{51306}Talk.
+{51344}{51391}The strange thing is--
+{51417}{51474}the strange thing is sometimes|I think he's a little jealous...
+{51474}{51536}of me taking over the campaign|and that there.
+{51538}{51613}Going up and down the stairs|to meet you.
+{51669}{51713}that he could be jealous.
+{51785}{51877}Anyhow, the main thing is|toget the case reopened...
+{51877}{51969}because I don't know how long|he can survive in here.
+{52372}{52467}- I'm tired of this.|- Come on. We have to do this.
+{52469}{52506}You behave yourself.
+{52593}{52636}Get your head down.
+{52811}{52888}When I was a wee lad, I used to wonder|what you were doing under the towel.
+{52890}{52973}One day when you and Ma were out,|I got a big bowl of boiling water...
+{52975}{53056}whacked a big drop of Vick|and put the towel over my head.
+{53056}{53144}I sat there trying to figure out what it|was about 'cause nothing was happening.
+{53146}{53192}I figured you|must've been drinking it.
+{53194}{53240}So I stuck my tongue in it.|Do you remember that?
+{53329}{53376}How could I forget?
+{53397}{53466}And your tongue|swelled up like a football.
+{53491}{53542}Had to rush you to the hospital.
+{53544}{53596}First time you'd stopped|talking in your life.
+{53682}{53717}Give us that.
+{53744}{53803}I'll do your chest for you, Da.
+{53976}{54023}Was I always bad, was I?
+{54053}{54088}Not always.
+{54090}{54159}I don't deserve to spend|the rest of my life in here, do I?
+{54183}{54242}All they've done|is block out the light.
+{54244}{54290}They can't block out|the light in here.
+{54292}{54335}Listen.
+{54337}{54377}Every night...
+{54379}{54437}I take your mother's|hand in mine.
+{54439}{54537}We go out the front door,|into Cyprus Street...
+{54543}{54618}down to Falls Road,|up the Antrim Road...
+{54654}{54702}to Cave Hill.
+{54704}{54743}We look back down...
+{54801}{54849}on poor, troubled Belfast.
+{54931}{54998}I've been doing that every night...
+{54998}{55041}for five years now.
+{55094}{55144}As if I never left your mother.
+{55382}{55443}What I remember most|about my childhood is...
+{55445}{55493}holding your hand.
+{55495}{55556}My wee hand in your big hand.
+{55558}{55621}And the smell of tobacco.|I remember that...
+{55621}{55698}I could smell the tobacco|of the palm of your hand.
+{55780}{55872}When I want to feel happy, I try|to remember the smell of tobacco.
+{55961}{55999}Hold my hand.
+{56005}{56048}Get the fuck--
+{56077}{56127}Don't go sentimental on me now.
+{56160}{56251}Don't be upset, Da. Look,|I'll hold your hand if you like.
+{56312}{56354}I'm going to die.
+{56384}{56430}Don't be saying that.
+{56452}{56487}I'm scared.
+{56538}{56586}You've no reason to be scared.
+{56588}{56700}Don't you be comforting me when I can|see the truth staring me in the face.
+{56702}{56791}I'm scared I'm gonna die here|among strangers.
+{56796}{56828}You're not fucking dying.
+{56830}{56918}Can I not say a thing|without you fucking contradicting me?
+{56952}{57075}I'm scared to leave|your mother behind.
+{57123}{57204}Look, you are not going to die,|all right, Da?
+{57257}{57343}Even if you do, sure I can|look after Ma all right.
+{57348}{57422}You think I'd leave|Sarah in your care?
+{57458}{57498}What do you mean?
+{57500}{57595}You haven't the maturity to take care|of yourself, let alone your mother.
+{57764}{57827}I haven't much time between|appointments, Mrs Peirce.
+{57827}{57880}- How can I help you?|- Thankyou.
+{57882}{57971}I'm the solicitor for the Conlons,|Chief Inspector.
+{57972}{58061}Giuseppe Conlon is critically ill,|as you may know.
+{58067}{58121}I've petitioned before the court|for his compassionate parole.
+{58123}{58163}They want your clearance.
+{58189}{58235}That'll be difficult, Mrs Peirce.
+{58235}{58316}These people have committed|horrific crimes.
+{58318}{58374}Society demands|that they serve their time.
+{58403}{58458}But they didn't do it,|Chief Inspector.
+{58460}{58499}Says who?
+{58499}{58554}Say the real bombers.
+{58556}{58619}They told you they did it,|Mr Dixon.
+{58621}{58683}Gerry Conlon told me he did it,|Mrs Peirce.
+{58685}{58747}These people are liars.
+{58749}{58810}They're liars for a cause.|That's the worst kind.
+{58811}{58865}But he's dying.|Giuseppe's dying.
+{58867}{58940}A lot of people are dying.|It's a dirty war.
+{59050}{59098}Well, I'll see what I can do.
+{59099}{59147}Is this your family, Mr. Dixon?
+{59176}{59223}That's my wife and my son.
+{59225}{59283}You have another appointment.
+{59285}{59317}Yes.
+{59349}{59423}I'll see you again, Mr. Dixon.
+{60286}{60331}Are you all right, Da?
+{60657}{60710}Are you all right?
+{60777}{60812}Wake up, Da.
+{60837}{60915}Can you hear me?|Can you hear me, Giuseppe?
+{60944}{60987}Come on, dear God in heaven,|don't do this to me.
+{60992}{61023}Come on. Wake up.
+{61025}{61078}Wake up! Fuck's sake, come on!
+{61080}{61166}There you go. Thank you.|You're all right, Da.
+{61168}{61215}I'm going to get some help.
+{61217}{61280}Number 73! Number 73!
+{61280}{61341}Please come quickly!|My father's sick!
+{61343}{61381}Benbay, Giuseppe's taken bad!
+{61383}{61424}Put your arms around me.
+{61424}{61498}I'm getting you out of bed.|Put your arms around me.
+{61568}{61631}- Open the fucking door!|- He's number 73!
+{61633}{61675}- Open the fucking door!|- Giuseppe!
+{61704}{61768}Fuck, he can't breathe.|He can't fucking breathe!
+{61788}{61872}He can't breathe!|Look, my father's fucking dying!
+{61873}{61945}- He needs oxygen!|- Give him a fucking break!
+{61951}{62016}Open the fucking gate!|I'm right here, Da.
+{62018}{62064}Get him in here!
+{62066}{62124}What the fuck is going on?
+{62229}{62268}Hammersmith Hospital now.
+{62270}{62312}I want to go with him.
+{62341}{62416}I've got to get clearance first.|It's out of my hands.
+{62418}{62471}You're gonna be all right, Da!
+{62473}{62551}- I'll be with you as soon as I can.|- Take him back to his cell.
+{62684}{62790}Leave him alone, you bastards!|Just let him be!
+{62790}{62862}Stay strong, Gerry!|Stay strong, mate!
+{62862}{62907}Keep your chin up, mate!
+{62907}{62951}We're with you, Gerry!
+{62953}{63006}We're with you all the way, mate!
+{63320}{63358}He's still awake.
+{63716}{63773}Your father passed away|an hour ago.
+{63799}{63838}Thank you very much.
+{63898}{63941}I'm sorry.
+{64695}{64743}Giuseppe is dead, man!
+{64766}{64816}They kill Giuseppe!
+{64954}{64988}Gerry, man!
+{65109}{65152}They killed Giuseppe!
+{66318}{66387}Well, I think they ought to take|the word "compassion"...
+{66388}{66435}out of the English dictionary.
+{66509}{66558}They fouled the ball, Gareth.
+{66629}{66718}They fouled the fucking ball,|and they're as guilty as sin.
+{66746}{66818}Believe me, if there's one thing|I know about, it's guilt.
+{66851}{66939}Keep looking 'em in the eye,|and it's gonna reveal itself.
+{66941}{66991}You have to keep up the pressure.
+{67064}{67111}Do what you have to do.
+{67161}{67226}Free the Four!|Free the Four!
+{67684}{67749}Those were meant to be here|three weeks ago.
+{67825}{67908}"The Parade of Innocence"|What do you think?
+{67910}{67958}Thousands of people|lined the streets of Dublin...
+{67959}{68007}London and Liverpool today|in demonstrations...
+{68009}{68058}demanding the release|of the Guild ford Four.
+{68060}{68137}- Questions have been raised--|- Say good night to Daddy.
+{68137}{68195}- Good night, Dad.|- Good night, son.
+{68197}{68241}Free the Four!|Free the Four!
+{68552}{68601}This was a mistake.
+{68624}{68679}Why don't we let her|see the files?
+{68681}{68736}What harm could it do?
+{68737}{68800}- Mr. Dixon!|- Yes?
+{68802}{68848}Don't you get tired of this?
+{68850}{68916}This is a court order that I be allowed|to see the Giuseppe Conlon case files.
+{69008}{69074}- Good morning.|- There are a few rules to be observed.
+{69115}{69171}Here's a complete list of|the Conlon, Giuseppe case files...
+{69173}{69219}the only files you'll need to see.
+{69221}{69274}I'll go to the file drawer|and bring it out.
+{69276}{69342}You take a page at a time,|read it and then return it.
+{69343}{69411}Sorry. Is there a problem,|Mr Dixon?
+{69412}{69458}Problem?|Not at all, Mrs. Peirce.
+{69459}{69543}Our chief archivist, MrJenkins,|is here to assist you.
+{69567}{69625}If you want to make a photocopy,|I alone will do it.
+{69627}{69695}Use this pen at all times|for any notes.
+{69697}{69783}If you deface any document, we can|trace it through the ink in this pen.
+{69785}{69895}There are national security issues|involved here, Mrs. Peirce.
+{69897}{69944}We wouldn't want|police intelligence files...
+{69946}{70023}leaked to the IRA now, would we?
+{70087}{70130}Conlon, Giuseppe file.
+{70132}{70178}Yes, sir.
+{70487}{70546}Leave my kit on the bus,|'cause I'm not staying in your jail.
+{70548}{70636}So, our new VIP prisoner.
+{70638}{70672}Welcome to Scotland.
+{70674}{70726}I'm an innocent man.|My father was an innocent man.
+{70727}{70827}He died in one of yourjails.|There's nothing you can do to hurt me.
+{70829}{70875}They've moved me to a Scottish|jail to break my confidence.
+{70877}{70958}- Put him in solitary.|- This is a peaceful protest.
+{70960}{70998}We'll teach you manners.
+{71000}{71042}Better men than you|have tried that already.
+{71044}{71104}I have not seen my client|for two months.
+{71110}{71193}He's been moved to Scotland, which has|impeded my investigation into his case.
+{71195}{71284}So I'm filing this motion|to gain proper access--
+{71285}{71326}Free the Four!
+{71705}{71746}Here, thanks a lot.|Good day.
+{71748}{71787}Thanks, thanks, thanks.
+{72213}{72291}Sorry. Could you copy that|for me, please?
+{72314}{72365}Thank you.
+{72592}{72663}I just want my mother to be happy.
+{72696}{72772}I'd like herto know...
+{72774}{72862}that Giuseppe talked about her|everyday of his life.
+{72922}{72969}He missed her terribly.
+{73087}{73157}It's strange to be in a cell|without him.
+{73220}{73282}I can't seem to get his face|out of my mind.
+{73284}{73330}Everywhere I look, I see him.
+{73508}{73606}Strange what time does|when you're in prison.
+{73660}{73752}Like, you can bestaring|at the wall.
+{73754}{73813}Drip, drip, drip.
+{73868}{73902}It takes an eternity.
+{73904}{73982}And then you blink,|and three years have gone by.
+{74102}{74155}I mean, what I'm trying to--
+{74155}{74228}I don't know what the fuck|I'm trying to say.
+{74285}{74356}But I can't forget|what they did to my family.
+{74399}{74435}I just can't forget.
+{75611}{75643}Morning.
+{75674}{75737}- Where's Jenkins?|- He telephoned in sick.
+{75738}{75794}I'm afraid you're going|to have to come back tomorrow.
+{75796}{75862}I can't. I'm in court tomorrow.|There's too much to get through.
+{75864}{75899}I can't help you.
+{75905}{75947}Please. I've got the court order.
+{75953}{76007}You saw what Mr. Jenkins did.|He just brings me the files.
+{76009}{76068}I take the notes and give them|back to you. Please.
+{76073}{76135}- What name is it?|- Conlon.
+{76137}{76210}- All right.|- Thanks. Thank you very much. Cheers.
+{76352}{76393}What name was that again?
+{76434}{76485}We've got two Conlon boxes.
+{76487}{76577}Is it Giuseppe Conlon|or Gerard Conlon?
+{76626}{76661}Gerard.
+{76840}{76888}Well, that's for starters.
+{77416}{77446}Fuck 'em!
+{77513}{77547}It's good news.
+{77575}{77655}We're talking about|a piece of evidence...
+{77657}{77739}that says they knew all along,|that they let my father die in prison?
+{77741}{77812}Would you mind telling me|what's good about that?
+{77814}{77860}We'll get them in court.
+{77862}{77930}"We'll get them in court"?|Will you catch yourself on?
+{77932}{78005}They've kept us in prison for 15 years.|They can keep us in for another 15.
+{78007}{78053}This is the fucking|government, Gareth!
+{78055}{78128}It's the fucking government!|What are they gonna say?
+{78130}{78183}"We're sorry about that"?
+{78211}{78282}"Made a wee bit of a mistake,|but you can be on your way now"?
+{78284}{78335}What are they gonna say?|"Sorry we killed your da"?
+{78337}{78407}"Sorry we fucked|your fucking life to hell"?
+{78825}{78896}I am not putting my mother|through hell again.
+{78921}{78964}Are you afraid of court?
+{78965}{79022}I just don't wanna be|humiliated again.
+{79528}{79566}I swear by Almighty God...
+{79568}{79649}that the evidence I shall give|shall be the truth, the whole truth...
+{79651}{79698}and nothing but the truth.
+{79867}{79972}Mr Dixon, do you know|these young people...
+{79973}{80030}known as the Guildford Four?
+{80093}{80127}Yes, I do.
+{80129}{80204}Do you know how long|they have spent in jail?
+{80229}{80262}Fifteen years.
+{80328}{80370}Do you know Annie Maguire...
+{80393}{80470}who served her 14 years|without remission?
+{80495}{80563}Do you know her son Vincent|who served five years?
+{80565}{80631}Her son Patrick who served four?|Do you know her husband...
+{80633}{80704}Paddy Maguire, who served 12 years?
+{80730}{80824}Carole Richardson was 17|when she went to jail, Mr Dixon.
+{80826}{80870}Now she is 32.
+{80916}{80964}Do you know Carole Richardson?
+{80964}{81067}- What is the point of this?|- Yes, come to the point.
+{81217}{81300}Do you know who this is, Mr Dixon?
+{81391}{81434}No, I don't.
+{81436}{81479}Well, then would you be so kind...
+{81481}{81564}as to read this statement|that you took from him...
+{81564}{81635}on the third of November, 1974?
+{81637}{81727}A statement, My Lord, which|vindicates all of these people...
+{81731}{81798}- all these innocent people.|- I need to see a copy of this statement.
+{81803}{81886}Either that man or his superior|or his superior's superior...
+{81888}{81962}ordered that these people|be used as scapegoats...
+{81963}{82038}by a nation|that was baying for blood...
+{82043}{82109}in return for the innocent blood|spilled on the streets of Guildford!
+{82115}{82187}- You got your blood, Mr Dixon!|- She is making a political speech.
+{82187}{82272}You got the blood of Giuseppe Conlon|and the lifeblood of Carole Richardson!
+{82274}{82349}You got 15 years of blood and sweat|and pain from my client...
+{82355}{82419}whose only crime|was that he was Irish...
+{82421}{82484}and foolish, and he was in|the wrong place at the wrong time!
+{82486}{82559}Mrs. Peirce, I will have you|removed from the court.
+{82705}{82767}And one of your colleagues,|My Lord...
+{82769}{82843}who sat where you sit now said,|"It is a pity...
+{82845}{82906}you were not charged|with treason to the Crown--
+{82906}{82995}a charge that carries a penalty|of death by hanging--
+{82997}{83075}a sentence I would have no difficulty|in passing in this case."
+{83077}{83147}Mrs. Peirce, I am trying|to read this document.
+{83149}{83226}I will not tell you again|to be silent...
+{83228}{83314}or you will be removed|from the court.
+{84321}{84374}My Lord, this document...
+{84376}{84452}brings the entire British|legal system into disrepute.
+{84454}{84515}My Lord, this is new evidence.
+{84517}{84566}It is shocking new evidence.
+{84568}{84608}My Lord, this evidence...
+{84608}{84685}was not submitted at the trial|that is under appeal.
+{84687}{84776}That, I believe, is the point|Mrs Peirce is trying to make.
+{84777}{84842}- Proceed, Mrs Peirce.|- My Lord, I demand a recess.
+{84843}{84939}There will be no demands made|in my court.
+{84944}{84976}Stand back.
+{85088}{85149}This alibi for Gerry Conlon...
+{85151}{85193}was taken by Mr Dixon...
+{85195}{85273}one month after|Gerry Conlon was arrested.
+{85275}{85376}This note was attached to it|when I found it in police files.
+{85376}{85456}It reads, "Not to be shown|to the defence."
+{85599}{85673}I have one question|to ask you, Mr Dixon:
+{85675}{85727}Why was the alibi for Gerry Conlon...
+{85729}{85831}who was charged with the murder|of five innocent people...
+{85833}{85882}kept from the defence?
+{86071}{86119}- Give us an answer!|- Answer the question!
+{86137}{86183}Silence!
+{86185}{86258}- It's about time!|- Order in the court!
+{86292}{86359}My Lord, I would like|to approach the bench.
+{86360}{86398}This is most irregular.
+{86400}{86464}Yes. I am aware of that, My Lord.
+{86485}{86530}Very well.
+{86901}{86962}Mr. Dixon, you may stand down.
+{86999}{87079}This is the man|who should be under arrest!
+{87081}{87134}Be silent, Mrs Peirce!
+{87136}{87191}- This court is now in recess.|- Guards, get ready.
+{87193}{87251}Don't try and make me|the fall guy...
+{87253}{87324}for the whole|British legal establishment.
+{87421}{87471}If I accept this mercy deal--
+{87473}{87519}They have a flipping cheek,|of ering me mercy.
+{87521}{87567}They should be begging|for mercy themselves.
+{87569}{87609}- You ready, Mr Conlon?|- Aye.
+{87611}{87661}I know the difference|between right and wrong.
+{87663}{87725}The truth has to come out.|They may not want to hear it...
+{87725}{87780}but there's people outside|who'll listen.
+{87780}{87835}- Just think about it, will you?|- All right.
+{87837}{87888}Aye. Give us three of them.
+{88265}{88304}Silence!
+{88367}{88430}In the matter of HerMajesty...
+{88432}{88499}versus GerardPatrick Conlon...
+{88501}{88571}the case is hereby dismissed.
+{88684}{88737}My husband died in your prison|an innocent man!
+{88739}{88819}I'm going out the front door.|I'll see you outside.
+{88821}{88869}- This way.|- I'm going out the front door.
+{88871}{88902}What about Giuseppe Conlon?
+{88904}{88972}Your Honour,|he was an innocent man!
+{89036}{89079}Mr. Conlon, that's not a good idea.
+{89080}{89123}Use the back,|for security reasons.
+{89125}{89174}I'm a free man,|and I'm going out the front door.
+{89201}{89286}In the matter of|Her Majesty versus Paul Hill...
+{89288}{89375}the case is hereby dismissed.
+{89538}{89639}Leave me alone!|I'm going out the front door with Gerry!
+{89694}{89814}Iln the matterof|Her Majesty versus Patrick Armstrong...
+{89816}{89864}the case is hereby dismissed.
+{89916}{90027}In the matterof|Her Majesty versus Carole Richardson...
+{90028}{90111}the case is hereby dismissed.
+{90113}{90150}I'm an innocent man!
+{90152}{90244}I spent 15 years in prison|for something I didn't do!
+{90246}{90292}I watched my father die...
+{90294}{90363}in a British prison|for something he didn't do!
+{90364}{90435}And this government|still says he's guilty!
+{90437}{90477}I want to tell them...
+{90483}{90555}that until my father|is proved innocent...
+{90555}{90653}until all the people involved|in this case are proved innocent...
+{90655}{90716}until the guilty ones|are brought to justice...
+{90718}{90770}I will fight on...
+{90770}{90858}in the name of my father|and of the truth!

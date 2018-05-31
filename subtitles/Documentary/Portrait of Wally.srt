@@ -1,0 +1,832 @@
+{4069}{4082}How was everything?
+{4095}{4133}Real good honey,|thanks.
+{4147}{4206}Let me have a pack of Kools,|too would you?
+{4589}{4625}Real nice smile you got there.
+{4628}{4650}Thank you.
+{4654}{4701}Good bye.
+{4706}{4718}Bye.
+{6495}{6527}Ooh, baby!
+{6767}{6809}Ooh, baby!
+{6819}{6868}Shut up, shut up!!
+{6963}{6987}Die bitch!
+{12390}{12428}Hi, are you going to the city?
+{12442}{12466}Sure. Hop in.
+{13352}{13369}Becky.
+{13404}{13433}Hello Otis.
+{13534}{13566}Well, how are you?
+{13573}{13608}Good.
+{13612}{13642}lt's good to see you.
+{13650}{13667}Good to see you, too.
+{13677}{13702}Got all your things?
+{13715}{13756}Yeah.
+{13831}{13873}You look terrible.
+{14000}{14028}O.K., come on let's go.
+{14038}{14078}lt's this way.
+{14394}{14422}before you got married
+{14433}{14469}l told you Leroy|was no damn good.
+{14472}{14525}that he was trash|and he'd always be trash
+{14537}{14561}and you was going to catch it|and you did didn't you?
+{14574}{14604}l don't really want|to talk about him right now.
+{14614}{14657}O.K. by me, we don't have|to talk about it now.
+{14665}{14685}We don't have|to talk about it ever.
+{14690}{14729}How long are you|going to be up here?
+{14742}{14770}lt's hard to say.
+{14782}{14801}What about Lurleen?
+{14806}{14833}How long can you|leave her with mama?
+{14845}{14853}l don't know.
+{14858}{14917}l'm going to get a job,|make some money.
+{14922}{14960}Maybe bring her up here,|l don't know.
+{14974}{15005}Where did you|tell Leroy you were going?
+{15013}{15041}l don't want|to talk about him.
+{15051}{15095}O.K., we don't have|to talk about him!
+{15169}{15191}You hungry?
+{15194}{15221}Yeah.
+{15233}{15253}Good, l'm hungry too.
+{15258}{15322}Do you think Leroy is hungry?
+{15448}{15470}Do you want more coffee?
+{15474}{15518}Yeah, thanks.
+{15811}{15859}So what kind of work|you planning on getting up here?
+{15863}{15919}l haven't decided yet.
+{15927}{15975}What else can you do|besides dance naked?
+{15979}{16009}Don't start|with me Otis.
+{16018}{16059}l can do lots of things mister.
+{16070}{16093}Oh yea, like what?
+{16109}{16145}Like waitressing|or beautician.
+{16160}{16235}After seeing you l might|just try brain surgery.
+{16250}{16328}You're a card.
+{16340}{16378}Yeah, l'm the queen.
+{16391}{16428}Yea, the queen of clubs.
+{16534}{16595}Don't make me sorry|l came here, Otis.
+{16812}{16841}Howdy.
+{16851}{16859}Hey, Henry.
+{16864}{16902}l brought you a present.
+{16916}{16965}Where did you get that?
+{16968}{17018}l picked it up.
+{17098}{17117}Whew!
+{17124}{17148}Pretty nice, huh?
+{17163}{17193}Sure is a beauty.
+{17467}{17555}Oh, Henry this here|is my sister, Becky.
+{17558}{17632}She's gonna be staying here with|us for a while like l said.
+{17635}{17673}Becky this here is Henry.
+{17686}{17712}Hello Henry.
+{17725}{17773}Hello Becky.|Good to meet you.
+{17777}{17879}She don't look nothing like you,|that's for sure.
+{17893}{17908}Lucky for her.
+{17920}{17964}Henry's on his way out west.
+{17972}{17999}oh, where?
+{18009}{18020}California.
+{18022}{18043}Oh.
+{18047}{18110}She can sleep on the couch.
+{18123}{18214}No, no. Listen Becky l want|you to take the spare room.
+{18227}{18262}No, Henry, thank you but no...
+{18265}{18280}l insist.
+{18292}{18321}Ain't that right Otis?
+{18330}{18355}Up to you.
+{18369}{18456}Alright, but if it gets|to be a bother, we'll change.
+{18469}{18488}Fair enough.
+{18495}{18562}Well, l got to get going.|l got some work to do today.
+{18572}{18608}l just stopped by|to clean up a little.
+{18623}{18628}Where you working?
+{18636}{18704}l'm helping Andy|spray some houses in La Grange.
+{18713}{18747}Oh so that's|working out for you, huh?
+{18752}{18771}Yea.
+{18777}{18812}Sounds like fun.
+{18817}{18860}Coffee?
+{18869}{18931}No thanks, l gotta go.
+{18998}{19036}see ya.
+{19050}{19058}Yea.
+{19643}{19679}That's it until next week.
+{19695}{19740}l was hoping|for a little more work.
+{19747}{19768}So was l.
+{19851}{19870}You never know.
+{19877}{19921}Sometimes l get a call.
+{19929}{19973}You know, these assholes
+{19981}{20035}want you to be out there|the next day.
+{20045}{20076}You never know.
+{20085}{20096}Yeah.
+{20111}{20153}Here, take this.
+{20162}{20217}We'll call it a retainer.
+{20227}{20242}Thanks.
+{20253}{20340}You don't here from me|give me a call.
+{20343}{20395}Hold on.|Don't forget your sprayer.
+{20408}{20478}Hang on to it.
+{20486}{20521}O.K.
+{23557}{23590}lt's good.
+{23713}{23782}And please check|the left rear tire.
+{24025}{24042}lt looks good, too.
+{24051}{24087}Thank you.
+{24090}{24134}Yea.
+{24337}{24397}What can l do for you, sir.
+{24402}{24449}You got any more|of what you had last week?
+{24453}{24473}l might.
+{24477}{24520}Well, do you or don't you?
+{24528}{24546}Yeah.
+{24549}{24585}Well?
+{24598}{24639}Well, l don't have it on me,|stupid.
+{24650}{24697}Give me the money.
+{24830}{24860}l'll bring it|around the field.
+{24869}{24899}l don't want you|hanging around practice.
+{24908}{24924}Give me my money back.
+{24933}{24953}Up to you.
+{24960}{25068}Be in the parking lot at 6:3o.
+{25074}{25138}Sure thing...
+{25153}{25176}6:3o tomorrow.
+{25178}{25203}Tomorrow?
+{25217}{25237}Take it or leave it.
+{25243}{25273}Great.
+{25281}{25300}See ya.
+{25410}{25451}Fuckin' pervert.
+{25689}{25796}Oh, it's so gross...|l always did hate doing this.
+{25806}{25837}l'll do it.
+{25845}{25875}That's alright.
+{26001}{26028}Where did you say you met him?
+{26040}{26056}Who?
+{26066}{26125}You know who...Henry.
+{26130}{26172}What do you want|to know for?
+{26182}{26264}l don't know...|l'm just curious.
+{26273}{26347}Van Dalia.
+{26352}{26395}Van Dalia?
+{26402}{26444}Sure, Van Dalia.
+{26452}{26531}Oh, what was he in for?
+{26543}{26572}|You don't want to know.
+{26582}{26628}What did he do?|Kill his mama?
+{26633}{26659}Uh, huh.
+{26668}{26699}Come on...|what was he in for?
+{26706}{26745}You don't want to know.
+{26756}{26780}What did he do?|Rob a bank or something?
+{26783}{26835}You were right|the first time.
+{26848}{26880}Huh?
+{26887}{26910}You were right the first time.
+{26925}{26973}He killed his mama.
+{26976}{27041}Don't you ever|tell him l told you.
+{27054}{27081}You're kidding me?
+{27092}{27099}No, l ain't.
+{27104}{27120}Yes you are.
+{27131}{27155}Alright, l'm kidding you.
+{27168}{27201}Just don't ever|tell him l told you.
+{27216}{27248}He killed his mama?
+{27254}{27347}With a baseball bat...|her and one of her boyfriends.
+{27358}{27399}l swear if you|ever tell him l told you
+{27408}{27426}l'll beat your ass right off.
+{27434}{27459}How do you know all this?
+{27473}{27496}He told me,|that's how l know.
+{27500}{27527}How else would l know?
+{27536}{27560}Were you|cellmates or something?
+{27562}{27591}No, we were friends.
+{27600}{27651}When did he get out?
+{27665}{27703}A couple|of years before me.
+{27911}{27931}Hi.
+{28833}{28876}l got some business|l got to take care of.
+{28885}{28896}You going out?
+{28911}{28962}For a while, l got to run|an errand for a fellow.
+{28976}{29003}You want to come along Henry?
+{29015}{29097}No, you go ahead.
+{29119}{29163}See you later.
+{29405}{29454}Want to play cards?
+{29457}{29515}Sure.
+{29817}{29853}What was|your daddy like?
+{29856}{29899}My daddy?
+{29908}{30015}He used to drive a truck before|he got his legs cut off.
+{30025}{30105}l remember one time...
+{30114}{30176}he brought me and|my little brother home bicycles.
+{30192}{30270}He had delivered some that day|and he had a couple left over.
+{30282}{30353}But, mine was way too big for me
+{30360}{30417}and my brother|he couldn't ride his anyway.
+{30424}{30526}Daddy, he said l'd grow into it,|but, l never did.
+{30541}{30560}Why not?
+{30568}{30659}l never got the chance,|they sold it.
+{30672}{30707}They sold them both.
+{30710}{30805}So you have|a brother?
+{30814}{30910}My brother, he had|a bone disorder.
+{30918}{30969}He was|a little deformed.
+{30984}{31031}What happened to him?
+{31036}{31110}He died.
+{31204}{31312}l can't ever remember|really liking my daddy.
+{31320}{31374}l wanted to, l really did.
+{31384}{31500}One time he bought me,|when l was about five,
+{31514}{31617}he bought me an ice cream cone|and l dropped it.
+{31632}{31713}And he slapped me and|made me pick it up and eat it.
+{31722}{31809}l never liked my daddy.
+{31813}{32000}One time, when my momma was|at work, and l was about 13,
+{32008}{32119}he come into my room and he|told me to take my shirt off
+{32125}{32199}'cause he wanted to see|how l was developed.
+{32204}{32291}And when l wouldn't|he got real mad and he hit me.
+{32294}{32352}And he told me he had a right
+{32360}{32411}because he was my daddy|and l was his daughter
+{32424}{32491}and he fed me|and let me live in his house
+{32502}{32548}and he could|do whatever he wanted.
+{32552}{32630}And he did.
+{32640}{32753}Then he started coming|into my room a lot, after that.
+{32762}{32861}l didn't fight him because|when l did he just hit me.
+{32866}{32960}l was afraid|l was going to have a baby
+{32969}{33017}and that my baby|would be deformed
+{33021}{33104}but, l never got pregnant.
+{33112}{33195}l tried to tell mama,
+{33202}{33287}but she didn't|want to hear about it.
+{33289}{33387}She pretended not to believe me|but l knew she did.
+{33487}{33527}lt sure is good to talk...
+{33537}{33575}to talk to you Henry
+{33587}{33657}because l know|you're not judgmental
+{33662}{33695}or anything like that.
+{33784}{33825}l never would have married Leroy|in the first place
+{33836}{33875}if l hadn't wanted to get away|from daddy so bad.
+{33886}{33955}Didn't get along|with your daddy, huh?
+{34151}{34179}Did you really kill your mama?
+{34189}{34207}What?
+{34215}{34295}Did you really|kill your mama?
+{34300}{34362}l guess l did.
+{34414}{34440}How did it happen?
+{34475}{34535}l stabbed her.
+{34549}{34622}Otis said you hit her|with a baseball bat.
+{34625}{34674}Otis said that?
+{34684}{34715}Yeah.
+{34723}{34790}Well, he's mistaken.
+{34799}{34923}Well, don't tell him l told you,|he made me promise.
+{34936}{35026}She must have treated|you real bad.
+{35152}{35200}She was a whore.
+{35204}{35300}My mama was a whore.
+{35308}{35392}But l don't fault her for that.
+{35399}{35463}lt ain't what she done|it's how she done it.
+{35477}{35636}As long as l can remember she'd|be bringing men up to the house.
+{35645}{35709}My daddy was there too
+{35723}{35768}but it didn't matter|nothing to her.
+{35775}{35858}She make me watch it.
+{35914}{35944}That's creepy.
+{35950}{36015}She beat me too, a lot.
+{36027}{36110}She beat me|when l wouldn't watch it.
+{36119}{36163}And sometime she'd beat me
+{36171}{36246}make me wear a dress
+{36249}{36317}and watch her doing it.
+{36325}{36396}and then they'd laugh at me.
+{36402}{36443}She made you wear a dress?
+{36453}{36498}You think l'm lying?
+{36603}{36642}l feel like l know you
+{36655}{36714}like l've known you|for a long time.
+{36719}{36806}l feel like l've known you|for ever and ever.
+{37023}{37134}Yeah...l killed my mama...
+{37139}{37225}one night.
+{37231}{37274}lt was my 1 4th birthday
+{37283}{37413}and she was drunk|and we had an argument.
+{37426}{37504}And she hit me|with a whiskey bottle
+{37517}{37656}l shot her...|l shot her dead.
+{37669}{37728}l thought you said|you stabbed her?
+{37871}{37899}Oh yeah.
+{37961}{37988}That's right...
+{38038}{38079}l stabbed her.
+{38316}{38331}Hey.
+{38485}{38533}Anything good on TV?
+{39999}{40047}l got a job today.
+{40051}{40089}Oh yeah?|Doing what?
+{40103}{40113}At a beauty parlor.
+{40117}{40151}A beauty parlor?
+{40155}{40176}l'm a shampoo girl.
+{40181}{40207}What's that?
+{40220}{40250}What's it sound like,|you dummy?
+{40257}{40282}How the hell|should l know?
+{40295}{40315}You ever seen me|in a beauty parlor?
+{40322}{40361}l give shampoos...
+{40374}{40418}a woman gets her hair shampooed|before she gets it cut
+{40426}{40449}and l do it.
+{40462}{40501}They pay you for that?
+{40509}{40541}Of course they do.
+{40547}{40602}Besides l used to do it some|back home after l met Leroy.
+{40612}{40664}Do you like it better|than dancing naked?
+{40677}{40713}Don't start with me Otis.
+{40716}{40780}You used to dance naked?
+{40795}{40826}Sure, all the time|around the house.
+{40833}{40843}Otis.
+{40847}{40892}Best little naked|dancer you ever saw.
+{40899}{40950}You never.
+{40963}{40993}Were you really a dancer?
+{41003}{41074}l danced some, in a club
+{41080}{41137}and l wasn't naked.
+{41145}{41188}l wore a costume
+{41197}{41253}but l guess|it wasn't very much.
+{41263}{41274}Huh.
+{41288}{41331}When you gonna|dance for us?
+{41340}{41406}When the pope pees|in his hat, Otis.
+{41419}{41470}Ain't she got|a mouth on her?
+{41483}{41519}l better have something|on me to defend me
+{41523}{41548}from a pig like you.
+{41587}{41645}Otis...
+{41652}{41700}Them's pretty earrings|you got on Becky.
+{41704}{41753}Thank you Henry.
+{41756}{41827}At least there's|one gentleman at this table.
+{41833}{41914}l'm sorry honey.|don't get mad.
+{41923}{41979}l'm just having a little fun|with you that's all.
+{41988}{42039}Oh, wait,|l got something to show you.
+{42067}{42073}Wait.
+{42169}{42187}ta-da!
+{42195}{42251}Nice.
+{42259}{42285}Real nice.
+{42299}{42316}Put it on.
+{42324}{42354}Right now?
+{42364}{42370}Uh-huh.
+{42377}{42456}OK, but turn around first...
+{42468}{42492}turn around!
+{43066}{43099}O.K., you can look.
+{43156}{43187}What does it say on there?
+{43195}{43232}l love Chicago.
+{43247}{43318}Looks good, don't it Otis?
+{43326}{43333}Uh-huh.
+{43442}{43456}Oh, hey honey,
+{43468}{43526}Why don't you bring me a beer,|this one is empty.
+{43534}{43584}l ain't your maid,|get it yourself.
+{43598}{43642}Oh, now come on honey,
+{43650}{43709}l ain't asking you to wash|the windows or nothing...
+{43715}{43749}l just want a beer.
+{43754}{43818}Come on, bring your poor old|brother a beer, will ya?
+{43975}{44030}Don't do that Otis.|She's your sister!
+{44040}{44075}O.K., l was only|kidding around, Henry.
+{44079}{44109}Tell her you're sorry.
+{44118}{44144}O.K., l'm sorry.
+{44157}{44211}Now, tell her|you won't do it again.
+{44221}{44277}l won't, l swear Becky|l swear, l won't.
+{44284}{44330}Ouch!
+{44335}{44430}Shit, Henry!
+{44439}{44465}Serves you right.
+{44478}{44517}Thank you, Henry.
+{44530}{44541}That's alright.
+{44555}{44595}Listen,|l'll do the dishes.
+{44606}{44678}l don't mind, l don't.
+{45008}{45064}Listen, why don't you boys|go out and get a beer.
+{45074}{45153}l'll do these,|l don't mind, honest.
+{45365}{45400}Well, what do you say Otis?
+{45480}{45522}You want to go grab a beer?
+{45722}{45771}Sure, l don't mind.
+{45934}{45974}l'll just go spruce up.
+{46119}{46167}That was a real nice|supper, Becky.
+{46174}{46219}Thanks.
+{46278}{46306}Have fun.
+{46372}{46394}Yea.
+{48442}{48494}Oh, come on, slow down!
+{48507}{48533}Easy tiger, easy!
+{48624}{48652}Now, wait a minute!
+{48676}{48702}Hey come on, l'm not kidding!
+{48832}{48880}Suzie!!
+{49778}{49857}Otis, come here...
+{49869}{49894}l'll drive.
+{50396}{50446}What's gonna happen|when they find those bodies?
+{50462}{50467}Nothing.
+{50474}{50488}What do you|mean nothing?
+{50500}{50537}Just what l said Otis,|nothing.
+{50552}{50601}Nothing's gonna happen|cause nothing happened.
+{50604}{50662}And l don't know nothing|about it whatever it is.
+{50670}{50728}Do you?
+{50734}{50806}Hey, l don't know nothing.
+{50838}{50865}Good.
+{50875}{50892}Oh, fuck.
+{51261}{51290}Feeling better?
+{51299}{51356}Yes.
+{51594}{51619}Do you want some fries?
+{52400}{52468}You telling me you never|killed anybody before?
+{52478}{52513}l ain't saying that.
+{52524}{52580}Then you've killed|before, right?
+{52583}{52640}Well, maybe l didn't|have no choice.
+{52645}{52712}You didn't have|no choice here neither.
+{52717}{52764}Did you?
+{52769}{52861}Huh?
+{52873}{52878}Did you?
+{52886}{53008}l don't know,|it ain't the same.
+{53016}{53088}lt's always the same...
+{53093}{53156}and it's always different.
+{53170}{53191}What do you mean?
+{53195}{53295}lt's either you or them|one way or the other.
+{53298}{53367}Ain't that right?
+{53372}{53486}Open your eyes, Otis.
+{53489}{53539}Look at the world.
+{53551}{53608}lt's either you or them.
+{53622}{53688}You know what l mean.
+{53780}{53823}Yea.
+{53898}{53961}Good.
+{53976}{54001}You want a beer?
+{54015}{54051}O.K.
+{54610}{54672}There was only one left.
+{54922}{54944}...nothing about this
+{54949}{55020}but you can bet a dollar to a|doughnut that when he finds out,
+{55026}{55057}and he will find out|'cause l'll tell him
+{55065}{55097}there'll be hell to pay.
+{55105}{55115}Really.
+{55130}{55164}l'll never go back there again|l can tell you that...
+{55169}{55215}not when he's not there anyway.
+{55221}{55293}First of all there ain't two|of them that speaks English.
+{55299}{55338}lt's gone down so badly
+{55351}{55399}the way it's changed|it breaks my heart.
+{55403}{55444}lt's like that all over.
+{55455}{55482}People spit at you.
+{55494}{55528}l wish l was lying.
+{55533}{55594}You can't have a regular|good time in the city no more.
+{56350}{56408}Ah, shit!
+{56609}{56652}What did you do that for?
+{56661}{56763}l guess l got carried away.
+{56777}{56859}Well, l guess you did, Otis.
+{56865}{56936}Shit...l got to have a TV.
+{56995}{57102}Well, let's go shopping.
+{58221}{58279}So what can l do|for you gentlemen?
+{58287}{58323}lt's hot in here, isn't it?
+{58339}{58354}l'm kind of cold.
+{58365}{58390}We want a TV.
+{58404}{58454}How much you got to spend?
+{58469}{58495}What do you got?
+{58506}{58530}$5o bucks.
+{58545}{58620}l can let you have the set|over there for 5o bucks.
+{58629}{58686}Well, turn it on|we want to see if it works.
+{58693}{58719}What's the matter,|don't you trust me?
+{58726}{58732}No.
+{58737}{58843}Here plug it in|down here.
+{58852}{58884}Here?
+{58891}{58971}Yeah, down there, real good.|l see you've had some college.
+{58981}{59071}Like you can see|it works real good...
+{59084}{59104}Just takes a while to warm up.
+{59111}{59136}lt's black and white!
+{59149}{59169}Of course it's black and white.
+{59174}{59224}What do you expect for 5o bucks?
+{59235}{59259}Fuckin' 3-D for christ sake.
+{59270}{59303}Well, how much is color?
+{59317}{59327}We want color.
+{59330}{59394}You can't get color|for 5o dollars.
+{59409}{59447}That's O.K.|let's see what you got.
+{59459}{59475}What have l got?
+{59485}{59517}You want cable ready?
+{59523}{59550}You want remote control?
+{59557}{59578}You want UHF?
+{59592}{59615}You want 13''?
+{59632}{59639}You want 19''?
+{59642}{59695}l bet you'd like to have a 19''.
+{59757}{59765}You want Sony?
+{59770}{59779}You want Zenith?
+{59783}{59798}You want a Gold Star?
+{59809}{59872}What can we get for a $15o?
+{59887}{59923}l can let you have|this set for $15o.
+{59937}{59953}lt's worth $3oo.
+{59964}{59996}But here,|take a look at this.
+{60003}{60023}For an extra $75...
+{60028}{60107}you can take this $6oo set.
+{60120}{60190}What's this?
+{60196}{60216}lt's a camcorder.
+{60223}{60239}What?
+{60248}{60307}lt's a videotape recorder|and camera rolled into one.
+{60312}{60372}You just pop in a cassette|and you're ready to go.
+{60376}{60404}You can make|your own movies with that?
+{60415}{60438}What else|would you do with it?
+{60441}{60478}How much you want for it?
+{60493}{60535}lt's worth a grand...|l'd take half.
+{60545}{60571}5oo bucks?
+{60583}{60635}Yeah...half of a grand is $5oo.
+{60648}{60679}That's a little more|than we were planning to spend
+{60693}{60736}l think we should|just take the TV.
+{60745}{60807}O.K., which one do you want?
+{60875}{60891}The $5o one.
+{60900}{60921}The $5o one...
+{60931}{60955}You guys come in here
+{60969}{61006}l show this|l show you that
+{61021}{61077}and you creeps got|a lousy $5o to spend?
+{61086}{61124}You should have|stopped me a long time ago.
+{61137}{61201}Take the $5o set and get|the hell out, l'm a busy man.
+{61216}{61255}Well, we were|really counting on a color set.
+{61268}{61331}What's the matter?|You got shit in your ears?
+{61342}{61405}The black and white is $5o,|take it or leave it.
+{61420}{61470}Sorry we wasted your time,|come on, Otis.
+{61484}{61512}Don't give me sorry,|you dumb ass!
+{61524}{61566}Did l stutter?!
+{61575}{61609}Gimme the $5o and get out!
+{61613}{61638}l'll give you 5o...
+{62360}{62431}Otis...plug it in.
+{63148}{63175}Henry come dance with me.
+{63187}{63276}Who me? No, no...
+{63291}{63370}Come on Henry,|do it Henry.
+{63380}{63444}That's it...
+{63484}{63522}Get down.
+{63835}{63948}More, more,|come on, go for it...
+{63952}{63997}come on Henry, that's it,|that's it...
+{64004}{64035}Work them hands, Henry.
+{64316}{64369}Come on,|more, more!
+{64380}{64452}More, more damnit!
+{64588}{64613}Turn it off!
+{64808}{64835}Turn it off!
+{65042}{65069}Come on Henry, say hi.
+{65081}{65093}No.
+{65108}{65115}Say hi, Henry.
+{65120}{65143}No more, Otis.
+{65146}{65166}Say hi, Henry.
+{65172}{65209}No more, Otis!!
+{65212}{65221}He doesn't want to.
+{65224}{65244}Say hi...
+{65250}{65271}He said hi.
+{65477}{65540}Yea, uh, huh.
+{65555}{65624}Look l'll do the best l can,|but l don't promise...
+{65632}{65668}Fuck him.
+{65684}{65768}Yea, yea good-bye. crazy guy!
+{65775}{65784}What?
+{65788}{65851}Some jerk off hasn't been out|of jail six months,
+{65865}{65906}gets drunk|gets busted up in a fight
+{65917}{65941}so he goes home and gets a gun
+{65956}{65977}and comes back later|and shoots the guy.
+{65982}{66041}They find the gun on him.|He claims he was framed.
+{66047}{66082}What are you going to do?
+{66086}{66159}So uh ...|everything going O.K.?
+{66164}{66178}Yeah.
+{66189}{66255}Still working at Bobs Gas?
+{66268}{66283}Yes sir.
+{66293}{66313}Good, you working everyday?
+{66320}{66404}Two, three days a week.|lt's a little slow now.
+{66410}{66450}Well, if it's less than|two days a week let me know.
+{66458}{66487}We'll see|what we can do for you.
+{66494}{66536}You still living at|18o1 West North?
+{66544}{66553}Yes sir.
+{66557}{66584}Good.
+{66596}{66629}l got to cut it|short today, uh Otis.
+{66636}{66667}My kid's scheduled|for oral surgery.
+{66674}{66692}l promised to take him over.
+{66700}{66707}Sure.
+{66712}{66750}Good. l'll see you next month.
+{66764}{66798}Take it easy.
+{66803}{66855}Bye.
+{67345}{67379}You got it?
+{67384}{67402}Got what?
+{67410}{67442}You know what.
+{67509}{67555}Here you go.
+{67561}{67632}Wanna try it?
+{67906}{68038}Damn you, son of a bitch!|Fuckin'...!
+{68227}{68253}Let me see that.
+{68266}{68339}That little|fuckin' bastard.
+{68343}{68363}l ought to kill him.
+{68370}{68392}l ought to cut his|fuckin' head off.
+{68395}{68422}That'd be a mistake.
+{68435}{68462}Look who's talking.
+{68474}{68524}Watch your mouth Otis.
+{68539}{68608}l'm sorry, Henry.
+{68616}{68665}You kill that|high school boy
+{68668}{68722}they're going to slap|your ass right back in jail.
+{68734}{68756}Otis that's a promise.
+{68759}{68812}People have seen you together.
+{68824}{68868}l'd still like|to kill him though.
+{68876}{68918}l bet you would.
+{68928}{68958}l'd like to kill somebody.
+{68967}{69005}Say that again.
+{69019}{69078}l'd like to kill somebody.
+{69084}{69141}Let's me and you|go for a ride Otis.
+{71311}{71367}Here, l want|to show you something.
+{71375}{71446}Where did you get this?
+{71453}{71495}Careful Otis...|it's loaded.
+{71505}{71550}Where did you get it?
+{71555}{71588}Guns are easy to get.
+{71593}{71650}l can make a phone call|and get a gun.
+{71663}{71700}Anybody can get a gun Otis.
+{71711}{71731}What do you got in mind Henry?
+{71744}{71773}What do you think?
+{71849}{71906}l don't know.
+{71917}{71938}Put up the hood.
+{71953}{71982}Why?
+{71991}{72034}Just put up the hood, Otis.
+{73102}{73141}You guys need any help?
+{73154}{73259}Otis, do you need some help|or can you do it yourself?
+{73578}{73595}Feel better?
+{73603}{73610}Yeah.
+{73617}{73677}Alright.
+{73991}{74047}lf you shoot somebody|in the head with a 45
+{74056}{74080}everytime you kill somebody
+{74095}{74152}it becomes like|your fingerprint see.
+{74160}{74214}But if you strangle one|and stab another...
+{74225}{74273}one you cut up|one you don't
+{74277}{74322}then the police|don't know what to do.
+{74329}{74374}They think you're|four different people.
+{74381}{74430}What they really like...
+{74446}{74501}what makes their job|so much easier...
+{74511}{74522}a pattern.
+{74536}{74594}What they call|a modus operandi.
+{74601}{74652}That's Latin...
+{74666}{74713}bet you didn't know|any Latin, did ya?
+{74718}{74736}Big fuckin' deal.
+{74744}{74806}What?
+{74887}{74934}lt's like a trail|of shit, Otis.
+{74939}{75010}lt's like a blood droppings|from a deer you've shot
+{75016}{75077}and all they gotta do|is follow those droppings
+{75081}{75153}and pretty soon they're going|to find that deer.
+{75393}{75438}Why do we use a gun?
+{75497}{75535}You can use a gun.
+{75549}{75594}l'm not saying you can't|use a gun...
+{75601}{75658}just don't use|the same gun twice.
+{75717}{75774}The most important thing|is to keep moving...
+{75782}{75854}that way they might|never catch up to you.
+{75858}{75942}l'm gonna have to pack up and|be on the move too, pretty soon.
+{75949}{75972}Where are you going?
+{75988}{76022}Nowhere.
+{76027}{76063}Do you wanna come?
+{76066}{76140}We could be back this way|in about a month.
+{76155}{76243}l'm not supposed to leave|the state without telling them.
+{76246}{76267}So who's gonna know?
+{76273}{76321}As long as you show up|when you're supposed to?
+{76325}{76381}What if they|check up on me at work?
+{76390}{76494}Well, no plan is perfect.
+{77850}{77932}Bring her in.|Bring her in Otis.
+{78097}{78159}Get her blouse off.|Take it off.
+{78279}{78313}Skirt, skirt, skirt.
+{78318}{78436}Do it Otis,|you're a star.
+{78591}{78628}Shut up! Shut up!
+{78760}{78792}Leave me alone!
+{78942}{78958}You got it.
+{78968}{79018}Go for it boy.
+{79189}{79217}Get the fuckin' kid!
+{79813}{79894}Henry, look!
+{80567}{80615}Hey Henry? Henry?
+{80671}{80698}What?
+{80710}{80754}Hi! Bye!
+{80762}{80803}Say hello, honey!
+{81009}{81049}Otis!
+{81061}{81067}No Otis!
+{81074}{81146}Otis...no!!
+{81152}{81194}Let's go!
+{81581}{81622}What are you doing?
+{81631}{81676}l want to see it again.
+{82618}{82665}ln jail? Are you sure?
+{82766}{82789}ls Luleen there?
+{82792}{82831}Does she know?
+{82841}{82943}ln the what...in the army?
+{82956}{83035}Go get her, will you?
+{83160}{83253}Ha...hi...hi...hi...
+{83303}{83332}Do you miss me?
+{83342}{83413}l miss you.
+{83524}{83551}You did?
+{83563}{83614}That's wonderful.
+{83628}{83676}Are you being a good girl?
+{83783}{83911}l don't think so honey...|l know l promised, but, huh...
+{83925}{83990}a couple of things|have happened here.
+{84068}{84126}l know...he is a good soldier.
+{84211}{84280}Soon...real soon...l promise.
+{84365}{84406}l love you, too.
+{84417}{84510}Yea...huh...put your|grandma back on, O.K.?
+{84582}{84612}Hi...
+{84725}{84844}l know...|l'll think about it.
+{84855}{84920}l can't right now...
+{84932}{84974}l will...soon...
+{84984}{85086}l can't talk anymore O.K....|l gotta go.
+{85089}{85183}O.K., bye.
+{85335}{85400}Great, great, oh...
+{85412}{85444}Oh!!
+{85452}{85497}l got one here, look...
+{85504}{85628}Oh look...look, look, look...
+{85633}{85665}Oh no, l like this one better.
+{85672}{85698}Look Henry. Henry look.
+{85711}{85768}l love it, l love her.
+{85815}{85881}Ah god, look at that dress...|look at the way it moves.
+{85892}{85921}Oh yea!
+{85931}{85978}Pull up next to her, please...
+{86033}{86068}Look what you did!!
+{86072}{86175}Oh God! Oh Jesus!
+{86189}{86259}Look at it... it's ruined.
+{86266}{86311}Damn Henry you ought to look|where you're driving.
+{86317}{86381}Who the hell told you to stick|your head out the window anyway?
+{86394}{86417}You could of killed me!
+{86420}{86467}That's right... blame it on me!
+{86471}{86591}Oh, this fucking camera!
+{86600}{86622}What did you do that for?
+{86625}{86698}lt wasn't any good anymore.
+{86703}{86720}Could have fixed it.
+{86728}{86781}Shit, the lens|was busted right off!
+{86792}{86811}Could have fixed it!
+{86818}{86858}How do you know?|You a camera repair man?!
+{86869}{86931}You should have said something.
+{86934}{86958}You didn't give|me a chance Otis.
+{86972}{87014}You threw the fucker|right out the window.
+{87024}{87044}lt ain't my fault it broke.
+{87049}{87075}Oh right.
+{87140}{87174}Go back and get it if you want.
+{87179}{87217}Yeah.
+{87399}{87430}Want to get a beer?
+{87437}{87463}Not particularly.
+{87476}{87507}l want a beer.
+{87579}{87680}lf you want a beer so bad, Otis|go ahead and get one.
+{87683}{87734}All right, l will.
+{87839}{87862}See you later.
+{87864}{87888}Yeah.
+{88034}{88092}l talked to Lurleen.
+{88100}{88139}Yea?
+{88151}{88184}You'd like her...
+{88188}{88259}God, l miss her.
+{88272}{88310}l'm thinking...
+{88320}{88384}l might be heading|on back home.
+{88398}{88451}l quit.
+{88460}{88482}You quit what?
+{88538}{88565}My job.
+{88573}{88616}What happened?
+{88643}{88699}l just figured|it was time to go home.
+{88777}{88812}You want to come with me?
+{88815}{88910}l thought you wanted|to make some money?
+{88915}{88959}Yeah...but...
+{88963}{89073}l'm thinking l don't want to|bring Lurleen up here after all.
+{89080}{89112}You know that was my intention.
+{89119}{89228}There's just too much|going on up here.
+{89236}{89290}She'd get lost.
+{89352}{89424}We're better off|living with mama.
+{89431}{89522}l can work back home,
+{89535}{89566}l won't make as much money,|l'm sure.
+{89573}{89628}But we won't need|as much either.
+{89636}{89692}l can live with mama.
+{89695}{89787}You can stay there, too.
+{89854}{89909}You figure it's safe|to go back?
+{89915}{89936}l hope so.
+{89950}{90067}Leroy's in jail for murder and|his bond's a million dollars.
+{90081}{90136}So, unless he wins the lottery
+{90145}{90208}Leroy won't be going anywhere|for quite a while.
+{90223}{90280}Where's Otis?
+{90286}{90370}He had a dinner date|l think he said.
+{90377}{90425}Really?
+{90514}{90551}Come with me?
+{90565}{90608}When are you leaving?
+{90617}{90659}Tomorrow.
+{90673}{90717}Huh.
+{90789}{90828}Better think fast Henry.
+{90901}{90932}You got your ticket?
+{90940}{91025}Not yet, but my mind's made up.
+{91030}{91093}Might as well just do it.
+{91172}{91215}Might as well.
+{91220}{91289}l'd rather ride with you.
+{91294}{91401}Let me think about it.
+{91486}{91531}l'll tell you what...
+{91537}{91584}let's me and you|go get us a steak dinner,
+{91588}{91627}l'm buying, huh?
+{91639}{91683}l got a new Visa card|l want to try out.
+{91691}{91743}You got a Visa card?
+{91751}{91819}Yea, who you think you're|associating with anyway?
+{91827}{91877}Great, lets go.
+{91890}{91903}Alright.
+{91916}{91926}Where we going?
+{91929}{91986}We'll find a place.
+{92020}{92058}Grab your jacket and let's go.
+{92457}{92498}l gotta go|to the bathroom.
+{93048}{93101}He's passed out.
+{94436}{94484}l ain't interrupting|nothing, am l?
+{94631}{94672}You guys want a beer?
+{94683}{94767}You got any cigarettes?
+{94773}{94838}Not since Superman died.
+{94902}{94963}l gotta go out and get some|cigarettes...
+{94978}{95006}get some air.
+{95028}{95047}l'll be right back l promise...
+{95054}{95078}l just need some air.
+{95106}{95147}Do you want anything?
+{95232}{95251}Otis?
+{95259}{95308}No.
+{95504}{95580}How about getting|your poor ol' brother a beer?
+{96818}{96868}Hi, two packs of Kools.
+{96896}{96909}What?
+{96922}{96970}What kind?|Milds, Regulars, 1oo's...
+{96974}{97055}Regulars.
+{97065}{97095}Two sixty.
+{97270}{97303}Hey, how about|those Bears?
+{97308}{97359}Fuck the Bears.
+{97372}{97434}O.K.
+{97795}{97808}Hi.
+{97821}{97834}Hi.
+{97847}{97894}That's a nice looking dog|you got there.
+{97904}{97910}Thank you.
+{97915}{97945}What kind is it?
+{97947}{97998}Heinze.
+{98003}{98016}What?
+{98029}{98077}57 varieties.
+{98080}{98101}What?
+{98106}{98183}lt's a mutt...|half Yorkshire, half Shitzu.
+{98195}{98246}Oh, Shitzu, huh?
+{98259}{98291}What's his name?
+{98294}{98314}Delores.
+{98320}{98348}What?
+{98358}{98393}Her name is Delores.
+{98406}{98450}That's a nice name.
+{98458}{98553}Did you hear that Delores?|say thank you.
+{98558}{98682}We gotta go, bye now.
+{101158}{101194}Adios, mother fucker!
+{102895}{102934}Relax, take it easy...
+{103025}{103049}Why don't you|call the police?
+{103064}{103081}No, no, no...
+{103090}{103100}What about Otis?
+{103103}{103132}lt's not a good idea.
+{103142}{103191}What are we going to do?
+{103194}{103229}Let me think!|Shut up! Let me think!
+{103233}{103259}Shut up!
+{103272}{103330}Let me think!
+{103402}{103439}Let me think!
+{107970}{108023}You want to listen|to the radio?
+{108074}{108139}Henry...
+{108152}{108190}that was so awful.
+{108269}{108313}l'm scared.
+{108399}{108449}What do we do now?
+{108464}{108542}We just got to keep moving|that's for sure.
+{108594}{108689}My sister owns a ranch|outside of San Bernadino.
+{108698}{108761}She raises horses there.
+{108776}{108830}She's got about|1/2 dozen of them.
+{108841}{108886}Arabians...|they're beautiful.
+{108893}{108987}We can stay there|as long as we want to.
+{108997}{109074}What about Lurleen?
+{109088}{109177}We'll send for her|as soon as we get there.
+{109257}{109287}You promise?
+{109296}{109359}l promise.
+{109555}{109601}l love you Henry.
+{109672}{109736}l guess, l love you too.
+{109919}{109980}Where are we|going to go now?
+{109984}{110051}We'll find a place.
+{110231}{110283}You want to listen|to the radio?
+{110426}{110460}O.K.
+{112525}{112581}This is a nice guitar...
+{112587}{112674}used to play a little...
+{112683}{112737}but, l'm out of practice.
+{112856}{112897}We better go to bed now.

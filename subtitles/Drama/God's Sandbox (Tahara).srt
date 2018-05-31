@@ -1,0 +1,265 @@
+{1}{1}25.000
+{124}{270}- God's Sandbox -
+{307}{401}Juliano Merr
+{413}{509}Razia Israeli
+{518}{615}Meital Dohan
+{631}{727}Orly Perel
+{740}{836}Sammy Samir
+{3959}{4051}Produced by: Yoav Halevy
+{4203}{4341}Directed by: Doron Eran
+{6003}{6032}Welcome.
+{6395}{6420}Rachel.
+{6456}{6497}Rachel, wait a minute.
+{6571}{6615}Rachel, wait a minute!
+{6656}{6719}Rachel, I want to talk to you.
+{7247}{7303}Mom.|-We're going home.
+{7394}{7436}Mom, wait a minute.
+{7708}{7739}...Mom.
+{7786}{7833}Have you calmed down, Mom?
+{7869}{7912}We're going home.
+{7934}{7971}You're nuts.
+{8094}{8171}Going home, eh?|Where to? What is 'home'?
+{8186}{8266}To your paranoia?|Your bullshit books?
+{8283}{8362}Your wacko rabbis? Why do you|want me to come home?
+{8364}{8434}I've had it.|I ran away, Mom, from you.
+{8439}{8485}Why is that so hard|to understand?
+{8928}{8975}Stay here, I'll be right back.
+{8983}{9051}I'm here.|-I know that already.
+{9588}{9662}Hello, Ahmed?|This is Mustafa.
+{9684}{9722}I'd like to reserve a room.
+{9752}{9808}Yes. OK.
+{9820}{9865}I'll be there in half an hour.
+{9879}{9929}See you. Thanks.
+{9957}{10008}Hello.|-Hello.
+{10010}{10088}There's a hotel nearby.|Mustafa will take you there.
+{10117}{10187}But I want to stay here.
+{10215}{10271}I need a vacation too, right?
+{10402}{10454}I don't know what to do|with you.
+{10490}{10527}Do whatever you want.
+{12326}{12352}Mom.
+{12376}{12412}Good morning.
+{12447}{12491}How long have you been here?
+{12498}{12545}I didn't sleep at all.
+{12575}{12648}Why didn't you wake me?|-Look at the sea.
+{12687}{12756}There's no other sea like this|in the whole world.
+{12803}{12885}Let's go get some rolls.|-What's the rush?
+{12889}{12955}Can't we get a bite|to eat together?
+{13079}{13148}OK, we'll have breakfast|and that's it?
+{13182}{13218}And that's it.
+{13640}{13731}Abed, fiill the jug with water|and put the things away. Thanks.
+{13922}{13966}I can't stand coffee.
+{14057}{14099}Coffee is a delight.
+{14930}{14964}Give me one cola.
+{25259}{25290}Congratulations.
+{25961}{25993}Thank you.
+{26666}{26740}Salameh sends you his regards.|-Really? -Yes.
+{26743}{26840}How is he? -He arrived with|his brother. -How is Salameh?
+{28410}{28475}Nagim, tell her to go away.
+{28510}{28538}Mustafa.
+{28565}{28650}Tell her to go. She's bringing|shame on us and herself.
+{28825}{28939}Nagim, my son. Those tourist|women bring us nothing but shame.
+{28977}{29022}The world has gone mad!
+{29026}{29108}She gazes at a man as if|she wants to devour him.
+{29392}{29433}He asked for you to leave.
+{29545}{29589}Far away, in the mountains.
+{29799}{29871}Give this to him.|Tell him it's from Leila.
+{30180}{30233}What is it?|-It's from Leila.
+{30239}{30285}From who?|-From Leila.
+{30668}{30710}Give it back to her.
+{30740}{30780}She's gone.
+{30782}{30814}You've had it!
+{30817}{30900}She gave you a gift, now|you have to give her one too.
+{32157}{32243}Mustafa, where should I put this?|-In the kitchen.
+{32487}{32523}Slowly, slowly.
+{33493}{33543}"Water goes round and round,
+{33545}{33610}"but it is destined|to return to its source. "
+{34464}{34528}"God will reward|he who feeds me. "
+{34607}{34713}Come, we must get our things.|-You do. I'm going for a swim.
+{41403}{41433}Sit down.
+{41505}{41585}Let's see.|This gift is for you.
+{41701}{41762}Jalabiyeh.|-Jalabiyeh.
+{41787}{41860}This jalabiyeh is from|a faraway land.
+{41908}{41953}The other way.|Like this.
+{42124}{42173}Nice?|-Yes.
+{42524}{42612}Put it on your head,|it covers your face.
+{42640}{42689}Except for your beautiful eyes.
+{44276}{44309}Yes.
+{44583}{44640}You look like|a married Bedouin woman.
+{44642}{44683}A married Bedouin woman.
+{44719}{44764}A married Bedouin woman.
+{51656}{51716}Mom, Mom.
+{51773}{51845}Mom, let's go.|-No, I don't want to.
+{51868}{51929}I don't want to go,|I want to stay here.
+{51931}{52017}But you'll dehydrate in the sun.|I'm going back with you.
+{52019}{52092}Going back where?|-Home. Let's go, Mom.
+{52130}{52230}The story. Don't you|want to hear the story?
+{52248}{52289}Another time.
+{52459}{52497}Mom!
+{52611}{52647}Sit down.
+{52688}{52775}I told you to call Mustafa!|And bring me a glass of water!
+{52785}{52824}I told you to sit down!
+{55271}{55322}If your tongue does not burn,
+{55380}{55428}you are innocent.
+{55607}{55648}Lick it.
+{55838}{55884}Show me your tongue.
+{56103}{56152}You too. Here.
+{56186}{56230}You are innocent.
+{56541}{56602}Hello.|-Greetings.
+{56677}{56749}How are you, Father?
+{56775}{56838}Why did you bring|the girl with you?
+{56851}{56920}I snatched her from the beach.|I want to marry her.
+{56923}{57022}You are married, my son.|She must go back to the beach.
+{57026}{57131}Choose any girl you want,|but no this one.
+{57134}{57208}Let's not discuss it right now...|-Now.
+{57212}{57296}Please, let's wait.|-I said, now.
+{57658}{57708}Listen, gentlemen.
+{57749}{57832}Nagim snatched a foreigner|and wants to marry her
+{57837}{57891}and make her a member|of our tribe.
+{57899}{58012}What do you say?|-No one will have her.
+{58035}{58080}He should take her back.
+{58082}{58210}Gentlemen! I asked my father|and I'm asking you.
+{58237}{58285}I want this girl to live with us,
+{58289}{58358}I will marry her|according to our religion.
+{58361}{58433}Just as a mountain does not|move from its location,
+{58435}{58495}the Bedouin's tradition|does not change.
+{58497}{58599}He who sells out|his honor
+{58633}{58771}shall be punished|by his forefathers.
+{58895}{58931}Sit down.
+{58995}{59088}Father, once a camel|is full-grown, it is sold.
+{59101}{59172}Once a son is full-grown,|he must be obeyed.
+{59300}{59333}Nagim.
+{59351}{59410}Do you know|what you are doing?
+{59426}{59484}I want to marry her.
+{59486}{59582}Nagim, my eldest son, is|humiliating me and insulting me
+{59584}{59632}at the purest of moments.
+{59651}{59702}Listen, everyone.
+{59780}{59892}I hope the Prophet, may he rest|in peace, forgive me for my words.
+{59894}{59950}Father, please.
+{59954}{60016}I must expel him from the tribe.
+{60071}{60092}Father.
+{60095}{60190}Go, now you are exposed to the sun|in the middle of the day
+{60206}{60260}with nothing to protect you.
+{60287}{60416}Go out to the desert|and dry out under the sun.
+{60428}{60536}I am taking my money, my power|and my honor away from you.
+{60736}{60849}You are not my son,|I don't know who you are.
+{65323}{65386}Make coffee for our guests.
+{65628}{65694}Welcome.|-How are you, Uncle?
+{65734}{65825}We would be honored|to have you eat with us.
+{65829}{65876}Thank you, Uncle.
+{65915}{65957}Please.
+{65963}{66005}After you.
+{66258}{66310}Do you like the food?
+{66335}{66369}Enjoy.
+{66385}{66474}Why are you eating so fast?|It's not healthy.
+{66613}{66714}We came from the small well,|we're continuing to the mountain.
+{66751}{66864}Please, do me a favor.|I want a camel.
+{66912}{66949}No problem.
+{67015}{67057}Thank you, Uncle.
+{67103}{67152}How is your father?
+{67227}{67273}Well, you know...
+{67278}{67309}Is he ill?
+{67382}{67482}He expelled me|and degraded me.
+{67501}{67546}Because of her?
+{68836}{68930}Stop crying!|Don't be afraid!
+{69022}{69168}You are a princess.|The people will support you.
+{69183}{69266}The tribe and the head|of the tribe support you.
+{69272}{69343}You will make a good wife.
+{69347}{69441}You will be a good wife.
+{69444}{69522}All the men will ask|for your hand in marriage.
+{69524}{69648}All the kings of the world|will want you.
+{69659}{69715}All the women will envy you.
+{69717}{69763}Purifiication is essential.
+{69765}{69869}All the wives of|the prophets were purifiied.
+{69875}{69942}The whole world|will smile at you.
+{69976}{70044}"In the name of|the merciful Lord,
+{70064}{70099}"King of Judgement Day,"
+{70101}{70191}"We are thy servants asking|for redemption"
+{70204}{70283}"Show us the path of truth|and guide us. Amen. "
+{70551}{70589}She is purifiied.
+{70599}{70668}Purifiication is|a precious thing to man.
+{70678}{70740}Purifiication is essential.
+{70772}{70849}Mom, have some water.|You must drink. You got sunstroke.
+{70938}{70981}Mom, drink.
+{70998}{71039}Move your hair away.
+{71065}{71092}Here.
+{73158}{73258}"And let them shave all|their flesh... " -Mom.
+{73291}{73330}Mom, what's going on?
+{73340}{73445}"And wash their clothes|and so purify themselves... "
+{73448}{73497}Mom, it's just a story.
+{73513}{73561}What's wrong?
+{73626}{73708}"To purify them, have them shave|all their flesh,
+{73710}{73781}"and wash their clothes|and so purify themselves... "
+{73783}{73862}What's going on, Mom? Stop it.|Have some water.
+{74156}{74265}Numbers, chapter 8, verse 7.
+{74380}{74443}Nagim, Nagim.|It's Leila!
+{74988}{75072}What's the matter?
+{77103}{77149}It was a windy day.
+{77182}{77249}I had never seen|such a strong wind.
+{77280}{77313}And I...
+{77360}{77427}who wanted to return to the beach,
+{77430}{77518}I didn't notice when|the sun rose or when it set.
+{77545}{77610}I didn't know in what|direction to look.
+{77637}{77775}All I saw before me was|an endless range of mountains.
+{79234}{79290}I'm going to get some things...
+{79413}{79459}No, no.|You stay here.
+{79568}{79645}There's a spring outside,|not far from here.
+{79891}{79983}Bye. Be careful.
+{83045}{83143}Are you hungry?|I'm starved.
+{83356}{83407}Here, eat.
+{83923}{84009}"Life is beautiful... "
+{84035}{84100}Your eyes look like a spring.
+{84464}{84496}Dress.
+{84708}{84751}Welcome.
+{85407}{85465}How is my mother, Abu Ahmed?
+{85520}{85562}Thank God, fiine.
+{85935}{85975}Please.
+{86099}{86197}Your father sent me
+{86212}{86283}to ask you to leave|this woman and come back.
+{86290}{86327}Come back.
+{86368}{86494}Abu Ahmed, I asked you and him,
+{86503}{86621}I want to live with her.
+{86637}{86729}But you insulted me.
+{86837}{86944}Listen, Nagim, there are|many women in this world,
+{86947}{87014}but you only have one father.
+{87031}{87186}If you want another woman, no|problem, but not an impure one.
+{87428}{87483}May God help me, Abu Ahmed.
+{91492}{91528}What is that?
+{91550}{91600}Get that snake away from here!
+{91607}{91700}Leila, it's over!|Everything is alright.
+{91752}{91816}Leila, calm down.
+{92143}{92178}What's wrong with her?
+{92192}{92226}She must drink.
+{92230}{92297}The devil is inside her,|she must drink.
+{92357}{92482}Make her drink,|the devil is inside her.
+{92513}{92550}Drink.
+{93123}{93215}"The snake is not a female. "
+{93219}{93284}What does that mean?|-Your wife is a snake!
+{93288}{93388}If you want her to live,|you must purify her.
+{96266}{96346}Enough, Leila. Enough.
+{96473}{96553}Enough, Leila. Enough.
+{96616}{96667}Enough.
+{97428}{97470}What brings you here?
+{97475}{97530}Did you come to make trouble?
+{97533}{97605}Your end will not be a good one.
+{98014}{98073}I don't want to see you like this.
+{98080}{98152}What do you want?|Where did you come from?
+{98378}{98449}In the name of|the merciful Lord...
+{98475}{98531}You must be chaste.
+{98610}{98713}You enchanted the sheikh's|son because you are blonde.
+{98744}{98807}Why did God send you to us?
+{98874}{98954}"Show us the path of|truth and guide us. Amen. "
+{99002}{99092}Abu Ahmed, stop her! Enough!
+{100100}{100142}It hurts,
+{100183}{100252}it burns, it burns...
+{100317}{100375}It burns...
+{100483}{100543}Mom, Mom.
+{100637}{100680}It burns...
+{109738}{109796}Mom, Mom.
+{109818}{109886}Mustafa will take us,|we're going home.
+{111307}{111414}I must go. -Mom, I don't need|him. I don't want to see him.
+{111419}{111508}I'm begging you. Let's go home. |Let's go back.
+{118286}{118395}So far, 130,000,000 women
+{118438}{118503}3,000,000 women every year
+{118534}{118581}8,000 women every day
+{118582}{118686}have their bodies mutilated|in the name of tradition.
+{118697}{118800}This fiilm cries out|on their behalf.

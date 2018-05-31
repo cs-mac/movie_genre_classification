@@ -1,0 +1,640 @@
+{1}{1}23.976
+{29}{57}Fuck me!
+{62}{133}Well, I would,|but somebody beat me to it.
+{258}{312}Cool.
+{638}{777}Listen. Dad, I know|that was a little bit awkward, but I...
+{779}{841}I just hope you used one.
+{843}{921}- One what?|- Used something... That you used something.
+{923}{949}Something.
+{951}{1005}Used a... You know what I'm...
+{1007}{1055}Used a rubber or something like that.
+{1079}{1107}- But...|- Protection!
+{1109}{1227}Oh, uh... But we didn't, uh...
+{1229}{1294}'Cause I'm gonna tell you something.|Herpes isn't a picnic.
+{1296}{1373}It's not a river-rafting trip either, like|they want you to think on that commercial.
+{1375}{1423}- River rafting? - Everybody's|having fun with their herpes out there.
+{1425}{1463}- What?|- You know what?
+{1465}{1543}"Ix-nay" on the "oodle-day. " That's it.
+{1545}{1616}- "Oodle-day"? - You know what I|mean. I don't want you near that...
+{1617}{1697}Don't... Just stay away from the whole...
+{1741}{1812}- pen... penile area.|- Dad.
+{1813}{1869}Don't even see him anymore.|Don't even see him anymore.
+{1871}{1931}- That's it. You can't see him anymore.|- Or what?
+{1933}{1996}What are you gonna do, ground me?|I'm 22 years old.
+{1997}{2060}Oh, really? Well, you're|forgetting you live in my house.
+{2061}{2151}Well, trust me.|I'm doing everything I can to change that.
+{2405}{2452}- Yeah?|- Yeah.
+{2453}{2520}My name's Bill. And I'm a little upset...
+{2522}{2579}to say the least, if you know what I mean.
+{2613}{2659}Okay.
+{2661}{2744}Someone stole two boxes|of my Buckle-O-Bill belt buckles.
+{2746}{2798}World renowned, uniquely crafted.
+{2800}{2847}Word on the street is|you're trying to sell 'em.
+{2849}{2928}You talking about this? This here?
+{2929}{3008}No, no, no. I bought this|legit from Gary the Buckle Man.
+{3010}{3056}I don't know Gary the Buckle Man!
+{3058}{3116}I know you're trying to take|food out of my kid's mouth.
+{3117}{3188}I don't even have a kid.|But if I did, you're taking his food!
+{3190}{3243}- Uh-uh.|- I want my buckle!
+{3245}{3291}- Hey!|- Hey! Hey!
+{3293}{3343}I need at least three feet|of personal space here.
+{3345}{3404}- It's my buckle!|- I'm gonna paralyze you!
+{3457}{3504}Crazy, man.
+{3506}{3555}It's my Delaware!
+{3557}{3625}Two fingers. Two. That's all it takes.
+{3627}{3673}{Y:i}I will call the cops, man!
+{3713}{3788}{Y:i}#I don't know #
+{3790}{3877}{Y:i}#Where I belong #
+{3879}{3957}{Y:i}#And I don't know #
+{3959}{4020}{Y:i}#Where I should go #
+{4022}{4130}Wait. So, you're gonna be a P.A. now?
+{4132}{4196}It's just temporary. Our|neighbor hooked it up.
+{4198}{4260}Wait. Rico Suave from across the street?
+{4262}{4335}That... That old dude|who wears the low-rise jeans?
+{4337}{4420}What? He's 34. He's not that old.
+{4422}{4468}Very specific information you have there.
+{4559}{4583}Hey.
+{4658}{4735}So, uh, tomorrow night?
+{4737}{4792}{Y:i}- Yeah? - I wrote|a little "something something" for you.
+{4794}{4828}{Y:i}- For me?|- Oh, yeah.
+{4830}{4876}{Y:i}- Shut up!|- Yeah, you want a little sneak preview?
+{4878}{4968}{Y:i}- Okay.|- Okay.
+{4969}{5085}# Ryden is beautiful|It's true #
+{5087}{5192}{Y:i}#'Cause she's got eyes ofblue #
+{5194}{5316}# But then one day I tried to kiss you #
+{5318}{5435}#And you said|Oh, n-n-no #
+{5537}{5597}{Y:i}- You're an idiot.|- You love me.
+{5599}{5645}Anyway, so here's the deal.
+{5647}{5746}{Y:i}Tomorrow night, me, you...
+{5788}{5820}that dress.
+{5925}{5960}Zip me.
+{5962}{6021}Uh, yeah. Um...
+{6023}{6116}So, first of all, I'm just gonna rock|the socks off everyone at that show.
+{6118}{6207}Second, you're gonna throw your bra onstage,|just scream like a little girl.
+{6209}{6272}Um... There.
+{6366}{6465}And third,|we're gonna go out to a big, fancy dinner.
+{6467}{6517}- Multiple forks... everything.|- We are?
+{6519}{6552}- Yeah.|- Why?
+{6579}{6680}To, uh, celebrate your new quasi job thing.
+{6682}{6742}- Just to celebrate?|- Yeah.
+{6744}{6797}- That sounds fun.|- Uh, it sounds...
+{6799}{6864}"fan-crapping-tastic,"|is what it sounds like.
+{6869}{6932}{Y:i}Making guacamole for your family...
+{6934}{6988}{Y:i}orjust for yourself used to be a fight.
+{6989}{7105}But now, with the Guacanator...|the Guacanator 3000...
+{7107}{7213}{Y:i}making guacamole is as|easy as uno, dos, tres!
+{7255}{7393}Senor Avocado... he no stand a chance|against the grips of the Guacanator.
+{7486}{7540}The only assault will be|against your taste buds!
+{7542}{7597}{Y:i}Got it. Got it. Okay, cut!
+{7599}{7661}{Y:i}Okay, I got it. All right.
+{7663}{7737}{Y:i}- And we're clear. - This mustache|is crap. The hairs are going in my mouth.
+{7739}{7787}- I can swear I swallowed a couple.|- Oh, I'm sorry.
+{7789}{7835}We'll take care of that in a sec, all right?
+{7837}{7899}{Y:i}- Thanks.|- Okay, everyone, take five.
+{7925}{7975}{Y:i}- Take a fiver.|- There she is.
+{7977}{8073}- Hey. - How's the first day|going? As shitty as I promised?
+{8075}{8153}- It's not so bad.|- Well, just wait.
+{8155}{8229}Ah. Psst. Bro. Hey, bro! Yo, dude.
+{8231}{8291}Can I talk to you for a second before|you shoot anything else?
+{8293}{8339}Well, this should be fun.
+{8391}{8448}{Y:i}The script is like a|road map, but the road map...
+{8450}{8524}Can you talk to the catering people? The|meat on this sandwich smells like ass-crack.
+{8526}{8565}- Oh, okay.|- First of all, you're really close.
+{8567}{8654}So, congrats. Bones. Awesome. Sweet.
+{8656}{8712}We're getting so close,|but I just wanna go from the top.
+{8714}{8776}A couple things to make this double awesome.
+{8778}{8860}Give me more Mexican. I gotta get|more Mexican. You know what I mean?
+{8862}{8937}I gotta... Oh! I wanna be|on or across the border.
+{8939}{9041}You know what I mean? "Mexi-can. " Not|"Mexi-can't" or "Mexi-could. " "Mexi-can. "
+{9043}{9121}Like any of that flavor,|literally and figuratively, into it.
+{9123}{9153}- Awesome.|- All right.
+{9155}{9225}Second of all, your shots are boring, bro.
+{9253}{9311}Seriously. Here's an idea.
+{9313}{9373}{Y:i}Did you ever see The Matrix?|Movie about, like, alternative reality.
+{9375}{9457}{Y:i}Okay, that shot... Keanu's, like, up in|the air... Bam! He's in the air. Freeze.
+{9459}{9513}360-degree shot... Bam, bam, bam, bam.
+{9515}{9592}Remember what I'm saying? Yeah, like that.|That's exciting. That's awesome.
+{9594}{9652}But check this out. Instead of Keanu...
+{9653}{9739}it's the Guacanator is up in the air,|and you shoot around it, like, 360, 720.
+{9741}{9794}Like, change the axis.|Like, people are totally gonna blow minds.
+{9796}{9837}{Y:i}Matrix. That's a great idea. Yeah.
+{9839}{9897}- Thank you. I wasn't fishing for that.|I appreciate it. - Maybe while I'm at it...
+{9899}{9947}- I could...|- Bring it. Bring it.
+{9949}{10044}Maybe we could hoist it up on a cross...
+{10046}{10123}{Y:i}and we have The Passion of the Guacamole.
+{10125}{10200}Okay. I get it. Do you think that's funny?
+{10201}{10264}I think you're an idiot.
+{10265}{10312}And I quit.
+{10337}{10400}{Y:i}- Told you... Hollywood.|- Can you hear me?
+{10401}{10448}- Let's go.|- I think I have the wrong channel.
+{10449}{10493}- What?|- Let's go.
+{10495}{10548}Hey. Hey, catch.
+{10549}{10624}Hey, whatever.|All right, I'm gonna shoot this.
+{10625}{10704}{Y:i}Can you put him back in the ring?|I got an idea.
+{10705}{10760}{Y:i}- You're fired!|- Thank you!
+{10765}{10838}{Y:i}#She don't know who she is #
+{10840}{10908}{Y:i}#Oh, I can take her anywhere #
+{10909}{10981}For years I had to deal with|this kind of stupidity.
+{10983}{11029}Come on. Can you believe it?
+{11031}{11123}{Y:i}I mean, you can't imagine how many times|I just wanted to walk off set like that.
+{11125}{11219}- My God, I just walked off set.|- Yeah.
+{11221}{11282}And it looks like I just lost another job.
+{11333}{11399}That feels good. That feels great!
+{11401}{11456}{Y:i}#With you eventually #
+{11908}{12043}{Y:i}#'Cause I am always where I need to be #
+{12045}{12103}{Y:i}#A nd I always thought #
+{12105}{12136}Come on.
+{12137}{12217}{Y:i}- #I would end up with you eventually #|- Olé! Olé!
+{12409}{12470}{Y:i}Can we go? You guys ready?
+{12472}{12554}- Where's your guy? Who's your singer?|- Yeah, he's right behind you.
+{12556}{12602}Hey, man, you're on.
+{12849}{12932}You guys good?
+{12934}{13000}So, my name is Adam Davies.
+{13001}{13052}I hope this doesn't make|anyone too uncomfortable...
+{13053}{13136}but I'm completely naked|under these clothes.
+{13138}{13212}This song is for someone...
+{13214}{13298}I, um, care about a lot.
+{13393}{13424}Ready?
+{13818}{13887}# I'm counting the streetlights #
+{13913}{13977}# It's all I can do #
+{14009}{14085}#While driving myself crazy #
+{14087}{14155}#Trying to get to you #
+{14193}{14272}# Feels wrong at the right times #
+{14274}{14356}{Y:i}#To reveal my hand #
+{14388}{14456}# I'm doing the worst I can #
+{14458}{14540}#To make you understand #
+{14586}{14696}{Y:i}#Maybe one day you will know #
+{14761}{14847}# How hard it is for me to #
+{14849}{14912}#Show my heart #
+{14957}{15004}#With all the love #
+{15033}{15104}# Running through my soul #
+{15149}{15268}# Maybe one day you will know #
+{15372}{15465}You know what I thought when I met you?
+{15467}{15513}No.
+{15563}{15688}{Y:i}- Aside from the incredible ears,|she's smart and stunning. -
+{15690}{15748}- Absolutely stunning.|- Hmm.
+{15750}{15796}But there was something else.
+{15857}{15925}I just saw a girl that has the whole world|at her fingertips...
+{15927}{15984}and she doesn't even know it.
+{16034}{16058}www.frendz4m.com
+{16082}{16106}www.frendz4m.com
+{16130}{16154}www.frendz4m.com
+{16178}{16202}www.frendz4m.com
+{16995}{17027}Good night.
+{17388}{17434}Oh, my God.
+{17436}{17522}Oh, I'm such an idiot. I completely forgot.
+{17524}{17571}- It's cool.|- Oh, I'm so sorry.
+{17601}{17637}How was it?
+{17661}{17747}Great. Fine, good... I...
+{17749}{17837}And our dinner... I missed our fancy dinner.
+{17839}{17935}You're getting overly worked up about this,|Ryden. It's...
+{17937}{17984}It's cool.
+{17985}{18051}Besides, you were clearly busy with...
+{18053}{18100}Pelé from across the street.
+{18102}{18162}Oh, no, he... We were at work...
+{18164}{18235}- and then there was this big blowup,|so we left, but it was... - Uh-huh.
+{18237}{18323}Awesome. I'll see you later.
+{18324}{18414}- Wait. What are you doing?|- What does it look like?
+{18416}{18469}Just let me explain.
+{18522}{18568}What exactly needs explanation?
+{18570}{18618}The fact that I've been|waiting around like a moron...
+{18620}{18711}hoping that one day you'll actually|feel about me the way I feel about you?
+{18712}{18774}Or the fact that you're so obsessed|with your future...
+{18776}{18888}that y-you completely forget about everyone|that you're supposed to give a shit about?
+{19002}{19111}I'm not waiting anymore. I'm done.
+{19212}{19316}I may not know exactly what my future|looks like, but I do know one thing.
+{19396}{19443}You're not in it.
+{20042}{20090}Oh...
+{20224}{20287}...say can and will be used against|you, okay? - I didn't know they were hot.
+{20289}{20343}- You have the right to an attorney.|- Bought them on the Internet.
+{20344}{20395}Can't afford one, one will|be provided to you by the state.
+{20396}{20432}This is so stupid. I can't...
+{20453}{20500}Didn't have to be this way.
+{20501}{20560}{Y:i}Grab your brother. Get him in the car.
+{20562}{20616}Come on, honey.|Come on. Let's go get in the car.
+{20618}{20664}I had absolutely nothing to do with this.
+{20666}{20743}You can ask anybody,|and they'll tell you. I hate crime.
+{20745}{20806}It's okay. It's okay.
+{21130}{21203}The good news is your husband|doesn't have any priors.
+{21205}{21253}The bad news is we're|gonna have to hold him.
+{21255}{21319}Trafficking stolen|property is no small crime.
+{21321}{21388}- The bail won't be set till tomorrow.|- You're keeping him overnight?
+{21390}{21457}- But he's not a criminal. He's|just a moron. - That's the breaks.
+{21506}{21613}I told you. I told you in|1976. Do not marry Walter Malby.
+{21615}{21656}{Y:i}He's your son.
+{21658}{21720}- And I did the best I could with|what I had. -
+{21722}{21833}Yeah, well, your best effort is in jail|till tomorrow morning.
+{21835}{21935}Hey. Pick up. I've called you 80 times.|I'm really, really sorry.
+{21937}{22019}I... Call me back.
+{22020}{22115}Where's Dad? I wanna go home.
+{22353}{22400}Try and have a good one, all right?
+{22502}{22583}Mrs. Malby? Miss?
+{22585}{22630}{Y:i}Yes? Yes?
+{22632}{22678}{Y:i}- Hey, morning. How you doing?|- Hi. Morning.
+{22680}{22771}{Y:i}Um, so, basically, in order to bail him out,|you're looking at 15,000 bucks.
+{22772}{22843}- Oh, my God. What? - Or he stays|in the slammer until the trial.
+{22844}{22892}Oh, God.
+{22924}{22977}$15,000.
+{23058}{23104}Well, let's go home.
+{23141}{23187}- Maureen?|- What?
+{23189}{23247}Wait.
+{23248}{23303}Cough it up.
+{23305}{23337}Cough what up?
+{23339}{23413}Pay the man your son's bail money.
+{23415}{23479}Are you crazy?
+{23481}{23556}You think if I had that kind of dough|I'd be living with you?
+{23558}{23633}Cut the baloney, Maureen. Please.
+{23635}{23744}I know you have money.|I know you sew it into your panty hose.
+{23746}{23816}And I know you've got|it under your mattress...
+{23817}{23911}{Y:i}and shoved up inside|every shoe in your closet.
+{23913}{23960}Pay the man.
+{24018}{24121}Why can't my family just|love me for my soul...
+{24123}{24216}instead of my meager possessions|and my bank account?
+{24217}{24275}Well, I love your soul, Grandma.
+{24607}{24707}Okay, um... Will you take a check,|or do you want the green stuff?
+{24782}{24830}{Y:i}I'm free!
+{24871}{24916}I'm free!
+{24966}{25056}Look at the sky.|Can you see how blue the sky is?
+{25081}{25156}This entire experience has transformed me.
+{25158}{25221}I am a new man. The old Walter is dead.
+{25223}{25304}But the new Walter|wants to say how much I love you guys.
+{25305}{25357}I'm a new man, and we're a new family.
+{25359}{25448}{Y:i}I mean, look,|we have our problems. What family doesn't?
+{25450}{25484}I know I get to be bullheaded. And,
+{25485}{25569}you know, Ryden here is|essentially unemployable.
+{25570}{25600}Hmm?
+{25601}{25684}Hunter licks people, and...
+{25686}{25780}Grandma's very, very...
+{25782}{25828}very... kind.
+{25829}{25876}So kind.
+{25877}{25987}{Y:i}But, no matter what, we're a family.|We're a real family.
+{25988}{26049}We're the Malbys, damn it.
+{26081}{26167}From now on, it's Malby time.
+{26169}{26268}Malby! Malby! Malby!
+{26270}{26339}Malby! Malby! Malby!
+{26340}{26410}Malby! Malby! Malby!
+{26412}{26500}Malby! Malby! Malby! Malby!
+{26501}{26572}Malby! Malby! Malby!
+{26573}{26653}Malby! Malby! Malby!
+{26721}{26796}That's all right, honey.|I'll just take a cab over to the curb.
+{26798}{26855}{Y:i}- Malby!|- Grab my purse.
+{26856}{26907}- My purse. - Did you leave it|at the police station, Maureen?
+{26909}{26969}{Y:i}- No, I didn't leave... I thought|you had it. -
+{26971}{27022}{Y:i}- I don't have your purse.|- Adam?
+{27024}{27108}- I'm looking for Ryden Malby.|- That's me.
+{27110}{27186}This is Barbara Snaff|from Happerman & Browning.
+{27188}{27282}Listen, the position you interviewed for|just came available again.
+{27284}{27347}You wanna fire me? Fine. I don't care.
+{27348}{27428}I'm gonna own this town. And I'm gonna come|back, and I'm gonna take you down.
+{27429}{27492}Wait... Wait, are you serious?|You're offering me the job?
+{27494}{27588}Yes. Absolutely. When can you start?|The job is yours if you want it.
+{27589}{27652}Immediately! Absolutely, yes.
+{27654}{27728}Great. I'll have my assistant call you|with all the details.
+{27730}{27782}- Thank you. Perfect.|- She's not there anymore.
+{27784}{27851}- Guys, I got the job! I got the job!|- Yea!
+{27852}{27936}{Y:i}- Does it pay? Does it pay?|- Yeah, it pays!
+{27938}{28011}- Malby! Malby!|- Malby! Malby!
+{28013}{28063}- Malby! Malby!|- She got a job!
+{28173}{28204}Okay.
+{28326}{28396}Yo, it's Adam. You know what to do.
+{28420}{28495}Okay. Silent treatment. I get it.
+{28497}{28588}{Y:i}Very fifth grade of you. But very effective.
+{28590}{28686}{Y:i}Please call me. Please?
+{29026}{29094}Yo, it's Adam. You know what to do.
+{29129}{29176}All right.
+{29210}{29282}Just... call me when you're ready.
+{29712}{29770}Yo, yo.
+{29772}{29836}I got him. I got him.
+{29838}{29925}{Y:i}Yeah, yeah, go. Go, Adam.|Take it in. Take it in.
+{29927}{29951}{Y:i}Yes!
+{29952}{30019}- Nice shot.|- All right. Check ball.
+{30020}{30084}{Y:i}I'm open right here.
+{30294}{30361}Someone once told me that every...
+{30363}{30418}evil, horrible thing in the world...
+{30420}{30531}can be directly counteracted by|the joy of a simple dessert.
+{30532}{30590}{Y:i}I'm really sorry, Adam.
+{30592}{30617}I know you don't wanna talk to me,
+{30618}{30691}but I really have something|to tell you. I wish you...
+{30692}{30731}Hold on a second.
+{30760}{30828}If you don't forgive|me, I will follow you...
+{30830}{30911}{Y:i}everywhere you go,|playing this extremely annoying song...
+{30912}{30981}till you slowly go insane.
+{31052}{31100}Okay. Just make it stop.
+{31101}{31149}Ha!
+{31233}{31284}{Y:i}How do you steal an ice cream truck?
+{31286}{31326}Borrow.
+{31328}{31388}My dad knows a guy that knows a guy, so...
+{31390}{31432}Of course.
+{31483}{31519}Look.
+{31617}{31663}I'm good.
+{31735}{31797}I'm so sorry I flaked on you, Adam.
+{31799}{31859}You would never do anything like that to me.
+{31860}{31908}And I've been thinking a lot about...
+{31910}{31976}- I accept your apology.|- Wait. You have to let me get this out.
+{31977}{32048}I have been thinking a lot|about what you said...
+{32049}{32141}and I think you just...|maybe you just threw me because...
+{32143}{32204}Look, it's fine.
+{32206}{32289}Really, it's... It's all good.
+{32291}{32375}I'm just...|You know, I'm in the middle of a game.
+{32377}{32425}- Yo.|- Well, wait.
+{32427}{32506}Um, do you wanna,|I don't know, hang out later? Um...
+{32508}{32572}Oh, we could celebrate,|'cause I didn't get a chance to tell you...
+{32573}{32625}but I got that job at Happerman & Browning.
+{32684}{32733}That's awesome.
+{32735}{32783}Uh, I...
+{32784}{32859}But I can't get together later,|'cause I kind of need to pack.
+{32860}{32911}Pack?
+{32956}{33010}Yeah. Uh...
+{33012}{33059}Look, I didn't get a chance to tell you...
+{33060}{33117}but I decided to go to Columbia.
+{33168}{33237}And I'm leaving tomorrow.
+{33239}{33324}What? You're going to law school?
+{33326}{33372}In New York?
+{33374}{33423}Yeah.
+{33453}{33504}That's...
+{33506}{33575}That's... so great.
+{33576}{33636}- Congratulations. - Yeah, I think|it'll be... I think it'll be good.
+{33717}{33765}Look, I promise I'll call you...
+{33767}{33831}as soon as I get settled in, okay?
+{33832}{33882}{Y:i}- Okay.|- Let's go.
+{33884}{33932}{Y:i}Come on, Adam. Ball in. Ball in. Ball in.
+{33934}{33992}{Y:i}Hold up.
+{33993}{34036}{Y:i}- Our ball.|- All right.
+{34144}{34207}{Y:i}- Our ball.|- Check it up. Check it up, Adam.
+{34231}{34260}Our ball.
+{34348}{34395}All right.
+{34477}{34507}Ball.
+{34574}{34620}Okay.
+{35335}{35388}Hi. I'm Ryden Malby. I'm...
+{35390}{35453}The new assistant to the editor. Yes.|One sec. I'll get Lloyd.
+{35455}{35524}{Y:i}I've got Ryden. Thanks.
+{35548}{35599}Well, here it is. Home, sweet home.
+{35601}{35660}- That's the mail cart.|- Great. Well, perfect.
+{35662}{35724}Is there any material|you want me to start to read or...
+{35726}{35766}No. Reading's on your own time.
+{35768}{35863}Jessica was a shit filer,|so we're a little backed up on submissions.
+{35865}{35951}I see that.|What happened to Jessica anyway?
+{35959}{36037}Well, we had a little bit of|a misunderstanding, she and I.
+{36038}{36086}You see, I thought that|she worked for me.
+{36093}{36137}She thought she was running|the company.
+{36141}{36175}- Sounds like Jessica.|- Mm-hmm.
+{36192}{36239}- Ready to go?|- Yep, I'll get right on it.
+{36243}{36304}You know you're gonna have to enter every|one of these into the database, right?
+{36306}{36352}Okay. Absolutely. Yeah.
+{36524}{36592}- Hi.|- Oh!
+{36593}{36644}Of course.
+{36646}{36692}{Y:i}#Apicture paints a thousand words #
+{36694}{36784}{Y:i}#As one door closes|another door opens #
+{36786}{36851}{Y:i}#And two wrongs don't make a right #
+{36852}{36920}{Y:i}#Now, good things come to those who wait #
+{36921}{36973}{Y:i}Okay. I've got it right here.
+{36975}{37051}My life is a shit-storm. I got way|too much crap to keep in my own brain.
+{37052}{37083}So, what do I do?
+{37313}{37388}{Y:i}- #Say what you say # - I think|those two books are totally different.
+{37390}{37464}{Y:i}- #Do what you do #|- Different enough.
+{37466}{37552}{Y:i}#Feel what you feel as long as it's real #
+{37554}{37614}{Y:i}#I said take what you take #
+{37616}{37708}{Y:i}#And give what you give|Just be what you want #
+{37709}{37769}{Y:i}#Just as long as it's real ##
+{37881}{37955}When are you gonna build my boxcar?
+{37956}{38003}Get the puppet out of my face.
+{38052}{38141}Come on. All the|other kids' dads are practically done.
+{38198}{38246}Fine. Forget it.
+{38358}{38437}Hunter. Wait a minute.
+{38716}{38764}When's that race again?
+{38765}{38820}- Saturday.|- Saturday.
+{38848}{38896}Saturday.
+{38973}{39036}Go get your mother, your grandmother.
+{39038}{39120}We need every able-bodied man|we can get. Go.
+{39210}{39269}- Just move all my Thursday|appointments to Friday. - Okay.
+{39271}{39324}Oh, and you're gonna wanna get|some beauty sleep this weekend...
+{39325}{39392}'cause I want you to sit in|on the Asia conference on Monday morning.
+{39394}{39422}- Really?|- Mm-hmm.
+{39424}{39495}- Oh, great. I'd love to. That'd be great.|- Great.
+{39496}{39563}- Oh, you forgot one. Sign and date. There.|- Oh. Okay.
+{39564}{39635}- All right. "Buenos nachos. "|- Good night.
+{39636}{39692}Hey, try to get out of here|by 9:00 tonight, will you?
+{39694}{39740}- Okay.|- All right.
+{39764}{39800}{Y:i}#Far, far#
+{39802}{39848}{Y:i}#T here's this little girl #
+{39850}{39965}{Y:i}#She was praying for something|to happen to her#
+{39967}{40110}{Y:i}#The reality looks far now|but don't go #
+{40112}{40217}{Y:i}#How can you stay outside #
+{40219}{40305}{Y:i}#There's a beautiful mess inside #
+{40307}{40394}{Y:i}#How can you stay outside #
+{40396}{40503}{Y:i}#There's a beautiful mess inside #
+{40504}{40573}{Y:i}- #Mmm, mmm ##|- I got this job...
+{40575}{40641}this incredible job.
+{40643}{40733}And I'm working my ass off.
+{40735}{40792}But I always expected that.
+{40819}{40872}What are all the boxes for?
+{40873}{40932}Moving back to Brazil.
+{40934}{40980}Are you serious?
+{40982}{41040}Yeah. My life is there.
+{41042}{41092}I haven't seen my family in ages.
+{41094}{41197}And I come home every night to what?
+{41199}{41273}I guess I finally realized that...
+{41275}{41369}what you do with your life|is really just one half of the equation.
+{41400}{41452}The other half...
+{41453}{41520}the more important half really, is...
+{41521}{41576}who you're with when you're doing it.
+{42181}{42219}Okay, come on! Come on.
+{42221}{42293}Come on.|You got plenty of room. You got miles.
+{42295}{42323}{Y:i}Oh, geez!
+{42420}{42473}Don't tell me that's another cat.
+{42625}{42711}Oh, geez.|Hey, keep this on the down-low, Mom.
+{42713}{42768}It's one of those goofy gnomes.|Don't tell Carmella.
+{42770}{42826}{Y:i}- Hunty? Come on, Hunty.|- He broke the gnome.
+{42828}{42908}- Oh, sugar.|- Jesus! What'd I just say?
+{42932}{42979}{Y:i}Hand me...
+{42980}{43016}What's going on?
+{43042}{43088}Get dressed. We're late.
+{43090}{43140}We need all the manpower we can get.
+{43142}{43196}{Y:i}But what if I don't drive good?
+{43197}{43284}Hey. Hey, you're a Malby.
+{43286}{43363}Driving is in your blood. Okay?
+{43364}{43439}Come on. Come on, let's go.|We gotta go. Come on!
+{43440}{43514}{Y:i}- And it's "drive well,"honey, not|"drive good. " - Wait. Don't drive good?
+{43516}{43592}Proper English is "drive well. "|I want you to drive well.
+{43593}{43661}{Y:i}Ladies and gentlemen,|please turn your attention...
+{43663}{43742}{Y:i}to the starting ramp|for the last event of the day.
+{43744}{43800}{Y:i}This is the one you've been waiting for...
+{43802}{43934}{Y:i}the final race for the 9th Annual|P. T.A. Boxcar Derby.
+{43936}{44014}{Y:i}Racers and their teams,|please take your marks.
+{44114}{44163}{Y:i}Let's go, Raymond!
+{44484}{44536}All right. How you feeling?
+{44538}{44599}{Y:i}- Look at Hunter!|- Go, Hunty!
+{44601}{44647}Go! Go!
+{44648}{44687}Are you focused?
+{44688}{44765}Balls to the wall.|Don't tell your mom I said that.
+{44767}{44800}Smoke 'em. Go get 'em.
+{44802}{44861}{Y:i}Balls to the wall, Hunty!
+{44887}{44933}All right, let's go!
+{44959}{45009}Come on! Go!
+{45042}{45120}{Y:i}- Dad! Dad!|- Brake! Pull the brake back!
+{45122}{45164}{Y:i}- What?|- The brake!
+{45165}{45232}{Y:i}Go, Hunter! Go! Go!
+{45283}{45328}Yeah! Go get 'em!
+{45330}{45363}{Y:i}Go!
+{45387}{45423}Go!
+{45424}{45477}{Y:i}- Walt,|watch your ankle! - Go! Go!
+{45585}{45656}{Y:i}#Here's to you, honey #
+{45658}{45713}{Y:i}#But I'm out of your league #
+{45752}{45807}{Y:i}#Y ou're never gonna pass me #
+{45808}{45879}{Y:i}- #' Cause I'm out of your league #|- Go! Get in there!
+{45880}{45939}{Y:i}#L ooky here, baby #
+{45940}{46027}{Y:i}#You're comin'my way #
+{46028}{46115}{Y:i}#But I move like a landslide #
+{46116}{46197}{Y:i}#So I get out of my way|and stay away #
+{46199}{46251}{Y:i}#Up from the floor|on the count of 10 #
+{46252}{46332}{Y:i}#Oh, you get up, you get down|and you try again #
+{46334}{46394}{Y:i}#Up and down and around again #
+{46396}{46483}{Y:i}#Oh, you get up, you get down|and you try again #
+{46485}{46532}{Y:i}#Up and down and around again #
+{46534}{46616}{Y:i}- #Oh, you get up you get down|and you try again # -
+{46617}{46691}{Y:i}#You get up, you get down|and you try again #
+{46692}{46784}{Y:i}#Get up, you get down|and you try again #
+{46785}{46844}{Y:i}- #You get up, you get down|and you try again ## - Yeah!
+{47175}{47199}Whoa!
+{47201}{47247}- Come on! Let's go!|- Excuse me.
+{47248}{47292}Dad!
+{47293}{47351}{Y:i}Dad!
+{47651}{47688}Oh!
+{47927}{47995}{Y:i}Thank goodness. You okay?
+{48043}{48112}By the way, you won!
+{48205}{48257}- Wow! Look at that.|- That-a-boy!
+{48259}{48297}- Come on. Up, up.|- That's okay.
+{48299}{48323}- No?|- Not today.
+{48324}{48348}Okay.
+{48350}{48415}- That-a-boy.|- Let me see. Let me see.
+{48416}{48466}{Y:i}- It's so cool.|- Look at that.
+{48613}{48651}- Right.|- Mm-hmm.
+{49420}{49467}Mom, Dad...
+{49799}{49886}Sure you don't wanna get a little shut-eye|and see how you feel in the morning?
+{49888}{49934}Nope.
+{50034}{50113}Just out of curiosity though,|do you think I'm making the right decision?
+{50260}{50360}Well, you know,|ever since you were a little kid...
+{50361}{50408}you always seemed to have it figured out.
+{50409}{50462}You know, you made good grades, you...
+{50464}{50552}kept your room neat and clean,|you ate your vegetables.
+{50600}{50646}Can I be honest with you?
+{50648}{50704}I always found it a little troubling.
+{50706}{50789}{Y:i}Because, see, hon...
+{50822}{50868}the world's a screwy place.
+{50870}{50919}It doesn't play by the rules.
+{50964}{51032}So if you're asking me...
+{51034}{51114}do I think it's a good|idea for you to, uh...
+{51116}{51174}quit your job...
+{51176}{51222}leave behind the only family you have...
+{51224}{51286}and travel 3,000 miles...
+{51288}{51335}to a place you've never been before?
+{51417}{51489}I think it's the most kick-ass idea|you've ever had.
+{51553}{51656}'Cause I think no matter where you are,|you're gonna knock 'em dead.
+{51717}{51764}Thanks, Dad.
+{51908}{51936}- See ya.|- Okay.
+{51938}{51985}- Love ya, honey.|- Love ya. Bye.
+{51987}{52035}No good-byes. Just see you later.
+{52037}{52100}You be careful in New York.|There are a bunch of kookies there.
+{52102}{52160}- Okay, I will.|- Call me frequently, okay?
+{52162}{52230}- Okay. - I've got you on my|speed dial, and you're on mine.
+{52232}{52278}{Y:i}- # Show me the world #|- Okay. Okay, bye.
+{52280}{52362}{Y:i}- #In the shape of your looking glass #|- Bye.
+{52364}{52455}{Y:i}#Beautifully bold when the colors unfold #
+{52456}{52551}{Y:i}#Yes, it's easy to see #
+{52552}{52599}{Y:i}#But it's harder to find #
+{52600}{52675}{Y:i}#And I'm thinkin'of you #
+{52676}{52743}{Y:i}#And it's clear in my mind, so I #
+{52744}{52843}{Y:i}#Turn, turn, turn #
+{52844}{53000}{Y:i}#I turn back around #
+{53002}{53087}{Y:i}#And turn, turn, turn #
+{53089}{53216}{Y:i}#I turn back around #
+{53218}{53316}{Y:i}#And I'm eastern bound #
+{53428}{53475}Thanks.
+{53549}{53668}{Y:i}#Almost let slip all these words|in my fingertips #
+{53670}{53724}{Y:i}#Still unaware #
+{53725}{53811}{Y:i}#Of the pen in my hand, but I'm #
+{53813}{53932}{Y:i}#Makin'my way day by day|comin'back to you #
+{53934}{54055}{Y:i}#Here, unafraid of the path|that I choose, so I #
+{54056}{54148}{Y:i}#Turn, turn, turn #
+{54150}{54266}{Y:i}#I turn back around #
+{54268}{54348}{Y:i}#And that's where you are found ##
+{54521}{54560}Hey.
+{54562}{54616}Life sucks without you.
+{54617}{54699}I miss you. I...|Well, of course I miss you. I...
+{54700}{54785}I knew that I would, but it's not like a...
+{54787}{54868}"Hey, we had some great times...|you know, keep in touch" kind of thing.
+{54870}{54991}It's... It was more like,|"I can't eat... I can't sleep...
+{54992}{55091}I forget what it feels like to laugh"|kind of thing.
+{55092}{55187}And I really think that when you left...
+{55188}{55244}you took my heart with you.
+{55490}{55552}Um...
+{55554}{55603}I- I probably should've called first.
+{55604}{55659}Oh, whoa. Whoa. No, no, no. Hold...
+{55660}{55757}Ryden! Whoa!|Where are you... Where are you going?
+{55759}{55799}Ryden!
+{55955}{56008}{Y:i}Ryden. Ryden, hey. Wait. Hold up.
+{56010}{56071}Look. Hey. Stop. All right? Hey.
+{56123}{56188}She's my R.A.
+{56214}{56287}I was just filling out a maintenance report.
+{56289}{56357}- She's not...|- No.
+{56359}{56392}Really?
+{56393}{56443}Yeah.
+{56493}{56517}www.frendz4m.com
+{56541}{56565}www.frendz4m.com
+{56589}{56613}www.frendz4m.com
+{56637}{56661}www.frendz4m.com
+{56878}{56924}I love you.
+{56953}{57003}Well, that's good.
+{57004}{57069}'Cause I love you.
+{57071}{57143}{Y:i}#Some kind of magic #
+{57201}{57283}{Y:i}#Happens late at night #
+{57284}{57331}- Wanna go inside?|- Yeah.
+{57332}{57427}{Y:i}#When the moon smiles down at me #
+{57482}{57543}{Y:i}- Hey, Walt, it's Ryden.|- Oh.
+{57544}{57596}- Hey, sweetie-pie.|- It's her machine, so leave a message.
+{57598}{57652}Oh. Hey, guess who's coming for a visit.
+{57653}{57731}We got cheap-ass tickets|on CheapAssTickets-dot-com, swear to God.
+{57732}{57797}Ask Adam if he's got a pull-out,|'cause Grandma's got that heinous hump.
+{57799}{57852}- 'Cause I don't wanna have her|suffering more than she... - Stop that!
+{57854}{57900}I don't have a hump! Give me that.
+{57902}{57980}I don't have a hump. I can sleep|anyplace you wanna put me, Ryden.
+{57981}{58028}And, honey, it's genetic,|so take your calcium.
+{58029}{58084}And don't forget to layer up, okay?|You're from California.
+{58086}{58159}- And remember, condoms are|your best friend. - Oh, you have to...
+{58201}{58272}{Y:i}Wait, like, the whole family's coming?
+{58273}{58359}{Y:i}#It's a brand new day #
+{58361}{58408}{Y:i}#The sun is shining #
+{58409}{58484}{Y:i}#It's a brand new day #
+{58533}{58674}{Y:i}#For the first time|in such a long, long time #
+{58676}{58732}{Y:i}#I know #
+{58792}{58841}{Y:i}#I'll be okay ##
+{58843}{58914}{Y:i}#I'm counting the streetlights #
+{58916}{59001}{Y:i}#It's all I can do #
+{59003}{59076}{Y:i}#While driving myself crazy #
+{59078}{59127}{Y:i}#Trying to get to you #
+{59172}{59254}{Y:i}#It feels wrong at the right time #
+{59256}{59315}{Y:i}#To reveal my hand #
+{59344}{59412}{Y:i}#It's like I'm doing the worst I can #
+{59413}{59484}{Y:i}#To make you understand #
+{59531}{59612}{Y:i}#Maybe one day you will know #
+{59688}{59746}{Y:i}#How hard it is for me #
+{59748}{59828}{Y:i}#To show my heart #
+{59864}{59929}{Y:i}#And all the love I have #
+{59931}{59996}{Y:i}#Running through my soul #
+{60040}{60122}{Y:i}#Maybe one day you will know #
+{60202}{60284}{Y:i}#I'm hoping you just might #
+{60286}{60360}{Y:i}#Take a moment to realize #
+{60362}{60431}{Y:i}#That everything you're looking for#
+{60432}{60506}{Y:i}#Is hidden in plain sight #
+{60542}{60616}{Y:i}#I know you better#
+{60618}{60708}{Y:i}#Than I know myself#
+{60709}{60780}{Y:i}#How I feel is the only thing that #
+{60782}{60884}{Y:i}#I could never ever tell you #
+{60886}{60974}{Y:i}#Maybe one day you will know #
+{61054}{61112}{Y:i}#How hard it is for me #
+{61114}{61194}{Y:i}#To show my heart #
+{61234}{61295}{Y:i}#And all the love I have #
+{61297}{61366}{Y:i}#Running through my soul #
+{61406}{61495}{Y:i}#Maybe one day you will know #
+{61576}{61660}{Y:i}#Maybe one day you will know #
+{61748}{61816}{Y:i}#Maybe one day you will ##

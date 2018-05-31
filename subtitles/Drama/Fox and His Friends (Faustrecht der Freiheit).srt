@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,34,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,100,100,28,1
+Style: Default - margin,Open Sans Semibold,34,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,100,100,28,0
+Style: Default - italics,Open Sans Semibold,34,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,100,100,28,0
+Style: Default - flashback,Open Sans Semibold,34,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,100,100,28,0
+Style: Title,Open Sans Semibold,32,&H00FFFFFF,&H000000FF,&H005B4F4D,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,53,53,0
+Style: Title2,Open Sans Semibold,29,&H005B4F4D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,53,53,24,0
+Style: Board,Open Sans Semibold,34,&H00DEF5EC,&H000000FF,&H002C4B33,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: Date,Open Sans Semibold,34,&H00132920,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: Classroom,Open Sans Semibold,34,&H00132920,&H000000FF,&H00DEF2E7,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,34,&H00132920,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: SignB,Open Sans Semibold,29,&H00575356,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,0
+Style: SignC,Open Sans Semibold,34,&H009EB5D2,&H000000FF,&H0024466A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:09.15,0:00:10.45,Default,YUKI,0000,0000,0000,,Wait!
+Dialogue: 0,0:00:15.93,0:00:19.35,Default,YUKI,0000,0000,0000,,Um, if you don't mind, I'd...
+Dialogue: 0,0:00:21.51,0:00:23.66,Default,YUKI,0000,0000,0000,,I'd like for us to be friends!
+Dialogue: 0,0:00:35.36,0:00:36.22,Default,KAORI,0000,0000,0000,,I...
+Dialogue: 0,0:00:37.39,0:00:38.10,Default,YUKI,0000,0000,0000,,"I"?
+Dialogue: 0,0:00:39.15,0:00:41.38,Default,KAORI,0000,0000,0000,,I appreciate it, but I'm sorry!
+Dialogue: 0,0:00:44.21,0:00:46.35,Default,YUKI,0000,0000,0000,,If you appreciate it, then why not?
+Dialogue: 0,0:00:50.74,0:00:53.99,Default - italics,YUKI,0000,0000,0000,,Obviously, at that time...
+Dialogue: 0,0:00:52.35,0:00:54.61,SignB,YUKI,0000,0000,0000,,{\c&H244752&}Students Not Allowed Beyond This Point
+Dialogue: 0,0:00:54.61,0:00:57.83,Default - italics,,0000,0000,0000,,I still didn't know anything \Nabout Fujimiya-san's secret.
+Dialogue: 0,0:01:07.25,0:01:09.75,Board,TEXT,0000,0000,0000,,Monday
+Dialogue: 0,0:01:09.92,0:01:13.26,Default - italics,YUKI,0000,0000,0000,,Why she was always alone...
+Dialogue: 0,0:01:16.26,0:01:19.97,Default - italics,YUKI,0000,0000,0000,,Why she never tried to make any friends...
+Dialogue: 0,0:01:23.36,0:01:24.48,Default - italics,YUKI,0000,0000,0000,,I just
+Dialogue: 0,0:01:25.37,0:01:26.53,Default - italics,,0000,0000,0000,,didn't know yet.
+Dialogue: 0,0:02:59.03,0:03:02.87,Title,EPTITLE,0000,0000,0000,,#1 \NBeginning of \Na Friendship.
+Dialogue: 0,0:03:06.81,0:03:08.12,Default,YUKI,0000,0000,0000,,I'm back...
+Dialogue: 0,0:03:28.57,0:03:30.68,Default,SHOGO,0000,0000,0000,,So? What happened?
+Dialogue: 0,0:03:32.43,0:03:34.77,Default,YUKI,0000,0000,0000,,I talked to Fujimiya-san for the first time.
+Dialogue: 0,0:03:34.92,0:03:37.23,Default,SHOGO,0000,0000,0000,,Oh? Good for you.
+Dialogue: 0,0:03:37.58,0:03:39.24,Default,SHOGO,0000,0000,0000,,Your dearest wish came true.
+Dialogue: 0,0:03:39.86,0:03:43.45,Default,SHOGO,0000,0000,0000,,You've always said you wanted to talk to her.
+Dialogue: 0,0:03:43.76,0:03:45.44,Default,YUKI,0000,0000,0000,,But she turned me down.
+Dialogue: 0,0:03:46.30,0:03:47.16,Default,SHOGO,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:47.56,0:03:49.70,Default,YUKI,0000,0000,0000,,When I asked her to be my friend...
+Dialogue: 0,0:03:49.70,0:03:50.85,Default,SHOGO,0000,0000,0000,,You asked her...
+Dialogue: 0,0:03:51.12,0:03:53.46,Default,YUKI,0000,0000,0000,,She said she appreciated it, but she couldn't.
+Dialogue: 0,0:03:53.77,0:03:56.61,Default,YUKI,0000,0000,0000,,Shogo, what does that mean?!
+Dialogue: 0,0:03:56.61,0:03:58.17,Default,SHOGO,0000,0000,0000,,How should I know?
+Dialogue: 0,0:03:58.46,0:04:00.22,Default,YUKI,0000,0000,0000,,You're so cold, Shogo!
+Dialogue: 0,0:04:00.22,0:04:02.42,Default,SHOGO,0000,0000,0000,,You seriously get on my nerves.
+Dialogue: 0,0:04:03.37,0:04:07.47,Default,SHOGO,0000,0000,0000,,Wasn't it just a polite rejection?
+Dialogue: 0,0:04:07.61,0:04:10.54,Default,YUKI,0000,0000,0000,,You really think so?
+Dialogue: 0,0:04:15.14,0:04:19.11,Default,SHOGO,0000,0000,0000,,If it bothers you so much, go ask her.
+Dialogue: 0,0:04:19.34,0:04:22.02,Default,SHOGO,0000,0000,0000,,I just saw her heading for the roof alone.
+Dialogue: 0,0:04:27.81,0:04:28.66,Default,SHOGO,0000,0000,0000,,Wait.
+Dialogue: 0,0:04:29.59,0:04:32.62,Default,SHOGO,0000,0000,0000,,But the roof is always locked...
+Dialogue: 0,0:04:45.21,0:04:46.42,Default,YUKI,0000,0000,0000,,Fujimiya-san...
+Dialogue: 0,0:04:49.79,0:04:51.06,Default,KAORI,0000,0000,0000,,Hase-kun?
+Dialogue: 0,0:04:52.37,0:04:55.70,Default,YUKI,0000,0000,0000,,So this is where you always eat lunch.
+Dialogue: 0,0:04:57.76,0:05:00.24,Default,YUKI,0000,0000,0000,,Uh, um...
+Dialogue: 0,0:05:00.24,0:05:03.28,Default,YUKI,0000,0000,0000,,Wh-Whoa, the view is great up here!
+Dialogue: 0,0:05:03.72,0:05:06.78,Default,YUKI,0000,0000,0000,,I've never been to the roof, so I had no idea...
+Dialogue: 0,0:05:07.26,0:05:09.37,Default,YUKI,0000,0000,0000,,You have this great place to yourself.
+Dialogue: 0,0:05:09.37,0:05:10.65,Default,YUKI,0000,0000,0000,,It's like your own box seat.
+Dialogue: 0,0:05:12.77,0:05:13.94,Default,YUKI,0000,0000,0000,,Fujimiya-san?
+Dialogue: 0,0:05:15.16,0:05:16.46,Default,YUKI,0000,0000,0000,,Fujimiya-san, are you...
+Dialogue: 0,0:05:17.02,0:05:18.62,Default,YUKI,0000,0000,0000,,Are you sick? Are you okay?
+Dialogue: 0,0:05:18.62,0:05:20.33,Default,YUKI,0000,0000,0000,,You were coughing earlier, too...
+Dialogue: 0,0:05:31.35,0:05:33.85,Date,TEXT,0000,0000,0000,,Tuesday
+Dialogue: 0,0:05:33.85,0:05:35.69,Default,GIRL A,0000,0000,0000,,Go on, hurry up...
+Dialogue: 0,0:05:35.69,0:05:36.79,Default,GIRL B,0000,0000,0000,,Eh?
+Dialogue: 0,0:05:38.45,0:05:40.46,Default,GIRL B,0000,0000,0000,,Hey, Fujimiya-san...
+Dialogue: 0,0:05:41.70,0:05:42.66,Default,KAORI,0000,0000,0000,,What?
+Dialogue: 0,0:05:43.34,0:05:46.15,Default,GIRL B,0000,0000,0000,,You're the class rep for math, right?
+Dialogue: 0,0:05:46.55,0:05:49.83,Default,GIRL B,0000,0000,0000,,I forgot to turn in my notes yesterday.
+Dialogue: 0,0:05:49.83,0:05:53.50,Default,GIRL B,0000,0000,0000,,Do you think you could convince \Nthe teacher to take these?
+Dialogue: 0,0:05:54.51,0:05:55.36,Default,KAORI,0000,0000,0000,,I can't.
+Dialogue: 0,0:05:57.11,0:05:58.65,Default,GIRL B,0000,0000,0000,,See? I told you!
+Dialogue: 0,0:05:59.66,0:06:02.54,Default,GIRL A,0000,0000,0000,,Fujimiya-san's so cold.
+Dialogue: 0,0:06:02.90,0:06:04.53,Default,GIRL A,0000,0000,0000,,Why does she act like that?
+Dialogue: 0,0:06:14.88,0:06:16.96,Default,YUKI,0000,0000,0000,,It's chilly today, isn't it?
+Dialogue: 0,0:06:16.96,0:06:18.02,Default,YUKI,0000,0000,0000,,Or is it just me?
+Dialogue: 0,0:06:21.14,0:06:22.86,Default,YUKI,0000,0000,0000,,Mind if I eat here, too?
+Dialogue: 0,0:06:23.15,0:06:26.44,Default,YUKI,0000,0000,0000,,My friend already ate, and now he's sleeping.
+Dialogue: 0,0:06:27.90,0:06:28.99,Default,KAORI,0000,0000,0000,,Why?
+Dialogue: 0,0:06:28.99,0:06:30.66,Default,YUKI,0000,0000,0000,,Hmm? Why what?
+Dialogue: 0,0:06:32.99,0:06:35.33,Default,YUKI,0000,0000,0000,,Fifth period's P.E., right?
+Dialogue: 0,0:06:36.15,0:06:38.77,Default,YUKI,0000,0000,0000,,I don't have the energy for P.E. in the afternoon...
+Dialogue: 0,0:06:38.77,0:06:39.75,Default,KAORI,0000,0000,0000,,Hase-kun.
+Dialogue: 0,0:06:39.75,0:06:41.07,Default,YUKI,0000,0000,0000,,Hmm? What?
+Dialogue: 0,0:06:42.08,0:06:45.21,Default,KAORI,0000,0000,0000,,I can't make friends.
+Dialogue: 0,0:06:46.30,0:06:48.00,Default,YUKI,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:06:48.52,0:06:50.95,Default,YUKI,0000,0000,0000,,Did someone tell you not to make any?
+Dialogue: 0,0:06:50.95,0:06:52.25,Default,KAORI,0000,0000,0000,,It's not that...
+Dialogue: 0,0:06:52.25,0:06:54.59,Default,YUKI,0000,0000,0000,,Are your parents so strict,
+Dialogue: 0,0:06:54.59,0:06:57.52,Default,,0000,0000,0000,,they only let you focus on \Nstudying, not making friends?
+Dialogue: 0,0:06:57.79,0:07:00.69,Default,KAORI,0000,0000,0000,,It's not because anyone told me not to.
+Dialogue: 0,0:07:01.01,0:07:02.44,Default,YUKI,0000,0000,0000,,Then, why?
+Dialogue: 0,0:07:02.44,0:07:03.40,Default,KAORI,0000,0000,0000,,But...
+Dialogue: 0,0:07:04.01,0:07:04.98,Default,KAORI,0000,0000,0000,,But...
+Dialogue: 0,0:07:05.80,0:07:07.36,Default,,0000,0000,0000,,I absolutely can't do it.
+Dialogue: 0,0:07:08.74,0:07:11.37,Default,KAORI,0000,0000,0000,,So... I'm sorry.
+Dialogue: 0,0:07:15.24,0:07:17.37,Default,YUKI,0000,0000,0000,,Yesterday, you coughed on purpose, right?
+Dialogue: 0,0:07:18.86,0:07:20.96,Default,YUKI,0000,0000,0000,,Why didn't you keep up the act?
+Dialogue: 0,0:07:20.96,0:07:23.01,Default,KAORI,0000,0000,0000,,B-Because...
+Dialogue: 0,0:07:23.70,0:07:25.27,Default,YUKI,0000,0000,0000,,Why did you thank me?
+Dialogue: 0,0:07:34.76,0:07:36.66,Default - flashback,YUKI,0000,0000,0000,,Fujimiya-san, you're the math—
+Dialogue: 0,0:07:40.61,0:07:43.26,Default - flashback,YUKI,0000,0000,0000,,You're the math class rep because \Nyou're good at math, right?
+Dialogue: 0,0:07:45.97,0:07:47.35,Default - flashback,YUKI,0000,0000,0000,,Do you have a cold?
+Dialogue: 0,0:07:47.81,0:07:49.06,Default - flashback,YUKI,0000,0000,0000,,Want me to carry those?
+Dialogue: 0,0:07:53.61,0:07:55.50,Default - flashback,YUKI,0000,0000,0000,,Excuse us.
+Dialogue: 0,0:08:00.05,0:08:02.27,Default - flashback,KAORI,0000,0000,0000,,Um, Hase-kun...
+Dialogue: 0,0:08:03.10,0:08:03.96,Default - flashback,YUKI,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:04.58,0:08:07.38,Default - flashback,KAORI,0000,0000,0000,,Uh, um...
+Dialogue: 0,0:08:08.24,0:08:09.63,Default - flashback,KAORI,0000,0000,0000,,Thank you
+Dialogue: 0,0:08:10.59,0:08:13.18,Default - flashback,,0000,0000,0000,,for your help...
+Dialogue: 0,0:08:15.49,0:08:17.85,Default - flashback,KAORI,0000,0000,0000,,B-Bye!
+Dialogue: 0,0:08:18.43,0:08:19.71,Default - flashback,YUKI,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:08:22.44,0:08:26.48,Default,YUKI,0000,0000,0000,,If you'd kept acting cold toward me,
+Dialogue: 0,0:08:26.48,0:08:28.53,Default,YUKI,0000,0000,0000,,I wouldn't have said that.
+Dialogue: 0,0:08:30.05,0:08:31.83,Default,YUKI,0000,0000,0000,,So why?
+Dialogue: 0,0:08:34.27,0:08:40.49,Default,KAORI,0000,0000,0000,,I was trying to avoid talking to you, but...
+Dialogue: 0,0:08:41.47,0:08:45.29,Default,KAORI,0000,0000,0000,,Not even thanking you after \Nyou helped me would just be...
+Dialogue: 0,0:08:50.31,0:08:51.20,Default,YUKI,0000,0000,0000,,See?
+Dialogue: 0,0:08:51.90,0:08:54.26,Default,YUKI,0000,0000,0000,,You {\i1}are{\i0} a good person!
+Dialogue: 0,0:09:00.58,0:09:02.39,Default,YUKI,0000,0000,0000,,We don't have to be friends...
+Dialogue: 0,0:09:02.94,0:09:04.96,Default,YUKI,0000,0000,0000,,But let's have lunch together again tomorrow.
+Dialogue: 0,0:09:04.96,0:09:05.62,Default,KAORI,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:05.91,0:09:07.65,Default,KAORI,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:09:07.88,0:09:09.88,Default,YUKI,0000,0000,0000,,We'll just eat together...
+Dialogue: 0,0:09:10.21,0:09:11.95,Default,YUKI,0000,0000,0000,,Not as friends.
+Dialogue: 0,0:09:11.95,0:09:13.88,Default,YUKI,0000,0000,0000,,That's okay, right?
+Dialogue: 0,0:09:14.97,0:09:18.91,Default,KAORI,0000,0000,0000,,Then, see you tomorrow, on the roof...
+Dialogue: 0,0:09:19.33,0:09:20.67,Default,YUKI,0000,0000,0000,,All right!
+Dialogue: 0,0:09:20.67,0:09:21.46,Default,KAORI,0000,0000,0000,,But...
+Dialogue: 0,0:09:22.24,0:09:24.62,Default,KAORI,0000,0000,0000,,Please don't talk to me in class.
+Dialogue: 0,0:09:26.54,0:09:28.63,Default,YUKI,0000,0000,0000,,Sure, okay.
+Dialogue: 0,0:09:28.63,0:09:30.14,Default,YUKI,0000,0000,0000,,I'm so glad...
+Dialogue: 0,0:09:30.14,0:09:32.61,Default,YUKI,0000,0000,0000,,If you'd turned me down, \NI don't know what I would've done.
+Dialogue: 0,0:09:34.13,0:09:36.59,Date,TEXT,0000,0000,0000,,Wednesday
+Dialogue: 0,0:09:36.59,0:09:38.26,Classroom,SIGN,0000,0000,0000,,Math Prep Room
+Dialogue: 0,0:09:36.95,0:09:38.26,Default,INOUE,0000,0000,0000,,Hase...
+Dialogue: 0,0:09:38.26,0:09:41.43,SignA,TEXT,0000,0000,0000,,Class 2-4  Hase Yuki
+Dialogue: 0,0:09:38.54,0:09:41.43,Default,INOUE,0000,0000,0000,,At this rate, you're going to fail math.
+Dialogue: 0,0:09:41.43,0:09:44.54,Default,YUKI,0000,0000,0000,,But it's only May...
+Dialogue: 0,0:09:44.89,0:09:48.42,Default,INOUE,0000,0000,0000,,This is the first time I've been worried \Nabout a student so early in the year.
+Dialogue: 0,0:09:48.42,0:09:51.85,Default,YUKI,0000,0000,0000,,Inoue-sensei, what will it \Ntake for you to let me go?
+Dialogue: 0,0:09:51.85,0:09:52.65,Default,INOUE,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:52.65,0:09:55.74,Default,YUKI,0000,0000,0000,,I have to eat lunch today!
+Dialogue: 0,0:09:57.48,0:09:58.91,Default,INOUE,0000,0000,0000,,Listen, Hase...
+Dialogue: 0,0:09:59.64,0:10:01.27,Default,INOUE,0000,0000,0000,,Everyone has to do that.
+Dialogue: 0,0:10:02.26,0:10:03.28,Default,YUKI,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:10:05.62,0:10:09.17,SignB,TEXT,0000,0000,0000,,{\an4}Pledge Form \N\NI pledge to earn \Nover 40 points \Non the next test. \N\NHase Yuki
+Dialogue: 0,0:10:06.10,0:10:08.07,Default,INOUE,0000,0000,0000,,What's gotten into him?
+Dialogue: 0,0:10:18.54,0:10:19.61,Default,YUKI,0000,0000,0000,,Oh, darn...
+Dialogue: 0,0:10:19.61,0:10:21.70,Default,YUKI,0000,0000,0000,,You're done eating, aren't you?
+Dialogue: 0,0:10:21.96,0:10:22.89,Default,KAORI,0000,0000,0000,,Not yet.
+Dialogue: 0,0:10:23.11,0:10:23.83,Default,YUKI,0000,0000,0000,,Not yet?
+Dialogue: 0,0:10:24.40,0:10:27.35,Default,KAORI,0000,0000,0000,,Well, you said you'd come, so...
+Dialogue: 0,0:10:27.83,0:10:29.84,Default,,0000,0000,0000,,I didn't want to start without you.
+Dialogue: 0,0:10:33.94,0:10:34.86,Default,YUKI,0000,0000,0000,,Fujimiya-san!
+Dialogue: 0,0:10:35.34,0:10:36.10,Default,KAORI,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:10:36.10,0:10:37.00,Default,YUKI,0000,0000,0000,,Let's eat!
+Dialogue: 0,0:10:39.36,0:10:40.32,Default,KAORI,0000,0000,0000,,Okay.
+Dialogue: 0,0:10:45.12,0:10:47.11,Default,YUKI,0000,0000,0000,,Thanks for the food.
+Dialogue: 0,0:10:48.81,0:10:51.10,Default,YUKI,0000,0000,0000,,Eating together really makes food taste better...
+Dialogue: 0,0:10:52.36,0:10:55.05,Default,YUKI,0000,0000,0000,,Next, let's play cards!
+Dialogue: 0,0:10:55.90,0:10:56.91,Default,KAORI,0000,0000,0000,,Cards?
+Dialogue: 0,0:10:56.91,0:10:59.22,Default,YUKI,0000,0000,0000,,Everyone plays cards at lunch.
+Dialogue: 0,0:10:59.51,0:11:00.51,Default,KAORI,0000,0000,0000,,Really?
+Dialogue: 0,0:11:00.51,0:11:04.79,Default,YUKI,0000,0000,0000,,We usually play Grand Millionaire... \NBut we can't play with two.
+Dialogue: 0,0:11:04.79,0:11:06.10,Default,KAORI,0000,0000,0000,,What about Old Maid?
+Dialogue: 0,0:11:06.10,0:11:08.28,Default,KAORI,0000,0000,0000,,Oh, I guess we can't play that, either...
+Dialogue: 0,0:11:08.66,0:11:11.03,Default,YUKI,0000,0000,0000,,Then, let's try Concentration.
+Dialogue: 0,0:11:11.03,0:11:11.98,Default,KAORI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:13.11,0:11:14.62,Default,KAORI,0000,0000,0000,,And that leaves...
+Dialogue: 0,0:11:15.11,0:11:16.12,Default,KAORI,0000,0000,0000,,this one?
+Dialogue: 0,0:11:16.98,0:11:18.09,Default,KAORI,0000,0000,0000,,I did it!
+Dialogue: 0,0:11:19.61,0:11:21.81,Default,YUKI,0000,0000,0000,,I lost five times in a row...
+Dialogue: 0,0:11:22.25,0:11:24.87,Default,YUKI,0000,0000,0000,,You have an incredible memory.
+Dialogue: 0,0:11:26.31,0:11:28.47,Default,KAORI,0000,0000,0000,,That isn't true...
+Dialogue: 0,0:11:31.85,0:11:35.56,Default,YUKI,0000,0000,0000,,Is math your best subject?
+Dialogue: 0,0:11:36.15,0:11:40.18,Default,KAORI,0000,0000,0000,,It's not really my best, \Nbut I've always enjoyed it.
+Dialogue: 0,0:11:40.62,0:11:43.62,Default,YUKI,0000,0000,0000,,Math's my worst subject...
+Dialogue: 0,0:11:43.62,0:11:45.11,Default,YUKI,0000,0000,0000,,I really admire you.
+Dialogue: 0,0:11:45.49,0:11:49.83,Default,KAORI,0000,0000,0000,,I don't have anything to do at home, \Nso all I do is study.
+Dialogue: 0,0:11:50.27,0:11:53.91,Default,YUKI,0000,0000,0000,,When I have nothing to do, I always go out.
+Dialogue: 0,0:11:56.71,0:11:57.57,Default,KAORI,0000,0000,0000,,Um...
+Dialogue: 0,0:11:57.57,0:11:58.57,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:11:58.57,0:12:02.57,Default,KAORI,0000,0000,0000,,Hase-kun, when you hang out with \Nyour friends, where do you go?
+Dialogue: 0,0:12:04.16,0:12:05.54,Default,YUKI,0000,0000,0000,,Karaoke, I guess.
+Dialogue: 0,0:12:06.13,0:12:08.17,Default,KAORI,0000,0000,0000,,Is karaoke fun?
+Dialogue: 0,0:12:08.17,0:12:09.44,Default,YUKI,0000,0000,0000,,Huh? Wait...
+Dialogue: 0,0:12:09.44,0:12:11.62,Default,YUKI,0000,0000,0000,,You've never tried karaoke?
+Dialogue: 0,0:12:16.08,0:12:18.50,Default,YUKI,0000,0000,0000,,S-Sorry! Um, then...
+Dialogue: 0,0:12:18.50,0:12:20.76,Default,YUKI,0000,0000,0000,,Why don't you come with me sometime?
+Dialogue: 0,0:12:20.92,0:12:22.13,Default,KAORI,0000,0000,0000,,I can't do that!
+Dialogue: 0,0:12:25.69,0:12:27.28,Default,KAORI,0000,0000,0000,,S-Sorry.
+Dialogue: 0,0:12:28.31,0:12:31.10,Default,YUKI,0000,0000,0000,,No, it's my fault for asking out of the blue.
+Dialogue: 0,0:12:31.97,0:12:35.10,Default,YUKI,0000,0000,0000,,Well, I hope you'll get a chance to go someday.
+Dialogue: 0,0:12:37.10,0:12:38.18,Default,KAORI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:39.55,0:12:40.75,Default,KAORI,0000,0000,0000,,I hope so.
+Dialogue: 0,0:12:48.17,0:12:49.74,Default,BOTH,0000,0000,0000,,Thanks for the food!
+Dialogue: 0,0:12:49.74,0:12:57.67,Date,TEXT,0000,0000,0000,,Thursday
+Dialogue: 0,0:12:49.91,0:12:51.72,Default,YUKI,0000,0000,0000,,I'm still hungry...
+Dialogue: 0,0:12:51.72,0:12:54.61,Default,YUKI,0000,0000,0000,,I should have bought some dessert.
+Dialogue: 0,0:12:55.09,0:12:57.67,Default,KAORI,0000,0000,0000,,This won't fill an empty stomach, but...
+Dialogue: 0,0:12:59.08,0:13:01.74,Default,KAORI,0000,0000,0000,,There's a new crêpe place near the station!
+Dialogue: 0,0:13:02.46,0:13:04.82,Default,YUKI,0000,0000,0000,,Crêpes, huh? Those are good.
+Dialogue: 0,0:13:04.82,0:13:06.43,Default,KAORI,0000,0000,0000,,Do you like crêpes, too?
+Dialogue: 0,0:13:06.61,0:13:08.24,Default,YUKI,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:13:08.74,0:13:11.43,Default,,0000,0000,0000,,I like ones with chocolate custard.
+Dialogue: 0,0:13:11.84,0:13:14.60,Default,KAORI,0000,0000,0000,,My favorite is strawberries and whipped cream.
+Dialogue: 0,0:13:14.97,0:13:16.89,Default,KAORI,0000,0000,0000,,Blueberry cheesecake is good, too.
+Dialogue: 0,0:13:16.89,0:13:19.19,Default,KAORI,0000,0000,0000,,There's a place I go with my mom all the time.
+Dialogue: 0,0:13:19.19,0:13:23.19,Default,KAORI,0000,0000,0000,,They only have one bench, \Nso there are always fights over it.
+Dialogue: 0,0:13:23.62,0:13:24.86,Default,KAORI,0000,0000,0000,,I wonder about this one.
+Dialogue: 0,0:13:24.86,0:13:26.75,Default,KAORI,0000,0000,0000,,I hope they have lots of seating...
+Dialogue: 0,0:13:28.79,0:13:30.26,Default,KAORI,0000,0000,0000,,I... I mean...
+Dialogue: 0,0:13:30.68,0:13:35.29,Default,KAORI,0000,0000,0000,,I just thought others might be \Ninterested in a place like this!
+Dialogue: 0,0:13:35.29,0:13:38.68,Default,KAORI,0000,0000,0000,,I wasn't saying we should go together!
+Dialogue: 0,0:13:38.68,0:13:39.45,Default,YUKI,0000,0000,0000,,I wouldn't mind if—
+Dialogue: 0,0:13:39.45,0:13:41.30,Default,KAORI,0000,0000,0000,,Besides, we aren't friends!
+Dialogue: 0,0:13:42.78,0:13:45.24,Default,YUKI,0000,0000,0000,,We really aren't friends, huh?
+Dialogue: 0,0:13:45.24,0:13:46.98,Default,KAORI,0000,0000,0000,,Well, um...
+Dialogue: 0,0:13:46.98,0:13:50.05,Default,YUKI,0000,0000,0000,,Fujimiya-san, what do you think friends are?
+Dialogue: 0,0:13:50.42,0:13:51.35,Default,KAORI,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:51.35,0:13:54.24,Default,YUKI,0000,0000,0000,,For example, what do they talk about?
+Dialogue: 0,0:13:56.11,0:13:57.35,Default,KAORI,0000,0000,0000,,Love!
+Dialogue: 0,0:13:57.35,0:13:58.23,Default,YUKI,0000,0000,0000,,Love?!
+Dialogue: 0,0:13:58.85,0:14:00.35,Default,YUKI,0000,0000,0000,,Talking about love, huh?
+Dialogue: 0,0:14:00.35,0:14:02.55,Default,YUKI,0000,0000,0000,,But there's no one I like right now.
+Dialogue: 0,0:14:02.55,0:14:04.95,Default,YUKI,0000,0000,0000,,If I were interested in anyone, it'd be...
+Dialogue: 0,0:14:05.88,0:14:06.76,Default,YUKI,0000,0000,0000,,Fujimiya-san!
+Dialogue: 0,0:14:06.76,0:14:10.35,Default,KAORI,0000,0000,0000,,But since we aren't friends, \Nwe shouldn't discuss that.
+Dialogue: 0,0:14:10.35,0:14:11.67,Default,YUKI,0000,0000,0000,,You're right.
+Dialogue: 0,0:14:15.66,0:14:16.93,Default,KAORI,0000,0000,0000,,I'm home!
+Dialogue: 0,0:14:18.21,0:14:19.33,Default,SHIHO,0000,0000,0000,,Welcome home.
+Dialogue: 0,0:14:20.43,0:14:22.41,Default,KAORI,0000,0000,0000,,I'll wash this later. Just leave it here.
+Dialogue: 0,0:14:54.91,0:15:00.61,SignC,CALENDAR,0000,0000,0000,,{\fad(1,1211)}Friday
+Dialogue: 0,0:15:02.42,0:15:04.92,Date,TEXT,0000,0000,0000,,Friday
+Dialogue: 0,0:15:05.23,0:15:06.78,Default,YUKI,0000,0000,0000,,Thanks for the food!
+Dialogue: 0,0:15:07.09,0:15:08.80,Default,YUKI,0000,0000,0000,,Today's lunch was good, too.
+Dialogue: 0,0:15:14.28,0:15:17.66,Default,YUKI,0000,0000,0000,,Huh? Fujimiya-san, you hardly ate anything.
+Dialogue: 0,0:15:18.69,0:15:21.27,Default,KAORI,0000,0000,0000,,I'm not that hungry today.
+Dialogue: 0,0:15:21.27,0:15:23.06,Default,YUKI,0000,0000,0000,,Huh? Are you okay?
+Dialogue: 0,0:15:23.75,0:15:26.28,Default,KAORI,0000,0000,0000,,Yeah, I'm fine.
+Dialogue: 0,0:15:29.88,0:15:31.84,Default,YUKI,0000,0000,0000,,We have biology next, right?
+Dialogue: 0,0:15:32.42,0:15:36.63,Default,YUKI,0000,0000,0000,,I might end up falling asleep... \NWhat'll I do if I fail?
+Dialogue: 0,0:15:36.63,0:15:39.50,Default,YUKI,0000,0000,0000,,Wait, it's math that I'm failing...
+Dialogue: 0,0:15:40.01,0:15:42.08,Default,YUKI,0000,0000,0000,,Fujimiya-san, you're good at math, right?
+Dialogue: 0,0:15:42.52,0:15:44.94,Default,YUKI,0000,0000,0000,,I know, why don't we—
+Dialogue: 0,0:15:44.94,0:15:45.95,Default,KAORI,0000,0000,0000,,Hase-kun...
+Dialogue: 0,0:15:47.08,0:15:47.95,Default,YUKI,0000,0000,0000,,What?
+Dialogue: 0,0:15:50.40,0:15:52.97,Default,KAORI,0000,0000,0000,,Don't talk to me anymore.
+Dialogue: 0,0:15:52.97,0:15:53.61,Default,YUKI,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:54.42,0:15:56.04,Default,YUKI,0000,0000,0000,,Wh-Why not?
+Dialogue: 0,0:15:58.17,0:16:00.37,Default,YUKI,0000,0000,0000,,Did I do something wrong?
+Dialogue: 0,0:16:00.37,0:16:01.79,Default,YUKI,0000,0000,0000,,Why are you suddenly...
+Dialogue: 0,0:16:01.79,0:16:06.89,Default,KAORI,0000,0000,0000,,I told you from the start. \NI can't make friends...
+Dialogue: 0,0:16:09.69,0:16:13.61,Default,KAORI,0000,0000,0000,,So I'd like you to pretend \Nnone of this ever happened.
+Dialogue: 0,0:16:15.00,0:16:17.41,Default,KAORI,0000,0000,0000,,I'll forget everything, too.
+Dialogue: 0,0:16:19.59,0:16:20.86,Default,YUKI,0000,0000,0000,,I can't do that...
+Dialogue: 0,0:16:21.36,0:16:23.13,Default,YUKI,0000,0000,0000,,I can't forget.
+Dialogue: 0,0:16:23.99,0:16:25.70,Default,YUKI,0000,0000,0000,,Surely, you can't do that, either...
+Dialogue: 0,0:16:25.70,0:16:26.59,Default,KAORI,0000,0000,0000,,I do forget!
+Dialogue: 0,0:16:32.19,0:16:33.64,Default,KAORI,0000,0000,0000,,On Mondays,
+Dialogue: 0,0:16:33.64,0:16:37.68,Default,KAORI,0000,0000,0000,,all of my good memories disappear.
+Dialogue: 0,0:16:40.10,0:16:42.33,Default,KAORI,0000,0000,0000,,It isn't only the good memories.
+Dialogue: 0,0:16:42.65,0:16:47.80,Default,KAORI,0000,0000,0000,,All my memories of people I'm close to \Nor want to spend more time with
+Dialogue: 0,0:16:47.80,0:16:50.73,Default,,0000,0000,0000,,are completely reset every week.
+Dialogue: 0,0:16:51.79,0:16:53.70,Default,KAORI,0000,0000,0000,,My family's an exception, though.
+Dialogue: 0,0:16:55.20,0:16:58.71,Default,KAORI,0000,0000,0000,,That's why I don't have any \Nmemories of my friends.
+Dialogue: 0,0:17:00.18,0:17:01.33,Default,YUKI,0000,0000,0000,,What the heck?
+Dialogue: 0,0:17:04.13,0:17:06.44,Default,YUKI,0000,0000,0000,,Oh, but it's okay...
+Dialogue: 0,0:17:06.44,0:17:08.66,Default,YUKI,0000,0000,0000,,We aren't friends yet, right?
+Dialogue: 0,0:17:08.66,0:17:09.56,Default,YUKI,0000,0000,0000,,So then...
+Dialogue: 0,0:17:09.56,0:17:12.67,Default,KAORI,0000,0000,0000,,But I'm sure of this much.
+Dialogue: 0,0:17:13.89,0:17:17.76,Default,KAORI,0000,0000,0000,,My memories of you will all disappear.
+Dialogue: 0,0:17:25.96,0:17:29.55,Default,YUKI,0000,0000,0000,,I can't believe that...
+Dialogue: 0,0:17:32.07,0:17:34.57,Date,TEXT,0000,0000,0000,,Saturday
+Dialogue: 0,0:17:45.09,0:17:47.36,Default,SHOGO,0000,0000,0000,,When was the last time we did this?
+Dialogue: 0,0:17:50.59,0:17:54.54,Default,YUKI,0000,0000,0000,,Fujimiya-san told me not to talk to her anymore.
+Dialogue: 0,0:17:55.29,0:17:58.80,Default,YUKI,0000,0000,0000,,She said she'd forget me, \Nso I should also forget her.
+Dialogue: 0,0:17:59.00,0:18:01.33,Default,SHOGO,0000,0000,0000,,Oh? That must mean...
+Dialogue: 0,0:18:01.33,0:18:02.07,Default,YUKI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:02.44,0:18:04.39,Default,SHOGO,0000,0000,0000,,She really hates you.
+Dialogue: 0,0:18:04.99,0:18:06.81,Default,YUKI,0000,0000,0000,,You really think so?!
+Dialogue: 0,0:18:07.53,0:18:09.44,Default,YUKI,0000,0000,0000,,Of course you do...
+Dialogue: 0,0:18:09.59,0:18:12.53,Default,SHOGO,0000,0000,0000,,Fujimiya's always cut off \Nfrom the rest of the class.
+Dialogue: 0,0:18:12.53,0:18:14.67,Default,SHOGO,0000,0000,0000,,You can't tell what she's thinking.
+Dialogue: 0,0:18:14.67,0:18:15.97,Default,SHOGO,0000,0000,0000,,What is it you like about her?
+Dialogue: 0,0:18:17.80,0:18:18.78,Default,YUKI,0000,0000,0000,,Her face.
+Dialogue: 0,0:18:18.78,0:18:20.88,Default,SHOGO,0000,0000,0000,,You're so simple.
+Dialogue: 0,0:18:20.88,0:18:22.53,Default,YUKI,0000,0000,0000,,Who cares why I like her?
+Dialogue: 0,0:18:23.20,0:18:28.49,Default,SHOGO,0000,0000,0000,,You can only become friends by talking, \Nand finding out whether you get along.
+Dialogue: 0,0:18:29.30,0:18:32.00,Default,SHOGO,0000,0000,0000,,It isn't something you can work toward.
+Dialogue: 0,0:18:32.64,0:18:35.53,Default,SHOGO,0000,0000,0000,,But if you want to date her, it's a different story.
+Dialogue: 0,0:18:40.27,0:18:43.97,Default,YUKI,0000,0000,0000,,Fujimiya-san isn't as cold as everyone thinks.
+Dialogue: 0,0:18:44.18,0:18:46.32,Default,YUKI,0000,0000,0000,,She's cheerful and talkative...
+Dialogue: 0,0:18:46.79,0:18:49.28,Default,YUKI,0000,0000,0000,,When I said we should eat lunch together,
+Dialogue: 0,0:18:49.28,0:18:50.94,Default,,0000,0000,0000,,she even waited for me.
+Dialogue: 0,0:18:51.87,0:18:53.77,Default,YUKI,0000,0000,0000,,If they'd only talk to her,
+Dialogue: 0,0:18:53.77,0:18:57.49,Default,,0000,0000,0000,,they'd realize she's a good girl \Nthey want to be friends with.
+Dialogue: 0,0:18:57.76,0:19:00.96,Default,YUKI,0000,0000,0000,,She's kind, honest, and a good person.
+Dialogue: 0,0:19:05.35,0:19:06.58,Default,SHOGO,0000,0000,0000,,So corny!
+Dialogue: 0,0:19:07.57,0:19:09.90,Default,YUKI,0000,0000,0000,,Wh-What are you shuddering for?
+Dialogue: 0,0:19:09.90,0:19:11.63,Default,SHOGO,0000,0000,0000,,Sorry, I couldn't help myself.
+Dialogue: 0,0:19:12.81,0:19:17.42,Default,SHOGO,0000,0000,0000,,Well, if that's how she really is,
+Dialogue: 0,0:19:17.42,0:19:21.59,Default,SHOGO,0000,0000,0000,,it must mean you're special to her.
+Dialogue: 0,0:19:22.54,0:19:24.11,Default,YUKI,0000,0000,0000,,You think so?
+Dialogue: 0,0:19:24.56,0:19:26.63,Default,SHOGO,0000,0000,0000,,You've made a lot of progress,
+Dialogue: 0,0:19:26.63,0:19:29.22,Default,,0000,0000,0000,,considering how much you were \Nstressing over it on Monday.
+Dialogue: 0,0:19:30.32,0:19:31.44,Default,YUKI,0000,0000,0000,,Shogo...
+Dialogue: 0,0:19:32.07,0:19:35.65,Default,SHOGO,0000,0000,0000,,Now that you've come this far, \Nyou might as well go for it.
+Dialogue: 0,0:19:38.82,0:19:40.16,Default,YUKI,0000,0000,0000,,You're right.
+Dialogue: 0,0:19:48.74,0:19:51.96,Default,SHIHO,0000,0000,0000,,Kaori? Dad bought a cake.
+Dialogue: 0,0:19:51.96,0:19:54.03,Default,KAORI,0000,0000,0000,,Okay, I'll have some later.
+Dialogue: 0,0:20:09.99,0:20:12.66,Default,KOARI,0000,0000,0000,,{\fad(1,740)}We aren't friends...
+Dialogue: 0,0:20:33.45,0:20:34.67,Default,YUKI,0000,0000,0000,,Fujimiya-san...
+Dialogue: 0,0:20:38.02,0:20:39.67,Default,KAORI,0000,0000,0000,,Wh-What is it?
+Dialogue: 0,0:20:44.27,0:20:49.14,Default - italics,YUKI,0000,0000,0000,,For the first time, I understood the \Nmeaning of Fujimiya-san's words.
+Dialogue: 0,0:20:51.23,0:20:55.68,Default - italics,YUKI,0000,0000,0000,,She wasn't lying when she said \Nshe'd lose her memories.
+Dialogue: 0,0:20:56.57,0:21:02.44,Default - italics,YUKI,0000,0000,0000,,Her memories of the week she'd spent \Nwith me were completely gone.
+Dialogue: 0,0:21:04.42,0:21:06.32,Default - italics,YUKI,0000,0000,0000,,Every Monday,
+Dialogue: 0,0:21:06.32,0:21:10.91,Default - italics,YUKI,0000,0000,0000,,the fun times and moments of understanding \Nshe's had with others are reset,
+Dialogue: 0,0:21:11.50,0:21:13.29,Default - italics,YUKI,0000,0000,0000,,and she starts over from the beginning.
+Dialogue: 0,0:21:14.30,0:21:19.20,Default - italics,YUKI,0000,0000,0000,,She doesn't want to feel that, and that's \Nwhy she never tries to make any friends.
+Dialogue: 0,0:21:20.00,0:21:20.92,Default,KAORI,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:21:22.47,0:21:24.80,Default,KAORI,0000,0000,0000,,If you don't need anything, then...
+Dialogue: 0,0:21:24.80,0:21:25.76,Default,YUKI,0000,0000,0000,,Fujimiya-san!
+Dialogue: 0,0:21:31.87,0:21:34.14,Default - italics,YUKI,0000,0000,0000,,But I know the truth.
+Dialogue: 0,0:21:36.65,0:21:38.69,Default - italics,YUKI,0000,0000,0000,,Fujimiya-san actually
+Dialogue: 0,0:21:40.18,0:21:42.57,Default - italics,,0000,0000,0000,,wants friends more than anyone!
+Dialogue: 0,0:21:43.89,0:21:44.57,Default - italics,YUKI,0000,0000,0000,,That's why
+Dialogue: 0,0:21:45.40,0:21:47.12,Default - italics,YUKI,0000,0000,0000,,I decided right then,
+Dialogue: 0,0:21:47.12,0:21:49.13,Default - italics,YUKI,0000,0000,0000,,to say it as often as I had to.
+Dialogue: 0,0:21:51.93,0:21:52.87,Default,YUKI,0000,0000,0000,,I'd...
+Dialogue: 0,0:21:54.13,0:21:55.82,Default,,0000,0000,0000,,I'd like for us to be friends!
+Dialogue: 0,0:23:36.75,0:23:38.89,Default - margin,KAORI,0000,0000,0000,,How to Spend Time with Friends.
+Dialogue: 0,0:23:37.04,0:23:41.15,Title2,TEXT,0000,0000,0000,,{\fad(377,1)}How to Spend Time with Friends.

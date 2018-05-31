@@ -1,0 +1,331 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 624
+PlayResY: 366
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Default - Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0008,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,1,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Title,Georgia,26,&H00000000,&H000000FF,&H00FCFFFC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0001,0001,0018,0
+Style: SignA,Arial,22,&H00E97BBD,&H000000FF,&H00680B4F,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0013,0
+Style: SignB,Arial,22,&H00FFFFFF,&H000000FF,&H0017161A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0040,0040,0018,0
+Style: SignC,Arial,22,&H0011181F,&H000000FF,&H00777CA3,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0013,0
+Style: SignD,Arial,22,&H007F6ECA,&H000000FF,&H00BCF2F0,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0013,0
+Style: SignE,Trebuchet MS,22,&H00F6E7EA,&H000000FF,&H009A6767,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0013,0
+Style: SignF,Arial,22,&H00000A07,&H000000FF,&H00033895,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0013,0
+Style: SignG,Arial,22,&H00564BDF,&H000000FF,&H00221A1E,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0013,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.58,0:00:06.48,Default - italics,N,0000,0000,0000,,Next is the continuation of \Nour report on the UMAs,
+Dialogue: 0,0:00:06.48,0:00:09.23,Default - italics,,0000,0000,0000,,or Unidentified Mysterious Animals, \Nthat have recently been sighted.
+Dialogue: 0,0:00:09.89,0:00:15.34,Default - italics,N,0000,0000,0000,,The difference between this and our previous \Nreport is the increasing number of victims,
+Dialogue: 0,0:00:15.34,0:00:19.41,Default - italics,N,0000,0000,0000,,and the amount of evidence supporting \Nthe existence of these creatures.
+Dialogue: 0,0:00:19.74,0:00:23.79,Default - italics,N,0000,0000,0000,,In any case, many of the witnesses are \Nactive members of the police force.
+Dialogue: 0,0:00:23.79,0:00:26.07,Default - italics,N,0000,0000,0000,,And over half of the officers
+Dialogue: 0,0:00:26.07,0:00:30.55,Default - italics,N,0000,0000,0000,,who have rushed to the scenes have \Nbeen killed by these creatures.
+Dialogue: 0,0:00:30.98,0:00:34.92,Default - italics,N,0000,0000,0000,,These are images of unidentified creatures \Nthat have been attacking the police.
+Dialogue: 0,0:00:35.51,0:00:40.01,Default - italics,N,0000,0000,0000,,You can see the victims on the \Nground at the creatures' feet.
+Dialogue: 0,0:00:41.39,0:00:45.81,Default - italics,N,0000,0000,0000,,What we know is that all these creatures \Nare violent, capable of speech,
+Dialogue: 0,0:00:45.81,0:00:48.81,Default - italics,N,0000,0000,0000,,and show no fear of humans.
+Dialogue: 0,0:00:49.36,0:00:52.70,Default - italics,N,0000,0000,0000,,A prime example is this interview \Nwith the lion man of Nevaska.
+Dialogue: 0,0:00:53.14,0:00:56.95,Default - italics,N,0000,0000,0000,,He spoke at length of a crude theory \Nabout the existence of a kingdom.
+Dialogue: 0,0:00:57.70,0:01:02.48,Default - italics,N,0000,0000,0000,,The woman interviewing him listened \Npatiently to what he had to say,
+Dialogue: 0,0:01:02.48,0:01:06.96,Default - italics,N,0000,0000,0000,,but eventually, she asked the \Nquestion on every viewer's mind.
+Dialogue: 0,0:01:07.82,0:01:11.63,Default - italics,A,0000,0000,0000,,Can you prove that you \Ntruly are what you claim?
+Dialogue: 0,0:01:12.92,0:01:16.03,Default - italics,N,0000,0000,0000,,Those were her last words.
+Dialogue: 0,0:01:20.40,0:01:22.57,Default - italics,N,0000,0000,0000,,So far, the unidentified creatures
+Dialogue: 0,0:01:22.57,0:01:26.12,Default - italics,,0000,0000,0000,,have only appeared on the Yorbian continent.
+Dialogue: 0,0:01:26.12,0:01:28.91,Default - italics,N,0000,0000,0000,,But it seems likely that they \Nwill continue to spread,
+Dialogue: 0,0:01:28.91,0:01:33.15,Default - italics,N,0000,0000,0000,,and no effective method of dealing \Nwith them has been found.
+Dialogue: 0,0:01:33.56,0:01:34.74,Default,Shi,0000,0000,0000,,Sorry for the wait.
+Dialogue: 0,0:01:36.73,0:01:38.99,Default,Phi,0000,0000,0000,,Okay, let's go.
+Dialogue: 0,0:02:59.03,0:03:04.03,Title,EpTitle,0000,0000,0000,,A x Lawless x Home
+Dialogue: 0,0:03:09.08,0:03:11.57,Default,Fei,0000,0000,0000,,They're known as Chimera Ants.
+Dialogue: 0,0:03:11.96,0:03:13.26,Default,Shal,0000,0000,0000,,I know.
+Dialogue: 0,0:03:13.26,0:03:15.17,Default,,0000,0000,0000,,They became that way after mixing with humans.
+Dialogue: 0,0:03:15.63,0:03:20.11,Default,Shi,0000,0000,0000,,Working backwards from the dates and \Nlocations of sightings and police reports,
+Dialogue: 0,0:03:20.11,0:03:22.58,Default,Shi,0000,0000,0000,,they probably originated in the Balsa Islands.
+Dialogue: 0,0:03:22.58,0:03:25.68,Default,Phi,0000,0000,0000,,Lots of strange nations are in that area.
+Dialogue: 0,0:03:25.97,0:03:28.56,Default,Fei,0000,0000,0000,,You shouldn't be talking about \Nhow strange other people are.
+Dialogue: 0,0:03:28.87,0:03:31.20,Default,Phi,0000,0000,0000,,But they were once ants...
+Dialogue: 0,0:03:31.20,0:03:34.06,Default,Phi,0000,0000,0000,,So they should just stay close to their nest.
+Dialogue: 0,0:03:34.57,0:03:37.43,Default,Phi,0000,0000,0000,,Why come all the way out here?
+Dialogue: 0,0:03:37.83,0:03:38.99,Default,Shal,0000,0000,0000,,No idea.
+Dialogue: 0,0:03:38.99,0:03:42.66,Default,Shal,0000,0000,0000,,Maybe they were just wandering, or perhaps \Nthey were drawn to the smell of garbage.
+Dialogue: 0,0:03:42.66,0:03:44.57,Default,Shi,0000,0000,0000,,It can't be a coincidence.
+Dialogue: 0,0:03:44.96,0:03:48.26,Default,Shi,0000,0000,0000,,Both NGL and East Gorteau are nations
+Dialogue: 0,0:03:48.26,0:03:50.87,Default,Shi,0000,0000,0000,,that share no information with the outside world.
+Dialogue: 0,0:03:51.23,0:03:53.97,Default,Shi,0000,0000,0000,,Just like this place.
+Dialogue: 0,0:03:53.97,0:03:58.34,Default,Bono,0000,0000,0000,,That makes it easier for them to invade.
+Dialogue: 0,0:04:04.66,0:04:06.35,Default,Shal,0000,0000,0000,,It's been quite a long time.
+Dialogue: 0,0:04:07.12,0:04:09.35,Default,Phi,0000,0000,0000,,The place hasn't changed...
+Dialogue: 0,0:04:18.72,0:04:20.11,Default,Shal,0000,0000,0000,,What's the situation?
+Dialogue: 0,0:04:20.97,0:04:25.73,Default,A,0000,0000,0000,,Between the victims and martyrs, \Nwe're seeing over three hundred dead.
+Dialogue: 0,0:04:26.25,0:04:30.12,Default,A,0000,0000,0000,,Bombs have no effect, so we can't fight back.
+Dialogue: 0,0:04:32.45,0:04:36.98,Default,A,0000,0000,0000,,The council is still arguing about \Nhow to classify the dead.
+Dialogue: 0,0:04:37.55,0:04:39.13,Default,Phi,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:04:45.65,0:04:48.76,Default,A,0000,0000,0000,,A few days ago, this was an ordinary human.
+Dialogue: 0,0:04:48.76,0:04:50.71,Default,Shal,0000,0000,0000,,The Ants did this?
+Dialogue: 0,0:04:50.71,0:04:53.02,Default,Phi,0000,0000,0000,,Looks dead to me.
+Dialogue: 0,0:04:53.44,0:04:55.14,Default,Phi,0000,0000,0000,,What's the problem?
+Dialogue: 0,0:04:56.41,0:04:59.65,Default,A,0000,0000,0000,,Some are alive and working with the Ants.
+Dialogue: 0,0:05:00.34,0:05:02.69,Default,A,0000,0000,0000,,And all of them look like monsters.
+Dialogue: 0,0:05:03.69,0:05:06.91,Default,A,0000,0000,0000,,The council's debate is whether \Nto declare them dead based on
+Dialogue: 0,0:05:06.91,0:05:12.24,Default,A,0000,0000,0000,,whether or not there's a way to \Nrestore them to their original forms.
+Dialogue: 0,0:05:13.71,0:05:15.62,Default,Phi,0000,0000,0000,,They can't avenge them because
+Dialogue: 0,0:05:15.62,0:05:19.81,Default,,0000,0000,0000,,they're too busy arguing over \Nwhether they're dead or mutated?
+Dialogue: 0,0:05:26.26,0:05:28.61,Default,Phi,0000,0000,0000,,Nothing's changed.
+Dialogue: 0,0:05:28.61,0:05:31.10,Default,Phi,0000,0000,0000,,They always lose sight of what's important.
+Dialogue: 0,0:05:31.98,0:05:34.08,Default,Phi,0000,0000,0000,,We're going to do things our way.
+Dialogue: 0,0:05:34.87,0:05:37.56,Default,Phi,0000,0000,0000,,If anyone interferes, we'll take them down.
+Dialogue: 0,0:05:38.61,0:05:39.96,Default,Phi,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:05:41.29,0:05:43.73,Default,Phi,0000,0000,0000,,Before the day is out,
+Dialogue: 0,0:05:44.71,0:05:46.80,Default,Phi,0000,0000,0000,,we'll exterminate this so-called Queen.
+Dialogue: 0,0:05:49.97,0:05:52.08,Default,Zazan,0000,0000,0000,,I am the Queen.
+Dialogue: 0,0:05:52.78,0:05:54.08,Default,Zazan,0000,0000,0000,,I repeat.
+Dialogue: 0,0:05:54.60,0:05:56.08,Default,Zazan,0000,0000,0000,,Surrender.
+Dialogue: 0,0:05:56.87,0:05:59.76,Default,Zazan,0000,0000,0000,,Those who resist will be executed.
+Dialogue: 0,0:06:00.22,0:06:04.85,Default,Zazan,0000,0000,0000,,The chosen will live in paradise for eternity!
+Dialogue: 0,0:06:08.11,0:06:10.48,Default,Zazan,0000,0000,0000,,Our mother's greatest flaw
+Dialogue: 0,0:06:10.48,0:06:14.14,Default,,0000,0000,0000,,was that she could only produce soldiers
+Dialogue: 0,0:06:14.14,0:06:16.63,Default,,0000,0000,0000,,through the archaic and inefficient laying of eggs.
+Dialogue: 0,0:06:17.37,0:06:19.60,Default,Zazan,0000,0000,0000,,Her sole achievement
+Dialogue: 0,0:06:21.28,0:06:23.33,Default,Zazan,0000,0000,0000,,was giving birth to me.
+Dialogue: 0,0:06:24.76,0:06:25.76,Default,A,0000,0000,0000,,Stop...
+Dialogue: 0,0:06:26.17,0:06:27.19,Default,A,0000,0000,0000,,Kill me!
+Dialogue: 0,0:06:27.66,0:06:29.11,Default,A,0000,0000,0000,,Kill me!
+Dialogue: 0,0:06:30.01,0:06:31.87,Default,Zazan,0000,0000,0000,,Plenty of spirit...
+Dialogue: 0,0:06:32.62,0:06:33.91,Default,Zazan,0000,0000,0000,,He shows promise.
+Dialogue: 0,0:06:52.61,0:06:53.55,Default,Zazan,0000,0000,0000,,Bingo.
+Dialogue: 0,0:06:53.98,0:06:56.94,Default,A,0000,0000,0000,,Chosen one, welcome to paradise.
+Dialogue: 0,0:06:57.75,0:07:01.31,Default,B,0000,0000,0000,,Swear eternal fealty to the Queen.
+Dialogue: 0,0:07:03.74,0:07:06.07,Default,Zazan,0000,0000,0000,,I am the Queen.
+Dialogue: 0,0:07:06.17,0:07:13.07,SignA,Caption,0000,0000,0000,,{\fad(1048,1)}Sexy Stinger of Rebirth
+Dialogue: 0,0:07:08.49,0:07:11.74,Default - Margin,Zazan,0000,0000,0000,,With my Queen Shot, I shall control the world.
+Dialogue: 0,0:07:14.50,0:07:16.08,Default,Shal,0000,0000,0000,,Let's go through the front door.
+Dialogue: 0,0:07:16.92,0:07:18.86,Default,Phi,0000,0000,0000,,No objection here...
+Dialogue: 0,0:07:24.54,0:07:26.09,Default,Phi,0000,0000,0000,,No one's around.
+Dialogue: 0,0:07:26.81,0:07:29.48,Default,Phi,0000,0000,0000,,Are they inviting us in?
+Dialogue: 0,0:07:30.01,0:07:31.84,Default,Shi,0000,0000,0000,,Then I'll go this way.
+Dialogue: 0,0:07:32.28,0:07:33.96,Default,Fei,0000,0000,0000,,I'll take this way.
+Dialogue: 0,0:07:34.71,0:07:36.04,Default,Kal,0000,0000,0000,,We're splitting up?
+Dialogue: 0,0:07:36.04,0:07:39.60,Default,Fei,0000,0000,0000,,Of course... It's a race to see \Nwho'll kill the Queen.
+Dialogue: 0,0:07:40.03,0:07:43.92,Default,Phi,0000,0000,0000,,I imagine you'd prefer to hide \Nyour abilities from us.
+Dialogue: 0,0:07:44.32,0:07:47.15,Default,Phi,0000,0000,0000,,Kill anything that attacks you.
+Dialogue: 0,0:07:47.15,0:07:51.24,Default,Phi,0000,0000,0000,,If you kill the Queen, you're the interim boss.
+Dialogue: 0,0:07:51.98,0:07:52.91,Default,Kal,0000,0000,0000,,Understood.
+Dialogue: 0,0:07:53.84,0:07:54.74,Default,All,0000,0000,0000,,Start!
+Dialogue: 0,0:07:58.21,0:07:59.75,Default,Pike,0000,0000,0000,,They've scattered.
+Dialogue: 0,0:08:00.29,0:08:07.64,Default,Pike,0000,0000,0000,,From their footsteps, I can sense \Nthat these intruders are special.
+Dialogue: 0,0:08:07.64,0:08:11.01,Default,Pike,0000,0000,0000,,They are accustomed to living in the wild.
+Dialogue: 0,0:08:11.80,0:08:13.16,Default,Zazan,0000,0000,0000,,Are they strong?
+Dialogue: 0,0:08:13.16,0:08:14.29,Default,Pike,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:15.46,0:08:17.64,Default,Zazan,0000,0000,0000,,Then go and greet them.
+Dialogue: 0,0:08:17.64,0:08:22.55,Default,Pike,0000,0000,0000,,But then, no one will be here to guard you.
+Dialogue: 0,0:08:22.55,0:08:24.42,Default,Zazan,0000,0000,0000,,If you're worried about me,
+Dialogue: 0,0:08:24.42,0:08:27.94,Default,,0000,0000,0000,,capture the enemy and hurry back.
+Dialogue: 0,0:08:29.21,0:08:31.57,Default,Zazan,0000,0000,0000,,I have faith in you, Pike.
+Dialogue: 0,0:08:32.71,0:08:36.41,Default,Pike,0000,0000,0000,,Y-You are too kind...
+Dialogue: 0,0:08:36.41,0:08:40.24,Default,Pike,0000,0000,0000,,I will serve you with my life!
+Dialogue: 0,0:08:41.32,0:08:43.32,Default,Pike,0000,0000,0000,,Off I go!
+Dialogue: 0,0:08:45.28,0:08:47.08,Default,Zazan,0000,0000,0000,,Now, then...
+Dialogue: 0,0:08:48.17,0:08:49.59,Default,B,0000,0000,0000,,You're heading out?
+Dialogue: 0,0:08:51.63,0:08:54.14,Default,Zazan,0000,0000,0000,,My mother's greatest misfortune
+Dialogue: 0,0:08:54.14,0:08:57.50,Default,,0000,0000,0000,,was that she never experienced \Nthe joy of combat.
+Dialogue: 0,0:09:10.60,0:09:12.36,Default,Fish,0000,0000,0000,,You're no fun...
+Dialogue: 0,0:09:13.52,0:09:15.24,Default,Fish,0000,0000,0000,,Let me hold you.
+Dialogue: 0,0:09:15.54,0:09:17.80,Default,Fish,0000,0000,0000,,I'll send you to heaven.
+Dialogue: 0,0:09:26.34,0:09:27.53,Default,Fish,0000,0000,0000,,Moles.
+Dialogue: 0,0:09:27.53,0:09:29.75,Default,Fish,0000,0000,0000,,No, holes?
+Dialogue: 0,0:09:48.27,0:09:53.31,Default,N,0000,0000,0000,,Bonolenov descended from a small tribe \Nthat industrialization had driven out of
+Dialogue: 0,0:09:53.31,0:09:55.72,Default,,0000,0000,0000,,its ancestral lands, the Gyudondond.
+Dialogue: 0,0:09:56.27,0:10:00.80,Default,N,0000,0000,0000,,When Gyudondond males reach the age of three,
+Dialogue: 0,0:10:00.80,0:10:03.78,Default,,0000,0000,0000,,needles are used to puncture holes in their body.
+Dialogue: 0,0:10:03.78,0:10:07.03,Default,N,0000,0000,0000,,Depending on the holes' size and shape,
+Dialogue: 0,0:10:07.03,0:10:10.32,Default,,0000,0000,0000,,and the movements the Gyudondond \Nmake, they can produce sound.
+Dialogue: 0,0:10:10.87,0:10:14.10,Default,N,0000,0000,0000,,Before fighting rival tribes or wild animals,
+Dialogue: 0,0:10:14.10,0:10:18.47,Default,,0000,0000,0000,,they would play a battle song using \Ntheir own bodies as instruments.
+Dialogue: 0,0:10:18.84,0:10:21.88,Default - Margin,N,0000,0000,0000,,They are known as the Bapu, dancing warriors.
+Dialogue: 0,0:10:20.76,0:10:24.59,SignB,N,0000,0000,0000,,{\fad(486,466)}Bapu \NDancing Warriors
+Dialogue: 0,0:10:22.31,0:10:24.68,Default - Margin,N,0000,0000,0000,,They believe the more beautiful
+Dialogue: 0,0:10:24.68,0:10:28.04,Default - Margin,,0000,0000,0000,,the sound produced, the stronger \Nthe spirit that descends.
+Dialogue: 0,0:10:28.04,0:10:31.51,Default - Margin,N,0000,0000,0000,,The most skilled Bapu are treated as gods,
+Dialogue: 0,0:10:31.51,0:10:34.23,Default - Margin,,0000,0000,0000,,and hold more influence than the elders.
+Dialogue: 0,0:10:37.48,0:10:40.39,Default - Margin,Bono,0000,0000,0000,,Transform this melody into strength to fight!
+Dialogue: 0,0:10:37.55,0:10:41.56,SignC,Caption,0000,0000,0000,,{fad(171,211)}Battle Cantabile
+Dialogue: 0,0:10:40.39,0:10:42.26,Default - Margin,Bono,0000,0000,0000,,{\i1}Battle Cantabile...
+Dialogue: 0,0:10:42.95,0:10:44.20,SignC,Bono,0000,0000,0000,,{\fad(151,1)}Prologue
+Dialogue: 0,0:10:43.08,0:10:44.20,Default - Margin,Bono,0000,0000,0000,,{\i1}Prologue!
+Dialogue: 0,0:10:53.59,0:10:55.52,Default,Bono,0000,0000,0000,,The blood of my tribe,
+Dialogue: 0,0:10:55.52,0:10:58.44,Default,,0000,0000,0000,,the most beautiful in battle, \Nflows through my veins.
+Dialogue: 0,0:10:58.91,0:11:01.72,Default,Bono,0000,0000,0000,,I swear on the names of the spirits and my tribe
+Dialogue: 0,0:11:01.72,0:11:04.20,Default,Bono,0000,0000,0000,,that you will not best me.
+Dialogue: 0,0:11:05.40,0:11:10.99,Default,Fish,0000,0000,0000,,Was that attack supposed \Nto hold your tribe's pride?
+Dialogue: 0,0:11:10.99,0:11:12.23,Default,Fish,0000,0000,0000,,If so...
+Dialogue: 0,0:11:14.08,0:11:16.86,Default,Fish,0000,0000,0000,,You must not feel much pride.
+Dialogue: 0,0:11:19.00,0:11:21.37,Default,Bono,0000,0000,0000,,Don't bother recanting those words.
+Dialogue: 0,0:11:21.37,0:11:23.73,Default,Bono,0000,0000,0000,,They are but a beast's ramblings.
+Dialogue: 0,0:11:24.18,0:11:26.50,Default,Bono,0000,0000,0000,,They cannot affect me!
+Dialogue: 0,0:11:29.18,0:11:32.85,Default - italics,Shal,0000,0000,0000,,In a one-on-one fight, my opponent's \Nstrength doesn't matter.
+Dialogue: 0,0:11:32.85,0:11:35.45,Default - italics,Shal,0000,0000,0000,,If I can pierce it with this, I'll win.
+Dialogue: 0,0:11:35.45,0:11:37.51,Default - italics,Shal,0000,0000,0000,,But I'm not certain I can pierce that...
+Dialogue: 0,0:11:43.56,0:11:45.93,Default - italics,Shal,0000,0000,0000,,Those are sharp...
+Dialogue: 0,0:11:45.93,0:11:47.61,Default - italics,Shal,0000,0000,0000,,I'll need to slip in between them
+Dialogue: 0,0:11:47.61,0:11:52.27,Default - italics,Shal,0000,0000,0000,,and insert the antenna into the joint \Nexposed when he moves the arm.
+Dialogue: 0,0:11:52.81,0:11:54.77,Default - italics,Shal,0000,0000,0000,,Chance of succeeding unscathed...
+Dialogue: 0,0:11:55.38,0:11:56.77,Default - italics,Shal,0000,0000,0000,,Twenty percent!
+Dialogue: 0,0:12:09.86,0:12:11.34,Default,Shal,0000,0000,0000,,Okay, it worked...
+Dialogue: 0,0:12:11.88,0:12:12.75,Default,Shal,0000,0000,0000,,Ow.
+Dialogue: 0,0:12:13.48,0:12:15.58,Default,Shal,0000,0000,0000,,Guess escaping unharmed wasn't possible.
+Dialogue: 0,0:12:19.32,0:12:20.09,Default,Shal,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:20.90,0:12:23.25,Default - italics,Shal,0000,0000,0000,,Why didn't it work?
+Dialogue: 0,0:12:23.25,0:12:25.81,Default - italics,Shal,0000,0000,0000,,I put the antenna in...
+Dialogue: 0,0:12:25.81,0:12:27.85,Default,A,0000,0000,0000,,You must be a Manipulator.
+Dialogue: 0,0:12:28.50,0:12:32.65,Default,A,0000,0000,0000,,I can tell because, once you placed \Nthat antenna in Pell, you relaxed.
+Dialogue: 0,0:12:33.21,0:12:36.67,Default,A,0000,0000,0000,,That must be the condition \Nfor activating your power.
+Dialogue: 0,0:12:36.67,0:12:39.53,Default,A,0000,0000,0000,,You let your guard down \Nwhen you thought it worked.
+Dialogue: 0,0:12:40.44,0:12:42.38,Default - italics,Shal,0000,0000,0000,,Its name is Pell?
+Dialogue: 0,0:12:42.94,0:12:44.53,Default,Shal,0000,0000,0000,,You must also be a Manipulator.
+Dialogue: 0,0:12:45.70,0:12:49.36,Default,Shal,0000,0000,0000,,If my power doesn't activate after \Nthe condition has been met,
+Dialogue: 0,0:12:49.36,0:12:52.79,Default,Shal,0000,0000,0000,,that means my target is already being \Nmanipulated by another {\i1}Nen{\i0} user.
+Dialogue: 0,0:12:53.28,0:12:55.54,Default - italics,Shal,0000,0000,0000,,That, and he has a remote controller.
+Dialogue: 0,0:12:55.87,0:12:57.97,Default,A,0000,0000,0000,,Oh, you knew?
+Dialogue: 0,0:12:57.97,0:13:01.05,Default,A,0000,0000,0000,,Yes, it's first come, first served for Manipulators.
+Dialogue: 0,0:13:01.37,0:13:06.30,Default,A,0000,0000,0000,,Once I take you to the Queen, my job is done.
+Dialogue: 0,0:13:08.26,0:13:09.05,Default - italics,Shal,0000,0000,0000,,No good...
+Dialogue: 0,0:13:09.47,0:13:11.20,Default - italics,Shal,0000,0000,0000,,I can't break free.
+Dialogue: 0,0:13:12.20,0:13:13.85,Default - italics,Shal,0000,0000,0000,,Guess there's no choice.
+Dialogue: 0,0:13:14.26,0:13:16.86,Default - italics,Shal,0000,0000,0000,,I'd rather not have to use this...
+Dialogue: 0,0:13:20.80,0:13:23.57,Default,Gor,0000,0000,0000,,Your punch stings about as \Nmuch as a mosquito bite.
+Dialogue: 0,0:13:24.19,0:13:25.70,Default,Gor,0000,0000,0000,,What's next?
+Dialogue: 0,0:13:25.70,0:13:26.82,Default,Gor,0000,0000,0000,,You gonna kick me?
+Dialogue: 0,0:13:26.82,0:13:27.57,Default,Gor,0000,0000,0000,,Pull out a weapon?
+Dialogue: 0,0:13:28.36,0:13:32.08,Default,Gor,0000,0000,0000,,As a gift to you on your way to the afterlife, \NI'll grant you one more attack.
+Dialogue: 0,0:13:32.48,0:13:35.72,Default,Phi,0000,0000,0000,,For an ant, you know some big words.
+Dialogue: 0,0:13:36.13,0:13:38.23,Default,Phi,0000,0000,0000,,Then I'll take you up on that...
+Dialogue: 0,0:13:38.70,0:13:40.00,Default,Phi,0000,0000,0000,,And go with a punch.
+Dialogue: 0,0:13:41.24,0:13:43.26,Default,Gor,0000,0000,0000,,You're sure? Really?
+Dialogue: 0,0:13:43.87,0:13:45.92,Default,Phi,0000,0000,0000,,Fifteen should do it.
+Dialogue: 0,0:13:46.40,0:13:47.75,Default,Gor,0000,0000,0000,,Fifteen?
+Dialogue: 0,0:13:48.77,0:13:52.78,Default,Phi,0000,0000,0000,,Four, five, six...
+Dialogue: 0,0:13:56.38,0:14:01.44,Default,Phi,0000,0000,0000,,Eleven, twelve, thirteen, fourteen...
+Dialogue: 0,0:14:02.08,0:14:03.70,Default,Phi,0000,0000,0000,,Fifteen!
+Dialogue: 0,0:14:06.63,0:14:07.70,Default,Gor,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:08.66,0:14:11.20,Default,Phi,0000,0000,0000,,I get a free attack, right?
+Dialogue: 0,0:14:11.62,0:14:13.45,Default,Gor,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:14:17.98,0:14:24.46,SignD,Caption,0000,0000,0000,,{\fad(1,180)}Karmic Loop
+Dialogue: 0,0:14:18.56,0:14:22.46,Default,Phi,0000,0000,0000,,Every time I wind my arm, my punch gets stronger.
+Dialogue: 0,0:14:22.46,0:14:24.96,Default - italics,Phi,0000,0000,0000,,Ripper Cyclotron!
+Dialogue: 0,0:14:22.71,0:14:24.46,SignG,Phi,0000,0000,0000,,{\fad(1,180)}Ripper Cyclotron
+Dialogue: 0,0:14:31.09,0:14:35.18,Default,Phi,0000,0000,0000,,Oh, half of that would have been enough.
+Dialogue: 0,0:14:35.18,0:14:38.45,Default,Phi,0000,0000,0000,,I never seem to know how much power to use.
+Dialogue: 0,0:14:38.45,0:14:39.48,Default,Phi,0000,0000,0000,,Now, then...
+Dialogue: 0,0:14:40.00,0:14:41.80,Default,Phi,0000,0000,0000,,Which way to go?
+Dialogue: 0,0:14:42.70,0:14:44.16,Default,Phi,0000,0000,0000,,Right?
+Dialogue: 0,0:14:44.94,0:14:46.57,Default,Phi,0000,0000,0000,,Or left?
+Dialogue: 0,0:14:48.26,0:14:50.28,Default,Phi,0000,0000,0000,,I'll flip a coin.
+Dialogue: 0,0:14:59.24,0:15:02.00,Default - Margin,Shal,0000,0000,0000,,What's going to happen to me?
+Dialogue: 0,0:15:02.00,0:15:03.84,Default,A,0000,0000,0000,,You'll become a slave.
+Dialogue: 0,0:15:03.84,0:15:06.80,Default,A,0000,0000,0000,,You'll work for the Queen until you die.
+Dialogue: 0,0:15:06.80,0:15:09.76,Default,A,0000,0000,0000,,Not too different from your current life.
+Dialogue: 0,0:15:11.39,0:15:12.55,Default,Shal,0000,0000,0000,,That's true, in a sense.
+Dialogue: 0,0:15:13.10,0:15:16.55,Default,Shal,0000,0000,0000,,I'd just be taking orders from a different person.
+Dialogue: 0,0:15:16.55,0:15:20.56,Default,Shal,0000,0000,0000,,But I'd rather die than listen \Nto someone I don't even like.
+Dialogue: 0,0:15:21.10,0:15:22.97,Default,A,0000,0000,0000,,Strong words.
+Dialogue: 0,0:15:22.97,0:15:25.81,Default,A,0000,0000,0000,,Well, at this point, all you \Ncan move is your mouth.
+Dialogue: 0,0:15:25.81,0:15:28.55,Default,Shal,0000,0000,0000,,I can move both hands and my left leg.
+Dialogue: 0,0:15:28.55,0:15:29.82,Default,A,0000,0000,0000,,That's nice.
+Dialogue: 0,0:15:30.19,0:15:32.93,Default,A,0000,0000,0000,,Anyway, ready for me to take control?
+Dialogue: 0,0:15:32.93,0:15:35.34,Default,A,0000,0000,0000,,I can't let you die.
+Dialogue: 0,0:15:35.34,0:15:36.45,Default,A,0000,0000,0000,,Once I put this in you...
+Dialogue: 0,0:15:36.45,0:15:40.69,Default,Shal,0000,0000,0000,,When I fight, I always carry two antennae.
+Dialogue: 0,0:15:40.69,0:15:42.46,Default,Shal,0000,0000,0000,,For just this kind of situation.
+Dialogue: 0,0:15:43.49,0:15:45.46,Default,Shal,0000,0000,0000,,First come, first served.
+Dialogue: 0,0:15:46.41,0:15:47.71,Default,A,0000,0000,0000,,He stuck it in himself!
+Dialogue: 0,0:15:48.12,0:15:50.72,Default,N,0000,0000,0000,,Autopilot on.
+Dialogue: 0,0:15:54.90,0:15:57.26,Default,A,0000,0000,0000,,S-So much aura...
+Dialogue: 0,0:15:58.13,0:16:00.60,Default,N,0000,0000,0000,,Enemy identified.
+Dialogue: 0,0:16:00.96,0:16:02.60,Default,N,0000,0000,0000,,Eliminating now.
+Dialogue: 0,0:16:03.00,0:16:04.25,Default,A,0000,0000,0000,,Go, Pell!
+Dialogue: 0,0:16:04.25,0:16:06.66,Default,A,0000,0000,0000,,Aim for his leg! Remove the antenna!
+Dialogue: 0,0:16:18.13,0:16:19.95,Default,N,0000,0000,0000,,Mission complete.
+Dialogue: 0,0:16:19.95,0:16:22.12,Default,N,0000,0000,0000,,Autopilot disengaging.
+Dialogue: 0,0:16:22.70,0:16:24.26,Default,N,0000,0000,0000,,Powering off.
+Dialogue: 0,0:16:28.44,0:16:29.57,Default,,0000,0000,0000,,Ow...
+Dialogue: 0,0:16:29.57,0:16:31.42,Default,Shal,0000,0000,0000,,I already feel it...
+Dialogue: 0,0:16:31.42,0:16:35.17,Default,Shal,0000,0000,0000,,I'll be down with muscle aches \Nfor two or three days.
+Dialogue: 0,0:16:35.88,0:16:38.72,Default,Shal,0000,0000,0000,,That's why I hate using this!
+Dialogue: 0,0:16:39.15,0:16:43.14,Default,Shal,0000,0000,0000,,It makes me stronger, but there's a hefty price.
+Dialogue: 0,0:16:43.67,0:16:45.75,Default,Shal,0000,0000,0000,,And I remember nothing that happened,
+Dialogue: 0,0:16:45.75,0:16:48.11,Default,,0000,0000,0000,,so I don't feel like I've accomplished anything.
+Dialogue: 0,0:16:52.20,0:16:55.41,Default,Pike,0000,0000,0000,,You have considerable power for a lady.
+Dialogue: 0,0:16:55.71,0:16:58.91,Default - italics,Pike,0000,0000,0000,,Where was she hiding that vacuum cleaner?
+Dialogue: 0,0:17:01.05,0:17:02.82,Default - italics,Shi,0000,0000,0000,,His thread is strong.
+Dialogue: 0,0:17:02.82,0:17:05.37,Default - italics,Shi,0000,0000,0000,,If I get caught in it, I won't be able to escape.
+Dialogue: 0,0:17:09.01,0:17:10.81,Default,Fei,0000,0000,0000,,Where's the Queen?
+Dialogue: 0,0:17:11.78,0:17:13.05,Default,Zazan,0000,0000,0000,,Rejoice.
+Dialogue: 0,0:17:13.05,0:17:14.56,Default,Zazan,0000,0000,0000,,She stands before you now.
+Dialogue: 0,0:17:15.21,0:17:17.01,Default,Fei,0000,0000,0000,,That's a lame joke.
+Dialogue: 0,0:17:17.88,0:17:19.68,Default,Zazan,0000,0000,0000,,Huh? A joke?
+Dialogue: 0,0:17:20.46,0:17:24.06,Default,Zazan,0000,0000,0000,,You have no manners, brat.\NThis warrants a hefty punishment.
+Dialogue: 0,0:17:24.06,0:17:26.63,Default,Bono,0000,0000,0000,,They are but a beast's ramblings.
+Dialogue: 0,0:17:26.63,0:17:28.96,Default,Phi,0000,0000,0000,,Then I'll take you up on that.
+Dialogue: 0,0:17:28.96,0:17:33.07,Default,Shal,0000,0000,0000,,When I fight, I always carry two antennae.
+Dialogue: 0,0:17:34.52,0:17:37.41,Default,Kal,0000,0000,0000,,It sounds like Feitan found the Queen...
+Dialogue: 0,0:17:38.17,0:17:40.61,Default,Kal,0000,0000,0000,,How do I kill her first?
+Dialogue: 0,0:17:40.61,0:17:42.83,Default,K,0000,0000,0000,,What's this? A child?
+Dialogue: 0,0:17:43.50,0:17:46.83,Default,K,0000,0000,0000,,Hey, little girl, come over here.
+Dialogue: 0,0:17:46.83,0:17:48.03,Default,Kal,0000,0000,0000,,I refuse.
+Dialogue: 0,0:17:48.49,0:17:49.59,Default,K,0000,0000,0000,,Rejected...
+Dialogue: 0,0:17:50.09,0:17:52.96,Default,K,0000,0000,0000,,Then I'll come to you.
+Dialogue: 0,0:17:55.63,0:17:58.30,Default,Kal,0000,0000,0000,,I'm in a hurry right now.
+Dialogue: 0,0:18:04.33,0:18:06.23,Default,K,0000,0000,0000,,What's that?
+Dialogue: 0,0:18:06.88,0:18:08.35,Default,Kal,0000,0000,0000,,Confetti.
+Dialogue: 0,0:18:09.75,0:18:11.23,Default,Kal,0000,0000,0000,,Wind!
+Dialogue: 0,0:18:18.60,0:18:20.74,Default,K,0000,0000,0000,,That didn't even tickle.
+Dialogue: 0,0:18:24.88,0:18:28.21,Default,K,0000,0000,0000,,Surrounding me with more paper?
+Dialogue: 0,0:18:31.09,0:18:33.34,Default,K,0000,0000,0000,,You're wasting your time!
+Dialogue: 0,0:18:34.08,0:18:34.84,Default,Kal,0000,0000,0000,,Look.
+Dialogue: 0,0:18:36.69,0:18:40.01,Default,K,0000,0000,0000,,What? You think that means something?
+Dialogue: 0,0:18:40.01,0:18:42.26,Default,K,0000,0000,0000,,You really are a stupid kid!
+Dialogue: 0,0:18:46.35,0:18:47.86,Default,K,0000,0000,0000,,Impossible...
+Dialogue: 0,0:18:47.86,0:18:50.13,Default,K,0000,0000,0000,,This rope is made of steel!
+Dialogue: 0,0:18:50.13,0:18:53.57,Default,Kal,0000,0000,0000,,My fan is made of paper.
+Dialogue: 0,0:19:07.50,0:19:09.12,SignE,Caption,0000,0000,0000,,{\fad(439,1)}Meandering Dance
+Dialogue: 0,0:19:08.45,0:19:10.12,Default - italics,Kal,0000,0000,0000,,Meandering Dance.
+Dialogue: 0,0:19:17.97,0:19:19.13,Default,Cal,0000,0000,0000,,Look.
+Dialogue: 0,0:19:21.59,0:19:24.01,Default,Cal,0000,0000,0000,,Your right arm is next.
+Dialogue: 0,0:19:26.97,0:19:28.02,Default - italics,Zazan,0000,0000,0000,,An umbrella?
+Dialogue: 0,0:19:38.43,0:19:40.15,Default - italics,Fei,0000,0000,0000,,Decent reaction.
+Dialogue: 0,0:19:41.18,0:19:42.82,Default,Zazan,0000,0000,0000,,A hidden blade?
+Dialogue: 0,0:19:43.59,0:19:46.16,Default,Zazan,0000,0000,0000,,You like hiding things on you, little boy?
+Dialogue: 0,0:19:46.59,0:19:48.71,Default,Fei,0000,0000,0000,,As do you.
+Dialogue: 0,0:19:48.71,0:19:51.09,Default,Fei,0000,0000,0000,,When an opponent wears baggy clothing,
+Dialogue: 0,0:19:51.09,0:19:53.92,Default,Fei,0000,0000,0000,,it's safe to assume they're hiding something.
+Dialogue: 0,0:20:17.90,0:20:19.55,Default,Bono,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:20:19.55,0:20:21.96,Default,Bono,0000,0000,0000,,Are you not going to continue your attack?
+Dialogue: 0,0:20:22.97,0:20:27.87,Default,Bono,0000,0000,0000,,That is the only way to stop my performance.
+Dialogue: 0,0:20:34.56,0:20:36.54,Default,Fish,0000,0000,0000,,You'll pay for this!
+Dialogue: 0,0:20:36.54,0:20:37.41,Default - italics,Fish,0000,0000,0000,,Pike...
+Dialogue: 0,0:20:37.41,0:20:39.61,Default - italics,Fish,0000,0000,0000,,If I get Pike to use his thread \Nto tangle up this guy,
+Dialogue: 0,0:20:39.61,0:20:40.76,Default - italics,,0000,0000,0000,,he can't make any sound!
+Dialogue: 0,0:20:41.39,0:20:44.76,Default,Fish,0000,0000,0000,,Next time, I'll rip you apart!
+Dialogue: 0,0:20:45.95,0:20:48.39,Default,Bono,0000,0000,0000,,Your escape is certainly fast...
+Dialogue: 0,0:20:48.99,0:20:52.60,Default,Bono,0000,0000,0000,,But not as fast as the speed of sound.
+Dialogue: 0,0:21:14.00,0:21:16.92,Default - italics,Bono,0000,0000,0000,,Battle Cantabile...
+Dialogue: 0,0:21:18.79,0:21:21.28,SignF,Bono,0000,0000,0000,,{\fad(272,438)}Jupiter
+Dialogue: 0,0:21:18.84,0:21:21.26,Default - italics,Bono,0000,0000,0000,,Jupiter!
+Dialogue: 0,0:21:39.86,0:21:42.27,Default,Bono,0000,0000,0000,,Crushed to death.
+Dialogue: 0,0:21:42.83,0:21:46.41,Default,Bono,0000,0000,0000,,An appropriate death for a bug.
+Dialogue: 0,0:21:51.25,0:21:55.36,Default,N,0000,0000,0000,,The Phantom Troupe fight to save their home,
+Dialogue: 0,0:21:55.36,0:21:57.75,Default,,0000,0000,0000,,Meteor City, from the Chimera Ants.
+Dialogue: 0,0:23:25.20,0:23:27.91,Default,Gon,0000,0000,0000,,Next time: Carnage x And x Devastation.
+Dialogue: 0,0:23:27.91,0:23:29.33,Default,Gon,0000,0000,0000,,!aulliK, yalp s'teL
+Dialogue: 0,0:23:29.33,0:23:30.48,Default,Kil,0000,0000,0000,,.noG, eurS
+Dialogue: 0,0:23:30.48,0:23:32.39,Default,Gon,0000,0000,0000,,What did we just say?
+Dialogue: 0,0:23:32.39,0:23:34.21,Default,Kil,0000,0000,0000,,Hint... It was backwards.

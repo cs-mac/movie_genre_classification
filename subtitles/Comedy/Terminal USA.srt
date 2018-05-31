@@ -1,0 +1,726 @@
+{1062}{1184} United Airlines announcing|the arrival of Flight 9435 from Beiijing.
+{1186}{1261}Customer service representative,|report to Gate C42.
+{1501}{1626} All visitors to the US should|line up at booths one through 15.
+{1628}{1747}Please have your l-94 forms filled out.
+{1749}{1841}- What's the purpose of your visit?|- What is the purpose of your visit?
+{1843}{1918}What is the purpose of your visit?|Business or pleasure?
+{1920}{1956}Just visiting. Shopping?
+{1958}{1982}Au plaisir.
+{1984}{2033}- Pleasure.|- Business.
+{2035}{2078}How long will you be staying?
+{2110}{2154}Could I see your return ticket?
+{2156}{2241}- What's the purpose of your visit?|- Business or pleasure?
+{2243}{2315}Enjoy your stay. Next.
+{2317}{2405} Please have your passports,|immigration forms, l-94,
+{2407}{2496}and customs declarations|ready to hand to the inspector.
+{2577}{2640}- Stand by. He's fishing.|- Copy that.
+{2642}{2713}See this bunch|of Mickey Mouse sweatshirts?
+{2714}{2784}That's the tour from China,|connecting to Orlando.
+{2785}{2851}When was the last time|you saw Chinese tourists
+{2853}{2942}on their way to Disney World|without any cameras?
+{2944}{3014}Possible forged documents|on 10 and 11.
+{3206}{3284}Sir. Sir. Passport.
+{3339}{3371}Thank you.
+{3396}{3478}Welcome, Mr. Navorski.
+{3480}{3528}Purpose of your visit?
+{3529}{3626}- Business or pleasure?
+{3974}{4017}Sir, I have an IBIS hit on six.
+{4019}{4053} No!
+{4055}{4137}Mr. Navorski, please follow me.
+{4139}{4231}...flight number 746 from Montreal
+{4233}{4321}must proceed to US Immigration|before claiming their luggage.
+{4323}{4427}All right, Mr. Navorski,|we'd like you to wait here, please.
+{4429}{4461}Next, please.
+{4463}{4500}Next, please.
+{4866}{4950} What are you doing|in the United States, Mr. Navorski?
+{5074}{5143}Yellow taxicab, please.
+{5145}{5225}Take me to Ramada Inn,
+{5227}{5314}161 Lexington.
+{5408}{5463}Staying at the Ramada Inn?
+{5465}{5524}Keep the change.
+{5525}{5608}Do you know anyone in New York?
+{5609}{5645}Yes.
+{5647}{5715}- Who?|- Yes.
+{5738}{5834}- Who?|- Yes.
+{5836}{5914}- No, do you know anyone in New York?|- Yes.
+{5916}{5964}- Who?|- Yes.
+{6092}{6149}161 Lexington.
+{6150}{6238}OK, Mr. Navorski, I need to see|your return ticket, please.
+{6269}{6332}No, your return ticket. Your...
+{6334}{6388}- Oh... Yes.|- Ah.
+{6469}{6517}This is just a standard procedure.
+{6549}{6622}I'm going to need the passport also.
+{6624}{6670}Oh... OK.
+{6672}{6711}- No, no.|- Thank you.
+{6713}{6751}Mr. Navorski.
+{6788}{6851}That. Passport.
+{6919}{6967}That.
+{7106}{7160}Mr. Navorski?|Sorry to keep you waiting.
+{7162}{7293}I'm Frank Dixon, Director of Customs|and Border Protection here at JFK.
+{7294}{7363}I help people|with their immigration problems.
+{7365}{7431}We're looking for|an interpreter for you.
+{7433}{7527}How are we doing on that?|Do we have an interpreter?
+{7529}{7601}But I understand|that you speak a little English.
+{7603}{7669}- Yes.|- You do?
+{7671}{7753}I hope you don't mind if I eat|while we talk. I've a bit of bad news.
+{7755}{7828}Your country has suspended|all traveling privileges
+{7830}{7895}on passports issued|by your government.
+{7897}{7969}And our State Department|has revoked the visa
+{7971}{8031}that was going to allow you|to enter the US.
+{8033}{8100}That's it in a nutshell, basically.
+{8101}{8208}While you were in the air there|was a military coup in your country.
+{8210}{8284}Most of the dead were members|of the Presidential Guard.
+{8286}{8348}They were attacked|in the middle of the night.
+{8350}{8405}They got it all on GHN, I think.
+{8407}{8492}There were few civilian casualties.|I'm sure your family's fine.
+{8494}{8588}Mr. Navorski, your country|was annexed from the inside.
+{8589}{8654}The Republic of Krakozhia|is under new leadership.
+{8656}{8727}Krakozhia. Krakozhia
+{8766}{8904}- Krakozhia.|- Right. I don't think he gets it.
+{8906}{8984}Er... Let me... OK. Look.
+{8986}{9045}Imagine that these potato chips|are Krakozhia.
+{9047}{9105}Kra-kozhia.
+{9107}{9144}- Kra-kozhia.|- Yes.
+{9145}{9193}- Krakozhia.|- OK.
+{9195}{9291}Er... So the potato chips are Krakozhia.
+{9293}{9381}- And this apple...|- Big Apple. Big Apple.
+{9383}{9450}...Big Apple represents|the Liberty Rebels.
+{9469}{9517}OK?
+{9549}{9617}No more Krakozhia! OK?
+{9618}{9733}New government.|Revolution. You understand?
+{9734}{9814}All the flights in and out|of your country have been suspended.
+{9816}{9915}The new government has sealed all|borders, so your visa's no longer valid.
+{9917}{10004}So, currently|you are a citizen of nowhere.
+{10006}{10054}Now, we can't process you new papers
+{10056}{10200}until the US recognizes your country's|new diplomatic reclassification.
+{10201}{10265}You don't qualify for asylum,|refugee status,
+{10267}{10337}temporary protective status,|humanitarian parole,
+{10338}{10436}or non-immigration work travel.|You don't qualify for any of these.
+{10438}{10486}You are at this time simply...
+{10544}{10630}...unacceptable.|- Unacceptable.
+{10632}{10689}- Unacceptable.|- Unacceptable.
+{10690}{10855}Big Apple tour includes Brooklyn Bridge,|Empire State, Broadway show Cats.
+{10857}{10935}I got more bad news for you.|Cats has closed.
+{10937}{10981}OK. OK.
+{10983}{11057}Now I go New York City. Thank you.
+{11059}{11159}No, Mr. Navorski. I cannot allow you|to enter the United States at this time.
+{11161}{11246}- Krakozhia.|- We can't allow you to go home either.
+{11248}{11339}You don't really have a home.|Technically it doesn't exist.
+{11341}{11472}It's like a Twilight Zone.|Do you get that show over there?
+{11473}{11553}Talking Tina, Zanti Misfits.
+{11555}{11613}Zanti Misfits was Outer Limits, sir.
+{11614}{11663}Really? It's not important.
+{11665}{11746}Where do I buy the Nike shoes?
+{11748}{11811}OK, Mr. Navorski, come here.
+{11813}{11867}Here's my dilemma, Mr. Navorski.
+{11869}{11961}You have no right to enter the US|and I have no right to detain you.
+{11962}{12024}You have fallen through|a crack in the system.
+{12025}{12119}- I am crack.|- Yes. Until we get this sorted out,
+{12121}{12223}I will allow you to enter|the International Transit Lounge.
+{12225}{12311}I'm going to sign a release form|that is going to make you a free man.
+{12313}{12367}- Free?|- Free. Free.
+{12369}{12513}Free to go anywhere you like|in the International Transit Lounge.
+{12515}{12563}- OK?|- OK.
+{12565}{12622}- OK.|- OK.
+{12624}{12652}OK.
+{12653}{12717}Uncle Sam will have this|sorted out by tomorrow,
+{12719}{12780}and welcome|to the United States. Almost.
+{12817}{12866}- Thank you.|- OK. All right.
+{12868}{12916}Thanks, Judge.
+{13325}{13425} Announcing the arrival|of flight 76 from Singapore Airlines.
+{13427}{13475}Now, Mr. Navorski.
+{13477}{13520}Mr. Navorski. Mr. Navorski.
+{13521}{13584}This is the International|Transit Lounge.
+{13585}{13660}You are free to wait here.|These are food vouchers.
+{13661}{13764}You can use them in the Food Court.|Your Krakozhian money is no good here.
+{13765}{13836}This is a 15-minute,|prepaid calling card.
+{13837}{13894}You may call home, if you like.
+{13896}{13994}This, in case we need to contact you,|is a pager.
+{13996}{14077}You must keep this|with you at all times.
+{14078}{14212}Here is an ID badge for you|to get into CBP. Beyond those doors...
+{14214}{14304}Mr. Navorski.|I'm going to need you to look at me.
+{14306}{14373}Beyond those doors is American soil.
+{14375}{14438}Mr. Dixon wants me to make it clear
+{14440}{14507}that you are not|to enter through those doors.
+{14509}{14614}You are not to leave this building.|America is closed.
+{14616}{14664}America closed.
+{14695}{14740}What I do?
+{14769}{14857}There's only one thing|you can do here, Mr. Navorski.
+{14859}{14915}Shop.
+{14917}{15023} Passengers of flight 854|New York/Warsaw...
+{15192}{15297}... the international community|tries to secure a peaceful resolution.
+{15298}{15404}The populace has to wonder if|they will ever find political stability,
+{15405}{15535}or find the leadership to secure|their place on the world stage.
+{15537}{15601}And next this hour,|looking to buy a 90-foot yacht?
+{15754}{15854}... taken hostage. We're hearing|that the Vice President has been killed
+{15856}{15959}along with four cabinet members,|13 inijured soldiers and 20 civilians.
+{15961}{16036}By dawn, rebel leaders|had surrounded the state houses.
+{16038}{16133}In a symbolic gesture, the national flag|of Krakozhia was torn down
+{16135}{16212}from the Presidential Palace|and the parliament building.
+{16831}{16879}Please. Please.
+{16900}{16936}Television.
+{17051}{17128} Passenger Chen Wan-Shiu|and Liu Tao-Jing,
+{17130}{17210}please come to podium|to pick up your boarding passes.
+{17549}{17674}This ijust in. Last night a military coup|overthrew the government of Krakozhia.
+{17676}{17744}Bombing and gunfire|were heard through the night.
+{17745}{17797}Although details are unclear,
+{17799}{17930}we are told that President Vagobagin|and his aides have been taken hostage.
+{17932}{18002}Bonijour, monsieur.|You are a Red Carpet Club member?
+{18064}{18162}I need to see|your boarding pass and club card, sir.
+{18164}{18240}I'm sorry, sir.|This is a private lounge.
+{18241}{18322}The public lounge is downstairs.
+{18360}{18498} The tiniest nation in the region|has been shaken by another uprising.
+{18500}{18617}Krakozhia has been involved in civil war|throughout the late '80s and '90s
+{18618}{18690}as it has tried|to transition from Communist rule.
+{19315}{19363}- Watch it!|- Please.
+{19397}{19444}Please, telephone?|Telephone?
+{19471}{19519}Telephone?
+{19587}{19627}Please. Please.
+{19629}{19676}Please. Please.
+{20417}{20514} For security reasons, please|keep your luggage with you at all times.
+{20516}{20636}Unattended luggage will be removed|for inspection and may be destroyed.
+{20987}{21100}Oh, my God.|Oh, my God, you broke my bag!
+{21102}{21192}I got this in Paris.|This is my favorite bag.
+{21193}{21319}I can't believe you just broke my bag!|Mom, Dad! He broke my bag!
+{21543}{21657}- Food document.|- Excuse me. Stop it. Stop it.
+{21659}{21720}Do you have an appointment?
+{21721}{21864}I don't let anyone to look|at my trash without an appointment.
+{21865}{21938}I have an opening next Tuesday.
+{21940}{22034}Tuesday. Tuesday,|Monday, Tuesday, Wednesday, Tuesday.
+{22036}{22126}It will be good time for you|to come back and get lost.
+{22128}{22185}OK, goodbye. Sorry.
+{22229}{22276}Tuesday.
+{26576}{26624}Don't shoot!
+{26813}{26947} She sleeps 12, Frank. Has a|120-volt generator, wet bar, gas range.
+{26949}{26996}She looks amazing.
+{26997}{27060}She's my pot of gold|at the end of the rainbow.
+{27062}{27131}She's a beautiful boat|and I hope you get her soon.
+{27133}{27208}- You've earned her.|- Thank you, Frank.
+{27209}{27276}- You have.|- Actually, I bought her yesterday.
+{27277}{27349}Come on. Congratulations!
+{27351}{27414}I'm nominating you to take my place.
+{27432}{27519}You will assume the duties|of acting Field Commissioner
+{27521}{27588}until you get approval from Washington.
+{27589}{27649}Really? I don't know what to say.
+{27671}{27758}- Jesus. Richard, is this real?|- It's real, Frank, it's real.
+{27760}{27819}Don't pretend to be surprised.
+{27867}{27952}You've been waiting for me to retire|or drop dead for years now.
+{27954}{28020}No, I haven't been|waiting for you to retire.
+{28070}{28108}That's all right, Frank.
+{28110}{28198}My retirement will become official|the day you get sworn in.
+{28276}{28371}- You've waited a long time for this.|- I have.
+{28373}{28460}Just be careful|about the inspection process.
+{28462}{28535}I will.|I've been here for 17 years...
+{28537}{28614}We're talking about|the Field Commissioner position.
+{28616}{28720}People are going to look to you|for leadership, to set an example.
+{28772}{28826}What are you saying?
+{28877}{28960}I'm saying the job is yours to lose.
+{28962}{29067}Ship the Colombians|off to asylum hearings,
+{29069}{29135}and call the parents|of those kids from Long Island.
+{29137}{29206}Tell them it was a bad idea|to let them go to Jamaica.
+{29208}{29289}Come on, let's go. South America|and Madrid are on the tarmac.
+{29290}{29346}I want them out of here in half an hour.
+{29453}{29516}Mr. Thurman.
+{29518}{29621}There's a man walking around|the terminal in a bathrobe.
+{29623}{29708}I know, sir. You put him there.
+{30184}{30233}Welcome to the United States.
+{30235}{30272}Next!
+{30362}{30402}I need visa.
+{30404}{30488}Where's your green form?|I can't do anything without it.
+{30490}{30537}Go to the wall.
+{30539}{30575}Next!
+{30631}{30673}Sir.
+{30749}{30809}The light green form.
+{30880}{30972}I love New York...
+{30973}{31033}- I love it!|- New York
+{31074}{31190}I love New York
+{31221}{31325}I love New York...
+{31445}{31502}Light green.
+{31555}{31637}Mr. Navorski, you cannot|get into New York without a visa.
+{31638}{31691}You cannot get a visa|without a passport,
+{31693}{31761}and you cannot get|a new passport without a country.
+{31762}{31824}There's nothing|we can do for you here.
+{31826}{31874}I give you light green.
+{31876}{31954}I'm sorry,|but you've wasted an entire day.
+{31956}{32004}At this time you are simply...
+{32040}{32105}- Unacceptable.|- Yes.
+{32107}{32131}Unacceptable.
+{32182}{32226} Why is he still here?
+{32228}{32330}You released him, sir.|You put him there.
+{32332}{32427}Why doesn't he walk out the doors?|Why doesn't he try to escape?
+{32429}{32547}- Sir, you told him to wait.|- I didn't think he'd actually do it.
+{32616}{32705}I mean, he's in a crack.|Who the hell waits in a crack?
+{32707}{32814}No news from the State Department,|but we can deport him in a few days.
+{32816}{32905}Yeah, it could be a few days.|It could be a week, two weeks, a month.
+{32907}{32998}Who knows what this guy is thinking,|what gulag he escaped from.
+{33000}{33048} Next!
+{33101}{33157}Everything he does comes back to me.
+{33159}{33252}- You want him back in the holding cell?|- No, I'll show him the door.
+{33305}{33340}Hello.
+{33365}{33412}Hello.
+{33433}{33519}- Do you have an appointment?|- Yes. 9.30.
+{33521}{33599}Food document, trash. Tuesday.
+{33601}{33683}Tuesday. I hate the Tuesday.
+{33685}{33721}Excuse me.
+{34357}{34453}Airports are tricky places,|Mr. Navorski.
+{34455}{34521}I'm about to tell you something.
+{34523}{34588}Something you can|never repeat to anyone.
+{34589}{34654}Do you understand? It's a secret.
+{34656}{34720}- Secret?|- Yes, a secret.
+{34722}{34853}At 12 o'clock today, the guards|at those doors will leave their posts
+{34854}{34940}and their replacements|are going to be five minutes late.
+{34942}{34994}Late five minutes.
+{34996}{35120}Yes. Late five minutes. At 12 o'clock.|Just today. Just this once.
+{35121}{35176}No one is going|to be watching those doors.
+{35178}{35290}- And no one will be watching you.|- So, America not closed.
+{35292}{35320}No.
+{35322}{35423}America, for five minutes, is open.
+{35425}{35476}Have a nice life, Mr. Navorski.
+{35710}{35794}Catch and release. It's simple.|Sometimes you land a small fish.
+{35796}{35869}You unhook him|and place him back in the water.
+{35871}{35987}You set him free so that somebody else|can have the pleasure of catching him.
+{36062}{36116}All right, here we go.
+{36118}{36173}OK. Call them off.
+{36175}{36230}Johnson, clear the doors.
+{36303}{36329}All right. Go.
+{36331}{36409}Get out of there.|All right, there's the door.
+{36433}{36477}All right.
+{36479}{36547}Here we go.|Now where is he?
+{36549}{36618}- There he is.|- No, that's not him.
+{36620}{36668}There he is.
+{36669}{36705}All right, Viktor.
+{36724}{36762}Here we go.
+{37171}{37264}What's so complicated? Exit, Viktor.
+{37265}{37348}Come on. In a few minutes,|you'll be somebody else's problem.
+{37350}{37404}He wants to make sure|nobody's watching.
+{37405}{37465}I told him nobody would be watching.
+{37467}{37550}Come on. All right, here we go.
+{37552}{37611}- Call the Airport Police.|- He's on his way.
+{37653}{37678}Excuse me.
+{38166}{38232}You got it. There we go.
+{38233}{38312}He's got to get a running start,|I guess.
+{38314}{38375}Just leave. Just leave.
+{38377}{38427}Leave. Leave.
+{38429}{38515}What are you doing?|Why is he kneeling? Is he praying?
+{38517}{38578}No. He's tying his shoelace.
+{38711}{38765}Come on, leave.
+{38767}{38815}Get the cameras.
+{38980}{39067}Where is he? Where is he?
+{39176}{39245}- To the left of here.|- No. He was at the door.
+{39247}{39319}- Just go a little left.|- All right. All right.
+{39534}{39569}I wait.
+{39740}{39819}What are you looking at?|Go back to work. Thank you.
+{40000}{40076} Oh, God. Oh, shit.
+{40276}{40350}- This belong you?|- Thank you.
+{40352}{40397}Oh, shit.
+{40432}{40511}See? Wet floor.
+{40513}{40551}That you.
+{40553}{40589}I'm so late.
+{40591}{40656}Buenos Aires.|I can't remember the gate.
+{40658}{40711}Gate 24.
+{40713}{40770}- You sure?|- Yes.
+{40808}{40851}Thanks.
+{40853}{40921} Ladies and gentlemen...
+{40923}{40973}Wait.
+{40975}{41040}For you. Payless Shoes.
+{41042}{41105}Second floor.|Sensible heels.
+{41419}{41475}- Hi, baby.|- Come here, you.
+{41623}{41759} I think he's CIA.|The CIA put him here to spy on us.
+{41761}{41853}You don't know what you're talking|about. He doesn't speak English.
+{41855}{41914}If he could learn to speak, this guy.
+{41916}{42013}He can't speak English, how could he|have a meeting with a beautiful woman?
+{42015}{42047}A flight attendant.
+{42049}{42108}- So, she's CIA, too?|- No.
+{42110}{42248}She look like a Russian.|KGB. She gave him heel of her shoes.
+{42249}{42297}And he gave her a piece of the paper.
+{42298}{42408}- Was it microfilm?|- A coupon from Payless Shoes.
+{42409}{42469}Must be some kind of the code.
+{42470}{42588}You been spending too much time|inhaling them cleaning products.
+{42589}{42661}I'm warning you guys.|You watch yourself.
+{42663}{42784}This guy is here for a reason.|And I think that reason is us.
+{43291}{43323}Excuse me, buddy.
+{43847}{43884}What's going on?
+{43885}{43964}It's Navorski.|He's figured out the quarters.
+{44549}{44634}Good afternoon. Welcome to Burger King.|May I take your order?
+{44718}{44756}Keep the change.
+{45253}{45284}Excuse me.
+{45401}{45476}OK, go. Go.
+{45525}{45598}Good boy. Thank you.
+{45625}{45649}Bye-bye.
+{46080}{46142}Welcome to Burger King.|May I take your...
+{46781}{46783}"Crisis. Crisis in Krakozhia."
+{46783}{46874}"Crisis. Crisis in Krakozhia."
+{46876}{46925}Now that heavy fighting has subsided
+{46927}{47000}and both sides have dug in|for the long winter ahead,
+{47002}{47107}it's clear that the future of Krakozhia|may be in doubt for some time to come.
+{47109}{47200}Meanwhile, the people of Krakozhia|suffer the consequences.
+{47201}{47280}"And food... in..."
+{47281}{47344}...have caused food|and energy shortages.
+{47346}{47394}"...in Krakozhia."
+{47935}{48049}"The story of Broadway is the..."
+{48164}{48311}"The cast of comedy hit Friends
+{48327}{48417}which is set in New York."
+{48440}{48500} Friends.
+{48502}{48550} Friends.
+{48739}{48826} Due to the heavy snowfall,|all flights have been cancelled...
+{49074}{49167}"Wayne Newton is 61 today."
+{49169}{49216}"It's a miracle."
+{49250}{49369}"Korean conjoined twins|separated today in Maine."
+{49370}{49452}"Chances of survival 50-50."
+{49453}{49484}50-50.
+{49576}{49629}Next.
+{49667}{49721}Let me ask you something,|Mr. Navorski.
+{49723}{49809}Why do you wait here every day|when there's nothing I can do for you?
+{49811}{49956}Your new visa will not arrive until|your country is recognized by the US.
+{49957}{50007}You have two stamp.
+{50009}{50080}One red, one green.
+{50081}{50213}- So?|- I have chance to go New York, 50-50.
+{50301}{50399}Yes. That's a beautiful way to look at|it, but America doesn't work that way.
+{50742}{50853}As acting Field Commissioner,|I've created a new position here at JFK.
+{50855}{50959}Transportation Liaison|for Passenger Assistance.
+{50979}{51060}Sir, what will that person do?
+{51175}{51248}Thank you.|I'll take it from here.
+{51301}{51392}I'm Transportation Liaison|in charge of Passenger Assistance.
+{51600}{51659}No carts, no quarters.|No quarters, no food.
+{51661}{51769}It'll be days before he goes through|the doors in violation of section 2.14
+{51771}{51820}Then he's somebody else's problem.
+{51821}{51896}Why don't we tag him|in violation of section 2.14 now?
+{51898}{51934}Then ship him to detention.
+{51936}{51988}He has to break the law by leaving.
+{51989}{52071}I won't lie, particularly to get rid|of somebody like him.
+{52938}{52998}- Sorry, buddy.|- Honey!
+{53544}{53604}Put it down. Put it down.
+{53638}{53686}Put it down.
+{53711}{53799}You try to take my mop.|You try to take my floor.
+{53801}{53907}It's my job. Stay off my floor.|Stay away from my mop.
+{53909}{53972}- Food.|- If you touch it again, I kill you.
+{54313}{54369}Hey. I'm Enrique Cruz.
+{54452}{54499}We need to talk.
+{54604}{54690}- I want to make a deal with you.|- What deal?
+{54692}{54772}I need information|on CBP Officer Torres.
+{54774}{54848}You feed me information about her|and I'll feed you.
+{54849}{54932}- What do you want know?|- You see her every day.
+{54933}{55045}I want to know|what makes her knees weak.
+{55047}{55172}What makes her blood boil|and her body tingle.
+{55174}{55252}She's a wild stallion|and you'll help me break her.
+{55254}{55291}I'm...
+{55293}{55345}I'm her man of mystery.
+{55347}{55466}- Officer Torres is wild stallion?|- Her name is Delores.
+{55468}{55562}You help me to win her heart|and you'll never go hungry again.
+{55621}{55684}- I do this.|- Really? Promise?
+{55685}{55763}- Yes.|- OK. Thank you.
+{55781}{55838}What mean, "wild stallion"?
+{56009}{56096}Officer Torres.|My friend say you are stallion.
+{56097}{56146}Mr. Navorski.
+{56148}{56218}- A what?|- Stallion, like a horse.
+{56220}{56271}Stand behind the yellow line.
+{56273}{56339}- It's beautiful horse.|- Who said that?
+{56341}{56463}- My friend drive the food.|- Mr. Navorski, behind the yellow line.
+{56465}{56539}- I will help once it's your turn.|- I'll get light green.
+{56541}{56618}- Light green form.|- I'll be back.
+{56667}{56717}Mm.
+{56719}{56767}She say one thing.
+{56821}{56925}- Very important.|- What? What did she tell you?
+{56981}{57025}Something wrong with the salmon?
+{57027}{57068}Need gorchitsa.
+{57070}{57099}What?
+{57128}{57154}Mustard. Mustard?
+{57156}{57224}- Mustard?|- Yes. Please.
+{57325}{57373}Thank you.
+{57568}{57637}Officer Torres, you like the films?
+{57638}{57694}- Movies?|- Not so much.
+{57696}{57773}- The Rockettes?|- Can't afford it.
+{57775}{57833}- What do you like?|- Conventions.
+{57870}{57923}Conventions. What is?
+{57925}{58036}- Conventions.|- Conventions?
+{58038}{58087}This is like secret place you go?
+{58107}{58250}She go to these conventions|dressed as Yeoman Rand.
+{58252}{58299}- Yeoman Rand.|- She's a Trekkie.
+{58301}{58376}Favorite episode|is Doomsday Machine.
+{58513}{58549}Now, listen, Viktor.
+{58551}{58613}You can ask her something|that is very important.
+{58615}{58652}- OK.|- Look...
+{58863}{58906}- I wait.|- Enjoy your visit.
+{58968}{58998}Next.
+{59081}{59162}- Officer Torres.|- Mr. Navorski.
+{59164}{59232}You have choose.
+{59234}{59366}Man with money or man with love?
+{59467}{59515}What is choose?
+{59618}{59681}She had a boyfriend?
+{59683}{59756}For how long? Two years?
+{59757}{59792}What happened?
+{59827}{59856}He chit.
+{59857}{59925}- What?|- He chit.
+{59927}{59982}Eat shit?
+{59984}{60049}He chit. He chit. He chit.
+{60051}{60177}- Repeat exactly what she said.|- He chit. She catch him. So...
+{60179}{60230}- He cheats.|- Yes.
+{60232}{60319}What we call krushkach.|We say krushkach.
+{60321}{60377}One man, two womans.
+{60379}{60427}So. Mm.
+{60447}{60488}Crowded, you know.
+{60519}{60575}OK. He cheats.
+{60577}{60616}- You say "cheats".|- He chit.
+{60618}{60682}- No, "cheat".|- Enrique.
+{60701}{60756}You, no chit.
+{60758}{60785}- No cheat.|- No chit.
+{60787}{60839}No. I won't cheat.
+{60841}{60919}She's a nice girl.|She won't take your chitting.
+{61053}{61077}Next.
+{61106}{61204}Officer Torres.|Have you been ever in the love?
+{61206}{61293}Enough, Viktor. Who is it?
+{61295}{61352}Who's telling you|to ask me these things?
+{61353}{61414}It's a man of misery.
+{61481}{61526}Misery?
+{61528}{61631}- Mystery?|- No, no. Misery. Man of misery.
+{61649}{61699}He's so sick. He's so in love.
+{61748}{61750}But what did she say?
+{61750}{61792}But what did she say?
+{61793}{61871}She did say, "Next! Next!"
+{61873}{61939}And now she say,|"Please. Please come."
+{61941}{62014}- That's... Wait.
+{62109}{62184}- I coming now.|- No, wait. Viktor.
+{62186}{62255}Viktor, just tell me more.
+{62257}{62304}I coming. I coming.
+{62306}{62354}Please, please.
+{62763}{62879} Beeper went off.|Started beeping. So, I grab. I come.
+{62881}{62946} We have an idea.
+{62948}{63000}Would you like something to eat?
+{63002}{63064}No. No food. I stuffed.
+{63129}{63189}OK. All right.
+{63190}{63220}Thank you.
+{63222}{63312}So, Mr. Navorski,|I have some very good news for you.
+{63314}{63357}What?
+{63359}{63444}I've figured out a way|to get you out of this airport.
+{63445}{63484}How?
+{63486}{63587}Well, we have laws here|that protect aliens
+{63589}{63676}who have a credible fear|of returning to their own country.
+{63677}{63738}If we can establish this fear with you,
+{63740}{63872}then the CBP will be forced|to begin Expedited Removal Procedures,
+{63874}{64015}to bring you to an immigration judge|and let you plead your case for asylum.
+{64017}{64068}- Asylum?|- Mm-hm, asylum.
+{64070}{64192}Unfortunately, the courts|are so backed up with asylum cases
+{64193}{64311}that the soonest you'd get before|a judge would be six months from now.
+{64313}{64401}Yes, and we would have no choice
+{64403}{64528}but to let you go for those six months.|It's the law. You'd be released.
+{64530}{64607}You would be free to wait|in New York until your court date.
+{64609}{64736}But, believe it or not, most people|never show up before the judge.
+{64738}{64832}- So I go New York City?|- Uh-huh.
+{64833}{64890}You can go to New York City tonight.
+{64892}{65013}But, you only get to go|if we can establish a credible fear.
+{65015}{65056}- Fear?|- Mm-hm, fear.
+{65057}{65093}- Fear.|- Fear.
+{65095}{65148}From what?
+{65150}{65194}That's the best part.
+{65196}{65304}It doesn't matter what you're afraid of.|It's all the same to Uncle Sam.
+{65305}{65366}So I'm going to ask you one question,
+{65368}{65471}if you give me the correct answer, I can|get you out of this airport tonight.
+{65528}{65575}So, I answer one question.
+{65609}{65668}Go to New York City. Tonight.
+{65669}{65700}- Tonight.|- Tonight.
+{65702}{65744}- Tonight.|- Tonight.
+{65836}{65900}- OK.|- OK.
+{65902}{65931}All right.
+{65933}{66044}Do you, at this time, have any fear|of returning to your own country?
+{66046}{66094}No.
+{66209}{66267}OK. Let me try it again.
+{66293}{66362}- Your country's at war.|- Yes. War.
+{66364}{66447}There are men in the streets|with guns. Political persecution.
+{66449}{66507}- Yes. It's terrible.|- Yeah, it's horrible.
+{66509}{66561}And God only knows|what could happen.
+{66563}{66626}Innocent people|are torn from their beds.
+{66628}{66697}On Tuesdays. I hate Tuesdays.
+{66699}{66749}So you're afraid.
+{66751}{66828}- From what?|- Krakozhia.
+{66829}{66897}You're afraid of Krakozhia.
+{66899}{66947}Krakozhia?
+{66949}{67105}No, I am not afraid from Krakozhia.|I'm a little afraid of this room.
+{67153}{67247}I'm talking about bombs.|I'm talking about human dignity.
+{67249}{67272}Human rights.
+{67274}{67391}Viktor, please don't be afraid|to tell me you're afraid of Krakozhia.
+{67413}{67523}Is home.|I am not afraid from my home.
+{67570}{67665}So? I go to New York City now?
+{67704}{67751}- No.|- No?
+{67805}{67841}OK.
+{67843}{67942}- I'm afraid from ghosts.|- Thanks very much.
+{67944}{68017}- I'm afraid from Dracula.|- Thanks a lot.
+{68041}{68152}I'm afraid from Wolfmens,|afraid from sharks.
+{68154}{68186}Thanks a lot.
+{68316}{68363}- Damn.
+{68439}{68552}- Why you do this?|- Nobody read the sign in America.
+{68594}{68642}This is the only fun I have.
+{68673}{68769} A barbecue?|That's why I'm not going to see you?
+{68772}{68854}Let me get this straight.|I change my schedule to meet you.
+{68856}{68910}I take four back-to-back flights,
+{68912}{69011}fly 27 hours straight|literally around the world,
+{69013}{69104}and now you tell me you're going|to spend July 4th with your wife?
+{69106}{69154}The woman hates fireworks.
+{69196}{69262}Don't lie to me, OK?
+{69264}{69347}I know for a fact|you took her to Rome last weekend.
+{69349}{69409}Because you flew United, Max.
+{69535}{69613} South African Airlines|passenger Sharif Al-Calala,
+{69615}{69664}please come to the main ticket counter.
+{69869}{69986}You make a habit out of listening|to other people's conversations?
+{69988}{70063}No, I try to call home.
+{70065}{70125}So then...
+{70148}{70248}- You know why men are such assholes?|- No.
+{70329}{70393}Because they're all liars.
+{70411}{70454}Wait. Wait, wait, wait, wait.
+{70495}{70531}Wet floor.
+{70533}{70573}Please. Don't be hurt.
+{70575}{70616}How can I not be? He's married.
+{70617}{70667}One man. Two womens. Crowded.
+{70669}{70718}You want to know|what the worst part is?
+{70720}{70820}I never asked him to leave his wife.|I encouraged him to get counseling.
+{70822}{70891}What kind of sick person am I?
+{70893}{70952}I'm rooting for the home team.
+{71086}{71145}I just wish the sex|wasn't so amazing.
+{71214}{71262}- So amazing.|- Bye-bye.
+{71291}{71404}You know...|sometimes in the mornings,
+{71405}{71485}I just stare at him over room service.
+{71487}{71543}Watch him do the crossword puzzle.
+{71581}{71697}I start to think that maybe...|maybe this could happen.
+{71748}{71799}That we belong together.
+{71865}{71973}This... man... has you.
+{72005}{72107}Why he need... puzzle?
+{72148}{72202}This is my problem.
+{72204}{72262}I always see men|the way I want to see them.
+{72394}{72466}Do I know you from someplace?
+{72468}{72537}Sensible heels.|Payless Shoes. Second floor.
+{72623}{72666}Oh...
+{72668}{72715}You headed for home?
+{72733}{72809}Er... No, no. I am...
+{72811}{72913}I am delayed a long time.
+{72915}{73012}I hate it when they delay flights.|What do you do?
+{73014}{73146}I go from one building|to another building.
+{73148}{73224}I have beeper.
+{73225}{73335}Oh, contractors.|You guys travel as much as we do.
+{73402}{73466}Sorry about that.|Thank you very much.
+{73468}{73497}What's "BH"?
+{73499}{73547}In English...
+{73584}{73624}Viktor Navorski.
+{73637}{73757}- In English, Amelia Warren.|- Amelia Warren?
+{73759}{73810}- Nice to meet you.|- You, too.
+{73812}{73859}Nice to see you again.
+{73926}{73985}You like Italian food?
+{73987}{74059}I know, it's late|and you've probably got other plans,
+{74061}{74172}but if you'd like to grab some dinner,|we can run right out and catch a cab.
+{74174}{74258}I know a place|that has the greatest cannelloni.
+{74260}{74296}Erm...
+{74298}{74357}No, I... I can't.
+{74359}{74404}- You married?|- No.
+{74405}{74476}- Girlfriend?|- No.
+{74477}{74610}I... I can't go out... with you.
+{74687}{74776}God. I am so... I'm so sorry.
+{74778}{74808}I am so sorry.
+{74810}{74878}I must come off|like a complete nut job or something.
+{74880}{74959}- No.|- I didn't want to eat alone.
+{74961}{75008}Wet floor. Wet floor.
+{75023}{75088}- I...|- You don't have to explain.
+{75090}{75114}No, I... Please, I...
+{75114}{75138}No, I... Please, I...
+{75216}{75265} Wheelchair to gate A-five.
+{75267}{75297}Nadia.
+{75299}{75428}In New York restaurant,|what cost is cantaloni?
+{75430}{75481}I don't know. Maybe 15 bucks.
+{75483}{75536}- Dollars?|- 20.
+{75538}{75592}Two people, 40.
+{75593}{75641}Two people, 40 dollars.
+{75841}{75910}Two people, 40 dollars.
+{76053}{76135}I... I... help you?
+{76137}{76247}I'm so sorry, sir.|The position has already been filled.
+{76382}{76473}- Do you live nearby?|- Yes. Gate 67.
+{76475}{76602}Because we are very particular|about punctual... Did you say Gate 67?
+{76604}{76648}Gate 67.
+{76744}{76791}You got to be kidding.
+{76801}{76906}You got to help me help you.|I don't see a Social Security number...
+{76908}{76972}...mailing address,|even a phone number.
+{76974}{77089}Telephone? You need? I get.|I get. I get phone.
+{77091}{77139}I get... I get phone.
+{77381}{77502}451-1226.
+{77504}{77577}All right.|When's the best time to reach you?
+{77625}{77651}Now?
+{78422}{78476}- Hello?|- Hi, Mr. Navorski.
+{78478}{78536}Yes, this is Viktor Navorski.|Who calls?
+{78537}{78597}It's Cliff from the Discovery Store.
+{78598}{78653}Cliff. Hello.
+{78655}{78692}- How's it going?|- Good.
+{78694}{78784}- Is this a good time?|- Yes, I wait for your call all day.
+{78786}{78873}Well, I got to tell you|that the position's been filled.
+{78875}{78963}Yeah, so could you please|go sit someplace else?
+{78965}{79034}- I go to bathroom now.|- That'd be good.
+{79036}{79068}- All right.|- Thank you.
+{79070}{79104} OK.
+{81221}{81281}Who is this?
+{81282}{81340}- Who are you?|- It's no one.
+{81342}{81430} There's no one here for|two weeks. This isn't one of my guys.
+{81513}{81625}Look at this cornicing.|This is good work.
+{81626}{81694}Must be Harry's crew.|You with Harry's crew?
+{81696}{81748}Does Harry think|he's running this job?
+{81750}{81802}- I go now.|- Go? Go where?
+{81804}{81865}- Gate 67.|- 67?
+{81867}{81918}We're ten months away from 67.
+{81920}{82005}He's got to be Harry's.|If he's not mine and he's not yours...
+{82006}{82064}Harry's trying to make me look bad.
+{82066}{82126}I've got to slow him down|before he gets to 67.
+{82128}{82195}- What's your name?|- Viktor Navorski.
+{82218}{82277}Pull him off Harry's crew,|put him on mine.
+{82278}{82328}You start 6.30 Monday morning.
+{82330}{82394}You give me job?
+{82435}{82488}6.30, yes... Boss.
+{83453}{83529}We have lobster ravioli from Alitalia.
+{83530}{83594}We have caviar from Russian Aeroflot.
+{83595}{83632} OK. Just bring it.
+{83634}{83700}- Hey, Viktor.|- Hello, all.
+{83702}{83782}Look. The man without a country.
+{83783}{83830}Come on in. Welcome.
+{83832}{83902}- I see this.|- You did well.
+{83914}{83941}Have a seat.
+{83943}{83972}- Here?|- Here.
+{83974}{84007}Come on, sit down.
+{84009}{84116}- Who invited him?|- I did. We needed a fourth, right?
+{84118}{84194}- I'm not going to play with him.|- Gupta, relax, would you?
+{84195}{84268}- He isn't a spy.|- How do you know?
+{84270}{84381}He could be recording|everything we say. A wire in his shirt.
+{84383}{84440}A microphone up in his ass.
+{84474}{84588}- I'm not going to lose my job.|- Fine.
+{84590}{84655}- What if we x-rayed him?|- Yes.
+{84700}{84748}Close your eyes.
+{84993}{85080}- OK. So you are clean.|- Good. Let's play cards.
+{85082}{85168}I will have money.|But... Friday.
+{85170}{85264}Don't worry about it. We play for|unclaimed items from the Lost and Found.
+{85266}{85349}You'll be amazed|at what people leave at airports. Come.
+{85351}{85431} I have two nines and two nines.
+{85433}{85481} Four nines. Thank you.
+{85513}{85591}- Careful.|- Watch out.
+{85593}{85715}- We have a question for you.|- Yeah, we're just curious.
+{85717}{85762} What is in the can?
+{85763}{85826}- This?|- We saw the x-ray.
+{85828}{85880}We know there's no nuts in there.
+{85902}{85950} What is in there?
+{85954}{86001}This is jazz.
+{86022}{86065}- Jazz?|- Jazz, yes.
+{86066}{86127}- Jazz?|- Yes.
+{86170}{86257}You sure it's jazz in there?|It might be the blues.
+{86258}{86316}- Or salsa.|- Maybe it's Stevie Wonder.
+{86318}{86386}- No, no, is jazz.|- OK, guys. OK.
+{86387}{86445}For tonight's grand prize, we have...
+{86494}{86538}Show them, Gupta.
+{86539}{86586}I found this upstairs.
+{86587}{86652}Virgin Air, first class lounge.
+{86654}{86701}There you go.
+{86719}{86762}And... they belong to?
+{86764}{86805}Cher.
+{86806}{86844}Cher?
+{86846}{86881}As in... Cher?
+{86883}{86914}Yeah. Cher.
+{86916}{86971}I checked it out.|There were witnesses.
+{86973}{87029}Those are Cher's panties.
+{87030}{87072}- Ready?|- Hurry up.
+{87074}{87138}So, will we share the panties?
+{87139}{87174}- No, no, no.|- Not if I win.
+{87176}{87213}- Come on.|- Wait a second.
+{87246}{87247} United Airlines|flight number 80 1 to Narita
+{87247}{87347} United Airlines|flight number 80 1 to Narita
+{87349}{87401}is now announcing final boarding.
+{87402}{87487} "You can't.|That is mine."

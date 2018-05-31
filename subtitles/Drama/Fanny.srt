@@ -1,0 +1,1531 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1036
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.95,0:01:30.71,Default,,0,0,0,,Encoded by - Dr. DK @x265mkv.com
+Dialogue: 0,0:01:35.95,0:01:45.71,Default,,0,0,0,,Visit - x265mkv.com
+Dialogue: 0,0:02:02.47,0:02:03.87,Default,,0,0,0,,Marius!
+Dialogue: 0,0:02:04.79,0:02:07.71,Default,,0,0,0,,Marius,the girl is sick!
+Dialogue: 0,0:02:07.70,0:02:09.66,Default,,0,0,0,,Bring a bottle of rum.
+Dialogue: 0,0:02:13.33,0:02:15.79,Default,,0,0,0,,But where is this guy?
+Dialogue: 0,0:02:17.00,0:02:18.30,Default,,0,0,0,,Marius!
+Dialogue: 0,0:02:18.30,0:02:19.97,Default,,0,0,0,,Fanny!
+Dialogue: 0,0:02:19.98,0:02:21.69,Default,,0,0,0,,What happened, Caesar?
+Dialogue: 0,0:02:21.68,0:02:23.39,Default,,0,0,0,,She is sick.
+Dialogue: 0,0:02:23.40,0:02:27.03,Default,,0,0,0,,- What is happening?\N- what happened?
+Dialogue: 0,0:02:44.97,0:02:47.01,Default,,0,0,0,,Honorine!
+Dialogue: 0,0:02:47.01,0:02:49.34,Default,,0,0,0,,- Honorine!\N- Honorine!
+Dialogue: 0,0:02:49.34,0:02:50.96,Default,,0,0,0,,get down, Honorine!
+Dialogue: 0,0:02:50.97,0:02:53.22,Default,,0,0,0,,let them all out ! Flix!
+Dialogue: 0,0:02:53.22,0:02:55.93,Default,,0,0,0,,Please, please!\NNo, please!
+Dialogue: 0,0:02:55.93,0:02:58.00,Default,,0,0,0,,I'll help you.
+Dialogue: 0,0:02:58.00,0:02:59.35,Default,,0,0,0,,My God!
+Dialogue: 0,0:02:59.35,0:03:02.64,Default,,0,0,0,,My God, my girl!
+Dialogue: 0,0:03:02.63,0:03:05.34,Default,,0,0,0,,- It's nothing, Honorine!\N- Here.
+Dialogue: 0,0:03:05.34,0:03:07.13,Default,,0,0,0,,My God, my pretty!
+Dialogue: 0,0:03:07.13,0:03:08.75,Default,,0,0,0,,my sweetgirl!
+Dialogue: 0,0:03:09.17,0:03:10.47,Default,,0,0,0,,Look.
+Dialogue: 0,0:03:10.47,0:03:13.43,Default,,0,0,0,,-Get out!\NThis is not a show!
+Dialogue: 0,0:03:15.30,0:03:17.00,Default,,0,0,0,,But what she had?
+Dialogue: 0,0:03:17.01,0:03:20.30,Default,,0,0,0,,She fainted because\NMarius has gone.
+Dialogue: 0,0:03:20.30,0:03:23.17,Default,,0,0,0,,- Marius has gone?\N-yes , on the Malaysia.
+Dialogue: 0,0:03:23.18,0:03:25.76,Default,,0,0,0,,- The boat that departed for 5 years?\N- Yes
+Dialogue: 0,0:03:25.76,0:03:28.18,Default,,0,0,0,,and does Csar know that his\Nson has gone?
+Dialogue: 0,0:03:28.18,0:03:30.30,Default,,0,0,0,,He has no clue.
+Dialogue: 0,0:03:30.30,0:03:32.42,Default,,0,0,0,,it's going to be a big problem!
+Dialogue: 0,0:03:32.43,0:03:35.55,Default,,0,0,0,,Let's get out of here.\NCome on.
+Dialogue: 0,0:03:35.55,0:03:38.59,Default,,0,0,0,,- And you too.\N- I think I should stay.
+Dialogue: 0,0:03:38.60,0:03:39.92,Default,,0,0,0,,ok.
+Dialogue: 0,0:03:39.93,0:03:41.35,Default,,0,0,0,,Come, come!
+Dialogue: 0,0:03:53.88,0:03:55.56,Default,,0,0,0,,she's alright\Nshe started to talk
+Dialogue: 0,0:03:55.88,0:03:57.29,Default,,0,0,0,,It was nothing.
+Dialogue: 0,0:03:59.68,0:04:01.28,Default,,0,0,0,,haven't you seen Marius?
+Dialogue: 0,0:04:01.28,0:04:03.24,Default,,0,0,0,,No. Since this morning.
+Dialogue: 0,0:04:04.13,0:04:06.49,Default,,0,0,0,,Must be\Nwith a friend.
+Dialogue: 0,0:04:06.50,0:04:08.79,Default,,0,0,0,,Not gonna say anything.\NThe day is beautiful.
+Dialogue: 0,0:04:09.45,0:04:12.67,Default,,0,0,0,,But I can tell you.\Nit's almost official.
+Dialogue: 0,0:04:12.67,0:04:14.80,Default,,0,0,0,,Marius and Fanny will get marry.
+Dialogue: 0,0:04:16.51,0:04:17.88,Default,,0,0,0,,Do not make that face.
+Dialogue: 0,0:04:17.88,0:04:19.40,Default,,0,0,0,,I know what you're thinking.
+Dialogue: 0,0:04:19.40,0:04:22.17,Default,,0,0,0,,On the fool's day,\Ni'll ask Fanny's mother.
+Dialogue: 0,0:04:22.18,0:04:24.35,Default,,0,0,0,,Certainly she will not like\Nthis marriage.
+Dialogue: 0,0:04:27.71,0:04:29.01,Default,,0,0,0,,so ?
+Dialogue: 0,0:04:29.01,0:04:31.50,Default,,0,0,0,,- her nature color is back\N- So much better!
+Dialogue: 0,0:04:31.50,0:04:35.04,Default,,0,0,0,,now tell me what did make\Nher faint?
+Dialogue: 0,0:04:35.05,0:04:37.95,Default,,0,0,0,,I did nothing!\NPut yourself in her place.
+Dialogue: 0,0:04:37.95,0:04:39.25,Default,,0,0,0,,a healthy girl.
+Dialogue: 0,0:04:39.25,0:04:42.28,Default,,0,0,0,,I do not blame you.\Nthat your husband died.
+Dialogue: 0,0:04:42.28,0:04:44.87,Default,,0,0,0,,No man in the family\Nand still poor.
+Dialogue: 0,0:04:44.88,0:04:47.76,Default,,0,0,0,,- How poor?\N- Let me talk.
+Dialogue: 0,0:04:47.76,0:04:50.76,Default,,0,0,0,,No man in the family and\Nalmost miserable.
+Dialogue: 0,0:04:50.76,0:04:53.51,Default,,0,0,0,,They say she will marry\Nmy son
+Dialogue: 0,0:04:53.91,0:04:56.30,Default,,0,0,0,,and will be the owner\Na beautiful bar.
+Dialogue: 0,0:04:56.30,0:04:59.17,Default,,0,0,0,,she Fainted because of joy.\Nnormal.
+Dialogue: 0,0:04:59.18,0:05:01.87,Default,,0,0,0,,We are very honored\NBy being part of the family.
+Dialogue: 0,0:05:01.87,0:05:03.72,Default,,0,0,0,,Now we can eat.
+Dialogue: 0,0:05:03.71,0:05:05.56,Default,,0,0,0,,- There is?\N- That's not what I said!
+Dialogue: 0,0:05:05.57,0:05:09.40,Default,,0,0,0,,see his father.\Nhe's insulting me
+Dialogue: 0,0:05:10.05,0:05:12.38,Default,,0,0,0,,Do not fight.\Nit's doesn't worth it.
+Dialogue: 0,0:05:12.38,0:05:13.68,Default,,0,0,0,,he has gone
+Dialogue: 0,0:05:13.68,0:05:15.07,Default,,0,0,0,,who ?
+Dialogue: 0,0:05:15.07,0:05:17.36,Default,,0,0,0,,Marius.
+Dialogue: 0,0:05:19.38,0:05:21.29,Default,,0,0,0,,What are you saying?
+Dialogue: 0,0:05:22.40,0:05:25.28,Default,,0,0,0,,he's gone Cesar\Nhe left us.
+Dialogue: 0,0:05:27.97,0:05:29.97,Default,,0,0,0,,Where'd he go?
+Dialogue: 0,0:05:29.97,0:05:32.51,Default,,0,0,0,,sailed on Maliysia\Nthis morning.
+Dialogue: 0,0:05:32.51,0:05:34.47,Default,,0,0,0,,left for 5 years
+Dialogue: 0,0:05:36.37,0:05:38.00,Default,,0,0,0,,What are you saying?
+Dialogue: 0,0:05:41.30,0:05:43.55,Default,,0,0,0,,he wanted to go for\Nquiet long time
+Dialogue: 0,0:05:43.55,0:05:47.47,Default,,0,0,0,,he's passionate about boats.\Nas a disease.
+Dialogue: 0,0:05:47.47,0:05:49.76,Default,,0,0,0,,he found a job on Malayisia
+Dialogue: 0,0:05:50.27,0:05:52.92,Default,,0,0,0,,He left you after all?
+Dialogue: 0,0:05:52.93,0:05:54.56,Default,,0,0,0,,is that being honest?
+Dialogue: 0,0:05:54.55,0:05:56.88,Default,,0,0,0,,If I did not,\Nhe wouldn't have gone
+Dialogue: 0,0:05:56.88,0:05:59.04,Default,,0,0,0,,it's going to be against his desire\Nhe'll do it for me.
+Dialogue: 0,0:06:00.55,0:06:02.92,Default,,0,0,0,,But he was suffering.
+Dialogue: 0,0:06:02.93,0:06:05.97,Default,,0,0,0,,This desire to the Sea\Nit's kiling him.
+Dialogue: 0,0:06:07.51,0:06:11.97,Default,,0,0,0,,This morning I told him\Ni do not want him anymore.
+Dialogue: 0,0:06:12.84,0:06:14.75,Default,,0,0,0,,and i do not love him anymore.
+Dialogue: 0,0:06:16.76,0:06:18.16,Default,,0,0,0,,and he's gone!
+Dialogue: 0,0:07:13.13,0:07:14.53,Default,,0,0,0,,Csar!
+Dialogue: 0,0:07:37.98,0:07:40.22,Default,,0,0,0,,will you work ?
+Dialogue: 0,0:07:40.23,0:07:42.43,Default,,0,0,0,,I will.\NEmilienne ,i will sell the fish.
+Dialogue: 0,0:07:43.48,0:07:46.26,Default,,0,0,0,,Fanny's sick.\NI'll take her place.
+Dialogue: 0,0:07:46.26,0:07:48.80,Default,,0,0,0,,Very ill?
+Dialogue: 0,0:07:49.18,0:07:52.60,Default,,0,0,0,,She is not well,\Nshe's hardly eats.
+Dialogue: 0,0:07:53.11,0:07:55.58,Default,,0,0,0,,she's pale as a ghost.
+Dialogue: 0,0:07:55.59,0:07:58.31,Default,,0,0,0,,What if she dies?\NMy God, my girl!
+Dialogue: 0,0:07:58.31,0:08:01.15,Default,,0,0,0,,Honorine, come on!\NNo one dies from love!
+Dialogue: 0,0:08:01.64,0:08:04.55,Default,,0,0,0,,sometimes love kills us\Nlike a revolver.
+Dialogue: 0,0:08:04.55,0:08:06.57,Default,,0,0,0,,But when we are unable to see,\Nforget.
+Dialogue: 0,0:08:06.57,0:08:08.90,Default,,0,0,0,,not always, Emilienne.
+Dialogue: 0,0:08:08.90,0:08:11.75,Default,,0,0,0,,I know at least two\Nwho died of love.
+Dialogue: 0,0:08:11.75,0:08:14.99,Default,,0,0,0,,they Pretended they were sick,
+Dialogue: 0,0:08:15.00,0:08:16.54,Default,,0,0,0,,but it was love!
+Dialogue: 0,0:08:38.47,0:08:40.85,Default,,0,0,0,,Why is he\Nwalking this way?
+Dialogue: 0,0:08:40.84,0:08:44.13,Default,,0,0,0,,he's Waiting for the postman\Nlike every morning.
+Dialogue: 0,0:08:44.13,0:08:47.84,Default,,0,0,0,,His son wil write to him\Nevery day, and he wil get tired of reading.
+Dialogue: 0,0:08:47.84,0:08:51.27,Default,,0,0,0,,he's waiting for the first letter.\Nthat his son has not written.
+Dialogue: 0,0:08:51.27,0:08:52.74,Default,,0,0,0,,Exactly.
+Dialogue: 0,0:08:52.74,0:08:56.61,Default,,0,0,0,,he's not talking to anyone.\Nand suffering alone
+Dialogue: 0,0:08:56.97,0:09:00.11,Default,,0,0,0,,and he's chocking with his saddness
+Dialogue: 0,0:09:00.12,0:09:03.32,Default,,0,0,0,,he has to relief
+Dialogue: 0,0:09:03.31,0:09:05.59,Default,,0,0,0,,he has his reason,\Nwe have to make him talk
+Dialogue: 0,0:09:05.60,0:09:08.13,Default,,0,0,0,,-it won't be easy\N- we can try .
+Dialogue: 0,0:09:08.13,0:09:09.46,Default,,0,0,0,,he won't kill us.
+Dialogue: 0,0:09:17.43,0:09:19.05,Default,,0,0,0,,will you?, Honor.
+Dialogue: 0,0:09:19.05,0:09:22.01,Default,,0,0,0,,- me?\N- And why not?
+Dialogue: 0,0:09:22.01,0:09:24.14,Default,,0,0,0,,- Will you help him?\N- I will!
+Dialogue: 0,0:09:24.15,0:09:25.82,Default,,0,0,0,,So let's go.
+Dialogue: 0,0:09:30.67,0:09:32.41,Default,,0,0,0,,are you Expecting someone?
+Dialogue: 0,0:09:34.31,0:09:36.45,Default,,0,0,0,,And why would i ?
+Dialogue: 0,0:09:36.45,0:09:37.80,Default,,0,0,0,,i don't know.
+Dialogue: 0,0:09:39.76,0:09:43.60,Default,,0,0,0,,you're here\Nwaiting for the postman.
+Dialogue: 0,0:09:43.59,0:09:47.54,Default,,0,0,0,,I? Waiting for the postman?\NAnd why?
+Dialogue: 0,0:09:48.34,0:09:51.96,Default,,0,0,0,,To see if he wil bring\Na letter from your son.
+Dialogue: 0,0:09:52.39,0:09:53.69,Default,,0,0,0,,isn't it , Panisse?
+Dialogue: 0,0:09:53.69,0:09:57.39,Default,,0,0,0,,Flix.don't interfere with my family\Nissues
+Dialogue: 0,0:09:57.39,0:10:01.43,Default,,0,0,0,,I did not ask if your wife\Nwas with the president.
+Dialogue: 0,0:10:01.43,0:10:04.14,Default,,0,0,0,,- No. But just tell me.
+Dialogue: 0,0:10:04.14,0:10:06.32,Default,,0,0,0,,Not true, Felix.
+Dialogue: 0,0:10:06.32,0:10:08.64,Default,,0,0,0,,True or not,\Nbut i know.
+Dialogue: 0,0:10:08.64,0:10:12.18,Default,,0,0,0,,And do the same.\NDo not talk to me about Marius.
+Dialogue: 0,0:10:12.62,0:10:14.16,Default,,0,0,0,,and mind your own bussiness
+Dialogue: 0,0:10:14.80,0:10:16.64,Default,,0,0,0,,- Do not ask anything.\N- Me neither.
+Dialogue: 0,0:10:16.65,0:10:21.30,Default,,0,0,0,,Do not ask, but are\Nforcing a confidence.
+Dialogue: 0,0:10:21.30,0:10:23.27,Default,,0,0,0,,No way, Csar!
+Dialogue: 0,0:10:23.27,0:10:25.31,Default,,0,0,0,,I see in your eyes.
+Dialogue: 0,0:10:25.67,0:10:28.77,Default,,0,0,0,,Even in the eyes of passers,\NI see you have pity on me!
+Dialogue: 0,0:10:28.78,0:10:31.89,Default,,0,0,0,,i know what they say\Nwhen I'm not around.
+Dialogue: 0,0:10:31.88,0:10:34.20,Default,,0,0,0,,"He shall cry\Nevery night "
+Dialogue: 0,0:10:34.21,0:10:35.51,Default,,0,0,0,,in his empty house
+Dialogue: 0,0:10:36.23,0:10:39.89,Default,,0,0,0,,he doesn't care about the bar\Nand waiting for a letter from his son
+Dialogue: 0,0:10:39.88,0:10:44.98,Default,,0,0,0,,who never writes\Nhis heart is broken. "
+Dialogue: 0,0:10:44.99,0:10:48.07,Default,,0,0,0,,I'm thinking so,
+Dialogue: 0,0:10:48.07,0:10:52.93,Default,,0,0,0,,give importance to the story\Nto which I do not think
+Dialogue: 0,0:10:52.93,0:10:56.14,Default,,0,0,0,,I will explain once\Nand for all.
+Dialogue: 0,0:10:58.63,0:11:02.67,Default,,0,0,0,,You asked me\Nif i was waiting for the postman.
+Dialogue: 0,0:11:02.68,0:11:04.89,Default,,0,0,0,,No. I'm not\Nwaiting for the postman.
+Dialogue: 0,0:11:06.00,0:11:08.25,Default,,0,0,0,,When a boy had\Ncourage.
+Dialogue: 0,0:11:08.26,0:11:10.54,Default,,0,0,0,,leaving his old father,
+Dialogue: 0,0:11:10.53,0:11:14.48,Default,,0,0,0,,and he hasn't write for\N59 days
+Dialogue: 0,0:11:15.08,0:11:18.67,Default,,0,0,0,,there is no reason to\Nwrite on the 60th.
+Dialogue: 0,0:11:31.54,0:11:35.76,Default,,0,0,0,,There was no way he wrote\Nbefore scaling in Port Sad.
+Dialogue: 0,0:11:35.76,0:11:37.47,Default,,0,0,0,,According to the newspapers,
+Dialogue: 0,0:11:37.47,0:11:40.96,Default,,0,0,0,,The Malaisie left Port Sad,\Nin 12 days.
+Dialogue: 0,0:11:40.95,0:11:43.20,Default,,0,0,0,,it needs two weeks\Nfor the letter to arrive.
+Dialogue: 0,0:11:43.79,0:11:46.50,Default,,0,0,0,,there are letters that arrive\Nin 9 days.
+Dialogue: 0,0:11:46.49,0:11:48.28,Default,,0,0,0,,But not always.
+Dialogue: 0,0:11:49.12,0:11:50.47,Default,,0,0,0,,Do you think?
+Dialogue: 0,0:11:50.47,0:11:51.85,Default,,0,0,0,,I'm sure.
+Dialogue: 0,0:11:53.51,0:11:56.84,Default,,0,0,0,,Why wasting time\Ntalking about this?
+Dialogue: 0,0:11:56.84,0:11:58.80,Default,,0,0,0,,I do not care , anymore.
+Dialogue: 0,0:11:58.81,0:12:00.49,Default,,0,0,0,,Do not you care?
+Dialogue: 0,0:12:00.48,0:12:02.47,Default,,0,0,0,,No, i do not care!
+Dialogue: 0,0:12:02.47,0:12:06.75,Default,,0,0,0,,Suppose he has written\Na letter a day.
+Dialogue: 0,0:12:06.76,0:12:10.62,Default,,0,0,0,,saying "I'm fine,\NI think of you "
+Dialogue: 0,0:12:10.62,0:12:12.67,Default,,0,0,0,,"And imagine your pain."
+Dialogue: 0,0:12:12.68,0:12:16.17,Default,,0,0,0,,Etc., etc...\NSuppose that every night.
+Dialogue: 0,0:12:16.16,0:12:20.61,Default,,0,0,0,,he kept the letters and\Nall posted in Port Sad.
+Dialogue: 0,0:12:20.97,0:12:24.23,Default,,0,0,0,,Suppose the postman\Ncome now and say.
+Dialogue: 0,0:12:24.23,0:12:26.54,Default,,0,0,0,,"For the  Mr Csar."
+Dialogue: 0,0:12:26.55,0:12:30.35,Default,,0,0,0,,and brings a package of 3 pounds\Nto read all night.
+Dialogue: 0,0:12:30.36,0:12:32.30,Default,,0,0,0,,Reading 3 times each ...
+Dialogue: 0,0:12:32.30,0:12:35.98,Default,,0,0,0,,Picked up the package and\Ni'll put underneath the counter
+Dialogue: 0,0:12:35.97,0:12:40.34,Default,,0,0,0,,i won't open it because\Ni'm not interested.
+Dialogue: 0,0:12:40.91,0:12:42.95,Default,,0,0,0,,ah , good...
+Dialogue: 0,0:12:44.29,0:12:46.62,Default,,0,0,0,,In the far believing\Nwho does not love his son more.
+Dialogue: 0,0:12:46.62,0:12:48.32,Default,,0,0,0,,ah , no
+Dialogue: 0,0:12:48.32,0:12:50.46,Default,,0,0,0,,It was not what I said.
+Dialogue: 0,0:12:50.47,0:12:54.13,Default,,0,0,0,,I loved him very much,but\Nafter what he did, eventually.
+Dialogue: 0,0:12:54.12,0:12:56.45,Default,,0,0,0,,- In short, what he did?\N- In short?
+Dialogue: 0,0:12:57.13,0:12:59.87,Default,,0,0,0,,In short? In short!
+Dialogue: 0,0:12:59.88,0:13:01.20,Default,,0,0,0,,My God!
+Dialogue: 0,0:13:01.20,0:13:02.52,Default,,0,0,0,,What he did to you?
+Dialogue: 0,0:13:02.52,0:13:04.54,Default,,0,0,0,,what he did !\Nhe's gone
+Dialogue: 0,0:13:04.55,0:13:06.18,Default,,0,0,0,,and has he no right to go?
+Dialogue: 0,0:13:06.18,0:13:08.36,Default,,0,0,0,,No! Not without telling me!
+Dialogue: 0,0:13:08.36,0:13:09.66,Default,,0,0,0,,This is true!
+Dialogue: 0,0:13:09.66,0:13:12.55,Default,,0,0,0,,- It is not done.\N- And what would you have done?
+Dialogue: 0,0:13:12.55,0:13:13.90,Default,,0,0,0,,I would have stopped him!
+Dialogue: 0,0:13:13.89,0:13:16.01,Default,,0,0,0,,- and kick his ass?\N- Certainly!
+Dialogue: 0,0:13:16.01,0:13:19.34,Default,,0,0,0,,why he would have this\Npassion for sailing!
+Dialogue: 0,0:13:19.70,0:13:23.63,Default,,0,0,0,,Csar, let me say that\Nyou have a big ego
+Dialogue: 0,0:13:23.63,0:13:26.29,Default,,0,0,0,,If he wants to sail,\Nyou has no right to stop him.
+Dialogue: 0,0:13:26.28,0:13:30.46,Default,,0,0,0,,he would go wherever he wants\Nbut not to the sea
+Dialogue: 0,0:13:30.47,0:13:31.78,Default,,0,0,0,,Wherever\Nhe would go ?
+Dialogue: 0,0:13:31.78,0:13:33.35,Default,,0,0,0,,That does not navigate at sea!
+Dialogue: 0,0:13:33.34,0:13:37.42,Default,,0,0,0,,That as you navigate,\Nin harbors and rivers.
+Dialogue: 0,0:13:37.43,0:13:38.95,Default,,0,0,0,,or lakes ...
+Dialogue: 0,0:13:38.94,0:13:41.54,Default,,0,0,0,,And nowhere else,\Nfor God's sake!
+Dialogue: 0,0:13:41.55,0:13:44.37,Default,,0,0,0,,do we need to sail to be able\Nto live our lives?
+Dialogue: 0,0:13:44.36,0:13:46.61,Default,,0,0,0,,Did Mr. Panisse sail?
+Dialogue: 0,0:13:47.09,0:13:49.88,Default,,0,0,0,,No, he is not a beast, huh?
+Dialogue: 0,0:13:49.88,0:13:51.88,Default,,0,0,0,,He needs candles.
+Dialogue: 0,0:13:51.88,0:13:56.09,Default,,0,0,0,,The candles to light for our children\Nduring the light wind.
+Dialogue: 0,0:14:22.08,0:14:24.75,Default,,0,0,0,,i'm not going to wait\Nforever
+Dialogue: 0,0:14:24.76,0:14:26.43,Default,,0,0,0,,One minute, I'm measuring!
+Dialogue: 0,0:14:26.43,0:14:28.93,Default,,0,0,0,,-are you kidding?\Nno it's not a joke-
+Dialogue: 0,0:14:28.93,0:14:30.87,Default,,0,0,0,,a game of boules.
+Dialogue: 0,0:14:30.87,0:14:32.17,Default,,0,0,0,,oh my!
+Dialogue: 0,0:14:32.17,0:14:33.47,Default,,0,0,0,,then i measure
+Dialogue: 0,0:14:33.47,0:14:34.87,Default,,0,0,0,,I'm in a hurry!
+Dialogue: 0,0:14:36.88,0:14:39.84,Default,,0,0,0,,Silence!\Nyou're hindering the game!
+Dialogue: 0,0:14:40.50,0:14:41.87,Default,,0,0,0,,it's amazing!
+Dialogue: 0,0:14:47.25,0:14:48.65,Default,,0,0,0,,Have to start ...
+Dialogue: 0,0:14:57.41,0:14:59.12,Default,,0,0,0,,how fast!
+Dialogue: 0,0:14:59.13,0:15:01.61,Default,,0,0,0,,Bravo, Captain!\NAnd 25 meters!
+Dialogue: 0,0:15:01.61,0:15:03.51,Default,,0,0,0,,Congratulations!\NAnd my respect.
+Dialogue: 0,0:15:03.51,0:15:06.25,Default,,0,0,0,,do you respect a cheater?\NHe took 4 steps.
+Dialogue: 0,0:15:06.25,0:15:09.14,Default,,0,0,0,,- I gave 4 steps?\N- Maybe even 5!
+Dialogue: 0,0:15:09.13,0:15:12.14,Default,,0,0,0,,- I swear ...\N- I do not play with thieves.
+Dialogue: 0,0:15:12.15,0:15:13.51,Default,,0,0,0,,Come on, Caesar!\NCome back!
+Dialogue: 0,0:15:13.51,0:15:17.76,Default,,0,0,0,,Begins with a cheating\Nand ends with a poisoning!
+Dialogue: 0,0:15:18.11,0:15:20.74,Default,,0,0,0,,the soup that his wife make\NI would not give it to my dog!
+Dialogue: 0,0:15:20.74,0:15:22.14,Default,,0,0,0,,And I do not have a dog.
+Dialogue: 0,0:15:22.80,0:15:25.04,Default,,0,0,0,,Who has anything to say?
+Dialogue: 0,0:15:26.01,0:15:28.13,Default,,0,0,0,,Who is the liar ,\Nwho will speak?
+Dialogue: 0,0:15:28.13,0:15:29.80,Default,,0,0,0,,Do not say anything, Sr. Brun!
+Dialogue: 0,0:15:30.72,0:15:32.62,Default,,0,0,0,,good afternoon,gentelmen.
+Dialogue: 0,0:15:32.62,0:15:34.02,Default,,0,0,0,,My coat.
+Dialogue: 0,0:15:51.59,0:15:54.53,Default,,0,0,0,,So You have a day off\Nand called this bastard.
+Dialogue: 0,0:15:54.52,0:15:58.31,Default,,0,0,0,,After the child was gone\Nit is impossible.
+Dialogue: 0,0:15:58.31,0:16:01.59,Default,,0,0,0,,Truth.\Nhe's getting worse every day.
+Dialogue: 0,0:16:01.59,0:16:04.50,Default,,0,0,0,,Perhaps he'll die of sadness.
+Dialogue: 0,0:16:04.51,0:16:06.91,Default,,0,0,0,,He will not die, no.
+Dialogue: 0,0:16:06.90,0:16:08.75,Default,,0,0,0,,But he will go crazy.
+Dialogue: 0,0:16:08.76,0:16:12.05,Default,,0,0,0,,I think.\NAnd Fanny as well.
+Dialogue: 0,0:16:12.05,0:16:14.28,Default,,0,0,0,,Not!\NLet's not dramatize.
+Dialogue: 0,0:16:14.27,0:16:15.81,Default,,0,0,0,,Fanny is young.
+Dialogue: 0,0:16:15.82,0:16:18.80,Default,,0,0,0,,She has many suitors.\NWill propse to her
+Dialogue: 0,0:16:19.14,0:16:21.75,Default,,0,0,0,,Yes, the youth will have\Nsolution for everything.
+Dialogue: 0,0:16:21.76,0:16:23.93,Default,,0,0,0,,The youth, perhaps.
+Dialogue: 0,0:16:23.93,0:16:25.35,Default,,0,0,0,,but Csar...
+Dialogue: 0,0:16:28.34,0:16:30.09,Default,,0,0,0,,Toussaint Bighetti?
+Dialogue: 0,0:16:30.09,0:16:31.41,Default,,0,0,0,,yes
+Dialogue: 0,0:16:31.41,0:16:34.09,Default,,0,0,0,,Letter to you.\Nshall i go up to you or are you coming down?
+Dialogue: 0,0:16:34.08,0:16:35.70,Default,,0,0,0,,come up
+Dialogue: 0,0:16:35.71,0:16:37.07,Default,,0,0,0,,Tripette?
+Dialogue: 0,0:16:37.07,0:16:38.65,Default,,0,0,0,,he doesn't live here anymore.
+Dialogue: 0,0:16:39.19,0:16:41.60,Default,,0,0,0,,do you have anything for me,\NFanny Cabanis?
+Dialogue: 0,0:16:41.60,0:16:43.74,Default,,0,0,0,,Today i have nothing for you.
+Dialogue: 0,0:16:43.73,0:16:46.45,Default,,0,0,0,,maybe you left with my mother\Nthe fishmonger?
+Dialogue: 0,0:16:46.45,0:16:48.45,Default,,0,0,0,,i would left a notice
+Dialogue: 0,0:16:48.46,0:16:49.76,Default,,0,0,0,,is there any?
+Dialogue: 0,0:16:49.76,0:16:54.26,Default,,0,0,0,,it's not my fault, i deliver letters not\Nwrite them
+Dialogue: 0,0:16:54.60,0:16:57.27,Default,,0,0,0,,But I have to Caesar.
+Dialogue: 0,0:16:57.27,0:16:59.69,Default,,0,0,0,,And it came from ... Port Sad.
+Dialogue: 0,0:17:00.06,0:17:02.60,Default,,0,0,0,,Thank you, Mr mailman!\NI'll take it.
+Dialogue: 0,0:17:03.49,0:17:05.10,Default,,0,0,0,,Bandoloni!
+Dialogue: 0,0:17:06.77,0:17:08.27,Default,,0,0,0,,Ange Pietri?
+Dialogue: 0,0:17:48.20,0:17:49.81,Default,,0,0,0,,A letter from Port Sad!
+Dialogue: 0,0:17:49.82,0:17:52.27,Default,,0,0,0,,Caesar, it is heavy.
+Dialogue: 0,0:17:53.59,0:17:54.99,Default,,0,0,0,,and what next ?
+Dialogue: 0,0:17:55.48,0:17:56.78,Default,,0,0,0,,Csar...
+Dialogue: 0,0:17:56.78,0:17:59.29,Default,,0,0,0,,Marius.\Nhe's writing back.
+Dialogue: 0,0:18:00.18,0:18:02.05,Default,,0,0,0,,and?
+Dialogue: 0,0:18:02.05,0:18:03.67,Default,,0,0,0,,Caesar, read!
+Dialogue: 0,0:18:03.68,0:18:05.36,Default,,0,0,0,,harry up. Read.
+Dialogue: 0,0:18:05.36,0:18:07.94,Default,,0,0,0,,Congress will have a\Nproducers of lemonade.
+Dialogue: 0,0:18:07.94,0:18:09.60,Default,,0,0,0,,I can not lose.
+Dialogue: 0,0:18:09.60,0:18:10.95,Default,,0,0,0,,Come on, Caesar!
+Dialogue: 0,0:18:10.95,0:18:14.00,Default,,0,0,0,,What?\Nare you going to force me?
+Dialogue: 0,0:18:14.00,0:18:17.13,Default,,0,0,0,,it's news of your son,\Nyou have to ...
+Dialogue: 0,0:18:17.13,0:18:19.99,Default,,0,0,0,,Caesar, open the letter.
+Dialogue: 0,0:18:20.00,0:18:22.74,Default,,0,0,0,,To please the girl.
+Dialogue: 0,0:18:23.93,0:18:27.93,Default,,0,0,0,,do you want the news from\Nthe sailor faraway ?
+Dialogue: 0,0:18:32.38,0:18:33.75,Default,,0,0,0,,I do not.
+Dialogue: 0,0:18:54.09,0:18:57.32,Default,,0,0,0,,he really wants to open the letter,\Nbut not in front of us.
+Dialogue: 0,0:18:57.32,0:18:59.10,Default,,0,0,0,,Let's go quietly.
+Dialogue: 0,0:18:59.10,0:19:00.47,Default,,0,0,0,,Good idea.
+Dialogue: 0,0:19:00.80,0:19:05.65,Default,,0,0,0,,Good idea, but no one move.\Ni don't want to pay the price.
+Dialogue: 0,0:19:05.66,0:19:07.75,Default,,0,0,0,,Come on!\NMore and more modesty.
+Dialogue: 0,0:19:08.67,0:19:09.97,Default,,0,0,0,,Shame for what?
+Dialogue: 0,0:19:09.97,0:19:12.14,Default,,0,0,0,,He's right, Felix.\NCome on.
+Dialogue: 0,0:20:29.38,0:20:31.42,Default,,0,0,0,,you're pale.\Nyou should go to the doctor.
+Dialogue: 0,0:20:31.43,0:20:32.81,Default,,0,0,0,,For what?
+Dialogue: 0,0:20:32.80,0:20:37.31,Default,,0,0,0,,He will say if you are anemic.\Nand give something to whet your appetite.
+Dialogue: 0,0:20:37.32,0:20:40.65,Default,,0,0,0,,- My mother won't agree\N- Go alone.
+Dialogue: 0,0:20:41.11,0:20:43.55,Default,,0,0,0,,go to Dr. Venelle my doctor.
+Dialogue: 0,0:20:43.55,0:20:46.54,Default,,0,0,0,,go at the afternoon.\NI'll give you the money.
+Dialogue: 0,0:20:47.34,0:20:49.50,Default,,0,0,0,,No, thank you, Panisse.\Ni don't have to.
+Dialogue: 0,0:20:49.50,0:20:53.72,Default,,0,0,0,,don't be like that.\Nthere must be something for you in the letter
+Dialogue: 0,0:20:53.72,0:20:55.15,Default,,0,0,0,,i don't think so.
+Dialogue: 0,0:20:55.16,0:20:57.20,Default,,0,0,0,,just wait
+Dialogue: 0,0:20:58.34,0:21:00.90,Default,,0,0,0,,Love is much the same beast.
+Dialogue: 0,0:21:00.91,0:21:03.91,Default,,0,0,0,,it's not a beast\Nbut it's bad
+Dialogue: 0,0:21:04.78,0:21:06.18,Default,,0,0,0,,don't worry
+Dialogue: 0,0:21:06.18,0:21:10.55,Default,,0,0,0,,Caesar will open the letter\Nand recite it to all of Marseille.
+Dialogue: 0,0:21:11.92,0:21:13.30,Default,,0,0,0,,Fanny! Come on!
+Dialogue: 0,0:21:14.34,0:21:15.85,Default,,0,0,0,,he's very well!
+Dialogue: 0,0:21:15.84,0:21:17.45,Default,,0,0,0,,Come read the letter.
+Dialogue: 0,0:21:17.45,0:21:18.85,Default,,0,0,0,,See?
+Dialogue: 0,0:21:32.01,0:21:34.39,Default,,0,0,0,,"Dear Dad,"
+Dialogue: 0,0:21:35.21,0:21:38.29,Default,,0,0,0,,"Forgive the pain I caused you."
+Dialogue: 0,0:21:38.61,0:21:40.78,Default,,0,0,0,,"It must be sad since\NI left. "
+Dialogue: 0,0:21:40.79,0:21:42.61,Default,,0,0,0,,"I think about you every night."
+Dialogue: 0,0:21:42.61,0:21:45.70,Default,,0,0,0,,And I think of you\Nall day, busterd!
+Dialogue: 0,0:21:46.33,0:21:49.46,Default,,0,0,0,,"To explain that it's my desire"
+Dialogue: 0,0:21:49.47,0:21:51.10,Default,,0,0,0,,"I would not know how to write"
+Dialogue: 0,0:21:51.46,0:21:53.97,Default,,0,0,0,,"Ask Fanny.\NShe knows my madness. "
+Dialogue: 0,0:21:53.97,0:21:58.07,Default,,0,0,0,,Madness is the right word.\NGlad you recognized it.
+Dialogue: 0,0:21:58.06,0:22:02.10,Default,,0,0,0,,"Now I will tell you about\Nmy life. "
+Dialogue: 0,0:22:02.55,0:22:06.02,Default,,0,0,0,,"When we left, they put me\Nin the kitchen. "
+Dialogue: 0,0:22:06.01,0:22:07.63,Default,,0,0,0,,a Kitchen helper!
+Dialogue: 0,0:22:07.63,0:22:11.02,Default,,0,0,0,,Imagine! he must be\Neating well on that boat.
+Dialogue: 0,0:22:11.03,0:22:13.42,Default,,0,0,0,,"But after a few days"
+Dialogue: 0,0:22:13.41,0:22:16.66,Default,,0,0,0,,"I was replaced by a man\Nwho was hurt "
+Dialogue: 0,0:22:16.66,0:22:19.01,Default,,0,0,0,,"I took his place\Non deck. "
+Dialogue: 0,0:22:19.41,0:22:21.40,Default,,0,0,0,,Now it will be terrible,\Nyou'll see.
+Dialogue: 0,0:22:22.40,0:22:24.68,Default,,0,0,0,,"I couldn't write before"
+Dialogue: 0,0:22:24.67,0:22:28.89,Default,,0,0,0,,"because we had problems\Nupon arriving in Port Sad. "
+Dialogue: 0,0:22:28.90,0:22:31.11,Default,,0,0,0,,"A sailor died"
+Dialogue: 0,0:22:31.71,0:22:34.23,Default,,0,0,0,,"the authorities found\Nit was fever,
+Dialogue: 0,0:22:34.22,0:22:35.67,Default,,0,0,0,,We stayed in quarantine. "
+Dialogue: 0,0:22:35.68,0:22:38.43,Default,,0,0,0,,The plague, can you imagine?
+Dialogue: 0,0:22:38.43,0:22:39.97,Default,,0,0,0,,A plague on his boat!
+Dialogue: 0,0:22:40.28,0:22:44.13,Default,,0,0,0,,once a friend of his had mumps,\Nso he stayed home for keeping him safe.
+Dialogue: 0,0:22:44.12,0:22:46.21,Default,,0,0,0,,And now he was swimming in the plague!
+Dialogue: 0,0:22:46.22,0:22:48.57,Default,,0,0,0,,In fever to the neck.
+Dialogue: 0,0:22:48.57,0:22:50.99,Default,,0,0,0,,- But he did not have it?\N- Oh, Marius!
+Dialogue: 0,0:22:51.00,0:22:55.25,Default,,0,0,0,,always has your fears and thoughts
+Dialogue: 0,0:22:57.31,0:22:58.64,Default,,0,0,0,,Okay, continue.
+Dialogue: 0,0:22:59.50,0:23:02.37,Default,,0,0,0,,"Doctors took samples from the dead
+Dialogue: 0,0:23:02.37,0:23:03.99,Default,,0,0,0,,"And they said\Nit was not the plague. "
+Dialogue: 0,0:23:03.98,0:23:05.31,Default,,0,0,0,,Just as well!
+Dialogue: 0,0:23:05.32,0:23:08.74,Default,,0,0,0,,"We released\Nand headed to Aden. "
+Dialogue: 0,0:23:09.07,0:23:10.81,Default,,0,0,0,,"A wonderful trip"
+Dialogue: 0,0:23:11.44,0:23:14.13,Default,,0,0,0,,"Unfortunately we do not stop\Nby the way "
+Dialogue: 0,0:23:14.14,0:23:16.62,Default,,0,0,0,,"We spent over\Nseveral islands "
+Dialogue: 0,0:23:16.61,0:23:20.81,Default,,0,0,0,,"Where is Athens\Nthe great fortress of the Romans. "
+Dialogue: 0,0:23:20.82,0:23:22.89,Default,,0,0,0,,One can easily see that he is\Nwith scientists...
+Dialogue: 0,0:23:22.90,0:23:24.36,Default,,0,0,0,,"It's fine"
+Dialogue: 0,0:23:24.35,0:23:29.30,Default,,0,0,0,,"My new life is optimal.\NWorking in ocean groves
+Dialogue: 0,0:23:29.30,0:23:31.43,Default,,0,0,0,,this word\NI could not read.
+Dialogue: 0,0:23:31.44,0:23:34.27,Default,,0,0,0,,"We measure the background\Nof the Indian Ocean. "
+Dialogue: 0,0:23:34.64,0:23:38.43,Default,,0,0,0,,Imagine.\Nhe hasn't measure a dose ...
+Dialogue: 0,0:23:38.43,0:23:41.68,Default,,0,0,0,,and now he will\Nmeasure the depth of the sea!
+Dialogue: 0,0:23:42.30,0:23:44.35,Default,,0,0,0,,"Scientists\Nthey are very kind to me. "
+Dialogue: 0,0:23:44.36,0:23:46.12,Default,,0,0,0,,Of course!
+Dialogue: 0,0:23:46.11,0:23:48.31,Default,,0,0,0,,Then there is one thing\Nfor you.
+Dialogue: 0,0:23:53.28,0:23:54.91,Default,,0,0,0,,"Anyway, all is well.
+Dialogue: 0,0:23:55.66,0:23:59.58,Default,,0,0,0,,"I hope you're well\Nand  fanny. "
+Dialogue: 0,0:23:59.59,0:24:01.96,Default,,0,0,0,,He cares about you,\NSee?
+Dialogue: 0,0:24:02.27,0:24:04.63,Default,,0,0,0,,"send me news about her health."
+Dialogue: 0,0:24:04.64,0:24:07.10,Default,,0,0,0,,about your health, see?
+Dialogue: 0,0:24:08.26,0:24:11.09,Default,,0,0,0,,"And herwedding\Nwith the brave Panisse. "
+Dialogue: 0,0:24:11.09,0:24:14.42,Default,,0,0,0,,"She'll be happy with it.\NSay what I said. "
+Dialogue: 0,0:24:14.43,0:24:17.09,Default,,0,0,0,,He said, see?
+Dialogue: 0,0:24:17.09,0:24:20.71,Default,,0,0,0,,"Write to me,\Naboard Malaisie in Aden. "
+Dialogue: 0,0:24:21.80,0:24:24.97,Default,,0,0,0,,"A fondly kiss.\Nyour son, Marius. "
+Dialogue: 0,0:24:24.97,0:24:27.23,Default,,0,0,0,,your son, Marius.
+Dialogue: 0,0:24:27.23,0:24:31.69,Default,,0,0,0,,"Do not worry: I'm happy\Nlike a chick in the garbage. "
+Dialogue: 0,0:24:31.69,0:24:33.44,Default,,0,0,0,,He's happy.
+Dialogue: 0,0:24:33.44,0:24:37.45,Default,,0,0,0,,He left us\Nand yet is happy.
+Dialogue: 0,0:24:37.45,0:24:40.17,Default,,0,0,0,,What do you want,\Nmy little Fanny ...
+Dialogue: 0,0:24:40.17,0:24:42.21,Default,,0,0,0,,He is so ...
+Dialogue: 0,0:24:46.71,0:24:49.09,Default,,0,0,0,,Consider that\Nhe did not have much time.
+Dialogue: 0,0:24:51.01,0:24:55.37,Default,,0,0,0,,it's difficult to write on board,\Nneeds to balance all the time.
+Dialogue: 0,0:24:55.37,0:24:58.79,Default,,0,0,0,,He could have written\Nsomething more affectionate to me
+Dialogue: 0,0:24:59.46,0:25:01.52,Default,,0,0,0,,and especially for you,\Nmy little one.
+Dialogue: 0,0:25:01.52,0:25:04.71,Default,,0,0,0,,but maybe he has time to write a long sentence,
+Dialogue: 0,0:25:04.71,0:25:07.07,Default,,0,0,0,,something very sentimental,
+Dialogue: 0,0:25:07.06,0:25:10.28,Default,,0,0,0,,it was easy for him to measure\N"the oceanographic".
+Dialogue: 0,0:25:10.82,0:25:13.73,Default,,0,0,0,,he can explain it.
+Dialogue: 0,0:25:15.34,0:25:18.51,Default,,0,0,0,,And it's the first letter.\NThere's no other.
+Dialogue: 0,0:25:19.66,0:25:22.58,Default,,0,0,0,,Come, Fanny.\NWe will reply.
+Dialogue: 0,0:25:22.58,0:25:25.92,Default,,0,0,0,,my handwriting is very thick\N, you write.
+Dialogue: 0,0:25:25.93,0:25:27.62,Default,,0,0,0,,Come to the kitchen.\NCome on.
+Dialogue: 0,0:25:27.62,0:25:28.95,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:25:28.94,0:25:30.30,Default,,0,0,0,,we are closed, sir.
+Dialogue: 0,0:25:30.30,0:25:31.60,Default,,0,0,0,,Why are you closed?
+Dialogue: 0,0:25:31.60,0:25:33.09,Default,,0,0,0,,Because of the correspondence.
+Dialogue: 0,0:25:34.28,0:25:35.70,Default,,0,0,0,,Well ..
+Dialogue: 0,0:25:42.05,0:25:44.47,Default,,0,0,0,,"My dear child,"
+Dialogue: 0,0:25:45.68,0:25:48.64,Default,,0,0,0,,"Finally got your\Nfirst letter. "
+Dialogue: 0,0:25:48.65,0:25:50.76,Default,,0,0,0,,"It is not very long"
+Dialogue: 0,0:25:50.76,0:25:55.47,Default,,0,0,0,,"The next one i hope it will has\N10 or 20 pages "
+Dialogue: 0,0:25:58.93,0:26:03.65,Default,,0,0,0,,"what you said about scientists\Nis very interesting. "
+Dialogue: 0,0:26:03.65,0:26:08.08,Default,,0,0,0,,"But you do not lean too far to\Nmeasure the seabed "
+Dialogue: 0,0:26:08.08,0:26:12.17,Default,,0,0,0,,"you may fall."
+Dialogue: 0,0:26:12.18,0:26:18.11,Default,,0,0,0,,"And where is very deep,\Nlet others measure. "
+Dialogue: 0,0:26:18.10,0:26:20.47,Default,,0,0,0,,I know Marius.
+Dialogue: 0,0:26:20.48,0:26:23.53,Default,,0,0,0,,One day I took him to fishing\Non Panisse's boat.
+Dialogue: 0,0:26:23.53,0:26:25.40,Default,,0,0,0,,and he fell into the sea.
+Dialogue: 0,0:26:25.39,0:26:28.30,Default,,0,0,0,,I must say that his head\Nis heavier than the rear
+Dialogue: 0,0:26:28.31,0:26:30.85,Default,,0,0,0,,After he changed course.
+Dialogue: 0,0:26:30.84,0:26:33.35,Default,,0,0,0,,Where are we?\NReread the last sentence.
+Dialogue: 0,0:26:33.36,0:26:35.56,Default,,0,0,0,,"Let other measure."
+Dialogue: 0,0:26:35.55,0:26:39.41,Default,,0,0,0,,Yes Underline "Others"\Nvery strong.
+Dialogue: 0,0:26:39.42,0:26:42.64,Default,,0,0,0,,"And if someone has a fever"
+Dialogue: 0,0:26:42.63,0:26:46.54,Default,,0,0,0,,"Talk to him from far\Nand do not go near by ,
+Dialogue: 0,0:26:46.55,0:26:49.61,Default,,0,0,0,,"even if\Nhe's your best friend. "
+Dialogue: 0,0:26:49.61,0:26:55.19,Default,,0,0,0,,Friendship is admirable,\Nbut the plague is the end of the world. "
+Dialogue: 0,0:27:00.49,0:27:03.20,Default,,0,0,0,,"Here everything is fine."
+Dialogue: 0,0:27:03.62,0:27:06.84,Default,,0,0,0,,"Out of the terrible anger that I felt\Nwhen you're gone "
+Dialogue: 0,0:27:06.84,0:27:09.38,Default,,0,0,0,,",that has not passed yet."
+Dialogue: 0,0:27:11.84,0:27:15.04,Default,,0,0,0,,"Fanny is not well
+Dialogue: 0,0:27:16.32,0:27:20.72,Default,,0,0,0,,"She barely eats and\Nshe is very pale "
+Dialogue: 0,0:27:20.72,0:27:22.40,Default,,0,0,0,,"Everyone noticed"
+Dialogue: 0,0:27:22.41,0:27:25.15,Default,,0,0,0,,"People say\Nshe will die"
+Dialogue: 0,0:27:25.14,0:27:27.35,Default,,0,0,0,,"Caesar god forbids
+Dialogue: 0,0:27:27.93,0:27:32.05,Default,,0,0,0,,"Honorine looks at me\Nwith anger
+Dialogue: 0,0:27:32.05,0:27:35.79,Default,,0,0,0,,"I have the impression that she\Nwould give me a shot "
+Dialogue: 0,0:27:35.80,0:27:38.75,Default,,0,0,0,,"And it gives me chills."
+Dialogue: 0,0:27:41.30,0:27:43.75,Default,,0,0,0,,Why didn't you write this?
+Dialogue: 0,0:27:44.31,0:27:46.89,Default,,0,0,0,,i do not think that you need\Nto say that.
+Dialogue: 0,0:27:46.90,0:27:48.32,Default,,0,0,0,,He will suffer.
+Dialogue: 0,0:27:48.31,0:27:51.37,Default,,0,0,0,,and it doesn't make us suffer?
+Dialogue: 0,0:27:51.37,0:27:54.41,Default,,0,0,0,,Yes, but it will not help .
+Dialogue: 0,0:27:54.72,0:27:56.93,Default,,0,0,0,,Maybe you're right.
+Dialogue: 0,0:27:56.93,0:27:59.30,Default,,0,0,0,,So what should we say?
+Dialogue: 0,0:28:00.43,0:28:02.18,Default,,0,0,0,,Let me write.
+Dialogue: 0,0:28:02.18,0:28:04.80,Default,,0,0,0,,First tell me.
+Dialogue: 0,0:28:06.51,0:28:08.84,Default,,0,0,0,,Fanny is as always.
+Dialogue: 0,0:28:09.48,0:28:13.74,Default,,0,0,0,,"about marring Panisse\N,still have nothing ready. "
+Dialogue: 0,0:28:13.75,0:28:16.09,Default,,0,0,0,,You are so great!
+Dialogue: 0,0:28:17.34,0:28:21.83,Default,,0,0,0,,sometimes we talk about you in\Nthe cafe terrace. "
+Dialogue: 0,0:28:21.83,0:28:24.31,Default,,0,0,0,,at night, when everything\Nis calm "
+Dialogue: 0,0:28:24.31,0:28:28.31,Default,,0,0,0,,in our converstaions with\NPanisse or Mr. Brun.
+Dialogue: 0,0:28:28.63,0:28:31.54,Default,,0,0,0,,"Neither seems\Nyou are so far "
+Dialogue: 0,0:28:31.55,0:28:35.54,Default,,0,0,0,,"it Looks like you went to\Nthe station to fetch the baskets "
+Dialogue: 0,0:28:35.55,0:28:38.04,Default,,0,0,0,,"and you will show up at the door
+Dialogue: 0,0:28:38.05,0:28:42.84,Default,,0,0,0,,"with your straw hat\Nand your neckerchief. "
+Dialogue: 0,0:29:40.01,0:29:42.60,Default,,0,0,0,,Why wasn't she go to work?
+Dialogue: 0,0:29:43.09,0:29:44.73,Default,,0,0,0,,She has been replaced again.
+Dialogue: 0,0:29:44.72,0:29:46.62,Default,,0,0,0,,Listen, my sister ...
+Dialogue: 0,0:29:46.63,0:29:50.15,Default,,0,0,0,,When she wants to work\Nyou tell her to go sightseeing.
+Dialogue: 0,0:29:50.14,0:29:54.39,Default,,0,0,0,,And when she wants to take a walk\Nyou complain!
+Dialogue: 0,0:30:00.75,0:30:02.87,Default,,0,0,0,,are you waiting for someone?-\Nno-
+Dialogue: 0,0:30:07.28,0:30:10.05,Default,,0,0,0,,Look! Mr. Panisse!
+Dialogue: 0,0:30:10.04,0:30:11.58,Default,,0,0,0,,Yes, I am.
+Dialogue: 0,0:30:11.98,0:30:14.47,Default,,0,0,0,,-Good morning, ma'am. How do you do?\N- Good morning.
+Dialogue: 0,0:30:14.47,0:30:16.01,Default,,0,0,0,,Well ,What about you?
+Dialogue: 0,0:30:16.02,0:30:18.52,Default,,0,0,0,,Not bad.\NYou are very beautiful.
+Dialogue: 0,0:30:19.97,0:30:22.57,Default,,0,0,0,,N! It is you who is handsome.
+Dialogue: 0,0:30:22.56,0:30:25.60,Default,,0,0,0,,I'm coming from a wedding,\Nso I'm dressed like this.
+Dialogue: 0,0:30:25.91,0:30:27.62,Default,,0,0,0,,And you look very well, you know?
+Dialogue: 0,0:30:27.61,0:30:31.38,Default,,0,0,0,,A Tailcoat always goes down well.\NBut I'm Not Cute,it is the clothing.
+Dialogue: 0,0:30:31.39,0:30:33.16,Default,,0,0,0,,Do not say that, Panisse.
+Dialogue: 0,0:30:33.15,0:30:36.32,Default,,0,0,0,,no need to know wear fancy clothing\Nand it looks good on him.
+Dialogue: 0,0:30:36.32,0:30:37.68,Default,,0,0,0,,isn't it , Honorine?
+Dialogue: 0,0:30:37.69,0:30:40.11,Default,,0,0,0,,Sit,\NSr. Panisse.
+Dialogue: 0,0:30:40.11,0:30:42.74,Default,,0,0,0,,go fetch a liquor\Nfor Mr. Panisse.
+Dialogue: 0,0:30:43.82,0:30:46.34,Default,,0,0,0,,was it a beautiful wedding?
+Dialogue: 0,0:30:46.34,0:30:49.01,Default,,0,0,0,,It was beautiful.\NAnd even exciting.
+Dialogue: 0,0:30:49.02,0:30:50.34,Default,,0,0,0,,Especially for me.
+Dialogue: 0,0:30:50.33,0:30:52.88,Default,,0,0,0,,The groom was alive,\Nlike me.
+Dialogue: 0,0:30:52.88,0:30:56.29,Default,,0,0,0,,And same my age, like me.
+Dialogue: 0,0:30:56.30,0:30:59.88,Default,,0,0,0,,And married a young\Nmarvelous woman.
+Dialogue: 0,0:30:59.88,0:31:02.75,Default,,0,0,0,,she Worked at the checkout.\NVery young.
+Dialogue: 0,0:31:02.76,0:31:04.10,Default,,0,0,0,,He did well.
+Dialogue: 0,0:31:04.09,0:31:07.70,Default,,0,0,0,,and by the end of the cermony\Ntwo or three people
+Dialogue: 0,0:31:07.70,0:31:09.32,Default,,0,0,0,,mocked him.
+Dialogue: 0,0:31:09.63,0:31:13.41,Default,,0,0,0,,I thought they had no reason.\NAnd you, what do you think?
+Dialogue: 0,0:31:13.41,0:31:15.12,Default,,0,0,0,,they were jealous.
+Dialogue: 0,0:31:15.43,0:31:17.17,Default,,0,0,0,,What do you think, Honorine?
+Dialogue: 0,0:31:17.18,0:31:20.60,Default,,0,0,0,,If he was happy,\Nthe best for him.
+Dialogue: 0,0:31:20.59,0:31:23.46,Default,,0,0,0,,If a mature man\Nwants to marry a young woman.
+Dialogue: 0,0:31:23.47,0:31:25.68,Default,,0,0,0,,if his situation allows it,
+Dialogue: 0,0:31:25.68,0:31:28.14,Default,,0,0,0,,why it will look\Nan old ugly?
+Dialogue: 0,0:31:28.13,0:31:31.21,Default,,0,0,0,,- So, you are approving about my friend?\N- Congratulations to him!
+Dialogue: 0,0:31:31.22,0:31:32.93,Default,,0,0,0,,And you, Honorine?
+Dialogue: 0,0:31:32.93,0:31:34.75,Default,,0,0,0,,If it makes him happy,
+Dialogue: 0,0:31:34.74,0:31:38.46,Default,,0,0,0,,if it will assure,\Nhappiness and fortune ...
+Dialogue: 0,0:31:39.46,0:31:40.86,Default,,0,0,0,,Okay ...
+Dialogue: 0,0:31:42.29,0:31:43.59,Default,,0,0,0,,my dear Honorine,
+Dialogue: 0,0:31:43.59,0:31:46.59,Default,,0,0,0,,I can see that there's\Na common sense prevails here
+Dialogue: 0,0:31:47.80,0:31:52.37,Default,,0,0,0,,I think it is time\Nto renew an attitude.
+Dialogue: 0,0:31:52.37,0:31:56.37,Default,,0,0,0,,which will has a great impact\Non my future.
+Dialogue: 0,0:31:58.09,0:32:02.04,Default,,0,0,0,,I want to marry your daughter,\Nis that ok?
+Dialogue: 0,0:32:03.82,0:32:05.12,Default,,0,0,0,,would you give me her hand or not?
+Dialogue: 0,0:32:05.12,0:32:06.84,Default,,0,0,0,,of course we do !
+Dialogue: 0,0:32:06.84,0:32:08.88,Default,,0,0,0,,Mind your own business.
+Dialogue: 0,0:32:09.97,0:32:11.43,Default,,0,0,0,,do you know what will happen?
+Dialogue: 0,0:32:11.42,0:32:13.51,Default,,0,0,0,,With Marius,don't you?\NI know.
+Dialogue: 0,0:32:13.51,0:32:15.72,Default,,0,0,0,,It no longer exists,\NHonorine, you said.
+Dialogue: 0,0:32:15.73,0:32:17.96,Default,,0,0,0,,Mr. you do not know everything.\NMarius ...
+Dialogue: 0,0:32:17.95,0:32:21.49,Default,,0,0,0,,Marius is a subject\NI do not like.
+Dialogue: 0,0:32:21.99,0:32:25.98,Default,,0,0,0,,Let's talk about the rain, taxes,\Nbut not Marius.
+Dialogue: 0,0:32:25.98,0:32:27.55,Default,,0,0,0,,and then?, Honorine,
+Dialogue: 0,0:32:27.55,0:32:29.54,Default,,0,0,0,,the answer?
+Dialogue: 0,0:32:29.55,0:32:32.18,Default,,0,0,0,,i'll Give you my answer\Ntomorrow night.
+Dialogue: 0,0:32:40.46,0:32:42.05,Default,,0,0,0,,is there any hope for me?
+Dialogue: 0,0:32:42.05,0:32:43.88,Default,,0,0,0,,Much Panisse.
+Dialogue: 0,0:34:23.72,0:34:28.47,Default,,0,0,0,,Father, forgive me.\NI loved him too!
+Dialogue: 0,0:34:28.47,0:34:32.89,Default,,0,0,0,,bring him back to me ,\Nto give a name to his son.
+Dialogue: 0,0:34:32.89,0:34:36.81,Default,,0,0,0,,Holy Virgin,\NGive me the courage to live.
+Dialogue: 0,0:34:37.36,0:34:39.98,Default,,0,0,0,,Give me strength to\Ntell my mother.
+Dialogue: 0,0:35:25.09,0:35:27.17,Default,,0,0,0,,Finally the miss arrived!
+Dialogue: 0,0:35:27.65,0:35:29.73,Default,,0,0,0,,And where were you,\Ngirl?
+Dialogue: 0,0:35:29.73,0:35:31.93,Default,,0,0,0,,do you like being replaced\Neveryday?
+Dialogue: 0,0:35:31.92,0:35:34.50,Default,,0,0,0,,- Good morning, dear.\N- Good morning, Aunt.
+Dialogue: 0,0:35:34.91,0:35:39.88,Default,,0,0,0,,The ride was well to you .\NCan not even speak.
+Dialogue: 0,0:35:39.88,0:35:43.49,Default,,0,0,0,,She can talk,\NGive her a break.
+Dialogue: 0,0:35:43.50,0:35:45.97,Default,,0,0,0,,Was giving a ride?
+Dialogue: 0,0:35:45.96,0:35:49.88,Default,,0,0,0,,- What are you looking at?\N- Nothing.
+Dialogue: 0,0:35:49.88,0:35:53.48,Default,,0,0,0,,your Aunt Claudine comes to visit\Nand you're sulking!
+Dialogue: 0,0:35:53.48,0:35:56.13,Default,,0,0,0,,- She's not sulking!\N- Look at her face!
+Dialogue: 0,0:35:56.13,0:35:58.29,Default,,0,0,0,,give her a break.
+Dialogue: 0,0:35:58.68,0:36:01.10,Default,,0,0,0,,Fanny help me set the table.\NI'm hungry!
+Dialogue: 0,0:36:01.10,0:36:02.89,Default,,0,0,0,,Are not you hungry?
+Dialogue: 0,0:36:16.85,0:36:18.15,Default,,0,0,0,,mother?
+Dialogue: 0,0:36:18.15,0:36:19.55,Default,,0,0,0,,What?
+Dialogue: 0,0:36:20.38,0:36:22.04,Default,,0,0,0,,i'm going to have a baby.
+Dialogue: 0,0:36:24.05,0:36:26.09,Default,,0,0,0,,What are you saying?
+Dialogue: 0,0:36:26.50,0:36:29.92,Default,,0,0,0,,I will have a son.\NThe doctor just told me.
+Dialogue: 0,0:36:31.54,0:36:34.66,Default,,0,0,0,,Oh my God!\NOh my God!
+Dialogue: 0,0:36:34.66,0:36:37.42,Default,,0,0,0,,It is not possible!\NIt is not true.
+Dialogue: 0,0:36:37.42,0:36:39.01,Default,,0,0,0,,Out!
+Dialogue: 0,0:36:39.55,0:36:40.85,Default,,0,0,0,,Out dishonest daughter!
+Dialogue: 0,0:36:40.85,0:36:43.59,Default,,0,0,0,,Lost daughter! If your father\Nwere here, he would have killed you.
+Dialogue: 0,0:36:43.59,0:36:45.85,Default,,0,0,0,,- Should I open the door?\N- Wherever she goes?
+Dialogue: 0,0:36:45.85,0:36:49.27,Default,,0,0,0,,For the street, street girl!\Nshe's not my daughter!
+Dialogue: 0,0:36:49.27,0:36:51.42,Default,,0,0,0,,- Mom!\N- Go pack your suitcase!
+Dialogue: 0,0:36:51.43,0:36:52.93,Default,,0,0,0,,Honorine, do not be silly.
+Dialogue: 0,0:36:52.93,0:36:54.64,Default,,0,0,0,,Shut up, Honorine.
+Dialogue: 0,0:36:54.63,0:36:57.45,Default,,0,0,0,,she's worse than Zoe,\Nit is the shame of the family!
+Dialogue: 0,0:36:57.45,0:36:59.88,Default,,0,0,0,,Short or put you out\Na beating!
+Dialogue: 0,0:36:59.88,0:37:02.42,Default,,0,0,0,,- Slut!\N- Honorine!
+Dialogue: 0,0:37:02.43,0:37:03.98,Default,,0,0,0,,Fanny!
+Dialogue: 0,0:37:03.97,0:37:06.97,Default,,0,0,0,,And now she fainted!
+Dialogue: 0,0:37:07.51,0:37:09.79,Default,,0,0,0,,Vinegar! hurry, vinegar!
+Dialogue: 0,0:37:09.80,0:37:12.57,Default,,0,0,0,,Not be ashame
+Dialogue: 0,0:37:12.58,0:37:14.12,Default,,0,0,0,,do you want to kill her?
+Dialogue: 0,0:37:16.78,0:37:18.96,Default,,0,0,0,,she is white like a dead!
+Dialogue: 0,0:37:18.95,0:37:21.70,Default,,0,0,0,,Fanny! My little!\NMy daughter!
+Dialogue: 0,0:37:23.26,0:37:27.08,Default,,0,0,0,,My beloved daughter\Ndo not die!
+Dialogue: 0,0:37:27.09,0:37:29.85,Default,,0,0,0,,Come on, open your eyes!\NBut do not Die!
+Dialogue: 0,0:37:29.84,0:37:32.88,Default,,0,0,0,,I forgive you,\Nbut do not Die!
+Dialogue: 0,0:37:32.88,0:37:35.60,Default,,0,0,0,,mother , it's nothing.
+Dialogue: 0,0:37:35.61,0:37:37.40,Default,,0,0,0,,there's nothing mother.
+Dialogue: 0,0:37:37.39,0:37:39.10,Default,,0,0,0,,look, it passed.
+Dialogue: 0,0:37:39.88,0:37:41.79,Default,,0,0,0,,Breathe.
+Dialogue: 0,0:37:43.74,0:37:45.21,Default,,0,0,0,,My God!
+Dialogue: 0,0:37:45.21,0:37:46.88,Default,,0,0,0,,My God, my heart!
+Dialogue: 0,0:37:47.57,0:37:49.74,Default,,0,0,0,,Walk.\Nhurry, the chair!
+Dialogue: 0,0:37:54.97,0:37:56.84,Default,,0,0,0,,she is getting fine.
+Dialogue: 0,0:37:56.84,0:37:59.77,Default,,0,0,0,,You should die of shame!
+Dialogue: 0,0:37:59.78,0:38:01.53,Default,,0,0,0,,Shut your mouth!
+Dialogue: 0,0:38:01.53,0:38:04.95,Default,,0,0,0,,She faints and you cry,\Nit improves and you resumes.
+Dialogue: 0,0:38:05.38,0:38:06.86,Default,,0,0,0,,Leave her alone!
+Dialogue: 0,0:38:06.86,0:38:10.47,Default,,0,0,0,,do you think it's normal for a girl to come\Nhome with a baby under the apron?
+Dialogue: 0,0:38:10.48,0:38:13.11,Default,,0,0,0,,Of course it is a disgrace.
+Dialogue: 0,0:38:14.21,0:38:16.67,Default,,0,0,0,,but wasn't it expected , was it?
+Dialogue: 0,0:38:16.68,0:38:18.49,Default,,0,0,0,,With a lover,
+Dialogue: 0,0:38:18.48,0:38:21.32,Default,,0,0,0,,it is easier to have a son\Nto join a million.
+Dialogue: 0,0:38:21.33,0:38:23.57,Default,,0,0,0,,Who is the father?
+Dialogue: 0,0:38:23.57,0:38:24.87,Default,,0,0,0,,from Marius?
+Dialogue: 0,0:38:24.87,0:38:27.65,Default,,0,0,0,,Who else could it be?\NCan not be all of Marseille!
+Dialogue: 0,0:38:27.64,0:38:29.35,Default,,0,0,0,,Ah, is Marius ...
+Dialogue: 0,0:38:29.83,0:38:33.26,Default,,0,0,0,,If I took this to ...
+Dialogue: 0,0:38:33.26,0:38:37.63,Default,,0,0,0,,This guy has no morals.\Nto make a girl get pregnant.
+Dialogue: 0,0:38:37.97,0:38:40.23,Default,,0,0,0,,and does not provides.
+Dialogue: 0,0:38:40.23,0:38:43.64,Default,,0,0,0,,But what are we going to do?\N-The evil done this.
+Dialogue: 0,0:38:43.63,0:38:45.17,Default,,0,0,0,,And well done.
+Dialogue: 0,0:38:51.84,0:38:53.42,Default,,0,0,0,,Ah, my daughter!
+Dialogue: 0,0:38:54.63,0:38:57.63,Default,,0,0,0,,Say, my daughter.\NSince when do you know?
+Dialogue: 0,0:39:00.46,0:39:02.59,Default,,0,0,0,,Since i did not ...
+Dialogue: 0,0:39:03.47,0:39:05.43,Default,,0,0,0,,I did not feel well.
+Dialogue: 0,0:39:06.43,0:39:08.80,Default,,0,0,0,,It was not like before.
+Dialogue: 0,0:39:09.64,0:39:11.35,Default,,0,0,0,,i got Nausea every morning.
+Dialogue: 0,0:39:12.76,0:39:16.10,Default,,0,0,0,,Today I decided\Nto see Dr. Venelle.
+Dialogue: 0,0:39:16.10,0:39:19.49,Default,,0,0,0,,Ah! A good doctor.\NVery wise.
+Dialogue: 0,0:39:19.49,0:39:21.45,Default,,0,0,0,,What did he say?
+Dialogue: 0,0:39:23.68,0:39:25.93,Default,,0,0,0,,it will be born in March.
+Dialogue: 0,0:39:26.48,0:39:28.98,Default,,0,0,0,,A beautiful month!\NThe month of maddness...
+Dialogue: 0,0:39:32.27,0:39:34.77,Default,,0,0,0,,don't cry ,\Nit's not going to help.
+Dialogue: 0,0:39:38.38,0:39:40.75,Default,,0,0,0,,What will you do?
+Dialogue: 0,0:39:41.33,0:39:43.96,Default,,0,0,0,,I'll do whatever you want,\Nas long as you stay with me.
+Dialogue: 0,0:39:44.55,0:39:46.89,Default,,0,0,0,,Then it is easy.\NWe are saved.
+Dialogue: 0,0:39:46.89,0:39:49.14,Default,,0,0,0,,Marry Panisse.
+Dialogue: 0,0:39:50.30,0:39:51.93,Default,,0,0,0,,Does he still want me?
+Dialogue: 0,0:39:51.94,0:39:54.57,Default,,0,0,0,,He came to ask for your hand\Nagain this morning.
+Dialogue: 0,0:39:55.76,0:39:58.02,Default,,0,0,0,,This time be yes,\Nyes, yes!
+Dialogue: 0,0:39:58.02,0:39:59.55,Default,,0,0,0,,get marry in 15 days.
+Dialogue: 0,0:39:59.54,0:40:02.79,Default,,0,0,0,,and I will give him the answer.
+Dialogue: 0,0:40:03.50,0:40:06.13,Default,,0,0,0,,- What do you think?\N- Huh?
+Dialogue: 0,0:40:06.64,0:40:08.04,Default,,0,0,0,,I?
+Dialogue: 0,0:40:20.60,0:40:22.00,Default,,0,0,0,,I...
+Dialogue: 0,0:40:23.38,0:40:26.59,Default,,0,0,0,,I think I'm well off.
+Dialogue: 0,0:40:26.59,0:40:30.63,Default,,0,0,0,,I am able to work\Nand be alone.
+Dialogue: 0,0:40:31.88,0:40:35.96,Default,,0,0,0,,If my mother would allow me,\Ni don't want to get marry.
+Dialogue: 0,0:40:37.16,0:40:38.98,Default,,0,0,0,,provide for my son with\Nmy work.
+Dialogue: 0,0:40:38.98,0:40:40.87,Default,,0,0,0,,and wait for his father's return.
+Dialogue: 0,0:40:42.71,0:40:44.61,Default,,0,0,0,,If he comes back.
+Dialogue: 0,0:40:44.62,0:40:47.63,Default,,0,0,0,,Beautiful but difficult.
+Dialogue: 0,0:40:47.64,0:40:51.98,Default,,0,0,0,,Difficult? impossible!\NRaising a child alone?
+Dialogue: 0,0:40:51.99,0:40:55.07,Default,,0,0,0,,Let's not waste time\Nwith nonsense!
+Dialogue: 0,0:40:55.07,0:40:57.86,Default,,0,0,0,,Mom.\Nwhat about Madeleine Cadot?
+Dialogue: 0,0:40:57.87,0:41:02.36,Default,,0,0,0,,she is a single mother.\NShe created the law and she is happy.
+Dialogue: 0,0:41:02.37,0:41:06.44,Default,,0,0,0,,It is not the same thing. The father\Ndied near the wedding.
+Dialogue: 0,0:41:06.44,0:41:09.71,Default,,0,0,0,,While this one\Nwent to sea.
+Dialogue: 0,0:41:09.72,0:41:13.85,Default,,0,0,0,,running away with all his strength\Nto not marry you!
+Dialogue: 0,0:41:16.08,0:41:20.42,Default,,0,0,0,,In all families there are daughters\Ngood and lost.
+Dialogue: 0,0:41:20.43,0:41:22.20,Default,,0,0,0,,This is forgivable\Nbecause it is natural.
+Dialogue: 0,0:41:22.20,0:41:23.67,Default,,0,0,0,,But in our opinion it is impossible
+Dialogue: 0,0:41:23.66,0:41:25.71,Default,,0,0,0,,why our sister Zo\Nstole the time.
+Dialogue: 0,0:41:26.63,0:41:31.02,Default,,0,0,0,,If you do not accept Panisse ,\Nwe will lose our honor.
+Dialogue: 0,0:41:31.03,0:41:34.87,Default,,0,0,0,,and I will die of sorrow\Nwith your shame.
+Dialogue: 0,0:41:36.01,0:41:38.44,Default,,0,0,0,,But he wants me?
+Dialogue: 0,0:41:38.44,0:41:40.54,Default,,0,0,0,,If I'm saying\Nhe asked again!
+Dialogue: 0,0:41:40.54,0:41:42.52,Default,,0,0,0,,But he does not know\NI'm pregnant.
+Dialogue: 0,0:41:42.52,0:41:43.86,Default,,0,0,0,,Fortunately!
+Dialogue: 0,0:41:45.93,0:41:47.97,Default,,0,0,0,,do you Want me to marry\Nhim without telling the truth?
+Dialogue: 0,0:41:47.97,0:41:50.18,Default,,0,0,0,,And you would be stupid to say?
+Dialogue: 0,0:41:50.18,0:41:51.75,Default,,0,0,0,,But it has to!\NHe's right.
+Dialogue: 0,0:41:51.75,0:41:53.44,Default,,0,0,0,,She is crazy\Nor she's kidding?
+Dialogue: 0,0:41:53.43,0:41:56.49,Default,,0,0,0,,Fanny, this man is\Nour only hope.
+Dialogue: 0,0:41:56.50,0:41:59.15,Default,,0,0,0,,but if you want to tell , he won't marry you
+Dialogue: 0,0:41:59.16,0:42:00.91,Default,,0,0,0,,but Not saying would be a crime.
+Dialogue: 0,0:42:01.95,0:42:06.12,Default,,0,0,0,,Why tell if you\Ndo not know if it's true?
+Dialogue: 0,0:42:06.13,0:42:07.55,Default,,0,0,0,,Dr. Venelle told me.
+Dialogue: 0,0:42:07.55,0:42:10.22,Default,,0,0,0,,But he's decrepit!\NHe is 100 years old!
+Dialogue: 0,0:42:14.44,0:42:16.44,Default,,0,0,0,,i do not want to be dishonest.
+Dialogue: 0,0:42:16.98,0:42:19.25,Default,,0,0,0,,A woman is never dishonest with a man.
+Dialogue: 0,0:42:19.25,0:42:22.46,Default,,0,0,0,,It's my fault. Worst for me.\NI have to turn around.
+Dialogue: 0,0:42:23.37,0:42:26.59,Default,,0,0,0,,would it be good for Panisse\Nto father a bastard?
+Dialogue: 0,0:42:26.58,0:42:28.67,Default,,0,0,0,,i'm not going to be able to look\Nanyone in the eye.
+Dialogue: 0,0:42:30.30,0:42:32.06,Default,,0,0,0,,And I'm proposing that?
+Dialogue: 0,0:42:32.05,0:42:34.15,Default,,0,0,0,,That's it.\NCome with moral lesson!
+Dialogue: 0,0:42:34.16,0:42:36.12,Default,,0,0,0,,Honorine,\Ndon't resume.
+Dialogue: 0,0:42:36.12,0:42:39.74,Default,,0,0,0,,a terrible tragedy,\Nbut we have to eat.
+Dialogue: 0,0:42:39.73,0:42:42.15,Default,,0,0,0,,- Fanny, go sit down.\N- I'm Not Hungry!
+Dialogue: 0,0:42:44.92,0:42:47.54,Default,,0,0,0,,When we do not have children,\Nand envy those who have,
+Dialogue: 0,0:42:47.54,0:42:49.48,Default,,0,0,0,,when we have,\Nthey treat us like horses!
+Dialogue: 0,0:42:50.00,0:42:53.47,Default,,0,0,0,,The Virgin had a look at everything they did.
+Dialogue: 0,0:42:53.47,0:42:55.72,Default,,0,0,0,,And it was still a boy.
+Dialogue: 0,0:42:57.28,0:43:01.06,Default,,0,0,0,,are The bastards uglier\Nthan others?
+Dialogue: 0,0:43:01.06,0:43:02.79,Default,,0,0,0,,On the contrary.
+Dialogue: 0,0:43:02.79,0:43:05.74,Default,,0,0,0,,Sometimes they are stronger\Nand smarter.
+Dialogue: 0,0:43:06.45,0:43:08.37,Default,,0,0,0,,So, what are you complaining about?
+Dialogue: 0,0:43:35.56,0:43:37.81,Default,,0,0,0,,Bon appetit, Mr. Panisse.
+Dialogue: 0,0:43:38.18,0:43:39.90,Default,,0,0,0,,Bon appetit, ladies.
+Dialogue: 0,0:43:39.90,0:43:41.81,Default,,0,0,0,,Bon appetit, Mr. Panisse.
+Dialogue: 0,0:43:41.81,0:43:44.14,Default,,0,0,0,,Bon appetit, ladies.
+Dialogue: 0,0:43:45.19,0:43:46.59,Default,,0,0,0,,Bon appetit
+Dialogue: 0,0:43:47.71,0:43:49.79,Default,,0,0,0,,Bon appetit to you.
+Dialogue: 0,0:43:51.38,0:43:53.88,Default,,0,0,0,,Can I talk to you, Panisse?
+Dialogue: 0,0:43:57.70,0:43:59.66,Default,,0,0,0,,You can go to lunch,\NMrs. Roumieux.
+Dialogue: 0,0:43:59.65,0:44:01.62,Default,,0,0,0,,Thank you.\NI'm going.
+Dialogue: 0,0:44:01.62,0:44:04.49,Default,,0,0,0,,Come here inside.\Nit's more quiet.
+Dialogue: 0,0:44:14.40,0:44:16.64,Default,,0,0,0,,Your mother told you and\NI asked for your hand again?
+Dialogue: 0,0:44:16.65,0:44:18.03,Default,,0,0,0,,Yes, she told me.
+Dialogue: 0,0:44:18.34,0:44:21.50,Default,,0,0,0,,- did you Come to give me your answer?\N- Yes
+Dialogue: 0,0:44:21.93,0:44:24.43,Default,,0,0,0,,Will you tell me "no" again?
+Dialogue: 0,0:44:24.43,0:44:27.28,Default,,0,0,0,,Alright.\NDo not worry about me.
+Dialogue: 0,0:44:27.27,0:44:29.85,Default,,0,0,0,,If it is no, is no.\NAnd this is it .
+Dialogue: 0,0:44:29.86,0:44:31.23,Default,,0,0,0,,Okay, what to do?
+Dialogue: 0,0:44:31.22,0:44:34.51,Default,,0,0,0,,You are mistaken, Panisse.\Ni didn't come to say no.
+Dialogue: 0,0:44:36.26,0:44:38.76,Default,,0,0,0,,are you going to say yes?
+Dialogue: 0,0:44:39.62,0:44:41.61,Default,,0,0,0,,I came to say,\Nif possible,
+Dialogue: 0,0:44:41.61,0:44:42.91,Default,,0,0,0,,I would say yes.
+Dialogue: 0,0:44:43.98,0:44:46.52,Default,,0,0,0,,- But it is impossible.\N- Why?
+Dialogue: 0,0:44:47.20,0:44:49.71,Default,,0,0,0,,Because there is a serious thing\Nyou do not know.
+Dialogue: 0,0:44:49.72,0:44:52.16,Default,,0,0,0,,And when you know,\Nyou won't want me anymore.
+Dialogue: 0,0:44:52.15,0:44:53.94,Default,,0,0,0,,But I already know!
+Dialogue: 0,0:44:54.25,0:44:55.96,Default,,0,0,0,,Several people already know.
+Dialogue: 0,0:44:55.95,0:44:59.04,Default,,0,0,0,,Marius has been seen  out of your home\None morning. And what about it?
+Dialogue: 0,0:44:59.05,0:45:00.87,Default,,0,0,0,,If someone comes to tell me.
+Dialogue: 0,0:45:00.87,0:45:03.95,Default,,0,0,0,,you're going to marry a girl\N,you are not her the first?
+Dialogue: 0,0:45:03.96,0:45:06.72,Default,,0,0,0,,I'll answer, and I?\NI happen to be a virgin?
+Dialogue: 0,0:45:07.19,0:45:09.02,Default,,0,0,0,,No, then.\NWhat harm can be there?
+Dialogue: 0,0:45:10.07,0:45:12.64,Default,,0,0,0,,You're good, Panisse.
+Dialogue: 0,0:45:12.65,0:45:17.26,Default,,0,0,0,,But what about something more serious,\Nthat it's not  clear.
+Dialogue: 0,0:45:17.25,0:45:18.58,Default,,0,0,0,,Yes ..
+Dialogue: 0,0:45:19.18,0:45:21.04,Default,,0,0,0,,You still think of Marius.
+Dialogue: 0,0:45:21.04,0:45:23.00,Default,,0,0,0,,it's not your fault,\Nyou will forget.
+Dialogue: 0,0:45:22.99,0:45:25.24,Default,,0,0,0,,You'll be a different woman.
+Dialogue: 0,0:45:25.59,0:45:27.80,Default,,0,0,0,,right.\NI still think about him.
+Dialogue: 0,0:45:29.57,0:45:33.09,Default,,0,0,0,,But there is something more terrible.
+Dialogue: 0,0:45:33.09,0:45:35.92,Default,,0,0,0,,An irreparable consequence.
+Dialogue: 0,0:45:40.15,0:45:41.55,Default,,0,0,0,,What is it?
+Dialogue: 0,0:45:42.30,0:45:43.92,Default,,0,0,0,,Huh?
+Dialogue: 0,0:45:43.93,0:45:46.97,Default,,0,0,0,,Do not force me to say.\NTry to understand.
+Dialogue: 0,0:45:46.96,0:45:50.53,Default,,0,0,0,,Well, I'm trying,\Nlooking, thinking ...
+Dialogue: 0,0:45:50.54,0:45:54.72,Default,,0,0,0,,Do not look.\Nyou should understand.
+Dialogue: 0,0:45:54.72,0:45:57.18,Default,,0,0,0,,you are right, Panisse.\NDo not stay with me.
+Dialogue: 0,0:45:57.17,0:46:00.17,Default,,0,0,0,,I'm lost. Lost!
+Dialogue: 0,0:46:01.97,0:46:05.10,Default,,0,0,0,,you'll have the right to kill me.
+Dialogue: 0,0:46:05.97,0:46:08.10,Default,,0,0,0,,baby, Funny?
+Dialogue: 0,0:46:08.10,0:46:09.52,Default,,0,0,0,,speak...
+Dialogue: 0,0:46:09.51,0:46:11.17,Default,,0,0,0,,a baby?
+Dialogue: 0,0:46:11.68,0:46:14.01,Default,,0,0,0,,Are you sure?\NIt was the doctor who said?
+Dialogue: 0,0:46:14.66,0:46:16.38,Default,,0,0,0,,that's why you were So sick?
+Dialogue: 0,0:46:17.22,0:46:19.38,Default,,0,0,0,,Do not despise me, Panisse!
+Dialogue: 0,0:46:19.38,0:46:23.22,Default,,0,0,0,,You asked my hand,\NI had to say "yes",
+Dialogue: 0,0:46:23.22,0:46:25.74,Default,,0,0,0,,but I have a child\Neating my stomach.
+Dialogue: 0,0:46:25.75,0:46:28.12,Default,,0,0,0,,He wants to be born.
+Dialogue: 0,0:46:28.54,0:46:31.25,Default,,0,0,0,,And even then,\Nmarry me?
+Dialogue: 0,0:46:31.84,0:46:34.16,Default,,0,0,0,,I'll be grateful to you.
+Dialogue: 0,0:46:34.16,0:46:36.78,Default,,0,0,0,,i may end up loving you.
+Dialogue: 0,0:46:40.69,0:46:42.01,Default,,0,0,0,,And the child?
+Dialogue: 0,0:46:42.01,0:46:44.88,Default,,0,0,0,,You give it to me?\NBe mine? Having my name?
+Dialogue: 0,0:46:45.38,0:46:47.72,Default,,0,0,0,,it's the only thing I ask of you.
+Dialogue: 0,0:46:47.72,0:46:49.67,Default,,0,0,0,,Mother of God!
+Dialogue: 0,0:46:51.31,0:46:53.00,Default,,0,0,0,,Will you still want me?\NReally?
+Dialogue: 0,0:46:52.99,0:46:56.78,Default,,0,0,0,,Fanny, didn't you notice my badge?
+Dialogue: 0,0:46:57.09,0:47:00.51,Default,,0,0,0,,it's writing "Honor Panisse"\Nand then "master of candles."
+Dialogue: 0,0:47:00.52,0:47:05.18,Default,,0,0,0,,left, the letters are\Ntight and then there is a void.
+Dialogue: 0,0:47:05.18,0:47:07.01,Default,,0,0,0,,Come see it!
+Dialogue: 0,0:47:19.81,0:47:21.61,Default,,0,0,0,,Has the "e".
+Dialogue: 0,0:47:21.62,0:47:24.49,Default,,0,0,0,,Has the "F", the "l"
+Dialogue: 0,0:47:25.39,0:47:26.73,Default,,0,0,0,,"L"
+Dialogue: 0,0:47:27.64,0:47:28.94,Default,,0,0,0,,and "S"!
+Dialogue: 0,0:47:28.94,0:47:31.27,Default,,0,0,0,,"Panisse and Sons"!
+Dialogue: 0,0:47:32.13,0:47:35.75,Default,,0,0,0,,it was saved for 30 years ,\NI could never use it.
+Dialogue: 0,0:47:36.33,0:47:39.92,Default,,0,0,0,,And now, Fanny,\Nlet's be accurate.
+Dialogue: 0,0:47:40.64,0:47:42.46,Default,,0,0,0,,You told me your secret.
+Dialogue: 0,0:47:42.47,0:47:44.14,Default,,0,0,0,,anyone else?
+Dialogue: 0,0:47:44.14,0:47:46.00,Default,,0,0,0,,The doctor knows, but he doesn't\Ncount.
+Dialogue: 0,0:47:46.01,0:47:47.87,Default,,0,0,0,,- Who else?\N- My mother and and Claudine.
+Dialogue: 0,0:47:47.87,0:47:50.89,Default,,0,0,0,,they won't harm the family honor,\Nanyone else?
+Dialogue: 0,0:47:50.89,0:47:52.25,Default,,0,0,0,,Nobody.
+Dialogue: 0,0:47:52.25,0:47:54.04,Default,,0,0,0,,And when he's coming?
+Dialogue: 0,0:47:54.47,0:47:56.62,Default,,0,0,0,,February or March.
+Dialogue: 0,0:47:56.62,0:47:58.40,Default,,0,0,0,,Sit down, my dear Fanny.
+Dialogue: 0,0:47:58.40,0:48:00.44,Default,,0,0,0,,Being a child of 7 months.
+Dialogue: 0,0:48:01.26,0:48:02.88,Default,,0,0,0,,And when do we get married?
+Dialogue: 0,0:48:03.68,0:48:08.04,Default,,0,0,0,,Mr. Panisse you are sure?\Nare you sure?
+Dialogue: 0,0:48:08.05,0:48:13.00,Default,,0,0,0,,When I married Felicite,\Nshe was your age.
+Dialogue: 0,0:48:13.01,0:48:14.76,Default,,0,0,0,,And I was not much older.
+Dialogue: 0,0:48:15.09,0:48:18.59,Default,,0,0,0,,For a long time,\Nwe were scared to have a child
+Dialogue: 0,0:48:18.92,0:48:22.10,Default,,0,0,0,,and when we decide to have,\Nit' hadn't happen.
+Dialogue: 0,0:48:22.09,0:48:24.61,Default,,0,0,0,,It was a great suffering.
+Dialogue: 0,0:48:24.62,0:48:28.17,Default,,0,0,0,,But now,\Neverything changed.
+Dialogue: 0,0:48:28.18,0:48:30.53,Default,,0,0,0,,A woman and a son to me.
+Dialogue: 0,0:48:32.18,0:48:34.76,Default,,0,0,0,,there is a condition:
+Dialogue: 0,0:48:34.76,0:48:37.71,Default,,0,0,0,,I dont want you to tell anyone,\Nor to your mother,
+Dialogue: 0,0:48:37.71,0:48:39.03,Default,,0,0,0,,that you told me.
+Dialogue: 0,0:48:39.62,0:48:41.37,Default,,0,0,0,,I will say nothing.
+Dialogue: 0,0:48:42.26,0:48:46.37,Default,,0,0,0,,And I ask of you,\Ndespite what we both know.
+Dialogue: 0,0:48:46.37,0:48:48.70,Default,,0,0,0,,you'll marry with white dress.
+Dialogue: 0,0:48:48.70,0:48:52.91,Default,,0,0,0,,So, I'll have the impression\Nthat this is my son.
+Dialogue: 0,0:49:03.09,0:49:04.69,Default,,0,0,0,,- Csar!\N- Panisse!
+Dialogue: 0,0:49:04.70,0:49:06.19,Default,,0,0,0,,i Don't want to see him.
+Dialogue: 0,0:49:08.79,0:49:10.09,Default,,0,0,0,,are you there?
+Dialogue: 0,0:49:10.09,0:49:11.73,Default,,0,0,0,,Yes, I'm coming.
+Dialogue: 0,0:49:11.74,0:49:14.74,Default,,0,0,0,,You counting money, old miser?
+Dialogue: 0,0:49:19.01,0:49:21.55,Default,,0,0,0,,Wait for me here,\NI'll be back.
+Dialogue: 0,0:49:23.64,0:49:25.04,Default,,0,0,0,,So?
+Dialogue: 0,0:49:25.41,0:49:30.26,Default,,0,0,0,,I heard you will ask\NFanny for marriage.
+Dialogue: 0,0:49:30.26,0:49:33.93,Default,,0,0,0,,I could tell\Nit's not your bussiness.
+Dialogue: 0,0:49:34.24,0:49:35.63,Default,,0,0,0,,not my bussiness?
+Dialogue: 0,0:49:35.64,0:49:36.98,Default,,0,0,0,,Somehow.
+Dialogue: 0,0:49:36.97,0:49:41.23,Default,,0,0,0,,But as I have nothing\Nto hide, I asked
+Dialogue: 0,0:49:41.24,0:49:43.80,Default,,0,0,0,,and this time, she didn't refuse.
+Dialogue: 0,0:49:43.80,0:49:46.41,Default,,0,0,0,,I'm afraid that this marriage\Nwill not happen.
+Dialogue: 0,0:49:46.41,0:49:47.79,Default,,0,0,0,,-won't happen?\N-no
+Dialogue: 0,0:49:48.16,0:49:50.37,Default,,0,0,0,,Why?\NYour son is coming back?
+Dialogue: 0,0:49:51.61,0:49:54.48,Default,,0,0,0,,Unfortunately he'll be back\Nin about 26 months.
+Dialogue: 0,0:49:54.81,0:49:57.62,Default,,0,0,0,,But it'll not happen\Nbecause I do not want to.
+Dialogue: 0,0:49:57.63,0:50:00.95,Default,,0,0,0,,Funny.\NAnd that's not your right either?
+Dialogue: 0,0:50:00.95,0:50:03.85,Default,,0,0,0,,according to the law Fanny\Nis the wife of Marius.
+Dialogue: 0,0:50:03.84,0:50:07.00,Default,,0,0,0,,they are not married on paper,\Nbut that is a formality.
+Dialogue: 0,0:50:07.01,0:50:09.43,Default,,0,0,0,,And if she does not want to wait?
+Dialogue: 0,0:50:09.43,0:50:12.38,Default,,0,0,0,,- Will want. She loves Marius.
+Dialogue: 0,0:50:12.38,0:50:14.59,Default,,0,0,0,,she just say "yes"!
+Dialogue: 0,0:50:15.07,0:50:17.99,Default,,0,0,0,,- She told you?\N- Perfectly for me!
+Dialogue: 0,0:50:19.71,0:50:21.88,Default,,0,0,0,,I do not understand anything at all.
+Dialogue: 0,0:50:21.88,0:50:24.64,Default,,0,0,0,,Or rather,\NI understand very well!
+Dialogue: 0,0:50:24.65,0:50:27.36,Default,,0,0,0,,you bought the girl.\Nby the mother, old slave!
+Dialogue: 0,0:50:27.35,0:50:29.24,Default,,0,0,0,,Tell the truth.\Nyou did that, did not you?
+Dialogue: 0,0:50:29.25,0:50:30.56,Default,,0,0,0,,As well, Caesar?
+Dialogue: 0,0:50:30.56,0:50:33.97,Default,,0,0,0,,it's not possible to buy a girl if\Nshe does not want you? Do not you understand?
+Dialogue: 0,0:50:33.96,0:50:37.39,Default,,0,0,0,,I realize that this marriage\Nwould be absurd, crazy.
+Dialogue: 0,0:50:37.39,0:50:38.71,Default,,0,0,0,,Preposterous.
+Dialogue: 0,0:50:38.71,0:50:40.84,Default,,0,0,0,,You know very well\Nthat would be preposterous.
+Dialogue: 0,0:50:40.84,0:50:42.42,Default,,0,0,0,,What is preposterous?
+Dialogue: 0,0:50:42.43,0:50:44.01,Default,,0,0,0,,preposterous\Nis a ...
+Dialogue: 0,0:50:44.00,0:50:46.77,Default,,0,0,0,,I'm not here to give you\NFrench classes.
+Dialogue: 0,0:50:46.77,0:50:48.28,Default,,0,0,0,,But to remember\Nyour duty.
+Dialogue: 0,0:50:48.29,0:50:51.54,Default,,0,0,0,,If women are crazy,\Nthe need to take advantage!
+Dialogue: 0,0:50:51.54,0:50:54.12,Default,,0,0,0,,Answer, Panisse:\NWill you marry the girl?
+Dialogue: 0,0:50:54.11,0:50:55.47,Default,,0,0,0,,Perfectly!
+Dialogue: 0,0:50:55.48,0:50:57.52,Default,,0,0,0,,- Why?\N- My will!
+Dialogue: 0,0:50:58.01,0:51:00.55,Default,,0,0,0,,My God!
+Dialogue: 0,0:51:02.48,0:51:05.96,Default,,0,0,0,,you Know that an old\Nwho marries a young girl,
+Dialogue: 0,0:51:05.97,0:51:08.10,Default,,0,0,0,,is not pretty!
+Dialogue: 0,0:51:08.09,0:51:10.85,Default,,0,0,0,,a very disgusting thing.
+Dialogue: 0,0:51:10.85,0:51:12.85,Default,,0,0,0,,one thing that makes me sick!
+Dialogue: 0,0:51:12.85,0:51:14.88,Default,,0,0,0,,I have some in disgust!
+Dialogue: 0,0:51:14.88,0:51:16.75,Default,,0,0,0,,I see what you're thinking!
+Dialogue: 0,0:51:17.85,0:51:20.38,Default,,0,0,0,,Fanny will marry\Nbecause she is beautiful and young!
+Dialogue: 0,0:51:20.38,0:51:23.00,Default,,0,0,0,,you'll Be happy rubbing\Nher beautiful fresh skin.
+Dialogue: 0,0:51:23.01,0:51:25.30,Default,,0,0,0,,against\NYour leather, old pig!
+Dialogue: 0,0:51:25.30,0:51:26.88,Default,,0,0,0,,Not so!
+Dialogue: 0,0:51:26.88,0:51:29.16,Default,,0,0,0,,You disgust me!\NI am disgusted!
+Dialogue: 0,0:51:29.17,0:51:31.45,Default,,0,0,0,,your right one.\NStay with disgust.
+Dialogue: 0,0:51:31.46,0:51:33.10,Default,,0,0,0,,I did not want to feel this way.
+Dialogue: 0,0:51:33.09,0:51:36.09,Default,,0,0,0,,Did that in this case\Nserious and familiar.
+Dialogue: 0,0:51:36.09,0:51:38.46,Default,,0,0,0,,behave\Nas a good friend
+Dialogue: 0,0:51:38.46,0:51:40.19,Default,,0,0,0,,and not as a bastard.
+Dialogue: 0,0:51:40.19,0:51:42.98,Default,,0,0,0,,What if I want to act\Nas a bastard?
+Dialogue: 0,0:51:42.98,0:51:45.08,Default,,0,0,0,,If you do not follow the advice\Nof your friend,
+Dialogue: 0,0:51:45.08,0:51:47.96,Default,,0,0,0,,I will wait for you at the church door\Non the wedding day.
+Dialogue: 0,0:51:47.97,0:51:50.03,Default,,0,0,0,,- At the exit?\N- No. At the entrance.
+Dialogue: 0,0:51:50.03,0:51:51.38,Default,,0,0,0,,And what'll you say?
+Dialogue: 0,0:51:51.39,0:51:55.64,Default,,0,0,0,,The first thing I will say is\Na hammer on the head!
+Dialogue: 0,0:51:55.63,0:51:57.27,Default,,0,0,0,,And then I'l finish you!
+Dialogue: 0,0:51:57.28,0:52:00.08,Default,,0,0,0,,I'll throw your remains into the river!
+Dialogue: 0,0:52:03.95,0:52:07.63,Default,,0,0,0,,I swear.\NIf you give me a hammer,
+Dialogue: 0,0:52:07.63,0:52:09.59,Default,,0,0,0,,i'll kill you.
+Dialogue: 0,0:52:09.59,0:52:11.20,Default,,0,0,0,,And it isn't toy revolver !
+Dialogue: 0,0:52:11.63,0:52:14.41,Default,,0,0,0,,Since childhood,\Nyou torture me, diminishes me
+Dialogue: 0,0:52:14.90,0:52:17.59,Default,,0,0,0,,And this tyranny has lasted over 30 years!
+Dialogue: 0,0:52:17.59,0:52:19.96,Default,,0,0,0,,And you think that will continue?
+Dialogue: 0,0:52:19.96,0:52:21.73,Default,,0,0,0,,you Will prevent this marriage?
+Dialogue: 0,0:52:21.73,0:52:24.17,Default,,0,0,0,,With two bullets from a revolver,
+Dialogue: 0,0:52:24.18,0:52:25.76,Default,,0,0,0,,i'll blow your head like a nut.
+Dialogue: 0,0:52:30.29,0:52:32.65,Default,,0,0,0,,Oh, pity!
+Dialogue: 0,0:52:32.65,0:52:34.67,Default,,0,0,0,,you Killed the aqualung.
+Dialogue: 0,0:52:34.68,0:52:36.43,Default,,0,0,0,,That serve a lesson to you.
+Dialogue: 0,0:52:36.43,0:52:38.47,Default,,0,0,0,,Because I will kill you,\Nlike i did now.
+Dialogue: 0,0:52:38.46,0:52:41.17,Default,,0,0,0,,Go, go!\NGo have a glass of water.
+Dialogue: 0,0:52:41.18,0:52:44.42,Default,,0,0,0,,you're so scared, you\Nbarely stand upright.
+Dialogue: 0,0:52:44.87,0:52:47.45,Default,,0,0,0,,I will not talk to you anymore.\NI'll talk to her.
+Dialogue: 0,0:52:47.45,0:52:50.57,Default,,0,0,0,,Go talk to her?\NWill speak now. Come on!
+Dialogue: 0,0:52:53.57,0:52:54.93,Default,,0,0,0,,Fanny.
+Dialogue: 0,0:52:58.22,0:52:59.97,Default,,0,0,0,,Caesar wants to talk to you.
+Dialogue: 0,0:53:00.31,0:53:01.71,Default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:53:02.28,0:53:04.93,Default,,0,0,0,,- What are you doing here?\N- She'll tell you!
+Dialogue: 0,0:53:04.93,0:53:08.19,Default,,0,0,0,,And you don't have to ask.\NFanny, you heard?
+Dialogue: 0,0:53:09.18,0:53:12.80,Default,,0,0,0,,Cesar wants,by all means ,\Nprevent our marriage.
+Dialogue: 0,0:53:12.80,0:53:17.19,Default,,0,0,0,,He thinks you belong to him\Nafter his son abandoned you.
+Dialogue: 0,0:53:17.18,0:53:18.75,Default,,0,0,0,,Say what you think.
+Dialogue: 0,0:53:18.76,0:53:21.12,Default,,0,0,0,,Wait, Fanny,\Ndon't answer yet.
+Dialogue: 0,0:53:21.11,0:53:23.81,Default,,0,0,0,,Not quite,\Nhe is acting in faith.
+Dialogue: 0,0:53:23.81,0:53:26.74,Default,,0,0,0,,I said simply that\Nyou are the bride of Marius.
+Dialogue: 0,0:53:27.18,0:53:29.20,Default,,0,0,0,,He left you momentarily.
+Dialogue: 0,0:53:29.20,0:53:33.04,Default,,0,0,0,,plus your are waiting\Nhe will come back. You know that.
+Dialogue: 0,0:53:33.04,0:53:36.71,Default,,0,0,0,,simple.\NAm I right?
+Dialogue: 0,0:53:37.56,0:53:40.44,Default,,0,0,0,,- I can not wait 2 years.\N- Can Not you?
+Dialogue: 0,0:53:40.89,0:53:45.72,Default,,0,0,0,,you're tired, I know.\NBut you love him.
+Dialogue: 0,0:53:45.72,0:53:49.30,Default,,0,0,0,,I love him. Panisse know.
+Dialogue: 0,0:53:49.30,0:53:53.64,Default,,0,0,0,,But, because of my mother\Nand family, i can not wait.
+Dialogue: 0,0:53:54.88,0:53:58.88,Default,,0,0,0,,No, Caesar,\NI need a husband.
+Dialogue: 0,0:53:58.89,0:54:01.10,Default,,0,0,0,,You're telling me this?
+Dialogue: 0,0:54:01.09,0:54:02.88,Default,,0,0,0,,Need a husband?
+Dialogue: 0,0:54:02.88,0:54:06.55,Default,,0,0,0,,Will you marry the first bastard\Nbecause he has money?
+Dialogue: 0,0:54:06.55,0:54:09.84,Default,,0,0,0,,i could wait 10 years for Marius,\Nif I could.
+Dialogue: 0,0:54:09.84,0:54:11.88,Default,,0,0,0,,But I can not anymore.
+Dialogue: 0,0:54:11.88,0:54:14.61,Default,,0,0,0,,If you want me Panisse,\NI am ready to marry.
+Dialogue: 0,0:54:14.61,0:54:16.82,Default,,0,0,0,,it's not possible,\Nmy God!
+Dialogue: 0,0:54:16.83,0:54:21.16,Default,,0,0,0,,That was what you were planning?\NSo you let him go?
+Dialogue: 0,0:54:21.15,0:54:23.75,Default,,0,0,0,,- Stop it!\N- you Prefered the money?
+Dialogue: 0,0:54:23.75,0:54:27.34,Default,,0,0,0,,Thankfully Marius went away!\NYou do not love him!
+Dialogue: 0,0:54:27.34,0:54:29.71,Default,,0,0,0,,- Shut up!\N- You shut up!
+Dialogue: 0,0:54:29.71,0:54:32.29,Default,,0,0,0,,I'll write\Nand tell him the truth!
+Dialogue: 0,0:54:32.60,0:54:35.98,Default,,0,0,0,,If he had any regrets,\Nthere's no need for more!
+Dialogue: 0,0:54:35.98,0:54:38.06,Default,,0,0,0,,- Caesar, I beg you!\N- Leave it.
+Dialogue: 0,0:54:38.06,0:54:39.94,Default,,0,0,0,,No, Panisse.\NTell him everything!
+Dialogue: 0,0:54:39.94,0:54:41.28,Default,,0,0,0,,Say what?
+Dialogue: 0,0:54:41.29,0:54:43.60,Default,,0,0,0,,If until now he did not understand,\Nthis is why he is a Beast.
+Dialogue: 0,0:54:43.60,0:54:44.90,Default,,0,0,0,,Understand what?
+Dialogue: 0,0:54:44.90,0:54:46.28,Default,,0,0,0,,Tell him!
+Dialogue: 0,0:54:46.28,0:54:47.68,Default,,0,0,0,,What is it?
+Dialogue: 0,0:54:48.62,0:54:52.78,Default,,0,0,0,,Fanny is in a difficult situation\Nfor an unmarried girl.
+Dialogue: 0,0:54:52.78,0:54:54.24,Default,,0,0,0,,How so?
+Dialogue: 0,0:54:54.25,0:54:56.55,Default,,0,0,0,,And it takes a brave man.
+Dialogue: 0,0:54:56.54,0:54:59.86,Default,,0,0,0,,to repair the crime\Nof your adventurous son.
+Dialogue: 0,0:54:59.87,0:55:01.25,Default,,0,0,0,,A son?
+Dialogue: 0,0:55:02.76,0:55:05.18,Default,,0,0,0,,Are you pregnant from Marius?
+Dialogue: 0,0:55:11.44,0:55:14.46,Default,,0,0,0,,How so? She will have a son\Nand i wil take him
+Dialogue: 0,0:55:14.46,0:55:15.86,Default,,0,0,0,,and how's that?
+Dialogue: 0,0:55:15.85,0:55:18.43,Default,,0,0,0,,He is mine!\Nthe son of my son.
+Dialogue: 0,0:55:18.44,0:55:21.27,Default,,0,0,0,,And you to want to steal it from me?\Nyou're crazy!
+Dialogue: 0,0:55:21.68,0:55:23.96,Default,,0,0,0,,My grandson, Fanny!\Ndid you think about it?
+Dialogue: 0,0:55:23.97,0:55:25.75,Default,,0,0,0,,I thought of my mother\Nand family.
+Dialogue: 0,0:55:25.75,0:55:28.76,Default,,0,0,0,,Fuck your mother\Nand your family!
+Dialogue: 0,0:55:28.76,0:55:31.36,Default,,0,0,0,,His family is Marius,\Nthe child and me!
+Dialogue: 0,0:55:31.36,0:55:32.80,Default,,0,0,0,,This man is not part!
+Dialogue: 0,0:55:32.79,0:55:34.11,Default,,0,0,0,,shut your mouth.
+Dialogue: 0,0:55:34.11,0:55:35.79,Default,,0,0,0,,Get it?\NLet's go home, Fanny.
+Dialogue: 0,0:55:35.80,0:55:38.96,Default,,0,0,0,,No, Caesar.\NDo you think the right?.
+Dialogue: 0,0:55:39.68,0:55:41.55,Default,,0,0,0,,Marius will be back\Nin 2 years.
+Dialogue: 0,0:55:41.55,0:55:44.85,Default,,0,0,0,,If I have a child without a husband,\Nmy mother will die of shame
+Dialogue: 0,0:55:44.84,0:55:46.84,Default,,0,0,0,,No one dies for it!
+Dialogue: 0,0:55:46.84,0:55:49.42,Default,,0,0,0,,Everyone knows\Nwho is the son of Marius!
+Dialogue: 0,0:55:49.81,0:55:51.30,Default,,0,0,0,,Precisely.
+Dialogue: 0,0:55:55.75,0:56:00.14,Default,,0,0,0,,Thought that if he left,\Nit was for some reason.
+Dialogue: 0,0:56:00.14,0:56:02.74,Default,,0,0,0,,they will say\Nhe left because he was not the first.
+Dialogue: 0,0:56:03.05,0:56:05.49,Default,,0,0,0,,Or was not sure\Nthat the child was his.
+Dialogue: 0,0:56:05.50,0:56:08.76,Default,,0,0,0,,If she was forced to marry,\NI do not stop her.
+Dialogue: 0,0:56:08.76,0:56:11.56,Default,,0,0,0,,And I'm here to protect them\Nor defend them.
+Dialogue: 0,0:56:11.56,0:56:13.40,Default,,0,0,0,,She'll has a husband\Nin 2 years.
+Dialogue: 0,0:56:13.39,0:56:15.25,Default,,0,0,0,,maybe and maybe not.
+Dialogue: 0,0:56:15.26,0:56:18.26,Default,,0,0,0,,Say it again,\Nare sure he will marry her?
+Dialogue: 0,0:56:18.26,0:56:20.72,Default,,0,0,0,,perfectly,\NI'm sure.
+Dialogue: 0,0:56:20.72,0:56:24.04,Default,,0,0,0,,Since he left, he wrote 2 times.\NFor you.
+Dialogue: 0,0:56:24.04,0:56:26.10,Default,,0,0,0,,But in all his letters\Nhe spoke to you.
+Dialogue: 0,0:56:26.09,0:56:27.47,Default,,0,0,0,,as if i were a stranger.
+Dialogue: 0,0:56:27.48,0:56:30.51,Default,,0,0,0,,And in the last letter\Nhe told you?
+Dialogue: 0,0:56:30.51,0:56:32.49,Default,,0,0,0,,- Do not speak!\N- How do you know?
+Dialogue: 0,0:56:32.50,0:56:34.49,Default,,0,0,0,,If I had spoken, I would have said!
+Dialogue: 0,0:56:34.49,0:56:37.63,Default,,0,0,0,,did He talk about coming back?\NNo, he did not talk!
+Dialogue: 0,0:56:37.64,0:56:40.02,Default,,0,0,0,,Be honest,\Ntell the truth!
+Dialogue: 0,0:56:40.01,0:56:44.09,Default,,0,0,0,,Actually\Nhe does not talk much.
+Dialogue: 0,0:56:45.41,0:56:46.77,Default,,0,0,0,,He sent her a hello.
+Dialogue: 0,0:56:46.77,0:56:49.81,Default,,0,0,0,,Very polite of him.
+Dialogue: 0,0:56:50.60,0:56:53.39,Default,,0,0,0,,See how she got\NHappy with the news.
+Dialogue: 0,0:56:54.47,0:56:56.00,Default,,0,0,0,,Everything is resolved.
+Dialogue: 0,0:56:55.99,0:56:57.61,Default,,0,0,0,,he sent a "hello".
+Dialogue: 0,0:57:01.02,0:57:04.67,Default,,0,0,0,,When he finds out, will want\Nto get married! Or break your face.
+Dialogue: 0,0:57:04.67,0:57:06.46,Default,,0,0,0,,it solves nothing.
+Dialogue: 0,0:57:06.46,0:57:10.04,Default,,0,0,0,,We do not know if he will come back,\Nlet her alone to ge marry.
+Dialogue: 0,0:57:10.34,0:57:11.74,Default,,0,0,0,,And if he does not return?
+Dialogue: 0,0:57:12.84,0:57:15.61,Default,,0,0,0,,As well, he doesn't come back?
+Dialogue: 0,0:57:15.62,0:57:17.97,Default,,0,0,0,,Dare to think of such a thing?
+Dialogue: 0,0:57:17.96,0:57:20.14,Default,,0,0,0,,And you\Ndare not to think?
+Dialogue: 0,0:57:20.15,0:57:22.62,Default,,0,0,0,,you who\Nmanufactures storms and cyclones?
+Dialogue: 0,0:57:22.62,0:57:24.42,Default,,0,0,0,,that you loose him at the sea.
+Dialogue: 0,0:57:24.42,0:57:27.26,Default,,0,0,0,,when he wants?\NCsar ...
+Dialogue: 0,0:57:27.25,0:57:31.73,Default,,0,0,0,,If his boat was sinking,\Ncan you swear he'll get marry?
+Dialogue: 0,0:57:31.73,0:57:35.06,Default,,0,0,0,,there's an 80% chance\Nthat this marriage happen.
+Dialogue: 0,0:57:35.06,0:57:36.59,Default,,0,0,0,,Let's say 70%.
+Dialogue: 0,0:57:36.59,0:57:38.96,Default,,0,0,0,,say 60\Nor even 50%.
+Dialogue: 0,0:57:38.97,0:57:41.94,Default,,0,0,0,,The chance to spoil the child's life is great.
+Dialogue: 0,0:57:41.94,0:57:44.14,Default,,0,0,0,,Now nobody knows.
+Dialogue: 0,0:57:45.58,0:57:47.78,Default,,0,0,0,,And anyone can\Nmarry Fanny.
+Dialogue: 0,0:57:47.77,0:57:50.79,Default,,0,0,0,,and give the child a name\Nwithout being ridiculous.
+Dialogue: 0,0:57:50.80,0:57:52.84,Default,,0,0,0,,But when he's born,\Nhow it's going to be?
+Dialogue: 0,0:57:52.84,0:57:54.84,Default,,0,0,0,,A little bastard and nothing else.
+Dialogue: 0,0:57:55.55,0:57:57.19,Default,,0,0,0,,right.
+Dialogue: 0,0:57:57.18,0:57:59.62,Default,,0,0,0,,And later,\Nin school he will say:
+Dialogue: 0,0:57:59.62,0:58:03.59,Default,,0,0,0,,"My father is a mechanic.\NAnd he, who is his father "
+Dialogue: 0,0:58:04.11,0:58:07.46,Default,,0,0,0,,He will turn red and with pain:\N"I have no father."
+Dialogue: 0,0:58:07.45,0:58:09.91,Default,,0,0,0,,My God, my God ...
+Dialogue: 0,0:58:10.43,0:58:12.86,Default,,0,0,0,,I thought about all this.
+Dialogue: 0,0:58:12.86,0:58:16.57,Default,,0,0,0,,I thought of my mother,\Nmy family, my son ...
+Dialogue: 0,0:58:16.92,0:58:20.46,Default,,0,0,0,,If I become Mrs. Panisse\Neveryone will be happy.
+Dialogue: 0,0:58:21.43,0:58:22.73,Default,,0,0,0,,Even Marius.
+Dialogue: 0,0:58:22.73,0:58:24.05,Default,,0,0,0,,no , no !
+Dialogue: 0,0:58:24.05,0:58:27.77,Default,,0,0,0,,If I marry her,\Nthis child will have a father.
+Dialogue: 0,0:58:27.78,0:58:30.78,Default,,0,0,0,,And a name.\NHe will be called Panisse.
+Dialogue: 0,0:58:34.88,0:58:37.34,Default,,0,0,0,,If, by chance,\Nhe called Panisse
+Dialogue: 0,0:58:37.35,0:58:41.85,Default,,0,0,0,,could he be called\NMarius Panisse.
+Dialogue: 0,0:58:42.16,0:58:44.28,Default,,0,0,0,,Csar Marius Panisse!
+Dialogue: 0,0:58:45.34,0:58:47.71,Default,,0,0,0,,As you wish,\Nyou have to be the godfather.
+Dialogue: 0,0:58:48.62,0:58:51.84,Default,,0,0,0,,Thus, being able to take\Nregard it as you want.
+Dialogue: 0,0:58:51.84,0:58:54.17,Default,,0,0,0,,And he'll be rich.
+Dialogue: 0,0:58:54.18,0:58:58.58,Default,,0,0,0,,this's something that nobody knows\Nbecause I'm ashamed.
+Dialogue: 0,0:58:58.57,0:59:01.90,Default,,0,0,0,,At the cafe,\Nwhen we talk about our fortunes.
+Dialogue: 0,0:59:01.90,0:59:05.10,Default,,0,0,0,,say I have 600,000 francs.\NBut it is not true.
+Dialogue: 0,0:59:05.62,0:59:06.97,Default,,0,0,0,,I have more than doubled.
+Dialogue: 0,0:59:06.97,0:59:09.46,Default,,0,0,0,,You!\NYou millionaire?
+Dialogue: 0,0:59:09.46,0:59:13.56,Default,,0,0,0,,add the store's value ,\NI have 1.5 million.
+Dialogue: 0,0:59:13.56,0:59:16.47,Default,,0,0,0,,Fanny did not know,\Nbut I'm saying now.
+Dialogue: 0,0:59:16.48,0:59:18.19,Default,,0,0,0,,because it's the right time.
+Dialogue: 0,0:59:18.60,0:59:20.73,Default,,0,0,0,,And will you leave everything to him?
+Dialogue: 0,0:59:20.73,0:59:22.66,Default,,0,0,0,,Sure! my son.
+Dialogue: 0,0:59:22.66,0:59:25.68,Default,,0,0,0,,Sure this boy will have\Na beautiful life.
+Dialogue: 0,0:59:25.69,0:59:28.44,Default,,0,0,0,,Even if the other\Ncontinue sailing for the lifetime.
+Dialogue: 0,0:59:28.90,0:59:30.75,Default,,0,0,0,,Anyway, that's what I wrote.
+Dialogue: 0,0:59:30.76,0:59:34.88,Default,,0,0,0,,-now you see...\N- But I need to think.
+Dialogue: 0,0:59:34.88,0:59:37.45,Default,,0,0,0,,If I give you the bar,\Nputting it all together.
+Dialogue: 0,0:59:37.45,0:59:40.22,Default,,0,0,0,,we will have almost 2 million!
+Dialogue: 0,0:59:40.93,0:59:42.81,Default,,0,0,0,,Fanny, you have no idea?
+Dialogue: 0,0:59:42.80,0:59:46.88,Default,,0,0,0,,At age of 20, this young man will be able to\Nsmoke a cigar one after another.
+Dialogue: 0,0:59:47.60,0:59:49.13,Default,,0,0,0,,if he's not a girl
+Dialogue: 0,0:59:49.13,0:59:52.42,Default,,0,0,0,,A girl?\NWhat do you mean? Your cold feet!
+Dialogue: 0,0:59:57.30,1:00:00.29,Default,,0,0,0,,"Long live the newlyweds!"
+Dialogue: 0,1:01:01.51,1:01:03.18,Default,,0,0,0,,Not bad!
+Dialogue: 0,1:01:04.93,1:01:06.26,Default,,0,0,0,,terrific!
+Dialogue: 0,1:01:26.09,1:01:28.09,Default,,0,0,0,,He came from where?
+Dialogue: 0,1:01:28.09,1:01:30.00,Default,,0,0,0,,I brought ...
+Dialogue: 0,1:01:46.88,1:01:48.29,Default,,0,0,0,,Have to take.
+Dialogue: 0,1:01:49.20,1:01:50.59,Default,,0,0,0,,Very well.
+Dialogue: 0,1:01:50.59,1:01:52.63,Default,,0,0,0,,Has an!
+Dialogue: 0,1:01:58.34,1:02:03.00,Default,,0,0,0,,Oh no, i don't sing\NIn the family there's only one who can sing.
+Dialogue: 0,1:02:04.76,1:02:06.45,Default,,0,0,0,,Have one!
+Dialogue: 0,1:02:06.45,1:02:07.75,Default,,0,0,0,,Elzar!
+Dialogue: 0,1:02:07.76,1:02:11.43,Default,,0,0,0,,Elzar! your time to sing.
+Dialogue: 0,1:02:14.01,1:02:17.21,Default,,0,0,0,,Goodbye, Provencal Venice.
+Dialogue: 0,1:02:17.21,1:02:20.29,Default,,0,0,0,,Farewell, my lovely ones
+Dialogue: 0,1:02:20.28,1:02:23.45,Default,,0,0,0,,Goodbye to cicadas.
+Dialogue: 0,1:02:23.46,1:02:26.38,Default,,0,0,0,,In large pines,\Nalways sing.
+Dialogue: 0,1:02:26.38,1:02:29.84,Default,,0,0,0,,Red hills of flowers\NBoats with candy colors
+Dialogue: 0,1:02:29.84,1:02:32.94,Default,,0,0,0,,Childbirth in the distance,\NI leave you my heart!
+Dialogue: 0,1:02:32.94,1:02:37.18,Default,,0,0,0,,- All together!\N- Goodbye, Provencal Venice
+Dialogue: 0,1:02:37.18,1:02:42.10,Default,,0,0,0,,Farewell, my lovely ones.
+Dialogue: 0,1:02:45.95,1:02:48.20,Default,,0,0,0,,Raise a little.
+Dialogue: 0,1:02:48.21,1:02:50.20,Default,,0,0,0,,Very well.\NThis is perfect.
+Dialogue: 0,1:02:50.52,1:02:52.02,Default,,0,0,0,,Okay, perfect.
+Dialogue: 0,1:02:54.18,1:02:55.93,Default,,0,0,0,,Look at the lens.
+Dialogue: 0,1:02:55.93,1:02:58.30,Default,,0,0,0,,Give a nice smile.
+Dialogue: 0,1:02:59.38,1:03:00.74,Default,,0,0,0,,here we  go!
+Dialogue: 0,1:03:00.75,1:03:03.63,Default,,0,0,0,,Attention, attention ...
+Dialogue: 0,1:03:03.62,1:03:05.15,Default,,0,0,0,,don't move.
+Dialogue: 0,1:03:05.16,1:03:08.66,Default,,0,0,0,,One, two, three and click!
+Dialogue: 0,1:03:17.57,1:03:18.87,Default,,0,0,0,,Breathe!
+Dialogue: 0,1:03:18.87,1:03:21.89,Default,,0,0,0,,Give him something\Nto drink.
+Dialogue: 0,1:03:21.89,1:03:24.70,Default,,0,0,0,,i don't want to see the husband\Nin the bedroom.
+Dialogue: 0,1:03:24.70,1:03:27.91,Default,,0,0,0,,At birth,\Nthe husband's work is over.
+Dialogue: 0,1:03:27.91,1:03:29.43,Default,,0,0,0,,Again I'll call you.
+Dialogue: 0,1:03:29.43,1:03:32.30,Default,,0,0,0,,There is always born\Na child of 7 months.
+Dialogue: 0,1:03:32.30,1:03:34.64,Default,,0,0,0,,Yes, that's 7 months!
+Dialogue: 0,1:03:39.05,1:03:42.84,Default,,0,0,0,,And do not let anyone kiss him\Nbefore me!
+Dialogue: 0,1:03:44.76,1:03:46.06,Default,,0,0,0,,Csar!
+Dialogue: 0,1:03:49.64,1:03:52.45,Default,,0,0,0,,- What is it?\N- Mr. Panisse sent for you.
+Dialogue: 0,1:03:52.44,1:03:54.98,Default,,0,0,0,,They are delivering a baby.
+Dialogue: 0,1:03:54.98,1:03:56.38,Default,,0,0,0,,a boy?
+Dialogue: 0,1:03:56.39,1:03:58.28,Default,,0,0,0,,we don't know yet.
+Dialogue: 0,1:03:58.28,1:04:00.27,Default,,0,0,0,,I'll come immediately.
+Dialogue: 0,1:04:00.27,1:04:03.47,Default,,0,0,0,,Hello, Miss?\NNumber 35 in Cassis, please.
+Dialogue: 0,1:04:06.23,1:04:08.36,Default,,0,0,0,,Hello, Fernando Honor.
+Dialogue: 0,1:04:08.36,1:04:11.20,Default,,0,0,0,,Wake up my brother,\Ni need to talk to him.
+Dialogue: 0,1:04:19.60,1:04:21.47,Default,,0,0,0,,Hurry up!\NThe son of my brother.
+Dialogue: 0,1:04:21.47,1:04:23.22,Default,,0,0,0,,will be born tonight.
+Dialogue: 0,1:04:25.13,1:04:28.13,Default,,0,0,0,,- Do not yout want me to accompany you?\N- When you have 80 years!
+Dialogue: 0,1:04:43.09,1:04:47.04,Default,,0,0,0,,- i Think you're okay?\N- Naturally.
+Dialogue: 0,1:04:47.60,1:04:50.18,Default,,0,0,0,,We like idiots\Nat birth.
+Dialogue: 0,1:04:50.19,1:04:55.28,Default,,0,0,0,,She's the one who is suffering\Nand we look silly.
+Dialogue: 0,1:05:37.97,1:05:40.68,Default,,0,0,0,,it's Dawn, Caesar.
+Dialogue: 0,1:05:42.36,1:05:45.86,Default,,0,0,0,,The day will be born with my son.
+Dialogue: 0,1:05:46.20,1:05:48.49,Default,,0,0,0,,And it's Easter day.
+Dialogue: 0,1:05:48.50,1:05:51.79,Default,,0,0,0,,The boy will arrive\Nwith the bunny.
+Dialogue: 0,1:06:06.80,1:06:08.50,Default,,0,0,0,,a boy!
+Dialogue: 0,1:06:11.26,1:06:12.76,Default,,0,0,0,,a boy!
+Dialogue: 0,1:06:14.51,1:06:15.91,Default,,0,0,0,,Go, go!
+Dialogue: 0,1:06:16.35,1:06:17.65,Default,,0,0,0,,- Honor?\N- Yes?
+Dialogue: 0,1:06:17.65,1:06:20.24,Default,,0,0,0,,you're not going to eat the whole\Nof it!
+Dialogue: 0,1:06:37.90,1:06:40.48,Default,,0,0,0,,PANISSE AND SON\NMASTER OF CANDLES
+Dialogue: 0,1:06:49.55,1:06:52.11,Default,,0,0,0,,Good morning, all right?\N- Congratulations, Honor.
+Dialogue: 0,1:06:52.12,1:06:54.28,Default,,0,0,0,,Come, Elzar. Come on.
+Dialogue: 0,1:06:54.28,1:06:56.97,Default,,0,0,0,,You did crazy things!
+Dialogue: 0,1:06:56.97,1:07:00.28,Default,,0,0,0,,- They can not spend more!\N- Listen to the doctor.
+Dialogue: 0,1:07:01.34,1:07:04.14,Default,,0,0,0,,i'm Elzar Panisse the owner\Nof wines of Cassis,
+Dialogue: 0,1:07:04.13,1:07:06.55,Default,,0,0,0,,brother of Honor\Nand the eldest of the family.
+Dialogue: 0,1:07:06.56,1:07:08.76,Default,,0,0,0,,I want to see the girl.\Na second.
+Dialogue: 0,1:07:08.76,1:07:12.54,Default,,0,0,0,,She needs calm.\Nshe has a battalion to climb.
+Dialogue: 0,1:07:12.55,1:07:14.74,Default,,0,0,0,,doctor\Nhe is the eldest.
+Dialogue: 0,1:07:14.74,1:07:16.78,Default,,0,0,0,,Well, you can go.
+Dialogue: 0,1:07:18.64,1:07:20.68,Default,,0,0,0,,And then, cousin?
+Dialogue: 0,1:07:27.33,1:07:29.08,Default,,0,0,0,,Good morning, Elzar.
+Dialogue: 0,1:07:31.97,1:07:33.60,Default,,0,0,0,,He is cute.
+Dialogue: 0,1:07:34.40,1:07:35.86,Default,,0,0,0,,he is beautiful, no?
+Dialogue: 0,1:07:36.80,1:07:38.10,Default,,0,0,0,,sister-
+Dialogue: 0,1:07:38.10,1:07:41.54,Default,,0,0,0,,i've seen you once,\Non your wedding day.
+Dialogue: 0,1:07:41.55,1:07:43.97,Default,,0,0,0,,i'm Calling you because it is our home.
+Dialogue: 0,1:07:44.55,1:07:47.42,Default,,0,0,0,,an honest house\Nand rich.
+Dialogue: 0,1:07:47.43,1:07:51.44,Default,,0,0,0,,We're a little sad that\Nthere were no children.
+Dialogue: 0,1:07:51.44,1:07:54.07,Default,,0,0,0,,and we leave Earth.
+Dialogue: 0,1:07:54.40,1:07:56.60,Default,,0,0,0,,no one to take our name.
+Dialogue: 0,1:07:56.59,1:07:58.92,Default,,0,0,0,,But you came.
+Dialogue: 0,1:07:58.93,1:08:01.89,Default,,0,0,0,,you gave birth and\Ngave us a beautiful boy.
+Dialogue: 0,1:08:02.91,1:08:05.08,Default,,0,0,0,,So I'm\Nthe eldest of the family,
+Dialogue: 0,1:08:05.08,1:08:08.65,Default,,0,0,0,,on behalf of the Vaucluse\N, aunts Camargue,
+Dialogue: 0,1:08:08.64,1:08:11.27,Default,,0,0,0,,all relatives and even the dead,
+Dialogue: 0,1:08:11.28,1:08:15.49,Default,,0,0,0,,i drove at night to convey my joy to you.
+Dialogue: 0,1:08:16.83,1:08:18.72,Default,,0,0,0,,a boy.
+Dialogue: 0,1:08:18.71,1:08:20.29,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:08:20.30,1:08:22.25,Default,,0,0,0,,Thank you, sister.
+Dialogue: 0,1:08:55.97,1:08:58.60,Default,,0,0,0,,Say "good morning" to your father
+Dialogue: 0,1:08:58.59,1:09:00.39,Default,,0,0,0,,and giggle\Nfor godfather.
+Dialogue: 0,1:09:00.40,1:09:02.67,Default,,0,0,0,,How beautiful he is!
+Dialogue: 0,1:09:02.66,1:09:05.11,Default,,0,0,0,,And then ...\NPanisse has a good son.
+Dialogue: 0,1:09:05.43,1:09:08.18,Default,,0,0,0,,my daughter still so young
+Dialogue: 0,1:09:08.18,1:09:10.29,Default,,0,0,0,,Finally, everything is fine.
+Dialogue: 0,1:09:10.29,1:09:13.10,Default,,0,0,0,,Finally, you don't no regret\Nthis marriage.
+Dialogue: 0,1:09:13.10,1:09:14.68,Default,,0,0,0,,No more regret.
+Dialogue: 0,1:09:15.18,1:09:18.74,Default,,0,0,0,,She loved your son,\Nbut he preferred to sail.
+Dialogue: 0,1:09:18.74,1:09:20.99,Default,,0,0,0,,sailing, buster!
+Dialogue: 0,1:09:20.99,1:09:23.07,Default,,0,0,0,,- Where is he now?\N- Marius?
+Dialogue: 0,1:09:23.38,1:09:27.21,Default,,0,0,0,,I do not know for sure.\NHe was on the coast of India.
+Dialogue: 0,1:09:27.22,1:09:31.06,Default,,0,0,0,,I received a letter,\Nbut i haven't read it yet.
+Dialogue: 0,1:09:31.45,1:09:34.27,Default,,0,0,0,,what did he say when you told him\Nabout the baby?
+Dialogue: 0,1:09:34.74,1:09:37.31,Default,,0,0,0,,He does not know,\Ni did't write.
+Dialogue: 0,1:09:37.30,1:09:40.02,Default,,0,0,0,,You did well.
+Dialogue: 0,1:09:40.03,1:09:43.34,Default,,0,0,0,,- She talks about him?\N- not so much.
+Dialogue: 0,1:09:43.33,1:09:46.59,Default,,0,0,0,,It's been two years .\NMaybe she forgot.
+Dialogue: 0,1:09:46.59,1:09:49.13,Default,,0,0,0,,And now she's married.
+Dialogue: 0,1:09:49.13,1:09:51.75,Default,,0,0,0,,And has a baby of her husband!
+Dialogue: 0,1:09:51.76,1:09:53.39,Default,,0,0,0,,Husband, yes.
+Dialogue: 0,1:09:53.70,1:09:56.58,Default,,0,0,0,,It was a big surprise when she told me.
+Dialogue: 0,1:09:56.57,1:09:57.96,Default,,0,0,0,,I was amazed.
+Dialogue: 0,1:09:57.97,1:10:00.43,Default,,0,0,0,,I was shocked!
+Dialogue: 0,1:10:00.43,1:10:03.78,Default,,0,0,0,,- Who knew this from Panisse?\N- If they say, i would not believe.
+Dialogue: 0,1:10:03.78,1:10:06.77,Default,,0,0,0,,He looked so peaceful.
+Dialogue: 0,1:10:06.76,1:10:08.15,Default,,0,0,0,,very quiet.
+Dialogue: 0,1:10:08.16,1:10:11.01,Default,,0,0,0,,he Should have saved the forces somewhere.
+Dialogue: 0,1:10:11.00,1:10:15.71,Default,,0,0,0,,- He brought a beautiful child.\N- Yes, you did. He is cute.
+Dialogue: 0,1:10:15.72,1:10:20.06,Default,,0,0,0,,I wonder if Marius had\Na beautiful one too!
+Dialogue: 0,1:10:20.36,1:10:23.18,Default,,0,0,0,,Would not it be more beautiful,\NI can tell you.
+Dialogue: 0,1:10:24.08,1:10:26.88,Default,,0,0,0,,Yes, we can say.
+Dialogue: 0,1:10:26.88,1:10:29.29,Default,,0,0,0,,Especially when we're alone in it?
+Dialogue: 0,1:11:17.84,1:11:20.17,Default,,0,0,0,,- Who is?\N- it's me!
+Dialogue: 0,1:11:20.18,1:11:22.47,Default,,0,0,0,,- Who?\N- Marius!
+Dialogue: 0,1:11:24.51,1:11:25.89,Default,,0,0,0,,Marius?
+Dialogue: 0,1:11:28.55,1:11:30.92,Default,,0,0,0,,You? you, Marius?
+Dialogue: 0,1:11:33.05,1:11:35.20,Default,,0,0,0,,What is happening?
+Dialogue: 0,1:11:35.20,1:11:36.95,Default,,0,0,0,,But it is impossible!
+Dialogue: 0,1:11:37.69,1:11:39.90,Default,,0,0,0,,you, Marius?
+Dialogue: 0,1:11:46.59,1:11:48.25,Default,,0,0,0,,Come in.
+Dialogue: 0,1:12:05.33,1:12:08.50,Default,,0,0,0,,- You are tingling!\N- Two days without a shave.
+Dialogue: 0,1:12:09.35,1:12:12.16,Default,,0,0,0,,Is worse than a porcupine.
+Dialogue: 0,1:12:12.50,1:12:14.84,Default,,0,0,0,,come here let me see you
+Dialogue: 0,1:12:15.38,1:12:17.30,Default,,0,0,0,,electricity went off?\NYou failed?
+Dialogue: 0,1:12:17.30,1:12:19.88,Default,,0,0,0,,No, it was a fuse blew.
+Dialogue: 0,1:12:20.66,1:12:22.04,Default,,0,0,0,,As you gained weight!
+Dialogue: 0,1:12:23.08,1:12:24.75,Default,,0,0,0,,Why are you here?
+Dialogue: 0,1:12:24.76,1:12:27.10,Default,,0,0,0,,Defected? Sick?
+Dialogue: 0,1:12:27.09,1:12:29.55,Default,,0,0,0,,Did not you receive my letter?
+Dialogue: 0,1:12:29.55,1:12:31.34,Default,,0,0,0,,Just give me.
+Dialogue: 0,1:12:31.35,1:12:33.85,Default,,0,0,0,,It was not a problem,\NI'll explain.
+Dialogue: 0,1:12:34.15,1:12:35.55,Default,,0,0,0,,Come on.
+Dialogue: 0,1:12:40.27,1:12:41.96,Default,,0,0,0,,- I was having dinner?\N- just started.
+Dialogue: 0,1:12:41.96,1:12:43.87,Default,,0,0,0,,I am hungry.\NThe smell is good!
+Dialogue: 0,1:12:43.86,1:12:46.48,Default,,0,0,0,,you look fine with that jacket.\NSit down, my son.
+Dialogue: 0,1:12:46.87,1:12:49.13,Default,,0,0,0,,You too.\NI will not eat it all.
+Dialogue: 0,1:12:49.13,1:12:51.71,Default,,0,0,0,,No, I will not go without eating.
+Dialogue: 0,1:12:54.00,1:12:55.30,Default,,0,0,0,,All this for you?
+Dialogue: 0,1:12:55.30,1:12:57.18,Default,,0,0,0,,Yes, it would take a pinch.
+Dialogue: 0,1:12:57.19,1:12:59.68,Default,,0,0,0,,Glad\N-i can see that you're ok.
+Dialogue: 0,1:12:59.68,1:13:02.97,Default,,0,0,0,,Come, eat my son.\NDrink, eat everything..
+Dialogue: 0,1:13:02.98,1:13:07.57,Default,,0,0,0,,Have the love apples,\Nartichokes, enjoy.
+Dialogue: 0,1:13:10.21,1:13:12.13,Default,,0,0,0,,Will you tell me a bit?
+Dialogue: 0,1:13:15.40,1:13:17.76,Default,,0,0,0,,He is warm,\Nbut sleeping so well.
+Dialogue: 0,1:13:17.76,1:13:21.61,Default,,0,0,0,,he is warm\Nbecause he's going to have a molar.
+Dialogue: 0,1:13:21.62,1:13:23.27,Default,,0,0,0,,Yes, I felt it with my finger.
+Dialogue: 0,1:13:23.27,1:13:24.67,Default,,0,0,0,,Yes.
+Dialogue: 0,1:13:27.47,1:13:30.38,Default,,0,0,0,,Children always have something.
+Dialogue: 0,1:13:30.38,1:13:33.25,Default,,0,0,0,,When he turns pale, it clicks,
+Dialogue: 0,1:13:33.25,1:13:35.75,Default,,0,0,0,,when it turns red,\Nwe think we will die!
+Dialogue: 0,1:13:36.05,1:13:38.44,Default,,0,0,0,,- What color do you want him to be?\N- Pink!
+Dialogue: 0,1:13:39.10,1:13:42.01,Default,,0,0,0,,Richard\Ncompartment 10.
+Dialogue: 0,1:13:42.01,1:13:44.76,Default,,0,0,0,,- Good trip, Honor.\N- Good trip
+Dialogue: 0,1:13:46.59,1:13:48.93,Default,,0,0,0,,Oh! Miss!
+Dialogue: 0,1:13:48.93,1:13:51.64,Default,,0,0,0,,- Flowers, sir?\N- Yes
+Dialogue: 0,1:13:52.74,1:13:54.04,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:13:54.04,1:13:57.05,Default,,0,0,0,,Richard, take this bouquet\Nfor my wife.
+Dialogue: 0,1:13:57.05,1:13:59.09,Default,,0,0,0,,Very well, Mr. Panisse.
+Dialogue: 0,1:14:00.38,1:14:02.61,Default,,0,0,0,,Tell her that I took the train!
+Dialogue: 0,1:14:02.61,1:14:05.27,Default,,0,0,0,,Do not worry,\Ngood trip!
+Dialogue: 0,1:14:06.44,1:14:10.36,Default,,0,0,0,,Hi, doctor,  it's not possible.\Nare you going to to the capital too?
+Dialogue: 0,1:15:07.93,1:15:10.34,Default,,0,0,0,,Do not be afraid, Fanny.\Nit's me..
+Dialogue: 0,1:15:10.34,1:15:11.81,Default,,0,0,0,,O Marius!
+Dialogue: 0,1:15:11.81,1:15:14.64,Default,,0,0,0,,You? you, Marius?
+Dialogue: 0,1:15:19.88,1:15:22.02,Default,,0,0,0,,I arrived tonight.
+Dialogue: 0,1:15:22.02,1:15:24.65,Default,,0,0,0,,I saw my father and\Nthen wanted to talk to you.
+Dialogue: 0,1:15:25.08,1:15:27.11,Default,,0,0,0,,- and tell  you "good night".\N- are you alone?
+Dialogue: 0,1:15:27.11,1:15:30.88,Default,,0,0,0,,i couldn't sleep ,\Nwhile the window is open
+Dialogue: 0,1:15:30.88,1:15:33.76,Default,,0,0,0,,as before, when I was a kid.
+Dialogue: 0,1:15:33.77,1:15:37.47,Default,,0,0,0,,I was looking at you through the window.
+Dialogue: 0,1:15:37.47,1:15:38.93,Default,,0,0,0,,- Sit down.\N- No.
+Dialogue: 0,1:15:39.42,1:15:42.00,Default,,0,0,0,,you Want something to drink?
+Dialogue: 0,1:15:42.01,1:15:43.59,Default,,0,0,0,,With pleasure.
+Dialogue: 0,1:15:51.46,1:15:54.79,Default,,0,0,0,,Your husband will drink with us?
+Dialogue: 0,1:15:54.80,1:15:57.71,Default,,0,0,0,,No. He's lying down.
+Dialogue: 0,1:16:03.52,1:16:04.88,Default,,0,0,0,,did you return back for good?
+Dialogue: 0,1:16:04.88,1:16:07.67,Default,,0,0,0,,we're leaving tomorrow morning.
+Dialogue: 0,1:16:08.20,1:16:10.56,Default,,0,0,0,,- Your boat is back?\N- No, it's. in Sydney.
+Dialogue: 0,1:16:10.56,1:16:13.44,Default,,0,0,0,,We had serious faults,\Nit is being repaired.
+Dialogue: 0,1:16:13.43,1:16:15.47,Default,,0,0,0,,Some equipment had to be repaired.
+Dialogue: 0,1:16:15.48,1:16:18.29,Default,,0,0,0,,We put in a French torpedo\Nthat crossed us.
+Dialogue: 0,1:16:18.29,1:16:19.76,Default,,0,0,0,,it can't be repaired.
+Dialogue: 0,1:16:19.76,1:16:23.56,Default,,0,0,0,,We had to send them to\Nwho manufactured them in Paris.
+Dialogue: 0,1:16:23.56,1:16:25.47,Default,,0,0,0,,Are precise, scientific apparatus.
+Dialogue: 0,1:16:25.93,1:16:27.26,Default,,0,0,0,,it's really serious.
+Dialogue: 0,1:16:30.05,1:16:33.59,Default,,0,0,0,,I am part of this mission\Nbecause ...
+Dialogue: 0,1:16:33.59,1:16:35.92,Default,,0,0,0,,I asked to.
+Dialogue: 0,1:16:35.93,1:16:37.85,Default,,0,0,0,,i was bored.
+Dialogue: 0,1:16:37.84,1:16:40.84,Default,,0,0,0,,did you want to see your father?
+Dialogue: 0,1:16:40.84,1:16:42.80,Default,,0,0,0,,Yes, my father and ...
+Dialogue: 0,1:16:42.81,1:16:44.69,Default,,0,0,0,,and Marseille and ...
+Dialogue: 0,1:16:44.69,1:16:46.94,Default,,0,0,0,,And everybody.
+Dialogue: 0,1:16:48.27,1:16:49.65,Default,,0,0,0,,Everyone.
+Dialogue: 0,1:16:52.76,1:16:57.03,Default,,0,0,0,,If i wanted, i could stay.\Ni can put someone in exchange.
+Dialogue: 0,1:16:57.03,1:16:58.60,Default,,0,0,0,,What is a swap?
+Dialogue: 0,1:16:58.59,1:17:01.38,Default,,0,0,0,,Someone who switch places with me.
+Dialogue: 0,1:17:01.39,1:17:04.18,Default,,0,0,0,,Many would accept,\Nbecause the salary is very good.
+Dialogue: 0,1:17:04.59,1:17:06.00,Default,,0,0,0,,And the service is not difficult.
+Dialogue: 0,1:17:06.01,1:17:08.64,Default,,0,0,0,,And we have Chauvaux,\Nhe wrote me forever.
+Dialogue: 0,1:17:08.64,1:17:11.77,Default,,0,0,0,,He is on the island of Beaut.\NLeft immediately.
+Dialogue: 0,1:17:12.91,1:17:15.66,Default,,0,0,0,,he can get it in 8 days.
+Dialogue: 0,1:17:16.18,1:17:19.64,Default,,0,0,0,,Because he has this desire,\Nyou know ...
+Dialogue: 0,1:17:21.34,1:17:22.74,Default,,0,0,0,,The desire is away.
+Dialogue: 0,1:17:24.68,1:17:26.26,Default,,0,0,0,,And you?
+Dialogue: 0,1:17:26.26,1:17:28.51,Default,,0,0,0,,you No longer has that desire?
+Dialogue: 0,1:17:31.63,1:17:33.67,Default,,0,0,0,,aren't you happy in the sea?
+Dialogue: 0,1:17:33.68,1:17:36.26,Default,,0,0,0,,We are always happy to\Nbe in the place we wanted.
+Dialogue: 0,1:17:36.26,1:17:38.72,Default,,0,0,0,,If I say I was unhappy,
+Dialogue: 0,1:17:38.72,1:17:41.97,Default,,0,0,0,,it means i've been a big idiot.
+Dialogue: 0,1:17:43.55,1:17:46.59,Default,,0,0,0,,I was very happy.
+Dialogue: 0,1:17:49.13,1:17:50.54,Default,,0,0,0,,And you?
+Dialogue: 0,1:17:52.13,1:17:54.00,Default,,0,0,0,,are you happy?
+Dialogue: 0,1:17:55.13,1:17:56.53,Default,,0,0,0,,I am.
+Dialogue: 0,1:17:57.30,1:17:59.55,Default,,0,0,0,,I have a good husband.
+Dialogue: 0,1:18:01.54,1:18:02.95,Default,,0,0,0,,A beautiful home.
+Dialogue: 0,1:18:04.88,1:18:06.67,Default,,0,0,0,,Yes.
+Dialogue: 0,1:18:06.68,1:18:08.64,Default,,0,0,0,,A beautiful home.
+Dialogue: 0,1:18:08.64,1:18:11.93,Default,,0,0,0,,A beautiful house and a beautiful son.
+Dialogue: 0,1:18:11.93,1:18:14.35,Default,,0,0,0,,Yes, a handsome son.
+Dialogue: 0,1:18:14.35,1:18:17.08,Default,,0,0,0,,- did Your father told you?\N- yes.
+Dialogue: 0,1:18:17.09,1:18:19.26,Default,,0,0,0,,Just tell me.
+Dialogue: 0,1:18:19.26,1:18:22.10,Default,,0,0,0,,I was surprised for\Nnot mention it before in the letters.
+Dialogue: 0,1:18:22.09,1:18:24.24,Default,,0,0,0,,And what else did he tell you?
+Dialogue: 0,1:18:24.25,1:18:26.80,Default,,0,0,0,,- About what?\N- About my son.
+Dialogue: 0,1:18:26.80,1:18:31.78,Default,,0,0,0,,- What else ha had to tell me?\N- i don't know.
+Dialogue: 0,1:18:31.78,1:18:35.35,Default,,0,0,0,,How your child is the most\Nwonderful thing in the world.
+Dialogue: 0,1:18:35.36,1:18:37.43,Default,,0,0,0,,And he can not stop talking about him.
+Dialogue: 0,1:18:38.48,1:18:41.32,Default,,0,0,0,,Of course it is the most\Nwonderful thing in the world.
+Dialogue: 0,1:18:41.31,1:18:43.56,Default,,0,0,0,,he Started walking now.\NWalk almost alone.
+Dialogue: 0,1:18:43.57,1:18:46.61,Default,,0,0,0,,But My dad says\Nhe is 8 months. right?
+Dialogue: 0,1:18:46.62,1:18:50.16,Default,,0,0,0,,A little over 8 months.\NAnd it's very early.
+Dialogue: 0,1:18:52.55,1:18:55.37,Default,,0,0,0,,In short,\Nyou're very happy?
+Dialogue: 0,1:18:55.37,1:18:58.11,Default,,0,0,0,,So, it was better this way,\Nisn't it?
+Dialogue: 0,1:18:59.01,1:19:02.27,Default,,0,0,0,,i Was happy to see you happy.
+Dialogue: 0,1:19:02.28,1:19:04.64,Default,,0,0,0,,And in good shape.
+Dialogue: 0,1:19:04.64,1:19:06.47,Default,,0,0,0,,You're also very well.
+Dialogue: 0,1:19:06.47,1:19:08.32,Default,,0,0,0,,it must be the sea's air
+Dialogue: 0,1:19:08.31,1:19:11.81,Default,,0,0,0,,- For me, it is the quiet life.\N- And your happiness.
+Dialogue: 0,1:19:11.82,1:19:13.81,Default,,0,0,0,,yes, Marius.
+Dialogue: 0,1:19:13.80,1:19:16.59,Default,,0,0,0,,My quiet life and my happiness.
+Dialogue: 0,1:19:22.55,1:19:25.10,Default,,0,0,0,,See you soon,\NMy sweet Fanny.
+Dialogue: 0,1:19:25.11,1:19:27.10,Default,,0,0,0,,Goodbye, Marius.
+Dialogue: 0,1:19:27.09,1:19:29.96,Default,,0,0,0,,after Returning from Paris\Nyou will come by?
+Dialogue: 0,1:19:29.97,1:19:31.63,Default,,0,0,0,,no.
+Dialogue: 0,1:19:31.63,1:19:34.97,Default,,0,0,0,,i'll get on an English boat.
+Dialogue: 0,1:19:34.97,1:19:37.85,Default,,0,0,0,,The Australian.\Nan ocean liner.
+Dialogue: 0,1:19:38.43,1:19:41.84,Default,,0,0,0,,The British boats\Nare very good.
+Dialogue: 0,1:19:41.84,1:19:44.10,Default,,0,0,0,,my regards to your\Nhusband.
+Dialogue: 0,1:19:44.10,1:19:47.23,Default,,0,0,0,,tell him i didn't want to wake him up\Nand bother him.
+Dialogue: 0,1:19:49.55,1:19:51.85,Default,,0,0,0,,- Who is it?\N- Richard, Mrs. Panisse.
+Dialogue: 0,1:19:52.19,1:19:53.86,Default,,0,0,0,,The taxi driver.
+Dialogue: 0,1:20:03.80,1:20:06.40,Default,,0,0,0,,your husband sent\Nyou this bouquet.
+Dialogue: 0,1:20:06.40,1:20:09.56,Default,,0,0,0,,and he's telling you\Nhe catched the train.
+Dialogue: 0,1:20:11.01,1:20:13.18,Default,,0,0,0,,Thank you, Richard.
+Dialogue: 0,1:20:13.18,1:20:15.76,Default,,0,0,0,,Good night, Mrs. Panisse.
+Dialogue: 0,1:20:23.97,1:20:26.80,Default,,0,0,0,,is it true that your\Nhuband is traveling?
+Dialogue: 0,1:20:27.55,1:20:30.00,Default,,0,0,0,,Why did not you tell me?
+Dialogue: 0,1:20:30.01,1:20:31.78,Default,,0,0,0,,Are you afraid of me?
+Dialogue: 0,1:20:31.77,1:20:34.87,Default,,0,0,0,,No, Marius,\NI'm not afraid of you.
+Dialogue: 0,1:20:34.88,1:20:38.93,Default,,0,0,0,,telling you won't do any good.\Nand it doesn't worth it to talk about the past.
+Dialogue: 0,1:20:38.93,1:20:41.12,Default,,0,0,0,,No need to start!
+Dialogue: 0,1:20:41.12,1:20:43.62,Default,,0,0,0,,i'm the one who's going to start
+Dialogue: 0,1:20:43.63,1:20:46.43,Default,,0,0,0,,Why did you married so fast\Nwith Panisse?
+Dialogue: 0,1:20:46.42,1:20:50.00,Default,,0,0,0,,Why my father never told me that\Nyou have a son?
+Dialogue: 0,1:20:50.01,1:20:53.52,Default,,0,0,0,,And how could Panisse\Nbe a parent at that age?
+Dialogue: 0,1:20:53.52,1:20:55.59,Default,,0,0,0,,- I do not know.\N- i can't imagine that.
+Dialogue: 0,1:20:55.59,1:20:59.26,Default,,0,0,0,,- that won't help anyone.\N- Now I know the truth.
+Dialogue: 0,1:20:59.59,1:21:01.96,Default,,0,0,0,,This is my son!
+Dialogue: 0,1:21:01.97,1:21:04.01,Default,,0,0,0,,And I'm a criminal.
+Dialogue: 0,1:21:04.01,1:21:06.60,Default,,0,0,0,,It was not a crime,\Nit was not your fault.
+Dialogue: 0,1:21:06.60,1:21:10.02,Default,,0,0,0,,why didn't you tell me?\Nwhy didn't you write to me?
+Dialogue: 0,1:21:10.99,1:21:12.53,Default,,0,0,0,,you were gone for 5 years.
+Dialogue: 0,1:21:12.53,1:21:14.53,Default,,0,0,0,,Because of my mother,\NI told Honor.
+Dialogue: 0,1:21:14.53,1:21:15.83,Default,,0,0,0,,He accepted me.
+Dialogue: 0,1:21:15.83,1:21:17.42,Default,,0,0,0,,My sweet Fanny!\NForgive me!
+Dialogue: 0,1:21:17.42,1:21:19.00,Default,,0,0,0,,I beg you!
+Dialogue: 0,1:21:20.43,1:21:25.25,Default,,0,0,0,,i forgave you long time ago.\Nyou don't understand my love.
+Dialogue: 0,1:21:25.25,1:21:27.18,Default,,0,0,0,,Not mine.
+Dialogue: 0,1:21:27.18,1:21:31.72,Default,,0,0,0,,you did not know how much I loved you.\NI was happy.
+Dialogue: 0,1:21:32.32,1:21:34.12,Default,,0,0,0,,I know.
+Dialogue: 0,1:21:34.11,1:21:36.20,Default,,0,0,0,,as in your first letters.
+Dialogue: 0,1:21:36.20,1:21:39.49,Default,,0,0,0,,I did not think much of you.
+Dialogue: 0,1:21:39.49,1:21:42.79,Default,,0,0,0,,We had finished and ...
+Dialogue: 0,1:21:42.80,1:21:46.88,Default,,0,0,0,,And then, little by little, it begins.
+Dialogue: 0,1:21:46.88,1:21:49.92,Default,,0,0,0,,- all nights, I thought of you.\N- Do not talk, Marius.
+Dialogue: 0,1:21:49.93,1:21:52.49,Default,,0,0,0,,I began to think I did something stupid
+Dialogue: 0,1:21:52.49,1:21:55.15,Default,,0,0,0,,But tell me:\N"What is left of love,"
+Dialogue: 0,1:21:55.15,1:21:57.36,Default,,0,0,0,,"It will pass."
+Dialogue: 0,1:21:57.85,1:22:00.29,Default,,0,0,0,,but it's not in the past.
+Dialogue: 0,1:22:00.30,1:22:02.27,Default,,0,0,0,,On the contrary.
+Dialogue: 0,1:22:02.28,1:22:04.36,Default,,0,0,0,,as we sail\Nin the South Seas,
+Dialogue: 0,1:22:04.36,1:22:06.32,Default,,0,0,0,,i was getting worse.
+Dialogue: 0,1:22:07.09,1:22:10.38,Default,,0,0,0,,Every time i closed my eyes,\Nit return.
+Dialogue: 0,1:22:11.00,1:22:13.27,Default,,0,0,0,,i saw you with your seafood.
+Dialogue: 0,1:22:13.27,1:22:15.97,Default,,0,0,0,,I saw you walking by the pier with your hat.
+Dialogue: 0,1:22:15.97,1:22:19.81,Default,,0,0,0,,Heard your footsteps,\Nfelt your scent.
+Dialogue: 0,1:22:19.80,1:22:22.09,Default,,0,0,0,,Do not talk, Marius.\Nthis is not right.
+Dialogue: 0,1:22:22.09,1:22:24.67,Default,,0,0,0,,i saw you everywhere.
+Dialogue: 0,1:22:24.67,1:22:26.50,Default,,0,0,0,,And then ...
+Dialogue: 0,1:22:26.51,1:22:30.35,Default,,0,0,0,,One day, a terrible thing happened.
+Dialogue: 0,1:22:32.31,1:22:35.89,Default,,0,0,0,,I Could not think of you.\NI Forgot your face!
+Dialogue: 0,1:22:37.55,1:22:39.94,Default,,0,0,0,,i was Looking for you,\Nbut not seen you more!
+Dialogue: 0,1:22:39.94,1:22:42.15,Default,,0,0,0,,I missed you!
+Dialogue: 0,1:22:43.21,1:22:44.61,Default,,0,0,0,,So ...
+Dialogue: 0,1:22:45.25,1:22:49.16,Default,,0,0,0,,I asked my father to send me your picture.
+Dialogue: 0,1:22:50.34,1:22:52.30,Default,,0,0,0,,i landed in Tahiti
+Dialogue: 0,1:22:52.31,1:22:56.31,Default,,0,0,0,,I received the letter,\Nmy father had sent a photo.
+Dialogue: 0,1:22:59.19,1:23:00.90,Default,,0,0,0,,It was your wedding.
+Dialogue: 0,1:23:05.18,1:23:07.55,Default,,0,0,0,,It had been a month since you had married.
+Dialogue: 0,1:23:20.59,1:23:23.29,Default,,0,0,0,,i didn't know why!
+Dialogue: 0,1:23:24.97,1:23:27.14,Default,,0,0,0,,I cried.
+Dialogue: 0,1:23:30.41,1:23:33.66,Default,,0,0,0,,I also cried Marius.
+Dialogue: 0,1:23:36.13,1:23:38.13,Default,,0,0,0,,I came back for you!
+Dialogue: 0,1:23:38.60,1:23:41.25,Default,,0,0,0,,I thought you maybe\Ndon't love Panisse.
+Dialogue: 0,1:23:41.24,1:23:43.63,Default,,0,0,0,,and you  still love me?
+Dialogue: 0,1:23:43.63,1:23:45.38,Default,,0,0,0,,now I see I was right, Fanny.
+Dialogue: 0,1:23:45.69,1:23:48.31,Default,,0,0,0,,You still love me!\NLet me kiss you.
+Dialogue: 0,1:23:48.31,1:23:50.18,Default,,0,0,0,,No, Marius! We can not.
+Dialogue: 0,1:23:50.53,1:23:52.05,Default,,0,0,0,,It is not right!
+Dialogue: 0,1:23:52.06,1:23:53.46,Default,,0,0,0,,no!
+Dialogue: 0,1:23:54.46,1:23:55.86,Default,,0,0,0,,no.
+Dialogue: 0,1:23:57.68,1:24:00.18,Default,,0,0,0,,Do not do it,\Nmy children.
+Dialogue: 0,1:24:00.18,1:24:02.48,Default,,0,0,0,,Panisse is honest\Nand he isn't here.
+Dialogue: 0,1:24:02.48,1:24:05.11,Default,,0,0,0,,wouldn't you be ashame in front\Nof the family !
+Dialogue: 0,1:24:05.12,1:24:06.42,Default,,0,0,0,,It would not be good.
+Dialogue: 0,1:24:06.42,1:24:08.21,Default,,0,0,0,,Who told you I was here?
+Dialogue: 0,1:24:09.00,1:24:11.59,Default,,0,0,0,,It wasn't very difficult to guess.
+Dialogue: 0,1:24:11.58,1:24:14.52,Default,,0,0,0,,Why didn't you told me\Nabout the child?
+Dialogue: 0,1:24:14.52,1:24:16.54,Default,,0,0,0,,The child?
+Dialogue: 0,1:24:16.55,1:24:18.34,Default,,0,0,0,,What child?
+Dialogue: 0,1:24:18.78,1:24:20.18,Default,,0,0,0,,I told him everything.
+Dialogue: 0,1:24:20.19,1:24:22.57,Default,,0,0,0,,-you Should not have done that.\N- And why?
+Dialogue: 0,1:24:22.57,1:24:25.90,Default,,0,0,0,,Why do you have to hide about my son?
+Dialogue: 0,1:24:26.26,1:24:29.68,Default,,0,0,0,,Right?\NI do not know if you qualify.
+Dialogue: 0,1:24:29.67,1:24:31.96,Default,,0,0,0,,Listen, Dad ...\NI love you,
+Dialogue: 0,1:24:32.68,1:24:35.62,Default,,0,0,0,,but right now,\NI want you to leave me alone.
+Dialogue: 0,1:24:38.43,1:24:41.01,Default,,0,0,0,,As rightly said, Marius!
+Dialogue: 0,1:24:41.01,1:24:43.28,Default,,0,0,0,,Note that this\Nis the man.
+Dialogue: 0,1:24:43.28,1:24:45.89,Default,,0,0,0,,you don't respect your father anymore!
+Dialogue: 0,1:24:45.88,1:24:47.90,Default,,0,0,0,,normal.
+Dialogue: 0,1:24:47.90,1:24:51.29,Default,,0,0,0,,you have nothing to do in here.\NNow, come on.
+Dialogue: 0,1:24:51.30,1:24:52.67,Default,,0,0,0,,- No.\N- get out of here!
+Dialogue: 0,1:24:53.01,1:24:54.60,Default,,0,0,0,,I'm staying.
+Dialogue: 0,1:24:55.49,1:24:57.89,Default,,0,0,0,,Panisse has had to do with it .
+Dialogue: 0,1:24:57.88,1:25:01.33,Default,,0,0,0,,Welcomed your wife.\Nand he gave a name to your son.
+Dialogue: 0,1:25:01.34,1:25:06.08,Default,,0,0,0,,And while he is traveling,\Nyou came steal his wife?
+Dialogue: 0,1:25:10.09,1:25:12.54,Default,,0,0,0,,it's all about the family
+Dialogue: 0,1:25:12.55,1:25:16.25,Default,,0,0,0,,Buccaneers, smugglers,\Nimbeciles ...
+Dialogue: 0,1:25:17.13,1:25:20.20,Default,,0,0,0,,Even a simple bar owner\Nlike your father.
+Dialogue: 0,1:25:20.20,1:25:22.49,Default,,0,0,0,,But i've never been a rascal.
+Dialogue: 0,1:25:24.88,1:25:26.67,Default,,0,0,0,,So, will you stay?
+Dialogue: 0,1:25:27.38,1:25:28.72,Default,,0,0,0,,I will
+Dialogue: 0,1:25:36.01,1:25:38.35,Default,,0,0,0,,me too.
+Dialogue: 0,1:25:41.93,1:25:44.35,Default,,0,0,0,,Your father is right, Marius.
+Dialogue: 0,1:25:46.93,1:25:49.35,Default,,0,0,0,,Fanny, are you in there?
+Dialogue: 0,1:25:49.91,1:25:53.53,Default,,0,0,0,,When the train was leaving,\NI met Dr. Gallot ...
+Dialogue: 0,1:25:56.87,1:25:58.17,Default,,0,0,0,,See,
+Dialogue: 0,1:25:58.18,1:25:59.97,Default,,0,0,0,,we have visitors
+Dialogue: 0,1:25:59.97,1:26:03.06,Default,,0,0,0,,- Good evening, Marius.\N- Good evening, Mr. Panisse.
+Dialogue: 0,1:26:03.42,1:26:05.08,Default,,0,0,0,,So you came back?
+Dialogue: 0,1:26:05.08,1:26:08.28,Default,,0,0,0,,A short visit.
+Dialogue: 0,1:26:08.28,1:26:11.40,Default,,0,0,0,,What happened at the station\Nyou did not catch the train?
+Dialogue: 0,1:26:11.41,1:26:14.51,Default,,0,0,0,,Imagine that i found Dr. Gallon
+Dialogue: 0,1:26:14.50,1:26:16.34,Default,,0,0,0,,and he said that the son of Miette.
+Dialogue: 0,1:26:16.35,1:26:17.65,Default,,0,0,0,,have this pertussis!
+Dialogue: 0,1:26:17.65,1:26:20.12,Default,,0,0,0,,His life is in danger\Nand the mother did not say anything!
+Dialogue: 0,1:26:20.64,1:26:23.09,Default,,0,0,0,,They play together that morning.
+Dialogue: 0,1:26:23.09,1:26:25.52,Default,,0,0,0,,And to catch pertussis,\Ni came to check on the baby.
+Dialogue: 0,1:26:25.52,1:26:27.63,Default,,0,0,0,,- And how is he?\N- A little warm.
+Dialogue: 0,1:26:27.63,1:26:29.77,Default,,0,0,0,,- Oh my God!\N- Honor, don't be afraid.
+Dialogue: 0,1:26:29.77,1:26:32.47,Default,,0,0,0,,i'm afraid because you're saying\Nhe's warm
+Dialogue: 0,1:26:33.37,1:26:36.33,Default,,0,0,0,,take the temperature.
+Dialogue: 0,1:26:46.18,1:26:48.06,Default,,0,0,0,,is this visit is going to be long?
+Dialogue: 0,1:26:49.34,1:26:50.94,Default,,0,0,0,,It depends.
+Dialogue: 0,1:26:50.94,1:26:52.24,Default,,0,0,0,,Depends on what?
+Dialogue: 0,1:26:52.24,1:26:53.70,Default,,0,0,0,,Fanny and you sir.
+Dialogue: 0,1:26:55.18,1:26:58.43,Default,,0,0,0,,At least he is straight\Nand outspoken.
+Dialogue: 0,1:26:59.38,1:27:00.90,Default,,0,0,0,,I do not understand right.
+Dialogue: 0,1:27:00.91,1:27:05.22,Default,,0,0,0,,Before and even far\NFanny was always considered my fiancee.
+Dialogue: 0,1:27:06.32,1:27:08.41,Default,,0,0,0,,concidered?
+Dialogue: 0,1:27:08.42,1:27:10.25,Default,,0,0,0,,a beautiful word.
+Dialogue: 0,1:27:10.25,1:27:12.44,Default,,0,0,0,,I do not consider it at all.
+Dialogue: 0,1:27:12.45,1:27:15.47,Default,,0,0,0,,It is just my wife and\Nthe mother of my child.
+Dialogue: 0,1:27:15.47,1:27:17.97,Default,,0,0,0,,Are you sure that is your child?
+Dialogue: 0,1:27:24.59,1:27:26.96,Default,,0,0,0,,Listen, Marius.
+Dialogue: 0,1:27:26.97,1:27:29.02,Default,,0,0,0,,Two years ago I hope you'll come back.
+Dialogue: 0,1:27:30.13,1:27:33.54,Default,,0,0,0,,i've not sleep a night without thinking:\N"and what if he comes back tomorrow?"
+Dialogue: 0,1:27:34.25,1:27:37.73,Default,,0,0,0,,"If you try to take everything from me,\Nwhat should I say?"
+Dialogue: 0,1:27:38.84,1:27:42.55,Default,,0,0,0,,for Two years ago,\NI am preparing the answers.
+Dialogue: 0,1:27:45.18,1:27:48.80,Default,,0,0,0,,But seeing you here\NI do not know what else to say.
+Dialogue: 0,1:27:58.38,1:28:01.79,Default,,0,0,0,,Do not worry, he is not\Nsick. He's fine.
+Dialogue: 0,1:28:01.80,1:28:03.29,Default,,0,0,0,,good
+Dialogue: 0,1:28:06.55,1:28:08.72,Default,,0,0,0,,Come sit, Fanny.
+Dialogue: 0,1:28:14.18,1:28:17.04,Default,,0,0,0,,In short, what do you want?
+Dialogue: 0,1:28:17.03,1:28:18.49,Default,,0,0,0,,Listen, Mr. Panisse
+Dialogue: 0,1:28:18.50,1:28:20.24,Default,,0,0,0,,I made a crazy thing two years ago.
+Dialogue: 0,1:28:20.24,1:28:24.26,Default,,0,0,0,,Now, because I did something stupid,\NI will ruin the lives of others?
+Dialogue: 0,1:28:24.69,1:28:25.99,Default,,0,0,0,,What other?
+Dialogue: 0,1:28:25.99,1:28:27.49,Default,,0,0,0,,Fanny, I,\Nmy father and my son.
+Dialogue: 0,1:28:27.49,1:28:31.50,Default,,0,0,0,,- And what will happen to me?\N- you were happy for the last two years.
+Dialogue: 0,1:28:31.51,1:28:33.68,Default,,0,0,0,,Happy by doing a good deed.
+Dialogue: 0,1:28:33.68,1:28:36.10,Default,,0,0,0,,I appreciate what you did.
+Dialogue: 0,1:28:36.45,1:28:39.31,Default,,0,0,0,,Now you need to have courage.
+Dialogue: 0,1:28:39.30,1:28:41.26,Default,,0,0,0,,and return what belongs to me.
+Dialogue: 0,1:28:43.05,1:28:45.73,Default,,0,0,0,,Oh, Marius.\Nyou're Going too fast!
+Dialogue: 0,1:28:45.74,1:28:50.07,Default,,0,0,0,,He has the courage to ask others to sacrifice.
+Dialogue: 0,1:28:50.44,1:28:52.01,Default,,0,0,0,,Here is my response:
+Dialogue: 0,1:28:52.01,1:28:54.17,Default,,0,0,0,,Seeing you two together,\NI see that the nuisance.
+Dialogue: 0,1:28:54.75,1:28:58.76,Default,,0,0,0,,To be friendly,\Ni should drown accidentally.
+Dialogue: 0,1:28:58.76,1:29:03.10,Default,,0,0,0,,Fanny, I will willingly do it\Nif it makes you happy.
+Dialogue: 0,1:29:03.84,1:29:06.31,Default,,0,0,0,,But i will not see the boy.
+Dialogue: 0,1:29:06.31,1:29:08.49,Default,,0,0,0,,I refuse to drown.
+Dialogue: 0,1:29:08.50,1:29:10.21,Default,,0,0,0,,I totally refuse!
+Dialogue: 0,1:29:11.50,1:29:12.80,Default,,0,0,0,,Honor...
+Dialogue: 0,1:29:12.80,1:29:14.70,Default,,0,0,0,,Nobody asked you that.
+Dialogue: 0,1:29:14.70,1:29:17.24,Default,,0,0,0,,No, but I just asked myself.
+Dialogue: 0,1:29:17.76,1:29:20.72,Default,,0,0,0,,Fanny, don't have mercy on me.
+Dialogue: 0,1:29:22.51,1:29:24.76,Default,,0,0,0,,If you love this guy,
+Dialogue: 0,1:29:24.76,1:29:27.30,Default,,0,0,0,,if you think you be happy with him.
+Dialogue: 0,1:29:27.61,1:29:30.44,Default,,0,0,0,,it's the worse for me, you're free.
+Dialogue: 0,1:29:34.76,1:29:36.85,Default,,0,0,0,,There is nothing selfish.
+Dialogue: 0,1:29:36.84,1:29:38.56,Default,,0,0,0,,But what about the child?
+Dialogue: 0,1:29:38.57,1:29:40.03,Default,,0,0,0,,The child is ours!
+Dialogue: 0,1:29:41.63,1:29:44.28,Default,,0,0,0,,do you Want me to give you the child?
+Dialogue: 0,1:29:44.29,1:29:46.56,Default,,0,0,0,,Why don't you ask to take my eyes?
+Dialogue: 0,1:29:46.55,1:29:48.51,Default,,0,0,0,,My liver, my arm,\Nmy heart?
+Dialogue: 0,1:29:48.51,1:29:49.81,Default,,0,0,0,,Very generous:
+Dialogue: 0,1:29:49.82,1:29:51.87,Default,,0,0,0,,"you give me the woman,\Nbut the child wil be with you!"
+Dialogue: 0,1:29:51.87,1:29:54.99,Default,,0,0,0,,No child ,she will not lose him.\Nno!
+Dialogue: 0,1:29:55.59,1:29:57.59,Default,,0,0,0,,If you are honest,\Ngive me back my son!
+Dialogue: 0,1:29:58.72,1:30:01.61,Default,,0,0,0,,no, Marius.\NYou won't take the child.
+Dialogue: 0,1:30:01.61,1:30:03.98,Default,,0,0,0,,Perhaps the strength to talk to me,\Nabout her
+Dialogue: 0,1:30:03.97,1:30:06.43,Default,,0,0,0,,maybe she will ask me ...
+Dialogue: 0,1:30:06.44,1:30:07.79,Default,,0,0,0,,Do not do it!
+Dialogue: 0,1:30:07.79,1:30:10.09,Default,,0,0,0,,You are young,\Nyou'll have others.
+Dialogue: 0,1:30:10.09,1:30:13.51,Default,,0,0,0,,But leave it with me.\Nmy only son.
+Dialogue: 0,1:30:14.05,1:30:15.67,Default,,0,0,0,,My first and last.
+Dialogue: 0,1:30:15.67,1:30:19.68,Default,,0,0,0,,But Honor, who will take it?\Ndo you know that i'm that bad?
+Dialogue: 0,1:30:20.64,1:30:22.59,Default,,0,0,0,,If it were an ordinary child,
+Dialogue: 0,1:30:22.59,1:30:24.54,Default,,0,0,0,,but it is the wonder of the world!
+Dialogue: 0,1:30:24.55,1:30:26.21,Default,,0,0,0,,This whole speech is very beautiful.
+Dialogue: 0,1:30:26.22,1:30:28.47,Default,,0,0,0,,- He coughed!\N- He coughed?
+Dialogue: 0,1:30:28.47,1:30:31.37,Default,,0,0,0,,- I did not hear.\N- No one hears.
+Dialogue: 0,1:30:31.36,1:30:33.23,Default,,0,0,0,,But I hear him!
+Dialogue: 0,1:30:37.93,1:30:39.96,Default,,0,0,0,,Now he's gone!
+Dialogue: 0,1:30:39.95,1:30:44.20,Default,,0,0,0,,He is coughing is more interesting\Nthan our converstaion.
+Dialogue: 0,1:30:44.21,1:30:48.22,Default,,0,0,0,,He is mine.\NI do have to worry.
+Dialogue: 0,1:30:48.22,1:30:50.24,Default,,0,0,0,,Precisely, but do not worry.
+Dialogue: 0,1:30:50.23,1:30:51.61,Default,,0,0,0,,Marius,\Nit is not yours.
+Dialogue: 0,1:30:51.62,1:30:54.11,Default,,0,0,0,,You were the father before his birth,\Nbut then ...
+Dialogue: 0,1:30:54.11,1:30:55.90,Default,,0,0,0,,Being a parent is forever.
+Dialogue: 0,1:30:56.25,1:30:57.65,Default,,0,0,0,,no.
+Dialogue: 0,1:30:58.12,1:31:01.32,Default,,0,0,0,,When he was born,\Nhe weighed 4 pounds.
+Dialogue: 0,1:31:01.32,1:31:04.17,Default,,0,0,0,,Four pounds of meat from his mother.
+Dialogue: 0,1:31:04.18,1:31:06.97,Default,,0,0,0,,Now he weighs 9 pounds.
+Dialogue: 0,1:31:06.97,1:31:10.23,Default,,0,0,0,,So 5 pounds.\NYou know what are there?
+Dialogue: 0,1:31:10.23,1:31:11.94,Default,,0,0,0,,Love
+Dialogue: 0,1:31:12.26,1:31:14.85,Default,,0,0,0,,Love, however, is slight.
+Dialogue: 0,1:31:14.84,1:31:17.63,Default,,0,0,0,,Need much to add 5 pounds.
+Dialogue: 0,1:31:17.64,1:31:19.60,Default,,0,0,0,,I gave my part.
+Dialogue: 0,1:31:19.59,1:31:21.40,Default,,0,0,0,,She also.
+Dialogue: 0,1:31:21.40,1:31:23.81,Default,,0,0,0,,But who else gave him, was Panisse.
+Dialogue: 0,1:31:24.88,1:31:27.47,Default,,0,0,0,,And you, what did you give?
+Dialogue: 0,1:31:27.48,1:31:28.84,Default,,0,0,0,,Life.
+Dialogue: 0,1:31:28.83,1:31:31.90,Default,,0,0,0,,Yes, life.\NDogs also give life.
+Dialogue: 0,1:31:32.34,1:31:34.09,Default,,0,0,0,,no, Marius.
+Dialogue: 0,1:31:34.09,1:31:36.34,Default,,0,0,0,,You do not want this child.
+Dialogue: 0,1:31:36.34,1:31:38.28,Default,,0,0,0,,What did was a pleasure.
+Dialogue: 0,1:31:38.29,1:31:41.32,Default,,0,0,0,,You do not give life.\NHe was taken from you.
+Dialogue: 0,1:31:41.90,1:31:44.64,Default,,0,0,0,,- It's not the same thing.\N- But who is the father?
+Dialogue: 0,1:31:44.64,1:31:47.01,Default,,0,0,0,,the one who gives the life\Nor who pays for the bottles?
+Dialogue: 0,1:31:50.43,1:31:51.93,Default,,0,0,0,,The father ...
+Dialogue: 0,1:31:52.88,1:31:54.92,Default,,0,0,0,,the one who loves.
+Dialogue: 0,1:31:59.59,1:32:01.38,Default,,0,0,0,,You, Marius,
+Dialogue: 0,1:32:01.38,1:32:03.54,Default,,0,0,0,,you were the father of\Na child without a name.
+Dialogue: 0,1:32:03.55,1:32:07.10,Default,,0,0,0,,who was Born in shame and despair.\NWhere is he?
+Dialogue: 0,1:32:08.13,1:32:10.79,Default,,0,0,0,,He does not exist,\Nhe is not mine.
+Dialogue: 0,1:32:11.39,1:32:15.30,Default,,0,0,0,,My born on a bed\Nsurrounded by family
+Dialogue: 0,1:32:15.29,1:32:18.50,Default,,0,0,0,,Can bite, but this child\Nyou do not have.
+Dialogue: 0,1:32:19.21,1:32:21.79,Default,,0,0,0,,He belongs to a family.
+Dialogue: 0,1:32:21.80,1:32:23.71,Default,,0,0,0,,You will also betray me?
+Dialogue: 0,1:32:25.49,1:32:27.67,Default,,0,0,0,,betray you?
+Dialogue: 0,1:32:27.68,1:32:29.08,Default,,0,0,0,,I?
+Dialogue: 0,1:32:30.76,1:32:32.39,Default,,0,0,0,,No, Marius.
+Dialogue: 0,1:32:33.24,1:32:36.82,Default,,0,0,0,,I did not betray you.\Ni didn't betray your love.
+Dialogue: 0,1:32:37.64,1:32:41.16,Default,,0,0,0,,In front of your father,\NI can tell the whole truth.
+Dialogue: 0,1:32:41.17,1:32:42.57,Default,,0,0,0,,I love you.
+Dialogue: 0,1:32:43.43,1:32:45.23,Default,,0,0,0,,i Still love you.
+Dialogue: 0,1:32:45.75,1:32:47.89,Default,,0,0,0,,I love you as before, maybe even more.
+Dialogue: 0,1:32:48.82,1:32:51.88,Default,,0,0,0,,I see your smile every morning\Non my son's face
+Dialogue: 0,1:32:51.88,1:32:56.24,Default,,0,0,0,,When you appeared at the window,\Nand reached out,
+Dialogue: 0,1:32:56.24,1:32:59.92,Default,,0,0,0,,i would have gone with you anywhere.
+Dialogue: 0,1:32:59.93,1:33:02.64,Default,,0,0,0,,But I have my son, Marius.
+Dialogue: 0,1:33:02.63,1:33:05.22,Default,,0,0,0,,He is ours.\NLet's take him.
+Dialogue: 0,1:33:05.23,1:33:08.11,Default,,0,0,0,,I do not have this right.\NPanisse saved me.
+Dialogue: 0,1:33:08.10,1:33:10.50,Default,,0,0,0,,At birth,\Nhe held my hand.
+Dialogue: 0,1:33:10.50,1:33:13.34,Default,,0,0,0,,until now he still has\Nthe marks of my fingernails.
+Dialogue: 0,1:33:13.34,1:33:15.58,Default,,0,0,0,,These marks are in his hands,
+Dialogue: 0,1:33:15.58,1:33:16.88,Default,,0,0,0,,not in yours.
+Dialogue: 0,1:33:18.34,1:33:21.25,Default,,0,0,0,,Go away!\NGo back to the sea.
+Dialogue: 0,1:33:21.25,1:33:24.55,Default,,0,0,0,,i want from you is to go, and\NLet me here with our son.
+Dialogue: 0,1:33:25.91,1:33:27.92,Default,,0,0,0,,However,
+Dialogue: 0,1:33:27.93,1:33:30.01,Default,,0,0,0,,if it's any consolation,
+Dialogue: 0,1:33:31.26,1:33:34.31,Default,,0,0,0,,know that every night,\Nyou have a woman who thinks of you.
+Dialogue: 0,1:33:34.31,1:33:36.72,Default,,0,0,0,,A woman who wanted\Nto lie by your side
+Dialogue: 0,1:33:36.73,1:33:39.61,Default,,0,0,0,,smell of your hair\Nand sleep in your warmth.
+Dialogue: 0,1:33:45.80,1:33:47.63,Default,,0,0,0,,And you, Dad?
+Dialogue: 0,1:33:49.51,1:33:52.30,Default,,0,0,0,,What do you want me to do?
+Dialogue: 0,1:33:55.63,1:33:59.09,Default,,0,0,0,,that you would not lose your train.
+Dialogue: 0,1:33:59.87,1:34:02.64,Default,,0,0,0,,You are also\Nputting me out?
+Dialogue: 0,1:34:02.63,1:34:04.54,Default,,0,0,0,,No, I'm not.
+Dialogue: 0,1:34:04.55,1:34:06.85,Default,,0,0,0,,Fanny also wants me to go.
+Dialogue: 0,1:34:06.86,1:34:10.16,Default,,0,0,0,,Do not be mean to her.\NShe loves you, she told you.
+Dialogue: 0,1:34:10.15,1:34:13.04,Default,,0,0,0,,But your heart beats in one direction\Nand there's other reason.
+Dialogue: 0,1:34:13.53,1:34:15.07,Default,,0,0,0,,no
+Dialogue: 0,1:34:16.28,1:34:17.93,Default,,0,0,0,,no, Marius.
+Dialogue: 0,1:34:17.93,1:34:20.59,Default,,0,0,0,,you were the one who left\Nnot me , not her.
+Dialogue: 0,1:34:20.58,1:34:22.59,Default,,0,0,0,,Was not Panisse.
+Dialogue: 0,1:34:22.59,1:34:25.84,Default,,0,0,0,,But you are a danger\Non your child's future.
+Dialogue: 0,1:34:25.84,1:34:28.71,Default,,0,0,0,,he is\Nwho is sending you away.
+Dialogue: 0,1:34:31.01,1:34:33.32,Default,,0,0,0,,And you won't stop me?
+Dialogue: 0,1:34:33.32,1:34:36.03,Default,,0,0,0,,Daddy ,you don't  love me anymore?
+Dialogue: 0,1:34:39.05,1:34:41.75,Default,,0,0,0,,But yes, of course I love you.
+Dialogue: 0,1:34:42.61,1:34:44.49,Default,,0,0,0,,big fool!
+Dialogue: 0,1:34:45.34,1:34:47.47,Default,,0,0,0,,It turns out that you are great.
+Dialogue: 0,1:34:47.46,1:34:49.50,Default,,0,0,0,,and he is small, very small.
+Dialogue: 0,1:34:50.09,1:34:52.29,Default,,0,0,0,,why, incidentally,\Nhe is strong.
+Dialogue: 0,1:34:52.29,1:34:54.60,Default,,0,0,0,,This small one\Ntake all of us.
+Dialogue: 0,1:34:54.59,1:34:56.92,Default,,0,0,0,,When it is honored
+Dialogue: 0,1:34:57.80,1:35:00.12,Default,,0,0,0,,do not expect\Nto be taken from us.
+Dialogue: 0,1:35:00.13,1:35:01.55,Default,,0,0,0,,We give them.
+Dialogue: 0,1:35:08.63,1:35:11.13,Default,,0,0,0,,Say goodbye to Mrs. Panisse.
+Dialogue: 0,1:35:24.53,1:35:26.07,Default,,0,0,0,,Goodbye, Fanny.
+Dialogue: 0,1:35:27.49,1:35:29.03,Default,,0,0,0,,Goodbye, Marius.
+Dialogue: 0,1:35:31.55,1:35:33.51,Default,,0,0,0,,I will never love anyone but you.
+Dialogue: 0,1:35:34.61,1:35:36.78,Default,,0,0,0,,I never loved anyone but you.
+Dialogue: 0,1:35:43.26,1:35:44.76,Default,,0,0,0,,Come, my son.
+Dialogue: 0,1:37:34.94,1:37:50.69,Default,,0,0,0,,Visit - x265mkv.com

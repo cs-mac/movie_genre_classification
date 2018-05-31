@@ -1,0 +1,4416 @@
+<SAMI>
+<HEAD>
+	<STYLE TYPE="Text/css">
+	<!--
+	  P {margin-left: 29pt; margin-right: 29pt; font-size: 24pt; text-align: center; font-family: Tahoma; font-weight: bold; color: #FCDD03; background-color: #000000;}
+	  .SUBTTL {Name: 'Lagaan'; Lang: en-US; SAMIType: CC;}
+	-->
+	</STYLE>
+</HEAD>
+<BODY>
+	<SYNC Start=261640>
+	  <P>The year is 1893.
+	<SYNC Start=264840>
+	  <P>&nbsp;
+	<SYNC Start=265050>
+	  <P>Champaner.
+	<SYNC Start=266650>
+	  <P>&nbsp;
+	<SYNC Start=267330>
+	  <P>A small village in<br>the heart of India.
+	<SYNC Start=271650>
+	  <P>&nbsp;
+	<SYNC Start=274050>
+	  <P>The people of Champaner<br>depended on agriculture ...
+	<SYNC Start=277850>
+	  <P>&nbsp;
+	<SYNC Start=278050>
+	  <P>... like those in<br>thousands of villages.
+	<SYNC Start=280840>
+	  <P>&nbsp;
+	<SYNC Start=282810>
+	  <P>A British cantonment<br>bordered the village.
+	<SYNC Start=287520>
+	  <P>&nbsp;
+	<SYNC Start=290120>
+	  <P>Two miles south, beyond<br>the cantonment, was the fort ...
+	<SYNC Start=293770>
+	  <P>&nbsp;
+	<SYNC Start=294000>
+	  <P>... of the Rajah<br>of this province.
+	<SYNC Start=296840>
+	  <P>&nbsp;
+	<SYNC Start=297080>
+	  <P>The British protected the Rajah's<br>domain from neighbouring attacks.
+	<SYNC Start=301240>
+	  <P>&nbsp;
+	<SYNC Start=301480>
+	  <P>They also promised the other Rajahs<br>protection from this Rajah.
+	<SYNC Start=306250>
+	  <P>&nbsp;
+	<SYNC Start=306680>
+	  <P>Thanks to this double-dealing,<br>the British ...
+	<SYNC Start=309650>
+	  <P>&nbsp;
+	<SYNC Start=309850>
+	  <P>... collected a tax from the Rajahs ...
+	<SYNC Start=313360>
+	  <P>&nbsp;
+	<SYNC Start=313520>
+	  <P>... paid by every farmer<br>in the country.
+	<SYNC Start=315880>
+	  <P>&nbsp;
+	<SYNC Start=317890>
+	  <P>Lagaan:
+	<SYNC Start=319640>
+	  <P>&nbsp;
+	<SYNC Start=320730>
+	  <P>The submission of a portion<br>of the farmer's harvest ...
+	<SYNC Start=324840>
+	  <P>&nbsp;
+	<SYNC Start=325080>
+	  <P>... to the Rajah as tax.
+	<SYNC Start=327120>
+	  <P>&nbsp;
+	<SYNC Start=329040>
+	  <P>"Every Rajah collected" lagaan "from"<br>villages under his rule.
+	<SYNC Start=334240>
+	  <P>&nbsp;
+	<SYNC Start=336120>
+	  <P>The Rajah would keep one share ...
+	<SYNC Start=338480>
+	  <P>&nbsp;
+	<SYNC Start=338720>
+	  <P>... and give the rest to the British.
+	<SYNC Start=341840>
+	  <P>&nbsp;
+	<SYNC Start=342880>
+	  <P>In this way, the British fist<br>grew iron strong.
+	<SYNC Start=346920>
+	  <P>&nbsp;
+	<SYNC Start=347330>
+	  <P>Like thousands of villages<br>across the country ...
+	<SYNC Start=350440>
+	  <P>&nbsp;
+	<SYNC Start=350680>
+	  <P>... the farmers of Champaner<br>toiled on empty bellies ...
+	<SYNC Start=354000>
+	  <P>&nbsp;
+	<SYNC Start=354210>
+	  <P>... and paid taxes to the Rajah<br>every year.
+	<SYNC Start=357240>
+	  <P>&nbsp;
+	<SYNC Start=361530>
+	  <P>Last year it rained,<br>but very little.
+	<SYNC Start=365450>
+	  <P>&nbsp;
+	<SYNC Start=365920>
+	  <P>And this year, there has been<br>no rain so far.
+	<SYNC Start=369890>
+	  <P>&nbsp;
+	<SYNC Start=373000>
+	  <P>Dry eyes ...
+	<SYNC Start=375240>
+	  <P>&nbsp;
+	<SYNC Start=375480>
+	  <P>... scan the sky.
+	<SYNC Start=377840>
+	  <P>&nbsp;
+	<SYNC Start=394920>
+	  <P>You're there again!<br>What are you looking at, Mother?
+	<SYNC Start=398360>
+	  <P>&nbsp;
+	<SYNC Start=400890>
+	  <P>Just wondering when the sky<br>will darken with clouds.
+	<SYNC Start=404860>
+	  <P>&nbsp;
+	<SYNC Start=405140>
+	  <P>How I long for the rains.
+	<SYNC Start=407250>
+	  <P>&nbsp;
+	<SYNC Start=407460>
+	  <P>A month of rainy season gone by<br>and not a drop of rain.
+	<SYNC Start=411650>
+	  <P>&nbsp;
+	<SYNC Start=413140>
+	  <P>Coming, coming.
+	<SYNC Start=414660>
+	  <P>&nbsp;
+	<SYNC Start=416020>
+	  <P>By God's grace,<br>at least we have drinking water.
+	<SYNC Start=419900>
+	  <P>&nbsp;
+	<SYNC Start=420130>
+	  <P>Or we'd be parched to the bone.
+	<SYNC Start=422650>
+	  <P>&nbsp;
+	<SYNC Start=423340>
+	  <P>- Such are his ways.<br>- Yes, Mother.
+	<SYNC Start=425740>
+	  <P>&nbsp;
+	<SYNC Start=425940>
+	  <P>The fields are parched.<br>How will the grains ripen?
+	<SYNC Start=429900>
+	  <P>&nbsp;
+	<SYNC Start=430130>
+	  <P>Don't lose heart, Hari "Bhai."
+	<SYNC Start=432340>
+	  <P>&nbsp;
+	<SYNC Start=433060>
+	  <P>We'll dig into the earth.
+	<SYNC Start=436300>
+	  <P>&nbsp;
+	<SYNC Start=436530>
+	  <P>We'll tear up the earth for water.
+	<SYNC Start=438890>
+	  <P>&nbsp;
+	<SYNC Start=439130>
+	  <P>It's what I told Bhuvan.
+	<SYNC Start=441100>
+	  <P>&nbsp;
+	<SYNC Start=441330>
+	  <P>Where is he?
+	<SYNC Start=443060>
+	  <P>&nbsp;
+	<SYNC Start=443490>
+	  <P>He went out in the morning.
+	<SYNC Start=445660>
+	  <P>&nbsp;
+	<SYNC Start=446410>
+	  <P>It's time to eat.<br>Send him home if you see him.
+	<SYNC Start=449660>
+	  <P>&nbsp;
+	<SYNC Start=449890>
+	  <P>Yes, Mother.
+	<SYNC Start=451050>
+	  <P>&nbsp;
+	<SYNC Start=452540>
+	  <P>You pests!<br>I'll wring your necks!
+	<SYNC Start=454890>
+	  <P>&nbsp;
+	<SYNC Start=455730>
+	  <P>Oh, no!<br>The Great Chicken War again.
+	<SYNC Start=458940>
+	  <P>&nbsp;
+	<SYNC Start=459140>
+	  <P>Goli, you moron!
+	<SYNC Start=461490>
+	  <P>&nbsp;
+	<SYNC Start=461730>
+	  <P>See if I don't ram you<br>down a gun barrel!
+	<SYNC Start=464810>
+	  <P>&nbsp;
+	<SYNC Start=465020>
+	  <P>Morons!<br>You think these are your own hens!
+	<SYNC Start=467850>
+	  <P>&nbsp;
+	<SYNC Start=468810>
+	  <P>Go to hell, Bhura!
+	<SYNC Start=470570>
+	  <P>&nbsp;
+	<SYNC Start=470810>
+	  <P>Come here, I'll show you.
+	<SYNC Start=472890>
+	  <P>&nbsp;
+	<SYNC Start=473100>
+	  <P>- Wait right there!<br>- Come on!
+	<SYNC Start=475370>
+	  <P>&nbsp;
+	<SYNC Start=475580>
+	  <P>- I'll put you in bed for days!<br>- How dare you hit my kids?
+	<SYNC Start=479370>
+	  <P>&nbsp;
+	<SYNC Start=479610>
+	  <P>I'll hang them<br>and burn chilies under them.
+	<SYNC Start=482450>
+	  <P>&nbsp;
+	<SYNC Start=482690>
+	  <P>Hassling my hens!<br>And you?!
+	<SYNC Start=484970>
+	  <P>&nbsp;
+	<SYNC Start=485210>
+	  <P>You behave or else<br>I'll burn your slingshot!
+	<SYNC Start=488460>
+	  <P>&nbsp;
+	<SYNC Start=488660>
+	  <P>- Is that so?<br>- Stop it now.
+	<SYNC Start=490450>
+	  <P>&nbsp;
+	<SYNC Start=490660>
+	  <P>You two are worse<br>than cats and dogs.
+	<SYNC Start=494250>
+	  <P>&nbsp;
+	<SYNC Start=494460>
+	  <P>But his boys are after my hens!
+	<SYNC Start=496700>
+	  <P>&nbsp;
+	<SYNC Start=496930>
+	  <P>Stop acting like<br>they're being molested!
+	<SYNC Start=499660>
+	  <P>&nbsp;
+	<SYNC Start=499890>
+	  <P>Your hens aren't getting married!
+	<SYNC Start=502300>
+	  <P>&nbsp;
+	<SYNC Start=502530>
+	  <P>They're only kids.<br>Goli, control your kids.
+	<SYNC Start=506090>
+	  <P>&nbsp;
+	<SYNC Start=506330>
+	  <P>Tell me, have you seen Bhuvan?
+	<SYNC Start=508450>
+	  <P>&nbsp;
+	<SYNC Start=508690>
+	  <P>- No. You seen him, Bhura?<br>- No!
+	<SYNC Start=511420>
+	  <P>&nbsp;
+	<SYNC Start=511650>
+	  <P>Why?
+	<SYNC Start=513050>
+	  <P>&nbsp;
+	<SYNC Start=519650>
+	  <P>Left, right, left!
+	<SYNC Start=521450>
+	  <P>&nbsp;
+	<SYNC Start=546220>
+	  <P>Scumbags!<br>Sons of jackals!
+	<SYNC Start=550180>
+	  <P>&nbsp;
+	<SYNC Start=551330>
+	  <P>Strutting around in the heat!
+	<SYNC Start=553500>
+	  <P>&nbsp;
+	<SYNC Start=553930>
+	  <P>You're all going back<br>to that little island ...
+	<SYNC Start=556900>
+	  <P>&nbsp;
+	<SYNC Start=557130>
+	  <P>... whimpering!
+	<SYNC Start=558500>
+	  <P>&nbsp;
+	<SYNC Start=558730>
+	  <P>May the mighty hands of Fate<br>ruin you!
+	<SYNC Start=561660>
+	  <P>&nbsp;
+	<SYNC Start=561860>
+	  <P>Guran! Why bother<br>reading their fortune?
+	<SYNC Start=564970>
+	  <P>&nbsp;
+	<SYNC Start=565210>
+	  <P>They won't even care.<br>Won't you read my fortune?
+	<SYNC Start=569250>
+	  <P>&nbsp;
+	<SYNC Start=576330>
+	  <P>Tell me. Will I get the prince<br>of my dreams?
+	<SYNC Start=579770>
+	  <P>&nbsp;
+	<SYNC Start=579980>
+	  <P>Why not?
+	<SYNC Start=581100>
+	  <P>&nbsp;
+	<SYNC Start=581250>
+	  <P>If you truly love him,<br>then he'll give you ...
+	<SYNC Start=584140>
+	  <P>&nbsp;
+	<SYNC Start=584340>
+	  <P>... your wedding bangle.<br>You'll be his bride.
+	<SYNC Start=587650>
+	  <P>&nbsp;
+	<SYNC Start=587890>
+	  <P>- Really? You heard that, Jigni?<br>- Yes.
+	<SYNC Start=591100>
+	  <P>&nbsp;
+	<SYNC Start=591300>
+	  <P>But ...
+	<SYNC Start=592300>
+	  <P>&nbsp;
+	<SYNC Start=593170>
+	  <P>But ...<br>But what?
+	<SYNC Start=595050>
+	  <P>&nbsp;
+	<SYNC Start=595290>
+	  <P>I see an obstacle.
+	<SYNC Start=597090>
+	  <P>&nbsp;
+	<SYNC Start=597330>
+	  <P>What obstacle?<br>Tell me quickly.
+	<SYNC Start=599500>
+	  <P>&nbsp;
+	<SYNC Start=599730>
+	  <P>Gauri!
+	<SYNC Start=601430>
+	  <P>&nbsp;
+	<SYNC Start=601630>
+	  <P>Later.
+	<SYNC Start=602900>
+	  <P>&nbsp;
+	<SYNC Start=603140>
+	  <P>Read my fortune.
+	<SYNC Start=604510>
+	  <P>&nbsp;
+	<SYNC Start=604940>
+	  <P>What is it, "Kaka"?
+	<SYNC Start=606190>
+	  <P>&nbsp;
+	<SYNC Start=606420>
+	  <P>- Was Guran telling your fortune?<br>- No.
+	<SYNC Start=608910>
+	  <P>&nbsp;
+	<SYNC Start=609140>
+	  <P>- Yes.<br>- He's mad.
+	<SYNC Start=611060>
+	  <P>&nbsp;
+	<SYNC Start=611270>
+	  <P>No clue about the present<br>and he babbles about the future!
+	<SYNC Start=615190>
+	  <P>&nbsp;
+	<SYNC Start=615420>
+	  <P>No, Hari "Kaka."<br>He's not mad.
+	<SYNC Start=617700>
+	  <P>&nbsp;
+	<SYNC Start=617940>
+	  <P>What about Durga "Bhabi"?
+	<SYNC Start=619500>
+	  <P>&nbsp;
+	<SYNC Start=619740>
+	  <P>She was childless for nine years.<br>Then Guran said she'd have a son.
+	<SYNC Start=624260>
+	  <P>&nbsp;
+	<SYNC Start=624470>
+	  <P>And wasn't Somu born?<br>What about--?
+	<SYNC Start=626780>
+	  <P>&nbsp;
+	<SYNC Start=627020>
+	  <P>All right, all right.<br>That lunatic is not mad.
+	<SYNC Start=630990>
+	  <P>&nbsp;
+	<SYNC Start=631460>
+	  <P>Now tell me.<br>Have you seen Bhuvan?
+	<SYNC Start=634670>
+	  <P>&nbsp;
+	<SYNC Start=634950>
+	  <P>No, but I know where he will be.
+	<SYNC Start=637460>
+	  <P>&nbsp;
+	<SYNC Start=637670>
+	  <P>Amazing!
+	<SYNC Start=639510>
+	  <P>&nbsp;
+	<SYNC Start=639740>
+	  <P>So our little girl keeps tabs<br>on him?
+	<SYNC Start=642500>
+	  <P>&nbsp;
+	<SYNC Start=642660>
+	  <P>Lakha, what is it to you?
+	<SYNC Start=644300>
+	  <P>&nbsp;
+	<SYNC Start=644540>
+	  <P>I see! This concerns me<br>and I'm not to open my mouth?
+	<SYNC Start=649470>
+	  <P>&nbsp;
+	<SYNC Start=650340>
+	  <P>Why don't you wear<br>wedding bangles for me?
+	<SYNC Start=653180>
+	  <P>&nbsp;
+	<SYNC Start=653420>
+	  <P>- Lakha, what nonsense is this?!<br>- I really mean it.
+	<SYNC Start=656830>
+	  <P>&nbsp;
+	<SYNC Start=657030>
+	  <P>You've grown old ...
+	<SYNC Start=658900>
+	  <P>&nbsp;
+	<SYNC Start=659140>
+	  <P>... and Gauri here<br>doesn't care for me.
+	<SYNC Start=662350>
+	  <P>&nbsp;
+	<SYNC Start=662580>
+	  <P>Here, look at this. Look.
+	<SYNC Start=665340>
+	  <P>&nbsp;
+	<SYNC Start=665580>
+	  <P>- See how badly hurt I am.<br>- Hurt?
+	<SYNC Start=667790>
+	  <P>&nbsp;
+	<SYNC Start=669540>
+	  <P>It's my father you need, not me.
+	<SYNC Start=672470>
+	  <P>&nbsp;
+	<SYNC Start=672670>
+	  <P>- Father!<br>- What is it?
+	<SYNC Start=674510>
+	  <P>&nbsp;
+	<SYNC Start=674740>
+	  <P>Lakha has a gash on his hand.
+	<SYNC Start=677470>
+	  <P>&nbsp;
+	<SYNC Start=678550>
+	  <P>He seems to cut his hand<br>more than he cuts wood.
+	<SYNC Start=682550>
+	  <P>&nbsp;
+	<SYNC Start=682750>
+	  <P>What can I do, lsar "Chacha"?!<br>I'm always wounding myself ...
+	<SYNC Start=686860>
+	  <P>&nbsp;
+	<SYNC Start=687100>
+	  <P>... very badly.
+	<SYNC Start=688350>
+	  <P>&nbsp;
+	<SYNC Start=689670>
+	  <P>"Kaka," I'll go fetch Bhuvan.
+	<SYNC Start=693070>
+	  <P>&nbsp;
+	<SYNC Start=693750>
+	  <P>Listen, if you see him,<br>tell him Mother is waiting for him.
+	<SYNC Start=697580>
+	  <P>&nbsp;
+	<SYNC Start=697740>
+	  <P>Yes, I'll tell him.
+	<SYNC Start=699140>
+	  <P>&nbsp;
+	<SYNC Start=740940>
+	  <P>One.
+	<SYNC Start=742460>
+	  <P>&nbsp;
+	<SYNC Start=743950>
+	  <P>Two.
+	<SYNC Start=745470>
+	  <P>&nbsp;
+	<SYNC Start=746070>
+	  <P>Three.
+	<SYNC Start=747270>
+	  <P>&nbsp;
+	<SYNC Start=748470>
+	  <P>Missed again.
+	<SYNC Start=749470>
+	  <P>&nbsp;
+	<SYNC Start=749700>
+	  <P>Ram Singh!<br>Quick! From there.
+	<SYNC Start=752110>
+	  <P>&nbsp;
+	<SYNC Start=752340>
+	  <P>Wesson, you go round.<br>Let's corner the blasted animal!
+	<SYNC Start=755990>
+	  <P>&nbsp;
+	<SYNC Start=796830>
+	  <P>One ...
+	<SYNC Start=798270>
+	  <P>&nbsp;
+	<SYNC Start=801240>
+	  <P>Drop the stone.
+	<SYNC Start=802720>
+	  <P>&nbsp;
+	<SYNC Start=809350>
+	  <P>Finally. Got the darn creature.
+	<SYNC Start=812070>
+	  <P>&nbsp;
+	<SYNC Start=812280>
+	  <P>Well done, "sahib."<br>Good shot.
+	<SYNC Start=814390>
+	  <P>&nbsp;
+	<SYNC Start=814550>
+	  <P>Thank you, Ram Singh.
+	<SYNC Start=816040>
+	  <P>&nbsp;
+	<SYNC Start=816320>
+	  <P>Now for something bigger.
+	<SYNC Start=818480>
+	  <P>&nbsp;
+	<SYNC Start=820680>
+	  <P>Arrest him.
+	<SYNC Start=822280>
+	  <P>&nbsp;
+	<SYNC Start=822560>
+	  <P>Sir, this dacoit<br>was hiding in the bushes ...
+	<SYNC Start=826000>
+	  <P>&nbsp;
+	<SYNC Start=826150>
+	  <P>... with this stone.
+	<SYNC Start=827880>
+	  <P>&nbsp;
+	<SYNC Start=828080>
+	  <P>He'd been distracting the deer.
+	<SYNC Start=830320>
+	  <P>&nbsp;
+	<SYNC Start=834000>
+	  <P>Now I understand ...
+	<SYNC Start=835680>
+	  <P>&nbsp;
+	<SYNC Start=837310>
+	  <P>... why I missed five times.
+	<SYNC Start=841470>
+	  <P>&nbsp;
+	<SYNC Start=842870>
+	  <P>You, a protector of animals, eh?
+	<SYNC Start=846630>
+	  <P>&nbsp;
+	<SYNC Start=846840>
+	  <P>He's a farmer from Champaner.
+	<SYNC Start=849000>
+	  <P>&nbsp;
+	<SYNC Start=849430>
+	  <P>Well, you must be a very good runner.
+	<SYNC Start=853190>
+	  <P>&nbsp;
+	<SYNC Start=871070>
+	  <P>Try saving this one.
+	<SYNC Start=872910>
+	  <P>&nbsp;
+	<SYNC Start=880950>
+	  <P>Next time, I will shoot you.
+	<SYNC Start=883510>
+	  <P>&nbsp;
+	<SYNC Start=885630>
+	  <P>Next time, you'll be the target.
+	<SYNC Start=887830>
+	  <P>&nbsp;
+	<SYNC Start=891280>
+	  <P>Captain Russell!<br>Rajah Puran Singh ...
+	<SYNC Start=893960>
+	  <P>&nbsp;
+	<SYNC Start=894160>
+	  <P>... is waiting for you.
+	<SYNC Start=896270>
+	  <P>&nbsp;
+	<SYNC Start=896510>
+	  <P>Puran Singh!<br>What could he want now?
+	<SYNC Start=899680>
+	  <P>&nbsp;
+	<SYNC Start=923070>
+	  <P>Bhuvan!
+	<SYNC Start=925190>
+	  <P>&nbsp;
+	<SYNC Start=930350>
+	  <P>Bhuvan!
+	<SYNC Start=932630>
+	  <P>&nbsp;
+	<SYNC Start=935950>
+	  <P>Bhuvan!
+	<SYNC Start=938430>
+	  <P>&nbsp;
+	<SYNC Start=943920>
+	  <P>Why are you screaming<br>your head off?
+	<SYNC Start=946560>
+	  <P>&nbsp;
+	<SYNC Start=946710>
+	  <P>I was looking for you.<br>I couldn't see you.
+	<SYNC Start=949680>
+	  <P>&nbsp;
+	<SYNC Start=949880>
+	  <P>- Was I lying dead somewhere?<br>- How should I know?
+	<SYNC Start=953280>
+	  <P>&nbsp;
+	<SYNC Start=953510>
+	  <P>God! What am I saying?
+	<SYNC Start=955430>
+	  <P>&nbsp;
+	<SYNC Start=956040>
+	  <P>Why are you so angry?
+	<SYNC Start=958440>
+	  <P>&nbsp;
+	<SYNC Start=959830>
+	  <P>Never mind.<br>What do you want?
+	<SYNC Start=962830>
+	  <P>&nbsp;
+	<SYNC Start=963070>
+	  <P>- I've got something to tell you.<br>- What?
+	<SYNC Start=966630>
+	  <P>&nbsp;
+	<SYNC Start=966920>
+	  <P>Sit down, won't you?
+	<SYNC Start=968830>
+	  <P>&nbsp;
+	<SYNC Start=970800>
+	  <P>So tell me.
+	<SYNC Start=972040>
+	  <P>&nbsp;
+	<SYNC Start=972640>
+	  <P>Guran read my fortune today.
+	<SYNC Start=976280>
+	  <P>&nbsp;
+	<SYNC Start=976510>
+	  <P>What's the misfortune?
+	<SYNC Start=978480>
+	  <P>&nbsp;
+	<SYNC Start=978710>
+	  <P>So mean!<br>I'm not telling you then.
+	<SYNC Start=981680>
+	  <P>&nbsp;
+	<SYNC Start=981910>
+	  <P>All right, tell me.
+	<SYNC Start=983640>
+	  <P>&nbsp;
+	<SYNC Start=984070>
+	  <P>Come on.
+	<SYNC Start=985440>
+	  <P>&nbsp;
+	<SYNC Start=988880>
+	  <P>Guran said ...
+	<SYNC Start=990950>
+	  <P>&nbsp;
+	<SYNC Start=991190>
+	  <P>... I'll put henna on my hands<br>this year.
+	<SYNC Start=995560>
+	  <P>&nbsp;
+	<SYNC Start=995790>
+	  <P>I mean, get married.
+	<SYNC Start=998040>
+	  <P>&nbsp;
+	<SYNC Start=999120>
+	  <P>Wow!
+	<SYNC Start=1000890>
+	  <P>&nbsp;
+	<SYNC Start=1001120>
+	  <P>That's great news.
+	<SYNC Start=1002970>
+	  <P>&nbsp;
+	<SYNC Start=1003200>
+	  <P>You'll be dancing with joy.<br>Who's the boy?
+	<SYNC Start=1006450>
+	  <P>&nbsp;
+	<SYNC Start=1009760>
+	  <P>How would I know?
+	<SYNC Start=1011640>
+	  <P>&nbsp;
+	<SYNC Start=1012120>
+	  <P>Guran didn't tell me that.
+	<SYNC Start=1014640>
+	  <P>&nbsp;
+	<SYNC Start=1015730>
+	  <P>But one thing is certain:
+	<SYNC Start=1017690>
+	  <P>&nbsp;
+	<SYNC Start=1017920>
+	  <P>The house I marry into will have ...
+	<SYNC Start=1021370>
+	  <P>&nbsp;
+	<SYNC Start=1021570>
+	  <P>... a neem tree in the courtyard.
+	<SYNC Start=1023640>
+	  <P>&nbsp;
+	<SYNC Start=1023930>
+	  <P>A big field beside the house ...
+	<SYNC Start=1027440>
+	  <P>&nbsp;
+	<SYNC Start=1028050>
+	  <P>... two cows, a pair of oxen ...
+	<SYNC Start=1030880>
+	  <P>&nbsp;
+	<SYNC Start=1031610>
+	  <P>... and three goats.
+	<SYNC Start=1033450>
+	  <P>&nbsp;
+	<SYNC Start=1033810>
+	  <P>Guran said my home will be ...
+	<SYNC Start=1037120>
+	  <P>&nbsp;
+	<SYNC Start=1037360>
+	  <P>... a little heaven.
+	<SYNC Start=1039570>
+	  <P>&nbsp;
+	<SYNC Start=1044930>
+	  <P>How wonderful!<br>You're really lucky.
+	<SYNC Start=1048170>
+	  <P>&nbsp;
+	<SYNC Start=1048370>
+	  <P>Lucky?<br>You call this lucky?
+	<SYNC Start=1051770>
+	  <P>&nbsp;
+	<SYNC Start=1051970>
+	  <P>Heaven for a home.<br>What more do you want?
+	<SYNC Start=1054450>
+	  <P>&nbsp;
+	<SYNC Start=1054680>
+	  <P>Lord knows what'll become of me.
+	<SYNC Start=1057240>
+	  <P>&nbsp;
+	<SYNC Start=1058120>
+	  <P>Tell me one thing, Bhuvan.
+	<SYNC Start=1060640>
+	  <P>&nbsp;
+	<SYNC Start=1060850>
+	  <P>- What kind of girl do you like?<br>- Me?
+	<SYNC Start=1063880>
+	  <P>&nbsp;
+	<SYNC Start=1066890>
+	  <P>I will only like the girl<br>whom my mother likes.
+	<SYNC Start=1070890>
+	  <P>&nbsp;
+	<SYNC Start=1072250>
+	  <P>- Whom Mother likes?<br>- Yes.
+	<SYNC Start=1074250>
+	  <P>&nbsp;
+	<SYNC Start=1074650>
+	  <P>- Oh, God!<br>- What happened?
+	<SYNC Start=1076650>
+	  <P>&nbsp;
+	<SYNC Start=1077450>
+	  <P>I came to tell you that ...
+	<SYNC Start=1080130>
+	  <P>&nbsp;
+	<SYNC Start=1080640>
+	  <P>... Mother wants to see you.
+	<SYNC Start=1082440>
+	  <P>&nbsp;
+	<SYNC Start=1082650>
+	  <P>Now you tell me!<br>After all this!
+	<SYNC Start=1085050>
+	  <P>&nbsp;
+	<SYNC Start=1085280>
+	  <P>You sit here. I'm going.
+	<SYNC Start=1087250>
+	  <P>&nbsp;
+	<SYNC Start=1088610>
+	  <P>Bhuvan, I'm sorry.
+	<SYNC Start=1091050>
+	  <P>&nbsp;
+	<SYNC Start=1108760>
+	  <P>Rajahji.
+	<SYNC Start=1109760>
+	  <P>&nbsp;
+	<SYNC Start=1110200>
+	  <P>How did your hunt go?
+	<SYNC Start=1112240>
+	  <P>&nbsp;
+	<SYNC Start=1112450>
+	  <P>The British are the best<br>when it comes to hunting.
+	<SYNC Start=1116090>
+	  <P>&nbsp;
+	<SYNC Start=1116320>
+	  <P>- The British Empire is the best, right?<br>- Absolutely.
+	<SYNC Start=1120290>
+	  <P>&nbsp;
+	<SYNC Start=1120520>
+	  <P>- But I'm worried.<br>- About what?
+	<SYNC Start=1123450>
+	  <P>&nbsp;
+	<SYNC Start=1123650>
+	  <P>When all the game is finished ...
+	<SYNC Start=1125890>
+	  <P>&nbsp;
+	<SYNC Start=1126120>
+	  <P>... whom will your guns target next?
+	<SYNC Start=1129240>
+	  <P>&nbsp;
+	<SYNC Start=1130520>
+	  <P>We're fortunate that you came<br>to visit us.
+	<SYNC Start=1133280>
+	  <P>&nbsp;
+	<SYNC Start=1133520>
+	  <P>But I don't know the reason.
+	<SYNC Start=1135640>
+	  <P>&nbsp;
+	<SYNC Start=1135880>
+	  <P>I've brought a request on behalf<br>of my subjects.
+	<SYNC Start=1140040>
+	  <P>&nbsp;
+	<SYNC Start=1140250>
+	  <P>A request?
+	<SYNC Start=1141640>
+	  <P>&nbsp;
+	<SYNC Start=1141850>
+	  <P>Morning, Eliza.
+	<SYNC Start=1143050>
+	  <P>&nbsp;
+	<SYNC Start=1143250>
+	  <P>Your Highness, I present to you<br>my sister Elizabeth.
+	<SYNC Start=1146840>
+	  <P>&nbsp;
+	<SYNC Start=1147080>
+	  <P>She just arrived from London.
+	<SYNC Start=1149080>
+	  <P>&nbsp;
+	<SYNC Start=1149320>
+	  <P>Elizabeth, His Highness Puran Singh<br>Chawla of Champaner.
+	<SYNC Start=1153160>
+	  <P>&nbsp;
+	<SYNC Start=1153400>
+	  <P>It is my good fortune to meet you.
+	<SYNC Start=1156050>
+	  <P>&nbsp;
+	<SYNC Start=1156250>
+	  <P>- Rajahji, she doesn't know Hindi.<br>- Of course.
+	<SYNC Start=1159410>
+	  <P>&nbsp;
+	<SYNC Start=1159610>
+	  <P>Charmed to meet you.
+	<SYNC Start=1161640>
+	  <P>&nbsp;
+	<SYNC Start=1162250>
+	  <P>Pleased to meet you.
+	<SYNC Start=1163850>
+	  <P>&nbsp;
+	<SYNC Start=1164080>
+	  <P>- Sir.<br>- At ease, Smith.
+	<SYNC Start=1165930>
+	  <P>&nbsp;
+	<SYNC Start=1166130>
+	  <P>Rajahji.
+	<SYNC Start=1166930>
+	  <P>&nbsp;
+	<SYNC Start=1167130>
+	  <P>Elizabeth, meet my deputy,<br>Lt. Patrick Smith.
+	<SYNC Start=1170370>
+	  <P>&nbsp;
+	<SYNC Start=1170600>
+	  <P>- How do you do?<br>- Pleased to meet you.
+	<SYNC Start=1173250>
+	  <P>&nbsp;
+	<SYNC Start=1173450>
+	  <P>Gentlemen.
+	<SYNC Start=1174650>
+	  <P>&nbsp;
+	<SYNC Start=1177810>
+	  <P>Well, Rajahji, I am at your service.
+	<SYNC Start=1180330>
+	  <P>&nbsp;
+	<SYNC Start=1181250>
+	  <P>For the last three years,<br>my people haven't worshipped ...
+	<SYNC Start=1185040>
+	  <P>&nbsp;
+	<SYNC Start=1185280>
+	  <P>... at the Siddheshwar Temple.
+	<SYNC Start=1187280>
+	  <P>&nbsp;
+	<SYNC Start=1187520>
+	  <P>They believe that ...
+	<SYNC Start=1189370>
+	  <P>&nbsp;
+	<SYNC Start=1189600>
+	  <P>... worshipping there will end<br>the hardships they faced last year.
+	<SYNC Start=1193840>
+	  <P>&nbsp;
+	<SYNC Start=1194080>
+	  <P>- But--<br>- But the temple is in the land ...
+	<SYNC Start=1197600>
+	  <P>&nbsp;
+	<SYNC Start=1197760>
+	  <P>... ruled by Rajah Diler Singh,<br>your cousin and your enemy.
+	<SYNC Start=1201530>
+	  <P>&nbsp;
+	<SYNC Start=1201740>
+	  <P>And your dear friend.
+	<SYNC Start=1205250>
+	  <P>&nbsp;
+	<SYNC Start=1206740>
+	  <P>I'm sure if you speak to Diler Singh,<br>he won't say no.
+	<SYNC Start=1210700>
+	  <P>&nbsp;
+	<SYNC Start=1210930>
+	  <P>No, thank you.<br>Hum shakahari hai.
+	<SYNC Start=1214290>
+	  <P>&nbsp;
+	<SYNC Start=1214530>
+	  <P>I mean, vegetarian.
+	<SYNC Start=1216170>
+	  <P>&nbsp;
+	<SYNC Start=1218530>
+	  <P>What do you think, Captain Russell?<br>Is it possible?
+	<SYNC Start=1222290>
+	  <P>&nbsp;
+	<SYNC Start=1223020>
+	  <P>Well, he could be persuaded.
+	<SYNC Start=1225260>
+	  <P>&nbsp;
+	<SYNC Start=1225490>
+	  <P>Your work might be done.
+	<SYNC Start=1227850>
+	  <P>&nbsp;
+	<SYNC Start=1229700>
+	  <P>But on one condition.
+	<SYNC Start=1231580>
+	  <P>&nbsp;
+	<SYNC Start=1231810>
+	  <P>There's one condition.
+	<SYNC Start=1233690>
+	  <P>&nbsp;
+	<SYNC Start=1233930>
+	  <P>Condition?
+	<SYNC Start=1235780>
+	  <P>&nbsp;
+	<SYNC Start=1236010>
+	  <P>Yes, tell me.
+	<SYNC Start=1237570>
+	  <P>&nbsp;
+	<SYNC Start=1238610>
+	  <P>Eat the meat, Your Highness.
+	<SYNC Start=1240450>
+	  <P>&nbsp;
+	<SYNC Start=1245130>
+	  <P>You eat this meat<br>and I'll talk to Diler Singh.
+	<SYNC Start=1249050>
+	  <P>&nbsp;
+	<SYNC Start=1250730>
+	  <P>As I told you, I'm a vegetarian.
+	<SYNC Start=1255060>
+	  <P>&nbsp;
+	<SYNC Start=1255290>
+	  <P>Hum shakahari hai.
+	<SYNC Start=1257780>
+	  <P>&nbsp;
+	<SYNC Start=1257980>
+	  <P>Just one piece of meat.
+	<SYNC Start=1260460>
+	  <P>&nbsp;
+	<SYNC Start=1260690>
+	  <P>You eat it and consider your job done.
+	<SYNC Start=1263730>
+	  <P>&nbsp;
+	<SYNC Start=1266660>
+	  <P>Andrew.
+	<SYNC Start=1268260>
+	  <P>&nbsp;
+	<SYNC Start=1270420>
+	  <P>Eat the meat.
+	<SYNC Start=1272260>
+	  <P>&nbsp;
+	<SYNC Start=1277220>
+	  <P>How's my eating meat<br>connected to the temple?
+	<SYNC Start=1281450>
+	  <P>&nbsp;
+	<SYNC Start=1281690>
+	  <P>It's not connected.
+	<SYNC Start=1283180>
+	  <P>&nbsp;
+	<SYNC Start=1283410>
+	  <P>I just want to see you eating meat.
+	<SYNC Start=1286900>
+	  <P>&nbsp;
+	<SYNC Start=1287130>
+	  <P>Captain Russell ...
+	<SYNC Start=1288690>
+	  <P>&nbsp;
+	<SYNC Start=1289780>
+	  <P>... I cannot betray my religion ...
+	<SYNC Start=1292660>
+	  <P>&nbsp;
+	<SYNC Start=1292890>
+	  <P>... in order to do my duty.
+	<SYNC Start=1295650>
+	  <P>&nbsp;
+	<SYNC Start=1298250>
+	  <P>I'm sorry.
+	<SYNC Start=1299850>
+	  <P>&nbsp;
+	<SYNC Start=1301490>
+	  <P>All right then.<br>You'll have to pay me double tax.
+	<SYNC Start=1304980>
+	  <P>&nbsp;
+	<SYNC Start=1305730>
+	  <P>Double "lagaan"?
+	<SYNC Start=1306850>
+	  <P>&nbsp;
+	<SYNC Start=1307420>
+	  <P>Look, Rajahji.
+	<SYNC Start=1309050>
+	  <P>&nbsp;
+	<SYNC Start=1309290>
+	  <P>Last year, I agreed to cut the tax<br>by half at your request.
+	<SYNC Start=1313890>
+	  <P>&nbsp;
+	<SYNC Start=1314130>
+	  <P>And delayed, at that.
+	<SYNC Start=1316050>
+	  <P>&nbsp;
+	<SYNC Start=1316260>
+	  <P>You have to clear the arrears<br>this year.
+	<SYNC Start=1320260>
+	  <P>&nbsp;
+	<SYNC Start=1320460>
+	  <P>So ...
+	<SYNC Start=1321660>
+	  <P>&nbsp;
+	<SYNC Start=1321860>
+	  <P>- ... double "lagaan."<br>- Sir.
+	<SYNC Start=1324260>
+	  <P>&nbsp;
+	<SYNC Start=1326660>
+	  <P>But it hasn't rained yet.
+	<SYNC Start=1329340>
+	  <P>&nbsp;
+	<SYNC Start=1329540>
+	  <P>The British Raj does not bathe<br>in India's rains, Rajahji.
+	<SYNC Start=1333860>
+	  <P>&nbsp;
+	<SYNC Start=1334090>
+	  <P>Rain or no rain,<br>I must maintain this cantonment.
+	<SYNC Start=1338730>
+	  <P>&nbsp;
+	<SYNC Start=1338970>
+	  <P>The army costs money.
+	<SYNC Start=1341050>
+	  <P>&nbsp;
+	<SYNC Start=1341290>
+	  <P>It has to be paid, fed and clothed ...
+	<SYNC Start=1343980>
+	  <P>&nbsp;
+	<SYNC Start=1344850>
+	  <P>... for your protection.
+	<SYNC Start=1347260>
+	  <P>&nbsp;
+	<SYNC Start=1349010>
+	  <P>How will the farmers pay?
+	<SYNC Start=1351330>
+	  <P>&nbsp;
+	<SYNC Start=1351620>
+	  <P>Come on, Rajahji.<br>It's only double "lagaan."
+	<SYNC Start=1355900>
+	  <P>&nbsp;
+	<SYNC Start=1356210>
+	  <P>And moreover ...
+	<SYNC Start=1358250>
+	  <P>&nbsp;
+	<SYNC Start=1358460>
+	  <P>... you don't even eat meat.
+	<SYNC Start=1361050>
+	  <P>&nbsp;
+	<SYNC Start=1391180>
+	  <P>Hey, Arjan!<br>What's Bagha so thrilled about?
+	<SYNC Start=1394300>
+	  <P>&nbsp;
+	<SYNC Start=1394530>
+	  <P>- I don't know.<br>- Must be something special.
+	<SYNC Start=1397460>
+	  <P>&nbsp;
+	<SYNC Start=1397740>
+	  <P>Hey, Bagha!<br>What are you beating that drum for?
+	<SYNC Start=1402020>
+	  <P>&nbsp;
+	<SYNC Start=1439710>
+	  <P>Clouds!
+	<SYNC Start=1441070>
+	  <P>&nbsp;
+	<SYNC Start=1444660>
+	  <P>Dark and dense
+	<SYNC Start=1446460>
+	  <P>&nbsp;
+	<SYNC Start=1452870>
+	  <P>Dark and dense<br>Come the swirling clouds
+	<SYNC Start=1455910>
+	  <P>&nbsp;
+	<SYNC Start=1456140>
+	  <P>Dark and dense<br>Roar the clouds
+	<SYNC Start=1458460>
+	  <P>&nbsp;
+	<SYNC Start=1458670>
+	  <P>The thunder reverberates
+	<SYNC Start=1461070>
+	  <P>&nbsp;
+	<SYNC Start=1461270>
+	  <P>How lethally does lightning flash
+	<SYNC Start=1463780>
+	  <P>&nbsp;
+	<SYNC Start=1464020>
+	  <P>The clouds make my heart race
+	<SYNC Start=1467670>
+	  <P>&nbsp;
+	<SYNC Start=1467900>
+	  <P>The clouds make my heart race
+	<SYNC Start=1471260>
+	  <P>&nbsp;
+	<SYNC Start=1475340>
+	  <P>O black cloud<br>Pour down your rain
+	<SYNC Start=1480270>
+	  <P>&nbsp;
+	<SYNC Start=1483430>
+	  <P>O black cloud<br>Pour down your rain
+	<SYNC Start=1488430>
+	  <P>&nbsp;
+	<SYNC Start=1491220>
+	  <P>Wield not<br>Lightning's flashy sword
+	<SYNC Start=1493870>
+	  <P>&nbsp;
+	<SYNC Start=1494070>
+	  <P>But instead<br>The arrows of raindrops
+	<SYNC Start=1496620>
+	  <P>&nbsp;
+	<SYNC Start=1499350>
+	  <P>The clouds<br>Bring rain in their wake
+	<SYNC Start=1502110>
+	  <P>&nbsp;
+	<SYNC Start=1502340>
+	  <P>Swirling darkly<br>The clouds come
+	<SYNC Start=1505660>
+	  <P>&nbsp;
+	<SYNC Start=1508150>
+	  <P>My heart leaps and says.:
+	<SYNC Start=1510550>
+	  <P>&nbsp;
+	<SYNC Start=1510750>
+	  <P>Dance with joy
+	<SYNC Start=1512910>
+	  <P>&nbsp;
+	<SYNC Start=1513420>
+	  <P>Step out of the house
+	<SYNC Start=1515660>
+	  <P>&nbsp;
+	<SYNC Start=1515870>
+	  <P>The clouds will rain down nectar
+	<SYNC Start=1520020>
+	  <P>&nbsp;
+	<SYNC Start=1524910>
+	  <P>Gone are the days of hardship<br>Sing the melodies of the monsoon
+	<SYNC Start=1529870>
+	  <P>&nbsp;
+	<SYNC Start=1530590>
+	  <P>Dark and dense<br>The swirling clouds
+	<SYNC Start=1532550>
+	  <P>&nbsp;
+	<SYNC Start=1532780>
+	  <P>Dark and dense<br>Roar the spreading clouds
+	<SYNC Start=1535670>
+	  <P>&nbsp;
+	<SYNC Start=1569100>
+	  <P>When joyous rain pours
+	<SYNC Start=1571300>
+	  <P>&nbsp;
+	<SYNC Start=1571540>
+	  <P>Who then will be thirsty?
+	<SYNC Start=1574060>
+	  <P>&nbsp;
+	<SYNC Start=1574270>
+	  <P>The cuckoo will sing<br>Perched on the parapet
+	<SYNC Start=1578590>
+	  <P>&nbsp;
+	<SYNC Start=1579670>
+	  <P>The songbirds will sing
+	<SYNC Start=1581910>
+	  <P>&nbsp;
+	<SYNC Start=1582540>
+	  <P>Of the new days<br>That are to come
+	<SYNC Start=1584820>
+	  <P>&nbsp;
+	<SYNC Start=1585030>
+	  <P>Light shall smile at darkness
+	<SYNC Start=1587990>
+	  <P>&nbsp;
+	<SYNC Start=1589830>
+	  <P>Love's rain<br>Will drench hearts and bodies
+	<SYNC Start=1592550>
+	  <P>&nbsp;
+	<SYNC Start=1592780>
+	  <P>On the earth<br>A mirror of water
+	<SYNC Start=1595670>
+	  <P>&nbsp;
+	<SYNC Start=1598420>
+	  <P>Wherever you go
+	<SYNC Start=1600390>
+	  <P>&nbsp;
+	<SYNC Start=1601150>
+	  <P>You will see
+	<SYNC Start=1603470>
+	  <P>&nbsp;
+	<SYNC Start=1603760>
+	  <P>This splendid sight
+	<SYNC Start=1605150>
+	  <P>&nbsp;
+	<SYNC Start=1605390>
+	  <P>The earth here<br>Wears a rainbow-hued veil
+	<SYNC Start=1608990>
+	  <P>&nbsp;
+	<SYNC Start=1632070>
+	  <P>Let's hang swings from trees<br>And swing high
+	<SYNC Start=1637030>
+	  <P>&nbsp;
+	<SYNC Start=1640310>
+	  <P>O black cloud<br>Pour down rain
+	<SYNC Start=1644830>
+	  <P>&nbsp;
+	<SYNC Start=1648320>
+	  <P>Wield not<br>Lightning's flashy sword
+	<SYNC Start=1650870>
+	  <P>&nbsp;
+	<SYNC Start=1651080>
+	  <P>But instead<br>The arrows of raindrops
+	<SYNC Start=1654280>
+	  <P>&nbsp;
+	<SYNC Start=1686150>
+	  <P>Now comes the intoxicating season
+	<SYNC Start=1688670>
+	  <P>&nbsp;
+	<SYNC Start=1688880>
+	  <P>To spread a carpet of green
+	<SYNC Start=1691320>
+	  <P>&nbsp;
+	<SYNC Start=1691550>
+	  <P>Bring along the season of rain
+	<SYNC Start=1695920>
+	  <P>&nbsp;
+	<SYNC Start=1696550>
+	  <P>Anklets of lightning<br>Adorn her feet
+	<SYNC Start=1699110>
+	  <P>&nbsp;
+	<SYNC Start=1699350>
+	  <P>The cloud is her veil
+	<SYNC Start=1701800>
+	  <P>&nbsp;
+	<SYNC Start=1702430>
+	  <P>The season comes to bedeck<br>The bridal earth
+	<SYNC Start=1706840>
+	  <P>&nbsp;
+	<SYNC Start=1707240>
+	  <P>Boughs wear<br>Bracelets of blossoms
+	<SYNC Start=1709480>
+	  <P>&nbsp;
+	<SYNC Start=1709710>
+	  <P>Joy will now rain<br>Upon every courtyard
+	<SYNC Start=1712680>
+	  <P>&nbsp;
+	<SYNC Start=1715640>
+	  <P>Now every bud will bloom
+	<SYNC Start=1718120>
+	  <P>&nbsp;
+	<SYNC Start=1718350>
+	  <P>Every path will ring with laughter
+	<SYNC Start=1720840>
+	  <P>&nbsp;
+	<SYNC Start=1721040>
+	  <P>The breeze makes the season balmy
+	<SYNC Start=1723480>
+	  <P>&nbsp;
+	<SYNC Start=1723710>
+	  <P>Doused is the scorching heat<br>That burns body and soul
+	<SYNC Start=1727640>
+	  <P>&nbsp;
+	<SYNC Start=1732640>
+	  <P>O black cloud<br>Pour down your rain
+	<SYNC Start=1737640>
+	  <P>&nbsp;
+	<SYNC Start=1740710>
+	  <P>Wield not<br>Lightning's flashy sword
+	<SYNC Start=1743670>
+	  <P>&nbsp;
+	<SYNC Start=1743910>
+	  <P>But instead<br>The arrows of raindrops
+	<SYNC Start=1746430>
+	  <P>&nbsp;
+	<SYNC Start=1748680>
+	  <P>Dark and dense<br>The swirling clouds
+	<SYNC Start=1751160>
+	  <P>&nbsp;
+	<SYNC Start=1751390>
+	  <P>Dark and dense<br>Roar the spreading clouds
+	<SYNC Start=1754470>
+	  <P>&nbsp;
+	<SYNC Start=1754680>
+	  <P>The thunder reverberates
+	<SYNC Start=1756590>
+	  <P>&nbsp;
+	<SYNC Start=1756750>
+	  <P>Oh, look!<br>How lethally does lightning flash
+	<SYNC Start=1759310>
+	  <P>&nbsp;
+	<SYNC Start=1782600>
+	  <P>Oh, God!
+	<SYNC Start=1783880>
+	  <P>&nbsp;
+	<SYNC Start=1785150>
+	  <P>We celebrated too soon.
+	<SYNC Start=1787270>
+	  <P>&nbsp;
+	<SYNC Start=1787750>
+	  <P>Who knows what God<br>is punishing us for?
+	<SYNC Start=1790510>
+	  <P>&nbsp;
+	<SYNC Start=1790750>
+	  <P>There'll be no rain this year too.
+	<SYNC Start=1793480>
+	  <P>&nbsp;
+	<SYNC Start=1793680>
+	  <P>Bloody lunatic!<br>Lunatic!
+	<SYNC Start=1795920>
+	  <P>&nbsp;
+	<SYNC Start=1796150>
+	  <P>- Always saying inauspicious things!<br>- Wretch!
+	<SYNC Start=1799270>
+	  <P>&nbsp;
+	<SYNC Start=1816000>
+	  <P>Listen, villagers,<br>to this proclamation!
+	<SYNC Start=1819040>
+	  <P>&nbsp;
+	<SYNC Start=1819250>
+	  <P>Orders of Rajah Puran Singh,<br>your liege and master.
+	<SYNC Start=1822930>
+	  <P>&nbsp;
+	<SYNC Start=1823160>
+	  <P>This year you shall pay<br>twice the amount ...
+	<SYNC Start=1826200>
+	  <P>&nbsp;
+	<SYNC Start=1826440>
+	  <P>... of wheat, rice and maize.
+	<SYNC Start=1828720>
+	  <P>&nbsp;
+	<SYNC Start=1828960>
+	  <P>The double "lagaan"<br>will apply to the whole province.
+	<SYNC Start=1832320>
+	  <P>&nbsp;
+	<SYNC Start=1832530>
+	  <P>- How can this be possible?<br>- This is tyranny!
+	<SYNC Start=1835360>
+	  <P>&nbsp;
+	<SYNC Start=1838770>
+	  <P>Double "lagaan"!
+	<SYNC Start=1840650>
+	  <P>&nbsp;
+	<SYNC Start=1841890>
+	  <P>Demon! Why don't you just<br>skin us alive?!
+	<SYNC Start=1844850>
+	  <P>&nbsp;
+	<SYNC Start=1845050>
+	  <P>Our plight isn't hidden from the Rajah!<br>Even then, double "lagaan"!
+	<SYNC Start=1849490>
+	  <P>&nbsp;
+	<SYNC Start=1854330>
+	  <P>What have we done wrong?<br>Why double "lagaan"?
+	<SYNC Start=1857570>
+	  <P>&nbsp;
+	<SYNC Start=1857800>
+	  <P>We didn't pay on time last year.<br>And we paid only half.
+	<SYNC Start=1861560>
+	  <P>&nbsp;
+	<SYNC Start=1861800>
+	  <P>"Abba," it was Rajahji who waived it<br>because it didn't rain.
+	<SYNC Start=1865840>
+	  <P>&nbsp;
+	<SYNC Start=1866680>
+	  <P>Sweets one year and abuse the next.
+	<SYNC Start=1869440>
+	  <P>&nbsp;
+	<SYNC Start=1869650>
+	  <P>We're being punished for it now!
+	<SYNC Start=1872240>
+	  <P>&nbsp;
+	<SYNC Start=1872480>
+	  <P>Quiet, Lakha!
+	<SYNC Start=1873690>
+	  <P>&nbsp;
+	<SYNC Start=1873920>
+	  <P>I won't hear one word<br>against our Rajahji.
+	<SYNC Start=1877040>
+	  <P>&nbsp;
+	<SYNC Start=1877330>
+	  <P>He and his ancestors have protected us.
+	<SYNC Start=1880360>
+	  <P>&nbsp;
+	<SYNC Start=1880600>
+	  <P>So? Was that any favour?
+	<SYNC Start=1883250>
+	  <P>&nbsp;
+	<SYNC Start=1883480>
+	  <P>It is the duty of a tree to shelter.
+	<SYNC Start=1886240>
+	  <P>&nbsp;
+	<SYNC Start=1886530>
+	  <P>All I want to know is ...
+	<SYNC Start=1888440>
+	  <P>&nbsp;
+	<SYNC Start=1888650>
+	  <P>... for how long will we<br>fill his coffers?
+	<SYNC Start=1891850>
+	  <P>&nbsp;
+	<SYNC Start=1892080>
+	  <P>Try and understand, Arjan.
+	<SYNC Start=1893840>
+	  <P>&nbsp;
+	<SYNC Start=1894080>
+	  <P>This demand is the doing<br>of those damn white "sahibs"!
+	<SYNC Start=1898850>
+	  <P>&nbsp;
+	<SYNC Start=1899080>
+	  <P>Whether we put it into<br>the right hand or the left ...
+	<SYNC Start=1902440>
+	  <P>&nbsp;
+	<SYNC Start=1902600>
+	  <P>... it is still we who pay.
+	<SYNC Start=1904810>
+	  <P>&nbsp;
+	<SYNC Start=1905890>
+	  <P>I say we all go to the palace<br>and talk to him.
+	<SYNC Start=1910520>
+	  <P>&nbsp;
+	<SYNC Start=1910680>
+	  <P>He's seen these clouds too.
+	<SYNC Start=1912650>
+	  <P>&nbsp;
+	<SYNC Start=1912850>
+	  <P>We'll say we cannot pay "lagaan."
+	<SYNC Start=1915570>
+	  <P>&nbsp;
+	<SYNC Start=1915800>
+	  <P>Not a single grain.
+	<SYNC Start=1917650>
+	  <P>&nbsp;
+	<SYNC Start=1918920>
+	  <P>What if Rajahji refuses<br>even after hearing us?
+	<SYNC Start=1923040>
+	  <P>&nbsp;
+	<SYNC Start=1923920>
+	  <P>Then the fingers of my hand<br>will close into a fist.
+	<SYNC Start=1927240>
+	  <P>&nbsp;
+	<SYNC Start=1927480>
+	  <P>Meaning? You'll fight?
+	<SYNC Start=1929970>
+	  <P>&nbsp;
+	<SYNC Start=1930200>
+	  <P>- If it's necessary, then I will.<br>- Have you lost your mind?
+	<SYNC Start=1934240>
+	  <P>&nbsp;
+	<SYNC Start=1934530>
+	  <P>If you offend Rajahji,<br>we'll all be ruined!
+	<SYNC Start=1938040>
+	  <P>&nbsp;
+	<SYNC Start=1938250>
+	  <P>Is your life all joy<br>and comfort right now?
+	<SYNC Start=1941450>
+	  <P>&nbsp;
+	<SYNC Start=1941650>
+	  <P>I won't let the whole village<br>come to harm!
+	<SYNC Start=1944570>
+	  <P>&nbsp;
+	<SYNC Start=1944800>
+	  <P>What should we do?
+	<SYNC Start=1946440>
+	  <P>&nbsp;
+	<SYNC Start=1946920>
+	  <P>Sell our homes?<br>Our cattle? Ourselves?
+	<SYNC Start=1949570>
+	  <P>&nbsp;
+	<SYNC Start=1949800>
+	  <P>What justice is it<br>to demand double "lagaan"?
+	<SYNC Start=1953010>
+	  <P>&nbsp;
+	<SYNC Start=1965970>
+	  <P>Pitch it up a bit.
+	<SYNC Start=1968450>
+	  <P>&nbsp;
+	<SYNC Start=1973450>
+	  <P>Running!
+	<SYNC Start=1974450>
+	  <P>&nbsp;
+	<SYNC Start=1975320>
+	  <P>Chief, there he is!
+	<SYNC Start=1977240>
+	  <P>&nbsp;
+	<SYNC Start=1980410>
+	  <P>Where are you going?
+	<SYNC Start=1981850>
+	  <P>&nbsp;
+	<SYNC Start=1982050>
+	  <P>Please. We must meet His Highness.<br>It is most urgent.
+	<SYNC Start=1985690>
+	  <P>&nbsp;
+	<SYNC Start=1985920>
+	  <P>But the game is going on.
+	<SYNC Start=1987920>
+	  <P>&nbsp;
+	<SYNC Start=1988130>
+	  <P>Sit here. You must wait<br>until the game is over.
+	<SYNC Start=1992050>
+	  <P>&nbsp;
+	<SYNC Start=1992250>
+	  <P>All of you, sit down.
+	<SYNC Start=1994650>
+	  <P>&nbsp;
+	<SYNC Start=2001490>
+	  <P>What are they playing?
+	<SYNC Start=2003450>
+	  <P>&nbsp;
+	<SYNC Start=2004540>
+	  <P>God knows what these white guys<br>are playing.
+	<SYNC Start=2007650>
+	  <P>&nbsp;
+	<SYNC Start=2010010>
+	  <P>It's quite like our game of<br>gilli-danda.
+	<SYNC Start=2013050>
+	  <P>&nbsp;
+	<SYNC Start=2014450>
+	  <P>Why are they playing<br>a kid's game then?
+	<SYNC Start=2018250>
+	  <P>&nbsp;
+	<SYNC Start=2020420>
+	  <P>Run it! Run it!
+	<SYNC Start=2022860>
+	  <P>&nbsp;
+	<SYNC Start=2024340>
+	  <P>How's that?
+	<SYNC Start=2025980>
+	  <P>&nbsp;
+	<SYNC Start=2026210>
+	  <P>Yardley!
+	<SYNC Start=2027660>
+	  <P>&nbsp;
+	<SYNC Start=2029410>
+	  <P>Any clouds up there?
+	<SYNC Start=2031450>
+	  <P>&nbsp;
+	<SYNC Start=2037900>
+	  <P>Great shot!
+	<SYNC Start=2039300>
+	  <P>&nbsp;
+	<SYNC Start=2039530>
+	  <P>Wasn't that a wonderful shot?
+	<SYNC Start=2042050>
+	  <P>&nbsp;
+	<SYNC Start=2052660>
+	  <P>You are not supposed to<br>touch the ball!
+	<SYNC Start=2056060>
+	  <P>&nbsp;
+	<SYNC Start=2069330>
+	  <P>Bloody darkie!<br>Arrest him!
+	<SYNC Start=2071650>
+	  <P>&nbsp;
+	<SYNC Start=2077290>
+	  <P>Long live Your Highness!
+	<SYNC Start=2079090>
+	  <P>&nbsp;
+	<SYNC Start=2079500>
+	  <P>What are you all doing here?
+	<SYNC Start=2081700>
+	  <P>&nbsp;
+	<SYNC Start=2081900>
+	  <P>Forgive us.
+	<SYNC Start=2083170>
+	  <P>&nbsp;
+	<SYNC Start=2083410>
+	  <P>We came to see you,<br>not to see their stupid game.
+	<SYNC Start=2087010>
+	  <P>&nbsp;
+	<SYNC Start=2087220>
+	  <P>We are desperate here<br>and now he hits Bhura!
+	<SYNC Start=2090220>
+	  <P>&nbsp;
+	<SYNC Start=2090420>
+	  <P>- Captain Russell--<br>- I didn't hear what you just said.
+	<SYNC Start=2093860>
+	  <P>&nbsp;
+	<SYNC Start=2094330>
+	  <P>Forgive them.
+	<SYNC Start=2095610>
+	  <P>&nbsp;
+	<SYNC Start=2095820>
+	  <P>They've come to me with their problems.
+	<SYNC Start=2098570>
+	  <P>&nbsp;
+	<SYNC Start=2098810>
+	  <P>The boy is an innocent anyway.
+	<SYNC Start=2100980>
+	  <P>&nbsp;
+	<SYNC Start=2101540>
+	  <P>He's not so innocent.
+	<SYNC Start=2103850>
+	  <P>&nbsp;
+	<SYNC Start=2104330>
+	  <P>It was you in the jungle, right?
+	<SYNC Start=2107450>
+	  <P>&nbsp;
+	<SYNC Start=2110660>
+	  <P>All right.
+	<SYNC Start=2112060>
+	  <P>&nbsp;
+	<SYNC Start=2112530>
+	  <P>We'll decide this after the game.
+	<SYNC Start=2115180>
+	  <P>&nbsp;
+	<SYNC Start=2115410>
+	  <P>Leave him.
+	<SYNC Start=2116860>
+	  <P>&nbsp;
+	<SYNC Start=2119300>
+	  <P>Come on, chaps.<br>Back to the game.
+	<SYNC Start=2121860>
+	  <P>&nbsp;
+	<SYNC Start=2123010>
+	  <P>- We'll talk after the game.<br>- As you wish, Your Highness.
+	<SYNC Start=2127170>
+	  <P>&nbsp;
+	<SYNC Start=2135610>
+	  <P>Well done, Smith.<br>Well done.
+	<SYNC Start=2138090>
+	  <P>&nbsp;
+	<SYNC Start=2160050>
+	  <P>Enjoy the game?<br>It was a good one.
+	<SYNC Start=2162650>
+	  <P>&nbsp;
+	<SYNC Start=2170730>
+	  <P>Long live Your Highness.
+	<SYNC Start=2172650>
+	  <P>&nbsp;
+	<SYNC Start=2174900>
+	  <P>All right, Chief.<br>What is the matter?
+	<SYNC Start=2178170>
+	  <P>&nbsp;
+	<SYNC Start=2178410>
+	  <P>As you are aware, Your Highness ...
+	<SYNC Start=2180820>
+	  <P>&nbsp;
+	<SYNC Start=2181020>
+	  <P>... there have been no rains.
+	<SYNC Start=2183460>
+	  <P>&nbsp;
+	<SYNC Start=2183660>
+	  <P>If we can live on ...
+	<SYNC Start=2185170>
+	  <P>&nbsp;
+	<SYNC Start=2186050>
+	  <P>... what we have this year,<br>we may be able to get by.
+	<SYNC Start=2189460>
+	  <P>&nbsp;
+	<SYNC Start=2189660>
+	  <P>Our liege lord.<br>We've come to make a plea.
+	<SYNC Start=2192490>
+	  <P>&nbsp;
+	<SYNC Start=2192730>
+	  <P>Waive our "lagaan"<br>for this year, Lord.
+	<SYNC Start=2196570>
+	  <P>&nbsp;
+	<SYNC Start=2197730>
+	  <P>Listen, Chief.
+	<SYNC Start=2199290>
+	  <P>&nbsp;
+	<SYNC Start=2199530>
+	  <P>I fully understand<br>what you are all going through.
+	<SYNC Start=2203670>
+	  <P>&nbsp;
+	<SYNC Start=2205300>
+	  <P>But my hands are tied as well.
+	<SYNC Start=2207660>
+	  <P>&nbsp;
+	<SYNC Start=2208140>
+	  <P>These whites don't even spare<br>their own kin.
+	<SYNC Start=2213180>
+	  <P>&nbsp;
+	<SYNC Start=2216460>
+	  <P>You will pay double "lagaan."
+	<SYNC Start=2218700>
+	  <P>&nbsp;
+	<SYNC Start=2218940>
+	  <P>- We'll die of hunger.<br>- We'll starve.
+	<SYNC Start=2222060>
+	  <P>&nbsp;
+	<SYNC Start=2222750>
+	  <P>- Any problem, Your Highness?<br>- Captain Russell ...
+	<SYNC Start=2226060>
+	  <P>&nbsp;
+	<SYNC Start=2226300>
+	  <P>- ... they have come with a petition.<br>- And that is?
+	<SYNC Start=2229510>
+	  <P>&nbsp;
+	<SYNC Start=2229710>
+	  <P>They want to be exempted<br>from paying "lagaan."
+	<SYNC Start=2232780>
+	  <P>&nbsp;
+	<SYNC Start=2233020>
+	  <P>I told them it's not possible.
+	<SYNC Start=2236060>
+	  <P>&nbsp;
+	<SYNC Start=2236270>
+	  <P>But it is possible.
+	<SYNC Start=2238670>
+	  <P>&nbsp;
+	<SYNC Start=2241150>
+	  <P>How?
+	<SYNC Start=2242670>
+	  <P>&nbsp;
+	<SYNC Start=2243750>
+	  <P>I will tell you.
+	<SYNC Start=2245470>
+	  <P>&nbsp;
+	<SYNC Start=2247950>
+	  <P>All right.
+	<SYNC Start=2249270>
+	  <P>&nbsp;
+	<SYNC Start=2250300>
+	  <P>I'll cancel the tax.
+	<SYNC Start=2252660>
+	  <P>&nbsp;
+	<SYNC Start=2256020>
+	  <P>But there is a condition.
+	<SYNC Start=2258260>
+	  <P>&nbsp;
+	<SYNC Start=2258900>
+	  <P>Condition?
+	<SYNC Start=2260270>
+	  <P>&nbsp;
+	<SYNC Start=2260500>
+	  <P>What condition, sir?
+	<SYNC Start=2262230>
+	  <P>&nbsp;
+	<SYNC Start=2263380>
+	  <P>You.
+	<SYNC Start=2264660>
+	  <P>&nbsp;
+	<SYNC Start=2267220>
+	  <P>Come here.
+	<SYNC Start=2268220>
+	  <P>&nbsp;
+	<SYNC Start=2277750>
+	  <P>What was that you said<br>about our game?
+	<SYNC Start=2280470>
+	  <P>&nbsp;
+	<SYNC Start=2280700>
+	  <P>What did he say?
+	<SYNC Start=2282260>
+	  <P>&nbsp;
+	<SYNC Start=2284230>
+	  <P>"A stupid game."
+	<SYNC Start=2286910>
+	  <P>&nbsp;
+	<SYNC Start=2288540>
+	  <P>What do you know about this game?
+	<SYNC Start=2291470>
+	  <P>&nbsp;
+	<SYNC Start=2293820>
+	  <P>We've played it since we were kids.
+	<SYNC Start=2296260>
+	  <P>&nbsp;
+	<SYNC Start=2296470>
+	  <P>We call it "gilli-danda" and ...
+	<SYNC Start=2298870>
+	  <P>&nbsp;
+	<SYNC Start=2299150>
+	  <P>- Who knows what you call it?<br>- Cricket!
+	<SYNC Start=2302110>
+	  <P>&nbsp;
+	<SYNC Start=2304660>
+	  <P>So you're saying that<br>you can play cricket too?
+	<SYNC Start=2308460>
+	  <P>&nbsp;
+	<SYNC Start=2311870>
+	  <P>Yes. It's easy.
+	<SYNC Start=2314030>
+	  <P>&nbsp;
+	<SYNC Start=2317340>
+	  <P>All right.<br>I'll cancel the "lagaan."
+	<SYNC Start=2321460>
+	  <P>&nbsp;
+	<SYNC Start=2321940>
+	  <P>But you must<br>defeat us in this game.
+	<SYNC Start=2325260>
+	  <P>&nbsp;
+	<SYNC Start=2327300>
+	  <P>This is the condition:
+	<SYNC Start=2329060>
+	  <P>&nbsp;
+	<SYNC Start=2329750>
+	  <P>You beat us at this game<br>and you won't have to pay "lagaan."
+	<SYNC Start=2334590>
+	  <P>&nbsp;
+	<SYNC Start=2339550>
+	  <P>I'm serious.
+	<SYNC Start=2341070>
+	  <P>&nbsp;
+	<SYNC Start=2344100>
+	  <P>You beat us in this game ...
+	<SYNC Start=2346270>
+	  <P>&nbsp;
+	<SYNC Start=2346950>
+	  <P>... and I'll cancel your tax.
+	<SYNC Start=2349460>
+	  <P>&nbsp;
+	<SYNC Start=2356700>
+	  <P>But ...
+	<SYNC Start=2358260>
+	  <P>&nbsp;
+	<SYNC Start=2358500>
+	  <P>... if you lose ...
+	<SYNC Start=2360910>
+	  <P>&nbsp;
+	<SYNC Start=2361110>
+	  <P>... you will have to pay triple tax.
+	<SYNC Start=2364070>
+	  <P>&nbsp;
+	<SYNC Start=2364300>
+	  <P>That is, three times the "lagaan."
+	<SYNC Start=2367820>
+	  <P>&nbsp;
+	<SYNC Start=2368260>
+	  <P>All right?<br>What do you think?
+	<SYNC Start=2370470>
+	  <P>&nbsp;
+	<SYNC Start=2371270>
+	  <P>Do you accept?
+	<SYNC Start=2372630>
+	  <P>&nbsp;
+	<SYNC Start=2387350>
+	  <P>Sir, I think the cat's got his tongue.
+	<SYNC Start=2390270>
+	  <P>&nbsp;
+	<SYNC Start=2391540>
+	  <P>Quiet.
+	<SYNC Start=2392870>
+	  <P>&nbsp;
+	<SYNC Start=2394310>
+	  <P>All right.<br>I will raise the stakes.
+	<SYNC Start=2397870>
+	  <P>&nbsp;
+	<SYNC Start=2398900>
+	  <P>If you defeat us in this game ...
+	<SYNC Start=2401470>
+	  <P>&nbsp;
+	<SYNC Start=2401710>
+	  <P>... I'll cancel not only ...
+	<SYNC Start=2403880>
+	  <P>&nbsp;
+	<SYNC Start=2404110>
+	  <P>... this year's "lagaan,"<br>but next year's as well.
+	<SYNC Start=2407470>
+	  <P>&nbsp;
+	<SYNC Start=2408870>
+	  <P>Agreed?
+	<SYNC Start=2410150>
+	  <P>&nbsp;
+	<SYNC Start=2411710>
+	  <P>Bhuvan!<br>Don't you say anything!
+	<SYNC Start=2414400>
+	  <P>&nbsp;
+	<SYNC Start=2414630>
+	  <P>- Don't say a word.<br>- Yes. Be silent.
+	<SYNC Start=2417880>
+	  <P>&nbsp;
+	<SYNC Start=2419720>
+	  <P>All right.
+	<SYNC Start=2421080>
+	  <P>&nbsp;
+	<SYNC Start=2421510>
+	  <P>I'll raise the stakes even higher.
+	<SYNC Start=2424480>
+	  <P>&nbsp;
+	<SYNC Start=2425350>
+	  <P>Not just one year.
+	<SYNC Start=2427080>
+	  <P>&nbsp;
+	<SYNC Start=2427310>
+	  <P>I'll cancel "lagaan"<br>for the next two years.
+	<SYNC Start=2430870>
+	  <P>&nbsp;
+	<SYNC Start=2431110>
+	  <P>That means three years!
+	<SYNC Start=2433670>
+	  <P>&nbsp;
+	<SYNC Start=2434150>
+	  <P>And not just for you,<br>but for the whole province.
+	<SYNC Start=2438270>
+	  <P>&nbsp;
+	<SYNC Start=2439720>
+	  <P>Now do you accept?
+	<SYNC Start=2441480>
+	  <P>&nbsp;
+	<SYNC Start=2443150>
+	  <P>He's digging a pit<br>to bury us in, Bhuvan.
+	<SYNC Start=2445950>
+	  <P>&nbsp;
+	<SYNC Start=2446160>
+	  <P>- Chief, you speak up now.<br>- Yes, Chief, speak up.
+	<SYNC Start=2449470>
+	  <P>&nbsp;
+	<SYNC Start=2450280>
+	  <P>- Sir--!?<br>- Shut up!
+	<SYNC Start=2451760>
+	  <P>&nbsp;
+	<SYNC Start=2452760>
+	  <P>You.
+	<SYNC Start=2454080>
+	  <P>&nbsp;
+	<SYNC Start=2454680>
+	  <P>Tell me.
+	<SYNC Start=2455680>
+	  <P>&nbsp;
+	<SYNC Start=2457550>
+	  <P>Will you pay double "lagaan"?
+	<SYNC Start=2459670>
+	  <P>&nbsp;
+	<SYNC Start=2460880>
+	  <P>Or do you accept the bet?
+	<SYNC Start=2462880>
+	  <P>&nbsp;
+	<SYNC Start=2488750>
+	  <P>I accept the bet.
+	<SYNC Start=2490870>
+	  <P>&nbsp;
+	<SYNC Start=2499150>
+	  <P>- Did he agree?<br>- Yes, he did.
+	<SYNC Start=2502070>
+	  <P>&nbsp;
+	<SYNC Start=2502480>
+	  <P>All right.
+	<SYNC Start=2503870>
+	  <P>&nbsp;
+	<SYNC Start=2504910>
+	  <P>So it's decided. The game will be played<br>after three months.
+	<SYNC Start=2509950>
+	  <P>&nbsp;
+	<SYNC Start=2510790>
+	  <P>- This will kill us, Your Highness.<br>- We'll die.
+	<SYNC Start=2514030>
+	  <P>&nbsp;
+	<SYNC Start=2514600>
+	  <P>This is unfair.
+	<SYNC Start=2516670>
+	  <P>&nbsp;
+	<SYNC Start=2518160>
+	  <P>So is life.
+	<SYNC Start=2519880>
+	  <P>&nbsp;
+	<SYNC Start=2545640>
+	  <P>No "lagaan" if you win.
+	<SYNC Start=2548120>
+	  <P>&nbsp;
+	<SYNC Start=2548350>
+	  <P>But if we lose, we have to pay<br>three times the amount.
+	<SYNC Start=2552080>
+	  <P>&nbsp;
+	<SYNC Start=2552280>
+	  <P>And Bhuvan here<br>agreed to this condition!
+	<SYNC Start=2555280>
+	  <P>&nbsp;
+	<SYNC Start=2555510>
+	  <P>- What have you done?<br>- From double to triple!
+	<SYNC Start=2558790>
+	  <P>&nbsp;
+	<SYNC Start=2559000>
+	  <P>We are ruined!
+	<SYNC Start=2560080>
+	  <P>&nbsp;
+	<SYNC Start=2560310>
+	  <P>I told you we could<br>face a calamity, didn't I?
+	<SYNC Start=2564870>
+	  <P>&nbsp;
+	<SYNC Start=2565510>
+	  <P>Was there any choice?
+	<SYNC Start=2567680>
+	  <P>&nbsp;
+	<SYNC Start=2567910>
+	  <P>I ask you,<br>did we have a choice?
+	<SYNC Start=2570120>
+	  <P>&nbsp;
+	<SYNC Start=2570350>
+	  <P>What else could we do?
+	<SYNC Start=2572270>
+	  <P>&nbsp;
+	<SYNC Start=2572560>
+	  <P>Isn't double "lagaan" unjust?
+	<SYNC Start=2575070>
+	  <P>&nbsp;
+	<SYNC Start=2575640>
+	  <P>Are we strong enough to pay it?<br>Tell me, can anyone here pay it?
+	<SYNC Start=2580080>
+	  <P>&nbsp;
+	<SYNC Start=2580800>
+	  <P>This isn't a calamity.<br>It's an opportunity.
+	<SYNC Start=2583680>
+	  <P>&nbsp;
+	<SYNC Start=2583910>
+	  <P>This is not bravado.
+	<SYNC Start=2586080>
+	  <P>&nbsp;
+	<SYNC Start=2586280>
+	  <P>You have to get burnt<br>to save your home from fire.
+	<SYNC Start=2590280>
+	  <P>&nbsp;
+	<SYNC Start=2591830>
+	  <P>I know.
+	<SYNC Start=2593280>
+	  <P>&nbsp;
+	<SYNC Start=2593560>
+	  <P>I know we are weak.
+	<SYNC Start=2595720>
+	  <P>&nbsp;
+	<SYNC Start=2595950>
+	  <P>But this way we have hope.
+	<SYNC Start=2598070>
+	  <P>&nbsp;
+	<SYNC Start=2598510>
+	  <P>And I want to turn<br>this hope into reality.
+	<SYNC Start=2602080>
+	  <P>&nbsp;
+	<SYNC Start=2602450>
+	  <P>This game is for<br>our fields and harvest.
+	<SYNC Start=2605210>
+	  <P>&nbsp;
+	<SYNC Start=2605440>
+	  <P>Have you forgotten? If we win,<br>we'll be happy for three years.
+	<SYNC Start=2610560>
+	  <P>&nbsp;
+	<SYNC Start=2613360>
+	  <P>Just think.
+	<SYNC Start=2615200>
+	  <P>&nbsp;
+	<SYNC Start=2615440>
+	  <P>No "lagaan" for three years.
+	<SYNC Start=2618090>
+	  <P>&nbsp;
+	<SYNC Start=2618400>
+	  <P>You know what that means?
+	<SYNC Start=2620480>
+	  <P>&nbsp;
+	<SYNC Start=2620920>
+	  <P>It means our grain will be ours.<br>Only ours.
+	<SYNC Start=2623960>
+	  <P>&nbsp;
+	<SYNC Start=2624200>
+	  <P>Not a grain to be given.
+	<SYNC Start=2626480>
+	  <P>&nbsp;
+	<SYNC Start=2626720>
+	  <P>The welfare of our children,<br>our entire village, is in this.
+	<SYNC Start=2631690>
+	  <P>&nbsp;
+	<SYNC Start=2631920>
+	  <P>Our sweat will run<br>as blood in our veins.
+	<SYNC Start=2635890>
+	  <P>&nbsp;
+	<SYNC Start=2638330>
+	  <P>Marvellous!
+	<SYNC Start=2640090>
+	  <P>&nbsp;
+	<SYNC Start=2640650>
+	  <P>Such small eyes<br>dreaming such big dreams.
+	<SYNC Start=2643610>
+	  <P>&nbsp;
+	<SYNC Start=2643840>
+	  <P>Yes, Arjan, I have a dream.
+	<SYNC Start=2647090>
+	  <P>&nbsp;
+	<SYNC Start=2647450>
+	  <P>And only those who dream<br>can make them come true.
+	<SYNC Start=2651090>
+	  <P>&nbsp;
+	<SYNC Start=2651560>
+	  <P>lsar "Kaka," three months is time enough.
+	<SYNC Start=2654840>
+	  <P>&nbsp;
+	<SYNC Start=2655280>
+	  <P>We can defeat them.
+	<SYNC Start=2657080>
+	  <P>&nbsp;
+	<SYNC Start=2657290>
+	  <P>A whole year of hitting with a stick<br>won't teach you ...
+	<SYNC Start=2661080>
+	  <P>&nbsp;
+	<SYNC Start=2661290>
+	  <P>... this game!
+	<SYNC Start=2662890>
+	  <P>&nbsp;
+	<SYNC Start=2663170>
+	  <P>I know this isn't easy, Lakha.
+	<SYNC Start=2665480>
+	  <P>&nbsp;
+	<SYNC Start=2665690>
+	  <P>But, Chief,<br>it's not impossible either.
+	<SYNC Start=2668890>
+	  <P>&nbsp;
+	<SYNC Start=2669360>
+	  <P>I need your support.
+	<SYNC Start=2670850>
+	  <P>&nbsp;
+	<SYNC Start=2671050>
+	  <P>Nobody in this village<br>will support you in this madness!
+	<SYNC Start=2674770>
+	  <P>&nbsp;
+	<SYNC Start=2674970>
+	  <P>- But Ismail--<br>- Enough.
+	<SYNC Start=2676760>
+	  <P>&nbsp;
+	<SYNC Start=2677520>
+	  <P>We've only one hope.
+	<SYNC Start=2678890>
+	  <P>&nbsp;
+	<SYNC Start=2679690>
+	  <P>We'll all go to Rajahji once again<br>and beg him to save us.
+	<SYNC Start=2684880>
+	  <P>&nbsp;
+	<SYNC Start=2710960>
+	  <P>What are you thinking, Mother?
+	<SYNC Start=2712920>
+	  <P>&nbsp;
+	<SYNC Start=2714960>
+	  <P>About what happened today, son.
+	<SYNC Start=2718370>
+	  <P>&nbsp;
+	<SYNC Start=2719370>
+	  <P>I swear on you, Mother!<br>I did what was right.
+	<SYNC Start=2723330>
+	  <P>&nbsp;
+	<SYNC Start=2725770>
+	  <P>I feel rage when we pay "lagaan"<br>to the Rajah.
+	<SYNC Start=2729080>
+	  <P>&nbsp;
+	<SYNC Start=2729650>
+	  <P>And he gives it<br>to those filthy whites.
+	<SYNC Start=2732890>
+	  <P>&nbsp;
+	<SYNC Start=2734090>
+	  <P>You tell me, Mother.
+	<SYNC Start=2735490>
+	  <P>&nbsp;
+	<SYNC Start=2735800>
+	  <P>Who ploughs the earth<br>to sow the seeds? We do.
+	<SYNC Start=2739490>
+	  <P>&nbsp;
+	<SYNC Start=2739690>
+	  <P>Who waters it?<br>We do.
+	<SYNC Start=2741530>
+	  <P>&nbsp;
+	<SYNC Start=2741760>
+	  <P>So why should we fill their coffers?
+	<SYNC Start=2744250>
+	  <P>&nbsp;
+	<SYNC Start=2748690>
+	  <P>The white "sahib" said that "lagaan"<br>may be cancelled for three years.
+	<SYNC Start=2753280>
+	  <P>&nbsp;
+	<SYNC Start=2753690>
+	  <P>How could I remain silent, Mother?
+	<SYNC Start=2756090>
+	  <P>&nbsp;
+	<SYNC Start=2757210>
+	  <P>You tell me.
+	<SYNC Start=2758690>
+	  <P>&nbsp;
+	<SYNC Start=2759440>
+	  <P>Should I have stayed silent?
+	<SYNC Start=2761610>
+	  <P>&nbsp;
+	<SYNC Start=2764360>
+	  <P>What are you looking at, Mother?
+	<SYNC Start=2767250>
+	  <P>&nbsp;
+	<SYNC Start=2770280>
+	  <P>You talk just like your father.
+	<SYNC Start=2773690>
+	  <P>&nbsp;
+	<SYNC Start=2775050>
+	  <P>He was just as spirited.<br>Always spoke the truth.
+	<SYNC Start=2779490>
+	  <P>&nbsp;
+	<SYNC Start=2786970>
+	  <P>Go and sleep now.
+	<SYNC Start=2789280>
+	  <P>&nbsp;
+	<SYNC Start=2790040>
+	  <P>Don't let this burden you.
+	<SYNC Start=2792490>
+	  <P>&nbsp;
+	<SYNC Start=2820500>
+	  <P>Gauri?<br>What are you doing here?
+	<SYNC Start=2823420>
+	  <P>&nbsp;
+	<SYNC Start=2825380>
+	  <P>I came to see you.
+	<SYNC Start=2828100>
+	  <P>&nbsp;
+	<SYNC Start=2829770>
+	  <P>To tell you ...
+	<SYNC Start=2832290>
+	  <P>&nbsp;
+	<SYNC Start=2832500>
+	  <P>... that I am with you.
+	<SYNC Start=2834700>
+	  <P>&nbsp;
+	<SYNC Start=2839140>
+	  <P>I have faith ...
+	<SYNC Start=2840700>
+	  <P>&nbsp;
+	<SYNC Start=2840850>
+	  <P>... in you and in your courage.
+	<SYNC Start=2843740>
+	  <P>&nbsp;
+	<SYNC Start=2857300>
+	  <P>That's all I came to say.
+	<SYNC Start=2859620>
+	  <P>&nbsp;
+	<SYNC Start=2894370>
+	  <P>Bhuvan "Bhaiyya." I lost my "gilli."<br>Make me another.
+	<SYNC Start=2898450>
+	  <P>&nbsp;
+	<SYNC Start=2901050>
+	  <P>What's this?
+	<SYNC Start=2902210>
+	  <P>&nbsp;
+	<SYNC Start=2905530>
+	  <P>I'll tell you.
+	<SYNC Start=2907250>
+	  <P>&nbsp;
+	<SYNC Start=2912060>
+	  <P>Who knows what'll happen?
+	<SYNC Start=2914340>
+	  <P>&nbsp;
+	<SYNC Start=2950810>
+	  <P>It's not at all difficult, Tipu.
+	<SYNC Start=2953530>
+	  <P>&nbsp;
+	<SYNC Start=2954010>
+	  <P>They play it wearing pants<br>and call it "kirkut."
+	<SYNC Start=2957180>
+	  <P>&nbsp;
+	<SYNC Start=2957410>
+	  <P>We wear loincloths and call it<br>"gilli-danda." Get it?
+	<SYNC Start=2961140>
+	  <P>&nbsp;
+	<SYNC Start=2962770>
+	  <P>Our fathers and grandfathers<br>played "gilli-danda."
+	<SYNC Start=2966530>
+	  <P>&nbsp;
+	<SYNC Start=2968020>
+	  <P>Go over there.
+	<SYNC Start=2969540>
+	  <P>&nbsp;
+	<SYNC Start=2970410>
+	  <P>Back. Further back.
+	<SYNC Start=2972140>
+	  <P>&nbsp;
+	<SYNC Start=2972970>
+	  <P>A little more. Stop.
+	<SYNC Start=2974850>
+	  <P>&nbsp;
+	<SYNC Start=2975060>
+	  <P>Now catch the ball.
+	<SYNC Start=2976780>
+	  <P>&nbsp;
+	<SYNC Start=2978330>
+	  <P>Catch it properly, Tipu!
+	<SYNC Start=2980090>
+	  <P>&nbsp;
+	<SYNC Start=2982370>
+	  <P>Toss it to me. I'll show you.
+	<SYNC Start=2984540>
+	  <P>&nbsp;
+	<SYNC Start=2988020>
+	  <P>See that?
+	<SYNC Start=2989260>
+	  <P>&nbsp;
+	<SYNC Start=2991700>
+	  <P>It's very easy.<br>Why, even you can learn it!
+	<SYNC Start=2994660>
+	  <P>&nbsp;
+	<SYNC Start=2994890>
+	  <P>This game is just like "gilli-danda."
+	<SYNC Start=2997930>
+	  <P>&nbsp;
+	<SYNC Start=2998620>
+	  <P>Catch.
+	<SYNC Start=3000340>
+	  <P>&nbsp;
+	<SYNC Start=3001090>
+	  <P>Very good!
+	<SYNC Start=3002100>
+	  <P>&nbsp;
+	<SYNC Start=3004220>
+	  <P>What a catch!
+	<SYNC Start=3005780>
+	  <P>&nbsp;
+	<SYNC Start=3006150>
+	  <P>Well done, Tipu.<br>Isn't it easy?
+	<SYNC Start=3009350>
+	  <P>&nbsp;
+	<SYNC Start=3010220>
+	  <P>Now throw the ball.<br>I'll show you how to hit it.
+	<SYNC Start=3014550>
+	  <P>&nbsp;
+	<SYNC Start=3018140>
+	  <P>Throw.
+	<SYNC Start=3019140>
+	  <P>&nbsp;
+	<SYNC Start=3030750>
+	  <P>Wow!<br>That's some throw!
+	<SYNC Start=3032350>
+	  <P>&nbsp;
+	<SYNC Start=3032910>
+	  <P>You throw well, Tipu!
+	<SYNC Start=3035350>
+	  <P>&nbsp;
+	<SYNC Start=3037070>
+	  <P>Gauri.<br>Throw it here.
+	<SYNC Start=3038390>
+	  <P>&nbsp;
+	<SYNC Start=3041420>
+	  <P>Hey, Gauri!
+	<SYNC Start=3042750>
+	  <P>&nbsp;
+	<SYNC Start=3043220>
+	  <P>What are you doing?<br>Go heat the water.
+	<SYNC Start=3046430>
+	  <P>&nbsp;
+	<SYNC Start=3054580>
+	  <P>Here, Tipu.
+	<SYNC Start=3055860>
+	  <P>&nbsp;
+	<SYNC Start=3056340>
+	  <P>Now watch me this time.<br>It's very easy.
+	<SYNC Start=3059380>
+	  <P>&nbsp;
+	<SYNC Start=3070780>
+	  <P>Damn!<br>The stick slipped.
+	<SYNC Start=3072740>
+	  <P>&nbsp;
+	<SYNC Start=3075020>
+	  <P>My hands are sweaty.
+	<SYNC Start=3077340>
+	  <P>&nbsp;
+	<SYNC Start=3081630>
+	  <P>This should do the trick.
+	<SYNC Start=3083310>
+	  <P>&nbsp;
+	<SYNC Start=3085420>
+	  <P>Okay, Tipu, throw.
+	<SYNC Start=3086660>
+	  <P>&nbsp;
+	<SYNC Start=3088390>
+	  <P>And don't feel bad.
+	<SYNC Start=3089940>
+	  <P>&nbsp;
+	<SYNC Start=3090180>
+	  <P>This time I'll whack it.
+	<SYNC Start=3091820>
+	  <P>&nbsp;
+	<SYNC Start=3092030>
+	  <P>"I'll whack it."
+	<SYNC Start=3094380>
+	  <P>&nbsp;
+	<SYNC Start=3135660>
+	  <P>Wow!
+	<SYNC Start=3136660>
+	  <P>&nbsp;
+	<SYNC Start=3148140>
+	  <P>Hey, Bagha!<br>Throw the ball.
+	<SYNC Start=3150740>
+	  <P>&nbsp;
+	<SYNC Start=3174140>
+	  <P>- May I say something, Father?<br>- What?
+	<SYNC Start=3177260>
+	  <P>&nbsp;
+	<SYNC Start=3177500>
+	  <P>I feel Bhuvan is doing<br>the right thing.
+	<SYNC Start=3181150>
+	  <P>&nbsp;
+	<SYNC Start=3181830>
+	  <P>All right.<br>Go see if the water's boiling.
+	<SYNC Start=3184750>
+	  <P>&nbsp;
+	<SYNC Start=3207550>
+	  <P>That's it, Bagha.<br>Hit it hard.
+	<SYNC Start=3210270>
+	  <P>&nbsp;
+	<SYNC Start=3213830>
+	  <P>Well done, Bagha!
+	<SYNC Start=3215350>
+	  <P>&nbsp;
+	<SYNC Start=3233310>
+	  <P>Bhuvan, like Bagha,<br>I am also with you.
+	<SYNC Start=3236950>
+	  <P>&nbsp;
+	<SYNC Start=3277840>
+	  <P>Who are they, Father?
+	<SYNC Start=3279360>
+	  <P>&nbsp;
+	<SYNC Start=3279590>
+	  <P>Ramprasad and Namdeo.<br>Chiefs of Tanipura and Bhind.
+	<SYNC Start=3283040>
+	  <P>&nbsp;
+	<SYNC Start=3290040>
+	  <P>But with so many people ...
+	<SYNC Start=3292550>
+	  <P>&nbsp;
+	<SYNC Start=3296960>
+	  <P>- Who is Bhuvan?<br>- Bhuvan?
+	<SYNC Start=3299760>
+	  <P>&nbsp;
+	<SYNC Start=3299960>
+	  <P>There he is.
+	<SYNC Start=3301320>
+	  <P>&nbsp;
+	<SYNC Start=3304320>
+	  <P>There he is!
+	<SYNC Start=3305950>
+	  <P>&nbsp;
+	<SYNC Start=3314990>
+	  <P>Stop, Ramprasad!
+	<SYNC Start=3317160>
+	  <P>&nbsp;
+	<SYNC Start=3317520>
+	  <P>- Respect the code of honour!<br>- I've no quarrel with your village.
+	<SYNC Start=3322150>
+	  <P>&nbsp;
+	<SYNC Start=3322390>
+	  <P>We've come to teach Bhuvan a lesson!
+	<SYNC Start=3324950>
+	  <P>&nbsp;
+	<SYNC Start=3326400>
+	  <P>Why should we suffer<br>for what he's done?
+	<SYNC Start=3329160>
+	  <P>&nbsp;
+	<SYNC Start=3329360>
+	  <P>You bigmouth!<br>Who are you to decide for us?
+	<SYNC Start=3332430>
+	  <P>&nbsp;
+	<SYNC Start=3332640>
+	  <P>- I've done what is good for us.<br>- To hell with your good!
+	<SYNC Start=3336320>
+	  <P>&nbsp;
+	<SYNC Start=3336520>
+	  <P>You must beg for forgiveness<br>from the "sahib"!
+	<SYNC Start=3339350>
+	  <P>&nbsp;
+	<SYNC Start=3339590>
+	  <P>As for your game,<br>to hell with that!
+	<SYNC Start=3342240>
+	  <P>&nbsp;
+	<SYNC Start=3342440>
+	  <P>No? You are asking for trouble!
+	<SYNC Start=3345320>
+	  <P>&nbsp;
+	<SYNC Start=3345520>
+	  <P>Be calm, Ramprasad!<br>It'll be as you say.
+	<SYNC Start=3348160>
+	  <P>&nbsp;
+	<SYNC Start=3348390>
+	  <P>- But, Chief--<br>- Enough!
+	<SYNC Start=3350070>
+	  <P>&nbsp;
+	<SYNC Start=3350280>
+	  <P>No more buts!
+	<SYNC Start=3352350>
+	  <P>&nbsp;
+	<SYNC Start=3355600>
+	  <P>We must go to our Rajahji.
+	<SYNC Start=3357760>
+	  <P>&nbsp;
+	<SYNC Start=3362040>
+	  <P>The issue is not about the temple,<br>"lagaan" or the game.
+	<SYNC Start=3366960>
+	  <P>&nbsp;
+	<SYNC Start=3367360>
+	  <P>But of British honour.
+	<SYNC Start=3369560>
+	  <P>&nbsp;
+	<SYNC Start=3370800>
+	  <P>And Captain Russell's ego.
+	<SYNC Start=3374680>
+	  <P>&nbsp;
+	<SYNC Start=3374880>
+	  <P>Talk to the white "sahib" once more,<br>Your Highness.
+	<SYNC Start=3378390>
+	  <P>&nbsp;
+	<SYNC Start=3378630>
+	  <P>Forgive him, Your Highness.<br>He is naïve.
+	<SYNC Start=3381280>
+	  <P>&nbsp;
+	<SYNC Start=3381510>
+	  <P>- He got carried away.<br>- It doesn't matter what he is.
+	<SYNC Start=3385880>
+	  <P>&nbsp;
+	<SYNC Start=3386110>
+	  <P>He has challenged the British<br>on your behalf.
+	<SYNC Start=3389150>
+	  <P>&nbsp;
+	<SYNC Start=3389390>
+	  <P>He is ready to beg for forgiveness.<br>All of us are.
+	<SYNC Start=3393950>
+	  <P>&nbsp;
+	<SYNC Start=3394680>
+	  <P>I'll agree to 100 whiplashes.
+	<SYNC Start=3396960>
+	  <P>&nbsp;
+	<SYNC Start=3397640>
+	  <P>- But I won't beg for forgiveness.<br>- What?!
+	<SYNC Start=3400320>
+	  <P>&nbsp;
+	<SYNC Start=3400520>
+	  <P>It's too late for forgiving.
+	<SYNC Start=3402840>
+	  <P>&nbsp;
+	<SYNC Start=3403080>
+	  <P>You must pay for what you have done.
+	<SYNC Start=3405770>
+	  <P>&nbsp;
+	<SYNC Start=3407250>
+	  <P>So what shall we do then?
+	<SYNC Start=3409210>
+	  <P>&nbsp;
+	<SYNC Start=3411650>
+	  <P>I suggest you learn their game.
+	<SYNC Start=3414170>
+	  <P>&nbsp;
+	<SYNC Start=3422730>
+	  <P>Why are all these other guys<br>standing in the field?
+	<SYNC Start=3426210>
+	  <P>&nbsp;
+	<SYNC Start=3426440>
+	  <P>Like in "gilli-danda,"<br>to catch the "gilli." I mean, the ball.
+	<SYNC Start=3431410>
+	  <P>&nbsp;
+	<SYNC Start=3432610>
+	  <P>How's that?!
+	<SYNC Start=3433690>
+	  <P>&nbsp;
+	<SYNC Start=3435200>
+	  <P>That is out, sir.
+	<SYNC Start=3436960>
+	  <P>&nbsp;
+	<SYNC Start=3440610>
+	  <P>Why does he point his finger<br>at the sky?
+	<SYNC Start=3443450>
+	  <P>&nbsp;
+	<SYNC Start=3443680>
+	  <P>I'm trying to understand.
+	<SYNC Start=3445600>
+	  <P>&nbsp;
+	<SYNC Start=3445810>
+	  <P>He's thinking of his mother.<br>She's sitting up there, right?
+	<SYNC Start=3449770>
+	  <P>&nbsp;
+	<SYNC Start=3452280>
+	  <P>Bowl it on the offside!
+	<SYNC Start=3454560>
+	  <P>&nbsp;
+	<SYNC Start=3479770>
+	  <P>Excuse me.<br>I'll just take a walk.
+	<SYNC Start=3482570>
+	  <P>&nbsp;
+	<SYNC Start=3494680>
+	  <P>Quiet.
+	<SYNC Start=3495960>
+	  <P>&nbsp;
+	<SYNC Start=3499890>
+	  <P>This bug's after me.
+	<SYNC Start=3501330>
+	  <P>&nbsp;
+	<SYNC Start=3502050>
+	  <P>Quiet!
+	<SYNC Start=3503570>
+	  <P>&nbsp;
+	<SYNC Start=3509120>
+	  <P>Quiet. The white lady is coming here.
+	<SYNC Start=3512570>
+	  <P>&nbsp;
+	<SYNC Start=3523000>
+	  <P>Damn, it's got in!
+	<SYNC Start=3524960>
+	  <P>&nbsp;
+	<SYNC Start=3526570>
+	  <P>Oh, no! It'll kill me!
+	<SYNC Start=3529160>
+	  <P>&nbsp;
+	<SYNC Start=3535010>
+	  <P>Miss? What happened?<br>These darkies bothering you?
+	<SYNC Start=3538410>
+	  <P>&nbsp;
+	<SYNC Start=3538610>
+	  <P>It's okay. They're farmers.<br>I know them.
+	<SYNC Start=3541570>
+	  <P>&nbsp;
+	<SYNC Start=3541770>
+	  <P>Thank you.<br>Carry on your game.
+	<SYNC Start=3544170>
+	  <P>&nbsp;
+	<SYNC Start=3550570>
+	  <P>I know what you were doing.
+	<SYNC Start=3552570>
+	  <P>&nbsp;
+	<SYNC Start=3552770>
+	  <P>You were trying to learn the game.
+	<SYNC Start=3555170>
+	  <P>&nbsp;
+	<SYNC Start=3555920>
+	  <P>No, "memsahib." We're only<br>trying to learn the game.
+	<SYNC Start=3559370>
+	  <P>&nbsp;
+	<SYNC Start=3560970>
+	  <P>Oh, I thought you were<br>trying to learn the game.
+	<SYNC Start=3564760>
+	  <P>&nbsp;
+	<SYNC Start=3565200>
+	  <P>What's she saying, Bhuvan "Bhaiyya"?
+	<SYNC Start=3567890>
+	  <P>&nbsp;
+	<SYNC Start=3568120>
+	  <P>I think she's telling us to go.
+	<SYNC Start=3571160>
+	  <P>&nbsp;
+	<SYNC Start=3571530>
+	  <P>- All right, we're going.<br>- No.
+	<SYNC Start=3573840>
+	  <P>&nbsp;
+	<SYNC Start=3574410>
+	  <P>Wait.
+	<SYNC Start=3575770>
+	  <P>&nbsp;
+	<SYNC Start=3578010>
+	  <P>Ram Singh!
+	<SYNC Start=3579560>
+	  <P>&nbsp;
+	<SYNC Start=3584450>
+	  <P>Yes, "memsahib."<br>What can I do?
+	<SYNC Start=3586410>
+	  <P>&nbsp;
+	<SYNC Start=3586640>
+	  <P>Tell them that I would like<br>to help them learn the game.
+	<SYNC Start=3590370>
+	  <P>&nbsp;
+	<SYNC Start=3590570>
+	  <P>Yes, "memsahib."
+	<SYNC Start=3591570>
+	  <P>&nbsp;
+	<SYNC Start=3591800>
+	  <P>"Memsahib" says she'll help you<br>understand--
+	<SYNC Start=3594970>
+	  <P>&nbsp;
+	<SYNC Start=3596640>
+	  <P>"Memsahib," just a minute.
+	<SYNC Start=3598560>
+	  <P>&nbsp;
+	<SYNC Start=3602460>
+	  <P>If Russell "sahib--"?<br>Russell "sahib" will get angry.
+	<SYNC Start=3605900>
+	  <P>&nbsp;
+	<SYNC Start=3606130>
+	  <P>- Ram Singh, can I trust you?<br>- Of course, "memsahib."
+	<SYNC Start=3609890>
+	  <P>&nbsp;
+	<SYNC Start=3610100>
+	  <P>No one should know about this.
+	<SYNC Start=3612780>
+	  <P>&nbsp;
+	<SYNC Start=3614260>
+	  <P>All right, "memsahib."
+	<SYNC Start=3616020>
+	  <P>&nbsp;
+	<SYNC Start=3616250>
+	  <P>No one will know.
+	<SYNC Start=3618370>
+	  <P>&nbsp;
+	<SYNC Start=3620860>
+	  <P>"Memsahib" says she wants to help you<br>understand the game.
+	<SYNC Start=3625220>
+	  <P>&nbsp;
+	<SYNC Start=3625450>
+	  <P>Really?
+	<SYNC Start=3626570>
+	  <P>&nbsp;
+	<SYNC Start=3628090>
+	  <P>But why?<br>After all, she's white too.
+	<SYNC Start=3631170>
+	  <P>&nbsp;
+	<SYNC Start=3631740>
+	  <P>The man wants to know ...
+	<SYNC Start=3633900>
+	  <P>&nbsp;
+	<SYNC Start=3634130>
+	  <P>... why you want to do this<br>as you too are British.
+	<SYNC Start=3637580>
+	  <P>&nbsp;
+	<SYNC Start=3639180>
+	  <P>Tell him I know what happened is unfair<br>and I want to ...
+	<SYNC Start=3643100>
+	  <P>&nbsp;
+	<SYNC Start=3643330>
+	  <P>... give them a fair chance.
+	<SYNC Start=3645410>
+	  <P>&nbsp;
+	<SYNC Start=3645650>
+	  <P>"Memsahib" knows injustice<br>has been done.
+	<SYNC Start=3648580>
+	  <P>&nbsp;
+	<SYNC Start=3648780>
+	  <P>That's why she wants to give you<br>an equal chance.
+	<SYNC Start=3652780>
+	  <P>&nbsp;
+	<SYNC Start=3653650>
+	  <P>We are pleased to accept.<br>Thank you.
+	<SYNC Start=3656490>
+	  <P>&nbsp;
+	<SYNC Start=3656730>
+	  <P>He's happy to have your help<br>and thanks you.
+	<SYNC Start=3659570>
+	  <P>&nbsp;
+	<SYNC Start=3659730>
+	  <P>- Good.<br>- Wonderful!
+	<SYNC Start=3662380>
+	  <P>&nbsp;
+	<SYNC Start=3663380>
+	  <P>Tell him I'll meet him tomorrow.
+	<SYNC Start=3665690>
+	  <P>&nbsp;
+	<SYNC Start=3665930>
+	  <P>Same time, but not here.
+	<SYNC Start=3669050>
+	  <P>&nbsp;
+	<SYNC Start=3669290>
+	  <P>And not in their village.
+	<SYNC Start=3671170>
+	  <P>&nbsp;
+	<SYNC Start=3671410>
+	  <P>Some other place?
+	<SYNC Start=3673170>
+	  <P>&nbsp;
+	<SYNC Start=3673410>
+	  <P>She'll see you tomorrow,<br>same time. But not here.
+	<SYNC Start=3676730>
+	  <P>&nbsp;
+	<SYNC Start=3676970>
+	  <P>Nor in the village.<br>Have you any other place?
+	<SYNC Start=3680050>
+	  <P>&nbsp;
+	<SYNC Start=3680890>
+	  <P>I got it.
+	<SYNC Start=3682410>
+	  <P>&nbsp;
+	<SYNC Start=3682620>
+	  <P>Behind the hill near the village.
+	<SYNC Start=3685410>
+	  <P>&nbsp;
+	<SYNC Start=3685820>
+	  <P>You can meet him next to the hill,<br>near the village.
+	<SYNC Start=3689820>
+	  <P>&nbsp;
+	<SYNC Start=3690050>
+	  <P>- I know the place.<br>- All right.
+	<SYNC Start=3692220>
+	  <P>&nbsp;
+	<SYNC Start=3694770>
+	  <P>What's his name?
+	<SYNC Start=3696050>
+	  <P>&nbsp;
+	<SYNC Start=3696460>
+	  <P>"Memsahib" wants to know your names.
+	<SYNC Start=3699210>
+	  <P>&nbsp;
+	<SYNC Start=3700020>
+	  <P>He's Guran. That's Bagha.<br>This is Tipu.
+	<SYNC Start=3702850>
+	  <P>&nbsp;
+	<SYNC Start=3703090>
+	  <P>And I am Bhuvan.
+	<SYNC Start=3704460>
+	  <P>&nbsp;
+	<SYNC Start=3706900>
+	  <P>No, no. Bhuvan.
+	<SYNC Start=3707980>
+	  <P>&nbsp;
+	<SYNC Start=3715490>
+	  <P>That one came out right!
+	<SYNC Start=3717610>
+	  <P>&nbsp;
+	<SYNC Start=3719170>
+	  <P>- My name is Elizabeth.<br>"-Memsahib"'s name is Elizabeth.
+	<SYNC Start=3722820>
+	  <P>&nbsp;
+	<SYNC Start=3723050>
+	  <P>Ali ... and what?
+	<SYNC Start=3724810>
+	  <P>&nbsp;
+	<SYNC Start=3725820>
+	  <P>My God! I'll twist my tongue<br>saying that!
+	<SYNC Start=3729020>
+	  <P>&nbsp;
+	<SYNC Start=3730530>
+	  <P>It's a nice name.<br>Whatever it may be.
+	<SYNC Start=3733610>
+	  <P>&nbsp;
+	<SYNC Start=3738020>
+	  <P>"Memsahib," we're leaving.<br>Namaste.
+	<SYNC Start=3740700>
+	  <P>&nbsp;
+	<SYNC Start=3742300>
+	  <P>Come on.
+	<SYNC Start=3743540>
+	  <P>&nbsp;
+	<SYNC Start=3756610>
+	  <P>He'll never agree, Bhuvan.
+	<SYNC Start=3759330>
+	  <P>&nbsp;
+	<SYNC Start=3759770>
+	  <P>Father.
+	<SYNC Start=3761050>
+	  <P>&nbsp;
+	<SYNC Start=3764330>
+	  <P>He will.
+	<SYNC Start=3765660>
+	  <P>&nbsp;
+	<SYNC Start=3768410>
+	  <P>- Greetings, "Bhabi."<br>- How are you?
+	<SYNC Start=3770690>
+	  <P>&nbsp;
+	<SYNC Start=3770930>
+	  <P>What are you up to, you imp?
+	<SYNC Start=3773250>
+	  <P>&nbsp;
+	<SYNC Start=3774700>
+	  <P>- Have you eaten, Goli?<br>- Yes.
+	<SYNC Start=3777500>
+	  <P>&nbsp;
+	<SYNC Start=3777730>
+	  <P>I didn't see you all day.
+	<SYNC Start=3780050>
+	  <P>&nbsp;
+	<SYNC Start=3780290>
+	  <P>I was busy preparing for the game.
+	<SYNC Start=3784050>
+	  <P>&nbsp;
+	<SYNC Start=3784530>
+	  <P>How's your game coming along?
+	<SYNC Start=3788460>
+	  <P>&nbsp;
+	<SYNC Start=3788660>
+	  <P>It's just the beginning.<br>We're learning.
+	<SYNC Start=3791900>
+	  <P>&nbsp;
+	<SYNC Start=3795140>
+	  <P>Do you know everyone<br>is making fun of you?
+	<SYNC Start=3798250>
+	  <P>&nbsp;
+	<SYNC Start=3798460>
+	  <P>They say you've got fine players.
+	<SYNC Start=3800620>
+	  <P>&nbsp;
+	<SYNC Start=3800820>
+	  <P>Bagha and Guran. One knows<br>only how to beat the drum.
+	<SYNC Start=3804830>
+	  <P>&nbsp;
+	<SYNC Start=3805030>
+	  <P>The other keeps staring<br>like a madman.
+	<SYNC Start=3807910>
+	  <P>&nbsp;
+	<SYNC Start=3808140>
+	  <P>Oh, no!
+	<SYNC Start=3809470>
+	  <P>&nbsp;
+	<SYNC Start=3811140>
+	  <P>- It's the others who say this.<br>- Really?
+	<SYNC Start=3814220>
+	  <P>&nbsp;
+	<SYNC Start=3814910>
+	  <P>We also have a white lady with us.<br>She teaches us the game.
+	<SYNC Start=3819270>
+	  <P>&nbsp;
+	<SYNC Start=3819550>
+	  <P>A white lady?
+	<SYNC Start=3821460>
+	  <P>&nbsp;
+	<SYNC Start=3822670>
+	  <P>- Stop lying.<br>- Why don't you ask them?
+	<SYNC Start=3825430>
+	  <P>&nbsp;
+	<SYNC Start=3829150>
+	  <P>Is this true, Gauri?
+	<SYNC Start=3831260>
+	  <P>&nbsp;
+	<SYNC Start=3831700>
+	  <P>Yes. There is some white lady.
+	<SYNC Start=3834150>
+	  <P>&nbsp;
+	<SYNC Start=3836420>
+	  <P>You're really going to play?
+	<SYNC Start=3838870>
+	  <P>&nbsp;
+	<SYNC Start=3839900>
+	  <P>Is there a choice?
+	<SYNC Start=3842070>
+	  <P>&nbsp;
+	<SYNC Start=3842540>
+	  <P>I don't have so much land like you<br>that I can sell off a bit.
+	<SYNC Start=3846660>
+	  <P>&nbsp;
+	<SYNC Start=3846870>
+	  <P>What do you mean? Why should I<br>sell my land? I'm not selling.
+	<SYNC Start=3851150>
+	  <P>&nbsp;
+	<SYNC Start=3851350>
+	  <P>Then is your grandmother<br>going to pay the "lagaan"?
+	<SYNC Start=3854660>
+	  <P>&nbsp;
+	<SYNC Start=3860300>
+	  <P>Well, I'd better be off.
+	<SYNC Start=3862940>
+	  <P>&nbsp;
+	<SYNC Start=3867310>
+	  <P>Hey, Bhuvan.
+	<SYNC Start=3868870>
+	  <P>&nbsp;
+	<SYNC Start=3871140>
+	  <P>- Could I be of any use?<br>- No, but your buffalo might be!
+	<SYNC Start=3874700>
+	  <P>&nbsp;
+	<SYNC Start=3874910>
+	  <P>- You're the most useful to us of all.<br>- How's that?
+	<SYNC Start=3878150>
+	  <P>&nbsp;
+	<SYNC Start=3878300>
+	  <P>You throw the ball the way<br>you swing your slingshot.
+	<SYNC Start=3881660>
+	  <P>&nbsp;
+	<SYNC Start=3881820>
+	  <P>What deadly aim you have!
+	<SYNC Start=3884470>
+	  <P>&nbsp;
+	<SYNC Start=3885710>
+	  <P>Slingshot ...
+	<SYNC Start=3887470>
+	  <P>&nbsp;
+	<SYNC Start=3891300>
+	  <P>Then we won't have to pay "lagaan"?
+	<SYNC Start=3894060>
+	  <P>&nbsp;
+	<SYNC Start=3894300>
+	  <P>Yes, Goli.
+	<SYNC Start=3895860>
+	  <P>&nbsp;
+	<SYNC Start=3898700>
+	  <P>We'll never go hungry.
+	<SYNC Start=3901460>
+	  <P>&nbsp;
+	<SYNC Start=3903630>
+	  <P>Will our dream come true?
+	<SYNC Start=3906070>
+	  <P>&nbsp;
+	<SYNC Start=3907740>
+	  <P>No, Bhuvan. It hurts too much<br>to dream like that.
+	<SYNC Start=3911460>
+	  <P>&nbsp;
+	<SYNC Start=3913630>
+	  <P>Have faith, Goli.
+	<SYNC Start=3915270>
+	  <P>&nbsp;
+	<SYNC Start=3915740>
+	  <P>He who has faith and courage<br>in his heart shall win in the end.
+	<SYNC Start=3920590>
+	  <P>&nbsp;
+	<SYNC Start=3920820>
+	  <P>Beautifully said!
+	<SYNC Start=3922460>
+	  <P>&nbsp;
+	<SYNC Start=3928660>
+	  <P>Every saint
+	<SYNC Start=3931300>
+	  <P>&nbsp;
+	<SYNC Start=3932550>
+	  <P>And seer has said
+	<SYNC Start=3936550>
+	  <P>&nbsp;
+	<SYNC Start=3938220>
+	  <P>He who has truth and courage
+	<SYNC Start=3942740>
+	  <P>&nbsp;
+	<SYNC Start=3943500>
+	  <P>In his heart
+	<SYNC Start=3945420>
+	  <P>&nbsp;
+	<SYNC Start=3946630>
+	  <P>It is he
+	<SYNC Start=3948940>
+	  <P>&nbsp;
+	<SYNC Start=3949420>
+	  <P>Who wins in the end
+	<SYNC Start=3952390>
+	  <P>&nbsp;
+	<SYNC Start=3969070>
+	  <P>Come on, come on
+	<SYNC Start=3971510>
+	  <P>&nbsp;
+	<SYNC Start=3971710>
+	  <P>Come on, come on
+	<SYNC Start=3973980>
+	  <P>&nbsp;
+	<SYNC Start=3974550>
+	  <P>However long the path may be
+	<SYNC Start=3977900>
+	  <P>&nbsp;
+	<SYNC Start=3978140>
+	  <P>This body of yours<br>Shall not grow weary
+	<SYNC Start=3981460>
+	  <P>&nbsp;
+	<SYNC Start=3982550>
+	  <P>Come on
+	<SYNC Start=3985100>
+	  <P>&nbsp;
+	<SYNC Start=3985340>
+	  <P>Hear the call of the road
+	<SYNC Start=3987460>
+	  <P>&nbsp;
+	<SYNC Start=3987700>
+	  <P>Let not the road<br>Remain waiting for you
+	<SYNC Start=3990780>
+	  <P>&nbsp;
+	<SYNC Start=3991150>
+	  <P>You come along
+	<SYNC Start=3992540>
+	  <P>&nbsp;
+	<SYNC Start=3993750>
+	  <P>You are the king of this earth
+	<SYNC Start=3996270>
+	  <P>&nbsp;
+	<SYNC Start=3996470>
+	  <P>Know this for sure
+	<SYNC Start=3998740>
+	  <P>&nbsp;
+	<SYNC Start=3999110>
+	  <P>Go forth<br>And meet hardship head on
+	<SYNC Start=4001790>
+	  <P>&nbsp;
+	<SYNC Start=4001990>
+	  <P>Don't ever accept defeat
+	<SYNC Start=4004510>
+	  <P>&nbsp;
+	<SYNC Start=4004830>
+	  <P>Listen, my friend
+	<SYNC Start=4006870>
+	  <P>&nbsp;
+	<SYNC Start=4007110>
+	  <P>What is this fear you have?
+	<SYNC Start=4009870>
+	  <P>&nbsp;
+	<SYNC Start=4010110>
+	  <P>This earth is ours
+	<SYNC Start=4012390>
+	  <P>&nbsp;
+	<SYNC Start=4012630>
+	  <P>So is the sky
+	<SYNC Start=4015120>
+	  <P>&nbsp;
+	<SYNC Start=4015480>
+	  <P>Listen, my friend
+	<SYNC Start=4017880>
+	  <P>&nbsp;
+	<SYNC Start=4018080>
+	  <P>What is this fear you have?
+	<SYNC Start=4020760>
+	  <P>&nbsp;
+	<SYNC Start=4025760>
+	  <P>You come along
+	<SYNC Start=4027480>
+	  <P>&nbsp;
+	<SYNC Start=4061480>
+	  <P>Hear me, my friend
+	<SYNC Start=4064400>
+	  <P>&nbsp;
+	<SYNC Start=4067080>
+	  <P>What's in your heart
+	<SYNC Start=4069120>
+	  <P>&nbsp;
+	<SYNC Start=4069350>
+	  <P>Is in my heart too
+	<SYNC Start=4072000>
+	  <P>&nbsp;
+	<SYNC Start=4072200>
+	  <P>The dream you have
+	<SYNC Start=4074710>
+	  <P>&nbsp;
+	<SYNC Start=4074950>
+	  <P>Is also my dream in life
+	<SYNC Start=4077270>
+	  <P>&nbsp;
+	<SYNC Start=4081870>
+	  <P>Yes, we go on
+	<SYNC Start=4085070>
+	  <P>&nbsp;
+	<SYNC Start=4085280>
+	  <P>Our eyes lit with hope
+	<SYNC Start=4088000>
+	  <P>&nbsp;
+	<SYNC Start=4088360>
+	  <P>May this light of our hope
+	<SYNC Start=4090670>
+	  <P>&nbsp;
+	<SYNC Start=4090880>
+	  <P>Never go out
+	<SYNC Start=4093320>
+	  <P>&nbsp;
+	<SYNC Start=4093750>
+	  <P>May never a storm
+	<SYNC Start=4096680>
+	  <P>&nbsp;
+	<SYNC Start=4096880>
+	  <P>Put out this light
+	<SYNC Start=4098630>
+	  <P>&nbsp;
+	<SYNC Start=4101080>
+	  <P>Listen, my friend
+	<SYNC Start=4103480>
+	  <P>&nbsp;
+	<SYNC Start=4103710>
+	  <P>What is this fear you have
+	<SYNC Start=4106230>
+	  <P>&nbsp;
+	<SYNC Start=4106440>
+	  <P>This earth is ours
+	<SYNC Start=4108790>
+	  <P>&nbsp;
+	<SYNC Start=4109110>
+	  <P>So is the sky
+	<SYNC Start=4111600>
+	  <P>&nbsp;
+	<SYNC Start=4168480>
+	  <P>Listen, my friend
+	<SYNC Start=4170960>
+	  <P>&nbsp;
+	<SYNC Start=4173960>
+	  <P>This balmy easterly breeze
+	<SYNC Start=4176510>
+	  <P>&nbsp;
+	<SYNC Start=4176750>
+	  <P>Will cast its intoxicating spell
+	<SYNC Start=4179200>
+	  <P>&nbsp;
+	<SYNC Start=4179430>
+	  <P>If we call out in unison
+	<SYNC Start=4181750>
+	  <P>&nbsp;
+	<SYNC Start=4182320>
+	  <P>The season of flowers
+	<SYNC Start=4184800>
+	  <P>&nbsp;
+	<SYNC Start=4186670>
+	  <P>Will also come
+	<SYNC Start=4188640>
+	  <P>&nbsp;
+	<SYNC Start=4189000>
+	  <P>Happy days shall be here again
+	<SYNC Start=4192110>
+	  <P>&nbsp;
+	<SYNC Start=4192320>
+	  <P>With no trace of sorrow
+	<SYNC Start=4195040>
+	  <P>&nbsp;
+	<SYNC Start=4196950>
+	  <P>Let's together create
+	<SYNC Start=4199160>
+	  <P>&nbsp;
+	<SYNC Start=4199360>
+	  <P>A festival of joyous colour
+	<SYNC Start=4201870>
+	  <P>&nbsp;
+	<SYNC Start=4202110>
+	  <P>Tell me why you stay
+	<SYNC Start=4204480>
+	  <P>&nbsp;
+	<SYNC Start=4204690>
+	  <P>Aloof this way
+	<SYNC Start=4207090>
+	  <P>&nbsp;
+	<SYNC Start=4208290>
+	  <P>Listen, my friend
+	<SYNC Start=4210600>
+	  <P>&nbsp;
+	<SYNC Start=4210890>
+	  <P>What is this fear you have?
+	<SYNC Start=4212960>
+	  <P>&nbsp;
+	<SYNC Start=4213480>
+	  <P>This earth is ours
+	<SYNC Start=4215930>
+	  <P>&nbsp;
+	<SYNC Start=4216130>
+	  <P>So is the sky
+	<SYNC Start=4218570>
+	  <P>&nbsp;
+	<SYNC Start=4233640>
+	  <P>Every saint
+	<SYNC Start=4236000>
+	  <P>&nbsp;
+	<SYNC Start=4237280>
+	  <P>And seer has said
+	<SYNC Start=4241730>
+	  <P>&nbsp;
+	<SYNC Start=4242880>
+	  <P>He who has truth and courage
+	<SYNC Start=4245680>
+	  <P>&nbsp;
+	<SYNC Start=4245920>
+	  <P>In his heart
+	<SYNC Start=4248720>
+	  <P>&nbsp;
+	<SYNC Start=4250520>
+	  <P>It is he
+	<SYNC Start=4253170>
+	  <P>&nbsp;
+	<SYNC Start=4253370>
+	  <P>Who wins in the end
+	<SYNC Start=4255530>
+	  <P>&nbsp;
+	<SYNC Start=4323330>
+	  <P>That lady is not here yet.
+	<SYNC Start=4325730>
+	  <P>&nbsp;
+	<SYNC Start=4325930>
+	  <P>- I'm here.<br>- We're waiting for the white lady.
+	<SYNC Start=4329610>
+	  <P>&nbsp;
+	<SYNC Start=4329890>
+	  <P>Not a girl but a lady!
+	<SYNC Start=4332290>
+	  <P>&nbsp;
+	<SYNC Start=4332920>
+	  <P>There she is, Bhuvan "Bhaiyya"!
+	<SYNC Start=4335280>
+	  <P>&nbsp;
+	<SYNC Start=4346050>
+	  <P>Tell me something.
+	<SYNC Start=4347410>
+	  <P>&nbsp;
+	<SYNC Start=4347640>
+	  <P>Why did that witch agree to help you?
+	<SYNC Start=4350330>
+	  <P>&nbsp;
+	<SYNC Start=4350560>
+	  <P>She took a fancy<br>to Bhuvan "Bhaiyya."
+	<SYNC Start=4353400>
+	  <P>&nbsp;
+	<SYNC Start=4353640>
+	  <P>Is that so?
+	<SYNC Start=4354680>
+	  <P>&nbsp;
+	<SYNC Start=4354920>
+	  <P>Cheeky brat!
+	<SYNC Start=4356320>
+	  <P>&nbsp;
+	<SYNC Start=4383090>
+	  <P>Namaste.
+	<SYNC Start=4384730>
+	  <P>&nbsp;
+	<SYNC Start=4384960>
+	  <P>Namaste.
+	<SYNC Start=4386880>
+	  <P>&nbsp;
+	<SYNC Start=4387570>
+	  <P>Who are they?
+	<SYNC Start=4388930>
+	  <P>&nbsp;
+	<SYNC Start=4389160>
+	  <P>Wow!<br>You learned our language very fast.
+	<SYNC Start=4392480>
+	  <P>&nbsp;
+	<SYNC Start=4394360>
+	  <P>Ram Singh taught me.<br>Who are they?
+	<SYNC Start=4397120>
+	  <P>&nbsp;
+	<SYNC Start=4397690>
+	  <P>You know Tipu, Bagha and Guran.
+	<SYNC Start=4400090>
+	  <P>&nbsp;
+	<SYNC Start=4400290>
+	  <P>This is Goli. He's lsar "Kaka."<br>And this is Gauri.
+	<SYNC Start=4404090>
+	  <P>&nbsp;
+	<SYNC Start=4404780>
+	  <P>Gauri.
+	<SYNC Start=4406100>
+	  <P>&nbsp;
+	<SYNC Start=4407050>
+	  <P>We'll meet again.
+	<SYNC Start=4409290>
+	  <P>&nbsp;
+	<SYNC Start=4409660>
+	  <P>"Memsahib," that was wrong.
+	<SYNC Start=4411620>
+	  <P>&nbsp;
+	<SYNC Start=4411820>
+	  <P>You should say,<br>"I'm glad to meet you."
+	<SYNC Start=4415500>
+	  <P>&nbsp;
+	<SYNC Start=4415930>
+	  <P>Gosh!
+	<SYNC Start=4417090>
+	  <P>&nbsp;
+	<SYNC Start=4417460>
+	  <P>I'm sorry.
+	<SYNC Start=4418730>
+	  <P>&nbsp;
+	<SYNC Start=4418970>
+	  <P>I'm glad to meet you.
+	<SYNC Start=4420850>
+	  <P>&nbsp;
+	<SYNC Start=4421980>
+	  <P>We're glad to meet you too.
+	<SYNC Start=4424490>
+	  <P>&nbsp;
+	<SYNC Start=4426980>
+	  <P>- What do you know about the game?<br>- What?
+	<SYNC Start=4429940>
+	  <P>&nbsp;
+	<SYNC Start=4430170>
+	  <P>"Memsahib" wants to know<br>what you know about the game.
+	<SYNC Start=4433730>
+	  <P>&nbsp;
+	<SYNC Start=4433970>
+	  <P>Lots!
+	<SYNC Start=4435300>
+	  <P>&nbsp;
+	<SYNC Start=4435580>
+	  <P>There are six sticks.<br>Three on either side.
+	<SYNC Start=4438930>
+	  <P>&nbsp;
+	<SYNC Start=4439170>
+	  <P>Two fellows stand with planks<br>before the sticks.
+	<SYNC Start=4442490>
+	  <P>&nbsp;
+	<SYNC Start=4442700>
+	  <P>One runs near the sticks<br>and throws a ball.
+	<SYNC Start=4445900>
+	  <P>&nbsp;
+	<SYNC Start=4446100>
+	  <P>The other hits the ball<br>with his plank.
+	<SYNC Start=4448610>
+	  <P>&nbsp;
+	<SYNC Start=4448850>
+	  <P>And everyone runs<br>here and there.
+	<SYNC Start=4451130>
+	  <P>&nbsp;
+	<SYNC Start=4451370>
+	  <P>One of them grabs the ball<br>and gives it back.
+	<SYNC Start=4454690>
+	  <P>&nbsp;
+	<SYNC Start=4454900>
+	  <P>He throws the ball again<br>at the guy who twirls the plank.
+	<SYNC Start=4458900>
+	  <P>&nbsp;
+	<SYNC Start=4459100>
+	  <P>This goes on all day.
+	<SYNC Start=4461010>
+	  <P>&nbsp;
+	<SYNC Start=4461250>
+	  <P>Throw the ball, twirl the plank.<br>Throw and twirl. Right?
+	<SYNC Start=4465090>
+	  <P>&nbsp;
+	<SYNC Start=4465530>
+	  <P>"Memsahib," I can't translate all that.
+	<SYNC Start=4468290>
+	  <P>&nbsp;
+	<SYNC Start=4468700>
+	  <P>No need, Ram Singh.
+	<SYNC Start=4470610>
+	  <P>&nbsp;
+	<SYNC Start=4470850>
+	  <P>I understood most of that.
+	<SYNC Start=4472890>
+	  <P>&nbsp;
+	<SYNC Start=4473730>
+	  <P>He knows nothing.
+	<SYNC Start=4475490>
+	  <P>&nbsp;
+	<SYNC Start=4477010>
+	  <P>This is what a cricket field looks like.
+	<SYNC Start=4480330>
+	  <P>&nbsp;
+	<SYNC Start=4480570>
+	  <P>- This is the field.<br>- This is a cricket pitch.
+	<SYNC Start=4483690>
+	  <P>&nbsp;
+	<SYNC Start=4483900>
+	  <P>The game is played on this strip.
+	<SYNC Start=4486730>
+	  <P>&nbsp;
+	<SYNC Start=4486970>
+	  <P>There are three main aspects:<br>batting, bowling and fielding.
+	<SYNC Start=4491740>
+	  <P>&nbsp;
+	<SYNC Start=4491970>
+	  <P>There are three aspects:<br>Wielding the bat ...
+	<SYNC Start=4495220>
+	  <P>&nbsp;
+	<SYNC Start=4495420>
+	  <P>... throwing the ball<br>and guarding the field.
+	<SYNC Start=4498820>
+	  <P>&nbsp;
+	<SYNC Start=4499050>
+	  <P>Even our great-uncles won't<br>understand this.
+	<SYNC Start=4502090>
+	  <P>&nbsp;
+	<SYNC Start=4502780>
+	  <P>What did he say?
+	<SYNC Start=4504260>
+	  <P>&nbsp;
+	<SYNC Start=4504460>
+	  <P>This language, even his<br>ancestors won't understand.
+	<SYNC Start=4508100>
+	  <P>&nbsp;
+	<SYNC Start=4509970>
+	  <P>Better make it simpler.
+	<SYNC Start=4511940>
+	  <P>&nbsp;
+	<SYNC Start=4512140>
+	  <P>Cricket is played by two teams,<br>say yours and the English.
+	<SYNC Start=4516730>
+	  <P>&nbsp;
+	<SYNC Start=4516970>
+	  <P>Each team has 11 players.
+	<SYNC Start=4519490>
+	  <P>&nbsp;
+	<SYNC Start=4519730>
+	  <P>Five batters, five bowlers<br>and one wicketkeeper.
+	<SYNC Start=4523970>
+	  <P>&nbsp;
+	<SYNC Start=4553580>
+	  <P>Gauri.
+	<SYNC Start=4554900>
+	  <P>&nbsp;
+	<SYNC Start=4555530>
+	  <P>Gauri.
+	<SYNC Start=4557090>
+	  <P>&nbsp;
+	<SYNC Start=4557500>
+	  <P>Yes?
+	<SYNC Start=4558530>
+	  <P>&nbsp;
+	<SYNC Start=4558740>
+	  <P>What happened?
+	<SYNC Start=4560490>
+	  <P>&nbsp;
+	<SYNC Start=4561580>
+	  <P>What happened?
+	<SYNC Start=4563300>
+	  <P>&nbsp;
+	<SYNC Start=4564570>
+	  <P>- Nothing.<br>- Memsahib ...
+	<SYNC Start=4567050>
+	  <P>&nbsp;
+	<SYNC Start=4567260>
+	  <P>... I think we should leave.<br>It's getting late.
+	<SYNC Start=4570290>
+	  <P>&nbsp;
+	<SYNC Start=4570530>
+	  <P>This is enough for today.
+	<SYNC Start=4573130>
+	  <P>&nbsp;
+	<SYNC Start=4576250>
+	  <P>- We'll begin with a little prayer.<br>- Hari Om.
+	<SYNC Start=4579290>
+	  <P>&nbsp;
+	<SYNC Start=4579500>
+	  <P>Catch, Bagha.
+	<SYNC Start=4581100>
+	  <P>&nbsp;
+	<SYNC Start=4583500>
+	  <P>Everyone, try catching the ball.<br>Don't let it drop.
+	<SYNC Start=4587340>
+	  <P>&nbsp;
+	<SYNC Start=4587540>
+	  <P>Bhuvan, the white lady said<br>there must be 11 in a team.
+	<SYNC Start=4592090>
+	  <P>&nbsp;
+	<SYNC Start=4592300>
+	  <P>We are only five.
+	<SYNC Start=4593970>
+	  <P>&nbsp;
+	<SYNC Start=4594210>
+	  <P>Why five?<br>I'm here too.
+	<SYNC Start=4596090>
+	  <P>&nbsp;
+	<SYNC Start=4596330>
+	  <P>Whatever the white lady can do,<br>so can I.
+	<SYNC Start=4599540>
+	  <P>&nbsp;
+	<SYNC Start=4599740>
+	  <P>All right, Gauri.<br>We're six, not five.
+	<SYNC Start=4603300>
+	  <P>&nbsp;
+	<SYNC Start=4603620>
+	  <P>You are doing it for your village,<br>I'm sure the others will too.
+	<SYNC Start=4608820>
+	  <P>&nbsp;
+	<SYNC Start=4609060>
+	  <P>- If not, we'll drag them in anyway.<br>- Goli!
+	<SYNC Start=4611820>
+	  <P>&nbsp;
+	<SYNC Start=4612460>
+	  <P>Catch the ball!
+	<SYNC Start=4613910>
+	  <P>&nbsp;
+	<SYNC Start=4633950>
+	  <P>- Who threw this ball?<br>- Goli "Chacha" did?
+	<SYNC Start=4637110>
+	  <P>&nbsp;
+	<SYNC Start=4639070>
+	  <P>Goli, you jackass!
+	<SYNC Start=4640910>
+	  <P>&nbsp;
+	<SYNC Start=4641190>
+	  <P>I'm gonna get you today!
+	<SYNC Start=4643100>
+	  <P>&nbsp;
+	<SYNC Start=4643830>
+	  <P>There they go again.
+	<SYNC Start=4645620>
+	  <P>&nbsp;
+	<SYNC Start=4645910>
+	  <P>I'll crack you open like an egg!
+	<SYNC Start=4648500>
+	  <P>&nbsp;
+	<SYNC Start=4649590>
+	  <P>Will you two stop your squabbling?
+	<SYNC Start=4652660>
+	  <P>&nbsp;
+	<SYNC Start=4653670>
+	  <P>- lsar "Kaka," don't interfere!<br>- Stop it, you fools.
+	<SYNC Start=4658110>
+	  <P>&nbsp;
+	<SYNC Start=4664510>
+	  <P>Gauri ...
+	<SYNC Start=4665710>
+	  <P>&nbsp;
+	<SYNC Start=4665990>
+	  <P>... our sixth player.
+	<SYNC Start=4668100>
+	  <P>&nbsp;
+	<SYNC Start=4668340>
+	  <P>Bhura!
+	<SYNC Start=4669550>
+	  <P>&nbsp;
+	<SYNC Start=4671710>
+	  <P>Wow!
+	<SYNC Start=4672710>
+	  <P>&nbsp;
+	<SYNC Start=4673660>
+	  <P>Did you see how a ball is caught,<br>lsar "Kaka"?
+	<SYNC Start=4676700>
+	  <P>&nbsp;
+	<SYNC Start=4676910>
+	  <P>Amazing!<br>Like a bird diving for fish.
+	<SYNC Start=4680070>
+	  <P>&nbsp;
+	<SYNC Start=4680270>
+	  <P>- Oh, so that's how it's done?<br>- Of course!
+	<SYNC Start=4683780>
+	  <P>&nbsp;
+	<SYNC Start=4683990>
+	  <P>Bhura, show it to them once more.
+	<SYNC Start=4686500>
+	  <P>&nbsp;
+	<SYNC Start=4686740>
+	  <P>Especially to Goli here.<br>He just doesn't know how to catch.
+	<SYNC Start=4691340>
+	  <P>&nbsp;
+	<SYNC Start=4691550>
+	  <P>Everybody!<br>Go there and watch carefully.
+	<SYNC Start=4694620>
+	  <P>&nbsp;
+	<SYNC Start=4694860>
+	  <P>Come on, Goli.
+	<SYNC Start=4696310>
+	  <P>&nbsp;
+	<SYNC Start=4696740>
+	  <P>Ready, Bhura?
+	<SYNC Start=4698110>
+	  <P>&nbsp;
+	<SYNC Start=4700460>
+	  <P>Watch carefully.
+	<SYNC Start=4701780>
+	  <P>&nbsp;
+	<SYNC Start=4702910>
+	  <P>You see that?!
+	<SYNC Start=4703940>
+	  <P>&nbsp;
+	<SYNC Start=4704180>
+	  <P>Brilliant, Bhura.<br>That was something.
+	<SYNC Start=4707630>
+	  <P>&nbsp;
+	<SYNC Start=4707830>
+	  <P>But where did you learn that?
+	<SYNC Start=4710270>
+	  <P>&nbsp;
+	<SYNC Start=4710470>
+	  <P>I'll tell you.
+	<SYNC Start=4711590>
+	  <P>&nbsp;
+	<SYNC Start=4711790>
+	  <P>A ball travels in a straight line.<br>But hens run in a zigzag!
+	<SYNC Start=4716630>
+	  <P>&nbsp;
+	<SYNC Start=4716860>
+	  <P>To catch hens,<br>you've got to be quick.
+	<SYNC Start=4719860>
+	  <P>&nbsp;
+	<SYNC Start=4720070>
+	  <P>Like Bhura.
+	<SYNC Start=4721550>
+	  <P>&nbsp;
+	<SYNC Start=4721780>
+	  <P>Bhura will teach us now.<br>Won't you?
+	<SYNC Start=4724900>
+	  <P>&nbsp;
+	<SYNC Start=4725140>
+	  <P>I'll teach you, but ...
+	<SYNC Start=4727830>
+	  <P>&nbsp;
+	<SYNC Start=4728060>
+	  <P>But what?
+	<SYNC Start=4729510>
+	  <P>&nbsp;
+	<SYNC Start=4731990>
+	  <P>What about my hens?
+	<SYNC Start=4733900>
+	  <P>&nbsp;
+	<SYNC Start=4734710>
+	  <P>Bhura, these hens of yours<br>are a real pain!
+	<SYNC Start=4739030>
+	  <P>&nbsp;
+	<SYNC Start=4767030>
+	  <P>At ease, captain.
+	<SYNC Start=4768940>
+	  <P>&nbsp;
+	<SYNC Start=4769180>
+	  <P>You know Major Cotton.<br>That is Major Warren.
+	<SYNC Start=4773150>
+	  <P>&nbsp;
+	<SYNC Start=4774420>
+	  <P>Take a seat.
+	<SYNC Start=4775940>
+	  <P>&nbsp;
+	<SYNC Start=4780350>
+	  <P>Now ...
+	<SYNC Start=4781350>
+	  <P>&nbsp;
+	<SYNC Start=4781580>
+	  <P>... what is this we hear ...
+	<SYNC Start=4783550>
+	  <P>&nbsp;
+	<SYNC Start=4783780>
+	  <P>... that you have agreed to cancel<br>the tax of the farmers ...
+	<SYNC Start=4788270>
+	  <P>&nbsp;
+	<SYNC Start=4788500>
+	  <P>... if they beat you<br>in a game of cricket?
+	<SYNC Start=4791300>
+	  <P>&nbsp;
+	<SYNC Start=4791510>
+	  <P>Is this true?
+	<SYNC Start=4792660>
+	  <P>&nbsp;
+	<SYNC Start=4793700>
+	  <P>Yes, Colonel Boyer. It is.
+	<SYNC Start=4795980>
+	  <P>&nbsp;
+	<SYNC Start=4796190>
+	  <P>What are you here for?<br>To play games?
+	<SYNC Start=4799350>
+	  <P>&nbsp;
+	<SYNC Start=4799580>
+	  <P>Let me remind you that you are<br>working for Her Majesty, the Queen.
+	<SYNC Start=4804200>
+	  <P>&nbsp;
+	<SYNC Start=4804430>
+	  <P>Your job is to ensure<br>the smooth running of your province.
+	<SYNC Start=4808360>
+	  <P>&nbsp;
+	<SYNC Start=4808560>
+	  <P>Pardon me.<br>But that's what I'm doing.
+	<SYNC Start=4811040>
+	  <P>&nbsp;
+	<SYNC Start=4811270>
+	  <P>We'll be the judge of that, Russell.
+	<SYNC Start=4814160>
+	  <P>&nbsp;
+	<SYNC Start=4814440>
+	  <P>We also understand that<br>if you lose this "match" ...
+	<SYNC Start=4818360>
+	  <P>&nbsp;
+	<SYNC Start=4818560>
+	  <P>... you will cancel their taxes<br>for three years.
+	<SYNC Start=4822000>
+	  <P>&nbsp;
+	<SYNC Start=4822230>
+	  <P>Not just Champaner,<br>but the entire province.
+	<SYNC Start=4825880>
+	  <P>&nbsp;
+	<SYNC Start=4826800>
+	  <P>- But they won't win.<br>- You're missing the whole point.
+	<SYNC Start=4830560>
+	  <P>&nbsp;
+	<SYNC Start=4830790>
+	  <P>Do you realise we could have<br>a situation where there will be ...
+	<SYNC Start=4835280>
+	  <P>&nbsp;
+	<SYNC Start=4835510>
+	  <P>... cricket matches all over<br>the subcontinent ...
+	<SYNC Start=4838960>
+	  <P>&nbsp;
+	<SYNC Start=4839190>
+	  <P>... to cancel the tax?
+	<SYNC Start=4840680>
+	  <P>&nbsp;
+	<SYNC Start=4840910>
+	  <P>But there is one thing.<br>If they lose, which they will ...
+	<SYNC Start=4844950>
+	  <P>&nbsp;
+	<SYNC Start=4846750>
+	  <P>... they will have to pay<br>three times the tax.
+	<SYNC Start=4849710>
+	  <P>&nbsp;
+	<SYNC Start=4849920>
+	  <P>Oh, this is ridiculous!
+	<SYNC Start=4851590>
+	  <P>&nbsp;
+	<SYNC Start=4851830>
+	  <P>He's making the government<br>into a bookie ...
+	<SYNC Start=4855000>
+	  <P>&nbsp;
+	<SYNC Start=4855230>
+	  <P>... with whom he can<br>place his wagers.
+	<SYNC Start=4858160>
+	  <P>&nbsp;
+	<SYNC Start=4858440>
+	  <P>What would you have us do next?<br>Race horses?
+	<SYNC Start=4861550>
+	  <P>&nbsp;
+	<SYNC Start=4861760>
+	  <P>This is the most preposterous idea!
+	<SYNC Start=4864160>
+	  <P>&nbsp;
+	<SYNC Start=4864390>
+	  <P>The British Empire<br>cannot function ...
+	<SYNC Start=4866950>
+	  <P>&nbsp;
+	<SYNC Start=4867160>
+	  <P>... according to your<br>whims and fancies.
+	<SYNC Start=4869710>
+	  <P>&nbsp;
+	<SYNC Start=4869920>
+	  <P>Now jolly well understand this:
+	<SYNC Start=4872360>
+	  <P>&nbsp;
+	<SYNC Start=4873630>
+	  <P>If you win, you'll have had<br>a narrow escape.
+	<SYNC Start=4876560>
+	  <P>&nbsp;
+	<SYNC Start=4876790>
+	  <P>But if you lose, you will pay<br>the taxes for Champaner ...
+	<SYNC Start=4880790>
+	  <P>&nbsp;
+	<SYNC Start=4881030>
+	  <P>... and the entire province yourself.
+	<SYNC Start=4884110>
+	  <P>&nbsp;
+	<SYNC Start=4884320>
+	  <P>Then you'll be sent to Central Africa.<br>Is that clear?
+	<SYNC Start=4888110>
+	  <P>&nbsp;
+	<SYNC Start=4889150>
+	  <P>Yes, sir.
+	<SYNC Start=4890150>
+	  <P>&nbsp;
+	<SYNC Start=4892030>
+	  <P>That will be all.<br>You may go.
+	<SYNC Start=4894350>
+	  <P>&nbsp;
+	<SYNC Start=4932630>
+	  <P>You're supposed to salute<br>when a superior officer passes!
+	<SYNC Start=4937390>
+	  <P>&nbsp;
+	<SYNC Start=4937630>
+	  <P>- I did, sir.<br>- I didn't see it.
+	<SYNC Start=4940560>
+	  <P>&nbsp;
+	<SYNC Start=4942590>
+	  <P>That's better.
+	<SYNC Start=4943830>
+	  <P>&nbsp;
+	<SYNC Start=4944040>
+	  <P>- Your meeting did not go well.<br>- Damn right, it didn't.
+	<SYNC Start=4947550>
+	  <P>&nbsp;
+	<SYNC Start=4947760>
+	  <P>The old hats will teach me<br>how to run the show.
+	<SYNC Start=4951000>
+	  <P>&nbsp;
+	<SYNC Start=4951230>
+	  <P>They've lost their sense of adventure.
+	<SYNC Start=4953960>
+	  <P>&nbsp;
+	<SYNC Start=4954160>
+	  <P>What's wrong with some fun<br>along with the "lagaan"?
+	<SYNC Start=4956990>
+	  <P>&nbsp;
+	<SYNC Start=4957230>
+	  <P>- Is the match cancelled, sir?<br>- No!
+	<SYNC Start=4959830>
+	  <P>&nbsp;
+	<SYNC Start=4963840>
+	  <P>How dare you hurt my horse?
+	<SYNC Start=4966350>
+	  <P>&nbsp;
+	<SYNC Start=4968910>
+	  <P>Hurt my horse, will you?<br>I'll destroy you people!
+	<SYNC Start=4972600>
+	  <P>&nbsp;
+	<SYNC Start=4972830>
+	  <P>I'll take so much "lagaan ..."
+	<SYNC Start=4975480>
+	  <P>&nbsp;
+	<SYNC Start=4975710>
+	  <P>... you won't have a rag<br>on your backs.
+	<SYNC Start=4978750>
+	  <P>&nbsp;
+	<SYNC Start=4982760>
+	  <P>You bloody slaves<br>will remain crushed ...
+	<SYNC Start=4985680>
+	  <P>&nbsp;
+	<SYNC Start=4985910>
+	  <P>... under our boots!
+	<SYNC Start=4988160>
+	  <P>&nbsp;
+	<SYNC Start=5002430>
+	  <P>However thick the sole<br>may be, "sahib ..."
+	<SYNC Start=5005600>
+	  <P>&nbsp;
+	<SYNC Start=5005840>
+	  <P>... it wears out.<br>Then the nails begin to prick.
+	<SYNC Start=5009680>
+	  <P>&nbsp;
+	<SYNC Start=5010290>
+	  <P>Ram Singh!
+	<SYNC Start=5011290>
+	  <P>&nbsp;
+	<SYNC Start=5013290>
+	  <P>Yes, sir?
+	<SYNC Start=5014410>
+	  <P>&nbsp;
+	<SYNC Start=5014640>
+	  <P>- Get him out before I kill him.<br>- Yes.
+	<SYNC Start=5018000>
+	  <P>&nbsp;
+	<SYNC Start=5019370>
+	  <P>Quick.
+	<SYNC Start=5020570>
+	  <P>&nbsp;
+	<SYNC Start=5046570>
+	  <P>Arjan, what happened?
+	<SYNC Start=5048200>
+	  <P>&nbsp;
+	<SYNC Start=5048440>
+	  <P>Bhuvan, I've been blind<br>and stupid.
+	<SYNC Start=5052240>
+	  <P>&nbsp;
+	<SYNC Start=5053250>
+	  <P>I am with you now.
+	<SYNC Start=5055210>
+	  <P>&nbsp;
+	<SYNC Start=5055440>
+	  <P>Tell me, how can I help?
+	<SYNC Start=5057560>
+	  <P>&nbsp;
+	<SYNC Start=5057770>
+	  <P>That's great. We're coming together<br>to form a fist.
+	<SYNC Start=5061960>
+	  <P>&nbsp;
+	<SYNC Start=5069290>
+	  <P>No, no, Arjan.<br>Not like that.
+	<SYNC Start=5071770>
+	  <P>&nbsp;
+	<SYNC Start=5085840>
+	  <P>Lakha, Goli was telling the truth.
+	<SYNC Start=5088880>
+	  <P>&nbsp;
+	<SYNC Start=5089120>
+	  <P>- About what?<br>- The white lady.
+	<SYNC Start=5091770>
+	  <P>&nbsp;
+	<SYNC Start=5092600>
+	  <P>So?
+	<SYNC Start=5093760>
+	  <P>&nbsp;
+	<SYNC Start=5099130>
+	  <P>We were wrong, Lakha.
+	<SYNC Start=5101970>
+	  <P>&nbsp;
+	<SYNC Start=5102200>
+	  <P>But we can still make it right.<br>We must support Bhuvan.
+	<SYNC Start=5106760>
+	  <P>&nbsp;
+	<SYNC Start=5107600>
+	  <P>What did you say?<br>Have you gone crazy?
+	<SYNC Start=5110200>
+	  <P>&nbsp;
+	<SYNC Start=5110440>
+	  <P>Try to understand.
+	<SYNC Start=5112760>
+	  <P>&nbsp;
+	<SYNC Start=5112970>
+	  <P>Look.
+	<SYNC Start=5113970>
+	  <P>&nbsp;
+	<SYNC Start=5114400>
+	  <P>Look!
+	<SYNC Start=5115490>
+	  <P>&nbsp;
+	<SYNC Start=5115720>
+	  <P>An English girl ...
+	<SYNC Start=5117570>
+	  <P>&nbsp;
+	<SYNC Start=5117800>
+	  <P>... is helping us<br>save our bodies and souls.
+	<SYNC Start=5121080>
+	  <P>&nbsp;
+	<SYNC Start=5121290>
+	  <P>And we sit sulking?
+	<SYNC Start=5124210>
+	  <P>&nbsp;
+	<SYNC Start=5124440>
+	  <P>Shame on us!
+	<SYNC Start=5126760>
+	  <P>&nbsp;
+	<SYNC Start=5129320>
+	  <P>It is Allah's command.<br>We must be with him.
+	<SYNC Start=5133920>
+	  <P>&nbsp;
+	<SYNC Start=5134530>
+	  <P>Come with me. Come!
+	<SYNC Start=5136010>
+	  <P>&nbsp;
+	<SYNC Start=5136610>
+	  <P>Ismail ...
+	<SYNC Start=5137970>
+	  <P>&nbsp;
+	<SYNC Start=5138280>
+	  <P>... have you gone senile?<br>Then get yourself a crutch ...
+	<SYNC Start=5141800>
+	  <P>&nbsp;
+	<SYNC Start=5141960>
+	  <P>... and a shroud too.
+	<SYNC Start=5144170>
+	  <P>&nbsp;
+	<SYNC Start=5146760>
+	  <P>This Bhuvan of yours<br>will never succeed.
+	<SYNC Start=5149760>
+	  <P>&nbsp;
+	<SYNC Start=5153410>
+	  <P>Ismail ...
+	<SYNC Start=5154770>
+	  <P>&nbsp;
+	<SYNC Start=5155450>
+	  <P>... he'll never take you<br>into his team.
+	<SYNC Start=5158370>
+	  <P>&nbsp;
+	<SYNC Start=5160040>
+	  <P>Now catch this!
+	<SYNC Start=5161560>
+	  <P>&nbsp;
+	<SYNC Start=5166720>
+	  <P>Bhuvan ...
+	<SYNC Start=5167960>
+	  <P>&nbsp;
+	<SYNC Start=5169290>
+	  <P>... it's not just your honour,<br>but that of the whole village.
+	<SYNC Start=5173170>
+	  <P>&nbsp;
+	<SYNC Start=5173640>
+	  <P>I'm ashamed of all the things<br>I said the other day.
+	<SYNC Start=5178360>
+	  <P>&nbsp;
+	<SYNC Start=5178600>
+	  <P>I swear by God ...
+	<SYNC Start=5180000>
+	  <P>&nbsp;
+	<SYNC Start=5180240>
+	  <P>... I am with you.<br>It's the word of a man of prayer.
+	<SYNC Start=5184400>
+	  <P>&nbsp;
+	<SYNC Start=5184610>
+	  <P>What a beautiful thing to say!<br>He has raised our spirits.
+	<SYNC Start=5188720>
+	  <P>&nbsp;
+	<SYNC Start=5188930>
+	  <P>Who can stop us now?
+	<SYNC Start=5190960>
+	  <P>&nbsp;
+	<SYNC Start=5205060>
+	  <P>With a procession<br>Of elephants and horses
+	<SYNC Start=5207780>
+	  <P>&nbsp;
+	<SYNC Start=5208010>
+	  <P>Raise a cry of victory<br>To Lord Krishna
+	<SYNC Start=5211180>
+	  <P>&nbsp;
+	<SYNC Start=5227220>
+	  <P>What are you looking at, "memsahib"?
+	<SYNC Start=5229460>
+	  <P>&nbsp;
+	<SYNC Start=5229610>
+	  <P>These statues.<br>Whose images are those?
+	<SYNC Start=5233580>
+	  <P>&nbsp;
+	<SYNC Start=5233810>
+	  <P>This is the temple of Radha<br>and Krishna. These are their idols.
+	<SYNC Start=5238580>
+	  <P>&nbsp;
+	<SYNC Start=5238810>
+	  <P>Today is Krishna's birthday,<br>so the idols are decorated.
+	<SYNC Start=5242500>
+	  <P>&nbsp;
+	<SYNC Start=5243180>
+	  <P>It's very beautiful.
+	<SYNC Start=5245180>
+	  <P>&nbsp;
+	<SYNC Start=5245410>
+	  <P>Yes.
+	<SYNC Start=5246410>
+	  <P>&nbsp;
+	<SYNC Start=5246650>
+	  <P>Were they husband and wife?
+	<SYNC Start=5249010>
+	  <P>&nbsp;
+	<SYNC Start=5249250>
+	  <P>Oh, no, "memsahib."
+	<SYNC Start=5250620>
+	  <P>&nbsp;
+	<SYNC Start=5250850>
+	  <P>Krishna was married to Rukmini<br>and Radha to Anay.
+	<SYNC Start=5255010>
+	  <P>&nbsp;
+	<SYNC Start=5255250>
+	  <P>But the deep love they had<br>for each other set an ideal.
+	<SYNC Start=5260370>
+	  <P>&nbsp;
+	<SYNC Start=5260980>
+	  <P>It's like ...
+	<SYNC Start=5262650>
+	  <P>&nbsp;
+	<SYNC Start=5262890>
+	  <P>... a dewdrop on a lotus leaf.
+	<SYNC Start=5266170>
+	  <P>&nbsp;
+	<SYNC Start=5266810>
+	  <P>Neither united nor separated.
+	<SYNC Start=5269810>
+	  <P>&nbsp;
+	<SYNC Start=5270450>
+	  <P>They've been worshipped together<br>for eons.
+	<SYNC Start=5273380>
+	  <P>&nbsp;
+	<SYNC Start=5283220>
+	  <P>- Pujariji?<br>- Oh, yes, Gauri.
+	<SYNC Start=5286180>
+	  <P>&nbsp;
+	<SYNC Start=5301980>
+	  <P>Let's go.
+	<SYNC Start=5303180>
+	  <P>&nbsp;
+	<SYNC Start=5321650>
+	  <P>If Krishna were to meet<br>A lovelorn nymph in the grove
+	<SYNC Start=5326010>
+	  <P>&nbsp;
+	<SYNC Start=5326250>
+	  <P>And then smile and talk<br>Or even tease her
+	<SYNC Start=5330290>
+	  <P>&nbsp;
+	<SYNC Start=5330500>
+	  <P>How can Radha be not jealous?
+	<SYNC Start=5332410>
+	  <P>&nbsp;
+	<SYNC Start=5332620>
+	  <P>How can Radha be not jealous?
+	<SYNC Start=5335210>
+	  <P>&nbsp;
+	<SYNC Start=5335450>
+	  <P>Her body and heart<br>Are on fire
+	<SYNC Start=5337450>
+	  <P>&nbsp;
+	<SYNC Start=5346020>
+	  <P>Even if Krishna were to meet<br>A lovelorn nymph in the grove
+	<SYNC Start=5350380>
+	  <P>&nbsp;
+	<SYNC Start=5350850>
+	  <P>It's only Radha's love<br>That blooms in his heart
+	<SYNC Start=5354890>
+	  <P>&nbsp;
+	<SYNC Start=5355180>
+	  <P>Then why is Radha jealous?
+	<SYNC Start=5357380>
+	  <P>&nbsp;
+	<SYNC Start=5359970>
+	  <P>With no rhyme or reason
+	<SYNC Start=5362170>
+	  <P>&nbsp;
+	<SYNC Start=5362380>
+	  <P>Why is Radha jealous?
+	<SYNC Start=5364860>
+	  <P>&nbsp;
+	<SYNC Start=5392250>
+	  <P>The nymphs are but stars<br>And Radha is the moon
+	<SYNC Start=5396810>
+	  <P>&nbsp;
+	<SYNC Start=5397050>
+	  <P>Why is her faith then<br>So half-hearted?
+	<SYNC Start=5401130>
+	  <P>&nbsp;
+	<SYNC Start=5413390>
+	  <P>Faithless Krishna is forever<br>Looking hither and thither
+	<SYNC Start=5417460>
+	  <P>&nbsp;
+	<SYNC Start=5418340>
+	  <P>Then how can poor Radha<br>Believe in herself?
+	<SYNC Start=5422380>
+	  <P>&nbsp;
+	<SYNC Start=5422620>
+	  <P>Nymphs come and go<br>But Radha is the queen of his heart
+	<SYNC Start=5427070>
+	  <P>&nbsp;
+	<SYNC Start=5431910>
+	  <P>Dawn and dusk<br>By the Jamuna's banks
+	<SYNC Start=5434190>
+	  <P>&nbsp;
+	<SYNC Start=5434420>
+	  <P>It's only Radha<br>That Krishna calls out to
+	<SYNC Start=5437390>
+	  <P>&nbsp;
+	<SYNC Start=5437990>
+	  <P>If someone garlands Krishna<br>With her entwined arms
+	<SYNC Start=5442390>
+	  <P>&nbsp;
+	<SYNC Start=5442620>
+	  <P>How can Radha be not jealous?
+	<SYNC Start=5445110>
+	  <P>&nbsp;
+	<SYNC Start=5447550>
+	  <P>Her body and heart<br>Are on fire
+	<SYNC Start=5449470>
+	  <P>&nbsp;
+	<SYNC Start=5449670>
+	  <P>How can Radha be not jealous?
+	<SYNC Start=5452150>
+	  <P>&nbsp;
+	<SYNC Start=5494900>
+	  <P>If Radha is enshrined<br>In Krishna's heart
+	<SYNC Start=5498900>
+	  <P>&nbsp;
+	<SYNC Start=5499270>
+	  <P>Why doesn't he tell her so?
+	<SYNC Start=5503270>
+	  <P>&nbsp;
+	<SYNC Start=5504350>
+	  <P>Love has its own language<br>Its own expression
+	<SYNC Start=5508310>
+	  <P>&nbsp;
+	<SYNC Start=5508740>
+	  <P>Let the eyes speak<br>Such is Krishna's sweet wish
+	<SYNC Start=5513070>
+	  <P>&nbsp;
+	<SYNC Start=5513270>
+	  <P>These eyes of yours<br>O Krishna
+	<SYNC Start=5515230>
+	  <P>&nbsp;
+	<SYNC Start=5515380>
+	  <P>They destroy the peace<br>Of many a nymph's heart
+	<SYNC Start=5518660>
+	  <P>&nbsp;
+	<SYNC Start=5522630>
+	  <P>She meets your eyes<br>And is in love
+	<SYNC Start=5524790>
+	  <P>&nbsp;
+	<SYNC Start=5525020>
+	  <P>Even if she be<br>The fairest damsel
+	<SYNC Start=5527300>
+	  <P>&nbsp;
+	<SYNC Start=5527510>
+	  <P>If love for Krishna ripens<br>In a nymph's heart
+	<SYNC Start=5531870>
+	  <P>&nbsp;
+	<SYNC Start=5532230>
+	  <P>Why is Radha jealous?
+	<SYNC Start=5534990>
+	  <P>&nbsp;
+	<SYNC Start=5536990>
+	  <P>How can Radha be not jealous?
+	<SYNC Start=5539670>
+	  <P>&nbsp;
+	<SYNC Start=5610960>
+	  <P>Gauri, you sing<br>and dance beautifully.
+	<SYNC Start=5615680>
+	  <P>&nbsp;
+	<SYNC Start=5669680>
+	  <P>Elizabeth, this is Lt. Edward Wesson.<br>This is Lt. Richard North.
+	<SYNC Start=5674270>
+	  <P>&nbsp;
+	<SYNC Start=5674480>
+	  <P>- How do you do?<br>- Charmed.
+	<SYNC Start=5676200>
+	  <P>&nbsp;
+	<SYNC Start=5676400>
+	  <P>Sir, there's a villager<br>who'd like to speak with you.
+	<SYNC Start=5680510>
+	  <P>&nbsp;
+	<SYNC Start=5680720>
+	  <P>Not now. Tomorrow.
+	<SYNC Start=5682270>
+	  <P>&nbsp;
+	<SYNC Start=5682480>
+	  <P>He says he has some important<br>information about the match.
+	<SYNC Start=5687280>
+	  <P>&nbsp;
+	<SYNC Start=5689120>
+	  <P>Excuse me.
+	<SYNC Start=5690480>
+	  <P>&nbsp;
+	<SYNC Start=5700670>
+	  <P>Sahib.
+	<SYNC Start=5701670>
+	  <P>&nbsp;
+	<SYNC Start=5702550>
+	  <P>Long live our protector.
+	<SYNC Start=5704670>
+	  <P>&nbsp;
+	<SYNC Start=5705510>
+	  <P>- What is it you want to tell me?<br>- Bhuvan is training his team. But ...
+	<SYNC Start=5710670>
+	  <P>&nbsp;
+	<SYNC Start=5711360>
+	  <P>But what?
+	<SYNC Start=5712480>
+	  <P>&nbsp;
+	<SYNC Start=5712680>
+	  <P>Spare my life, "sahib"!
+	<SYNC Start=5714680>
+	  <P>&nbsp;
+	<SYNC Start=5714880>
+	  <P>But a white "memsahib"<br>from here ...
+	<SYNC Start=5717320>
+	  <P>&nbsp;
+	<SYNC Start=5717550>
+	  <P>... teaches them the game.
+	<SYNC Start=5719720>
+	  <P>&nbsp;
+	<SYNC Start=5720350>
+	  <P>White "memsahib"?
+	<SYNC Start=5721470>
+	  <P>&nbsp;
+	<SYNC Start=5721710>
+	  <P>Yes, "sahib."<br>I saw her with my own eyes today.
+	<SYNC Start=5725310>
+	  <P>&nbsp;
+	<SYNC Start=5725550>
+	  <P>She also came to attend<br>the prayer at our temple today.
+	<SYNC Start=5729280>
+	  <P>&nbsp;
+	<SYNC Start=5741550>
+	  <P>Is the white "memsahib" among them?
+	<SYNC Start=5744070>
+	  <P>&nbsp;
+	<SYNC Start=5749520>
+	  <P>There she is.
+	<SYNC Start=5750680>
+	  <P>&nbsp;
+	<SYNC Start=5755560>
+	  <P>- You're not making a mistake?<br>- You can hang me if I'm mistaken.
+	<SYNC Start=5759920>
+	  <P>&nbsp;
+	<SYNC Start=5760150>
+	  <P>I swear.<br>She's the one.
+	<SYNC Start=5761880>
+	  <P>&nbsp;
+	<SYNC Start=5767760>
+	  <P>So you too are in the team?
+	<SYNC Start=5769680>
+	  <P>&nbsp;
+	<SYNC Start=5769880>
+	  <P>I'm not crazy like Bhuvan to<br>challenge the might of the government.
+	<SYNC Start=5774950>
+	  <P>&nbsp;
+	<SYNC Start=5775760>
+	  <P>Why are you telling me all this?
+	<SYNC Start=5779070>
+	  <P>&nbsp;
+	<SYNC Start=5780320>
+	  <P>Only the slaughtered beast knows<br>the agony of death.
+	<SYNC Start=5784080>
+	  <P>&nbsp;
+	<SYNC Start=5784950>
+	  <P>I too am in agony.
+	<SYNC Start=5786830>
+	  <P>&nbsp;
+	<SYNC Start=5787120>
+	  <P>Let's just say that my victory<br>lies in Bhuvan's defeat.
+	<SYNC Start=5792120>
+	  <P>&nbsp;
+	<SYNC Start=5799960>
+	  <P>What is your name?<br>Your name?
+	<SYNC Start=5801920>
+	  <P>&nbsp;
+	<SYNC Start=5802120>
+	  <P>Lakha, "sahib."
+	<SYNC Start=5803450>
+	  <P>&nbsp;
+	<SYNC Start=5804720>
+	  <P>Lakha ...
+	<SYNC Start=5806080>
+	  <P>&nbsp;
+	<SYNC Start=5807120>
+	  <P>... this is what you do:
+	<SYNC Start=5808720>
+	  <P>&nbsp;
+	<SYNC Start=5808960>
+	  <P>You join Bhuvan's team.
+	<SYNC Start=5812280>
+	  <P>&nbsp;
+	<SYNC Start=5812690>
+	  <P>- What are you saying, "sahib"?<br>- You will join Bhuvan's team.
+	<SYNC Start=5817090>
+	  <P>&nbsp;
+	<SYNC Start=5817290>
+	  <P>But you will work for me.
+	<SYNC Start=5819880>
+	  <P>&nbsp;
+	<SYNC Start=5825370>
+	  <P>I understand, "sahib."
+	<SYNC Start=5826920>
+	  <P>&nbsp;
+	<SYNC Start=5838960>
+	  <P>Yes, Andrew?
+	<SYNC Start=5840680>
+	  <P>&nbsp;
+	<SYNC Start=5841160>
+	  <P>What is it?
+	<SYNC Start=5842650>
+	  <P>&nbsp;
+	<SYNC Start=5842850>
+	  <P>So you've been sightseeing.
+	<SYNC Start=5845010>
+	  <P>&nbsp;
+	<SYNC Start=5845210>
+	  <P>How's the countryside?
+	<SYNC Start=5847280>
+	  <P>&nbsp;
+	<SYNC Start=5848560>
+	  <P>It's beautiful.
+	<SYNC Start=5850680>
+	  <P>&nbsp;
+	<SYNC Start=5851290>
+	  <P>The mountains, the woods,<br>the cattle.
+	<SYNC Start=5854560>
+	  <P>&nbsp;
+	<SYNC Start=5854800>
+	  <P>And the villages?
+	<SYNC Start=5856290>
+	  <P>&nbsp;
+	<SYNC Start=5858530>
+	  <P>- I didn't see any.<br>- My foot, you didn't!
+	<SYNC Start=5861730>
+	  <P>&nbsp;
+	<SYNC Start=5861960>
+	  <P>You were teaching them cricket!<br>You thought I wouldn't know?
+	<SYNC Start=5866600>
+	  <P>&nbsp;
+	<SYNC Start=5866840>
+	  <P>You had the audacity to go<br>against your own brother?
+	<SYNC Start=5870290>
+	  <P>&nbsp;
+	<SYNC Start=5870570>
+	  <P>Now you listen to me carefully.
+	<SYNC Start=5872880>
+	  <P>&nbsp;
+	<SYNC Start=5873120>
+	  <P>You will not meet them again ...
+	<SYNC Start=5875400>
+	  <P>&nbsp;
+	<SYNC Start=5875640>
+	  <P>... because you will not<br>leave the cantonment.
+	<SYNC Start=5878890>
+	  <P>&nbsp;
+	<SYNC Start=5879520>
+	  <P>Is that understood?
+	<SYNC Start=5881080>
+	  <P>&nbsp;
+	<SYNC Start=5896730>
+	  <P>Bloody farmers!
+	<SYNC Start=5898210>
+	  <P>&nbsp;
+</BODY>
+</SAMI>

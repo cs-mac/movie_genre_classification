@@ -1,0 +1,897 @@
+1
+00:00:50,000 --> 00:02:15,000
+Overture
+
+2
+00:02:15,802 --> 00:02:21,306
+Nosferatu: A Symphony of Horror
+
+3
+00:02:21,425 --> 00:02:23,300
+After the novel “Dracula”
+by Bram Stoker
+
+4
+00:02:23,400 --> 00:02:25,250
+Freely adapted by
+Henrik Galeen
+
+5
+00:02:25,350 --> 00:02:29,250
+Direction:
+Friedrich Wilhelm Murnau
+
+6
+00:02:29,350 --> 00:02:34,050
+Costumes and Sets:
+Albin Grau
+
+7
+00:02:34,150 --> 00:02:38,100
+Photography:
+Fritz Arno Wagner
+
+8
+00:02:38,200 --> 00:02:42,240
+Music:
+Hans Erdmann
+
+9
+00:02:42,325 --> 00:02:44,300
+Persons:
+
+10
+00:02:44,400 --> 00:02:48,325
+Count Orlok: Max Schreck
+
+11
+00:02:48,425 --> 00:02:52,350
+Hutter: Gustav von Wangenheim
+
+12
+00:02:52,450 --> 00:02:56,375
+Ellen, his Wife: Greta Schröeder
+
+13
+00:02:56,475 --> 00:03:00,400
+Harding, a Shipowner: G.H. Schnell
+
+14
+00:03:00,500 --> 00:03:05,967
+Ruth, his Sister: Ruth Landshoff
+
+15
+00:03:06,067 --> 00:03:11,534
+Professor Sievers, the Town Doctor:
+Gustav Botz
+
+16
+00:03:11,634 --> 00:03:17,100
+Knock, a Property Broker:
+Alexander Granach
+
+17
+00:03:17,200 --> 00:03:20,695
+Professor Bulwer, a Paracelsian:
+John Gottowt
+
+18
+00:03:20,795 --> 00:03:24,290
+A Captain: Max Nemetz
+
+19
+00:03:24,390 --> 00:03:27,885
+1st Sailor: Wolfgang Heinz
+
+20
+00:03:27,985 --> 00:03:31,480
+2nd Sailor: Albert Venohr
+
+21
+00:03:31,580 --> 00:03:33,580
+Act I
+
+22
+00:03:36,950 --> 00:03:52,200
+<i>Chronicle of the Great Death in Wisborg
+The Year of Our Lord 1838<i/>
+
+23
+00:03:52,700 --> 00:03:57,570
+<i><b>Nosferatu.</b></i>
+
+24
+00:03:57,670 --> 00:04:07,420
+<i>Does this word not sound to you like
+the midnight cry of the Deathbird?</i>
+
+25
+00:04:07,520 --> 00:04:17,260
+<i>Beware that you say it, else the
+images of life fade into shadows,</i>
+
+26
+00:04:17,360 --> 00:04:27,100
+<i>haunting dreams rise from your heart
+and nourish themselves on your blood.</i>
+
+27
+00:04:27,200 --> 00:04:33,900
+<i>Long have I thought about the onset
+and conclusion of the Great Death</i>
+
+28
+00:04:34,000 --> 00:04:40,700
+<i>in my hometown of Wisborg.
+Here is its story:</i>
+
+29
+00:04:40,800 --> 00:04:47,500
+<i>There once lived in Wisborg
+Hutter and his young wife Ellen...</i>
+
+30
+00:06:22,875 --> 00:06:31,375
+“Why have you killed them...
+the beautiful flowers...?!”
+
+31
+00:06:49,875 --> 00:06:57,750
+“Not so hasty, young friend!
+No one outruns their fate.”
+
+32
+00:07:06,150 --> 00:07:13,550
+<i>There was also a property broker, Knock,
+about whom all sorts of rumors went around.</i>
+
+33
+00:07:13,650 --> 00:07:17,475
+<i>One thing for certain,
+he paid his people well...</i>
+
+34
+00:08:19,700 --> 00:08:24,985
+“Count Orlok – His Grace...
+from Transylvania...”
+
+35
+00:08:25,085 --> 00:08:30,375
+“wishes to purchase a lovely house...
+in our little town...”
+
+36
+00:08:32,575 --> 00:08:38,350
+“You could earn a tidy sum...”
+
+37
+00:08:41,725 --> 00:08:45,800
+“...though it shall cost some effort...”
+
+38
+00:08:45,900 --> 00:08:49,975
+“a bit of sweat and perhaps...”
+
+39
+00:08:50,075 --> 00:08:54,150
+“a little blood...”
+
+40
+00:09:42,025 --> 00:09:45,900
+“He wants a right fine,
+deserted house...”
+
+41
+00:09:58,175 --> 00:10:04,475
+“That house... just across from yours.
+Offer him that one!”
+
+42
+00:10:06,825 --> 00:10:15,775
+“Travel quickly, travel well, young friend,
+into the land of spectres.”
+
+43
+00:10:33,850 --> 00:10:41,725
+“I travel far, far away into the
+land of thieves and spectres.”
+
+44
+00:12:14,200 --> 00:12:23,945
+<i>Thus did Hutter give his distraught
+wife over to the care of his friends,</i>
+
+45
+00:12:24,045 --> 00:12:33,790
+<i>the wealthy shipowner
+Harding and his sister...</i>
+
+46
+00:12:54,150 --> 00:12:56,190
+“Do not be concerned.”
+
+47
+00:13:47,275 --> 00:13:55,695
+<i>...and the young Hutter traveled many
+dusty roads, but at last the peaks</i>
+
+48
+00:13:55,795 --> 00:14:04,215
+<i>of the Carpathians glowed ahead of him.
+The horses pulled harder...</i>
+
+49
+00:15:11,250 --> 00:15:18,580
+“Quickly... my dinner –
+I must get to the castle of Count Orlok!”
+
+50
+00:15:50,700 --> 00:15:58,035
+“You cannot go any further,
+the werewolf roams through the woods.”
+
+51
+00:17:43,500 --> 00:17:53,400
+<i>Of Vampyres, Ghastly Spirits,
+Witchcraft, and the Seven Deadly Sins</i>
+
+52
+00:17:55,600 --> 00:18:07,660
+<i>From Belial’s Seed sprang forth the
+Vampyre Nosferatu, one who does live and
+feed himself from the Blood of Mankind.</i>
+
+53
+00:18:07,760 --> 00:18:15,800
+<i>Unredeemed he dwells in fearsome
+Caverns, Sepulchres, and Coffins,</i>
+
+54
+00:18:15,900 --> 00:18:23,935
+<i>such as may be filled with accursed
+Earth from the Fields of the Black Death.</i>
+
+55
+00:19:39,150 --> 00:19:44,850
+<i>Of Vampyres, Ghastly Spirits,
+Witchcraft, and the Seven Deadly Sins</i>
+
+56
+00:21:04,575 --> 00:21:06,595
+“Drive on! The sun sets!”
+
+57
+00:21:34,900 --> 00:21:44,465
+“Pay what you want!
+We’ll travel no further!”
+
+58
+00:21:54,800 --> 00:22:03,150
+“We won’t go! It’s creepy
+on the other side of the pass!”
+
+59
+00:22:30,750 --> 00:22:47,615
+<i>Scarcely had Hutter crossed the bridge,
+when he was struck by the eerie visions
+of which he has often told me.</i>
+
+60
+00:25:48,550 --> 00:25:52,430
+“You left me waiting –
+waiting too long.”
+
+61
+00:25:52,530 --> 00:25:56,410
+“Now it is coming on midnight.”
+
+62
+00:25:56,510 --> 00:26:00,390
+“The servants are asleep!”
+
+63
+00:26:16,175 --> 00:26:18,175
+End of Act I
+
+64
+00:26:18,275 --> 00:26:20,410
+Act II
+
+65
+00:27:19,875 --> 00:27:24,350
+“You have done yourself injury...
+The precious blood!”
+
+66
+00:27:52,670 --> 00:27:57,245
+“Shall we not keep one another company”
+
+67
+00:27:57,345 --> 00:28:01,920
+“a little while, most lovely man?”
+
+68
+00:28:02,020 --> 00:28:06,595
+“It is yet quite a long time until sunrise –”
+
+69
+00:28:06,695 --> 00:28:11,270
+“and I sleep in the day, my dear fellow,”
+
+70
+00:28:11,370 --> 00:28:15,940
+“I truly sleep the deepest sleep – –”
+
+71
+00:28:32,150 --> 00:28:41,800
+<i>Once the sun rose, the shadows of
+night also retreated from Hutter...</i>
+
+72
+00:31:00,975 --> 00:31:04,570
+<i>My Darling! My Dearest!<i>
+
+73
+00:31:04,670 --> 00:31:11,865
+<i>Let yourself not be grieved that
+your Beloved travels far away.</i>
+
+74
+00:31:21,325 --> 00:31:26,830
+<i>The mosquitoes are a real nuisance.</i>
+
+75
+00:31:26,930 --> 00:31:37,935
+<i>Two have just bitten me on the neck,
+quite close together, each on one side.</i>
+
+76
+00:31:45,100 --> 00:31:55,745
+<i>One dreams heavily here
+in this desolate castle,
+but do not be alarmed.</i>
+
+77
+00:32:39,450 --> 00:32:51,425
+<i>The spectral evening light seemed to revive
+the shadows of the castle once again...</i>
+
+78
+00:33:28,170 --> 00:33:34,250
+“A beautiful neck your wife has...”
+
+79
+00:33:43,950 --> 00:33:51,230
+“I am buying the house...
+that fine, deserted house,
+the one across from yours...”
+
+80
+00:34:23,790 --> 00:34:35,405
+<i>In the Night this same Nosferatu may latch
+his claws onto his Victim and suck for his
+own infernal Life-potion their Blood.</i>
+
+81
+00:34:40,275 --> 00:34:52,500
+<i>Take heed lest his Shadow, like an Incubus,
+encumber you with gruesome Dreams.</i>
+
+82
+00:36:08,100 --> 00:36:09,790
+<i>At the same hour.</i>
+
+83
+00:37:10,600 --> 00:37:13,480
+“A doctor... a doctor!”
+
+84
+00:38:43,900 --> 00:38:46,235
+“Harmless blood congestion.”
+
+85
+00:38:49,300 --> 00:38:56,620
+<i>The doctor related Ellen’s distress
+to me as some sort of unknown malady.</i>
+
+86
+00:38:56,720 --> 00:39:04,040
+<i>I know, however, that her soul heard
+the the cry of the Deathbird that night –</i>
+
+87
+00:39:04,140 --> 00:39:07,800
+<i>Already was Nosferatu
+spreading his wings.</i>
+
+88
+00:39:07,900 --> 00:39:15,220
+<i>But with the morning light, Hutter set out
+to investgate the horrors of that night.</i>
+
+89
+00:42:46,675 --> 00:42:54,820
+<i>The raftsmen did not know of the sinister
+load they carried into the valley.</i>
+
+90
+00:43:13,650 --> 00:43:15,600
+End of Act II
+
+91
+00:43:15,700 --> 00:43:17,215
+Act III
+
+92
+00:43:29,850 --> 00:43:35,225
+“He was brought yesterday
+to the hospital by farmers.”
+
+93
+00:43:35,325 --> 00:43:40,700
+“They said he had fallen.
+He is still feverish...”
+
+94
+00:43:55,400 --> 00:43:56,795
+“Coffins – – –”
+
+95
+00:44:04,175 --> 00:44:07,715
+<i>Nosferatu was on the way.</i>
+
+96
+00:44:07,815 --> 00:44:11,360
+<i>The peril for Wisborg drew near.</i>
+
+97
+00:44:11,460 --> 00:44:18,545
+<i>The Paracelsian, Professor Bulwer, who
+at this time was fathoming the secrets</i>
+
+98
+00:44:18,645 --> 00:44:25,730
+<i>of Nature and their most profound
+correlations, told me about it:</i>
+
+99
+00:44:25,830 --> 00:44:32,915
+<i>Onto the double-masted schooner, </i>Empusa<i>,
+were loaded coffins filled with earth...</i>
+
+100
+00:44:48,675 --> 00:44:54,270
+“The ship’s all set
+for sail this night.”
+
+101
+00:45:04,675 --> 00:45:06,505
+<i>Port Authority Galaz</i>
+
+102
+00:45:06,605 --> 00:45:12,245
+<i>Lading of the Vessel </i>Empusa<i>
+Route: from Galaz to Wisborg
+Lading Port: Varna</i>
+
+103
+00:45:12,345 --> 00:45:17,990
+<i>Parcelled Goods: from Varna to Wisborg
+6 crates, containing earth
+for experimental purposes.</i>
+
+104
+00:45:18,090 --> 00:45:19,920
+<i>Galaz, 17 August 1838</i>
+
+105
+00:46:17,850 --> 00:46:27,575
+<i>Of those days, I will note that
+Professor Bulwer was explaining</i>
+
+106
+00:46:27,675 --> 00:46:37,395
+<i>to his pupils the savage
+manner of carnivorous plants.</i>
+
+107
+00:46:37,495 --> 00:46:47,200
+<i>With horror they beheld the
+mysterious workings of Nature.</i>
+
+108
+00:47:27,875 --> 00:47:32,845
+“Is it not – like a vampire!”
+
+109
+00:47:35,950 --> 00:47:47,610
+<i>It seems that the approach of the
+wretched Nosferatu had already driven
+the property broker Knock into his Shadow.</i>
+
+110
+00:47:55,975 --> 00:48:03,710
+“The patient admitted yesterday
+is having a fit of raving madness...”
+
+111
+00:48:34,725 --> 00:48:39,450
+“Blood is life! Blood is life!!!!”
+
+112
+00:49:13,975 --> 00:49:16,990
+“And this one here...”
+
+113
+00:49:20,450 --> 00:49:26,375
+“...a polyp with tentacles...”
+
+114
+00:49:35,300 --> 00:49:40,350
+“...transparent... almost incorporeal...”
+
+115
+00:49:48,075 --> 00:49:53,375
+“...nearly just a phantom...”
+
+116
+00:50:02,050 --> 00:50:05,205
+“Spiders...!”
+
+117
+00:50:35,400 --> 00:50:42,610
+<i>Ellen was often seen on the beach
+in the solitude of the dunes.</i>
+
+118
+00:50:42,710 --> 00:50:49,920
+<i>Her yearning flew out towards
+her beloved, her eyes searched
+over waves and in the distance.</i>
+
+119
+00:52:39,525 --> 00:52:43,065
+<i>My Darling! My Dearest!</i>
+
+120
+00:52:43,165 --> 00:52:50,245
+<i>Let yourself not be grieved that
+your Beloved travels far away.</i>
+
+121
+00:52:54,875 --> 00:52:58,695
+<i>The mosquitoes are a real nuisance.</i>
+
+122
+00:52:58,795 --> 00:53:06,430
+<i>Two have just bitten me on the neck,
+quite close together, each on one side.</i>
+
+123
+00:53:09,500 --> 00:53:13,400
+<i>One dreams heavily here
+in this desolate castle,
+but do not be alarmed.</i>
+
+124
+00:53:45,200 --> 00:53:53,145
+“No, I must be away...
+on the shortest path home!!!”
+
+125
+00:55:27,775 --> 00:55:31,865
+<i><b>Plague</b></i>
+
+126
+00:55:31,965 --> 00:55:40,155
+<i>In Transylvania and the Black Sea ports
+of Varna and Galaz, an epidemic of plague</i>
+
+127
+00:55:40,255 --> 00:55:48,445
+<i>has broken out. Young people are being
+carried off in droves. All victims present</i>
+
+128
+00:55:48,545 --> 00:55:56,735
+<i>the same peculiar stigmata on their neck,
+the origin of which is still baffling to doctors.</i>
+
+129
+00:55:56,835 --> 00:56:05,025
+<i>The Dardanelles were closed to all
+ships suspected of carrying the plague.</i>
+
+130
+00:57:16,600 --> 00:57:22,600
+“Below deck, a sailor has fallen ill.
+He’s delirious.”
+
+131
+00:58:47,125 --> 00:58:52,245
+<i>It crept like a pestilence
+throughout the ship.</i>
+
+132
+00:58:52,345 --> 00:58:57,465
+<i>The first sailor who was infected
+pulled the whole crew after him</i>
+
+133
+00:58:57,565 --> 00:59:02,685
+<i>into the dark grave of the waves.
+In the light of the sinking sun,</i>
+
+134
+00:59:02,785 --> 00:59:07,915
+<i>the captain and ship’s mate bid farewell
+to the last of their comrades...</i>
+
+135
+00:59:36,800 --> 00:59:45,200
+“I’m going below!!!
+If I’m not back up again in ten minutes...”
+
+136
+01:01:54,850 --> 01:02:00,340
+<i>The Death Ship had its new captain.</i>
+
+137
+01:02:06,875 --> 01:02:08,700
+End of Act III
+
+138
+01:02:08,800 --> 01:02:10,640
+Act IV
+
+139
+01:02:10,770 --> 01:02:14,630
+<i>It is very hard to say how,
+with his depleted strength,</i>
+
+140
+01:02:14,730 --> 01:02:18,590
+<i>the young Hutter succeeded in overcoming
+every obstacle on his journey home,</i>
+
+141
+01:02:18,690 --> 01:02:24,485
+<i>while Nosferatu’s deadly breath swelled the
+sails of the ship, so that with supernatural
+haste it flew towards his destination.</i>
+
+142
+01:03:53,250 --> 01:03:57,415
+“I must go to him. He is coming!!!”
+
+143
+01:05:51,225 --> 01:05:56,365
+“The Master is nigh...
+The Master is nigh...!”
+
+144
+01:07:04,725 --> 01:07:16,600
+<i>Long have I pondered why Nosferatu
+was said to have brought coffins filled</i>
+
+145
+01:07:16,700 --> 01:07:28,600
+<i>with earth along with him. I found it
+recorded that vampires can only draw</i>
+
+146
+01:07:28,700 --> 01:07:40,595
+<i>their shadowy power from the accursed
+earth in which they were buried.</i>
+
+147
+01:09:52,100 --> 01:09:55,895
+“I thank God... you are safe...
+All is well now...”
+
+148
+01:11:34,025 --> 01:11:42,710
+“Looked over everything...
+No living soul on board.”
+
+149
+01:12:39,375 --> 01:12:49,405
+<i>Varna – 12th July
+Crew – excluding myself as Captain
+one Helmsman
+one Ship’s Mate
+five Sailors</i>
+
+150
+01:13:53,050 --> 01:14:06,430
+<i>Second Day: 13th July
+One sailor taken ill with fever
+Heading: SSW
+Wind Direction: NE</i>
+
+151
+01:14:06,530 --> 01:14:19,910
+<i>Third Day: 14th July
+Ship’s mate talking crazy
+An unknown passenger may be below deck
+Heading: SE
+Wind Direction: NE</i>
+
+152
+01:14:26,775 --> 01:14:39,000
+<i>Tenth Day: 22nd July
+Rats in ship’s hold
+Danger of plague</i>
+
+153
+01:14:45,800 --> 01:14:52,570
+“Danger of plague!! Get to your homes!
+Bar all windows and doors!”
+
+154
+01:15:40,975 --> 01:15:43,255
+<i><b>Proclamation</b></i>
+
+155
+01:15:43,355 --> 01:15:49,355
+<i>Be it hereby declared and known to all
+citizens that the most-high Magistrate</i>
+
+156
+01:15:49,455 --> 01:15:55,455
+<i>forbids the transport of suspected
+plague victims to the hospital,</i>
+
+157
+01:15:55,555 --> 01:16:01,555
+<i>for doing so will only spread
+plague through the streets.</i>
+
+158
+01:16:28,075 --> 01:16:30,100
+End of Act IV
+
+159
+01:16:30,200 --> 01:16:32,128
+Act V
+
+160
+01:17:39,975 --> 01:17:52,275
+<i>Hutter had bound Ellen to a solemn
+promise not to touch the book that
+had frightened him with its visions.</i>
+
+161
+01:17:52,375 --> 01:18:01,590
+<i>She however could not resist its
+strange, foreign compulsion.</i>
+
+162
+01:18:03,950 --> 01:18:12,060
+<i>In the Night this same Nosferatu may latch
+his claws onto his Victim and suck for his
+own infernal Life-potion their Blood.</i>
+
+163
+01:18:28,900 --> 01:18:42,380
+<i>Take heed lest his Shadow, like an Incubus,
+encumber you with gruesome dreams.</i>
+
+164
+01:18:42,475 --> 01:18:49,375
+<i>Forasmuch as no other
+Deliverance is available,</i>
+
+165
+01:18:49,475 --> 01:19:03,225
+<i>it may be that a Woman truly
+without sin make the Vampyre
+forget the first Crowing of the Cock,</i>
+
+166
+01:19:03,325 --> 01:19:10,200
+<i>would She give him
+Freely of her own Blood.</i>
+
+167
+01:19:34,800 --> 01:19:40,645
+“Thus I see it –
+every evening...!!!”
+
+168
+01:20:55,900 --> 01:21:06,110
+<i>Fear crouched in every corner of the town.
+Who was still healthy? Who already ill?</i>
+
+169
+01:21:16,775 --> 01:21:22,415
+“I am running over as quick as I can...
+I will fetch Sievers...”
+
+170
+01:22:31,550 --> 01:22:38,420
+<i>Forasmuch as no other
+Deliverance is available,</i>
+
+171
+01:22:38,420 --> 01:22:52,250
+<i>it may be that a Woman truly
+without sin make the Vampyre
+forget the first Crowing of the Cock,</i>
+
+172
+01:22:52,350 --> 01:22:59,220
+<i>would She give him
+Freely of her own Blood.</i>
+
+173
+01:23:07,250 --> 01:23:15,405
+<i>Convulsed by fear, the town sought
+out a scapegoat: it was Knock.</i>
+
+174
+01:23:24,650 --> 01:23:32,255
+“We’ve seen him!
+He ran from the house!
+He has strangled the warder...”
+
+175
+01:23:40,800 --> 01:23:44,850
+“He has strangled him...
+the vampire!”
+
+176
+01:24:53,025 --> 01:24:56,670
+<i>I love You</i>
+
+177
+01:28:31,175 --> 01:28:33,680
+“Bulwer! Fetch Bulwer!”
+
+178
+01:30:25,525 --> 01:30:29,795
+“Knock is captured!”
+
+179
+01:31:10,450 --> 01:31:14,175
+“The Master... the Master...!”
+
+180
+01:32:25,975 --> 01:32:29,705
+“The Master... is... dead.”
+
+181
+01:33:44,900 --> 01:33:52,840
+<i>...and the Truth bore witness
+to the Miracle: at the same hour,
+the Great Death ceased</i>
+
+182
+01:33:52,940 --> 01:34:00,880
+<i>as the Shadow of the Deathbird
+was scattered before the victorious
+beams of the living Sun.</i>
+
+183
+01:34:08,550 --> 01:34:14,395
+The End
+
+-------------------------
+
+In acknowledgement of and gratitude for the assistance of the following resources:
+bab.la – http://en.bab.la/dictionary/german-english/
+BEOLINGUS – http://dict.tu-chemnitz.de/
+dict.cc – http://www.dict.cc/deutsch-englisch/blaettern.php
+Draculablog – http://infocult.typepad.com/dracula/
+Google Search – https://www.google.com/
+Google Translate – https://translate.google.com/
+Linguee – http://www.linguee.com/german-english/translation/
+Merriam-Webster – http://www.merriam-webster.com/
+Oxford Dictionaries – https://en.oxforddictionaries.com/
+Quora – https://www.quora.com/
+Reverso – http://dictionary.reverso.net/german-english/
+SparkNotes – http://www.sparknotes.com/lit/dracula/
+Wikipedia – https://en.wikipedia.org/
+Tales of Desire and Destruction: The Natural Vampire in Ludwig Tieck’s “Der Runenberg” and Friedrich Wilhelm Murnau’s “Nosferatu: Eine Symphonie des Grauens” (2008/2013), Irene Peinhopf, University of Victoria –https://dspace.library.uvic.ca/bitstream/handle/1828/4433/Peinhopf_Irene_MA_2013.pdf
+
+-------------------------

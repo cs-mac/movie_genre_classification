@@ -1,0 +1,4665 @@
+1
+00:02:22,064 --> 00:02:25,400
+<i>Crossbow, this is Watchdog.
+Confirm transmissions.</i>
+
+2
+00:02:25,692 --> 00:02:31,406
+<i>Roger, Watchdog. Crossbow is on
+Discriminator, and all systems are go.</i>
+
+3
+00:02:33,825 --> 00:02:38,080
+<i>Roger, we mark you go
+for maneuvering sequence.</i>
+
+4
+00:02:40,290 --> 00:02:44,253
+Watchdog, this is Crossbow.
+Confirm we are go for arm.
+
+5
+00:02:44,545 --> 00:02:46,004
+<i>Affirmative, Crossbow.</i>
+
+6
+00:02:46,296 --> 00:02:51,468
+<i>Select electrics to max, vents
+to open, and systems to onboard.</i>
+
+7
+00:02:51,760 --> 00:02:54,179
+<i>- Roger. Crossbow is armed.
+- Roger.</i>
+
+8
+00:02:54,429 --> 00:02:57,140
+<i>We have confirmation.
+Rabbit in the hole.</i>
+
+9
+00:02:57,432 --> 00:03:00,602
+Moving Target Indicator, engaged.
+
+10
+00:03:00,853 --> 00:03:04,857
+<i>- Pathfinder on. I'm going on the scope.
+- Roger.</i>
+
+11
+00:03:07,401 --> 00:03:08,652
+<i>Scanner on.</i>
+
+12
+00:03:09,194 --> 00:03:11,864
+Target locked.
+Tracking locked.
+
+13
+00:03:12,155 --> 00:03:15,367
+<i>- Roger.
+- Easy does it. That's it.</i>
+
+14
+00:03:15,659 --> 00:03:17,619
+Hold it right there.
+
+15
+00:03:31,383 --> 00:03:33,510
+<i>The Crossbow Project.</i>
+
+16
+00:03:33,760 --> 00:03:38,056
+<i>- There's no defence like a good offense.
+- Mission accomplished.</i>
+
+17
+00:03:39,516 --> 00:03:44,229
+<i>- Outstanding, Crossbow.
+- Just like shooting ducks in a barrel.</i>
+
+18
+00:03:44,521 --> 00:03:48,150
+<i>Our scientists are
+turning an engineering dream...</i>
+
+19
+00:03:48,442 --> 00:03:53,197
+<i>...into an effective reality.
+- All we have to do is build it.</i>
+
+20
+00:03:53,488 --> 00:03:57,201
+- Nice weapon, isn't it?
+- What did you think, Roy?
+
+21
+00:03:57,492 --> 00:04:00,454
+I think there weren't
+enough girls in it.
+
+22
+00:04:00,787 --> 00:04:04,708
+I have a tape on alternate uses,
+mini-shuttle plans...
+
+23
+00:04:04,958 --> 00:04:07,878
+...and B-1 modifications
+for aerial launch.
+
+24
+00:04:08,128 --> 00:04:11,048
+Does any responsible agency
+know about this?
+
+25
+00:04:11,298 --> 00:04:14,593
+It's a need-to-know basis.
+The CIA's responsible.
+
+26
+00:04:14,885 --> 00:04:19,014
+They do need to know.
+You're gonna cause an escalation.
+
+27
+00:04:19,306 --> 00:04:23,644
+Our studies indicate
+this weapon is useless in warfare.
+
+28
+00:04:23,936 --> 00:04:29,191
+It's not for war. It's a peacetime
+weapon. That's why it's secret.
+
+29
+00:04:29,483 --> 00:04:33,487
+- So it's both immoral and unethical?
+- Yes.
+
+30
+00:04:33,779 --> 00:04:35,864
+When do we get it?
+
+31
+00:04:36,156 --> 00:04:40,536
+There is a tiny technical
+problem with the energy source...
+
+32
+00:04:40,827 --> 00:04:45,165
+I don't want problems.
+We have plans for it this summer.
+
+33
+00:04:46,041 --> 00:04:50,504
+I need a success. I don't need
+any delays jeopardizing that.
+
+34
+00:04:50,796 --> 00:04:53,882
+- Am I making myself clear?
+- Clear as vodka.
+
+35
+00:04:54,174 --> 00:04:57,010
+Tell Dr. Hathaway to get on the stick.
+
+36
+00:04:57,302 --> 00:05:02,307
+- I'm gonna have to push harder.
+- As long as we have a weapon by June.
+
+37
+00:05:02,599 --> 00:05:04,268
+- Right?
+- I wouldn't know.
+
+38
+00:05:04,560 --> 00:05:07,604
+I haven't had
+a working weapon since Korea.
+
+39
+00:05:08,772 --> 00:05:11,233
+I'm sorry, this is too much.
+
+40
+00:05:11,525 --> 00:05:16,071
+- I'm gonna ask for a reassignment.
+- I'm sorry to hear that, George.
+
+41
+00:05:21,493 --> 00:05:22,744
+I urge you to stop.
+
+42
+00:05:23,036 --> 00:05:26,665
+Thanks for your input.
+Sorry you won't be on the team.
+
+43
+00:05:26,915 --> 00:05:28,917
+Maybe next time.
+
+44
+00:05:29,209 --> 00:05:32,838
+Too bad. Used to be a good man.
+
+45
+00:05:33,088 --> 00:05:36,383
+I'm afraid we're gonna
+have to liberate George.
+
+46
+00:05:40,554 --> 00:05:44,558
+Liberate? You mean, liquidate?
+
+47
+00:05:44,850 --> 00:05:50,189
+Let's see that film on blinding
+techniques. Then we'll have lunch.
+
+48
+00:06:07,998 --> 00:06:12,252
+- Could you sign this?
+- Are you Doctor Hathaway?
+
+49
+00:06:12,503 --> 00:06:19,134
+- I just loved your television show.
+- Thank you. That's very kind of you.
+
+50
+00:06:19,635 --> 00:06:25,349
+- What is Mr. Einstein really like?
+- Dead.
+
+51
+00:06:25,682 --> 00:06:31,021
+Dad, laser means light amplification
+by stimulated emissions of radiation.
+
+52
+00:06:31,313 --> 00:06:33,565
+So this is coherent light.
+
+53
+00:06:33,857 --> 00:06:37,236
+- Oh, so it talks, right?
+- No.
+
+54
+00:06:37,486 --> 00:06:40,447
+- Dr. Hathaway, what a surprise!
+- How are you?
+
+55
+00:06:40,739 --> 00:06:45,494
+Is something wrong with the test
+scores? If there is, it's because...
+
+56
+00:06:45,744 --> 00:06:48,747
+I thought I'd bring
+you the news myself.
+
+57
+00:06:48,997 --> 00:06:53,585
+I got word from admissions.
+Mitch is in at Pacific Tech.
+
+58
+00:06:53,877 --> 00:06:55,462
+- Wonderful!
+- Way to go!
+
+59
+00:06:55,754 --> 00:06:57,339
+Don't shake his head!
+
+60
+00:06:57,631 --> 00:06:59,216
+- How you doing?
+- Fine.
+
+61
+00:06:59,508 --> 00:07:01,718
+- Nice display here.
+- Thanks.
+
+62
+00:07:02,010 --> 00:07:05,889
+It's a flash lamp
+ultraviolet laser at 342 nanometres.
+
+63
+00:07:06,181 --> 00:07:10,853
+As you know, there is interest
+in the iodine laser for fusion.
+
+64
+00:07:11,103 --> 00:07:16,441
+This is molecular iodine. This laser
+doesn't suffer from recombination.
+
+65
+00:07:17,234 --> 00:07:18,569
+You must be proud.
+
+66
+00:07:18,861 --> 00:07:20,070
+- Proud?
+- Sure.
+
+67
+00:07:20,320 --> 00:07:24,116
+He's the first student we've
+accepted for winter term.
+
+68
+00:07:25,367 --> 00:07:29,496
+- I bet he's the youngest too.
+- The youngest was 12.
+
+69
+00:07:29,746 --> 00:07:31,915
+He cracked under the pressure...
+
+70
+00:07:32,207 --> 00:07:35,252
+He's 15. There won't be any problem.
+
+71
+00:07:35,502 --> 00:07:40,424
+Listen, about the scholarship.
+You're gonna give him a bonus, right?
+
+72
+00:07:40,674 --> 00:07:44,636
+No. But by allowing Mitch to progress
+at a quicker rate...
+
+73
+00:07:44,928 --> 00:07:49,516
+...we give him the chance to fill
+a greater portion of his potential.
+
+74
+00:07:49,766 --> 00:07:55,105
+We want the best for Mitchie. I saw
+your show on radioactive isotopes.
+
+75
+00:07:55,355 --> 00:07:57,816
+- And I've got a question.
+- Yes?
+
+76
+00:07:58,108 --> 00:08:00,569
+- Is that your real hair?
+- Yeah?
+
+77
+00:08:01,195 --> 00:08:04,031
+- Tell me, is Mitch adopted?
+- Why, no!
+
+78
+00:08:04,323 --> 00:08:06,116
+- It's amazing.
+- Isn't it?
+
+79
+00:08:06,366 --> 00:08:08,577
+I need something to eat. Come on.
+
+80
+00:08:08,869 --> 00:08:11,955
+- Bye, Dr. Hathaway.
+- Goodbye.
+
+81
+00:08:13,749 --> 00:08:16,001
+See you later, honey.
+
+82
+00:08:16,251 --> 00:08:20,506
+They're okay. Sometimes they
+don't know what I'm talking about.
+
+83
+00:08:20,797 --> 00:08:25,344
+I'm sure about that. Tell me,
+are you gonna miss your friends?
+
+84
+00:08:25,636 --> 00:08:29,139
+- No, I think I intimidate other kids.
+- Good boy.
+
+85
+00:08:29,806 --> 00:08:35,354
+Understand, compared to you, most
+people have the IQ of a carrot.
+
+86
+00:08:35,646 --> 00:08:38,899
+We're different from most people.
+Better. I'm...
+
+87
+00:08:39,191 --> 00:08:43,278
+- There you are, doctor!
+- Hi. Yes, one second.
+
+88
+00:08:43,570 --> 00:08:48,450
+I've put you on my research team
+with the best minds. This is only...
+
+89
+00:08:48,742 --> 00:08:53,664
+...the second time for a freshman.
+- The first was Chris Knight, right?
+
+90
+00:08:53,914 --> 00:08:56,917
+- You've heard of him?
+- He's a physics legend.
+
+91
+00:08:57,167 --> 00:09:02,589
+You'll be working with him. He's
+a senior now, as brilliant as ever.
+
+92
+00:09:02,965 --> 00:09:04,925
+Wow!
+
+93
+00:09:06,468 --> 00:09:09,972
+- This job will be waiting, Chris.
+- Great.
+
+94
+00:09:10,264 --> 00:09:13,892
+- We have a physical plant here.
+- You have a Jacuzzi?
+
+95
+00:09:14,142 --> 00:09:15,602
+- Absolutely.
+- Good.
+
+96
+00:09:15,853 --> 00:09:20,566
+And the labs and offices are
+over this way. Follow me, please.
+
+97
+00:09:30,033 --> 00:09:32,035
+Guys!
+
+98
+00:09:32,369 --> 00:09:36,456
+- Meet Chris Knight. This is Sherry.
+- Pleased to meet you.
+
+99
+00:09:36,707 --> 00:09:39,418
+- This is Mike Dodd.
+- Dr. Dodd?
+
+100
+00:09:39,668 --> 00:09:44,339
+- He designed our new Telcom satellite.
+- It's an honour to meet you.
+
+101
+00:09:44,631 --> 00:09:46,258
+Telcom.
+
+102
+00:09:46,550 --> 00:09:49,761
+The satellite raining debris
+all over Europe?
+
+103
+00:09:50,012 --> 00:09:51,763
+Why is that on your head?
+
+104
+00:09:52,055 --> 00:09:54,975
+If I wear it anywhere else,
+it chafes.
+
+105
+00:09:55,225 --> 00:09:58,979
+I'm sorry. I didn't want you
+to think I was stuffy.
+
+106
+00:09:59,271 --> 00:10:03,317
+You know, no fun.
+All brain, no penis.
+
+107
+00:10:03,817 --> 00:10:05,652
+- Pardon me?
+- I'm sorry.
+
+108
+00:10:05,903 --> 00:10:08,614
+It's an infantile response
+to authority.
+
+109
+00:10:08,864 --> 00:10:13,076
+- You are Chris Knight?
+- I hope so. I'm wearing his underwear.
+
+110
+00:10:13,327 --> 00:10:16,288
+It's a joke! I get it!
+Funny!
+
+111
+00:10:16,580 --> 00:10:18,790
+I can't help it.
+You're such fun.
+
+112
+00:10:19,082 --> 00:10:22,127
+We try to be.
+Isn't that right, Mike?
+
+113
+00:10:22,419 --> 00:10:24,171
+No.
+
+114
+00:10:24,421 --> 00:10:30,469
+Sherry's gonna show you around. Ask
+questions about benefits, dress codes.
+
+115
+00:10:30,761 --> 00:10:33,597
+- I'll see you in my office later.
+- Great.
+
+116
+00:10:33,889 --> 00:10:38,977
+Take care of him. He's one of the ten
+finest minds in the country!
+
+117
+00:10:39,228 --> 00:10:41,897
+Someday I hope to be two of them.
+
+118
+00:10:44,483 --> 00:10:46,485
+- You are beautiful.
+- Thanks.
+
+119
+00:10:46,735 --> 00:10:48,195
+Did I come off stuffy?
+
+120
+00:10:48,487 --> 00:10:51,532
+You don't act like
+one of the top ten minds.
+
+121
+00:10:51,782 --> 00:10:54,243
+- How many have you met?
+- Seven.
+
+122
+00:10:54,535 --> 00:10:56,787
+- Really?
+- You'll be eight.
+
+123
+00:10:57,871 --> 00:11:00,916
+Professor Hostetler was number six.
+
+124
+00:11:01,166 --> 00:11:04,378
+Old Professor Hostetler?
+Isn't he dead?
+
+125
+00:11:06,004 --> 00:11:08,131
+He is now.
+
+126
+00:11:14,555 --> 00:11:17,391
+Hello. I'm looking
+for the Freshman Tea?
+
+127
+00:11:17,683 --> 00:11:21,186
+Oh, good. I'm so glad
+we have one then.
+
+128
+00:11:23,230 --> 00:11:25,065
+- I don't think so.
+- Gene.
+
+129
+00:11:25,315 --> 00:11:29,278
+- This is Mitch Taylor.
+- Hathaway's bright star.
+
+130
+00:11:29,570 --> 00:11:32,489
+- Yes, sir.
+- You're already on his project.
+
+131
+00:11:32,781 --> 00:11:36,159
+- We expect great things from you.
+- I hope so.
+
+132
+00:11:36,451 --> 00:11:39,997
+- A bit of advice.
+- Oh, thank you.
+
+133
+00:11:40,414 --> 00:11:42,624
+Always...
+
+134
+00:11:42,916 --> 00:11:46,336
+Never forget to check
+your references.
+
+135
+00:11:48,964 --> 00:11:52,217
+Okay. Thank you.
+
+136
+00:11:52,509 --> 00:11:54,928
+I better be going. Sorry.
+
+137
+00:11:56,430 --> 00:12:00,767
+The young people enjoy it
+when I "get down" verbally.
+
+138
+00:12:02,436 --> 00:12:04,688
+Where's the funeral?
+
+139
+00:12:15,657 --> 00:12:18,452
+How you doing, sport?
+
+140
+00:12:21,079 --> 00:12:23,874
+Hey, Bobby, wait up, man!
+
+141
+00:12:26,043 --> 00:12:29,713
+See if he's in his room.
+He might be in there.
+
+142
+00:13:05,916 --> 00:13:07,668
+Hello?
+
+143
+00:13:16,301 --> 00:13:19,096
+- What kind of place is this?
+- Hi.
+
+144
+00:13:19,388 --> 00:13:23,308
+Would you be prepared
+if gravity reversed itself?
+
+145
+00:13:24,476 --> 00:13:28,105
+I can't figure out how
+to keep change in my pocket.
+
+146
+00:13:28,397 --> 00:13:31,149
+I've got it! Nudity!
+
+147
+00:13:32,401 --> 00:13:33,986
+I was here earlier...
+
+148
+00:13:34,278 --> 00:13:36,280
+- You didn't straighten up?
+- No.
+
+149
+00:13:36,572 --> 00:13:41,702
+Good. All my filth is in alphabetical
+order. This was under "H" for toy.
+
+150
+00:13:41,994 --> 00:13:43,120
+What is that?
+
+151
+00:13:43,370 --> 00:13:45,455
+It's a penis stretcher.
+
+152
+00:13:45,747 --> 00:13:46,999
+- Wanna try it?
+- No!
+
+153
+00:13:47,374 --> 00:13:53,922
+I'm kidding. It's another diversion
+in an attempt to avoid responsibility.
+
+154
+00:13:54,214 --> 00:13:56,675
+I left my bags. Now they're empty.
+
+155
+00:13:57,217 --> 00:14:01,471
+You see, Mitch, I used to be you.
+
+156
+00:14:04,099 --> 00:14:09,271
+I've been missing me, so I asked
+if I could room with me again.
+
+157
+00:14:09,563 --> 00:14:12,482
+I put your stuff in the bottom drawer.
+
+158
+00:14:12,774 --> 00:14:16,236
+I threw out the sports jacket.
+Duck!
+
+159
+00:14:17,404 --> 00:14:20,866
+Nice reflexes. I'm Chris Knight.
+
+160
+00:14:21,116 --> 00:14:23,202
+- Oh, no.
+- Oh, yes. Duck again!
+
+161
+00:14:27,539 --> 00:14:32,544
+Oh, my God! It's heading
+for the gas tanks. Duck!
+
+162
+00:14:34,963 --> 00:14:38,717
+Was that a launch problem
+or a design problem?
+
+163
+00:14:40,385 --> 00:14:43,889
+- We're falling behind.
+- We're not making sandwiches.
+
+164
+00:14:44,473 --> 00:14:46,517
+Get down!
+
+165
+00:14:46,892 --> 00:14:49,853
+Are you crazy?
+You could have killed us!
+
+166
+00:14:50,145 --> 00:14:52,564
+I cannot be seen with you.
+
+167
+00:14:52,814 --> 00:14:56,318
+But since I'm driving,
+shouldn't you be hiding?
+
+168
+00:14:56,568 --> 00:14:58,695
+He saw me.
+
+169
+00:14:59,154 --> 00:15:04,743
+The climate has changed. We need a
+working model in four months, not 18.
+
+170
+00:15:05,202 --> 00:15:08,205
+You can't dictate innovation, Don.
+
+171
+00:15:08,497 --> 00:15:10,207
+I'll put it another way.
+
+172
+00:15:10,457 --> 00:15:13,836
+- You know the money for development?
+- Yes.
+
+173
+00:15:14,127 --> 00:15:19,466
+When a project gets cut off, the
+finance boys always run an audit.
+
+174
+00:15:19,716 --> 00:15:21,760
+I see.
+
+175
+00:15:23,720 --> 00:15:29,685
+Having a little work done on
+the old place, Jer? Fraud is a felony.
+
+176
+00:15:35,440 --> 00:15:38,235
+What are you looking at?
+You're labourers!
+
+177
+00:15:38,485 --> 00:15:41,822
+That's what you get
+for not having an education.
+
+178
+00:15:42,114 --> 00:15:46,785
+Get out of here!
+Go on! Get out!
+
+179
+00:15:48,370 --> 00:15:49,538
+- Got it!
+- Yeah!
+
+180
+00:16:02,801 --> 00:16:04,094
+Are you two...?
+
+181
+00:16:04,386 --> 00:16:05,429
+- Hey!
+- Yes?
+
+182
+00:16:05,679 --> 00:16:08,140
+- Put down the sandwiches and go.
+- Me?
+
+183
+00:16:08,390 --> 00:16:10,851
+- No, Yoda. Yeah, you!
+- Just a bit.
+
+184
+00:16:11,101 --> 00:16:12,895
+- I don't have any...
+- Brains?
+
+185
+00:16:13,187 --> 00:16:15,606
+- No. Sandwiches.
+- What good are you?
+
+186
+00:16:15,898 --> 00:16:19,401
+- What will we eat?
+- Are you from the restaurant?
+
+187
+00:16:19,693 --> 00:16:25,782
+No! I'm Mitch Taylor. I'm a student.
+Dr. Hathaway told me to come up here.
+
+188
+00:16:27,492 --> 00:16:30,704
+So you're the new stud, are you?
+
+189
+00:16:31,455 --> 00:16:34,374
+- How do you mean?
+- Stud. Hotshot. Brain.
+
+190
+00:16:34,666 --> 00:16:38,504
+- You're 12, right?
+- I'm 15. Are you expecting him...?
+
+191
+00:16:38,754 --> 00:16:41,089
+Yeah. Can I get you something?
+
+192
+00:16:41,381 --> 00:16:46,053
+- A balloon?
+- I'm supposed to check over your work.
+
+193
+00:16:46,345 --> 00:16:49,139
+- Check it over?
+- Well, yes.
+
+194
+00:16:49,389 --> 00:16:51,475
+- For what?
+- Mistakes, I guess.
+
+195
+00:16:51,767 --> 00:16:57,231
+- He said you guys were stuck.
+- No! Let's get something clear here.
+
+196
+00:16:57,523 --> 00:17:01,068
+Okay, when Jerry's not here,
+you do what I say.
+
+197
+00:17:01,360 --> 00:17:06,281
+It goes from God to Jerry to me.
+Get it?
+
+198
+00:17:08,659 --> 00:17:09,701
+Hello, Jerry.
+
+199
+00:17:10,077 --> 00:17:14,081
+- You don't get to use my first name.
+- Did I?
+
+200
+00:17:14,456 --> 00:17:18,544
+How you doing, Mitch?
+I'm sure you'll all be friends.
+
+201
+00:17:18,836 --> 00:17:20,629
+- We're on our way.
+- Good.
+
+202
+00:17:20,921 --> 00:17:24,216
+I want you to take
+your cues from Mitch.
+
+203
+00:17:24,508 --> 00:17:28,178
+His ideas are
+the most original I've seen.
+
+204
+00:17:28,470 --> 00:17:32,266
+- So Mitch is in charge of the group.
+- Really, Jerry?
+
+205
+00:17:32,558 --> 00:17:35,102
+- You're doing it again.
+- Oh, am I?
+
+206
+00:17:35,394 --> 00:17:40,649
+- Where is Knight?
+- He didn't bother to come in today.
+
+207
+00:17:40,899 --> 00:17:43,402
+- Yes?
+- He said he didn't feel like it.
+
+208
+00:17:43,694 --> 00:17:48,365
+I said, "You better or you'll be
+in trouble." He said, "Jam it!"
+
+209
+00:17:48,657 --> 00:17:52,953
+- Great. You're not stuttering.
+- I give myself shock treatments.
+
+210
+00:17:53,203 --> 00:17:54,454
+Up the voltage.
+
+211
+00:17:54,746 --> 00:17:58,208
+- I'm sorry he's not here...
+- That clown? Look!
+
+212
+00:17:58,458 --> 00:18:01,170
+Kent decided to start without him.
+
+213
+00:18:01,420 --> 00:18:05,215
+The yield's insignificant.
+We think the sample's damaged.
+
+214
+00:18:05,591 --> 00:18:09,052
+- What?
+- Obviously the result of negligence.
+
+215
+00:18:09,344 --> 00:18:13,849
+It'll take a week to prepare a new
+sample. I was afraid of this.
+
+216
+00:18:14,099 --> 00:18:16,643
+- Are you sure?
+- We're sure. Positive.
+
+217
+00:18:16,935 --> 00:18:19,897
+- Excuse me.
+- There is no excuse for it.
+
+218
+00:18:20,189 --> 00:18:24,484
+- Yeah, Mitch, what is it?
+- The pump laser is down.
+
+219
+00:18:24,776 --> 00:18:26,528
+Look.
+
+220
+00:18:31,200 --> 00:18:32,409
+There.
+
+221
+00:18:32,701 --> 00:18:35,996
+Well, it seems to be all better now.
+
+222
+00:18:36,246 --> 00:18:39,082
+Don't touch other people's things!
+
+223
+00:18:39,374 --> 00:18:42,794
+- Kent, I need you.
+- Anything, Jerry.
+
+224
+00:18:43,086 --> 00:18:46,798
+What? Do you want me to teach
+your class for you?
+
+225
+00:18:47,090 --> 00:18:51,136
+No, I need you to get copies
+of all the data so far.
+
+226
+00:18:51,345 --> 00:18:54,681
+So Mitch can check
+everything tomorrow.
+
+227
+00:18:54,932 --> 00:18:58,477
+- My pleasure.
+- After that, stop by my cleaners.
+
+228
+00:18:58,769 --> 00:19:00,729
+Don't give it a thought.
+
+229
+00:19:00,979 --> 00:19:04,316
+- Mitch, shall we? On the moment.
+- Sure.
+
+230
+00:19:09,738 --> 00:19:14,868
+Well, I guess it goes from God
+to Jerry to you...
+
+231
+00:19:15,160 --> 00:19:17,412
+...to the cleaners.
+
+232
+00:19:17,704 --> 00:19:20,123
+Right, Kent?
+
+233
+00:19:22,042 --> 00:19:27,422
+Library. Library... 205.
+
+234
+00:19:37,516 --> 00:19:42,104
+Welcome to Pacific Tech's
+"Smart People on Ice."
+
+235
+00:19:44,147 --> 00:19:47,484
+Let's go skating.
+
+236
+00:19:47,776 --> 00:19:50,279
+Ick, the ice turned out great!
+
+237
+00:19:50,529 --> 00:19:53,699
+Yeah, it worked, didn't it?
+
+238
+00:19:53,991 --> 00:19:55,784
+- How did you do it?
+- Sure.
+
+239
+00:19:56,076 --> 00:20:02,040
+I tell you, you tell somebody else,
+next we're in another ice age.
+
+240
+00:20:03,208 --> 00:20:06,670
+- Everybody must be skating.
+- You're a slack!
+
+241
+00:20:06,962 --> 00:20:09,131
+- Moles and trolls.
+- What?
+
+242
+00:20:09,423 --> 00:20:12,759
+Moles and trolls. Work.
+We never see daylight.
+
+243
+00:20:13,051 --> 00:20:17,139
+We plan for weeks and all
+they do is study. I'm disgusted.
+
+244
+00:20:17,389 --> 00:20:21,351
+I'm sorry, but it's not like me.
+I'm depressed.
+
+245
+00:20:21,643 --> 00:20:26,064
+We had one entry for the Madame Curie
+look-alike contest...
+
+246
+00:20:26,356 --> 00:20:31,278
+...and he was disqualified later.
+Why do I bother?
+
+247
+00:20:31,570 --> 00:20:34,740
+Let's go! What are you,
+a bunch of weirdos?
+
+248
+00:20:35,032 --> 00:20:39,369
+- Want a cherry? I grow them myself.
+- What?
+
+249
+00:20:40,078 --> 00:20:42,915
+Okay, push once.
+
+250
+00:20:48,670 --> 00:20:49,755
+Are you okay?
+
+251
+00:20:50,923 --> 00:20:54,635
+No, not emotionally.
+I'm disappointed. Not terribly.
+
+252
+00:20:54,885 --> 00:20:57,387
+It should have gone further, faster.
+
+253
+00:20:57,679 --> 00:21:01,058
+The problem is obviously
+the drag coefficient.
+
+254
+00:21:01,350 --> 00:21:04,853
+I'll have to redesign the blades.
+I can do that.
+
+255
+00:21:05,103 --> 00:21:08,315
+But I've got to cut them,
+and that takes time.
+
+256
+00:21:08,565 --> 00:21:11,735
+- How long will this last?
+- Maybe a half an hour.
+
+257
+00:21:12,027 --> 00:21:13,987
+That's great. I can do that.
+
+258
+00:21:14,279 --> 00:21:16,490
+- Okay. What's your name?
+- Mitch.
+
+259
+00:21:16,782 --> 00:21:19,243
+Thanks for your help.
+See you later.
+
+260
+00:21:19,535 --> 00:21:21,119
+You're welcome!
+
+261
+00:21:21,411 --> 00:21:22,913
+- Who was that?
+- That...
+
+262
+00:21:23,163 --> 00:21:27,334
+I'm Jordan. I heard there was
+someone new. Are you it?
+
+263
+00:21:27,626 --> 00:21:28,710
+Yes.
+
+264
+00:21:29,002 --> 00:21:30,629
+- Do you have a bed?
+- Yeah.
+
+265
+00:21:30,879 --> 00:21:35,259
+I'd make you one, but you have one.
+Okay, see you later. Bye.
+
+266
+00:21:35,509 --> 00:21:37,344
+Bye.
+
+267
+00:21:40,097 --> 00:21:43,058
+- What's all this?
+- This? This is ice.
+
+268
+00:21:43,308 --> 00:21:46,103
+This is what happens
+when water gets cold.
+
+269
+00:21:46,353 --> 00:21:51,733
+This is Kent. This is what happens
+when people get sexually frustrated.
+
+270
+00:21:52,901 --> 00:21:54,695
+This should keep you busy.
+
+271
+00:21:54,987 --> 00:21:58,699
+This with your classes should
+turn your brain to mush.
+
+272
+00:21:58,991 --> 00:22:03,203
+That's unfair. And we were gonna
+make you carnival king.
+
+273
+00:22:03,495 --> 00:22:05,581
+Yeah?
+
+274
+00:22:05,831 --> 00:22:09,251
+Ha, ha. You're in on this too.
+Did you make it?
+
+275
+00:22:09,459 --> 00:22:11,837
+- I'm not saying.
+- Who'll clean it?
+
+276
+00:22:12,087 --> 00:22:16,341
+You don't have to.
+It's gonna go directly to gas.
+
+277
+00:22:16,592 --> 00:22:18,010
+Really? What is it?
+
+278
+00:22:18,343 --> 00:22:21,805
+All I can tell you is
+it's rare and unstable.
+
+279
+00:22:22,097 --> 00:22:23,849
+Just like you.
+
+280
+00:22:24,057 --> 00:22:26,018
+- You're degenerates.
+- We are?
+
+281
+00:22:26,310 --> 00:22:29,313
+- I found you naked with Jell-O!
+- You did not!
+
+282
+00:22:29,563 --> 00:22:30,731
+This is true.
+
+283
+00:22:31,023 --> 00:22:34,109
+I was hot, and I was hungry. Okay?
+
+284
+00:22:34,735 --> 00:22:36,862
+I got news for you, Knight.
+
+285
+00:22:37,112 --> 00:22:39,948
+- You're not first anymore.
+- First what?
+
+286
+00:22:40,240 --> 00:22:44,286
+- Mitch beat your scores by 20 points.
+- Yeah, you did?
+
+287
+00:22:44,536 --> 00:22:48,290
+- You think you're hot stuff, huh?
+- No.
+
+288
+00:22:48,582 --> 00:22:50,792
+Maybe you are smarter than me.
+
+289
+00:22:51,084 --> 00:22:53,670
+But can you do this?
+
+290
+00:23:01,512 --> 00:23:05,557
+- Ick, what's happening with the ice?
+- Open a window!
+
+291
+00:23:07,100 --> 00:23:10,062
+Ick, I'm melting!
+
+292
+00:23:10,479 --> 00:23:12,064
+- It worked!
+- Neat!
+
+293
+00:23:12,356 --> 00:23:17,444
+- Now if we can keep it from exploding.
+- Exploding? Oh, God.
+
+294
+00:23:18,320 --> 00:23:23,534
+Hey, Ick. You're just joking
+about exploding, right?
+
+295
+00:23:23,825 --> 00:23:27,412
+Ick? It's a joke, right?
+
+296
+00:24:33,896 --> 00:24:38,775
+Good morning. I saw you come in.
+We met last night? I'm Jordan.
+
+297
+00:24:39,067 --> 00:24:41,570
+- I made you a sweater.
+- Last night?
+
+298
+00:24:41,862 --> 00:24:44,865
+It's something I do.
+Hope the size is right.
+
+299
+00:24:45,157 --> 00:24:47,492
+I used my brother
+as a comparison.
+
+300
+00:24:47,784 --> 00:24:51,330
+I went ahead and made you one,
+because I was up.
+
+301
+00:24:51,622 --> 00:24:54,041
+- Are you peeing?
+- Yeah.
+
+302
+00:24:54,333 --> 00:24:57,628
+I never sleep.
+I drove my roommate nuts.
+
+303
+00:24:57,878 --> 00:25:03,050
+She's okay, but she had to transfer.
+I don't know if that's my fault.
+
+304
+00:25:03,342 --> 00:25:08,805
+If you ever need to talk, let me know,
+because I never sleep, okay?
+
+305
+00:25:09,097 --> 00:25:10,807
+- I will.
+- Are you done?
+
+306
+00:25:11,642 --> 00:25:14,019
+- I can't start.
+- Because I'm here?
+
+307
+00:25:14,311 --> 00:25:16,146
+I think so.
+
+308
+00:25:16,438 --> 00:25:20,484
+- Weird. Well, I have to go.
+- Me too.
+
+309
+00:25:20,776 --> 00:25:22,778
+Bye.
+
+310
+00:25:28,742 --> 00:25:31,328
+Good morning!
+
+311
+00:25:42,548 --> 00:25:44,716
+- Chris?
+- Morning.
+
+312
+00:25:44,967 --> 00:25:48,345
+You know, something strange
+happened this morning.
+
+313
+00:25:48,595 --> 00:25:53,267
+Was it a dream where you're standing
+in a robe on a pyramid...
+
+314
+00:25:53,559 --> 00:25:57,855
+...with 1000 naked women screaming
+and throwing pickles at you?
+
+315
+00:25:58,146 --> 00:25:59,314
+No.
+
+316
+00:25:59,606 --> 00:26:03,026
+Why am I the only person
+that has that dream?
+
+317
+00:26:07,489 --> 00:26:10,158
+Is that liquid nitrogen?
+
+318
+00:26:10,701 --> 00:26:12,744
+- Coffee?
+- No.
+
+319
+00:26:18,792 --> 00:26:22,129
+- What happened?
+- There's a guy in our closet.
+
+320
+00:26:23,297 --> 00:26:25,299
+You've seen him too?
+
+321
+00:26:25,632 --> 00:26:27,176
+Who is he?
+
+322
+00:26:30,929 --> 00:26:31,930
+Hollyfeld.
+
+323
+00:26:32,222 --> 00:26:34,808
+- Why does he go in?
+- Why do you go in?
+
+324
+00:26:35,058 --> 00:26:38,103
+To get my clothes.
+But that's not why he does.
+
+325
+00:26:38,395 --> 00:26:42,107
+Of course not.
+Your clothes would never fit him.
+
+326
+00:26:42,482 --> 00:26:44,526
+Yeah.
+
+327
+00:26:45,194 --> 00:26:47,070
+Think before you ask.
+
+328
+00:26:47,362 --> 00:26:52,242
+Twenty points higher and thinks
+a guy like that can wear his clothes.
+
+329
+00:30:14,111 --> 00:30:17,114
+<i>plus y, equals zero.</i>
+
+330
+00:31:08,457 --> 00:31:10,417
+This is it!
+
+331
+00:33:05,032 --> 00:33:07,492
+Come on, get out of here! Get!
+
+332
+00:33:07,951 --> 00:33:10,537
+- You wanted to see me?
+- Mr. Knight.
+
+333
+00:33:10,787 --> 00:33:13,665
+Right on time.
+Unusual these days.
+
+334
+00:33:13,916 --> 00:33:17,211
+- You still run?
+- Only when chased.
+
+335
+00:33:17,711 --> 00:33:19,963
+- What smells?
+- Must be the dog.
+
+336
+00:33:20,255 --> 00:33:21,882
+- That's popcorn.
+- I know.
+
+337
+00:33:22,132 --> 00:33:26,428
+Get it away from me. I hate popcorn.
+Put it over there.
+
+338
+00:33:26,720 --> 00:33:29,932
+Now I know what to get you
+for your birthday.
+
+339
+00:33:30,682 --> 00:33:34,102
+I guess we're moving up
+in the world, eh?
+
+340
+00:33:34,394 --> 00:33:37,231
+- Very elegant.
+- Try not to touch anything.
+
+341
+00:33:37,481 --> 00:33:41,193
+- Is this okay, sir?
+- It's oak, it's not plywood.
+
+342
+00:33:41,443 --> 00:33:44,947
+- Quite a change from the old place.
+- Shoes.
+
+343
+00:33:45,197 --> 00:33:47,699
+I want to see
+more of you in the lab.
+
+344
+00:33:47,991 --> 00:33:49,535
+Fine. I'll gain weight.
+
+345
+00:33:49,785 --> 00:33:53,747
+- You're very funny, Chris.
+- Thanks, Jerry, we try.
+
+346
+00:33:56,041 --> 00:33:58,085
+You can sit.
+
+347
+00:33:58,418 --> 00:34:02,464
+When I brought you here,
+I thought you'd be an Einstein.
+
+348
+00:34:02,756 --> 00:34:06,051
+- You were on your way. Then?
+- I got a haircut.
+
+349
+00:34:06,343 --> 00:34:09,012
+- You're disappointing me.
+- And you me.
+
+350
+00:34:09,304 --> 00:34:13,308
+- Look, it's about our deal.
+- I know, Jerry.
+
+351
+00:34:13,600 --> 00:34:16,603
+I've advanced your project
+more than anyone.
+
+352
+00:34:16,895 --> 00:34:19,898
+Yesterday. What have you done
+for me today?
+
+353
+00:34:21,149 --> 00:34:23,735
+Well, uh...
+
+354
+00:34:24,903 --> 00:34:28,323
+I want five megawatts by mid-May.
+
+355
+00:34:29,700 --> 00:34:36,331
+I think you might be getting obsessive
+about all this. I took in Mitch, okay?
+
+356
+00:34:36,790 --> 00:34:40,460
+He's coming along fine.
+He's working his guts out.
+
+357
+00:34:40,752 --> 00:34:44,673
+- So, what do you want?
+- I want five megawatts by mid-May.
+
+358
+00:34:44,923 --> 00:34:49,803
+Look, I don't care
+if you're arrogant or disrespectful.
+
+359
+00:34:50,053 --> 00:34:53,390
+But you're distracting Mitch.
+That I won't have.
+
+360
+00:34:53,682 --> 00:34:57,728
+The rules have changed.
+I want it by mid-May.
+
+361
+00:34:58,020 --> 00:35:03,817
+Jerry, I think you're forgetting
+one little detail. I'm out of here.
+
+362
+00:35:04,109 --> 00:35:06,486
+I'm gone, I'm history.
+I'm Casper.
+
+363
+00:35:06,778 --> 00:35:11,241
+- I'm graduating.
+- To graduate, you need my course.
+
+364
+00:35:11,491 --> 00:35:14,912
+I have a say about
+what you do and where you go.
+
+365
+00:35:15,370 --> 00:35:19,041
+So you and Mitch will spend
+every moment in the lab.
+
+366
+00:35:19,333 --> 00:35:23,587
+You will solve my power problem
+by my deadline.
+
+367
+00:35:26,548 --> 00:35:32,346
+If you think that threatening me
+will make me your slave, you're right.
+
+368
+00:35:32,638 --> 00:35:35,891
+But I'm only saying this
+because I care.
+
+369
+00:35:36,183 --> 00:35:41,563
+There are decaffeinated brands
+that are as tasty as the real thing.
+
+370
+00:35:41,855 --> 00:35:44,441
+I'm not kidding, Chris.
+
+371
+00:35:45,776 --> 00:35:48,403
+Neither am I, Jerry.
+
+372
+00:35:58,247 --> 00:35:59,331
+Hi, Mitch.
+
+373
+00:36:00,457 --> 00:36:01,917
+Do me a favour.
+
+374
+00:36:02,167 --> 00:36:06,129
+Taste this.
+Come on, you won't hurt my feelings.
+
+375
+00:36:06,755 --> 00:36:08,048
+What, too sweet?
+
+376
+00:36:08,882 --> 00:36:12,678
+- What is it?
+- I don't know, it was in the lab.
+
+377
+00:36:13,637 --> 00:36:16,682
+Relax, it's just yogurt.
+
+378
+00:36:17,975 --> 00:36:22,354
+- Mitch, are you all right?
+- No, I'm not.
+
+379
+00:36:22,604 --> 00:36:27,651
+This combination of cyanide is dumb.
+This is the wrong direction.
+
+380
+00:36:27,943 --> 00:36:33,448
+Only you know how to use this garbage.
+And I'm getting brain-fried.
+
+381
+00:36:33,740 --> 00:36:38,287
+I'll make it up to you.
+Let's just pause, put that down.
+
+382
+00:36:38,620 --> 00:36:42,165
+Let's just take a step back.
+
+383
+00:36:42,416 --> 00:36:44,668
+No, take a step forward.
+
+384
+00:36:44,960 --> 00:36:49,715
+Now, take a step back.
+And a step forward. Then step back.
+
+385
+00:36:50,382 --> 00:36:54,219
+- Will you stop? I'm serious.
+- Okay, I'm serious too.
+
+386
+00:36:54,469 --> 00:36:57,848
+Let's charge it up.
+Give me everything you got.
+
+387
+00:36:58,140 --> 00:37:03,604
+- I gotta connect the capacitors.
+- Okay, this is work time.
+
+388
+00:37:11,153 --> 00:37:14,698
+- How you doing?
+- Fine. Don't rush me.
+
+389
+00:37:14,948 --> 00:37:19,286
+Okay, just take your time.
+Everything's fine.
+
+390
+00:37:21,205 --> 00:37:23,749
+What is taking so long?
+
+391
+00:37:24,124 --> 00:37:26,585
+I'm coming.
+
+392
+00:37:28,086 --> 00:37:29,379
+Charging.
+
+393
+00:37:29,838 --> 00:37:31,381
+Shades.
+
+394
+00:37:38,722 --> 00:37:41,183
+- What are you doing?
+- Waiting.
+
+395
+00:37:43,310 --> 00:37:47,272
+It's just the fuse.
+It'll be back on in a minute.
+
+396
+00:37:47,564 --> 00:37:51,193
+I shouldn't have used
+the building transformer.
+
+397
+00:37:51,401 --> 00:37:55,364
+But, more importantly,
+did we get a charge?
+
+398
+00:37:57,533 --> 00:37:58,742
+What'd you do?
+
+399
+00:37:59,243 --> 00:38:01,078
+- Wait!
+- Come on, Sputnik.
+
+400
+00:38:01,286 --> 00:38:04,289
+You wanted help,
+so here we go.
+
+401
+00:38:04,957 --> 00:38:07,960
+- Beautiful minds.
+- We have work.
+
+402
+00:38:08,252 --> 00:38:10,796
+We're going to work.
+Hard work.
+
+403
+00:38:11,046 --> 00:38:13,298
+This must've taken hours.
+
+404
+00:38:13,549 --> 00:38:14,883
+Let's find out.
+
+405
+00:38:19,680 --> 00:38:22,391
+I told you they'd come back on.
+
+406
+00:38:22,683 --> 00:38:26,019
+- What's this?
+- It's a laser beam, bozo.
+
+407
+00:38:26,311 --> 00:38:29,356
+- What's it for?
+- Not what. Where.
+
+408
+00:38:29,606 --> 00:38:33,527
+- What?
+- Follow it. It's a surprise.
+
+409
+00:38:36,697 --> 00:38:38,657
+Like it?
+
+410
+00:38:39,491 --> 00:38:42,578
+Hey, what's the beam splitter for?
+
+411
+00:38:43,537 --> 00:38:48,208
+What's the matter?
+Need everything spelled out for you?
+
+412
+00:38:52,045 --> 00:38:54,173
+Come on, let's tan!
+
+413
+00:38:56,800 --> 00:38:58,218
+One for Mitch.
+
+414
+00:39:10,564 --> 00:39:13,817
+Come on in,
+the South Pacific calls you.
+
+415
+00:39:15,319 --> 00:39:18,280
+- Who're the girls?
+- Not from around here.
+
+416
+00:39:19,281 --> 00:39:21,825
+- They're from a nearby college.
+- Where?
+
+417
+00:39:22,117 --> 00:39:24,578
+The Wanda Trossler Beauty School.
+
+418
+00:39:25,245 --> 00:39:27,581
+- They're beauticians?
+- Not yet.
+
+419
+00:39:27,831 --> 00:39:31,835
+- I don't know.
+- Your genius might impress them.
+
+420
+00:39:32,044 --> 00:39:34,046
+I don't see how.
+
+421
+00:39:34,880 --> 00:39:37,174
+Given the type of guys you are...
+
+422
+00:39:37,466 --> 00:39:43,430
+...this may be your only chance
+in your entire lives...
+
+423
+00:39:43,722 --> 00:39:45,724
+...to have sex.
+
+424
+00:39:45,974 --> 00:39:48,101
+Think about it.
+
+425
+00:40:17,506 --> 00:40:20,050
+Destiny!
+I've got her now.
+
+426
+00:40:25,722 --> 00:40:30,352
+Don't you know that eating that
+can give you large breasts?
+
+427
+00:40:30,644 --> 00:40:33,230
+Oh, my God.
+I'm too late.
+
+428
+00:40:46,368 --> 00:40:49,538
+Don't think I don't
+want my invention to work.
+
+429
+00:40:49,830 --> 00:40:53,959
+- The day's only so long.
+- Ready to go.
+
+430
+00:40:54,251 --> 00:40:57,546
+Pushing me doesn't help.
+Tell them that.
+
+431
+00:40:57,838 --> 00:41:02,050
+Start showing results
+or they'll find somebody else.
+
+432
+00:41:02,342 --> 00:41:05,596
+- Oh, really?
+- You won't have your big toys.
+
+433
+00:41:05,846 --> 00:41:09,600
+I'm the best.
+Do you know who you're dealing with?
+
+434
+00:41:10,225 --> 00:41:13,061
+How dare you try this.
+I have to go on.
+
+435
+00:41:13,312 --> 00:41:16,857
+This conversation is in
+incredibly poor taste.
+
+436
+00:41:17,149 --> 00:41:19,902
+- Son of a bitch.
+- Asshole.
+
+437
+00:41:22,905 --> 00:41:26,658
+<i>Welcome to Everything,
+with Jerome Hathaway.</i>
+
+438
+00:41:26,950 --> 00:41:31,872
+<i>Funded by a grant from
+Darlington E lectronic Instruments.</i>
+
+439
+00:41:32,122 --> 00:41:36,043
+<i>Hi, I'm Jerry Hathaway,
+with Everything.</i>
+
+440
+00:41:36,335 --> 00:41:42,382
+Tonight, we'll look at something
+that most of us take for granted.
+
+441
+00:41:42,925 --> 00:41:46,720
+The colon.
+What does it look like?
+
+442
+00:41:47,554 --> 00:41:48,847
+Get out of there.
+
+443
+00:41:49,890 --> 00:41:51,850
+- Kent!
+- Cut!
+
+444
+00:41:52,100 --> 00:41:56,730
+- You're in front of the teleprompter.
+- Well, I didn't know.
+
+445
+00:41:57,397 --> 00:42:00,234
+- We need to talk.
+- Get my laundry?
+
+446
+00:42:00,526 --> 00:42:03,111
+- Yes, but there's more.
+- The gravy.
+
+447
+00:42:03,403 --> 00:42:07,616
+No, that came out.
+Chris and Mitch, they're at a party.
+
+448
+00:42:07,866 --> 00:42:09,910
+With girls.
+
+449
+00:42:11,787 --> 00:42:14,873
+- I want you to show me.
+- My pleasure.
+
+450
+00:42:53,787 --> 00:42:57,624
+- Hi, are you busy?
+- Yes. No.
+
+451
+00:42:57,875 --> 00:43:01,837
+Wanna help test my rebreather?
+Come on!
+
+452
+00:43:02,129 --> 00:43:03,589
+Sure!
+
+453
+00:43:09,303 --> 00:43:13,056
+It's a simple principle.
+It's basically a filter.
+
+454
+00:43:13,348 --> 00:43:17,769
+It lets CO2 out and O2 back in,
+but no bubbles.
+
+455
+00:43:19,229 --> 00:43:22,983
+- How come you're not...?
+- Necking? I'm not gay!
+
+456
+00:43:23,442 --> 00:43:24,735
+No, partying.
+
+457
+00:43:25,569 --> 00:43:29,948
+Because I'm 19 and I'm brilliant
+and hyperkinetic.
+
+458
+00:43:30,199 --> 00:43:33,118
+Guys are afraid.
+I guess I should be upset.
+
+459
+00:43:35,204 --> 00:43:37,915
+I think you're very nice.
+
+460
+00:43:40,417 --> 00:43:43,086
+I think you're nice too.
+
+461
+00:43:47,132 --> 00:43:49,468
+Do you want to try this?
+
+462
+00:43:55,724 --> 00:43:59,394
+- It's lighter in the water.
+- How about you?
+
+463
+00:44:11,698 --> 00:44:12,991
+Taylor!
+
+464
+00:44:19,623 --> 00:44:22,584
+- Why aren't you in the lab?
+- I just...
+
+465
+00:44:22,835 --> 00:44:25,546
+You're here to work,
+not to play doctor.
+
+466
+00:44:25,796 --> 00:44:28,507
+- I got delayed.
+- Where's Knight?
+
+467
+00:44:28,799 --> 00:44:31,760
+- You both make me sick.
+- Kent!
+
+468
+00:44:33,887 --> 00:44:39,184
+I took a chance recommending you.
+I can see I made a mistake.
+
+469
+00:44:39,434 --> 00:44:41,979
+I hope you're proud of yourself.
+
+470
+00:44:48,151 --> 00:44:50,320
+- Dr. Hathaway?
+- What?
+
+471
+00:44:50,863 --> 00:44:52,948
+Are you wearing makeup?
+
+472
+00:44:54,950 --> 00:44:56,368
+What?
+
+473
+00:45:28,317 --> 00:45:33,322
+I need one more course
+to complete my humanities credits.
+
+474
+00:45:45,834 --> 00:45:50,172
+I'd like to make a collect call
+to Mrs. Bill Taylor.
+
+475
+00:45:50,756 --> 00:45:53,342
+- Come on, come on.
+- Mitch Taylor.
+
+476
+00:45:54,384 --> 00:45:56,970
+I got a great idea.
+
+477
+00:45:57,262 --> 00:45:58,764
+- What?
+- Hold it down!
+
+478
+00:45:59,014 --> 00:46:00,641
+Mom, I...
+
+479
+00:46:04,853 --> 00:46:07,314
+I want to come home.
+
+480
+00:46:15,197 --> 00:46:18,617
+<i>- Are you there?
+- Baby, you sound upset.</i>
+
+481
+00:46:19,076 --> 00:46:22,663
+I don't like it here.
+I wanna come home.
+
+482
+00:46:23,705 --> 00:46:26,458
+You rented out my room?!
+To who?
+
+483
+00:46:26,708 --> 00:46:29,670
+<i>Mr. Echevarria, the plumber.</i>
+
+484
+00:46:42,474 --> 00:46:48,188
+- Where were you last night?
+- The lab, where you should've been.
+
+485
+00:46:51,191 --> 00:46:56,154
+Jordan said that Hathaway was mad.
+What exactly did he...?
+
+486
+00:46:58,282 --> 00:47:01,785
+Let me hold that thought
+and get back to you.
+
+487
+00:47:08,166 --> 00:47:11,545
+<i>- Are you there?
+- Baby, you sound upset.</i>
+
+488
+00:47:11,795 --> 00:47:15,090
+<i>I don't like it here.
+I wanna come home.</i>
+
+489
+00:47:15,340 --> 00:47:18,302
+<i>It's not for you to like,
+it's for you to do.</i>
+
+490
+00:47:18,552 --> 00:47:22,431
+<i>- You're 15 years old.
+- I wanna come home.</i>
+
+491
+00:47:22,723 --> 00:47:26,602
+<i>- You want to live with me and Daddy?
+- Yeah.</i>
+
+492
+00:47:27,269 --> 00:47:31,607
+<i>- I'll go back to high school.
+- We've rented out your room.</i>
+
+493
+00:47:32,733 --> 00:47:35,777
+<i>- Mom, to who?
+- Mr. Echevarria, the plumber.</i>
+
+494
+00:47:36,069 --> 00:47:39,489
+<i>We can share it.
+I don't wanna stay here.</i>
+
+495
+00:47:40,616 --> 00:47:46,121
+<i>- That doesn't sound like my soldier.
+- Mitch, this is your dad.</i>
+
+496
+00:47:47,623 --> 00:47:50,584
+<i>- Hi, Dad.
+- Are you crying?</i>
+
+497
+00:47:50,834 --> 00:47:53,295
+<i>- I'm sorry.
+- I hope nobody sees.</i>
+
+498
+00:47:54,630 --> 00:47:58,091
+<i>- I'm a kid.
+- You've never been just a kid.</i>
+
+499
+00:48:21,615 --> 00:48:25,869
+If you wanna leave, go ahead.
+
+500
+00:48:26,537 --> 00:48:30,249
+But you're gonna miss the fun.
+
+501
+00:48:30,499 --> 00:48:31,834
+What fun?
+
+502
+00:48:32,084 --> 00:48:35,712
+Ick's releasing a new virus
+in Kent's room.
+
+503
+00:48:35,963 --> 00:48:40,592
+- The other night I needed your help.
+- I helped you relax.
+
+504
+00:48:40,884 --> 00:48:44,179
+Being snubbed by beauticians
+is not relaxing.
+
+505
+00:48:44,429 --> 00:48:46,849
+Student beauticians.
+
+506
+00:48:47,975 --> 00:48:52,396
+I thought this place was different.
+But it's the same.
+
+507
+00:48:52,688 --> 00:48:55,524
+In high school,
+I got put in a mailbox.
+
+508
+00:48:55,774 --> 00:48:58,527
+Teachers hated me
+because I was smarter.
+
+509
+00:48:58,777 --> 00:49:02,489
+Students hated me because
+I blew the bell curve.
+
+510
+00:49:02,781 --> 00:49:04,408
+I was just like you.
+
+511
+00:49:04,700 --> 00:49:08,745
+I had white shirts and Hush Puppies
+and a briefcase.
+
+512
+00:49:08,996 --> 00:49:10,956
+Girls never talked to me.
+
+513
+00:49:11,248 --> 00:49:15,085
+When I got here, for
+three years I studied constantly.
+
+514
+00:49:16,461 --> 00:49:18,380
+- You?
+- Yeah.
+
+515
+00:49:18,881 --> 00:49:22,843
+One night, sitting right here,
+I had a vision.
+
+516
+00:49:23,177 --> 00:49:25,470
+- What?
+- Hollyfeld.
+
+517
+00:49:26,138 --> 00:49:30,142
+- The guy in the closet?
+- Lazlo Hollyfeld.
+
+518
+00:49:30,392 --> 00:49:34,396
+I followed him into the closet,
+down into the tunnels.
+
+519
+00:49:34,646 --> 00:49:38,567
+There I saw the most disgusting thing
+I've ever seen.
+
+520
+00:49:38,817 --> 00:49:40,986
+- What?
+- Lazlo in his pajamas.
+
+521
+00:49:42,613 --> 00:49:45,282
+- So?
+- So I talked to him.
+
+522
+00:49:45,532 --> 00:49:46,950
+- You did?
+- Yeah.
+
+523
+00:49:47,242 --> 00:49:52,456
+He was a stud around here in the '70s.
+Smarter than us put together.
+
+524
+00:49:53,457 --> 00:49:55,876
+What happened?
+Did he crack?
+
+525
+00:49:56,168 --> 00:49:58,003
+He cracked, severely.
+
+526
+00:49:58,295 --> 00:50:01,507
+- Why?
+- He loved his work.
+
+527
+00:50:01,965 --> 00:50:05,677
+- What's wrong with that?
+- That's all he did.
+
+528
+00:50:05,928 --> 00:50:09,264
+He loved problems,
+he loved the answers.
+
+529
+00:50:09,556 --> 00:50:14,728
+But he thought that the answers
+were the answers for everything.
+
+530
+00:50:15,270 --> 00:50:17,356
+All science,
+no philosophy.
+
+531
+00:50:17,648 --> 00:50:22,778
+One day, someone told him
+the stuff he made was killing people.
+
+532
+00:50:24,321 --> 00:50:27,282
+So, what?
+I'm gonna end up in a tunnel?
+
+533
+00:50:27,991 --> 00:50:29,826
+- Yeah.
+- What?
+
+534
+00:50:30,077 --> 00:50:33,080
+You are,
+if you keep up like this.
+
+535
+00:50:33,372 --> 00:50:35,499
+You don't need to run away.
+
+536
+00:50:35,791 --> 00:50:39,086
+When you're smart,
+people need you.
+
+537
+00:50:39,378 --> 00:50:42,756
+You can use your mind creatively.
+
+538
+00:50:43,423 --> 00:50:46,593
+- I noticed you don't study hard.
+- Bingo.
+
+539
+00:50:51,098 --> 00:50:55,018
+Yeah, but if I stay,
+what should I do?
+
+540
+00:50:55,310 --> 00:50:59,606
+First, get even with Kent.
+It's a moral imperative.
+
+541
+00:51:02,901 --> 00:51:04,236
+- Yeah.
+- Yeah!
+
+542
+00:51:07,197 --> 00:51:08,699
+Now, you try it.
+
+543
+00:51:11,410 --> 00:51:14,580
+- Now, let's unpack.
+- Right.
+
+544
+00:51:35,350 --> 00:51:38,520
+That's what makes Darlington
+so sweet.
+
+545
+00:51:38,812 --> 00:51:42,441
+- But Knight's got it locked.
+- Maybe, maybe not.
+
+546
+00:51:48,780 --> 00:51:51,700
+Come on, you guys.
+He's gone.
+
+547
+00:52:00,083 --> 00:52:03,504
+- Kent's name is on his plates.
+- Like my underwear.
+
+548
+00:52:03,795 --> 00:52:07,466
+You have license plates
+in your underwear?
+
+549
+00:52:22,898 --> 00:52:24,441
+Hey, Kent.
+
+550
+00:52:25,734 --> 00:52:27,319
+That's your car.
+
+551
+00:52:27,611 --> 00:52:32,699
+- You're not supposed to park on campus.
+- This isn't funny.
+
+552
+00:52:33,325 --> 00:52:36,703
+- You've gone too far.
+- I had help.
+
+553
+00:52:38,080 --> 00:52:39,873
+You, huh?
+
+554
+00:52:40,541 --> 00:52:45,796
+Dr. Hathaway's gonna hear about this.
+You'll rue the day!
+
+555
+00:52:46,046 --> 00:52:50,133
+"Rue the day"?
+Who talks like that?
+
+556
+00:53:01,353 --> 00:53:03,522
+Wow. Hello.
+
+557
+00:53:04,273 --> 00:53:06,066
+Hi.
+
+558
+00:53:14,032 --> 00:53:17,119
+Jerry asked me to drop by.
+What about you?
+
+559
+00:53:17,369 --> 00:53:20,873
+- What?
+- Which word didn't you understand?
+
+560
+00:53:21,164 --> 00:53:23,166
+- You here for the meeting?
+- Meeting?
+
+561
+00:53:23,458 --> 00:53:26,170
+- I don't know.
+- Okay.
+
+562
+00:53:27,045 --> 00:53:30,299
+- Look, I'm just waiting.
+- Great.
+
+563
+00:53:30,674 --> 00:53:34,261
+If you can't do it,
+we'll get somebody else.
+
+564
+00:53:34,553 --> 00:53:39,099
+- I have a timetable.
+- We're close, everything'll be fine.
+
+565
+00:53:39,391 --> 00:53:42,769
+Remember, you work for me.
+I've made my point.
+
+566
+00:53:43,061 --> 00:53:46,732
+- Crystal clear.
+- Anything I should know about?
+
+567
+00:53:46,982 --> 00:53:51,486
+- I'll be with you in a moment.
+- Goodbye, Jerry. Susan.
+
+568
+00:53:51,737 --> 00:53:58,368
+I guess this is goodbye. I'm sorry
+I didn't get a chance to know you.
+
+569
+00:54:00,120 --> 00:54:03,540
+Have you ever
+seen a body like this before?
+
+570
+00:54:03,832 --> 00:54:07,794
+- She's my daughter.
+- Well, then I guess you have.
+
+571
+00:54:08,295 --> 00:54:10,714
+- Coming, Don?
+- Yeah.
+
+572
+00:54:12,508 --> 00:54:16,720
+If there's ever anything
+I can do for you...
+
+573
+00:54:16,970 --> 00:54:19,806
+...or to you,
+you let me know.
+
+574
+00:54:20,724 --> 00:54:24,353
+- Can you hammer a nail with your penis?
+- Not now.
+
+575
+00:54:24,811 --> 00:54:28,315
+A girl's gotta have her standards.
+
+576
+00:54:31,485 --> 00:54:33,862
+- Smart girl.
+- What're you doing?
+
+577
+00:54:34,154 --> 00:54:36,949
+- You said come over.
+- Stay off the rug.
+
+578
+00:54:39,159 --> 00:54:40,744
+Take off your shoes.
+
+579
+00:54:40,994 --> 00:54:43,163
+- What's up, doc?
+- Sit down.
+
+580
+00:54:43,455 --> 00:54:46,416
+- Who were they?
+- You're of no use to me!
+
+581
+00:54:46,708 --> 00:54:50,504
+- Interesting way to start.
+- I'm giving Kent the job.
+
+582
+00:54:50,754 --> 00:54:54,049
+- You gave me the job.
+- You need a degree.
+
+583
+00:54:54,299 --> 00:54:58,303
+- I'll pass your exam.
+- Even if you pass, you don't pass.
+
+584
+00:54:58,595 --> 00:55:03,934
+- Why don't you leave right now?
+- I'll go to Dr. Meredith.
+
+585
+00:55:04,184 --> 00:55:10,148
+- The work I've done merits a degree.
+- Who will he believe, you or me?
+
+586
+00:55:12,025 --> 00:55:16,113
+- You can't do this.
+- It's done. Now get out!
+
+587
+00:55:16,363 --> 00:55:18,949
+You'll never work in this field.
+
+588
+00:55:19,241 --> 00:55:22,536
+- You unbelievable bastard.
+- Count on it.
+
+589
+00:55:47,686 --> 00:55:49,479
+What're you doing?
+
+590
+00:55:52,983 --> 00:55:59,198
+I was thinking of the immortal
+words of Socrates, who said:
+
+591
+00:55:59,823 --> 00:56:01,783
+"I drank what?"
+
+592
+00:56:02,201 --> 00:56:04,244
+Is there something wrong?
+
+593
+00:56:04,620 --> 00:56:08,582
+Hathaway is going
+to flunk me out of school.
+
+594
+00:56:09,416 --> 00:56:11,835
+- Why?
+- I screwed up.
+
+595
+00:56:14,171 --> 00:56:17,049
+- What are you gonna do?
+- I'll leave.
+
+596
+00:56:17,299 --> 00:56:19,760
+You can't!
+You'll be a failure!
+
+597
+00:56:21,720 --> 00:56:23,138
+Thank you, Mitch.
+
+598
+00:56:28,644 --> 00:56:31,980
+You just can't leave.
+You owe me ten bucks.
+
+599
+00:56:37,236 --> 00:56:38,612
+You can't quit.
+
+600
+00:56:39,446 --> 00:56:44,660
+If for no other reason than
+to see a five-megawatt laser fire.
+
+601
+00:56:45,160 --> 00:56:47,037
+That would be nice.
+
+602
+00:56:49,122 --> 00:56:52,334
+- Finish what you start.
+- Who said that?
+
+603
+00:56:52,626 --> 00:56:54,378
+You know that.
+
+604
+00:56:55,170 --> 00:57:00,133
+That's right, Mitch.
+But that's no way to motivate someone.
+
+605
+00:57:02,845 --> 00:57:05,514
+You've got to get even
+with Hathaway.
+
+606
+00:57:05,806 --> 00:57:07,766
+It's a moral imperative.
+
+607
+00:57:10,477 --> 00:57:12,855
+That's a good point.
+
+608
+01:00:29,968 --> 01:00:31,762
+Vito, not again.
+
+609
+01:00:42,898 --> 01:00:45,567
+Why don't you get some sleep.
+
+610
+01:00:45,817 --> 01:00:51,073
+It's not like we're driving or
+anything. You're still a growing boy.
+
+611
+01:00:54,743 --> 01:00:57,454
+Hey, Lazlo.
+
+612
+01:00:59,164 --> 01:01:00,791
+Lazlo?
+
+613
+01:01:03,210 --> 01:01:05,879
+That's me.
+Hello.
+
+614
+01:01:07,673 --> 01:01:09,883
+I've been watching you.
+
+615
+01:01:11,844 --> 01:01:13,470
+Thanks.
+
+616
+01:01:14,972 --> 01:01:21,186
+I thought I'd help, so I found
+every question Hathaway's asked...
+
+617
+01:01:21,645 --> 01:01:23,856
+...on every final he's given.
+
+618
+01:01:24,106 --> 01:01:26,900
+Gee, I didn't get you anything.
+
+619
+01:01:27,234 --> 01:01:28,652
+Are those they?
+
+620
+01:01:30,988 --> 01:01:32,406
+No.
+
+621
+01:01:32,656 --> 01:01:35,450
+These are sweepstakes entries.
+
+622
+01:01:35,742 --> 01:01:38,704
+Enter as often as you want,
+so I am.
+
+623
+01:01:38,954 --> 01:01:41,832
+That's great!
+How many times?
+
+624
+01:01:42,249 --> 01:01:47,421
+Well, this batch makes it 1,650,000.
+
+625
+01:01:47,671 --> 01:01:51,383
+I should win 32.6% of the prizes,
+plus the car.
+
+626
+01:01:51,633 --> 01:01:54,970
+That takes the fun out of it,
+doesn't it?
+
+627
+01:01:55,262 --> 01:02:00,767
+They set up the rules, and I realized
+I have certain materialistic needs.
+
+628
+01:02:01,476 --> 01:02:02,769
+So...
+
+629
+01:02:03,812 --> 01:02:05,814
+Where are the questions?
+
+630
+01:02:06,815 --> 01:02:08,901
+I memorized them.
+
+631
+01:02:09,193 --> 01:02:10,444
+Sure.
+
+632
+01:02:16,283 --> 01:02:18,994
+I gotta go to sleep.
+
+633
+01:02:19,328 --> 01:02:21,747
+Did you wanna borrow my pajamas?
+
+634
+01:02:22,039 --> 01:02:25,209
+No, thanks.
+
+635
+01:02:27,377 --> 01:02:30,714
+- Hey, he's a pretty smart kid.
+- Yeah.
+
+636
+01:02:31,673 --> 01:02:34,468
+He'll grow five inches
+in the next year.
+
+637
+01:02:40,891 --> 01:02:43,560
+- Mitch?
+- Jordan?
+
+638
+01:02:47,606 --> 01:02:49,775
+Mitch Taylor?
+
+639
+01:02:51,109 --> 01:02:52,361
+Who...
+
+640
+01:02:52,653 --> 01:02:57,491
+My name is Sherry Nugil.
+I've waited three years for this.
+
+641
+01:02:57,783 --> 01:03:00,827
+- For what?
+- For you to be old enough.
+
+642
+01:03:01,119 --> 01:03:04,748
+- For what?
+- For this.
+
+643
+01:03:17,511 --> 01:03:19,054
+Come in!
+
+644
+01:03:21,723 --> 01:03:25,227
+Hi, Mitch!
+I'm just sanding my floor!
+
+645
+01:03:26,270 --> 01:03:29,356
+Could you turn that off a second?!
+
+646
+01:03:32,526 --> 01:03:34,820
+How come you're so sweaty?
+
+647
+01:03:35,112 --> 01:03:39,324
+I came back from helping Chris,
+and a woman was in my room.
+
+648
+01:03:42,160 --> 01:03:46,206
+- Pardon?
+- A woman. You know, she was an adult.
+
+649
+01:03:47,666 --> 01:03:51,378
+Well, she wanted to...
+
+650
+01:03:51,712 --> 01:03:54,089
+- How can I say this?
+- Jump you?
+
+651
+01:03:55,382 --> 01:03:57,259
+- Yeah.
+- You made it?
+
+652
+01:03:58,093 --> 01:04:01,805
+- No. That's what was unbelievable.
+- Pardon?
+
+653
+01:04:03,640 --> 01:04:06,768
+I stopped her.
+I told her I didn't want to.
+
+654
+01:04:07,060 --> 01:04:08,979
+Why?
+
+655
+01:04:09,730 --> 01:04:12,566
+Because I really did want to.
+
+656
+01:04:16,195 --> 01:04:19,698
+I wanted to,
+but not with her.
+
+657
+01:04:22,492 --> 01:04:23,827
+Oh.
+
+658
+01:04:40,177 --> 01:04:42,721
+- This is my class hour!
+- It's May 10th.
+
+659
+01:04:43,013 --> 01:04:47,976
+- What are you doing here?
+- Me?! What are you doing here?
+
+660
+01:04:48,268 --> 01:04:51,396
+Decker is dangerous!
+Where's the laser?
+
+661
+01:04:51,688 --> 01:04:54,358
+- Coming.
+- It's not even breathing hard.
+
+662
+01:04:54,608 --> 01:04:57,194
+He wants it
+by the end of the week!
+
+663
+01:04:57,444 --> 01:05:00,447
+Now you listen to me!
+You grovelling bug!
+
+664
+01:05:00,739 --> 01:05:04,826
+I have exams! I'm doing what I can,
+so get off my back!
+
+665
+01:05:06,286 --> 01:05:11,291
+That should just about do the trick,
+as long as you stay cool.
+
+666
+01:05:12,000 --> 01:05:14,920
+- Let's go, girls.
+- What does that mean?
+
+667
+01:05:15,170 --> 01:05:19,424
+It's a figure of speech.
+You guys coming to the exam?
+
+668
+01:05:19,716 --> 01:05:24,388
+I guess, since Hathaway's
+gone to the trouble of having one.
+
+669
+01:05:24,680 --> 01:05:26,890
+You coming, buddy boy?
+
+670
+01:05:27,432 --> 01:05:30,352
+I'll catch up.
+I gotta go to the bathroom.
+
+671
+01:05:30,602 --> 01:05:35,190
+I don't think that's gonna
+help your confidence any, do you?
+
+672
+01:05:40,320 --> 01:05:42,322
+Buddy boy.
+
+673
+01:05:46,243 --> 01:05:49,913
+Let's see how funny you think this is.
+
+674
+01:05:54,668 --> 01:05:56,378
+Buddy boy.
+
+675
+01:06:05,971 --> 01:06:07,931
+All right, we...
+
+676
+01:06:13,145 --> 01:06:15,480
+We have exactly three hours.
+
+677
+01:06:15,772 --> 01:06:19,109
+And remember,
+we believe in the honour system.
+
+678
+01:06:19,526 --> 01:06:25,324
+It'll be apparent how many of you
+haven't absorbed this material.
+
+679
+01:06:25,616 --> 01:06:28,368
+Take one,
+like your IQ was normal.
+
+680
+01:06:28,660 --> 01:06:30,579
+Good luck, buddy boy.
+
+681
+01:06:30,829 --> 01:06:36,835
+Can I name my first child after you?
+"Dipshit Knight" has a nice ring.
+
+682
+01:08:10,929 --> 01:08:12,222
+No. No!
+
+683
+01:08:13,473 --> 01:08:14,850
+No!
+
+684
+01:08:28,989 --> 01:08:31,992
+My condolences on your meltdown.
+
+685
+01:08:33,202 --> 01:08:35,287
+What meltdown, Kent?
+
+686
+01:08:36,872 --> 01:08:41,585
+I'm not saying that you had one,
+because how would I know?
+
+687
+01:08:41,877 --> 01:08:44,004
+But just in case you do.
+
+688
+01:08:44,463 --> 01:08:47,257
+- You slime.
+- It's your own fault.
+
+689
+01:08:47,633 --> 01:08:52,721
+Didn't anyone ever tell you
+to make sure your optics are clean?
+
+690
+01:09:32,010 --> 01:09:35,597
+I can do it!
+How does it feel to be frozen?!
+
+691
+01:09:35,889 --> 01:09:38,183
+Ice is nice!
+
+692
+01:09:38,433 --> 01:09:41,895
+- Lazlo, buddy! Seen Mitch?
+- No.
+
+693
+01:09:42,813 --> 01:09:44,398
+He's not in there.
+
+694
+01:09:44,648 --> 01:09:48,235
+- How'd you do?
+- I passed! But I failed!
+
+695
+01:09:48,485 --> 01:09:51,822
+Well, then I'm happy and sad for you.
+
+696
+01:09:52,072 --> 01:09:54,408
+Gotta find Mitch.
+Mitch!
+
+697
+01:09:54,700 --> 01:09:56,660
+He's not in the toilet.
+
+698
+01:09:56,952 --> 01:10:01,039
+I'll freeze it and get
+at least an order of magnitude.
+
+699
+01:10:01,290 --> 01:10:05,294
+Because it's gonna be frozen.
+I think I can do it.
+
+700
+01:10:05,544 --> 01:10:06,795
+Bye!
+
+701
+01:10:07,087 --> 01:10:09,590
+Hey, man!
+You're not Mitch.
+
+702
+01:10:09,840 --> 01:10:14,678
+Hey, Lazlo!
+Wanna see a demonstration of gravity?
+
+703
+01:10:14,928 --> 01:10:19,808
+It can be done!
+That's a window! That's a door!
+
+704
+01:10:22,728 --> 01:10:25,272
+Mitch!
+Where's your math!?
+
+705
+01:10:26,732 --> 01:10:28,150
+Hey, you jerk!
+
+706
+01:10:28,400 --> 01:10:31,486
+I'm very sorry.
+I'll buy you a car.
+
+707
+01:10:31,778 --> 01:10:34,531
+I don't have one.
+It's my dad's.
+
+708
+01:10:52,674 --> 01:10:55,093
+How's it going, Jerry?
+
+709
+01:10:55,427 --> 01:10:56,762
+What do you want?
+
+710
+01:10:57,054 --> 01:11:00,140
+World peace,
+but this isn't the time.
+
+711
+01:11:00,432 --> 01:11:03,560
+- Get out!
+- This might interest you.
+
+712
+01:11:03,810 --> 01:11:06,480
+- I'm not interested.
+- Dr. Hathaway...
+
+713
+01:11:06,730 --> 01:11:09,191
+Susan.
+
+714
+01:11:15,948 --> 01:11:18,534
+I solved the power problem, Jerry.
+
+715
+01:11:21,119 --> 01:11:24,081
+- Jerry?
+- Take a cab.
+
+716
+01:11:25,415 --> 01:11:28,126
+So you'll hammer later.
+
+717
+01:11:33,924 --> 01:11:37,052
+We were working
+on the cyanide system.
+
+718
+01:11:37,344 --> 01:11:41,265
+Well, earlier today,
+it ate itself.
+
+719
+01:11:41,557 --> 01:11:46,061
+But that's just what we needed
+to take a giant step forward.
+
+720
+01:11:46,353 --> 01:11:47,855
+Right, Kent?
+
+721
+01:11:48,772 --> 01:11:52,192
+Needless to say,
+I was despondent about the meltdown.
+
+722
+01:11:52,442 --> 01:11:56,071
+In the midst of my preparations
+for hari-kari...
+
+723
+01:11:56,321 --> 01:11:58,198
+...it came to me.
+
+724
+01:11:58,407 --> 01:12:02,744
+It's possible to synthesize
+bromide in an argon matrix.
+
+725
+01:12:02,995 --> 01:12:08,000
+- Excimers, frozen in an excited state.
+- That's impossible.
+
+726
+01:12:08,250 --> 01:12:11,670
+It's a chemical laser,
+but solid, not gaseous.
+
+727
+01:12:11,920 --> 01:12:16,800
+Put simply, in deference to Kent,
+it's like lasing dynamite.
+
+728
+01:12:17,050 --> 01:12:22,556
+We couple it to a state that is
+radiatively coupled to the ground.
+
+729
+01:12:23,098 --> 01:12:27,936
+Extracting 10-to-the-21 st
+protons per cubic centimetre...
+
+730
+01:12:28,228 --> 01:12:33,942
+...will give 1 kilojoule per cubic
+centimetre, or a megajoule per litre.
+
+731
+01:12:34,193 --> 01:12:35,485
+Hotter than the sun.
+
+732
+01:12:35,736 --> 01:12:37,946
+- It's small.
+- It's meant to be.
+
+733
+01:12:38,155 --> 01:12:40,741
+We only have the one sample...
+
+734
+01:12:41,033 --> 01:12:45,495
+...and it's going to destroy itself
+as it lases.
+
+735
+01:12:48,248 --> 01:12:50,501
+But everything will be fine.
+
+736
+01:12:51,585 --> 01:12:52,920
+- Right, Mitch?
+- Yeah.
+
+737
+01:12:53,212 --> 01:12:55,589
+This is a complete waste of time.
+
+738
+01:12:55,797 --> 01:12:59,718
+Kent, put the target
+in front of the cinder blocks.
+
+739
+01:13:08,477 --> 01:13:10,938
+Okay, come behind the shield.
+
+740
+01:13:19,613 --> 01:13:23,992
+Okay, Mr. Taylor.
+Any time you're ready.
+
+741
+01:13:26,370 --> 01:13:30,541
+Ready? Laser on!
+
+742
+01:13:36,922 --> 01:13:38,882
+All right!
+
+743
+01:13:41,677 --> 01:13:43,220
+Look at this!
+
+744
+01:13:47,850 --> 01:13:49,518
+Wow!
+
+745
+01:13:52,187 --> 01:13:56,692
+- Sorry about the window.
+- And the trees across the quad!
+
+746
+01:14:00,487 --> 01:14:01,947
+You did it.
+
+747
+01:14:02,197 --> 01:14:03,532
+I did my part too.
+
+748
+01:14:04,116 --> 01:14:06,493
+You graduate.
+You get the job.
+
+749
+01:14:06,994 --> 01:14:10,914
+What? You can't!
+That's my job.
+
+750
+01:14:11,206 --> 01:14:14,751
+I've done everything
+you've ever asked me to.
+
+751
+01:14:16,628 --> 01:14:19,256
+I teach your classes for you!
+
+752
+01:14:19,506 --> 01:14:22,676
+- I get your laundry!
+- What is he doing?
+
+753
+01:14:24,178 --> 01:14:28,640
+I mounted the optics
+for the target-tracking system.
+
+754
+01:14:29,725 --> 01:14:32,060
+Look!
+
+755
+01:14:34,354 --> 01:14:36,982
+Wait. Wait.
+
+756
+01:14:37,274 --> 01:14:40,277
+- Let's celebrate!
+- Absolutely.
+
+757
+01:14:42,237 --> 01:14:45,782
+You see anything unusual
+on the campus?
+
+758
+01:14:49,203 --> 01:14:52,289
+- My glasses!
+- Well, try not to wobble.
+
+759
+01:14:52,873 --> 01:14:56,585
+- There is a complete hole.
+- That's great.
+
+760
+01:14:56,793 --> 01:14:58,420
+Look.
+
+761
+01:15:11,767 --> 01:15:13,185
+Let's get a burger.
+
+762
+01:15:13,435 --> 01:15:15,812
+- Let's go!
+- In there?
+
+763
+01:15:24,154 --> 01:15:25,781
+This place is wild.
+
+764
+01:15:27,658 --> 01:15:31,787
+- Do you see that?
+- Like her? She's from Playa del Rey.
+
+765
+01:15:32,037 --> 01:15:34,790
+- Am I gonna meet your parents?
+- No.
+
+766
+01:15:35,082 --> 01:15:39,795
+- Why? Are you ashamed of me?
+- No, them.
+
+767
+01:15:40,254 --> 01:15:43,423
+Remember the right people
+to thank on this.
+
+768
+01:15:43,674 --> 01:15:46,009
+- I'd like to thank my fish.
+- What?!
+
+769
+01:15:46,260 --> 01:15:49,179
+- And Mr. Ikagami!
+- I love it.
+
+770
+01:15:54,434 --> 01:15:55,894
+What are you saying?
+
+771
+01:15:56,478 --> 01:15:57,896
+Lazlo!
+
+772
+01:16:07,906 --> 01:16:10,951
+I'm glad you came out.
+Want a hamburger?
+
+773
+01:16:11,243 --> 01:16:14,788
+I've been thinking about
+your laser solution.
+
+774
+01:16:15,038 --> 01:16:20,794
+- You've increased it to 6 megawatts.
+- Yeah, about that.
+
+775
+01:16:21,211 --> 01:16:24,798
+- What would you use it for?
+- Enormous Swiss cheese?
+
+776
+01:16:25,841 --> 01:16:27,217
+It can do anything.
+
+777
+01:16:27,426 --> 01:16:31,805
+No. The beam would last for what,
+15 seconds?
+
+778
+01:16:32,222 --> 01:16:36,727
+- What good is that?
+- I respect you, but I graduated.
+
+779
+01:16:37,019 --> 01:16:40,230
+Let the engineers figure that out.
+
+780
+01:16:40,522 --> 01:16:42,816
+Maybe it already has a use...
+
+781
+01:16:43,066 --> 01:16:45,694
+...for which it's designed.
+
+782
+01:16:45,986 --> 01:16:48,280
+Hathaway has something in mind?
+
+783
+01:16:48,530 --> 01:16:52,242
+Look at the facts.
+Very high power, portable...
+
+784
+01:16:52,451 --> 01:16:56,288
+...limited firing time,
+unlimited range.
+
+785
+01:16:56,538 --> 01:16:59,458
+With a tracking system
+and a mirror...
+
+786
+01:16:59,708 --> 01:17:02,461
+...you could vaporize
+a human from space.
+
+787
+01:17:05,172 --> 01:17:07,424
+This is not good.
+
+788
+01:17:15,098 --> 01:17:16,475
+No!
+
+789
+01:17:16,850 --> 01:17:18,894
+What happened?
+
+790
+01:17:22,564 --> 01:17:24,358
+Oh, no.
+
+791
+01:17:25,817 --> 01:17:27,945
+- Chris.
+- I'm all right.
+
+792
+01:17:33,158 --> 01:17:37,746
+- They took everything.
+- Kent's tracking system is gone!
+
+793
+01:17:39,289 --> 01:17:42,084
+How could you build that mirror?!
+
+794
+01:17:50,801 --> 01:17:53,095
+He lied to us.
+
+795
+01:17:53,720 --> 01:17:56,765
+It's easy to lie to you, Mitch.
+
+796
+01:17:57,641 --> 01:17:58,851
+You trust people.
+
+797
+01:17:59,685 --> 01:18:01,979
+I'm a cynic.
+
+798
+01:18:03,939 --> 01:18:05,816
+I'm such an asshole.
+
+799
+01:18:07,067 --> 01:18:10,153
+I understand how you feel.
+You're right.
+
+800
+01:18:10,404 --> 01:18:13,782
+But we need to find out
+what he's doing.
+
+801
+01:18:14,074 --> 01:18:15,576
+Kent.
+
+802
+01:18:22,207 --> 01:18:24,334
+Shh, you guys!
+
+803
+01:18:44,521 --> 01:18:47,399
+- We'll have two minutes.
+- Pardon?
+
+804
+01:18:53,822 --> 01:18:55,699
+- Hi.
+- Hi.
+
+805
+01:19:15,010 --> 01:19:17,346
+Okay, open his mouth.
+
+806
+01:19:19,097 --> 01:19:21,141
+Bulldogs.
+
+807
+01:19:22,559 --> 01:19:24,603
+And transceiver.
+
+808
+01:19:24,895 --> 01:19:26,897
+And tweezers.
+
+809
+01:19:29,066 --> 01:19:31,735
+The braces gave me the idea.
+
+810
+01:19:31,985 --> 01:19:35,030
+Perfect antennae.
+His head becomes a speaker.
+
+811
+01:19:35,322 --> 01:19:38,700
+It's about time someone
+put it to good use.
+
+812
+01:19:45,415 --> 01:19:47,334
+Kent?
+
+813
+01:19:47,918 --> 01:19:51,964
+<i>Kent.
+Wake up, Kent.</i>
+
+814
+01:19:55,217 --> 01:19:56,510
+<i>- Kent.
+- What?</i>
+
+815
+01:19:56,802 --> 01:20:00,097
+<i>I'm talking to you, Kent.</i>
+
+816
+01:20:00,681 --> 01:20:04,434
+<i>- What is this?
+- I said, I'm talking to you.</i>
+
+817
+01:20:04,726 --> 01:20:07,312
+- No.
+- Yeah.
+
+818
+01:20:08,814 --> 01:20:11,316
+Well, I'm not asleep.
+
+819
+01:20:12,234 --> 01:20:16,280
+<i>- I must be overworked.
+- You're not overworked, Kent.</i>
+
+820
+01:20:16,530 --> 01:20:18,866
+Well, I'm not insane!
+
+821
+01:20:20,993 --> 01:20:23,787
+<i>- Or am I?
+- That remains to be seen, Kent.</i>
+
+822
+01:20:24,079 --> 01:20:27,499
+But we are having a conversation.
+
+823
+01:20:31,170 --> 01:20:34,756
+<i>- Okay, who is this?
+- This is Jesus, Kent.</i>
+
+824
+01:20:35,007 --> 01:20:39,303
+And you've been a very naughty boy!
+
+825
+01:20:40,721 --> 01:20:43,932
+All right, who is this?
+
+826
+01:20:44,183 --> 01:20:47,394
+- Cut the crap. You built a weapon.
+- What?
+
+827
+01:20:47,686 --> 01:20:53,192
+What do you think a secret phase
+conjugate tracking system is for?
+
+828
+01:20:53,442 --> 01:20:56,445
+<i>A big mirror makes a big beam.</i>
+
+829
+01:21:00,574 --> 01:21:02,576
+I guess it could be.
+
+830
+01:21:02,826 --> 01:21:05,579
+Where's the laser now?
+
+831
+01:21:05,871 --> 01:21:12,127
+I overheard Jerry mention something
+about a test on the 27th.
+
+832
+01:21:12,544 --> 01:21:15,422
+<i>But I don't know where.
+It's classified.</i>
+
+833
+01:21:18,342 --> 01:21:21,762
+- What?
+- Oh, nothing.
+
+834
+01:21:22,012 --> 01:21:26,350
+I want you to think about
+what you've done, Kent.
+
+835
+01:21:26,600 --> 01:21:27,768
+And from now on...
+
+836
+01:21:28,018 --> 01:21:31,980
+<i>...stop playing with yourself!</i>
+
+837
+01:21:35,484 --> 01:21:36,777
+It is God.
+
+838
+01:21:37,653 --> 01:21:39,446
+Now what?
+
+839
+01:21:42,699 --> 01:21:44,117
+Phase two.
+
+840
+01:21:46,703 --> 01:21:49,289
+What is it with you?
+
+841
+01:23:30,974 --> 01:23:32,267
+What's that?
+
+842
+01:23:32,851 --> 01:23:37,564
+- These military are so untrusting.
+- Can we get clearance?
+
+843
+01:23:37,856 --> 01:23:42,528
+- We will. It'll just take six hours.
+- Forget it. We'll balls it.
+
+844
+01:23:42,778 --> 01:23:44,446
+How do these look?
+
+845
+01:23:45,656 --> 01:23:48,742
+Mine looks like him,
+and his looks like me.
+
+846
+01:23:49,535 --> 01:23:50,869
+Great, I hope.
+
+847
+01:23:51,119 --> 01:23:53,914
+- What if they don't work?
+- They shoot us.
+
+848
+01:23:59,628 --> 01:24:00,963
+I. D?
+
+849
+01:24:04,842 --> 01:24:08,887
+- Show these to the next guard.
+- You bet.
+
+850
+01:24:19,982 --> 01:24:21,275
+I.D. s?
+
+851
+01:24:21,650 --> 01:24:26,363
+Can you snap it up?
+We're late, we're tired, we're hungry.
+
+852
+01:24:27,447 --> 01:24:30,951
+- Are you crazy?
+- You gotta intimidate these guys.
+
+853
+01:24:32,327 --> 01:24:34,121
+You're not on the list.
+
+854
+01:24:34,371 --> 01:24:37,416
+Yeah, that's because we're classified.
+
+855
+01:24:41,003 --> 01:24:42,713
+Security.
+
+856
+01:24:44,089 --> 01:24:46,508
+Aren't you young for technicians?
+
+857
+01:24:46,758 --> 01:24:48,927
+Lasers are a young science.
+
+858
+01:24:49,178 --> 01:24:52,598
+There, I said it.
+Now we're both in trouble.
+
+859
+01:24:52,890 --> 01:24:57,144
+- I'll call the duty officer.
+- Hey there, Airborne.
+
+860
+01:25:02,482 --> 01:25:07,779
+Make that call, and it's our jobs.
+We're four hours late.
+
+861
+01:25:08,071 --> 01:25:12,534
+Give us a break. Someday you'll
+be in the private sector.
+
+862
+01:25:12,784 --> 01:25:14,912
+Yeah.
+
+863
+01:25:19,416 --> 01:25:21,502
+We're dead.
+
+864
+01:25:25,255 --> 01:25:27,424
+- All right!
+- I love it!
+
+865
+01:25:29,343 --> 01:25:33,180
+Absolutely, sir.
+Consider it done.
+
+866
+01:25:33,472 --> 01:25:35,307
+Yes, sir.
+
+867
+01:25:37,267 --> 01:25:41,188
+Look for anything
+out of the ordinary.
+
+868
+01:25:43,565 --> 01:25:45,984
+Mitch, come here.
+
+869
+01:25:47,152 --> 01:25:48,570
+My God.
+
+870
+01:25:52,366 --> 01:25:53,784
+Come on.
+
+871
+01:26:22,896 --> 01:26:24,773
+- Communication link?
+- Open.
+
+872
+01:26:24,982 --> 01:26:28,527
+Diagnostics seem okay.
+Final check ready.
+
+873
+01:26:28,819 --> 01:26:31,780
+Sixty-five degrees, nineteen minutes.
+
+874
+01:26:38,370 --> 01:26:42,124
+All systems go.
+We're finished here, fellas.
+
+875
+01:26:48,422 --> 01:26:49,673
+What!?
+
+876
+01:27:19,161 --> 01:27:24,333
+This little polynomial will
+keep the computer busy.
+
+877
+01:27:26,835 --> 01:27:29,213
+Where are they?
+
+878
+01:27:32,966 --> 01:27:35,886
+We've got a connection!
+They're in!
+
+879
+01:27:44,561 --> 01:27:46,855
+<i>- Abbott to Costello.
+- Go ahead.</i>
+
+880
+01:27:47,147 --> 01:27:50,984
+<i>- We've got the goodies.
+- We've got target coordinates.</i>
+
+881
+01:27:51,860 --> 01:27:54,905
+Roger, we're sending.
+
+882
+01:28:01,578 --> 01:28:03,872
+What is it?
+
+883
+01:28:06,333 --> 01:28:07,876
+Oh, nothing.
+
+884
+01:28:11,004 --> 01:28:13,882
+You didn't think we'd
+test in space?
+
+885
+01:28:14,174 --> 01:28:18,512
+Yes, I did, because
+that's what it was designed for.
+
+886
+01:28:18,804 --> 01:28:22,599
+But if you want to crawl
+before we walk...
+
+887
+01:28:22,850 --> 01:28:26,019
+...that's fine too.
+Really.
+
+888
+01:28:26,687 --> 01:28:28,397
+- Attention!
+- What?
+
+889
+01:28:28,647 --> 01:28:31,692
+- Superior officer in the room!
+- As you were.
+
+890
+01:28:31,984 --> 01:28:35,445
+We're ready for the final
+on-board laser check.
+
+891
+01:28:48,125 --> 01:28:49,501
+All clear.
+
+892
+01:28:49,751 --> 01:28:52,921
+I'm replacing the PROM
+with our EPROM.
+
+893
+01:28:58,260 --> 01:29:00,012
+Okay, shoot.
+
+894
+01:29:05,017 --> 01:29:08,270
+May I have the coordinates, please?
+
+895
+01:29:08,896 --> 01:29:13,942
+34 degrees, 10 minutes.
+15.21 seconds north.
+
+896
+01:29:14,985 --> 01:29:19,656
+119 degrees, 7 minutes...
+
+897
+01:29:24,745 --> 01:29:26,455
+Right this way.
+
+898
+01:29:28,957 --> 01:29:31,251
+I'm gonna check the stairs.
+
+899
+01:29:43,138 --> 01:29:44,681
+Hathaway's coming!
+
+900
+01:29:44,973 --> 01:29:48,810
+Mitch has told me that
+Herr Professor is approaching.
+
+901
+01:29:49,144 --> 01:29:51,355
+- What now?
+- Hathaway's coming.
+
+902
+01:29:51,939 --> 01:29:54,233
+I don't work well under pressure.
+
+903
+01:29:57,653 --> 01:29:59,613
+Watch your head there.
+
+904
+01:30:05,410 --> 01:30:06,662
+I hope that works.
+
+905
+01:30:06,954 --> 01:30:10,916
+Okay, Chris, I mean, Abbott.
+Hello? Hello?
+
+906
+01:30:11,166 --> 01:30:13,043
+They're gone!
+
+907
+01:30:13,252 --> 01:30:15,796
+- Okay. Fine.
+- Fine.
+
+908
+01:30:17,506 --> 01:30:21,218
+Dr. Goy can answer
+any questions you might have.
+
+909
+01:30:21,468 --> 01:30:24,805
+Is there any problem
+with reusing the weapon?
+
+910
+01:30:25,097 --> 01:30:31,520
+No, the fuel is frozen
+and contains a self-sufficient unit.
+
+911
+01:30:31,770 --> 01:30:35,148
+The beauty of this system is...
+
+912
+01:30:35,899 --> 01:30:39,903
+- Is everything all right here?
+- Why shouldn't it be?
+
+913
+01:30:46,076 --> 01:30:49,204
+I think that
+just about sums it up.
+
+914
+01:30:49,496 --> 01:30:51,832
+Shall we take our exit?
+
+915
+01:30:59,423 --> 01:31:02,134
+- Okay, they're gone.
+- That was close.
+
+916
+01:31:02,968 --> 01:31:07,139
+Nothing like borrowing a B-1,
+huh, general?
+
+917
+01:31:13,729 --> 01:31:14,980
+What is it?
+
+918
+01:31:16,106 --> 01:31:18,525
+Nothing.
+
+919
+01:31:23,572 --> 01:31:28,327
+Diagnosis of schizophrenia
+by objective personal analysis...
+
+920
+01:31:30,162 --> 01:31:32,164
+<i>Hi, Kent.</i>
+
+921
+01:31:32,414 --> 01:31:36,335
+Oh, I thought you'd gone.
+
+922
+01:31:36,627 --> 01:31:40,297
+<i>Not yet.
+Have you been touching yourself?</i>
+
+923
+01:31:40,589 --> 01:31:44,134
+Yes. I mean, no!
+
+924
+01:31:44,593 --> 01:31:46,386
+<i>Good.
+Listen, Kent.</i>
+
+925
+01:31:47,304 --> 01:31:51,892
+<i>Dad, you know, God,
+wants to show you something.</i>
+
+926
+01:31:52,184 --> 01:31:54,603
+Why?
+I meant what?
+
+927
+01:31:54,853 --> 01:31:57,731
+I've learned not to ask.
+
+928
+01:31:58,023 --> 01:32:01,693
+He says to wait in front of
+Dr. Hathaway's house...
+
+929
+01:32:01,985 --> 01:32:08,200
+<i>...at 639 Ivy Crest Drive,
+at precisely 7:08 this morning.</i>
+
+930
+01:32:09,368 --> 01:32:10,619
+Ivy Crest?
+
+931
+01:32:10,911 --> 01:32:16,166
+<i>Wait there and you shall receive
+a sign, but do not go inside.</i>
+
+932
+01:32:16,416 --> 01:32:18,669
+Well, why not?
+
+933
+01:32:21,338 --> 01:32:22,589
+Hello?
+
+934
+01:32:23,966 --> 01:32:25,425
+Hello, Jesus?
+
+935
+01:32:30,305 --> 01:32:31,849
+He hung up.
+
+936
+01:32:47,698 --> 01:32:51,952
+Crossbow One, radar contact,
+heading 0-2-5.
+
+937
+01:32:52,202 --> 01:32:55,581
+Maintain flight level 6-5-0.
+
+938
+01:32:55,873 --> 01:33:00,794
+<i>Roger. Steer 0-2-5 out of five thousand
+for flight level 6-5-0.</i>
+
+939
+01:33:25,736 --> 01:33:27,654
+They're here.
+
+940
+01:33:31,074 --> 01:33:37,080
+Mr. Knight, why is it that I am
+not surprised to see you here?
+
+941
+01:33:37,372 --> 01:33:43,545
+I suppose you have an explanation
+for this event that we're to witness.
+
+942
+01:33:43,837 --> 01:33:48,550
+First, let me compliment you
+on your fashion sense.
+
+943
+01:33:48,800 --> 01:33:51,136
+Particularly your slippers.
+
+944
+01:33:52,930 --> 01:33:56,391
+Yes, well, Philomena likes them.
+
+945
+01:33:56,683 --> 01:33:58,227
+Hey, guys!
+
+946
+01:33:59,811 --> 01:34:01,855
+Good morning.
+
+947
+01:34:03,440 --> 01:34:06,735
+Congressman Doogan.
+What brings you around?
+
+948
+01:34:06,985 --> 01:34:11,406
+I was told there was a situation
+of international importance.
+
+949
+01:34:18,455 --> 01:34:23,168
+The weapon is controlled from
+this module, as it would be in space.
+
+950
+01:34:23,460 --> 01:34:26,630
+This is an exact duplicate
+of the cockpit.
+
+951
+01:34:26,922 --> 01:34:29,132
+The accuracy will be as exact.
+
+952
+01:34:29,383 --> 01:34:34,847
+<i>- We are nearing the target.
+- Open the bomb bay doors.</i>
+
+953
+01:34:43,689 --> 01:34:47,067
+- Those are serious accusations.
+- I know.
+
+954
+01:34:47,359 --> 01:34:50,988
+If it's true,
+I'm going to need proof.
+
+955
+01:34:51,280 --> 01:34:54,700
+We can accommodate you
+in just one minute.
+
+956
+01:34:54,992 --> 01:34:56,994
+Duck.
+
+957
+01:34:58,871 --> 01:35:00,873
+Congressman?
+
+958
+01:35:42,873 --> 01:35:45,542
+Now, listen to me, Jesus.
+
+959
+01:35:46,710 --> 01:35:51,673
+This is Jerry's house,
+and we're very close.
+
+960
+01:35:51,924 --> 01:35:56,178
+If you don't answer me,
+I'm just gonna have to go in.
+
+961
+01:35:59,014 --> 01:36:01,391
+- So I'm going.
+- No, Kent!
+
+962
+01:36:01,934 --> 01:36:04,937
+- Get away!
+- Kent!
+
+963
+01:36:10,817 --> 01:36:13,195
+Target locked.
+In ten.
+
+964
+01:36:14,988 --> 01:36:16,406
+<i>Nine.</i>
+
+965
+01:36:17,407 --> 01:36:18,867
+<i>E ight.</i>
+
+966
+01:36:23,956 --> 01:36:27,042
+- Kent!
+- Come out, Kent!
+
+967
+01:36:39,555 --> 01:36:43,433
+Okay, God!
+Let me have it!
+
+968
+01:37:28,353 --> 01:37:30,939
+Popcorn!
+
+969
+01:37:52,377 --> 01:37:54,546
+I don't understand.
+Did it fire?
+
+970
+01:37:54,838 --> 01:37:56,924
+Yes, but there's a problem.
+
+971
+01:37:57,174 --> 01:38:00,802
+- It's not shutting down.
+- Well, shut it down!
+
+972
+01:38:01,053 --> 01:38:03,805
+- What's the problem?
+- Shut it down!
+
+973
+01:38:05,182 --> 01:38:06,391
+Kent!
+
+974
+01:38:26,828 --> 01:38:28,747
+Kent.
+
+975
+01:38:35,420 --> 01:38:38,382
+- Kent, you okay?
+- That was great!
+
+976
+01:38:52,437 --> 01:38:54,606
+Something is very wrong.
+
+977
+01:38:54,940 --> 01:38:57,025
+Out!
+
+978
+01:38:58,110 --> 01:38:59,987
+Unlock the bird's-eye.
+
+979
+01:39:00,654 --> 01:39:01,905
+Unlocked.
+
+980
+01:39:03,073 --> 01:39:07,286
+I'm tracking where the shot went.
+I want to know it worked.
+
+981
+01:39:16,086 --> 01:39:18,881
+Oh, no.
+
+982
+01:39:20,007 --> 01:39:24,011
+- My house.
+- What have you done?
+
+983
+01:39:31,059 --> 01:39:33,020
+All right!
+
+984
+01:39:56,585 --> 01:39:57,586
+It's Hollyfeld...
+
+985
+01:39:57,836 --> 01:39:59,588
+...in a Winnebago!
+
+986
+01:40:04,426 --> 01:40:06,553
+Lazlo, buddy!
+
+987
+01:40:08,931 --> 01:40:11,350
+I think we used too much.
+
+988
+01:40:12,267 --> 01:40:15,604
+- I'm sorry you missed it.
+- I had to pack.
+
+989
+01:40:15,854 --> 01:40:18,315
+- Why?
+- Well, I'm getting married.
+
+990
+01:40:18,732 --> 01:40:22,110
+- To whom?
+- What is all this stuff?
+
+991
+01:40:22,694 --> 01:40:26,740
+Oh, yeah. I won,
+31.8% of the prizes.
+
+992
+01:40:27,032 --> 01:40:30,077
+I'll figure it out.
+But not this summer.
+
+993
+01:40:30,786 --> 01:40:34,456
+Sherry?
+Sherry Nugil?
+
+994
+01:40:38,252 --> 01:40:41,088
+Isn't it great?
+This is number one.
+
+995
+01:40:43,048 --> 01:40:46,552
+I've been looking for him
+for ten years.
+
+996
+01:40:51,306 --> 01:40:55,352
+- What can I say? She loves me.
+- Congratulations.
+
+997
+01:40:58,814 --> 01:41:01,733
+- You'll have to come and visit us.
+- What?
+
+998
+01:41:01,984 --> 01:41:05,654
+I have a little
+survival place in Wyoming.
+
+999
+01:41:05,904 --> 01:41:09,533
+Yeah, it's getting
+kinda weird around here.
+
+1000
+01:41:09,783 --> 01:41:12,870
+- Bye.
+- Goodbye.
+
+1001
+01:41:27,384 --> 01:41:30,971
+- Is it getting too weird around here?
+- Absolutely.
+
+1002
+01:41:31,221 --> 01:41:34,933
+- I didn't notice.
+- I like it.
+
+1003
+01:45:51,940 --> 01:45:52,900
+Subtitles by
+SDI Media Group
+

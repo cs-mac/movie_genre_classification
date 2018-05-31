@@ -1,0 +1,891 @@
+{673}{791}SEATTLE
+{1677}{1702}- Morning.|- Morning.
+{1708}{1795}Hey, Dad, we have to discuss|my allowance. I need a raise.
+{1801}{1863}Buying a girl gummi bears|won't close the deal.
+{1869}{1914}- Like you'd know.|- Alex.
+{1920}{2017}But, Mom, Cody's almost 16|and I've had twice as many dates as him.
+{2023}{2124}- Sitting in a tree house isn't a date.|- It is when you're playing doctor.
+{2130}{2220}Bye.
+{2298}{2406}You smell good. Did you shave?
+{2424}{2478}- Do your chores.|- I'll do them later.
+{2484}{2563}Those poor guinea pigs have been|sitting in excrement for days.
+{2569}{2692}Alex, you play with them more than I do.|Let's trade. I'll mow the lawn three times.
+{2698}{2806}No way. Just cos I'm ten doesn't mean I'm|an idiot. I know what "excrement" means.
+{2812}{2919}Alex! We're eating here.
+{3184}{3284}Sweetie, Mommy will be right back.
+{4288}{4322}Stop! My baby!
+{4328}{4415}My baby's in that car!|Somebody stop that car!
+{4421}{4520}Oh, my God! Stop the car!
+{5507}{5596}Unlock the door!
+{7066}{7199}Next time, please stick with a tricycle.
+{7543}{7648}Sweetie, it's OK.
+{7677}{7794}- What happened?|- Some kid stopped it.
+{8125}{8175}HONG KONG
+{8181}{8305}Dr Connors, we've given you|a great deal of money. We expect results.
+{8311}{8357}ERIS HEADQUARTERS
+{8363}{8505}If you gentlemen would|step this way, please. Gather round.
+{8526}{8629}Imagine we're somewhere in Alaska|and a huge oil tanker runs aground.
+{8635}{8758}What do we get? An oil spill,|one of the most serious threats to nature.
+{8764}{8849}A calamity that could take generations|for sea life to recover.
+{8855}{8914}But wait. What's this?
+{8920}{9053}Look who's coming. The nanobots.
+{9221}{9318}Very impressive.
+{9325}{9407}Lovely.
+{9444}{9557}Baby seals everywhere|will praise your name, Doctor.
+{9602}{9654}So, is that real oil, Connors?
+{9660}{9837}Oh, yeah. Yes, here's a sample.|You can test it if you want.
+{9856}{9909}Can they be programmed|to eat other things?
+{9915}{10044}They can be programmed to break down|any silicone or carbon-based compound.
+{10050}{10128}- You have ten days.|- What?
+{10134}{10208}- That's impossible.|- He said you have ten days.
+{10214}{10296}We have our own agenda, Doctor.
+{10302}{10384}- That's impossible.|- Goodbye, Dr Connors.
+{10390}{10524}- He has no idea what we hope to achieve.|- Let's keep it that way, François.
+{10785}{10863}- I told you no ice. Here.|- I'm sorry, sir.
+{10869}{11029}You never know how long it's been|in the freezer. It could be filled with crap.
+{11035}{11180}This is Dr Albert Connors, the world's|foremost expert in nanotechnology.
+{11186}{11275}Microscopic robots.
+{11278}{11321}These robots could be programmed
+{11327}{11418}to destroy our most vital communication|and military infrastructure.
+{11424}{11544}I'm talking missile-guidance systems,|boats, tanks, planes, biological...
+{11550}{11611}We get the point. Before we lost contact,
+{11617}{11705}Agent Bolivar confirmed that|Connors is working with ERIS.
+{11711}{11803}This is probably my last transmission.|I think they're on to me.
+{11809}{11900}Don't send any more agents.|Everyone has been compromised.
+{11906}{12046}I'm gonna transmit images now. This is|yesterday at the ERIS Covert Conference,
+{12052}{12123}where Dr Connors demonstrated|his latest advancements.
+{12129}{12208}And this is Dr Brinkman, head of ERIS.
+{12214}{12324}And this, François Molay, his henchman.
+{12330}{12440}As far as I understand it, they plan to...
+{12559}{12714}We need to know what they're planning.|But Connors is very reclusive, secretive.
+{12720}{12806}After his wife died two years ago,|Connors dropped out of public view.
+{12812}{12948}His only contact with the outside world|is through his daughter Natalie.
+{12954}{13043}I want to get close to this girl.
+{13049}{13187}McAIlister, brief the staff|on the Agent Development Program.
+{13193}{13347}Under the guise of a summer camp for the|brightest and best, we began to recruit.
+{13353}{13408}Welcome to the|Agent Development Program.
+{13414}{13538}Since 1987, under secrecy, the CIA has|recruited juvenile agents the nation over.
+{13544}{13622}As soon as we received word|that a candidate had been spotted,
+{13628}{13735}we brought them into our facilities|under the guise of summer camps.
+{13741}{13829}And their parents had no idea|of their real activities.
+{13835}{13984}There they were trained in defence,|navigation and explosives diffusion.
+{13990}{14067}Our juvenile agents|are stationed all over the nation.
+{14073}{14155}They meticulously maintain|the façades of normal childhoods
+{14161}{14210}as they await their call for duty.
+{14216}{14351}Wait. You're telling me|we're training children to become agents?
+{14357}{14505}Teenagers! Let's be clear. The clock is|ticking. This may be our last, best chance.
+{14511}{14636}- These kids operate alone?|- Of course not. That'd be irresponsible.
+{14642}{14743}One of our most impressive agents|lives not far from Natalie Connors.
+{14749}{14821}Smart, resourceful,
+{14827}{14921}and, according to my reports,
+{14927}{15023}he's quite a lady-killer.
+{15045}{15094}Do you...
+{15100}{15207}Hi, Cody.
+{15320}{15404}Are you in special ed?
+{15571}{15606}Hi, Cody.
+{15612}{15715}So you think, Amy,|that Friday night we...
+{15721}{15908}Cody, I need to study.|So why don't you jump off a cliff?
+{16434}{16514}- Cody Banks?|- Yeah.
+{16520}{16574}You want "him"?
+{16580}{16618}She wants Cody.
+{16624}{16745}Quiet! Or you'll all be in trouble.
+{16776}{16863}- You, come with me.|- Why?
+{16869}{16960}I wanna be in trouble.
+{17042}{17177}Well, since you're on the business|of taking towels, take mine too.
+{17183}{17240}Could you hold this, please? Thank you.
+{17246}{17302}I really hate it...
+{17308}{17415}when people talk back!
+{17484}{17526}Thank you. Let's go.
+{17532}{17639}Who are you? What did I do?
+{17680}{17827}Mary had a little lamb,|its fleece as white as snow.
+{17859}{17925}Peter Piper picked a peck|of pickled peppers?
+{17931}{18028}- Bubble gum, bubble gum, in a dish.|- How many pieces do you wish?
+{18034}{18188}This is what happens when you design|a code book in summer camp.
+{18246}{18321}So, I'm being called up?|My country needs me?
+{18327}{18397}- Yep.|- Where are we going? The Middle East?
+{18403}{18447}Russia? China?
+{18453}{18556}Downtown Seattle.
+{18926}{18987}I'm in. My first mission!
+{18993}{19108}- Didn't think it would happen this soon?|- Plus I didn't think my partner would...
+{19114}{19199}Let's get one thing straight.|I am not your partner.
+{19205}{19257}I'm your handler.
+{19263}{19350}Like in the zoo.
+{19408}{19512}You will speak only when spoken to.|You will follow orders without question.
+{19518}{19630}If you're lucky, you might get to...
+{19647}{19758}Hey. How did you get in here?|There's no school tour today.
+{19764}{19847}I'm not on a school tour.|Look, I'm an agent.
+{19853}{19941}- I probably left my ID in my other clothes.|- Right.
+{19947}{20048}- I'm with Ronica Miles.|- You wish.
+{20054}{20141}Here he is.
+{20168}{20250}Sir, I just apprehended a trespasser.|It was a bit of a struggle.
+{20256}{20303}- What's your name?|- Rosychuk.
+{20309}{20369}Come here, Rosychuk.
+{20375}{20537}You know, you've just apprehended|the most important kid in America!
+{20543}{20609}Mr Banks, this way. This way.
+{20615}{20668}What was he thinkin'?
+{20674}{20826}You got "agent" written all over you.|I mean, it's in the eyes.
+{20832}{20913}You got it, kid. Come on.
+{20919}{20981}Welcome to the CIA.
+{20987}{21114}You like the Sonics? What about|front-row seats for the play-offs?
+{21161}{21237}We've prepared a briefing|to explain nanobots to you.
+{21243}{21312}I'm familiar with them.|Tiny weapons, giant potential.
+{21318}{21413}Micro-devices, built up of compounds|of polymer cobalt and gold,
+{21419}{21514}other times constructed with|fullerene complexes called buckysomes -
+{21520}{21586}assemblers that can bond|atoms and computer circuits.
+{21592}{21664}The most impressive tests|on microsurgery were conducted
+{21670}{21787}at Sweden's Linköping University.
+{21822}{21877}Well, I guess we can move on, huh?
+{21883}{21950}OK, let's turn to Natalie Connors.
+{21956}{22047}Natalie Connors, 15 years old.|Hair blonde, eyes brown.
+{22053}{22109}Likes horses, preferably Arabians,
+{22115}{22236}pistachio ice cream,|turquoise jewellery, and TS Eliot.
+{22242}{22330}Learn everything you can about this girl.|Get close to her.
+{22336}{22411}That's my mission?|I have to get close to "her"?
+{22417}{22483}Yes. Insinuate yourself into her life.
+{22489}{22598}It is imperative you find out|what her father and ERIS are planning.
+{22604}{22683}And we'll help.|We've placed you in all her classes.
+{22689}{22762}All of them? Isn't that a little creepy?
+{22768}{22807}Creepy?
+{22813}{22945}We're the CIA.|That's what we do. Right?
+{22954}{23002}And...
+{23008}{23091}you want me to become her boyfriend?
+{23097}{23142}Cody, the plan is simple.
+{23148}{23230}She has a birthday coming up.|Her father's throwing her a party.
+{23236}{23308}The first step is to get yourself|invited to that party.
+{23314}{23424}And be careful. This is not|secret agent Little League any more.
+{23430}{23530}This is the show, Mr Banks.|And this is showtime.
+{23536}{23669}Now, if you can't handle it,|you just tell me now.
+{23689}{23793}You can count on me.
+{23836}{23918}Oh, yes.
+{23937}{24069}Attention. Rocket launch test.
+{24137}{24190}Don't touch anything.
+{24196}{24273}Five, four, three,
+{24279}{24366}two, one.
+{24519}{24621}Mr Banks. Come see me, son.
+{24639}{24761}I've prepared a number of dope items|which I think you're gonna be down with.
+{24767}{24955}This item here is equipped with a virtual|telephoto lens and low penetration x-ray.
+{24969}{25028}Gimme that!
+{25034}{25148}This is your cellphone. It's|a state-of-the-art mobile command centre
+{25154}{25274}with a holographic audiovisual display|and a personal GPS transceiver.
+{25280}{25329}OK.
+{25335}{25483}Now, this is a CIA get-outta-trouble watch.|See this silver button?
+{25489}{25636}Be very careful with this little silver|button, cos it'll just make people go...
+{25646}{25694}What was that?
+{25700}{25778}One more time. I didn't get it.
+{25808}{25907}I don't even want to know.
+{25959}{26027}All right, let's wrap this up.
+{26033}{26083}$5,000 cash.
+{26089}{26150}What for?
+{26156}{26247}I think they buy things with it,|I believe.
+{26253}{26334}OK. That's it. Thanks for comin'.
+{26340}{26449}- Wait. I think we're forgetting something.|- Oh, no. I'm not forgettin' anything.
+{26455}{26575}- What about those wheels?|- No, Cody, you don't need to drive.
+{26581}{26689}- I need to impress the girls.|- OK. Well, then we got you fixed up.
+{26695}{26817}Look at this. Hm?|This thing is really full of surprises.
+{26823}{26896}- Fine.|- I think you're gonna impress the girls.
+{26902}{26929}Oh, yeah.
+{26935}{27030}- Good luck.|- Thanks!
+{27036}{27100}- You're transferring to a prep school?|- Yep.
+{27106}{27165}I got a scholarship|to Donovan Prep Academy.
+{27171}{27228}A scholarship? Hold on.
+{27234}{27308}When did you apply?|Did I sign something?
+{27314}{27396}Yeah. A few months ago.|It's always been my dream to go there.
+{27402}{27471}It has? But what about your friends?
+{27477}{27546}- I'll make new ones.|- With all those spoiled brats?
+{27552}{27617}And why would they want "you"?
+{27623}{27734}Diversity. At least five per cent|of the students have to be normal.
+{27740}{27838}I don't know about this. In fact,|I wanna make something very clear.
+{27844}{27975}I am not agreeing to anything|until I meet a school administrator.
+{28038}{28098}- Mr Banks?|- Yes.
+{28104}{28186}I'm from the William Donovan|Preparatory Academy.
+{28192}{28279}I'm an administrator from the school.
+{28313}{28412}"Agent"... Banks.
+{28425}{28527}I heard you really "closed the deal" with|Amy. Maybe you should try gummi bears.
+{28533}{28598}- How do you know about that?|- Everybody knows.
+{28604}{28671}- She thinks I'm a loser.|- Duh.
+{28677}{28764}Amy, I...
+{28838}{28947}Cody is a wonderful student with|extraordinary math and science abilities.
+{28953}{29033}- And what is it exactly that you do?|- Dean of admissions.
+{29039}{29141}Donovan Academy feels he isn't being|challenged in his current environment.
+{29147}{29201}Do you have some paperwork|we might see?
+{29207}{29294}Of course.
+{29455}{29528}Wow.
+{29668}{29715}- Nervous?|- Nope.
+{29721}{29803}Got your schedule?
+{29813}{29949}"Honours English. Trig. Chemistry."|Hey, I don't think I need all of this.
+{29955}{30063}- Can't I just meet her between classes?|- You will attend every class as instructed.
+{30069}{30116}You might even learn something.
+{30122}{30187}This isn't what I had in mind|when I joined the CIA.
+{30193}{30266}Join the club. I didn't think|I'd be chaperoning teenagers.
+{30272}{30386}You know, maybe you should try decaf.
+{30466}{30620}It's my job to make sure you do your job.|If you screw up, I take the heat.
+{30626}{30684}So, I guess she grows on you.
+{30690}{30735}Right?
+{30741}{30780}Nope.
+{30786}{30855}Admission papers. Hat.
+{30861}{30895}Hat? What hat?
+{30901}{30972}Seattle Seahawks.|They're her favourite football team.
+{30978}{31128}You know, it's an icebreaker.|A conversation starter.
+{31134}{31256}Look. That guy has a bird on his head.
+{31264}{31330}- Guys!|- No, it looks good.
+{31336}{31386}I'm not wearing this. I look like an idiot.
+{31392}{31571}Guys, it's two minutes till first period.|You don't want to be tardy.
+{31616}{31734}- What if she doesn't like me?|- What's not to like?
+{32671}{32753}Sorry.
+{32807}{32894}Hi, Natalie.
+{33077}{33164}Target acquired.
+{33225}{33326}New kid. You're the scholarship case|from the other side of town, right?
+{33332}{33400}Pleased to meet you.|My name's Cody. Banks.
+{33406}{33531}Banks? Hey, we got somethin'|in common, Cody. My dad "owns" banks.
+{33537}{33574}Very funny. I gotta go.
+{33580}{33638}Not so fast.
+{33644}{33709}Check it out.
+{33715}{33868}- Come on, give it back.|- What are you gonna do about it?
+{34164}{34276}If you're gonna keep my watch, promise|me you won't touch that silver button.
+{34282}{34341}- That silver button?|- Yeah, don't touch it.
+{34347}{34437}I won't touch the silver but...
+{34560}{34657}Told ya not to touch it.
+{34966}{35049}- Are those books?|- Yeah.
+{35055}{35152}I love books.|I could read all day. Love 'em.
+{35158}{35254}Great. Then you're in the right place.
+{35260}{35349}I especially love TS Eliot.
+{35355}{35406}- You do?|- I think she's amazing.
+{35412}{35537}You know, the way she captures the|female perspective. It's just so female-like.
+{35543}{35591}It's great.
+{35597}{35658}TS Eliot is a man.
+{35664}{35760}If you want to get all technical, of course.|But you never know these days.
+{35766}{35849}Do you by any chance|happen to be in special ed?
+{35855}{35892}I love horses.
+{35898}{36011}I think their hair thing is really cool.
+{36017}{36104}What a freak.
+{36285}{36338}Natalie Connors.
+{36344}{36446}Way out of your league.
+{36506}{36577}Driver's ed.
+{36583}{36638}Oh, my God, it was so cute.|Are you gonna go?
+{36644}{36746}Yeah. It's gonna be great.
+{36747}{36794}Uh-oh, here comes horse guy.
+{36800}{36887}Good luck.
+{36909}{36953}You got driver's ed too.
+{36959}{37035}What's the deal?|You're in every single one of my classes.
+{37041}{37153}I guess great minds think alike.
+{37181}{37263}Great. We got Mr Yip.|He doesn't pass anybody.
+{37269}{37343}I'm sure if you don't pass,|your dad can drive you around.
+{37349}{37420}It's because of my dad|that I need to get my licence.
+{37426}{37498}- So you can drive "him" around?|- No. So I can drive "me" around.
+{37504}{37561}- Why? Is he busy with something?|- Yeah.
+{37567}{37614}He's always doing some experiment.
+{37620}{37698}- Like a scientific experiment?|- Yeah, he's a scientist.
+{37704}{37747}Cool. With microscopes?
+{37753}{37856}You're getting weird again.
+{37873}{37944}Good afternoon, children.
+{37950}{38038}Driving is a privilege, not a right.
+{38044}{38161}I'll be delighted to instruct you|in the operation of motor vehicle.
+{38167}{38314}But I have a larger responsibility|to protect society at large
+{38320}{38398}from the idiots|and the drug-addled delinquents
+{38404}{38515}who call themselves the youth of today.
+{38521}{38603}Today!
+{38676}{38785}Your name Miss Connors? Yeah?
+{38791}{38879}You're first! Go, go, go, go, go, go, go!
+{38885}{38941}Go!
+{39005}{39078}Wait! Look left. Look right.
+{39084}{39170}You didn't turn on your blink.|I've never seen...
+{39176}{39245}This is your left. That is right.
+{39251}{39329}No. No, no, no. Get out of the driver's seat.
+{39335}{39412}OK, but I...
+{39453}{39559}One grandma. Multiple cones, three kerbs.
+{39565}{39655}- Who can drive with you screaming?|- You fail, fail, fail!
+{39661}{39777}- No. I need to get my licence!|- Next!
+{39790}{39907}Damn. The floor mat isn't straight.
+{39979}{40072}- All ready.|- Good.
+{40172}{40275}Why are you doing that? Don't...
+{40701}{40797}What are you doing now?
+{41124}{41242}Stop the car! Stop the car right now!
+{41344}{41391}- Did I pass?|- Nat, are you OK?
+{41397}{41476}He almost rolled over!
+{41482}{41562}- Come on.|- Actually, I don't feel so good.
+{41568}{41637}- He totally could have killed you.|- Natalie!
+{41643}{41715}Just stay away from her.
+{41721}{41814}Are you OK?
+{41857}{41895}You!
+{41901}{41962}I will personally go to DMV.
+{41968}{42109}You will not receive a driver's licence!
+{42162}{42259}Never!
+{42328}{42401}- Mr Yip.|- What?
+{42407}{42497}We'd like to have a word with you|about Mr Banks' driver's licence.
+{42503}{42567}Immigrations paper OK!
+{42600}{42699}My fellow agents.
+{42786}{42855}- Good luck.|- Good luck.
+{42861}{42909}- He's dead.|- So dead.
+{42915}{42959}Hey, Cody.
+{42965}{43073}- How'd it go today?|- Great. I've got her eating outta my hand.
+{43079}{43123}Fantastic.
+{43129}{43277}- So she invited you to the party?|- No, but the vibes are right.
+{43391}{43519}- Have you asked her out yet?|- Not yet. But don't rush me.
+{43552}{43687}The clock's ticking.|Now, what's wrong with tonight?
+{43750}{43849}It's a school night. I got homework.
+{43974}{44059}- Cody, what's the problem?|- Nothing. But Natalie's a brain.
+{44065}{44171}You got me in all those AP classes.|My workload's insane.
+{44177}{44288}- This mission depends on you.|- I know, but...
+{44303}{44379}Come on. Tonight I have to do|two chapters of trigonometry.
+{44385}{44538}Plus I have to write an essay on "Henry V".|Not to mention my chores.
+{44544}{44647}- Of course, if I had a little help...|- I can't believe what we're talking about.
+{44653}{44765}All right. The Agency will take care|of your chores and your homework.
+{44771}{44880}You focus on the girl.
+{45356}{45479}Teams A and B,|commence domestic sanitation.
+{45542}{45632}Team three, I need a new sponge.|Repeat: Need a new sponge. Over.
+{45638}{45735}You missed a spot.
+{45759}{45876}Negative. Negative.|Flammable. Flammable.
+{45882}{45972}Which one would you prefer? This one,|or this one? I like this one myself.
+{45978}{46060}- Good choice.|- Dust bunnies on the second floor.
+{46066}{46184}...to develop a secret weapon.|I'm gonna transmit images now.
+{46190}{46381}This is Dr Brinkman, head of ERIS.|And this, François Molay, his henchman.
+{46479}{46510}Get outta the house.
+{46516}{46603}What? They're not supposed|to be here for another hour.
+{46609}{46641}They're here!
+{46647}{46714}Move! Move!
+{46720}{46825}Move, move! Get out, get out! Go, go, go!
+{46995}{47076}Come on, move it. Get outta there.
+{47082}{47151}Right there. Let's go!
+{47157}{47185}- Get in!|- Get on with it.
+{47191}{47343}Wait. Wait, wait. Wait!|You will wait for me!
+{47552}{47642}Wow! What are they teaching the kid|at that new school?
+{47648}{47733}Oh, my God. Look at this!
+{47739}{47826}Holy...
+{48003}{48074}Cody?
+{48131}{48191}I know it's your dream|to play for the Sonics,
+{48197}{48286}but if that falls through|you'd make somebody a good janitor.
+{48292}{48357}Well, you told me to do my chores.
+{48363}{48475}Honey, we are very impressed.|Here's five bucks.
+{48481}{48568}- Thanks, Mom.|- Yeah.
+{48828}{48950}Hey, I'm gonna go|take Marvin for a walk.
+{49347}{49442}- Your homework to your satisfaction?|- Yeah.
+{49448}{49511}Your room is nice and tidy?
+{49517}{49588}- Guinea pig cage is clean?|- Yeah.
+{49594}{49664}Well, I think we've done our part.
+{49670}{49744}Now you do yours. Call Natalie.
+{49750}{49804}- In here?|- Yeah.
+{49810}{49847}Hurry.
+{49853}{49944}I'll do it in my room.
+{50025}{50117}He pooped twice.
+{50349}{50473}- That wasn't me.|- I don't smell anything.
+{50495}{50556}Get out! Everybody out!
+{50562}{50661}Hello, Natalie. Guess who.
+{50712}{50829}Hey, pretty lady. What's goin' on?
+{50852}{50970}Dude. Natalie, how are you doin'?
+{51025}{51199}Hi, Natalie. It's Cody. I was just wondering|what you were doing this Saturday.
+{51420}{51470}Hello?
+{51476}{51583}Hello? Who is this?
+{51694}{51740}This mission is screwed.
+{51746}{51876}We spent $10 million training this kid, and|we did not teach him how to talk to a girl?
+{51882}{51949}Sir, I assure you, we had no idea.
+{51955}{52061}- You're shy?|- Cody's a little delicate.
+{52067}{52169}My mother's ceramic cat collection|is delicate. This is national security!
+{52175}{52256}I'm sorry.
+{52262}{52365}I've got reports from the training camp.|You bragged about having lots of girls!
+{52371}{52505}It was camp! I exaggerated.|Everyone does.
+{52545}{52632}OK. So...
+{52721}{52791}What is the truth?
+{52797}{52873}Well, when it comes to girls,
+{52879}{52975}I suck.
+{53023}{53076}Ronica, you met my dad.
+{53082}{53138}Well, I'm his son.
+{53144}{53310}Ladies and gentlemen, somebody has|gotta teach this kid how to talk to a girl!
+{53316}{53379}I understand you're havin'|a problem with women,
+{53385}{53483}so I've assembled a team of experts here|to sorta help you along
+{53489}{53590}from the point of contact to the point|of closure. You gotta close, Cody.
+{53596}{53649}Any species is predicated upon mating.
+{53655}{53744}The males and the females must couple,|or the animal will die off.
+{53750}{53839}- I'm just tryin' to get a first date.|- Let me tell you how the hyena does it.
+{53845}{53940}- You see this thing here?|- There's a lot of laughing involved.
+{53946}{54062}It makes you want to give the Good Lord|a standing ovation. You wanna go...
+{54068}{54168}Let her know she looks fresh. Pay her|compliments about her hair and her dress.
+{54174}{54231}You gotta be smart. Get some dirt on her.
+{54237}{54335}They can think out of both sides of|their brain at once. Emotion and intellect.
+{54341}{54454}- Check out her previous boyfriends.|- Don't be late. It's a bad start to a date.
+{54460}{54547}My grandfather used to say|"Oh, son, women are like cow chips."
+{54553}{54618}"The older they get,|the easier they are to pick up."
+{54624}{54727}Let's take a few deep breaths|as we turn to the relationship pyramid.
+{54733}{54799}You gotta be straightforward,|stern, commanding.
+{54805}{54895}- He's dead now.|- Shower before seeing the girl.
+{54901}{55005}No, no, no, no. You wanna be dank and|dusky and musky. She's gotta smell ya.
+{55011}{55081}My father was married 100 years or so.
+{55087}{55143}You gotta smell like a man. Like a beast!
+{55149}{55220}He's got a ring in his neck.|You pull it, he goes "My fault."
+{55226}{55315}- Like a wild animal. Like the cheetah...|- Excuse me!
+{55321}{55402}If you find yourself in a difficult position,|hang on, fight it out!
+{55408}{55466}Hole up. Get your energy back|for the final push!
+{55472}{55542}Think like a hyena. Be a hyena.
+{55548}{55643}In the fog of war, it's the one who wants it|the most that comes out on top!
+{55649}{55748}And I don't think you want it the most!|I think you are a pathetic loser.
+{55754}{55820}You're a disgrace to these|honourable men and women.
+{55826}{55936}How are you gonna hold your head high|when you walk down the street, Banks?
+{55942}{56009}- Straighten up when I talk to you!|- Thank you, General.
+{56015}{56071}Get off. I'm sorry this had to happen.
+{56077}{56188}OK, this one's gonna be good.
+{56375}{56529}Cody, don't say I never did nothin' for you,|brother. Look at that.
+{56613}{56694}Hey, Cody.
+{56697}{56752}Come over here.
+{56758}{56859}I'm free tonight. What shall we do?
+{57131}{57184}Kid can't even talk to a simulated woman.
+{57190}{57335}Maybe I should've started him out|at a more intermediate level.
+{57507}{57573}Wait. No. It's a little uneven.
+{57579}{57636}Up more on the right.
+{57642}{57747}Yeah, that looks good. Just higher.
+{58021}{58065}Are you OK?
+{58071}{58118}Where did you come from?
+{58124}{58212}I transferred from Jefferson High.
+{58218}{58271}This'll help.
+{58277}{58383}- Nurse Hatchett to the football field.|- Could you just hold this, please?
+{58389}{58511}That's good. I'll be right back, OK?
+{58530}{58617}You think it's broken?
+{58687}{58769}- Definitely not.|- So, you're a doctor now?
+{58775}{58870}Just experienced. I've broken my leg,|wrist, a couple of fingers...
+{58876}{58953}- Let me guess. Driving accident.|- Summer camp.
+{58959}{59063}One of those "go and try to survive|in the wilderness" places. It's crazy.
+{59069}{59146}I've only been to camp once -|for gymnastics.
+{59152}{59206}They never told me you took gymnastics.
+{59212}{59294}Who's "they"?
+{59325}{59442}OK. That's it. I have to do something.
+{59476}{59543}Sorry.
+{59564}{59689}So, you do gymnastics.|That's awesome.
+{59711}{59782}Thank you for your help...?
+{59788}{59895}- Cody.|- Cody.
+{59988}{60064}You know, Cody,|you make a really bad first impression.
+{60070}{60125}And a terrible second impression.
+{60131}{60225}But the third time, it's really good.
+{60231}{60353}- You gotta see my fourth.|- I'd like that.
+{60392}{60526}It's kind of short notice, but I'm having|a birthday party this weekend, and...
+{60532}{60626}- I'd love to!|- Great.
+{60672}{60802}- Hello. Are you all right?|- Yes. I just need to get back to class.
+{60808}{60883}- Glad this young man saved you, huh?|- We're OK here, Nurse.
+{60889}{60973}- We don't need any help.|- I see here your birthday is coming up.
+{60979}{61067}You know, that's none|of your business, "Nurse".
+{61073}{61105}I'm gonna go.
+{61111}{61215}Are you having a party? Invite Cody.|It's the least you could do. Did you?
+{61221}{61310}- Yes, I did.|- You did?
+{61313}{61402}Cody, I'll see you on Sunday.|Oh, the theme is Las Vegas.
+{61408}{61505}All right. See you there.
+{61646}{61757}Not a word. Not a word.
+{61763}{61854}Be friendly. But keep a low profile.|You're not there to socialise.
+{61860}{61952}ERIS may have inserted their own agents.|Casino dealers, caterers.
+{61958}{62033}Anyone is suspect.
+{62041}{62184}And remember, these are dangerous men.|They'll think nothing of harming you.
+{62190}{62237}So use caution.
+{62243}{62348}First floor of the house is a public area.|The second floor is living space.
+{62354}{62501}On the beach is Connors' personal lab.|The floor plan is stored in your phone.
+{62507}{62635}We'll be watching. We're only|a couple of blocks away. Hold still.
+{62641}{62708}That really freaks me out.
+{62714}{62805}Sorry. Ready?
+{62826}{62871}Yep.
+{62877}{62950}Let's go.
+{62959}{63056}Why don't "you" take it?
+{63160}{63257}- You did get him his licence?|- Yeah.
+{63649}{63741}Here he comes.
+{63762}{63829}Wait. Wait a minute.
+{63835}{63932}He's at the gate.
+{63960}{64032}- Name?|- Banks. Cody Banks.
+{64038}{64087}You got some ID, Banks?
+{64093}{64210}- You mean my driver's licence?|- Yeah.
+{64383}{64472}There were no guns at "my" birthday party.
+{64526}{64614}- What's this?|- My cellphone.
+{64620}{64706}My MP3 player. You know these|stuffy parties. They get boring.
+{64712}{64795}Yeah. You have fun.
+{64944}{65019}He's in.
+{65433}{65499}Oh, yeah!
+{65505}{65617}That's what I'm talkin' about.
+{65733}{65822}Guys, I'm 15, you know.
+{66359}{66456}I'll see you guys later.
+{66683}{66740}- Hey, Cody.|- Hey, Natalie. How's your ankle?
+{66746}{66840}It's much better, but I think I'll hold off|on the cartwheels for a while.
+{66846}{66939}- You don't wanna have too much fun.|- No.
+{66945}{67013}Do you want something|to drink or anything?
+{67019}{67080}Happy birthday.
+{67086}{67178}Thank you.
+{67201}{67313}Wow. I love it. It's beautiful.
+{67321}{67423}- Can you help me?|- Sure.
+{67591}{67638}Sorry.
+{67644}{67750}I'm kinda new at this.
+{67866}{67924}- Turquoise is my favourite.|- I know.
+{67930}{68018}- You're not supposed to know that.|- I know!
+{68024}{68170}- What?|- Sorry. Just this stupid voice in my head.
+{68224}{68330}I have to go play hostess. Fenster! Why|am I not surprised you're the first person...
+{68336}{68388}Don't ever interrupt me again!
+{68394}{68431}Watch it, or you're going in.
+{68437}{68532}- It won't happen again, I promise.|- Yeah, right.
+{68538}{68647}Place your bets.|{y:i}Faites vos jeux.
+{68691}{68788}10,000, red seven.
+{68798}{68865}10,000, black 13.
+{68871}{68950}No more bets.|{y:i}Rien ne va plus.
+{68956}{69048}Red seven.
+{69074}{69148}Thank you.
+{69209}{69316}Sir, it's just play money.
+{69930}{70012}Guys.
+{70036}{70109}Brinkman.
+{70538}{70635}This way, Mr Brinkman.
+{70941}{71018}- Let's see what they're up to.|- Wait till it's clear.
+{71024}{71132}No, I'll be OK. I'm going down.
+{72489}{72615}- I'm on the roof of the lab.|- Be careful. It's full of motion sensors.
+{73556}{73673}I hope you haven't spent|all our money on real estate.
+{73679}{73804}Please don't touch anything. I'll give you|a demonstration in just a minute.
+{73810}{73879}Dr Connors,|are you prepared to mass-produce?
+{73885}{73992}Yes, but without freezing temperatures,|I can't control the nanobots.
+{73998}{74077}No problem. We'll supply you|with all the ice you'll ever need.
+{74083}{74133}Hey! No!
+{74139}{74205}In this one cube,|how many nanobots are there?
+{74211}{74344}About 40,000. And as soon as it starts to|melt, they destroy everything in their path.
+{74350}{74438}Let's find out.
+{74485}{74574}See if they can eat this.
+{75246}{75299}Temperature's rising. Turning to liquid.
+{75305}{75427}- Thermocontainment disabled.|- Entering the chamber.
+{75433}{75554}As you can see,|the nanobots are ignoring the glass.
+{75560}{75644}They're programmed|to destroy only the metal.
+{75650}{75777}But if you stick your finger in, your body|temperature confuses it and you'll lose it.
+{75783}{75851}Painfully.
+{75857}{75893}Look at those buggers go.
+{75899}{76001}They're like little Pac-Men.
+{76007}{76076}Now, say, what is that thing, by the way?
+{76082}{76193}Just the guidance system to a Russian|SS-18 intercontinental ballistic missile.
+{76199}{76297}- Are you getting this?|- The Americans use similar components.
+{76303}{76351}Congratulations.
+{76357}{76502}You just gave us the power to neutralise|America's entire strategic arsenal.
+{76508}{76601}And leave it defenceless.
+{76640}{76714}You'll never get the nanobots|into a military facility.
+{76720}{76752}Yes, we will.
+{76758}{76821}Wait a second. That wasn't the deal.
+{76827}{76962}The deal was: You finance the project,|I decide what we do with the technology.
+{76968}{77010}No, no, no, no, no.
+{77016}{77196}You are going to program them|to march in like a column of ants.
+{77202}{77249}Now,
+{77255}{77362}shall we join your daughter?
+{77412}{77502}Thermocontainment engaged.
+{77508}{77611}System activated.
+{77662}{77799}- I think they're leaving.|- Get a sample of those nanobots.
+{78032}{78121}Goin' in.
+{79485}{79562}Bravo, Agent Banks.
+{79603}{79716}I've got one thing to say:|Mission accomplished.
+{79943}{80023}The ice is melting|and they're eating my shoe!
+{80029}{80117}System alert, zone two.
+{80119}{80163}What's that?
+{80169}{80292}- Seems to be some activity in the lab.|- What sort of activity?
+{80345}{80390}Get him back. Get him back!
+{80396}{80464}The detectors are sensitive.|It's probably an insect.
+{80470}{80559}Or not. François.
+{80723}{80833}- Code, Doctor. Hurry up!|- I'm going as fast as I can.
+{80839}{80926}Hurry up! Come on!
+{80956}{81048}- Come on!|- OK, OK.
+{81501}{81563}Ducks!
+{81573}{81672}False alarm. All clear.
+{81894}{81971}Horse boy! Where'd you steal|that car from? Can't be yours.
+{81977}{82092}- You can only afford one shoe.|- Not right now. I'm really fried.
+{82098}{82165}Well, maybe we should|cool you off with a swim.
+{82171}{82205}- Yeah!|- Let's do it!
+{82211}{82303}- You guys, come on.|- Pick him up!
+{82309}{82441}- Goin' in!|- Hold on. Let me fix his tie.
+{83059}{83156}You're really starting to annoy me.
+{83483}{83612}He's in every single one of my classes.
+{83745}{83805}His moves are straight|outta the CIA handbook.
+{83811}{83938}I thought we got rid|of the CIA with Bolivar.
+{83957}{84042}Now they've sent a kid. Very impressive.
+{84048}{84110}Commence ERIS|child recruitment immediately.
+{84116}{84181}I've never been so good with kids.
+{84187}{84335}I've noticed. We've gotta get out of here|immediately. Grab Connors.
+{84341}{84513}But I did a really good job! Ronica,|they can't pull me off this mission!
+{84519}{84591}Secret Agent Cody Banks.
+{84597}{84683}You've made the school newspaper.
+{84689}{84791}I think it's safe to say|you've blown your cover.
+{84797}{84904}We'll take it from here. You'll stay|at Donovan for another two weeks.
+{84910}{84975}And you will stay away|from Natalie Connors.
+{84981}{85049}I can't. I can't do that. She trusts me.
+{85055}{85164}You can and you will. It's your job. You|knew that when you picked this career.
+{85170}{85249}I didn't pick this career! It picked "me".
+{85255}{85350}I subscribed to a few spy magazines|and surfed the Net for some cool sites.
+{85356}{85451}The next thing I know, I'm going|to a CIA summer camp. I was 13!
+{85457}{85566}And now you're old enough|to know the rules.
+{85572}{85625}Here.
+{85631}{85697}This is for good luck.
+{85703}{85811}You might still be in danger.|And we'll keep an eye on you.
+{85817}{85936}To keep me safe|or to keep me from Natalie?
+{86267}{86388}ERIS THERMO LAB
+{86413}{86472}Dr Connors, why is there a slowdown?
+{86478}{86548}We gave you every piece|of equipment you've asked for.
+{86554}{86675}You have absolutely, unequivocally,|run out of excuses. What's the problem?
+{86681}{86786}I will not use science to destroy the world.
+{86792}{86891}You pompous, know-all little nerd!
+{86897}{87045}François, I think he needs|a little motivation.
+{87270}{87357}I'll get it.
+{87459}{87545}- Hey, Cody.|- Natalie!
+{87716}{87812}Hi, Mr and Mrs Banks.|Hi. Nice to meet you.
+{87818}{87875}Nice to meet you too.
+{87881}{87918}That was a girl.
+{87924}{87961}A hot girl.
+{87967}{88113}- Here you go. Two pistachios.|- Thanks.
+{88161}{88239}I cannot believe that|you like pistachio ice cream.
+{88245}{88305}We have so much in common, Cody.
+{88311}{88409}So, tell me again why|we had to sneak out the back door.
+{88415}{88509}Natalie, there's something|I have to tell you.
+{88515}{88583}You don't have to say anything. I know.
+{88589}{88631}You do?
+{88637}{88711}Yeah. And...
+{88717}{88776}I think I feel the same way too.
+{88782}{88931}Oh, man! Natalie, I'm not the person you...
+{88956}{89041}Eat your burger.
+{89085}{89174}Come on!
+{89381}{89468}What is going on here?
+{89501}{89556}Get outta the way!
+{89562}{89665}Your dad got involved with|some nasty people.
+{89792}{89909}- Cody!|- Take care of him!
+{90063}{90155}Get in...
+{90157}{90267}Get in that car!
+{90988}{91033}Wake up.
+{91039}{91136}Hello.
+{91212}{91341}They took Natalie.|She's been kidnapped! She's gone!
+{91347}{91401}You should've stayed away from her.
+{91407}{91453}Don't worry. OK?
+{91459}{91545}- We're gonna get her back.|- Let me help.
+{91551}{91660}The director issued explicit orders.
+{91817}{91893}- So, what happens to me?|- Just go to school.
+{91899}{92036}Hang out with your friends.|Do your homework. Be a kid.
+{92053}{92179}- See you later, man.|- It was good workin' with you, Cody.
+{92212}{92291}See you later, kid.
+{92426}{92518}{y:i}Buenas noches, Banks.
+{92600}{92685}See ya.
+{92981}{93046}Are you OK? Where have you been?|What happened?
+{93052}{93139}Cody. Cody.
+{93176}{93293}- Did that girl do this to you?|- No. The bullies we met. It's no big deal.
+{93299}{93373}- And then you protected her.|- Kinda.
+{93379}{93448}- What were you doing out so late?|- We just talked!
+{93454}{93524}So you're OK? Are you sure?
+{93530}{93696}Well, in that case, you are so grounded!|Do you have any idea what time it is?
+{93704}{93806}OK, go to your room!
+{93813}{93911}- I'm in the fire level. Where are you?|- I'm still on level two...
+{93917}{93965}- Alex!|- I gotta go.
+{93971}{94028}I told you not to touch my stuff.|Gimme that!
+{94034}{94115}- It's a Game Boy. I know what I'm doing.|- This stuff is special.
+{94121}{94210}So's the phone. Give it to me!
+{94216}{94321}If you want to disable the surveillance|lock, press pound-one-five.
+{94327}{94367}To return to the main menu...
+{94373}{94431}- Who's he?|- A guy from the phone company.
+{94437}{94519}- What guy from the phone company?|- What do you care?
+{94525}{94638}You think I'm stupid?|What's going on here?
+{94642}{94783}Fine. I'm a junior secret agent working|for the CIA. They gave me this stuff.
+{94789}{94894}- Happy?|- Whatever.
+{94907}{94949}- What's this?|- I don't know.
+{94955}{95114}It's been doing that for a couple of hours.|I think the battery's low or something.
+{95283}{95363}- Turquoise is my favourite.|- I know.
+{95369}{95481}She still has the microsensor.
+{95490}{95592}She's in the Cascade Mountains.
+{95598}{95705}Please, the director has gotta talk to me!|This is important!
+{95711}{95775}- What about Ronica Miles?|- She's not available.
+{95781}{95843}- Can you track her down?|- I'm sorry, Mr Banks.
+{95849}{95961}- Will anybody take my call?|- Sorry.
+{95967}{96091}- I have to go.|- You can't leave. You're grounded.
+{96097}{96132}Alex...
+{96138}{96263}how would you like to become|a junior "junior" agent?
+{96269}{96348}What's in it for me?
+{96780}{96834}Hey, Rosychuk. Open the doors.
+{96840}{96890}Yeah.
+{96896}{96969}- You don't need to see a badge?|- No. Not from you.
+{96975}{97057}Didn't think so.
+{97770}{97841}- I'm worried about Cody.|- What?
+{97847}{97898}- We haven't heard a peep out of him.|- Who?
+{97904}{97962}Maybe I was a little hard on him.
+{97968}{98110}- I think I'm just gonna go check on him.|- Alex, go to bed.
+{98148}{98203}Hello?
+{98209}{98308}Hello?
+{98503}{98559}Cody?
+{98565}{98614}- You all right?|- I guess.
+{98620}{98749}- Are you gonna stay in here all night?|- I guess.
+{98755}{98839}- All right, are you mad at me and Dad?|- I guess.
+{98845}{98991}Well, I'm sorry to hear that. Are you gonna|disobey us again and stay out late?
+{98997}{99084}I guess.
+{99096}{99176}Just kidding.
+{99182}{99241}All right, then.
+{99247}{99334}Good night.
+{100181}{100299}I need to get to Red Face.
+{101175}{101252}- He stole the car?|- And a few other items, sir.
+{101258}{101305}He's gone after Connors' daughter.
+{101311}{101377}- You have to admire his perseverance.|- No, I don't!
+{101383}{101454}Resisting orders.|Stealing government property.
+{101460}{101581}My camp wasn't training operatives, it|was training hoodlums! This is your fault.
+{101587}{101649}Now, you find that punk!
+{101655}{101728}Or I'm gonna have your job!
+{101734}{101846}- Who let him in here, anyway?|- Me. Rosychuk.
+{101852}{101927}Rosychuk.
+{102085}{102205}CASCADE MOUNTAINS
+{104518}{104647}Stop. You have entered a restricted area.
+{104788}{104854}Stop!
+{105385}{105503}You are inside a restricted area!
+{105602}{105722}Stop, or you will be intercepted!
+{106645}{106743}Oh, no.
+{106775}{106891}- Need any help?|- No, I'm fine.
+{107320}{107420}How'd you find me? I threw away|that transceiver you put on me.
+{107426}{107559}It wasn't a transceiver. It was an 18-carat|gold pin that my mentor gave to me.
+{107565}{107587}Sorry.
+{107593}{107764}Don't you think the CIA has LoJack|on its stuff? Even that board has one.
+{108005}{108122}- What are you doing?|- What do you think? Getting the board.
+{108128}{108183}You can hop on with me instead.
+{108189}{108310}Listen, I'm not going back with you.|I'm here to rescue Natalie.
+{108316}{108391}Me too.
+{109569}{109645}There!
+{109969}{110045}Warning. Portal closing.
+{110051}{110140}Stand clear of the doors.
+{110146}{110219}Warning. Portal closing.
+{110225}{110323}Stand clear of the doors.
+{110329}{110402}Warning. Portal closing.
+{110408}{110508}Stand clear of the doors.
+{110514}{110583}Warning.
+{110615}{110707}Everything's locked!
+{111034}{111126}- Everything OK?|- Yes, sir.
+{111942}{112016}So that's how they're doing it.|The ice cubes.
+{112022}{112090}That's how they plan|to distribute the nanobots.
+{112096}{112218}Everyone uses ice cubes.|No one would know what hit them.
+{112411}{112507}It's so difficult to get good sushi|in the mountains, François.
+{112513}{112604}- How's the girl?|- She's trouble.
+{112610}{112755}She's 15 years old.|How much trouble can she be?
+{113017}{113114}Go. Go!
+{113383}{113449}- Check.|- Check.
+{113535}{113559}Cody?
+{113565}{113651}- Oh, my God. They got you too.|- No. I'm here on my own.
+{113657}{113736}- What are you doing here?|- Let's discuss it over some ice cream.
+{113742}{113833}- Not until I find out what's going on.|- I'll tell you later. Let's go.
+{113839}{113986}No. Last time I went out with you,|it didn't go so well.
+{114041}{114078}Boss!
+{114084}{114160}Take a look at this.
+{114166}{114261}It's that kid again.
+{114421}{114492}Go get him.
+{114498}{114534}It must be love.
+{114540}{114696}- You're not gonna propose, are you?|- No, I'm just hiding from the camera.
+{114743}{114822}Look, I work for the CIA.
+{114828}{114893}- Yeah, right.|- No, really, I'm serious.
+{114899}{114992}I'm in the Agent Development Program.|Getting to you was my first job.
+{114998}{115143}- And why did you need to get to me?|- To get to your dad.
+{115171}{115258}Great! So...
+{115275}{115359}So you just used me?
+{115517}{115671}I cannot believe what an idiot I am!|Cody, I thought you were different.
+{115933}{115982}Listen.
+{115988}{116062}In the beginning,|it was just my assignment.
+{116068}{116163}But towards the end, they...
+{116169}{116256}They what?
+{116256}{116341}They pulled me off the job.
+{116347}{116424}Why?
+{116428}{116505}They pulled me off the job because...
+{116511}{116663}I was getting too emotionally|attached to the subject.
+{116675}{116756}We gotta go - now.
+{116762}{116849}Cody, what is|the school nurse doing here?
+{116855}{116995}- Well, I was gonna tell you, but...|- Hello. Ronica Miles, CIA. Let's go.
+{117001}{117036}- We gotta go.|- Let's go.
+{117042}{117098}Sorry.
+{117191}{117319}Hi, fellas. We were just leaving.
+{117356}{117474}All right. Come on, let's go. Come on.
+{117626}{117715}- Cody!|- Go get him!
+{117753}{117807}Go! Go! Go!
+{117813}{117895}Get him!
+{118069}{118231}T minus three hours|until distribution sequence.
+{118445}{118543}Don't tell me. CIA, right?
+{118549}{118653}Love that suit.|No place for a gun in "there", eh?
+{118659}{118745}Where is my dad?
+{118751}{118847}I'm not going to tell you.
+{118853}{118959}- Where's little lover-boy?|- He can't get out. We'll find him.
+{118965}{119054}Bring Connors up.
+{119078}{119122}Central...
+{119128}{119164}Intelligence...
+{119170}{119248}Agency.
+{119263}{119366}Just in time.
+{119653}{119688}Natalie!
+{119694}{119746}- Dad!|- Dr Connors.
+{119752}{119843}I'm going to place this ice cube|containing thousands of nanobots
+{119849}{119907}- on your daughter's forehead.|- No!
+{119913}{119983}Program the nanobots|to obey that remote control.
+{119989}{120106}If you don't, her body temperature|will cause the ice to melt,
+{120112}{120198}releasing the nanobots,|which will eat away indiscriminately.
+{120204}{120287}Dad, don't do it!
+{120293}{120339}I'll do it. Just let her go.
+{120345}{120445}Program the remote,|that's exactly what I'll do.
+{120451}{120538}Stay cold, Natalie.
+{120631}{120707}Look at the water|on your daughter's forehead, Doctor.
+{120713}{120803}I can't do it this quick.|This is a very complicated process.
+{120809}{120903}- Ice is melting.|- Give it up, Brinkman!
+{120909}{120957}Let her go!
+{120963}{121125}- What are you gonna do about it?|- Blow this place up! Now let Natalie go!
+{121316}{121362}- No!|- Cody!
+{121368}{121449}Cody, do it!
+{121848}{121947}Come on! Come on! Let's go!
+{122153}{122246}Go! Go! Go!
+{122708}{122771}François! Get the remote!
+{122777}{122829}Stop them, François! Stop them!
+{122835}{122929}It's not gonna work.
+{122949}{123037}Do it! Do it!
+{123652}{123739}François!
+{123880}{124005}I can't stop this!|I don't know what to do!
+{124349}{124379}- Nice job.|- Thanks.
+{124385}{124418}- You all right?|- Yeah.
+{124424}{124513}Let's go. Come on.
+{124519}{124625}- Let's go!|- Come on! Cody, come on!
+{124631}{124692}Warning. Nanobot containment breach.
+{124698}{124778}Please proceed to the nearest|evacuation tunnel.
+{124784}{124842}Warning. Nanobot containment breach.
+{124848}{124979}Please proceed to the nearest|evacuation tunnel.
+{125045}{125072}Dad! Dad!
+{125078}{125132}Natalie! Natalie!
+{125138}{125201}- Meet us at the chopper!|- Be careful!
+{125207}{125327}Come on. Come on! Come on!
+{125507}{125593}Come on! Over here!
+{125599}{125675}Get on!
+{125870}{125935}Go!
+{126033}{126088}- Get in!|- Nanobot containment breach.
+{126094}{126175}Please proceed to the nearest|evacuation tunnel.
+{126181}{126242}Warning. Nanobot containment breach.
+{126248}{126375}Please proceed to the nearest|evacuation tunnel.
+{126484}{126528}- I don't see 'em.|- They'll be here.
+{126534}{126646}I do not see them. Where are they?
+{126758}{126819}Duck!
+{126825}{126913}There they are! There they are!
+{127109}{127177}- Thank God!|- Come on. We gotta go.
+{127183}{127275}Get in. Get in.
+{127699}{127791}They're jammed!
+{127842}{127934}Come on! Come on!
+{128001}{128104}Go! Lift off!
+{128128}{128288}- What is he doing?|- He's gonna find a way to open the doors.
+{128830}{128902}Why don't you land this thing|so we can run for it?
+{128908}{128988}In case you haven't noticed,|there is no place to land.
+{128994}{129067}Warning. Nanobot containment breach.
+{129073}{129197}Please proceed to the nearest|evacuation tunnel.
+{129578}{129690}Go! The doors! The doors! Go!
+{129696}{129771}Here we go!
+{129919}{130016}Yeah! Yeah!
+{130754}{130841}You messed up my haircut. See?
+{130847}{130929}See?
+{131319}{131439}Come here! Come here!
+{132222}{132263}No!
+{132269}{132366}No!
+{132814}{132920}- Go, go, go!|- I know, I know!
+{133851}{133923}- Sorry about your hair.|- Yeah?
+{133929}{134032}Not as sorry as you're going to be.
+{134167}{134222}- How's your family?|- A little worried.
+{134228}{134250}Really?
+{134256}{134382}They want me to go back to public school.|You know, it's safer.
+{134388}{134440}Sorry. I know that freaks you out.
+{134446}{134487}No, no. It's OK.
+{134493}{134567}You're my handler.
+{134573}{134655}Partner.
+{134914}{134952}- Congratulations.|- Good job.
+{134958}{135060}Nicely done, Agent Banks.
+{135067}{135174}Come here, you big lug!
+{135218}{135300}OK, OK.
+{135364}{135451}Nicely done, kid!
+{135675}{135767}You're the man!
+{136088}{136132}Well done, Banks.
+{136138}{136199}Your country's proud of you.
+{136205}{136359}If there's ever anything|we can do for you, anything at all...
+{136425}{136476}Well, there is one thing.
+{136482}{136545}I cannot believe that|I got my driver's licence!
+{136551}{136590}- And so fast, too.|- Yeah.
+{136596}{136692}- It's kinda weird.|- So weird.
+{136694}{136861}Hey, come on. Calm down.|The road. The road. We're going...
+{137062}{137139}It's so beautiful out here.
+{137145}{137232}Just like you.
+{137399}{137486}- Little Boy Blue, come blow your horn.|- Ronica, not now.
+{137492}{137611}Cody, do not turn me off!|I need to speak to you.
+{137617}{137712}Cody, turn me around this instant. Argh!
+{137718}{137880}- Now, what was my mission?|- I think you were about to kiss me.
+{145627}{145723}Visiontext Subtitles: Kerrie Slavin

@@ -1,0 +1,1822 @@
+{3875}{3908}Thank you.
+{3912}{3968}-Morning, son.|-Good morning, senator.
+{3976}{4007}Thank you.
+{4161}{4199}Taxi!
+{4349}{4399}Sheraton Rark Hotel.
+{4738}{4814}-Good morning, Senator Danta.|-Good morning, Willoughby.
+{5076}{5112}Hold it.
+{5172}{5226}Why wasn't I let in on this?
+{5230}{5284}-May I help you?|-Dot, Senator Munson.
+{5288}{5339}Oh, just a moment, senator.
+{5352}{5411}Good morning, Bobby.|How are you this morning?
+{5415}{5481}You know how I am|this morning, Mr. Rresident.
+{5485}{5542}I guess I'm in for it, aren 't I?
+{5546}{5612}That's a hell of a thing to do|without talking to me.
+{5616}{5688}Bobby, it's been over two weeks|since Shepherd died.
+{5692}{5804}We couldn't go on forever without|a secretary of state. I had to get it done.
+{5808}{5880}What was the matter|with the list of men we agreed on?
+{5884}{5956}No, not one of them can really fill the bill.
+{5960}{5995}Robert Leffingwell can.
+{6000}{6050}You know how valuable he's been to me.
+{6054}{6159}Sure, he's great. But the man's got more|enemies in Congress than anybody.
+{6163}{6268}He's never played ball with us, not even|the most ordinary, political-courtesy kind.
+{6272}{6378}Well, maybe that's the reason I want him.|He doesn 't waste his time on trifles.
+{6382}{6474}Mr. Rresident, a United States senator|is not a trifle.
+{6478}{6519}That's a joke, Bobby.
+{6524}{6586}Fine. But Leffingwell's no joke.
+{6590}{6654}And I have to stuff him down|the Senate's throat.
+{6658}{6729}Now, look, I knew we were running a risk,|but I want him.
+{6733}{6826}He can give us some creative|statesmanship, and God knows we need it.
+{6830}{6913}Oh, come on, now.|What's our toughest problem?
+{6917}{6968}You want me to talk|to Warren Strickland?
+{6972}{7035}There's no point talking|to the minority leader.
+{7040}{7093}Our troubles are coming|from our own party.
+{7097}{7127}Seab Cooley.
+{7131}{7199}We can work out a deal with old Seab.
+{7203}{7256}He says we can work out a deal with Seab.
+{7266}{7331}-Who's with you?|-Stanley Danta.
+{7336}{7415}Stan's always right there|on the job, isn't he?
+{7420}{7500}He's the best whip ever in the Senate.|Tell him I said so.
+{7510}{7571}He says you're the best whip|we've ever had.
+{7587}{7687}Tell him the best whip we've ever had|says Seab Cooley will trade for one thing:
+{7692}{7722}Leffingwell's head.
+{7726}{7755}What'd he say, Bob?
+{7760}{7819}That Seab won't trade on this,|and he's right.
+{7828}{7900}We've licked Cooley before.|We can do it again.
+{7904}{7991}Then we'd better get at it.|Suppose you start with Tom August.
+{7996}{8104}-When did Tom become a Cooley man?|-He isn't. He's not a Leffingwell man either.
+{8108}{8182}Since he's chair of Foreign Relations|we have to sweeten him up.
+{8186}{8269}I'll call him in right away.|Good luck, Bobby.
+{8297}{8368}-Oh, boy.|-You want off this one?
+{8372}{8427}I'm with you, Bob.
+{8458}{8543}There's no doubt|he's made a wild pitch...
+{8547}{8623}...but I'd like to back him up|all I can right now.
+{8628}{8673}Sure, I know.
+{9168}{9199}Hello, Bob, Stan.
+{9204}{9273}-Good morning, senator.|-Come on in.
+{9319}{9432}About 5'8", blond, a little cleft|in the chin, black dress, mink stole.
+{9436}{9515}Sorry. Didn't see anybody|answer to that description.
+{9540}{9580}Why don't you get married, Lafe?
+{9584}{9671}A United States senator should stabilize|with a good, solid marriage.
+{9675}{9716}If I did, I couldn't get elected.
+{9720}{9780}It's the unmarried mothers|who put me in office.
+{9784}{9826}Why don't you stabilize yourself?
+{9830}{9895}There's a difference between|widowers and bachelors.
+{9899}{9933}Widowers have more dignity.
+{9937}{10079}-How do you feel about this lollapalooza?|-I think the president's nuts to name him.
+{10083}{10115}But I'll vote for him.
+{10120}{10199}What about your friend Brig Anderson?|Think he'll jump the whale?
+{10204}{10307}-Leffingwell scuttled his power bill.|-Brig won't be influenced by that.
+{10312}{10371}-Not on this.|-I'm trying to count a few noses.
+{10376}{10448}-Suppose you give Brig a ring to make sure.|-lf you like.
+{10452}{10528}-Hello.|-Hello, Warren? Good morning. Bob Munson.
+{10532}{10623}-Beating the bushes early, aren't you, Bob?|-I have a lot of bushes.
+{10627}{10672}It's your garden, friend, not ours.
+{10676}{10755}How many votes against Leffingwell|on your side of the aisle?
+{10760}{10851}Somewhere between 1 7 and 20.|That's giving him the benefit of the doubt.
+{10855}{10915}With the president's right|to name his cabinet?
+{10920}{11006}Try that line on the members of your|own party. Say, Seab Cooley.
+{11017}{11099}-Hello, Brig? How's the boy?|-Right in the middle of breakfast.
+{11103}{11136}What's on your mind, Lafe?
+{11140}{11226}Just wondered what you think about|the appointment. Crazy, huh?
+{11236}{11304}-Think so?|-Well, it's gonna be a rough one.
+{11308}{11346}I wouldn't be surprised.
+{11350}{11428}-I thought you might be upset about it.|-Why would I be upset?
+{11432}{11486}The trouble he gave you|on your power bill.
+{11490}{11582}-That's right. He did, didn't he?|-You mean it's okay?
+{11586}{11683}-ls that what Bob Munson wants to know?|-You got television on your phone?
+{11687}{11734}Just a second, Lafe.
+{11740}{11781}-You going, baby?|-Yeah.
+{11785}{11821}-You still love me?|-Yeah.
+{11825}{11868}-How much?|-That much.
+{11872}{11925}Time for her bus, Brig.
+{11929}{11992}Have a nice time in school today, honey.
+{12050}{12101}-Lafe?|- Yeah.
+{12105}{12165}Look, I'm not grinding|an ax for Leffingwell...
+{12169}{12235}...but I'm not gonna commit myself|right now either.
+{12239}{12327}I'd like to wait and hear what he has to say|at the committee hearing.
+{12331}{12443}Apart from that, I'm just gonna sit back|and watch Seab Cooley light up the sky.
+{12956}{13023}Had your fire and brimstone|this morning, Seab?
+{13027}{13096}Yes, sir, Mr. Majority Leader.
+{13100}{13179}Laced with hot bourbon|and branch water.
+{13183}{13259}I expect you can see the flames|coming out of my ears.
+{13264}{13299}Can we have a little talk?
+{13304}{13361}If you mean about|Mr. Robert A. Leffingwell...
+{13365}{13463}-...it'd be a fruitless conversation.|-The president, the party and l...
+{13467}{13523}...would take it as a favor|if you'd lay off.
+{13527}{13598}I honor the president, I love my party...
+{13602}{13720}...and I admire you, Mr. Majority Leader,|except where it crosses with my convictions.
+{13724}{13813}I believe Mr. Robert A. Leffingwell|will lead us straight to perdition.
+{13817}{13862}Come on, we know what's eating you.
+{13866}{13948}Leffingwell made a liar out of you|in a hearing five years ago.
+{13952}{14057}-It's a long time to carry a grudge, Seab.|-Maybe for a young fellow like you.
+{14061}{14187}In my table of time, it happened just|like yesterday. Good day, gentlemen.
+{14243}{14343}Scares you, doesn't it?|All that 40 years in the Senate.
+{14433}{14473}Good morning, Seab.
+{14490}{14557}-I was just gonna call your office.|-On the run, Fred.
+{14561}{14653}I know. We've all gotta hop for this one,|but we'll put Leffingwell over.
+{14657}{14745}Boy, he is it, Bob. He's really it.|He's a great man, a great talent.
+{14749}{14835}-I'm throwing my organization behind this.|-You got an organization?
+{14839}{14874}Are you kidding?
+{14879}{14946}Eight chapters in eight cities,|my peace organization.
+{14950}{15023}Who you making peace with?|The Kickapoo lndians?
+{15028}{15066}You find peace amusing?
+{15070}{15162}It's just that Stan's on the lndian Affairs|subcommittee, isn't it, Stan?
+{15166}{15207}I'll be with you in a minute.
+{15211}{15335}Fred, what do those guys do|besides strew roses in your path?
+{15340}{15393}Just my brain trust.
+{15397}{15461}You can't hold a senator's job|by kissing babies...
+{15465}{15541}...and shaking hands, you know. Bob....
+{15589}{15645}The hearing will go|to a subcommittee, right?
+{15649}{15730}I haven't any word from Tom August yet.|I don't know his plan.
+{15734}{15820}Well, if it does--|I say, if it does, I don't wanna push....
+{15824}{15908}Whoever's made subcommittee chair|should be pro-Leffingwell, right?
+{15912}{15942}Possibly.
+{15946}{16083}Well, I've done my share of the hack work.|I ought to be in line for a spot like this.
+{16088}{16166}Fred, right now I'm just trying|to get the situation in hand.
+{16170}{16226}I know, but I wanted|to get my bid in early.
+{16230}{16319}I've gotta fly to New York for the afternoon|and meet my eastern group.
+{16324}{16416}-Suppose I call you later on?|-Yeah. Do that. Call me.
+{16716}{16795}-Van Ackerman's looking for a horse to ride.|-He won't get it from me.
+{16800}{16859}He won't care.|He doesn't belong here, Bob.
+{16863}{16930}-You'll have to cut him off the vine.|-He'll fall off.
+{16934}{16994}-Morning, Bess.|-Morning, senator. Your calls.
+{16998}{17067}-First, see if you can get me Leffingwell.|-Yes, sir.
+{17071}{17139}Sir, 21 9 telegrams so far.
+{17143}{17219}-Most of them favorable to Leffingwell.|-Good.
+{17230}{17311}-Good morning, senator.|-Morning.
+{17615}{17695}-Leffingwell residence.|-Senator Munson calling Mr. Leffingwell.
+{17699}{17757}Senator Munson? Wait a minute.
+{17891}{17977}-Dad, it's Senator Munson on the phone.|-What?
+{17984}{18058}The phone. It's Senator Munson.
+{18083}{18145}-Tell him I've gone out.|-Why?
+{18149}{18222}Because he'll want me to do things|that might obligate me.
+{18226}{18338}Why do you want me to lie? If you're in,|you're in. If you're out, you're out.
+{18342}{18407}Son, this is a Washington, D.C.|kind of lie.
+{18411}{18514}That's when the other person knows you're|lying, and also knows you know he knows.
+{18518}{18563}-Follow?|-No.
+{18567}{18673}-Senator Munson will understand.|-Okay, if you say so.
+{18832}{18871}He's not here. He went out.
+{18876}{18937}-Do you know where I might reach him?|-No, ma'am.
+{18941}{19060}-He didn't leave a forwarding address.|-Oh, I see. Well, thank you.
+{19092}{19182}-I can't reach Mr. Leffingwell, senator.|-All right, Bess.
+{19186}{19249}-I'll take these calls down the line.|-Yes, sir.
+{19253}{19341}Wouldn't you think he'd know|we'd know he's dodging us?
+{19345}{19424}He might become the best|secretary of state we'll ever have.
+{19532}{19595}Want me to make you one of these?
+{19625}{19708}-Thanks just the same.|-It's good.
+{19728}{19832}-Don't you wanna be secretary of state?|-Think I should want to?
+{19836}{19924}-Big job.|-That's a fact.
+{19928}{20003}-I think you ought to want it.|-Why?
+{20007}{20106}Well, you know. All that trouble,|and war and stuff like that.
+{20110}{20178}Maybe you could do something about it.
+{20184}{20263}-I'd like to try.|-That's the way I'd figure it.
+{20268}{20326}It's worth a try.
+{20373}{20459}As you get to the top of the stairway,|look at the painting on the right.
+{20464}{20551}This painting portrays one of the worst|conflicts of the Mexican War.
+{20555}{20612}In this painting, it's interesting to note...
+{20616}{20684}...that Lieutenants Lee and Grant|fought side by side.
+{20688}{20749}They were classmates at West Roint,|as you know.
+{20753}{20859}The skylight came from Rhiladelphia.|It was placed there in 1 859.
+{20863}{20932}The medallions in the skylight|are hand-painted.
+{20936}{21013}They were done by Gibson and Company|and placed there in 1 859.
+{21017}{21083}-Good morning, Max.|-Miss Harrison, Lady Maudulayne.
+{21088}{21156}-Good morning, Maxwell.|-Max, this is Madame Barre.
+{21160}{21211}Her husband is the new|French ambassador.
+{21216}{21294}-Welcome to the Senate, madame.|-Thank you.
+{21410}{21477}-Good morning, Lady Maudulayne.|-Good morning.
+{21568}{21630}-Good morning.|-Good morning.
+{21985}{22040}Bob. How are you?
+{22080}{22135}Good morning, Orrin.|Everything all right?
+{22139}{22248}Bob, it's going around the Leffingwell|hearing might be set for tomorrow.
+{22252}{22293}That's rushing things, isn't it?
+{22297}{22374}As we need a secretary of state,|I wouldn't say it's rushing.
+{22378}{22442}Senator Strickland, wouldn't you say|that's sudden?
+{22446}{22534}Senator Munson's party is going to be|strongly divided on Leffingwell.
+{22538}{22628}Perhaps the senator would push it through|before that division ruptures.
+{22632}{22729}I wonder if the minority leader is qualified|to speak for the majority party.
+{22733}{22840}On the right of that aisle is the minority,|and on the left is the majority.
+{22844}{22887}All of those are left?
+{22892}{22992}-Does America have so many leftists?|-Oh, no, darling. It's purely geographical.
+{22996}{23108}I mean, they're all Republicans or Democrats.|No communists or anything of that sort.
+{23112}{23204}They do have liberal types,|but they don't necessarily sit on the left...
+{23208}{23273}...conservatives don't necessarily|sit on the right.
+{23336}{23367}Boys.
+{23372}{23434}-Bill.|-Aaron, nice to see you.
+{23438}{23511}That man, the one on the dais,|Harley Hudson.
+{23515}{23571}He's the vice president|of the United States.
+{23575}{23655}-He's very attractive.|-Yes, dear. Harley's very sweet.
+{23660}{23723}He's from one of those|odd little states, isn't he?
+{23728}{23784}He was governor of Delaware, you mean.
+{23788}{23895}-He's the president of the Senate, Celestine.|-But you said he's the vice president.
+{23900}{24001}It's confusing. We'd call him Lord|High Chamberlain or something sensible.
+{24005}{24115}It's very sensible. His job,|as vice president of the country...
+{24120}{24216}...is to preside over the Senate,|which makes him its president.
+{24220}{24268}-Then he's also a senator.|-No.
+{24272}{24371}He presides over the Senate,|but he's not a senator. He can't even vote.
+{24376}{24420}He can vote in case of a tie.
+{24424}{24483}The Senate will come to order.
+{24502}{24572}The chaplain will now offer prayer.
+{24584}{24661}Our Father, in these days|of stress and strain...
+{24665}{24733}...when men are called upon|to bear great burdens...
+{24737}{24837}...give this Senate the strength|and charity...
+{24841}{24954}...to ascertain of each who would serve|his nation his true nature and purpose...
+{24958}{25036}...Iest through inadvertence|and oversight...
+{25040}{25131}...there slip into seats of power,|those who would misguide...
+{25136}{25177}...and mislead this great people.
+{25181}{25246}Even the parson is getting into|the Leffingwell act.
+{25250}{25371}Your blessings, O Lord,|and help them to serve in your ways.
+{25376}{25407}Amen.
+{25515}{25551}Mr. President.
+{25556}{25611}Recognize the senior senator|from Michigan.
+{25616}{25716}I ask unanimous consent that the journal|of yesterday's proceedings be approved.
+{25720}{25767}Without objection? So ordered.
+{25771}{25847}Mr. Rresident, I suggest|the absence of a quorum.
+{25851}{25895}Absence of a quorum suggested.
+{25900}{25959}-Clerk will call the roll.|-Mr. Abbott....
+{26386}{26527}Finish your story. Bob's got the Linotype.|Somebody's bound to pop on Leffingwell.
+{26626}{26682}Call to the post early, huh?
+{26808}{26875}Better wake up, Senator McCafferty.
+{26940}{27055}-Senator, quorum call.|-Opposed, sir. Diametrically opposed.
+{27059}{27124}No, no, senator. It's a quorum call.
+{27169}{27239}Mr. Ardell.
+{27243}{27289}-Mr. Ashley.|-Here.
+{27310}{27371}-Take over for a few minutes?|-Oh, sure.
+{27376}{27419}Mr. Bellingham?
+{27423}{27510}-Mr. Bender of California?|-Present.
+{27514}{27638}-Bob? Where's Seab?|-Oh, he'll make an entrance pretty soon.
+{27642}{27738}-Can I help with Leffingwell?|-Can't think of a thing. We'll just mark time.
+{27742}{27802}I'll gladly talk to anybody you want me to.
+{27806}{27868}-Excuse me.|-Tom August came from the White House.
+{27872}{27933}-ln the cloak room.|-Sit in for me.
+{27937}{28028}-What's going on, Stan?|-Oh, hi, Harley. Looks like a bumpy day.
+{28032}{28099}I was asking Bob if I could do|anything to help.
+{28103}{28139}Filling up, huh?
+{28144}{28201}Funny how they can always|smell gunpowder.
+{28205}{28241}Yeah.
+{28245}{28352}Did I tell you I murdered my wife last night,|buried her under a kumquat bush?
+{28356}{28441}Oh, well.... Easy come, easy go.
+{28445}{28493}What? What did you say?
+{28497}{28616}I said I might as well get up there|and let the tourists rubberneck at me.
+{28620}{28718}-I'm sorry, Harley.|-All right. Forget it. Forget it.
+{28725}{28767}-Excuse me.|-Sure.
+{28785}{28859}-Hello, Bob.|-Morning, Tom.
+{28871}{28939}The president wants a closed hearing.
+{28954}{28995}That's impossible.
+{29000}{29095}Cooley would find a way to open it up|if he had to use a can opener.
+{29100}{29142}That's what I told him.
+{29146}{29228}We'll have to name a subcommittee|and let it go at that.
+{29232}{29335}-Who do you have in mind to chair it?|-I thought Powell Hanson.
+{29340}{29402}It'll look like you're rigging it|for Leffingwell.
+{29406}{29467}Put him on the committee,|but not as chairman.
+{29471}{29544}It's got to be somebody|who can handle Cooley.
+{29548}{29610}What would you think|of Fred Van Ackerman?
+{29614}{29660}Caught you too, huh?
+{29664}{29735}-Got me out of bed this morning.|-Well?
+{29739}{29783}I don't know.
+{29788}{29841}The man has no tact.
+{29845}{29903}Of course, he could cope with Seab.
+{29917}{29983}So could Brig Anderson over there.
+{29988}{30031}I thought of Brig.
+{30035}{30117}But he's Fred Van Ackerman's junior.|Fred would split a gut.
+{30121}{30208}Let him split. Brig knows|how to be a senator.
+{30212}{30303}All right. Let's tag him and get organized.
+{30372}{30463}-Brig, may we interrupt for a moment?|-Sure.
+{30467}{30585}Brig, how would you feel about handling|the subcommittee on Leffingwell?
+{30589}{30631}-I'd feel fine.|-Bob.
+{30635}{30724}Orrin Knox is up on Leffingwell,|and Seab is warming up.
+{30728}{30787}Here we go, gentlemen.
+{30896}{30975}The president must have known|the reaction would be adverse...
+{30980}{31053}...for the name Leffingwell|is synonymous with arrogance...
+{31057}{31116}...and an eggheaded|determination to ignore....
+{31120}{31183}When have you let somebody|else do your dirty work?
+{31188}{31225}You mean Orrin Knox, Bob?
+{31229}{31348}You find Orrin doing somebody else's|dirty work, and that'll be a pretty do.
+{31352}{31467}-The office of federal power committee...|-This was a complete surprise.
+{31471}{31509}...which he now administrates.
+{31513}{31608}And in each of these, he has,|under the protection of the president...
+{31612}{31683}...gone his own way|without consultation...
+{31688}{31748}...with the appropriate committee|of the Senate.
+{31752}{31805}Mr. President, will the senator yield?
+{31809}{31880}I will yield when I complete|the text of my statement.
+{31884}{31979}Mr. President, I only wish to ask the senator|how long he intends to speak.
+{31984}{32061}Was the senator planning to speak|for about 1 5 minutes?
+{32065}{32100}Nice try, Robert.
+{32104}{32223}Mr. Rresident, the esteemed majority leader|is trying to trap me into a time limit.
+{32228}{32294}Well, since he has trotted out|this wheezy device...
+{32298}{32371}...he must expect|the usual wheezy answer.
+{32376}{32453}I certainly expect to speak|longer than 1 5 minutes.
+{32457}{32535}-lndeed, I may speak 1 5 hours.|-Attaboy, Orrin.
+{32540}{32630}I might also say that I do not need any|coaching from the sidelines...
+{32634}{32702}...from the esteemed senator|from South Carolina.
+{32706}{32805}I would like to make it plain|that my opinions are my own...
+{32809}{32910}...and they do not reflect those|of the senator from South Carolina.
+{32914}{33003}Now, if I might continue|without interruption.
+{33007}{33102}This nomination is being handled|with an underhanded attempt...
+{33107}{33210}...to press the senator into silence and|railroad this nomination through Senate.
+{33214}{33296}Mr. President,|will the senator yield for a question?
+{33300}{33402}I have no intention of yielding to|the majority leader or the majority whip.
+{33406}{33480}They have no purpose but to block|criticism of Leffingwell.
+{33484}{33572}Will my good friend and colleague,|the distinguished senior senator...
+{33576}{33627}...from lllinois, yield the floor to me?
+{33632}{33722}Under the circumstances, and because|we see eye to eye in this matter...
+{33726}{33842}...I consider it a privilege to yield to the able|and respected senator from South Carolina.
+{33846}{33993}Thank you, sir. Mr. Rresident, I must defend|my distinguished colleague from lllinois.
+{33997}{34080}It appears that he is beset|on every side by snarling enemies.
+{34084}{34207}Yet it was his intention only to give voice|to the simple complaint...
+{34212}{34276}...many of us feel on both sides|of the aisle.
+{34280}{34349}An honest revulsion...
+{34353}{34429}...at this nomination the president|has thrown in our teeth.
+{34433}{34488}Mr. President, will this senator yield?
+{34492}{34578}I'll not yield, sir, but I will say for you|what you'd say anyway...
+{34582}{34663}...that this is not the time|for personal imputations.
+{34667}{34726}Will that satisfy the senator?
+{34755}{34809}Was there no other man than this...
+{34813}{34873}...this Robert A. Leffingwell?
+{34877}{35006}Is our storehouse of brainpower|so impoverished, that for this office...
+{35010}{35095}...which can affect the destiny|of our nation, of the world...
+{35100}{35173}...there is no other man|but Robert A. Leffingwell?
+{35177}{35254}I find that hard, indeed,|impossible to believe.
+{35258}{35307}Will the distinguished senator yield?
+{35311}{35341}Well, now...
+{35345}{35419}...for my young, handsome...
+{35424}{35492}...and plenipotent colleague,|I will gladly yield.
+{35496}{35577}Looks like Seab's gonna have|roast Lafe Smith for lunch.
+{35595}{35714}Does the senior senator from South Carolina|think he knows more than the president...
+{35719}{35811}...about what or who is needed,|in these perilous times...
+{35815}{35878}...in the office of secretary of state?
+{35882}{35918}Yes, senator.
+{35923}{36023}Even one so young and green as|the junior senator from Rhode lsland...
+{36027}{36112}...would have chosen another man.|Wouldn't you say that's the truth?
+{36116}{36236}The senator assumes an infallibility of|knowledge, which denotes a closed mind...
+{36240}{36291}...and an aged crust of prejudice.
+{36309}{36344}Who ate who?
+{36348}{36392}Mr. President...
+{36396}{36455}...we have here an example...
+{36459}{36559}...of the commotion this man,|Leffingwell, can arouse.
+{36563}{36682}Able, sensitive young senators,|taught courtesy at their mothers' knees...
+{36686}{36771}...turn upon their elders and rend them|because of their passions...
+{36776}{36862}...over this disturbing man,|Robert A. Leffingwell.
+{36866}{37014}I beseech senators to contemplate|the spectacle we are making of ourselves.
+{37018}{37058}Why?
+{37074}{37175}What is causing this bitterness|of division in our party? Leffingwell.
+{37180}{37332}Who is disrupting the cordial flow|of legislative interchange? Leffingwell.
+{37336}{37384}Who is turning this Senate...
+{37388}{37465}...into a cockpit of angry emotion?
+{37469}{37499}Leffingwell.
+{37503}{37622}I abominate this man Leffingwell.|He is an evil man.
+{37635}{37753}He will pursue a policy of appeasements!
+{37757}{37852}He will weaken the moral fiber|of our great nation.
+{37856}{37948}He will bring destruction to our traditions.
+{37952}{38029}And I beg you, senators, reject him.
+{38033}{38084}Reject him!
+{38191}{38288}-Barney, you look wonderful tonight.|-Thank you, Mrs. Harrison.
+{38300}{38400}-Betty, do you know the senator?|-Yes, we've met.
+{38404}{38471}Shall we have a spin around the floor?
+{38576}{38612}Hi, Lafe.
+{38721}{38800}-Having fun?|-Having a lovely time. Thanks.
+{39072}{39116}-Can I get you a drink?|-No, thanks.
+{39120}{39210}I will make my government's position|on Mr. Leffingwell very clear.
+{39214}{39269}In some ways, he's excellent.
+{39273}{39321}But in others, not so excellent.
+{39325}{39378}In general, I would say we are for him.
+{39382}{39449}Except when it comes to those|features of character...
+{39453}{39528}...in which we might be disposed|to be against him.
+{39532}{39631}On the whole, that is my government's|position. Yes, exactly.
+{39635}{39755}Yes, the inscrutable East can always|be depended upon to be inscrutable.
+{39766}{39854}-Enjoy your dance, darling?|-The senator dances beautifully.
+{39858}{39939}Well, Lafe is not exactly|the log-cabin type.
+{39944}{40016}Rowell, the senator is coming|to lunch tomorrow.
+{40020}{40092}We'll be honored. You'll be|our first guest at the embassy.
+{40096}{40167}-You're very kind.|-Bob, see you a minute?
+{40176}{40219}Will you excuse me?
+{40346}{40436}-Didn't see you at dinner, Fred.|-I just got here.
+{40440}{40512}Why didn't you take my call|from New York this afternoon?
+{40516}{40618}I didn't want to take your call.|Is that an honest enough answer?
+{40622}{40684}You were reaching|for Brig Anderson all the time?
+{40688}{40766}No. But we weren't reaching|for you, either.
+{40770}{40822}-He's in the club, isn't he?|-What club?
+{40826}{40903}Don't give me that.|The inner circle, the clique, the club.
+{40907}{40999}Look, Fred, you forced me|to offend you. I'm sorry.
+{41003}{41105}All right. I'm willing to forget it.|I'll still campaign for Leffingwell.
+{41109}{41187}Fine, Fred, but let's not irritate|the situation.
+{41191}{41305}Robert Leffingwell is the difference between|peace and war. I mean to fight for him.
+{41839}{41952}-Being exclusive, Harley?|-Just escaping for a moment.
+{41956}{41987}From the ladies?
+{42047}{42139}Do you mind if I ask you a question|that a vice president shouldn't ask?
+{42143}{42226}You mean like,|" How's the president's health? "
+{42231}{42310}I haven't seen him in six weeks.|He never calls me in.
+{42314}{42389}-I don't think he means to slight you.|-He probably does.
+{42393}{42443}But that's not why I'm asking.
+{42459}{42542}Look, I know I'm only Charming Harley,|the housewives' delight.
+{42546}{42659}I know I was only a compromise candidate|for vice president or I wouldn't be here.
+{42663}{42772}I never expected to be president, and I hope|to God I never will be, and I mean that.
+{42776}{42841}But the town's boiling|with rumors about his health.
+{42845}{42932}If they're true, I should at least be told.
+{42936}{42966}All right.
+{42970}{43032}But this is just my own opinion.
+{43036}{43133}I don't think the surgery last year|was successful.
+{43155}{43227}Well, I was once the happy governor|of Delaware...
+{43232}{43330}...counting revenue from corporative setups|and having tea with the du Ronts.
+{43334}{43427}-Now--|-lt hasn't happened yet. Maybe it won't.
+{43432}{43505}Bob, I'm not sure I've got the stuff|to be president.
+{43509}{43547}Has anybody?
+{43552}{43614}Most presidents have to grow up|in the job anyway.
+{43618}{43719}The country could go to hell before|I'd grow big enough to see over the desk.
+{43723}{43814}Humility is not the worst attitude|you could have toward this job.
+{43818}{43890}It's a nice word for the shakes, "humility."
+{43894}{44011}In any case, you're the only vice president|we have, so the Constitution says.
+{44018}{44126}Leffingwell is not only an appeaser,|but a spendthrift to boot.
+{44130}{44209}He can throw more money out|of the back door with a teaspoon...
+{44213}{44280}...than the government can bring in|with a shovel.
+{44284}{44383}He'll stage a giveaway to the communists|that'll make Munich look like a clambake.
+{44388}{44456}What do you pump-order politicians|think the world's like?
+{44460}{44555}Wanna get us bombed out of existence|for some lousy, two-bit country...
+{44560}{44599}...that can't even feed itself?
+{44603}{44676}We have got to think of ourselves,|first and last.
+{44680}{44754}Would the senator yield the floor?
+{44761}{44824}This is no laughing matter to me,|Mrs. Harrison.
+{44828}{44900}Then perhaps this isn't the place|to discuss it.
+{44920}{44966}Excuse me.
+{45019}{45102}-I'm terribly sorry, Dolly.|-Nonsense, Orrin.
+{45112}{45218}Why, Mr. Leffingwell does cause|excitement, doesn't he?
+{47376}{47442}-ls that you, darling?|-Hi.
+{47593}{47659}How did it go tonight, darling?
+{47663}{47755}Like any party you give. A smasher.
+{47801}{47861}You're the best there is, pet.
+{47865}{47956}Somebody said once,|a friend of mine, I'm sure...
+{47960}{48083}...that any bitch with a million bucks,|and a big house and a good caterer...
+{48087}{48167}...could be a social success in Washington.
+{48212}{48257}Do you think I'm a bitch?
+{48276}{48337}A perfectly nice one, if you are.
+{48347}{48434}And I'm probably the first man in your life|since your husband died.
+{48438}{48476}That's not a question.
+{48495}{48552}Don't feel obliged to volunteer information.
+{48556}{48597}You are.
+{48632}{48723}How long do you think I'm going to keep up|this backstairs romance?
+{48727}{48768}Front elevator.
+{48772}{48830}Elevator is right. At my age, I need it.
+{48834}{48913}Oh, your age. You're as virile|as a billy goat...
+{48917}{49002}...and make noises|like a wounded spaniel.
+{49014}{49101}-No marriage, huh?|-And spoil this convenient arrangement?
+{49105}{49151}Don't be silly.
+{49155}{49220}I think you're afraid|I won't get elected next time.
+{49224}{49305}No girl wants to be married to a has-been.
+{49313}{49397}-Well, we've got that established.|-And I'm sleepy.
+{49401}{49448}Are you sleepy?
+{49804}{49868}Will the committee come to order, please?
+{49880}{49968}I'll ask the witness to take his place|at the witness table.
+{50104}{50183}This hearing of the subcommittee of the|Senate Foreign Relations Committee...
+{50188}{50294}...is being held to consider the president's|nomination of Robert A. Leffingwell...
+{50298}{50351}...for secretary of state.
+{50364}{50463}Mr. Leffingwell, I'm sure you know|all the members of the committee here.
+{50467}{50534}Senator Cooley is not|a member of the subcommittee...
+{50538}{50613}...but the full committee voted|him permission to join us...
+{50617}{50668}...for the purposes of cross-examination.
+{50672}{50743}I welcome Senator Cooley's|participation, Mr. Chairman.
+{50747}{50842}If not wholeheartedly,|certainly without fear.
+{50847}{50875}I commend your courage.
+{50880}{50967}Frankly, the senator|scares the wits out of everybody else.
+{50972}{51044}Would you please stand|and raise your right hand?
+{51064}{51155}Do you swear that the statements|you are about to give this committee...
+{51159}{51261}...will be the truth, the whole truth|and nothing but the truth, so help you God?
+{51265}{51327}-Yes, sir, I do.|-Thank you.
+{51467}{51514}-Sorry, Brig.|-Not at all, Fred.
+{51518}{51574}I'm particularly interested in this hearing.
+{51578}{51663}I hope Mr. Leffingwell obtains|swift approval from this committee.
+{51675}{51751}I thank the senator for his comments.
+{51771}{51842}Mr. Leffingwell, I'm sure you have|a statement to make...
+{51846}{51896}...before the interrogation begins.
+{51900}{52011}Mr. Chairman, I believe I might serve this|committee best by answering its questions.
+{52015}{52055}As you wish.
+{52061}{52118}Senator Knox, would you like to begin?
+{52122}{52208}Don't you feel we're worth the effort|of an opening statement?
+{52212}{52262}I'm only being practical, senator.
+{52266}{52339}Well, then I too shall be practical,|Mr. Leffingwell.
+{52344}{52391}Are you loyal to the United States?
+{52396}{52475}I don't mind admitting|that I'm loyal to the United States.
+{52512}{52593}But it wasn't an idle question,|Mr. Leffingwell.
+{52597}{52701}I've had some complaints against things|you've said in some of your speeches...
+{52705}{52760}...about our relations|with the communists.
+{52764}{52818}Some go so far as to say|you're not loyal.
+{52822}{52942}-There's no foundation for that, senator.|-I have a quote from one of your speeches.
+{52955}{53064}"We must not bind ourselves|to outworn principles of the past...
+{53068}{53213}...when we find those principles standing|in the way of affirmative action for peace."
+{53223}{53298}-What does that mean?|-The past shouldn't lie too heavily...
+{53302}{53372}...upon our present efforts|to achieve world stability.
+{53376}{53457}You say "outworn principles of the past."
+{53461}{53515}Well, what principles|did you have in mind?
+{53520}{53601}I meant more a state of mind.|Perhaps the word "principle"...
+{53605}{53703}-...was not a good choice.|-Orrin, is that speech you got there...
+{53708}{53795}-...about defense mobilization?|-No, foreign policy.
+{53800}{53911}Mr. Chairman, the witness is the director|of the Office of Defense Mobilization.
+{53916}{53983}What's he doing making speeches|about foreign policy?
+{53988}{54087}You reckon he was bucking|for the job of secretary of state?
+{54111}{54200}I responded to an invitation|from the Chamber of Commerce of Chicago.
+{54204}{54271}The topic they gave me|to speak on was foreign policy.
+{54288}{54400}I've seen men angling|for high office, Mr. Chairman.
+{54404}{54499}That's the way they do it. They make|speeches. They flaunt themselves.
+{54504}{54581}-That's how they do it. Yes, sir.|-ln fact, Mr. Leffingwell...
+{54585}{54681}...this was only one of a series of speeches|on foreign policy, wasn't it?
+{54685}{54727}Yes, sir, that's true.
+{54752}{54798}He made speeches. So what?
+{54802}{54845}We all make speeches.
+{54849}{54944}Mr. Leffingwell, you said you merely|meant to suggest a state of mind--
+{54948}{54987}This is a cute committee here.
+{54992}{55091}Do you think it's wrong to suspect|the good faith of the communists...
+{55096}{55146}...after four decades of dishonor?
+{55150}{55223}All things change.|It wouldn't hurt to assume at times...
+{55228}{55281}...a desire for peace from the communists.
+{55285}{55377}On what basis?|These pious, hopeful men, Mr. Chairman.
+{55381}{55435}These wool-gathering optimists.
+{55439}{55530}Mr. Chairman, can't we get along|without this kind of questioning?
+{55534}{55643}At the risk of seeming discourteous to the|distinguished senator from South Carolina...
+{55648}{55727}...I'll remind him he's here|at the sufferance of the committee.
+{55740}{55875}I thank the esteemed chairman|for his courteous chastisement.
+{55879}{56010}Mr. Leffingwell, do I understand|you wish to placate the communists?
+{56014}{56119}Not placate. But neither do I want to kill|any chance of agreement before it starts.
+{56124}{56201}In an agreement, what terms|do you think would be valid?
+{56209}{56276}I can't answer that|without given circumstances.
+{56287}{56382}-Will the senator yield?|-lf the senator will be brief.
+{56387}{56445}The senator wouldn't want me|to be too brief...
+{56449}{56509}...where the fate of my country|is concerned.
+{56513}{56663}Why are you afraid to tell us what terms|you'd make with the communists?
+{56668}{56756}-I just explained to Senator Knox--|-You're evading.
+{56760}{56859}We want to know what you intend|to give away to the communists.
+{56863}{56973}-I don't intend to give anything away.|-Why won't you tell us what your terms are?
+{56977}{57049}Are you ashamed to disclose these terms?
+{57053}{57115}I have nothing to be ashamed of,|and you know it.
+{57119}{57196}He is not responding, Mr. Chairman.
+{57200}{57274}This man is hiding something.
+{57278}{57354}Senator Knox, reclaim the floor.|This is getting us nowhere.
+{57358}{57475}I resent the chair's arbitrary attempt|to silence cross-examination...
+{57480}{57535}...that'll show this man's true intent.
+{57539}{57640}It is common knowledge that no one,|nowhere, and at no time...
+{57644}{57743}...has been able to silence the distinguished|senator from South Carolina.
+{57764}{57904}Well, sir, I might say the chairman's|doing a pretty good job of it right now.
+{57938}{58043}If you feel the witness is hiding something,|would you care to make a formal charge?
+{58057}{58138}Well, now, that'll just upset everybody.
+{58142}{58213}I'll just turn the floor back|to Senator Knox.
+{58217}{58260}No more right now, Mr. Chairman.
+{58277}{58349}-Senator Velez?|-Mr. Leffingwell...
+{58353}{58471}...what associations did you have when|teaching at the University of Chicago?
+{58475}{58574}The usual campus associations.|Other teachers, students.
+{58578}{58647}I have here a telegram|from someone named Gelman...
+{58652}{58733}...who claims to have known you|at the university.
+{58741}{58806}Do you recognize the name?
+{58810}{58895}I don't think so, but that was quite|a few years ago, senator.
+{58899}{59007}Well, he says you associated|with left-wingers and communists.
+{59012}{59072}Is there anything to that, Mr. Leffingwell?
+{59076}{59139}I'd like to know what|Mr. Gelman means by...
+{59143}{59249}..."left-wingers" or "communists." Those|terms are used carelessly by some people.
+{59253}{59303}Will Mr. Gelman be called to testify?
+{59308}{59352}I'm unable to find Mr. Gelman.
+{59356}{59451}Senator, I don't know what to say,|except the telegram is from some crank.
+{59456}{59552}-Senator from Hawaii.|-Just a hypothetical question.
+{59562}{59644}If the communists demand|we yield certain strategic positions...
+{59648}{59722}-...what would you recommend?|-We reject any such demand.
+{59726}{59762}Even if it meant war?
+{59775}{59908}That's an unlikely hypothesis if we retain|our present power of retaliation.
+{59912}{59953}Say it did happen.
+{59957}{60010}Would you recommend|a preventive attack?
+{60016}{60057}Hit the enemy before they hit us?
+{60061}{60167}No, I wouldn't recommend a preventive|attack. I would first try to bargain...
+{60171}{60263}...try to agree to some of their demands|if they'd agree to some of ours.
+{60267}{60366}With the senator's permission, I'd like|to make a little speech to the witness.
+{60370}{60493}Mr. Witness, I'd rather go out of this world|standing on my two hind legs...
+{60497}{60622}...fighting like a man for things I believe in,|than to yield and concede and crawl...
+{60626}{60708}...till there was nothing left|of our freedoms and way of life...
+{60712}{60823}...but a handful of lost dreams|and a fistful of dry dust.
+{60875}{60991}Mr. Chairman, it's mighty comforting|to know that all the folks out there...
+{60996}{61060}...aren't being took in|by this appeasement talk.
+{61084}{61192}Mr. Chairman, a little while ago,|Senator Knox asked me to define...
+{61196}{61259}...what I meant by "outworn principles."
+{61264}{61355}Senator Cooley has obliged|with a perfect illustration.
+{61360}{61447}He speaks of standing on his hind legs,|fighting like a man...
+{61452}{61573}...as if war were still some rousing charge|up San Juan Hill...
+{61584}{61660}...with flags flying and bugles sounding.
+{61675}{61759}It's this kind of 1 9th-century notion|I was talking about.
+{61764}{61896}This "don't tread on me,"|"walk softly and carry a big stick"...
+{61900}{61999}..."damn the torpedoes,"|"full speed ahead" state of mind.
+{62003}{62070}Senator Cooley's state of mind.
+{62285}{62384}It seems to me that the senator from|South Carolina was speaking out of pride.
+{62388}{62500}Do you think we should discontinue pride|in our freedoms and our way of life?
+{62504}{62647}I believe it's dangerous to negotiate survival|with pride determining our attitude.
+{62652}{62731}I wonder if there isn't good sense|in what Senator Cooley said.
+{62736}{62799}I wonder if we can't become too equivocal.
+{62803}{62878}I wonder if we can't reason away,|in the name of survival...
+{62882}{62930}...everything worth surviving for.
+{62938}{63053}That's a hard line to walk, but we have|no choice but to try and walk it.
+{63060}{63132}I'm sorry to say we can't always know|where we're going.
+{63136}{63200}As long as we know|where we're not going.
+{63214}{63274}Any questions, Senator Hendershot?
+{63282}{63370}You're what they call an egghead,|aren't you, Mr. Witness?
+{63397}{63509}I'm not only an egghead, senator,|I'm a premeditated egghead.
+{63513}{63579}I set out to become an egghead,|and at this moment...
+{63584}{63635}...I'm in full flower of eggheadedness.
+{63639}{63695}I hope to shed pollen wherever I go.
+{63740}{63837}If there are no objections, we can leave|them laughing while we have lunch.
+{63841}{63913}We'll take it up again at 1 :30,|Mr. Leffingwell.
+{64168}{64235}Do you think the committee's|trying to smear you?
+{64239}{64295}They're asking what they feel|they should.
+{64300}{64354}Some questions|have been smear questions.
+{64358}{64423}Right now my main emphasis|is getting lunch.
+{64428}{64479}If he won't answer that question, I will.
+{64484}{64550}The committee is being used|to smear Mr. Leffingwell.
+{64554}{64649}-What about that, Mr. Leffingwell?|-The senator is entitled to his opinion.
+{64653}{64687}Will you excuse me, please?
+{64692}{64765}You don't like how this hearing|is being conducted, do you?
+{64769}{64839}The chairman should stop|these irresponsible questions.
+{64843}{64928}He doesn't want to.|They're out to crucify Mr. Leffingwell.
+{64932}{65034}Senator, Senator Van Ackerman is accusing|the committee of using smear tactics.
+{65038}{65079}Would you comment on this?
+{65084}{65195}If the senator has any complaints to make,|he should write a letter to his congressman.
+{65199}{65279}-Will you give Seab Cooley a free hand?|-Oh, come on.
+{65420}{65491}Do you believe war can be avoided,|Mr. Leffingwell?
+{65495}{65622}I believe it must be avoided. But I don't|think we can avoid it by rattling sabers.
+{65645}{65696}That's all, Mr. Chairman.
+{65700}{65807}Now, Mr. Leffingwell, it becomes necessary|to turn you over to the tender mercies...
+{65811}{65933}-...of the senator from South Carolina.|-I'm girded for the occasion, Mr. Chairman.
+{65949}{66025}Thank you, Mr. Chairman.|I have no questions, Mr. Chairman.
+{66029}{66108}Then I don't see any reason|why we can't adjourn the hearing.
+{66112}{66148}If there are no objections.
+{66188}{66311}Would the nominee mind staying with us|for just a smidgen longer?
+{66324}{66431}I said I have no questions, Mr. Chairman.|But I have a witness I would like to call.
+{66445}{66482}Call your witness, senator.
+{66487}{66547}Herbert Gelman.
+{66722}{66832}Will the photographers|withdraw to the sidelines, please?
+{66989}{67064}-Are you Herbert Gelman?|-That's my name.
+{67084}{67138}Raise your right hand, please.
+{67171}{67254}Do you swear the testimony|you are about to give this committee...
+{67259}{67362}...will be the truth, the whole truth|and nothing but the truth, so help you God?
+{67366}{67437}-Yes, sir, I swear.|-Take a seat, please.
+{67540}{67581}Where do you live, Mr. Gelman?
+{67585}{67707}At 2221 Grove Rlace Northeast,|here in Washington.
+{67712}{67804}-Your occupation?|-I'm a clerk in the Treasury Department.
+{67808}{67896}Did you send this telegram|to Senator Velez?
+{67959}{68062}And, Mr. Gelman, would you mind|speaking just a little bit louder, please?
+{68087}{68143}Yes. Yes.
+{68160}{68236}Why didn't you include your address|so he could contact you?
+{68240}{68347}-That was Senator Cooley's idea.|-What did Senator Cooley have to do with it?
+{68352}{68434}He suggested that I send|a telegram to Senator Velez.
+{68453}{68519}-ls this true, Senator Cooley?|-lt is, Mr. Chairman.
+{68523}{68606}Why didn't you tell us when|Senator Velez introduced the telegram?
+{68610}{68682}I was just giving the nominee|enough rope to hang himself.
+{68687}{68789}I resent being used as a cat's-paw|by the senator from South Carolina.
+{68793}{68863}I apologize to the senator from New Mexico.
+{68868}{68992}The senator will forgive me when he hears|what this new witness has to say.
+{69020}{69084}Do you know Robert Leffingwell,|Mr. Gelman?
+{69101}{69174}-Yes, sir.|-lntimately?
+{69184}{69222}Well, not intimately.
+{69226}{69283}Well, how? On sight or how?
+{69288}{69355}Well, closer than that.
+{69359}{69455}I worked for the Federal Power Commission|when he was chairman.
+{69460}{69503}In his office?
+{69507}{69572}No, sir, at a subsidiary agency.
+{69576}{69646}But I knew him before then in Chicago.
+{69650}{69716}I was in one of his classes|at the university.
+{69720}{69774}I see. Does he know you?
+{69782}{69811}He ought to.
+{69816}{69887}He fired me from|the Federal Rower Agency.
+{69891}{69979}-For what reason were you fired?|-He wanted me out of the agency.
+{69994}{70058}-I knew too much.|-About what?
+{70062}{70103}About him.
+{70112}{70155}What do you know about him?
+{70160}{70218}He's a communist.
+{70228}{70283}The nominee has|a right to cross-examine.
+{70287}{70383}I was about to ask, Mr. Leffingwell,|if you'd like to cross-examine as we go.
+{70388}{70451}Thank you, but I'll wait till he's finished.
+{70471}{70523}Senator Cooley, he's all yours.
+{70584}{70688}Now, sir, Mr. Herbert Gelman.
+{70692}{70795}Will you please tell the committee|how you happened to be here.
+{70799}{70870}I came to you about Mr. Leffingwell.
+{70875}{70977}Now I want you to tell the committee,|and the nation...
+{70981}{71039}...what you told me in my office.
+{71043}{71087}Yes, sir.
+{71101}{71174}When I was going|to the University of Chicago...
+{71178}{71262}...I lived at 271 4 Carpenter Street.
+{71274}{71426}I got to know a man, who also had|a room there, named Max Bukowski.
+{71430}{71526}-And he--|-How do you spell that name, Mr. Gelman?
+{71583}{71659}B-U-K-O-W-S-K-l.
+{71666}{71714}Would you continue, please?
+{71749}{71798}Bukowski invited me...
+{71802}{71912}...to sit in on|political discussions in his room.
+{71916}{71975}I went to several of these discussions...
+{71980}{72121}...before I realized I was getting involved|in a communist cell, and I dropped out.
+{72125}{72210}Who was in this communist cell?
+{72214}{72261}Bukowski was the leader.
+{72265}{72323}There was a man named James Morton.
+{72327}{72385}And then there was|Mr. Robert Leffingwell.
+{72389}{72447}You knew Mr. Leffingwell.
+{72451}{72550}Well, like I said, I was in one|of his classes at the university.
+{72554}{72695}Now I'll ask you to tell the committee|what was discussed at these meetings...
+{72700}{72803}...but I want to tell the committee|that I in no way coached this witness.
+{72807}{72880}The words that he uses|are his own words.
+{72884}{72919}Mr. Gelman.
+{72924}{73002}Max Bukowski was a dogmatic Marxist.
+{73006}{73157}He didn't feel that communism would come|to America without violent revolution.
+{73161}{73253}But James Morton and Mr. Leffingwell|felt that communism...
+{73257}{73351}...would come as a result of the erosion|of our form of government.
+{73355}{73483}I remember James Morton saying|that our principles would become outworn.
+{73492}{73570}Now, it seems to me we've heard|that from somebody else today.
+{73574}{73625}Not mentioning any names, of course.
+{73629}{73695}Brig, we'll want verification|of this man's story.
+{73700}{73794}-I thank the senator for pointing that out.|-Someone's got to point it out.
+{73799}{73864}I'd advise you to demand verification.
+{73874}{73931}I thank the senator for his advice.
+{73936}{74003}Would the senator care to sit|with the committee?
+{74008}{74074}Are you trying to choke me off, Brig?
+{74078}{74123}Not at all, Fred.
+{74128}{74159}Continue, please.
+{74164}{74287}Now, Mr. Gelman, you told me something|about names in this communist cell.
+{74292}{74367}Yes. Nobody used their right name.
+{74372}{74447}Mr. Leffingwell was called Walker.
+{74452}{74515}Bukowski was called Fitzgerald.
+{74519}{74607}I never learned|James Morton's real name.
+{74611}{74686}And they tried to give me|the name of Andrews.
+{74690}{74734}About that time, I quit.
+{74738}{74801}What happened when you quit?
+{74805}{74890}Mr. Leffingwell failed me in his class|on government administration.
+{74895}{74987}Why didn't you report all this|to the university authorities?
+{74992}{75067}-I was afraid.|-And you're not afraid now.
+{75071}{75127}Yes, I'm afraid.
+{75131}{75208}But I couldn't stand by|and see a man like Mr. Leffingwell...
+{75212}{75283}...get into a position of power|as secretary of state.
+{75288}{75404}-Can you corroborate this, Mr. Gelman?|-The man's an eyewitness, under oath.
+{75412}{75527}-I'm not lying!|-I didn't say you were lying.
+{75544}{75662}Where can we find Max Bukowski|and James Morton?
+{75672}{75759}Bukowski's dead.|I never saw James Morton again.
+{75772}{75895}Maybe Mr. Robert A. Leffingwell|can help us to locate this James Morton.
+{75920}{76019}Would the committee grant me one hour|to prepare an answer to this testimony?
+{76023}{76103}If he can defend himself,|let him do it right now.
+{76136}{76219}The committee will extend|this courtesy to the nominee.
+{76224}{76294}We'll stand recessed until 3:30.
+{76440}{76543}Seab, you don't believe|that tale yourself. Come on.
+{76547}{76593}Anyway, I'm rocking the boat.
+{76597}{76659}He's going to cut Gelman up|four ways from Sunday.
+{76663}{76750}And I'm going to pick off just enough votes|to push him into office.
+{76754}{76797}What about that, you old buzzard?
+{76801}{76919}Us old buzzards can see a mouse dying|from 1 0,000 feet up.
+{76924}{76999}Us old buzzards have|the sharpest eyes in creation.
+{77003}{77106}Right now, I'm studying the terrain.
+{77970}{78002}Thank you.
+{78088}{78184}Led by questions from Senator Brigham|Anderson, the witness flatly stated...
+{78188}{78243}...that Robert Leffingwell|was a communist.
+{78247}{78330}He claimed he had once been|in a communist cell with Leffingwell.
+{78334}{78386}Leff, how are you? Come in.
+{78390}{78440}Daddy, George is hiding my new record.
+{78444}{78541}-I haven't even seen her old album.|-He has seen it. He's got it, Daddy.
+{78545}{78612}Kids, go in there and behave|or I'm gonna tell Mother.
+{78616}{78672}Leffingwell seemed to be|as flabbergasted....
+{78676}{78762}Leff, I've been watching|the whole awful business on television.
+{78805}{78860}-Sit down.|-Hardiman...
+{78864}{78946}...when I go back to the hearing,|I'll tell them the whole story.
+{78950}{79011}Chicago, Gelman, everything.
+{79019}{79122}You're bound to come into it.|Might be better if you're there with me.
+{79126}{79183}We can make them understand|how it really was.
+{79188}{79238}Make who understand?
+{79243}{79347}-Who would even want to understand?|-We've got nothing to lose by trying.
+{79351}{79410}-Nothing to lose?|-I'm under oath, Hardiman.
+{79414}{79488}I know you're under oath,|but wait a minute here.
+{79509}{79562}I've got a family to feed.
+{79566}{79683}Leff, look, if we do what you want,|we'll not only be through in government...
+{79687}{79746}...we'll never even get|a job teaching again.
+{79751}{79845}You know what happens when|these red-baiting newspapers get the scent.
+{79856}{79957}-I know that, but what can I do?|-Withdraw. Don't go back to the hearing.
+{79962}{80022}That would be the worst|admission of guilt.
+{80027}{80117}There'd be a Senate investigation|in 24 hours. We'd be in the same spot.
+{80167}{80200}All right.
+{80204}{80275}Tell me this:|What do you owe these politicians?
+{80279}{80311}Nothing.
+{80315}{80433}They let that old megalomaniac Cooley bring|a half-witted clerk to testify against you.
+{80437}{80558}I know you're a man of principle. I admire|you for it, but it's no time to go by the book.
+{80562}{80619}-I don't know.|-You have to. You're putting...
+{80624}{80686}...your head on a chopping block|and mine with it.
+{80704}{80771}Look, you talk about being under oath.
+{80775}{80871}What about Gelman?|His testimony was shot with lies.
+{80875}{80961}He was never in one of your classes|at the university.
+{81048}{81127}Destroy him. It's easy for you, Leff.
+{81135}{81218}Will the chair please administer the oath|to Mr. Lewis Newborne...
+{81223}{81270}...of the Federal Rower Commission.
+{81275}{81343}Would you stand and raise|your right hand, please?
+{81391}{81473}Do you swear the testimony|you're about to give this committee...
+{81477}{81559}...will be the truth, the whole truth,|and nothing but the truth?
+{81563}{81614}-I do.|-Thank you. You may be seated.
+{81619}{81708}First, Mr. Chairman, let me say|that I do know Herbert Gelman.
+{81726}{81810}Looks like we might've smoked us out|a possum, Mr. Chairman.
+{81815}{81907}Afraid there'll be no possum stew|in the old Cooley pot tonight, senator.
+{81911}{81996}I realized I knew Herbert Gelman|only after I'd heard his testimony.
+{82000}{82052}-May I question Mr. Gelman?|-By all means.
+{82056}{82092}Mr. Gelman.
+{82096}{82163}Before being detached|from the Rower Commission...
+{82167}{82279}-...you'd been ill a long while, correct?|-I was in a tuberculosis sanitarium.
+{82283}{82360}-Tuberculosis sanitarium?|-You know that, Mr. Leffingwell.
+{82375}{82434}You fired me when I tried|to come back to work.
+{82438}{82518}Can you tell us the name|of this tuberculosis sanitarium?
+{82527}{82610}-The name?|-Yes, the name. It had a name, didn't it?
+{82631}{82697}The name. I can't think of the name.
+{82701}{82758}It was in the country, in Maryland.
+{82762}{82815}Mr. Newborne, do you know|Herbert Gelman?
+{82819}{82914}Oh, yes. I was his immediate superior|in the Federal Rower Agency.
+{82918}{82990}Tell the committee the true cause|of Mr. Gelman's illness.
+{82995}{83143}It wasn't tuberculosis. Herbert--|Mr. Gelman had a mental breakdown.
+{83147}{83243}And the sanitarium was the Elm Grove|Rest Home right outside of Baltimore.
+{83247}{83297}What happened|when he came back to work?
+{83301}{83408}He seemed, well, kind of shaky.|He couldn't seem to get a hold of the job.
+{83412}{83506}I went to Mr. Leffingwell, and I told him|that I wanted to let Gelman go.
+{83510}{83582}Mr. Leffingwell said he'd try|and find him another job.
+{83587}{83711}A few days later, on Mr. Leffingwell's|instructions, I discharged Gelman...
+{83715}{83802}...and recommended that he apply|to the Department of the Treasury.
+{83806}{83890}He made an application,|and he went to work over there.
+{83894}{83987}This, Mr. Chairman, is the sum total|of my knowledge of Herbert Gelman...
+{83991}{84059}...except I telephoned|the University of Chicago...
+{84063}{84127}...to find out if he'd ever been|a student of mine.
+{84131}{84206}The registrar said Gelman|had been at the university...
+{84210}{84283}...but there was no record|of his attending my classes.
+{84287}{84380}This will be confirmed by telegram|from the registrar to the committee.
+{84384}{84449}What do you have to say|to this, Mr. Gelman?
+{84459}{84503}I thought--
+{84513}{84648}I thought it was my duty as a citizen|to come here, expose Mr. Leffingwell.
+{84652}{84771}You will receive another telegram. This one|from the city planning office of Chicago.
+{84775}{84851}Seems this address,|271 4 Carpenter Street...
+{84855}{84981}...where this communist cell practiced its|mumbo jumbo, according to Mr. Gelman....
+{84985}{85064}This address has been a fire station|for more than 50 years.
+{85164}{85242}Did you have a mental breakdown,|Mr. Gelman?
+{85332}{85440}Do you still insist you were fired by Mr.|Leffingwell because you knew too much?
+{85476}{85583}I didn't know that he got me the job|in the Treasury Department.
+{85590}{85694}Could you have been mistaken about being|in his classes in the university?
+{85709}{85755}I don't know.
+{85771}{85863}And what about 271 4 Carpenter Street?
+{85907}{86025}Well, it might not be the right number.
+{86029}{86078}I may not remember for sure.
+{86087}{86152}Rerhaps you don't remember|other things for sure.
+{86183}{86275}Well, if I did, would anybody believe me?
+{86370}{86426}I think we can let this witness go.
+{86430}{86481}Thank you, Mr. Gelman.
+{86509}{86575}I said you could go, Mr. Gelman.
+{86758}{86831}This committee owes you an apology,|Mr. Leffingwell.
+{86835}{86902}Perhaps Senator Cooley|would like to join us in that?
+{86910}{86958}I'm not joining anybody in anything.
+{86963}{87067}Senator Cooley wants a transcript of this|hearing at the earliest possible moment.
+{87086}{87208}The committee owes me no apology, Mr.|Chairman, nor do they owe me approval.
+{87212}{87343}Win, lose, or draw I shall continue to serve|my country when and wherever I can.
+{88361}{88430}-Good afternoon.|-Yes, sir?
+{88434}{88542}Why, I'd surely be obliged if I could see|the employment record...
+{88546}{88583}...of Mr. Herbert Gelman.
+{88587}{88670}I'm sorry, sir, but employment records|are privileged information.
+{88675}{88767}You might say that I am privileged.|I'm Senator Cooley.
+{88771}{88863}You're a mighty pretty gal,|yes, ma'am. Mighty pretty.
+{88867}{88979}I'm not entirely sure in which section|of this building Mr. Gelman works.
+{89016}{89066}Mr. Leffingwell.
+{89070}{89133}Well, Leff.
+{89140}{89202}-Congratulations.|-I appreciate your arranging...
+{89206}{89267}...to see me so quickly.|I know how busy you are.
+{89271}{89349}Glad you called.|I wanted to see you. Sit down.
+{89360}{89431}Bobby thinks the committee|will go four-to-one in your favor.
+{89435}{89507}He has enough votes sewed up|to get you through on the floor.
+{89511}{89600}So it looks like you're in.|How'd you like a drink, Mr. Secretary?
+{89604}{89680}Mr. Rresident, I'm not in,|and I'm not going to be in.
+{89684}{89743}-Yes, sir.|-What are you talking about?
+{89747}{89800}-Yes, sir.|-Nothing! Sorry.
+{89804}{89911}Mr. Rresident, I want you|to withdraw my nomination.
+{89932}{89980}I lied at the hearing.
+{90415}{90478}I knew Herbert Gelman.|I knew him in Chicago.
+{90482}{90540}I knew him at those meetings.
+{90544}{90611}They were communist meetings,|Mr. Rresident.
+{90615}{90706}I was never a party member,|but I was young, looking for a cause.
+{90710}{90801}Didn't take long to discover|that wasn't it, and I dropped out.
+{90812}{90897}Please believe that,|Mr. President. It's true.
+{90988}{91062}But I am guilty of one bad error.
+{91066}{91158}I gave Herbert Gelman a job|to keep him from talking.
+{91171}{91290}When I saw Gelman in the courtroom, I knew|Cooley had me set up for the witch-hunters.
+{91295}{91366}I wish I could tell you I'm sorry I lied.
+{91371}{91441}I'm only sorry I had to lie.
+{91467}{91527}Anybody else know you lied?
+{91531}{91594}One person. Hardiman Fletcher.
+{91609}{91695}-Fletcher of the Treasury Department?|-Yes.
+{91841}{91882}Will he talk?
+{91886}{91949}No. Fletcher was the third man|in Chicago.
+{91953}{92012}He was James Morton.
+{92702}{92771}-Hello, senator.|-Well, Mr. Fletcher...
+{92775}{92884}...I surely do appreciate you keeping|this little rendezvous.
+{92891}{92944}Who are we hiding from,|senator, and why?
+{92948}{93075}I thought us meeting by this fine old|monument might have a salutary effect...
+{93079}{93173}...on our conversation. It was George|Washington who couldn't tell a lie...
+{93177}{93216}...wasn't it, Mr. Fletcher?
+{93220}{93333}I sometimes forget my schoolboy history.|Shall we take a little walk?
+{93399}{93505}A thought came to me, Mr. Fletcher.|Not like a bolt from the blue.
+{93509}{93590}More insinuating,|like a soft breeze off the river.
+{93594}{93739}I thought, "Why did Robert A. Leffingwell|have Herbert Gelman...
+{93743}{93826}...apply to the Treasury Department|for a job?
+{93830}{93907}Why didn't he send him|through civil service for a job? "
+{93911}{93985}-Are you asking me a question?|-Not yet, Mr. Fletcher.
+{93989}{94111}I gallivanted over to|the Treasury Department this afternoon...
+{94115}{94183}...and I sort of looked up|Herbert Gelman's record.
+{94187}{94282}And I discovered that you approved|Herbert's application.
+{94286}{94327}Personally approved it.
+{94332}{94426}-Senator, get to the point.|-The point is, I was gonna give you a break.
+{94430}{94503}Looks like you see fit to turn down|my Southern generosity.
+{94507}{94599}-Senator Cooley, I'm a loyal citizen. I--|-I didn't say you weren't.
+{94603}{94743}But I might have to start an investigation|to prove you're loyal, Mr. Fletcher.
+{94747}{94816}Mr. James Morton.
+{95047}{95091}What is this...
+{95095}{95158}-...break you were gonna give me?|-Simple.
+{95162}{95294}Make a telephone call to Brigham Anderson,|offer him a small confession...
+{95299}{95422}...not mentioning I had anything to do with|it, just made out of your own conscience.
+{95426}{95464}What happens then?
+{95468}{95561}Natural course will be followed|to protect the president and our party.
+{95565}{95632}Your confidence won't be betrayed,|Mr. Fletcher.
+{95636}{95726}And you'll have done a noble duty, sir.|Yes, sir, noble.
+{95940}{96023}-Senator Knox?|-Oh, thank you.
+{96105}{96209}Senators, looks like|we won't be voting today.
+{96213}{96276}It's from Brig. He's postponed it.
+{96280}{96323}For what reason?
+{96336}{96372}He doesn't say.
+{96390}{96445}Are you sure it was Fletcher|who called you?
+{96449}{96485}I made sure.
+{96489}{96534}I called him back at his home.
+{96538}{96585}Has he told this to anyone but you?
+{96589}{96626}He said not.
+{96630}{96696}Why in hell did he open|up this can of beans?
+{96700}{96751}He felt he should do the right thing.
+{96755}{96818}Nuts. He's protecting himself.
+{96870}{96935}Bess, get through to the|president at Camp David.
+{96939}{96984}Tell his secretary I want him next.
+{96988}{97055}I don't care who's ahead of me.|The queen of England.
+{97079}{97203}And it is not enough that the subcommittee|has permitted a great man to be smeared.
+{97207}{97338}Now the chairman of that subcommittee|is deliberately blocking the committee vote.
+{97342}{97447}It's one more thing to add to the most|unfair hearing in the history of the Senate.
+{97451}{97504}Sir, will the senator|yield for a question?
+{97508}{97595}-Will the senator yield for a question?|-I'll yield to the senator.
+{97599}{97683}Mr. Rresident, I admit I'm not|a supporter of Mr. Leffingwell...
+{97687}{97779}...but I watched the hearing on TV,|and it seemed eminently fair to me.
+{97783}{97911}Mr. Rresident, I'm sorry if the senator was|not perceptive enough to grasp the obvious.
+{97915}{97975}I am telling the Senate|exactly what happened.
+{97979}{98076}As much as I appreciate hearing about|the senator's particular view...
+{98080}{98187}...I must say I will need more substantial|proof than the senator's own description.
+{98191}{98243}Sir, is the senator calling me a liar?
+{98247}{98302}The record must stand as is,|Mr. President.
+{98306}{98381}How the senator interprets that|is his problem, not mine.
+{98385}{98490}Mr. President, the senator from Kansas|is welcome to take advantage of her sex.
+{98494}{98538}Oh, Fred, come off it.
+{98557}{98600}You think it's funny?
+{98604}{98664}You think the world thinks it's funny?
+{98668}{98789}The world thinks it's funny that we're trying|to smear a man who believes in peace?
+{98793}{98864}Do you think the people of this|country think it's funny?
+{98868}{98935}Does the senator from Utah|think it's funny?
+{98939}{99020}Will the senator from Utah tell us|why he is blocking the vote?
+{99024}{99131}I'll tell you. He's assassinating the character|and reputation of Robert Leffingwell!
+{99135}{99204}The senator asks me a question|and answers it himself.
+{99208}{99286}I prefer to make my own|reply, Mr. President.
+{99290}{99364}As chairman of the subcommittee,|I seek only to do my duty.
+{99368}{99493}And that I will do despite the hysterical|tantrums of the senator from Wyoming.
+{99497}{99598}The senator is frightening no one|except the children in the visitors' gallery.
+{99602}{99679}I'm not too sure the senator|from Utah can't be frightened.
+{99683}{99777}There are ways to frighten any man,|even the senator from Utah.
+{99781}{99894}-Every man has his Achilles--|-The chair is tolerant, as everybody knows.
+{99898}{99963}But there'll be no threats|made in this chamber.
+{99967}{100038}-What happened to Harley?|-I don't know.
+{100042}{100085}I apologize to the chair.
+{100089}{100158}In my anxiety for a great cause,|I was carried away.
+{100162}{100227}-Will the chair hear a motion?|-Make your motion.
+{100235}{100315}I move that the Committee on|Foreign Relations be discharged...
+{100319}{100399}...from consideration of the nominee|for secretary of state...
+{100403}{100474}...and that the Senate vote on|Robert Leffingwell now.
+{100491}{100559}-Did he clear this with you?|-He did not.
+{100563}{100641}Bob, I can't let this pass.|I'm gonna have to open up.
+{100645}{100693}I'll try and stop it.
+{100700}{100791}Make Van Ackerman withdraw the motion.|Tell him we haven't enough votes.
+{100795}{100883}-Mr. President.|-The senior senator from Michigan.
+{100895}{100938}Mr. President...
+{100942}{101042}...it would certainly be a dramatic|affirmation of the nominee...
+{101046}{101115}...if we were to bypass|the regular procedures...
+{101119}{101184}...of the Senate|and vote him into office now--
+{101188}{101252}I won't withdraw.|He should make a motion himself.
+{101256}{101366}The balance of power in our government,|as created by the Constitution...
+{101371}{101488}...is the most brilliant device for the|protection of liberty conceived by free men....
+{101492}{101582}We're not ready for this, Fred.|Don't you understand?
+{101586}{101620}I'm ready for it.
+{101624}{101753}--that none can become absolute has made|this government the miracle of the ages.
+{101757}{101803}We must always guard this balance...
+{101807}{101908}...so this great dream of liberty within|discipline, which is America, will die.
+{101912}{101971}I tell you, we haven't got the votes.
+{101975}{102046}You'll get him beat before we|get him out of committee.
+{102050}{102131}--citizens of this republic|for almost two centuries.
+{102135}{102277}Now Senator Van Ackerman's motion|proposes to ride over those procedures.
+{102281}{102386}Though I hope for the eventual|confirmation of the nominee...
+{102390}{102447}...I ask that this motion be defeated.
+{102451}{102518}It won't hurt Mr. Leffingwell|if he isn't confirmed...
+{102522}{102592}...by sundown today|or even sundown tomorrow.
+{102596}{102706}But it might hurt us most grievously|if we do what suits us...
+{102711}{102813}...in the heat and passion|of the passing moment.
+{102847}{102900}Is there a request for the yeas and nays?
+{102904}{102958}Squarehead Anderson can't block this.
+{102962}{103060}Senators, do I hear a request for the|yeas and nays? A quorum, maybe?
+{103064}{103143}What got your tongue today?|You're usually shaking the rafters.
+{103147}{103299}It's my day for sunning myself, Mr. Majority|Leader, like an old bullfrog on a lily pad.
+{103303}{103390}-You've got to withdraw.|-Does anybody want to say anything at all?
+{103394}{103491}-Mr. Rresident.|-Saved by the senator from Wyoming.
+{103501}{103649}Mr. Rresident, I have decided to heed the|wisdom of the esteemed majority leader...
+{103653}{103724}...who has pointed out|the danger in my motion.
+{103728}{103814}I would not wish to abuse|this citadel of freedom.
+{103819}{103950}I will instead humble myself|before my peers and withdraw the--
+{103954}{104034}This news about Leffingwell|hit the president pretty hard.
+{104038}{104107}-He put a lot of faith in him.|-I'm sorry.
+{104111}{104195}He's coming to the correspondents'|banquet tonight. You going?
+{104199}{104229}I plan to.
+{104233}{104326}He'd like to see you, Brig.|Would you come up to my place afterwards?
+{104330}{104434}What can I tell him I haven't told you?|All he has to do is withdraw the man.
+{104438}{104472}Did I eat crow nicely, Bob?
+{104476}{104545}Yeah, you did fine, Fred.|Thanks for your cooperation.
+{104549}{104601}Is Brig cooperating?
+{104835}{104939}Any time old Brig isn't cooperating,|I might be able to change his mind.
+{104943}{104980}Just let me know.
+{104984}{105052}Get off my back, Fred.
+{105365}{105420}Bob, see you a minute?
+{105424}{105475}Okay for after the banquet, Brig?
+{105479}{105529}Sure, all right.
+{105563}{105625}I said you made a mistake|with him. He's trouble.
+{105629}{105731}Fred, will you please butt out of this?|You're not doing Leffingwell any good.
+{105735}{105839}Okay, but if you want Brig whipped|into line, I've got the whip on file.
+{105843}{105921}I'm sure we can manage|without your file.
+{105926}{106046}Gentlemen, tonight is the one night|in the year when we're honor-bound...
+{106051}{106104}...not to be reporters.
+{106108}{106152}Our guests may speak freely...
+{106156}{106287}...and not have to read a hundred versions|of what they said in the morning papers.
+{106291}{106434}So with that assurance, I give you|the president of the United States.
+{106846}{106965}Fellow members of the White House|Correspondents' Association...
+{106981}{107075}...the man says there are|no reporters present tonight...
+{107079}{107187}...but I'm going to exercise the privilege|given me by my gold membership card...
+{107191}{107248}...and reverse that traditional ruling.
+{107262}{107340}Tonight, gentlemen,|there are reporters present.
+{107347}{107419}So get out your pencils.|We'll write ourselves a story.
+{107423}{107483}-This planned?|-Not by me.
+{107487}{107615}I see down there at table number three|the senior senator from South Carolina.
+{107631}{107681}Hello, Seab.
+{107703}{107768}And over there at table seven...
+{107772}{107865}...I see the senator from Utah,|Brigham Anderson.
+{107869}{107915}Hi, Brigham.
+{107932}{107976}I said, hi, Brigham.
+{108076}{108151}Now, a few days ago,|the president of the United States...
+{108155}{108222}...nominated a man|for secretary of state...
+{108226}{108290}...who the president thinks|is a pretty good man...
+{108294}{108376}...and he wants that man|confirmed by the Senate.
+{108380}{108485}But the senior senator from|South Carolina, for reasons of his own...
+{108489}{108594}...and those reasons are never|like anybody else's reasons...
+{108623}{108679}...the senator's opposed to my nominee.
+{108683}{108751}Well, everybody expected that.
+{108755}{108838}We'd all be disappointed|if Seab hadn't reared back...
+{108843}{108941}...and huffed and puffed,|and tried to blow the house down.
+{108978}{109053}But now comes|Senator Brigham Anderson...
+{109057}{109143}...who nobody suspected|of being a big, bad wolf.
+{109158}{109272}And he goes Seab Cooley one better by|trying to dig a tunnel under the house.
+{109315}{109451}This is your story, fellow members of the|White House Correspondents' Association.
+{109458}{109546}The president is standing by his nominee.
+{109554}{109678}Despite Seab Cooley's windstorms|and Brigham Anderson's tunneling...
+{109683}{109836}...you can tell the readers the president|hasn't changed his mind about his nominee.
+{109840}{109938}He's going to fight for that|confirmation no matter what.
+{110411}{110450}What are you clapping for?
+{110454}{110530}I can afford to be charitable, sir.
+{111016}{111061}Mr. President.
+{111134}{111189}Sore at me, Brigham?
+{111193}{111258}Frankly, I'm puzzled, Mr. President.
+{111262}{111358}There's coffee and brandy here if you want.|I'll go down to the banquet room.
+{111363}{111483}-lf it's okay, I'd rather have you stay.|-What's the matter, Brigham?
+{111487}{111533}You think you need a witness?
+{111537}{111576}I'm not sure, Mr. President.
+{111580}{111635}You'd better stay, Bobby.|Sit down.
+{111646}{111726}I have a feeling I might need|some help with this young man.
+{111737}{111832}Of course you know I'm grateful,|the way you put the lid on this matter.
+{111847}{111899}I didn't get that impression tonight.
+{111903}{112028}Well, a president has to stand up for a man|he sends down to Senate. You know that.
+{112038}{112140}It seems to me, the sooner you withdraw|him, the sooner this will blow over.
+{112144}{112183}I still want him, Brigham.
+{112187}{112294}If we open this up, he won't be confirmed.|I'm sure Senator Munson told you that.
+{112298}{112397}If we don't open it up, we've got enough|votes committed to put him through.
+{112401}{112466}I've gone as far as I can|with this, Mr. Rresident.
+{112495}{112582}I think the circumstances might|permit you to go a little further.
+{112586}{112670}You don't seriously believe|Leffingwell's a communist, do you?
+{112675}{112740}Whether he is or not, he lied under oath.
+{112751}{112820}Aren't you interested in why he lied?
+{112835}{112964}Well, I'm not completely unsympathetic,|but I just think that--
+{112968}{113026}You think he should let himself|be ruined...
+{113030}{113116}...just because he flirted with|communism a long time ago?
+{113120}{113178}My point is he should've|told the committee...
+{113182}{113248}...he had flirted with communism|instead of lying.
+{113252}{113343}Well, maybe there's nothing in your|young life you'd like to conceal...
+{113347}{113401}...but we're not all of us that fortunate.
+{113405}{113518}We have to make the best of our mistakes.|That's all Leffingwell has done.
+{113522}{113646}As the leader of our party, I'm asking you.|Let me judge the man.
+{113655}{113759}Mr. Rresident, I don't want|to wreck his life.
+{113763}{113847}I don't want to deprive you|of his services in some other office.
+{113851}{113934}But in this case, his confirmation|as secretary of state...
+{113939}{113996}...I am bound by my duty|to my committee.
+{114000}{114056}You also owe a duty to your party.
+{114060}{114130}I can't subvert the purpose|of a Senate committee.
+{114141}{114222}You don't think Cooley subverted|the purpose of the committee?
+{114226}{114305}He's used his little forum|in a personal vendetta.
+{114309}{114408}Mr. Rresident, I'm sorry, but your|arguments won't wash with me.
+{114453}{114533}My prestige is riding on this nomination.
+{114537}{114651}Rrestige of this country, Senator Anderson.|By God, that ought to wash.
+{114655}{114717}Or don't you know we're in trouble|in the world...
+{114721}{114784}...outside that little|subcommittee of yours?
+{114795}{114863}Yes, sir, I know our prestige will suffer...
+{114867}{114990}...but it will suffer a lot more if I have to|show up your nominee as a barefaced liar.
+{114994}{115094}If you won't withdraw him, I'll reopen|and call Hardiman Fletcher as a witness.
+{115098}{115191}Then do it. Do what you like.|I won't withdraw.
+{115327}{115402}-Good night, Bobby.|-Good night, Mr. Rresident.
+{115496}{115548}He has a case, Brig.
+{115560}{115649}You can't always cut it black or white.|Not in these times.
+{115653}{115718}But this is black and white.
+{115735}{115841}I just don't understand you. You make a|great speech about the balance of power...
+{115845}{115903}...then you ignore your responsibility...
+{115907}{116002}...and want me to rubber-stamp this|nomination just to please the president.
+{116022}{116082}I guess it is inconsistent...
+{116087}{116194}...but I've come a long way with him, ever|since we were green congressmen together.
+{116198}{116285}He's pulled us through|six hard years of crisis.
+{116292}{116362}He's tired, Brig, and he's ill.
+{116366}{116408}I love the man.
+{116423}{116498}I guess I can stretch|my responsibility a little.
+{116503}{116542}Love to help him.
+{116547}{116618}I'm sorry, but mine won't stretch.
+{116638}{116765}All right. Give him a few days to save face,|and then we'll put up another nominee.
+{116769}{116831}That isn't what the president said.
+{116835}{116898}He'll bend if he has to.
+{116903}{116966}And I guess he has to.
+{119623}{119663}Brig?
+{119706}{119766}Did I wake you? I'm sorry.
+{119778}{119818}I was waiting for you.
+{119822}{119882}This was a night, Mrs. Anderson.
+{119887}{120027}Your husband had a knockdown-and-dragout|with the president of the United States.
+{120031}{120118}-Oh, Brig.|-It's all right. I won.
+{120136}{120196}I had a very strange phone call, Brig.
+{120215}{120261}Strange? Well, who was it?
+{120265}{120302}I don't know. A man.
+{120306}{120382}He said that before you go on|with the Leffingwell matter...
+{120386}{120449}...you ought to remember|what happened in Hawaii.
+{120453}{120502}Then he hung up.
+{120515}{120580}What happened in Hawaii, Brig?
+{120614}{120660}What was the voice like?
+{120664}{120786}It was crawly. He made it sound like|he knew some kind of nasty secret.
+{120791}{120901}I've been on the front pages the past few|days. We're bound to get crackpot calls.
+{120905}{120971}Just hang up if you get any more.
+{120983}{121054}Are you sure you're doing|the right thing, Brig?
+{121058}{121135}Yes, darling, I'm sure.|Don't worry about it.
+{121151}{121211}What did he mean about Hawaii?
+{121216}{121272}I was stationed there|when I was in the Army.
+{121276}{121347}I don't see what that|has to do with Leffingwell.
+{121351}{121424}Just some crackpot, darling, that's all.
+{121714}{121790}-Hello?|-Did you speak to your husband?
+{121794}{121866}-What do you want? Who are you?|-We're serious about this.
+{121871}{121929}-You call here one--|-Hello!
+{121933}{121970}Hello?
+{122054}{122133}-I told you to hang up on those calls.|-Brig, I'm frightened.
+{122137}{122234}Now, look, there is nothing to be|frightened of, Ellen. Nothing!
+{122256}{122318}Come on, let's have some breakfast.
+{122351}{122461}The senator handling the inland waterways|bill can't be present this afternoon.
+{122465}{122519}If the senator from Michigan will agree...
+{122523}{122622}...I would like to ask that nothing|be put ahead of this bill.
+{122627}{122688}Since the afternoon is|an extremely busy one--
+{122692}{122744}When is the president going to withdraw?
+{122748}{122851}You can't hurry him, Brig. After all,|we don't run that end of the avenue.
+{122857}{122935}I am very glad to accommodate|the senator, Mr. Rresident.
+{122939}{123000}I move we stand in recess|until noon tomorrow.
+{123004}{123074}Without objection, so ordered.
+{123078}{123107}Have you seen him?
+{123111}{123202}He's on a destroyer at Chesapeake Bay|for the naval boat race.
+{123206}{123299}Come on, don't look so worried.|After all, you won your point last night.
+{123303}{123348}Have a cup of coffee with me.
+{123352}{123400}No, thanks.
+{123760}{123835}Early recess, senator?
+{123859}{123889}Hello, Seab.
+{123893}{123970}A man can live like a mole|in the halls of that old capitol.
+{123975}{124078}Me, I just sit out here for a while|most every day, winter or summer.
+{124082}{124184}You look like you've got|the burden, son. Sit down.
+{124307}{124416}You got them treed, haven't you? Look|out they don't shinny down on top of you.
+{124420}{124511}You're dealing with devious|men, senator. Yes, sir.
+{124515}{124619}Devious, powerful men.
+{124626}{124746}Hardiman Fletcher took a plane|to Europe this afternoon.
+{124751}{124812}A mission for the president.
+{124816}{124926}Gonna make a study|of world currency problems.
+{124970}{125007}You know that?
+{125011}{125086}Well, it'll be in the papers|tomorrow morning.
+{125132}{125222}-Where do you come into this, Seab?|-Well...
+{125230}{125371}...Iet's just say you've got a friend.|A powerful, devious friend.
+{125379}{125420}Thanks.
+{125442}{125499}Thanks. I might need him.
+{125749}{125798}-Bob.|-Hi, Brig.
+{125803}{125878}-Change your mind?|-I just wanna verify something.
+{125883}{125929}Something about Hardiman Fletcher.
+{125933}{125996}Well, what about Hardiman Fletcher?
+{126023}{126074}Is this an act?
+{126111}{126197}-I don't know what you're talking about.|-Go now.
+{126351}{126423}I give you my word,|I don't know anything about it.
+{126427}{126504}I don't understand why|the president did this.
+{126512}{126630}All I can think of is he's making sure|you won't jump the gun until he's ready.
+{126863}{126903}Hello.
+{126931}{126966}Oh, yes, he's here.
+{126971}{127006}Who is this?
+{127011}{127055}Just a minute, please.
+{127120}{127162}Oh, Brig, there's a call for you.
+{127166}{127223}-For me?|-Yeah. It's your clerk.
+{127396}{127471}-Hello.|-Hello. Senator Anderson?
+{127475}{127526}-Who is this?|-Well, it's not your clerk.
+{127531}{127635}Don 't hang up, senator. You'll be interested|in this. We have the stuff on Hawaii.
+{127639}{127724}If you don 't want us to use it,|you'll get out of Leffingwell's way.
+{127728}{127791}This is no joke, senator. We'll use it.
+{127795}{127857}Use what? What? I don ' t know what--
+{127861}{127955}It's a photograph, senator. And a letter.
+{128385}{128456}Listen, I won ' t be scared off. I mean it.
+{128460}{128539}I won ' t carry this anymore.|I'll go to Senate and tell it all!
+{128543}{128609}-Take it easy. What's the matter?|-He withdraws!
+{128613}{128727}I don't mean tomorrow! I don't mean next|week! Today, you understand? Today!
+{128746}{128782}Brig.
+{128990}{129045}Will you come in, Miss Foster?
+{129201}{129323}There was a man about five or six weeks|ago. His name was Raymond Shaff.
+{129327}{129423}" Ray," he probably said. I didn't want to|talk to him. Do you remember?
+{129427}{129517}Yes. He called several times.|He also came to the office.
+{129521}{129591}-Did he leave a number?|-I think so.
+{129988}{130026}Senator?
+{130030}{130072}Yes, Miss Foster?
+{130076}{130189}I have no telephone number, but l|have an address in New York City.
+{130193}{130290}Thank you. Would you just|put it on my desk, please?
+{131224}{131298}-Then why send Fletcher away?|-I had nothing to do with it.
+{131302}{131366}I haven't talked to the president|since the hearing.
+{131371}{131490}You expect me to believe you don't know|whether he's going to withdraw you or not?
+{131494}{131623}Senator, I've put myself at his disposal.|I'm waiting for him to tell me what to do.
+{131627}{131681}Well, I won't wait.|I don't need Fletcher.
+{131685}{131763}I'll convene the hearing|and you won't lie this time.
+{131777}{131816}You can't do that, senator.
+{131820}{131851}I've got to do it!
+{131855}{131938}Why? What does a day matter?|Or two? You have the whip hand.
+{131951}{131983}I'm giving you a chance.
+{131987}{132067}Call the press, announce your|withdrawal. Forget the president.
+{132071}{132112}I've given the president my word.
+{132116}{132194}Your word is not exactly|the coin of the realm.
+{132223}{132341}No, maybe it isn't, thanks to your|committee. But I still place a value on it.
+{132351}{132438}And there's nothing more to be said.|Good afternoon, senator.
+{132877}{132934}Did you hear all of that, Johnny?
+{132977}{133023}Did you understand it?
+{133207}{133276}Well, I don't exactly know|how to explain it, Johnny.
+{133280}{133357}-Okay.|-No. Wait a minute.
+{133451}{133505}I could tell you the truth.
+{133536}{133573}All right.
+{133743}{133792}Sit down, Johnny.
+{133908}{133938}Brig?
+{133959}{134017}I'd like to talk to you, please.
+{134236}{134272}I had another call, Brig.
+{134276}{134332}Yes, I took the call.
+{134339}{134458}When did I become the little woman who's|supposed to sit at home and know nothing?
+{134465}{134558}Brig, I've campaigned with you.|I've worked for you.
+{134562}{134614}I know politics isn't all...
+{134619}{134667}...Iove thy neighbor and friendship.
+{134671}{134719}I know how cruel it can be.
+{134731}{134786}There's trouble. I want to know what it is.
+{134790}{134878}Rlease, Daddy, you promised|to play with me.
+{134891}{134922}In a minute, Pidge.
+{134926}{134992}Do you know someone named Ray?
+{135059}{135122}Please, Daddy.
+{135131}{135189}Please, Pidge.
+{135193}{135240}Go back in the garden.
+{135244}{135301}Daddy will be there in a minute.
+{135384}{135493}He said to tell you|that they had bought Ray.
+{135507}{135558}What does that mean?
+{135603}{135635}I don't know.
+{135639}{135698}You must know.
+{135728}{135810}Will you please just leave this to me?
+{135814}{135897}But it's coming into my|home on that telephone.
+{135901}{136003}They're calling me, Brig. They're trying to|force you to do something through me.
+{136007}{136068}Now, you've got to tell me what it is.
+{136072}{136147}You're getting all hysterical about nothing.
+{136151}{136280}Now, I don't know what those phone calls|are about, but I'm trying to find out.
+{136307}{136409}For the first time in our lives,|you're not telling me the truth.
+{136427}{136490}That awful creature on the telephone.
+{136495}{136583}He knows what he's talking about.|He's not making something up.
+{136587}{136693}Something will happen if you don't do what|he wants, and you must prepare me for it.
+{136697}{136770}Ellen, please, don't press me.
+{136799}{136857}I've got to have time to work this out.
+{136861}{136911}Why can't I help you?
+{136915}{136964}What do you think I live for?
+{136968}{137047}You're my whole life, you and Ridge.|There isn't anything else.
+{137051}{137109}I know that. I know that.
+{137138}{137250}If they're threatening you through me,|it can only mean one thing.
+{137254}{137312}It's about a woman, isn't it?
+{137325}{137390}Is that why you're afraid to tell me?
+{137418}{137499}I know I'm not everything|a wife should be.
+{137519}{137594}I know we haven't had|an exciting marriage.
+{137607}{137658}It's my fault.
+{137680}{137783}Darling, nothing in the whole world|is your fault.
+{137789}{137916}This is something from a long time ago.|Before I even knew you.
+{137968}{138018}If I could only--
+{138051}{138158}-Tell me, Brig, tell me.|-I can't.
+{138236}{138308}Then you'd better do|what these people want.
+{138320}{138382}It doesn't seem so very much.
+{138387}{138458}Not if it means that our whole....
+{138465}{138547}If I do what they want,|everything that I have tried to be...
+{138551}{138686}...everything that I have tried to stand for in|my life would be just thrown away. No.
+{138728}{138817}Brig, I can't wait|for a mountain to fall on me.
+{138821}{138881}I can't be that brave.
+{138903}{138964}I'll take Pidge and leave.
+{138991}{139073}Shall I do that?|Shall I take Ridge and go?
+{139155}{139209}What do you expect me to do?
+{139213}{139348}All I want to do is stand beside you,|and you give me no place to stand.
+{139416}{139503}I want you to wait.|Wait for just a little while.
+{139507}{139639}If I can't stop these people, then I'll|tell you all there is to tell, everything.
+{139643}{139761}Then you can decide.|But wait. Please wait.
+{139777}{139830}And if you do stop them?
+{139850}{139926}I'll ask you to try and forget|this ever happened.
+{139969}{140048}Oh, I couldn't leave you.
+{140067}{140155}No matter what happens,|I couldn't leave you.
+{140163}{140217}Hurry up, Daddy.
+{140226}{140299}Hurry up, Daddy. It's getting dark.
+{140388}{140475}Oh, go and help her with the silly fish.
+{140531}{140594}I have to do something about dinner.
+{140767}{140823}Where is Daddy going?
+{140844}{140934}-Have you any luggage, senator?|-No. No luggage.
+{140938}{141041}Hold flight 338. VlR.|Senator Anderson.
+{141045}{141108}-Gate 1 1, sir.|-Thank you.
+{141245}{141364}And Brig was more determined than ever the|president should withdraw Mr. Leffingwell.
+{141384}{141462}Then these telephone calls|began to come.
+{141467}{141551}I don't know what else to tell you, Lafe.|I know I'm meddling.
+{141555}{141659}I know Brig will be angry and embarrassed|if he finds out I talked to you.
+{141663}{141710}Maybe he won't have to know.
+{141719}{141799}I said some things to him|I shouldn't have said.
+{141803}{141879}He was desperate when he left.|Really desperate, Lafe.
+{141883}{141962}He might be protecting someone else.|Had you thought of that?
+{141976}{142087}Yes, that might be it.|That's like Brig.
+{142091}{142133}I'll tell you what.
+{142148}{142239}When he comes home, tell him|to call me at Dolly Harrison's.
+{142243}{142323}I'll get around and find out|what it's all about.
+{142327}{142373}Now, you stop worrying.
+{142377}{142447}-I'm sorry to bother you, Lafe.|-I'm glad you did.
+{142451}{142501}What's a friend for?
+{142795}{142875}This must be Lafe. Excuse me.
+{142971}{143037}Senator, we were just|about to begin without you.
+{143041}{143096}I'm sorry, Dolly.|It was unavoidable.
+{143100}{143147}I'm sure she must have been.
+{143151}{143261}Oh, Dolly. Could you get Bob|to drift out here for a minute?
+{143265}{143356}Oh, we are serious, aren't we? Of course.
+{143501}{143549}Hello, lover.
+{143571}{143668}Bob, I know about the argument|between Brig and the president.
+{143672}{143712}-How?|-His wife.
+{143716}{143818}-Now I know why I never married again.|-No, no. She's scared.
+{143837}{143906}Bob. Brig's got a blackmailer on his tail.
+{143910}{143943}Blackmailer?
+{143947}{144010}-You know anything about it?|-Are you joking?
+{144015}{144056}It's about Leffingwell.
+{144060}{144102}Thought maybe you had some ideas.
+{144106}{144148}Where is Brig?
+{144163}{144226}I've been looking for him.|That's why I'm late.
+{144230}{144323}Blackmail. Are you sure|his wife isn't exaggerating?
+{144331}{144373}I don't believe so.
+{144388}{144427}Well?
+{144455}{144516}Yes, I might have some idea.
+{144520}{144609}Why in the devil didn't he come to me|with this or to you? Somebody?
+{144613}{144714}-Did you leave word for him to call here?|-His wife or office will tell him.
+{145510}{145570}- Yes?|-Ray?
+{145575}{145607}Who is it?
+{145628}{145679}Is this Raymond Shaff?
+{145735}{145774}Hello.
+{146166}{146201}-You want Ray?|-Yes, please.
+{146205}{146285}-He doesn't live here, you know.|-He left this apartment number.
+{146289}{146369}-I'm a friend of Ray's. Are you a friend?|-Where can I find him?
+{146373}{146409}Won't you sit down, please?
+{146413}{146495}-Do you know where I can find Ray?|-Rlease, sit.
+{146541}{146611}I'm making some tea.|Would you like some tea?
+{146615}{146655}Thanks just the same.
+{146707}{146806}-My name is Manuel. I didn't get your name.|-Do you know where I can reach Ray?
+{146810}{146878}-I'd appreciate it.|-I said, I didn't get your name.
+{146882}{146919}Anderson.
+{146935}{146983}Where are you from, Mr. Anderson?
+{146987}{147082}Well, if it's any help, I'm from out|of town. Utah. I knew Ray in the Army.
+{147087}{147154}Oh, Utah. Way out West.
+{147158}{147214}Mormons, and "This is the place"|and all that.
+{147218}{147296}Mr. Manuel, if you don't mind,|I'm in kind of a hurry.
+{147303}{147401}I have kind of a mail and answering service|here for friends like Ray.
+{147405}{147444}Nothing big.
+{147488}{147551}Confidential, you understand.
+{147631}{147664}See?
+{147668}{147743}Oh, yes. Yes, I see.
+{147755}{147831}-Will this do?|-Oh, anything. Just put it there.
+{147835}{147895}Would you like to meet Ray here?
+{147899}{147961}Can't you give me his address|or phone number?
+{147965}{148027}It's convenient here. It's quiet.
+{148034}{148063}Cream or lemon?
+{148067}{148143}Mr. Manuel, do you know|where Ray is or don't you?
+{148147}{148198}Oh, it's like that.
+{148202}{148271}Urgent, sudden, PDQ.
+{148311}{148363}Won't you sit down, please?
+{148395}{148447}Yes, it's urgent.
+{148473}{148522}I think he'll be at 602.
+{148543}{148606}-It's a big night at 602.|-602 what?
+{148610}{148650}The club, 602.
+{148670}{148714}I'll give you the address.
+{148774}{148824}You can come back here with Ray.
+{148846}{148886}I mean, you've paid.
+{150117}{150171}Well, come on in.
+{150175}{150226}Don't just stand there.
+{150359}{150418}Hey, don't run off.
+{150553}{150590}Ray?
+{150600}{150646}Ray! You're with me.
+{150722}{150755}Brig?
+{150838}{150879}-Wait a moment, Brig.|-Taxi!
+{150883}{150932}Let me explain. Brig, wait a moment.
+{150936}{150972}-Taxi!|-Brig....
+{150983}{151046}I needed money, Brig.|Well, you wouldn't see me.
+{151051}{151096}I kept calling. I was drunk.
+{151100}{151141}Newark Airport!
+{151146}{151193}Drive, will you? Drive!
+{152029}{152088}Please fasten your seat belt, senator.
+{152795}{152835}You mind, Brig?
+{152867}{152936}Harley. Sure. I didn't see you.
+{152940}{153034}-lf you'd rather sleep--|-No, no, no. Sit there.
+{153073}{153148}-What time do we get to old Foggy Bottom?|-About midnight.
+{153158}{153258}What? What were you doing|in New York, making a speech?
+{153263}{153314}PTA convention. You?
+{153319}{153378}Business. Just business.
+{153420}{153462}Are you going to give in?
+{153482}{153527}On Leffingwell, I mean.
+{153538}{153590}I know what you mean.
+{153594}{153677}-What do you know about it?|-Well, I can't say I know anything.
+{153681}{153770}I'm not included in very much,|either by the senators or the president.
+{153775}{153850}But that doesn't prevent me|from doing a little guesswork.
+{153855}{153932}You're being pushed and pushed hard,|aren't you, Brig?
+{153967}{154059}Why are you going it alone?|That's what I don't understand.
+{154137}{154231}Some character once said that being|vice president isn't exactly a crime.
+{154235}{154281}They can't put you in jail for it.
+{154285}{154401}But it is a sort of a disgrace,|like living in a mansion with no furniture.
+{154405}{154485}If you don't mind traveling|in such impoverished company...
+{154489}{154548}...I might be able to help you.
+{154552}{154657}I've suddenly gotten the feeling you're the|most underestimated man in Washington--
+{154661}{154702}Anything I can do, Brig.
+{154760}{154810}Maybe you're right. Maybe if....
+{154815}{154850}Go ahead.
+{154854}{154957}Ladies and gentlemen, we are approaching|an area of possible turbulence.
+{154961}{155034}Please fasten your seat belts. Thank you.
+{155063}{155102}Brig?
+{155117}{155158}Forget it, Harley.
+{155163}{155226}Please forget it.
+{155588}{155661}Well, looks like rain. I'll run you home.
+{155665}{155746}-Come on, hop in.|-What? Oh, no. No, thanks, Harley.
+{155750}{155798}I've got my car over here.
+{155802}{155838}Brig?
+{155849}{155897}Do you feel all right?
+{155944}{155986}Good night, Harley.
+{156421}{156465}Good evening, senator.
+{156484}{156561}-Hi, Mike.|-Senator Smith was around looking for you.
+{156565}{156631}He said you can get him|at Mrs. Harrison's.
+{156678}{156715}Thanks.
+{156743}{156809}But the elevators are running, senator.
+{163722}{163762}Senator.
+{163831}{163878}You in there, senator?
+{163960}{164006}It's Mike, senator.
+{164119}{164166}Ace queen bets three.
+{164170}{164218}Dear me.|I may be forced to drop out.
+{164223}{164291}Is that how the British|played their cards at Waterloo?
+{164295}{164388}No, but it served us well at Dunkirk.|Different hands, of course.
+{164408}{164447}-Out.|-No good.
+{164451}{164489}Nope.
+{164500}{164595}-Running a sandy, Seabright?|-No. I'm running a possum.
+{164599}{164655}It looks like I've got him nearly treed.
+{164659}{164717}Senator Smith,|you're wanted on the telephone.
+{164721}{164775}Thank you. Excuse me.
+{164779}{164832}-Closed.|-All right?
+{164836}{164883}Wheel and deal, madam.
+{164987}{165065}Still a possible flush. Rair of sevens.
+{165069}{165106}Jack to me.
+{165187}{165223}Is that Brig?
+{165272}{165310}What's the matter?
+{165351}{165394}He's dead.
+{165411}{165446}Brig?
+{165450}{165486}In his office.
+{165491}{165520}He cut his throat.
+{165524}{165610}Are you two at it again?|We're on the last hand.
+{165817}{165857}Sorry, everyone.
+{165862}{165932}-We just got word Brig Anderson's dead.|-What?
+{165936}{165973}Oh, Bobby.
+{165977}{166062}Stan, will you get Harley and meet Lafe|and me at the Anderson home?
+{166067}{166121}-I know he'd like to be there.|-Of course.
+{166125}{166166}How did it happen?
+{166179}{166232}It looks like he killed himself.
+{166546}{166593}No, I don't know.
+{166617}{166694}He was good, and kind and honest.
+{166715}{166794}I don't know what it was|they were trying to use against him.
+{166814}{166889}But whatever it was,|they can't use it anymore.
+{166900}{166954}So it doesn't matter, does it?
+{166973}{167037}Did Brig have any idea about...
+{167047}{167108}...who might be behind all this?
+{167112}{167151}No.
+{167176}{167214}No.
+{167249}{167292}Excuse me.
+{167304}{167359}Please excuse me!
+{167408}{167472}I know Van Ackerman's behind it.
+{167476}{167545}What I don't know, is he alone in it?
+{167549}{167618}If he is alone in it,|it becomes a Senate matter...
+{167622}{167686}...for the Senate to handle|in its own way.
+{167691}{167747}And if Van Ackerman isn't alone?
+{167964}{168064}Is that what they think of me on the Hill?|Is that what you think of me, Bobby?
+{168068}{168166}No, I don't. But Harley here|might like a straighter answer than that.
+{168179}{168262}As God is my witness, Harley,|I know nothing of it.
+{168266}{168342}-What about Leffingwell?|-There will still be a suspicion...
+{168347}{168458}...in some quarters that you're involved in|Brig's death. Better withdraw Leffingwell.
+{168463}{168565}The president is always suspect by some|because people are suspicious of power.
+{168569}{168621}I can't be guided by that.
+{168639}{168712}I'm sorry about Brig Anderson.|Don't misunderstand me.
+{168716}{168769}I wish he were alive and happy.
+{168773}{168879}But he's dead, morning's coming,|and I still need a secretary of state.
+{168883}{168936}The situation hasn't changed.
+{168940}{169019}Except now you could bring|Leffingwell to the floor for a vote.
+{169023}{169095}You've got the votes committed,|Bobby, use them.
+{169119}{169188}Well, Harley, what are you looking|so shocked about?
+{169192}{169289}You think in my place, you'd feel|any differently about this than I do?
+{169293}{169353}I don't know, Mr. President.
+{169357}{169466}But the last night I saw Brig Anderson,|I saw a man in terrible pain.
+{169471}{169606}I wonder if Leffingwell|or any one man is worth all of this.
+{169611}{169655}Wondering doesn't run a government.
+{169659}{169703}Good night, Harley.
+{169719}{169767}Good night, Mr. Rresident.
+{169815}{169875}Good night, Mr. Rresident.
+{169931}{169972}Bobby.
+{169976}{170018}Yes, sir?
+{170042}{170118}I do want to confirm|a suspicion to you.
+{170126}{170217}Maybe it will help you understand|why I want Leffingwell so badly.
+{170221}{170260}I understand.
+{170264}{170384}I'm going fast. There's nothing left|inside here that's working anymore.
+{170423}{170539}Leffingwell can take a firm grip on|everything I've built up in foreign policy.
+{170543}{170611}Not let it all fall to pieces.
+{170615}{170680}Harley can't. You know he can't.
+{170684}{170784}No, I don't know that. Why don't you|bring him in and give him some help?
+{170788}{170860}I haven't any time to run|a school for presidents.
+{170865}{170921}I haven't any time for anything.
+{171023}{171093}I guess I've been wrong|in many, many things.
+{171097}{171180}I don't suppose history|will have much good to say of me.
+{171184}{171232}I can't dwell on that.
+{171236}{171292}I've done my best.
+{171310}{171380}You're one of the great presidents, Russ.
+{171434}{171522}Well, if you think so,|that's almost as good as history.
+{171536}{171578}Bye, Bobby.
+{171588}{171650}Good night, Mr. Rresident.
+{172852}{172887}Thank you.
+{173273}{173350}-Anything there?|-Yes, sir.
+{173355}{173394}Thank you.
+{173547}{173587}Don't you ever go to bed, Seab?
+{173591}{173671}Sleep's a waste of precious time|for old folks.
+{173695}{173750}I have a feeling|you've been waiting for me.
+{173754}{173797}Mr. Majority Leader...
+{173801}{173881}...tomorrow I'm gonna raise the dome...
+{173885}{173973}...off the capitol building.|That old dome won't sit right again...
+{173977}{174083}...when I get through speaking my piece.|I know all about James Morton.
+{174196}{174251}How long have you known|about James Morton?
+{174255}{174339}That's not important.|The important thing is, I know about him.
+{174379}{174461}-I said, how long, Seab?|-There's nothing more to say.
+{174489}{174590}-You forced Fletcher to call Brig.|-I was trying to do the best for everybody.
+{174595}{174714}I'll tell you what you were doing. You were|amusing yourself watching us all squirm.
+{174718}{174815}Laughing while a dying president|put up a fight for a man he believes in.
+{174819}{174907}In the Senate, you kept quiet|while Brigham Anderson carried the load.
+{174911}{174975}You were playing|for the right moment to rise up...
+{174979}{175042}...and turn on the mighty wrath|of Seab Cooley.
+{175047}{175110}All right, Seab, you've got it.
+{175115}{175182}The biggest moment you'll ever have.
+{175186}{175275}Brig Anderson gave it to you|with a dull razor blade.
+{175326}{175369}Will you wait?
+{175373}{175446}I'll make you a deal, Mr. Majority Leader.
+{175450}{175539}Turn your votes loose,|and I'll keep my mouth shut.
+{175543}{175627}Even if that man is confirmed,|I'll keep my mouth shut.
+{175631}{175673}You call that a deal?
+{175677}{175763}-I call it extortion.|-I meant it as a favor.
+{175767}{175851}Thanks. I can do without your favors.
+{175895}{175966}The subcommittee, under the|chairmanship of Senator Anderson...
+{175970}{176030}...has reported favorably|to the full committee.
+{176034}{176091}And the full committee vote|is as follows:
+{176095}{176226}Eight votes for recommendation,|five votes opposed, one abstention.
+{176230}{176294}By this vote, the Committee|on Foreign Relations...
+{176298}{176414}...recommends that Robert A. Leffingwell|be confirmed for secretary of state.
+{176418}{176478}I return the floor|to the senator from Michigan.
+{176482}{176539}I move the Senate|now advise and consent...
+{176543}{176632}...to the nomination of Robert A. Leffingwell|for secretary of state.
+{176636}{176707}The question is, will the Senate|advise and consent...
+{176711}{176803}...to the nomination of Robert A. Leffingwell|for secretary of state?
+{176807}{176890}The senator from South Carolina|has apprised me of his intention...
+{176895}{176930}...to speak on this motion.
+{176935}{177040}The chair now recognizes the senior senator|from South Carolina.
+{177135}{177246}Mr. President, there is some opinion|harbored here...
+{177250}{177368}...that my opposition to Mr. Leffingwell|has been a matter of vindictiveness.
+{177372}{177483}Mr. Rresident, I'm afraid|that's true to some degree...
+{177487}{177609}...and for this, I humbly apologize...
+{177613}{177648}...to this chamber...
+{177665}{177768}...and to the man in the White House,|who, with good intentions for this nation...
+{177772}{177832}...sent the nominee down to us.
+{177856}{177963}I don't expect this apology|to wash away my sins...
+{177979}{178067}...but I hope that it will,|in some way, reestablish me...
+{178071}{178146}...as a senator in the eyes|of my colleagues...
+{178150}{178250}...rather than as the flannel-mouthed|old curmudgeon...
+{178255}{178357}...I seem to have become in my|waning years, and so much for that.
+{178361}{178405}Mr. President...
+{178429}{178521}...I shall still oppose Mr. Leffingwell...
+{178525}{178586}...but without vindictiveness.
+{178607}{178722}His voice is not the voice|I wanna hear speak for America.
+{178736}{178833}It is, to me, an alien voice.
+{178845}{178918}Rerhaps it's the new voice|of my country.
+{178922}{179036}These old ears aren't tuned|to these new sounds, I know.
+{179054}{179163}I don't understand much|that Mr. Leffingwell says.
+{179181}{179319}I don't understand|how principles of dignity...
+{179323}{179387}...can become outworn...
+{179391}{179515}...or how this nation|can be represented without pride.
+{179519}{179579}I don't understand these things.
+{179583}{179706}Of course, I am what I am,|feel as I feel.
+{179711}{179779}I'm gonna vote against confirmation...
+{179783}{179820}...yet...
+{179831}{179949}...I ask no man to follow me in this.
+{180091}{180130}Mr. President.
+{180135}{180213}Recognize the senior senator|from Michigan.
+{180224}{180328}The senior senator from South Carolina...
+{180332}{180443}...has just eaten|a rather large order of crow.
+{180447}{180552}Strangely enough,|he makes the dish seem palatable.
+{180556}{180651}He makes us all want to sit|at his table.
+{180663}{180726}He calls himself a curmudgeon.
+{180730}{180802}Well, I hope the day never comes...
+{180807}{180882}...when there is not at least one|curmudgeon in this body...
+{180886}{180979}...to goad us in the right direction.
+{180983}{181064}I can't agree with him|about Mr. Leffingwell.
+{181068}{181167}I don't interpret Mr. Leffingwell|in the same way. I don't hear an alien voice.
+{181171}{181258}To me, it sounds realistic.|And more than that...
+{181263}{181362}...I have great respect for the judgment|of our chief executive.
+{181367}{181425}I'll vote for the nominee.
+{181437}{181550}But there are tragic circumstances|surrounding this nomination...
+{181554}{181640}...which takes it out of the usual business|and sets it deeply...
+{181644}{181707}...into the conscience of each senator.
+{181725}{181822}For this reason, I now wish|to release all pledges made to me.
+{181831}{181896}-Mr. President, will the senator yield?|-I will not.
+{181900}{181979}All pledges made to me|are free to vote as they will.
+{181983}{182090}-What kind of a double-cross is this?|-The senator from Michigan has the floor.
+{182094}{182154}-Mr. President, I ask for a quorum.|-I protest!
+{182158}{182265}A quorum call precludes any speeches|from the floor until the call is finished.
+{182269}{182304}Mr. Clerk?
+{182309}{182378}-Mr. Abbott.|-Present.
+{182382}{182455}-Mrs. Adams.|-Present.
+{182459}{182538}-Mr. Andrews.|-Here.
+{182543}{182597}-Well, Seab.|-Well, Bob.
+{182601}{182698}-I'll beat you anyway.|-That, sir, is a question.
+{182702}{182785}-Mr. Caulfield.|-Here.
+{182796}{182894}It is impossible to predict the outcome|because there was no time to poll...
+{182898}{182978}...the individual members of the Senate,|who will now decide...
+{182982}{183078}...free of political commitments,|guided only by their own conviction...
+{183083}{183171}...how to vote on the question|of Leffingwell's confirmation.
+{183175}{183247}Senator Anderson 's|mysterious suicide will--
+{183251}{183306}Wells, Simpson, Lansing.
+{183310}{183346}Mr. Randall.
+{183350}{183431}Kanaho abstained in the committee vote,|but he'll vote with Seab.
+{183435}{183485}Strike him off.|Goodman, strike him off.
+{183489}{183548}-Mr. Toland.|-Present.
+{183573}{183629}-Mr. Topper.|-Here.
+{183646}{183727}-Mr. Van Ackerman.|-Here and waiting!
+{183731}{183802}-Mr. Young.|-Present.
+{183807}{183854}-Mr. Zeffenbach.|-Here.
+{183859}{183893}Call the absentees.
+{183927}{183970}Mr. Courtney.
+{183982}{184022}Mr. Fickett.
+{184026}{184071}Mr. Fields.
+{184093}{184137}Mr. Granville.
+{184141}{184178}Mr. Larkins.
+{184183}{184293}Thank you. From Strickland.|Seven minority votes for Leffingwell.
+{184297}{184406}-A 42 majority, seven minority. Forty-nine.|-Well, we've still got a chance to win.
+{184410}{184503}Rrior to the quorum, the Foreign Relations|Committee reported favorably...
+{184507}{184593}...on the nomination of|Robert A. Leffingwell for secretary of state.
+{184597}{184681}The senator from Michigan|moved the Senate advise and consent...
+{184685}{184733}-...to that nomination.|-Mr. Rresident.
+{184737}{184827}I did not relinquish the floor when I asked|for a quorum, Mr. Rresident.
+{184831}{184898}The senior senator from Michigan|still has the floor.
+{184902}{184964}The senator can't hold|the floor in silence.
+{184968}{185033}With the chair's permission,|I shall be very brief.
+{185037}{185099}The chair gladly gives permission|to be brief.
+{185103}{185151}I ask for the yeas and nays.
+{185155}{185255}Yeas and nays have been requested.|Is there a sufficient number?
+{185259}{185316}I demand recognition, Mr. President!
+{185331}{185381}You can't close to me!
+{185385}{185434}-Question!|-Question!
+{185456}{185538}Both sides of the aisle|are loudly demanding an immediate vote...
+{185542}{185600}...on the question|whether or not to consent...
+{185604}{185699}...to the president's nomination|of Leffingwell as secretary of state.
+{185703}{185788}Plainly, both parties are repudiating|Van Ackerman 's tactics.
+{185792}{185906}He is still putting up a fight to regain the|floor before the question is put to a vote.
+{185931}{185984}This is conspiracy!
+{185988}{186059}The chair is conspiring to stop debate!
+{186063}{186162}The chair is violating the rules of the|Senate! I will not be bullied this way!
+{186167}{186253}There is a sufficient show of hands.|Yeas and nays have been ordered.
+{186257}{186336}-The clerk will call the roll.|-Mr. Abbott.
+{186340}{186402}-Yes.|-Mrs. Adams.
+{186407}{186512}What are you and Harley trying to pull?|You can't gag me. I'll get an investigation.
+{186516}{186566}I don't think you'd want that.
+{186570}{186679}-We're on to it, Fred.|-What are you talking about? On to what?
+{186683}{186733}We tolerate about anything here.
+{186737}{186834}Rrejudice, Atticism,|demagoguery, anything.
+{186839}{186902}That's what the Senate's for,|to tolerate freedom.
+{186923}{186966}But you've dishonored us.
+{186971}{187037}Mr. Bender of California.
+{187041}{187129}What I did was for the good|of the country.
+{187133}{187270}Fortunately, our country always manages|to survive patriots like you.
+{187274}{187346}We could introduce a resolution|to censure and expel you.
+{187350}{187453}But we don't want Brig Anderson's|tired old sin made public.
+{187457}{187499}Whatever it was.
+{187503}{187602}-So we let you stay, if you want to.|-lf you want to.
+{187607}{187650}Mr. Bronson.
+{187671}{187709}No.
+{187720}{187782}Mr. Caulfield.
+{187786}{187822}Yes.
+{187827}{187885}-Mr. Satinas.|-Yes!
+{187928}{187986}Mr. Chambers.
+{187990}{188025}Yes.
+{188029}{188123}-Mr. Chatsworth.|-Yes.
+{188137}{188207}-Mr. Cook.|-Yes.
+{188220}{188281}-Mr. Cooley.|-No.
+{188310}{188389}-Mr. Cunningham.|-No.
+{188404}{188486}-Mr. Curry.|-Yes.
+{188506}{188562}Mr. Dahl.
+{188566}{188602}No.
+{188612}{188691}-Mr. Daniels.|-Yes.
+{188695}{188804}Maybe we should've waited for his vote.|Now we only have a margin of two.
+{188808}{188862}-Slipped up there, didn't we?|-Mr. Danta.
+{188867}{188906}Yes.
+{188919}{189018}So far, the vote is running about even,|and it is still impossible to predict...
+{189022}{189051}...the final outcome.
+{189066}{189127}-No.|-Mr. Eaves.
+{189131}{189198}Somebody better wake up McCafferty.|We need his vote.
+{189202}{189289}-Mr. Evans.|-McCafferty's asleep again.
+{189293}{189382}-Mr. Everett.|-Wake up McCafferty. We need his vote.
+{189387}{189454}-Mr. Farmer.|-Wake up McCafferty. We need his vote.
+{189475}{189516}Awaken the senator.
+{189529}{189588}-Yes.|-Mr. Frank.
+{189592}{189690}-Opposed, sir. I'm opposed.|-No, no, senator, not yet.
+{189718}{189779}And I believe that you're not opposed.
+{189785}{189834}-Mr. Jollie.|-No.
+{189839}{189941}During the last few minutes,|Leffingwell's chances have improved...
+{189945}{190055}...and it seems more than likely|he will be confirmed by a small margin...
+{190059}{190116}...of maybe one or two votes.
+{190120}{190234}Of course, in case of a tie, we can definitely|count on the vice president...
+{190239}{190338}... to use his decisive vote|in favor of the nominee.
+{190343}{190403}-Harley has always gone along...|-Mr. Rresident!
+{190407}{190492}-... with the majority leader's policies.|-Call Dr. Slater. Hurry.
+{190499}{190583}-Mr. Smith of Oregon.|-Yes.
+{190587}{190654}Mr. Smith of Rhode lsland.
+{190764}{190835}Mr. Smith of Rhode lsland.
+{190855}{190902}-No.|-What the--?
+{190906}{190935}That ties it.
+{190939}{191038}Haven't had so much fun|since the cayenne pepper hit the fan.
+{191043}{191105}-Mr. Snyder.|-Yes.
+{191109}{191167}-Mr. Sorensen.|-Yes.
+{191171}{191229}-Mr. Strickland.|-No.
+{191233}{191293}-Mr. Sundberg.|-No.
+{191297}{191371}-Mr. Swanson.|-Harley, we're coming in deadlocked.
+{191375}{191425}-You'll have to make it good.|-Okay.
+{191429}{191466}Mr. Tate.
+{191497}{191532}Yes.
+{191576}{191643}-Mr. Teller.|-No.
+{191647}{191709}-Mr. Temple.|-No.
+{191713}{191773}-Mr. Thacker.|-Yes.
+{191777}{191836}-Mr. Thompson.|-No.
+{191840}{191903}-Mr. Timothy.|-Yes.
+{191918}{192022}The third painting by Colonel Trumbull|is the surrender of Lord Cornwallis...
+{192026}{192064}...at Yorktown, Virginia.
+{192068}{192178}Major O'Hara in the red coat in the|foreground delivered his sword for him.
+{192183}{192267}Washington wouldn't accept the sword|from anyone beneath his rank.
+{192275}{192340}-Mr. Toland.|-Yes.
+{192344}{192411}-Mr. Thule.|-No.
+{192796}{192853}-Yes.|-Mr. Topper.
+{192857}{192930}-Yes.|-Mr. Tracy of New Jersey.
+{192934}{192998}-No.|-Mr. Tracy of Washington.
+{193002}{193051}-No.|-Mr. Vandergrift.
+{193055}{193104}-Yes.|-Mr. Vassar.
+{193108}{193160}-No.|-Mr. Welch.
+{193164}{193223}-Yes.|-Mr. Wells.
+{193227}{193278}-Yes.|-Mr. Whitman.
+{193282}{193343}-No.|-Mr. Williams.
+{193347}{193409}-No.|-Mr. Wilson.
+{193413}{193468}-Yes.|-Mr. Woodworth.
+{193472}{193523}-No.|-Mr. Yost.
+{193527}{193551}Yes.
+{193555}{193598}-Mr. Young.|-No.
+{193602}{193648}-Mr. Zeffenbach.|-Yes.
+{193755}{193844}The vote is tied at 47 to 47.
+{193944}{194034}The vice president will not exercise|his constitutional privilege...
+{194038}{194143}...to break this tie with an affirmative vote.|The motion to advise and consent...
+{194147}{194266}...to the nomination of Robert A. Leffingwell|for secretary of state stands defeated.
+{194270}{194313}-Sit down.|-Mind your own business!
+{194317}{194377}Something's happened. Sit down.
+{194528}{194603}It has fallen to me|to make a sad announcement.
+{194607}{194667}The president died a few minutes ago.
+{194722}{194830}Will the senior senator from South Carolina,|as president pro tempore of the Senate...
+{194835}{194887}...please assume the chair.
+{195123}{195184}-Good luck, sir.|-Thank you.
+{195479}{195551}About the vote, Bob, I'm sorry.
+{195555}{195637}I'd prefer to name|my own secretary of state.
+{195641}{195711}All right, Harley, Mr. Rresident.
+{195715}{195798}-I'll see what I can do for him.|-Thank you.
+{196011}{196081}-Mr. President.|-Recognize the senior senator...
+{196085}{196122}...from Michigan.
+{196179}{196217}Senators...
+{196230}{196285}...a great leader is dead.
+{196307}{196366}A bitter loss for our country...
+{196370}{196450}...a bitter personal loss for all of us here.
+{196485}{196564}I move we adjourn out of respect|until further notice.
+{196568}{196621}So ordered.
+{196668}{196768}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<

@@ -1,0 +1,6081 @@
+1
+00:00:30,096 --> 00:00:33,088
+<i> What's a crossword tournament?</i>
+<i>Most people don't know.</i>
+
+2
+00:00:37,203 --> 00:00:41,003
+<i> Give me spaces that need</i>
+<i>to be filled in, and I wanna fill them in.</i>
+
+3
+00:00:41,074 --> 00:00:44,805
+<i> This is the longest-running</i>
+<i>crossword puzzle tournament in the worid...</i>
+
+4
+00:00:44,878 --> 00:00:47,278
+<i>and there's nothing like coming here</i>
+<i>for a good snowy weekend.</i>
+
+5
+00:00:47,347 --> 00:00:50,339
+<i>Well, Will is the progenitor.</i>
+<i>He started the whole thing.</i>
+
+6
+00:00:50,417 --> 00:00:54,080
+<i>Without Will, there never would have been</i>
+<i>a tournament like this.</i>
+
+7
+00:00:54,154 --> 00:00:58,022
+<i> Everything leads up to the tournament,</i>
+<i>because there's one of these a year.</i>
+
+8
+00:00:58,091 --> 00:01:02,619
+<i>There aren't too many people my age who do</i>
+<i>crosswords at all, let alone as fast as I do them.</i>
+
+9
+00:01:02,695 --> 00:01:07,325
+<i>It's sort of utter panic. Each puzzle,</i>
+<i>I think, "Oh, my God. What if I can't do this?</i>
+
+10
+00:01:07,400 --> 00:01:10,392
+What if I make a mistake?
+What if I leave something out?"
+
+11
+00:01:10,470 --> 00:01:13,337
+<i>Is everyone ready?</i>
+
+12
+00:01:13,406 --> 00:01:15,601
+<i>On your mark, get set, go!</i>
+
+13
+00:01:30,890 --> 00:01:34,348
+<i>#Adjectives on the typewriter #</i>
+
+14
+00:01:34,427 --> 00:01:37,828
+<i>#He moves his words like a prizefighter #</i>
+
+15
+00:01:37,897 --> 00:01:42,732
+<i># The frenzied pace of the mind</i>
+<i>inside the cell #</i>
+
+16
+00:01:45,505 --> 00:01:49,066
+<i># The man on the street</i>
+<i>might just as well be #</i>
+
+17
+00:01:49,142 --> 00:01:52,737
+<i># The man on the street</i>
+<i>might just as well #</i>
+
+18
+00:01:52,812 --> 00:01:57,408
+<i># The man on the street</i>
+<i>might just as well be ##</i>
+
+19
+00:01:58,551 --> 00:02:00,712
+<i> All right, here we go.</i>
+<i>From the beginning.</i>
+
+20
+00:02:02,622 --> 00:02:04,954
+<i>From NPRNews, this is</i> Weekend Edition.
+
+21
+00:02:05,024 --> 00:02:08,619
+<i>I'm Liane Hansen, andjoining us</i>
+<i>is puzzle master Will Shortz.</i>
+
+22
+00:02:08,695 --> 00:02:10,663
+<i>- Hi, Will.</i>
+- Hi, Liane.
+
+23
+00:02:10,730 --> 00:02:14,029
+<i>My name's Will Shortz.</i>
+<i>I'm the crossword editor of the</i> New York Times.
+
+24
+00:02:14,100 --> 00:02:16,159
+When you're in grade school,
+you take aptitude tests...
+
+25
+00:02:16,236 --> 00:02:19,672
+to find out what you're good at
+and what you want to do in life.
+
+26
+00:02:19,739 --> 00:02:22,173
+<i>I remember</i>— <i>This would have been</i>
+<i>fourth, fifth or sixth grade.</i>
+
+27
+00:02:22,242 --> 00:02:25,473
+<i>I took this test, and, when I was done,</i>
+<i>I turned over the paper...</i>
+
+28
+00:02:25,545 --> 00:02:29,538
+<i>and looked through the list of professions</i>
+<i>to find out how I scored in that category.</i>
+
+29
+00:02:29,616 --> 00:02:33,211
+And not surprisingly, puzzle maker
+was not one of their listed professions.
+
+30
+00:02:33,286 --> 00:02:35,220
+<i>Now, are you a puzzle player?</i>
+
+31
+00:02:35,288 --> 00:02:37,756
+<i>Uh, yeah. I'm an avid Scrabble player...</i>
+
+32
+00:02:37,824 --> 00:02:39,758
+<i>and I like word games and puzzles.</i>
+
+33
+00:02:39,826 --> 00:02:44,422
+<i>I'm blessed to work for the two greatest</i>
+<i>news organizations in the country</i>—
+
+34
+00:02:44,497 --> 00:02:46,522
+The <i>New York Times</i>
+and National Public Radio.
+
+35
+00:02:46,599 --> 00:02:50,126
+<i>And I know that whatever puzzle</i>
+<i>I throw out there...</i>
+
+36
+00:02:50,203 --> 00:02:53,138
+for an intelligent, cultured audience...
+
+37
+00:02:53,206 --> 00:02:56,698
+is gonna be understood and appreciated by them,
+and they're my kind of people.
+
+38
+00:02:56,776 --> 00:02:59,768
+<i> Daniel, it's time to meet Will,</i>
+<i>and it's time for everyone to play.</i>
+
+39
+00:02:59,846 --> 00:03:03,043
+Well, Daniel, I'm gonna
+name some categories.
+
+40
+00:03:03,116 --> 00:03:06,108
+For each one, name something
+in that category...
+
+41
+00:03:06,186 --> 00:03:09,952
+that begins with the same
+first two letters as the category.
+
+42
+00:03:10,023 --> 00:03:14,323
+For example, if I said Planets,
+you might say Pluto.
+
+43
+00:03:14,394 --> 00:03:17,761
+Number one is Auto Makes.
+
+44
+00:03:17,830 --> 00:03:20,492
+- Auto— Uh, Auto Makes. Audi.
+- Audi. Excellent.
+
+45
+00:03:20,567 --> 00:03:23,365
+<i>Well, of course,</i>
+<i>I've spent my whole life on puzzles.</i>
+
+46
+00:03:23,436 --> 00:03:25,700
+<i>I've been making puzzles</i>
+<i>since, uh, I was eight or nine.</i>
+
+47
+00:03:25,772 --> 00:03:28,104
+<i>And I sold my first one</i>
+<i>when I was 14.</i>
+
+48
+00:03:28,174 --> 00:03:33,476
+When I was a kid, I used to joke about
+majoring in puzzles when I got to college.
+
+49
+00:03:33,546 --> 00:03:35,980
+Well, I was lucky enough
+to go to Indiana University.
+
+50
+00:03:36,049 --> 00:03:39,246
+<i>And if you're accepted,</i>
+<i>you can major in anything you want.</i>
+
+51
+00:03:39,319 --> 00:03:42,618
+<i>I found this old-fashioned word</i>
+<i>called "enigmatology"...</i>
+
+52
+00:03:42,689 --> 00:03:45,522
+<i>that was in the unabridged dictionaries...</i>
+
+53
+00:03:45,592 --> 00:03:51,553
+<i>and I convinced the people that puzzles</i>
+<i>were a serious field of academic inquiry.</i>
+
+54
+00:03:51,631 --> 00:03:55,226
+I devised an entire curriculum
+for myself in puzzles.
+
+55
+00:03:55,301 --> 00:03:58,134
+<i>I figured from the beginning</i>
+<i>that it would mean a life of poverty...</i>
+
+56
+00:03:58,204 --> 00:04:00,138
+<i>because puzzles don't pay much.</i>
+
+57
+00:04:00,206 --> 00:04:05,940
+<i>But I wanted to do puzzles so badly,</i>
+<i>I was willing to live in poverty to do it.</i>
+
+58
+00:04:06,012 --> 00:04:09,004
+Excellent. Capitals of States.
+
+59
+00:04:09,082 --> 00:04:12,574
+- Um, Carson City.
+- Oh, that was good.
+
+60
+00:04:12,652 --> 00:04:15,485
+Snow White's Dwarfs.
+
+61
+00:04:15,555 --> 00:04:18,547
+Oh, boy. Uh...
+
+62
+00:04:18,625 --> 00:04:20,991
+- Snoopy? Is that one of them?
+- No, not Snoopy. No.
+
+63
+00:04:21,060 --> 00:04:23,858
+<i>Snappy's not one of them either.</i>
+
+64
+00:04:23,930 --> 00:04:26,763
+<i>So when I took over the job</i>
+<i>at the</i> Times <i>in 1993...</i>
+
+65
+00:04:26,833 --> 00:04:30,098
+<i>I thought</i>
+<i>I really understood puzzle solvers.</i>
+
+66
+00:04:32,238 --> 00:04:36,675
+It's addressed to "Mr. Will Shortz,
+the smartass crossword puzzle hero."
+
+67
+00:04:36,743 --> 00:04:39,234
+"This one last Saturday
+was ridiculous."
+
+68
+00:04:39,312 --> 00:04:42,804
+"You should be hanged by your cojones
+for this Monday puzzle."
+
+69
+00:04:42,882 --> 00:04:46,716
+"Give me a break." "I couldn't solve it
+even with the answers in front of me."
+
+70
+00:04:46,786 --> 00:04:48,481
+"Dear Sir or Madam."
+
+71
+00:04:48,554 --> 00:04:51,318
+"It's Monday, Mr. Shortz, not Friday."
+
+72
+00:04:51,391 --> 00:04:54,360
+"This is both idiotic
+and completely unfair."
+
+73
+00:04:54,427 --> 00:04:59,262
+"This kvetching thing that's going on—
+I can't seem to get a grasp on it."
+
+74
+00:04:59,332 --> 00:05:02,597
+"Who in the hell ever heard of three letters
+in a single box?"
+
+75
+00:05:02,669 --> 00:05:06,264
+"The kvetchers cry: 'Oy vey'?
+I don't get it."
+
+76
+00:05:06,339 --> 00:05:08,705
+"How is it used?
+Is it a Northern thing?"
+
+77
+00:05:08,775 --> 00:05:13,803
+"Frogs hop, sir, but toads do not.
+They waddle."
+
+78
+00:05:13,880 --> 00:05:18,078
+"You have managed to take
+all the fun out of it. Congratulations."
+
+79
+00:05:18,151 --> 00:05:20,585
+"No wonder William F. Buckley
+stopped doing these puzzles."
+
+80
+00:05:20,653 --> 00:05:24,987
+"You are sick, sick, sick indeed.
+Sincerely"—
+
+81
+00:05:25,058 --> 00:05:27,583
+The best part of the week for me
+is reading the mail.
+
+82
+00:05:27,660 --> 00:05:29,628
+"P.S. You're sick, sick, sick."
+
+83
+00:05:29,696 --> 00:05:32,187
+Hearing from sobbers
+is the best part of the job.
+
+84
+00:05:32,265 --> 00:05:34,825
+You don't do this for the money
+or for anything else.
+
+85
+00:05:34,901 --> 00:05:36,835
+<i>Those are all secondary things.</i>
+
+86
+00:05:36,903 --> 00:05:40,964
+<i>The biggest thing is to stretch people's brains</i>
+<i>and bring joy to their lives.</i>
+
+87
+00:05:58,324 --> 00:06:01,122
+<i>#La-la-la la-la la-la #</i>
+
+88
+00:06:02,795 --> 00:06:05,320
+"Auctioned again."
+Come on.
+
+89
+00:06:05,398 --> 00:06:07,832
+You tryin' to trick me
+so I have to think about "auction"?
+
+90
+00:06:07,900 --> 00:06:11,199
+But it's not really about that.
+It's just about selling, isn't it?
+
+91
+00:06:11,270 --> 00:06:15,604
+<i>My name is Jon Stewart,</i>
+<i>and I tell dumb jokes for money.</i>
+
+92
+00:06:15,675 --> 00:06:18,075
+To-do. Come on! To-do!
+
+93
+00:06:18,144 --> 00:06:20,840
+<i>I am a, uh</i>—<i>a</i> Times <i>puzzle fan.</i>
+
+94
+00:06:20,913 --> 00:06:26,283
+I will solve in a hot— a hotel
+a <i>USA Today...</i>
+
+95
+00:06:26,352 --> 00:06:30,311
+uh, but I don't feel good about myself
+when I do it.
+
+96
+00:06:30,390 --> 00:06:34,656
+Uh, you feel like you're
+doin' one of them circle things...
+
+97
+00:06:34,727 --> 00:06:37,525
+where you find the word
+when you're on a plane.
+
+98
+00:06:37,597 --> 00:06:41,055
+"These are all flowers."
+Uh-huh.
+
+99
+00:06:41,134 --> 00:06:43,932
+So, uh, the <i>Times</i> puzzle
+is the one for me.
+
+100
+00:06:44,003 --> 00:06:48,565
+"Asps." Come on, Shortz!
+Bring it!
+
+101
+00:06:50,209 --> 00:06:52,177
+"Pileup"!
+
+102
+00:06:52,245 --> 00:06:58,206
+<i>When you imagine crossword guy,</i>
+<i>you imagine he's 13 to 14 inches tall...</i>
+
+103
+00:06:58,284 --> 00:07:01,947
+uh, doesn't care to go more than five feet
+without his inhaler.
+
+104
+00:07:02,021 --> 00:07:05,149
+And yet, uh, he's a giant man.
+
+105
+00:07:05,224 --> 00:07:08,057
+<i>He's the Errol Flynn</i>
+<i>of crossword puzzling.</i>
+
+106
+00:07:08,127 --> 00:07:10,527
+<i>But meeting him in person,</i>
+<i>I definitely thought...</i>
+
+107
+00:07:10,596 --> 00:07:12,587
+"Geez, I was planning
+on taking your lunch money...
+
+108
+00:07:12,665 --> 00:07:16,897
+but now I believe you could best me
+in a physical joust, if you will."
+
+109
+00:07:16,969 --> 00:07:19,494
+So I, uh— I backed off immediately.
+
+110
+00:07:19,572 --> 00:07:25,533
+<i>L</i>— <i>I respect, uh, very much</i>
+<i>those that create the puzzles.</i>
+
+111
+00:07:25,611 --> 00:07:28,478
+I don't know—
+I don't know how they do it.
+
+112
+00:07:28,548 --> 00:07:30,880
+Quite frankly, I don't know
+why they do it.
+
+113
+00:07:31,083 --> 00:07:33,074
+<i>"Dunkin'Donuts."</i>
+
+114
+00:07:33,152 --> 00:07:36,610
+<i>Put the "D"at the end,</i>
+<i>you get "unkind donuts."</i>
+
+115
+00:07:36,689 --> 00:07:40,386
+Which I've had a few of in my day.
+
+116
+00:07:50,069 --> 00:07:55,268
+<i>My name is Merl Reagle.</i>
+<i>I'm a syndicated crossword puzzle constructor.</i>
+
+117
+00:07:55,341 --> 00:07:58,333
+<i> Merl is a great guy.</i>
+<i>We've been friends for years.</i>
+
+118
+00:07:58,411 --> 00:08:00,936
+<i>He's like me in many ways.</i>
+
+119
+00:08:01,013 --> 00:08:03,914
+He was a puzzle head
+from when he was a child.
+
+120
+00:08:03,983 --> 00:08:06,747
+<i>He started making crosswords</i>
+<i>when he was in his teens.</i>
+
+121
+00:08:06,819 --> 00:08:09,845
+<i>Normally I'm either</i>
+<i>thinking of puzzles...</i>
+
+122
+00:08:09,922 --> 00:08:12,584
+or cluing them here
+or cluing them there...
+
+123
+00:08:12,658 --> 00:08:15,821
+<i>or thinking of themes for puzzles.</i>
+
+124
+00:08:15,895 --> 00:08:18,193
+Noah's Ark right there.
+
+125
+00:08:18,264 --> 00:08:21,825
+You switch the "S" and the "H" around,
+and that's "No, a shark."
+
+126
+00:08:21,901 --> 00:08:25,234
+<i>And hopefully, there is</i>
+<i>part of the day available...</i>
+
+127
+00:08:25,304 --> 00:08:29,764
+for me to actually do normal things
+with the people I love.
+
+128
+00:08:29,842 --> 00:08:33,801
+<i>Every crossword is a collaboration</i>
+<i>between the puzzle maker and the editor.</i>
+
+129
+00:08:33,880 --> 00:08:36,974
+<i>I get 60 to 75 puzzles submitted to me</i>
+<i>every week.</i>
+
+130
+00:08:37,049 --> 00:08:41,076
+<i>So, you know, I go through the mail</i>
+<i>and pick out the ones that I like best.</i>
+
+131
+00:08:41,153 --> 00:08:45,112
+<i>On average, about half the clues</i>
+<i>in the</i> Times <i>crossword are my own.</i>
+
+132
+00:08:45,191 --> 00:08:48,524
+<i>And I change clues, first of all,</i>
+<i>for accuracy...</i>
+
+133
+00:08:48,594 --> 00:08:51,495
+and as a matter of style—
+<i>New York Times</i> style.
+
+134
+00:08:51,564 --> 00:08:56,558
+But I'm also making the clues fit
+the intended level of difficulty.
+
+135
+00:08:56,636 --> 00:08:59,002
+So if I've determined something
+is a Monday puzzle...
+
+136
+00:08:59,071 --> 00:09:01,198
+I'm gonna try to make all easy clues.
+
+137
+00:09:01,274 --> 00:09:03,538
+If I've determined this is a Friday
+or a Saturday puzzle...
+
+138
+00:09:03,609 --> 00:09:06,635
+<i>I'm gonna try to make everything</i>
+<i>challenging.</i>
+
+139
+00:09:06,712 --> 00:09:09,647
+<i>When crossword puzzles had begun in 1913...</i>
+
+140
+00:09:09,715 --> 00:09:14,243
+<i>they eventually got so popular that an editor</i>
+<i>had to be hired to do it every week.</i>
+
+141
+00:09:14,320 --> 00:09:17,517
+<i>Margaret Farrar wanted to do</i>
+<i>real journalistic things in her life...</i>
+
+142
+00:09:17,590 --> 00:09:21,048
+<i>but she was told, okay, you have to edit</i>
+<i>the crossword puzzle from now on...</i>
+
+143
+00:09:21,127 --> 00:09:23,061
+<i>which she didn't want to do.</i>
+
+144
+00:09:23,129 --> 00:09:25,791
+So she finally thought, okay,
+I'll sit down and actually do this.
+
+145
+00:09:25,865 --> 00:09:29,733
+And by doing that over the course
+of a couple of years, she standardized puzzles.
+
+146
+00:09:29,802 --> 00:09:33,761
+It's amazing what we still use today
+from those days.
+
+147
+00:09:33,839 --> 00:09:37,366
+The rule about one sixth of the diagram
+can be black squares.
+
+148
+00:09:37,443 --> 00:09:39,377
+<i>The fact that it's all-over interlocked.</i>
+
+149
+00:09:39,445 --> 00:09:42,005
+<i>You can't have little islands of words</i>
+<i>separated from everything else.</i>
+
+150
+00:09:42,081 --> 00:09:44,015
+<i>No two-letter words.</i>
+
+151
+00:09:44,083 --> 00:09:46,916
+<i>Symmetry</i>— <i>the fact that if you turn</i>
+<i>a crossword puzzle upside-down...</i>
+
+152
+00:09:46,986 --> 00:09:49,887
+<i>the arrangement ofblack squares</i>
+<i>stays the same.</i>
+
+153
+00:09:49,956 --> 00:09:51,947
+<i>And there's word-choice rules.</i>
+
+154
+00:09:52,024 --> 00:09:55,858
+You can't use, usually, bodily functions
+in puzzles, you know.
+
+155
+00:09:55,928 --> 00:09:59,659
+"Urine" would bail me out of a corner
+a million times a year.
+
+156
+00:09:59,732 --> 00:10:03,099
+Same with "enema."
+"Enema"— talk about great letters.
+
+157
+00:10:03,169 --> 00:10:05,137
+<i>But you gotta keep those words</i>
+<i>out of puzzles...</i>
+
+158
+00:10:05,204 --> 00:10:09,368
+<i>because it doesn't pass</i>
+<i>the "Sunday morning breakfast"test.</i>
+
+159
+00:10:09,442 --> 00:10:12,377
+<i>I mean, there are people solving,</i>
+<i>on Sunday morning, the big Sunday puzzle.</i>
+
+160
+00:10:12,445 --> 00:10:14,379
+They've waited all week for this.
+
+161
+00:10:14,447 --> 00:10:16,438
+They're sitting there relaxing,
+and here comes, you know—
+
+162
+00:10:16,515 --> 00:10:18,642
+"Rectal"? I don't think so.
+
+163
+00:10:18,718 --> 00:10:22,017
+<i>As a result of these rules, she became,</i>
+<i>like, the first lady of crosswords.</i>
+
+164
+00:10:22,088 --> 00:10:25,615
+<i>When the</i> New York Times <i>decided</i>
+<i>to start running a crossword puzzle in 1942...</i>
+
+165
+00:10:25,691 --> 00:10:27,682
+<i>she was the one</i>
+<i>they picked to do it.</i>
+
+166
+00:10:27,760 --> 00:10:30,923
+<i>#Broadway papa #</i>
+
+167
+00:10:30,997 --> 00:10:33,625
+<i>#Broadway papa #</i>
+
+168
+00:10:33,699 --> 00:10:36,634
+<i># You sure do puzzle me ##</i>
+
+169
+00:10:36,702 --> 00:10:41,662
+<i> Cities are where we leave</i>
+<i>the imprint ofhuman interaction.</i>
+
+170
+00:10:41,741 --> 00:10:44,232
+<i>What the city offers,</i>
+<i>particularly this city</i>—
+
+171
+00:10:44,310 --> 00:10:47,473
+especially this city—
+is a sense of grids.
+
+172
+00:10:47,546 --> 00:10:49,480
+You know, it's all about boxes.
+
+173
+00:10:49,548 --> 00:10:53,416
+<i>You live in a box, and you ride in a box</i>
+<i>to go to work in a box.</i>
+
+174
+00:10:53,486 --> 00:10:57,513
+<i>And we have this wonderful newspaper</i>
+<i>that's boxy shaped...</i>
+
+175
+00:10:57,590 --> 00:11:02,323
+<i>that has in it this page which is</i>
+<i>my favorite page in the whole newspaper.</i>
+
+176
+00:11:02,395 --> 00:11:06,525
+And there are a set of boxes
+in which you kind of practice...
+
+177
+00:11:06,599 --> 00:11:10,262
+the wordplay of this particularly
+exquisite language.
+
+178
+00:11:10,336 --> 00:11:13,897
+<i>You know, I don't drink coffee.</i>
+<i>I don't smoke cigarettes.</i>
+
+179
+00:11:13,973 --> 00:11:16,601
+I don't need to have a drink
+at the end of the day.
+
+180
+00:11:16,676 --> 00:11:21,136
+What I need to do is do the <i>New York</i>
+crossword puzzle, in ink, every day.
+
+181
+00:11:26,352 --> 00:11:28,343
+<i>It's almost like going home.</i>
+
+182
+00:11:28,421 --> 00:11:31,447
+<i>You know how your parents always</i>
+<i>live one place for an eon?</i>
+
+183
+00:11:31,524 --> 00:11:36,257
+Well, the Marriott in Stamford has been
+the place where it's always been held.
+
+184
+00:11:36,328 --> 00:11:40,264
+<i>Two, one. Start your pencils.</i>
+
+185
+00:11:40,332 --> 00:11:42,391
+<i>Crossword puzzles.</i>
+
+186
+00:11:42,468 --> 00:11:45,562
+<i>And this is the first crossword puzzle</i>
+<i>tournament in the United States.</i>
+
+187
+00:11:45,638 --> 00:11:47,629
+<i>They hope the first annual.</i>
+
+188
+00:11:47,707 --> 00:11:50,733
+<i> The crossword tournament</i>
+<i>in Stamford started in 1978.</i>
+
+189
+00:11:50,810 --> 00:11:55,838
+I got together a few friends of mine—
+crossword-constructing friends—
+to be the officials.
+
+190
+00:11:55,915 --> 00:11:59,544
+<i>149 contestants</i>
+<i>showed up that first year.</i>
+
+191
+00:11:59,618 --> 00:12:03,145
+<i> Will Shortz,</i>
+<i>the 25-year-old tournament coordinator...</i>
+
+192
+00:12:03,222 --> 00:12:07,556
+<i>has a degree in enigmatology</i>—
+<i>the study of puzzles.</i>
+
+193
+00:12:07,626 --> 00:12:10,459
+I spend 10, 12 hours a day on puzzles...
+
+194
+00:12:10,529 --> 00:12:12,554
+either making puzzles
+or solving puzzles.
+
+195
+00:12:12,631 --> 00:12:16,692
+<i> It was just a wonderful</i>
+<i>and exhausting event.</i>
+
+196
+00:12:16,769 --> 00:12:18,896
+<i>It's an institution now.</i>
+
+197
+00:12:18,971 --> 00:12:23,135
+<i>If Will hadn't have wanted tojust,</i>
+<i>basically meet other puzzlers</i>—
+
+198
+00:12:23,209 --> 00:12:25,336
+I think that's the reason
+he started it—
+
+199
+00:12:25,411 --> 00:12:28,175
+<i>just to have some fun</i>
+<i>with all ofhis friends.</i>
+
+200
+00:12:28,247 --> 00:12:31,307
+<i>I mean, it's a</i>—<i>it's a labor oflove.</i>
+
+201
+00:12:32,351 --> 00:12:33,841
+<i>"Really go for."Five letters.</i>
+
+202
+00:12:33,919 --> 00:12:36,547
+<i>"Boffo review."Four letters.</i>
+
+203
+00:12:36,622 --> 00:12:39,182
+<i>"Director Craven." Three letters.</i>
+
+204
+00:12:40,459 --> 00:12:43,428
+<i>My name's Al Sanders.</i>
+<i>I'm from Fort Collins, Colorado.</i>
+
+205
+00:12:43,496 --> 00:12:48,229
+<i>I work at Hewlett-Packard</i>
+<i>as a project manager there in an R& D lab.</i>
+
+206
+00:12:48,300 --> 00:12:51,064
+<i>We have three kids</i>—
+<i>Matthew, Grace and Connor.</i>
+
+207
+00:12:51,137 --> 00:12:54,129
+<i>Ages 14, 9 and 11.</i>
+
+208
+00:12:54,206 --> 00:12:56,231
+<i>He's a very good dad, yeah.</i>
+
+209
+00:12:56,308 --> 00:12:58,367
+<i>I think that, you know, I think</i>
+<i>they've grown up...</i>
+
+210
+00:12:58,444 --> 00:13:01,811
+<i>with a very nice,</i>
+<i>loving relationship with their dad.</i>
+
+211
+00:13:01,881 --> 00:13:06,341
+And I think that that will help them,
+you know, when they become parents too.
+
+212
+00:13:06,418 --> 00:13:08,409
+<i>Growing up, I was an only child...</i>
+
+213
+00:13:08,487 --> 00:13:11,923
+<i>so I spent a lot of time, you know,</i>
+<i>reading and that kind of stuff.</i>
+
+214
+00:13:11,991 --> 00:13:14,516
+I used to love to watch game shows.
+Always loved trivia.
+
+215
+00:13:14,593 --> 00:13:18,461
+So I always did pretty good, you know,
+in a kind of testing situation.
+
+216
+00:13:18,531 --> 00:13:21,830
+<i>In some ways, I think that's why</i>
+<i>I still enjoy puzzles so much.</i>
+
+217
+00:13:21,901 --> 00:13:24,461
+'Cause the school environment,
+it's very structured...
+
+218
+00:13:24,537 --> 00:13:27,404
+<i>and it's very, um,</i>
+<i>artificial in a way.</i>
+
+219
+00:13:27,473 --> 00:13:30,670
+<i>At the end, you get your report card,</i>
+<i>and you did great.</i>
+
+220
+00:13:30,743 --> 00:13:33,906
+<i>You got your straight A's or whatever</i>
+<i>and, you know, cool. That was great.</i>
+
+221
+00:13:33,979 --> 00:13:36,971
+<i>In real life, it's obviously</i>
+<i>a lot more complicated than that.</i>
+
+222
+00:13:39,852 --> 00:13:43,754
+It's kind of late tonight, so I'm a little tired.
+We'll see if I can do it, but—
+
+223
+00:13:43,823 --> 00:13:47,782
+We'll see if we can get at least
+below 2:30 on this one.
+
+224
+00:13:47,860 --> 00:13:51,352
+So, okay? So, ready, set, go.
+
+225
+00:14:01,740 --> 00:14:03,731
+I got the long entry there,
+so that's good.
+
+226
+00:14:03,809 --> 00:14:07,438
+This is about cheese, it looks like,
+so everything has to do with cheeses.
+
+227
+00:14:07,513 --> 00:14:12,075
+Um. I'd better stop talking
+and keep goin' here.
+
+228
+00:14:13,853 --> 00:14:16,344
+<i>I'd say crosswords to me</i>
+<i>are probably an obsession.</i>
+
+229
+00:14:16,422 --> 00:14:20,085
+<i>Um, certainly in the couple of months</i>
+<i>before the tournament...</i>
+
+230
+00:14:20,159 --> 00:14:23,151
+<i>I kind ofhave this phase</i>
+<i>I seem to have worked my way into...</i>
+
+231
+00:14:23,229 --> 00:14:25,663
+<i>where everything leads up</i>
+<i>to the tournament.</i>
+
+232
+00:14:25,731 --> 00:14:27,722
+<i>Because there's one of these a year.</i>
+
+233
+00:14:29,969 --> 00:14:32,767
+Down. See? I had to stop.
+Bad news.
+
+234
+00:14:46,051 --> 00:14:47,985
+<i>I think I've got a chance.</i>
+
+235
+00:14:48,053 --> 00:14:51,079
+<i>I- I've been in the finals</i>
+<i>for a number of years...</i>
+
+236
+00:14:51,156 --> 00:14:54,182
+<i>and I know people must think,</i>
+<i>"Oh, great. Al's in the finals again.</i>
+
+237
+00:14:54,260 --> 00:14:56,251
+<i>There's another third-place finish. "</i>
+
+238
+00:14:56,328 --> 00:14:58,990
+<i>So I kind ofhave a little something</i>
+<i>to prove there at least.</i>
+
+239
+00:15:08,674 --> 00:15:13,077
+<i>You know, the whole puzzle calendar</i>
+<i>pretty much revolves around Stamford.</i>
+
+240
+00:15:13,145 --> 00:15:18,048
+<i>And, um, you know, there's nothing else like it</i>
+<i>in the crossword worid, so you gotta be there.</i>
+
+241
+00:15:18,117 --> 00:15:20,210
+<i>They always talk about the winners.</i>
+
+242
+00:15:20,286 --> 00:15:23,949
+<i>They announce the former champions</i>
+<i>at the beginning of the tournament.</i>
+
+243
+00:15:24,023 --> 00:15:26,856
+<i>Sure, comin'in the top three</i>
+<i>for five or six years in a row...</i>
+
+244
+00:15:26,926 --> 00:15:30,123
+<i>it's great and it's really cool,</i>
+<i>but there's just something special...</i>
+
+245
+00:15:30,195 --> 00:15:33,289
+<i>about actually being a champion</i>
+<i>that, uh</i>—
+
+246
+00:15:33,365 --> 00:15:37,529
+<i>And it's not like, you know, winning</i>
+<i>a major in golf or something, but it's</i>—
+
+247
+00:15:37,603 --> 00:15:40,436
+<i>But in the crossword puzzle worid,</i>
+<i>it kind ofhas that same cachet.</i>
+
+248
+00:15:40,506 --> 00:15:43,270
+<i>So it would be somethin'</i>
+<i>that you'd remember forever.</i>
+
+249
+00:15:43,342 --> 00:15:47,802
+<i>So I really hope sometime</i>
+<i>in the next few years...</i>
+
+250
+00:15:47,880 --> 00:15:51,976
+<i>l- I can</i>— <i>I can close the deal</i>
+<i>and win one of these things.</i>
+
+251
+00:15:54,086 --> 00:15:56,418
+Oh. 2:02.
+
+252
+00:15:56,488 --> 00:16:00,049
+I can never get under two minutes. Dang it.
+
+253
+00:16:00,125 --> 00:16:02,059
+Someday, I'm gonna get
+a 1:59 outta here...
+
+254
+00:16:02,127 --> 00:16:05,722
+but that's my second-fastest one
+ever, so—
+
+255
+00:16:05,798 --> 00:16:08,631
+I didn't stop and check,
+but I do have it all filled in so—
+
+256
+00:16:08,701 --> 00:16:11,033
+Yeah, that was
+a pretty good one there. So—
+
+257
+00:16:13,305 --> 00:16:18,004
+We're doing a puzzle
+that is about the word "wordplay."
+
+258
+00:16:18,077 --> 00:16:20,102
+The way I thought we would
+get into the puzzle—
+
+259
+00:16:20,179 --> 00:16:23,478
+Since "wordplay"
+is an even number of letters...
+
+260
+00:16:23,549 --> 00:16:28,612
+and crossword puzzle diagrams are almost
+always an odd number of squares on a side.
+
+261
+00:16:28,687 --> 00:16:31,554
+Since you can't put it
+in the center of the diagram...
+
+262
+00:16:31,623 --> 00:16:34,717
+what we'll do is, we'll put it as clo—
+
+263
+00:16:34,793 --> 00:16:36,784
+We'll put it like this.
+
+264
+00:16:36,862 --> 00:16:38,853
+<i>One of the great things about</i>
+<i>the</i> Times <i>crossword...</i>
+
+265
+00:16:38,931 --> 00:16:41,491
+<i>is that it's made</i>
+<i>by many different people.</i>
+
+266
+00:16:41,567 --> 00:16:45,697
+Each year, I publish about 110
+different constructors.
+
+267
+00:16:45,771 --> 00:16:49,434
+<i>And I think the puzzle is much better</i>
+<i>than if I made all the puzzles myself.</i>
+
+268
+00:16:49,508 --> 00:16:52,136
+<i>First of all, it takes a long time</i>
+<i>to make a great crossword.</i>
+
+269
+00:16:52,211 --> 00:16:56,671
+<i>And with so many different voices,</i>
+<i>so many different constructors</i>
+<i>sending puzzles to me...</i>
+
+270
+00:16:56,749 --> 00:16:58,979
+<i>I get lots more diversity.</i>
+
+271
+00:16:59,051 --> 00:17:04,512
+<i>The puzzle wouldn't be nearly as good</i>
+<i>if one person made it.</i>
+
+272
+00:17:04,590 --> 00:17:08,651
+The basic idea of this puzzle is
+that I wanted to think of words or phrases...
+
+273
+00:17:08,727 --> 00:17:13,027
+that contain the word "word"
+in a nonword context.
+
+274
+00:17:13,098 --> 00:17:17,125
+And I wanted to think of words that contain
+the word "play" in a nonword context.
+
+275
+00:17:17,202 --> 00:17:19,136
+I thought of words like "Playa del Rey"...
+
+276
+00:17:19,204 --> 00:17:22,435
+the area of California where I'm—
+I used to be from.
+
+277
+00:17:22,508 --> 00:17:24,976
+"Playa del Rey"
+starts with the word "play"...
+
+278
+00:17:25,044 --> 00:17:27,569
+and has nothing to do
+with the word "play" in English.
+
+279
+00:17:27,646 --> 00:17:32,549
+And "cross swords," as if
+to start dueling with somebody with swords.
+
+280
+00:17:32,618 --> 00:17:36,714
+"Cross swords"
+has the word "word" in it also...
+
+281
+00:17:36,789 --> 00:17:40,452
+and it actually looks like "crosswords"
+with an extra "S."
+
+282
+00:17:40,526 --> 00:17:43,427
+So that was the idea— that we could
+somehow do a wordplay puzzle...
+
+283
+00:17:43,495 --> 00:17:48,398
+about the words "word" and "play" that
+did not involve the actual words themselves.
+
+284
+00:17:53,105 --> 00:17:55,801
+<i> What's it feel like</i>
+<i>to actually be in the puzzle?</i>
+
+285
+00:17:55,874 --> 00:17:58,604
+<i>Oh, man. That's</i>—
+<i>Call it a pinnacle of our career.</i>
+
+286
+00:17:58,677 --> 00:18:02,613
+It was a thrill, a total thrill.
+
+287
+00:18:02,681 --> 00:18:04,672
+<i>I was actuallyjust surprised.</i>
+
+288
+00:18:04,750 --> 00:18:08,208
+<i>'Cause I always thought of us</i>
+<i>as being pretty underground...</i>
+
+289
+00:18:08,287 --> 00:18:12,246
+<i>and not really</i>
+<i>in the intellectual set.</i>
+
+290
+00:18:12,324 --> 00:18:15,122
+<i>But, um, it was exciting, flattering.</i>
+
+291
+00:18:17,362 --> 00:18:21,128
+"Bikini parts" has to end in an "S," I think,
+so maybe "odyssey" is spelled wrong.
+
+292
+00:18:21,200 --> 00:18:24,863
+- Maybe it's not "odyssey."
+- Feels like it's "odyssey," but—
+
+293
+00:18:26,138 --> 00:18:29,073
+<i> I definitely started equating</i>
+<i>crossword puzzles with songwriting.</i>
+
+294
+00:18:29,141 --> 00:18:31,974
+<i>And it really helped my process,</i>
+<i>because I think what it did...</i>
+
+295
+00:18:32,044 --> 00:18:36,845
+is it gave me this sense of faith
+that writer's block is not really real...
+
+296
+00:18:36,915 --> 00:18:40,282
+and that if you sit there
+and work on it long enough...
+
+297
+00:18:40,352 --> 00:18:43,116
+just like when you do a crossword,
+something's gonna come out, you know?
+
+298
+00:18:43,188 --> 00:18:46,021
+It's the same thing that Emily's talkin'
+about when you stare at a clue...
+
+299
+00:18:46,091 --> 00:18:50,960
+and all of a sudden the answer just pops up, and
+you're, like, "I didn't even know I knew that."
+
+300
+00:18:51,029 --> 00:18:55,329
+<i> I mean, for me, writing a song,</i>
+<i>you wanna make it general enough</i>
+<i>so that people can relate to it...</i>
+
+301
+00:18:55,400 --> 00:18:57,766
+<i>but also specific enough</i>
+<i>so that it's interesting.</i>
+
+302
+00:18:57,836 --> 00:18:59,997
+So there are all those things
+you can play with—
+
+303
+00:19:00,072 --> 00:19:03,872
+obscurity, clarity,
+generalization, specificity.
+
+304
+00:19:03,942 --> 00:19:07,537
+And those are things that you sort of
+grapple with as you're writing a song.
+
+305
+00:19:07,613 --> 00:19:11,947
+<i>#I'm tryin'to tell you somethin'</i>
+<i>about my life #</i>
+
+306
+00:19:12,017 --> 00:19:16,215
+<i>#Maybe give me insight</i>
+<i>between black and white #</i>
+
+307
+00:19:17,756 --> 00:19:20,122
+#And the best thing
+you've ever done for me ##
+
+308
+00:19:20,192 --> 00:19:23,650
+Right from the start,
+Merl loved the idea of making puzzles...
+
+309
+00:19:23,729 --> 00:19:28,826
+with as few black squares and as many
+wide-open white squares as possible.
+
+310
+00:19:28,901 --> 00:19:31,802
+<i>I have now put my theme answers in...</i>
+
+311
+00:19:31,870 --> 00:19:35,203
+where they will go
+for maximum use of the space...
+
+312
+00:19:35,274 --> 00:19:38,300
+so that the diagram
+still breathes a little.
+
+313
+00:19:38,377 --> 00:19:40,937
+And now I'm just looking at it...
+
+314
+00:19:41,013 --> 00:19:45,006
+to see if the down possibilities
+have any problems.
+
+315
+00:19:45,083 --> 00:19:49,986
+You want to sniff out these tough areas
+immediately when you're constructing.
+
+316
+00:19:50,055 --> 00:19:52,580
+And the only spot I have here
+that's even remotely like that...
+
+317
+00:19:52,658 --> 00:19:55,593
+is this blank-Y-blank-blank-Y.
+
+318
+00:19:55,661 --> 00:19:58,892
+Right there. I mean,
+there are words that go in there.
+
+319
+00:19:58,964 --> 00:20:02,161
+"My way." "Pygmy."
+A couple of other things.
+
+320
+00:20:02,234 --> 00:20:06,330
+But the thing is that this word next to it—
+A- blank-blank-A-blank.
+
+321
+00:20:06,405 --> 00:20:09,238
+If—All the ones I've said for here,
+this is a consonant.
+
+322
+00:20:09,308 --> 00:20:12,300
+"My day." That's a "D."
+"Pygmy." That's a "G."
+
+323
+00:20:12,377 --> 00:20:15,813
+Uh, so if that's a consonant...
+
+324
+00:20:15,881 --> 00:20:18,748
+this has to be a vowel.
+
+325
+00:20:18,817 --> 00:20:23,277
+And how many vowels can you think of
+that go A-vowel-blank-A-blank...
+
+326
+00:20:23,355 --> 00:20:27,416
+and still are gonna bleed
+into this really important area...
+
+327
+00:20:27,492 --> 00:20:29,426
+so that words can come down?
+
+328
+00:20:29,494 --> 00:20:35,228
+And the only one I can think of
+for this is a fragment like "by any."
+
+329
+00:20:35,300 --> 00:20:39,066
+I need that to be a vowel.
+Like "by any means possible."
+
+330
+00:20:39,137 --> 00:20:42,937
+Then from here— consonant-vowel—
+then almost anything I want.
+
+331
+00:20:43,008 --> 00:20:46,671
+This is gonna be almost anything—
+I'm just gonna make sure that I can
+come down from here.
+
+332
+00:20:46,745 --> 00:20:50,681
+So what I'm thinking of is that this
+is gonna be a word that ends like this.
+
+333
+00:20:50,749 --> 00:20:53,775
+And that this is gonna be a word
+that either ends with "S" down here.
+
+334
+00:20:53,852 --> 00:20:56,343
+Or it could be something rather colorful.
+I'm not sure.
+
+335
+00:20:56,421 --> 00:20:59,788
+But this is gonna be like—
+something like a "G"...
+
+336
+00:20:59,858 --> 00:21:02,326
+and maybe this is gonna be
+an "E" also.
+
+337
+00:21:02,394 --> 00:21:06,353
+Um, I just thought of something
+that's gonna work nice.
+
+338
+00:21:07,833 --> 00:21:10,131
+<i> Nine-letter word</i>
+<i>for "cocktail with a cherry."</i>
+
+339
+00:21:10,702 --> 00:21:14,934
+<i>Fifteen-letter word</i>
+<i>for "resistant to moisture,"say.</i>
+
+340
+00:21:15,007 --> 00:21:17,475
+<i>Five-letter word for "clued in."</i>
+
+341
+00:21:27,019 --> 00:21:30,455
+Great. Oh.
+
+342
+00:21:33,825 --> 00:21:38,125
+<i>I'm Ellen Ripstein.</i>
+<i>We're in the back of Park West Village.</i>
+
+343
+00:21:38,196 --> 00:21:43,259
+<i>I went to the very first tournament in 1978,</i>
+<i>and I came in in the thirties.</i>
+
+344
+00:21:43,335 --> 00:21:48,466
+<i>So really, just at the tournaments,</i>
+<i>as I gradually started getting better...</i>
+
+345
+00:21:48,540 --> 00:21:52,169
+you know, I guess I realized,
+"Gee, I must be really good at this."
+
+346
+00:21:52,244 --> 00:21:56,408
+But it still sort of amazes me, 'cause
+when I see a Saturday <i>Times</i> puzzle...
+
+347
+00:21:56,481 --> 00:21:58,949
+and I do it in 10 minutes,
+and then on the forum...
+
+348
+00:21:59,017 --> 00:22:02,783
+they're saying it took all afternoon,
+that just seems so strange to me.
+
+349
+00:22:02,854 --> 00:22:05,948
+What was their problem?
+Why couldn't they do the puzzle?
+
+350
+00:22:06,024 --> 00:22:08,993
+Or I guess I've just accumulated
+a lot of useless knowledge...
+
+351
+00:22:09,061 --> 00:22:11,325
+that often is in the puzzles.
+
+352
+00:22:14,766 --> 00:22:18,497
+For 18 years in a row,
+I was so close to the top.
+
+353
+00:22:18,570 --> 00:22:23,974
+I was in the finals, I think, 11 times—
+the top three— and didn't win.
+
+354
+00:22:24,042 --> 00:22:27,273
+<i>So then, every year, you know,</i>
+<i>I kept not winning...</i>
+
+355
+00:22:27,346 --> 00:22:32,113
+<i>until finally, um, in 2001,</i>
+<i>one of the contestants was having lunch...</i>
+
+356
+00:22:32,184 --> 00:22:34,618
+with a friend of his who worked
+for the <i>Wall Street Journal...</i>
+
+357
+00:22:34,686 --> 00:22:37,154
+and telling him about this tournament
+he was about to go to.
+
+358
+00:22:37,222 --> 00:22:40,282
+<i>So the</i> Wall Street Journal
+<i>did a front page piece on me...</i>
+
+359
+00:22:40,359 --> 00:22:43,123
+<i>a week before the tournament</i>
+<i>with a picture and everything.</i>
+
+360
+00:22:43,195 --> 00:22:46,028
+<i>And this is just mind-boggling.</i>
+<i>I'm just a little nerd girl...</i>
+
+361
+00:22:46,098 --> 00:22:48,532
+<i>and here I am</i>
+<i>on the front of the</i> Wall Street Journal.
+
+362
+00:22:48,600 --> 00:22:51,967
+This tournament,
+we had ABC News, CBS—
+
+363
+00:22:52,037 --> 00:22:55,234
+<i>uh, you know, just tons of press.</i>
+
+364
+00:22:55,307 --> 00:22:58,470
+<i>So the top three were me,</i>
+<i>Al Sanders and Patrick Jordan...</i>
+
+365
+00:22:58,543 --> 00:23:00,534
+<i>who are all really good.</i>
+
+366
+00:23:00,612 --> 00:23:02,773
+But it wasn't people who've won.
+
+367
+00:23:02,848 --> 00:23:06,181
+<i>So Patrick finished the puzzle first...</i>
+
+368
+00:23:06,251 --> 00:23:09,414
+<i>and they were saying that all the air</i>
+<i>just got sucked out of the room.</i>
+
+369
+00:23:09,488 --> 00:23:11,786
+Because Patrick is nice, and people
+would like him to win...
+
+370
+00:23:11,857 --> 00:23:15,850
+but, God, you know, they really
+wanted me to win already. And then—
+
+371
+00:23:15,927 --> 00:23:19,385
+<i>- Patrick's in</i>—
+<i>- But hold on a minute.</i>
+
+372
+00:23:19,464 --> 00:23:22,865
+<i>With a mistake. With a mistake.</i>
+
+373
+00:23:22,934 --> 00:23:25,494
+There was a bad crossing,
+and he had made a mistake.
+
+374
+00:23:25,570 --> 00:23:28,095
+<i>So, you know, everyone's</i>
+<i>just holding their breath.</i>
+
+375
+00:23:28,173 --> 00:23:31,506
+<i>Oh, she's so close. She is so close.</i>
+
+376
+00:23:31,576 --> 00:23:34,943
+<i>She's lookin'it over.</i>
+<i>The second hand</i>— <i>It is comin'up.</i>
+
+377
+00:23:35,013 --> 00:23:39,313
+<i>I fill in the last letter</i>
+<i>and turn around and</i>—
+
+378
+00:23:39,384 --> 00:23:44,253
+I'm crying just even thinking about it.
+And the place just went totally nuts.
+
+379
+00:23:44,322 --> 00:23:46,916
+They're going, "El-len! El-len!"
+
+380
+00:23:46,992 --> 00:23:51,861
+<i>A guy pulled out a banner that said</i>
+<i>"R-R-R-Ripstein. This is your year."</i>
+
+381
+00:23:51,930 --> 00:23:55,991
+And I was going, "Are you sure? Are you sure?
+Would you check the puzzle?"
+
+382
+00:23:56,067 --> 00:23:58,001
+And they were checking. "No, no. It—"
+
+383
+00:23:58,069 --> 00:24:02,597
+And I was just sobbing.
+It was so great.
+
+384
+00:24:02,674 --> 00:24:05,905
+<i> In a dramatic,</i>
+<i>come-from-behind, last-second victory...</i>
+
+385
+00:24:05,977 --> 00:24:07,911
+<i>Ellen is the winner.</i>
+
+386
+00:24:07,979 --> 00:24:11,676
+- Are they sure?
+<i>- Hollywood couldn't have scripted a better finish.</i>
+
+387
+00:24:11,750 --> 00:24:14,378
+Are you sure?
+
+388
+00:24:18,390 --> 00:24:22,986
+<i>You know, it is a kind of nerdy thing,</i>
+<i>but it's</i>—<i>it's neat.</i>
+
+389
+00:24:23,061 --> 00:24:26,121
+Although, I had a boyfriend once
+who was just—
+
+390
+00:24:26,198 --> 00:24:28,428
+You know, he would sort of
+try to put me down...
+
+391
+00:24:28,500 --> 00:24:31,435
+and I would say, "Well, what are you
+the best in the country at?"
+
+392
+00:24:31,503 --> 00:24:34,404
+You know? At least, I'm...
+worth something.
+
+393
+00:24:46,151 --> 00:24:48,312
+Mmm, let's see.
+
+394
+00:24:48,386 --> 00:24:50,320
+Let's say "trysts."
+
+395
+00:24:50,388 --> 00:24:53,983
+This can't be a "U" anymore. Um.
+
+396
+00:24:57,429 --> 00:25:02,059
+Is "redtop" a word? "Redtop"?
+
+397
+00:25:02,133 --> 00:25:04,397
+Well, I think it's a word,
+but I'm sitting in here.
+
+398
+00:25:04,469 --> 00:25:07,927
+In a second, I will go in the other room
+and look it up just to see.
+
+399
+00:25:09,241 --> 00:25:11,573
+First we'll look in the little dictionary.
+
+400
+00:25:11,643 --> 00:25:14,305
+<i>'Cause that's where</i>
+<i>we want it to be.</i>
+
+401
+00:25:14,379 --> 00:25:18,042
+If it's common enough
+to be in a little dictionary, then it's—
+
+402
+00:25:18,116 --> 00:25:20,550
+Then we got somethin'.
+
+403
+00:25:20,619 --> 00:25:22,553
+"Redtop.
+
+404
+00:25:22,621 --> 00:25:26,148
+"A grass grown in the cooler parts
+of North America...
+
+405
+00:25:26,224 --> 00:25:29,489
+for hay, pasturage and lawns."
+
+406
+00:25:29,561 --> 00:25:32,689
+I'll bet you
+our lawn guy knows that word.
+
+407
+00:25:32,764 --> 00:25:35,756
+<i>I'm going to show you something</i>
+<i>that I don't show many people.</i>
+
+408
+00:25:35,834 --> 00:25:39,292
+And this is only because
+you asked very, very politely.
+
+409
+00:25:39,371 --> 00:25:44,900
+<i>Since March 2 of 1997, I've been keeping</i>
+<i>a record of my time every day.</i>
+
+410
+00:25:44,976 --> 00:25:47,911
+And I do this...
+because I'm an obsessive creep...
+
+411
+00:25:47,979 --> 00:25:52,211
+and I do this because I'm a nerd, and I do it
+because I'm competing with myself.
+
+412
+00:25:52,284 --> 00:25:54,775
+<i>But I'm also doing it to kind of measure</i>
+<i>my mental deterioration</i>—
+
+413
+00:25:54,853 --> 00:25:56,912
+to see how much slower I get
+over the years...
+
+414
+00:25:56,988 --> 00:26:01,687
+uh, to see how close I am getting
+to actually losing my marbles.
+
+415
+00:26:01,760 --> 00:26:05,719
+<i>From December of 2003</i>
+<i>until June of 2005...</i>
+
+416
+00:26:05,797 --> 00:26:07,924
+I was the public editor
+at the <i>New York Times.</i>
+
+417
+00:26:07,999 --> 00:26:10,832
+Um, that's a job that's called
+the ombudsman at many other papers.
+
+418
+00:26:10,902 --> 00:26:15,134
+The <i>Times</i> being the <i>Times,</i> they have to have
+a more pretentious title, so I was Public Editor.
+
+419
+00:26:15,206 --> 00:26:18,369
+<i>I can say this more easily</i>
+<i>now that I no longer work there.</i>
+
+420
+00:26:18,443 --> 00:26:22,311
+I think I can say with more credibility,
+the <i>Times</i> is the most important
+news medium in the worid.
+
+421
+00:26:22,380 --> 00:26:26,407
+<i>There's nothing else like it,</i>
+<i>and the puzzle fits into that.</i>
+
+422
+00:26:26,484 --> 00:26:28,418
+<i>There's no other puzzle like it.</i>
+
+423
+00:26:28,486 --> 00:26:31,614
+I don't think you would find anybody—
+If you walked into that room in Stamford...
+
+424
+00:26:31,690 --> 00:26:34,818
+and you asked any of 500 people there,
+"What's your favorite puzzle?"
+
+425
+00:26:34,893 --> 00:26:39,330
+They'd all say the <i>Times,</i>
+because it's the gold standard,
+as the way that I think the newspaper—
+
+426
+00:26:39,397 --> 00:26:41,388
+Although the newspaper may do
+many things wrong...
+
+427
+00:26:41,466 --> 00:26:43,457
+it's the gold standard
+of American newspapers too.
+
+428
+00:26:43,535 --> 00:26:46,766
+<i>One of the things that was interesting to me</i>
+<i>once I started going to Stamford...</i>
+
+429
+00:26:46,838 --> 00:26:50,604
+<i>was realizing what was the nature</i>
+<i>of the person who is really great.</i>
+
+430
+00:26:50,675 --> 00:26:54,475
+I don't mean good, like me,
+at an amateur level, but really, really great.
+
+431
+00:26:54,546 --> 00:26:58,346
+And overwhelmingly, the two professional
+groups that seem to dominate...
+
+432
+00:26:58,416 --> 00:27:00,475
+<i>are musicians</i>
+<i>and people in the math professions.</i>
+
+433
+00:27:00,552 --> 00:27:04,579
+<i>And by that I mean computer programmers,</i>
+<i>actuaries, auditors and such.</i>
+
+434
+00:27:04,656 --> 00:27:07,682
+<i>I've asked people, "What would you think</i>—
+<i>Who would you think would be the best?"</i>
+
+435
+00:27:07,759 --> 00:27:10,728
+And they say, oh, copy editors
+or history teachers or English teachers.
+
+436
+00:27:10,795 --> 00:27:12,729
+But, no, it's these two groups.
+
+437
+00:27:12,797 --> 00:27:15,265
+What I think it is
+is their ability to assimilate...
+
+438
+00:27:15,333 --> 00:27:18,996
+a lot of-of-of coded information instantly.
+
+439
+00:27:19,070 --> 00:27:21,004
+In other words, a piano player,
+likeJon Delfin...
+
+440
+00:27:21,072 --> 00:27:23,165
+the greatest crossword puzzler
+of our time.
+
+441
+00:27:23,241 --> 00:27:26,574
+<i>He sits down, and he sees three staffs of music,</i>
+<i>and he can instantly play it.</i>
+
+442
+00:27:26,645 --> 00:27:30,672
+<i>He's taken all those notes, and he's absorbed</i>
+<i>what they mean instantaneously.</i>
+
+443
+00:27:30,749 --> 00:27:34,185
+<i>And if you have that kind</i>
+<i>of a cast of mind...</i>
+
+444
+00:27:34,252 --> 00:27:38,712
+<i>and then add to it a lot of, you know,</i>
+<i>a wide range of sort of ordinary...</i>
+
+445
+00:27:38,790 --> 00:27:42,157
+and extraordinary information—
+and if you can spell—
+
+446
+00:27:42,227 --> 00:27:44,354
+you'd be a really great crossword puzzler.
+
+447
+00:27:44,429 --> 00:27:47,762
+Four minutes and 20 seconds.
+No. Four minutes and five seconds.
+
+448
+00:27:47,832 --> 00:27:49,766
+That's pretty good.
+
+449
+00:27:49,834 --> 00:27:53,429
+<i> One across.</i>
+<i>A three-letter word. "Doberman doc."</i>
+
+450
+00:27:53,505 --> 00:27:57,271
+<i>Four across. A four-letter word.</i>
+<i>"Antony of antiquity."</i>
+
+451
+00:27:57,342 --> 00:28:01,108
+<i>Eight across.</i>
+<i>A five-letter word. "Match play"?</i>
+
+452
+00:28:14,192 --> 00:28:17,218
+<i>Whatever image that I had of myself</i>
+<i>when I was younger...</i>
+
+453
+00:28:17,295 --> 00:28:20,731
+<i>about what I would be at 50</i>
+<i>or in general as a grown-up...</i>
+
+454
+00:28:20,799 --> 00:28:23,324
+<i>it's not what happened.</i>
+
+455
+00:28:23,401 --> 00:28:26,234
+<i>Um, I was on the academic track</i>
+<i>when I was in school...</i>
+
+456
+00:28:26,304 --> 00:28:30,172
+and-and I was supposed to be a lawyer
+or a teacher or an accountant.
+
+457
+00:28:30,241 --> 00:28:33,233
+And-And somehow I'm a piano player.
+
+458
+00:28:33,311 --> 00:28:35,541
+How did that happen?
+
+459
+00:28:37,649 --> 00:28:39,844
+<i>I've been solving puzzles</i>
+<i>since I'm a kid.</i>
+
+460
+00:28:39,918 --> 00:28:44,218
+<i>Give me spaces that need to be filled in</i>
+<i>and I want to fill them in.</i>
+
+461
+00:28:44,289 --> 00:28:47,417
+<i>I started competing in 1985...</i>
+
+462
+00:28:47,492 --> 00:28:49,426
+and did okay.
+
+463
+00:28:49,494 --> 00:28:51,428
+<i>The year after that,</i>
+<i>I made it into the final...</i>
+
+464
+00:28:51,496 --> 00:28:53,430
+<i>and I've been there</i>
+<i>every year since.</i>
+
+465
+00:28:53,498 --> 00:28:55,022
+<i>You give the accompanist your music.</i>
+
+466
+00:28:55,100 --> 00:28:58,160
+"Here you go. I will be singing 'Gimme Gimme'
+from <i>Thoroughly Modern Millie. "</i>
+
+467
+00:28:58,236 --> 00:29:01,569
+- "On My Own" from <i>Les Misérables.</i>
+- "Rock of Rages" from <i>Leader of the Pack.</i>
+
+468
+00:29:01,639 --> 00:29:03,573
+"Where the Boys Are"
+by Connie Francis.
+
+469
+00:29:03,641 --> 00:29:06,041
+"La Isla Bonita" by Madonna.
+
+470
+00:29:06,111 --> 00:29:10,138
+"Crossword Puzzle" by Maltby and Shire.
+It's from <i>Starting Here, Starting Now.</i>
+
+471
+00:29:10,215 --> 00:29:15,312
+<i>#I am sitting here doing</i>
+<i>the Sunday</i> Times <i>crossword puzzle #</i>
+
+472
+00:29:15,386 --> 00:29:18,219
+# Somehow the words won't come #
+
+473
+00:29:18,289 --> 00:29:21,452
+<i>#I am staring at squares</i>
+<i>but my eyes never focus #</i>
+
+474
+00:29:21,526 --> 00:29:23,460
+<i>#And my mind's feeling strangely numb ##</i>
+
+475
+00:29:23,528 --> 00:29:25,621
+<i>It's sort oflike dealing with puzzles.</i>
+
+476
+00:29:25,697 --> 00:29:28,962
+<i>Because I'll show up in a room</i>
+<i>like I am today...</i>
+
+477
+00:29:29,033 --> 00:29:32,594
+<i>and people will hand me a piece of music</i>
+<i>that I may have never seen before...</i>
+
+478
+00:29:32,670 --> 00:29:34,865
+<i>or heard before</i>
+<i>or even heard ofbefore...</i>
+
+479
+00:29:34,939 --> 00:29:37,931
+<i>and I have to play it for them</i>
+<i>right away.</i>
+
+480
+00:29:38,009 --> 00:29:41,035
+I don't get to rehearse it.
+I don't get to even think about it.
+
+481
+00:29:41,112 --> 00:29:44,309
+<i>So I get to solve this little puzzle</i>
+<i>for 90 seconds.</i>
+
+482
+00:29:50,989 --> 00:29:55,085
+<i> A lot of sitting at the piano</i>
+<i>and playing for people when they walk in...</i>
+
+483
+00:29:55,160 --> 00:29:58,857
+a lot of that is really craft
+and-and-and-and trickery.
+
+484
+00:29:58,930 --> 00:30:01,694
+<i>But I was in a room one day</i>
+<i>and somebody came in...</i>
+
+485
+00:30:01,766 --> 00:30:04,758
+<i>and brought in one of my favorite songs</i>—
+<i>"It Might As Well Be Spring."</i>
+
+486
+00:30:04,836 --> 00:30:07,805
+<i>She started to sing it.</i>
+<i>I could tell that she knew the song...</i>
+
+487
+00:30:07,872 --> 00:30:09,806
+<i>and she really knew what she was doing.</i>
+
+488
+00:30:09,874 --> 00:30:12,570
+<i>So I started to reharmonize it a little bit.</i>
+
+489
+00:30:12,644 --> 00:30:17,547
+And she sang the song
+like we'd been doing it for years.
+
+490
+00:30:17,615 --> 00:30:19,674
+And when we were finished...
+
+491
+00:30:19,751 --> 00:30:24,017
+she turned away
+from the people at the table...
+
+492
+00:30:24,088 --> 00:30:27,319
+and she said to me,
+"That was beautiful."
+
+493
+00:30:29,394 --> 00:30:31,328
+<i>When there's no rehearsal...</i>
+
+494
+00:30:31,396 --> 00:30:36,265
+<i>when a stranger walks into a room with</i>
+<i>a piece of music that I've never heard...</i>
+
+495
+00:30:36,334 --> 00:30:40,566
+and puts it in front of me
+and I play it and the singer sings it...
+
+496
+00:30:40,638 --> 00:30:43,573
+and we manage to connect...
+
+497
+00:30:43,641 --> 00:30:47,168
+<i>l</i>— <i>I resist the word "art,"</i>
+<i>but it's art.</i>
+
+498
+00:31:08,600 --> 00:31:11,592
+I like this puzzle.
+
+499
+00:31:12,604 --> 00:31:15,402
+Well, it's not one of my funniest
+puzzles in the worid...
+
+500
+00:31:15,473 --> 00:31:19,307
+but I think if it's, um—
+
+501
+00:31:19,377 --> 00:31:21,368
+I think it's fine
+for a Monday or a Tuesday.
+
+502
+00:31:21,446 --> 00:31:25,041
+<i> A great puzzle</i>
+<i>is based on an original idea.</i>
+
+503
+00:31:25,116 --> 00:31:28,108
+It takes that theme.
+It's fresh, it's novel, it's fun.
+
+504
+00:31:28,186 --> 00:31:33,385
+It carries the idea through to its limit,
+whatever that limit is.
+
+505
+00:31:33,458 --> 00:31:36,450
+Just one more note about projecting
+the presidential results...
+
+506
+00:31:36,527 --> 00:31:38,495
+before all the polls are closed.
+
+507
+00:31:38,563 --> 00:31:41,054
+For a while today,
+before any polls closed...
+
+508
+00:31:41,132 --> 00:31:44,761
+we thought the <i>New York Times</i>
+had been particularly flagrant.
+
+509
+00:31:44,836 --> 00:31:47,532
+<i>Take a look at the</i> Times
+<i>crossword puzzle.</i>
+
+510
+00:31:47,605 --> 00:31:50,972
+<i>The clues is the same</i>
+<i>for numbers 39 and 43 across.</i>
+
+511
+00:31:54,412 --> 00:31:59,349
+<i>Thirty-nine across</i>— <i>"Clinton."</i>
+<i>Forty-three across</i>— <i>"Elected."</i>
+
+512
+00:31:59,417 --> 00:32:02,682
+<i>But surely the</i> Times <i>wouldn't</i>
+<i>go out on a limb like that.</i>
+
+513
+00:32:02,754 --> 00:32:06,121
+<i>No. The crossword editor</i>
+<i>is much too diabolical.</i>
+
+514
+00:32:06,190 --> 00:32:10,217
+<i>So rearrange a few words</i>
+<i>and the answer to 39 and 43 across is</i>—
+
+515
+00:32:10,295 --> 00:32:12,855
+<i>"Bob Dole elected."</i>
+
+516
+00:32:13,965 --> 00:32:17,992
+<i>In this, uh, election day '96 puzzle...</i>
+
+517
+00:32:18,069 --> 00:32:20,003
+uh, to make it clever...
+
+518
+00:32:20,071 --> 00:32:22,699
+<i>it was</i> blank <i>"elected."</i>
+
+519
+00:32:22,774 --> 00:32:26,471
+<i>And</i> blank <i>is seven letters, and it could</i>
+<i>be "Clinton"or it could be "Bob Dole."</i>
+
+520
+00:32:26,544 --> 00:32:31,072
+<i>And it turns out it can be both,</i>
+<i>because they figured out seven...</i>
+
+521
+00:32:31,149 --> 00:32:33,140
+<i>down-word answers...</i>
+
+522
+00:32:33,217 --> 00:32:37,916
+<i>where at each point,</i>
+<i>the corresponding letter fit the clue.</i>
+
+523
+00:32:37,989 --> 00:32:40,924
+<i>So in the first one, it could "B"or "C"...</i>
+
+524
+00:32:40,992 --> 00:32:42,926
+<i>and the second could be "O"or "L"...</i>
+
+525
+00:32:42,994 --> 00:32:45,053
+<i>the third one could be "B"or "l"...</i>
+
+526
+00:32:45,129 --> 00:32:48,462
+<i>the fourth one would be "D"or "N."</i>
+
+527
+00:32:48,533 --> 00:32:51,502
+<i>I mean, that's an amazing thing, you know,</i>
+<i>just to be able to think of that.</i>
+
+528
+00:32:51,569 --> 00:32:54,902
+<i>Half the time I do these things just to see</i>
+<i>what people are thinking about.</i>
+
+529
+00:32:54,973 --> 00:32:57,407
+<i>So I worked it and I made a copy</i>
+<i>and sent it to Dole...</i>
+
+530
+00:32:57,475 --> 00:33:01,809
+<i>after calling him and telling him</i>
+<i>we both won after all.</i>
+
+531
+00:33:01,879 --> 00:33:05,178
+<i> Of course, the whole election</i>
+<i>of'96 was a puzzle to me.</i>
+
+532
+00:33:05,249 --> 00:33:08,912
+<i>I got the early edition</i>
+<i>of the</i> Times <i>that day, and I won.</i>
+
+533
+00:33:08,987 --> 00:33:10,978
+So, of course,
+I liked the earlier edition.
+
+534
+00:33:11,055 --> 00:33:12,989
+But then he got the regular edition...
+
+535
+00:33:13,057 --> 00:33:17,255
+and he also got
+four more years in the White House.
+
+536
+00:33:17,328 --> 00:33:20,991
+<i> The Sunday</i> Times <i>crossword</i>
+<i>puzzle had a reputation ofbeing formidable.</i>
+
+537
+00:33:21,065 --> 00:33:24,432
+<i>And at some point in my life,</i>
+<i>we began to get the Sunday</i> Times.
+
+538
+00:33:24,502 --> 00:33:27,300
+<i>And when I was president, I think</i>
+<i>I worked more than ever before.</i>
+
+539
+00:33:27,372 --> 00:33:31,365
+<i>I worked no telling how many hundreds</i>
+<i>and hundreds of crossword puzzles.</i>
+
+540
+00:33:31,442 --> 00:33:33,410
+<i>Well, yeah, I find it very relaxing,</i>
+<i>you know.</i>
+
+541
+00:33:33,478 --> 00:33:35,708
+And l— I really found it relaxing
+in the White House.
+
+542
+00:33:35,780 --> 00:33:41,582
+Because, you know, just for a moment you
+just take your mind of whatever you're doing.
+
+543
+00:33:41,652 --> 00:33:45,486
+I sometimes did them at lunch
+if I was eating alone.
+
+544
+00:33:46,491 --> 00:33:51,326
+<i>Sometimes you have to go at a problem the way</i>
+<i>I go at a complicated crossword puzzle.</i>
+
+545
+00:33:51,396 --> 00:33:54,627
+Sometimes I picked up the Saturday
+<i>New York Times</i> crossword puzzle...
+
+546
+00:33:54,699 --> 00:33:59,466
+and I'll go through way over half the clues
+before I'll know the answer to one.
+
+547
+00:33:59,537 --> 00:34:02,938
+And then you start with what you know
+the answer to and you just build on it.
+
+548
+00:34:03,007 --> 00:34:05,908
+And eventually,
+you can unravel the whole puzzle.
+
+549
+00:34:05,977 --> 00:34:09,674
+And so, I rarely work a puzzle
+of any difficulty...
+
+550
+00:34:09,747 --> 00:34:12,944
+from one across and one down
+all the way to the end...
+
+551
+00:34:13,017 --> 00:34:15,144
+in a totally logical fashion.
+
+552
+00:34:15,219 --> 00:34:17,813
+And I think a lot of difficult,
+complex problems are like that.
+
+553
+00:34:17,889 --> 00:34:21,017
+You have to find some aspect of it
+you understand and build on it...
+
+554
+00:34:21,092 --> 00:34:25,586
+until you can unravel the mystery
+that you're trying to understand.
+
+555
+00:34:26,697 --> 00:34:30,690
+<i>Nearly anybody can learn</i>
+<i>nearly anything they need to know.</i>
+
+556
+00:34:30,768 --> 00:34:34,295
+<i>Nature has something to do with it, but</i>
+<i>I think nurture has something to do with it.</i>
+
+557
+00:34:34,372 --> 00:34:39,071
+<i>I mean, I think nature</i>
+<i>made Einstein's massive brain...</i>
+
+558
+00:34:39,143 --> 00:34:42,271
+<i>and made him what he was.</i>
+
+559
+00:34:42,346 --> 00:34:47,750
+But nurture can make nearly everyone
+seem to be above average intelligence...
+
+560
+00:34:47,819 --> 00:34:50,049
+if they have the right
+sort of nurturing early...
+
+561
+00:34:50,121 --> 00:34:53,784
+as well as the right kind of formal schooling
+and academic challenges...
+
+562
+00:34:53,858 --> 00:34:58,557
+and adults who believe in them
+when they're children.
+
+563
+00:34:58,629 --> 00:35:04,499
+I really believe it's a little bit of both,
+but I think most of us are, um—
+
+564
+00:35:04,569 --> 00:35:07,936
+we're all capable of doing more
+than we think.
+
+565
+00:35:10,374 --> 00:35:13,104
+Thirty-one. "Animal
+on a Florida license plate."
+
+566
+00:35:13,177 --> 00:35:15,668
+That's a manatee.
+I know that.
+
+567
+00:35:16,914 --> 00:35:18,882
+<i>"Member of the E.U." Three letters.</i>
+
+568
+00:35:19,817 --> 00:35:23,184
+<i>A four-letter word for "a Syrian foe."</i>
+
+569
+00:35:23,254 --> 00:35:25,848
+<i>Eight-letter word for "a pizza order."</i>
+
+570
+00:35:27,692 --> 00:35:29,626
+<i>Average time for a Sunday</i>
+New York Times...
+
+571
+00:35:29,694 --> 00:35:32,492
+<i>I'd guess on the six to eight</i>
+<i>minute range.</i>
+
+572
+00:35:32,563 --> 00:35:34,724
+Let's rock. Go.
+
+573
+00:35:36,801 --> 00:35:40,999
+<i>I'm Tyler Hinman here at Rensselaer</i>
+<i>Polytechnic Institute in Troy, New York.</i>
+
+574
+00:35:41,072 --> 00:35:44,701
+<i>And, uh, we got coming up in three weeks</i>
+<i>the American Crossword Puzzle Tournament.</i>
+
+575
+00:35:46,043 --> 00:35:48,068
+<i>I started out in puzzles</i>
+<i>way back in the day.</i>
+
+576
+00:35:48,146 --> 00:35:51,047
+<i>I had a magazine called</i>
+Children's Fun Puzzles, <i>you know...</i>
+
+577
+00:35:51,115 --> 00:35:54,175
+where you had rhymes you had to figure out—
+a fat cat rhyme, something like that.
+
+578
+00:35:54,252 --> 00:35:56,220
+<i>Fill in the blanks of those words.</i>
+
+579
+00:35:56,287 --> 00:35:59,222
+<i>And then in ninth grade, I got handed</i>
+<i>a crossword during a study hall.</i>
+
+580
+00:35:59,290 --> 00:36:01,918
+I did it, failed miserably
+and I was hooked.
+
+581
+00:36:05,129 --> 00:36:09,828
+<i> Artificial intelligence is</i>
+<i>the attempt to engineer machines...</i>
+
+582
+00:36:09,901 --> 00:36:13,166
+- that are as smart as we are.
+<i>- Is there a computer program...</i>
+
+583
+00:36:13,237 --> 00:36:16,138
+that can solve the <i>New York Times</i>
+crossword puzzle?
+
+584
+00:36:16,207 --> 00:36:19,176
+- Not perfectly.
+<i>- What do you mean, not perfectly?</i>
+
+585
+00:36:19,243 --> 00:36:22,337
+Because there's a lot of—
+They try to get in new fresh clues...
+
+586
+00:36:22,413 --> 00:36:24,847
+and they use wordplay, which is obviously
+very difficult for a computer.
+
+587
+00:36:24,916 --> 00:36:26,508
+<i>- So your answer's no.</i>
+- Right.
+
+588
+00:36:26,584 --> 00:36:29,485
+I would suspect that people who are
+really good at crossword puzzles...
+
+589
+00:36:29,554 --> 00:36:32,955
+do these under severe time constraints,
+do them very rapidly.
+
+590
+00:36:33,024 --> 00:36:36,118
+Uh, these are probably
+very, very intelligent people.
+
+591
+00:36:36,194 --> 00:36:38,424
+Yeah, if you reference pop culture
+or something like that...
+
+592
+00:36:38,496 --> 00:36:41,727
+or if you use wordplay or pop culture,
+it's very difficult for a computer to figure out.
+
+593
+00:36:41,799 --> 00:36:44,427
+<i>- It does slow you down as well, right?</i>
+- A little bit, yeah.
+
+594
+00:36:44,502 --> 00:36:48,268
+If I hadn't heard of it, that would probably be,
+"Oh, I don't know that one."
+
+595
+00:36:48,339 --> 00:36:51,103
+- You can solve it perfectly.
+<i>- Most of the time.</i>
+
+596
+00:36:51,175 --> 00:36:55,669
+- So in this particular arena, humans
+are still superior to machines.
+<i>- Indeed.</i>
+
+597
+00:36:55,746 --> 00:36:59,842
+<i>There probably is an element of</i>
+<i>what we would call "fluid intelligence."</i>
+
+598
+00:37:06,857 --> 00:37:08,882
+<i>Why puzzles?</i>
+
+599
+00:37:08,960 --> 00:37:11,588
+I don't know.
+
+600
+00:37:11,662 --> 00:37:16,122
+It's, uh, just the way it worked out.
+It's kind of the way I'm wired.
+
+601
+00:37:17,768 --> 00:37:19,702
+<i>Like with video games</i>
+<i>and that kind of thing...</i>
+
+602
+00:37:19,770 --> 00:37:22,933
+<i>I tend to get a little, uh</i>—
+<i>I guess psychotic is the word.</i>
+
+603
+00:37:23,007 --> 00:37:28,138
+Like if l— if I don't do well in something
+and I feel like I should be doing well...
+
+604
+00:37:28,212 --> 00:37:31,409
+then, you know, l—
+that really gets to me.
+
+605
+00:37:31,482 --> 00:37:35,213
+<i>Anyone who spends their life</i>
+<i>doing something they genuinely enjoy...</i>
+
+606
+00:37:35,286 --> 00:37:37,277
+<i>whether it's for a lot of money or not...</i>
+
+607
+00:37:37,355 --> 00:37:40,722
+<i>especially if they're living hand-to-mouth,</i>
+<i>having trouble making a living...</i>
+
+608
+00:37:40,791 --> 00:37:42,986
+as long as they're doing what they like,
+I have great respect for that.
+
+609
+00:37:43,060 --> 00:37:44,994
+I think everyone should do that.
+
+610
+00:37:45,062 --> 00:37:50,090
+<i> Being rational creatures,</i>
+<i>we-we arejust intrinsically driven...</i>
+
+611
+00:37:50,167 --> 00:37:52,101
+to solve these kinds of problems.
+
+612
+00:37:52,169 --> 00:37:54,831
+And, uh, I would suspect the most
+rational among us...
+
+613
+00:37:54,905 --> 00:37:58,068
+<i>tend to be even drawn to them</i>
+<i>like an addiction.</i>
+
+614
+00:37:58,142 --> 00:38:01,805
+<i> Yeah, I guess it's kind of a gift,</i>
+<i>but it's one I've worked for.</i>
+
+615
+00:38:01,879 --> 00:38:04,177
+<i>I got good predominantly</i>
+<i>because I practiced...</i>
+
+616
+00:38:04,248 --> 00:38:06,580
+<i>and I just</i>— <i>I care about it</i>
+<i>and I had the drive.</i>
+
+617
+00:38:06,651 --> 00:38:08,778
+Done.
+
+618
+00:38:08,853 --> 00:38:11,447
+<i>Hey, Merl, this is Will.</i>
+<i>Are you there?</i>
+
+619
+00:38:11,522 --> 00:38:14,150
+I think this is probably a Tuesday
+rather than a Monday.
+
+620
+00:38:14,225 --> 00:38:16,216
+Uh, but that's perfectly fine.
+
+621
+00:38:16,294 --> 00:38:20,560
+And you know, if you'd, uh, um, want to
+send me a few clues that are slightly harder...
+
+622
+00:38:20,631 --> 00:38:22,861
+so I can run this on a Tuesday,
+that's great.
+
+623
+00:38:22,933 --> 00:38:25,834
+But really, this is just, uh—
+it's just great work.
+
+624
+00:38:25,903 --> 00:38:30,033
+And, uh, so the answer is yes.
+Turn off your plans to do another puzzle.
+
+625
+00:38:30,107 --> 00:38:32,837
+And, uh, I'll talk to you later.
+Bye-bye.
+
+626
+00:38:34,011 --> 00:38:36,502
+Uh, this is a Merl Reagle,
+and he's very, very good.
+
+627
+00:38:36,580 --> 00:38:39,606
+He's one of the very best constructors.
+But this is a waste of his talent.
+
+628
+00:38:39,684 --> 00:38:42,653
+He should be a Friday and Saturday guy
+'cause he's really so clever.
+
+629
+00:38:42,720 --> 00:38:47,214
+Using Reagle on Tuesday is like using
+Barry Bonds in Little League.
+
+630
+00:38:47,291 --> 00:38:52,024
+<i> His on-base percentage</i>
+<i>now is better than.560.</i>
+
+631
+00:38:52,096 --> 00:38:57,432
+<i>Little will argue now</i>
+<i>that he's the game's best player.</i>
+
+632
+00:38:57,501 --> 00:39:00,197
+<i>Three balls, two strikes and one out.</i>
+
+633
+00:39:00,271 --> 00:39:03,399
+<i>Here's the pitch from Mussina.</i>
+<i>Swung on and missed! Strike three!</i>
+
+634
+00:39:03,474 --> 00:39:05,635
+<i>Mussina strikes out Bonds.</i>
+
+635
+00:39:05,710 --> 00:39:10,909
+<i> Pitching is probably more than</i>
+<i>50% mental and the rest being physical.</i>
+
+636
+00:39:10,981 --> 00:39:13,279
+<i>I think I first started</i>
+<i>doing 'em in college.</i>
+
+637
+00:39:13,351 --> 00:39:15,342
+<i>The school paper</i>
+<i>actually had a puzzle in it.</i>
+
+638
+00:39:15,419 --> 00:39:17,853
+<i>And that's how we got started</i>
+<i>working on 'em.</i>
+
+639
+00:39:17,922 --> 00:39:22,586
+And, uh, at the beginning, obviously, uh,
+I knew very little, and it was hard for me to do.
+
+640
+00:39:22,660 --> 00:39:26,221
+<i>And you just have to keep doing 'em.</i>
+<i>And it's been now 15-plus years.</i>
+
+641
+00:39:26,297 --> 00:39:28,765
+<i>And now, uh, I try to do one</i>
+<i>as often as I can.</i>
+
+642
+00:39:28,833 --> 00:39:31,893
+<i>A brilliant performance by Mike Mussina.</i>
+
+643
+00:39:31,969 --> 00:39:35,928
+<i>A complete-game shutout.</i>
+<i>Yankees win 5-0.</i>
+
+644
+00:39:36,006 --> 00:39:39,237
+<i> Well, every time I go out</i>
+<i>on the mound, I want to finish the game.</i>
+
+645
+00:39:39,310 --> 00:39:41,972
+<i>It only happens occasionally,</i>
+<i>and those games are really special.</i>
+
+646
+00:39:42,046 --> 00:39:45,573
+<i>Puzzles can be the same way.</i>
+<i>You can go through it to a certain point...</i>
+
+647
+00:39:45,649 --> 00:39:48,777
+<i>and then you bring in help</i>
+<i>from behind you to help close it out.</i>
+
+648
+00:39:48,853 --> 00:39:51,287
+<i>Those days are fun too.</i>
+<i>Sometimes we'll sit down as a group...</i>
+
+649
+00:39:51,355 --> 00:39:53,687
+and try to plow through it
+as fast as we can.
+
+650
+00:39:53,758 --> 00:39:56,488
+<i>So whoever's doing the writing</i>
+<i>doesn't even get to look at the clues.</i>
+
+651
+00:39:56,560 --> 00:39:59,723
+<i>Theyjust</i>— <i>They're writing so fast because</i>
+<i>three people are leaning over your shoulder...</i>
+
+652
+00:39:59,797 --> 00:40:01,731
+<i>firing out answers at you.</i>
+
+653
+00:40:01,799 --> 00:40:06,031
+<i>The puzzle, whether it's the</i> Times
+<i>or any other puzzle we get to pick up, is...</i>
+
+654
+00:40:06,103 --> 00:40:08,037
+for me, a ball-season thing.
+
+655
+00:40:08,105 --> 00:40:11,666
+And, uh, the <i>Times</i> puzzle
+is the ultimate puzzle.
+
+656
+00:40:11,742 --> 00:40:15,542
+<i>It's the one that everybody who does puzzles</i>
+<i>tries to get to the level that they can do this one.</i>
+
+657
+00:40:15,613 --> 00:40:17,638
+<i>If you can do this puzzle...</i>
+
+658
+00:40:17,715 --> 00:40:20,980
+<i>I can tell you you can probably do</i>
+<i>any puzzle they throw at you.</i>
+
+659
+00:40:23,220 --> 00:40:26,053
+<i>"Former Yankee Grba,"three letters.</i>
+
+660
+00:40:26,123 --> 00:40:31,720
+<i>"Ace," 11 letters.</i>
+<i>"Sole attachment,"five letters.</i>
+
+661
+00:40:38,936 --> 00:40:42,633
+<i>- What's a crossword tournament?</i>
+<i>Most people don't know.</i>
+
+662
+00:40:42,706 --> 00:40:45,869
+<i>It's hard to go back to the gym</i>
+<i>and people say, "What'd you do this week?"</i>
+
+663
+00:40:45,943 --> 00:40:48,104
+And you say, "Well, I won
+a crossword puzzle tournament."
+
+664
+00:40:48,179 --> 00:40:51,615
+And they go, "Oh, yeah. So, uh—"
+
+665
+00:40:51,682 --> 00:40:55,118
+People don't know
+how to respond to that.
+
+666
+00:40:55,186 --> 00:40:59,850
+<i>So I was working near Times Square</i>
+<i>before the "Disneyfication"of it...</i>
+
+667
+00:40:59,924 --> 00:41:03,018
+<i>I was going to work</i>
+<i>and working on puzzles all day.</i>
+
+668
+00:41:03,093 --> 00:41:06,893
+<i>And then I was coming home</i>
+<i>and I was doing puzzle work on the side...</i>
+
+669
+00:41:06,964 --> 00:41:09,159
+<i>to try and earn some extra income.</i>
+
+670
+00:41:09,233 --> 00:41:12,862
+So my life was pretty much nothing but
+puzzles for about a year and a half there.
+
+671
+00:41:12,937 --> 00:41:16,930
+<i>I needed more of a non-puzzle scene</i>
+<i>in my life.</i>
+
+672
+00:41:17,007 --> 00:41:19,498
+<i>And I thought the only way</i>
+<i>I'm gonna force myself to get that...</i>
+
+673
+00:41:19,577 --> 00:41:22,341
+<i>is to move back to where</i>
+<i>there is no puzzle scene.</i>
+
+674
+00:41:22,413 --> 00:41:26,747
+So I moved down here to Fort Lauderdale
+where I already had some friends...
+
+675
+00:41:26,817 --> 00:41:29,012
+and I liked the weather and so forth.
+
+676
+00:41:29,086 --> 00:41:33,489
+And I've been very happy here.
+And I plan to stay here, you know, indefinitely.
+
+677
+00:41:37,795 --> 00:41:40,195
+<i>- Oh.</i>
+- That wasn't pretty.
+
+678
+00:41:41,198 --> 00:41:43,132
+- All right.
+- Good ball.
+
+679
+00:41:43,200 --> 00:41:46,363
+Go get 'em, dear.
+Don't steal my multi-ball.
+
+680
+00:41:46,437 --> 00:41:49,429
+<i>I'm Brian Dominy.</i>
+<i>I grew up in Dublin, Georgia.</i>
+
+681
+00:41:49,507 --> 00:41:52,499
+<i>I met Trip about two years ago.</i>
+
+682
+00:41:52,576 --> 00:41:54,544
+We hit it off pretty quickly
+after we met.
+
+683
+00:41:54,612 --> 00:41:57,240
+And, uh, we started dating immediately.
+
+684
+00:41:57,314 --> 00:42:00,681
+<i>And we moved in together</i>
+<i>towards the end of 2004.</i>
+
+685
+00:42:00,751 --> 00:42:03,083
+<i>You wait. He's gonna win this game.</i>
+
+686
+00:42:05,456 --> 00:42:07,981
+<i>- Or not.</i>
+- Now you jinxed it.
+
+687
+00:42:08,058 --> 00:42:10,424
+Good. You deserved it
+after that last one.
+
+688
+00:42:11,762 --> 00:42:14,322
+- All right, well, that was a rare victory.
+- Well done.
+
+689
+00:42:14,398 --> 00:42:16,491
+- Yes. Well, done, dear.
+- Yes.
+
+690
+00:42:16,567 --> 00:42:19,798
+<i>He's just an incredibly driven</i>
+<i>and focused person.</i>
+
+691
+00:42:19,870 --> 00:42:22,862
+When he sets his mind to something,
+he's relentless.
+
+692
+00:42:22,940 --> 00:42:26,671
+<i>He does all that he can to make sure that</i>
+<i>he wins. I mean, it's all about winning.</i>
+
+693
+00:42:26,744 --> 00:42:30,180
+<i>He really wouldn't be doing this</i>
+<i>ifhe didn't want to win so badly.</i>
+
+694
+00:42:32,249 --> 00:42:34,740
+<i> When I won, I was</i>
+<i>the youngest person to ever win.</i>
+
+695
+00:42:34,818 --> 00:42:36,752
+<i>And, uh, at the moment,</i>
+<i>I still have that record.</i>
+
+696
+00:42:36,820 --> 00:42:39,118
+<i>I was 24 when I won.</i>
+<i>It was great.</i>
+
+697
+00:42:39,189 --> 00:42:41,657
+<i>It was something I'd been hoping to do</i>
+<i>for a number of years...</i>
+
+698
+00:42:41,725 --> 00:42:44,956
+<i>and, uh, it was just great</i>
+<i>to fulfill that.</i>
+
+699
+00:42:47,298 --> 00:42:49,289
+4:50.
+
+700
+00:42:51,168 --> 00:42:53,796
+<i>That took me a bit longer</i>
+<i>than I expected.</i>
+
+701
+00:42:53,871 --> 00:42:57,830
+<i>It was a hard puzzle. Uh, there were</i>
+<i>a lot of very tricky clues in that.</i>
+
+702
+00:42:57,908 --> 00:43:02,504
+<i>And there was at least one entry where,</i>
+<i>after I filled it in...</i>
+
+703
+00:43:02,580 --> 00:43:06,812
+I had to stare at it for several seconds
+to figure out what it meant.
+
+704
+00:43:06,884 --> 00:43:10,752
+Galionegee.
+G- A-L-I-O-N-G-E-E.
+
+705
+00:43:10,821 --> 00:43:13,517
+A man-of-war's man.
+
+706
+00:43:13,591 --> 00:43:16,822
+That is—
+That means nothing to me.
+
+707
+00:43:16,894 --> 00:43:19,385
+<i>You know, if I'm going out with Brian</i>
+<i>somewhere or something...</i>
+
+708
+00:43:19,463 --> 00:43:22,159
+I try to turn the word part
+of my brain off...
+
+709
+00:43:22,232 --> 00:43:25,599
+and just relax and have fun
+and not think about work.
+
+710
+00:43:25,669 --> 00:43:28,638
+But still, I mean, there's a part of me
+where it's always on.
+
+711
+00:43:28,706 --> 00:43:30,731
+I mean...
+
+712
+00:43:30,808 --> 00:43:34,801
+I remember the first time we went by someplace
+that had the word "intercoastal" on it.
+
+713
+00:43:34,878 --> 00:43:38,075
+I pointed out that that was an anagram
+of the word "altercations."
+
+714
+00:43:38,148 --> 00:43:42,175
+Um, it's nice being with somebody
+who can appreciate that.
+
+715
+00:43:42,252 --> 00:43:45,881
+<i> Trip is a little intimidating</i>
+<i>at first because he is so bright.</i>
+
+716
+00:43:45,956 --> 00:43:50,256
+<i>Um, when I first met him, I admit</i>
+<i>I was a little intimidated myself.</i>
+
+717
+00:43:50,327 --> 00:43:53,353
+But the more we got to talking,
+uh, the more I got to know him.
+
+718
+00:43:53,430 --> 00:43:57,594
+He's really just a genuine, uh—
+genuinely sweet guy.
+
+719
+00:43:57,668 --> 00:44:01,126
+I've always been intrigued
+by the letter "Q." but, uh—
+
+720
+00:44:01,205 --> 00:44:04,663
+And some letters are just boring, you know.
+"N" is a boring letter, but—
+
+721
+00:44:04,742 --> 00:44:07,609
+<i>"Q"is, of course, most commonly</i>
+<i>followed by a "U."</i>
+
+722
+00:44:07,678 --> 00:44:11,136
+But there are a lot of exceptions. You have to
+be careful about that when you're solving.
+
+723
+00:44:11,215 --> 00:44:14,616
+Because otherwise, you'll end up
+with a country "quitar" or Q-tips...
+
+724
+00:44:14,685 --> 00:44:16,846
+or something like that.
+
+725
+00:44:16,920 --> 00:44:20,321
+Uh, "on the Q.T."
+Or "I.Q. Test."
+
+726
+00:44:20,391 --> 00:44:23,986
+But, uh, uh, Q's a very good letter.
+
+727
+00:44:25,262 --> 00:44:29,062
+<i> My predecessor</i>
+<i>was 36 years older than me.</i>
+
+728
+00:44:29,133 --> 00:44:34,503
+<i>And anytime you saw any modern culture</i>
+<i>in the old puzzles, it just came as a shock.</i>
+
+729
+00:44:34,571 --> 00:44:36,698
+<i>"What's a TVshow doing in here?"</i>
+
+730
+00:44:36,774 --> 00:44:39,299
+<i>And really,</i>
+<i>puzzles didn't really have that.</i>
+
+731
+00:44:39,376 --> 00:44:43,335
+My feeling was crosswords should have
+everything that's being covered in the <i>Times.</i>
+
+732
+00:44:43,414 --> 00:44:46,611
+And, of course, that's gonna be
+classical music and art and history...
+
+733
+00:44:46,684 --> 00:44:48,743
+<i>and old subjects like that.</i>
+
+734
+00:44:48,819 --> 00:44:54,280
+<i>But it includes sports, popular music,</i>
+<i>movies, TV, cartoons, everything.</i>
+
+735
+00:44:54,358 --> 00:44:56,349
+Why, there it is.
+
+736
+00:44:56,427 --> 00:44:59,988
+<i>One of the things you have to do is get rid</i>
+<i>of the rest of the paper when you do this...</i>
+
+737
+00:45:00,064 --> 00:45:03,363
+'cause by then, it's not important
+in your life any longer.
+
+738
+00:45:03,434 --> 00:45:08,770
+<i> # Can you find the hidden "H"</i>
+<i>where it's hiding #</i>
+
+739
+00:45:08,839 --> 00:45:12,104
+<i>#Is it on the ground</i>
+<i>or in the sky #</i>
+
+740
+00:45:12,176 --> 00:45:14,667
+You always fold it over.
+You have to fold it over.
+
+741
+00:45:14,745 --> 00:45:19,512
+I got to tell you. I mean, I was gonna do it in—
+in pencil, but it's Tuesday.
+
+742
+00:45:19,583 --> 00:45:22,484
+Yeah, that's right.
+What do you think of that?
+
+743
+00:45:22,553 --> 00:45:26,080
+Sometimes we make our band members
+use pencils, I've noticed.
+
+744
+00:45:26,156 --> 00:45:29,284
+- Why do we do that?
+- 'Cause we don't trust them.
+
+745
+00:45:29,359 --> 00:45:31,759
+Very bravely, I'm a pen guy, actually.
+
+746
+00:45:31,829 --> 00:45:36,129
+Uh, and, uh, it comes back
+to haunt you once in a while.
+
+747
+00:45:39,670 --> 00:45:41,604
+- All right.
+- Here we go.
+
+748
+00:45:41,672 --> 00:45:45,768
+You know what, I'm so confident,
+I'm gonna do it in glue stick.
+
+749
+00:45:45,843 --> 00:45:47,811
+<i>"I.C.B.M."is the first answer.</i>
+
+750
+00:45:47,878 --> 00:45:51,780
+And his clue is "warhead weapon briefly."
+Seems all right.
+
+751
+00:45:51,849 --> 00:45:55,876
+"Warhead weapon briefly"? It's gotta be
+"I.C.B.M." Come on. Everybody goes for that.
+
+752
+00:45:55,953 --> 00:45:58,945
+"Warhead weapon."
+
+753
+00:45:59,022 --> 00:46:02,788
+It's gotta be an I.C.B.M. Or a M.R.
+Gotta be "I.C.B.M."
+
+754
+00:46:02,860 --> 00:46:07,422
+This is probably "Norma Rae."
+R- A-E.
+
+755
+00:46:07,498 --> 00:46:10,160
+"She helped Theseus
+escape the labyrinth."
+
+756
+00:46:10,234 --> 00:46:15,035
+Don't get— Don't get cute with me, Will,
+'cause I'll come over there.
+
+757
+00:46:15,105 --> 00:46:19,974
+"East northeast is 737 heading, perhaps."
+And he's abbreviated "perhaps."
+
+758
+00:46:20,043 --> 00:46:22,034
+East north—
+
+759
+00:46:23,781 --> 00:46:26,147
+- East.
+- East northeast.
+
+760
+00:46:26,216 --> 00:46:28,207
+This is the standard crossword position.
+
+761
+00:46:28,285 --> 00:46:30,753
+<i>"Never On Sunday</i> star."
+"Melina Mercouri."
+
+762
+00:46:30,821 --> 00:46:33,187
+You have to be old like I am
+to remember that movie.
+
+763
+00:46:33,257 --> 00:46:36,055
+So you lean back, you put it
+on your knee and fill it in.
+
+764
+00:46:36,126 --> 00:46:40,290
+"Main arteries"? How can that
+not be "aortas"? How can it not?
+
+765
+00:46:40,364 --> 00:46:43,128
+No, it's not?
+"F" it is.
+
+766
+00:46:43,200 --> 00:46:45,134
+Come on! Bring it!
+
+767
+00:46:45,202 --> 00:46:48,501
+"Cross swords." "To duel with," yes.
+
+768
+00:46:48,572 --> 00:46:52,633
+- "Duel with."
+- "Cross"—
+
+769
+00:46:52,709 --> 00:46:54,734
+- "Cross swords."
+- Yeah.
+
+770
+00:46:54,812 --> 00:46:59,545
+And—wait.
+"Duel with" is "cross swords"...
+
+771
+00:46:59,616 --> 00:47:02,949
+which is also "crosswords."
+
+772
+00:47:03,020 --> 00:47:07,218
+So they're playing with us here.
+Um, that's wonderful.
+
+773
+00:47:07,291 --> 00:47:10,852
+<i>"Duel"? "Cross swords."</i>
+<i>See, what you've done here, Will...</i>
+
+774
+00:47:10,928 --> 00:47:13,658
+if I may, the triple "S."
+
+775
+00:47:13,730 --> 00:47:15,925
+You think that's cute?
+That's not cute.
+
+776
+00:47:15,999 --> 00:47:17,990
+I can take you
+with your triple consonants.
+
+777
+00:47:18,068 --> 00:47:22,402
+<i> It's wordplay. It's not too hard,</i>
+<i>but it's very clever.</i>
+
+778
+00:47:22,472 --> 00:47:28,035
+And there's the wordplay or the word
+"word" in all the big clues, like "Playa del Rey."
+
+779
+00:47:28,111 --> 00:47:30,045
+That's what's going on here.
+
+780
+00:47:30,113 --> 00:47:31,978
+Now wait a minute.
+What the—
+
+781
+00:47:32,049 --> 00:47:37,715
+<i># Can you find them</i>
+<i>Here they are ##</i>
+
+782
+00:47:44,895 --> 00:47:48,331
+<i> I get there, like, around</i>
+<i>3:00 or 4:00 on a Friday.</i>
+
+783
+00:47:48,398 --> 00:47:52,835
+<i>You check in. It's usually snowing</i>
+<i>out or everybody's freezing</i>
+<i>when they come in the front door.</i>
+
+784
+00:47:52,903 --> 00:47:55,064
+<i>It's like you haven't</i>
+<i>seen anybody for a year.</i>
+
+785
+00:47:55,138 --> 00:47:57,072
+Everybody's doing,
+"Boy, it's great to see you."
+
+786
+00:47:57,140 --> 00:47:59,267
+<i>It's not just the warmth of the hotel.</i>
+
+787
+00:47:59,343 --> 00:48:02,437
+<i>It's the warmth of all these people</i>
+<i>coming together, you know...</i>
+
+788
+00:48:02,512 --> 00:48:08,382
+<i>gonna be sharing in this little</i>
+<i>orgy of puzzling for 48 solid hours.</i>
+
+789
+00:48:08,452 --> 00:48:13,981
+<i>After 28 years, the Stamford Marriott</i>
+<i>is, uh, a very special place.</i>
+
+790
+00:48:14,057 --> 00:48:18,391
+<i>There are so many wonderful memories</i>
+<i>tied up in this hotel...</i>
+
+791
+00:48:18,462 --> 00:48:20,987
+<i>that it's a great place to walk into.</i>
+
+792
+00:48:21,064 --> 00:48:25,330
+Without him, we'd just be at home
+doing puzzles like everybody else.
+
+793
+00:48:25,402 --> 00:48:27,427
+<i> It's a family reunion.</i>
+
+794
+00:48:27,504 --> 00:48:31,804
+<i>It's the screwed-up crossword family</i>
+<i>getting together.</i>
+
+795
+00:48:31,875 --> 00:48:34,673
+<i> Crossword puzzle solving</i>
+<i>is such a solitary pursuit...</i>
+
+796
+00:48:34,745 --> 00:48:40,012
+<i>that when you're in a room with other</i>
+<i>people who love it the same way you do...</i>
+
+797
+00:48:40,083 --> 00:48:42,381
+it's like finding a lost tribe.
+
+798
+00:48:42,452 --> 00:48:46,411
+<i> You see people that you don't</i>
+<i>see often, and it's a nice camaraderie.</i>
+
+799
+00:48:46,490 --> 00:48:49,015
+<i>I think it's friendly competition.</i>
+
+800
+00:48:49,092 --> 00:48:52,084
+Although if someone's plane couldn't
+get here because of the weather...
+
+801
+00:48:52,162 --> 00:48:55,461
+I would not be that upset, you know.
+
+802
+00:48:57,668 --> 00:49:00,193
+<i># The pay or play extender #</i>
+
+803
+00:49:00,270 --> 00:49:02,534
+# Is ole, not olé #
+
+804
+00:49:02,606 --> 00:49:05,006
+#And it's ante that you want
+and not anti #
+
+805
+00:49:05,075 --> 00:49:07,600
+#When the clue is pay to play #
+
+806
+00:49:07,678 --> 00:49:10,010
+She's new!
+We got a new one here.
+
+807
+00:49:10,080 --> 00:49:13,607
+- So I'm sort of new.
+- Would you like to have dinner with us?
+
+808
+00:49:14,685 --> 00:49:18,280
+# But if you don't come across
+I'm gonna be down #
+
+809
+00:49:18,355 --> 00:49:21,950
+<i> Trip is in good spirits.</i>
+<i>He's having a good time so far.</i>
+
+810
+00:49:22,025 --> 00:49:25,188
+<i>And, uh, everybody's thinking</i>
+<i>he has a good chance of winning.</i>
+
+811
+00:49:25,262 --> 00:49:28,026
+Uh, there are a few
+unofficial side bets going on.
+
+812
+00:49:28,098 --> 00:49:33,832
+#Your love to me is a mystery
+And the clues are all around #
+
+813
+00:49:35,038 --> 00:49:37,632
+# If you don't come across
+I'm gonna be down #
+
+814
+00:49:37,708 --> 00:49:39,642
+<i>I think I have a shot to win.</i>
+
+815
+00:49:39,710 --> 00:49:43,043
+A lot of other people have a shot to win too.
+So we'll see how it works out.
+
+816
+00:49:43,113 --> 00:49:46,776
+<i> It's the sixth time I've done this.</i>
+<i>And I'm hoping I can still make the top 10.</i>
+
+817
+00:49:46,850 --> 00:49:50,752
+And I've placed anywhere from second
+through 10th in my last five appearances.
+
+818
+00:49:50,821 --> 00:49:54,257
+And I'm just trying to see if I can
+still, uh, get up that high again.
+
+819
+00:49:54,324 --> 00:49:57,589
+I get very nervous, and I think,
+"Why do I go through this?"
+
+820
+00:49:57,661 --> 00:50:02,189
+I have nothing left to prove.
+You know, it's all downhill from here.
+
+821
+00:50:02,265 --> 00:50:05,826
+But, you know, I'm here.
+
+822
+00:50:05,902 --> 00:50:10,805
+#You don't come across
+I'm gonna be down ##
+
+823
+00:50:10,874 --> 00:50:13,104
+<i>All the people who have ever felt...</i>
+
+824
+00:50:13,176 --> 00:50:16,509
+<i>"I wonder how I'd do in a contest,"</i>
+<i>can find out.</i>
+
+825
+00:50:16,580 --> 00:50:19,572
+This is that idea on a huge scale.
+
+826
+00:50:21,318 --> 00:50:24,515
+<i> Well, welcome to the 28th</i>
+<i>American Crossword Puzzle Tournament.</i>
+
+827
+00:50:24,588 --> 00:50:27,557
+I'm Will Shortz.
+
+828
+00:50:29,359 --> 00:50:33,352
+<i>Here are the rules of the competition.</i>
+<i>There are seven puzzles that everyone does.</i>
+
+829
+00:50:33,430 --> 00:50:36,866
+<i>There's no elimination in this tournament.</i>
+<i>Everyone does all seven puzzles.</i>
+
+830
+00:50:36,933 --> 00:50:39,424
+<i>We'll start the clock.</i>
+<i>That will be our official time.</i>
+
+831
+00:50:39,503 --> 00:50:42,097
+<i>If you finish a puzzle early,</i>
+<i>raise your hand...</i>
+
+832
+00:50:42,172 --> 00:50:44,697
+<i>a referee will come by,</i>
+<i>pick up your paper.</i>
+
+833
+00:50:44,775 --> 00:50:48,677
+<i>You get, uh, 10 points for every answer</i>
+<i>that you enter correctly.</i>
+
+834
+00:50:48,745 --> 00:50:53,114
+<i>Twenty-five bonus points for each full minute</i>
+<i>by which you beat the time limit.</i>
+
+835
+00:50:53,183 --> 00:50:57,119
+<i>If either you leave a letter out</i>
+<i>or you make a mistake...</i>
+
+836
+00:50:57,187 --> 00:50:59,553
+<i>that will cost you 195 points.</i>
+
+837
+00:50:59,623 --> 00:51:03,491
+<i>The champions generally spend</i>
+<i>a little extra time after they finish a puzzle...</i>
+
+838
+00:51:03,560 --> 00:51:06,723
+<i>Iooking it over, making sure</i>
+<i>that every square is filled...</i>
+
+839
+00:51:06,797 --> 00:51:10,096
+<i>and that nothing silly</i>
+<i>has been put in a square.</i>
+
+840
+00:51:10,167 --> 00:51:11,828
+Everyone ready?
+
+841
+00:51:26,616 --> 00:51:28,914
+<i>#Saturday morning #</i>
+
+842
+00:51:29,953 --> 00:51:32,922
+<i># Who's gonna play with me #</i>
+
+843
+00:51:33,990 --> 00:51:36,857
+<i># 6:00 in the morning, baby #</i>
+
+844
+00:51:37,928 --> 00:51:41,329
+<i>#I got a long, long day ahead of me #</i>
+
+845
+00:51:41,398 --> 00:51:45,027
+<i>On your mark, get set, go!</i>
+
+846
+00:51:48,638 --> 00:51:52,301
+<i># The parents are sleeping soundly #</i>
+
+847
+00:51:52,375 --> 00:51:56,072
+<i># The neighbors are dead as wood #</i>
+
+848
+00:51:56,146 --> 00:52:00,105
+<i>#I'm getting up and coming over #</i>
+
+849
+00:52:00,183 --> 00:52:03,209
+<i># We gotta rock the neighborhood #</i>
+
+850
+00:52:03,286 --> 00:52:06,813
+<i>#Nothing's ever gonna</i>
+<i>happen 'round here #</i>
+
+851
+00:52:06,890 --> 00:52:10,724
+<i>#If we don't make it happen #</i>
+
+852
+00:52:10,794 --> 00:52:14,127
+<i>#Sleep away the day if you want to #</i>
+
+853
+00:52:14,197 --> 00:52:18,861
+<i>#But I got something</i>
+<i>that I gotta do ##</i>
+
+854
+00:52:27,043 --> 00:52:29,978
+<i> I'm actually not keeping</i>
+<i>track of anything this year.</i>
+
+855
+00:52:30,046 --> 00:52:32,514
+I forgot to write down my time
+on the first puzzle.
+
+856
+00:52:32,582 --> 00:52:35,142
+And I say, "Okay, that's a sign."
+
+857
+00:52:35,218 --> 00:52:39,882
+Hopefully, I didn't screw that one up,
+'cause that would—Yeah.
+
+858
+00:52:39,956 --> 00:52:42,584
+If I did screw up, I don't want to
+find out about it till much later...
+
+859
+00:52:42,659 --> 00:52:44,991
+so I'm just not totally deflated
+for the rest of the tournament.
+
+860
+00:52:45,061 --> 00:52:48,428
+<i> I felt good on that puzzle. I think</i>
+<i>I might have been the first one to finish.</i>
+
+861
+00:52:48,498 --> 00:52:50,432
+<i>I finished right before the minute.</i>
+
+862
+00:52:50,500 --> 00:52:54,300
+So if you finish at 2:53 and you take
+10 seconds, you're gonna lose a whole minute.
+
+863
+00:52:54,371 --> 00:52:57,135
+<i>So I just raised my hand and turned it in</i>
+<i>and didn't check.</i>
+
+864
+00:52:57,207 --> 00:53:01,371
+<i>So if I made a stupid mistake on that, then</i>
+<i>it's all over. So hopefully, I didn't, but</i>—
+
+865
+00:53:01,444 --> 00:53:05,005
+I had to erase too many times. I mean,
+obviously, one across, I think everybody—
+
+866
+00:53:05,081 --> 00:53:07,242
+- Which one was that one?
+- "Part of Q. E.D."
+
+867
+00:53:07,317 --> 00:53:09,251
+Oh, right.
+
+868
+00:53:09,319 --> 00:53:11,253
+<i>I just missed the minute.</i>
+
+869
+00:53:11,321 --> 00:53:14,552
+But that's, you know, ohh!
+
+870
+00:53:16,359 --> 00:53:19,522
+<i>- Thirty-one, right?</i>
+<i>- 1005.</i>
+<i>- 645.</i>
+
+871
+00:53:19,596 --> 00:53:21,496
+- 840.
+- 2110.
+
+872
+00:53:21,565 --> 00:53:23,624
+<i>We're entering for each puzzle...</i>
+
+873
+00:53:23,700 --> 00:53:26,294
+the number of words and letters
+the contestant got wrong...
+
+874
+00:53:26,369 --> 00:53:30,430
+and the number of minutes
+ahead of the deadline he or she finished.
+
+875
+00:53:30,507 --> 00:53:32,737
+<i>The faster you are, uh,</i>
+<i>the higher your score is.</i>
+
+876
+00:53:32,809 --> 00:53:35,505
+<i>But if you make errors,</i>
+<i>that detracts from your score.</i>
+
+877
+00:53:35,579 --> 00:53:37,570
+These are done.
+Kindling? Who needs kindling?
+
+878
+00:53:37,647 --> 00:53:40,275
+<i>Yes, absolutely.</i>
+
+879
+00:53:43,019 --> 00:53:46,921
+<i>Oh, here's a question. If you finished</i>
+<i>that one at two seconds</i>—
+
+880
+00:53:46,990 --> 00:53:48,924
+- Shoot it up.
+- You would—
+
+881
+00:53:48,992 --> 00:53:50,926
+- You gotta. You gotta.
+- Just go for it.
+
+882
+00:53:50,994 --> 00:53:54,725
+Before I look at the clock, I check for blanks.
+Not for errors, but for blanks.
+
+883
+00:53:54,798 --> 00:53:56,629
+'Cause those are obvious.
+You can see those right away.
+
+884
+00:53:56,700 --> 00:54:00,067
+<i>On your mark, get set, go!</i>
+
+885
+00:54:30,433 --> 00:54:35,268
+<i>This is a 25-minute puzzle</i>
+<i>by David Kahn.</i>
+
+886
+00:54:35,338 --> 00:54:38,865
+<i>But this is the puzzle that's</i>
+<i>gonna rip your heart out.</i>
+
+887
+00:54:40,510 --> 00:54:45,004
+<i>Everyone ready?</i>
+<i>On your mark, get set, go!</i>
+
+888
+00:55:48,211 --> 00:55:50,145
+<i>Oh, a piece of cake.</i>
+
+889
+00:55:50,213 --> 00:55:52,147
+- Everybody loved it, yeah.
+- Oh, yeah.
+
+890
+00:55:52,215 --> 00:55:54,547
+No hard words.
+
+891
+00:55:54,617 --> 00:55:57,108
+I got about two words into it and boom,
+my head exploded.
+
+892
+00:55:57,187 --> 00:55:59,018
+So it's all over for me.
+
+893
+00:55:59,089 --> 00:56:02,320
+<i>Uh, I lost time on that one.</i>
+<i>I got really stuck on one side.</i>
+
+894
+00:56:02,392 --> 00:56:05,657
+So I was three minutes behind
+Trip and Tyler.
+
+895
+00:56:05,729 --> 00:56:10,291
+<i>So right now I'd say I'm gonna have to</i>
+<i>do some catch up on 'em to make the finals.</i>
+
+896
+00:56:10,367 --> 00:56:14,531
+Yeah, it was real hard. It was, uh—
+I mean the theme wasn't that bad. It was—
+
+897
+00:56:14,604 --> 00:56:18,506
+<i>It was actually pretty gettable from the title.</i>
+<i>It was three-letter abbreviations...</i>
+
+898
+00:56:18,575 --> 00:56:21,009
+<i>for the days added into normal phrases.</i>
+
+899
+00:56:21,077 --> 00:56:24,274
+<i>So, like, "electronic lock"</i>
+<i>became "electronic wedlock"...</i>
+
+900
+00:56:24,347 --> 00:56:27,282
+<i>or "set pieces"became "sunset pieces."</i>
+
+901
+00:56:27,350 --> 00:56:30,342
+<i>But the</i>— <i>the one for "Tuesday"</i>—
+
+902
+00:56:30,420 --> 00:56:33,787
+<i>They changed "batboy"</i>
+<i>into "battue boy"</i>— <i>B- A-T-T-U-E.</i>
+
+903
+00:56:33,857 --> 00:56:36,257
+<i>I've never heard of that word in my life.</i>
+<i>So I was</i>—
+
+904
+00:56:36,326 --> 00:56:38,920
+When I left, I was convinced
+I had an error in the puzzle...
+
+905
+00:56:38,995 --> 00:56:41,293
+'cause there's something
+that wasn't clickin', but, um...
+
+906
+00:56:41,364 --> 00:56:43,958
+apparently there's no errors,
+but it was still— still slow.
+
+907
+00:56:45,402 --> 00:56:47,393
+<i>Oh, that one was a toughie.</i>
+
+908
+00:56:47,470 --> 00:56:51,304
+Only had three minutes left.
+That's unusual for me.
+
+909
+00:56:51,374 --> 00:56:53,308
+But I just hope it was accurate.
+
+910
+00:56:53,376 --> 00:56:58,507
+Hmm, I think I'm okay,
+you know, but... I'll find out later on.
+
+911
+00:57:02,786 --> 00:57:05,687
+<i> It's always possible</i>
+<i>I made careless mistakes I didn't know about.</i>
+
+912
+00:57:05,755 --> 00:57:07,689
+<i>Uh</i>—<i>So I don't know.</i>
+
+913
+00:57:07,757 --> 00:57:12,694
+<i>Uh, we'll see tomorrow morning</i>
+<i>when the interim scores are posted.</i>
+
+914
+00:57:12,762 --> 00:57:15,253
+Um, you know—
+I don't think I'm 90th...
+
+915
+00:57:15,331 --> 00:57:17,697
+but, you know, you never know.
+
+916
+00:57:17,767 --> 00:57:21,498
+<i>Tomorrow means everything.</i>
+<i> I am going to go in...</i>
+
+917
+00:57:21,571 --> 00:57:26,531
+uh, maybe play a game,
+await a phone call...
+
+918
+00:57:26,609 --> 00:57:31,171
+and, uh— I don't know— try not to think about
+how little sleep I'm probably gonna get.
+
+919
+00:57:31,247 --> 00:57:33,977
+<i>Our next performer is our</i>—<i>a double act:</i>
+
+920
+00:57:34,050 --> 00:57:36,883
+The Hill-Scallies.
+
+921
+00:57:36,953 --> 00:57:39,683
+<i>Thanks. Oh, I just want one.</i>
+
+922
+00:57:42,492 --> 00:57:46,155
+Look, we're a little <i>verklempt.</i>
+Talk amongst yourselves.
+
+923
+00:57:46,229 --> 00:57:50,529
+<i>Interestingly that I see them every year,</i>
+<i>and they look the same.</i>
+
+924
+00:57:50,600 --> 00:57:53,228
+I mean, you know them.
+They look the same from year to year...
+
+925
+00:57:53,303 --> 00:57:57,740
+and then I suddenly realize, I've known
+these people for 27 years, some of them.
+
+926
+00:57:57,807 --> 00:58:03,575
+They've changed. So have I,
+but you don't see the change from year to year.
+
+927
+00:58:04,647 --> 00:58:10,586
+<i>This is hard to say.</i>
+<i>In 1981 I lost my husband...</i>
+
+928
+00:58:10,653 --> 00:58:14,419
+and it was on Sunday afternoon here,
+right after the competition.
+
+929
+00:58:14,491 --> 00:58:16,925
+He had a heart attack.
+
+930
+00:58:16,993 --> 00:58:20,019
+<i>Some people said, "Do you know,</i>
+<i>isn't it hard to come back here?"</i>
+
+931
+00:58:20,096 --> 00:58:24,829
+<i>But he wanted me to do it</i>
+<i>and was very proud of the fact that I have won.</i>
+
+932
+00:58:24,901 --> 00:58:28,234
+<i>And in his memory,</i>
+<i>I would not stop coming back.</i>
+
+933
+00:58:28,304 --> 00:58:32,206
+<i>But it's a little bit hard for me to walk out</i>
+<i>the front of the</i>— <i>front door there.</i>
+
+934
+00:58:32,275 --> 00:58:34,505
+I like to go out the other way...
+
+935
+00:58:34,577 --> 00:58:40,106
+um, and I can still picture him
+coming through the door.
+
+936
+00:58:40,183 --> 00:58:45,211
+<i>There were people who we've lost</i>
+<i>who aren't back, and</i>—
+
+937
+00:58:45,288 --> 00:58:48,883
+l—The place is haunted.
+I can still see faces of—
+
+938
+00:58:48,958 --> 00:58:52,485
+I can still see people here who—
+who are no longer here.
+
+939
+00:58:52,562 --> 00:58:56,828
+Not an unpleasant kind of haunting
+for that— in that respect.
+
+940
+00:58:57,901 --> 00:59:02,497
+<i>#Home is where I want to be #</i>
+
+941
+00:59:02,572 --> 00:59:07,942
+<i>- #Pick me up and turn me round #</i>
+
+942
+00:59:08,011 --> 00:59:13,950
+<i>- #I come home, I'm born with a weak heart #</i>
+
+943
+00:59:14,017 --> 00:59:18,078
+<i>#I guess I must be having fun #</i>
+
+944
+00:59:19,155 --> 00:59:23,888
+<i>#But the less we say about it</i>
+<i>the better #</i>
+
+945
+00:59:23,960 --> 00:59:28,624
+<i>#Let's make it up as we go along #</i>
+
+946
+00:59:30,300 --> 00:59:35,169
+<i>#Feet on the ground</i>
+<i>Head in the clouds #</i>
+
+947
+00:59:35,238 --> 00:59:39,698
+<i>#I'm okay</i>
+<i>I know nothing's wrong #</i>
+
+948
+00:59:41,945 --> 00:59:44,607
+<i>#Hi-ho #</i>
+
+949
+00:59:44,681 --> 00:59:47,741
+<i># Got plenty of time #</i>
+
+950
+00:59:50,153 --> 00:59:52,417
+<i>#Mmm, here #</i>
+
+951
+00:59:52,488 --> 00:59:55,116
+<i>#Hi-ho #</i>
+
+952
+00:59:55,191 --> 01:00:00,857
+<i># You got light in your eyes #</i>
+
+953
+01:00:02,031 --> 01:00:07,970
+<i>#And you're standing here beside me #</i>
+
+954
+01:00:08,037 --> 01:00:12,474
+<i>#I love the passing of time #</i>
+
+955
+01:00:13,543 --> 01:00:18,913
+<i>#Never for money</i>
+<i>Always for love #</i>
+
+956
+01:00:18,982 --> 01:00:22,975
+<i># Cover up and say good night #</i>
+
+957
+01:00:23,052 --> 01:00:27,318
+<i>#Say good night #</i>
+
+958
+01:00:29,525 --> 01:00:34,929
+<i>#Home is where I want to be #</i>
+
+959
+01:00:34,998 --> 01:00:38,764
+<i>#But I guess I'm already there #</i>
+
+960
+01:00:40,069 --> 01:00:45,905
+<i>#I come home</i>
+<i>You lifted up your wings #</i>
+
+961
+01:00:45,975 --> 01:00:49,741
+<i>#I guess this must be the place ##</i>
+
+962
+01:00:59,555 --> 01:01:02,183
+- I have to make up three minutes.
+- And I have four.
+
+963
+01:01:02,258 --> 01:01:04,556
+I'm just gonna verify the report I just heard.
+
+964
+01:01:04,627 --> 01:01:09,121
+I beat him? I'm in on— on four?
+I didn't know that.
+
+965
+01:01:09,198 --> 01:01:11,359
+Oh, my gosh, a three-way tie.
+
+966
+01:01:11,434 --> 01:01:14,699
+<i> It's a three-way tie for first.</i>
+<i>That's gonna be epic.</i>
+
+967
+01:01:17,140 --> 01:01:19,540
+<i>What's your strategy now for</i>—
+
+968
+01:01:19,609 --> 01:01:22,009
+Um, well, I'm going to read every clue.
+
+969
+01:01:28,985 --> 01:01:31,249
+<i>- This is bizarre.</i>
+<i>- What happened?</i>
+
+970
+01:01:31,320 --> 01:01:35,950
+There's a three-way tie for first place right now.
+I thought I was a minute behind Tyler.
+
+971
+01:01:36,025 --> 01:01:39,188
+Apparently, I got him by a minute on Puzzle 4,
+which I didn't know.
+
+972
+01:01:39,262 --> 01:01:41,196
+So, because of the tie-break rules right now...
+
+973
+01:01:41,264 --> 01:01:44,700
+I'm in first, Tyler's in second,
+and PatrickJordan's in third...
+
+974
+01:01:44,767 --> 01:01:48,931
+<i>but we all have the exact same score, and</i>
+<i>we're all three minutes ahead of everybody else.</i>
+
+975
+01:01:49,005 --> 01:01:54,033
+I'm essentially tied for fourth with, uh, Kiran,
+uh, but I'm three minutes behind.
+
+976
+01:01:54,110 --> 01:01:56,738
+There's three people
+that are tied for first place.
+
+977
+01:01:56,813 --> 01:02:00,408
+All I can do is, uh, go as hard as I can
+to the last puzzle and— and...
+
+978
+01:02:00,483 --> 01:02:05,147
+you know, if somebody opens the door, great,
+but I don't think it's gonna happen.
+
+979
+01:02:09,025 --> 01:02:11,357
+<i> He is one of the people</i>
+<i>who's three minutes behind.</i>
+
+980
+01:02:11,427 --> 01:02:13,759
+<i>So that means,</i>
+<i>because of the tie-break rules...</i>
+
+981
+01:02:13,830 --> 01:02:17,027
+<i>he would have to beat one of us</i>
+<i>by three minutes on this puzzle.</i>
+
+982
+01:02:17,100 --> 01:02:20,228
+Al's fast, but three minutes
+is a tough order for anybody.
+
+983
+01:02:20,303 --> 01:02:23,636
+So, as I say, I think really at this point
+it comes down to...
+
+984
+01:02:23,706 --> 01:02:27,733
+<i>the three of us just playing defensively here,</i>
+<i>taking an extra minute and doing what it takes...</i>
+
+985
+01:02:27,810 --> 01:02:30,973
+<i>andjust, uh, hoping we don't make an error.</i>
+
+986
+01:02:35,184 --> 01:02:37,175
+Well, we think Tyler's
+been shorted by a minute.
+
+987
+01:02:37,253 --> 01:02:39,244
+- On four.
+<i>- We'll check it out.</i>
+
+988
+01:02:39,322 --> 01:02:42,223
+We were lookin' at the scores this morning,
+and Trip and I and Tyler...
+
+989
+01:02:42,291 --> 01:02:44,282
+<i>and everyone had all been pretty much</i>
+<i>talking last night...</i>
+
+990
+01:02:44,360 --> 01:02:46,624
+<i>and we're all pretty sure</i>
+<i>Tyler was a minute ahead...</i>
+
+991
+01:02:46,696 --> 01:02:50,427
+<i>and then Trip— and, uh, Trip was behind</i>
+<i>and</i>—<i>by one minute and second.</i>
+
+992
+01:02:50,500 --> 01:02:53,298
+And then we knew Patrick was probably up there.
+We didn't know exactly where.
+
+993
+01:02:53,369 --> 01:02:56,167
+So then lookin' at the scores this morning,
+all three were showing as tied.
+
+994
+01:02:56,239 --> 01:02:58,434
+<i>And, uh, I wasn't really thinking about it...</i>
+
+995
+01:02:58,508 --> 01:03:02,103
+<i>'cause I was a little preoccupied with, uh,</i>
+<i>where I actually was in the standings.</i>
+
+996
+01:03:02,178 --> 01:03:04,112
+But, um, I realized this surprised me too...
+
+997
+01:03:04,180 --> 01:03:06,774
+'cause I'm pretty sure I finished that
+between the third and fourth minute.
+
+998
+01:03:07,850 --> 01:03:11,786
+Doug? Doug?
+I'm gonna talk to Doug.
+
+999
+01:03:11,854 --> 01:03:13,788
+Hopefully it's a moot point.
+
+1000
+01:03:13,856 --> 01:03:17,417
+Yeah, but, you know, it's right to get—
+it's right to get this fixed.
+
+1001
+01:03:17,493 --> 01:03:20,223
+Okay, so give me all the information I need
+to do this investigation.
+
+1002
+01:03:20,296 --> 01:03:22,491
+He's standing right there. Ask him.
+You got his contestant number.
+
+1003
+01:03:22,565 --> 01:03:25,125
+He should get one credit
+for one more minute on Puzzle 4.
+
+1004
+01:03:26,202 --> 01:03:29,638
+<i> So it's 25 points.</i>
+<i>If I get into the final, it isn't a big deal...</i>
+
+1005
+01:03:29,705 --> 01:03:32,572
+<i>but if one of the two guys</i>
+<i>in fourth and fifth, uh, beats me...</i>
+
+1006
+01:03:32,642 --> 01:03:34,974
+<i>by three minutes,</i>
+<i>then suddenly it becomes a very big deal.</i>
+
+1007
+01:03:35,044 --> 01:03:39,413
+For those of us that keep close track of it,
+I mean, we know very well who has what times...
+
+1008
+01:03:39,482 --> 01:03:41,416
+and we just figured, it ought to be right.
+
+1009
+01:03:41,484 --> 01:03:45,181
+So, um, I know it's important to Tyler,
+so I thought that, um...
+
+1010
+01:03:45,254 --> 01:03:47,245
+<i>it just seemed like the right thing to do.</i>
+
+1011
+01:04:03,606 --> 01:04:07,940
+All right. I believe we're ready for Puzzle 7.
+Judges?
+
+1012
+01:04:11,180 --> 01:04:15,310
+<i>This is a 45-minute puzzle</i>
+<i>by Patrick Merrell.</i>
+
+1013
+01:04:20,990 --> 01:04:23,584
+<i>On your mark, get set, go!</i>
+
+1014
+01:06:24,947 --> 01:06:26,938
+<i>- So?</i>
+<i>- So, I think I got it.</i>
+
+1015
+01:06:27,016 --> 01:06:30,383
+I don't know. I'm about to confirm an answer,
+but I'm pretty sure it's right.
+
+1016
+01:06:30,453 --> 01:06:33,945
+I gained— I finished, like, in eight minutes,
+so I gained a minute on Trip and Tyler.
+
+1017
+01:06:34,023 --> 01:06:38,153
+But, um, I don't know— I don't know how
+Patrick did. I'm sure he was in there too, so—
+
+1018
+01:06:38,227 --> 01:06:43,426
+Um, it wasn't—wasn't that hard of a puzzle,
+so I'd— I'd be stunned if anyone made a mistake.
+
+1019
+01:06:43,499 --> 01:06:47,435
+<i>I almost screwed that up a number of times.</i>
+<i>I left a square blank until my check, uh...</i>
+
+1020
+01:06:47,503 --> 01:06:49,596
+so that was good to see.
+
+1021
+01:06:49,672 --> 01:06:53,073
+The only thing that's working against Tyler
+potentially is his young age, being only 20.
+
+1022
+01:06:53,142 --> 01:06:56,543
+I mean, the others on the stage
+have had so much more life experience...
+
+1023
+01:06:56,612 --> 01:07:00,878
+plus they've just solved more puzzles
+during their time on Earth than he has.
+
+1024
+01:07:00,950 --> 01:07:02,884
+- I screwed that up twice. I put "fratern—"
+- "Fraternit—"
+
+1025
+01:07:02,952 --> 01:07:04,442
+- That didn't work.
+- And then "frat house."
+
+1026
+01:07:04,520 --> 01:07:07,455
+- You too? Same mistakes.
+- Yes.
+
+1027
+01:07:07,523 --> 01:07:10,651
+The clue was something like, "where a freshman
+might rush," or something like that.
+
+1028
+01:07:10,726 --> 01:07:12,717
+And I'm like, "Oh, that's easy.
+I've been there. 'Fraternity."'
+
+1029
+01:07:12,795 --> 01:07:15,628
+I got down to the "N,"
+and I realized, no, that ain't gonna fit.
+
+1030
+01:07:15,698 --> 01:07:18,895
+So I erased. It starts with F-R-A,
+so I'm, "It's gotta be 'frat' something."
+
+1031
+01:07:18,968 --> 01:07:21,163
+And I went, "Oh, 'frat house."'
+I write in "frat house."
+
+1032
+01:07:21,237 --> 01:07:25,105
+That also turns out to be wrong.
+I mean, you gotta be kidding me.
+
+1033
+01:07:25,174 --> 01:07:27,665
+It was actually "frat party."
+
+1034
+01:07:27,743 --> 01:07:31,179
+<i>I don't think there's gonna be any surprises.</i>
+<i>I think it's gonna be the top three.</i>
+
+1035
+01:07:31,247 --> 01:07:34,739
+It should be me,
+Patrick and, of course, Tyler.
+
+1036
+01:07:35,818 --> 01:07:38,286
+Ah, phooey.
+
+1037
+01:07:38,354 --> 01:07:40,845
+Yeah.
+
+1038
+01:07:40,923 --> 01:07:45,155
+Wait. I made up the grid upside down.
+Wait, it's okay!
+
+1039
+01:07:46,228 --> 01:07:50,358
+<i>What's going on in the room right now</i>
+<i>is that people are double-checking...</i>
+
+1040
+01:07:50,433 --> 01:07:53,994
+the fastest finishers this morning.
+
+1041
+01:07:54,070 --> 01:07:57,233
+<i>- We're double-checking</i>
+<i>everybody that's 25 and greater right?</i>
+- Correct.
+
+1042
+01:07:57,306 --> 01:08:01,242
+<i>Oh, l</i>— <i>There was another error?</i>
+<i>There was another error?</i>
+
+1043
+01:08:08,484 --> 01:08:12,978
+<i>Coming up on 11:00 in the morning. We'rejust</i>
+<i>beginning to find out who the finalists may be.</i>
+
+1044
+01:08:14,323 --> 01:08:16,848
+<i>The excitement is palpable.</i>
+
+1045
+01:08:16,926 --> 01:08:19,554
+<i>It's the combination oflogic and rage.</i>
+
+1046
+01:08:19,628 --> 01:08:23,997
+On the one hand, everything works out
+beautifully, except if it doesn't.
+
+1047
+01:08:24,066 --> 01:08:27,399
+At which point, of course,
+you can just tear the thing up.
+
+1048
+01:08:27,470 --> 01:08:30,098
+Yeah, the level of player has gotten much higher.
+All right, Tyler Hinman—
+
+1049
+01:08:30,172 --> 01:08:33,767
+<i>I mean, I first met him here when he was 16,</i>
+<i>and you couldjust tell, you know...</i>
+
+1050
+01:08:33,843 --> 01:08:37,244
+he was someone
+that had that competitive spirit...
+
+1051
+01:08:37,313 --> 01:08:40,043
+and had the speed—
+that he was gonna be up there.
+
+1052
+01:08:40,116 --> 01:08:42,050
+<i>He's just been</i>
+<i>absolutely phenomenal this year.</i>
+
+1053
+01:08:42,118 --> 01:08:45,315
+<i>It used to be Trip. If Trip was on,</i>
+<i>nobody could touch him, you know?</i>
+
+1054
+01:08:45,387 --> 01:08:47,321
+<i>And now Tyler is right there.</i>
+
+1055
+01:08:47,389 --> 01:08:50,790
+<i>And then Patrick Jordan</i>— <i>I mean,</i>
+<i>he didn't always come here, but he's no surprise.</i>
+
+1056
+01:08:50,860 --> 01:08:53,829
+- Congratulations, Patrick. Well done. Good luck.
+- Thank you, sir.
+
+1057
+01:08:53,896 --> 01:08:57,662
+<i>I've been in the finals, like, the last four years,</i>
+<i>but I always come in third place.</i>
+
+1058
+01:08:57,733 --> 01:08:59,894
+So it's— it's kind of embarrassing, you know?
+
+1059
+01:08:59,969 --> 01:09:04,201
+So at least this year I can flail on the final puzzle
+in my own, uh, private little worid here.
+
+1060
+01:09:04,273 --> 01:09:06,935
+I don't have to do it in front of—
+in front of everyone.
+
+1061
+01:09:07,009 --> 01:09:10,604
+But, I mean, sure, I'd— I'd love to be up there,
+you know? That's always my goal, but...
+
+1062
+01:09:10,679 --> 01:09:13,341
+you can't do it every year, you know, so—
+
+1063
+01:09:13,415 --> 01:09:17,875
+I told Patrick, since it's not me he would be
+up against, he can go ahead and win.
+
+1064
+01:09:17,953 --> 01:09:23,084
+Although I think Tyler is just like a tiger there.
+He is so hungry for this.
+
+1065
+01:09:23,159 --> 01:09:25,218
+<i>This is a very tight matchup.</i>
+
+1066
+01:09:25,294 --> 01:09:27,694
+Patrick came within one letter
+of winning this tournament once.
+
+1067
+01:09:27,763 --> 01:09:31,563
+If he hadn't made an error, he would have won
+the tournament back in the year that Ellen won.
+
+1068
+01:09:31,634 --> 01:09:35,468
+And you've seen what a hotshot Tyler is.
+So this really could go any way.
+
+1069
+01:09:35,538 --> 01:09:37,597
+<i>All right. Here are the results.</i>
+
+1070
+01:09:37,673 --> 01:09:41,370
+<i>Starting in the "A"division,</i>
+<i>the top people are all tightly packed together.</i>
+
+1071
+01:09:41,443 --> 01:09:46,938
+In third place at this point,
+with 11,840 points...
+
+1072
+01:09:47,016 --> 01:09:50,110
+<i>- Al Sanders.</i>
+
+1073
+01:09:56,592 --> 01:10:02,189
+<i>In second place</i>—
+<i>11,890 points, Trip Payne</i>—
+
+1074
+01:10:02,264 --> 01:10:04,391
+<i>Whoo!</i>
+
+1075
+01:10:10,739 --> 01:10:13,765
+<i>And in first place at this point...</i>
+
+1076
+01:10:13,842 --> 01:10:18,108
+<i>with 11, 915 points and only 20 years old...</i>
+
+1077
+01:10:18,180 --> 01:10:21,672
+<i>- Tyler Hinman.</i>
+
+1078
+01:10:26,522 --> 01:10:29,616
+<i>Uh, yeah. I just had a little mini heart attack,</i>
+<i>as did Tyler, 'cause that</i>—
+
+1079
+01:10:29,692 --> 01:10:32,092
+when we heard that,
+it's like we knew somebody had blown it.
+
+1080
+01:10:32,161 --> 01:10:34,152
+We didn't know which of the three of us had.
+
+1081
+01:10:34,230 --> 01:10:36,528
+And, uh, it was Patrick obviously.
+We don't know what happened.
+
+1082
+01:10:36,599 --> 01:10:39,727
+He must have made an error,
+because we think he was fast enough, so—
+
+1083
+01:10:39,802 --> 01:10:41,895
+<i>Who's that?</i>
+
+1084
+01:10:41,971 --> 01:10:45,372
+- That was my dad.
+<i>- What'd he say?</i>
+
+1085
+01:10:45,441 --> 01:10:47,432
+Uh, just that they're on their way.
+
+1086
+01:10:47,509 --> 01:10:52,173
+Well, right now the "C" final round
+is taking place.
+
+1087
+01:10:52,248 --> 01:10:56,378
+<i>These are people whose</i>—
+<i>are at the top of their particular skill division...</i>
+
+1088
+01:10:56,452 --> 01:11:01,515
+<i>and they've got noise coming in</i>
+<i>from earphones that they're wearing...</i>
+
+1089
+01:11:01,590 --> 01:11:04,525
+<i>so they can't hear anything that's being said,</i>
+<i>and it's nerve-racking.</i>
+
+1090
+01:11:04,593 --> 01:11:08,222
+You've got 500 people watching you,
+and for most people—
+
+1091
+01:11:08,297 --> 01:11:11,789
+they're not used to doing anything
+with 500 people watching them...
+
+1092
+01:11:11,867 --> 01:11:14,995
+<i>to say nothing of a hobby</i>
+<i>they usually do all by themselves...</i>
+
+1093
+01:11:15,070 --> 01:11:16,867
+<i>with nobody else</i>
+<i>looking over their shoulder.</i>
+
+1094
+01:11:19,775 --> 01:11:22,744
+<i>I'm just watching Tyler hop around.</i>
+
+1095
+01:11:22,811 --> 01:11:26,838
+I'm still a little bit in shock.
+I need to— I need to just get, you know—
+
+1096
+01:11:26,915 --> 01:11:29,349
+think about this, uh— this puzzle,
+and just, like, not—
+
+1097
+01:11:29,418 --> 01:11:32,012
+<i>- Nervous?</i>
+- A little bit. A little bit.
+
+1098
+01:11:32,087 --> 01:11:35,853
+Although, strangely enough, not as nervous
+as I was in the "B" final a few years ago...
+
+1099
+01:11:35,924 --> 01:11:37,915
+and this is for much greater stakes.
+
+1100
+01:11:37,993 --> 01:11:41,554
+And, uh— I don't know—
+I guess 'cause I've done it before on a lower level.
+
+1101
+01:11:41,630 --> 01:11:45,532
+I don't know why.
+And I guess 'cause I know I have the ability.
+
+1102
+01:11:45,601 --> 01:11:49,093
+<i>#Every time she walks down next to me #</i>
+
+1103
+01:11:49,171 --> 01:11:53,267
+<i>#She makes my poor old heart skip a beat ##</i>
+
+1104
+01:12:09,625 --> 01:12:12,788
+<i>Well, there's a difference</i>
+<i>between just solving at home...</i>
+
+1105
+01:12:12,861 --> 01:12:15,887
+and solving at this event
+and then solving on here.
+
+1106
+01:12:15,964 --> 01:12:19,923
+<i>There's somethin'about being up on stage</i>
+<i>solving in big letters...</i>
+
+1107
+01:12:20,002 --> 01:12:22,095
+with a— a pen you never use.
+
+1108
+01:12:22,171 --> 01:12:25,265
+It's a whole different experience.
+And maybe it's the nerves...
+
+1109
+01:12:25,341 --> 01:12:28,003
+or the alien nature of it—who knows?
+
+1110
+01:12:28,077 --> 01:12:32,639
+But it's— there's some guys that just are up here
+in their element, and some guys who aren't.
+
+1111
+01:12:32,715 --> 01:12:36,674
+<i>- That's Trip.</i>
+<i>- Trip, you'll be on the left.</i>
+
+1112
+01:12:36,752 --> 01:12:40,415
+<i>Al, you're on the right.</i>
+<i>Tyler, in the middle.</i>
+
+1113
+01:12:40,489 --> 01:12:43,617
+<i> Trip Payne, he's been here before.</i>
+<i>He's very outgoing.</i>
+
+1114
+01:12:43,692 --> 01:12:46,490
+<i>He'll hit himself on the head or fall down</i>
+<i>ifhe stumbles a little.</i>
+
+1115
+01:12:46,562 --> 01:12:49,224
+<i>Tyler Hinman's only 20 years old.</i>
+<i>How he know so much...</i>
+
+1116
+01:12:49,298 --> 01:12:52,495
+<i>to be in the top of the "A"division</i>
+<i>is amazing.</i>
+
+1117
+01:12:52,568 --> 01:12:54,536
+<i>And Al Sanders has been, like...</i>
+
+1118
+01:12:54,603 --> 01:12:58,869
+<i>the leader almost every time</i>
+<i>we come into the end of this event</i>
+<i>and yet he has never won this event.</i>
+
+1119
+01:12:58,941 --> 01:13:00,533
+He's never even come in second.
+
+1120
+01:13:00,609 --> 01:13:04,409
+<i>Tyler, you'll have a two-second start over Trip.</i>
+
+1121
+01:13:04,480 --> 01:13:07,472
+<i>- Yes-s-s!</i>
+<i>- Trip, you'll have a five-second start over Al.</i>
+
+1122
+01:13:07,549 --> 01:13:10,518
+<i>All right!</i>
+
+1123
+01:13:10,586 --> 01:13:12,747
+All right. I believe we're ready.
+
+1124
+01:13:14,022 --> 01:13:16,991
+<i> It's a beautiful day</i>
+<i>for a crossword puzzle championship.</i>
+
+1125
+01:13:17,059 --> 01:13:19,050
+Let's play too.
+
+1126
+01:13:21,997 --> 01:13:27,196
+On your mark— Let me get the clock.
+On your mark, get set...
+
+1127
+01:13:27,269 --> 01:13:29,669
+<i>Tyler, begin.</i>
+
+1128
+01:13:30,672 --> 01:13:33,038
+<i>Trip, begin.</i>
+
+1129
+01:13:34,710 --> 01:13:38,806
+<i>- Al, begin.</i>
+
+1130
+01:13:50,359 --> 01:13:52,293
+<i>To win at Stamford</i>— <i>I will admit...</i>
+
+1131
+01:13:52,361 --> 01:13:54,420
+<i>it's gone through my head many times</i>—
+
+1132
+01:13:54,496 --> 01:13:57,829
+<i>what it would be likejust to, you know,</i>
+<i>finish that final puzzle...</i>
+
+1133
+01:13:57,900 --> 01:14:00,266
+<i>announce, "Done"and turn around</i>
+<i>and see people clapping.</i>
+
+1134
+01:14:00,335 --> 01:14:03,327
+<i>If I were to do it this year</i>
+<i>or in the next couple of years...</i>
+
+1135
+01:14:03,405 --> 01:14:05,339
+<i>I'd have the record</i>
+<i>for the youngest champion...</i>
+
+1136
+01:14:05,407 --> 01:14:09,503
+<i>I'd have the trophy, I'd</i>—
+<i>I'd have $4,000</i>— <i>which would be very nice</i>—
+
+1137
+01:14:09,578 --> 01:14:11,944
+<i>and, you know, in small circles, fame, really.</i>
+
+1138
+01:14:14,650 --> 01:14:18,484
+<i> Any year that I don't win the tournament,</i>
+<i>I admit that I'm not happy about it.</i>
+
+1139
+01:14:18,554 --> 01:14:22,615
+<i>I try to keep a</i>—<i>a smiling face on,</i>
+<i>but, you know...</i>
+
+1140
+01:14:22,691 --> 01:14:26,183
+<i>there's a part of me that expects to win,</i>
+<i>even though I know that's not logical.</i>
+
+1141
+01:14:26,261 --> 01:14:29,128
+<i>Nobody can win every year.</i>
+<i>There's too many good people...</i>
+
+1142
+01:14:29,198 --> 01:14:31,666
+<i>and there's too many variables</i>
+<i>in the puzzles.</i>
+
+1143
+01:14:31,733 --> 01:14:36,397
+<i>But there's part of me that thinks, you know,</i>
+<i>"You're good enough to win. You should win."</i>
+
+1144
+01:14:36,472 --> 01:14:40,033
+<i>And that part of me is upset when I don't.</i>
+
+1145
+01:14:41,109 --> 01:14:44,306
+<i> You know, the big hurdle</i>
+<i>for me to get over, though, is that final puzzle.</i>
+
+1146
+01:14:44,379 --> 01:14:47,780
+<i>'Cause every year it's like, "Okay, you know,</i>
+<i>this is, like, the fourth time I'm up here.</i>
+
+1147
+01:14:47,850 --> 01:14:51,342
+<i>"Surely I've gotten now to where I can,</i>
+<i>you know, get over this hump...</i>
+
+1148
+01:14:51,420 --> 01:14:54,878
+<i>and get out there andjust, you know,</i>
+<i>go kick butt on this puzzle. "</i>
+
+1149
+01:14:54,957 --> 01:14:57,755
+<i>Then every time it starts off,</i>
+<i>I'm lookin'at those clues, and it's like</i>—
+
+1150
+01:14:57,826 --> 01:15:00,590
+<i>I look at the first 20 clues,</i>
+<i>and I don't have any idea.</i>
+
+1151
+01:15:00,662 --> 01:15:06,430
+<i>And Trip's over there, you know, writin'away,</i>
+<i>and it's like, "Oh, God, here we go again."</i>
+
+1152
+01:15:07,970 --> 01:15:10,461
+<i>Trip and Al both got "sit"first though.</i>
+
+1153
+01:15:10,539 --> 01:15:12,973
+<i> Well, Trip is waiting</i>
+<i>to see if it's "house-sat."</i>
+
+1154
+01:15:13,041 --> 01:15:16,499
+<i>I mean, he's</i>— <i>He knows enough</i>
+<i>to not fall into that trap.</i>
+
+1155
+01:15:17,579 --> 01:15:22,016
+<i>Al's got "SteveJobs"...</i>
+
+1156
+01:15:22,084 --> 01:15:24,177
+<i>and "Ute."</i>
+
+1157
+01:15:24,253 --> 01:15:27,347
+<i> Trip is doing well</i>
+<i>in that upper left-hand corner as well.</i>
+
+1158
+01:15:27,422 --> 01:15:30,687
+<i>The clue on this one</i>— <i>for one across</i>—
+<i>is just brutal</i>—
+
+1159
+01:15:32,761 --> 01:15:35,992
+<i>"Stark and richly detailed, as writing."</i>
+
+1160
+01:15:36,064 --> 01:15:38,726
+<i>That screams "Zolaesque"to me.</i>
+
+1161
+01:15:42,137 --> 01:15:45,129
+<i> You think they put six down in there</i>
+<i>just for us this year, Merl?</i>
+
+1162
+01:15:45,207 --> 01:15:47,232
+<i>- "So just shut up"?</i>
+<i>- Yeah.</i>
+
+1163
+01:15:48,610 --> 01:15:51,170
+<i>- No, I mean, just</i>—<i>sojust shut up.</i>
+<i>- Yeah. I see.</i>
+
+1164
+01:15:51,246 --> 01:15:54,682
+<i>Well, I thought the other one, the last puzzle</i>—
+
+1165
+01:15:54,750 --> 01:15:56,775
+<i> "Unbeknownst to me."</i>
+<i>Huge breakthrough there...</i>
+
+1166
+01:15:56,852 --> 01:15:59,320
+<i>by Al Sanders on the right.</i>
+
+1167
+01:16:00,389 --> 01:16:02,380
+<i>No mistakes I see yet.</i>
+
+1168
+01:16:03,825 --> 01:16:09,320
+<i>Meanwhile, Tyler working in the lower right</i>—
+
+1169
+01:16:09,398 --> 01:16:12,697
+<i>It's hard for me to see, but it looks good.</i>
+
+1170
+01:16:12,768 --> 01:16:14,736
+Yes. It is good.
+
+1171
+01:16:14,803 --> 01:16:19,433
+<i>And Al, just about wrapping up</i>
+<i>that lower left-hand corner.</i>
+
+1172
+01:16:19,508 --> 01:16:21,840
+<i>- Yeah.</i>
+<i>- He can get "I got took."</i>
+
+1173
+01:16:21,910 --> 01:16:27,678
+<i> And he's got the</i>— <i>that "Sioux."</i>
+<i>That</i>— <i>That's just a hard word down there.</i>
+
+1174
+01:16:27,749 --> 01:16:32,914
+<i>- There he goes.</i>
+<i>- Yeah. Now he realized it</i>—
+<i>what the "body work"is: Short for "tattoo."</i>
+
+1175
+01:16:32,988 --> 01:16:36,014
+<i>- Yeah. I'm sure he's having a "fun time"now.</i>
+<i>- Absolutely.</i>
+
+1176
+01:16:36,091 --> 01:16:38,423
+<i>Trip is, uh, doing</i>—
+
+1177
+01:16:38,493 --> 01:16:40,461
+<i>- All over the place, as usual.</i>
+<i>- Yeah, scattershot.</i>
+
+1178
+01:16:40,529 --> 01:16:43,123
+<i>He's going for the words he knows</i>
+<i>and then filling in from there</i>—
+
+1179
+01:16:43,198 --> 01:16:47,897
+- That's good.
+- As opposed to trying to fight through each area.
+
+1180
+01:16:47,970 --> 01:16:49,904
+- He's got, uh—
+- He's got "ramified."
+
+1181
+01:16:49,972 --> 01:16:52,167
+<i>That's the toughest word in that corner.</i>
+
+1182
+01:16:52,240 --> 01:16:54,435
+<i>Tyler's got the bottom done.</i>
+
+1183
+01:16:54,509 --> 01:16:57,239
+<i>Hejust got "SteveJobs"</i>
+<i>up in that upper left-hand corner.</i>
+
+1184
+01:16:57,312 --> 01:17:01,578
+<i> Yeah, but Al is just closing in. All</i>—
+<i>All Al has to do is get that little corner</i>—
+
+1185
+01:17:01,650 --> 01:17:05,086
+<i>- Yep.</i>
+<i>- And then figure out what the heck one across is.</i>
+
+1186
+01:17:05,153 --> 01:17:09,214
+<i> And he sh</i>—
+<i>lfhe gets the "Z"here, he's got it nailed.</i>
+
+1187
+01:17:09,291 --> 01:17:13,193
+<i>- That's the hard</i>— <i>He's got the "fob."</i>
+<i>- Good. F-O-B: "fob."</i>
+
+1188
+01:17:13,261 --> 01:17:16,788
+<i>"Ramified"he's got, and... there it is.</i>
+
+1189
+01:17:16,865 --> 01:17:20,392
+Done.
+
+1190
+01:17:24,072 --> 01:17:27,872
+<i>Shh! Quiet.</i>
+
+1191
+01:17:36,084 --> 01:17:39,076
+<i>Oh, man.</i>
+
+1192
+01:17:49,431 --> 01:17:52,229
+Against his competition—
+speed being of the essence—
+
+1193
+01:17:52,300 --> 01:17:54,894
+<i>did not go through that last check.</i>
+
+1194
+01:17:54,970 --> 01:17:58,201
+<i> Well, he had that perfect,</i>
+<i>yet he had that hard corner to do...</i>
+
+1195
+01:17:58,273 --> 01:18:02,039
+<i>andjust didn't go back</i>
+<i>to check, uh, one across.</i>
+
+1196
+01:18:04,713 --> 01:18:09,412
+<i> So Tyler, now, just fixed</i>
+<i>from "game show"to "quiz show scandal."</i>
+
+1197
+01:18:09,484 --> 01:18:13,580
+<i>So that's a big help to him.</i>
+<i>He's got that upper right he's unfinished yet.</i>
+
+1198
+01:18:13,655 --> 01:18:16,624
+<i>And Trip is just having "long 'I."'</i>
+
+1199
+01:18:16,692 --> 01:18:19,991
+<i>He's trying different letters in there,</i>
+<i>seeing what looks good.</i>
+
+1200
+01:18:20,062 --> 01:18:23,623
+<i> Yeah. The clue for this</i>
+<i>is "one of two hi-fi components"...</i>
+
+1201
+01:18:23,699 --> 01:18:28,227
+<i>And, uh, he hasn't caught on</i>
+<i>to what that means yet.</i>
+
+1202
+01:18:29,304 --> 01:18:33,104
+<i>- Should get the "hog"though.</i>
+<i>- And he doesn't know what "a pole in China"is.</i>
+
+1203
+01:18:33,175 --> 01:18:36,235
+Oh, good God!
+
+1204
+01:18:36,311 --> 01:18:40,111
+<i>"Zolaesque"has just fallen.</i>
+
+1205
+01:18:41,183 --> 01:18:45,779
+- And Tyler is closing in here.
+<i>- Yeah.</i>
+
+1206
+01:18:45,854 --> 01:18:49,187
+<i>- And one letter</i>— <i>He's got it.</i>
+- Done.
+
+1207
+01:18:53,929 --> 01:18:57,365
+<i> I can't believe that a guy</i>
+<i>that's seven years old is gonna win this.</i>
+
+1208
+01:18:59,968 --> 01:19:01,902
+<i>I mean, Hi, Tyler. How are ya doin'?</i>
+
+1209
+01:19:06,641 --> 01:19:08,905
+<i>Well, I hope you can read all this.</i>
+
+1210
+01:19:08,977 --> 01:19:13,346
+<i>As soon as you get out of the way, we can.</i>
+
+1211
+01:19:18,520 --> 01:19:20,852
+Done.
+
+1212
+01:19:25,761 --> 01:19:28,321
+<i>All right. Here are the results.</i>
+
+1213
+01:19:29,397 --> 01:19:33,891
+<i>In third place</i>— <i>finishing first</i>
+<i>but having two blank letters</i>—
+
+1214
+01:19:33,969 --> 01:19:36,995
+<i>- Oh, my God.</i>
+- Is Al Sanders.
+
+1215
+01:19:40,075 --> 01:19:45,240
+<i>Second place</i>—<i>perfect in 12 minutes</i>
+<i>and 14 seconds</i>—<i>is Trip Payne.</i>
+
+1216
+01:19:47,749 --> 01:19:50,081
+<i>And our new champion</i>—
+
+1217
+01:19:50,152 --> 01:19:53,121
+<i>perfect in 10 minutes and 27 seconds...</i>
+
+1218
+01:19:53,188 --> 01:19:56,385
+<i>the youngest champion</i>
+<i>in the history of the event</i>—<i>is Tyler Hinman.</i>
+
+1219
+01:20:18,713 --> 01:20:21,511
+<i>Guess where I got hung up.</i>
+<i>I got hung up here and here...</i>
+
+1220
+01:20:21,583 --> 01:20:23,517
+and here and here
+and pretty much over here.
+
+1221
+01:20:23,585 --> 01:20:25,519
+Yeah.
+This was a mother.
+
+1222
+01:20:25,587 --> 01:20:30,115
+The two downs— I had those in my head,
+so l— I think I thought I had put those in.
+
+1223
+01:20:30,192 --> 01:20:34,060
+<i>And I had said, "Done,"so as far as I know,</i>
+<i>I was over at that point, you know.</i>
+
+1224
+01:20:34,129 --> 01:20:37,565
+And... I just looked back, and I just remember
+grabbin' those headphones and just—
+
+1225
+01:20:37,632 --> 01:20:40,465
+You know? Oh, I was so mad.
+
+1226
+01:20:40,535 --> 01:20:43,095
+- What are you studying in school?
+- Um, I.T. Major. With a—
+
+1227
+01:20:43,171 --> 01:20:45,503
+- Where are you at? What school?
+- R.P.I. Rensselaer.
+
+1228
+01:20:46,575 --> 01:20:49,066
+<i>How do you feel?</i>
+
+1229
+01:20:49,144 --> 01:20:51,635
+Good. I feel good.
+
+1230
+01:20:53,248 --> 01:20:58,276
+Yeah, that sums it up. Words are failin' me.
+I'm just glad they waited until now to do so.
+
+1231
+01:21:06,695 --> 01:21:09,323
+<i>A day without the puzzle?</i>
+
+1232
+01:21:09,397 --> 01:21:12,594
+Well, it's not like insulin.
+I mean, I can live without it for a day.
+
+1233
+01:21:12,667 --> 01:21:17,263
+<i>Crossword puzzles are something</i>
+<i>that feed into a basic human need...</i>
+
+1234
+01:21:17,339 --> 01:21:19,273
+<i>to figure things out.</i>
+
+1235
+01:21:19,341 --> 01:21:22,071
+<i> It allows you to be open-minded</i>
+<i>and lets you think about...</i>
+
+1236
+01:21:22,143 --> 01:21:25,670
+<i>other parts of the language that maybe</i>
+<i>you weren't necessarily thinkin'about.</i>
+
+1237
+01:21:25,747 --> 01:21:28,477
+<i>The regularity of it</i>—
+<i>the fact that it's always there for you</i>—
+
+1238
+01:21:28,550 --> 01:21:30,484
+is very, very appealing.
+
+1239
+01:21:30,552 --> 01:21:33,544
+<i> I think it's much more</i>
+<i>about the words than it is about the music...</i>
+
+1240
+01:21:33,622 --> 01:21:38,355
+<i>but, you know, words</i>— <i>they connect us.</i>
+
+1241
+01:21:38,426 --> 01:21:40,417
+<i>Language is it. This is the</i>—
+
+1242
+01:21:40,495 --> 01:21:44,955
+the most powerful force, I believe,
+on Earth is the English language.
+
+1243
+01:21:45,033 --> 01:21:48,696
+<i> The ability to communicate</i>
+<i>clearly and forcefully</i>—
+
+1244
+01:21:48,770 --> 01:21:51,170
+<i>I think it's profoundly important.</i>
+
+1245
+01:21:51,239 --> 01:21:55,608
+<i>I think that, um</i>—
+<i>I don't know. They're fun.</i>
+
+1246
+01:21:55,677 --> 01:22:01,445
+<i>I hope whoever succeeds me at the</i> Times
+<i>is someone who carries on the tradition...</i>
+
+1247
+01:22:01,516 --> 01:22:04,610
+of having crosswords
+that speak people's language...
+
+1248
+01:22:04,686 --> 01:22:06,984
+<i>and somebody who will use puzzles</i>
+<i>that are just jam-packed...</i>
+
+1249
+01:22:07,055 --> 01:22:10,218
+<i>with interesting, lively,</i>
+<i>juicy, fun vocabulary...</i>
+
+1250
+01:22:10,292 --> 01:22:12,226
+<i>and continues to innovate.</i>
+
+1251
+01:22:12,294 --> 01:22:17,561
+<i>And at Stamford, I hope, when I'm 95,</i>
+<i>that someone will wheel me in in a wheelchair...</i>
+
+1252
+01:22:17,632 --> 01:22:20,499
+and I'll have drool coming down
+the side of my mouth...
+
+1253
+01:22:20,568 --> 01:22:26,507
+and, um, I just hope the event is still goin' on
+and people are having a great time.
+
+1254
+01:22:44,326 --> 01:22:48,353
+<i># You know every word is made up ofletters #</i>
+
+1255
+01:22:48,430 --> 01:22:52,093
+<i>#Made up ofletters</i>
+<i>made up ofletters #</i>
+
+1256
+01:22:52,167 --> 01:22:55,933
+<i>#Put them together</i>
+<i>and that makes it better #</i>
+
+1257
+01:22:56,004 --> 01:22:59,770
+<i># That makes it better</i>
+<i>That makes it better #</i>
+
+1258
+01:22:59,841 --> 01:23:03,641
+<i>#I've been lovin'you #</i>
+
+1259
+01:23:03,712 --> 01:23:07,580
+<i>#So long, so long #</i>
+
+1260
+01:23:07,649 --> 01:23:11,176
+<i>#I've been lovin'you #</i>
+
+1261
+01:23:11,252 --> 01:23:14,779
+<i>#So long, so long #</i>
+
+1262
+01:23:14,856 --> 01:23:18,792
+<i>#Before you appeared</i>
+<i>life was a puzzle #</i>
+
+1263
+01:23:18,860 --> 01:23:22,591
+<i>#Life was a puzzle</i>
+<i>Life was a puzzle #</i>
+
+1264
+01:23:22,664 --> 01:23:26,395
+<i>#I am the stone</i>
+<i>and you are the chisel #</i>
+
+1265
+01:23:26,468 --> 01:23:30,234
+<i># You are the chisel</i>
+<i>You are the chisel #</i>
+
+1266
+01:23:30,305 --> 01:23:34,036
+<i>#I've been lovin'you #</i>
+
+1267
+01:23:34,109 --> 01:23:38,102
+<i>#So long, so long #</i>
+
+1268
+01:23:38,179 --> 01:23:41,774
+<i>#I've been lovin'you #</i>
+
+1269
+01:23:41,850 --> 01:23:45,445
+<i>#So long, so long #</i>
+
+1270
+01:23:45,520 --> 01:23:49,456
+<i># Truth is a place much like a meadow #</i>
+
+1271
+01:23:49,524 --> 01:23:53,290
+<i>#Sun peekin'out, chasin'the shadow #</i>
+
+1272
+01:23:53,361 --> 01:23:58,765
+<i>#Fill in the blanks and I'm ever grateful</i>
+<i>Then came the wind #</i>
+
+1273
+01:23:58,833 --> 01:24:03,634
+<i># You suddenly floated away #</i>
+
+1274
+01:24:04,706 --> 01:24:08,267
+<i># The sea was changed</i>
+<i>like that he remembered #</i>
+
+1275
+01:24:08,343 --> 01:24:12,211
+<i># That he remembered</i>
+<i>That he remembered #</i>
+
+1276
+01:24:12,280 --> 01:24:15,943
+<i># Winter to spring</i>
+<i>and spring into summer #</i>
+
+1277
+01:24:16,017 --> 01:24:19,783
+<i>#Spring into summer</i>
+<i>Spring into summer #</i>
+
+1278
+01:24:19,854 --> 01:24:23,483
+<i>#I'll keep lovin'you #</i>
+
+1279
+01:24:23,558 --> 01:24:27,688
+<i>#So long, so long ##</i>
+
+1280
+01:24:33,668 --> 01:24:37,934
+<i> #If you don't come across</i>
+<i>I'm gonna be down #</i>
+
+1281
+01:24:39,007 --> 01:24:43,239
+<i>#If you don't come across</i>
+<i>I'm gonna be down #</i>
+
+1282
+01:24:44,312 --> 01:24:50,012
+<i># Your love to me is a mystery</i>
+<i>and the clues are all around #</i>
+
+1283
+01:24:51,086 --> 01:24:55,318
+<i>#If you don't come across</i>
+<i>I'm gonna be down ##</i>
+

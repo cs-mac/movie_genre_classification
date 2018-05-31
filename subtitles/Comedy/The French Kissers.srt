@@ -1,0 +1,552 @@
+{1}{1}23.976
+{5177}{5226}Merry Christmas!
+{5228}{5296}- What's your name, little boy?|- Eric.
+{5298}{5363}What do you want for Christmas, Eric? Hm?
+{5383}{5436}A Johnny Lightning 500.
+{5450}{5511}- You been good, little boy?|- Yeah.
+{5513}{5580}Good. You like Santa Claus? Huh?
+{5612}{5662}Now, you like Santa Claus, right?
+{5815}{5864}Let's sing a little song. "Jingle Bells."
+{6464}{6493}Get up.
+{6496}{6545}Get up! And hold 'em up.
+{6861}{6894}- Hold it!|- Freeze!
+{6896}{6963}Jimmy, watch it. He's got a knife.
+{7840}{7899}- Hold it, you son of a bitch!|- No, no!
+{8044}{8109}That's enough. Don't kill him. That's enough!
+{8228}{8288}- Get up!|- Come on, give me a break!
+{8355}{8430}- I ain't done nothin', man.|- Break, your ass.
+{8460}{8508}- Come on.|- Get up!
+{8656}{8716}Will you stop it? Stop it!
+{8763}{8857}- Jimmy.|- Let me bust him. I wanna bust him.
+{8859}{8942}- I wanna bust him.|- Let me talk to him. Let me talk to him!
+{8944}{9045}- You got a friend here. You got a friend.|- You gonna tell us who your man is?
+{9047}{9152}When's the last time you picked your feet?|Who's your connection, Willie?
+{9155}{9215}- Answer him!|- No, no, man!
+{9247}{9324}Is it Joe the barber?|That's who it is, isn't it?
+{9326}{9385}Don't give us any shit.|What's Joe's last name?
+{9387}{9465}- I don't know, man!|- Give him a chance. Just give him a chance.
+{9468}{9563}All I know is he lives on 125th Street, man.|Above the barber shop.
+{9565}{9639}What side of the street does he live on?|North or south?
+{9641}{9737}- I don't know what you're talking about.|- What side of the street does he live on?
+{9739}{9827}- When's the last time you picked your feet?|- What's he talkin' about?
+{9829}{9948}I got a man in Poughkeepsie wants to talk|to you. You ever been in Poughkeepsie?
+{9950}{10033}- Hey, man, give me a break.|- Come on, say it. Let me hear you say it.
+{10035}{10142}Have you ever been to Poughkeepsie? You've|been to Poughkeepsie? I wanna hear it!
+{10144}{10235}- Yes, I've been to Poughkeepsie.|- You sat on the edge of the bed.
+{10237}{10319}You took off your shoes|and picked your feet, didn't you?
+{10321}{10352}- Now say it!|- Yes.
+{10355}{10458}All right. You put a shiv in my partner.|You know what that means, goddamnit?
+{10460}{10534}All winter I gotta listen to him|gripe about his bowling scores.
+{10536}{10647}I'm gonna bust your ass for those three bags,|then I'm gonna nail you for picking your feet.
+{11886}{11935}{y:i}Merci.
+{12487}{12507}{y:i}Bonjour.
+{12901}{12943}{y:i}C'est merveilleux, chéri.
+{12945}{12997}{y:i}Tu me gâtes. Je t'aime.
+{13358}{13382}{y:i}C'est pour toi, chéri.
+{13540}{13591}{y:i}Merci, chérie.
+{14719}{14788}Need a little help there?
+{14805}{14877}- You dumb guinea.|- How the hell did I know he had a knife?
+{14879}{14937}- Never trust a nigger.|- He could've been white.
+{14940}{15012}- Never trust anyone. Goin' sick?|- No.
+{15013}{15048}- Are you goin' sick?|- No!
+{15050}{15152}- What d'you say we go to Chez for a drink?|- Jimmy, I'm beat. I'm gonna go home.
+{15156}{15208}All right, all right. One drink.
+{15210}{15258}- Drink this.|- Whip it out.
+{18161}{18272}I make at least two junk connections|at that far table over in the corner.
+{18360}{18439}The guy in the striped shirt and tie combo,
+{18440}{18491}I know him too.
+{18493}{18564}I thought we came here to buy me a drink.
+{18665}{18724}Who is that clown?
+{18760}{18820}It's a policy guy from Queens.
+{19032}{19146}- Dig the creep that's comin' to the table now.|- It's Jewish Lucky.
+{19148}{19239}He don't look the same|without numbers across his chest.
+{19241}{19295}That table is definitely wrong.
+{19765}{19804}More!
+{19821}{19871}More!
+{19953}{20043}What about the last of the big-time spenders?|Do you make him?
+{20046}{20096}No. You?
+{20104}{20206}He's spreadin' it around like|the Russians are in Jersey.
+{20377}{20421}Oh, yes.
+{20423}{20499}What do you say we stick around|and give him a tail?
+{20639}{20694}Come on. Just for fun.
+{20696}{20759}Give who a tail?
+{20762}{20822}The greaser with the blonde.
+{20898}{20992}What for? You wanna play|hide the salami with his old lady?
+{21068}{21118}Yeah.
+{21416}{21489}Miss, can I ask you|about those boots? They're...
+{22437}{22487}Monica.
+{22511}{22581}- Who in the hell's that?|- Who keeps score?
+{22711}{22859}- Kissy devil, isn't he? Look at him.|- Well, they're all cousins. You know that.
+{22908}{22995}Yeah, say good-bye. Come on.|What's he got now?
+{22996}{23081}- Hudson Terraplane, that's what he got.|- No, no.
+{23083}{23133}- Easy.|- OK.
+{23164}{23214}Go to work.
+{23308}{23375}Cloudy, I'll lay odds|he takes us to dago town.
+{23378}{23448}We'll take him, Popeye. He's nothin'.
+{24075}{24182}Seven o'clock in the morning.|I don't believe it.
+{24184}{24263}Relax. You're havin' fun, ain't you?
+{25500}{25578}If that's not a drop, I'll open|a charge for you at Bloomingdale's.
+{25580}{25646}Make it Alexander's. I like the toy department.
+{26844}{26877}He's comin' back.
+{26879}{26929}Pass him. Make a left.
+{32744}{32795}Alain.
+{33529}{33628}{y:i}Our friend's name is Boca.|{y:i}Salvatore Boca. B-O-C-A.
+{33631}{33704}{y:i}They call him Sal. He's a sweetheart.
+{33708}{33802}{y:i}He was picked up on suspicion|{y:i}of armed robbery. Now get this.
+{33804}{33908}{y:i}Three years ago he tries to hold up Tiffany's|{y:i}on Fifth Avenue in broad daylight.
+{33910}{34002}{y:i}He could've got two and a half to five,|{y:i}but Tiffany's wouldn't prosecute.
+{34004}{34122}{y:i}Also, downtown they're pretty sure he pulled|{y:i}off a contract on a guy named DeMarco.
+{34124}{34219}- "How about his old lady?"|- "Her name's Angie. She's a fast filly."
+{34221}{34294}{y:i}She drew a suspended|{y:i}for shoplifting a year ago.
+{34296}{34378}{y:i}She's only a kid.|{y:i}19, according to the marriage license.
+{34380}{34435}{y:i}19 goin' on 50.
+{34437}{34531}- "What else?"|- "He's had the store a year and a half."
+{34533}{34590}{y:i}Takes in a fast seven grand a year.
+{34592}{34668}{y:i}So what's he doin' with two cars|{y:i}and a tab at the Chez?
+{34670}{34797}{y:i}The LTD's in his wife's name.|{y:i}The Comet belongs to his brother Lou.
+{34799}{34889}{y:i}He's a trainee at the garbageman's|{y:i}school on Ward's Island.
+{34891}{34962}"He did time a couple of years ago" - |{y:i}assault and robbery.
+{34976}{35027}Black Cadillac.
+{35056}{35108}New Jersey plates.
+{35110}{35216}RWN-264. I know that one cat. We saw him|outside the Pike Slip Inn the other day.
+{35220}{35300}I want a blouse like that for my girlfriend,|but you could model it.
+{35302}{35355}Better not let my husband hear that.
+{35358}{35432}I don't care if he hears it.|Will you do it for me?
+{35456}{35516}OK. How much are you gonna pay?
+{35540}{35608}- $50 an hour.|- 50 an hour?!
+{35610}{35680}- I'll do it. $200.|- No, can't afford it.
+{35681}{35731}I'll call you later. Bye-bye.
+{35782}{35858}Hey, it's 1:30. I didn't expect you till two.
+{35860}{35911}- You work around here?|- Across the street.
+{35936}{36031}{y:i}That's the third time|{y:i}he's come here this week.
+{36035}{36126}- "You got anything on this building?"|- "Clean. I checked the tenant list."
+{36128}{36212}{y:i}Remember Don Ameche, the actor?|{y:i}He lives here.
+{36214}{36271}{y:i}Oh, yeah, and somebody else.
+{36275}{36348}- "Does the name Joel Weinstock ring a bell?"|- "You're kidding."
+{36350}{36410}{y:i}No, sir. He lives right here.
+{36445}{36517}{y:i}He was the bank on the shipment|{y:i}out of Mexico three years ago.
+{36520}{36579}{y:i}Yeah, so I hear.
+{36942}{37025}He's goin' to Ward's Island.|We'll be spotted. Why's he doin' that?
+{37027}{37098}Maybe he's gonna go down|and see his brother.
+{37100}{37164}Well, maybe it's another drop.
+{37166}{37226}Well, he gets a free ride.
+{37730}{37774}All right, Popeye's here!
+{37776}{37902}Get your hands on your heads, get off the bar|and get on the wall! Come on, move, move!
+{37904}{38031}Come on, move out! Face the wall.|Turn around there. Move!
+{38043}{38106}- Hands outta your pockets.|- Turn around.
+{38108}{38163}Turn around. Get on the wall.
+{38210}{38286}Hey, did you drop that? Pick it up.
+{38303}{38407}- Pick it up! Come on, move!|- What are you lookin' at?
+{38411}{38484}All right, bring it here.|Get your hands outta your pockets.
+{38486}{38532}- What's my name?|- Doyle.
+{38534}{38579}- What?|- Mr Doyle.
+{38581}{38647}Come here. D'you pick your feet?
+{38649}{38735}Do you...? Get over there.|Get your hands on your head.
+{38747}{38823}- Hold 'em up.|- We told you people we were comin' back.
+{38825}{38892}We're gonna keep comin' back|until you clean this bar up.
+{38894}{38978}Keep your eye on your neighbor.|If he drops somethin', it belongs to you.
+{38980}{39059}What is this, a fuckin' hospital here? Huh?
+{39060}{39131}Turn around there, fella.|What have we got here?
+{39132}{39182}This belong to you? Huh?
+{39214}{39278}Stand up there, noddy.
+{39300}{39390}Get your hands on your fuckin' head.
+{39392}{39489}- You wanna take a ride there, fat man?|- Oh, bullshit.
+{39545}{39641}Pay attention.|We're gonna ask questions later.
+{39643}{39700}Turn around.
+{39925}{39985}All right, shut up there. Shut up!
+{40041}{40107}Anybody want a milkshake?
+{40260}{40331}All right, come over here. You and you.
+{40332}{40407}Hey, whiskers! Come over here.
+{40420}{40481}Move ass when I call you! You!
+{40530}{40582}Come on, you, baldie. Come on, move.
+{40584}{40643}All right, put it on the bar.
+{40644}{40702}- Get it on the bar!|- Get the hell in there.
+{40704}{40769}- Put your hands on your head.|- All of it.
+{40812}{40886}Smart ass, you dropped somethin'. Pick it up.
+{40946}{41029}You want that hand broken? Get it up there.
+{41041}{41101}What else you got here, huh?
+{41138}{41187}Turn around.
+{41211}{41325}You're under arrest. That goes for you too.|Get in that phone booth. Move!
+{41348}{41483}Get in there. Face the wall, put your hands|against the wall and lock yourself in.
+{41541}{41582}Hey, you!
+{41584}{41639}Haircut! Where are you going?
+{41678}{41776}- You talkin' to me, baby?|- Yeah, I'm talkin' to you! Come here!
+{41778}{41819}- What's happening?|- Where you been?
+{41820}{41855}- In there.|- Can you stand a toss?
+{41857}{41895}- Sure, I'm clean.|- You use shit?
+{41897}{41993}No, man. Who are you, Dick Tracy|or somebody? I said I was clean.
+{41995}{42047}- I'm not gonna get stuck, am I?|- I'm clean!
+{42049}{42133}- If I do, you know what happens.|- Yeah. I said I'm clean.
+{42136}{42198}Get off! I'll break your motherfuckin' ass!
+{42304}{42363}Give me a nickel.|Give me a nickel. Come on!
+{42364}{42482}I told you I'm clean. What the fuck|you wanna come down on me like that for?
+{42515}{42574}This is goddamn full of shit.
+{42630}{42707}- How's everything?|- Everything's everything, baby.
+{42708}{42763}There's nothin' out there. It's all milk.
+{42765}{42884}- There ain't nothin' around. Nobody's holdin'.|- I got a name for you. Sal Boca. Brooklyn.
+{42886}{42946}- Boca?|- Yeah. B-O-C-A.
+{42976}{43055}- Never heard of him.|- What about his wife Angie?
+{43058}{43145}Doesn't register.|There's been some talk, though.
+{43147}{43204}- About what?|- A shipment.
+{43207}{43293}Comin' in this week, the week after.|Everybody's gonna get well.
+{43295}{43356}- Well, who's bringin' it?|- Who knows?
+{43582}{43649}- Where do you want it?|- Huh?
+{43651}{43741}- Where do you want it?|- Oh, shit. This side.
+{43884}{43933}Beat it!
+{43955}{44041}I'm gonna check on this address.|If they don't know you, it's your ass.
+{44043}{44135}- I thought I told you to stand there!|- Get that hair down before Saturday.
+{44138}{44187}We're goin' now. Good-bye!
+{44244}{44351}Move ass. Tell everybody|we'll be back in an hour.
+{44365}{44442}Great, but you belong in|Bedford-Stuyvesant, not Ridgewood.
+{44444}{44559}Why don't you detach us? Give us a shot, at|least till we find out if there's anything here.
+{44561}{44706}Everybody wants Weinstock. Maybe here's|the lead we're looking for. We deserve this.
+{44708}{44803}You couldn't burn a three-time loser|with this garbage.
+{44805}{44922}The man has done absolutely nothin'.|You'll wind up in an entrapment rap.
+{44924}{45022}Brooklyn is loaded with guys that own|candy stores, two cars and go to nightclubs.
+{45024}{45116}You put this hustler together with Weinstock|and maybe we got a big score.
+{45118}{45205}Big score, my ass! At best|he's sellin' nickel-and-dime bags.
+{45208}{45329}I wouldn't be infringin' on your coffee break|if I thought it was a nickel-and-dimer.
+{45331}{45463}Your hunches have backfired before, Doyle,|or have you forgotten about that already?
+{45467}{45535}Jesus Christ, Jimmy,|what's happened to you guys?
+{45537}{45647}Every year you lead the narcotic bureau in|arrests. What was it, over 100 again last year?
+{45650}{45718}Terrific. But who? What did you bring in?
+{45720}{45788}A high-school kid in short pants|that had a twitch?
+{45790}{45885}You grab a bellhop because|he's got three joints in his sock?
+{45976}{46075}Walter, we got the information|there's no shit on the street, right?
+{46077}{46151}It's like a desert full ofjunkies|waiting to get well.
+{46153}{46259}Goddamnit, this could be it. This little|candy-store guy, he's put on a big show
+{46260}{46345}in a club with no narcotics connections.|They were all over him.
+{46347}{46423}And after working a day and night,|we tail him to Brooklyn.
+{46425}{46540}And we sat on him for practically a week, and|who do we come up with? Joel Weinstock.
+{46543}{46602}Now you gotta let us have it.
+{46644}{46707}Do you believe all this crap?
+{46710}{46770}I go with my partner.
+{46817}{46865}- What'll it take?|- A wire.
+{46867}{46951}No, two wires.|One on the store, one on the house.
+{46984}{47066}You know I have to get a court order|for a wire tap, don't you?
+{47068}{47143}- But you'll try.|- We know you can do it, Walt.
+{47211}{47293}Popeye, you still picking your feet|in Poughkeepsie?
+{47379}{47442}{y:i}J'entends parler de ça.|{y:i}Je n'arrive pas à y croire.
+{47444}{47495}{y:i}Alors je vais un peu parler pour moi.
+{47498}{47631}{y:i}J'ai tendance à penser|{y:i}à mes propres problèmes, enfin...
+{47687}{47763}Monsieur Devereaux, is this|your first trip to New York?
+{47764}{47849}- Yes, it's my first.|- Why did you choose to come by ship?
+{47851}{47926}The next several weeks|will be very difficult for me,
+{47928}{48075}and the ocean is the only place where|the telephone isn't ringing all the time.
+{48078}{48153}Do you agree with the recent survey finding
+{48156}{48243}that showed that Mayor Lindsay|was the sexiest man in the world?
+{48412}{48445}{y:i}Tout à fait, oui.
+{49740}{49836}Here's the warrants and the court order|for the wire tap. Judge gave you 60 days.
+{49838}{49931}Mulderig and Klein'll sit in for the feds.|They'll make all the buys.
+{49933}{50010}Make sure you keep 'em informed|of everything that goes down.
+{50012}{50067}You know Doyle there, don't you?
+{50070}{50200}Yeah, I know Popeye. His brilliant hunches|cost the life of a good cop.
+{50202}{50305}If this is the way you're comin' in on this,|why not stay home and save us a lot of grief?
+{50307}{50384}- Because that's my opinion.|- Shove it up your ass.
+{50393}{50432}Whatever.
+{50435}{50547}Bill, do me a favor, give them a chance.|He came in with a little basic information.
+{50550}{50639}You worked with him, had some trouble,|but don't get off on the wrong foot.
+{50641}{50732}- You have any problems, come to me.|- Simonson, just keep off my back.
+{50734}{50847}Just try and cool it with him. If you have|any problems, come to me. I'll handle him.
+{50849}{50918}- I'll be happy to work with him.|- He's a good cop.
+{50920}{51023}- He's got good hunches once in a while.|- Fine. Just keep him off my back.
+{51025}{51121}{y:i}Florida's Mackel Brothers|{y:i}invite you to join the great escape.
+{51123}{51238}{y:i}You can say good-bye to air pollution,|{y:i}commuting, high prices, rising taxes
+{51240}{51285}{y:i}and cold, depressing winters.
+{51287}{51382}{y:i}Mackel Brothers will show you the way|{y:i}to Florida and fresh, clean air.
+{51385}{51481}{y:i}Warm and sunny year-round weather|{y:i}in a home that you'll be proud to own.
+{51483}{51527}{y:i}Call Mackel Brothers right now...
+{52958}{53008}Popeye.
+{53072}{53115}Popeye.
+{53116}{53192}- What?|- It's me, Cloudy. Open the door.
+{53236}{53293}I can't.
+{53296}{53395}- What do you mean, you can't? You all right?|- Yeah, I'm all right.
+{53397}{53447}Let yourself in, will you?
+{54516}{54566}What happened?
+{54662}{54712}That crazy kid.
+{54757}{54817}She locked me up with my own cuffs.
+{54864}{54929}- Where's the keys?|- Over there.
+{55209}{55259}Hi there.
+{55585}{55645}Anybody hurt in this wreck?
+{55760}{55855}I thought I told you to get|plastic folders for this stuff.
+{55871}{55931}Your scrapbook is like you.
+{55956}{56025}- A mess.|- Give me my pants, will you?
+{56115}{56164}Come on.
+{56185}{56257}- Did you get the warrants?|- Yeah.
+{56259}{56353}I also got two feds. Mulderig and Klein.
+{56371}{56440}What do we need those pricks for?
+{56442}{56534}Because our department's got|about 908 bucks to make buys,
+{56536}{56630}and they can get all they want|from Uncle Sap. Hello.
+{56687}{56729}These yours, darling?
+{57838}{57907}30 over here for this gentleman. Can I get 35?
+{57909}{57963}- 35 here.|- 35 over here. Can I get 38?
+{57964}{58024}- Yeah, right here.|- 38 over here. How about 40?
+{58026}{58095}- 40.|- 40 over here. I got 40. Can I get 41? 41?
+{58097}{58187}40 once, 40 twice.|Sold to the gentleman for $40.
+{58188}{58285}We come now to the next number: 42399.
+{58424}{58480}- 10 bucks.|- I got $10 over here. Do I hear 12?
+{58482}{58544}- 12.|- 12 over here, 12. Can I get 14?
+{58547}{58610}- 14.|- 14 over here. How about 16? Can I get 16?
+{58612}{58639}- 16.|- 18.
+{58641}{58684}18 over there. How about 20?
+{58687}{58743}- 20.|- $20 over here. How about 22?
+{58745}{58798}- 22.|- I got 22 over here. Can I get 24?
+{58800}{58878}- 24.|- 24 over here. How about 25? 25, anybody?
+{58880}{58946}- 25.|- I got 25. Can I get 26? Can I get 26?
+{58948}{59025}25 once, 25 twice.|Sold to the gentleman for 25.
+{59042}{59072}Every car sold here...
+{59101}{59176}- "Where are you?"|- "Taking care of business."
+{59178}{59274}{y:i}What do you mean, taking care of business?|{y:i}It's after midnight.
+{59277}{59349}{y:i}You know, I had to meet some people tonight.
+{59351}{59474}{y:i}Well, finish all your meetin'people and get|{y:i}back here now. And bring a pizza with you.
+{59476}{59543}{y:i}Where am I gonna get|{y:i}a pizza this time of night?
+{59546}{59600}{y:i}Well, try, OK?
+{59603}{59668}{y:i}I don't know where I'm gonna|{y:i}find a pizza joint open.
+{59671}{59714}- "Sal?"|- "Yeah."
+{59716}{59776}"Don't forget"- "anchovies."
+{59915}{59987}- "Salvatore?"|- "Yes. Yeah, yeah. Hello."
+{59989}{60060}- Who is it?|- "Yeah, this is Sal. How are you?"
+{60062}{60148}- Sounds like a foreigner.|- "You meet me Wednesday at the hotel, OK?"
+{60151}{60218}- Sounds French.|- "Will I expect you?"
+{60220}{60287}- "Yeah. What time?"|- "12 o'clock. Yes?"
+{60290}{60339}{y:i}Yeah. Yes.
+{60689}{60785}Strictly small potatoes.|You sure can pick 'em, Doyle.
+{60876}{60952}Still wearing your gun on your ankle?
+{60954}{61014}Someone told me the reason|why you do that is
+{61016}{61086}when you meet a chick|and you rub up against her,
+{61088}{61148}she can't tell you're a cop.
+{61178}{61281}I said it's bullshit. It's gotta be|a fast-draw gimmick or somethin'.
+{61284}{61369}Bill, why don't you knock it off, huh?
+{61371}{61442}He's gettin' too far ahead.
+{61444}{61503}You're gonna lose him.
+{61904}{61974}For Christ's sake, move the car!
+{62144}{62214}What the hell is goin' on here?
+{62250}{62370}Klein, this is Cloudy. Do you read me?
+{62412}{62469}Come in, for Christ's sakes!
+{62471}{62571}{y:i}This is Cloudy. Do you read me?|{y:i}Listen, we lost him on the bridge.
+{62620}{62715}Right. I got him.|He's headin' north on East River Drive.
+{65323}{65373}Excuse me.
+{65624}{65694}You take Sal. I'll take the beard.
+{65714}{65763}There goes Sal.
+{69467}{69573}- You want the red or the white?|- Pour it in your ear.
+{71946}{72055}- Yes, sir?|- Yeah, guy just walked in, what's his name?
+{73568}{73628}I'm pretty sure that one's a Frog.
+{73650}{73705}He made me, too.
+{73707}{73817}He lives on four, he went up to six.|He's cute, real cute.
+{73819}{73908}The other guy's a Frog. He checked|into the Edison. Had a hooker sent up.
+{73910}{73979}You should have collared him right there.
+{73980}{74025}- Who's on him?|- Klein.
+{74028}{74120}- How about Sal?|- We put him to bed for the night.
+{74123}{74194}Why don't you do the same, Doyle?|You look like shit.
+{74196}{74236}Come on.
+{74240}{74321}Look, my partner and I made|this case, you know, originally.
+{74323}{74426}- We don't want any feds screwing it up.|- Case? So far you haven't shown me a thing.
+{74428}{74521}You keep shootin' your mouth off,|I'm gonna knock you right into next week.
+{74523}{74590}- Knock it off.|- Don't tell me to knock it off.
+{74592}{74654}Cut it out, will ya, for Christ's sakes!
+{74656}{74726}There's nothin' goin' down. Get some sleep.
+{75796}{75861}Blastoff. 180.
+{76052}{76147}200. Good Housekeeping seal of approval.
+{76159}{76233}210. US government certified.
+{76261}{76345}220. Lunar trajectory.
+{76370}{76434}Junk-of-the-month club. Sirloin steak.
+{76448}{76528}230. Grade-A poison.
+{76630}{76679}Absolute dynamite.
+{76718}{76788}89 per cent pure junk. Best I've ever seen.
+{76790}{76874}If the rest is like this,|you'll be dealin' on this load for two years.
+{76876}{76947}- It's worth the half million?|- How many kilos?
+{76951}{77002}- 60.|- 60 kilos...
+{77004}{77133}Eight big ones a kilo, right? This stuff'll|take a seven-to-one hit on the street.
+{77135}{77209}By the time it gets down to|nickel bags, it'll be 32 million.
+{77211}{77312}Thank you, Howard. Take what's left|there with you and good night.
+{77315}{77372}Uh-uh. Not that one. The little one.
+{77475}{77552}- I guess we got a deal, huh?|- What we got here, Sal, is a test.
+{77555}{77634}A deal for half a million dollars? Maybe.
+{77636}{77685}Maybe?
+{77687}{77786}Come on, the guy's in a hurry. He wants|the bread. He wants to go back to France.
+{77787}{77915}This guy's not gonna play games. Look, he's|one of the shrewdest cats I ever come across.
+{77916}{77969}What am I, a schmuck? What's the hurry?
+{77971}{78083}He could see a couple of shows,|visit the top of the Empire State Building.
+{78085}{78180}Don'tjerk me, Weinstock.|I spent a lot of time settin' this one up.
+{78182}{78268}So what do you want, a badge?|This is your first major-league game, Sal.
+{78271}{78394}One thing I learned: Move calmly,|move cautiously, you'll never be sorry.
+{78396}{78459}Look, I've been damn careful up to now.
+{78463}{78591}This is why your phone lines are tapped and|the feds are crawlin' all over you like fleas.
+{78593}{78732}- He'll take the deal somewhere else.|- Let him take it and find out how easy it is
+{78734}{78839}to put together a half a million in cash.|There's no hurry to do this kind of business.
+{78841}{78919}The stuff is here!|We can make the switch in an hour!
+{78920}{78991}Look, I'm tellin' you,|he'll split if we don't move.
+{78992}{79082}This guy's got 'em like that.|He's everything they say he is.
+{79083}{79182}What about you, Sal?|Are you everything they say you are?
+{83255}{83311}That son of a bitch.
+{86533}{86577}Thank you.
+{86579}{86659}- Hello?|- This is Doyle. I'm sittin' on Frog One.
+{86661}{86734}Yeah, I know that. We got|the Westbury covered like a tent.
+{86735}{86820}The Westbury, my ass! I got him|on the shuttle at Grand Central.
+{86822}{86876}Now what the hell's goin' on up there?
+{86878}{86948}I make him comin' out of the hotel.|He was free as a bird.
+{86950}{87021}What the hell are you talkin' about?
+{87023}{87078}Yeah, well, uh...
+{87079}{87165}Listen, I don't care how many|bartenders you got that are sick.
+{87167}{87231}No, I'm not workin' thatjoint.
+{87233}{87294}That's right. Same to ya, buddy.
+{87448}{87498}Can I get a grape drink?
+{88710}{88769}{y:i}Watch the closing doors.
+{89191}{89241}Son of a bitch!
+{89911}{89985}Hi. Can I have a round-trip|ticket to Washington?
+{89987}{90032}- Cash or charge?|- Cash.
+{90035}{90159}Cash is $54. Please print your name|on both tickets before you board the plane.
+{90195}{90265}- Bye-bye.|- Bye-bye. Have a nice flight.
+{90283}{90333}- Yes, sir?|- Round trip to Washington.
+{90920}{90983}- So?|- So everything's goin' great.
+{90986}{91043}Terrific. Beautiful.
+{91044}{91103}I'll need a few more days, though.
+{91130}{91239}The boys think we oughta cool it for a while,|just to make sure there's no heat.
+{91241}{91313}You must take me for an imbecile.
+{91315}{91390}Why do you think I asked you|to meet me in Washington?
+{91393}{91500}I haven't spent five minutes in New York City|without the company of a policeman.
+{91502}{91595}Look, I'm levelin' with you.|I need a little more time.
+{91639}{91743}My people think we oughta find a better time|to make the switch, that's all.
+{91745}{91806}It has to be by the end of this week.
+{91807}{91882}Look, Charnier, you gotta be reasonable.
+{91908}{91967}It's your problem.
+{91969}{92029}Well, it's your problem, too.
+{92031}{92091}So nice to have seen you again.
+{94408}{94478}We found a set of works|on the kid driving the sports car.
+{94480}{94561}- His girlfriend's in the back. She's dead.|- Give the car a toss.
+{94563}{94659}- I say we keep sittin' on Boca.|- Jimmy, give it up. It's all over with.
+{94663}{94796}If there was a deal, it's gone down by now.|We blew our warrants and we blew our cover.
+{94798}{94923}Listen, I know the deal hasn't gone down.|I know it. I can feel it. I'm dead certain.
+{94927}{95022}Last time you were dead certain,|we ended up with a dead cop.
+{95055}{95144}Break it up! Will you two break it up?
+{95147}{95222}Stop it! Hold on to yourself.|What's the matter with you?
+{95224}{95344}Jimmy, you wasted two months on this.|No collars are comin' in
+{95346}{95439}while you're runnin' around town|jerkin' off! Now go back to work!
+{95441}{95519}You're off special assignment!
+{96373}{96431}Get down! Get out! Get outta the area!
+{96443}{96546}Leave her alone! Stay away!|Leave her alone. There's a sniper up there!
+{100394}{100455}Stop that man! He's wanted by the police!
+{100699}{100770}- What's the next stop into the city?|- 25th Avenue.
+{101046}{101095}Hold it!
+{101324}{101374}Hold it!
+{101433}{101498}Police emergency. I need your car.
+{101529}{101589}When am I gonna get it back?
+{101766}{101797}For Christ's sake!
+{102887}{102933}Hold it! Stop! Halt!
+{104254}{104310}- Don't stop.|- But...
+{104311}{104406}- Don't stop or I'll kill you.|- I gotta stop in the next station.
+{104408}{104469}Touch the brakes and I'll blow you in half.
+{105315}{105405}- What's goin' on?|- I don't know. Sit down, buddy. Relax.
+{105604}{105674}Coke! Coke, you all right?
+{106142}{106199}Hey, Coke, you all right?
+{106201}{106226}Don't answer.
+{107777}{107838}Hey, Coke, you all right?
+{107908}{107961}- Get back.|- Relax.
+{107989}{108059}Keep going.
+{108401}{108484}You're not gonna get away with this.|Put the gun down.
+{108487}{108539}Get back!
+{108541}{108594}- Come on, now.|- I said get back!
+{108776}{108835}Stop!
+{111452}{111484}Hold it!
+{111516}{111570}Let's get outta here!
+{111966}{112025}Come on, come on. Shake your ass.
+{113930}{114013}Can't seem to find the damn ticket.
+{114015}{114110}- Where's the guy?|- He's gettin' my car. He's in the back.
+{114382}{114431}Thank you.
+{114503}{114564}- Can I help you, sir?|- Yeah.
+{114587}{114681}- You got your ticket?|- I must have dropped mine.
+{114683}{114743}What kinda ticket did you have?
+{115067}{115142}He's in the brown Lincoln. Foreign plates.
+{115976}{116037}He's walking towards Front Street.
+{116039}{116120}{y:i}Got him. Angie's parked over here in the LTD.
+{116123}{116223}{y:i}Cute. You stay with her.|{y:i}We're gonna sit on the Lincoln.
+{116479}{116539}The car's dirty, Cloudy.
+{116570}{116646}We're gonna sit here all night if we have to.
+{119395}{119445}What time is it?
+{119531}{119599}Ten after four.
+{119601}{119672}- Huh?|- Ten after four.
+{120247}{120332}That's the third time|those guys have been around.
+{120890}{120947}All right, let's hit 'em. Hit 'em!
+{121007}{121067}Freeze!
+{121068}{121139}Nobody move! Put your hands in the air!
+{121365}{121453}Stay right there. If you move,|I'll blow your fuckin' head off.
+{121455}{121545}- What the hell's that?|- What are you doin'? Turn around.
+{121615}{121721}Who's the boss here? Who's runnin' this|outfit? You are? What are you doin' here?
+{121723}{121808}- Just runnin' around.|- Who sent you down here? Don't talk back.
+{121811}{121871}- What are you doin' here?|- We saw the car.
+{121874}{121960}We was breaking down the tires.|That's all it was.
+{121962}{122012}Lock 'em up.
+{122062}{122111}Come on, come on!
+{122366}{122451}Nothin' but a bunch of lousy spic car thieves!
+{122550}{122653}- Nothin' there except a New York City map.|- Are you bullshittin' me?
+{122655}{122718}That car's dirty.
+{122719}{122779}Take it in and tear it apart.
+{123654}{123711}Tear it out.
+{123800}{123850}Nothin' here, Jimmy.
+{124521}{124571}This is all solid.
+{125380}{125468}There's nobody been under that car|since it came from the factory.
+{125470}{125524}That thing is clean.
+{125527}{125582}I don't buy that, Irv.
+{125584}{125637}The stuff is in that car.
+{125639}{125697}Well, you find it. I can't.
+{126043}{126132}{y:i}Enfin on ne va pas passer la journée ici.|{y:i}Ça fait deux heures qu'on est là.
+{126134}{126167}{y:i}Soyez patient.
+{126171}{126227}Look, the car was lost sometime last night.
+{126228}{126296}First they send us to Pier One,|then here. Then what?
+{126299}{126358}Why did you park the car|down by the waterfront?
+{126359}{126467}You're staying in midtown Manhattan|and you lose the car by the Brooklyn Bridge?
+{126469}{126570}Monsieur Devereaux is scouting locations|for a film for French television.
+{126572}{126627}He probably left the car to look at something.
+{126630}{126729}We were told by the police commissioner|that the car was brought to this garage.
+{126731}{126809}- I demand its immediate return.|- You have to be patient.
+{126811}{126861}We get four or five hundred cars here a day.
+{126863}{126934}Monsieur Devereaux is|an important guest of this country.
+{126937}{127040}He is working with the absolute cooperation|and participation of your government.
+{127043}{127106}Here are his credentials|from the French consulate.
+{127108}{127231}Unless you wish to see this in his film,|I suggest you locate the car immediately.
+{127259}{127390}You're in a no-smoking area, sir. Would|you please extinguish your cigarettes?
+{127761}{127841}What was the weight of|the car when you got it, Irv?
+{128004}{128054}4795 pounds.
+{128187}{128248}You sure?
+{128250}{128345}That's what it was. 4795 pounds|when it came into the shop.
+{128372}{128457}Owner's manual says 4675.
+{128493}{128553}That's 120 pounds overweight.
+{128636}{128713}And when it was booked|into Marseilles it was 4795.
+{128715}{128811}That's still 120 pounds overweight.|Jimmy's gotta be right.
+{128854}{128941}Listen, I ripped everything outta there|except the rocker panels.
+{128943}{128994}Come on, Irv. What the hell is that?
+{129564}{129620}Shit.
+{129649}{129694}Son of a bitch.
+{129695}{129746}All right.
+{129968}{130060}I got it for you, Randy.|Itjust came in from downtown.
+{130063}{130126}- Who's Devereaux?|- I am Mr Devereaux. Why?
+{130127}{130227}I'm sorry, Mr Devereaux, but we get a lot|of cars here and it's hard to keep track...
+{130230}{130308}- You mean the car is here now?|- Oh, yeah. It's right outside.
+{130310}{130390}They stole it right off|the street from you, huh?
+{130391}{130486}Goddamn. You're gonna have to pay|the towing charge, you know.
+{130489}{130575}I was told these things happen in|New York, but one never expects it.
+{130577}{130654}Yeah, well, that's New York.|Is this your first trip over here?
+{130657}{130710}Yes. Where's my car, please?
+{130711}{130854}It's right over here.|You're lucky this time. It's in perfect shape.
+{130856}{130924}Not a scratch. You must lead a charming life.
+{131451}{131503}Henri.
+{131591}{131652}{y:i}Je vous attendais.
+{138075}{138126}Let's go!
+{138176}{138251}I wouldn't be surprised if I'd been followed.
+{138719}{138803}- Listen, I'll see you at Pop's tonight.|- OK, babe. Take care.
+{140255}{140315}They got the bridge blocked off!
+{140948}{141021}This is the police. You're surrounded.
+{141023}{141083}Come out with your hands up!
+{141085}{141155}This is the police. You're surrounded.
+{142547}{142611}Give 'em the gas!
+{142859}{142922}Hold your fire!
+{143083}{143130}Stop!
+{143196}{143267}They're comin' out! Hold your fire!
+{143754}{143819}Popeye. It's me, it's me.
+{144067}{144119}Frog One is in that room.
+{145187}{145235}Drop it!
+{145689}{145739}Mulderig.
+{145793}{145842}You shot Mulderig.
+{145867}{145966}The son of a bitch is here.|I saw him. I'm gonna get him.
+{148257}{148332}Visiontext Subtitles: Sally Lewis
+{149254}{149302}US ENGLISH

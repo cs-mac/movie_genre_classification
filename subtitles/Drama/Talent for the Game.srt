@@ -1,0 +1,317 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Italics Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Phone,Open Sans Semibold,21,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,4,0,7,53,27,27,1
+Style: Episode Title,Open Sans Semibold,36,&H00CA60B6,&H000000FF,&H00F1C0F7,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,635,93,107,0
+Style: Next,Open Sans Semibold,30,&H00DFDFDF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,5,64,77,1
+Style: Remain,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,1
+Style: Dead,Open Sans Semibold,30,&H00D3C8D4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,364,364,144,1
+Style: Participation,Open Sans Semibold,21,&H00EAEEF3,&H000000FF,&H00397488,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,107,0,239,1
+Style: King's Game Rules,Open Sans Semibold,30,&H0004129F,&H000000FF,&H00447E8E,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,291,291,24,1
+Style: sign_14237_142_As_a_class__cut_,Open Sans Semibold,21,&H00EAEEF3,&H000000FF,&H00397488,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,37,377,163,1
+Style: sign_18537_186_End_the_game_by_,Open Sans Semibold,21,&H00000000,&H000000FF,&H00C5F7FD,&H00000000,1,0,0,0,100,100,0,0,1,4,0,7,53,301,133,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.23,0:00:03.40,Main,Ryou,0000,0000,0000,,Nobu-kun, we're almost out of time!
+Dialogue: 0,0:00:03.40,0:00:04.98,Main,Ryou,0000,0000,0000,,Sixty seconds!
+Dialogue: 0,0:00:05.29,0:00:06.98,Main,Nobuaki,0000,0000,0000,,We're almost there! Go, go, go!
+Dialogue: 0,0:00:08.38,0:00:13.11,Main,Natsuko,0000,0000,0000,,Who wants to guess what I'm about to do?
+Dialogue: 0,0:00:13.11,0:00:15.34,Main,Nobuaki,0000,0000,0000,,You're in the way!
+Dialogue: 0,0:00:16.85,0:00:18.37,Italics,Natsuko narr,0000,0000,0000,,I won't let you through!
+Dialogue: 0,0:00:18.87,0:00:21.87,Italics,Nobuaki narr,0000,0000,0000,,I don't have time to deal with you!
+Dialogue: 0,0:00:23.37,0:00:25.12,Main,Ryou,0000,0000,0000,,Nobu-kun!
+Dialogue: 0,0:00:23.37,0:00:25.12,Main,Riona,0000,0000,0000,,Nobuaki!
+Dialogue: 0,0:00:25.83,0:00:28.13,Main,Nobuaki,0000,0000,0000,,Go! Ryou! Riona!
+Dialogue: 0,0:02:13.46,0:02:15.74,Main,Ryou,0000,0000,0000,,I'm going to get strong.
+Dialogue: 0,0:02:16.67,0:02:20.17,Main,Ryou,0000,0000,0000,,So Nobu-kun and Teru-kun will be proud of me!
+Dialogue: 0,0:02:20.17,0:02:23.93,Main,Riona,0000,0000,0000,,You're running because you want to \Nhave other people acknowledge you?
+Dialogue: 0,0:02:23.93,0:02:24.74,Main,Ryou,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:25.40,0:02:29.00,Main,Riona,0000,0000,0000,,Some strong person you are.
+Dialogue: 0,0:02:29.50,0:02:32.43,Main,Riona,0000,0000,0000,,Normally, you'd do it for yourself!
+Dialogue: 0,0:02:33.49,0:02:34.55,Main,Ryou,0000,0000,0000,,I...
+Dialogue: 0,0:02:35.67,0:02:37.37,Main,Ryou,0000,0000,0000,,I'm fine with that!
+Dialogue: 0,0:02:44.88,0:02:46.09,Main,Ryou,0000,0000,0000,,We made it!
+Dialogue: 0,0:02:51.52,0:02:53.52,Phone,Text,0000,0000,0000,,King\NSeat No. 16\NKing's Game\N\NObedience confirmed
+Dialogue: 0,0:02:54.32,0:02:57.53,Main,Ryou,0000,0000,0000,,Riona-chan! We survived!
+Dialogue: 0,0:02:57.91,0:03:00.74,Main,Riona,0000,0000,0000,,Where is he? Where's Nobuaki?!
+Dialogue: 0,0:03:00.74,0:03:03.05,Main,Nobuaki,0000,0000,0000,,I'm right here.
+Dialogue: 0,0:03:04.17,0:03:05.48,Main,Riona,0000,0000,0000,,Nobuaki!
+Dialogue: 0,0:03:06.95,0:03:08.04,Main,Nobuaki,0000,0000,0000,,Did you see Takuya and the rest?
+Dialogue: 0,0:03:09.22,0:03:11.54,Main,Nobuaki,0000,0000,0000,,They should have gotten here before us.
+Dialogue: 0,0:03:12.47,0:03:14.92,Main,Riona,0000,0000,0000,,How long are you going \Nto be all close with Aya?
+Dialogue: 0,0:03:15.60,0:03:18.05,Main,Riona,0000,0000,0000,,Let her down and rest already.
+Dialogue: 0,0:03:18.05,0:03:20.80,Main,Nobuaki,0000,0000,0000,,Huh? Ah, yeah.
+Dialogue: 0,0:03:24.02,0:03:29.31,Main,Nobuaki,0000,0000,0000,,Ryou, can you check how many \Nobedience confirmations we got?
+Dialogue: 0,0:03:29.31,0:03:31.02,Main,Ryou,0000,0000,0000,,Let's see.
+Dialogue: 0,0:03:31.54,0:03:32.44,Main,Ryou,0000,0000,0000,,Five.
+Dialogue: 0,0:03:33.27,0:03:38.46,Main,Nobuaki,0000,0000,0000,,Natsuko, me, Ryou, Riona, Aya...
+Dialogue: 0,0:03:42.84,0:03:44.57,Main,Ryou,0000,0000,0000,,L-Look...
+Dialogue: 0,0:03:44.57,0:03:46.58,Phone,Text,0000,0000,0000,,King\NSeat No. 16\NKing's Game\N\NSeat No. 10 Kobayashi Yuuna\NSeat No. 12 Sakamoto Takuya\NSeat No. 29 Minami Rina\N\Nwill be punished by vomiting blood to \Ndeath for disobeying the King's orders.
+Dialogue: 0,0:03:46.58,0:03:49.40,Main,Nobuaki,0000,0000,0000,,They should have gotten here first.
+Dialogue: 0,0:03:49.84,0:03:52.26,Main,Nobuaki,0000,0000,0000,,Why are they being punished?
+Dialogue: 0,0:03:54.31,0:03:56.34,Main,Nobuaki,0000,0000,0000,,Are you behind this, too?
+Dialogue: 0,0:03:56.87,0:03:58.07,Main,Nobuaki,0000,0000,0000,,Natsuko!
+Dialogue: 0,0:03:58.85,0:04:02.82,Main,Natsuko,0000,0000,0000,,Mind not blaming me for {\i1}every{\i0} \Nlittle thing that goes wrong?
+Dialogue: 0,0:04:04.31,0:04:08.60,Main,Natsuko,0000,0000,0000,,And by the way, thank you \Nfor that {\i1}lovely{\i0} kick.
+Dialogue: 0,0:04:09.59,0:04:11.84,Main,Nobuaki,0000,0000,0000,,Have you seen Takuya and the rest?
+Dialogue: 0,0:04:11.84,0:04:14.35,Main,Natsuko,0000,0000,0000,,Oh, yes indeed.
+Dialogue: 0,0:04:14.76,0:04:18.90,Main,Natsuko,0000,0000,0000,,It seemed to me that the three \Nof them got confused and lost.
+Dialogue: 0,0:04:20.40,0:04:22.15,Main,Natsuko,0000,0000,0000,,Maybe they got hurt?
+Dialogue: 0,0:04:29.76,0:04:32.41,Main,Natsuko,0000,0000,0000,,God, what morons.
+Dialogue: 0,0:04:37.91,0:04:41.58,Main,Natsuko,0000,0000,0000,,So! What's the next order?
+Dialogue: 0,0:04:41.58,0:04:44.08,Main,Natsuko,0000,0000,0000,,Will this be the last one?
+Dialogue: 0,0:04:44.08,0:04:46.68,Main,Natsuko,0000,0000,0000,,What do you think, Nobuaki?
+Dialogue: 0,0:04:46.68,0:04:50.18,Main,Nobuaki,0000,0000,0000,,Natsuko, you—
+Dialogue: 0,0:04:53.27,0:04:54.58,Main,Riona,0000,0000,0000,,Nobuaki?!
+Dialogue: 0,0:04:55.73,0:04:56.81,Main,Riona,0000,0000,0000,,Ryou?!
+Dialogue: 0,0:04:56.81,0:04:59.27,Main,Riona,0000,0000,0000,,Have you lost it, too?!
+Dialogue: 0,0:05:01.04,0:05:02.76,Main,Ryou,0000,0000,0000,,I'm going to get strong.
+Dialogue: 0,0:05:03.25,0:05:06.32,Main,Ryou,0000,0000,0000,,So Nobu-kun and Teru-kun will be proud of me.
+Dialogue: 0,0:05:06.79,0:05:08.79,Main,Riona,0000,0000,0000,,But why did you do {\i1}this{\i0}?!
+Dialogue: 0,0:05:08.79,0:05:10.33,Main,Ryou,0000,0000,0000,,The next order...
+Dialogue: 0,0:05:10.78,0:05:13.31,Main,Ryou,0000,0000,0000,,is to cut your own body up
+Dialogue: 0,0:05:13.31,0:05:16.28,Main,,0000,0000,0000,,and put the parts together \Nto make a human doll.
+Dialogue: 0,0:05:16.69,0:05:18.38,Main,Ryou,0000,0000,0000,,The required parts are a head,
+Dialogue: 0,0:05:18.38,0:05:23.59,Main,Ryou,0000,0000,0000,,torso, right arm, left arm, \Nright leg, and left leg.
+Dialogue: 0,0:05:24.04,0:05:26.23,Main,Ryou,0000,0000,0000,,We're allowed to do it as a group.
+Dialogue: 0,0:05:27.30,0:05:29.77,Main,Riona,0000,0000,0000,,Wh-What the hell?
+Dialogue: 0,0:05:30.39,0:05:34.89,Main,Riona,0000,0000,0000,,We're supposed to cut off our own \Nheads and limbs and make a doll?!
+Dialogue: 0,0:05:34.89,0:05:36.39,Main,Riona,0000,0000,0000,,That doesn't make any sense!
+Dialogue: 0,0:05:36.95,0:05:39.40,Main,Riona,0000,0000,0000,,We aren't model kits!
+Dialogue: 0,0:05:39.40,0:05:42.15,Main,Riona,0000,0000,0000,,What are you going to do, {\i1}glue{\i0} us together?
+Dialogue: 0,0:05:42.48,0:05:45.65,Main,Riona,0000,0000,0000,,This would make serial killers go pale!
+Dialogue: 0,0:05:46.45,0:05:47.72,Main,Ryou,0000,0000,0000,,Riona-chan...
+Dialogue: 0,0:05:48.12,0:05:51.08,Main,Ryou,0000,0000,0000,,I'll cut off all my limbs.
+Dialogue: 0,0:05:51.65,0:05:54.41,Main,Ryou,0000,0000,0000,,But there's a problem.
+Dialogue: 0,0:05:55.01,0:05:56.22,Main,Ryou,0000,0000,0000,,I can't cut my head off by myself—
+Dialogue: 0,0:05:56.22,0:05:57.90,Main,Riona,0000,0000,0000,,There's nothing but problems with this!
+Dialogue: 0,0:05:57.90,0:06:00.44,Main,Riona,0000,0000,0000,,Do you {\i1}hear{\i0} yourself?!
+Dialogue: 0,0:06:00.44,0:06:02.68,Main,Riona,0000,0000,0000,,If your head is cut off, you'll {\i1}die{\i0}.
+Dialogue: 0,0:06:02.68,0:06:03.92,Main,Riona,0000,0000,0000,,You won't be able to move.
+Dialogue: 0,0:06:04.45,0:06:08.43,Main,Ryou,0000,0000,0000,,Yeah. So I can't do it alone.
+Dialogue: 0,0:06:11.84,0:06:16.93,Main,Natsuko,0000,0000,0000,,You can get what you want with this.
+Dialogue: 0,0:06:18.26,0:06:23.69,Main,Ryou,0000,0000,0000,,Riona-chan, this whole time, \NI've wanted to help somebody.
+Dialogue: 0,0:06:23.69,0:06:26.41,Main,Ryou,0000,0000,0000,,The same way Teru-kun helped Nobu-kun.
+Dialogue: 0,0:06:28.20,0:06:29.45,Main,Riona,0000,0000,0000,,Don't!
+Dialogue: 0,0:06:29.45,0:06:30.95,Main,Ryou,0000,0000,0000,,Now's that time.
+Dialogue: 0,0:06:35.08,0:06:36.20,Main,Riona,0000,0000,0000,,Just stop!
+Dialogue: 0,0:06:36.20,0:06:37.24,Main,Ryou,0000,0000,0000,,Stay back!
+Dialogue: 0,0:06:38.24,0:06:40.21,Main,Ryou,0000,0000,0000,,Someone has to do it.
+Dialogue: 0,0:06:40.85,0:06:42.44,Main,Ryou,0000,0000,0000,,You know that!
+Dialogue: 0,0:06:43.68,0:06:48.97,Main,Natsuko,0000,0000,0000,,Ryou, hold down that switch, \Nand pull it again, hard.
+Dialogue: 0,0:06:52.61,0:06:55.20,Main,Ryou,0000,0000,0000,,I'm going to become a strong man.
+Dialogue: 0,0:06:55.20,0:06:56.97,Main,Ryou,0000,0000,0000,,I swear it!
+Dialogue: 0,0:07:02.79,0:07:04.23,Main,Riona,0000,0000,0000,,Stop him!
+Dialogue: 0,0:07:06.02,0:07:08.60,Main,Natsuko,0000,0000,0000,,It got stuck in the bone?
+Dialogue: 0,0:07:08.60,0:07:09.99,Main,Natsuko,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:12.24,0:07:14.49,Main,Natsuko,0000,0000,0000,,I'll lend a hand.
+Dialogue: 0,0:07:23.59,0:07:27.08,Main,Natsuko,0000,0000,0000,,Come on, Ryou. You need to do another, right?
+Dialogue: 0,0:07:27.64,0:07:30.68,Main,Natsuko,0000,0000,0000,,If you take too long \Nyou'll bleed out and die.
+Dialogue: 0,0:07:30.68,0:07:32.01,Main,Natsuko,0000,0000,0000,,Oh?
+Dialogue: 0,0:07:32.40,0:07:34.25,Main,Natsuko,0000,0000,0000,,You already did?
+Dialogue: 0,0:07:38.94,0:07:42.52,Main,Riona,0000,0000,0000,,No. No. No!
+Dialogue: 0,0:07:45.27,0:07:47.88,Main,Natsuko,0000,0000,0000,,What to do next?
+Dialogue: 0,0:07:47.88,0:07:51.28,Main,Natsuko,0000,0000,0000,,I'll need Nobuaki and Aya to wake up.
+Dialogue: 0,0:07:51.78,0:07:54.36,Main,Riona,0000,0000,0000,,Y-You aren't human!
+Dialogue: 0,0:07:54.36,0:07:56.24,Main,Riona,0000,0000,0000,,You're insane!
+Dialogue: 0,0:07:56.24,0:07:58.04,Main,Riona,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:07:58.04,0:08:01.45,Main,Natsuko,0000,0000,0000,,Oh? You can't even stand.
+Dialogue: 0,0:08:01.45,0:08:03.04,Main,Natsuko,0000,0000,0000,,What are {\i1}you{\i0} going to do?
+Dialogue: 0,0:08:05.49,0:08:08.05,Main,Aya,0000,0000,0000,,Did you kill Ryou?
+Dialogue: 0,0:08:10.39,0:08:11.86,Main,Aya,0000,0000,0000,,You'll pay!
+Dialogue: 0,0:08:11.86,0:08:12.88,Main,Aya,0000,0000,0000,,Give him back!
+Dialogue: 0,0:08:12.88,0:08:14.80,Main,Aya,0000,0000,0000,,Give Ryou back!
+Dialogue: 0,0:08:15.57,0:08:16.97,Main,Natsuko,0000,0000,0000,,Shut up.
+Dialogue: 0,0:08:16.97,0:08:18.89,Main,Natsuko,0000,0000,0000,,Don't get in my way!
+Dialogue: 0,0:08:23.19,0:08:28.15,Main,Natsuko,0000,0000,0000,,Oh, great. I suppose I'll need you \Nto do Aya's part of the work now.
+Dialogue: 0,0:08:30.61,0:08:31.90,Main,Natsuko,0000,0000,0000,,Where should we cut first?
+Dialogue: 0,0:08:32.31,0:08:33.16,Main,Riona,0000,0000,0000,,No.
+Dialogue: 0,0:08:33.65,0:08:34.92,Main,Riona,0000,0000,0000,,Help me...
+Dialogue: 0,0:08:34.92,0:08:36.41,Main,Riona,0000,0000,0000,,Nobuaki...
+Dialogue: 0,0:08:37.89,0:08:41.24,Main,Natsuko,0000,0000,0000,,This coming from "Mistress Riona" \Nwho's always on her high horse...
+Dialogue: 0,0:08:41.24,0:08:43.93,Main,Natsuko,0000,0000,0000,,"Help me, Nobuaki!"
+Dialogue: 0,0:08:43.93,0:08:47.67,Main,Natsuko,0000,0000,0000,,That's actually pretty cute.
+Dialogue: 0,0:08:48.00,0:08:49.42,Main,Natsuko,0000,0000,0000,,Well, I hate to break it to you,
+Dialogue: 0,0:08:49.94,0:08:52.17,Main,Natsuko,0000,0000,0000,,but no one's going to save you.
+Dialogue: 0,0:08:54.53,0:08:56.43,Main,Nobuaki,0000,0000,0000,,Stop!
+Dialogue: 0,0:08:57.84,0:08:59.18,Main,Riona,0000,0000,0000,,Nobuaki!
+Dialogue: 0,0:08:59.62,0:09:01.61,Main,Nobuaki,0000,0000,0000,,Did you do this?
+Dialogue: 0,0:09:02.10,0:09:04.19,Main,Natsuko,0000,0000,0000,,It's today's order.
+Dialogue: 0,0:09:04.19,0:09:08.19,Main,Natsuko,0000,0000,0000,,We're supposed to cut up \Nbodies and make a doll.
+Dialogue: 0,0:09:08.62,0:09:10.69,Main,Natsuko,0000,0000,0000,,Ryou did it himself.
+Dialogue: 0,0:09:11.22,0:09:14.26,Main,Nobuaki,0000,0000,0000,,He went along with this bullshit order?
+Dialogue: 0,0:09:14.84,0:09:15.99,Main,Riona,0000,0000,0000,,Ryou, he...
+Dialogue: 0,0:09:17.25,0:09:19.18,Main,Riona,0000,0000,0000,,He said he wanted to become strong.
+Dialogue: 0,0:09:19.86,0:09:23.11,Main,Riona,0000,0000,0000,,To become a man like you and Teru-kun...
+Dialogue: 0,0:09:26.13,0:09:28.71,Main,Nobuaki,0000,0000,0000,,But you already {\i1}were{\i0} strong.
+Dialogue: 0,0:09:29.25,0:09:33.71,Main,Nobuaki,0000,0000,0000,,You're so small, but you \Nstill ran all this way.
+Dialogue: 0,0:09:33.71,0:09:37.55,Main,Nobuaki,0000,0000,0000,,{\fad(613,1)}You were exhausted, but you \Nkept encouraging everyone.
+Dialogue: 0,0:09:38.38,0:09:40.89,Main,Nobuaki,0000,0000,0000,,{\fad(1,1061)}You're far more of a man than I ever was.
+Dialogue: 0,0:09:41.59,0:09:43.59,Main,Nobuaki,0000,0000,0000,,You were scared, right?
+Dialogue: 0,0:09:43.59,0:09:46.39,Main,Nobuaki,0000,0000,0000,,But you hung in there, Ryou.
+Dialogue: 0,0:09:47.70,0:09:49.77,Main,Natsuko,0000,0000,0000,,So, what are you going to do?
+Dialogue: 0,0:09:50.45,0:09:52.30,Main,Natsuko,0000,0000,0000,,Dig graves for them?
+Dialogue: 0,0:09:53.78,0:09:58.78,King's Game Rules,Text,0000,0000,0000,,King\NKing's Game
+Dialogue: 0,0:09:53.78,0:09:58.78,sign_14237_142_As_a_class__cut_,Text,0000,0000,0000,,As a class, cut up your own bodies, and \Nconnect the parts to create a human shape.\NThe necessary parts are a head, torso, right \Narm, left arm, right leg, and left leg.\NYou may complete the doll \Nusing any number of people.\NIf you don't create the doll, \Nyou will all be punished.
+Dialogue: 0,0:09:58.78,0:10:03.79,King's Game Rules,Text,0000,0000,0000,,King\NKing's Game
+Dialogue: 0,0:09:58.78,0:10:03.79,Participation,Text,0000,0000,0000,,Obedience confirmed.
+Dialogue: 0,0:10:04.26,0:10:08.53,Main,Nobuaki,0000,0000,0000,,Cut up our bodies and create a human doll?
+Dialogue: 0,0:10:08.53,0:10:11.04,Main,Nobuaki,0000,0000,0000,,Why would the king give us this insane order?
+Dialogue: 0,0:10:11.04,0:10:13.54,Main,Natsuko,0000,0000,0000,,Who cares why?
+Dialogue: 0,0:10:14.07,0:10:16.30,Main,Natsuko,0000,0000,0000,,What matters is how we're going to do it!
+Dialogue: 0,0:10:16.30,0:10:19.45,Main,Nobuaki,0000,0000,0000,,We can't keep following these insane orders.
+Dialogue: 0,0:10:19.45,0:10:22.30,Main,Nobuaki,0000,0000,0000,,We won't have enough lives left for them!
+Dialogue: 0,0:10:22.79,0:10:28.48,Main,Nobuaki,0000,0000,0000,,Think! How can we put an end to this game?
+Dialogue: 0,0:10:28.48,0:10:31.96,Main,Nobuaki,0000,0000,0000,,Isn't there anything we can do?
+Dialogue: 0,0:10:31.96,0:10:34.94,Main,Natsuko,0000,0000,0000,,Good God, you're still going on about that?
+Dialogue: 0,0:10:39.88,0:10:45.20,Main,Natsuko,0000,0000,0000,,You two were doing something \Nin secret before coming here.
+Dialogue: 0,0:10:45.20,0:10:46.97,Main,Natsuko,0000,0000,0000,,What were you up to?
+Dialogue: 0,0:10:48.64,0:10:49.88,Main,Riona,0000,0000,0000,,Nobuaki.
+Dialogue: 0,0:10:50.71,0:10:53.21,Main,Riona,0000,0000,0000,,She might know something.
+Dialogue: 0,0:10:53.94,0:10:55.61,Main,Riona,0000,0000,0000,,If you have any clues,
+Dialogue: 0,0:10:56.52,0:10:58.97,Main,Riona,0000,0000,0000,,maybe we should brainstorm together.
+Dialogue: 0,0:11:02.79,0:11:07.82,Main,Riona,0000,0000,0000,,Everyone who dies gets a \None-letter text sent to them.
+Dialogue: 0,0:11:08.48,0:11:12.23,Main,Riona,0000,0000,0000,,Do you know anything about that?
+Dialogue: 0,0:11:13.81,0:11:17.37,Main,Natsuko,0000,0000,0000,,I didn't think you idiots \Nhad noticed that, too.
+Dialogue: 0,0:11:22.24,0:11:26.30,Main,Natsuko,0000,0000,0000,,I caught onto it when I had to \Nplay the game at my last school.
+Dialogue: 0,0:11:26.93,0:11:32.62,Main,Natsuko,0000,0000,0000,,This time, I've been collecting \Nthem since the game started.
+Dialogue: 0,0:11:33.59,0:11:38.65,Main,Riona,0000,0000,0000,,Maybe we can get a sentence if we put \Nhers together with the ones I have.
+Dialogue: 0,0:11:38.65,0:11:39.90,Main,Nobuaki,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:39.90,0:11:41.13,Main,Nobuaki,0000,0000,0000,,Ria was saying...
+Dialogue: 0,0:11:41.49,0:11:46.81,Main,Nobuaki,0000,0000,0000,,That the King's Game is basically a type of \Nvirus that originated at Yonaki Village.
+Dialogue: 0,0:11:47.26,0:11:48.74,Main,Natsuko,0000,0000,0000,,Yonaki Village...
+Dialogue: 0,0:11:50.61,0:11:53.98,Main,Nobuaki,0000,0000,0000,,At some point, it slipped onto the Internet,
+Dialogue: 0,0:11:53.98,0:11:59.08,Main,Nobuaki,0000,0000,0000,,and started existing online, \Nas a computer virus of sorts.
+Dialogue: 0,0:11:59.08,0:12:01.57,Main,Nobuaki,0000,0000,0000,,And these texts are a bug in the virus.
+Dialogue: 0,0:12:02.48,0:12:07.33,Main,Nobuaki,0000,0000,0000,,If we put them together, we might \Nfind a hint to beat the king.
+Dialogue: 0,0:12:08.26,0:12:11.29,Main,Natsuko,0000,0000,0000,,I don't know who this Ria chick is, but...
+Dialogue: 0,0:12:11.29,0:12:13.58,Main,Natsuko,0000,0000,0000,,Do you really believe that?
+Dialogue: 0,0:12:13.58,0:12:17.09,Main,Nobuaki,0000,0000,0000,,Why have you been collecting the texts, then?
+Dialogue: 0,0:12:17.75,0:12:23.48,Main,Nobuaki,0000,0000,0000,,A key to the secrets of the King's Game \Nmight be hidden in those texts.
+Dialogue: 0,0:12:23.48,0:12:26.88,Main,Nobuaki,0000,0000,0000,,You think so, too. That why \Nyou've been saving them, right?
+Dialogue: 0,0:12:26.88,0:12:31.85,Main,Natsuko,0000,0000,0000,,I didn't do it to try to end the King's \NGame or beat the king or any of that crap.
+Dialogue: 0,0:12:32.92,0:12:38.41,Main,Natsuko,0000,0000,0000,,I just want any information that might \Nhelp {\i1}me{\i0} survive, plain and simple.
+Dialogue: 0,0:12:39.27,0:12:40.73,Main,Nobuaki,0000,0000,0000,,Natsuko...
+Dialogue: 0,0:12:42.42,0:12:43.74,Main,Natsuko,0000,0000,0000,,Give it.
+Dialogue: 0,0:12:49.57,0:12:50.98,Main,Natsuko,0000,0000,0000,,Like this?
+Dialogue: 0,0:12:50.98,0:12:54.62,Main,Nobuaki,0000,0000,0000,,Yeah. This has to be it.
+Dialogue: 0,0:12:53.12,0:12:55.62,Signs,Text,0000,0000,0000,,New Memo
+Dialogue: 0,0:12:53.12,0:12:55.62,sign_18537_186_End_the_game_by_,Text,0000,0000,0000,,{\fad(1,972)}End the game by offering all your lives. \NAs long as even one of you survives, the King's \NGame won't end until all of humanity is destroyed.
+Dialogue: 0,0:12:58.38,0:13:00.38,Signs,,0000,0000,0000,,New Memo
+Dialogue: 0,0:12:58.38,0:13:00.38,sign_18537_186_End_the_game_by_,,0000,0000,0000,,{\fad(564,1)}As long as even one of you survives, the King's \NGame won't end until all of humanity is destroyed.
+Dialogue: 0,0:13:01.56,0:13:03.88,Main,Riona,0000,0000,0000,,What does this mean?
+Dialogue: 0,0:13:06.20,0:13:07.39,Main,Nobuaki,0000,0000,0000,,So basically...
+Dialogue: 0,0:13:07.79,0:13:11.14,Main,Nobuaki,0000,0000,0000,,None of us here can survive.
+Dialogue: 0,0:13:11.14,0:13:12.39,Main,Riona,0000,0000,0000,,What?
+Dialogue: 0,0:13:12.78,0:13:16.68,Main,Nobuaki,0000,0000,0000,,The King's Game virus lives in the bodies
+Dialogue: 0,0:13:17.32,0:13:19.90,Main,Nobuaki,0000,0000,0000,,of everyone who's been in \Nthe King's Game before.
+Dialogue: 0,0:13:20.44,0:13:24.84,Main,Nobuaki,0000,0000,0000,,If you survive, it could \Nspread from you to others,
+Dialogue: 0,0:13:24.84,0:13:27.40,Main,Nobuaki,0000,0000,0000,,and the King's Game will continue
+Dialogue: 0,0:13:27.86,0:13:30.30,Main,Nobuaki,0000,0000,0000,,until humanity itself is wiped out.
+Dialogue: 0,0:13:31.89,0:13:36.87,Main,Nobuaki,0000,0000,0000,,So to end the King's Game, \Nall participants have to die.
+Dialogue: 0,0:13:38.31,0:13:40.92,Main,Nobuaki,0000,0000,0000,,To save humanity, we have to die.
+Dialogue: 0,0:13:41.33,0:13:43.27,Main,Nobuaki,0000,0000,0000,,Then the King's Game will end.
+Dialogue: 0,0:13:43.75,0:13:45.92,Main,Riona,0000,0000,0000,,What the hell?
+Dialogue: 0,0:13:46.58,0:13:49.59,Main,Riona,0000,0000,0000,,We were just normal kids going to school.
+Dialogue: 0,0:13:49.59,0:13:52.39,Main,Riona,0000,0000,0000,,A stupid class that got excited about \Nsomething as small as one exchange student.
+Dialogue: 0,0:13:54.06,0:13:55.77,Main,Riona,0000,0000,0000,,That's all we were.
+Dialogue: 0,0:13:58.08,0:14:01.86,Main,Riona,0000,0000,0000,,And now we're talking about the \Ndestruction of humanity? That's crazy.
+Dialogue: 0,0:14:07.51,0:14:09.42,Main,Natsuko,0000,0000,0000,,The future of humanity?
+Dialogue: 0,0:14:10.06,0:14:11.87,Main,,0000,0000,0000,,Not my problem!
+Dialogue: 0,0:14:12.64,0:14:17.87,Main,Natsuko,0000,0000,0000,,I bet you're thinking of sacrificing \Nyourself to save humanity or whatever.
+Dialogue: 0,0:14:18.33,0:14:20.63,Main,Natsuko,0000,0000,0000,,Acting as if you're some kind of savior...
+Dialogue: 0,0:14:20.63,0:14:22.47,Main,Natsuko,0000,0000,0000,,I can't stand it.
+Dialogue: 0,0:14:22.47,0:14:24.35,Main,Natsuko,0000,0000,0000,,If we're all going to die anyway,
+Dialogue: 0,0:14:24.35,0:14:26.76,Main,Natsuko,0000,0000,0000,,I'll do you a favor and kill you first!
+Dialogue: 0,0:14:28.82,0:14:29.85,Main,Riona,0000,0000,0000,,Natsuko!
+Dialogue: 0,0:14:36.52,0:14:38.00,Main,Natsuko,0000,0000,0000,,I'm going to live.
+Dialogue: 0,0:14:38.00,0:14:39.86,Main,Natsuko,0000,0000,0000,,No matter what I have to do!
+Dialogue: 0,0:14:41.29,0:14:46.15,Main,Natsuko,0000,0000,0000,,You may be a King's Game survivor like me,
+Dialogue: 0,0:14:46.48,0:14:49.40,Main,Natsuko,0000,0000,0000,,but that's the only thing we have in common.
+Dialogue: 0,0:14:50.12,0:14:54.88,Main,Natsuko,0000,0000,0000,,Didn't you feel anything watching \Nyour friends and the person you loved
+Dialogue: 0,0:14:54.88,0:14:59.66,Main,Natsuko,0000,0000,0000,,dying horrible, painful \Ndeaths after suffering
+Dialogue: 0,0:14:59.66,0:15:02.67,Main,,0000,0000,0000,,through this stupid game?!
+Dialogue: 0,0:15:03.17,0:15:06.92,Main,Natsuko,0000,0000,0000,,Didn't you want to release \Nthem from their pain sooner?!
+Dialogue: 0,0:15:07.83,0:15:10.43,Main,Natsuko,0000,0000,0000,,Someone has to be the bad guy!
+Dialogue: 0,0:15:10.76,0:15:13.58,Main,Natsuko,0000,0000,0000,,Someone had to push the anxiety \Nand fear to the extreme.
+Dialogue: 0,0:15:13.58,0:15:16.20,Main,Natsuko,0000,0000,0000,,That's the part I played!
+Dialogue: 0,0:15:21.25,0:15:22.52,Main,Nobuaki,0000,0000,0000,,Natsuko...
+Dialogue: 0,0:15:36.99,0:15:40.83,Main,Natsuko,0000,0000,0000,,So I couldn't forgive you
+Dialogue: 0,0:15:40.83,0:15:42.74,Main,Natsuko,0000,0000,0000,,for filling them with false hope.
+Dialogue: 0,0:15:47.21,0:15:49.67,Main,Natsuko,0000,0000,0000,,I don't care how much I'm hated.
+Dialogue: 0,0:15:49.96,0:15:52.43,Main,Natsuko,0000,0000,0000,,False saviors like you...
+Dialogue: 0,0:15:52.43,0:15:54.04,Main,Natsuko,0000,0000,0000,,I'll—
+Dialogue: 0,0:15:59.43,0:16:01.82,Main,Riona,0000,0000,0000,,I won't let you kill Nobuaki!
+Dialogue: 0,0:16:02.44,0:16:05.69,Main,Riona,0000,0000,0000,,He's... He's my—
+Dialogue: 0,0:16:20.18,0:16:22.78,Main,Nobuaki,0000,0000,0000,,Was I wrong?
+Dialogue: 0,0:16:22.78,0:16:25.06,Main,Riona,0000,0000,0000,,You weren't wrong.
+Dialogue: 0,0:16:25.06,0:16:27.48,Main,Nobuaki,0000,0000,0000,,But what Natsuko said...
+Dialogue: 0,0:16:31.86,0:16:33.34,Main,Riona,0000,0000,0000,,Nobuaki.
+Dialogue: 0,0:16:33.34,0:16:34.90,Main,Riona,0000,0000,0000,,Look at me!
+Dialogue: 0,0:16:35.81,0:16:36.97,Main,Nobuaki,0000,0000,0000,,Riona...
+Dialogue: 0,0:16:37.60,0:16:41.73,Main,Riona,0000,0000,0000,,I'm alive! Because of you!
+Dialogue: 0,0:16:43.23,0:16:45.34,Main,Riona,0000,0000,0000,,So hold your head high!
+Dialogue: 0,0:16:45.34,0:16:47.73,Main,Riona,0000,0000,0000,,You saved me!
+Dialogue: 0,0:16:49.75,0:16:51.74,Main,Nobuaki,0000,0000,0000,,You really are something else.
+Dialogue: 0,0:16:52.58,0:16:57.00,Main,Riona,0000,0000,0000,,Nobuaki, what age do you want to live to?
+Dialogue: 0,0:16:57.00,0:16:57.99,Main,Nobuaki,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:58.80,0:17:00.74,Main,Riona,0000,0000,0000,,It doesn't have to be for long.
+Dialogue: 0,0:17:02.44,0:17:03.50,Main,Nobuaki,0000,0000,0000,,What?
+Dialogue: 0,0:17:04.39,0:17:09.59,Main,Riona,0000,0000,0000,,Just give me a little of your time.
+Dialogue: 0,0:17:10.00,0:17:12.84,Main,Riona,0000,0000,0000,,I... I love y...
+Dialogue: 0,0:17:18.28,0:17:19.76,Main,Natsuko,0000,0000,0000,,I'm taking you with me.
+Dialogue: 0,0:17:20.39,0:17:21.29,Main,Riona,0000,0000,0000,,No...
+Dialogue: 0,0:17:26.58,0:17:31.02,Main,Natsuko,0000,0000,0000,,Better to kill the one you love yourself
+Dialogue: 0,0:17:33.59,0:17:35.75,Main,Natsuko,0000,0000,0000,,than to let someone else kill them.
+Dialogue: 0,0:17:36.84,0:17:39.87,Main,Natsuko,0000,0000,0000,,I won't give him to you, Riona.
+Dialogue: 0,0:17:51.64,0:17:53.51,Main,Nobuaki,0000,0000,0000,,You...
+Dialogue: 0,0:17:54.10,0:17:57.09,Main,Natsuko,0000,0000,0000,,No...bu...kun...
+Dialogue: 0,0:18:01.73,0:18:03.00,Main,Riona,0000,0000,0000,,Nobuaki!
+Dialogue: 0,0:18:03.75,0:18:05.10,Main,Nobuaki,0000,0000,0000,,Riona...
+Dialogue: 0,0:18:05.10,0:18:08.84,Main,Riona,0000,0000,0000,,Hang in there! I'll stop the blood—
+Dialogue: 0,0:18:08.84,0:18:12.36,Main,Nobuaki,0000,0000,0000,,Stop. It's too late.
+Dialogue: 0,0:18:12.36,0:18:14.88,Main,Riona,0000,0000,0000,,No. No!
+Dialogue: 0,0:18:14.88,0:18:16.36,Main,Riona,0000,0000,0000,,I don't want this!
+Dialogue: 0,0:18:17.59,0:18:18.84,Main,Nobuaki,0000,0000,0000,,Riona...
+Dialogue: 0,0:18:20.73,0:18:24.52,Main,Nobuaki,0000,0000,0000,,Survive...
+Dialogue: 0,0:18:25.76,0:18:29.12,Main,Riona,0000,0000,0000,,I can't! I'm not strong enough!
+Dialogue: 0,0:18:29.49,0:18:33.48,Main,Riona,0000,0000,0000,,You're not allowed to die \Nwithout my permission!
+Dialogue: 0,0:18:33.48,0:18:36.63,Main,Riona,0000,0000,0000,,Don't die, Nobuaki. You can't die!
+Dialogue: 0,0:18:37.27,0:18:39.63,Main,Riona,0000,0000,0000,,Nobuaki. Nobuaki!
+Dialogue: 0,0:18:45.32,0:18:48.25,Main,Riona,0000,0000,0000,,Nobuaki!
+Dialogue: 0,0:19:05.19,0:19:06.38,Main,Chiemi,0000,0000,0000,,Nobuaki.
+Dialogue: 0,0:19:07.00,0:19:08.25,Main,Chiemi,0000,0000,0000,,Nobuaki.
+Dialogue: 0,0:19:11.51,0:19:12.83,Main,Nobuaki,0000,0000,0000,,Chiemi...
+Dialogue: 0,0:19:13.73,0:19:14.86,Main,Nobuaki,0000,0000,0000,,Chiemi?!
+Dialogue: 0,0:19:29.16,0:19:30.39,Main,Nobuaki,0000,0000,0000,,Everybody...
+Dialogue: 0,0:20:25.27,0:20:26.76,Main,Riona,0000,0000,0000,,I know it's wrong,
+Dialogue: 0,0:20:27.28,0:20:30.55,Main,Riona,0000,0000,0000,,but boys like this sort of thing, don't they?
+Dialogue: 0,0:20:34.26,0:20:36.71,Main,Riona,0000,0000,0000,,Forgive me for being so unreasonable.
+Dialogue: 0,0:20:43.62,0:20:45.05,Main,Riona,0000,0000,0000,,You're cold.
+Dialogue: 0,0:20:46.42,0:20:49.18,Main,Riona,0000,0000,0000,,You were so warm back then, though.
+Dialogue: 0,0:20:51.65,0:20:54.81,Main,Riona,0000,0000,0000,,Come on. At least say something.
+Dialogue: 0,0:20:55.96,0:20:58.23,Main,Riona,0000,0000,0000,,I'm forcing a kiss on you here.
+Dialogue: 0,0:21:02.61,0:21:05.22,Main,Riona,0000,0000,0000,,Don't just lie there. Say something!
+Dialogue: 0,0:21:05.22,0:21:07.12,Main,Riona,0000,0000,0000,,I'm begging you!
+Dialogue: 0,0:23:17.64,0:23:19.16,Main,Voice,0000,0000,0000,,Good morning.
+Dialogue: 0,0:23:19.16,0:23:20.18,Main,Voice,0000,0000,0000,,Hey.
+Dialogue: 0,0:23:30.05,0:23:32.39,Main,Kid,0000,0000,0000,,What the heck is this?
+Dialogue: 0,0:23:32.39,0:23:37.64,Phone,Text,0000,0000,0000,,This is the King's Game. \NAll members of your class will participate. \NThe King's orders are absolute. \NYou have 24 hours to carry them out.\N\N*Withdrawal from the game \Nmidway is not allowed.

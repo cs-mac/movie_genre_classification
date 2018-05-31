@@ -1,0 +1,1170 @@
+
+{1527}{1605}I've got Talia.
+{1705}{1791}All right, let's do this thing.
+{1955}{1981}Transfer's confirmed.
+{1987}{2059}- Move in.|- That's very good.
+{2065}{2113}{y:i}This is the FBI. 
+{2119}{2229}{y:i}The building is surrounded.|{y:i}You're all under arrest. 
+{2235}{2288}{y:i}I repeat, you're all under arrest.
+{2294}{2358}{y:i}Put your hands up. 
+{2364}{2429}{y:i}This is the FBI! 
+{2487}{2565}Sonny Talia, you're under arrest.
+{2571}{2704}Oh, yeah? For what? Import, export?
+{2726}{2817}Calm down, buddy.|Here's my bill of lading.
+{2823}{2955}Coffee, paint, computer chips|and lawn chairs.
+{2959}{3038}There's nothing in here but lawn chairs.
+{3044}{3106}Hey, sweetheart, you're a beautiful girl.
+{3112}{3151}If you get tired of the FBI...
+{3157}{3257}...you can come and work for me|in one of my dance joints.
+{3263}{3345}Bring in Agent 11!
+{3770}{3806}Agent 11...
+{3812}{3876}...search!
+{4528}{4594}What's this?
+{4654}{4714}Go!
+{5759}{5838}Get away from me!
+{5884}{5948}Agent 11!
+{6770}{6877}Bleeker Street. Dog town.
+{6956}{7037}Canine Alley.
+{7427}{7508}No, you don't.
+{7583}{7693}Come on, Spike.|Can't we do this nice, just once?
+{7732}{7825}All right. You asked for it.
+{7849}{7907}What do we got here? Go get the chicken.
+{7913}{7986}Go get the chicken.
+{8145}{8227}Psych, Spike!
+{8343}{8377}Come on, Boodles.
+{8383}{8447}We gotta stop meeting like this.|I'm telling you.
+{8453}{8533}It costs me $20 a week in meatballs.
+{8539}{8637}Let's do it again. Go get the meatball!
+{8821}{8933}Where are you?|Where is that stinking dog?
+{9415}{9486}Well, well, well.
+{9537}{9609}What's up, Tyson? You on lock-down?
+{9615}{9770}Want to get the mail?|Want to get the mailman? Come on, try!
+{9963}{10034}Too fast!
+{10151}{10294}Who am I? MC Hammer! You know why?|Because you can't touch this.
+{10597}{10673}Not today, Tyson!
+{10795}{10897}Here you are, baby.|Signed, sealed, delivered.
+{10903}{10958}Thank you, Benny. I'll see you tomorrow?
+{10964}{11069}Oh, yeah. And remember,|if there's anything I can do for you...
+{11075}{11148}...all you have to do is raise that flag...
+{11154}{11301}...and I'll come through for you, baby.|Rain, sleet or snow.
+{11315}{11407}This postman always delivers.
+{11413}{11480}Damn.
+{11524}{11641}Oh, hey, Gordon. What's up, man?|You're looking smooth, brother.
+{11647}{11712}Tyson again?
+{11739}{11783}Yeah, but I'm cool.
+{11789}{11901}That dog's on an all-white-meat diet.|He never did that to no brother.
+{11907}{11981}- That's not funny.|- Yes, it is.
+{11987}{12086}Why don't you request a different route|if he's giving you a hard time?
+{12092}{12155}There's not a dog on this planet|that can scare me.
+{12161}{12228}Okay, brother.
+{12342}{12385}That's funny. That's hysterical.
+{12391}{12433}Come on, baby. They're just jokes.
+{12439}{12525}- Don't get postal on me.|- Postal? I'm not postal.
+{12531}{12655}Don't even play with me like that.|You know all white people are crazy.
+{12661}{12737}I'll check you back at the crib.
+{12743}{12835}Hey, G. You can keep that dog, dog.
+{12841}{12902}Get it, dog?
+{13116}{13161}Here's some good news, Mr. Talia.
+{13167}{13265}The metal ball bearing we inserted|to replace your missing appendage...
+{13271}{13333}...should help you maintain|a natural appearance.
+{13339}{13399}Luckily we were able|to save the other one...
+{13405}{13521}...or else we'd have to put in two,|and when you walk...
+{13637}{13710}It's just a little urological humor.
+{13716}{13804}Sonny, let it go, please!|Listen, Sonny, it's okay.
+{13810}{13870}The prosecution has|absolutely nothing on you.
+{13876}{13993}You're a businessman with a valid bill|of lading for importation.
+{13999}{14061}They can't prove|prior knowledge or possession.
+{14067}{14147}They got no case!
+{14153}{14202}I'm not worried about that right now.
+{14208}{14304}What I'm worried about is this|Agent 11 dog. It's always this dog.
+{14310}{14389}He made me lose $22 million|in the last three years.
+{14395}{14463}And now he made me lose, he made me...
+{14469}{14524}You know, Sonny, you only need one.
+{14530}{14640}- Then give me one of yours.|- Just looking on the bright side.
+{14646}{14786}- You can't do anything about the dog.|- Yes, I can.
+{14847}{14951}Man's best friend. Bad dog!
+{15211}{15287}I'm sorry, buddy.
+{15424}{15488}Hey, baby.
+{15488}{15592}Steph, someone has mailed you|a stuffed dog.
+{15598}{15677}Rick, the shoot for "Slick and Slimy"|is down the hall.
+{15683}{15777}- Gordon!|- Hey, Steph.
+{15821}{15882}This isn't a good time for me right now.
+{15888}{15978}I got James a little present here.
+{15990}{16107}Oh, my God, that's so sweet.|All he's been talking about is dogs.
+{16113}{16188}He doesn't understand|you can't have one in an apartment.
+{16194}{16313}Honey, come here.|Gordon's got something for you.
+{16367}{16440}What's up, little man?|Look what Uncle Gordon got you!
+{16446}{16561}I'm not really your uncle,|so if I kiss your mom...
+{16562}{16621}...that's okay.
+{16627}{16735}Don't worry, James.|There's no chance of that happening.
+{16741}{16821}Hey, pal, what do we say?
+{16823}{16904}Thank you.
+{16949}{17063}I like dogs.|I'm gonna keep you for a long time.
+{17069}{17181}Yo, Steph. This guy's whacky.
+{17231}{17360}Hello. Yeah, Daisy? Flight's at 9:00.
+{17375}{17420}You waltz in here with that toy...
+{17426}{17488}...thinking you can buy back|Stephanie through her son?
+{17494}{17539}You're mad you didn't think of it first.
+{17545}{17629}I don't have to. I'm here because|she wants a real man around the house.
+{17635}{17700}Are you gonna go arrest one|and bring him home to her?
+{17706}{17787}Okay, guys.
+{17845}{17894}Police business. I gotta go.
+{17900}{17980}I'll show you to the door.
+{18318}{18413}All right, bye now. Take care.|Don't get shot.
+{18419}{18441}- Out.|- What?
+{18447}{18533}- Out. Now. Go.|- Come on, Steph.
+{18539}{18641}You can't fight it, baby.
+{18654}{18696}I'm cool.
+{18702}{18725}Don't even start.
+{18731}{18884}You need some handcuffs instead|of them stamps. Rick got them.
+{18939}{19016}Look, G, I'm filling you, man.|Stephanie's a dime.
+{19022}{19074}A dime? What's that mean?
+{19080}{19135}A ten.
+{19141}{19197}But she comes with carry-on.
+{19203}{19260}The kid.
+{19266}{19293}What's your point?
+{19299}{19393}It's like you're dating Janet,|but Janet's bringing Tito.
+{19399}{19430}You don't want that!
+{19436}{19529}We're just friends. I'm giving|her advice on her love life.
+{19535}{19654}Love life advice? She'd be better off|calling the Psychic Friends Network.
+{19660}{19755}If you want to get with that mommy,|you got to be a pappy.
+{19761}{19824}- Are you ready for that?|- No!
+{19830}{19903}I'm cool with my current|responsibilities, thank you.
+{19909}{19947}Like what?
+{19953}{20005}Remembering to floss.
+{20011}{20078}Feeding my fish.
+{20084}{20220}And, at some point,|returning "The Matrix" video to Blockbuster.
+{20231}{20306}A kid abandoned in a mailbox|should jump at the chance...
+{20312}{20389}...to screw up a family of his own.|- You have to bring that up?
+{20395}{20508}Yeah, I have to bring that up, man!|What the...
+{20511}{20617}Didn't your foster parents teach you|to respect other people's property?
+{20623}{20713}The last time I sat on this couch,|my butt was orange for a week.
+{20719}{20821}Take your dang couch out of here.|I didn't want it in the first place.
+{20827}{20866}I don't have space for it.
+{20872}{20929}I'm teaching yoga in the front room.
+{20935}{20988}I don't want to hear|about you teaching yoga.
+{20994}{21040}You don't even know one yoga move.
+{21046}{21112}I can pick a $5 bill up with my butt.
+{21118}{21206}- You cannot.|- Give me $5.
+{21212}{21246}I want to see this.
+{21252}{21309}You're gonna see it, baby.|You're gonna see it.
+{21315}{21396}Watch this.
+{21476}{21504}Okay.
+{21510}{21540}All right, I'm stuck.
+{21546}{21613}- You all right?|- Just come push me over. Push me.
+{21619}{21729}Just push me. Just push me to the right.
+{21736}{21787}Hey, watch the couch, baby.
+{21793}{21870}All right, come on, man.
+{21900}{22003}- Yes, I'm gonna watch football.|- You know I'm ready!
+{22009}{22109}Yeah, I'm gonna watch some football!
+{22139}{22239}Miss Maguire, I have people here.|You must come down now.
+{22245}{22380}Miss Maguire, I have people here.|You must come down now.
+{22386}{22433}Hey, what are you yelling about?
+{22439}{22525}You tell her to come down now,|because we are leaving to the airport.
+{22531}{22598}She's so slow.
+{22702}{22796}- Where you going, man?|- Nowhere, man.
+{22809}{22865}Hey, man! Gordon!
+{22871}{22899}Do you mind?
+{22905}{22970}You can't take care|of the hamster I gave you.
+{22976}{23081}- What you gonna do with a woman?|- Come on, man, let me do this.
+{23087}{23173}Go handle your business then.
+{23247}{23297}What's up?
+{23303}{23368}I'm going away on business|and the babysitter's late.
+{23374}{23434}She said she'd be here in 10 minutes,|30 minutes ago.
+{23440}{23551}Okay, calm down. It's okay.|Super G's here.
+{23572}{23627}God, I hope this is you, Daisy.
+{23633}{23707}Hello? Daisy!
+{23713}{23820}You'll be here in 10 more minutes?|If you don't get here, I'll miss my plane!
+{23826}{23882}I'll watch James until Daisy gets here.
+{23888}{23915}I don't think...
+{23921}{23961}Daisy! Yeah, it's Gordon.
+{23967}{24014}Get your butt over here, girl, fast!
+{24020}{24043}There you go.
+{24049}{24137}This isn't a good idea.|You don't know anything about children.
+{24143}{24207}It's 10 minutes.|What's he going to do, dry out?
+{24213}{24328}Come on, we'll kick back,|have a couple of beers, huh?
+{24351}{24421}Okay, one beer.
+{24427}{24534}You got business to take care of.|Just relax, it's gonna be fine.
+{24540}{24656}I'll keep an eye on James|and James'll keep an eye on me.
+{24690}{24783}Daisy is on her way, so Gordon's|gonna watch you for a few minutes.
+{24789}{24867}Are you okay with that?
+{24931}{24961}- Let's go!|- Okay, okay.
+{24967}{25060}Move it! Move it now!
+{25122}{25224}This is important. Remind Daisy|to always check the food pyramid.
+{25230}{25320}This is a list of what he can watch|and when, only an hour a day, no PG.
+{25326}{25368}No video games, all right?
+{25374}{25459}You've got to make sure that|she takes him to piano and soccer.
+{25465}{25517}Look, it's all in the schedule.
+{25523}{25590}All the shaded green areas|are all free playtime.
+{25596}{25686}Daisy knows all this, right?|She's been watching him for two years.
+{25692}{25729}Right. You're right. Okay.
+{25735}{25847}Mommy will be home tomorrow, and|when Mommy's away who do we listen to?
+{25853}{25912}- Daisy.|- Right. And remember, follow...
+{25918}{25981}"Follow the rules and playtime will follow."
+{25987}{26016}Got it.
+{26022}{26061}I love you.
+{26067}{26178}- Gordon, you're a lifesaver.|- Yeah, all five flavors.
+{26184}{26258}All people waiting for you!
+{26264}{26398}Don't make smoochie-smoochie.|Everybody, put on seat belts!
+{26603}{26685}All right, there it goes! Run, baby, run!
+{26691}{26772}Knock him on his ass!
+{26778}{26842}My bad. Knock him to the asphalt!
+{26848}{26902}Knock him to the asphalt!
+{26908}{26989}I hope the babysitter gets here soon|so we can go to the big screen.
+{26995}{27071}I know.
+{27149}{27269}Hello? Daisy, yeah, it's Gordon.|Where are you?
+{27275}{27319}What do you mean, you can't come?
+{27325}{27422}The game's on. Get your butt over here.
+{27426}{27494}Food poisoning?
+{27547}{27641}Daisy, listen, you can have|food poisoning over here...
+{27647}{27714}...with James.
+{27744}{27838}I don't understand what you're saying.
+{27955}{28019}I don't think she's coming.
+{28025}{28049}Don't worry.
+{28055}{28172}Your mom'll be back tomorrow,|and Benny will hang with us.
+{28172}{28255}You're hanging yourself fine.
+{28255}{28305}Remember, if he gets scared, cries...
+{28311}{28380}...or messes his drawers, give me a call.
+{28386}{28428}Benny, he's gonna be fine.
+{28434}{28501}I wasn't talking to you,|I was talking to him.
+{28507}{28593}James, if he goes to the bathroom|longer than five minutes...
+{28599}{28670}...light a match.
+{28675}{28776}I'll be watching the big screen!|You're on your own, dog!
+{28782}{28880}That ain't funny. Benny!
+{29560}{29589}I'm hungry.
+{29595}{29712}Good. Okay, food, I could do that.
+{29720}{29814}- Come on, kid.|- I can't have breakfast now.
+{29820}{29919}- Why not?|- It's dinnertime.
+{29919}{29943}So?
+{29949}{30027}I don't know about this.
+{30344}{30390}Doesn't your mommy make you clean?
+{30396}{30493}Occasionally, I take a flamethrower|to it and start all over again.
+{30499}{30561}What's that smell?
+{30567}{30625}That's the smell of a man.
+{30631}{30703}It's what a man's place smells like.
+{30709}{30761}But listen. Come over here.
+{30767}{30881}We gotta go over some rules here.|Listen carefully.
+{30884}{30959}This is my stuff.
+{30965}{30994}Look at it.
+{31000}{31131}It's beautiful. It's 500 watts|of Dolby Digital sound.
+{31137}{31235}Stereo, receiver, DVD player.|The tower of power!
+{31241}{31308}Check it out.
+{31315}{31346}Don't touch it.
+{31352}{31468}You hear that? Can you feel it, baby?
+{31490}{31579}- Say, "Don't touch Gordon's stuff".|{y:i}- Don't touch Gordon's stuff.
+{31585}{31667}We're gonna get along just fine.
+{31673}{31696}Here we go.
+{31702}{31798}Some natural whole-bran cereal,|just like the chart says...
+{31804}{31889}...and some soy milk.
+{32014}{32063}Hold it now, hold it now.
+{32069}{32154}Can't forget your prunes.
+{32163}{32264}All right, dig in.
+{32401}{32493}- Your mom ever say anything about me?|- I heard her with Daisy.
+{32499}{32633}Listening in to your mom's conversations?|That's good.
+{32639}{32705}- What'd she say?|- She said that you're funny.
+{32711}{32787}Funny? Funny, that's good.
+{32793}{32853}Yeah, we like funny.
+{32859}{32939}- What else?|- That you're irresponsible.
+{32945}{32981}Irresponsible?
+{32987}{33047}Irresponsible, waste your time...
+{33053}{33110}...and you only want one thing.
+{33116}{33224}Oh, and you're some kind of hound.
+{33305}{33376}She said that?
+{33443}{33529}What's she got you eating here?
+{33919}{33982}It's good.
+{34227}{34301}How can you eat that?
+{34366}{34472}"No sugar added?"|And they're proud of that?
+{34500}{34605}I want to tell you about this man I know.|His name's Cap'n Crunch.
+{34611}{34645}He's got some friends, too.
+{34651}{34778}Count Chocula and Toucan Sam.
+{34807}{34873}Froot Loops.
+{34895}{34973}I'm not allowed.
+{35007}{35103}Wait, wait. You see, the warden's away.
+{35109}{35263}Just us guys here. We hunt,|we gather, we eat what we want.
+{35266}{35318}What if my mom finds out?
+{35324}{35404}I won't tell if you don't.
+{35651}{35754}I see why it says|I shouldn't have given you sugar.
+{35911}{35980}Those are live animals!
+{35986}{36052}Catch me!
+{36297}{36391}I want this Agent 11 taken out.
+{36395}{36509}I don't know.|An FBI agent could be a little tricky.
+{36542}{36577}This guy is huge!
+{36583}{36724}Not him, you moron. The dog.|Agent 11 is a dog.
+{36810}{36911}That's funny. That's a good one, Sonny.|That's a good one.
+{36917}{36995}You want we should whack a dog?
+{37001}{37101}You two tubs of blubber think that's funny?
+{37119}{37192}- There's no reason to get personal.|- This is personal!
+{37198}{37297}It don't get no more personal!|I want the dog dead!
+{37303}{37341}All right, all right, Sonny.
+{37347}{37393}But, you know, we're pros.
+{37399}{37470}How we gonna hold our heads up|in the community...
+{37476}{37565}...with people knowing we're going|around to put the whack on a pooch?
+{37571}{37624}I mean, we got an image.
+{37630}{37744}If the two of you don't whack this pooch...
+{37747}{37823}...then you will get whacked.
+{37829}{37873}Okay. You're the boss.
+{37879}{37945}No problem.
+{37950}{37989}Do regular fees apply?
+{37995}{38063}- Come on.|- What'd I say?
+{38069}{38108}It is important that your dog...
+{38114}{38137}You see him?
+{38143}{38170}...know work ethic.
+{38176}{38230}It's a bunch of puppies.
+{38236}{38289}But he also wants to please you.
+{38295}{38407}Teach him to work, to work well,|and in the end that is all he will want.
+{38413}{38486}- Michaels, what are you doing?|- Nothing, sir.
+{38492}{38527}Is Agent 44 your pet?
+{38533}{38562}- No, sir.|- He's not.
+{38568}{38618}- He's an FBI agent.|- Yes, sir.
+{38624}{38711}- You wouldn't tickle an agent's belly.|- No, sir.
+{38717}{38830}You don't see me tickling|Agent Cassavettes' underbelly, do you?
+{38836}{38860}No, you do not!
+{38866}{38934}Get this through your head!|This is not a drill!
+{38940}{39057}These dogs will save your life.|Agent 11 saved mine several times.
+{39063}{39110}So don't tickle my animals.
+{39116}{39196}All canine agents wear|an Invisible Fence collar...
+{39202}{39281}...which gives a shock designed|to get his attention.
+{39287}{39348}Since we work exclusively|with hand signals...
+{39354}{39446}...sometimes it is necessary|to prompt the dog to look back.
+{39452}{39495}This causes serious discomfort.
+{39501}{39531}For the dog's safety...
+{39537}{39623}...the collar has a voltage regulator|to prevent power surges.
+{39629}{39775}Never introduce a metal object|or you'll light your animal up.
+{39775}{39905}A demonstration of the collar by|the most decorated canine in FBI history.
+{39911}{39953}- That's him!|- You sure?
+{39959}{40077}Oh, yeah. Yeah, a little older maybe,|but that's him.
+{40083}{40130}Attack!
+{40136}{40216}Come to Papa. Now!
+{40288}{40400}- You said, "Now".|- I meant now "now", not "now"!
+{40429}{40523}Word on the street is Sonny Talia|put the hit out on Agent 11.
+{40529}{40573}Not that we're surprised.
+{40579}{40733}If Talia can infiltrate our training facility,|Agent 11 isn't safe here.
+{40763}{40845}I've decided to call Witness Protection|in on this.
+{40851}{40928}Agent Murdoch, Agent Sharp.
+{40934}{41056}- This is a highly unusual...|- Agent Sharp, Agent 11.
+{41263}{41388}This is a highly unusual request.
+{41402}{41468}But the agency is very concerned.
+{41474}{41619}To be able to do something like this,|Talia must have a man on the inside...
+{41671}{41790}Until we learn who that is,|we will be relocating Agent 11...
+{41796}{41837}...to a protected environment.
+{41843}{41929}- Okay, so where will we be going?|- Not "we".
+{41935}{41985}Agent 11 is going alone.
+{41991}{42093}- So you're taking him away from me?|- Let it go. It's for his own good.
+{42099}{42181}But we're a team.|Agent 11 is my most important tool.
+{42187}{42246}What would I be without him?|Nothing at all!
+{42252}{42376}You can't take him away from me!|That's like taking away my gun!
+{42517}{42590}That'll be fine.
+{43483}{43519}Hey, little buddy.
+{43525}{43618}Little hair of the dog that bit you.
+{43795}{43879}I feel better.
+{44119}{44213}- Where's your school?|- I don't have school. It's summer.
+{44219}{44259}Guess I'll take you to my work.
+{44265}{44333}I get to deliver the mail!
+{44339}{44396}Great.
+{44460}{44541}At least tell me where he's going.
+{44547}{44590}There's no harm in that, I guess.
+{44596}{44736}He's going to an FBI sled dog|training facility in Alaska.
+{44820}{44879}Watch yourself up there.
+{44885}{44948}Okay, boy?
+{44951}{45021}Come on, get in.
+{45195}{45221}I'll take those.
+{45227}{45293}Don't worry, Murdoch, okay? He'll be fine.
+{45299}{45388}Yeah, he better be.
+{45722}{45796}Message from Sonny:
+{45811}{45891}"Play dead".
+{45950}{46048}The dog is in the third van.
+{46432}{46505}Remember, you're not supposed to be|in the truck.
+{46511}{46556}It's against regulations.
+{46562}{46632}So just stay low and make yourself useful.
+{46638}{46710}Divide those stacks of letters|into odd and even numbers.
+{46716}{46803}- Okay.|- Thanks, pal.
+{46991}{47019}Pull alongside.
+{47025}{47073}I'll whack the driver, then the dog.
+{47079}{47153}Gotcha. Whoa!
+{47159}{47236}When it's safe.
+{47263}{47335}Ease up alongside.
+{47536}{47569}Get the dog!
+{47575}{47644}Drive the car!
+{47704}{47755}Hey, buddy, I'll be right back.
+{47761}{47838}Don't go anywhere.
+{48355}{48416}Hi.
+{48743}{48777}How you doing back there?
+{48783}{48845}Gordon, is this your dog?
+{48851}{48906}No, that's your dog.
+{48912}{48944}Mine?
+{48950}{49005}Yeah, I gave him to you, remember?
+{49011}{49093}Cool. What's his name?
+{49099}{49169}Spot. The dog's name's Spot.
+{49175}{49256}Spot?
+{49292}{49404}Yo, Cleavis! What's up, brother?
+{49699}{49772}Oh, man!
+{49772}{49801}James!
+{49807}{49884}James!
+{49909}{49980}James, come here.
+{49995}{50037}You okay? Any broken bones?
+{50043}{50070}- I'm fine.|- Good!
+{50076}{50136}- Whose dog is that?|- That's my dog.
+{50142}{50166}Your dog?
+{50172}{50217}- Don't lie to me!|- I'm not.
+{50223}{50318}It's my dog, Spot. You gave him to me.
+{50403}{50493}I did not give you a dog.
+{50541}{50576}What?
+{50582}{50621}Hey, Stephanie.
+{50627}{50681}I've been leaving you messages all night.
+{50687}{50722}I know. Is James okay?
+{50728}{50793}Yeah, the kid's fine. Everything's cool.
+{50799}{50882}I can't believe this. I shouldn't|have left him. I have to get back.
+{50888}{50926}So you'll be here in two hours?
+{50932}{50964}No, I'm not.
+{50970}{51017}There's been some freak blizzard.
+{51023}{51069}The flights are canceled...
+{51075}{51133}...roads are closed,|even cell phones don't work.
+{51139}{51197}People are going insane.
+{51203}{51269}Everyone, back off!
+{51275}{51323}I don't think you can handle this.
+{51329}{51379}I'm coming. Somehow, I'm coming.
+{51385}{51457}What do you mean I can't handle|something like this?
+{51463}{51524}You think I'm irresponsible.
+{51530}{51630}Well, for your information,|I'm a very responsible guy.
+{51636}{51720}I'm going to call Beverly|and see if she can take James.
+{51726}{51809}Well, go ahead and do that.|That's probably a good idea.
+{51815}{51905}But if you need me, I'm here.
+{51937}{51996}Can I talk to James, please?
+{52002}{52107}Yeah, sure. Hold on.
+{52113}{52147}Listen...
+{52153}{52206}...don't tell her about this. It's guy stuff.
+{52212}{52261}Don't mention the accident...
+{52267}{52372}...and don't say anything about the D-O-G.
+{52401}{52497}Hi, Mom. Gordon got me a dog.
+{52503}{52557}I know, I saw him before I left.
+{52563}{52609}His name is Spot. Can I keep him?
+{52615}{52657}Yeah, you sure can.
+{52663}{52739}Wow! Thanks, Mom!
+{53059}{53119}I wonder, is Agent 11 all right up there?
+{53125}{53260}We've never been apart.|I feel like a part of me is missing.
+{53316}{53374}Cassavettes.
+{53380}{53493}What do you mean,|he jumped out of the van? Which van?
+{53579}{53629}No problem. That wasn't our dog.
+{53635}{53737}That was a decoy.|Let the local dogcatcher handle it.
+{53743}{53786}Check on him.
+{53792}{53892}Murdoch, he's fine. It wasn't him.
+{54148}{54193}FBI substation, Nome.
+{54199}{54221}{y:i}Danvers... 
+{54227}{54261}...this is the Tiger.
+{54267}{54333}Hi, Murdoch. How you doing?
+{54339}{54433}Don't use my real name, man.|I don't know if this line is secure.
+{54439}{54465}Sorry.
+{54471}{54502}What's up, Tigger?
+{54508}{54585}It's Tiger, and has the package arrived?
+{54591}{54632}He's here, yeah.
+{54638}{54728}Are you sure this is an FBI dog?|He doesn't look like much.
+{54734}{54808}Listen, 11 is the top canine agent|in America...
+{54814}{54885}...and probably the world. He is a killer.
+{54891}{54964}Okay.
+{55195}{55259}That didn't impress you all? Okay.
+{55265}{55301}Yeah! Look at that!
+{55307}{55372}What?
+{55419}{55527}See? You're in trouble now.|There comes my boy right there.
+{55533}{55582}My boy's always got my back.
+{55588}{55657}Hold on right there. Hold on!
+{55663}{55742}- Benny, what's going down?|- Just on my 15-minute break.
+{55748}{55809}- But I don't back down.|- They calling you out?
+{55815}{55912}- You got my back?|- Let's get disgruntled.
+{56266}{56322}Okay. I'll give you that.
+{56328}{56419}I give you that. What else you got?
+{56460}{56563}Little something I call|"The George Jefferson".
+{56609}{56651}Yeah, that's it!
+{56657}{56766}- Call Weezie!|- Weezie!
+{56780}{56825}Put the mail in the box!
+{56831}{56924}E.T., the Extra-Terrestrial.
+{56932}{56982}- Make him phone home!|- Phone home.
+{56988}{57093}- Make him phone home!|- Phone home!
+{57125}{57208}There you go! Break it down!
+{57281}{57375}Grab them! Get dizzy on them!
+{57400}{57529}- Don't get dizzy, make them dizzy!|- Air Gordon, baby!
+{57568}{57634}You know what?|This is how I shut the club down.
+{57640}{57723}Yeah, you want some of this?
+{57888}{57964}You see the expression on that dog's face?
+{57970}{58038}It wasn't a scowl.|It was more like a smirk.
+{58044}{58093}It was like he was smirking at us.
+{58099}{58232}Yeah, well, I can't even believe that|I'm doing this.
+{58245}{58269}What?
+{58275}{58354}Give me the good news.
+{58368}{58441}Listen, that skirt|from the Witness Protection Program...
+{58447}{58509}...she gave us some bad information.
+{58515}{58569}So we kind of...
+{58575}{58613}...followed the wrong dog.
+{58619}{58694}{y:i}But don't worry,|{y:i}because we got it all figured out. 
+{58700}{58809}We know where her mistake was.|We'll have the dog by the morning.
+{58815}{58848}I know you all my life.
+{58854}{58901}{y:i}We grew up on the same block. 
+{58907}{58953}Your mother changed my diapers.
+{58959}{59016}Your sister's married to my goombah...
+{59022}{59114}...and I'll personally shove you|headfirst into an incinerator...
+{59120}{59170}{y:i}... and burn you to a crisp... 
+{59176}{59229}...if you screw this up!
+{59235}{59325}This is good. You ought to have some|of this with the tomato.
+{59331}{59391}Oh, boy. If this ever gets out...
+{59397}{59469}Hey, you didn't say nothing to nobody,|did you?
+{59475}{59506}No!
+{59512}{59544}Well, I told Paulie.
+{59550}{59602}You told Paulie?
+{59608}{59641}He's a gossip.
+{59647}{59709}I had to. I was supposed|to do that thing in Atlanta.
+{59715}{59789}- He promised he'll keep his mouth shut.|- Yeah, right.
+{59795}{59837}Let's go to the dog pound.
+{59843}{59863}Big mouth!
+{59869}{59902}Nobody will know nothing.
+{59908}{59948}Charlie the Clip from Jersey.
+{59954}{59989}- Gino...|- Shut up!
+{59995}{60075}Vinny Bash from Brooklyn. Eddie Sharp.
+{60081}{60188}Oh, Joey BB Eyes!
+{60195}{60229}I don't want to leave him here.
+{60235}{60277}You don't want a dog. Trust me.
+{60283}{60325}I want Spot.
+{60331}{60376}This dog isn't Spot, it...
+{60382}{60444}This dog doesn't even|have one spot on him.
+{60450}{60513}Doesn't matter. It's just a name.
+{60519}{60604}Come on. You don't want a dog.
+{60606}{60658}Dogs stink!
+{60664}{60719}You gotta feed and walk and clean them.
+{60725}{60822}They poop everywhere. Even in your bed.
+{60822}{60941}James, I'm a mailman. Mailmen hate dogs.
+{60979}{61042}I won't have a dog in my house. I'm sorry.
+{61048}{61084}It'll never happen.
+{61090}{61175}What will happen to him?
+{61658}{61756}- What's he doing?|- I don't know.
+{61803}{61873}The dog's weird.
+{62059}{62154}Know what, dog?|You're giving me the creeps.
+{62160}{62219}What's wrong with him?
+{62225}{62266}I got it!
+{62272}{62321}We'll play catch, okay?
+{62327}{62401}Okay, catch the ball.
+{62475}{62533}Let's try that again.
+{62539}{62620}Watch the ball.
+{62660}{62731}Are you serious?
+{62731}{62819}What's wrong with you?|Why don't you play?
+{62825}{62878}No play.
+{62884}{62907}No.
+{62913}{62963}Do you hear me, Agent 11? No.
+{62969}{63044}Bad agent. We don't do that. No.
+{63050}{63077}Hello!
+{63083}{63143}Is anybody home?
+{63149}{63172}Okay, look...
+{63178}{63250}...l'm gonna do|what you're supposed to do.
+{63256}{63321}Check it out. I'll take your collar...
+{63327}{63392}...and I'm gonna be a dog.
+{63398}{63462}As a matter of fact, I'm gonna be you.
+{63468}{63551}A big, stupid dog.
+{63557}{63582}Look.
+{63588}{63631}I can sit.
+{63637}{63710}I can lay down.
+{63870}{63942}Well, I can't scratch my head,|but Benny probably could.
+{63948}{64010}I can lick my...
+{64016}{64064}...paw.
+{64070}{64118}Watch me, I can chase my tail.
+{64124}{64200}I'm chasing my tail.
+{64214}{64305}He's so weird.
+{64321}{64393}Oh, God.
+{64417}{64472}I don't know what to tell you, James.
+{64478}{64526}You're not trying hard enough.
+{64532}{64568}Are you kidding?
+{64574}{64609}I mean, come on...
+{64615}{64658}...the dog doesn't want to play.
+{64664}{64691}Dog's broken.
+{64697}{64734}You didn't try hard enough.
+{64740}{64771}I'm about to throw up!
+{64777}{64816}I didn't try hard enough.
+{64822}{64880}It's not my fault this dog is broke!
+{64886}{64936}Maybe when your mom gets back...
+{64942}{65005}...she can get you a dog|that actually works!
+{65011}{65064}Why don't you watch TV or something?
+{65070}{65183}Keep it on cartoons.|Don't try to get smart.
+{65222}{65288}{y:i}Thank you. |{y:i}Now quietly entertain yourself. 
+{65294}{65365}Yeah, this'll do.
+{65403}{65477}{y:i}Look, Brain! I made a round bird.
+{65483}{65540}Gotta get this stupid dog collar|off my neck!
+{65546}{65660}{y:i}Birdy, birdy, birdy! Narf!
+{66367}{66432}No!
+{66506}{66557}James, put that down!
+{66563}{66605}James, put that down.
+{66611}{66650}Say we'll keep Spot.
+{66656}{66706}We can't. He's not...
+{66712}{66819}Okay, okay! You can keep the dog.
+{66947}{67005}Here we go! You ready?
+{67011}{67088}Go get it, girl!
+{67096}{67137}Hey, there.
+{67143}{67211}That's him.
+{67325}{67400}Wrong dog.
+{67463}{67511}Do you mind?
+{67517}{67580}I gotta take these two creatures|to the park...
+{67586}{67662}...and I don't need you giving me attitude.
+{67668}{67709}Don't you all look adorable?
+{67715}{67794}Look, you got a kid,|you got the dog, you got you.
+{67800}{67859}Norman Rockwell, man.|Let me get a picture.
+{67865}{67898}Say "Tupac!"
+{67904}{67972}"Tupac!"
+{67999}{68100}You see that, dog? He said, "Tupac".
+{68131}{68208}I feel like such a proud mama right now.
+{68214}{68260}Look...
+{68266}{68297}...my family.
+{68303}{68357}All right, you want to come to the park?
+{68363}{68405}Park? For what, man?
+{68411}{68481}To watch you watch the dog?|The dog don't move!
+{68487}{68578}He ain't moved since I walked in!|Look at him!
+{68584}{68620}- I think he broke.|- Yeah.
+{68626}{68741}Get Spot's ball, we'll get the Frisbee.|Meet in the hall.
+{68752}{68785}Go get it, Spot!
+{68791}{68856}Go get it.
+{69011}{69045}Maybe the Frisbee will work.
+{69051}{69121}Come on, go get the Frisbee.
+{69127}{69204}What's wrong with you?
+{69387}{69432}You see anything?
+{69438}{69486}Just keep your eyes peeled.
+{69492}{69580}Where does a mutt go?
+{69759}{69781}Take it easy.
+{69787}{69854}He has a bladder condition.|He can't control himself.
+{69860}{69918}I got your bladder condition over here.
+{69924}{69965}Take it easy. Come on.
+{69971}{70039}Get your mutt out of here! Take a hike!
+{70045}{70093}Jeez, it stinks, Gino.
+{70099}{70175}You think it'll stain?
+{70249}{70300}Hey, help!
+{70306}{70378}He stole her purse!
+{70384}{70417}Help!
+{70423}{70449}There he is.
+{70455}{70516}- Spot!|- James, come here!
+{70522}{70624}Spot, come back!
+{71084}{71192}Sorry, man. That dog is totally psycho.
+{71271}{71309}Where's that crazy dog?
+{71315}{71378}There he is.
+{71384}{71429}Spot, no!
+{71435}{71482}Bad dog! What are you doing?
+{71488}{71592}I'm sorry. He's not really my dog.|I didn't know he was a thief!
+{71598}{71659}What?
+{71719}{71750}What's that?
+{71756}{71801}Listen, I said I'm sorry.
+{71807}{71881}Oh, I get it. How much you want? $20?
+{71887}{71918}$25.
+{71924}{71985}Come on, that purse ain't worth|more than that.
+{71991}{72019}I said I'm sorry.
+{72025}{72122}Hey, back off. What's the matter, lady?
+{72436}{72495}{y:i}Gordon, it's me again.
+{72501}{72548}I can't believe it. This is terrible.
+{72554}{72624}I made it out of the snow,|but all the roads are blocked.
+{72630}{72747}The stupid bus is stuck.|I don't know how I'll get back.
+{72753}{72828}You really don't know|how much I appreciate this.
+{72834}{72888}You're a good man, Gordon.
+{72894}{72937}Hey, Gordon?
+{72943}{73024}You know what? I really hate asking this...
+{73030}{73173}...but the thing is, James has|this little trouble sleeping...
+{73696}{73772}I gotta go.
+{73863}{73910}What's wrong?
+{73916}{73951}I can't take it anymore!
+{73957}{74038}I can't sleep! I can't eat!|I'm an emotional wreck!
+{74044}{74092}It's all right.
+{74098}{74157}You're here now.
+{74163}{74244}Cassavettes...
+{74253}{74331}...I don't know how to tell you this.
+{74337}{74432}- Are you wearing 11's dog tag?|- He's feeling what I'm feeling.
+{74438}{74485}I talked to Danvers.
+{74491}{74556}He's only had one cup of kibbles today.
+{74562}{74629}The dog? You came here|to talk about the dog?
+{74635}{74693}Of course! He's my partner! I miss him!
+{74699}{74749}We've never been apart this long.
+{74755}{74901}He's always been a good eater,|just like me, even when he was a puppy.
+{74922}{74961}This is not healthy.
+{74967}{75012}I want you to fly up there...
+{75018}{75117}...check on him,|and get this out of your system.
+{75123}{75161}Really?
+{75167}{75284}There you go.|You do the crime, you do the time.
+{75314}{75404}I told you he wouldn't like that.
+{75410}{75443}Of course he likes that.
+{75449}{75485}That's what that sound means.
+{75491}{75557}Yeah, right.
+{75563}{75645}Come on, it's bedtime.
+{75679}{75768}Just holler if you need anything.
+{75982}{76064}Good night, Spot.
+{76391}{76472}Are you kidding?
+{76539}{76603}Stupid dog!
+{76609}{76687}What's the racket about?
+{76727}{76811}Okay, I get it.
+{76823}{76907}I'm glad you can sleep.
+{76963}{77059}Wait, my keys.
+{77144}{77215}Let's go, stupid.
+{77502}{77576}Come on, go already.
+{77615}{77684}What now?
+{77791}{77895}That's nasty. I'm not picking that up.
+{78397}{78437}What's the big idea?
+{78443}{78531}All right, I'm sorry|I tied you to the furnace.
+{78537}{78568}Let me in.
+{78574}{78628}All right. Where you going?
+{78634}{78659}Come back here!
+{78665}{78802}Where are you going? You stupid dog.
+{79339}{79443}Oh, God. Nasty.
+{79561}{79635}God!
+{79950}{79992}Shut up down there!
+{79998}{80061}I'm covered in caca!
+{80067}{80136}God.
+{80146}{80238}Oh, God.
+{80932}{81044}Spot. I'm gonna kill you.
+{81483}{81544}Come on.
+{82332}{82365}Got some ID?
+{82371}{82398}ID?
+{82404}{82433}I don't think so.
+{82439}{82480}Don't get wise, buddy.
+{82486}{82573}Listen, I live right here.|The dog locked me out.
+{82579}{82604}You been drinking?
+{82610}{82665}No, I have not been drinking!
+{82671}{82725}I'm taking care of the neighbor's kid...
+{82731}{82761}...then this dog came!
+{82767}{82797}Came from where?
+{82803}{82833}Hell.
+{82839}{82953}This is Satan's dog. I'm telling you!|He gets mad at the drop of a hat!
+{82959}{83055}He got pissed off and locked me|out of my own house! He's crazy!
+{83061}{83172}Put your hands on your head!
+{83216}{83286}Okay, let's just try to relax here.
+{83292}{83327}He locked me out of my house.
+{83333}{83391}Satan's dog locked you out?
+{83397}{83426}Yeah.
+{83432}{83507}You think I'd do this to myself?
+{83513}{83589}Come with us.|We'll get someone who can help you.
+{83595}{83675}Not in my car. He reeks.
+{83696}{83808}Oh, thank God! James!|See, that's the kid!
+{83814}{83852}And that's the dog!
+{83858}{83890}Son, do you know him?
+{83896}{83987}That's Gordon. He lives here.
+{83993}{84081}Next time you step outside, sir,|I suggest you take your keys.
+{84087}{84168}Thanks, I'll remember that.
+{84212}{84306}Let me in the house!
+{84425}{84503}This is crazy, Gino.|Sonny will nail our heads together.
+{84509}{84581}I say we get our passports,|start to learn Spanish.
+{84587}{84624}Arliss...
+{84630}{84672}...you gotta focus.
+{84678}{84741}All we gotta do is get in the dog's head.
+{84747}{84810}So every place a dog has gotta go...
+{84816}{84851}...we hang the posters.
+{84857}{84918}Sooner or later he's gotta show.
+{84924}{84990}And when he does, bada-bing.
+{84996}{85057}That's smart.
+{85289}{85350}What are you doing?
+{85356}{85420}You're doing it all wrong.|Come on, check it out.
+{85426}{85532}You gotta put a bunch of junk on it.|Let me give you some style.
+{85538}{85569}Here you go.
+{85575}{85650}Yeah, that's it. Yeah, get crazy.
+{85656}{85697}Girls love that.
+{85703}{85737}That's the look.
+{85743}{85777}Yeah.
+{85783}{85870}See? That's got attitude.
+{85920}{86001}Gordon, what was your daddy like?
+{86007}{86055}My daddy?
+{86061}{86129}Well, I'm just like you.|I don't have a daddy.
+{86135}{86173}What about your mommy?
+{86179}{86290}- Well, I didn't have a mommy either.|- You didn't have a mommy?
+{86296}{86334}Hey, man, it's cool.
+{86340}{86381}I mean, look at Spot.
+{86387}{86433}Spot doesn't have a mommy or daddy.
+{86439}{86506}He's a stray, but he's happy.
+{86512}{86593}I mean, he's a little screwed up,|but he's happy.
+{86599}{86697}I'm sorry you didn't have|a mommy, Gordon.
+{86697}{86762}I didn't need a mommy.
+{86768}{86844}If I did have one,|she'd probably comb my hair like this.
+{86850}{86932}Make me look foolish.
+{86966}{87044}Mush! Come on!
+{87275}{87332}Tigger, you made it.
+{87338}{87396}It's Tiger, you moron!
+{87402}{87499}You seem awfully happy to be here.
+{87505}{87565}This is not a smile.
+{87571}{87637}My face is frozen like this!
+{87643}{87717}Now, how's Agent 11?
+{87781}{87816}That's not Agent 11!
+{87822}{87912}Well, that's the dog they sent us.
+{87944}{88049}- Cassavettes.|- The dog that jumped out was Agent 11.
+{88055}{88102}The tags were switched!
+{88108}{88144}- Are you sure?|{y:i}- I'm positive.
+{88150}{88236}It had to be Sharp.
+{88366}{88402}Forget it.
+{88408}{88461}She's long gone.
+{88467}{88568}Okay, Spot, let's try it again.
+{88816}{88879}Listen up, Spot. I got no time for you.
+{88885}{88957}And I know you don't like me either.
+{88963}{89021}You're your own dog.|You like to hang back.
+{89027}{89086}I'm down with that.
+{89092}{89145}But I'm here to talk about the kid.
+{89151}{89205}See, his mom keeps him on a short leash.
+{89211}{89250}You hear what I'm saying?
+{89256}{89349}I'd like to see the kid have some fun.
+{89363}{89445}Let's go, Spot. Let's hook|the kid up with some fun.
+{89451}{89503}Let's go! Let's go have some fun!
+{89509}{89596}Come on, let's go have some fun!
+{89643}{89724}I'm sorry, James.
+{89797}{89869}Let's just go.
+{90011}{90119}You should be ashamed of yourself.|Come on.
+{90267}{90307}What's he doing?
+{90313}{90412}I don't know.|Why don't you try throwing it?
+{90507}{90575}How about that?
+{90601}{90689}Good boy, good boy.
+{90692}{90766}Here, come on, Spot.
+{91015}{91049}Come on, jump up.
+{91055}{91089}Come on, Spot. Good boy.
+{91095}{91169}- Did you see how high he jumped?|- Yeah, like five feet.
+{91175}{91212}Our boy can play!
+{91218}{91329}- He isn't retarded.|- No, he's a smart dog.
+{91335}{91393}Thanks, Spot. I owe you one.
+{91399}{91528}What do you say we get him a bone|or a snack or whatever dogs eat?
+{91671}{91744}Get out of here!
+{91763}{91856}- You believe these kids?|- No respect.
+{91932}{91973}That's our mutt!
+{91979}{92060}- That's our mutt!|- Let's go.
+{92126}{92173}All right, you go get the dog...
+{92179}{92301}...one of those... Whatever he wants.|I'm gonna ask this lady a question.
+{92307}{92397}Hey, how's it going?
+{92429}{92488}Starchild?
+{92494}{92579}"Starchild". Are you serious?
+{92625}{92687}You can have anything you want, Spot.
+{92693}{92733}What about this one?
+{92739}{92766}No.
+{92772}{92806}Hello.
+{92812}{92888}Cat got your tongue?
+{93207}{93290}Now, where did this mutt go?
+{93303}{93410}Hey, kid! Where's that dog?
+{93765}{93828}Be careful. There's piranha in there.
+{93834}{93907}You get the guns.
+{94039}{94124}Let's get that mutt.
+{94139}{94240}No! I'm not paying for this!
+{94739}{94811}Spot, are you okay?
+{94850}{94938}"Can cause paralysis?"
+{94973}{95049}I'll go the other way.
+{95267}{95303}Get this thing off me!
+{95309}{95379}Help!
+{95921}{95953}Hey, kid.
+{95959}{95997}How you doing?
+{96003}{96057}Want to help your Uncle Gino|find the doggy?
+{96063}{96128}Hey!
+{96323}{96381}Whoa. Help!
+{96387}{96452}Help!
+{97367}{97395}You go that way.
+{97401}{97481}That's it. It's over.
+{97513}{97591}My legs!
+{98108}{98175}{y:i}Gordon? It's me again. 
+{98181}{98227}I'm just calling to check in.
+{98233}{98295}Are you there? I'm sure everything's fine.
+{98301}{98359}If you want to, call me on my cell phone.
+{98365}{98454}Okay, I'll talk to you soon. Bye.
+{98753}{98816}Stop!
+{98928}{98984}- So Seattle, huh?|- Yeah.
+{98990}{99035}Don't worry. We have lots of room.
+{99041}{99106}- We'll get you there.|- We'll go straight there?
+{99112}{99197}We're not stopping for nothing.
+{99214}{99266}Well, there you are.
+{99272}{99371}Oh, you're gonna be really comfy in there.
+{99495}{99601}Just don't make any fast movements.
+{99783}{99857}What's that smell?
+{99928}{99990}Hello?
+{99996}{100066}Hi, Mr. Zebra.
+{100408}{100502}- I gotta report an attempted murder.|- Yo, Granger!
+{100508}{100578}You're catching!
+{100600}{100659}This is just perfect.
+{100665}{100719}So where did this happen?
+{100725}{100783}At the pet store. There were two of them.
+{100789}{100856}One was a real big guy,|looking like Pavarotti.
+{100862}{100920}I'm telling you, it was a hit.
+{100926}{100974}A hit? And you were the target?
+{100980}{101020}Dude, not me, the dog.
+{101026}{101078}- The dog?|- Spot was incredible.
+{101084}{101126}He got the bad guys.
+{101132}{101203}It was amazing.|He just took those two guys out.
+{101209}{101286}It's weird, I always thought|he was retarded.
+{101292}{101343}You know what? If you're asking me...
+{101349}{101390}...you're the one who is retarded.
+{101396}{101469}Dude, he's not retarded. You are.
+{101475}{101543}Yeah? Well...
+{101619}{101658}- Know what I'm thinking?|- What?
+{101664}{101710}When Stephanie returns, I'll tell her...
+{101716}{101818}...not to leave James with a nut who|gets her kid a dog while she's away.
+{101824}{101882}Actually, that's not his dog at all.
+{101888}{101969}That's "Satan's dog".
+{102007}{102078}Let's leave. We don't need these idiots.
+{102084}{102114}Oh, man.
+{102120}{102161}Come on, Spot.
+{102167}{102226}{y:i}Looks like Agent Sharp|{y:i}skipped the country. 
+{102232}{102266}She did not.
+{102272}{102336}We got ahold of all her credit card records.
+{102342}{102399}She bought a one-way ticket to Belize.
+{102405}{102438}She never made the airport.
+{102444}{102518}{y:i}And let me tell you something,|{y:i}if you don't get that dog... 
+{102524}{102638}...you're gonna make the airport.|But as part of a runway!
+{102644}{102744}We're dead. We are so dead.
+{102750}{102805}You know, I never saw "Godfather III".
+{102811}{102866}I heard it wasn't as good as the first two.
+{102872}{102931}I thought we had more time, Gino.
+{102937}{102995}Listen to me.
+{103001}{103054}Take a rest. We're gonna find the dog.
+{103060}{103154}Hey, Gino, I didn't think|they let you out of Jersey.
+{103160}{103225}- What are you doing here?|- What do you say, Tommy?
+{103231}{103286}I just got a little business to finish up.
+{103292}{103379}That's good. Great.
+{103385}{103516}I can't stand that clown.|He's got no respect.
+{103541}{103605}- Hello.|- Yeah, I know who's got your dog.
+{103611}{103686}My neighbor. The guy's a freak.
+{103692}{103739}They got the dog. We got the dog.
+{103745}{103788}The bureau appreciates your help.
+{103794}{103871}A canine agent disappeared|in this area a few days ago.
+{103877}{103933}We are intent on finding that dog.
+{103939}{104006}What is it with the dogs all of a sudden?
+{104012}{104115}I had this idiot in who said the Mafia|put a contract out on his dog.
+{104121}{104158}That's Agent 11.
+{104164}{104202}Yeah, and?
+{104208}{104352}He's my partner, you greasy-haired reptile.|Tell me everything.
+{104449}{104521}I can't sleep.
+{104533}{104597}- Why not, buddy?|- I had a bad dream.
+{104603}{104646}About what?
+{104652}{104746}Charizard was trying to burn me,|and I had to run away.
+{104752}{104799}- Who's Charizard?|- A Pokémon.
+{104805}{104847}I thought Pikachu was the Pokémon.
+{104853}{104905}There's all different Pokémon.
+{104911}{105024}- And they all have different powers?|- You catch on fast.
+{105030}{105119}And are they named|after what they sort of do?
+{105125}{105162}Kind of.
+{105168}{105277}Okay, so if you were a Pokémon,|you'd be Snotty-nose-achu.
+{105283}{105409}You would be Stinky-feet-achu.
+{105464}{105522}And you'd be Fart-in-bed-achu.
+{105528}{105560}It wasn't me.
+{105566}{105606}It wasn't me, either.
+{105612}{105715}Wait, if it wasn't me, and it wasn't you...
+{105810}{105875}Do you like my mom?
+{105881}{105938}Yeah. I really do.
+{105944}{105977}Why don't you marry her?
+{105983}{106066}Well, because, you know,|marriage is a big step.
+{106072}{106159}You really gotta know someone|before you do something like that.
+{106165}{106238}You'd be fun for a dad.
+{106244}{106296}You think so?
+{106302}{106362}Thanks.
+{106400}{106424}Hold it.
+{106430}{106475}I think this is the block.
+{106481}{106519}Yeah, let's go.
+{106525}{106571}And they lived happily ever after...
+{106577}{106688}...because they won the lottery|and moved to Hawaii.
+{106820}{106891}There you go.
+{107615}{107693}Don't hog all the blankets.
+{107699}{107758}I am so glad this is off our plate.
+{107764}{107888}Yeah, you look like you could use|something off your plate.
+{108172}{108261}Have you seen any of these men?
+{108264}{108355}Yeah. These two.|They destroyed the pet store.
+{108361}{108470}If there's any cost for the damages,|they should be held responsible.
+{108476}{108562}You're very lucky, Mr. Smith.|These men are extremely dangerous.
+{108568}{108654}You should be all right now that|Agent 11 is with us. 11, let's go!
+{108660}{108698}What?
+{108704}{108810}- No.|- Spot's leaving?
+{108817}{108889}I promised the dog to the kid.|You can't take the dog.
+{108895}{108945}Don't take the dog. Look at the kid.
+{108951}{109054}- You can't take him.|- Agent 11 is U.S. Government property.
+{109060}{109137}But you can't take him.
+{109256}{109311}Come on, James.
+{109317}{109360}Spot doesn't belong to us.
+{109366}{109465}I think he has to go back with these guys.
+{109489}{109554}Here we go, boy.
+{109560}{109650}He doesn't like that.
+{109650}{109713}Come on.
+{109746}{109830}Don't go, Spot.
+{109951}{110017}No!
+{110772}{110889}- You're gonna have to eat something.|- I'm not eating till Spot comes back.
+{110895}{110942}Well, Spot's not coming back.
+{110948}{111033}That's life. Get used to it.
+{111226}{111273}Let's see.
+{111279}{111318}You lost the dog.
+{111324}{111359}The boy wants you dead.
+{111365}{111422}No way you're getting jiggy|with his mama.
+{111428}{111542}That makes you a single man again,|brother. Give it to me up top.
+{111548}{111602}Okay, leave me hanging. Okay, cool.
+{111608}{111681}I'll remember that.
+{111908}{111958}I need you to eat.
+{111964}{112025}11, eat.
+{112080}{112139}You're gonna be stupid|and not do anything?
+{112145}{112198}I am doing something. I'm moving on.
+{112204}{112283}You should, too. Listen, James,|don't get attached to things.
+{112289}{112360}- It only ends up messing with you.|- But he's our dog.
+{112366}{112446}No, he's a government official,|much like myself.
+{112452}{112514}No, he's our dog and he loves us.
+{112520}{112559}Know what? You're just a kid.
+{112565}{112611}You know nothing. You're irrational!
+{112617}{112703}No, you're stupid!
+{112875}{112954}- Hello!|- Gordon, hi.
+{112960}{112995}Oh, it's you.
+{113001}{113094}You won't believe what I've been through,|but I'm really close now.
+{113100}{113160}Every time you call,|you got some lame excuse.
+{113166}{113227}What's it this time?|Dog ate your homework?
+{113233}{113291}Are you okay? Is everything all right?
+{113297}{113342}And always with the questions.
+{113348}{113416}All I want to know is,|when are you gonna be here?
+{113422}{113451}Gordon, what happened?
+{113457}{113525}I will not be treated|like an irresponsible idiot.
+{113531}{113578}You're the irresponsible one.
+{113584}{113607}It's your fault!
+{113613}{113666}I shouldn't be watching a dog...
+{113672}{113774}...and I sure don't need some kid in my life.
+{113859}{113882}Stop!
+{113888}{113981}You're taking me to my kid, now!
+{115003}{115066}Agent 11! He's escaped.
+{115072}{115137}Agent 11!
+{115406}{115495}All right, truce. Come out here.
+{115690}{115769}Come on, this isn't funny.
+{115896}{115985}My kid. I lost my kid.
+{116115}{116194}Keep your mouth shut.
+{116263}{116293}This is suicide.
+{116299}{116363}How in the hell could you guys|let Agent 11 escape?
+{116369}{116445}You'll all be reprimanded.
+{116451}{116487}Where you going?
+{116493}{116570}To find my dog,|and I know exactly where he went.
+{116576}{116656}Back to those two.
+{116881}{116998}I thought you were dead. Get in the truck.
+{117010}{117129}- Come on, buddy, get in the truck.|- I'm gonna find Spot.
+{117132}{117241}How you gonna find him?|Think you're a detective?
+{117524}{117576}Why did you run away?
+{117582}{117674}What do you care? You don't want me.
+{117680}{117738}What?
+{117744}{117795}No, I didn't mean it like that.
+{117801}{117890}Why did you say that to my mom?
+{117900}{118002}You know, I was just scared.
+{118008}{118078}And sometimes, when people get upset...
+{118084}{118169}...it comes out all messed up.
+{118169}{118240}Do you miss Spot?
+{118259}{118319}Yeah, I guess I do.
+{118325}{118386}I'm really glad you ended up|staying with me.
+{118392}{118467}Glad we became pals.
+{118473}{118592}I didn't mean what I said to your ma.|Not even a little bit.
+{118599}{118680}Think you could forgive me?
+{118807}{118917}It's okay, Gordon. I'm glad we're friends.
+{118948}{119009}Me too.
+{119084}{119145}There they are. Back it up.
+{119151}{119217}It's those guys. Come on!
+{119223}{119302}Get back there! Hold on!
+{119516}{119594}- James, you okay?|- Yeah.
+{119595}{119708}- Throw those boxes at them.|- All right!
+{119752}{119826}Dive bomb! Depth charge!
+{119832}{119913}- Watch it!|- I got it.
+{120004}{120070}This mailman's gonna lose his job.
+{120076}{120146}Where'd they go?
+{120276}{120313}James, are you okay?
+{120319}{120356}Look what I found.
+{120362}{120408}Good idea. Come on.
+{120414}{120485}Police!
+{120524}{120548}Police!
+{120554}{120611}Help! 911!
+{120617}{120680}Help!
+{120732}{120822}That's gotta hurt.
+{120932}{120954}Hurry, James!
+{120960}{121034}- Hey, get over here!|- Give me the dog!
+{121040}{121127}Where's the dog? Get over here.
+{121375}{121496}Help me! Come on!
+{121737}{121809}Come on, get off.
+{121941}{122002}Help.
+{122054}{122118}Run!
+{122412}{122484}I'll save you from calling the cops.|We got one here.
+{122490}{122523}Sit down over there.
+{122529}{122605}And you, shut up.
+{122615}{122642}Where is that mutt?
+{122648}{122691}I thought he was with the FBI.
+{122697}{122795}He escaped to be with you.
+{122801}{122864}How touching. I'm all choked up.
+{122870}{122989}Could you loan me a handkerchief|while we wait for the mutt?
+{123116}{123145}Somebody help me here.
+{123151}{123233}Get off of me!
+{123294}{123350}Come here, you.
+{123356}{123394}That's it.
+{123400}{123447}Mr. Talia, what are you doing here?
+{123453}{123539}I took a wild guess and figured|you two baboons would screw it up.
+{123545}{123607}- Sit down, the both of youse.|- Sonny, the dog...
+{123613}{123666}- It wasn't our fault.|- No?
+{123672}{123750}I don't know if it's worth|the bullets for the two of you.
+{123756}{123807}I gotta ask my accountant. Afterwards.
+{123813}{123922}Excuse me, Mr. Mob Boss Guy, I wouldn't|make any sudden moves if I were you.
+{123928}{123970}You wouldn't, you punk? Why not?
+{123976}{124097}- I don't think Spot would like that.|- And who is Spot?
+{124187}{124255}Spot!
+{124357}{124394}Come on.
+{124400}{124467}Come on.
+{124636}{124702}11, the gun!
+{124709}{124790}You take it.
+{125300}{125344}- Spot!|- 11!
+{125350}{125401}Kick him, James!
+{125407}{125500}Run, James! Run!
+{125587}{125655}No, not again! Come on!
+{125661}{125769}No, not again.
+{125872}{125942}- Hey, Spot.|- You're the greatest, Spot.
+{125948}{126035}Hey, what do you got there, boy?
+{126197}{126270}All right, get up!
+{126270}{126310}Scratchy, scratchy, good dog!
+{126316}{126378}Good boy. I love you.
+{126384}{126433}Agent 11...
+{126439}{126470}...come on.
+{126476}{126563}His name's Spot. He's staying with us.
+{126569}{126679}Open up your eyes, man.|This dog's got a lot going on inside.
+{126685}{126746}He just wants to be a dog, with a family.
+{126752}{126846}He's never had a family before,|and it's been really rough.
+{126852}{126882}The FBI is his family.
+{126888}{126939}The FBI is not a family. It's a job.
+{126945}{127023}Come on. He's got a chance|to be happy now...
+{127029}{127079}...with people that care about him.
+{127085}{127186}I want to give him a home.|I won't let you mess that up.
+{127192}{127286}I think it's time that Spot|decides what he wants.
+{127292}{127346}I can't ask him. He's a dog.
+{127352}{127449}Let's just see. Let's see what he wants.
+{128017}{128084}Good boy, Spot.
+{128488}{128545}What is it?
+{128551}{128627}What do you want, boy?
+{128629}{128699}What is it, boy?
+{128716}{128789}I'll miss you, too.
+{128972}{129008}Thanks for the ride.
+{129014}{129066}Benny! What happened?
+{129072}{129114}I don't believe anybody's dead.
+{129120}{129238}Gordon and James took down|a mob boss and his henchmen...
+{129245}{129309}Gordon gonna need some help.
+{129315}{129380}We need a SWAT team, man.
+{129386}{129450}Then you hit the guy in the head|with the meatballs?
+{129456}{129513}That was funny.
+{129519}{129562}Mom!
+{129568}{129638}What's going on?
+{129683}{129714}Oh, my God!
+{129720}{129802}- Stephanie. You look great.|- We had the greatest time!
+{129808}{129930}Gordon had me under his arm and then|two bad guys with guns chased us.
+{129936}{130075}There were dogs everywhere,|and this is Spot, the dog Gordon gave me.
+{130112}{130210}You look like you had a hard trip.|Maybe we should talk about this later.
+{130216}{130315}If you ever come within 50 feet of my son,|I'll call the police.
+{130321}{130393}Well, Stephanie, I live 25 feet away.
+{130399}{130487}Those came in very handy.
+{130492}{130569}I can explain.
+{130712}{130776}Come on.
+{130995}{131079}Hey there, music man.
+{131175}{131313}I'm gonna catch you in the yard.|We're gonna settle this, man to man.
+{131504}{131547}- What's up, G?|- Yo, what's up?
+{131553}{131619}I'm all right. You know what, man?
+{131625}{131741}- He's not such a bad dog after all.|- No, he's a good dog.
+{131843}{131936}You really dug Stephanie, didn't you?
+{131952}{132022}Now she just sees you|as unreliable, immature...
+{132028}{132165}...irresponsible, fly-by-night,|bad kid-watching dude.
+{132196}{132226}You want a hug, man?
+{132232}{132341}No, I'd rather not. I'll just take the dog|to the park or something.
+{132347}{132396}- But thanks, man.|- Go on and walk your dog.
+{132402}{132488}All right. See you later.
+{132514}{132565}Do you like it? There you go. Thanks.
+{132571}{132640}Hey!
+{132644}{132716}I'm sorry.
+{132764}{132837}What? What's this?
+{132946}{133055}What's up, buddy? Trying to jump me?
+{133148}{133229}You two turning to a life of crime now?
+{133235}{133288}- Here.|- Thanks.
+{133294}{133324}So, you're a hero now.
+{133330}{133410}James tells me you and Spot|saved him from the bad guys.
+{133416}{133525}I actually thought he was exaggerating|because he likes you so much.
+{133531}{133689}- It's really true. He's an FBI agent.|- I actually checked it out.
+{133722}{133849}It sounds like you saved James' life, too.|Thank you.
+{133932}{133994}Listen, I...
+{134000}{134110}...I think maybe I might have jumped|to conclusions about you...
+{134116}{134196}...and I wonder if you'd|like to give it another shot.
+{134202}{134270}"It"? You mean us?
+{134276}{134343}The two of us.
+{134439}{134534}If you make it the three of us, I'm in.
+{134618}{134689}Okay! The four of us. Sorry.
+{134695}{134738}Come on.
+{134744}{134849}- Go get your ball, Spot!|- Go get it! Go on!

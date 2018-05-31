@@ -1,0 +1,899 @@
+{1}{1}23.976
+{885}{978}Julien, don't start this again.|Be reasonable.
+{1007}{1083}It’s naughty to cry.|You promised.
+{1090}{1147}I'm not crying.|Really.
+{1163}{1247}I'll see you in three weeks,|and you'll be home for mardi gras.
+{1252}{1303}Time will fly.
+{1308}{1383}Why do you say that?|You know it won't.
+{1388}{1438}Dad and I will write often.
+{1450}{1528}I don't give a damn about Dad,|and I hate you.
+{1578}{1605}{Y:i}Hi, Julien.
+{1647}{1678}Hello, children.
+{1683}{1741}You want to be with your friends.
+{1746}{1838}Yeah, right.|I can't stand that idiot.
+{1964}{2010}Still smooching?
+{2014}{2084}A bright boy like you|mustn't miss the train.
+{2089}{2161}- François, I forbid you to smoke.|- It’s only corn silk.
+{2166}{2209}- So?|- It doesn't count.
+{2250}{2286}Bye, Mom.
+{2291}{2328}Be good.
+{2336}{2378}All aboard!
+{2387}{2426}Go on now.
+{2744}{2816}You think I like this?
+{2826}{2877}I miss you every moment.
+{2902}{2965}I'd like to dress up|as a boy and join you.
+{2970}{3056}I'd see you at school every day.|It’d be our secret.
+{3096}{3160}You know I can't keep you|in Paris with me.
+{3841}{3969}Written and Directed by|LOUIS MALLE
+{6192}{6254}- Did you have a good vacation, Julien?|- Yes, Father.
+{6259}{6306}- Your parents are well?|- Yes, Father.
+{6362}{6419}- What’d you get for Christmas?|- Books.
+{6424}{6494}Just books?|That’s lousy.
+{6688}{6745}ST. JOHN OF THE CROSS|CARMELITE CONVENT
+{7236}{7279}Have you ever read Verne?
+{7284}{7333}{Y:i}Just 20,000 Leagues Under the Sea.
+{7376}{7455}Laviron, did you put|your things away?
+{7676}{7773}Ach! Black market, Mr. Quentin.|I arrest you.
+{7798}{7845}{Y:i}Your jam ist konfizkated!
+{7869}{7894}Let me go!
+{7899}{7944}Quentin, stop it.
+{7969}{8051}Next time I'll smash your face in.|I swiped it from my brother.
+{8056}{8097}She's a real dish.
+{8203}{8253}She's got no tits.
+{8284}{8324}Look out! Monkeys!
+{8705}{8760}Good evening, Father.
+{8803}{8871}- Is this bed free?|- Yes. D'Eparville has whooping cough.
+{8894}{8930}Take this one.
+{8989}{9062}Children, this is Jean Bonnet,|your new schoolmate.
+{9077}{9135}Mr. Moreau, find him a locker.
+{9182}{9253}- Good night, children.|- Good night, Father.
+{9350}{9425}- Hey, Bonnet!|- Where's your Easter bonnet?
+{9430}{9497}That’s enough!|Leave him alone!
+{9514}{9557}I'll show you your locker.
+{9602}{9677}Take this one.|Go get your things.
+{9791}{9835}What’s your name?
+{9921}{9985}{Y:i}The Adventures of Sherlock Holmes.
+{10053}{10134}Shut up and get to bed.|It’s just a blackout.
+{10186}{10264}My name's Julien Quentin.|Mess with me and you'll be sorry.
+{10310}{10373}Babinot, vacation's over.
+{10465}{10503}Good night, everyone.
+{11268}{11305}Cut it out!
+{11375}{11430}Hey, that’s my place.
+{11499}{11552}- What’s today?|- French lit and religion.
+{11671}{11773}- No hot water?|- No. We're not sissies here.
+{12215}{12269}{Y:i}"Verily I say unto you,
+{12274}{12358}unless you eat the flesh|of the Son of Man and drink his blood,
+{12368}{12430}you have no life in you. "
+{12512}{12549}Father, give me a hand.
+{12592}{12674}{Y:i}"Whoever eats my flesh|and drinks my blood has eternal life.
+{12684}{12730}For my flesh is food indeed,
+{12739}{12777}and my blood is drink indeed. "
+{12782}{12869}{Y:i}We starve and freeze,|yet we fast for communion.
+{12874}{12901}What a place.
+{12906}{12980}- You're taking communion?|- I'm no ass-kisser like you.
+{13066}{13100}{Y:i}"Star of the sea,|here lies the heavy sheet
+{13105}{13149}The deep swell,|the ocean of wheat
+{13154}{13198}The turbulent spume|and our full granaries
+{13203}{13257}Here, your eyes|on this immense cope
+{13262}{13308}Here your voice|on this weighty plain
+{13313}{13366}Our absent friends,|depopulated hearts
+{13371}{13433}Here, the stretch|of our shattered fists
+{13438}{13471}Our weariness and our full force -"
+{13476}{13544}{Y:i}Quentin, you're ready|for the Comédie-Française.
+{13573}{13627}Can you tell us|who Charles Peguy was?
+{13632}{13690}He was killed|in the First World War.
+{13694}{13740}You're starting at the end|of the story.
+{13745}{13783}His mother mended chairs.
+{13789}{13894}Stop laughing like idiots.|Peguy's mother was a good woman.
+{13925}{14014}What about you, Bonnot?|You know anything about Peguy?
+{14022}{14067}No, sir.|And my name's Bonnet.
+{14072}{14130}As in Easter bonnet!
+{14135}{14184}Very funny, Babinot.
+{14203}{14243}To get back in the swing|after vacation,
+{14248}{14317}write an essay|on the first two verses.
+{14322}{14365}You have half an hour.
+{15193}{15247}I'd like to confess.
+{15625}{15686}- Are you nuts?|- It doesn't even hurt.
+{16314}{16365}Quentin, take it easy!
+{16377}{16416}Careful, children.
+{16519}{16557}Take that, Negus.
+{16674}{16724}This'll warm him up.
+{17042}{17117}I'm Bayard, the fearless knight.
+{17194}{17233}Love live France!
+{17242}{17294}Playing rough, Quentin?
+{17400}{17440}Bastard!
+{17449}{17482}En garde, Laviron!
+{17486}{17532}Coward, traitor, villain!
+{17537}{17654}I'm Negus, the Black Knight,|protector of widows and orphans.
+{17665}{17743}Get back, Moor!|I'm Richard the Lionhearted.
+{17748}{17837}I'll drive you from Jerusalem,|infidel Saracen.
+{17857}{17880}Son of a bitch.
+{17885}{17941}Allah is God|and Mohammed is his prophet.
+{17946}{17987}Tremble, my friend.
+{17996}{18117}Lion heart, flea brain,|pig face, cow turd.
+{18386}{18427}Go, Negus.
+{18449}{18491}Is that his real name?
+{18505}{18544}What do you think?
+{18564}{18618}He looks nasty.|You know him?
+{18623}{18689}That’s Lafarge, my best friend.
+{18800}{18838}Death to the Saracens!
+{18862}{18896}Well done!
+{18997}{19070}Playtime's over.|Back to class.
+{19138}{19177}Babinot, hurry up.
+{19420}{19510}It doesn't even hurt.|Hold still while I put on a bandage.
+{19521}{19569}You boys will kill yourselves|on those stilts.
+{19607}{19673}Someone'll break a leg one day.
+{19737}{19789}Hey, we said 45.
+{19850}{19892}The richer they are,|the more they steal.
+{19897}{19990}Joseph, what are you up to?|Back to your potatoes.
+{20046}{20089}There, all better.
+{20243}{20287}You drink too much, Mrs. Perrin.
+{20292}{20369}Quiet, brat! Nothing wrong|with a drop of the good stuff.
+{20636}{20708}- Got any stamps?|- I'm not trading with you guys anymore.
+{20713}{20752}I've got some jam.
+{20784}{20825}After lunch.
+{20854}{20920}The doctor's wife loves your jam.
+{20925}{20994}It puts her in the mood.|Know what I mean?
+{21354}{21401}Pass the basket.
+{21558}{21637}Now there's straw in the bread!|I'm gonna write to my dad.
+{21642}{21710}- What can he do?|- Complain.
+{21767}{21826}I remind those|who've received food from home
+{21831}{21881}to share with their fellow students.
+{21939}{21989}You want some salami?
+{21994}{22035}I'm warning you - it’s horsemeat.
+{22081}{22135}I have to eat. I'm anemic.
+{22152}{22212}What about us?|Didn't you hear Father Jean?
+{22262}{22326}There's not enough for everyone.|Let your folks feed you.
+{22382}{22416}There's one piece left.
+{22421}{22481}- You take it.|- Thanks. You're a pal.
+{22811}{22866}Today, St. Simeon Stylites.
+{22871}{22953}{Y:i}"St. Simeon was 13|and tending his father's sheep
+{22958}{23024}when he heard this verse|from the Bible:
+{23029}{23070}{Y:i}"Woe unto you who laugh now,
+{23075}{23131}for the day shall come|when you shall weep. '
+{23150}{23264}He left home to become a hermit|and lived 30 years atop a column.
+{23347}{23393}He stood upright, without shelter,
+{23398}{23459}absorbed in almost|continuous prayer.
+{23618}{23667}Vitamin crackers.
+{24080}{24127}Here. It’ll taste better now.
+{24226}{24289}- I've got two.|- Thanks. I'm not hungry anymore.
+{24315}{24362}That guy gets on my nerves.
+{24388}{24452}- There's little Joseph now.|- You got the jam?
+{24517}{24585}Stop it!|These are my clean pants!
+{24691}{24741}Joseph's in love, boys.
+{24783}{24833}Your girlfriend looks like a slut.
+{24838}{24877}How about your sister?
+{24882}{24942}What’s she look like?
+{25000}{25094}- Is the teacher tough?|- No, he's nice.
+{25099}{25183}{Y:i}- Have you had him?|- Yes. He was amazed at my Latin.
+{25448}{25552}- They'll be ready to eat in three months.|- Sure, for Parents' Day.
+{25557}{25617}{Y:i}So parents will say,|"You eat so well here!"
+{25653}{25698}Let’s see the stamps.
+{25832}{25916}A 15-centime Madagascar.|The guy said it’s real rare.
+{25925}{25960}Somewhat rare.
+{25987}{26081}I think I'll keep my jam.|The grub here is lousy.
+{26100}{26146}You're a real Jew.
+{26328}{26375}So, you're in love?
+{26394}{26479}Don't joke around. It’s serious.|Could you spare 50 francs?
+{26484}{26542}Women cost a bundle.|You'll find out.
+{26547}{26621}No, I won't.|Besides, you're rich.
+{26626}{26721}On what they pay me here?|If I could find another job -
+{26726}{26783}I'm broke. Ask François.
+{26829}{26920}{Y:i}Ciron, put some wood in the stove.|It’s freezing in here.
+{26955}{27029}No need to play the fool.
+{27072}{27178}Who can prove that the sum|of the two opposite sides AB plus CD
+{27182}{27250}equals the sum|of the other two sides?
+{27286}{27317}The new boy.
+{27322}{27392}- His name's Easter Bonnet, sir.|- Knock it off.
+{27529}{27617}We know that tangents of a circle|from a given point are equal.
+{27624}{27714}Therefore A equals a,
+{27726}{27791}B equals b...
+{28039}{28070}You think?
+{28075}{28150}Turns your brain to mush,|but he doesn't have a lot to lose.
+{28352}{28422}Right. Very good.
+{28490}{28537}- Everyone understand?|- Yes, sir.
+{28600}{28641}Great! An air raid!
+{28670}{28727}We'll go down to the shelter.
+{28760}{28808}But class isn't over.|Bring your books.
+{29394}{29441}Hurry up, children.
+{29446}{29513}{Y:i}- Mother Michel lost her cat|- Quiet!
+{29648}{29697}Now for some algebra.
+{29712}{29778}Follow along in your books.|Page 61.
+{29846}{29889}Algebraic numbers
+{29894}{29997}are like arithmetic numbers in that...
+{30118}{30154}Give me some light?
+{30159}{30204}Get lost.
+{30213}{30256}Lift up the light.|I can't see.
+{30261}{30299}I'll get caught!
+{30319}{30368}You're such a pain!
+{30665}{30716}They're bombing the station.
+{30723}{30804}- No, it’s the barracks.|- Calm down and stay seated.
+{30869}{30932}Hail Mary, full of grace,|the Lord is with you...
+{31305}{31351}The lovebirds!
+{31416}{31460}Quentin, turn that off!
+{31620}{31675}Thy will be done,|on earth as it is in heaven.
+{31680}{31721}Give us this day our daily bread,
+{31726}{31816}and forgive us our trespasses|as we forgive our trespassers,
+{31821}{31928}and lead us not into temptation,|but deliver us from evil. Amen.
+{31966}{32015}To bed now. Good night.
+{32250}{32298}Just curl up|like a little doggie.
+{32392}{32438}Did you do this?
+{33601}{33633}Shit!
+{35127}{35169}What is it?
+{35661}{35732}One, two...
+{35752}{35843}three, four...
+{35973}{36017}Shoulders back!
+{36152}{36222}{Y:i}You've got biceps|like papier-mâché!
+{36422}{36475}She's showing off her ass.
+{36491}{36533}It’s a lot better than yours.
+{36538}{36585}Quiet!
+{36590}{36646}Ciron, 20 extra push-ups!
+{36702}{36786}Keep going!|Get those rear ends down!
+{37164}{37203}It’s an A-sharp.
+{37208}{37255}Can't you hear|when you hit a wrong note?
+{37286}{37324}Go on.
+{37474}{37524}You should try the violin.
+{37537}{37576}Do you hate music?
+{37581}{37640}Not at all. But my mother|forces me to take piano.
+{37646}{37745}She's right. If you stop now,|you'll always regret it.
+{37770}{37805}Time's up.
+{37818}{37845}See you Tuesday.
+{37857}{37896}Good-bye, miss.
+{38048}{38108}- What’s your name?|- Jean Bonnet.
+{38156}{38203}Let’s hear you play.
+{38258}{38294}Try this.
+{39610}{39651}Ass-kisser.
+{40138}{40188}Bonnet, get back to your seat.
+{40566}{40626}{Y:i}"My darling, as you know,
+{40631}{40691}it’s very hard|for me to write to you.
+{40696}{40761}Mr. D. Was going to Lyon,
+{40777}{40837}and he agreed to mail this.
+{40842}{40895}Your aunt and I seldom go out -"
+{40900}{40936}Julien Quentin.
+{40949}{40992}Confession.
+{41150}{41208}Your mother's up to something.
+{41411}{41473}Oh, yes - I fought|with my sister on vacation.
+{41478}{41520}Nothing else?
+{41525}{41563}I don't think so.
+{41568}{41614}No evil thoughts?
+{41648}{41738}You know what I mean.|Everyone has them.
+{41756}{41819}- Even you?|- Even me.
+{41878}{41938}- What’s wrong?|- Frostbite.
+{41945}{41982}Show me.
+{42094}{42136}It’s a vitamin deficiency.
+{42162}{42227}Tell Mrs. Perrin|to give you cod-liver oil.
+{42233}{42289}{Y:i}It’s the cold.|It’s freezing in school.
+{42294}{42328}I know.
+{42338}{42397}But think of those|less fortunate than you.
+{42467}{42536}You told your mother|you wanted to take holy orders.
+{42545}{42582}She told you?
+{42596}{42670}I don't think you have|any calling for the priesthood.
+{42710}{42758}It’s a sorry job anyway.
+{42955}{43009}Say three Hail Marys.
+{43018}{43061}You may stand up.
+{43258}{43305}Who told you that?
+{43326}{43374}You mustn't believe rumors.
+{43465}{43505}What can I do?
+{43582}{43637}We're in the Lord’s hands.
+{43886}{43939}Do you get along well|with your new classmate?
+{43944}{43973}Bonnet?
+{43978}{44026}Be very nice to him.
+{44036}{44106}The others look up to you.|I'm counting on you.
+{44126}{44163}Why? Is he sick?
+{44168}{44248}Not at all.|Run along now.
+{44867}{44921}{Y:i}- Petain's a loony.|- He is not.
+{44926}{44970}{Y:i}If we didn't have Petain,|we'd be in deep shit.
+{44975}{45015}- Says who?|- My father.
+{45020}{45061}My father says Laval|sold out to the Germans.
+{45066}{45109}Jews and Communists|are worse than Germans.
+{45114}{45167}- Your Dad says that?|- No, I do.
+{45172}{45212}I'm not surprised.
+{45407}{45465}Don't dawdle.|Stay together.
+{45526}{45581}- Good, isn't it?|- What?
+{45596}{45637}{Y:i}The Three Musketeers.|How far are you?
+{45642}{45715}- Milady's trial.|- She's a real bitch.
+{45763}{45848}- What are you gonna do later?|- I don't know. Math.
+{45853}{45930}Math's a bunch of shit,|unless you want to be an accountant.
+{45939}{45986}My father was an accountant.
+{46128}{46179}PUBLIC BATHS|Hurry up, children.
+{46184}{46232}Quentin, come along.
+{46325}{46361}Come on, Babinot.
+{46499}{46545}NO JEWS ALLOWED
+{47685}{47736}Remember,|we don't have much time.
+{47741}{47780}You haven't bathed in two weeks.
+{47807}{47871}Bonnet, is it true|you're not gonna be confirmed?
+{47876}{47912}I'm a Protestant.
+{47917}{47984}A heretic - disgusting!
+{48114}{48164}Bonnet isn't a Protestant name.
+{48173}{48212}It sure is.
+{48282}{48343}- Second shower.|- Not a tub?
+{48348}{48387}A shower. Now go!
+{48392}{48488}Babinot, what are you doing?|That’s enough now.
+{48559}{48622}Bonnet, take the tub at the end.
+{48635}{48677}- Can I have a tub too?|- In there.
+{48682}{48730}- What about me?|- In there.
+{48762}{48837}- It’s tiny. My feet’ll stick out.|- It’ll have to do.
+{49438}{49487}{Y:i}You should try the violin.
+{49703}{49756}{Y:i}Quentin, what are you doing?
+{49778}{49817}{Y:i}I'm waiting for your tub.
+{50218}{50273}Smart-aleck.|I told you to hurry up.
+{50386}{50436}I can't help it.
+{50441}{50486}My soap won't lather.
+{50658}{50705}{Y:i}Hurry up. It’s freezing.
+{50806}{50878}- That guy's got some nerve!|- Shut up.
+{50882}{50957}It’s cold. We'll run back.|Let’s go!
+{52654}{52732}Pull your arms back.
+{52819}{52897}Squat, one and two.
+{52912}{52955}Again.
+{53262}{53307}Looks like the mountain troops.
+{53312}{53360}No, they're militia.
+{53390}{53430}This is a search.
+{53438}{53488}You have no right to enter here.
+{53496}{53540}This is a private school.
+{53545}{53604}Only children and men of the cloth.
+{53679}{53715}What do those collaborators want?
+{53720}{53768}- We have orders.|- From whom?
+{53774}{53804}Our superiors.
+{53809}{53852}- I'll complain.|- To whom?
+{53879}{53962}- You can go in now.|- Already? Great!
+{54306}{54335}{Y:i}Hey!
+{54340}{54416}{Y:i}Your jam was a big hit.|Got any more?
+{54431}{54485}What did the militia want?
+{54490}{54558}They're snooping around.|Heard there were draft dodgers here.
+{54563}{54593}Draft dodgers?
+{54598}{54680}Guys hiding out|to avoid forced labor in Germany.
+{54686}{54742}Like Moreau, the monitor.|- Really?
+{54747}{54830}Moreau's not his real name.|But I don't care.
+{54843}{54898}With my leg, I'll be exempt.
+{54914}{54970}- Joseph!|- Coming.
+{54984}{55034}She's worse than going to Germany.
+{55198}{55274}{Y:i}Rollin. Average. Nine and a half.
+{55279}{55325}Bonnet? Not here.
+{55330}{55374}Good riddance.
+{55394}{55426}Quentin.
+{55431}{55512}Intelligent, but a bit pretentious.
+{55518}{55555}This, for example:
+{55560}{55656}{Y:i}"Peguy sees the cathedral|as a grand and generous beacon. "
+{55758}{55802}Take your seat.
+{55884}{55922}Where were you?
+{56051}{56105}Ciron, 12 points.
+{56122}{56182}Where do you get barges|in the middle of wheat fields?
+{56187}{56258}On the Foussarde Canal, sir.|I was there on vacation.
+{56274}{56301}Bonnet.
+{56311}{56401}131/2. Good work.|Sensitive and well-written.
+{56436}{56481}Quentin, you've got competition.
+{56614}{56676}Who hasn't had|his vitamin cracker?
+{56723}{56779}D'Arsonval, stop lagging.
+{56784}{56829}I can't pay you right away.
+{56865}{56912}You promised.
+{56970}{57049}Ask the little shit. I'm sure|the miser's hoarding some sugar.
+{57065}{57117}Want some marbles?
+{57278}{57317}{Y:i}Julien Quentin?
+{57337}{57376}Wait!
+{57390}{57434}Julien Quentin.
+{57858}{57919}{Y:i}The apartment seems empty|without you.
+{57924}{58005}{Y:i}Paris is no fun these days.|They bomb us nearly every night.
+{58010}{58091}A bomb killed|eight people yesterday.
+{58096}{58132}{Y:i}Charming!
+{58140}{58178}{Y:i}The girls are back in school.
+{58183}{58245}{Y:i}Sophie works at the Red Cross|Thursdays and Sundays.
+{58250}{58297}{Y:i}So many unfortunate people.
+{58304}{58369}{Y:i}Dad’s at the plant in Lille.|His factory's hardly producing.
+{58374}{58418}{Y:i}He's in a foul mood.
+{58428}{58485}{Y:i}It’s really time this war ended.
+{58504}{58558}{Y:i}I'll come get you Sunday at 8.00,|as we agreed.
+{58567}{58610}{Y:i}We'll have lunch at Le Grand Cerf.
+{58618}{58677}{Y:i}Can't wait to give you a big hug.
+{58685}{58722}{Y:i}Your loving mother.
+{58728}{58774}{Y:i}P. S. Eat your jam.|I'll bring you more.
+{58779}{58824}{Y:i}Take good care of your health.
+{59814}{59846}Beat it, buddy.
+{61315}{61382}{Y:i}"First prize in arithmetic - Jean...
+{61694}{61746}Jean Kippel...
+{61778}{61856}Kippelstein. "
+{62094}{62130}I'm hungry.
+{62156}{62194}What’s a perpendicular bisector?
+{62199}{62290}- A perpendicular in mid-segment.|- What’s it good for?
+{62843}{62890}That’s a theta, not a tau.
+{63406}{63461}We'll continue next time.
+{63547}{63579}Greek is useful, you know.
+{63586}{63646}All scientific words|have Greek roots.
+{64553}{64601}Who do you like best?|Athos or d’Artagnan?
+{64606}{64643}Aramis.
+{64669}{64699}He's a hypocrite.
+{64704}{64749}Yeah, but he's the smartest one.
+{64810}{64852}Why don't you take Greek?
+{64861}{64923}- I took Latin.|- Where?
+{64939}{65019}At school in Marseilles.
+{65035}{65103}You're from Marseilles?|You don't have an accent.
+{65137}{65181}I wasn't born there.
+{65195}{65236}Where were you born?
+{65268}{65336}You wouldn't know it|if I told you.
+{65382}{65469}Is Greek hard?|- Not once you know the alphabet.
+{65474}{65525}Are your parents in Marseilles?
+{65686}{65724}My dad’s a prisoner.
+{65729}{65769}He didn't escape?
+{65798}{65857}And where's your mother?
+{65953}{65993}You won't tell me?
+{66003}{66059}{Y:i}- In the unoccupied zone.|- There's no unoccupied zone anymore.
+{66064}{66138}I know that. Now lay off.|I don't know where she is.
+{66143}{66208}She hasn't written in three months.|Happy now?
+{66353}{66401}What are you two up to?
+{66432}{66485}I have a cold.
+{66522}{66579}Enough nonsense.|Go out and play.
+{66677}{66739}Hippo's a bastard.|Always snooping around.
+{66828}{66936}{Y:i}St. Thomas's proofs|of God’s existence don't hold water.
+{66942}{66985}I don't agree.
+{66994}{67067}Since we can imagine God,|he must exist.
+{67093}{67121}That’s just sophistry.
+{67126}{67209}At least Bergson seeks|transcendence in science.
+{67231}{67285}Hey, I want to talk to you.
+{67405}{67479}- That’s strong.|- It’s the real thing, dummy.
+{67547}{67622}Let’s go somewhere else.|The monkeys will catch us here.
+{67713}{67753}- Do me a favor.|- What?
+{67758}{67809}Pass a note to your piano teacher.
+{67814}{67879}{Y:i}- You're crazy! I'll get expelled!|- She won't say anything.
+{67884}{67922}You're such a scaredy-cat.
+{67958}{68005}François, what’s a yid?
+{68010}{68085}- A Jew.|- I know, but what exactly is a Jew?
+{68090}{68154}- Someone who doesn't eat pork.|- Are you kidding me?
+{68159}{68195}Not at all.
+{68202}{68245}What have people got against them?
+{68250}{68326}The fact they're smarter than us,|and they crucified Jesus.
+{68331}{68375}That’s not true.|It was the Romans.
+{68386}{68453}Is that why they have|to wear yellow stars?
+{68458}{68515}- Will you take my letter to Davenne?|- No.
+{68520}{68569}What do you want with her anyway?|- Never mind.
+{68574}{68658}{Y:i}Be nice. I'll lend you my|Arabian Nights. It’ll give you a hard-on.
+{68667}{68709}{Y:i}Leave me alone!
+{68826}{68865}You smell awful, Joseph.
+{68894}{68953}Stop it, right now!
+{68993}{69032}He called me a creep!
+{69037}{69110}That’s enough now.|Calm down and go back to the kitchen.
+{69137}{69197}{Y:i}"Down, Joseph!|To your kennel!"
+{69202}{69244}I'm not a dog!
+{69249}{69289}Stop it, D'Arsonval!
+{69567}{69645}Damn, a cross.|Another wrong trail.
+{69714}{69780}We have to get back to the crossroads,|quickly and quietly.
+{69814}{69869}There must be another trail|at the fork.
+{69928}{69969}I wonder where the others are.
+{69988}{70016}What’s today?
+{70021}{70080}January 17. Thursday.
+{70097}{70191}{Y:i}You realize there'll never be|another January 17, 1944?
+{70201}{70243}Never again.
+{70253}{70288}Shut up and get a move on!
+{70293}{70366}In 40 years,|half these guys'll be dead and buried.
+{70387}{70430}Come on.
+{70439}{70528}I'm the only one in this school|who thinks about death. It’s incredible!
+{70667}{70740}You're our prisoners.|Follow us.
+{70745}{70796}We're gonna tie your hands.
+{70898}{70946}There are two missing.|Over there! It’s Quentin!
+{73706}{73739}Wow!
+{74317}{74400}I found the treasure.|The Greens win.
+{77441}{77476}Didn't they catch you?
+{77481}{77555}Yes, they tied me to a tree,|but I got free.
+{77560}{77595}Bastards!
+{77641}{77689}I found the treasure.|All by myself.
+{77814}{77865}Are there wolves in these woods?
+{78182}{78217}It’s that way.
+{80178}{80208}We go left. I'm sure.
+{80213}{80281}- No, we go right.|- I told you, we go left.
+{81594}{81658}It’s the high wall|next to the church, right?
+{81674}{81757}I know it.|We Bavarians are Catholic.
+{82001}{82078}Good evening, Father.|Lost any children?
+{82083}{82171}We looked everywhere.|Always playing the fool, Julien!
+{82176}{82262}That’s not fair.|I found the treasure.
+{82270}{82353}But everyone had vanished.
+{82468}{82515}It’s all right, my boy.
+{82520}{82558}What happened?
+{82570}{82618}They got arrested by the Krauts.
+{82644}{82676}Could the Krauts
+{82681}{82713}have their blanket back?
+{82759}{82796}Thank you very much.
+{82808}{82910}No civilians in the woods after 8:00 p. m.|Don't you know there's a curfew?
+{82915}{82963}You think we did it on purpose?
+{82981}{83030}I caught hell because of you.
+{83035}{83069}You won because of me, jerk.
+{83074}{83115}Come on. Hurry up.
+{83494}{83530}Calm down.
+{83535}{83569}Lafarge, out!
+{83733}{83771}Feeling better, twerp?
+{83779}{83833}A present from Joseph.
+{83849}{83890}And a letter from your mom.
+{83895}{83931}She's your mom too.
+{83936}{83977}But you're her pet.
+{83983}{84035}Dad’s always off in Lille.|I bet she's getting plenty.
+{84040}{84117}- What do you mean?|- Women are all whores, my friend.
+{84124}{84156}Sorry, Sister.
+{84161}{84193}What an idiot!
+{84198}{84248}- Swabbing time.|- Again?
+{84254}{84315}Three times a day.|Sit up straight.
+{84352}{84392}Open your mouth.
+{84401}{84481}Open wide.|Keep your tongue down.
+{84700}{84768}Listen here!|Open your mouth!
+{85074}{85146}- Were you scared last night?|- Not really.
+{85151}{85199}I hear you saw some wild boar.
+{85204}{85259}Were there lots?|- Around 50.
+{85284}{85331}What about the Germans?
+{85338}{85386}Did they really fire at you?
+{85396}{85447}- Just a few bursts.|- Come on!
+{85492}{85528}Nice book.
+{85558}{85592}What is it?
+{85597}{85652}{Y:i}The Arabian Nights.|It’s my brother's.
+{85657}{85704}It’s banned by the monkeys.|- Why?
+{85710}{85778}It’s really dirty.|I'll lend it to you.
+{85783}{85827}Recess is over.
+{85905}{85956}We've got our religion class.
+{85961}{85998}See you tomorrow.
+{86047}{86105}- Kiss Mother Michel for me.|- Oh, we will.
+{86184}{86226}{Y:i}The Arabian Nights.
+{86852}{86888}You're disgusting.
+{86899}{86940}It doesn't hurt it.
+{86958}{86997}It’s dead.
+{87085}{87137}A present from Joseph.
+{87189}{87233}{Y:i}No, thanks.|I don't like pate.
+{87238}{87273}Go on. Eat it.
+{87278}{87329}{Y:i}I said no.|I don't like pate.
+{87380}{87427}Because it’s pork?
+{87450}{87507}Why do you always ask|such stupid questions?
+{87535}{87607}Because your name's Kippelstein,|not Bonnet.
+{87636}{87713}{Y:i}Do you say "Kippelstine"|or "Kippelsteen"?
+{87906}{87973}Bonnet, get back in bed|this minute or I'll report you!
+{88045}{88087}And you quiet down.
+{88445}{88507}- Are your parents coming?|- The whole family.
+{88754}{88817}Aren't you dressing up?|No visitors?
+{88827}{88881}What the hell is it to you?
+{89311}{89405}My message today is especially|for the youngest among you
+{89410}{89483}who will be confirmed|in a few weeks.
+{89493}{89520}My children,
+{89525}{89576}we live in a time|of discord and hatred.
+{89584}{89663}Lies are all-powerful.|Christians kill one another.
+{89670}{89731}Those who should guide us|betray us instead.
+{89741}{89841}More than ever, we must beware|of selfishness and indifference.
+{89865}{89956}You're all from wealthy families,|some very wealthy.
+{89973}{90067}Because you've been given much,|much will be asked of you.
+{90081}{90145}Remember the Bible's stern lesson:
+{90150}{90233}{Y:i}"It’s easier for a camel|to pass through the eye of a needle
+{90240}{90322}than for a rich man|to enter the kingdom of heaven. "
+{90327}{90358}St. James said,
+{90363}{90488}{Y:i}"Now, you rich, weep and wail|for the woes awaiting you. "
+{90493}{90590}Your wealth has rotted,|and your garments are eaten by worms. "
+{90607}{90697}Worldly wealth corrupts souls|and withers hearts.
+{90702}{90788}It makes men contemptuous, unjust,
+{90793}{90848}pitiless in their egoism.
+{90854}{90924}I understand the anger|of those who have nothing
+{90929}{91009}when the rich feast so arrogantly.
+{91235}{91278}He's hitting pretty hard.
+{91334}{91362}I don't mean to shock you
+{91367}{91476}but only remind you|that charity is a Christian's first duty.
+{91489}{91562}St. Paul tells us in today's Epistle,
+{91567}{91654}{Y:i}"Brothers, be not wise|in your own conceits.
+{91659}{91707}Do not repay any man|evil for evil.
+{91718}{91781}If thine enemy hunger, feed him.
+{91785}{91840}If he thirst, give him drink. "
+{91877}{91979}Let us pray for the hungry,|for those who suffer,
+{91987}{92036}for the persecuted.
+{92053}{92103}Let us pray for the victims
+{92112}{92165}and for their executioners as well.
+{93834}{93904}{Y:i}- Will you give concerts?|- Not right away.
+{93909}{93952}I still need practice.
+{93962}{94024}It’s hard to get started.
+{94069}{94100}It’s Duvallier's dog.
+{94105}{94168}- It’ll bite you.|- He doesn't bite.
+{94280}{94325}En garde, Easter Bonnet.
+{94363}{94424}Help me, you guys!|Get the heretic!
+{94501}{94550}You're really getting on my nerves.
+{94562}{94611}Go, Julien!
+{94770}{94827}Julien, have you gone mad!
+{94876}{94921}Your best suit.
+{94939}{94997}What’ll they say at the restaurant?
+{95063}{95132}What’s gotten into you boys?|You think it’s funny?
+{95468}{95504}Was everything all right, Mr. Meyer?
+{95509}{95582}Thank you.|The rabbit was tolerable.
+{95602}{95663}Mrs. Quentin,|your table's this way.
+{95686}{95767}François, sit over there.|Julien here.
+{95866}{95940}- We haven't seen you lately.|- Vacations.
+{96037}{96068}What fish do you have?
+{96073}{96144}We haven't had fish in ages, ma'am.
+{96149}{96264}I recommend the rabbit.|Half a meal coupon per serving.
+{96269}{96316}Is it rabbit or cat?
+{96325}{96381}Rabbit, sir.|With sauteed potatoes.
+{96385}{96469}- In butter?|- Margarine.
+{96481}{96516}No coupons required.
+{96521}{96631}Very well. We'll have the rabbit,|and a bottle of Bordeaux.
+{96838}{96868}The place is full of Krauts.
+{96873}{96935}I thought they were all|on the Russian front.
+{96943}{96989}You caught their eye.
+{97089}{97141}Your parents couldn't come?
+{97167}{97198}Poor boy.
+{97205}{97237}What about Dad?
+{97242}{97314}He said he was coming.|- He couldn't. Problems at the plant.
+{97319}{97349}As usual.
+{97354}{97428}Your poor father|is under a lot of pressure.
+{97436}{97519}{Y:i}- Is he still for Petain?|- No one is anymore.
+{97528}{97633}I heard of your ordeal in the woods.|I gave Father Jean a piece of my mind.
+{97643}{97702}{Y:i}Those boy scout games are ludicrous|in this freezing cold.
+{97707}{97753}You could’ve died, my darling.
+{97765}{97836}Guns do go off!|- Makes a man of him.
+{97841}{97932}That’s just what Father Jean said.
+{97937}{97964}I mean really!
+{97969}{98036}- He was with me in the woods.|- Oh, so it was you.
+{98066}{98119}I bet you're from Lyon.
+{98124}{98177}The name Gillet is from Lyon.|They're all in the silk trade.
+{98189}{98240}His name's Bonnet, not Gillet.
+{98248}{98281}Of course.
+{98286}{98319}He's from Marseilles.
+{98324}{98424}I knew a Bonnet there, a cousin|of the Du Perrons. Is she your mother?
+{98490}{98528}How strange.
+{98553}{98594}His father's an accountant.
+{98602}{98634}Really.
+{98965}{99009}Your papers, please.
+{99179}{99213}Your papers, sir.
+{99635}{99701}Can't you read?
+{99705}{99749}This place is off limits to yids.
+{99912}{99960}Why are those men bothering people?
+{99970}{100020}That gentleman looks very proper.
+{100057}{100097}Mr. Meyer's been coming here|for 20 years.
+{100109}{100181}I can't just throw him out.|- Shut up, flunky!
+{100201}{100258}I can have your license revoked.
+{100278}{100303}Collaborators.
+{100308}{100344}Quiet, François.
+{100372}{100412}Did you say that?
+{100418}{100472}He's a child.|He doesn't know what he's saying.
+{100481}{100571}We serve France, lady.|He insulted us.
+{100593}{100644}Go away!
+{100691}{100768}It’s monstrous.|You should be ashamed.
+{100779}{100813}Not at all.
+{100921}{100956}Leave him alone.
+{100961}{101023}He's right.|Send the Jews to Moscow!
+{101172}{101214}Get the hell out of here!
+{101283}{101344}You understand?|Get the hell out!
+{101635}{101672}We'll meet again.
+{101757}{101817}Say what you will,|but some of them are decent.
+{101825}{101873}He was showing off for you.
+{102138}{102173}Aren't we Jewish?
+{102185}{102261}- That’s all we need!|- Isn't Aunt Reinach Jewish?
+{102271}{102339}- She's Alsatian.|- You can be Alsatian and Jewish.
+{102348}{102416}That’s quite enough!|The Reinachs are devout Catholics!
+{102433}{102476}If they heard you!
+{102484}{102556}Mind you,|I have nothing against Jews.
+{102563}{102648}{Y:i}Except for that Leon Blum.|They can hang him.
+{102739}{102787}Julien, sit up straight.
+{102857}{102913}Your friend is nice.|He doesn't say much.
+{102918}{102953}He has his reasons.
+{102958}{103030}- Then he's no dummy.|- Not at all.
+{103082}{103142}Where's François?|What’s he up to?
+{103147}{103222}He always gives the Krauts|wrong directions.
+{103229}{103266}Very clever!
+{103365}{103448}- What if I joined the resistance?|- Nonsense. You must finish school.
+{103453}{103517}Some things are|more important than school.
+{103531}{103566}Julien wants to become a monkey.
+{103571}{103629}Not a monkey.|A missionary in the Congo.
+{103633}{103714}Stop using that stupid word.|It’s awful.
+{103723}{103777}You should be grateful|to those poor monks who -
+{103782}{103841}{Y:i}"... work so hard to educate you. "
+{103853}{103888}Precisely!
+{103922}{103989}You're a real pain.|Leave me alone.
+{104040}{104082}Fernande!
+{104154}{104192}You know her?
+{104250}{104308}Julien, are you sure|you want to become a priest?
+{104313}{104363}- Would you object?|- Not at all.
+{104370}{104425}Your father and I would be proud.
+{104445}{104518}But why not engineering,|like Grandpa?
+{104523}{104560}Don't worry.
+{104565}{104652}He'll give up the church for a girl.|He's a lover boy, like Joseph.
+{104888}{104957}Laviron's sister is a real dish.
+{104968}{105011}I'm gonna sweet-talk her.
+{105173}{105220}I can't kiss you anymore?
+{105252}{105321}Look at that.|You've got a little mustache.
+{105358}{105451}Can I go back to Paris with you?|Dad won't know.
+{105815}{105857}Did you have a good lunch?
+{106017}{106096}Your mother's nice.|Boy, can she talk fast.
+{106105}{106138}{Y:i}She's crazy.
+{106229}{106273}You'll see her again soon.
+{106381}{106420}I know how to thread it.
+{106425}{106493}It’ll break like last time.
+{106497}{106539}No, it won't.
+{106704}{106748}{Y:i}Your jam's great.
+{106761}{106823}- Adrienne made it.|- Is that your sister?
+{106830}{106872}No, she's the cook.
+{106923}{106973}What’s funny?|Don't you have a cook?
+{106992}{107064}You always eat out?|- No. My mom's a great cook.
+{107286}{107341}- You're eating my jam.|- Stop it.
+{107346}{107389}Move over, guys.
+{107488}{107526}We're ready.
+{107541}{107595}Turn out the lights, please.
+{109170}{109217}The fat lady's gonna go sliding.
+{109244}{109289}Looks like Mrs. Perrin.
+{110272}{110307}She's beautiful.
+{111236}{111279}He's in love.
+{111319}{111356}She loves him too.
+{112692}{112724}Shit!
+{113151}{113189}Time to get up.
+{113201}{113254}Quentin wets the bed.
+{113276}{113333}Quentin wets the bed.
+{113503}{113562}{Y:i}Hurry up in the washroom.
+{113571}{113617}It never fails.
+{113649}{113697}I'm having a great dream.
+{113702}{113791}I feel like peeing.|I open my fly. Everything's great.
+{113841}{113922}Then I wake up and feel|the warm piss on my stomach.
+{113941}{113980}It’s no fun, let me tell you.
+{114087}{114131}Try it. Don't be scared.
+{114161}{114216}Go on. Keep your head up.
+{114302}{114335}Get back up.
+{114344}{114414}- Bed wetter.|- Sagard, you're gonna get it.
+{114504}{114557}You dirty thief!
+{114562}{114597}You're the thief!
+{114601}{114656}Just you wait, you thief!
+{114685}{114743}Father Michel,|I caught him stealing lard!
+{114748}{114795}He put it in his bag to sell!
+{114824}{114869}Not in front of the boys, Mrs. Perrin!
+{114873}{114946}- I told you he was stealing!|- It’s not true, damn it!
+{114951}{115009}She's the thief!|She's a liar!
+{115017}{115059}Get back in the kitchen.
+{115112}{115169}I told that idiot he'd get caught.
+{115253}{115344}Joseph was selling our supplies|on the black market.
+{115361}{115458}Mrs. Perrin should have told us.|She may have been in on it.
+{115466}{115509}But that’s not all.
+{115531}{115628}We found these in his locker.|Private food supplies.
+{115638}{115683}He named all seven of you.
+{115688}{115735}{Y:i}Whose pate is this?
+{115751}{115785}Mine.
+{115789}{115849}- And the jam?|- Mine.
+{115867}{115907}Know what you are?
+{115912}{115969}A thief, just like Joseph.
+{115974}{116033}I didn't steal.|That jam was mine.
+{116038}{116080}You should’ve shared it.
+{116091}{116157}I believe true education|consists in teaching you
+{116161}{116214}to make good use|of your freedom.
+{116227}{116257}And this is what happens!
+{116290}{116377}You disgust me. There's nothing|I despise more than the black market.
+{116388}{116422}Always money!
+{116431}{116491}It wasn't for money.|We traded, that’s all.
+{116498}{116534}For what?
+{116541}{116569}Cigarettes.
+{116574}{116687}Quentin, if it weren't for your parents,|I'd kick you out at once.
+{116693}{116735}You and your brother.
+{116772}{116829}I have to fire Joseph,|even though it’s unfair.
+{116890}{116948}You're all confined to school|until Easter.
+{116983}{117029}Now go back to class.
+{117215}{117293}Where do I go now?|I don't even have a place to sleep.
+{117372}{117407}Get back to class.
+{117609}{117671}Go see the bursar.|He'll pay you a month's wages.
+{117676}{117762}I end up taking the rap.|It’s not fair.
+{117825}{117861}Come on, Joseph.
+{118388}{118448}- What are you doing here?|- Choir practice.
+{118453}{118528}You two help me|with the flowers for Sunday.
+{118753}{118815}{Y:i}We'll take it from|"O Lord, in thee... "
+{118865}{118904}Bonnet’s not here?
+{118909}{118980}- No, miss. He's in the infirmary.|- Really?
+{119686}{119758}It’s easy.|Do this with your left hand.
+{120137}{120176}We'd better get to the shelter.
+{120279}{120352}{Y:i}Everyone in the shelter, and hurry!
+{120631}{120700}They won't miss us.|They never count.
+{122113}{122174}I hope the Americans land soon.
+{122234}{122286}Will you stay at this school|when the war's over?
+{122342}{122390}I don't know. I doubt it.
+{122504}{122541}You scared?
+{122588}{122624}All the time.
+{122754}{122798}How long's it been|since you saw him?
+{122829}{122896}My father?|Almost two years.
+{122965}{123013}I never see mine either.
+{123405}{123445}What are you doing here, Joseph?
+{123481}{123524}I forgot some things.
+{123591}{123630}What about you?
+{123911}{123992}{Y:i}"Could I, lad,|belong to anyone but you?
+{124014}{124095}She swiftly cast aside her veils,|removed her clothing,
+{124100}{124152}and appeared naked|as the day she was born.
+{124157}{124210}Blessed be the womb that bore her.
+{124223}{124311}The princess was|as soft and white as fine linen.
+{124317}{124379}Her whole being|exuded a scent of amber.
+{124393}{124450}He took her in his arms,
+{124455}{124537}probing her intimate depths,|and found she was a virgin pearl.
+{124544}{124628}His hand roved|over her lovely limbs and neck
+{124633}{124700}and through|the richness of her hair.
+{124715}{124809}She responded by eagerly displaying|her many gifts.
+{124814}{124910}She had the sinuous grace of Araby,|Ethiopian ardor,
+{124915}{124993}the startled candor of the French,|the high art of the Indians,
+{124997}{125038}Yemeni coyness,
+{125043}{125140}and the narrow passage|of a Chinese girl.
+{125201}{125269}Each embrace became a coupling,
+{125273}{125348}and each coupling|the wildest fornication,
+{125353}{125446}until, weary from|their passionate writings,
+{125451}{125570}they fell asleep in each other's arms,|drunk with pleasure.
+{125578}{125625}Thus ended -"
+{125793}{125880}The Russians have begun|a major offensive in the Ukraine.
+{125904}{125999}British radio claims|the Germans have been overrun
+{126004}{126069}along a 60-mile front west of Kiev.
+{126075}{126134}Radio Paris claims|the attack was repulsed
+{126139}{126183}with heavy losses.
+{126197}{126266}The truth is likely|somewhere between the two.
+{126271}{126341}{Y:i}Radio Paris tells German lies
+{126345}{126384}Meanwhile, in Italy,
+{126389}{126516}the Americans and British|are pinned down at Monte Cassino.
+{126536}{126607}Take out your notebooks|for an algebra problem.
+{126658}{126730}We're going to multiply|two monomials.
+{126773}{126835}May I be excused, sir?|It’s the soup.
+{126842}{126899}It’s always you, Sagard.|Go on.
+{127741}{127797}Dr. Müller. Gestapo.
+{127873}{127942}Which one of you|is Jean Kippelstein?
+{128057}{128096}Answer me.
+{128111}{128151}There's no one by that name|in this class.
+{129537}{129577}Let’s go.
+{130313}{130360}That boy is not French.
+{130400}{130446}He's a Jew.
+{130478}{130609}Your principal committed|a serious crime by hiding him.
+{130708}{130741}The school is closed.
+{130746}{130843}You have two hours to pack your bags|and line up in the yard.
+{130985}{131032}Was Bonnet a Jew?
+{131149}{131197}Keep calm, children.
+{131317}{131383}Quiet down|and listen to me, children.
+{131417}{131473}They've arrested Father Jean.
+{131525}{131562}It seems we've been denounced.
+{131575}{131621}What about Bonnet?
+{131625}{131673}{Y:i}Bonnet, Dupre and Lafarge|are Jewish.
+{131686}{131754}Father Jean took them in|because their lives were in danger.
+{131784}{131885}Go to the dormitory|and pack quickly and calmly.
+{131893}{131967}But first we'll say a prayer|for Father Jean and your friends.
+{132007}{132092}Our Father, who art in heaven...
+{132576}{132620}Negus got away.
+{132685}{132717}They didn't get Negus.
+{132722}{132823}They're looking for him and Moreau.|Father Jean had resistance leaflets.
+{132845}{132920}When you're ready,|go to the dining hall.
+{132927}{133027}Quentin, pack Laviron's bag|and take it to the infirmary. Hurry!
+{133032}{133070}Want some help?
+{134364}{134452}Don't worry.|They'd have gotten me anyway.
+{134524}{134564}Negus got away.
+{134571}{134605}I know.
+{134771}{134820}Take these.|I've read them all.
+{135025}{135070}{Y:i}You want The Arabian Nights?
+{135705}{135772}- What are you doing here?|- I brought his bag.
+{135857}{135899}Are you gonna get up?
+{135986}{136012}What do you want now?
+{136017}{136065}We can't stay here.|They're searching the attic.
+{136509}{136560}Sister, put a compress on him!
+{136565}{136595}Hurry!
+{136601}{136657}You'll get us all arrested!
+{137289}{137353}There's a Jew here.|I'm sure of it.
+{137367}{137401}We haven't seen anyone.
+{137406}{137465}You, come here.
+{137524}{137578}Pull down your pants. Quick!
+{138750}{138788}What happened?
+{138795}{138856}- It’s her.|- Get out!
+{138900}{138966}I'm going over the roof.|Good-bye, Julien.
+{139689}{139744}He's a friend.
+{139879}{139933}What are you doing with them?
+{140037}{140070}Here.
+{140131}{140180}Aren't you happy?|You'll get a vacation.
+{140404}{140440}You don't smoke?
+{140641}{140693}Don't worry about it.|They're just Jews.
+{140815}{140857}You really liked Bonnet?
+{141045}{141100}Don't act so pious!|You guys are to blame!
+{141107}{141173}I got fired|for doing business with you.
+{141177}{141226}Mrs. Perrin stole more than I did.
+{141337}{141378}Stop acting so pious!
+{141383}{141436}There's a war going on, kid.
+{141937}{141993}Are there any other Jews among you?
+{142057}{142090}Answer me!
+{142582}{142656}What about you?|Sure you're not Jewish?
+{142661}{142691}Your name?
+{142696}{142740}{Y:i}Pierre de la Rozière.
+{142747}{142795}Go stand against the wall.
+{143841}{143887}You think they'll arrest us?
+{143894}{143940}We didn't do anything.
+{144534}{144581}We were in the chapel.
+{144595}{144663}We came for confession.
+{144903}{144960}That soldier did his duty.
+{144977}{145043}His orders were|to let no one leave.
+{145081}{145175}The strength of the German soldier|is his discipline.
+{145201}{145288}That’s what you French lack:|Discipline.
+{145389}{145431}We're not your enemies.
+{145442}{145541}You must help us rid France|of foreigners and Jews.
+{146401}{146472}Good-bye, Father.
+{146560}{146621}Good-bye, children.|See you soon.
+{147195}{147249}{Y:i}Bonnet, Negus and Dupre
+{147253}{147293}{Y:i}died at Auschwitz.
+{147298}{147364}{Y:i}Father Jean|died in the camp at Mauthausen.
+{147393}{147486}{Y:i}The school reopened its doors|in October of 1944.
+{147501}{147548}{Y:i}More than 40 years have passed,
+{147553}{147681}{Y:i}but I'll remember every second of that|January morning until the day I die.

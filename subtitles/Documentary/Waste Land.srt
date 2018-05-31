@@ -1,0 +1,903 @@
+{2430}{2488}Fuck me, if he knows where we are.
+{2504}{2537}You said it.
+{2561}{2624}At least he hasn't led us to the enemy.
+{2758}{2840}Guys, we'll wait until the fog lifts.
+{2869}{2919}It's too risky to carry on.
+{2989}{3041}With you, even drinking coffee is risky.
+{3058}{3118}What a guide!
+{3135}{3193}You try to do better in this fog!
+{3198}{3270}Listen to him! He's always happy.
+{3288}{3331}The eternal optimist.
+{3354}{3429}Know the difference between|a pessimist and an optimist?
+{3434}{3521}- No, what?|- A pessimist thinks things can't be worse.
+{3523}{3586}An optimist knows they can.
+{3678}{3786}You and your crap jokes.|No one else finds them funny.
+{3802}{3870}If you had any brains at all, you'd give up.
+{3881}{3960}Oh, yeah? If I had any, I wouldn't be here.
+{3973}{4050}I'd be a general or a UN official.
+{4053}{4130}Or I'd open a restaurant.|What's that look for?
+{4244}{4336}It would help my budget|if you smoked your own.
+{4342}{4437}<i>- Since you're offering...|- Who the fuck am I? Mother Teresa?</i>
+{4534}{4581}Are you crazy?
+{4593}{4640}You want them to see us?
+{4642}{4720}Who's going to see us?|I can't even see my feet.
+{4722}{4788}Put those cigarettes out! Put them out!
+{5254}{5281}Hair in place?
+{5641}{5683}He's something else!
+{5703}{5794}First time at the front|and he dozes off before we get there.
+{5812}{5858}<i>Kids these days...</i>
+{6037}{6063}What?
+{6326}{6433}- Any idea where we are?|- I reckon we should be there by now.
+{6483}{6555}Dawn will soon be here and it'll be easier.
+{6571}{6691}I never took a relief squad|to the front at night before.
+{6746}{6783}<i>We got lucky...</i>
+{8322}{8344}Look!
+{8399}{8425}Look!
+{9161}{9189}<i>Shit...</i>
+{9220}{9252}Run!
+{10099}{10166}SERBIAN LINES
+{10168}{10239}You think they were trying|to take back the trench?
+{10251}{10299}No, I don't think so.
+{10315}{10399}- I think a relief squad got lost.|- Check it!
+{10451}{10481}Yes, sir!
+{10575}{10643}BOSNIAN LINES
+{10645}{10681}What happened?
+{10697}{10761}Our relief squad got lost in the fog.
+{10801}{10868}- Are there any survivors?|- Shit!
+{10999}{11098}I'll alert HQ. Call me if there's any change.
+{11199}{11291}- If there's any change?|- Yes, if the dead start walking.
+{11403}{11482}I need two volunteers|to inspect the middle trench.
+{12019}{12065}You, the new guy. Go with him.
+{12067}{12131}Him? He doesn't even know|how to load a gun.
+{12166}{12219}Perfect. You can teach him.
+{12285}{12315}Shit.
+{14000}{14028}Cera!
+{15463}{15555}You don't need this.|Nor this, nor this, nor this.
+{15651}{15687}My name's Nino.
+{15842}{15868}Here.
+{15895}{15963}If you notice anything, come straight back.
+{16068}{16103}What's wrong?
+{16120}{16158}- You scared?|- No.
+{16210}{16283}They've got the sun in their eyes,|they can't see you.
+{16284}{16390}If there's trouble,|wait until dark to come back.
+{17585}{17623}Fucking hell.
+{18957}{19051}Follow me, do what I do|and don't try to be clever.
+{19070}{19102}Good luck.
+{22852}{22934}Don't touch anything.|It might be booby-trapped.
+{24395}{24443}<i>Make a fucking effort...</i>
+{24554}{24586}Stop here.
+{24867}{24910}What are you doing?
+{24912}{25000}Seeing as we have time,|let's have a little fun.
+{25026}{25127}Look at it: "Made in EU."
+{25162}{25198}My little baby.
+{25208}{25255}What do you think it is?
+{25268}{25339}- A mine.|- A bouncing mine!
+{25345}{25401}When the enemy steps on it...
+{25411}{25514}...what happens, according to you?
+{25541}{25610}- It explodes.|- No, nothing happens.
+{25620}{25710}But when the enemy steps off it,|it bounces up...
+{25735}{25803}...and explodes|about three feet off the ground...
+{25812}{25930}...spraying out 2,000 lead bearings...
+{25932}{26034}...that destroy everything|in a radius of 50 yards.
+{26037}{26077}I'll show you.
+{26098}{26145}Move this son of a bitch.
+{26703}{26732}Gently.
+{26841}{26879}Careful with the pin.
+{26881}{26969}Lay the body down slowly,|otherwise you get blown up.
+{27008}{27060}Go on, tug the wire now.
+{27086}{27119}Me? Why me?
+{27127}{27207}<i>Go on, don't worry,|as long as there's a weight...</i>
+{27223}{27271}Do it gently, that's all.
+{27559}{27592}I can't.
+{27614}{27644}Chicken!
+{27866}{27896}See that?
+{27926}{27970}I invented this.
+{27993}{28111}When they pick up the body|the mine will blow them all to hell.
+{28142}{28195}- What's your name again?|- Nino.
+{28214}{28261}You'll set the next one.
+{28382}{28418}He looks asleep.
+{28419}{28509}That's because he's still fresh.|It won't last in this heat.
+{28533}{28625}Try to sleep. We'll leave once it's dark.
+{28651}{28725}Afterwards, we'll set more of these babies.
+{28826}{28853}Where's that gun?
+{28922}{28953}What gun?
+{31161}{31212}Where does this trench lead?
+{31255}{31298}Where does the trench lead?
+{31563}{31602}Where does the trench lead?
+{31638}{31662}Outside.
+{31667}{31755}- Really? Where, outside?|- Into the field.
+{31863}{31896}Is it mined?
+{31973}{32023}Where does the other one lead?
+{32038}{32111}- I don't know.|- You don't know anything?
+{32535}{32565}<i>Fuck...</i>
+{32779}{32830}Don't touch that! Get back!
+{32986}{33070}- How did you get here?|- We crawled.
+{33079}{33124}Across the field? You're lying!
+{33131}{33211}I'm not. Your side was blinded by the sun.
+{33215}{33279}- And the mines?|- I don't know. He knew.
+{34029}{34067}Where's the map?
+{34069}{34142}- What map?|- Of Bolivia, stupid. Of the mines!
+{34155}{34204}- Empty your pockets.|- Why?
+{34211}{34280}Because I have a gun and you don't.|Come on.
+{34484}{34518}Is that all?
+{34880}{34908}Strip.
+{34945}{34994}- What?|- Strip.
+{35015}{35041}Why?
+{35043}{35127}Are you stupid, or what?|Because I have a gun and you don't.
+{35129}{35203}You may not have noticed,|but I'm in charge here.
+{35328}{35364}I'm starving.
+{35400}{35446}You're always starving.
+{35683}{35742}- What's up?|- You have to see this.
+{35747}{35777}What now?
+{35952}{36009}- What the hell's that?|- Is he ours?
+{36042}{36125}It's not written on his boxers.|Call the officer.
+{36148}{36224}- What do I tell him?|- That the dead are walking.
+{36615}{36657}Okay. Get down here.
+{36772}{36819}You hear me? Come down.
+{37820}{37848}He wasn't ours?
+{37863}{37947}I've no idea. I only saw him for a second.
+{37983}{38023}What a hawk-eye.
+{38058}{38106}Let's not take any risks.
+{38115}{38179}Hello. Put me through to the artillery.
+{38277}{38354}- I can't see anything.|- He saw him, too.
+{38374}{38459}- One of ours?|- God knows. He only had boxer shorts on.
+{38916}{38964}Any other brilliant ideas?
+{38983}{39050}If you piss me off, you go back out there.
+{39272}{39310}They've stopped.
+{39389}{39448}Sure. Yours never stop.
+{39456}{39516}How about yours? Do they ever stop?
+{39536}{39595}You can't compare.|We didn't start the war.
+{39600}{39638}And maybe we did?
+{39640}{39732}No! The Khmer Rouge!|All you can do is make war.
+{39738}{39799}- Us?|- No, you're pacifists.
+{39801}{39860}The Great Serbia,|all the way to the Pacific!
+{39865}{39929}Please. The whole world thinks like me.
+{39941}{39987}What world? Your world!
+{39991}{40102}You show our burned villages|and say they're yours.
+{40104}{40156}And that's my side shooting now?
+{40162}{40259}You're all saints. Give it a rest.
+{40261}{40310}You don't even leave the dead in peace.
+{40325}{40362}It's not the same.
+{40374}{40479}Really? Laying mines under the dead,|pillaging, killing, raping, what's all that?
+{40481}{40525}- Who are you talking about?|- You guys!
+{40527}{40608}I haven't seen anything like what you say.
+{40609}{40693}I've seen it! I saw my village burn.
+{40724}{40786}- I don't know. I wasn't there.|- I was!
+{40861}{40948}Haven't our villages burned, too?|Who killed our people?
+{40981}{41055}Your side, probably.|They just shot at you, too.
+{41069}{41156}<i>They only shot at me|because they didn't recognize me.</i>
+{41217}{41270}It's useless talking to you.
+{41279}{41377}What the hell made you ruin|this beautiful country?
+{41379}{41408}- Us?|- Yes!
+{41410}{41495}You're crazy.|You wanted to separate, not us.
+{41522}{41582}Because you started the war!
+{41584}{41648}- You started it!|- What? Who started it?
+{41650}{41728}You started the war! You started it!
+{41739}{41781}Who started the war?
+{41861}{41913}- We did.|- You started the war.
+{41921}{42002}And stop pissing me off.|You're getting on my nerves.
+{42041}{42124}Get out! Come on, get out of here!
+{42157}{42185}Fuck.
+{42224}{42274}Daring to say it was us.
+{42478}{42518}What was all that?
+{42570}{42662}I'll alert HQ. Call me if there's any change.
+{43013}{43087}- What now?|- Nothing. We wait till dark.
+{43129}{43160}And then?
+{43174}{43265}Then, if you survive,|we'll crawl over to the lines.
+{43280}{43328}And stop bothering me.
+{43343}{43410}- So you're not going to free me.|- Dream on.
+{43548}{43590}Cera, you're alive!
+{43627}{43660}Don't move!
+{43683}{43715}Don't move!
+{43725}{43793}There's a mine under you.|It could explode.
+{43829}{43921}- What mine?|- A bounding one. Don't move.
+{43981}{44060}- Are you kidding me?|- Do I look like I'm kidding?
+{44148}{44186}Come here. Defuse it.
+{44287}{44354}- You hear me? Defuse it!|- I don't know how.
+{44418}{44510}Don't fool around. Defuse it!|I'm going to kill you! Defuse it!
+{44516}{44574}If I try, I'll kill us all.
+{44609}{44674}Fuck. What is this shit?
+{44686}{44738}Ciki, what's happening?
+{44762}{44868}They laid a mine under you|to ambush our guys.
+{44876}{44931}Only they could think of that!
+{44943}{44973}Kill him.
+{45069}{45116}Kill the son of a bitch.
+{45171}{45222}Kill him or give me the gun!
+{45317}{45342}No.
+{45386}{45429}We're not like them.
+{45510}{45572}Besides, he could be useful.|Bring the water over.
+{45832}{45923}I can't give you too much.|I don't know where you're wounded.
+{46038}{46069}Where does it hurt?
+{46071}{46137}My head and my arm.|My head's going to burst.
+{46141}{46225}That's because of the detonation.|I'm the same. Hold on.
+{46278}{46322}What about the others?
+{46440}{46485}Don't let me die here.
+{46490}{46544}Don't worry. Does it hurt anywhere else?
+{46546}{46572}No.
+{46628}{46712}You lucky bastard.|You're unharmed. Just your arm.
+{46714}{46751}And I thought you were dead.
+{46761}{46791}<i>Can I...</i>
+{46801}{46887}Throw the gun down.|Don't make me shoot. Throw it down!
+{46947}{46976}Get up.
+{47028}{47058}Back off.
+{47083}{47113}Back off!
+{47126}{47180}See what you've done! Get back!
+{47468}{47498}What now?
+{47515}{47560}Now, we wait for dark.
+{47682}{47716}I have to dress his wound.
+{47837}{47884}Okay, but nice and easy.
+{47946}{47989}If you fuck about...
+{48007}{48076}...I'll shoot without warning, you hear me?
+{48186}{48221}Let me see your hands!
+{48464}{48510}I told you to kill him.
+{48536}{48561}Shut up.
+{48572}{48635}What are you saying?|Throw the knife away.
+{48736}{48769}Throw the knife away!
+{48851}{48881}Back off.
+{49146}{49182}Give me those.
+{49549}{49585}Can I have one?
+{49678}{49701}Why?
+{49735}{49795}Because I have a gun and you don't.
+{49817}{49889}- Sit down.|- We have to help him.
+{49894}{49920}Sit down!
+{50101}{50142}By the way, who started the war?
+{50317}{50354}Who started the war?
+{50491}{50520}We did.
+{50586}{50661}- You started the war.|- Who cares who started it?
+{50679}{50734}We're all in the same shit now.
+{50752}{50798}Can I have a cigarette?
+{50977}{51011}What are you doing?
+{51013}{51053}- Don't move.|- Hold on!
+{51054}{51093}- Put the gun down.|- Calm down!
+{51096}{51160}- Put it down!|- If I do, he'll kill me!
+{51162}{51252}- If you don't, we're fucked.|- No!
+{51254}{51294}I won't kill you, I promise.
+{51296}{51345}- No.|- Put the gun down.
+{51363}{51435}Calm down. Gently. Wait!
+{51450}{51478}<i>Okay...</i>
+{51490}{51543}Okay, he takes the gun, but I keep mine.
+{51553}{51614}Ciki, take the gun.
+{51650}{51680}Slowly.
+{51706}{51735}Okay.
+{51789}{51825}Put it on your shoulder.
+{51866}{51913}Put it on your shoulder!
+{52011}{52037}Okay.
+{52074}{52106}Don't move.
+{52435}{52480}Put yours on your shoulder, too!
+{52807}{52852}There, we're equal now.
+{53616}{53658}Here, for your head.
+{54059}{54104}Cut it out. Calm down.
+{54157}{54202}I'm fucking sick of this.
+{54416}{54447}What now?
+{54483}{54520}I have an idea.
+{54536}{54596}So do I. First, give me the cigarettes.
+{54648}{54688}What is it?
+{54707}{54753}- What's wrong?|- Fuck!
+{54779}{54824}What a mess in Rwanda.
+{54860}{54902}You're really nuts.
+{55062}{55101}I don't believe it.
+{55117}{55180}- What is it?|- There's two of them now.
+{55197}{55266}- What are they yelling about?|- Call the officer.
+{55582}{55617}Unbelievable.
+{55635}{55689}It's this morning's greenhorn.
+{55721}{55771}Call the UNPROFOR for me.
+{55843}{55895}I've never seen anything like it.
+{55902}{55955}We ought to call the UNPROFOR.
+{55993}{56029}I'll alert HQ.
+{56236}{56295}I hope those aren't my cigarettes.
+{56318}{56394}When I took them,|I didn't think you'd need them.
+{56428}{56467}But now I hope...
+{56582}{56635}...that you'll die of cancer.
+{57024}{57051}Okay?
+{57081}{57117}You know what?
+{57139}{57195}Maybe you shouldn't smoke today.
+{57244}{57282}Everything okay?
+{57320}{57393}You haven't told me your name.|My name's Nino.
+{57474}{57568}What's your problem?|You want what? An introduction?
+{57583}{57659}To exchange phone numbers|and visiting cards?
+{57677}{57731}We don't need an introduction.
+{57739}{57828}Next time we see each other,|it'll be through a gun's sight.
+{58027}{58062}What's wrong with him?
+{58123}{58164}Keep an eye on him.
+{58686}{58721}It's for you.
+{58885}{58922}Call Arizona 2.
+{58941}{59022}<i>Charlie Tango to Arizona 2, over.|Do you copy? Over.</i>
+{59117}{59170}Arizona 2. I copy. Over.
+{59195}{59284}<i>I have your report.|Are they civilians or military?</i>
+{59324}{59416}We do not have that information.|Request permission to check.
+{59462}{59575}<i>Negative/ We must be sure|of the Sira-Bravo cease-fire, okay?</i>
+{59613}{59653}Affirmative. Over.
+{59677}{59741}<i>Do you know how many|need to be evacuated?</i>
+{59765}{59802}Negative. Over.
+{59860}{59958}<i>Arizona 2, stay where you are.|I'll talk to my superiors.</i>
+{59991}{60042}Message received. Over and out.
+{60090}{60159}- Why the fuck are we here?|- Good question.
+{60160}{60258}I reckon it's simple:|To stop the locals killing each other.
+{60264}{60353}Except we can't use force|or get into dangerous situations.
+{60373}{60422}I'm sick of just watching.
+{60453}{60491}Right, let's go.
+{60497}{60575}- Georges, stay here.|- We can't leave like this.
+{60576}{60651}Stay if you want|and figure out why you're here.
+{61401}{61459}Don't fall asleep, you might move.
+{61484}{61534}How can I fall asleep...
+{61585}{61637}...with this shit under me?
+{61658}{61716}Fuck, why is this happening to me?
+{61776}{61865}We'll find a solution.|Try to think of something else.
+{61901}{61924}<i>Ciki...</i>
+{61975}{62008}Don't let me die here.
+{62080}{62138}Listen, I'm staying here with you.
+{62173}{62222}If you die, I die too.
+{62242}{62279}What a comfort!
+{62293}{62325}Come on.
+{62375}{62426}I'll check what's happening.
+{63389}{63452}SERBIAN BARRICADE
+{63635}{63663}Hello.
+{63682}{63756}- Do you speak French?|- French? No.
+{63761}{63795}- English?|- Yes.
+{63831}{63920}- We came for people.|- Yes.
+{63933}{63974}- People, you know?|- Yes.
+{63985}{64021}People between lines.
+{64085}{64128}- Where are they?|- Yes.
+{64159}{64236}Okay, you understand nothing|of what I've said.
+{64238}{64262}Yes.
+{64373}{64417}You speak English?
+{64449}{64473}No.
+{64475}{64504}French?
+{64571}{64641}We are here for people between lines.
+{64699}{64789}- What's he saying?|- God knows, just say yes, yes.
+{64860}{64916}Does anyone here know languages?
+{65115}{65175}We are here, this place.
+{65270}{65311}Where are the men?
+{65392}{65434}Here? Here people?
+{65452}{65483}Soldiers?
+{65521}{65587}- Any mine?|- No mine.
+{65596}{65641}- You sure?|- No mine.
+{65704}{65743}We go now.
+{65755}{65809}Okay? We go, you don't shoot.
+{65832}{65882}Shoot, no. Nobody shoots.
+{65897}{65943}- Yeah.|- Okay, thank you.
+{66067}{66105}Tell HQ the UNPROFOR is here.
+{66107}{66177}I don't want anybody shooting.|Is that clear?
+{66301}{66366}- Sorry about earlier.|- You were right.
+{66403}{66485}Why get acquainted|to watch each other through sights?
+{66521}{66608}- In any case, thanks for the idea.|- Let's hope it works.
+{66670}{66733}What's going on? Think they understood?
+{66821}{66899}- How is he?|- How do you expect him to be?
+{66921}{66989}- Have you known him long?|- Since the war.
+{67029}{67095}Since the beginning of this fucking war.
+{67098}{67153}What about you and the old man?
+{67185}{67235}I don't even know his name.
+{67280}{67317}You're from Banja Luka.
+{67319}{67386}How do you know? Yeah, right.
+{67450}{67530}I had a chick in Banja Luka. Sanja.
+{67567}{67602}I knew a Sanja, too.
+{67613}{67667}<i>- She had...|- This one, too.</i>
+{67723}{67752}- Blonde.|- Yes.
+{67754}{67778}- Tall.|- Yes.
+{67786}{67821}With a beauty spot.
+{67833}{67880}- Sanja Cengic!|- I was at school with her.
+{67882}{67924}- No kidding?|- I swear.
+{67973}{68006}- Cera!|- Yeah.
+{68009}{68068}He knows the Sanja I mentioned!
+{68085}{68120}Brilliant.
+{68183}{68226}What's become of her?
+{68269}{68309}She's gone abroad.
+{68384}{68424}I don't blame her.
+{68540}{68601}BOSNIAN BARRICADE
+{68757}{68829}- Hello. Do you speak French?|- No, English.
+{68839}{68960}<i>- Okay, we are here for people...|- Yes, we called. You can go.</i>
+{68962}{69009}- It's okay? We go?|- Go.
+{69026}{69099}- Any mines there?|- We didn't put any.
+{69152}{69191}Okay. Go ahead.
+{69524}{69596}<i>- Sarajevo on line.|- Hello, Col. Soft speaking.</i>
+{69601}{69688}<i>- Hello, sir. This is Capt. Dubois.|- How can I help you?</i>
+{69698}{69789}<i>It's the first time that the two camps|are asking me for the same thing...</i>
+{69790}{69841}<i>... and I don't know what to do.</i>
+{69842}{69922}Why are you asking me|and not your superiors?
+{69924}{70007}<i>They are all in Geneva|for a seminar on media relations.</i>
+{70030}{70110}It seems from your report that these men...
+{70112}{70185}...are stranded between the two front lines.
+{70186}{70269}But we don't even know|if they are soldiers or not. Is that right?
+{70286}{70325}What do you expect me to do?
+{70326}{70414}I can't risk the lives of our soldiers|in order to save theirs.
+{70416}{70517}Do I have to remind you of the precise|purpose of our mission here in Bosnia?
+{70518}{70583}<i>Since it is the first time|that the two camps are...</i>
+{70585}{70661}You know perfectly well|that there is nothing that I can do...
+{70663}{70746}...without the approval of the General|Assembly of the United Nations.
+{70748}{70817}I don't think the General Assembly|will convene itself...
+{70818}{70924}...specifically to deal with the problems|of two unknown individuals...
+{70953}{70993}...trapped in no man's land.
+{70995}{71066}There is nothing I can do.|I don't have the authority.
+{71067}{71110}<i>What should I tell them, sir?</i>
+{71111}{71178}Tell them that, as usual,|neither side can agree.
+{71180}{71234}Tell them anything you like. Good-bye.
+{71955}{71993}Is someone coming?
+{72005}{72065}Probably. See, they've stopped shooting.
+{72074}{72101}Fuck.
+{72146}{72217}I don't even know|what this shithole's called.
+{72228}{72313}- I'd hate to die here.|- Stop being a pain in the ass.
+{72321}{72405}They'll get a mine expert|and it'll soon be over.
+{72509}{72566}I told you, we'll leave together.
+{72883}{72947}Here come the Smurfs! Cera!|The Smurfs!
+{73205}{73268}If they radio us, call me immediately.
+{73274}{73331}What if something happens to you?
+{73443}{73479}- Hello.|- Hello.
+{73495}{73543}- Do you speak French?|- No.
+{73570}{73607}- English?|- A little.
+{73614}{73673}One's a Serb and one's Bosnian.
+{73691}{73726}How did they get here?
+{73728}{73827}- Do we take the dead guys' guns?|- No, it's okay.
+{73829}{73890}- You're okay?|- Yes, okay.
+{73933}{74009}We come to help you. My name is Neil.
+{74043}{74071}He needs help.
+{74079}{74130}- Is he wounded?|- Yes.
+{74211}{74287}We must not move him. Mines.
+{74323}{74391}We move him, mine explode.
+{74435}{74528}- He's on a mine that could blow.|- Thanks for the translation.
+{74567}{74618}What the fuck happened here?
+{74667}{74768}<i>- Okay, don't worry.|- Yes, but...</i>
+{74804}{74838}Stop!
+{75027}{75055}Oh, shit.
+{75090}{75162}A bouncing mine. These guys are crazy.
+{75163}{75226}What a fuck-up. We need the mine squad.
+{75243}{75290}Sarge! Charlie Tango calling.
+{75292}{75346}Okay, I'll come back in two minutes.
+{75348}{75406}Michel, give them water and food.
+{75477}{75515}What did he say?
+{75663}{75752}Arizona 2 to Charlie Tango, come in.
+{75791}{75888}<i>Arizona 2, we have orders not to move.|Things are too risky.</i>
+{75914}{75996}We're already on the spot.|Everything's under control.
+{76002}{76066}Both sides are respecting the cease-fire.
+{76078}{76150}We have three evacuees|and need a mine expert.
+{76172}{76209}<i>Who's speaking?</i>
+{76250}{76290}Sgt. Marchand.
+{76299}{76360}<i>You have 5 minutes to pull out...</i>
+{76367}{76426}<i>... and 15 to call me from the checkpoint.</i>
+{76428}{76500}<i>And report to the duty officer|on your return/</i>
+{76527}{76626}Sir, could you send a mine squad?|We have an emergency here.
+{76632}{76685}<i>The only emergency is to pull out.</i>
+{76693}{76795}<i>I repeat, for the last time,|I want you out in 5 minutes...</i>
+{76799}{76861}<i>... and call me in 15 to confirm...</i>
+{76863}{76933}<i>... that you're back|and that your men are safe.</i>
+{76944}{77028}<i>Or I'll have you arrested.|I'll be expecting your call.</i>
+{77067}{77094}Idiot!
+{77171}{77205}Get back in.
+{77227}{77257}What for?
+{77280}{77306}We must leave.
+{77307}{77344}- What?|- They're leaving.
+{77349}{77428}- You'll come back?|- I don't know, my boss said we must leave.
+{77451}{77502}I'm sorry. I'll try to come back.
+{77550}{77611}Thank God we can count on you.
+{77631}{77674}If you want, I take you with me.
+{77675}{77730}- What?|- We can go with him.
+{77745}{77825}Really? Thank him nicely|and tell him he can fuck off!
+{77831}{77879}- Ciki, go.|- Shut up.
+{77894}{77930}Go and bring back help.
+{78033}{78063}Wait!
+{78067}{78102}I'll come with you.
+{78123}{78162}- Where are you going?|- With them.
+{78163}{78220}- You're going nowhere!|- Why?
+{78234}{78328}This is all your fault.|If you stay, your side won't shoot.
+{78336}{78408}- They won't shoot, I swear.|- You're staying here.
+{78423}{78482}You're going to shoot me? Go ahead!
+{78484}{78526}Stop fooling around!
+{78547}{78575}No!
+{78604}{78643}Stop, guys!
+{78668}{78716}Okay! Cool! Stop!
+{78727}{78762}Lower your weapons!
+{78776}{78812}Michel, get in!
+{79036}{79062}What happened?
+{79072}{79117}- What a fuck-up.|- They're maniacs!
+{79119}{79137}Shut it!
+{79156}{79225}- I knew this would be shitty.|- Shut it!
+{79371}{79442}- You're crazy, you maniac!|- I warned you.
+{79482}{79577}I'll kill you for this! I swear!
+{79595}{79647}I've fucking had it with you.
+{79857}{79928}Keep cool just a while longer. Screw them.
+{79934}{80001}It'll be dark soon|and I'll think of something.
+{80176}{80214}How does this shit work?
+{80269}{80322}I'm sick of asking you!
+{80335}{80368}Fuck knows!
+{80394}{80461}It explodes|when you take the weight away.
+{80562}{80635}Here we are at a Bosnian barricade|near the town of Tuzla...
+{80640}{80688}...talking to the Bosnian Commander.
+{80689}{80756}How do you feel about the talks in Geneva?
+{80765}{80833}I'd like to go there.|Would you go with me?
+{80842}{80924}Are you resentful that people are talking|while you are suffering?
+{80954}{80989}What happened?
+{81055}{81133}It's very confused.|We go now and bring some help.
+{81153}{81225}- Why don't you tell them the truth?|- Who are you?
+{81248}{81307}I am Jane Livingston,|Global News Channel...
+{81311}{81429}...and this is Sgt. Marchand,|otherwise known as Arizona 2.
+{81456}{81494}Stop the engine.
+{81524}{81604}- How do you know that?|- We were listening to your radio frequency.
+{81610}{81684}Since we were in the area,|we thought we'd come and verify.
+{81689}{81745}- You listened to our radio?|- Absolutely.
+{81753}{81805}It's the best way to get fresh information.
+{81810}{81907}Are you going back?|Why do you need a bomb disposal unit?
+{81920}{81948}Stop the camera.
+{81960}{82023}- Can you take us there?|- No, I have to go.
+{82039}{82067}That's right.
+{82080}{82200}You're just here to distribute|humanitarian aid.
+{82215}{82285}Okay, we'll go without you.|Come on, let's go.
+{82297}{82356}You can't. It's too dangerous.
+{82398}{82427}Is that an order?
+{82506}{82566}Okay, stop filming, please.
+{82718}{82747}Please?
+{82768}{82805}Yes, all right.
+{82996}{83060}Maybe I can help you if you'll help me.
+{83080}{83135}We have an English TV crew here.
+{83140}{83188}They know everything.
+{83200}{83288}Other crews are on the way.|They picked up our frequency.
+{83300}{83356}I didn't answer their questions.
+{83388}{83460}Hello, Captain.|This is Jane Livingston of Global News.
+{83462}{83510}I can hear everything you're saying.
+{83512}{83597}Are we to assume that the UNPROFOR|are doing absolutely nothing...
+{83599}{83679}...for those who are wounded|and trapped between the two fronts?
+{83681}{83776}Who made this decision?|Are headquarters aware of the situation?
+{83805}{83920}<i>You know very well that you have no right|to listen or to use this frequency.</i>
+{83925}{84007}<i>Get off it immediately|or we'll confiscate your press card. Over.</i>
+{84044}{84083}Is that a threat?
+{84097}{84189}<i>Listen, Miss Livingston,|I was not in any way threatening you.</i>
+{84195}{84271}<i>Please, try to understand.|We are doing what we can.</i>
+{84280}{84392}<i>At this moment we are in negotiations|with both camps to arrange a ceasefire.</i>
+{84400}{84489}<i>As you know, the situation|is extremely complicated and takes time.</i>
+{84504}{84527}That's a lie.
+{84537}{84615}Can you tell me where these negotiations|are and who's in charge?
+{84617}{84698}I have my second unit on hand here|who could cover it immediately.
+{84707}{84762}<i>I have no more information|for the moment.</i>
+{84779}{84843}You're telling me|that negotiations are taking place...
+{84845}{84912}...but you don't know where they are|or who's in charge.
+{84917}{84956}At the same time...
+{84957}{85062}...you've requested that your soldiers|who were on the scene return to base.
+{85077}{85124}<i>I just carry out orders.</i>
+{85149}{85209}Who issues these orders?|Can I have a name?
+{85218}{85278}<i>I cannot disclose military affairs.</i>
+{85289}{85367}<i>First of all, I must request authorization|from my superiors.</i>
+{85411}{85476}Fine, go ahead.|I'll wait right here for your answer.
+{85477}{85551}I'm preparing a news report|which goes off in half an hour...
+{85553}{85618}...and it will be fascinating|to monitor the response...
+{85620}{85686}...of millions of our viewers|who will watch the show.
+{85692}{85725}Thank you, Captain.
+{85729}{85780}<i>Arizona 2, are you still there?</i>
+{85797}{85846}Affirmative, Charlie Tango.
+{85853}{85912}<i>Stay there until further orders.|Over and out.</i>
+{85951}{85996}Message received, sir.
+{86022}{86076}- Could I...|- No, please, not now.
+{86233}{86278}Why are you doing this?
+{86303}{86356}I'm sick of being a bystander.
+{86367}{86425}- What would you do?|- What I'd do?
+{86449}{86544}I'd stop the madmen ruining this country.|We have what it takes.
+{86564}{86605}Aren't you neutral?
+{86647}{86707}You can't be neutral facing murder.
+{86720}{86772}Doing nothing to stop it is taking sides.
+{86774}{86840}Magnificent. Will you say that on camera?
+{86859}{86903}I may be mad, but I'm not stupid.
+{86905}{86952}- Jane.|- Yeah, I'm coming.
+{86965}{87007}I'll be right back.
+{87437}{87486}- What's wrong?|- My leg's itching.
+{87488}{87516}Wait.
+{87545}{87613}You want to blow us away?|I'll scratch you.
+{87631}{87668}Lower.
+{87679}{87743}Again. To the left.
+{87767}{87810}There. That's good.
+{87977}{88016}I need the toilet.
+{88154}{88196}Piss in your pants.
+{88219}{88256}It's the other.
+{88379}{88411}It's okay.
+{88487}{88529}Easy for you to say.
+{88539}{88583}Here at the Bosnian barricade...
+{88589}{88660}...we do not know if this is yet another|mission impossible...
+{88668}{88746}...or if, indeed, they will actually decide|to do something.
+{88759}{88789}<i>Thank you, Jane.</i>
+{88791}{88880}<i>Let's take a look at the history|of UN involvement in the Bosnian conflict.</i>
+{89012}{89064}Martha, get me Capt. Dubois, please.
+{89065}{89137}<i>He just called,|but I told him that you were out.</i>
+{89143}{89193}Call him back and tell him I'm here.
+{89209}{89292}<i>You're pushing Bosnia-Herzegovina...</i>
+{89306}{89400}<i>... to follow the same path|of horror and suffering...</i>
+{89402}{89452}<i>... as Slovenia and Croatia.</i>
+{89464}{89565}<i>You'll lead Bosnia into hell|and this may end up...</i>
+{89566}{89611}<i>... exterminating the Muslim people/</i>
+{89637}{89715}<i>Radovan Karadzic didn't wait long|to carry out his threat.</i>
+{89719}{89826}<i>Bosnian Serb paramilitary forces,|largely helped by the Yugoslav army...</i>
+{89828}{89877}<i>... furiously attacked Bosnian cities...</i>
+{89879}{89952}<i>... that were defended only|by armed Bosnian civilians...</i>
+{89954}{90036}<i>... and the rest of the police forces|loyal to the Bosnian government.</i>
+{90038}{90112}<i>Serbs started massive attacks|against civilian targets...</i>
+{90118}{90225}<i>... spreading fear and terror and introducing|a new term: Ethnical cleansing.</i>
+{90240}{90303}<i>The world community|finally decided to do something...</i>
+{90305}{90402}<i>... after Serb artillery massacred people|waiting in lines for bread.</i>
+{90406}{90477}<i>UN Security Council|decided to send to Bosnia...</i>
+{90478}{90557}<i>... 9,000 troops supported by|the American 6th Fleet.</i>
+{90582}{90662}<i>At the moment when the whole world|expected military intervention...</i>
+{90664}{90748}<i>... French President François Mitterrand|lands in Sarajevo...</i>
+{90755}{90809}<i>... a city that was already under siege.</i>
+{90812}{90903}<i>Bosnians received him as a savior,|but he had different plans.</i>
+{90914}{91009}<i>After meeting with Radovan Karadzic,|he opened Sarajevo airport...</i>
+{91014}{91093}<i>... and started wide-scale|humanitarian aid action.</i>
+{91123}{91243}<i>UN troops were assigned to protect|and follow the UNHCR food convoys...</i>
+{91254}{91317}<i>... without any right to interfere|in the conflict.</i>
+{91318}{91395}<i>Today, Bosnians are still denied|the right to defend themselves...</i>
+{91397}{91450}<i>... by an imposed UN weapon embargo...</i>
+{91456}{91569}<i>... although, at this very moment, war|continues without any signs of pacification.</i>
+{91588}{91646}<i>The tragedy|of the Bosnian nation continues...</i>
+{91653}{91773}<i>... and the only help they've got now|is 120 grams of humanitarian aid per day.</i>
+{91818}{91877}<i>For those joining us now,|we have news from Bosnia...</i>
+{91878}{91927}<i>... where some men|are caught in no man's land.</i>
+{91929}{91975}<i>Our correspondent|Jane Livingston is there.</i>
+{91977}{92049}<i>We're waiting to see which measure|will be taken by UNPROFOR.</i>
+{92051}{92105}<i>Is there anything you'd like to add, Jane?</i>
+{92109}{92212}<i>Olivia, I would like to repeat the words|that I heard here only moments ago.</i>
+{92234}{92310}<i>"Neutrality does not exist|in the face of murder.</i>
+{92315}{92392}<i>"Doing nothing to stop it is,|in fact, choosing.</i>
+{92399}{92451}<i>"It is not being neutral."</i>
+{92492}{92545}<i>Thank you, Jane.|We'll come back to you later.</i>
+{92546}{92635}<i>That was Jane Livingston, live from Bosnia.|We'll be back after this.</i>
+{92788}{92889}Martha, gonna need a helicopter|and a map of Bosnia-Herzegovina.
+{92898}{92997}How was it? We haven't had an|opportunity like that in a very long time.
+{93023}{93049}Yeah.
+{93067}{93143}I know. I just hope it will make them|move their asses, you know?
+{93166}{93214}Yeah. That's right.
+{93223}{93283}Okay. I'll call you as soon as we get there.
+{93285}{93381}Shit! We weren't the only ones listening|to the UNPROFOR, obviously.
+{93414}{93449}Hi, John.
+{93502}{93560}Okay, guys. We have the go-ahead.
+{93610}{93666}Stay here while we check things.
+{93667}{93713}Come on. That's not what we agreed.
+{93721}{93812}It's too dangerous now.|You can move in with the mine expert.
+{93824}{93895}<i>No! You said that you would take us up...</i>
+{93942}{93976}Fucking French.
+{94014}{94047}Really, I'm sick of it.
+{95843}{95898}Give me the photo in my pocket.
+{95929}{95982}- Which pocket?|- The top one.
+{96011}{96035}This one.
+{96169}{96202}Let me see.
+{96215}{96328}- Why do soldiers always carry photos?|- I've no idea. Let me see.
+{96384}{96429}I can't see like that.
+{96673}{96770}- Think I'll see her again?|- Cut it out, of course you will.
+{96839}{96866}Ciki!
+{96982}{97031}Stop it, for God's sake!
+{97034}{97060}Shit!
+{97181}{97213}You stop!
+{97218}{97256}Watch the knife!
+{97275}{97306}Stop now!
+{97329}{97401}It's over! You stop! Help is coming.
+{97432}{97515}The mining squad is coming.|You understand? You tell him.
+{97543}{97591}The mine squad's coming!
+{97598}{97633}I'll kill you for this!
+{97781}{97822}It's good for you.
+{97855}{97888}Help coming.
+{97959}{98025}I'll get reinforcements.|Keep an eye on them...
+{98032}{98079}...and clean his wound.
+{98243}{98317}Take this. Call me if there's a problem.
+{98768}{98850}- What's happening?|- Okay, you'll be able to film.
+{98851}{98876}Are you sure?
+{98878}{98938}Everything okay? Are you all right?
+{99193}{99235}- Sgt. Marchand.|- Capt. Dubois.
+{99239}{99316}- Captain, can you tell us what's going on?|- Just one moment, please.
+{99323}{99407}- Can we have an interview later?|- I told you, one minute.
+{99421}{99486}- What's going on?|- A hell of a mess, sir.
+{99497}{99555}It's really tense. We just had to intervene.
+{99558}{99640}We're taking no risks.|Any trouble, we pull out, okay?
+{99672}{99757}- What about the reporters?|- We let them film everything.
+{99782}{99827}Isn't that what you wanted?
+{99851}{99910}I'm not stupid, Sgt. Marchand.
+{99955}{100052}Ladies and gentleman, I am Capt. Dubois.
+{100067}{100138}In a few minutes,|I will take you on the site.
+{100144}{100226}I suppose you all have your press cards,|helmets and flak jackets.
+{100243}{100303}Sgt. Marchand here|is going to brief you now.
+{100314}{100433}We have there a soldier that is laying|on a mine. We have to de-mine it.
+{100453}{100518}Nobody can go in the hole.|It's too dangerous.
+{100524}{100595}Don't go around because|we don't know if there are any mines.
+{100627}{100751}The situation is extremely complicated|and I want your total cooperation.
+{100767}{100821}Whoever will not respect the rules...
+{100823}{100897}...will be thrown out|and their press card will be confiscated.
+{100922}{100989}Go now into your cars.|We'll leave in a few minutes.
+{100991}{101023}Please go.
+{101206}{101286}- You never mentioned a man on a mine.|- I didn't?
+{101308}{101343}I forgot. Shall we go?
+{101350}{101420}- We wait for the mine expert.|- He isn't with you?
+{101424}{101487}Ours were busy.|They're sending a German.
+{101493}{101570}He should be here at 3:30. It's 3:30 now.
+{101732}{101769}Bang on the dot.
+{101775}{101801}What?
+{101915}{101956}Capt. Dubois. Do you speak French?
+{101959}{101979}No.
+{101980}{102024}- English, of course.|- Of course.
+{102026}{102099}- You know the situation?|- No, we had no time for a briefing.
+{102104}{102175}We don't have much time,|so you follow us, I will explain you.
+{102180}{102224}Over there. Follow us.
+{102674}{102777}At this very moment the UNPROFOR|are trying to help the third soldier...
+{102779}{102815}...who is lying on a mine.
+{102822}{102899}The absurdity of war continues,|taking on a different guise.
+{102910}{102986}How will all this end?|Stay tuned to Global News.
+{102989}{103050}Jane Livingston, live from Bosnia.
+{103307}{103335}Here.
+{103410}{103447}Excuse me...
+{103470}{103522}...can I make interview with you?
+{103525}{103600}Go fuck yourself!|You're the last thing I need.
+{103671}{103746}Fucking Balkanian.|What the fuck are you doing?
+{103773}{103812}- I just thought...|- Don't think.
+{103814}{103859}I'm the one who thinks around here.
+{103986}{104059}Excuse me, would you like a cigarette?
+{104167}{104230}Do you speak a little English?
+{104286}{104355}- Little.|- I can do interview with you?
+{104399}{104429}Roll.
+{104469}{104540}- How do you feel?|- Okay.
+{104565}{104620}- Do you feel tired?|- Yes.
+{104646}{104738}Was it you who put the mine|underneath the other soldier?
+{105068}{105105}Fucking bastard. Cut!
+{105393}{105464}I'll kill him, even if it's the last thing I do.
+{105481}{105555}- What's wrong with you?|- I should have killed him.
+{105581}{105648}See that? I spared him and now...
+{105652}{105723}...he's tried to kill me with my own knife!
+{105845}{105883}How do you feel?
+{105915}{105985}Great. Couldn't be better.
+{106014}{106109}First, they shoot at me,|then I wake up on a mine...
+{106124}{106200}...the whole world's watching me,|I need to shit...
+{106215}{106289}...and you piss me off|with your stupid stories.
+{106357}{106390}It'll soon be over.
+{106670}{106725}- You are okay?|- Yes, I'm ready.
+{106749}{106810}Now, I need everybody out of the place.
+{106814}{106890}We need the safety parameters|at least 30 meters.
+{106901}{106936}Okay. I'll do it.
+{106939}{106973}Move everybody out.
+{107377}{107466}Okay, please, now, you must go back.|We will start de-mining.
+{107619}{107663}Michel, let's get going!
+{107714}{107791}You must leave now.|De-miner wants everybody out.
+{107797}{107825}You, out.
+{107886}{107986}Yes, he out, too.|Later, when we finish. Understand?
+{107997}{108048}They'll bring him out later.
+{108090}{108149}If I need a translator, I'll find one.
+{108151}{108181}Let's go.
+{108290}{108314}Calm down!
+{108316}{108352}You cannot stay here, okay?
+{108401}{108473}Tell him if he stays here|we will not start working.
+{108486}{108541}It's a question of security.|Say it to your friend.
+{108542}{108573}He's not my friend.
+{108581}{108668}I know, but please,|I have no other translator. Tell him.
+{108694}{108804}- They'll do nothing until we go.|- I don't need a translator!
+{108840}{108881}Go fuck yourself, asshole!
+{109006}{109077}Keep your cool. Just go.
+{109164}{109214}I'll wait for you up there.
+{109277}{109312}Keep an eye on him.
+{109348}{109376}Okay?
+{109486}{109578}You can probably just make out|behind me, as I'm speaking to you...
+{109583}{109700}...the Serbian soldier, limping,|closely followed by the Bosnian soldier.
+{109709}{109794}These two men, at least,|will be walking to their safety.
+{109797}{109860}But they will be leaving behind|the third soldier...
+{109866}{109928}...who is still patiently waiting|on the mine...
+{109933}{110001}...for the bomb-disposal expert|to save his life.
+{110004}{110065}For him, the ordeal is not yet over.
+{110076}{110149}This is Jane Livingston, live from Bosnia...
+{110152}{110209}...for Global News. Stay tuned.
+{110654}{110685}Get lost!
+{110725}{110755}Fuck you!
+{110865}{110949}Asshole! I give him bandages|and he refuses them.
+{110966}{111009}They're all maniacs!
+{111103}{111181}<i>- It's John here. Are you still there?|- Yes. Hello?</i>
+{111200}{111306}Okay. Listen, this is really great,|but it would be fantastic if you could...
+{111318}{111368}...get the story of the guy on the mine.
+{111370}{111410}<i>I'll try. I mean...</i>
+{111436}{111530}Maybe you could get a close-up of him|when they're clearing the mine?
+{111562}{111595}<i>Yeah, I'll try.</i>
+{111614}{111668}Have you interviewed|the other two guys yet?
+{111670}{111752}<i>No, unfortunately they won't let me|get anywhere near them.</i>
+{111771}{111811}Go get it, Jane. Come on!
+{111817}{111898}As soon as you get it, we'll go live again.|Okay? Good luck.
+{111905}{111937}<i>Thank you.</i>
+{112670}{112702}Don't move.
+{113196}{113235}Fuck, what a job.
+{113314}{113392}They say a mine expert|only ever makes one mistake.
+{113413}{113462}- Two mistakes.|- How come?
+{113500}{113562}The first is when he chooses the job.
+{115445}{115482}What is happening?
+{115513}{115591}There's too much stones.|I can't approach the mine.
+{115606}{115673}I don't even see what kind of mine it is.
+{115678}{115712}I know. Wait.
+{115996}{116070}- Is this the mine that is under the body?|- Yeah.
+{116346}{116386}I can do nothing.
+{116398}{116460}- What?|- It's impossible to de-activate...
+{116462}{116533}...this kind of stuff|once the mechanism is on.
+{116595}{116664}This man is already dead.
+{116689}{116766}Are you sure? Can't you put something|between him and the mine?
+{116775}{116822}Maybe another de-miner knows better.
+{116830}{116870}You can call whoever you want.
+{116872}{116990}Nobody, nothing in the world can de-mine|this stuff, not in these conditions.
+{117004}{117049}At least I don't know about it.
+{117418}{117481}Deus ex machina. He's all we needed.
+{118403}{118483}Why are you here? Do you consider it|such an important mission?
+{118507}{118575}We consider all our missions|to be of the utmost importance.
+{118577}{118665}Our job here is to expedite|the peace process in this country.
+{118691}{118764}You didn't want to intervene.|It was your soldiers...
+{118771}{118848}...who were sick and tired of waiting,|who initiated the action.
+{118866}{118935}I'm afraid you got|the wrong end of the story here.
+{118937}{119010}This is a simple new system of command.
+{119022}{119116}If it's effective, then the unit in the field|will have much greater mobility.
+{119131}{119190}What do you have to say about|the Americans' accusations...
+{119192}{119289}...that Europe's incapacity to do anything|is due to UNPROFOR's internal problems?
+{119299}{119376}I've heard no such accusations.|You must judge for yourself.
+{119383}{119472}The UNPROFOR is perfectly fulfilling|its mission. Thank you very much.
+{119484}{119560}What are the relationships between|the British and the French?
+{119563}{119644}I think we'll have to deal with that later.|It's far too complicated.
+{119718}{119757}- Thank you.|- My pleasure.
+{119766}{119812}- How's it going?|- We have a problem, sir.
+{119814}{119867}- What problem?|- One of the soldiers is on a mine.
+{119869}{119898}It's impossible to defuse it.
+{119900}{119923}What?
+{119929}{120002}The mine disposal expert says|it is impossible to defuse it.
+{120067}{120173}This whole fucking business stinks|to high heaven, as I said from the start.
+{120216}{120309}If the journalists get one whiff of this,|they'll crucify us.
+{120327}{120345}Shit.
+{120352}{120420}What did you decide?|What are we going to do?
+{120427}{120490}Get back into the trench.|Pretend to be busy.
+{120499}{120567}- We've got to buy ourselves some time.|- Excuse me to repeat...
+{120569}{120629}Get back into the trench!
+{120665}{120700}That's an order.
+{121251}{121292}Captain, what's happening?
+{121294}{121371}The mine disposal expert|has begun his job.
+{121379}{121473}You will be informed|as soon as he will be finished.
+{121485}{121561}- I think it's going to take a little while.|- Can we approach?
+{121563}{121653}Unfortunately, for security reasons,|I cannot allow that.
+{121655}{121715}You wanted to kill me with my own knife?
+{121725}{121749}Oh, shit.
+{121756}{121790}Quick! Tom!
+{121795}{121847}Is that how you thank me?
+{121871}{121908}Don't come any closer!
+{121937}{121969}You're all the same!
+{121971}{122021}And you vultures film it?
+{122030}{122106}You get good money?|Does our misery pay well?
+{122138}{122162}No!
+{122629}{122673}- Did you get it?|- Yes.
+{122868}{122940}Captain? Over here, please.
+{123297}{123326}What do you think...
+{123328}{123364}Take it easy.
+{123412}{123443}<i>Listen...</i>
+{123476}{123527}There was no other solution.
+{123548}{123623}Marchand! Put the bodies in the car.|We're going.
+{123636}{123710}- What's happening?|- The mine expert's defused it.
+{123722}{123759}- He has?|- Yes.
+{124639}{124683}Colonel, sir,|can we just have a few questions?
+{124703}{124792}Ladies and gentleman, what can I say?|You see the conditions we work under.
+{124794}{124856}Our focus now must be|on the remaining soldier.
+{124858}{124912}We hope to be able to save|at least one life.
+{124921}{124979}- Can we come closer? Can we film it?|- Eventually.
+{124980}{125065}He's in critical condition and has to be|taken to a hospital immediately.
+{125072}{125171}When he's in a fit state to answer|your questions, you'll be informed.
+{125188}{125296}The press conference tonight|at 22:00 at the Holiday Inn...
+{125305}{125384}...at which time I shall be happy to answer|any of your questions.
+{125385}{125473}For the time being, I must ask you please|to prepare to leave the field...
+{125475}{125568}...since I can no longer guarantee|your safety. Night is beginning to fall.
+{125575}{125637}Please, ladies and gentlemen,|prepare to go.
+{125683}{125715}Thank you.
+{126515}{126580}- What's going on?|- We took out the mine expert's gear.
+{126581}{126666}- What about him?|- If you have an idea, let me know.
+{126668}{126748}- We can't leave him there!|- You have a solution?
+{126789}{126838}You heard the mine expert.
+{126909}{126958}I hope you understand now.
+{126967}{127036}It's not our business, so we stay out of it.
+{127061}{127135}Everything all right, Captain?|Good work, gentlemen.
+{127161}{127200}I'm very pleased.
+{127203}{127295}I have no doubt that in the fullness of time|you'll be duly compensated.
+{127561}{127617}You've got the contact numbers|from Dubois?
+{127632}{127700}Call them, will you,|and notify them that they're dead.
+{127722}{127794}Then I'd like you to notify each side...
+{127796}{127861}...that we have information|that the other side...
+{127863}{127936}...is planning to commandeer|the central trench this evening.
+{127997}{128099}Could you call me the liaison|of the Bosnians, please? Thank you.
+{128188}{128264}- Well, see you round.|- See you.
+{128312}{128360}I wanted to thank you.
+{128436}{128499}- You got your report.|- Yes.
+{128585}{128621}Are you okay?
+{128653}{128699}- Ready to go?|- Sorry?
+{128703}{128747}- Are you ready to go?|- Yes.
+{128749}{128805}Let's not hang around, let's go.
+{128848}{128914}- I hope we meet again.|- I hope so.
+{128927}{128998}Remember the press conference tonight,|22:00, all right?
+{129001}{129028}Yes.
+{129138}{129192}I know what you're thinking, Sergeant.
+{129207}{129304}It wouldn't make any difference, you know.|It wouldn't change anything.
+{129347}{129381}Off you go.
+{129518}{129587}Are you sure you don't want me|to film the trench?
+{129629}{129721}No. A trench is a trench.|They're all the same.

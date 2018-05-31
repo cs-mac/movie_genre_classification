@@ -1,0 +1,4326 @@
+1
+00:01:43,000 --> 00:01:45,000
+Nick Nack! Tabasco!
+
+2
+00:01:45,249 --> 00:01:49,040
+Right away, Monsieur Scaramanga!
+
+3
+00:02:13,701 --> 00:02:16,492
+Hey.
+
+4
+00:02:17,908 --> 00:02:22,365
+Half. You get the rest later.
+
+5
+00:02:28,156 --> 00:02:32,321
+Wait for him in there. Through that door.
+
+6
+00:02:34,113 --> 00:02:37,528
+He will join you in a minute.
+
+7
+00:03:05,480 --> 00:03:10,146
+Your steam bath is ready,
+Monsieur Scaramanga.
+
+8
+00:04:12,505 --> 00:04:16,254
+<i>Oh, that would have been too easy.</i>
+
+9
+00:04:16,504 --> 00:04:19,837
+<i>It's locked.</i>
+
+10
+00:04:20,087 --> 00:04:24,336
+You'll have to look elsewhere, monsieur.
+
+11
+00:05:49,232 --> 00:05:50,690
+Hey, Al.
+
+12
+00:05:50,940 --> 00:05:55,897
+Al, wherever you are,
+don't hold it against me.
+
+13
+00:06:02,645 --> 00:06:07,269
+I wonder where you can find your gun,
+Monsieur Scaramanga.
+
+14
+00:06:07,519 --> 00:06:11,726
+<i>Your little golden gun.</i>
+
+15
+00:06:14,642 --> 00:06:18,267
+<i>Where can it be?</i>
+
+16
+00:06:19,766 --> 00:06:24,015
+<i>There is something
+we haven't had before.</i>
+
+17
+00:06:25,390 --> 00:06:29,014
+<i>I wonder what it can be.</i>
+
+18
+00:06:32,763 --> 00:06:36,387
+<i>I fooled you!</i>
+
+19
+00:06:39,761 --> 00:06:43,385
+<i>You're getting warmer.</i>
+
+20
+00:06:44,885 --> 00:06:48,509
+<i>Much warmer.</i>
+
+21
+00:07:11,795 --> 00:07:16,336
+Now, how are you going
+to get down the stairs?
+
+22
+00:07:16,586 --> 00:07:21,210
+<i>So near and yet so far.</i>
+
+23
+00:07:43,704 --> 00:07:46,287
+<i>Bravo, Monsieur Scaramanga.</i>
+
+24
+00:07:46,537 --> 00:07:50,161
+You've done it again.
+
+25
+00:07:52,494 --> 00:07:56,284
+- This one was the best, "n'est-ce pas"?
+- Not bad. Not bad at all.
+
+26
+00:07:56,534 --> 00:07:59,284
+But you'll have to do better
+to come into my money.
+
+27
+00:07:59,534 --> 00:08:03,574
+I'll get you yet,
+and I'll enjoy every sou you leave me.
+
+28
+00:08:03,824 --> 00:08:07,657
+You'll be the death of me yet, Nick Nack.
+
+29
+00:08:32,900 --> 00:08:35,983
+<i># He has a powerful weapon</i>
+
+30
+00:08:36,233 --> 00:08:39,982
+<i># He charges a million a shot</i>
+
+31
+00:08:40,232 --> 00:08:44,481
+<i># An assassin that's second to none</i>
+
+32
+00:08:48,688 --> 00:08:51,854
+<i># Lurking in some darkened doorway</i>
+
+33
+00:08:52,104 --> 00:08:55,478
+<i># Or crouched on a rooftop somewhere</i>
+
+34
+00:08:55,728 --> 00:08:58,894
+<i># In the next room, or this very one</i>
+
+35
+00:08:59,144 --> 00:09:04,185
+<i># The Man with the Golden Gun</i>
+
+36
+00:09:04,434 --> 00:09:07,767
+<i># Love is required whenever he's hired</i>
+
+37
+00:09:08,017 --> 00:09:11,058
+<i># It comes just before the kill</i>
+
+38
+00:09:11,308 --> 00:09:13,016
+<i># No one can catch him</i>
+
+39
+00:09:13,266 --> 00:09:14,724
+<i># No hit man can match him</i>
+
+40
+00:09:14,974 --> 00:09:17,848
+<i># For his million-dollar skill</i>
+
+41
+00:09:18,098 --> 00:09:21,722
+<i># One golden shot
+# means another poor victim</i>
+
+42
+00:09:21,972 --> 00:09:25,929
+<i># Has come to a glittering end</i>
+
+43
+00:09:26,179 --> 00:09:28,804
+<i># For a price, he'll erase anyone</i>
+
+44
+00:09:29,054 --> 00:09:33,219
+<i># The Man with the Golden Gun</i>
+
+45
+00:09:33,469 --> 00:09:41,134
+<i># His eye may be on you or me</i>
+
+46
+00:09:41,384 --> 00:09:45,799
+<i># Who will he bang?</i>
+
+47
+00:09:46,049 --> 00:09:53,631
+<i># We shall see</i>
+
+48
+00:09:56,547 --> 00:09:59,754
+<i># Love is required whenever he's hired</i>
+
+49
+00:10:00,004 --> 00:10:03,254
+<i># It comes just before the kill</i>
+
+50
+00:10:03,503 --> 00:10:04,920
+<i># No one can catch him</i>
+
+51
+00:10:05,170 --> 00:10:06,711
+<i># No hit man can match him</i>
+
+52
+00:10:06,961 --> 00:10:09,877
+<i># For his million-dollar skill</i>
+
+53
+00:10:10,127 --> 00:10:13,876
+<i># One golden shot
+# means another poor victim</i>
+
+54
+00:10:14,126 --> 00:10:17,917
+<i># Has come to a glittering end</i>
+
+55
+00:10:18,167 --> 00:10:20,916
+<i># If you want to get rid of someone</i>
+
+56
+00:10:21,166 --> 00:10:23,999
+<i># The Man with the Golden Gun</i>
+
+57
+00:10:24,248 --> 00:10:27,206
+<i># Will get it done</i>
+
+58
+00:10:27,456 --> 00:10:30,705
+<i># He'll shoot anyone</i>
+
+59
+00:10:30,955 --> 00:10:40,120
+<i># With his golden gun</i>
+
+60
+00:10:45,743 --> 00:10:49,367
+Good morning, sir.
+
+61
+00:10:50,409 --> 00:10:52,367
+Colthorpe.
+
+62
+00:10:52,617 --> 00:10:54,241
+Chief of Staff.
+
+63
+00:10:54,491 --> 00:10:57,115
+What do you know
+about a man called Scaramanga, 007?
+
+64
+00:10:57,365 --> 00:11:00,990
+Scaramanga?
+
+65
+00:11:01,281 --> 00:11:04,114
+Oh, yes! The Man with the Golden Gun.
+
+66
+00:11:04,364 --> 00:11:08,946
+Born in a circus. Father, the ringmaster.
+Mother, English. A snake charmer.
+
+67
+00:11:09,196 --> 00:11:14,736
+A spectacular trick-shot artist by the time
+he was ten and a local Rio gunman at 15.
+
+68
+00:11:14,986 --> 00:11:18,569
+The KGB trained him in Europe,
+where he became
+
+69
+00:11:18,819 --> 00:11:20,943
+an overworked, underpaid assassin.
+
+70
+00:11:21,193 --> 00:11:23,692
+He went independent in the '50s.
+
+71
+00:11:23,942 --> 00:11:26,233
+Current price: One million dollars a hit.
+
+72
+00:11:26,483 --> 00:11:28,608
+No... er... photograph on file.
+
+73
+00:11:28,858 --> 00:11:33,732
+But he does have one distinguishing
+feature, however. A superfluous papilla.
+
+74
+00:11:33,982 --> 00:11:39,105
+- A what?
+- A mammary gland. A third nipple, sir.
+
+75
+00:11:39,355 --> 00:11:42,604
+He always uses a golden bullet,
+hence "Man with the Golden Gun".
+
+76
+00:11:42,854 --> 00:11:44,854
+Present domicile unknown.
+
+77
+00:11:45,104 --> 00:11:47,770
+I think that's all.
+
+78
+00:11:48,020 --> 00:11:51,769
+Why, sir?
+
+79
+00:11:52,644 --> 00:11:55,935
+Hm! Charming trinket.
+
+80
+00:11:56,184 --> 00:11:58,642
+- Even has my number on it.
+- Precisely.
+
+81
+00:11:58,892 --> 00:12:01,683
+Obviously it's useless as a bullet.
+
+82
+00:12:01,933 --> 00:12:04,516
+Who would pay a million dollars
+to have me killed?
+
+83
+00:12:04,766 --> 00:12:09,515
+Jealous husbands, outraged chefs,
+humiliated tailors. The list is endless.
+
+84
+00:12:09,765 --> 00:12:12,805
+Moreover, this trinket, as you call it,
+
+85
+00:12:13,055 --> 00:12:17,471
+was sent with a note
+requesting "special delivery" to you.
+
+86
+00:12:17,721 --> 00:12:21,762
+- It's initialled with an S.
+- Scaramanga's fingerprints were on it.
+
+87
+00:12:22,012 --> 00:12:24,553
+They've been verified by the CIA.
+
+88
+00:12:24,803 --> 00:12:27,968
+- Why would he alert me?
+- Psychological.
+
+89
+00:12:28,218 --> 00:12:31,259
+He counts on his reputation
+to terrify his intended victim.
+
+90
+00:12:31,509 --> 00:12:35,133
+Thank you, gentlemen.
+
+91
+00:12:42,840 --> 00:12:47,714
+I'm relieving you
+of your present assignment, 007.
+
+92
+00:12:49,463 --> 00:12:52,046
+- Er, sir?
+- Yes?
+
+93
+00:12:52,296 --> 00:12:55,545
+The energy crisis is still with us.
+
+94
+00:12:55,795 --> 00:13:01,169
+I submit that finding Gibson and his solar
+cell data is more important than ever.
+
+95
+00:13:01,419 --> 00:13:03,418
+It is indeed.
+
+96
+00:13:03,668 --> 00:13:10,625
+And I can't jeopardise it or any mission
+by having Scaramanga put a bullet in you.
+
+97
+00:13:10,875 --> 00:13:14,249
+I'll endorse your request to resign.
+
+98
+00:13:14,499 --> 00:13:17,998
+Or you can take a sabbatical
+and go to ground until this is settled.
+
+99
+00:13:18,248 --> 00:13:19,539
+Or until he kills me.
+
+100
+00:13:19,789 --> 00:13:22,747
+Nobody knows where he is
+or what he looks like.
+
+101
+00:13:22,997 --> 00:13:27,454
+So I think it's fair to assume
+that he has the edge on you.
+
+102
+00:13:27,704 --> 00:13:32,036
+Wouldn't you agree? That's all, 007.
+
+103
+00:13:39,993 --> 00:13:42,409
+If I found him first, sir,
+
+104
+00:13:42,659 --> 00:13:45,491
+that might change the situation.
+
+105
+00:13:45,741 --> 00:13:50,698
+Dramatically, wouldn't you say?
+
+106
+00:13:51,073 --> 00:13:54,114
+Good day, Bond.
+
+107
+00:14:00,863 --> 00:14:02,779
+Moneypenny, Fairbanks.
+
+108
+00:14:03,029 --> 00:14:06,111
+- Alaska.
+- No. Bill Fairbanks, 002.
+
+109
+00:14:06,361 --> 00:14:08,069
+Oh, poor Bill.
+
+110
+00:14:08,319 --> 00:14:10,860
+- I miss him.
+- The Man with the Golden Gun didn't.
+
+111
+00:14:11,110 --> 00:14:13,401
+Officially that was never confirmed.
+
+112
+00:14:13,651 --> 00:14:15,817
+Where was 002 when it happened?
+
+113
+00:14:16,067 --> 00:14:18,275
+Beirut, '69.
+
+114
+00:14:18,525 --> 00:14:21,024
+In a cabaret with a lady called Saida.
+
+115
+00:14:21,274 --> 00:14:23,107
+Beirut, hm?
+
+116
+00:14:23,357 --> 00:14:25,856
+Moneypenny,
+you are better than a computer.
+
+117
+00:14:26,106 --> 00:14:29,189
+In all sorts of ways.
+
+118
+00:14:29,439 --> 00:14:31,772
+But you never take advantage of them.
+
+119
+00:14:32,022 --> 00:14:35,854
+<i>- Miss Moneypenny.
+- Yes, sir.</i>
+
+120
+00:14:36,604 --> 00:14:39,187
+Oh, just one moment, darling.
+
+121
+00:14:39,437 --> 00:14:40,728
+Yes, James?
+
+122
+00:14:40,978 --> 00:14:43,852
+Why wasn't Scaramanga
+confirmed as the killer?
+
+123
+00:14:44,102 --> 00:14:48,351
+Because they couldn't find the bullet!
+
+124
+00:14:48,851 --> 00:14:52,267
+Darling!
+
+125
+00:15:20,885 --> 00:15:22,384
+Ahmed.
+
+126
+00:15:22,634 --> 00:15:26,050
+Ahmed!
+
+127
+00:16:04,832 --> 00:16:07,415
+<i>Entrez.</i>
+
+128
+00:16:07,665 --> 00:16:13,372
+Good evening.
+My name is Bond. James Bond.
+
+129
+00:16:13,955 --> 00:16:16,496
+Your dancing is superb.
+
+130
+00:16:16,746 --> 00:16:20,370
+<i>- And so are you.
+- Merci.</i>
+
+131
+00:16:22,745 --> 00:16:25,744
+And you are very handsome.
+
+132
+00:16:25,994 --> 00:16:32,451
+Well, I don't usually intrude like this,
+but I... I believe we had a mutual friend.
+
+133
+00:16:32,701 --> 00:16:35,908
+- Bill Fairbanks.
+- Fairbanks?
+
+134
+00:16:36,158 --> 00:16:37,658
+Yes.
+
+135
+00:16:37,908 --> 00:16:40,782
+I am told you were with him
+
+136
+00:16:41,032 --> 00:16:43,823
+when he was rather, er...
+rudely interrupted.
+
+137
+00:16:44,073 --> 00:16:45,989
+Ah, "mais oui" - Bill!
+
+138
+00:16:46,239 --> 00:16:49,155
+What a terrible night. I will never forget it.
+
+139
+00:16:49,405 --> 00:16:52,404
+- Did you see who shot him?
+- No, I was in his arms.
+
+140
+00:16:52,654 --> 00:16:56,445
+- My eyes were closed.
+- At least he died happy.
+
+141
+00:16:56,695 --> 00:16:59,694
+The bullet went through him.
+
+142
+00:16:59,944 --> 00:17:04,526
+- Through his back and ended up there?
+- No, no, through his neck.
+
+143
+00:17:04,776 --> 00:17:07,775
+I take it out of the wall
+before the police arrive.
+
+144
+00:17:08,025 --> 00:17:10,775
+And now it is my lucky charm.
+
+145
+00:17:11,025 --> 00:17:13,732
+I never dance without it.
+
+146
+00:17:13,982 --> 00:17:17,856
+I'm sure Bill would have loved that.
+
+147
+00:17:19,398 --> 00:17:22,022
+But let us forget the past.
+
+148
+00:17:22,272 --> 00:17:25,480
+Mm! I was hoping you'd say that.
+
+149
+00:17:25,729 --> 00:17:27,646
+Are you staying long in Beirut?
+
+150
+00:17:27,896 --> 00:17:31,520
+Oh, it depends.
+
+151
+00:17:48,766 --> 00:17:52,390
+Clumsy of me.
+
+152
+00:18:00,554 --> 00:18:05,511
+You really do have
+a magnificent abdomen.
+
+153
+00:18:13,968 --> 00:18:18,467
+Oh, my perfumes! No!
+
+154
+00:19:30,616 --> 00:19:33,948
+I've lost my charm!
+
+155
+00:19:34,198 --> 00:19:37,822
+Not from where "I'm" standing.
+
+156
+00:19:43,696 --> 00:19:44,987
+Taxi? Hotel, mister?
+
+157
+00:19:45,237 --> 00:19:49,486
+No. To the nearest pharmacy.
+
+158
+00:19:51,277 --> 00:19:53,152
+Dumdum bullets like this
+
+159
+00:19:53,402 --> 00:19:56,485
+flatten on impact
+for maximum wounding effect.
+
+160
+00:19:56,734 --> 00:19:59,609
+- Very nasty.
+- Yes, I'm sure it is.
+
+161
+00:19:59,859 --> 00:20:02,275
+But just tell me
+where it was made and by whom.
+
+162
+00:20:02,525 --> 00:20:05,357
+Well, fortunately it's all in one piece.
+
+163
+00:20:05,607 --> 00:20:07,898
+20.003 grams.
+
+164
+00:20:08,148 --> 00:20:11,523
+Which leads us to deduce
+it was fired from a 4.2 millimetre gun.
+
+165
+00:20:11,772 --> 00:20:14,647
+Colthorpe, there's no such thing
+as a 4.2 millimetre gun.
+
+166
+00:20:14,897 --> 00:20:19,729
+The fact that no recognised munitions
+manufacturer, military or civil,
+
+167
+00:20:19,979 --> 00:20:23,853
+produces such a bullet
+doesn't mean it doesn't exist, 007.
+
+168
+00:20:24,103 --> 00:20:28,185
+Q Branch have been making irregular
+calibres for most unusual purposes.
+
+169
+00:20:28,435 --> 00:20:34,017
+- And we don't put markings on them.
+- Making identification almost impossible.
+
+170
+00:20:34,267 --> 00:20:38,558
+You mean we can't trace it? You've
+no idea what it went through to get here.
+
+171
+00:20:38,808 --> 00:20:40,932
+I wouldn't go so far as to say that.
+
+172
+00:20:41,182 --> 00:20:44,515
+The workmanship is undemanding
+according to our standards.
+
+173
+00:20:44,764 --> 00:20:48,888
+Soft 23-carat gold with traces of... nickel.
+
+174
+00:20:49,138 --> 00:20:51,846
+Hardly ever used in Europe.
+Comes from India.
+
+175
+00:20:52,096 --> 00:20:54,762
+Far East?
+
+176
+00:20:55,012 --> 00:20:59,511
+- Why not India?
+- Nickel content obviously too low, 007.
+
+177
+00:20:59,761 --> 00:21:03,468
+- Lazar?
+- Lazar!
+
+178
+00:21:03,718 --> 00:21:06,343
+Hm. Imaginative.
+
+179
+00:21:06,593 --> 00:21:08,509
+Highly specialised.
+
+180
+00:21:08,759 --> 00:21:12,674
+Yes, I concur.
+
+181
+00:21:15,840 --> 00:21:19,589
+- Well, what the hell is Lazar?
+- Not what. Who. Portuguese.
+
+182
+00:21:19,839 --> 00:21:26,004
+- Lives in Macau.
+- Chap who made the bullet, 007.
+
+183
+00:21:50,124 --> 00:21:55,956
+I hate to interrupt your dinner,
+but does Senhor Lazar live here?
+
+184
+00:21:57,247 --> 00:22:00,663
+Lazar.
+
+185
+00:22:02,287 --> 00:22:06,786
+I was given this address. Does he...
+
+186
+00:22:07,036 --> 00:22:10,660
+Senhor Lazar?
+
+187
+00:22:10,827 --> 00:22:13,451
+My name's Bond. James Bond.
+
+188
+00:22:13,701 --> 00:22:16,409
+An unexpected honour, Mr Bond.
+
+189
+00:22:16,659 --> 00:22:21,116
+Your reputation precedes you.
+This way, please.
+
+190
+00:22:24,948 --> 00:22:29,322
+It would be my proudest moment if
+I could make something for you, Mr Bond.
+
+191
+00:22:29,572 --> 00:22:31,280
+A rifle, perhaps.
+
+192
+00:22:31,530 --> 00:22:35,113
+Now, here we have
+an interesting problem.
+
+193
+00:22:35,363 --> 00:22:38,529
+A custom-built model for a client
+
+194
+00:22:38,778 --> 00:22:41,694
+who recently lost two fingers. Please.
+
+195
+00:22:41,944 --> 00:22:45,319
+- Also lost his trigger.
+- It is housed in the butt.
+
+196
+00:22:45,568 --> 00:22:49,193
+Squeeze it.
+
+197
+00:22:58,774 --> 00:23:01,023
+The sights are a bit off.
+
+198
+00:23:01,273 --> 00:23:05,522
+You have five fingers. The butt
+is balanced for the pressure of three.
+
+199
+00:23:05,772 --> 00:23:09,021
+That is why you were one inch too low.
+
+200
+00:23:09,271 --> 00:23:13,312
+Here you will find only
+craftsmanship and quality.
+
+201
+00:23:13,562 --> 00:23:15,686
+Mass production,
+
+202
+00:23:15,936 --> 00:23:19,019
+your Walther PPK, for instance,
+I leave to others.
+
+203
+00:23:19,269 --> 00:23:20,768
+What about ammunition?
+
+204
+00:23:21,018 --> 00:23:24,476
+Designed to individual requirements,
+whatever they may be.
+
+205
+00:23:24,726 --> 00:23:27,225
+In gold... if I wanted?
+
+206
+00:23:27,475 --> 00:23:31,141
+- I have already done that for a client.
+- I know you have.
+
+207
+00:23:31,391 --> 00:23:35,015
+Francisco Scaramanga.
+
+208
+00:23:35,473 --> 00:23:40,180
+My relationship with a client, Mr Bond,
+is strictly confidential.
+
+209
+00:23:40,430 --> 00:23:42,555
+Like a doctor. A priest with a penitent.
+
+210
+00:23:42,805 --> 00:23:45,137
+Oh, of course!
+
+211
+00:23:45,387 --> 00:23:47,887
+Yet you make guns
+for fingerless hoodlums,
+
+212
+00:23:48,137 --> 00:23:49,845
+bullets for assassins.
+
+213
+00:23:50,094 --> 00:23:54,843
+Mr Bond, bullets do not kill.
+It is the finger that pulls the trigger.
+
+214
+00:23:55,093 --> 00:23:58,509
+Exactly!
+
+215
+00:23:58,551 --> 00:24:02,883
+I'm now aiming precisely at your groin.
+
+216
+00:24:03,133 --> 00:24:05,632
+So speak or for ever hold your peace.
+
+217
+00:24:05,882 --> 00:24:07,382
+I have never seen him.
+
+218
+00:24:07,632 --> 00:24:11,839
+On a cost-per-bullet basis,
+he must be your best customer.
+
+219
+00:24:12,089 --> 00:24:15,713
+True, but unfortunately
+he only fires them occasionally.
+
+220
+00:24:15,963 --> 00:24:19,629
+When was the, er... last shipment?
+
+221
+00:24:19,879 --> 00:24:23,503
+This is impossible. I can't...
+
+222
+00:24:24,586 --> 00:24:27,002
+You're quite right.
+
+223
+00:24:27,252 --> 00:24:30,876
+An inch too low.
+
+224
+00:24:34,250 --> 00:24:37,916
+I have just completed an order
+for immediate delivery.
+
+225
+00:24:38,166 --> 00:24:40,457
+- Who collects them?
+- I swear, I do not know.
+
+226
+00:24:40,707 --> 00:24:46,289
+My instructions are to go to the casino.
+I am paid and they vanish.
+
+227
+00:25:38,526 --> 00:25:42,401
+<i>In a few moments we will be
+in Hong Kong harbour,</i>
+
+228
+00:25:42,650 --> 00:25:44,650
+<i>one of the busiest ports in the world.</i>
+
+229
+00:25:44,900 --> 00:25:48,066
+<i>May I remind you to have
+passports and landing cards ready,</i>
+
+230
+00:25:48,316 --> 00:25:52,356
+<i>in order to avoid unnecessary delay.</i>
+
+231
+00:26:00,355 --> 00:26:03,979
+<i>On your left is the wreckage
+of the famous liner Queen Elizabeth,</i>
+
+232
+00:26:04,229 --> 00:26:09,227
+<i>which sank here under
+mysterious circumstances in 1971.</i>
+
+233
+00:26:09,477 --> 00:26:16,142
+<i>Ahead, you can now see Kowloon,
+and on your right, Hong Kong Island.</i>
+
+234
+00:26:36,179 --> 00:26:39,803
+Taxi!
+
+235
+00:26:41,553 --> 00:26:45,177
+Follow that Rolls.
+
+236
+00:26:48,260 --> 00:26:51,759
+Madam, would you be good enough
+to move this inverted bedpan?
+
+237
+00:26:52,009 --> 00:26:56,549
+Sorry I'm late, James, but your signal
+from Macau just reached the office.
+
+238
+00:26:56,799 --> 00:26:58,799
+You're a great help, Goodnight.
+
+239
+00:26:59,049 --> 00:27:04,381
+Now, get on to Licence Bureau
+and trace that car. AU 603, a green Rolls.
+
+240
+00:27:04,631 --> 00:27:06,380
+A green Rolls?
+
+241
+00:27:06,630 --> 00:27:08,963
+A green Rolls-Royce.
+
+242
+00:27:09,213 --> 00:27:13,337
+There can't be that many in Hong Kong.
+
+243
+00:27:15,586 --> 00:27:19,794
+Courtesy cars. All green Rolls-Royces
+belong to the Peninsula Hotel.
+
+244
+00:27:20,044 --> 00:27:24,417
+You see what a two-year posting
+to Staff Intelligence does for a girl?
+
+245
+00:27:24,667 --> 00:27:28,000
+James, it's wonderful to see you.
+
+246
+00:27:28,250 --> 00:27:33,124
+- Where are you going?
+- I need some information.
+
+247
+00:27:40,039 --> 00:27:42,663
+The subject under surveillance
+is in room 602.
+
+248
+00:27:42,913 --> 00:27:46,620
+I'll buy you dinner, but first
+I have official business to attend to.
+
+249
+00:27:46,870 --> 00:27:49,495
+Yes, I saw the "official business".
+
+250
+00:27:49,745 --> 00:27:52,952
+Goodnight, would I do that to you
+after two years?
+
+251
+00:27:53,202 --> 00:27:56,785
+Yes, you bloody well would!
+
+252
+00:28:00,575 --> 00:28:02,492
+- Please.
+- I can manage.
+
+253
+00:28:02,741 --> 00:28:06,782
+You could open a door for me, though.
+
+254
+00:28:11,656 --> 00:28:13,989
+- I open champagne?
+- No, it's a surprise.
+
+255
+00:28:14,239 --> 00:28:17,863
+Oh! A surprise!
+
+256
+00:29:16,724 --> 00:29:20,348
+Good afternoon.
+
+257
+00:29:27,638 --> 00:29:31,928
+- A water pistol?
+- Pass me that robe.
+
+258
+00:29:39,760 --> 00:29:43,384
+Turn around.
+
+259
+00:29:43,884 --> 00:29:48,049
+Do you always take a shower
+with a pistol?
+
+260
+00:29:51,215 --> 00:29:55,089
+Put your hands up and get out of here!
+
+261
+00:29:59,546 --> 00:30:04,629
+- Keep on walking.
+- But you haven't answered my question.
+
+262
+00:30:14,210 --> 00:30:16,584
+<i>Reception. Can I help you?</i>
+
+263
+00:30:16,834 --> 00:30:19,958
+This is Miss Anders. Room 602.
+
+264
+00:30:20,208 --> 00:30:22,374
+Put those down!
+
+265
+00:30:22,624 --> 00:30:25,498
+I see why these packets carry
+a government warning.
+
+266
+00:30:25,748 --> 00:30:28,873
+Give me that!
+
+267
+00:30:29,123 --> 00:30:33,205
+They certainly can damage your health.
+
+268
+00:30:35,913 --> 00:30:39,412
+- Ow! You're hurting my arm.
+- Then tell me where those bullets go.
+
+269
+00:30:39,662 --> 00:30:42,828
+- No, I can't.
+- Try!
+
+270
+00:30:43,078 --> 00:30:46,743
+- He'll kill me!
+- Who?
+
+271
+00:30:47,785 --> 00:30:50,617
+I can't tell you!
+
+272
+00:30:50,867 --> 00:30:54,283
+Scaramanga.
+
+273
+00:30:56,199 --> 00:30:59,990
+You see what you can do when you try?
+
+274
+00:31:01,365 --> 00:31:04,072
+You work for him?
+
+275
+00:31:04,322 --> 00:31:07,947
+I don't work for him.
+
+276
+00:31:08,821 --> 00:31:10,529
+He's, um... I'm his...
+
+277
+00:31:10,779 --> 00:31:13,570
+Oh. So he's a lover too.
+
+278
+00:31:13,820 --> 00:31:15,945
+Only before he kills.
+
+279
+00:31:16,195 --> 00:31:20,069
+Bullfighters do the same thing.
+Claims it improves the eye.
+
+280
+00:31:20,319 --> 00:31:23,276
+His eye is on me. Where can I find him?
+
+281
+00:31:23,526 --> 00:31:25,609
+I don't know.
+
+282
+00:31:25,859 --> 00:31:27,400
+I don't know.
+
+283
+00:31:27,650 --> 00:31:28,733
+I said where?!
+
+284
+00:31:28,983 --> 00:31:31,191
+I don't know!
+He doesn't tell me everything.
+
+285
+00:31:31,441 --> 00:31:35,148
+I know he has a date
+at the Bottoms Up Club tonight.
+
+286
+00:31:35,398 --> 00:31:37,481
+How will I recognise him?
+
+287
+00:31:37,731 --> 00:31:40,689
+- Tall, slim and dark.
+- So is my aunt.
+
+288
+00:31:40,939 --> 00:31:44,979
+- Anything distinctive about him?
+- Yes, but how can I...
+
+289
+00:31:45,229 --> 00:31:47,645
+He is not like other people. He has three...
+
+290
+00:31:47,895 --> 00:31:49,395
+Oh.
+
+291
+00:31:49,645 --> 00:31:55,018
+Fascinating anatomical titbit, but the most
+useless piece of information I ever heard.
+
+292
+00:31:55,268 --> 00:32:01,559
+Unless the Bottoms Up is a strip club
+and Scaramanga is performing there.
+
+293
+00:32:02,058 --> 00:32:05,266
+You'll have to do better.
+
+294
+00:32:06,016 --> 00:32:09,682
+He usually wears
+a white linen suit, black tie,
+
+295
+00:32:09,931 --> 00:32:13,056
+and jewellery, all gold.
+
+296
+00:32:13,306 --> 00:32:15,055
+You're improving.
+
+297
+00:32:15,305 --> 00:32:19,346
+I don't want you to twist my arm again.
+
+298
+00:32:19,388 --> 00:32:21,429
+I don't want to either.
+
+299
+00:32:21,679 --> 00:32:24,303
+So I'll tell you what you're going to do.
+
+300
+00:32:24,553 --> 00:32:28,052
+You're going to take the bullets
+to Mr Scaramanga,
+
+301
+00:32:28,302 --> 00:32:33,717
+because, if he doesn't get them,
+he may not show up at the Bottoms Up.
+
+302
+00:32:34,009 --> 00:32:36,883
+And I want him there.
+
+303
+00:32:37,133 --> 00:32:40,299
+- Why should you trust me?
+- I don't.
+
+304
+00:32:40,549 --> 00:32:45,798
+But neither will Mr Scaramanga, if he
+hears about this interesting conversation.
+
+305
+00:32:46,048 --> 00:32:51,796
+Who knows? He may even use
+one of those little golden bullets on you.
+
+306
+00:32:52,213 --> 00:32:54,129
+And that would be a pity,
+
+307
+00:32:54,379 --> 00:32:58,253
+because they're "very" expensive.
+
+308
+00:32:58,378 --> 00:33:01,169
+I'll take them to him.
+
+309
+00:33:01,419 --> 00:33:05,043
+Let's drink to that.
+
+310
+00:33:07,043 --> 00:33:10,667
+Bottoms up!
+
+311
+00:33:18,207 --> 00:33:22,622
+- Soda or ginger ale?
+- Ginger ale, please.
+
+312
+00:35:45,796 --> 00:35:48,170
+Police! Drop it!
+
+313
+00:35:48,420 --> 00:35:50,545
+Drop it!
+
+314
+00:35:50,795 --> 00:35:54,419
+You're under arrest.
+
+315
+00:35:58,959 --> 00:36:02,583
+Move away from there!
+
+316
+00:36:05,666 --> 00:36:09,915
+If you take the trouble to examine
+that gun, you'll notice it hasn't been fired.
+
+317
+00:36:10,165 --> 00:36:15,080
+Anything you have to say,
+you can say at the station.
+
+318
+00:36:20,496 --> 00:36:24,370
+I'm charging him under Section 473.
+
+319
+00:36:36,367 --> 00:36:40,907
+- I didn't see your identity card.
+- You will.
+
+320
+00:36:56,654 --> 00:36:57,737
+Here.
+
+321
+00:36:57,987 --> 00:37:03,069
+- I thought we were going to the station.
+- Kowloon side.
+
+322
+00:38:42,836 --> 00:38:45,710
+Kowloon's over there!
+
+323
+00:38:45,960 --> 00:38:50,501
+We're going to the New Territories!
+
+324
+00:39:32,532 --> 00:39:37,864
+<i>Welcome aboard, Commander Bond.</i>
+
+325
+00:39:39,697 --> 00:39:43,321
+<i>This way, sir.</i>
+
+326
+00:39:46,196 --> 00:39:49,820
+<i>Down the hatchway, please.</i>
+
+327
+00:39:53,861 --> 00:39:56,485
+Good evening, sir.
+
+328
+00:39:56,735 --> 00:40:00,359
+Would you follow me, please?
+
+329
+00:40:05,899 --> 00:40:07,857
+It certainly gives you a new slant.
+
+330
+00:40:08,107 --> 00:40:11,481
+What with the Chinese on one side
+and the US fleet on the other,
+
+331
+00:40:11,731 --> 00:40:15,564
+down here's the only place
+in Hong Kong you can't be bugged.
+
+332
+00:40:15,814 --> 00:40:20,979
+And with current real-estate prices
+in Hong Kong, quite practical. Any luck?
+
+333
+00:40:21,229 --> 00:40:24,853
+A Chinese fighter we salvaged.
+
+334
+00:40:31,768 --> 00:40:33,809
+Good evening, 007.
+
+335
+00:40:34,059 --> 00:40:37,808
+Glad to see you're still with us.
+
+336
+00:40:43,598 --> 00:40:47,847
+In future, Commander Bond, if you must
+tour the world of Suzie Wong by night,
+
+337
+00:40:48,097 --> 00:40:51,305
+- inform our man here. Lieutenant Hip.
+- Sorry, Commander.
+
+338
+00:40:51,555 --> 00:40:56,595
+I had to get you away from the police,
+but didn't know how much you knew.
+
+339
+00:40:56,845 --> 00:40:58,137
+Nothing.
+
+340
+00:40:58,387 --> 00:41:02,969
+But I should report, sir, that Scaramanga
+does not have a contract on me.
+
+341
+00:41:03,219 --> 00:41:07,343
+He couldn't have missed me tonight.
+Instead he hit a chap at a club.
+
+342
+00:41:07,593 --> 00:41:12,800
+- I got a shock when I saw who it was.
+- I should think you did.
+
+343
+00:41:13,050 --> 00:41:16,132
+Our missing solar-energy expert: Gibson.
+
+344
+00:41:16,382 --> 00:41:21,006
+Yes. Gibson. He was prepared
+to come back under certain conditions.
+
+345
+00:41:21,256 --> 00:41:23,630
+That's why I'm here
+with Professor Frazier.
+
+346
+00:41:23,880 --> 00:41:27,463
+Lieutenant Hip
+was making a preliminary contact.
+
+347
+00:41:27,713 --> 00:41:33,170
+I almost wish that Scaramanga
+had a contract on you.
+
+348
+00:41:33,253 --> 00:41:34,919
+Was Gibson cooperative?
+
+349
+00:41:35,169 --> 00:41:39,668
+He wanted to bargain for immunity.
+Suggested another meeting in Bangkok.
+
+350
+00:41:39,918 --> 00:41:43,417
+- Why Bangkok?
+- I think he worked there for Hai Fat.
+
+351
+00:41:43,667 --> 00:41:45,167
+That name's come up before.
+
+352
+00:41:45,417 --> 00:41:48,333
+A multimillionaire.
+Head of Hai Fat Enterprises.
+
+353
+00:41:48,583 --> 00:41:50,541
+All legitimate, as far as we know.
+
+354
+00:41:50,790 --> 00:41:53,456
+What did Gibson
+propose bargaining with?
+
+355
+00:41:53,706 --> 00:41:56,706
+A solex. Claimed it was 95% efficient.
+
+356
+00:41:56,956 --> 00:42:00,955
+If he developed a solar cell that efficient,
+he solved the energy crisis.
+
+357
+00:42:01,205 --> 00:42:02,913
+So you've told me.
+
+358
+00:42:03,162 --> 00:42:06,578
+Coal and oil will soon be depleted.
+Uranium's too dangerous.
+
+359
+00:42:06,828 --> 00:42:10,452
+Geothermal and tidal control
+too expensive. I know all that.
+
+360
+00:42:10,702 --> 00:42:13,993
+- Where's the solex now?
+- Solex "agitator", sir.
+
+361
+00:42:14,243 --> 00:42:18,159
+"The" essential unit to convert
+radiation from the sun into electricity
+
+362
+00:42:18,409 --> 00:42:21,116
+on an industrial basis. It's only that size.
+
+363
+00:42:21,366 --> 00:42:25,532
+It won't take long to check out Gibson's
+efficiency claim. This is exciting!
+
+364
+00:42:25,782 --> 00:42:28,615
+May I see it, Lieutenant?
+
+365
+00:42:28,865 --> 00:42:32,947
+He showed it to me at the bar
+and replaced it in his pocket.
+
+366
+00:42:33,197 --> 00:42:35,946
+And after he was shot,
+
+367
+00:42:36,196 --> 00:42:38,695
+it wasn't there.
+
+368
+00:42:38,945 --> 00:42:41,736
+I looked.
+
+369
+00:42:41,986 --> 00:42:44,152
+Gentlemen, I congratulate you.
+
+370
+00:42:44,402 --> 00:42:47,027
+Instead of getting a perfected solex,
+
+371
+00:42:47,277 --> 00:42:50,484
+we're left with a useless corpse
+and no leads.
+
+372
+00:42:50,734 --> 00:42:53,234
+One lead, sir.
+
+373
+00:42:53,484 --> 00:42:56,649
+Assuming Gibson
+was killed by Scaramanga,
+
+374
+00:42:56,899 --> 00:42:59,899
+whoever hired him
+could afford a million dollars.
+
+375
+00:43:00,149 --> 00:43:03,439
+- Are you suggesting Hai Fat?
+- He could afford it.
+
+376
+00:43:03,689 --> 00:43:05,772
+Out of petty cash.
+
+377
+00:43:06,022 --> 00:43:08,147
+A thought has occurred to me.
+
+378
+00:43:08,397 --> 00:43:11,229
+If Hai Fat hired Scaramanga,
+
+379
+00:43:11,479 --> 00:43:14,728
+- it's unlikely that he met him personally.
+- Why?
+
+380
+00:43:14,978 --> 00:43:18,602
+If anything had gone wrong,
+there's nothing to connect the two.
+
+381
+00:43:18,852 --> 00:43:21,727
+That gives me an idea
+as to how to approach him.
+
+382
+00:43:21,977 --> 00:43:26,684
+Q, I'll... need this.
+
+383
+00:43:27,850 --> 00:43:32,224
+- Really, 007!
+- Oh, I admit it's a little kinky.
+
+384
+00:43:32,474 --> 00:43:36,098
+You'll take Miss Goodnight with you.
+
+385
+00:43:36,348 --> 00:43:39,097
+- Goodnight, sir?
+- After tonight's debacle,
+
+386
+00:43:39,347 --> 00:43:44,555
+an efficient liaison officer
+wouldn't come amiss.
+
+387
+00:43:44,888 --> 00:43:46,596
+Thank you, sir.
+
+388
+00:43:46,846 --> 00:43:48,554
+You won't get near Hai Fat.
+
+389
+00:43:48,803 --> 00:43:51,844
+I have relatives in Bangkok.
+I have often passed his place.
+
+390
+00:43:52,094 --> 00:43:56,718
+He lives in a house on a mountain
+surrounded by guards.
+
+391
+00:44:39,541 --> 00:44:42,582
+No way!
+The place is crawling with guards.
+
+392
+00:44:42,832 --> 00:44:46,456
+Have a look.
+
+393
+00:44:50,872 --> 00:44:53,371
+Hai Fat takes his privacy very seriously.
+
+394
+00:44:53,621 --> 00:44:57,037
+I'm sure he'll see me.
+
+395
+00:45:19,823 --> 00:45:22,614
+Good morning. How's the water?
+
+396
+00:45:22,864 --> 00:45:24,780
+Why don't you come in and find out?
+
+397
+00:45:25,030 --> 00:45:28,738
+- Sounds very tempting, Miss, er...
+- Chew Mee.
+
+398
+00:45:28,987 --> 00:45:30,945
+Really?
+
+399
+00:45:31,195 --> 00:45:34,444
+There's only one problem.
+I have no swimming trunks.
+
+400
+00:45:34,694 --> 00:45:37,569
+Neither have I.
+
+401
+00:45:37,819 --> 00:45:41,235
+What are you doing here?
+
+402
+00:45:42,734 --> 00:45:46,275
+Get out!
+
+403
+00:45:46,525 --> 00:45:47,816
+Immediately.
+
+404
+00:45:48,066 --> 00:45:51,357
+I will have you...
+
+405
+00:45:59,105 --> 00:46:03,354
+Please forgive me, Mr Scaramanga.
+
+406
+00:46:04,979 --> 00:46:07,436
+Excuse me, Chew Mee.
+
+407
+00:46:07,686 --> 00:46:11,102
+Bye-ee.
+
+408
+00:46:11,227 --> 00:46:14,476
+You understand my surprise.
+
+409
+00:46:14,726 --> 00:46:18,350
+I thought it was understood.
+
+410
+00:46:18,767 --> 00:46:21,766
+We were never to meet, Mr Scaramanga.
+
+411
+00:46:22,016 --> 00:46:24,349
+I always thought
+your abnormality was a myth.
+
+412
+00:46:24,599 --> 00:46:29,098
+Some cults consider it a sign of
+invulnerability and great sexual prowess.
+
+413
+00:46:29,348 --> 00:46:31,972
+I've learned to live with it.
+
+414
+00:46:32,222 --> 00:46:34,138
+Why are you here?
+
+415
+00:46:34,388 --> 00:46:36,096
+Bond. James Bond.
+
+416
+00:46:36,346 --> 00:46:39,554
+- Do I know the gentleman?
+- Well, he knows you.
+
+417
+00:46:39,804 --> 00:46:44,011
+Without being immodest, there are few
+people in this part of the world who don't.
+
+418
+00:46:44,261 --> 00:46:47,343
+And there are very few people
+who haven't heard of Bond.
+
+419
+00:46:47,593 --> 00:46:51,051
+British Secret Service,
+007, licensed to kill.
+
+420
+00:46:51,301 --> 00:46:54,133
+He's good, even by my standards.
+
+421
+00:46:54,383 --> 00:46:57,674
+- He was near the Bottoms Up Club.
+- A coincidence.
+
+422
+00:46:57,924 --> 00:46:59,965
+I don't believe in them.
+
+423
+00:47:00,215 --> 00:47:02,590
+The man's a menace.
+He knows something.
+
+424
+00:47:02,840 --> 00:47:06,589
+Are you suggesting I invest
+another million to remove him?
+
+425
+00:47:06,839 --> 00:47:08,630
+That's up to you.
+
+426
+00:47:08,880 --> 00:47:10,963
+I will give it some thought.
+
+427
+00:47:11,213 --> 00:47:15,962
+Since you have chosen to meet me,
+perhaps you will dine here tonight.
+
+428
+00:47:16,211 --> 00:47:19,086
+- I'll be delighted.
+- Nine o'clock, then.
+
+429
+00:47:19,336 --> 00:47:24,751
+Ling Po, see this gentleman out.
+
+430
+00:47:36,457 --> 00:47:38,414
+Don't tell me you saw him?!
+
+431
+00:47:38,664 --> 00:47:40,830
+He even invited me to dinner.
+
+432
+00:47:41,080 --> 00:47:45,246
+He must have found me quite titillating.
+
+433
+00:48:01,784 --> 00:48:06,991
+In due time, I shall be laid to rest
+here in my mausoleum
+
+434
+00:48:07,241 --> 00:48:10,032
+after a useful, happy, long life.
+
+435
+00:48:10,282 --> 00:48:15,947
+And I do not intend
+to allow Mr Bond to shorten it.
+
+436
+00:48:22,112 --> 00:48:24,028
+I'll get the car.
+
+437
+00:48:24,278 --> 00:48:28,985
+- You know I'd rather be dining with you.
+- I understand, James. Please hurry back.
+
+438
+00:48:29,235 --> 00:48:32,610
+I'll ring as soon as I do.
+A midnight snack might be just the thing.
+
+439
+00:48:32,860 --> 00:48:35,484
+I'll keep the wine properly chilled.
+
+440
+00:48:35,734 --> 00:48:39,525
+And everything else warm, I trust.
+
+441
+00:48:45,856 --> 00:48:47,564
+Bye-bye!
+
+442
+00:48:47,814 --> 00:48:51,438
+And everything else warm?!
+
+443
+00:48:52,313 --> 00:48:55,437
+I hope you don't mind
+giving my nieces a lift.
+
+444
+00:48:55,687 --> 00:48:58,853
+Good evening.
+
+445
+00:49:04,685 --> 00:49:08,309
+Hai Fat's is on the way.
+
+446
+00:49:13,600 --> 00:49:17,474
+I'll drop the girls, come back and wait.
+
+447
+00:49:17,849 --> 00:49:21,473
+Bye-bye. Bye-bye.
+
+448
+00:49:30,429 --> 00:49:35,011
+The name's Scaramanga.
+Mr Fat is expecting me.
+
+449
+00:49:55,881 --> 00:49:59,505
+Grislyland.
+
+450
+00:50:22,541 --> 00:50:25,957
+A pleasant evening.
+
+451
+00:51:12,821 --> 00:51:16,445
+Get him! Come on!
+
+452
+00:51:25,443 --> 00:51:29,067
+Stop it!
+
+453
+00:51:29,150 --> 00:51:32,358
+Not here.
+
+454
+00:51:32,899 --> 00:51:35,648
+This is my home.
+
+455
+00:51:35,898 --> 00:51:39,647
+Take Mr Bond to school.
+
+456
+00:51:53,103 --> 00:51:56,518
+Heaven.
+
+457
+00:51:57,685 --> 00:52:02,017
+Definitely heaven.
+
+458
+00:53:56,906 --> 00:54:00,655
+Tashman.
+
+459
+00:55:22,677 --> 00:55:26,093
+Chula.
+
+460
+00:55:27,134 --> 00:55:32,133
+Chula! Chula! Chula!
+
+461
+00:55:52,586 --> 00:55:57,043
+Chula! Chula! Chula!
+
+462
+00:56:45,240 --> 00:56:46,531
+Are you all right?
+
+463
+00:56:46,781 --> 00:56:51,280
+- How did you find me?
+- Hai Fat owns this place.
+
+464
+00:56:58,029 --> 00:57:01,444
+Stand back, girls.
+
+465
+00:57:14,275 --> 00:57:16,191
+Forgot to tell you!
+
+466
+00:57:16,441 --> 00:57:21,106
+Their father runs a karate school.
+
+467
+00:58:19,259 --> 00:58:22,258
+Hang on!
+
+468
+00:58:47,460 --> 00:58:51,918
+What you might call
+a Mexican screw-up, gentlemen!
+
+469
+00:59:27,742 --> 00:59:29,867
+Pretty lady, 100 bahts.
+
+470
+00:59:30,117 --> 00:59:31,908
+- No, no.
+- 80 bahts.
+
+471
+00:59:32,158 --> 00:59:33,241
+50 bahts.
+
+472
+00:59:33,491 --> 00:59:37,531
+Pretty lady, real elephant. 60 bahts.
+
+473
+00:59:37,781 --> 00:59:41,406
+Missy, yesa!
+
+474
+00:59:51,320 --> 00:59:55,402
+Elephant. Bargain, mister. 100 bahts.
+
+475
+01:00:00,609 --> 01:00:03,192
+Elephant! Real elephant.
+
+476
+01:00:03,442 --> 01:00:06,358
+50 bahts.
+
+477
+01:00:09,107 --> 01:00:12,356
+You are very handsome man. 40 bahts.
+
+478
+01:00:12,606 --> 01:00:14,689
+For you, mister, 20 bahts.
+
+479
+01:00:14,939 --> 01:00:20,771
+Sonny, I'll give you 20,000 bahts
+if you can make this heap go any faster.
+
+480
+01:00:21,021 --> 01:00:24,312
+20,000 bahts!
+
+481
+01:00:25,770 --> 01:00:32,310
+- I'm afraid I'll have to owe you.
+- Bloody tourist! 20,000 bahts!
+
+482
+01:00:47,973 --> 01:00:51,222
+Goddamn little brown water hog!
+
+483
+01:00:51,472 --> 01:00:53,721
+Oh, what's the matter, JW, huh?
+
+484
+01:00:53,971 --> 01:01:00,511
+You just try that in "my" bayou, boy!
+I'd haul your ass!
+
+485
+01:01:18,507 --> 01:01:23,672
+Oh, look, JW. I just gotta have me
+one of those cute little elephants.
+
+486
+01:01:23,922 --> 01:01:25,755
+Elephants!
+
+487
+01:01:26,005 --> 01:01:29,629
+We're Democrats, Maybelle.
+
+488
+01:01:32,420 --> 01:01:36,461
+If you got your little pointy heads
+out of them pajamas,
+
+489
+01:01:36,711 --> 01:01:40,335
+you wouldn't be late for work.
+
+490
+01:02:08,037 --> 01:02:10,036
+I knew it!
+
+491
+01:02:10,286 --> 01:02:18,117
+You pointy-heads has no more idea
+of traffic control than a gooney bird!
+
+492
+01:02:24,741 --> 01:02:30,489
+Get your cotton-picking schnoz
+out of my pants. Hear now?
+
+493
+01:02:49,485 --> 01:02:54,317
+Boy, you is ugly.
+
+494
+01:02:56,566 --> 01:02:59,149
+JW?
+
+495
+01:02:59,399 --> 01:03:02,815
+Where are you?
+
+496
+01:03:30,850 --> 01:03:35,640
+What do they teach in that school?
+Ballet dancing?
+
+497
+01:03:36,848 --> 01:03:41,181
+I find nothing remotely amusing
+about Mr Bond's escape.
+
+498
+01:03:41,431 --> 01:03:42,930
+You underestimated him.
+
+499
+01:03:43,180 --> 01:03:47,179
+Even my influence doesn't extend
+into the British Secret Service.
+
+500
+01:03:47,429 --> 01:03:49,179
+I shall lie low too.
+
+501
+01:03:49,429 --> 01:03:53,136
+I won't jeopardise a project
+in which I've invested half my fortune,
+
+502
+01:03:53,386 --> 01:03:55,302
+when it's ready to yield billions.
+
+503
+01:03:55,552 --> 01:03:59,551
+- Where will you hide out?
+- That does not concern you.
+
+504
+01:03:59,801 --> 01:04:02,259
+Take this.
+
+505
+01:04:02,509 --> 01:04:07,424
+Return it to the plant and
+don't leave there without my permission.
+
+506
+01:04:07,674 --> 01:04:09,799
+May I remind you that you work for me.
+
+507
+01:04:10,049 --> 01:04:14,631
+I took you on as a junior partner to be an
+occasional convenience. Nothing more.
+
+508
+01:04:14,881 --> 01:04:18,422
+I did not hire you to interfere in my affairs.
+
+509
+01:04:18,672 --> 01:04:23,795
+- Is that clearly understood?
+- Oh, yes, very clearly.
+
+510
+01:04:24,503 --> 01:04:28,544
+I now regret having even considered
+employing your services,
+
+511
+01:04:28,794 --> 01:04:30,794
+but that is beside the point.
+
+512
+01:04:31,044 --> 01:04:35,584
+Bond doesn't know you're in Bangkok.
+He's never seen you, but he knows me.
+
+513
+01:04:35,834 --> 01:04:37,917
+That's the problem.
+
+514
+01:04:38,167 --> 01:04:41,791
+That's no problem.
+
+515
+01:04:59,912 --> 01:05:02,994
+What happened?
+
+516
+01:05:03,244 --> 01:05:05,535
+Mr Fat has just resigned.
+
+517
+01:05:05,785 --> 01:05:09,576
+I'm the new chairman of the board.
+
+518
+01:05:09,826 --> 01:05:12,242
+He always did like that mausoleum.
+
+519
+01:05:12,492 --> 01:05:16,074
+Put him in it.
+
+520
+01:05:32,737 --> 01:05:35,153
+Sorry about that, darling. It was Hip.
+
+521
+01:05:35,403 --> 01:05:39,985
+Still no sign of Hai Fat. Every inquiry
+gets a polite Oriental brushoff.
+
+522
+01:05:40,235 --> 01:05:42,776
+With the compliments.
+
+523
+01:05:43,026 --> 01:05:45,484
+"Phuyuck"?
+
+524
+01:05:45,734 --> 01:05:49,358
+'74, sir.
+
+525
+01:05:53,149 --> 01:05:56,356
+- I approve.
+- You do?
+
+526
+01:05:56,606 --> 01:06:00,105
+Oh, not the wine. Your frock.
+
+527
+01:06:00,355 --> 01:06:03,854
+Tight in all the right places.
+Not too many buttons.
+
+528
+01:06:04,104 --> 01:06:06,812
+Standard uniform for Southeast Asia.
+
+529
+01:06:07,062 --> 01:06:09,770
+The buttons are down the back.
+
+530
+01:06:10,020 --> 01:06:14,019
+Designed by Q, no doubt.
+One of them's a suicide pill, I suppose.
+
+531
+01:06:14,268 --> 01:06:18,434
+No. But the bottom one has a homer in it.
+
+532
+01:06:18,684 --> 01:06:20,642
+How original.
+
+533
+01:06:20,892 --> 01:06:27,265
+<i>A toast.
+Per ora e per il momento che verrá.</i>
+
+534
+01:06:27,515 --> 01:06:29,806
+"To this moment,
+
+535
+01:06:30,056 --> 01:06:33,680
+and the moment yet to come. "
+
+536
+01:06:37,430 --> 01:06:42,262
+In our profession, I'm afraid, you never
+can count on that moment to come.
+
+537
+01:06:42,512 --> 01:06:46,469
+Who knows where you and I will be
+this time next year?
+
+538
+01:06:46,719 --> 01:06:49,885
+Opposite sides of the world, most likely.
+
+539
+01:06:50,135 --> 01:06:52,634
+That's too far apart.
+
+540
+01:06:52,884 --> 01:06:56,092
+Now, if Hip doesn't come up with a lead,
+
+541
+01:06:56,342 --> 01:07:01,007
+there's really nothing very much
+for us to do tonight.
+
+542
+01:07:03,590 --> 01:07:06,672
+Or is there?
+
+543
+01:07:06,922 --> 01:07:10,172
+Oh, darling, I'm tempted.
+
+544
+01:07:10,422 --> 01:07:13,754
+But killing a few hours
+as one of your passing fancies
+
+545
+01:07:14,004 --> 01:07:17,628
+isn't quite my scene.
+
+546
+01:07:55,036 --> 01:07:58,660
+Phuyuck!
+
+547
+01:08:09,907 --> 01:08:12,865
+Ah! Goodnight. What a pleasant surprise.
+
+548
+01:08:13,115 --> 01:08:16,947
+My hard-to-get act
+didn't last very long, did it?
+
+549
+01:08:17,197 --> 01:08:21,154
+I was trained
+to expect the unexpected, but...
+
+550
+01:08:21,404 --> 01:08:26,820
+they never prepared me
+for anything like you in a nightie.
+
+551
+01:08:40,650 --> 01:08:45,940
+James, I thought
+this would never happen.
+
+552
+01:08:51,730 --> 01:08:56,437
+- What made you change your mind?
+- I'm weak.
+
+553
+01:08:57,562 --> 01:09:01,186
+Don't move!
+
+554
+01:09:16,308 --> 01:09:21,015
+Miss Anders! I didn't recognise you
+with your clothes on.
+
+555
+01:09:21,265 --> 01:09:23,514
+I bribed a bellboy to let me in.
+
+556
+01:09:23,764 --> 01:09:25,680
+I've come to warn you,
+
+557
+01:09:25,930 --> 01:09:27,846
+you're in great danger.
+
+558
+01:09:28,096 --> 01:09:33,345
+I usually am. That's why I use
+the old three-pillow trick.
+
+559
+01:09:33,595 --> 01:09:36,969
+Please believe me.
+I'm risking my life to come here.
+
+560
+01:09:37,219 --> 01:09:40,552
+Well, your concern for my wellbeing
+is touching,
+
+561
+01:09:40,802 --> 01:09:42,885
+but puzzles me.
+
+562
+01:09:43,134 --> 01:09:46,842
+- Scaramanga is in Bangkok.
+- He was in Hong Kong, but not after me.
+
+563
+01:09:47,092 --> 01:09:50,799
+We've been through that routine.
+
+564
+01:09:52,007 --> 01:09:54,298
+He's a monster. I hate him.
+
+565
+01:09:54,548 --> 01:09:56,881
+Then leave him.
+
+566
+01:09:57,131 --> 01:10:00,214
+You don't walk out on Scaramanga.
+
+567
+01:10:00,464 --> 01:10:05,796
+- There's no place he wouldn't find me.
+- You need a good lawyer.
+
+568
+01:10:05,796 --> 01:10:07,920
+I need 007.
+
+569
+01:10:08,170 --> 01:10:12,711
+Who do you think sent that bullet
+to London with your number on it?
+
+570
+01:10:12,961 --> 01:10:16,585
+I did.
+
+571
+01:10:17,501 --> 01:10:22,875
+And it wasn't easy
+getting his fingerprint on the note.
+
+572
+01:10:23,916 --> 01:10:26,957
+Forgive me
+if I've been slow on the uptake.
+
+573
+01:10:27,207 --> 01:10:31,331
+Don't you see you're the only man
+in the world who can kill him?
+
+574
+01:10:31,581 --> 01:10:34,289
+Now, what gives you that idea?
+
+575
+01:10:34,539 --> 01:10:37,455
+The way Scaramanga speaks about you.
+
+576
+01:10:37,705 --> 01:10:42,453
+- Even has a likeness of you.
+- I'm flattered.
+
+577
+01:10:43,745 --> 01:10:47,577
+I want him dead.
+
+578
+01:10:48,452 --> 01:10:52,534
+Name your price. Anything, I'll pay it.
+
+579
+01:10:54,825 --> 01:10:58,450
+You can have me too, if you like.
+
+580
+01:10:58,450 --> 01:11:00,699
+I'm not unattractive.
+
+581
+01:11:00,949 --> 01:11:05,739
+At last you're starting to tell the truth.
+
+582
+01:11:08,489 --> 01:11:12,571
+I've dreamed about you setting me free.
+
+583
+01:11:16,695 --> 01:11:22,985
+I've been dreaming about a solex agitator.
+
+584
+01:11:27,068 --> 01:11:30,692
+Ever heard of one?
+
+585
+01:11:32,983 --> 01:11:36,607
+Perhaps you can have that too.
+
+586
+01:11:50,604 --> 01:11:54,769
+- No, my clothes are in there.
+- Get in.
+
+587
+01:11:55,019 --> 01:11:58,643
+- I'll kill that woman.
+- Later!
+
+588
+01:12:16,097 --> 01:12:19,721
+Charming.
+
+589
+01:12:36,051 --> 01:12:40,716
+It was an inspiration, sending that bullet.
+
+590
+01:13:21,331 --> 01:13:23,498
+You're late.
+
+591
+01:13:23,748 --> 01:13:27,372
+It was a double feature.
+
+592
+01:13:28,871 --> 01:13:31,287
+What are you doing?
+
+593
+01:13:31,537 --> 01:13:35,328
+Putting my jewellery away.
+
+594
+01:13:49,866 --> 01:13:51,782
+You can come out now.
+
+595
+01:13:52,032 --> 01:13:54,698
+- What time is it?
+- Two-ish.
+
+596
+01:13:54,948 --> 01:13:58,364
+Two? You mean
+I've been in here for two hours?
+
+597
+01:13:58,614 --> 01:14:00,864
+All in the line of duty.
+
+598
+01:14:01,113 --> 01:14:03,904
+Duty! I'm resigning in the morning!
+
+599
+01:14:04,154 --> 01:14:07,529
+Goodnight, don't let us down.
+The Service needs women like you.
+
+600
+01:14:07,779 --> 01:14:11,611
+Well, obviously you don't!
+
+601
+01:14:12,319 --> 01:14:14,277
+Forgive me, darling.
+
+602
+01:14:14,527 --> 01:14:16,651
+Your turn will come, I promise.
+
+603
+01:14:16,901 --> 01:14:18,942
+As soon as she brings me that solex.
+
+604
+01:14:19,192 --> 01:14:24,233
+- For killing Scaramanga?
+- If she gets me the solex agitator first.
+
+605
+01:14:24,483 --> 01:14:26,357
+First?
+
+606
+01:14:26,607 --> 01:14:30,856
+James, you must be good.
+
+607
+01:14:31,981 --> 01:14:37,980
+Oh. We'll find out about that
+the next time I meet her.
+
+608
+01:14:38,604 --> 01:14:42,229
+She's making the arrangements.
+
+609
+01:15:21,344 --> 01:15:24,843
+Sorry I'm late.
+Bangkok traffic's worse than Piccadilly.
+
+610
+01:15:25,093 --> 01:15:27,343
+He's made contact.
+
+611
+01:15:27,592 --> 01:15:31,175
+- How's the charm boy doing?
+- Need you ask?
+
+612
+01:15:31,425 --> 01:15:34,674
+Meet you outside.
+
+613
+01:15:36,799 --> 01:15:40,423
+Did you bring it?
+
+614
+01:16:07,749 --> 01:16:09,832
+Darling, I left it in your handbag.
+
+615
+01:16:10,082 --> 01:16:13,915
+It must be in here somewhere, dear.
+I saw the man in the shop give it to you.
+
+616
+01:16:14,165 --> 01:16:16,789
+Without the ticket, we can't get a receipt.
+
+617
+01:16:17,039 --> 01:16:20,246
+You won't find it in there, Mr Bond.
+I looked before you came.
+
+618
+01:16:20,496 --> 01:16:24,829
+I wouldn't do that either. Look behind you.
+
+619
+01:16:25,037 --> 01:16:28,244
+Lower.
+
+620
+01:16:29,286 --> 01:16:34,701
+A gun in a bag of peanuts. How original.
+What will they think of next?
+
+621
+01:16:36,201 --> 01:16:39,575
+My name is Scaramanga.
+Francisco Scaramanga.
+
+622
+01:16:39,825 --> 01:16:43,782
+I feel I know you, although
+I never thought we should ever meet.
+
+623
+01:16:44,032 --> 01:16:48,156
+It's a very great pleasure for me, Mr Bond,
+thanks to Miss Anders.
+
+624
+01:16:48,406 --> 01:16:50,906
+You've a strange way
+of showing gratitude.
+
+625
+01:16:51,156 --> 01:16:54,530
+A mistress cannot serve two masters.
+
+626
+01:16:54,780 --> 01:16:57,821
+A difficult shot, but most gratifying.
+
+627
+01:16:58,071 --> 01:17:01,570
+Well, we, er... all get our jollies
+one way or another.
+
+628
+01:17:01,820 --> 01:17:04,527
+Mine have always been guns, Mr Bond.
+
+629
+01:17:04,777 --> 01:17:07,818
+When I was a boy
+I was brought up in a circus.
+
+630
+01:17:08,068 --> 01:17:12,984
+My only real friend
+was a magnificent African bull elephant.
+
+631
+01:17:13,234 --> 01:17:18,274
+One day his handler mistreated him
+and he went berserk.
+
+632
+01:17:18,607 --> 01:17:21,815
+Bleeding, dying,
+
+633
+01:17:22,065 --> 01:17:25,689
+he came and found me.
+
+634
+01:17:25,772 --> 01:17:32,854
+Stood on one leg - his best trick -
+picked me up and put me on his back.
+
+635
+01:17:34,728 --> 01:17:38,602
+The man emptied the gun into his eye.
+
+636
+01:17:39,144 --> 01:17:45,809
+- I emptied my stage pistol into his.
+- An eye for an eye. Nut?
+
+637
+01:17:49,683 --> 01:17:52,891
+You see, Mr Bond,
+I always thought I liked animals.
+
+638
+01:17:53,140 --> 01:17:58,098
+Then I discovered that
+I liked killing people even more.
+
+639
+01:18:04,304 --> 01:18:08,553
+Keep this. Whatever you do, don't lose it.
+
+640
+01:18:08,553 --> 01:18:11,094
+- I have to help James.
+- Something's wrong?
+
+641
+01:18:11,344 --> 01:18:14,219
+- There's a midget with a gun on him.
+- A midget?
+
+642
+01:18:14,469 --> 01:18:19,551
+Same one I saw at the Bottoms Up.
+The girl is dead. Call the police!
+
+643
+01:18:25,716 --> 01:18:27,965
+Forget the girl. She's replaceable.
+
+644
+01:18:28,215 --> 01:18:30,465
+And I shall find what she stole from me.
+
+645
+01:18:30,715 --> 01:18:35,255
+Personally, I have nothing against you,
+so let's hope our paths never cross again.
+
+646
+01:18:35,505 --> 01:18:37,421
+Please don't try to follow me.
+
+647
+01:18:37,671 --> 01:18:40,629
+Your peanut-toting friend back there
+wouldn't like it.
+
+648
+01:18:40,879 --> 01:18:44,503
+No, he wouldn't.
+
+649
+01:18:54,334 --> 01:18:57,958
+You want to try one of mine?
+
+650
+01:19:06,873 --> 01:19:08,997
+- Where's the solex?
+- With Goodnight.
+
+651
+01:19:09,247 --> 01:19:12,580
+- Where's Goodnight?
+- Outside.
+
+652
+01:19:46,363 --> 01:19:49,987
+She must be by the car.
+
+653
+01:20:16,981 --> 01:20:20,605
+Women! Walkie-talkie.
+
+654
+01:20:23,229 --> 01:20:26,687
+- Goodnight, where are you?
+- Somebody locked me in a boot.
+
+655
+01:20:26,936 --> 01:20:32,102
+<i>- In a what?!
+- The midget's car. I'm locked in.</i>
+
+656
+01:20:32,352 --> 01:20:38,600
+<i>It's a bronze car with a black roof.
+Number 7543.</i>
+
+657
+01:20:42,599 --> 01:20:44,724
+- The keys!
+- I haven't got them.
+
+658
+01:20:44,974 --> 01:20:47,098
+Oh, no.
+
+659
+01:20:47,348 --> 01:20:50,972
+<i>- Goodnight, where are the car keys?
+- Oh, I've got the keys.</i>
+
+660
+01:20:51,222 --> 01:20:55,346
+And I've got the solex too.
+
+661
+01:20:56,179 --> 01:20:57,471
+Taxi!
+
+662
+01:20:57,721 --> 01:21:02,428
+Stay in there, Goodnight.
+We've got you spotted.
+
+663
+01:21:09,093 --> 01:21:12,717
+Taxi! Taxi!
+
+664
+01:21:13,259 --> 01:21:16,674
+Taxi!
+
+665
+01:21:25,589 --> 01:21:30,463
+- How 'bout a demonstration, boy?
+- Certainly, sir.
+
+666
+01:21:37,211 --> 01:21:41,710
+What the hell is goin' on?!
+
+667
+01:21:45,792 --> 01:21:49,208
+Now... I know you!
+
+668
+01:21:49,458 --> 01:21:50,749
+Oh, no.
+
+669
+01:21:50,999 --> 01:21:57,040
+You're that secret agent.
+That English secret agent from England.
+
+670
+01:22:06,537 --> 01:22:08,870
+You're chasin' somebody.
+
+671
+01:22:09,120 --> 01:22:11,744
+Who are you after this time, boy?
+Commies?
+
+672
+01:22:11,994 --> 01:22:16,452
+Let's go get 'em! I'm with you all the way.
+
+673
+01:22:22,825 --> 01:22:26,949
+Uh-oh. I think we've got trouble.
+
+674
+01:22:44,112 --> 01:22:48,152
+Pull your cars over,
+you little brown pointy-heads!
+
+675
+01:22:48,402 --> 01:22:51,318
+I'm a peace officer!
+
+676
+01:22:51,568 --> 01:22:54,067
+<i>James? Are you still there?</i>
+
+677
+01:22:54,317 --> 01:22:56,067
+<i>James!</i>
+
+678
+01:22:56,317 --> 01:22:58,483
+Can you hear me? James!
+
+679
+01:22:58,733 --> 01:23:00,649
+All right, Goodnight. Don't panic.
+
+680
+01:23:00,899 --> 01:23:03,940
+- Who's that?
+- It's, er...
+
+681
+01:23:04,190 --> 01:23:06,606
+- It's Headquarters.
+- Let me talk to 'em.
+
+682
+01:23:06,856 --> 01:23:08,980
+Hello. This is Sheriff JW Pepper,
+
+683
+01:23:09,230 --> 01:23:10,730
+<i>Louisiana State Police.</i>
+
+684
+01:23:10,980 --> 01:23:16,395
+<i>You call my wife at the Narai Hotel
+and tell her I'm on a mission.</i>
+
+685
+01:23:16,645 --> 01:23:19,103
+I've been deputised. Right?
+
+686
+01:23:19,353 --> 01:23:20,853
+Right.
+
+687
+01:23:21,103 --> 01:23:24,727
+Which car are we all chasin', boy?
+
+688
+01:24:34,501 --> 01:24:37,251
+Move it! Move it!
+
+689
+01:24:37,501 --> 01:24:41,250
+Get that piece of junk off of the road.
+
+690
+01:25:08,410 --> 01:25:11,742
+They went left, boy.
+
+691
+01:25:19,199 --> 01:25:23,073
+Press that pedal, boy.
+
+692
+01:25:36,486 --> 01:25:40,110
+Where the hell have they got to?
+
+693
+01:25:52,774 --> 01:25:56,107
+You goofed, boy.
+
+694
+01:26:06,729 --> 01:26:11,186
+Nearest bridge is two miles back.
+
+695
+01:26:18,310 --> 01:26:21,267
+Goddamn! What the...
+
+696
+01:26:21,517 --> 01:26:26,682
+What's goin' on?
+What the hell are you doin' now, boy?
+
+697
+01:26:27,224 --> 01:26:30,848
+The bridge is "that" way!
+
+698
+01:26:33,473 --> 01:26:35,180
+You're not thinking of...?
+
+699
+01:26:35,430 --> 01:26:38,596
+I sure am, boy!
+
+700
+01:26:38,846 --> 01:26:42,679
+Ever heard of Evel Knievel?
+
+701
+01:26:50,843 --> 01:26:55,259
+Wowee!
+
+702
+01:26:56,050 --> 01:26:58,216
+I ain't never done that before!
+
+703
+01:26:58,466 --> 01:27:02,299
+Neither have I, actually.
+
+704
+01:27:56,994 --> 01:28:01,285
+Let's go get 'em, boy!
+
+705
+01:28:35,818 --> 01:28:37,734
+You stay put, boy.
+
+706
+01:28:37,984 --> 01:28:41,400
+This is "my" department.
+
+707
+01:28:42,275 --> 01:28:44,732
+Glad to see you boys on the ball!
+
+708
+01:28:44,982 --> 01:28:48,106
+Sheriff JW Pepper, Louisiana State Police.
+
+709
+01:28:48,356 --> 01:28:50,148
+Here's my identification.
+
+710
+01:28:50,398 --> 01:28:53,189
+Law Enforcement Association,
+American Legion.
+
+711
+01:28:53,439 --> 01:28:56,604
+Me and my partner here,
+we're on a secret mission.
+
+712
+01:28:56,854 --> 01:29:01,270
+What the hell you doing?
+Give me my wallet back.
+
+713
+01:29:20,182 --> 01:29:23,598
+Doors.
+
+714
+01:29:52,383 --> 01:29:55,340
+You can't do this to me.
+I want my wallet back.
+
+715
+01:29:55,590 --> 01:29:57,631
+Take these goddamn bracelets off!
+
+716
+01:29:57,881 --> 01:30:02,005
+I'm gonna sue ya for false arrest!
+Police brutality. I got connections.
+
+717
+01:30:02,255 --> 01:30:05,504
+I'm gonna get the FBI on your ass!
+The CIA!
+
+718
+01:30:05,754 --> 01:30:09,253
+Goddamn it,
+I'm gonna get Henry Kissinger!
+
+719
+01:30:09,503 --> 01:30:14,377
+Now look at me
+when I'm talkin' to ya, boy.
+
+720
+01:30:18,876 --> 01:30:24,083
+What's the matter?
+Ain't none of you seen a plane before?
+
+721
+01:30:25,791 --> 01:30:29,290
+<i>James? James, are you still there?</i>
+
+722
+01:30:29,540 --> 01:30:31,456
+<i>Can you hear me?</i>
+
+723
+01:30:31,706 --> 01:30:35,330
+<i>I think we've stopped.</i>
+
+724
+01:30:54,201 --> 01:30:58,200
+That is really
+all there is to report, sir.
+
+725
+01:30:58,450 --> 01:31:01,324
+So, if I heard correctly,
+Scaramanga got away.
+
+726
+01:31:01,574 --> 01:31:02,865
+Yes, sir.
+
+727
+01:31:03,115 --> 01:31:06,739
+- In a car that sprouted wings.
+- That's perfectly feasible, sir.
+
+728
+01:31:06,989 --> 01:31:10,655
+- In fact, we're working on one now.
+- Oh, Q! Shut up.
+
+729
+01:31:10,905 --> 01:31:13,238
+- Miss Goodnight was in the boot?
+- Yes, sir.
+
+730
+01:31:13,488 --> 01:31:17,404
+We found the car-plane abandoned
+about 200 miles west of Bangkok.
+
+731
+01:31:17,654 --> 01:31:20,903
+- And the solex?
+- In Goodnight's handbag, sir.
+
+732
+01:31:21,153 --> 01:31:23,610
+- Where's Goodnight now?
+- We don't know, sir.
+
+733
+01:31:23,860 --> 01:31:27,984
+Communications aren't getting the signal
+from the homer she has supplied by Q.
+
+734
+01:31:28,234 --> 01:31:32,233
+Rubbish! They're simply
+not stepping up the reception to enable...
+
+735
+01:31:32,483 --> 01:31:34,399
+Oh, shut up, Q!
+
+736
+01:31:34,649 --> 01:31:38,523
+Of all the fouled-up,
+half-witted operations!
+
+737
+01:31:38,773 --> 01:31:42,106
+- What do you want?
+- We've picked up Goodnight's signal, sir.
+
+738
+01:31:42,356 --> 01:31:47,813
+- Well, that's something.
+- But there's something rather curious, sir.
+
+739
+01:31:48,063 --> 01:31:49,771
+Our sector's here,
+
+740
+01:31:50,021 --> 01:31:54,811
+and we're receiving her signal
+from somewhere off this coastline here.
+
+741
+01:31:55,061 --> 01:31:58,227
+Now here it is on a much larger scale.
+
+742
+01:31:58,477 --> 01:32:01,809
+That's where she is.
+In this group of small islands.
+
+743
+01:32:02,059 --> 01:32:04,684
+That's all we need! Red Chinese waters.
+
+744
+01:32:04,934 --> 01:32:07,933
+We could stray
+inadvertently into them, sir.
+
+745
+01:32:08,183 --> 01:32:12,640
+- I could fly low under their radar screen.
+- Absolutely out of the question.
+
+746
+01:32:12,890 --> 01:32:16,972
+If the PM gets to hear of this,
+he'll hang me from the yardarm.
+
+747
+01:32:17,222 --> 01:32:22,638
+Officially you won't know
+a thing about it, sir.
+
+748
+01:33:38,203 --> 01:33:41,119
+There's a small seaplane
+approaching your island.
+
+749
+01:33:41,369 --> 01:33:43,285
+Do you want us to take action?
+
+750
+01:33:43,535 --> 01:33:48,200
+No. No, please don't do anything.
+
+751
+01:33:48,783 --> 01:33:50,283
+Yes, it's a...
+
+752
+01:33:50,533 --> 01:33:54,157
+guest I'm expecting.
+
+753
+01:33:54,865 --> 01:33:58,073
+No, he won't be leaving.
+
+754
+01:35:15,971 --> 01:35:18,387
+<i>Bonjour, Monsieur Bond.</i>
+
+755
+01:35:18,637 --> 01:35:21,636
+I am Nick Nack.
+
+756
+01:35:23,885 --> 01:35:25,968
+<i>Dom Pérignon soixante-quatre.</i>
+
+757
+01:35:26,218 --> 01:35:28,426
+I prefer the '62 myself.
+
+758
+01:35:28,676 --> 01:35:30,592
+Still, beats a bag of peanuts.
+
+759
+01:35:30,842 --> 01:35:36,007
+Monsieur Scaramanga
+will welcome you personally.
+
+760
+01:35:39,340 --> 01:35:44,214
+Forgive me, Mr Bond.
+A vulgar display, but I couldn't resist it
+
+761
+01:35:44,464 --> 01:35:47,838
+because I am so delighted
+to see you again.
+
+762
+01:35:48,088 --> 01:35:51,004
+A harmless toy.
+
+763
+01:35:51,254 --> 01:35:55,003
+I am, as you can see now,
+completely unarmed.
+
+764
+01:35:55,253 --> 01:35:56,961
+Cigarette?
+
+765
+01:35:57,211 --> 01:36:00,002
+We have so much in common
+and so much to discuss.
+
+766
+01:36:00,252 --> 01:36:02,376
+We will never have this chance again.
+
+767
+01:36:02,626 --> 01:36:07,500
+Ours is the loneliest profession, so let us
+spend a few pleasant hours together.
+
+768
+01:36:07,750 --> 01:36:10,374
+How can I refuse
+such a gracious invitation?
+
+769
+01:36:10,624 --> 01:36:12,790
+Splendid. Splendid!
+
+770
+01:36:13,040 --> 01:36:17,539
+Nick Nack, I expect you to surpass
+yourself. He's a cordon bleu, you know?
+
+771
+01:36:17,789 --> 01:36:21,663
+By the way, where's Miss Goodnight?
+
+772
+01:36:21,955 --> 01:36:24,079
+Oh, she's around here somewhere.
+
+773
+01:36:24,329 --> 01:36:27,078
+She can't leave,
+so she does as she pleases.
+
+774
+01:36:27,328 --> 01:36:29,328
+How do you like my island?
+
+775
+01:36:29,578 --> 01:36:31,286
+A bit off the beaten track.
+
+776
+01:36:31,536 --> 01:36:34,827
+It's rent-free.
+I do my landlords an occasional favour.
+
+777
+01:36:35,076 --> 01:36:37,159
+A cosy arrangement.
+
+778
+01:36:37,409 --> 01:36:40,242
+- Servant problem, I suppose?
+- Not at all.
+
+779
+01:36:40,492 --> 01:36:44,199
+Nick Nack does for me very nicely.
+
+780
+01:36:45,157 --> 01:36:48,490
+Usually there's just us two,
+but guests are no inconvenience.
+
+781
+01:36:48,740 --> 01:36:53,697
+We're entirely self-supporting. We have
+every electrical device you can think of.
+
+782
+01:36:53,947 --> 01:36:58,821
+This is an airlock,
+as you are doubtless aware.
+
+783
+01:36:59,321 --> 01:37:02,945
+Automatic, of course.
+
+784
+01:37:03,278 --> 01:37:08,152
+Naturally, we have an ample supply
+of electricity here.
+
+785
+01:37:08,402 --> 01:37:12,026
+Let me show you.
+
+786
+01:37:26,064 --> 01:37:28,563
+This should run
+a few electric toothbrushes.
+
+787
+01:37:28,813 --> 01:37:32,438
+Up here.
+
+788
+01:37:35,062 --> 01:37:39,394
+A solar-energy station.
+So this is what it's all about. Ah!
+
+789
+01:37:39,644 --> 01:37:44,476
+Thermoelectric generators
+to convert solar energy into electricity.
+
+790
+01:37:44,726 --> 01:37:47,601
+All built by Hai Fat's
+construction company, no doubt.
+
+791
+01:37:47,850 --> 01:37:52,433
+Somehow I seem to have inherited it
+from him. It's all fully automated.
+
+792
+01:37:52,683 --> 01:37:57,681
+Kra looks after maintenance and security
+in here. Nick Nack does everything else.
+
+793
+01:37:57,931 --> 01:38:01,764
+They tell me the electricity
+is stored in here... somewhere.
+
+794
+01:38:02,014 --> 01:38:05,388
+Science was never my strong point.
+
+795
+01:38:05,638 --> 01:38:10,387
+Superconductivity coils
+cooled by liquid helium.
+
+796
+01:38:10,637 --> 01:38:15,927
+If I were you, I wouldn't stick my finger -
+or anything else, for that matter - in there.
+
+797
+01:38:16,177 --> 01:38:20,967
+At 453% below zero, that liquid helium
+would break it off like an icicle.
+
+798
+01:38:21,217 --> 01:38:23,842
+You really know
+far more about it than I do.
+
+799
+01:38:24,092 --> 01:38:28,757
+I'm arranging for countries that can afford
+the price to send experts here to see this.
+
+800
+01:38:29,007 --> 01:38:32,215
+But no solex
+until the money is in the bank, right?
+
+801
+01:38:32,465 --> 01:38:33,798
+Right.
+
+802
+01:38:34,048 --> 01:38:38,338
+- I have run across similar situations.
+- Not what I've got here.
+
+803
+01:38:38,588 --> 01:38:42,004
+This way the highest bidder
+can build hundreds of stations
+
+804
+01:38:42,254 --> 01:38:45,586
+and sell franchises for hundreds more.
+
+805
+01:38:45,836 --> 01:38:49,002
+He will literally have the sun in his pocket.
+
+806
+01:38:49,252 --> 01:38:52,168
+A monopoly on solar power.
+
+807
+01:38:52,418 --> 01:38:56,126
+The oil sheikhs will pay you
+just to keep solar energy "off" the market.
+
+808
+01:38:56,375 --> 01:39:00,416
+The thought had occurred to me.
+
+809
+01:39:03,374 --> 01:39:07,206
+This is the collection point.
+
+810
+01:39:19,245 --> 01:39:22,286
+Ah! So that's where it belongs.
+
+811
+01:39:22,536 --> 01:39:29,451
+Our famous solex in the still down there
+transmits heat to the thermal generators.
+
+812
+01:39:30,201 --> 01:39:33,825
+It's collected through this?
+
+813
+01:39:36,199 --> 01:39:40,865
+But where is it collected from?
+You need the sun.
+
+814
+01:39:49,113 --> 01:39:52,820
+Watch that mushroom-shaped rock.
+
+815
+01:40:13,732 --> 01:40:15,065
+Ingenious, isn't it?
+
+816
+01:40:15,315 --> 01:40:18,522
+The panels lock on to the sun,
+then track it automatically.
+
+817
+01:40:18,772 --> 01:40:22,063
+Something like that, yes.
+
+818
+01:40:28,145 --> 01:40:33,893
+Ah. Reflected through this, those panels
+must produce a heat of at least 3,500%F.
+
+819
+01:40:34,143 --> 01:40:38,184
+If you say so, Mr Bond.
+
+820
+01:40:39,809 --> 01:40:46,016
+But I do know we can focus the power
+wherever we want. Here, I'll show you.
+
+821
+01:40:46,890 --> 01:40:50,681
+This is a bonus.
+
+822
+01:40:51,181 --> 01:40:55,138
+Goes with the solex. No extra charge.
+
+823
+01:41:15,175 --> 01:41:18,883
+This is the part I really like.
+
+824
+01:41:27,214 --> 01:41:31,213
+Now that's what I call solar power.
+
+825
+01:41:31,504 --> 01:41:35,129
+That's what I call trouble.
+
+826
+01:41:35,420 --> 01:41:41,335
+You must admit I am now undeniably
+the Man with the Golden Gun.
+
+827
+01:41:45,918 --> 01:41:49,542
+Lunch.
+
+828
+01:42:04,413 --> 01:42:07,579
+This way, Mr Bond.
+
+829
+01:42:07,829 --> 01:42:10,037
+Ah, Miss Goodnight!
+
+830
+01:42:10,287 --> 01:42:13,328
+- James!
+- Aren't we a little overdressed?
+
+831
+01:42:13,578 --> 01:42:16,702
+I like a girl in a bikini.
+No concealed weapons.
+
+832
+01:42:16,952 --> 01:42:21,201
+Miss Goodnight, please. Mr Bond.
+
+833
+01:42:21,367 --> 01:42:24,033
+Let's see what Nick Nack has for us.
+
+834
+01:42:24,283 --> 01:42:27,907
+Ah, mushrooms.
+
+835
+01:42:29,865 --> 01:42:32,781
+The fried mushroom
+looks terribly interesting.
+
+836
+01:42:33,031 --> 01:42:38,113
+Yes, I'd noticed that.
+I'll get around to it later.
+
+837
+01:42:39,696 --> 01:42:43,487
+- Having fun in the sun, Goodnight?
+- Yes!
+
+838
+01:42:43,737 --> 01:42:47,361
+I could stay here for ever.
+
+839
+01:42:48,236 --> 01:42:50,485
+Mm, excellent.
+
+840
+01:42:50,735 --> 01:42:57,109
+- Slightly reminiscent of a '34 Mouton.
+- Then I must add it to my cellar.
+
+841
+01:42:57,775 --> 01:43:00,608
+You live well, Scaramanga.
+
+842
+01:43:00,858 --> 01:43:04,774
+At a million dollars a contract,
+I can afford to, Mr Bond.
+
+843
+01:43:05,023 --> 01:43:10,355
+You work for peanuts. A "well done" from
+the Queen and a pittance of a pension.
+
+844
+01:43:10,605 --> 01:43:13,855
+Apart from that, we are the same.
+
+845
+01:43:14,105 --> 01:43:19,270
+To us, Mr Bond. We are the best.
+
+846
+01:43:19,603 --> 01:43:25,019
+There's a useful four-letter word,
+and you're full of it.
+
+847
+01:43:26,143 --> 01:43:29,434
+When I kill it's under specific orders
+of my government.
+
+848
+01:43:29,684 --> 01:43:32,392
+And those I kill are themselves killers.
+
+849
+01:43:32,642 --> 01:43:35,141
+Come, come, Mr Bond.
+You disappoint me.
+
+850
+01:43:35,391 --> 01:43:38,557
+You get as much fulfilment
+out of killing as I do. Admit it.
+
+851
+01:43:38,807 --> 01:43:43,223
+- I admit killing you would be a pleasure.
+- You should have done that before.
+
+852
+01:43:43,472 --> 01:43:47,555
+But then the English don't think
+it's sporting to kill in cold blood.
+
+853
+01:43:47,805 --> 01:43:51,221
+Don't count on that.
+
+854
+01:44:01,052 --> 01:44:06,633
+I could have shot you when you landed,
+but that would have been too easy.
+
+855
+01:44:09,508 --> 01:44:11,424
+You see, Mr Bond,
+
+856
+01:44:11,674 --> 01:44:16,131
+like every great artist, I want to create
+an indisputable masterpiece
+
+857
+01:44:16,381 --> 01:44:18,881
+once in my lifetime.
+
+858
+01:44:19,130 --> 01:44:22,921
+The death of 007, "mano a mano",
+
+859
+01:44:23,171 --> 01:44:24,879
+face to face,
+
+860
+01:44:25,129 --> 01:44:27,253
+will be mine.
+
+861
+01:44:27,503 --> 01:44:31,586
+You mean stuffed and displayed
+over your rocky mantelpiece.
+
+862
+01:44:31,836 --> 01:44:35,710
+That's an amusing idea,
+but I was thinking in terms of history.
+
+863
+01:44:35,960 --> 01:44:38,626
+A duel between titans.
+
+864
+01:44:38,876 --> 01:44:42,042
+My golden gun against your Walther PPK.
+
+865
+01:44:42,291 --> 01:44:44,749
+Each of us with a 50-50 chance.
+
+866
+01:44:44,999 --> 01:44:47,374
+Six bullets to your one?
+
+867
+01:44:47,624 --> 01:44:51,039
+I only need one.
+
+868
+01:44:52,247 --> 01:44:54,372
+Sounds a bit old-fashioned, doesn't it?
+
+869
+01:44:54,622 --> 01:44:57,330
+I mean, pistols at dawn, that sort of thing.
+
+870
+01:44:57,579 --> 01:44:59,829
+Indeed it is, Mr Bond.
+
+871
+01:45:00,079 --> 01:45:04,078
+But it still remains
+the only "true" test for gentlemen.
+
+872
+01:45:04,328 --> 01:45:08,077
+I doubt if you qualify on that score.
+
+873
+01:45:09,410 --> 01:45:12,451
+However, I accept.
+
+874
+01:45:12,701 --> 01:45:18,116
+As soon as I have finished this delicious
+lunch that Nick Nack has prepared for us.
+
+875
+01:45:18,366 --> 01:45:23,698
+"Messieurs", I will remind you,
+this is "un duel á la mort".
+
+876
+01:45:23,948 --> 01:45:27,572
+Only one of you
+can leave the field of honour.
+
+877
+01:45:27,822 --> 01:45:31,071
+If a "coup de grâce" is necessary,
+
+878
+01:45:31,321 --> 01:45:36,028
+as your referee, I will administer it myself.
+
+879
+01:45:36,278 --> 01:45:41,277
+<i>I do not expect wounds, only a clean kill.</i>
+
+880
+01:45:41,527 --> 01:45:47,359
+<i>On my command
+each contestant will take 20 paces.</i>
+
+881
+01:45:47,609 --> 01:45:51,316
+Are you ready, Monsieur Scaramanga?
+
+882
+01:45:53,024 --> 01:45:56,107
+- Ready.
+- Are you ready, Monsieur Bond?
+
+883
+01:45:56,357 --> 01:46:00,897
+- Ready.
+- I will now begin the count.
+
+884
+01:46:01,147 --> 01:46:03,105
+One, two,
+
+885
+01:46:03,355 --> 01:46:06,521
+three, four, five,
+
+886
+01:46:06,771 --> 01:46:11,187
+six, seven, eight, nine,
+
+887
+01:46:11,437 --> 01:46:14,686
+ten, eleven, twelve,
+
+888
+01:46:14,936 --> 01:46:16,977
+<i>thirteen, fourteen,</i>
+
+889
+01:46:17,227 --> 01:46:19,268
+fifteen, sixteen,
+
+890
+01:46:19,518 --> 01:46:21,143
+<i>seventeen, eighteen,</i>
+
+891
+01:46:21,392 --> 01:46:25,225
+nineteen, twenty!
+
+892
+01:47:06,881 --> 01:47:09,006
+If you kill him,
+
+893
+01:47:09,256 --> 01:47:12,630
+all this be mine.
+
+894
+01:47:13,921 --> 01:47:17,545
+This way, Monsieur Bond.
+
+895
+01:47:53,953 --> 01:47:58,952
+- Monsieur, good shooting.
+- I've never killed a midget before.
+
+896
+01:47:59,202 --> 01:48:01,410
+But there can always be a first time.
+
+897
+01:48:01,660 --> 01:48:05,284
+Oh, monsieur!
+
+898
+01:49:18,933 --> 01:49:23,432
+<i>You only have three bullets left.</i>
+
+899
+01:49:36,637 --> 01:49:40,261
+<i>I have fooled you.</i>
+
+900
+01:52:59,796 --> 01:53:01,920
+- Goodnight!
+- James!
+
+901
+01:53:02,170 --> 01:53:04,170
+Oh, James!
+
+902
+01:53:04,420 --> 01:53:06,336
+Steady, Goodnight.
+
+903
+01:53:06,586 --> 01:53:08,502
+Where is he?
+
+904
+01:53:08,752 --> 01:53:10,918
+Flat on his "coup de grâce".
+
+905
+01:53:11,168 --> 01:53:16,583
+Come on, let's get out of this fun palace
+and find that solex.
+
+906
+01:53:24,373 --> 01:53:26,997
+Wait here.
+I'll take care of the maintenance man.
+
+907
+01:53:27,247 --> 01:53:29,164
+I already did.
+
+908
+01:53:29,414 --> 01:53:31,121
+I laid him out cold.
+
+909
+01:53:31,371 --> 01:53:33,288
+- You did?
+- Yes.
+
+910
+01:53:33,538 --> 01:53:37,703
+There's more to you than meets the eye.
+
+911
+01:53:46,076 --> 01:53:50,075
+I hate to ask stupid questions, but
+where exactly did you knock him cold?
+
+912
+01:53:50,325 --> 01:53:52,991
+He landed in that one.
+
+913
+01:53:53,241 --> 01:53:55,449
+Don't you believe in signs?
+
+914
+01:53:55,699 --> 01:54:00,489
+We've got five minutes before his body
+temperature raises the helium above zero.
+
+915
+01:54:00,739 --> 01:54:03,239
+Then this whole damn place
+will go sky-high.
+
+916
+01:54:03,489 --> 01:54:07,113
+I'm sorry. I didn't know.
+
+917
+01:55:27,135 --> 01:55:30,384
+Kill the beam!
+
+918
+01:55:30,634 --> 01:55:33,842
+- Hit the master override switch!
+- The what?
+
+919
+01:55:34,092 --> 01:55:36,383
+- Goodnight?
+- Yes, James?
+
+920
+01:55:36,633 --> 01:55:40,548
+Now listen carefully.
+There's a console up there.
+
+921
+01:55:40,798 --> 01:55:46,672
+Now, there must be a scanner
+interlock button on it. Push it!
+
+922
+01:55:46,922 --> 01:55:48,963
+Are you still there?
+
+923
+01:55:49,213 --> 01:55:54,087
+It'll be on the auxiliary feedback circuit.
+
+924
+01:55:54,128 --> 01:55:57,378
+"Computer interlock... " Is that it?
+
+925
+01:55:57,628 --> 01:56:01,543
+Just push every damn button, will you?
+
+926
+01:56:18,914 --> 01:56:21,163
+Good girl, Goodnight. You've done it.
+
+927
+01:56:21,413 --> 01:56:25,287
+Oh, I have.
+
+928
+01:57:06,694 --> 01:57:11,443
+Goodnight, get the hell out of there!
+I've done it.
+
+929
+01:57:43,768 --> 01:57:47,684
+- I hope you can swim, Goodnight.
+- This way.
+
+930
+01:57:47,934 --> 01:57:52,141
+His junk is moored around the corner.
+
+931
+01:58:54,001 --> 01:58:56,792
+- But, darling, who is at the wheel?
+- George.
+
+932
+01:58:57,042 --> 01:58:58,959
+George?
+
+933
+01:58:59,208 --> 01:59:01,750
+Automatic pilot.
+
+934
+01:59:01,999 --> 01:59:08,165
+We should make Hong Kong
+in about... eight hours.
+
+935
+01:59:08,373 --> 01:59:11,997
+Give or... take a little.
+
+936
+01:59:29,659 --> 01:59:34,158
+I always wanted to take
+a slow boat "from" China.
+
+937
+02:00:19,189 --> 02:00:21,355
+I'll kill you.
+
+938
+02:00:21,605 --> 02:00:23,938
+I'll kill you!
+
+939
+02:00:24,188 --> 02:00:27,812
+Why, you...!
+
+940
+02:01:15,342 --> 02:01:17,800
+Hey! Let me out!
+
+941
+02:01:18,050 --> 02:01:20,716
+Hey, what are you doing?
+
+942
+02:01:20,966 --> 02:01:22,757
+Ouch!
+
+943
+02:01:23,007 --> 02:01:26,464
+No, no, no! I can't breathe!
+
+944
+02:01:26,714 --> 02:01:29,130
+Ow! You'll be sorry.
+
+945
+02:01:29,380 --> 02:01:33,088
+I may be small, but I never forget.
+
+946
+02:01:35,879 --> 02:01:38,253
+I kill you if you don't let me out of here!
+
+947
+02:01:38,503 --> 02:01:41,502
+Ow! Let me out, you big bully!
+
+948
+02:01:41,752 --> 02:01:45,376
+Shut up.
+
+949
+02:01:49,042 --> 02:01:52,666
+- What did you do with him?
+- What do you think?
+
+950
+02:01:52,916 --> 02:01:56,957
+- Oh, James, you didn't!
+- Yes, I damn well did.
+
+951
+02:01:57,207 --> 02:01:59,581
+Got all the glass out of the bed, I trust?
+
+952
+02:01:59,831 --> 02:02:03,247
+We don't want anything else
+to disturb our peace,
+
+953
+02:02:03,497 --> 02:02:07,121
+do we?
+
+954
+02:02:11,453 --> 02:02:14,786
+Now, where were we?
+
+955
+02:02:15,036 --> 02:02:18,660
+Oh, James!
+
+956
+02:02:19,576 --> 02:02:23,201
+Mmm...
+
+957
+02:02:27,283 --> 02:02:30,907
+What's the matter?
+
+958
+02:02:31,157 --> 02:02:34,781
+Something came up.
+
+959
+02:02:36,572 --> 02:02:37,864
+Hello?
+
+960
+02:02:38,114 --> 02:02:40,530
+Ah, there you are, Bond.
+
+961
+02:02:40,780 --> 02:02:43,279
+<i>Well done. Congratulations.</i>
+
+962
+02:02:43,529 --> 02:02:44,820
+Thank you, sir.
+
+963
+02:02:45,070 --> 02:02:48,195
+<i>Is Miss Goodnight with you?
+I'd like a word with her.</i>
+
+964
+02:02:48,444 --> 02:02:52,069
+Hold on, sir.
+
+965
+02:03:00,483 --> 02:03:04,316
+<i>Bond? Bond, are you there?</i>
+
+966
+02:03:05,024 --> 02:03:07,690
+<i>Goodnight?</i>
+
+967
+02:03:07,940 --> 02:03:11,564
+She's just coming, sir.
+
+968
+02:03:16,771 --> 02:03:19,562
+Goodnight?
+
+969
+02:03:20,062 --> 02:03:23,144
+<i>Goodnight?</i>
+
+970
+02:03:23,394 --> 02:03:27,018
+<i>- Goodnight!
+- Good night, sir.</i>
+
+971
+02:03:32,809 --> 02:03:36,391
+<i># Good night, good night</i>
+
+972
+02:03:36,641 --> 02:03:40,640
+<i># Sleep well, my dear</i>
+
+973
+02:03:40,890 --> 02:03:44,514
+<i># No need to fear</i>
+
+974
+02:03:44,764 --> 02:03:52,846
+<i># James Bond is here</i>
+
+975
+02:03:56,136 --> 02:04:00,344
+<i># Oh, love is required
+# whenever he's hired</i>
+
+976
+02:04:00,594 --> 02:04:04,426
+<i># It comes just before the kill</i>
+
+977
+02:04:04,676 --> 02:04:06,301
+<i># No one can catch him</i>
+
+978
+02:04:06,551 --> 02:04:08,383
+<i># No hit man can match him</i>
+
+979
+02:04:08,633 --> 02:04:12,008
+<i># For his million-dollar skill</i>
+
+980
+02:04:12,257 --> 02:04:16,548
+<i># One golden shot
+# means another poor victim</i>
+
+981
+02:04:16,798 --> 02:04:21,005
+<i># Has come to a glittering end</i>
+
+982
+02:04:21,255 --> 02:04:24,504
+<i># If you want to get rid of someone</i>
+
+983
+02:04:24,754 --> 02:04:28,045
+<i># The Man with the Golden Gun</i>
+
+984
+02:04:28,295 --> 02:04:31,586
+<i># Will get it done</i>
+
+985
+02:04:31,836 --> 02:04:35,835
+<i># He'll shoot anyone</i>
+
+986
+02:04:36,085 --> 02:04:42,750
+<i># With his golden gun</i>
+

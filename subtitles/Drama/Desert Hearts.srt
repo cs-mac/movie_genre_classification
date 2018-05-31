@@ -1,0 +1,17 @@
+﻿these English subtitles are for the movie
+
+Desert Hearts (1985)
+
+original filename:	not known.AVI
+audio			.AVI has hungarian and english audio tracks
+filesize: 		1,35 GB (1.460.132.882 bytes)
+Video: 			Xvid 704x384 23.976fps [Video]
+Audio: 			Dolby AC3 48000Hz stereo 448kbps [Audio]
+
+subtitele adapted from other subtitles
+- changed framerate
+- resynced all individual subs to extracted audio
+- corrected spelling errors (should be lots left)
+- corrected some bad transcriptions
+
+2014-04-08

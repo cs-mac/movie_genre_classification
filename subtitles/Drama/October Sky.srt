@@ -1,0 +1,1341 @@
+{55}{116}[Radio Static]
+{118}{179}[Man On Radio]|While most of President|Eisenhower's advisors...
+{181}{231}[Static Continues]|[Woman Singing]
+{233}{279}[Man On Radio]|Today are ominous.|[Man On Radio] Washington...
+{281}{331}[Static, Music Continues]
+{333}{400}[Man On Radio]|If you have just tuned in|to this special bulletin,
+{402}{463}Washington has confirmed|that, yesterday,
+{465}{535}on the fourth|of October, 1957,
+{536}{591}the Soviet Union|successfully launched...
+{593}{647}history's first|man-made satellite...
+{649}{703}into space orbit|around the Earth.
+{704}{795}[Switch Clicks]|[Motor Humming]
+{1700}{1762}The satellite which the Russians|have dubbed Sputnik...
+{1763}{1819}is being hailed|as a milestone in history.
+{1821}{1889}No one in our nation's capital|could deny that the satellite...
+{1891}{1960}has ushered in a grim|new chapter in the Cold War.
+{1962}{2019}And indeed,|a wave of national anxiety...
+{2020}{2067}already seems|to be sweeping the country.
+{2068}{2143}[Man]|Still maintaining its speed|of 18,000 miles an hour,
+{2145}{2227}completing an orbit of the Earth|every 96 minutes.
+{2432}{2479}Doctor Wernher von Braun,
+{2480}{2544}Chief Engineer of the Army|Ballistic Missile Agency,
+{2546}{2594}expressed the hope|that the United States...
+{2595}{2651}would soon be following|the Russians into space...
+{2653}{2706}with our own|artificial satellite.
+{2707}{2754}Doctor von Braun confirmed...
+{2755}{2823}that there has still been|no actual sighting|of the Soviet satellite,
+{2825}{2898}but the U.S. Expects|to be tracking it very soon.
+{2900}{2968}We are told that Sputnik will be|visible to the naked eye...
+{2970}{3052}about an hour after sunset|and an hour before dawn,
+{3054}{3138}as it traverses the October sky|over the United States.
+{3140}{3217}What the beeping signal means|we still don't know.
+{3219}{3265}It may be nothing more...
+{3576}{3632}[music][music] [Radio: Elvis Presley's|"Jailhouse Rock"]
+{3634}{3711}[Horn Honking]
+{3712}{3767}[music] Warden threw a party|in the county jail [music]
+{3768}{3823}Let's go, Roy Lee.|[Engine Starts,|Singing Continues]
+{3824}{3910}It's almost 9:00.|Sure are in a hurry|to get yourself killed.
+{3912}{4005}No kiddin'. There are easier|ways to commit suicide, Homer.
+{4007}{4070}Will you just step on it,|Roy Lee?
+{4072}{4122}I am steppin' on it.|[Laughing]
+{4124}{4184}[music]Everybody|in the whole cell block [music]
+{4186}{4241}[music] Was dancin'|to the jailhouse rock [music]
+{4370}{4416}[Whistle Blowing]
+{4418}{4494}Okay, Maguire,|Longstreet, Hickam.|Let's see what you got.
+{4550}{4650}Hey, take it easy on my kid|brother. Make him look good,|all right?
+{4651}{4707}Let's go! Hut!
+{4709}{4763}[Grunting]
+{4764}{4858}[Boy]|Hut two.!|[Grunting]
+{4859}{4956}I thought I told you|to take it easy on him.|I did take it easy on him.
+{4958}{5054}[Boy] Set.!|I'm gonna run right over you,|you son of a bitch.
+{5056}{5121}You hear me?|[Boy]|Hut one.! Hut two.!
+{5123}{5186}[Grunting Continues]
+{5287}{5334}Homer, you sure got guts,
+{5336}{5390}but you gotta know|when to quit.
+{5391}{5446}Okay, Miller!|You're up!
+{5447}{5510}[Band Playing]|[Shouting]
+{5511}{5586}[music]Someday we'll all be blue [music]
+{5588}{5687}[music] Well, that'll be the day|when you say good-bye [music]
+{5689}{5787}[Panting] Why should|the damn jocks be the only ones|gettin' scholarships?
+{5789}{5888}They're also the only ones|that get the girls.|This burns my ass.
+{5890}{5957}[music] That'll be the day|when I die [music]
+{6091}{6140}What do you boys think|about this?
+{6142}{6189}Isn't that something?
+{6191}{6281}Let 'em have outer space.|We got rock 'n' roll.
+{6283}{6367}I'm with you. We got enough|to worry about down here.
+{6369}{6454}Homer, your dad say anything|about the layoffs?|No.
+{6456}{6523}- Have they pulled|any more pillars?|- Uh, he didn't say.
+{6524}{6593}Does he talk at all?
+{6624}{6671}Oh, yeah. He talks.
+{6672}{6789}Damn it, Jake! Didn't|I tell you to put some men|to work on those roof bolts?
+{6791}{6862}Was I talkin' to the wall?|I'm sorry, John.|We was just tryin' to get...
+{6864}{6959}Make sure the hoot owl shift|sets those timbers by the vent!
+{7091}{7173}Two more days on that block,|we're gonna be down to the bone.
+{7175}{7221}I guess that's...
+{7308}{7379}Jensen!|Get out of the way!
+{7380}{7427}Jensen, look out!
+{7478}{7545}[Horn Blowing]
+{7547}{7628}[Sirens Wailing]|Come on. Come on, Jensen.
+{7658}{7721}[Man]|Come on back.|[Jensen Grunting]
+{7723}{7762}Come on.|What happened?
+{7763}{7831}Whole damn mountain|'bout fell on your head.
+{7832}{7894}And John here...|he saved your life.
+{7895}{7958}That's my dad.
+{7959}{8046}I want you out of this mine.|Don't come back, you stupid|son of a bitch.
+{8047}{8125}Didn't I tell you|to watch the roof, huh?
+{8127}{8210}Now we could've all been killed|'cause you didn't have the sense|to look up!
+{8212}{8255}That's my dad.|[Coughs]
+{8256}{8303}Homer.
+{8332}{8379}Well, how'd it go?
+{8380}{8427}[Coughs]
+{8466}{8534}Well, I told you. You spend|the summer shovelin' coal,
+{8535}{8599}and you'll be playin'|linebacker next fall.
+{8601}{8674}What's the matter, Homer?|Not cut out for mining coal?
+{8676}{8747}Me neither.|[Men Laughing]
+{8749}{8825}Hey, let's get that mess|cleaned up!
+{8827}{8878}Let's get some cribbin'|on that roof!
+{8879}{8949}Buck up, Homer.|You're a Coalwood boy.
+{8951}{9018}When you get down in the mine,|get that coal shovel|in your hand,
+{9019}{9078}feel just as natural to you|as a tick on a dog.
+{9110}{9173}[Homer's Dad]|And get that slate|off the loader.!
+{9175}{9252}[Man On Radio] It's|the radio signal transmitted|by the Soviet Sputnik.
+{9254}{9360}Listen now for the sound|which forevermore separates|the old from the new.
+{9362}{9440}[Rhythmic Beeping]
+{9442}{9512}[Beeping Continues]
+{9594}{9655}That's it?|That's the Sputnik?
+{9657}{9722}- That's Sputnik.|- Well, big deal.
+{9724}{9800}Big deal?|What you fail to grasp...
+{9802}{9848}is that the sound you're hearin'|is bein' transmitted...
+{9850}{9916}by an object that is travelin'|at 18,000 miles per hour,
+{9918}{9978}559 miles high,
+{9980}{10054}a-a-a-and orbitin'the Earth|e-e-every nine...|Shut up!
+{10056}{10104}Boys, not in my class.!
+{10106}{10158}Thank you, Quentin.
+{10160}{10226}Now Quentin's right, y'all.
+{10227}{10301}Sputnik is a milestone|in history.
+{10303}{10356}Things'll never be|the same again.
+{10392}{10460}What do you think|about that, Homer?|Well, yes, ma'am. Uh...
+{10462}{10509}[Students Laughing]|[Teacher]|Cat got your tongue?
+{10511}{10566}We were talkin'|about bein' in orbit,
+{10567}{10624}hundreds of miles|away from the Earth.
+{10626}{10690}You know anything|about that?
+{10691}{10745}[Girl Giggling]|No, ma'am.
+{10747}{10806}I got my eye on you, boy.
+{10808}{10881}Now who can tell me|why Sputnik is so important?
+{10883}{10948}[Man]|We ought to just shoot|the damn thing down.
+{10950}{11004}It's got one of them|little spy cameras in it.
+{11006}{11059}It takes pictures of every one|of our missile bases.
+{11061}{11163}This country'd better get on|the ball before it's too late.
+{11165}{11243}All I know is this Sputnik|had better show up soon.
+{11245}{11293}I'm gettin' a crick|in my neck.
+{11295}{11359}[Roy Lee]|All right. What you need to do|is take her to the movies.
+{11361}{11434}Somethin'scary, like|Frankenstein Meets the Wolf Man.
+{11435}{11534}Then you take your arm|and put it up round the back|of her chair, like so.
+{11536}{11637}Now when it gets real scary,|and she ain't payin' attention|to nothin' but the movie,
+{11639}{11732}you sort of let your arm sort|of slide on down her shoulder,
+{11734}{11812}real nice and slow|and easy...
+{11814}{11860}until...
+{11862}{11914}[Laughs]|Hey! Hey!
+{11916}{11970}I see it!|Right there!|Where? Where?
+{11971}{12057}[Chattering]|[Woman]|You seein'things, Carl?
+{12187}{12248}I see it.|Where do you see it?
+{12250}{12304}I see it.|It's right there.
+{12306}{12352}[Chattering Continues]
+{12541}{12587}[Whispering]|Wow.
+{12791}{12866}[Man] Son of bitches|gonna be droppin'bombs|on us from up there.
+{12867}{12926}Don't know why they'd drop|a bomb on this place.
+{12927}{12986}Be a heck of a waste|of a bomb.
+{13064}{13121}The first game against Welch...
+{13123}{13170}that's the one that's|gonna draw the scouts.
+{13172}{13240}Yeah. Welch knows it too.|They're gonna be coming|after us.
+{13242}{13330}Well, y'all be careful, Jim.|Last year, those two boys from|Welch got their arms broken.
+{13332}{13409}Well, they started it.|[Laughing]
+{13411}{13482}It don't matter much|who started it.|I don't call that football.
+{13484}{13536}You don't worry about Jim.
+{13538}{13621}Ain't nobody on the Welch team|that can catch him.
+{13623}{13720}I wish the scouts could've seen|that first game with Bluefield.|I'm gonna build a rocket.
+{13798}{13834}Like Sputnik.
+{13836}{13912}Well, I'm not sayin' it's gonna|go up in space or anything,
+{13914}{13960}but I'm gonna do it.
+{14011}{14062}I'm gonna build a rocket.|[Chuckles]
+{14063}{14116}Well, just don't|blow yourself up.
+{14118}{14169}[Laughing]
+{14195}{14257}More eggs, anybody?
+{14259}{14330}Nice rocket, Homer.|How high do you think|it will fly?
+{14332}{14415}Well, I got it packed with|the powder from 30 sky rockets.
+{14416}{14463}Three, four miles.
+{14464}{14530}You ready?|Yeah.
+{14531}{14624}Yeah.|[All]|Ten, nine...
+{14626}{14704}Eight, seven, six...|Should we get behind somethin'?
+{14706}{14773}[Grunting]
+{14775}{14850}[Gasps]|Wh-What happened?
+{14852}{14920}- [Homer]|My rocket blew up.|- Are you okay?
+{14922}{14970}- I guess.|- My heart's poundin'.
+{14972}{15058}I thought the mine blew up.|Oh, Homer.
+{15124}{15227}I waited six months for|the company carpenter to get|around puttin' up that fence.
+{15228}{15282}Didn't I tell you|not to blow yourself up?
+{15283}{15344}Yes, ma'am.
+{15346}{15446}Then let's not.|[Sighs]
+{15448}{15528}[Woman] Elsie.|[Elsie]|It's all right, Ms. Fields.!
+{15530}{15585}It's all right.
+{15587}{15653}[Homer's Voice]|Dear Dr. Von Braun,
+{15655}{15701}[TV Announcer]|Six, five, four, three...|My name is Homer Hickam.
+{15703}{15786}Two, one...|I'm 17 and I live in a small|mining town in West Virginia.
+{15788}{15835}Ignition.
+{15837}{15898}Liftoff. Liftoff.
+{15900}{15964}I'm writing to offer|my condolences to you|and your team...
+{15966}{16046}on your recent attempt|to launch the Vanguard rocket.
+{16088}{16195}I also had a disastrous|occurrence during the launch|of my own small rocket.
+{16285}{16342}Since here in Coalwood,|everyone's much more|interested...
+{16343}{16403}in what's down below the earth|than what's above it,
+{16404}{16497}there isn't a whole lot|of material to be found|on the subject of rocketry.
+{16499}{16579}So I've been kind of stumbling|around in the dark.
+{16580}{16669}[music]Don't you give me|no dirty look [music]
+{16671}{16768}[music] Your father's hip|He knows what cooks [music]
+{16770}{16861}[music]Just tell your hoodlum|friend outside [music]
+{16863}{16919}[music] You ain't got time|to take a ride [music]
+{16920}{16975}[music] Yakety yak|Don't talk back [music]
+{16976}{17041}[music] Yakety yak, yakety yak [music]|You can't be seen|with him, Homer.
+{17043}{17114}[Roy Lee]|He's a weirdo.|You go ahead,
+{17116}{17171}but you can kiss|your social life good-bye.
+{17270}{17316}Hi, Homer.|Hi.
+{17611}{17677}I don't let anybody|copy my homework.
+{17679}{17741}I don't wanna copy|your homework.
+{17743}{17806}Um,
+{17808}{17857}do you know anything|about rockets?
+{17859}{17896}Of course I do.
+{17898}{17965}Uh, you wanna come with me|over to the library?
+{17967}{18014}No.
+{18171}{18229}[Students Murmuring]
+{18371}{18418}What do you wanna know|about rockets?
+{18420}{18482}Everything.
+{18535}{18664}Well, rocketry was actually|invented by the Chinese|as early as 1,000 A.D.
+{18666}{18718}And, supposedly,|they were quite sophisticated.
+{18719}{18790}[Chattering Continues]
+{18851}{18914}Potassium chlorate and sulphur.
+{18915}{18991}Uh, well,|what'd you use?
+{19021}{19081}Uh, somethin' like that.
+{19083}{19134}[Homer]|Hey, Quentin, this is great.
+{19136}{19229}This is exactly... We have|everything we need in here.
+{19231}{19277}Roy Lee,|drive me to my house.
+{19279}{19351}We can use my basement.|Yeah, at least nobody'll|see us down there.
+{19353}{19416}Go, go, go.|[Engine Turning Over]
+{19418}{19487}Come on.|[Quentin]|You got a loose choke cable.
+{19488}{19535}You hear that?
+{19536}{19614}The butterfly valve|isn't closin' all the way.
+{19706}{19779}Uh, last year I built|an internal combustion engine...
+{19781}{19832}and entered it|in the science fair.
+{19834}{19901}Yeah, well, you wouldn't happen|to have it on you, would you?
+{19903}{19949}[music] Gonna find her [music]
+{19984}{20061}[music] Gonna find her [music]
+{20063}{20109}[music] Gonna find her [music]
+{20140}{20214}[music] Gonna find her [music]|[music] Yeah [music]
+{20215}{20291}[music]I've been searchin'[music]
+{20293}{20357}[music] Uh, I'm searchin'[music]
+{20359}{20406}[music] Oh, yeah, searchin'[music]
+{20408}{20499}[music]Every which way [music]
+{20500}{20547}Ow!|[music] Oh, yeah [music]|I'm sorry.
+{20548}{20612}[music]Searchin'[music]
+{20614}{20699}[music]I'm searchin'[music]|You missed a spot.
+{20701}{20828}[music]Searchin'every which way [music]
+{20830}{20886}[music]But I'm like that... [music]
+{20887}{20939}This thing's startin'|to look like a rocket.
+{20941}{21044}Listen to this.|"Weld the washer|to the base of the rocket body,
+{21046}{21139}creating a combustion chamber|and nozzle."
+{21140}{21213}We don't know how to weld.|Weld.
+{21215}{21284}Homer,|your brother's in metal shop.|Maybe he could, uh...
+{21354}{21426}- Do we really need|this nozzle thing?|- For cryin'out loud,
+{21427}{21481}the nozzle's|the most important part.
+{21483}{21549}It directs the flow|of the hot gases.!|Hey, cool it, Quentin.
+{21551}{21610}[Roy Lee]|Man, talkin'about|your hot gases.
+{21775}{21871}I don't think your father|would like you sneaking up in|the middle of the night in here.
+{21873}{21970}And I know that he wouldn't|like me welding for you|on company time.
+{21971}{22029}Well, what if I paid|the company for your time?
+{22031}{22088}Homer, I can't.
+{22090}{22149}I would lose my job.
+{22175}{22222}I'm sorry.
+{22223}{22326}Did you see Sputnik go over|the other night?|Nah.
+{22371}{22448}'Cause it was beautiful.
+{22450}{22527}I stood there and watched it|streak across the sky.
+{22529}{22669}And anywhere in the world,|someone could look up|and see exactly what I saw.
+{22671}{22773}For once, it felt like Coalwood|was part of the outside world.
+{22775}{22899}Homer, believe me,|there are much worse places|than Coalwood in this world.
+{22901}{22974}Besides, this is just|a flying piece of steel.
+{23022}{23101}You know, a rocket|took it up there, Mr. Bykovsky.
+{23103}{23156}I don't know. L...
+{23158}{23218}When I was workin'|on this rocket, I felt like,
+{23219}{23326}I felt like I was,|like I was Wernher von Braun.
+{23352}{23400}Let me see.
+{23468}{23515}Homer,
+{23555}{23602}it will be our secret.
+{23647}{23713}Mr. Bykovsky did|a dang good job on this.
+{23715}{23777}Yeah, well,|he used a washer for the weld.
+{23779}{23844}Man, it looks just like it did|in the picture.|Prodigious.
+{23846}{23892}When, uh,|when do we go?
+{23894}{23940}Give me that.|Uh, Saturday...
+{23942}{23994}What is this,|a weapon of some kind?
+{23995}{24073}[Homer Chuckling]|No, sir. It's a,|it's a rocket.
+{24075}{24140}I don't allow dangerous devices|on school grounds.
+{24142}{24240}Mr. Turner, I asked Homer|to bring that to school.|To show it in class.
+{24242}{24350}You know, the boys are|thinkin' about enterin'|that county science fair.
+{24351}{24420}Be careful, gentlemen.|I'm gonna have my eye on you.
+{24422}{24467}Thank you, Mr. Turner.
+{24515}{24567}That science fair is rigged.|All the judges are from Welch,
+{24569}{24629}so only the kids from Welch|ever win.
+{24631}{24697}And besides,|science fairs are for geeks.
+{24699}{24745}No offense, Quentin.
+{24747}{24793}Well, it's too bad|you feel that way.
+{24795}{24887}You know, the winners go on|to the National Science Fair|in Indianapolis,
+{24888}{24973}and colleges from all over the|country hand out scholarships.
+{24975}{25048}It's great.|Have a good lunch, boys.
+{25098}{25167}College scholarships|for winning a science fair?
+{25168}{25215}Well, maybe|it's not for you.
+{25216}{25290}W-W-Well,|what do you mean?|Homer, you got a great mind.
+{25291}{25395}But science requires math,|which has never been one|of your favorite subjects.
+{25432}{25513}[Chuckling]|Can't just dream your way|out of Coalwood, Homer.
+{25659}{25735}Auk I.|Stroke of genius, Homer.
+{25737}{25788}It won't fly unless somebody|lights the fuse.
+{25790}{25842}What the hell is auk?
+{25844}{25894}It's a bird that don't fly.
+{25895}{25949}What, kind of like|a parakeet?
+{25951}{25994}Ready?|[Whistle Blowing]
+{25995}{26105}Well, Youngstown's|always been fair, Otis,
+{26107}{26173}[Chuckling]|But you're askin' me to lay off|damn near half the town.
+{26175}{26255}The mine|is just not producin'...
+{26256}{26306}the way it was|ten years ago, John.
+{26307}{26378}We're payin'the same labor|for half the tonnage.
+{26379}{26458}What if we were|to open up a new shaft?
+{26459}{26516}[John]|That coal is down there, Otis.
+{26518}{26582}You just, you just|let me go after it.
+{26584}{26662}The Coalwood mine|is givin' out, Mr. Hickam.
+{26776}{26823}Move!
+{26860}{26929}Ten...|[All]|Nine, eight,
+{26931}{27006}seven, six, five,
+{27007}{27073}four, three, two...
+{27139}{27237}Uh-oh.|Holy shit,|it's headed for the mine!
+{27295}{27361}- [Yelling]|- I told you we didn't know|what we were doin'!
+{27363}{27409}I told you!|Oh, no. Oh, no.
+{27411}{27468}[Chattering, Shouting]
+{27518}{27570}[Chattering Continues]
+{27599}{27662}[Man]|I don't believe this.|Go ahead.
+{27664}{27752}[Man]|God in heaven, I thought|it was a guided missile.!
+{27754}{27825}[Laughing]|I thought the damn Russians|were attackin'us.
+{27851}{27900}[Man]|The boy's in trouble now.
+{28000}{28085}So this is what you been up to|in the basement, huh?
+{28087}{28159}Yes, sir.|Damn, Homer.
+{28161}{28222}You could've killed somebody|with this idiot thing.
+{28223}{28270}I know, sir.|I'm sorry. I was...
+{28271}{28339}Well, Homer here|wants to be a rocket scientist.|Is that it, John?
+{28340}{28387}He has no idea|what he wants to be.
+{28388}{28486}But I know what he is.|He's a menace,
+{28487}{28534}and he's a damn thief.
+{28535}{28606}Dad...|And so is whoever|helped you.
+{28607}{28663}Ike Bykovsky did this,|didn't he?
+{28664}{28722}Don't you ever|let me catch you...
+{28723}{28808}with these fool things|on company property again,|you understand me?
+{28841}{28911}Yes, sir.|Then go home.
+{29199}{29294}[Phone Ringing]
+{29296}{29365}[Thunderclap]|Yeah?|What's your tunnel number?
+{29367}{29477}He called me a thief, Ma,|in front of everybody.
+{29479}{29566}I mean, how could he do that?|He was dead wrong|callin' you that.
+{29568}{29615}He'd never have done that|to Jim.
+{29616}{29691}They could catch Jim|stickin' up the company store,
+{29693}{29761}and Dad would probably laugh|and say, "That's my boy."
+{29763}{29820}I know he's hard to understand|sometimes, Homer,
+{29822}{29868}but you have to know|he loves you.
+{29870}{29930}He loves the mine...
+{29932}{29979}more than Jim even.
+{29980}{30052}More than you.|You hush up.
+{30054}{30130}[TV: Screaming]|What's it given him back?
+{30131}{30211}Nothin' but a spot on his lung|the size of a damn quarter.
+{30299}{30353}You don't know|what the mine gives me.
+{30380}{30442}You don't know|'cause you're still a boy.
+{30443}{30541}But, by golly, you're gonna|find out soon enough.
+{30585}{30631}[Thunder Continues]
+{30806}{30860}[Scoffs]|I'm never goin' down there.
+{30862}{30930}[Fork Clatters]
+{30931}{30991}You better have a talk|with your son, Elsie,
+{30992}{31060}'cause he's out of control.
+{31438}{31536}Where's my rocket stuff?|Right where they belong.
+{31934}{32010}[Gunshot]
+{32012}{32131}Quentin, you know, that rocket|went up at least 100 feet.|[Gunshots Continue]
+{32132}{32179}More like 200.
+{32180}{32244}[Gunshot]|God...
+{32280}{32385}Man, will you cut it out,|Roy Lee?|Die, you son of a bitch.
+{32387}{32447}Come on.|My turn now.|Hey, man. What's with you?
+{32449}{32499}Man, we should be tryin'|to get in that science fair...
+{32501}{32552}instead of sittin' around here|like a bunch of hillbillies.
+{32554}{32642}I got some really|bad news for you, Homer.|We are a bunch of hillbillies.
+{32643}{32742}Besides, um, didn't your dad|say no more rockets?
+{32743}{32812}No. He said no more rockets|on company property.
+{32814}{32873}Do you realize|how far we'd have to go|to get off company property?
+{32875}{32921}Yeah. We have|to go to Snakeroot.
+{32923}{32979}Snakeroot?|That's eight miles.
+{32980}{33055}It's not that far.|I mean, we could walk|if we have to.
+{33057}{33138}Oh, walk.|That's a fantastic idea.|[Laughing]
+{33139}{33205}Let's go! Come on!|Wake the hell up,|will ya, Homer?
+{33207}{33261}I got about as much chance|of winnin' that science fair...
+{33263}{33317}as you do winnin'|a football scholarship.
+{33319}{33365}I know I'm gonna be|a miner.
+{33367}{33425}I've known my entire life.
+{33427}{33473}What the hell's so bad|about minin' coal?
+{33475}{33521}Nothin', Roy Lee.|Coal minin's great.
+{33523}{33627}That's why your step daddy’s|the biggest drunk|in West Virginia.
+{33628}{33730}I mean, come on, guys!|You know the mine'll kill ya.
+{33732}{33800}Did you ever hear the story|about how O'Dell's dad died?
+{33802}{33885}- Homer,|will you forget it, man?|- Shut up, Homer.
+{33887}{33978}Apiece of slate|caught him right in the neck|and cut his head clear off.
+{33979}{34032}Bitch! Come on!|[Grunting]
+{34034}{34094}O'Dell!
+{34095}{34167}[Car Horn Honking]|Get off of me!
+{34168}{34237}Hey, fellas.|We're lookin' for U.S. 52.
+{34291}{34337}[Engine Revving]
+{34339}{34412}Uh, fellas?
+{34414}{34504}Uh, just, uh, stay left|at the fork. It's about another|five miles straight ahead.
+{34506}{34551}Thanks.
+{34728}{34799}You fellas see the way|she was lookin' at me?
+{34849}{34931}Man, you all wanna|be coal miners,
+{34932}{34991}you all go ahead|and be coal miners.
+{35271}{35331}There. There.
+{35670}{35716}God's honest truth, Homer,
+{35718}{35770}what are the chances...
+{35771}{35825}of a bunch of kids|from Coalwood...
+{35827}{35894}actually winnin'|the National Science Fair?
+{35895}{35950}A million to one, O'Dell.
+{35951}{36018}That good?
+{36019}{36104}Well, why didn't you say so?|Come on. Give me that.
+{36150}{36196}Quentin.|[Grunts]
+{36347}{36408}What?|[Both Chuckling]
+{36910}{36978}We hiked eight miles|for this?
+{36979}{37046}Oh, it's great.|What should we call it?
+{37047}{37094}How 'bout a slack dump?
+{37095}{37165}[O'Dell]|What about "No Man's Land'?
+{37167}{37226}Cape Coalwood.
+{37227}{37287}I mean, it's perfect.
+{37289}{37344}We could build a blockhouse|over there...
+{37346}{37392}and, and a, and a,|and a launch pad.
+{37421}{37476}And we could even build|a test stand.!
+{37784}{37831}[Homer's Voice]|Dear Dr. Von Braun,
+{37832}{37889}our launch site,|which we've named Cape Coalwood,
+{37891}{37942}is nearing completion.|[Shouting]
+{37982}{38050}Thanks to the generosity|of local businesses.|[music] Come on, baby [music]
+{38051}{38096}[music]Let the good times roll [music]
+{38098}{38174}[music] Come on, baby|Let the good time roll [music]
+{38176}{38247}[music]Roll all night long [music]
+{38278}{38337}Inspired by our efforts,
+{38339}{38432}everyone is anxious to help|by donating materials.
+{38434}{38550}[Chattering, Laughing]|We've been fortunate to have|the support of our classmates.
+{38551}{38612}And the whole community|here in Coalwood is behind us.
+{38614}{38675}Hey, rocket boy.|Mars is that way.|[Laughing]
+{38677}{38744}But no one has been more|encouraging to our efforts|than my father.
+{38746}{38846}No, the company doesn't have|any cement left over|for launch pads.
+{38847}{38894}I just thought I'd ask.
+{38895}{38970}Besides, I told you|no more rockets.
+{38972}{39049}Uh, you said no more rockets|on company property.
+{39051}{39102}And Olga|doesn't own Snakeroot.
+{39104}{39173}So, you walk eight miles?
+{39175}{39221}Yes, sir.
+{39283}{39355}Well, tell me something,|Homer.
+{39356}{39435}Uh, what exactly is|this Wernher von Braun...
+{39437}{39501}and the rest of those Germans|accomplishin' anyway?
+{39503}{39586}'Cause if you ask me,|it's nothin' but a stunt.
+{39587}{39679}You think, you think catchin' up|to the Russians in space|is a stunt?
+{39680}{39754}When the novelty wears off,|they're all gonna be|sent packin'.
+{39756}{39872}Maybe then they'll have|to find themselves a real job.|Like minin' coal?
+{39900}{39947}You listen here.
+{39948}{40026}The coal we mine|makes steel, Homer.
+{40027}{40110}And if steel fails,|this country fails.
+{40111}{40175}If you had half a damn brain|in your head, you'd know that.
+{40177}{40223}[Phone Ringing]
+{40276}{40343}Well, who's down there now?
+{40345}{40409}Hold on just a second.|Hey, listen here.
+{40411}{40484}I had an engineer estimate|a new walkway.
+{40486}{40545}They had some cement left over,
+{40547}{40607}so it got caught in the rain...|it's probably ruined.
+{40609}{40674}But if you wanna haul it out,|it's all yours.
+{40676}{40723}Thanks, Dad.
+{40755}{40801}I'll be down there|in a minute.
+{40911}{41012}And Miss Riley wanted|to make sure you document|your results.
+{41014}{41071}You will be graded|when she returns.
+{41072}{41122}You have one hour.
+{41124}{41195}Potassium chloride|has a potassium atom.
+{41197}{41291}If we mix it with sugar|and add heat,
+{41293}{41358}we'll get three parts oxygen,|two parts carbon dioxide,
+{41360}{41414}along with some|other by-products.
+{41415}{41473}In other words, lots|of good expanding gases.
+{41475}{41538}It should make|an excellent propellant.
+{41540}{41593}It smells like candy. Ooh!
+{41636}{41689}- [Chuckles]|- [Man]|Better get started.
+{41730}{41790}All right, quick.|Get rid of it.
+{42095}{42155}[All Screaming]
+{42156}{42220}[Chattering]
+{42296}{42362}[Radio]|[music] Only you [music]
+{42363}{42422}[music][Continues, Indistinct]
+{42486}{42573}Mr. Bolden, have you seen|Mr. Bykovsky around?
+{42575}{42638}He's not in the shop anymore.
+{42663}{42718}Your dad sent him down|to the mine.
+{42719}{42805}[music]For only you [music]
+{42835}{42912}He's takin' it out on you|because you helped me.
+{42914}{43000}That's enough of that.|Your father is a fair man.
+{43002}{43071}If he's strict,|it's because he has to be.
+{43072}{43154}Besides, he did me a big favor,|transferring me from|the machine shop.
+{43155}{43202}What are you talkin' about?
+{43203}{43265}I can make twice|as much money down there|working the high coal.
+{43267}{43327}You can?
+{43329}{43418}I've got relatives in Europe|who've had hard time recovering|from the war.
+{43420}{43486}They depend on me|for whatever I can provide.
+{43488}{43539}So, believe me,|I can use the extra money.
+{43541}{43611}I'm just sorry|I won't be able to weld|any more rockets for you.
+{43682}{43728}That's for good luck.
+{43822}{43889}May-Maybe you could teach me|how to weld.
+{43891}{43972}Welding|is very difficult, Homer.|I could learn.
+{44055}{44101}You don't give up,|do you?
+{44154}{44182}I can't.
+{44183}{44272}[Buzzer Buzzing]
+{44431}{44490}Come on, son.|[Homer]|Hi, Mr. Bolden.
+{44591}{44657}Hey, Homer.|I heard you tellin' Ike...
+{44659}{44727}you were gonna be shootin' off|another rocket up here today.
+{44728}{44814}I, I thought that might|be somethin'we'd like to see.
+{44842}{44899}Whoa!
+{44932}{44982}[Boys]|Eight, seven,
+{44984}{45036}six, five,
+{45038}{45105}four, three...
+{45163}{45213}Hey, look out!
+{45252}{45294}[Homer]|Mr. Bolden.!
+{45326}{45398}Mr. Bolden,|are you okay?|[Grunting]
+{45399}{45450}[Sighs]|I'm all right.
+{45491}{45565}I'm sorry about that, sir.|Oh, that's all right.|That's all right.
+{45567}{45664}Homer, I flew with the Red Tails|in World War II.
+{45666}{45723}And seein' that rocket|come at me...
+{45724}{45776}it almost|took me back there.
+{45802}{45860}Hey, let me have|a look at that thing.
+{45922}{45968}That's a good job|on the weld, Homer,
+{45970}{46070}but the heat from the exhaust|melted the washer.
+{46071}{46166}It's referred to|as a nozzle... uh, sir.
+{46168}{46248}Son, you can call it|whatever you wanna call it,
+{46250}{46357}but you're gonna have to have|a better steel that can take|the heat.
+{46359}{46458}Now I'd say S.A.E. 10-20 bar|stock ought to do you fine.
+{46459}{46543}And I can order it for you.|Well, that'd be great,|Mr. Bolden.
+{46545}{46656}But it's kind of expensive.|Um...
+{46658}{46747}Twelve miles of scrap iron,|and all we gotta do|is pop it loose.
+{46749}{46831}Yeah. Now what are we gonna|tell the railroad when they|catch us pryin' up the track?
+{46832}{46918}It's abandoned.|See, the county's covered|with abandoned spur lines.
+{46920}{46986}A mine shuts down,|the track just rusts over.
+{46987}{47053}[Grunting]
+{47055}{47177}[Gasping]|$8.20.
+{47179}{47251}This is worth eight twenty?
+{47253}{47316}A ton.
+{47318}{47378}Come on.|[Clears Throat]
+{47419}{47465}[Chattering]
+{47467}{47517}[Grunting] Go, go!|This thing weighs a ton|all by itself!
+{47519}{47565}[Chattering Continues]
+{47567}{47613}Four-hundred pounds.|[Panting]
+{47615}{47676}Four-hundred pounds?
+{47678}{47730}All right.
+{47731}{47806}O'Dell, you're sayin' this thing|is worth a buck 65?
+{47808}{47855}[Grunting]
+{47856}{47915}Woo-hoo!|[Laughing]
+{47995}{48042}[Sighs]
+{48092}{48139}Whoa.
+{48168}{48232}[Whistle Blowing In Distance]
+{48341}{48414}[Blowing Continues]
+{48511}{48557}O'Dell?
+{48559}{48654}L-It's abandoned.|Uh, look at the rust.
+{48655}{48744}Caretta number two|shut down in '51.
+{48746}{48802}[Whistling Blowing Loudly]|Shit!
+{48803}{48869}Get it up! Get it up!|Just get it up!
+{48871}{48930}Give me a hand, man.|Come on!
+{48931}{48980}[Grunting]
+{49006}{49074}[Shouting]|[Grunting Continues]
+{49075}{49135}Forget it! Forget it!|Just stop the train!
+{49137}{49183}Roy Lee!
+{49232}{49297}Stop!|Stop! The track's out!|[Whistle Blowing]
+{49299}{49353}Stop!|Stop!|Stop it!
+{49355}{49441}- [Shouting Continues]|- [Whistle Blowing]
+{49443}{49484}Stop!|Stop!
+{49486}{49555}The track!
+{49556}{49630}[Whistle Blowing]
+{49632}{49679}[Screeching]
+{49779}{49850}[music] You made me cry [music]
+{49852}{49922}[music] When you said good-bye [music]
+{49923}{50013}[music]Ain't that a shame [music]
+{50015}{50097}[music]My tears fell like rain [music]
+{50099}{50169}S.A.E. 10-20 bar stock.|[music]Ain't that a shame [music]
+{50171}{50233}[music][Continues, Indistinct]|Then go 30 degrees crucial.|When the fuel combusts,
+{50235}{50291}i-it creates|a controlled explosion.
+{50292}{50358}The nozzle directs|a, a, a river of hot gas...
+{50360}{50457}tha-that can reach th-the speed|of sound when it hits|the mouth of the nozzle!
+{50459}{50521}Hey, Quentin.|Sorry.
+{50523}{50591}[music]Ain't that a shame [music]|[Shouting]
+{50592}{50684}[music]My tears fell like rain [music]|It's called a tapered bore.
+{50686}{50774}A tapered bore.|Now he's takin' off|just a little bit at a time.
+{50776}{50853}[music] You are to blame [music]
+{50888}{50935}[music] Oh, well [music]
+{50936}{51005}[music] Good-bye, although [music]
+{51007}{51061}[music]I'll cry [music]
+{51063}{51143}[music]Ain't that a shame [music]
+{51144}{51199}[music]My tears fell like rain [music]
+{51201}{51250}Good deed, good deed.
+{51251}{51344}[music]Ain't that a shame [music]
+{51346}{51399}[music] You're the one to blame [music]
+{51431}{51483}I'm concerned that the mass|of the added propellant...
+{51485}{51559}compared to the mass|of the empty rocket|will be too little.
+{51561}{51604}Uh, he's afraid|it'll be too heavy.
+{51606}{51654}Why don't we just|make it longer?
+{51656}{51766}Longer would allow increased|volume for the propellant|without much additional mass.
+{51767}{51814}Great idea.
+{51919}{51998}[music] Well, you made me cry [music]
+{51999}{52086}[music] When you said good-bye [music]
+{52087}{52166}[music]Ain't that a shame [music]
+{52168}{52214}[music]My tears fell like rain [music]
+{52215}{52277}[Explosion]
+{52279}{52342}[music]Ain't that a shame [music]
+{52344}{52399}[music] You're the one to blame [music]|[Chuckling]|Yeah.
+{52401}{52458}[Laughing]|We got one!
+{52459}{52505}[music] Oh, well [music]
+{52507}{52553}[music] Good-bye [music]
+{52555}{52625}[music]Although I'll try [music]
+{52627}{52718}[music]Ain't that a shame [music]
+{52719}{52786}[music]My tears fell like rain [music]
+{52811}{52867}[music]Ain't that a shame [music]
+{52911}{52958}[music] You're the one to blame [music]
+{53051}{53155}My guess is, is we're gettin'|air pockets in the body|of the propellant.
+{53157}{53234}When the fire hits 'em,|they act like little|combustion chambers.
+{53236}{53296}I think we're gonna need|a liquid binder of some sort.
+{53298}{53426}What about gasoline?|That's a good idea.
+{53427}{53495}"Four unidentifiable|high school students...
+{53497}{53604}Lost their lives|earlier this mornin'|when their toy rocket exploded."
+{53606}{53704}Alcohol.|I mean, alcohol's stable.
+{53706}{53785}And it'll evaporate quickly.
+{53787}{53850}Yeah, but it'd have|to be 100% undiluted.
+{53852}{53917}None of that watered-down stuff|they sell at the company store.
+{53919}{53974}I have no idea|where we could find that.
+{53975}{54054}[music][Men Scatting]
+{54056}{54125}Listen. I know these fellas,|so let me do all the talkin'.
+{54127}{54179}I'm not gonna say a word.
+{54181}{54227}[music]Now they often|call me Speedo [music]
+{54229}{54301}[music]But my real name is Mr. Earl [music]|[Man]|Is that rocket fuel or what?
+{54303}{54372}[Laughing]
+{54374}{54420}[music]Now they often|call me Speedo [music]
+{54422}{54503}[music]But my real name is Mr. Earl [music]
+{54543}{54610}[music] Well, now some|may call me Joe [music]
+{54611}{54658}[music]Some may call me Moe [music]
+{54659}{54742}[music]Just remember Speedo|He don't ever take it slow [music]
+{54743}{54792}[music] Well, now they often call me|Speedo [music]
+{54794}{54869}[music] 'Cause I don't believe|in wastin'time [music]
+{55116}{55244}Great.|How'd they find out|about it?
+{55246}{55310}My brother.
+{55362}{55432}You know, we poop out this time,|the whole county's gonna be|laughin' at us.
+{55434}{55511}Who cares|what any of them think?|Easy for you to say, Quentin.
+{55513}{55577}You're used to people|makin' fun of you.|All right now.
+{55579}{55625}Quentin's right, y'all.
+{55627}{55698}Homer, you don't have to prove|anything to anybody.
+{55700}{55748}You remember that.
+{55750}{55822}Now go launch yourself|a rocket.
+{55843}{55910}[Chattering]
+{55911}{55975}[Man]|Come on, boy.|Homer!
+{55977}{56035}Hello, Dorothy.
+{56037}{56120}Is that thing|really gonna fly?|Well, it, uh...
+{56122}{56248}That thing had better fly,|or you can kiss your chances of|losin' your virginity good-bye.
+{56250}{56323}Hey, couldn't you guys|find somethin' better to do?
+{56325}{56383}Hey, listen. There's|no practice on Saturdays.
+{56384}{56453}You little sisters|are the only entertainment|in town.
+{56455}{56513}Yeah, we were gonna|drive over to War,|but then we thought,
+{56515}{56576}hey, let's go see Homer|blow himself up.
+{56604}{56674}That's real funny, Jim.
+{56675}{56746}[Chattering Continues]
+{57086}{57137}[Jim]|Hey, Homer. Come on.|We don't got all day.
+{57139}{57237}Shut up, Jim.|Homer, everything ready?
+{57239}{57285}Wait, wait.|What?|What do you mean, wait?
+{57287}{57348}[O'Dell]|Where are you goin'?
+{57374}{57420}[Chattering]
+{57662}{57718}[Girl]|Hurry up, y'all.
+{57719}{57795}All right. It won't fly unless|somebody pulls the string.
+{57958}{58018}[Homer]|Ten...|[All] Nine, eight,
+{58019}{58079}seven, six,
+{58080}{58146}five, four...
+{58239}{58300}Oh, my God!
+{58327}{58377}[Chattering,|Clapping, Cheering]
+{58379}{58450}[Cheering Continues]
+{58691}{58737}[Girl]|That's great.!
+{58856}{58976}Homer,|that was unbelievable!|Let's go, Dorothy.
+{58978}{59023}I'll tell you|what's unbelievable...
+{59024}{59124}the captain of the football team|bein'jealous of you.|[Chuckling]
+{59126}{59184}What you think about gettin'|in that science fair now?
+{59186}{59253}I think we got a chance.
+{59370}{59421}[Elsie]|Well, bless her heart.
+{59423}{59487}Aunt Joanne hasn't seen you|in about a year and a half.
+{59489}{59559}- [Jim]|You look like a sausage.|- He does not.
+{59594}{59658}Happy birthday, Homer.|[Smacks Lips]
+{59659}{59726}It'll stretch some|when you wear it.
+{59727}{59794}You be sure and send her|a nice thank you note now.|All right.
+{59796}{59862}John?|Huh?
+{59864}{59948}Oh, happy birthday, Homer.
+{59950}{60020}And I got this in the mail.
+{60022}{60089}Must be a present|from Grandma.
+{60091}{60137}What's this?
+{60253}{60301}Oh, it's|an autographed picture.
+{60303}{60405}Of Grandma?|Rather get socks.|Wernher von Braun.
+{60407}{60478}Well, wonder how he knew|it was your birthday.
+{60479}{60526}[Homer]|I don't reckon he did.
+{60527}{60628}"Dear Homer, congratulations|on your rocket building.
+{60630}{60676}Continue your education|and maybe one day... '
+{60678}{60738}Boy, you better take an interest|in your own damn town.
+{60763}{60810}Instead of wastin'your time,
+{60811}{60890}worryin'about Wernher von Braun|and, uh, uh, Cape Canaveral.
+{60892}{60975}John, it's his birthday.
+{61047}{61106}All right, Homer. Uh...|[Phone Rings]
+{61164}{61226}[Ringing Continues]
+{61283}{61377}[Ringing Stops]|[John]|Yeah?
+{61379}{61438}Homer, there's strike talk|startin' up again.
+{61440}{61492}Your father's...|Yeah, he's got a lot|on his mind.
+{61494}{61559}Yeah, well,|I don't give a damn.
+{61600}{61678}"Principles|of Guided Missile Design."
+{61679}{61761}[Miss Riley] I had|Miss Waters order it for you|a while back, and it just came.
+{61808}{61877}I know the math|is too advanced for you.|It is for me too.
+{61879}{61952}There's calculus,|differential equations...|No, I'll learn the math.
+{61954}{62032}This is great, Miss Riley.|I'll learn everything.
+{62034}{62080}It's the best present|that anyone's ever given me.
+{62115}{62196}Thank you.|I'm gonna show the guys.
+{62198}{62263}Well, Quentin|will probably go cra...|Goodness gracious, Hickam.
+{62265}{62342}Watch where you're goin'.|Just...
+{62343}{62394}- Where'd you get this?|- I gave it to him.
+{62427}{62473}Bye, Miss Riley.
+{62531}{62636}Miss Riley, our job is to give|these kids an education,|not false hopes.
+{62638}{62722}False hopes?
+{62724}{62822}Do you want me to sit quiet,|let 'em breathe in coal dust|the rest of their life?
+{62823}{62900}[Sighs]|Miss Riley, once in a while,
+{62902}{62968}a lucky one will get out|on a football scholarship.
+{62970}{63048}The rest of'em|work in the mines.
+{63050}{63124}How about I believe|in the unlucky ones, hmm?
+{63126}{63206}I have to, Mr. Turner,|or I'd go out of my mind.
+{63270}{63351}[Elsie Muttering]|[John Laughing]
+{63352}{63402}[Man]|It's good, it's good.|[John] Hey, Homer.
+{63404}{63464}Happy birthday, son.
+{63466}{63512}Got some good news|for you, Homer.
+{63514}{63594}Say hello to Fred Smith from|the University of West Virginia.
+{63595}{63646}Hello, Homer.|Hi, sir.
+{63647}{63742}Mr. Smith wants Jim to play|football there. He's offerin'|him a full scholarship.
+{63744}{63791}Well, congratulations, Jim.
+{63792}{63846}Do you play ball, son?
+{63847}{63938}No, Homer shoots off rockets.|Whoosh and all that st...
+{63939}{63986}Well, rockets|are not exactly my field, son,
+{63987}{64046}but maybe if you work hard,|you'll go to college too.
+{64047}{64112}Yeah, on a science fiction|scholarship, maybe.|[John]Jim.
+{64391}{64443}[Homer's Voice]|Dear Dr. Von Braun,
+{64445}{64506}thank you|for the autographed picture.
+{64507}{64566}It will only further inspire me|to keep working...
+{64567}{64648}toward our all-important goal|of entering that science fair|this spring.
+{64985}{65031}[Clears Throat]
+{65264}{65330}We're shootin' off|a rocket today.
+{65374}{65432}I th-thought you'd like|to come see it.
+{65434}{65503}I gotta catch up|on some work.
+{65557}{65649}Ho-How come,|how come you never have work|when Jim plays football?
+{65651}{65697}You never miss a game.
+{65742}{65788}[Sighs]
+{65827}{65880}What time|are you gonna do it?
+{65907}{65953}About 4:00.
+{65992}{66091}Uh, I can't promise you...|[Rumbling, Glass Breaks]
+{66093}{66166}Somebody pulled a pillar|too close.|[Alarm Blares]
+{66168}{66251}[Rings]|[Alarm Continues]
+{66252}{66316}Yeah?
+{66318}{66414}Well, thank God for that.|Yeah, right now.
+{66469}{66527}Nobody hurt.|[Man Shouts]
+{66603}{66666}[Shouting Continues]
+{66683}{66765}[Music] Go, Rocket Boys [music][music]|[Cheering]
+{66806}{66902}Ten!|[Together]|Nine, eight, seven,
+{66903}{66948}six, five,
+{66950}{67006}four, three, two,
+{67008}{67048}one, liftoff!
+{67135}{67181}[Cheering]
+{67300}{67348}[Cheering, Clapping Continue]
+{67441}{67477}You got it?|Can you see?
+{67479}{67528}[O'Dell]|Uh, no. Yes.|[Roy Lee] See it?
+{67530}{67605}Yeah, I see it.|What's the time?
+{67607}{67680}Looks like 12 seconds.|Which one of you fellas|is Homer Hickam?
+{67682}{67767}Um, it's me, sir.|I'm Basil Thorpe|with the Bluefield Telegraph.
+{67769}{67830}Can I ask you|a few questions?
+{67832}{67879}Sure.|[Chuckles]
+{67880}{68004}[Homer] "The silvery cylinder|burst forth in a fiery column|of smoke and flame,
+{68006}{68087}"racing the very wind|as it soared into the sky,
+{68089}{68142}"a messenger of these|Rocket Boys of Big Creek...
+{68143}{68208}"these boys who use|their brains, not brawn,
+{68210}{68294}who play not football,|but with Apollo's fire."
+{68295}{68347}[All Chuckling]|Hi, Homer.
+{68349}{68446}Hi, Dorothy.|Would you please sign|my newspaper?
+{68448}{68503}Sure.
+{68505}{68566}I just know you're gonna be|really famous someday.
+{68639}{68748}- H-O-M-E-R.|- [Dorothy Giggling]
+{68783}{68844}Which one of you fellas|is Homer Hickam?
+{68876}{68930}Excuse me. Excuse me.
+{69002}{69071}Which cost the taxpayers...|What in the world|is goin' on?
+{69072}{69132}Miss Riley,|this does not concern you.
+{69134}{69188}You have these boys|in handcuffs.
+{69190}{69295}You have these boys|in handcuffs in a high school,|Mr. Turner.
+{69296}{69371}You probably heard|about the forest fire last week|over by Welch.
+{69373}{69460}A lot of timber went up.|Mr. Turner, you take|these handcuffs off these boys.
+{69462}{69524}They found a rocket|on the side of the road.
+{69526}{69604}We knew it started the fire,|ma'am. What we didn't know|is where it came from,
+{69606}{69674}till this morning.
+{69675}{69747}Mr. Hickam, can you account|for all your rockets?
+{69748}{69795}No, sir. I can't.
+{69883}{69929}[Chattering]
+{70091}{70152}If you weren't a minor,|you'd be in the state penitentiary.
+{70154}{70218}I know, Dad. L...|Homer, I've been|confused by you,
+{70220}{70276}I've been mad as hell|at you.
+{70278}{70349}But, boy, it's the first time|in your life I've been ashamed|of you.
+{70351}{70418}[Roy Lee Grunting, Yelling]
+{70419}{70518}- [Grunting Continues]|- You couldn't stop, man.|You couldn't!
+{70520}{70590}Get in the car, Homer!|[Yelling Continues]
+{70591}{70638}Homer, get in the car.
+{70639}{70718}[Man Grunting]|Idiot.! I ought|to goddamn kill ya.
+{70763}{70810}[Grunts]
+{70854}{70940}We ain't at the mine now.|This ain't your business.
+{70942}{70999}You get in the car|with Homer, son.
+{71028}{71090}You listen to me,|you drunken son of a bitch.
+{71092}{71175}If that boy's father was alive,|he'd kick your ass.
+{71176}{71226}So I'm gonna|have to do it for him.
+{71228}{71313}If I see him with a bruise,|you get a scar.
+{71315}{71382}If I see him with a limp,|you get crutches!
+{71418}{71498}[John]|You hear me?|Do you hear me?
+{71601}{71663}You know,|I'm reportin' you to the union!
+{71665}{71725}Screw you|and your damn union.
+{72108}{72225}Your father was|one of the best men|I ever had workin' for me.
+{72363}{72418}I was lucky to know him.
+{72420}{72482}[Engine Starts]
+{73622}{73668}Come on.
+{73714}{73778}Let's go have some fun|for a change.
+{74175}{74239}[music]In love [music]
+{74241}{74307}[music] Why does my heart [music]
+{74309}{74368}[music]Skip a crazy beat [music]
+{74370}{74487}[music]For I know|it will beat, beat, beat [music]
+{74488}{74580}[music] Tell me why [music]|They watched us get arrested.
+{74582}{74654}[Quentin]|We're practically ex-convicts.
+{74656}{74709}They'll never dance with us.
+{74711}{74790}Jesus, Quentin.|You don't know anything|about women.
+{74792}{74856}[music] Why do fools [music]
+{74858}{74947}I heard she broke up|with that dumb jock.|[music]Fall in love [music]
+{75007}{75073}See you later, hopeless.|[Clapping]
+{75150}{75225}[music]Many a tear has to fall [music]
+{75287}{75393}[music]But it's all in the game [music]
+{75500}{75592}[music]All in the wonderful game [music]
+{75594}{75670}[music] That we know [music]
+{75671}{75734}[music]As love [music]
+{75736}{75785}Hi, Homer.
+{75787}{75833}Hi, Dorothy.
+{75835}{75945}- [music] You have words [music]|- Jim, look who's here.
+{75947}{76006}Yeah, ain't it past|your bedtime?
+{76007}{76070}[music]And your future's looking [music]|Let's go.
+{76071}{76132}Hey, Jim.|[music]Dim [music]
+{76159}{76248}[music]But these things [music]|Way to go.
+{76250}{76334}[music] Your hearts can rise [music]
+{76336}{76392}[music]Above [music]
+{76479}{76567}[music] Once in a while|he will call [music]
+{76818}{76877}[music] When the twilight is gone [music]
+{76879}{76952}[music]Ah, ah [music]
+{76954}{77011}Hi, Valentine.|[Thunder Rumbling]
+{77012}{77066}[music]Ah [music]
+{77068}{77134}I'm glad you didn't|go to jail.|[music] When the twilight is gone [music]
+{77135}{77210}[music]Ah, ah [music]
+{77211}{77260}[music] You come into my heart [music]
+{77262}{77318}[music]Ah [music]
+{77319}{77419}[music]And here in my heart|you will stay [music]
+{77421}{77467}[Thunder Rumbling]
+{77469}{77563}It sure was exciting|watching your rockets|go up.
+{77689}{77818}[music]My prayer [music]
+{77819}{77937}[music]Is to linger with you [music]
+{77968}{78054}[music]At the end of the day [music]
+{78378}{78436}[Train Rumbling Overhead]
+{78530}{78626}You ever see that movie,|Frankenstein Meets|the Wolf Man?
+{78783}{78830}[Car Horn Honking]|[Boy]|Homer.!
+{78831}{78894}Homer!|Down here!|Homer!
+{78896}{79000}Homer.! Homer.!|What is it?
+{79297}{79369}Mom.! Mom.!
+{79371}{79452}[Panting]|Mom?
+{79454}{79532}Your father always has to be|the big hero.|[Siren Wailing]
+{79534}{79622}I swear to God,|if he gets killed,|I won't shed a tear.
+{80088}{80135}It's comin' up!
+{80523}{80583}[Screaming, Chattering]
+{80791}{80838}[Woman]|Who-Who is it?
+{81086}{81181}[Man]|It's Ike Bykovsky.|Bykovsky.
+{81291}{81338}[Man]|It's John Hickam.!
+{81373}{81430}Dad, Dad!|[Man]|The cable snapped.
+{81431}{81479}May have fractured|his skull!
+{81578}{81692}Get out of the way.|Move back, folks!|Let us through here!
+{81738}{81856}Tell you what, Homer.|A dozen men would've died today|if it hadn't been for your dad.
+{82209}{82267}[Siren Wailing]
+{82936}{82995}Thank you, doctor.
+{82997}{83067}Mm-hmm. Bye-Bye.
+{83493}{83602}The, uh, doctor|says...
+{83603}{83703}there's a chance your dad|could lose his eye.
+{83705}{83814}He has to go to the hospital|in Charleston,
+{83816}{83887}and Olga won't pay|for all of it.
+{83888}{83998}I'm gonna go down to the mine|and ask Jake Mosby|to sign me on.
+{84000}{84071}You can't do that, Jim.|You've got school.
+{84072}{84160}Olga owns this house, Mom,|and half the furniture in it.
+{84162}{84250}If you drop out,|you'll lose your scholarship.
+{84251}{84368}- Homer, I'm the oldest.|It's my responsibility.|- I'll work in the mine.
+{84427}{84566}[Phone Ringing]
+{85238}{85308}Here you are,|Mr. Turner.|Thank you, Miss Wade.
+{85405}{85490}Mining coal|is an honorable trade,|Mr. Hickam.
+{85563}{85627}Nothing to be ashamed of.
+{85975}{86032}Miss Riley!|Miss Riley!
+{86230}{86300}[Alarm Clock Ringing]
+{88151}{88197}Turn your light on, boy.
+{89305}{89365}Remember when you|gave me these, John?
+{89367}{89426}Carbon crystals|from the mine.
+{89428}{89523}Yeah. Honeymoon.|At Myrtle Beach.
+{89556}{89655}And you said,|"You always wanted diamonds.
+{89657}{89748}But these are|the best I can do.|I wish they were real."
+{89750}{89850}John, I never|wanted diamonds.
+{89995}{90042}This whole year...
+{90043}{90122}has been pretty rough going|down at the mine.
+{90162}{90223}Bad tempers...
+{90225}{90300}and a lot of strike talk.
+{90302}{90408}An accident|makes things worse.
+{90443}{90499}In a way, I guess,
+{90501}{90600}I'm the one who's responsible|for what happened|to Mr. Bykovsky.
+{90602}{90660}Listen to me, Homer.
+{90702}{90758}Last month,
+{90759}{90862}I gave Ike the chance|to go back to the machine shop,
+{90863}{90910}and he turned it down.
+{90911}{90991}Yeah, he stayed in the mine|'cause the money was better.
+{90993}{91066}That was his decision.
+{91067}{91146}You understand me?
+{91147}{91194}Yes, sir.
+{91243}{91370}Well, is mining coal as terrible|as you figured it'd be?
+{91372}{91431}I guess not.
+{91468}{91532}But almost.|[Laughing]
+{91567}{91614}[Coughing]
+{92000}{92108}Everybody says to say hi.|Michael and Billy.
+{92110}{92162}Valentine Carmina.
+{92164}{92211}How about Miss Riley?
+{92212}{92331}She ain't been around much.|She got some new boyfriend|over in Welch.
+{92360}{92444}So, uh, what's it like|down there?
+{92530}{92588}You get used to it|after a while.
+{92618}{92694}Besides, shoveling coal|has got its advantages.
+{92695}{92756}Check this out.
+{92758}{92851}Man, no wonder my stepdad|can slug me so good.
+{92853}{92923}After a month down there,|you'd be able|to knock him out.
+{92985}{93048}Well, I ain't|in no hurry.
+{93050}{93168}[Work Whistle Blowing]
+{93285}{93344}See ya all later.|See ya, man.
+{93346}{93392}See ya, Homer.
+{93430}{93501}In Christ's name,|we pray. Amen.
+{93503}{93549}Amen.
+{93651}{93733}We appreciate the sacrifice|you made here, Homer.
+{93735}{93842}But pretty soon,|you'll be able to go back|and finish up the school year.
+{93874}{93922}I'm not going back|to school.
+{93924}{93982}A few weeks left in the term,
+{93983}{94039}I'll just stay put.
+{94041}{94111}Well, I think you ought|to finish high school.
+{94179}{94232}Well, tell him, John.
+{94272}{94331}Homer's not a boy anymore.
+{94384}{94455}I don't think|I can tell him anything.
+{94457}{94503}[Dishes Clattering]
+{94757}{94856}[Jake] All I'm saying, John,|is the cutoff was not done|proper according to contract.
+{94858}{94904}Well, the company did|what it had to do.
+{94906}{94965}Well, you know the union|won't put up with it.
+{94967}{95066}Just give it a rest, Jake.|It's my first day back.
+{95187}{95278}Hey, Lenny,|how's he doing?
+{95280}{95328}He's a chip|off the old block, John.
+{95330}{95402}It's good|to have you back.|[Chuckling] Thank you.
+{95505}{95617}Hi.|I'm headed toward the face.|You wanna come along?
+{95717}{95782}[John]|Even though I don't have|that piece of paper...
+{95784}{95863}the thing from college...|they listen to me.
+{95865}{95911}You know why?
+{95913}{95983}'Cause you know more|than they do.
+{95985}{96062}You bet your life|I do. Homer.
+{96064}{96154}I know the mine|like I know a man.
+{96156}{96246}Heck, I can take|one look around here...|[Coughing]
+{96291}{96346}Are you all right?
+{96347}{96402}Yeah, I'm not afraid|of a little coal dust.
+{96404}{96476}Hell, Homer,|I was born for this.
+{96478}{96570}I guess|it shouldn't surprise me|that you were too.
+{96572}{96634}Let's go watch 'em|shoot some coal.
+{96811}{96917}Elsie, hold dinner|for a while, will you?
+{96919}{96977}I have to make a call.
+{97107}{97153}Homer,
+{97203}{97291}I was in the store today,|and I heard some talk.
+{97598}{97678}Boy, it's sure hard|to keep a secret in this town,|isn't it?
+{97680}{97752}But I guess I did|a pretty good job.
+{97754}{97871}You know, there's a rumor going|around that I been sneaking off|to Welch to see some beau.
+{97873}{97943}I wish that rumor'd|been true.|Yeah.
+{97945}{98071}They told me Hodgkin's|can go into remission,|so I might have some time.
+{98073}{98134}Is there anything I can do,|Miss Riley?
+{98136}{98215}You can accept|my apology.
+{98217}{98282}For what?
+{98284}{98342}My life's work|is teaching.
+{98343}{98427}And I believed|that if you boys won|that science fair,
+{98429}{98546}got scholarships, went off|and did something great|with your lives,
+{98548}{98615}somehow my life|would have counted|for something.
+{98665}{98711}Homer.
+{98779}{98835}You know what?
+{98837}{98954}Sometimes you really|can't listen to what|anybody else says.
+{98956}{99028}You just gotta|listen inside.
+{99030}{99102}You're not supposed to|end up in those mines.
+{99104}{99187}You know why?|'Cause I think|you made other plans.
+{99189}{99271}I want you|to know something.
+{99273}{99375}I'm proud of you.|I am.
+{99377}{99447}Whatever you choose.
+{100216}{100263}[Ringing]
+{100567}{100626}[Mine Alarm Blaring]
+{101874}{101983}Excuse me, ma'am,|is Quentin home?
+{102099}{102136}Quentin.
+{102252}{102348}Homer, y-you figured|this equation out|by yourself?
+{102350}{102438}Well, if I did the math right.|It proves that you can't...
+{102440}{102511}l-It proves we didn't|start that fire!|Quentin, what're you doin'?
+{102513}{102597}Now, the AUKXIII was|the only one that we couldn't|find that day.
+{102599}{102661}And our best guess|for fall time|with the AUKXII,
+{102663}{102736}which is exactly identical,|was about 14 seconds.
+{102738}{102794}If you help me|with the trig part,|Quentin,
+{102796}{102884}we should be able|to make a good guess|where that rocket landed.
+{103212}{103274}Six thousand,|three hundred|and twenty-eight feet.
+{103300}{103366}One point two miles.
+{103399}{103445}Homer?|Yeah?
+{103508}{103620}Are you gonna tell|Roy Lee and O'Dell|where I live?
+{103622}{103740}It wouldn't matter|if you lived|in the governor's mansion,
+{103742}{103829}they'd still think|you're weird.
+{103939}{104003}I'll see you at dawn.
+{104005}{104071}Don't you have to go|to the mine?
+{104073}{104131}I don't work there|anymore.
+{104503}{104550}One.
+{104715}{104761}Two.
+{104987}{105034}Ninety-nine.
+{105127}{105173}A hundred seven.
+{105641}{105695}One hundred|and twenty-six.
+{105721}{105790}That's 6,300 feet.
+{105791}{105847}It's gotta be|around here somewhere.
+{106420}{106491}What'd we do wrong?
+{106492}{106583}I don't know.|L-I'll check the math again.
+{106819}{106870}Was there a wind|that day?
+{106872}{106928}L-I don't remember.
+{106930}{106982}'Cause if there was,
+{106983}{107046}the wind probably came|from the west...
+{107048}{107110}which means that|it would've pushed|the rocket...
+{107162}{107208}right there.
+{107310}{107366}Prodigious.
+{107367}{107436}...associated...
+{107438}{107484}[Students Murmuring]
+{107571}{107654}Mr. Hayes,|where you off to|in such a hurry?
+{107656}{107722}Okay, everybody,|back in your seats.
+{107724}{107831}Miss Stanton, Miss Blue,|let's go, back in your seats.|Mr. Hancock.
+{107857}{107907}That goes for you too,|Mr. Wilson.
+{108016}{108062}Miss Riley,|what's going on in here?
+{108064}{108154}They didn't start|that fire, Mr. Turner.
+{108155}{108222}In the first place,|you are not a member|of this classroom.
+{108223}{108272}Neither are you,|Mr. Turner.|[Students Chuckling]
+{108274}{108320}Why don't you let the boy|defend himself?
+{108322}{108419}And in the second place,|this rocket proves nothing.
+{108421}{108488}You've already admitted|having lost a number|of your rockets.
+{108490}{108539}You cannot prove|conclusively...
+{108541}{108624}that another one of them|didn't start that fire.|Yes, I can.
+{108791}{108854}Are we to conclude,|Mr. Hickam, that|since leaving school,
+{108855}{108934}you've not only become an expert|in rocket science, but in|the field of trigonometry?
+{108935}{108982}I didn't say|that I was a rock...|Obviously, you learned more...
+{108983}{109050}in the coal mines|than you did in high school.|[Students Chuckling]
+{109051}{109159}Let the boy talk.|Go ahead, Homer.
+{109161}{109257}Now, that fire was near Welch,|just under three miles|from our launch pad.
+{109259}{109370}And at the time of the fire,|the best that we could do|was 1.2 miles...
+{109372}{109435}which is exactly where we found|that rocket, Mr. Turner.
+{109437}{109538}See, Mr. Turner, that rocket|fell for about 14 seconds,|which means...
+{109540}{109604}that it flew to an altitude|of 3,000 feet...
+{109606}{109667}according to the equation...
+{109669}{109750}"S" equals one-half"A"|"T" squared...
+{109752}{109838}where "S'is the altitude,|A'is the gravity constant...|or 32...
+{109839}{109902}and "T" is the time|it took for that rocket|to come back down.
+{109904}{109976}Velocity equals|acceleration times time.|Get him, Homer, get him.
+{109978}{110032}Are you following this,|Mr. Turner?|[Students Chuckling]
+{110034}{110108}All right,|we're all duly impressed.
+{110110}{110207}But do you mind telling me,|if you did not start that fire,|who did?
+{110209}{110259}[Phone Ringing]
+{110261}{110310}What is it?
+{110312}{110416}Whatever it is,|i-it's ingenious.|The fins are spring-loaded.
+{110418}{110471}That isn't a rocket|at all.
+{110473}{110531}It's an aeronautical flare.
+{110583}{110679}There's an airport here|in Welch. It's right above|where the fire started.
+{110903}{110995}Mr. Hickam,|report to my office as soon|as we return to school.
+{110997}{111096}You do intend to enter|the county science fair,|do you not?
+{111098}{111150}Yes, sir, we do.
+{111151}{111214}Well, if you intend|to represent Big Creek,
+{111216}{111287}you're gonna have to be|enrolled as a student|at Big Creek.
+{111288}{111335}[Engine Starting]
+{111336}{111418}"Prodigenous."
+{111486}{111538}[Homer] Do you think|you can draw well enough|so Mr. Bolden could build it?
+{111540}{111587}Yep.|Let me see.
+{111588}{111652}Yeah.|Hey, Homer.
+{111654}{111730}- Hi, Dad.|- What's this stuff doin' here?
+{111731}{111810}Mr. Hickam, we didn't|start the fire.|The troopers gave it back to us.
+{111812}{111867}Yeah, it wasn't even|one of our rockets.|It was an aeronautical flare.
+{111869}{111918}Y'all go on home now.
+{111920}{111967}Yes, sir.
+{112364}{112474}This the reason|you skipped work today?|Yes, sir.
+{112565}{112651}I thought you put|all this nonsense|behind you, Homer.
+{112653}{112716}I thought you weren't|gonna be doin' it...|Dad, it isn't nonsense.
+{112718}{112774}L-I don't wanna|argue with you.
+{112776}{112833}Look, son,
+{112835}{112922}I can't even begin to tell you|how proud of you I've been|these past weeks.
+{112923}{113038}I mean, you've just been|doin' a hell of a job|in that mine.
+{113040}{113108}You keep goin',|you're gonna have|my job someday.
+{113110}{113186}Everybody says so.
+{113215}{113287}You got any idea how proud|that would make me?
+{113317}{113365}Dad, what l...|[Stammering]
+{113367}{113503}I guess what I'm sayin' is,|is that if this rocket stuff|is so important to you,
+{113505}{113598}then so be it,|as long as you're careful.
+{113599}{113664}Guess there's worse hobbies|you could have.
+{113666}{113758}But skippin'work,|that's out of line.
+{113759}{113825}And you gotta know that.
+{113827}{113915}So let's go|and get you right|with Jake.
+{113917}{113984}Tell him you'll work|the hoot owl shift tonight.
+{113986}{114018}No.
+{114117}{114203}The coal mine's your life.|It's not mine.
+{114341}{114410}I'm never going|down there again.
+{114555}{114614}I wanna go into space.
+{115173}{115268}[Man]|Homer Hickam, Roy Lee Cook,|Quentin Wilson...
+{115270}{115323}and Sherman O'Dell|of Big Creek High...
+{115325}{115394}for their ingenious display|of amateur rocket-building|techniques.
+{115877}{115936}I can't believe|we beat the kid|with the robot dog.
+{115938}{116026}And I thought|the see-through ear|was gonna win.
+{116027}{116087}I got Miss Wade workin'|on your travel arrangements,
+{116089}{116183}so you boys are gonna|have to decide who's goin'|to Indianapolis.
+{116185}{116250}We're all goin'.|Yeah.
+{116251}{116344}Son, I wish you could,|but we can't afford|to send all four of you.
+{116346}{116443}Only one. Let me know|what you decide. I'm gonna|have to know by Friday.
+{116445}{116517}You boys did|a fine job today.
+{116786}{116860}I need to borrow a suitcase,|and I'm gonna need|you guys' addresses...
+{116862}{116942}because I'm gonna|write some postcards.|Oh, you shut up, Roy Lee.
+{116944}{117016}Come on, you dope.|You know, you're goin',|Homer.
+{117018}{117064}Yeah.|Yeah.
+{117066}{117142}Say hello|to the outside world|for us.
+{117156}{117198}Do we know|what we want?|[All] Yeah!
+{117200}{117242}Are we gettin' it?|[All] No!
+{117244}{117337}All right!|All in favor of goin' out|on strike, say "aye"!
+{117339}{117373}[All]|Aye!
+{117375}{117430}All right, let's go.!|[Shouting]
+{117432}{117500}All right, shut 'em down.!|Let's go.!
+{117502}{117602}Strike.! Strike.!|Strike.!
+{117604}{117651}[Shouting Continues]
+{118023}{118074}Well, they sure are|gettin' themselves|worked up.
+{118076}{118122}Everybody's sayin'|this one's gonna be|a long one.
+{118124}{118197}And it will,|if I have anything|to say about it.
+{118199}{118246}Ungrateful|sons of bitches.
+{118247}{118338}Mom, have you seen|the big green suitcase?|Did you look in the attic?
+{118340}{118440}Yes, ma'am.|Well, I don't know. John,|you know where the suitcase is?
+{118494}{118580}How the hell should I know|where the suitcase is?
+{118582}{118630}I don't know, sug.
+{118632}{118678}[Mother Murmuring]
+{118758}{118807}[Sighing]
+{118930}{118979}[Gunshot,|Glass Shattering]
+{118981}{119070}- John!|- Y'all stay inside!
+{119119}{119224}[Tires Screeching]|Vernon!
+{119226}{119276}[Jim]|I'm gonna kill|that son of a bitch.!
+{119278}{119326}Oh, don't be|a damn fool.
+{119328}{119442}All right, well,|what are we gonna do?|Nothin'.
+{119444}{119532}Drunken bastard couldn't hit|the broad side of a barn.
+{119534}{119586}He tried to kill you, Dad.|Yeah, Dad,|you can't just stand...
+{119587}{119654}Hey, hey, don't|trouble yourself, Homer.
+{119656}{119716}You got|more important things|to worry about.
+{119718}{119808}[John]|Just go look|for your suitcase.
+{119900}{119972}Forget about it, Homer.
+{119974}{120020}Shut up, Jim!
+{120022}{120143}Listen, I'm sorry about|what's goin' on around here,|but it isn't my fault!
+{120145}{120217}What do you want|from me anyway?|Better watch yourself, Homer!
+{120219}{120278}If I win at Indianapolis,|maybe I can go to college,
+{120280}{120329}maybe even get a job|at Cape Canaveral!
+{120331}{120408}There's nothing here for me.!|The town is dyin'!
+{120410}{120464}The mine is dyin'!|Everybody knows it here|but you!
+{120466}{120547}You wanna get out of here|so bad, then go! Go!
+{120549}{120580}Yeah, I'll go!|Yeah, I'll go!
+{120582}{120614}Go, go!|I'll go!
+{120615}{120740}And I'll be gone forever!|I won't even look back!
+{120811}{120867}[Door Slamming]
+{121776}{121834}[Man]|Welcome to Indianapolis.!
+{121836}{121909}Visitors to the fair|will include prominent members|of every branch...
+{121911}{121965}of the national|scientific community.
+{121967}{122022}The fair will be open|to the public|over the next two days.
+{122023}{122142}The following day,|the judges will arrive|to select the winners.
+{122144}{122266}By timing the rocket's descent,|we would be able to figure out|just how high the rocket flew.
+{122337}{122402}Would you like to see?|This is a Delaval nozzle.
+{122404}{122456}Do any of y'all know|what a Delaval noz...
+{122711}{122779}Two, please.|The judges always go|for the most expensive exhibits.
+{122781}{122827}That guy with|the biosphere's gonna win.
+{122829}{122922}I don't think so.|My money's on the kid|with the rocket display.
+{122923}{122994}Have you seen it yet?|It's really cool.
+{123115}{123179}[Woman On P.A.]|Mr. Owens,|to the security office.
+{123181}{123234}Mr. Owens,|to the security office, please.
+{123455}{123539}It's not like we got a hell|of a lot of time, Roy Lee.|The judging is tomorrow.
+{123541}{123587}There's nothin' we can do|without Mr. Bolden.
+{123589}{123644}And he can't get anywhere|near the machine shop.
+{123646}{123739}They even took my picture|of Dr. Von Braun.
+{123741}{123787}They stole everything.
+{123833}{123891}[Car Horn Honking]
+{124007}{124068}Leon, what are you doing|back here?
+{124070}{124122}You know you shouldn't|be seen back here.
+{124123}{124178}I know, Elsie,|but Homer's in trouble.
+{124223}{124270}[Shouting]
+{124537}{124640}Elsie, I don't have the power|to settle this strike.
+{124642}{124712}The bosses listen to you.|They'll do what you tell 'em.
+{124714}{124775}I am not gonna crawl|on my belly...
+{124777}{124862}in front of those|miserable union rats.
+{124864}{124930}Is that what this|is about, John?|Is this about your pride?
+{124931}{124990}No, it's about what's best|for Coalwood.
+{124992}{125114}If this mine|doesn't produce,|then the town dies.
+{125115}{125207}Think the union gives|a good damn about that?
+{125209}{125270}They're nothin'|but a bunch of greedy|sons of bitches that...
+{125272}{125318}Shut up, John.|Just shut up.
+{125320}{125396}Homer once said|you love the mine more|than your own family.
+{125398}{125456}And I took up for you|'cause I didn't wanna|believe it.
+{125458}{125529}Homer has gotten a lot of help|from the people in this town.
+{125531}{125605}They've helped him build|his rockets, they've gone out|there and watched him fly 'em.
+{125607}{125710}But not you, John.|You never showed up.|Not even once.
+{125712}{125761}Now, I'm not asking you|to believe in him,
+{125763}{125828}but he's your son,|for God's sake, John.
+{125830}{125904}And I am askin' you|to help him.
+{125906}{125952}If you don't,|I'll leave you.
+{125954}{126022}I'll find work.|I'll do whatever it takes|to get away from here.
+{126024}{126151}I'll live in a tree|to get away from you.|Don't you think I won't.
+{126193}{126239}Where would you go?
+{126299}{126345}Myrtle Beach.
+{126429}{126523}[Door Opens, Closes]
+{126672}{126743}I guess we all know|this isn't gonna fix things,
+{126745}{126803}uh, at least not for long.
+{126805}{126866}We know you did|what you could for us.
+{126868}{126919}Jake.|Thanks.
+{126921}{126966}Leon.
+{126968}{127014}Yes, John.
+{127049}{127139}Don't you have|some work to do?
+{127438}{127506}It's packed and shipped|and on its way. Be at|the bus station, 8:00 a.m.
+{127508}{127574}Okay, Mom,|but how'd you...|Your father, Homer.
+{127576}{127630}It was your father.|Give 'em hell, Homer!
+{127631}{127678}[Cheering]
+{127748}{127821}- Good luck, sweetie.|- Bye.
+{127854}{127900}[Coin Clinks]
+{128139}{128186}Thanks, Dad.
+{128504}{128576}[Homer] When|the rocket propellant burns,|it produces a river of gas...
+{128578}{128637}which flows through|the convergent section|of the nozzle.
+{128639}{128694}If the river continues|through the nozzle,
+{128695}{128743}but through the throat|at less than sonic speed...
+{128745}{128805}that is to say, less than|the speed of sound...
+{128807}{128887}it becomes compact in the...|compacted in the divergent|section,
+{128889}{128935}bound in turmoil|and inefficient.
+{128937}{129047}Lyle Wells and Jean Cooper,|Schrader High School,|McMinnville, Oregon.
+{129485}{129578}Now, ladies and gentlemen,|the big moment.
+{129580}{129668}The Highest Scholastic|Achievement Award|for Science.
+{129670}{129754}The National Science Fair|first prize gold medal...
+{129756}{129816}goes to Homer Hickam,
+{129818}{129897}Quentin Wilson, Roy Lee Cook|and Sherman O'Dell,
+{129899}{129998}Big Creek High School,|McDowell County, West Virginia.
+{130758}{130839}Tom Webster of Virginia State|College. I wanna talk to you|about a scholarship.
+{130841}{130940}Jack Palmer, Virginia Tech.|We got the best science program|in the state, buddy, okay?
+{130942}{131037}Congratulations, son.|Good luck to you.
+{131101}{131164}What did he say to you?|What did who say?
+{131166}{131303}Von Braun.|That was Wernher von Braun.|You just shook his hand.
+{131489}{131562}[Cheering]
+{131715}{131792}Oh, Homer,|I'm so proud of you.|Thanks, Mom.
+{131794}{131874}He's not here, hon.
+{131875}{131934}Where's Miss Riley?
+{132331}{132378}Hello, Miss Riley.
+{132450}{132496}Hi, Homer.
+{132498}{132544}Hi.|Hi.
+{132607}{132680}Oh!|You did it!
+{132682}{132756}I knew you would.
+{132758}{132852}The Rocket Boys|are goin' to college.
+{132854}{132918}We all got scholarships.|[Chuckling]
+{132920}{132978}And you know what?
+{133014}{133103}From now on,|every school year,
+{133105}{133163}I'm gonna brag|to all my new students...
+{133165}{133252}about how I taught|Homer Hickam|and the Rocket Boys.
+{133254}{133315}Maybe one day,
+{133317}{133418}one of them'll feel|like they can do|what y'all did.
+{133697}{133767}You know, just,|stuff like that|takes time.
+{133902}{133948}Will you let me out?
+{134112}{134226}[John]|What are they doin;|charging Olga for that.
+{134228}{134291}Hell, I'm going to salvage|something up here?
+{134293}{134341}Hey, Dad. Hi.|Hello, Homer.
+{134343}{134430}I just wanted to tell you|how much I appreciate|what you did for me.
+{134432}{134528}I know it wasn't easy for you,|so thank you.
+{134530}{134594}A-And we're shootin' off|our last rocket today at 5:00,
+{134596}{134681}so if you'd like to come|see it...|I got a lot of work to do.
+{134683}{134762}All right. Well,|I just thought I'd ask.
+{134828}{134886}Hear you met|your big hero.
+{134942}{134994}Didn't even know it.
+{135156}{135202}Look,
+{135204}{135274}I know you and me|don't exactly see eye to eye|on certain things.
+{135276}{135386}I mean,|we don't see eye to eye|on just about anything.
+{135388}{135501}But Dad, I come to believe|that I got it in me to be|somebody in this world.
+{135503}{135570}A-And it's not because|I'm so different|from you either.
+{135572}{135630}It's 'cause|I'm the same.
+{135631}{135744}You know, I can be|just as hardheaded|and just as tough.
+{135746}{135847}I only hope I can be|as good a man as you are.
+{135849}{135922}I mean, sure,
+{135924}{136009}Dr. Von Braun's|a great scientist,
+{136011}{136069}but he isn't my hero.
+{136795}{136842}[Elevator Buzzes]
+{137547}{137654}It's our last rocket.|Yeah, let's do it.
+{137656}{137726}Wire it up for me, will ya?|I gotta do something.|Yeah.
+{137774}{137825}Hi, Homer.|Hi.
+{137827}{137895}Congratulations|on winning|the science fair.
+{137897}{137975}It's gotta be the most|exciting thing that's ever|happened around here.
+{137977}{138054}Um, I was thinking,|Homer, if, if you've|got some time...
+{138056}{138146}Excuse me, Dorothy.|Hi.|Hi.
+{138241}{138328}Good luck.|Thanks.|[Clears Throat]
+{138330}{138389}Hey, everybody, can we have|your attention, please?
+{138391}{138439}Come on, Homer,|let her fly!
+{138441}{138528}We're gonna launch the rocket|in a minute, but we'd like|to say thank you first.
+{138530}{138635}If it wasn't for y'all,|we'd never have gotten|into any science fair.
+{138637}{138706}We'd probably never have|gotten past blowin' up|my mom's fence.
+{138707}{138764}[Laughing]|But we did...
+{138766}{138851}because of your help|and support.
+{138853}{138911}And this is for Coalwood.
+{139031}{139122}There are a few people|who believed in us|even before we did.
+{139123}{139210}We'd like to dedicate|this rocket to them.
+{139211}{139272}To Ike Bykovsky.
+{139343}{139415}To Mr. Bolden,|who helped us so much.
+{139478}{139549}To the person|who first inspired us,
+{139551}{139610}our teacher, Miss Riley.
+{139660}{139786}And, finally, I'd like|to dedicate this rocket|to my mom and to...
+{139909}{139955}my dad.
+{140310}{140407}You know, it, uh, won't fly|unless somebody pushes|the button.
+{140485}{140536}It's yours,|if you want it.
+{141091}{141167}Ten, nine...|[Together]|Eight,
+{141169}{141231}seven, six, five,
+{141233}{141322}four, three, two, one.
+{141716}{141815}Look at it go, Homer.|This one's gonna go for miles.
+{150718}{150820}[music]Many a tear|has to fall [music]
+{150862}{150930}[music]But it's all [music]
+{150932}{150989}[music]In the game [music]
+{151072}{151172}[music]All in the wonderful game [music]
+{151174}{151252}[music] That we know [music]
+{151254}{151312}[music]As love [music]
+{151414}{151498}[music] You have words [music]
+{151500}{151573}[music] With him [music]
+{151575}{151646}[music]And your future's [music]
+{151648}{151732}[music]Looking dim [music]
+{151734}{151807}[music]But these things [music]
+{151809}{151914}[music] Your hearts can rise [music]
+{151916}{151962}[music]Above [music]
+{152042}{152153}[music] Once in a while|you will call [music]
+{152155}{152222}[music]But it's all [music]
+{152224}{152282}[music]In the game [music]
+{152371}{152475}[music]Soon he'll be there|at your side [music]
+{152477}{152561}[music] With a sweet [music]
+{152563}{152645}[music]Bouquet [music]
+{152705}{152797}[music]And he'll kiss [music]
+{152799}{152873}[music] Your lips [music]
+{152875}{152930}[music]And caress [music]
+{152932}{153038}[music] Your waiting fingertips [music]
+{153039}{153119}[music]And your hearts [music]
+{153121}{153206}[music] Will fly [music]
+{153208}{153266}[music]Away [music]
+{153334}{153463}[music]Soon he'll be there|at your side [music]
+{153465}{153542}[music] With a sweet [music]
+{153544}{153645}[music]Bouquet [music]
+{153701}{153784}[music] Then he'll kiss [music]
+{153786}{153865}[music] Your lips [music]
+{153866}{153919}[music]And caress [music]
+{153921}{154027}[music] Your waiting fingertips [music]
+{154029}{154116}[music]And your hearts [music]
+{154118}{154189}[music] Will fly [music]
+{154191}{154261}[music]Away [music]
+{154574}{154621}5@y3

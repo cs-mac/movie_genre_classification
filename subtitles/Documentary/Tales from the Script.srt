@@ -1,0 +1,318 @@
+1
+00:00:34,000 --> 00:00:49,000
+<font color="#ff8080" face="Segoe Print">The Script - Hall of Fame ft. will.i.am</font>
+
+2
+00:00:52,947 --> 00:00:54,590
+<font color="#ff8080" face="Segoe Print">Yeah, You could be the greatest</font>
+
+3
+00:00:54,837 --> 00:00:55,909
+<font color="#ff8080" face="Segoe Print">You can be the best</font>
+
+4
+00:00:56,162 --> 00:00:57,321
+<font color="#ff8080" face="Segoe Print">You can be the king kong</font>
+
+5
+00:00:57,622 --> 00:00:58,788
+<font color="#ff8080" face="Segoe Print">Banging on your chest</font>
+
+6
+00:00:59,050 --> 00:01:00,152
+<font color="#ff8080" face="Segoe Print">You could beat the world</font>
+
+7
+00:01:00,369 --> 00:01:01,561
+<font color="#ff8080" face="Segoe Print">You could beat the war</font>
+
+8
+00:01:01,775 --> 00:01:02,783
+<font color="#ff8080" face="Segoe Print">You could talk to God</font>
+
+9
+00:01:02,873 --> 00:01:04,450
+<font color="#ff8080" face="Segoe Print">Go banging on his door</font>
+
+10
+00:01:04,576 --> 00:01:06,030
+<font color="#ff8080" face="Segoe Print">You can throw your hands up</font>
+
+11
+00:01:06,166 --> 00:01:07,372
+<font color="#ff8080" face="Segoe Print">You can be the clock</font>
+
+12
+00:01:07,487 --> 00:01:08,586
+<font color="#ff8080" face="Segoe Print">You can move a mountain</font>
+
+13
+00:01:08,727 --> 00:01:09,909
+<font color="#ff8080" face="Segoe Print">You can break rocks</font>
+
+14
+00:01:10,113 --> 00:01:11,352
+<font color="#ff8080" face="Segoe Print">You can be a master</font>
+
+15
+00:01:11,550 --> 00:01:12,859
+<font color="#ff8080" face="Segoe Print">Don't wait for luck</font>
+
+16
+00:01:13,073 --> 00:01:15,167
+<font color="#ff8080" face="Segoe Print">Dedicate yourself and you can find yourself</font>
+
+17
+00:01:15,268 --> 00:01:17,451
+<font color="#ff8080" face="Segoe Print">Standing in the hall of fame</font>
+
+18
+00:01:20,300 --> 00:01:22,960
+<font color="#ff8080" face="Segoe Print">And the world's gonna know your name</font>
+
+19
+00:01:25,964 --> 00:01:28,853
+<font color="#ff8080" face="Segoe Print">'Cuz you burn with the brightest flame</font>
+
+20
+00:01:31,643 --> 00:01:34,577
+<font color="#ff8080" face="Segoe Print">And the world's gonna know your name</font>
+
+21
+00:01:36,086 --> 00:01:38,603
+<font color="#ff8080" face="Segoe Print">And you'll be on the walls</font>
+<font color="#ff8080" face="Segoe Print">of the hall of fame</font>
+
+22
+00:01:38,693 --> 00:01:39,793
+<font color="#ff8080" face="Segoe Print">You could go the distance</font>
+
+23
+00:01:39,933 --> 00:01:41,150
+<font color="#ff8080" face="Segoe Print">You could run the mile</font>
+
+24
+00:01:41,279 --> 00:01:43,918
+<font color="#ff8080" face="Segoe Print">You could walk straight</font>
+<font color="#ff8080" face="Segoe Print">through hell with a smile</font>
+
+25
+00:01:44,094 --> 00:01:45,404
+<font color="#ff8080" face="Segoe Print">You could be the hero</font>
+
+26
+00:01:45,508 --> 00:01:46,752
+<font color="#ff8080" face="Segoe Print">You could get the gold</font>
+
+27
+00:01:46,889 --> 00:01:47,900
+<font color="#ff8080" face="Segoe Print">Breaking all the records</font>
+
+28
+00:01:47,998 --> 00:01:49,504
+<font color="#ff8080" face="Segoe Print">That thought never could be broke</font>
+
+29
+00:01:49,778 --> 00:01:51,033
+<font color="#ff8080" face="Segoe Print">Do it for your people</font>
+
+30
+00:01:51,163 --> 00:01:52,382
+<font color="#ff8080" face="Segoe Print">Do it for your pride</font>
+
+31
+00:01:52,577 --> 00:01:55,156
+<font color="#ff8080" face="Segoe Print">Never gonna know if you never even try</font>
+
+32
+00:01:55,459 --> 00:01:56,605
+<font color="#ff8080" face="Segoe Print">Do it for your country</font>
+
+33
+00:01:56,851 --> 00:01:57,996
+<font color="#ff8080" face="Segoe Print">Do it for you name</font>
+
+34
+00:01:58,232 --> 00:01:59,632
+<font color="#ff8080" face="Segoe Print">'Cuz there's gonna be a day</font>
+
+35
+00:02:00,168 --> 00:02:01,950
+<font color="#ff8080" face="Segoe Print">When you're standing in the hall of fame</font>
+
+36
+00:02:05,667 --> 00:02:08,468
+<font color="#ff8080" face="Segoe Print">And the world's gonna know your name</font>
+
+37
+00:02:11,245 --> 00:02:14,264
+<font color="#ff8080" face="Segoe Print">'Cuz you burn with the brightest flame</font>
+
+38
+00:02:16,916 --> 00:02:19,715
+<font color="#ff8080" face="Segoe Print">And the world's gonna know your name</font>
+
+39
+00:02:21,539 --> 00:02:24,090
+<font color="#ff8080" face="Segoe Print">And you'll be on the walls</font>
+<font color="#ff8080" face="Segoe Print">of the hall of fame</font>
+
+40
+00:02:24,277 --> 00:02:28,223
+<font color="#ff8080" face="Segoe Print">Be a champion, Be a champion</font>
+
+41
+00:02:29,671 --> 00:02:33,680
+<font color="#ff8080" face="Segoe Print">Be a champion, Be a champion</font>
+
+42
+00:02:33,932 --> 00:02:35,470
+<font color="#ff8080" face="Segoe Print">On the walls of the hall of fame</font>
+
+43
+00:02:35,984 --> 00:02:36,554
+<font color="#ff8080" face="Segoe Print">Be students</font>
+
+44
+00:02:36,702 --> 00:02:37,440
+<font color="#ff8080" face="Segoe Print">Be teachers</font>
+
+45
+00:02:37,638 --> 00:02:38,871
+<font color="#ff8080" face="Segoe Print">Be politicians</font>
+
+46
+00:02:39,032 --> 00:02:39,694
+<font color="#ff8080" face="Segoe Print">Be preachers</font>
+
+47
+00:02:41,768 --> 00:02:42,497
+<font color="#ff8080" face="Segoe Print">Be believers</font>
+
+48
+00:02:42,574 --> 00:02:43,249
+<font color="#ff8080" face="Segoe Print">Be leaders</font>
+
+49
+00:02:43,421 --> 00:02:44,418
+<font color="#ff8080" face="Segoe Print">Be astronauts</font>
+
+50
+00:02:44,524 --> 00:02:45,419
+<font color="#ff8080" face="Segoe Print">Be champions</font>
+
+51
+00:02:45,510 --> 00:02:46,768
+<font color="#ff8080" face="Segoe Print">Be true seekers</font>
+
+52
+00:02:47,403 --> 00:02:48,084
+<font color="#ff8080" face="Segoe Print">Be students</font>
+
+53
+00:02:48,190 --> 00:02:48,853
+<font color="#ff8080" face="Segoe Print">Be teachers</font>
+
+54
+00:02:48,968 --> 00:02:50,192
+<font color="#ff8080" face="Segoe Print">Be politicians</font>
+
+55
+00:02:50,332 --> 00:02:51,060
+<font color="#ff8080" face="Segoe Print">Be preachers</font>
+
+56
+00:02:53,076 --> 00:02:53,755
+<font color="#ff8080" face="Segoe Print">Be believers</font>
+
+57
+00:02:53,913 --> 00:02:54,542
+<font color="#ff8080" face="Segoe Print">Be leaders</font>
+
+58
+00:02:54,640 --> 00:02:55,788
+<font color="#ff8080" face="Segoe Print">Be astronauts</font>
+
+59
+00:02:55,844 --> 00:02:56,638
+<font color="#ff8080" face="Segoe Print">Be champions</font>
+
+60
+00:02:56,765 --> 00:02:59,100
+<font color="#ff8080" face="Segoe Print">Standing in the hall of fame</font>
+
+61
+00:03:02,022 --> 00:03:05,134
+<font color="#ff8080" face="Segoe Print">And the world's gonna know your name</font>
+
+62
+00:03:07,703 --> 00:03:10,319
+<font color="#ff8080" face="Segoe Print">'Cuz you burn with the brightest flame</font>
+
+63
+00:03:13,403 --> 00:03:16,065
+<font color="#ff8080" face="Segoe Print">And the world's gonna know your name</font>
+
+64
+00:03:18,326 --> 00:03:20,056
+<font color="#ff8080" face="Segoe Print">And you'll be on the walls</font>
+<font color="#ff8080" face="Segoe Print">of the hall of fame</font>
+
+65
+00:03:20,193 --> 00:03:21,463
+<font color="#ff8080" face="Segoe Print">You could be the greatest</font>
+
+66
+00:03:21,638 --> 00:03:22,742
+<font color="#ff8080" face="Segoe Print">You can be the best</font>
+
+67
+00:03:22,948 --> 00:03:25,598
+<font color="#ff8080" face="Segoe Print">You can be the king kong</font>
+<font color="#ff8080" face="Segoe Print">banging on your chest</font>
+
+68
+00:03:25,806 --> 00:03:27,034
+<font color="#ff8080" face="Segoe Print">You could beat the world</font>
+
+69
+00:03:27,215 --> 00:03:28,379
+<font color="#ff8080" face="Segoe Print">You could beat the war</font>
+
+70
+00:03:28,617 --> 00:03:31,206
+<font color="#ff8080" face="Segoe Print">You could talk to God</font>
+<font color="#ff8080" face="Segoe Print">go banging on his door</font>
+
+71
+00:03:31,453 --> 00:03:32,877
+<font color="#ff8080" face="Segoe Print">You can throw your hands up</font>
+
+72
+00:03:32,978 --> 00:03:34,086
+<font color="#ff8080" face="Segoe Print">You can be the clock</font>
+
+73
+00:03:34,216 --> 00:03:35,320
+<font color="#ff8080" face="Segoe Print">You can move a mountain</font>
+
+74
+00:03:35,645 --> 00:03:36,859
+<font color="#ff8080" face="Segoe Print">You can break rocks</font>
+
+75
+00:03:37,099 --> 00:03:38,315
+<font color="#ff8080" face="Segoe Print">You can be a master</font>
+
+76
+00:03:38,466 --> 00:03:39,671
+<font color="#ff8080" face="Segoe Print">Don't wait for luck</font>
+
+77
+00:03:39,877 --> 00:03:42,013
+<font color="#ff8080" face="Segoe Print">Dedicate yourself and you can find yourself</font>
+
+78
+00:03:42,093 --> 00:03:45,251
+<font color="#ff8080" face="Segoe Print">Standing in the hall of fame</font>
+

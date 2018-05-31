@@ -1,0 +1,343 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Gakuen--Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Gakuen--Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Gakuen--Next_Ep_Preview,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,0,0,28,1
+Style: Gakuen--Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Gakuen--Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Gakuen--Next_Ep_Title,Open Sans Semibold,21,&H00FFFCFD,&H000000FF,&H00AA8D37,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,300,27,64,1
+Style: Gakuen--Ep_Title_Card,Open Sans Semibold,45,&H000C02F4,&H000000FF,&H00FFFEFA,&H006E7273,1,0,0,0,100,100,0,0,1,2,2,2,13,13,24,1
+Style: Gakuen--Daycare_room,Open Sans Semibold,30,&H0082D7F6,&H000000FF,&H00F3F2F6,&H00ACADA7,0,0,0,0,100,100,0,0,1,3,2,8,27,27,33,1
+Style: Operation-Snacks_03:22(Ep 12),Open Sans Semibold,27,&H00464C6C,&H000000FF,&H00B1F4F7,&H00C29D98,1,0,0,0,100,100,0,0,1,2,0,8,27,493,109,1
+Style: Ryuichi-sama_05:19(Ep 12),Open Sans Semibold,27,&H00464C6C,&H000000FF,&H00B1F4F7,&H00C29D98,1,0,0,0,100,100,0,0,1,2,0,1,245,27,168,1
+Style: Love_Poetry_07:37(Ep 12),Open Sans Semibold,24,&H00A3A1A4,&H000000FF,&H00EFF6F8,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,27,227,73,1
+Style: Love_Poetry_10:16(Ep 12),Open Sans Semibold,27,&H00A3A1A4,&H000000FF,&H00EFF6F8,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,200,133,1
+Style: Ryuichi-sama_10:18(Ep 12),Open Sans Semibold,21,&H00464C6C,&H000000FF,&H00B1F4F7,&H00C29D98,1,0,0,0,100,100,0,0,1,2,0,3,27,187,104,1
+Style: Ryuichi-sama_10:29(Ep 12),Open Sans Semibold,24,&H00464C6C,&H000000FF,&H00B1F4F7,&H00C29D98,1,0,0,0,100,100,0,0,1,2,0,3,27,180,40,1
+Style: Chairwoman's_Office_17:05(Ep 12),Open Sans Semibold,33,&H00162626,&H000000FF,&H0039708C,&H00182229,1,0,0,0,100,100,0,0,1,3,0,8,27,27,27,1
+Style: splatter,Open Sans Semibold,33,&H00775ADE,&H000000FF,&H004B5C62,&H00182229,1,0,0,0,100,100,0,0,1,3,0,8,27,27,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.96,0:00:04.00,Gakuen--Italics,uso,0000,0000,0000,,C'mon, Kashima! Come to the movie with us!
+Dialogue: 0,0:00:04.00,0:00:06.08,Gakuen--Italics,uso,0000,0000,0000,,We're seeing {\i0}R-15 Splatter{\i1}!
+Dialogue: 0,0:00:06.08,0:00:09.88,Gakuen--Main,ryu,0000,0000,0000,,But I can't just leave Kotaro here...
+Dialogue: 0,0:00:11.20,0:00:13.61,Gakuen--Main,sai,0000,0000,0000,,By all means, allow me to handle it.
+Dialogue: 0,0:00:25.00,0:00:30.67,Gakuen--Ep_Title_Card,sai,0000,0000,0000,,{\fad(479,688)}School Babysitters
+Dialogue: 0,0:01:45.71,0:01:48.96,Gakuen--Main,ryu,0000,0000,0000,,Thanks for doing this. \NI'll try not to be out late.
+Dialogue: 0,0:01:48.96,0:01:52.89,Gakuen--Main,ryu,0000,0000,0000,,Um... Are you really sure you \Ndon't mind doing this, though?
+Dialogue: 0,0:01:52.89,0:01:56.73,Gakuen--Main,ryu,0000,0000,0000,,Saikawa-san, I can still turn \Nthem down if you want...
+Dialogue: 0,0:01:56.73,0:02:00.42,Gakuen--Main,sai,0000,0000,0000,,No, the chairwoman has informed me \Nthat encouraging social relationships
+Dialogue: 0,0:02:00.42,0:02:02.61,Gakuen--Main,sai,0000,0000,0000,,with your schoolmates is to be prioritized.
+Dialogue: 0,0:02:03.98,0:02:06.46,Gakuen--Italics,ryu,0000,0000,0000,,After being invited by my classmate Usokawa,
+Dialogue: 0,0:02:06.46,0:02:12.45,Gakuen--Italics,ryu,0000,0000,0000,,I'll be going out without Kotaro this Sunday\Nfor the first time since we got here.
+Dialogue: 0,0:02:12.45,0:02:16.00,Gakuen--Italics,ryu,0000,0000,0000,,Kotaro will be staying here \Nwith Saikawa-san while I'm out.
+Dialogue: 0,0:02:17.53,0:02:19.65,Gakuen--Main,sai,0000,0000,0000,,Do take care, Ryuichi-sama.
+Dialogue: 0,0:02:19.65,0:02:20.77,Gakuen--Main,ryu,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:02:21.18,0:02:24.07,Gakuen--Main,ryu,0000,0000,0000,,Kotaro, I'll be back as soon as I can,
+Dialogue: 0,0:02:24.07,0:02:27.63,Gakuen--Main,ryu,0000,0000,0000,,so do what Saikawa-san tells you \Nand be good until I'm back.
+Dialogue: 0,0:02:29.40,0:02:32.36,Gakuen--Main,ryu,0000,0000,0000,,Well, please take care of \Nthings here, Saikawa-san.
+Dialogue: 0,0:02:32.36,0:02:33.68,Gakuen--Main,sai,0000,0000,0000,,I shall.
+Dialogue: 0,0:02:34.02,0:02:39.06,Gakuen--Main,sai,0000,0000,0000,,I, Saikawa, hereby pledge to \Nprotect Kotaro-sama with my life.
+Dialogue: 0,0:02:39.06,0:02:43.28,Gakuen--Main,ryu,0000,0000,0000,,Uh, n-no, you shouldn't have to go that far...
+Dialogue: 0,0:02:44.26,0:02:46.19,Gakuen--Main,ryu,0000,0000,0000,,Okay, I'll be back soon.
+Dialogue: 0,0:02:46.88,0:02:48.44,Gakuen--Main,sai,0000,0000,0000,,Take care.
+Dialogue: 0,0:02:51.27,0:02:55.19,Gakuen--Italics,ryu,0000,0000,0000,,Saikawa-san is a pretty enigmatic person...
+Dialogue: 0,0:02:56.22,0:03:00.69,Gakuen--Italics,ryu,0000,0000,0000,,But he had to take care of the kids \Nin the daycare room just recently,
+Dialogue: 0,0:03:00.69,0:03:05.30,Gakuen--Italics,ryu,0000,0000,0000,,so I feel a little guilty going \Noff to have fun all by myself...
+Dialogue: 0,0:03:13.83,0:03:14.95,Gakuen--Main,sai,0000,0000,0000,,Kotaro-sama.
+Dialogue: 0,0:03:15.26,0:03:17.81,Gakuen--Main,sai,0000,0000,0000,,Shall I prepare you a snack of some kind?
+Dialogue: 0,0:03:22.55,0:03:24.80,Operation-Snacks_03:22(Ep 12),sign,0000,0000,0000,,{\fad(569,305)}Snack\NStrategy
+Dialogue: 0,0:03:22.55,0:03:25.96,Gakuen--Italics,sai,0000,0000,0000,,The snack strategy has failed.
+Dialogue: 0,0:03:26.21,0:03:32.57,Gakuen--Italics,sai,0000,0000,0000,,In order to restore his mood, \NI may need to make an offer of play.
+Dialogue: 0,0:03:39.94,0:03:43.23,Gakuen--Italics,sai,0000,0000,0000,,Come, play to your heart's content.
+Dialogue: 0,0:03:58.32,0:04:02.78,splatter,uso,0000,0000,0000,,R-15 Splatter
+Dialogue: 0,0:03:58.73,0:04:01.52,Gakuen--Main,uso,0000,0000,0000,,Hey, Kashima! Took you long enough.
+Dialogue: 0,0:04:02.90,0:04:05.67,Gakuen--Main,ryu,0000,0000,0000,,Sorry. Am I the last one here?
+Dialogue: 0,0:04:05.67,0:04:08.06,Gakuen--Main,uso,0000,0000,0000,,No, we're still waiting on Kamitani.
+Dialogue: 0,0:04:08.47,0:04:10.18,Gakuen--Main,hay,0000,0000,0000,,Sorry, got delayed.
+Dialogue: 0,0:04:10.18,0:04:11.21,Gakuen--Main,ryu,0000,0000,0000,,Kamitani!
+Dialogue: 0,0:04:11.21,0:04:14.01,Gakuen--Main,ryu,0000,0000,0000,,You have bite marks on your face!
+Dialogue: 0,0:04:14.37,0:04:15.94,Gakuen--Main,usa,0000,0000,0000,,Hey, were you with a girl?!
+Dialogue: 0,0:04:15.94,0:04:17.23,Gakuen--Main,hay,0000,0000,0000,,Oh, this?
+Dialogue: 0,0:04:17.71,0:04:21.23,Gakuen--Main,hay,0000,0000,0000,,No, the stupid brat bit me, \Ntrying to get me to take him along.
+Dialogue: 0,0:04:17.71,0:04:21.23,Gakuen--Main,hay,0000,0000,0000,,{\an8}I wanna go, too!
+Dialogue: 0,0:04:22.04,0:04:25.30,Gakuen--Main,,0000,0000,0000,,{\an8}No! Stupid Nii-chan!
+Dialogue: 0,0:04:22.78,0:04:25.06,Gakuen--Main,hay,0000,0000,0000,,I hit him and left, of course.
+Dialogue: 0,0:04:25.74,0:04:28.21,Gakuen--Main,ryu,0000,0000,0000,,P-Poor Taka-kun...
+Dialogue: 0,0:04:28.21,0:04:30.08,Gakuen--Main,uso,0000,0000,0000,,These brothers, man...
+Dialogue: 0,0:04:30.08,0:04:32.61,Gakuen--Main,hay,0000,0000,0000,,Did your brother cry?
+Dialogue: 0,0:04:32.61,0:04:35.12,Gakuen--Main,ryu,0000,0000,0000,,No, Kotaro was fine.
+Dialogue: 0,0:04:35.12,0:04:40.12,Gakuen--Main,ryu,0000,0000,0000,,It's more my own fault I'm late, \Nbecause I was too worried to just leave...
+Dialogue: 0,0:04:40.77,0:04:43.15,Gakuen--Main,hay,0000,0000,0000,,You love your brother too much.
+Dialogue: 0,0:04:43.15,0:04:45.36,Gakuen--Main,hay,0000,0000,0000,,A feeling that's completely alien to me.
+Dialogue: 0,0:04:46.31,0:04:48.68,Gakuen--Main,uso,0000,0000,0000,,What's this? Kashima, \Nyou've got a brother complex?
+Dialogue: 0,0:04:48.68,0:04:49.84,Gakuen--Main,uso,0000,0000,0000,,Crazy!
+Dialogue: 0,0:04:50.45,0:04:53.01,Gakuen--Main,uso,0000,0000,0000,,Okay, I'm gonna tell all the girls tomorrow!
+Dialogue: 0,0:04:53.01,0:04:54.50,Gakuen--Main,uso,0000,0000,0000,,None of 'em will like you anymore!
+Dialogue: 0,0:04:54.50,0:04:56.34,Gakuen--Main,ebi,0000,0000,0000,,Don't do that. It'll backfire, idiot.
+Dialogue: 0,0:04:56.34,0:04:58.58,Gakuen--Main,odo,0000,0000,0000,,Look, let's just go inside.
+Dialogue: 0,0:04:58.58,0:05:00.67,Gakuen--Italics,ryu,0000,0000,0000,,B-Brother complex?
+Dialogue: 0,0:05:00.67,0:05:04.35,Gakuen--Italics,ryu,0000,0000,0000,,It's more like "worry" than "love," though...
+Dialogue: 0,0:05:10.86,0:05:15.87,Gakuen--Italics,ryu,0000,0000,0000,,I hope Kotaro is being good and \Ndoing what Saikawa-san says...
+Dialogue: 0,0:05:16.67,0:05:19.63,Gakuen--Main,sai,0000,0000,0000,,Will this suit you, Kotaro-sama?
+Dialogue: 0,0:05:19.63,0:05:21.13,Ryuichi-sama_05:19(Ep 12),sign,0000,0000,0000,,Ryuichi-sama
+Dialogue: 0,0:05:22.60,0:05:24.47,Gakuen--Main,sai,0000,0000,0000,,By all means, "fetch."
+Dialogue: 0,0:05:28.75,0:05:29.76,Gakuen--Main,kota,0000,0000,0000,,Nii-chan!
+Dialogue: 0,0:05:42.56,0:05:44.65,Gakuen--Italics,sai,0000,0000,0000,,How tremendously adorable.
+Dialogue: 0,0:05:49.66,0:05:52.11,Gakuen--Main,sai,0000,0000,0000,,Kotaro-sama, you must not go too far...
+Dialogue: 0,0:06:14.77,0:06:20.78,Gakuen--Main,sai,0000,0000,0000,,This room is the library used by \Nthe late master and mistress.
+Dialogue: 0,0:06:21.96,0:06:26.78,Gakuen--Main,sai,0000,0000,0000,,To put it more simply, it belonged \Nto the chairman's son and his wife.
+Dialogue: 0,0:06:27.36,0:06:30.77,Gakuen--Main,sai,0000,0000,0000,,A library is a room in which \None stores one's books.
+Dialogue: 0,0:06:32.02,0:06:36.92,Gakuen--Main,sai,0000,0000,0000,,Like you, Kotaro-sama, the two of \Nthem were deeply fond of books.
+Dialogue: 0,0:06:38.51,0:06:41.30,Gakuen--Flashback,man,0000,0000,0000,,Saikawa! Hey, Saikawa!
+Dialogue: 0,0:06:41.68,0:06:44.19,Gakuen--Flashback,man,0000,0000,0000,,Come here and join us for a minute.
+Dialogue: 0,0:06:44.19,0:06:46.79,Gakuen--Flashback,man,0000,0000,0000,,This joke collection is a masterpiece.
+Dialogue: 0,0:06:46.79,0:06:49.05,Gakuen--Flashback,man,0000,0000,0000,,Come here, and I'll read it to you.
+Dialogue: 0,0:06:49.05,0:06:55.13,Gakuen--Flashback,man,0000,0000,0000,,Just once before I die, I want to \Nsee you laughing your head off!
+Dialogue: 0,0:06:58.80,0:07:03.31,Gakuen--Italics,sai,0000,0000,0000,,I regret that I was unable to \Ngrant you that sight, Master.
+Dialogue: 0,0:07:04.05,0:07:07.20,Gakuen--Italics,sai,0000,0000,0000,,That joke collection was \N not the least bit amusing.
+Dialogue: 0,0:07:07.57,0:07:11.59,Gakuen--Flashback,chair,0000,0000,0000,,There's no point in cleaning a \Nroom that nobody's going to use.
+Dialogue: 0,0:07:13.08,0:07:17.20,Gakuen--Italics,sai,0000,0000,0000,,But despite the chairwoman's \Ndisingenuous statement...
+Dialogue: 0,0:07:18.70,0:07:25.13,Gakuen--Italics,sai,0000,0000,0000,,She still airs out their room, \Nand occasionally cleans it.
+Dialogue: 0,0:07:26.92,0:07:30.78,Gakuen--Italics,sai,0000,0000,0000,,For the sake of the two \Nwho will never return.
+Dialogue: 0,0:07:33.18,0:07:35.09,Gakuen--Italics,sai,0000,0000,0000,,And most likely...
+Dialogue: 0,0:07:35.09,0:07:36.15,Gakuen--Main,kota,0000,0000,0000,,Sai-chan.
+Dialogue: 0,0:07:37.60,0:07:39.10,Love_Poetry_07:37(Ep 12),sign,0000,0000,0000,,Love Poetry
+Dialogue: 0,0:07:43.12,0:07:45.36,Gakuen--Main,sai,0000,0000,0000,,You wish me to read this book to you?
+Dialogue: 0,0:07:47.09,0:07:49.98,Gakuen--Main,sai,0000,0000,0000,,Then I shall do so.
+Dialogue: 0,0:07:50.36,0:07:54.49,Gakuen--Italics,sai,0000,0000,0000,,...for the sake of the two \Nwho will grow up here.
+Dialogue: 0,0:08:09.29,0:08:12.36,Gakuen--Main,sai,0000,0000,0000,,"Ah, my beloved Venus..."
+Dialogue: 0,0:08:16.51,0:08:19.51,Gakuen--Main,chair,0000,0000,0000,,What nonsense is he reading to him?
+Dialogue: 0,0:08:21.52,0:08:22.27,Gakuen--Main,,0000,0000,0000,,See ya!
+Dialogue: 0,0:08:22.27,0:08:23.38,Gakuen--Main,ryu,0000,0000,0000,,Bye!
+Dialogue: 0,0:08:25.00,0:08:27.26,Gakuen--Italics,ryu,0000,0000,0000,,I'm a little later than I expected...
+Dialogue: 0,0:08:27.26,0:08:28.65,Gakuen--Italics,ryu,0000,0000,0000,,I'd better hurry home.
+Dialogue: 0,0:08:45.44,0:08:47.21,Gakuen--Main,ryu,0000,0000,0000,,I-I'm ba—
+Dialogue: 0,0:08:47.21,0:08:48.16,Gakuen--Main,kota,0000,0000,0000,,Nii-chan.
+Dialogue: 0,0:08:49.77,0:08:52.81,Gakuen--Main,ryu,0000,0000,0000,,Kotaro? What were you doing \Nright by the front door?
+Dialogue: 0,0:08:52.81,0:08:54.75,Gakuen--Main,sai,0000,0000,0000,,He seemed so impatient to see you
+Dialogue: 0,0:08:54.75,0:08:59.06,Gakuen--Main,sai,0000,0000,0000,,that as the time for your return neared, \Nwe decided to wait here for you.
+Dialogue: 0,0:08:59.06,0:09:00.38,Gakuen--Main,ryu,0000,0000,0000,,Saikawa-san...
+Dialogue: 0,0:09:00.38,0:09:02.75,Gakuen--Main,sai,0000,0000,0000,,Welcome home, Ryuichi-sama.
+Dialogue: 0,0:09:03.20,0:09:05.21,Gakuen--Main,sai,0000,0000,0000,,I am relieved to see that you are safe.
+Dialogue: 0,0:09:05.21,0:09:07.77,Gakuen--Main,ryu,0000,0000,0000,,W-Well, thank you.
+Dialogue: 0,0:09:07.77,0:09:09.87,Gakuen--Main,ryu,0000,0000,0000,,I only went to see a movie, though...
+Dialogue: 0,0:09:09.87,0:09:12.26,Gakuen--Main,ryu,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:09:12.26,0:09:17.52,Gakuen--Main,ryu,0000,0000,0000,,As a thank-you of sorts for watching \NKotaro, I bought you a souvenir.
+Dialogue: 0,0:09:18.10,0:09:19.20,Gakuen--Main,kot,0000,0000,0000,,Zobbie!
+Dialogue: 0,0:09:19.20,0:09:22.40,Gakuen--Main,ryu,0000,0000,0000,,S-Sorry. You wouldn't want this, right?
+Dialogue: 0,0:09:22.75,0:09:25.31,Gakuen--Main,ryu,0000,0000,0000,,This kind of thing was \Nall they were selling...
+Dialogue: 0,0:09:25.31,0:09:28.97,Gakuen--Main,sai,0000,0000,0000,,Not at all. I am delighted.
+Dialogue: 0,0:09:30.86,0:09:34.97,Gakuen--Main,sai,0000,0000,0000,,Thanks to the two of you, \NI have had a truly wonderful day.
+Dialogue: 0,0:09:36.64,0:09:40.28,Gakuen--Italics,ryu,0000,0000,0000,,It's been a year since I came \Nto this house with Kotaro.
+Dialogue: 0,0:09:41.97,0:09:43.35,Gakuen--Main,chair,0000,0000,0000,,You two!
+Dialogue: 0,0:09:43.35,0:09:45.60,Gakuen--Main,chair,0000,0000,0000,,How long are you going to \Nstand there babbling on?
+Dialogue: 0,0:09:45.84,0:09:48.87,Gakuen--Main,chair,0000,0000,0000,,Saikawa, have you gotten \Nstarted on dinner yet?
+Dialogue: 0,0:09:48.87,0:09:51.14,Gakuen--Main,sai,0000,0000,0000,,Ma'am. I shall begin preparations at once.
+Dialogue: 0,0:09:51.50,0:09:53.80,Gakuen--Main,chair,0000,0000,0000,,Ryuichi, go assist him.
+Dialogue: 0,0:09:53.80,0:09:55.36,Gakuen--Main,ryu,0000,0000,0000,,Y-Yes, ma'am!
+Dialogue: 0,0:09:55.36,0:10:00.01,Gakuen--Italics,ryu,0000,0000,0000,,For now, at the least, \Nthe place I think of as home...
+Dialogue: 0,0:10:00.60,0:10:02.42,Gakuen--Main,ryu,0000,0000,0000,,Um, ma'am?
+Dialogue: 0,0:10:02.42,0:10:03.48,Gakuen--Main,chair,0000,0000,0000,,Yes?
+Dialogue: 0,0:10:03.48,0:10:06.11,Gakuen--Main,ryu,0000,0000,0000,,Um, "I'm home now."
+Dialogue: 0,0:10:06.57,0:10:08.65,Gakuen--Main,ryu,0000,0000,0000,,I didn't announce myself properly, did I?
+Dialogue: 0,0:10:10.43,0:10:13.29,Gakuen--Italics,ryu,0000,0000,0000,,...is definitely this place.
+Dialogue: 0,0:10:13.29,0:10:14.68,Gakuen--Main,chair,0000,0000,0000,,Welcome home.
+Dialogue: 0,0:10:16.63,0:10:18.88,Love_Poetry_10:16(Ep 12),sign,0000,0000,0000,,{\fad(1,2139)}Love Poetry
+Dialogue: 0,0:10:16.96,0:10:18.88,Gakuen--Main,ryu,0000,0000,0000,,Uh, Saikawa-san...
+Dialogue: 0,0:10:18.88,0:10:20.26,Ryuichi-sama_10:18(Ep 12),sign,0000,0000,0000,,Ryuichi-sama
+Dialogue: 0,0:10:18.88,0:10:22.12,Gakuen--Main,ryu,0000,0000,0000,,Exactly what were you two playing together?
+Dialogue: 0,0:10:22.12,0:10:25.13,Gakuen--Main,sai,0000,0000,0000,,Well, we played all the standard games.
+Dialogue: 0,0:10:25.13,0:10:26.52,Gakuen--Main,sai,0000,0000,0000,,Such as this.
+Dialogue: 0,0:10:29.73,0:10:32.02,Ryuichi-sama_10:29(Ep 12),sign,0000,0000,0000,,Ryuichi-sama
+Dialogue: 0,0:10:29.93,0:10:32.01,Gakuen--Main,kot,0000,0000,0000,,{\a6}Nii-chan! Ball!
+Dialogue: 0,0:10:43.15,0:10:48.21,Gakuen--Italics,ryu,0000,0000,0000,,As December begins, the city's shifted \Ncompletely into Christmas mode...
+Dialogue: 0,0:10:51.14,0:10:55.98,Gakuen--Italics,ryu,0000,0000,0000,,And Kotaro is obsessed with all \Nthe Santa Clauses everywhere.
+Dialogue: 0,0:10:57.54,0:10:59.65,Gakuen--Main,ryu,0000,0000,0000,,Kotaro, you're going to tip over.
+Dialogue: 0,0:10:59.65,0:11:01.17,Gakuen--Main,ryu,0000,0000,0000,,We're going to be late, too.
+Dialogue: 0,0:11:01.95,0:11:05.29,Gakuen--Main,ryu,0000,0000,0000,,Kotaro, I don't think he's Santa...
+Dialogue: 0,0:11:05.79,0:11:08.05,Gakuen--Main,usa,0000,0000,0000,,Ah, I see.
+Dialogue: 0,0:11:08.36,0:11:13.54,Gakuen--Main,usa,0000,0000,0000,,I was wondering how you ended up \Ngetting here later than me for once.
+Dialogue: 0,0:11:13.54,0:11:16.06,Gakuen--Main,ryu,0000,0000,0000,,It seriously took forever.
+Dialogue: 0,0:11:16.30,0:11:19.87,Gakuen--Main,usa,0000,0000,0000,,And you indulged him every \Nstep of the way, Ryu-chan...
+Dialogue: 0,0:11:19.87,0:11:24.20,Gakuen--Main,usa,0000,0000,0000,,So, why is Kotaro staring \Nat that pachinko flyer?
+Dialogue: 0,0:11:24.20,0:11:26.19,Gakuen--Main,usa,0000,0000,0000,,He seems a little young for gambling.
+Dialogue: 0,0:11:26.19,0:11:29.60,Gakuen--Main,ryu,0000,0000,0000,,Actually, I think it's the \Npicture of Santa on it...
+Dialogue: 0,0:11:29.60,0:11:30.83,Gakuen--Main,usa,0000,0000,0000,,What picture?
+Dialogue: 0,0:11:30.83,0:11:32.24,Gakuen--Main,ryu,0000,0000,0000,,Here.
+Dialogue: 0,0:11:32.24,0:11:33.34,Gakuen--Main,usa,0000,0000,0000,,That's tiny!
+Dialogue: 0,0:11:33.34,0:11:35.81,Gakuen--Main,usa,0000,0000,0000,,I'm impressed he even found it.
+Dialogue: 0,0:11:35.81,0:11:39.52,Gakuen--Main,taka,0000,0000,0000,,I met a way cooler Santa than that!
+Dialogue: 0,0:11:39.52,0:11:41.01,Gakuen--Main,ryu,0000,0000,0000,,Morning, Taka-kun.
+Dialogue: 0,0:11:41.01,0:11:43.35,Gakuen--Main,taka,0000,0000,0000,,He was in the toy section!
+Dialogue: 0,0:11:43.35,0:11:47.34,Gakuen--Main,taka,0000,0000,0000,,And I... I asked him for \Na transformation belt!
+Dialogue: 0,0:11:47.34,0:11:50.53,Gakuen--Main,usa,0000,0000,0000,,Playing right into the \Ndepartment store's hands, eh?
+Dialogue: 0,0:11:50.53,0:11:56.43,Gakuen--Main,usa,0000,0000,0000,,Sorry to tell you, Taka, but Santa \Nonly visits good boys and girls.
+Dialogue: 0,0:11:56.43,0:11:59.80,Gakuen--Main,usa,0000,0000,0000,,So he might not come see you this year.
+Dialogue: 0,0:12:03.23,0:12:04.94,Gakuen--Main,ryu,0000,0000,0000,,Hey, Usaida-san...
+Dialogue: 0,0:12:04.94,0:12:07.56,Gakuen--Main,taka,0000,0000,0000,,I... I'm a good boy!
+Dialogue: 0,0:12:07.56,0:12:10.67,Gakuen--Main,usa,0000,0000,0000,,But you never eat your broccoli, do you?
+Dialogue: 0,0:12:10.67,0:12:15.13,Gakuen--Main,taka,0000,0000,0000,,That's 'cause... I don't like... bokkody...
+Dialogue: 0,0:12:15.13,0:12:17.90,Gakuen--Main,usa,0000,0000,0000,,Ah, probably not gonna happen, then.
+Dialogue: 0,0:12:17.90,0:12:19.33,Gakuen--Main,usa,0000,0000,0000,,Also, it's "broccoli."
+Dialogue: 0,0:12:19.33,0:12:20.64,Gakuen--Main,ryu,0000,0000,0000,,Usaida-san...
+Dialogue: 0,0:12:22.63,0:12:24.79,Gakuen--Main,taka,0000,0000,0000,,Then... I'll eat it.
+Dialogue: 0,0:12:24.79,0:12:26.11,Gakuen--Main,usa,0000,0000,0000,,Really?
+Dialogue: 0,0:12:26.11,0:12:27.04,Gakuen--Main,ryu,0000,0000,0000,,Taka-kun!
+Dialogue: 0,0:12:27.80,0:12:29.33,Gakuen--Main,kami,0000,0000,0000,,Cut the act.
+Dialogue: 0,0:12:29.33,0:12:30.51,Gakuen--Main,ryu,0000,0000,0000,,Kamitani!
+Dialogue: 0,0:12:30.51,0:12:33.78,Gakuen--Main,usa,0000,0000,0000,,I made him want to eat broccoli. \NWhat's the problem?
+Dialogue: 0,0:12:33.78,0:12:35.91,Gakuen--Main,hay,0000,0000,0000,,You just wanted to make him cry.
+Dialogue: 0,0:12:36.95,0:12:38.81,Gakuen--Main,usa,0000,0000,0000,,Couldn't help it. It was just too funny.
+Dialogue: 0,0:12:38.81,0:12:40.02,Gakuen--Main,ryu,0000,0000,0000,,Usaida-san...
+Dialogue: 0,0:12:40.40,0:12:45.35,Gakuen--Main,taka,0000,0000,0000,,Nii-chan, w-will Santa come to our house?
+Dialogue: 0,0:12:46.81,0:12:48.11,Gakuen--Main,kami,0000,0000,0000,,Of course he won't.
+Dialogue: 0,0:12:48.11,0:12:50.41,Gakuen--Main,kami,0000,0000,0000,,Our mom got our presents at the depart—
+Dialogue: 0,0:12:50.41,0:12:51.78,Gakuen--Main,ryu,0000,0000,0000,,Kamitani!
+Dialogue: 0,0:12:51.78,0:12:54.42,Gakuen--Main,ryu,0000,0000,0000,,How could you tell him that?!
+Dialogue: 0,0:12:54.42,0:12:56.73,Gakuen--Main,ryu,0000,0000,0000,,You can't shatter his dreams! You can't!
+Dialogue: 0,0:12:56.73,0:13:00.18,Gakuen--Main,hay,0000,0000,0000,,How would I? He was with us \Nwhen she bought them.
+Dialogue: 0,0:13:12.09,0:13:14.17,Gakuen--Main,kota,0000,0000,0000,,Taka-chan. Good boy.
+Dialogue: 0,0:13:16.83,0:13:19.26,Gakuen--Main,taka,0000,0000,0000,,Will Santa come?
+Dialogue: 0,0:13:22.67,0:13:24.28,Gakuen--Italics,ryu,0000,0000,0000,,Santa, huh...
+Dialogue: 0,0:13:33.61,0:13:37.46,Gakuen--Main,kirin,0000,0000,0000,,I asked Santa for... I asked Santa for...
+Dialogue: 0,0:13:39.18,0:13:41.04,Gakuen--Main,kirin,0000,0000,0000,,Actually, I'm not gonna tell!
+Dialogue: 0,0:13:41.04,0:13:44.28,Gakuen--Main,sato,0000,0000,0000,,Kirin! You're so cute!
+Dialogue: 0,0:13:44.28,0:13:46.55,Gakuen--Main,sato,0000,0000,0000,,Did you see that, Ryuichi-kun? \NDid you see that?!
+Dialogue: 0,0:13:46.55,0:13:49.62,Gakuen--Main,sato,0000,0000,0000,,It's so darn cute, I can't stand it!
+Dialogue: 0,0:13:49.62,0:13:51.44,Gakuen--Main,sato,0000,0000,0000,,But don't you dare fall in love with her!
+Dialogue: 0,0:14:08.81,0:14:14.28,Gakuen--Main,taku,0000,0000,0000,,I asked Santa to make sure me and \NKazuma can be together forever!
+Dialogue: 0,0:14:14.28,0:14:18.08,Gakuen--Main,kaz,0000,0000,0000,,M-Me, too... to be with Takuma...
+Dialogue: 0,0:14:18.08,0:14:20.08,Gakuen--Main,go,0000,0000,0000,,Ryuichi-kun, what should I do?
+Dialogue: 0,0:14:20.08,0:14:22.29,Gakuen--Main,go,0000,0000,0000,,Takuma and Kazuma are such good kids,
+Dialogue: 0,0:14:22.29,0:14:24.29,Gakuen--Main,go,0000,0000,0000,,I can't decide on a present for them!
+Dialogue: 0,0:14:24.29,0:14:25.99,Gakuen--Main,go,0000,0000,0000,,Help me, Ryuichi-kun!
+Dialogue: 0,0:14:25.99,0:14:27.85,Gakuen--Main,ryu,0000,0000,0000,,U-Um...
+Dialogue: 0,0:14:30.40,0:14:32.33,Gakuen--Main,yuka,0000,0000,0000,,Listen to this, Ryuichi-kun!
+Dialogue: 0,0:14:32.63,0:14:35.52,Gakuen--Main,yuka,0000,0000,0000,,I finished the Santa outfit \Nfor Yutaka-san to wear!
+Dialogue: 0,0:14:35.52,0:14:38.60,Gakuen--Main,yuka,0000,0000,0000,,I might not be as good \Nat sewing as Usaida-san,
+Dialogue: 0,0:14:38.60,0:14:41.99,Gakuen--Main,yuka,0000,0000,0000,,but I'm sure it'll be perfect on Yutaka-san!
+Dialogue: 0,0:14:42.85,0:14:45.62,Gakuen--Main,ryu,0000,0000,0000,,He does seem perfect for the role...
+Dialogue: 0,0:14:48.10,0:14:54.42,Gakuen--Italics,ryu,0000,0000,0000,,That's right. Santa's gotta \Nhave the beard... and...
+Dialogue: 0,0:14:57.03,0:14:59.67,Gakuen--Main,uso,0000,0000,0000,,Kashima! What are you doing?
+Dialogue: 0,0:15:03.32,0:15:05.36,Gakuen--Main,ryu,0000,0000,0000,,Oh! This is just...
+Dialogue: 0,0:15:05.36,0:15:08.92,Gakuen--Main,ryu,0000,0000,0000,,I was trying to figure out how \NI could look more like Santa!
+Dialogue: 0,0:15:08.92,0:15:11.26,Gakuen--Main,uso,0000,0000,0000,,I thought you were pretending \Nyou were pregnant...
+Dialogue: 0,0:15:12.43,0:15:14.76,Gakuen--Main,ushi,0000,0000,0000,,K-Kashima-kun, what are you...
+Dialogue: 0,0:15:14.76,0:15:16.81,Gakuen--Main,ushi,0000,0000,0000,,Don't peep on the boys \Nwhile they're changing.
+Dialogue: 0,0:15:16.81,0:15:19.66,Gakuen--Main,ebi,0000,0000,0000,,Hey, is this for your little bro?
+Dialogue: 0,0:15:19.66,0:15:21.92,Gakuen--Main,ebi,0000,0000,0000,,You're gonna play Santa for him?
+Dialogue: 0,0:15:21.92,0:15:22.93,Gakuen--Main,uso,0000,0000,0000,,How come?
+Dialogue: 0,0:15:22.93,0:15:26.52,Gakuen--Main,uso,0000,0000,0000,,Isn't that stuff your dad's job?
+Dialogue: 0,0:15:28.02,0:15:29.14,Gakuen--Main,ebi,0000,0000,0000,,You idiot.
+Dialogue: 0,0:15:29.14,0:15:31.29,Gakuen--Main,do,0000,0000,0000,,Did you forget Kashima's family situation?
+Dialogue: 0,0:15:31.29,0:15:34.56,Gakuen--Main,uso,0000,0000,0000,,That's right... S-Sorry, Kashima...
+Dialogue: 0,0:15:34.56,0:15:38.29,Gakuen--Main,ryu,0000,0000,0000,,Hey, it's okay. You don't have \Nto walk on eggshells about it.
+Dialogue: 0,0:15:38.75,0:15:42.44,Gakuen--Main,ryu,0000,0000,0000,,My parents took that stuff really seriously.
+Dialogue: 0,0:15:42.44,0:15:46.43,Gakuen--Main,ryu,0000,0000,0000,,I'm embarrassed to admit that \NI believed right up until third grade...
+Dialogue: 0,0:15:46.43,0:15:49.47,Gakuen--Main,ryu,0000,0000,0000,,My brother really believes in Santa, too,
+Dialogue: 0,0:15:49.47,0:15:51.17,Gakuen--Main,ryu,0000,0000,0000,,and he's been really waiting to meet him.
+Dialogue: 0,0:15:51.99,0:15:54.18,Gakuen--Main,ryu,0000,0000,0000,,Last year, I didn't have \Ntime to think about it,
+Dialogue: 0,0:15:54.47,0:15:57.41,Gakuen--Main,ryu,0000,0000,0000,,but this year I thought I \Nmight play Santa instead.
+Dialogue: 0,0:15:57.41,0:15:58.44,Gakuen--Main,all,0000,0000,0000,,Kashima!
+Dialogue: 0,0:15:58.44,0:16:00.62,Gakuen--Main,all,0000,0000,0000,,How good of a big brother can you be?
+Dialogue: 0,0:16:00.62,0:16:03.01,Gakuen--Main,all,0000,0000,0000,,It's amazing that you believed \Nall the way until third grade.
+Dialogue: 0,0:16:03.01,0:16:05.94,Gakuen--Main,all,0000,0000,0000,,So, do you have a Santa suit yet?
+Dialogue: 0,0:16:05.94,0:16:07.52,Gakuen--Main,ryu,0000,0000,0000,,Not yet...
+Dialogue: 0,0:16:07.52,0:16:09.92,Gakuen--Main,ryu,0000,0000,0000,,They're pretty expensive, actually.
+Dialogue: 0,0:16:09.92,0:16:12.46,Gakuen--Main,odo,0000,0000,0000,,Have you tried looking them \Nup on your smartphone?
+Dialogue: 0,0:16:12.46,0:16:15.61,Gakuen--Main,ryu,0000,0000,0000,,Actually, mine's been acting up lately...
+Dialogue: 0,0:16:15.61,0:16:17.21,Gakuen--Main,uso,0000,0000,0000,,Oh, hang on a sec, then.
+Dialogue: 0,0:16:18.53,0:16:21.54,Gakuen--Main,uso,0000,0000,0000,,That's right, your smartphone \Ngot wrecked, didn't it?
+Dialogue: 0,0:16:21.54,0:16:23.91,Gakuen--Main,uso,0000,0000,0000,,The chairwoman's crazy rich, isn't she?
+Dialogue: 0,0:16:23.91,0:16:26.44,Gakuen--Main,uso,0000,0000,0000,,Why not ask her to buy you \Na new one for Christmas?
+Dialogue: 0,0:16:26.96,0:16:29.65,Gakuen--Main,ryu,0000,0000,0000,,Oh, I couldn't!
+Dialogue: 0,0:16:29.65,0:16:34.00,Gakuen--Main,ryu,0000,0000,0000,,Actually, since she took me in, I thought \NI should probably get her something...
+Dialogue: 0,0:16:34.00,0:16:38.92,Gakuen--Main,ryu,0000,0000,0000,,Though the best I could give her would be \Nstuff like free shoulder massage coupons...
+Dialogue: 0,0:16:40.43,0:16:42.74,Gakuen--Main,uso,0000,0000,0000,,I knew that old lady was a cheapskate.
+Dialogue: 0,0:16:42.74,0:16:44.84,Gakuen--Main,uso,0000,0000,0000,,Is she torturing you, Kashima?
+Dialogue: 0,0:16:44.84,0:16:46.73,Gakuen--Main,ryu,0000,0000,0000,,O-Of course not!
+Dialogue: 0,0:16:46.73,0:16:48.76,Gakuen--Main,ryu,0000,0000,0000,,The chairwoman is a very nice person.
+Dialogue: 0,0:16:50.52,0:16:52.77,Gakuen--Main,ryu,0000,0000,0000,,Kamitani, if you're heading \Nout, I'll go with you.
+Dialogue: 0,0:16:52.77,0:16:54.70,Gakuen--Main,hay,0000,0000,0000,,No, I'm ditching.
+Dialogue: 0,0:17:05.25,0:17:06.75,Chairwoman's_Office_17:05(Ep 12),sign,0000,0000,0000,,Chairwoman's Office
+Dialogue: 0,0:17:22.25,0:17:24.64,Gakuen--Main,sai,0000,0000,0000,,I prepared this for the two of you.
+Dialogue: 0,0:17:24.64,0:17:26.60,Gakuen--Main,sai,0000,0000,0000,,Please, help yourselves.
+Dialogue: 0,0:17:26.85,0:17:30.04,Gakuen--Italics,ryu,0000,0000,0000,,Th-This is clearly too much \Nfor the two of us...
+Dialogue: 0,0:17:30.04,0:17:34.06,Gakuen--Italics,ryu,0000,0000,0000,,God would punish me for sure if I said \Nwe were oppressed after all this.
+Dialogue: 0,0:17:34.74,0:17:36.82,Gakuen--Main,ryu,0000,0000,0000,,Um... Where's the chairwoman today?
+Dialogue: 0,0:17:36.82,0:17:41.13,Gakuen--Main,sai,0000,0000,0000,,She is currently attending \Na very important dinner.
+Dialogue: 0,0:17:41.13,0:17:42.81,Gakuen--Main,ryu,0000,0000,0000,,I see...
+Dialogue: 0,0:17:42.81,0:17:43.82,Gakuen--Main,ko,0000,0000,0000,,Baa-chan.
+Dialogue: 0,0:17:44.11,0:17:46.56,Gakuen--Main,ryu,0000,0000,0000,,What about you?
+Dialogue: 0,0:17:46.56,0:17:50.85,Gakuen--Main,sai,0000,0000,0000,,I have a bit of work to finish, \Nas well, so I do apologize,
+Dialogue: 0,0:17:50.85,0:17:53.25,Gakuen--Main,sai,0000,0000,0000,,but I must take my leave now.
+Dialogue: 0,0:17:53.92,0:17:55.08,Gakuen--Main,kota,0000,0000,0000,,Sai-chan...
+Dialogue: 0,0:17:56.55,0:18:01.09,Gakuen--Main,ryu,0000,0000,0000,,Oh, um... Thanks for taking the time \Nwhen you're so busy otherwise.
+Dialogue: 0,0:18:01.09,0:18:02.84,Gakuen--Main,ryu,0000,0000,0000,,Kotaro, you thank him, too.
+Dialogue: 0,0:18:07.89,0:18:12.26,Gakuen--Main,ryu,0000,0000,0000,,Um, sorry. Don't worry \Nabout us. Go back to work.
+Dialogue: 0,0:18:12.26,0:18:14.72,Gakuen--Main,sai,0000,0000,0000,,No, I shall stay!
+Dialogue: 0,0:18:15.95,0:18:17.86,Gakuen--Main,sai,0000,0000,0000,,Or so I would like to say.
+Dialogue: 0,0:18:18.23,0:18:23.41,Gakuen--Main,sai,0000,0000,0000,,The truth is, the matter is a very \Nimportant one, so I really must go.
+Dialogue: 0,0:18:23.41,0:18:25.24,Gakuen--Main,,0000,0000,0000,,Oh, uh... Okay.
+Dialogue: 0,0:18:25.24,0:18:27.66,Gakuen--Main,sai,0000,0000,0000,,But if I may be so brash,
+Dialogue: 0,0:18:27.66,0:18:32.87,Gakuen--Main,sai,0000,0000,0000,,it makes me unspeakably happy \Nto see how much you will miss me.
+Dialogue: 0,0:18:34.60,0:18:38.93,Gakuen--Main,sai,0000,0000,0000,,Well then, Ryuichi-sama, Kotaro-sama, \NMerry Christmas to you both.
+Dialogue: 0,0:18:47.34,0:18:54.32,Gakuen--Italics,ryu,0000,0000,0000,,Kotaro's gotten a lot more open with \Nhis feelings since we got here.
+Dialogue: 0,0:18:56.52,0:19:01.30,Gakuen--Italics,ryu,0000,0000,0000,,And since he's gotten more open, it's a lot \Neasier to comfort him when he's lonely.
+Dialogue: 0,0:19:01.67,0:19:03.28,Gakuen--Main,ryu,0000,0000,0000,,Kotaro, come on.
+Dialogue: 0,0:19:03.53,0:19:07.65,Gakuen--Main,ryu,0000,0000,0000,,Your brother's still here. Let's eat \Nthe food Saikawa-san made for us.
+Dialogue: 0,0:19:07.92,0:19:11.74,Gakuen--Main,ryu,0000,0000,0000,,Besides, I'm sure Santa will be here soon.
+Dialogue: 0,0:19:12.77,0:19:15.33,Gakuen--Italics,ryu,0000,0000,0000,,I've got to do it properly, \Njust the way Dad used to...
+Dialogue: 0,0:19:16.40,0:19:18.43,Gakuen--Italics,ryu,0000,0000,0000,,But it's just the two of us here!
+Dialogue: 0,0:19:18.43,0:19:21.42,Gakuen--Italics,ryu,0000,0000,0000,,When am I going to be able to \Nchange into the Santa outfit?
+Dialogue: 0,0:19:22.02,0:19:25.09,Gakuen--Flashback,uso,0000,0000,0000,,Dad used to wear this at New Year's \Nparties. You can use it.
+Dialogue: 0,0:19:25.57,0:19:29.89,Gakuen--Italics,ryu,0000,0000,0000,,Thanks to the guys, I managed to get \Nthe beard and everything together, but...
+Dialogue: 0,0:19:30.68,0:19:35.19,Gakuen--Main,ryu,0000,0000,0000,,Um, Kotaro, Nii-chan needs \Nto go to the bathroom.
+Dialogue: 0,0:19:36.06,0:19:40.26,Gakuen--Italics,ryu,0000,0000,0000,,I need to get the outfit on, give him his \Npresents, then go back right away.
+Dialogue: 0,0:19:51.51,0:19:52.46,Gakuen--Main,kot,0000,0000,0000,,Nii-chan.
+Dialogue: 0,0:19:56.52,0:19:57.97,Gakuen--Italics,ryu,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:19:57.97,0:20:00.61,Gakuen--Italics,ryu,0000,0000,0000,,If I can just get into the bathroom \Nby myself and get changed...
+Dialogue: 0,0:20:05.46,0:20:09.40,Gakuen--Main,ryu,0000,0000,0000,,K-Kotaro... you wouldn't rather wait outside?
+Dialogue: 0,0:20:10.07,0:20:11.35,Gakuen--Main,ryu,0000,0000,0000,,No?
+Dialogue: 0,0:20:11.35,0:20:12.48,Gakuen--Main,ryu,0000,0000,0000,,Of course not...
+Dialogue: 0,0:20:12.83,0:20:16.99,Gakuen--Italics,ryu,0000,0000,0000,,How was it that Dad came \Nout as Santa, again?
+Dialogue: 0,0:20:17.49,0:20:23.00,Gakuen--Italics,ryu,0000,0000,0000,,I think he'd slip away while we \Nwere focused on our cake and stuff.
+Dialogue: 0,0:20:23.42,0:20:27.09,Gakuen--Italics,ryu,0000,0000,0000,,Then, suddenly, the doorbell would ring...
+Dialogue: 0,0:20:31.07,0:20:32.45,Gakuen--Main,kota,0000,0000,0000,,Santa!
+Dialogue: 0,0:20:32.45,0:20:34.70,Gakuen--Italics,ryu,0000,0000,0000,,Wait... It couldn't be...
+Dialogue: 0,0:20:39.86,0:20:41.74,Gakuen--Main,all,0000,0000,0000,,Merry Christmas!
+Dialogue: 0,0:20:41.74,0:20:44.47,Gakuen--Main,all,0000,0000,0000,,Ryuichi-kun! Kotaro-kun!
+Dialogue: 0,0:20:48.74,0:20:50.05,Gakuen--Main,chair,0000,0000,0000,,Ryuichi.
+Dialogue: 0,0:20:52.38,0:20:53.84,Gakuen--Main,ryu,0000,0000,0000,,Ma'am!
+Dialogue: 0,0:20:56.58,0:20:58.14,Gakuen--Main,chair,0000,0000,0000,,Give that to me.
+Dialogue: 0,0:21:03.23,0:21:06.16,Gakuen--Main,chair,0000,0000,0000,,I dislike children who fail to mature,
+Dialogue: 0,0:21:06.16,0:21:08.79,Gakuen--Main,chair,0000,0000,0000,,and children who show \Nunnecessary consideration.
+Dialogue: 0,0:21:15.52,0:21:17.05,Gakuen--Main,chair,0000,0000,0000,,Remember that.
+Dialogue: 0,0:21:19.99,0:21:23.54,Gakuen--Main,ryu,0000,0000,0000,,Um, ma'am... what about \Nyour important dinner?
+Dialogue: 0,0:21:23.54,0:21:25.04,Gakuen--Main,chair,0000,0000,0000,,That nonsense?
+Dialogue: 0,0:21:25.47,0:21:28.06,Gakuen--Main,chair,0000,0000,0000,,I left early, of course!
+Dialogue: 0,0:21:37.75,0:21:42.80,Gakuen--Italics,ryu,0000,0000,0000,,Inside the gift-wrapped box was a \Nsmartphone exactly like my old one.
+Dialogue: 0,0:21:43.79,0:21:49.82,Gakuen--Italics,ryu,0000,0000,0000,,Kamitani apparently told the chairwoman \Nthat my smartphone was broken.
+Dialogue: 0,0:21:50.66,0:21:52.80,Gakuen--Italics,ryu,0000,0000,0000,,Mom, Dad...
+Dialogue: 0,0:21:53.32,0:21:54.83,Gakuen--Italics,ryu,0000,0000,0000,,The moment I opened that door,
+Dialogue: 0,0:21:54.83,0:21:59.84,Gakuen--Italics,ryu,0000,0000,0000,,I felt a little disappointed \Nthat it wasn't you guys there...
+Dialogue: 0,0:22:00.23,0:22:06.23,Gakuen--Italics,ryu,0000,0000,0000,,But that was outweighed by how happy, \Ncontent, and emotional it made me.
+Dialogue: 0,0:22:07.62,0:22:09.56,Gakuen--Main,sato,0000,0000,0000,,Okay, here we go!
+Dialogue: 0,0:22:10.25,0:22:11.34,Gakuen--Main,sato,0000,0000,0000,,Five!
+Dialogue: 0,0:22:11.56,0:22:12.61,Gakuen--Main,sato,0000,0000,0000,,Four!
+Dialogue: 0,0:22:12.81,0:22:13.85,Gakuen--Main,sato,0000,0000,0000,,Three!
+Dialogue: 0,0:22:14.08,0:22:15.10,Gakuen--Main,sato,0000,0000,0000,,Two!
+Dialogue: 0,0:22:15.10,0:22:16.35,Gakuen--Main,sato,0000,0000,0000,,One!
+Dialogue: 0,0:22:17.29,0:22:19.78,Gakuen--Main,sato,0000,0000,0000,,Merry Christmas!

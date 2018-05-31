@@ -1,0 +1,1051 @@
+{1}{1}23.976
+{4826}{4894}I can hear your heart beating.
+{4938}{5026}Sounds like a little animal|in your chest trying to get out.
+{5096}{5149}Sounds like blood.
+{5230}{5277}Sounds like flesh.
+{5464}{5499}No.
+{5649}{5713}Most of all, it sounds like love.
+{5770}{5802}- What's this?|- Well...
+{5814}{5849}What is this?
+{5854}{5892}- It's my gun.|- Your gun?
+{6018}{6065}Don't hurt me.
+{6162}{6200}Give me your hand, Culter.
+{6268}{6340}- Get on your knees. Get up, Culter.|- I'm trying to.
+{6424}{6453}- "Jess, I'm here."|- I've got Culter.
+{6458}{6520}Wilson, I need backup.|23 Ralston, the old Battery.
+{6525}{6576}{y:i}10-4. Backup units rolling.|{y:i}I got your back, Jess.
+{6581}{6627}- Get on your knees.|- I'm on my fucking knees.
+{6632}{6715}- Get up.|- I'm up. I'm up.
+{6722}{6794}- "Hold him there, Jessica."|- Come on.
+{6812}{6843}Come on.
+{6848}{6906}Oh, yeah. One more thing.
+{7211}{7256}- Hey, Shepard.|- What?
+{7261}{7299}Do that thing again.
+{7368}{7491}{y:i}Do it! Do it! Do it! Do it! Do it!
+{7496}{7576}{y:i}Do it! Do it! Do it...
+{7581}{7664}Inspector Shepard, Homicide.
+{7782}{7817}Yes.
+{7834}{7863}Who wants a beer?
+{7868}{7914}- I do.|- I second that.
+{7919}{7963}- Another round, Peter.|- You got it.
+{7980}{8027}- All right, big guys.|- Pass them down, boys.
+{8032}{8074}Thanks for being|on the phone, Wilson.
+{8079}{8153}You and me?|You and me are like this.
+{8168}{8202}You're drunk.
+{8252}{8300}No, seriously, serious,|serious, serious.
+{8305}{8375}Look, just because you're|moving up to Homicide,
+{8380}{8424}don't take me off|your speed dial, OK?
+{8433}{8516}No, no, no. I mean,|any time you press that button,
+{8521}{8602}any time you push that button,|I'll be there to pick up.
+{8614}{8649}OK?
+{8664}{8722}- I'm gonna miss you.|- Here's to you.
+{8778}{8823}OK. Don't forget about me.
+{8828}{8860}Give me some.
+{8936}{8978}I'll miss you too, Wilson.
+{8983}{9097}Look, I'm telling you,|these Homicide guys, they're mental.
+{9102}{9160}And they get turned on|by fucking corpses, remember that.
+{9165}{9205}Now, that's interesting.
+{9276}{9318}What the fuck is this,|the peanut gallery?
+{9323}{9371}Shot of rye, please.
+{9400}{9485}I was just wondering, do you mean|they're turned on by fucking corpses,
+{9491}{9601}- or by fucking corpses?|- God.
+{9607}{9650}- Mind your business.|- A lot of beers here.
+{9655}{9697}Let's spread them around.
+{9727}{9792}Another shot of Jack, please, Pete.
+{9926}{9962}What?
+{9967}{10008}Oh, nothing.
+{10020}{10100}Oh, I was just thinking|how awkward you look...
+{10105}{10156}...even though you are a cop.
+{10165}{10209}What precinct?
+{10296}{10354}Have it your way, stranger.
+{10434}{10477}- Congratulations, inspector.|- Hey.
+{10482}{10557}Hey, sexy. Come on, let's dance.
+{10562}{10607}- You wanna dance?|- You gonna be cool, Jimmy?
+{10612}{10669}What do you mean,|am I gonna be cool?
+{10674}{10736}Like I'm here to fight with you|or something?
+{10759}{10789}Hey, he made it!
+{10794}{10823}- Hello, commissioner.|- Hi.
+{10828}{10865}- How you doing?|- Hey, how you doing?
+{10870}{10931}Back up, boys,|you're breathing my air.
+{10936}{10976}- Hey, look who showed up.|- Good to see you.
+{10981}{11032}- What's up, commissioner?|- Hey.
+{11071}{11114}Leo, how you doing?
+{11119}{11160}If my mentor were|police commissioner,
+{11165}{11260}I think I'd be getting a promotion too.|You know what I mean?
+{11265}{11302}- Yeah, is that right?|- Yeah.
+{11307}{11337}I got ears like a cat, son.
+{11342}{11416}So let's see what we can do|about getting you that promotion.
+{11427}{11489}Test. There's a man sitting|at the end of the bar,
+{11494}{11541}looks like he's been sitting there|for a while.
+{11546}{11617}I want you to describe him.|And I want details.
+{11658}{11728}Well, you know what? I'm just here|to have a good time, man. That's it.
+{11733}{11792}Oh, so talking to me is not|your idea of a good time?
+{11816}{11886}Or is it that you just can't do it?
+{11898}{11957}- I could do it.|- OK, so go ahead,
+{11962}{12013}get yourself a promotion.
+{12087}{12128}Look at me.
+{12160}{12201}He's a white guy.
+{12216}{12257}And...
+{12327}{12413}He's got, I don't know,|a dark sports jacket. I don't know.
+{12418}{12505}- You know what? I'm off duty, man.|- Yeah, I know.
+{12555}{12595}Shepard?
+{12666}{12703}Go.
+{12738}{12838}White male, late 40s, 6 foot, 200|pounds, thinning gray hair, glasses.
+{12843}{12899}He's wearing two gold chains|with some sort of medallion.
+{12914}{12985}He's drinking shots and paying cash.
+{13092}{13154}And that's why she's an inspector,|and you're not.
+{13168}{13239}The good inspector's never off duty.
+{13244}{13285}My office.
+{13412}{13472}Inspector Shepard.
+{13501}{13561}Making an old man proud.
+{13566}{13596}So...
+{13601}{13667}- You pass the written?|- Yeah, of course. How could I not?
+{13701}{13791}- Trained by the master.|- Really, Grasshopper?
+{13800}{13887}Well, the master is amazed|at how badly you almost fucked it up.
+{13955}{13985}- What?|- Well, a moment ago,
+{13990}{14049}you demonstrated you still know|how to process a room.
+{14054}{14104}So tell me this,
+{14109}{14179}how did that psycho get|a knife to your throat?
+{14193}{14257}No. Let me tell you.
+{14305}{14403}You went there alone without backup.|And you didn't tell anybody.
+{14408}{14473}You didn't follow procedure|and you almost got yourself killed.
+{14478}{14516}You know, you're lucky you're not|being brought up in front of
+{14521}{14571}a disciplinary committee|instead of being promoted.
+{14596}{14640}You're right. I fucked up.
+{14712}{14789}Listen, it was an honor for me|to raise you,
+{14794}{14850}to raise my partner's child.
+{15074}{15134}I'm just glad you made it through.
+{15163}{15209}But you're Homicide now.
+{15214}{15279}There's no more room for mistakes.
+{15284}{15322}Copy that?
+{15364}{15401}Copy.
+{15438}{15477}Nice kick.
+{15610}{15717}I mean, what kind of moron|tries to flush body parts down a toilet,
+{15722}{15804}especially when he's got|a perfectly good furnace out back?
+{15861}{15920}- I'm gonna head out.|- Oh, no, no, no, no, no.
+{15926}{15977}Where you been hiding?|This is your night.
+{15997}{16102}Hey, the first female chief of police|of San Francisco right here.
+{16106}{16145}- Mark my words.|- Oh, yeah.
+{16150}{16188}- To the chief.|- To the chief.
+{16193}{16237}You remind me so much|of your father.
+{16268}{16325}God, he would've been proud of you.
+{16371}{16411}All right. I want you to go|straight home
+{16416}{16447}- and get some rest.|- I will.
+{16946}{17007}- Everything all right?|- Yeah. Everything's all right.
+{17038}{17086}Knob Creek, neat.
+{18178}{18223}Do you live around here?
+{18653}{18682}What?
+{21499}{21529}{y:i}Any nightmares?
+{21570}{21613}Insomnia?
+{21618}{21677}Anxiety? Panic attacks?
+{21682}{21720}Nothing.
+{21747}{21849}OK, here's the deal.|This session is mandated.
+{21854}{21892}It's standard procedure|for any cop
+{21897}{21956}who's been through|a traumatic experience.
+{21964}{22059}Plus, in this instance,|the suspect got a little roughed up.
+{22064}{22102}Really?
+{22140}{22219}Let's get something straight.|I do not have a dog in this fight.
+{22224}{22307}I am not the enemy. Anything|you tell me goes right into the vault.
+{22332}{22367}OK?
+{22382}{22433}Unless I'm convinced a crime|is about to be committed
+{22438}{22497}or you are a danger to yourself.
+{22502}{22569}Also, you being here does not|jeopardize your promotion.
+{22594}{22635}Good to know.
+{22663}{22704}Anything else?
+{22860}{22908}You're hoping I have|some big problems.
+{22913}{22975}Frankly, I prefer to find people|in perfect mental health.
+{23006}{23078}Well, then say hello|to perfect mental health, doc.
+{23082}{23168}OK, then.|Hello, perfect mental health.
+{23178}{23230}So you did kick Culter?
+{23273}{23325}Hands break, feet don't.
+{23344}{23397}You gotta get physical|every once in a while.
+{23406}{23458}What's once in a while?
+{23496}{23593}Yawara to the rib break.|Yawara to the groin.
+{23598}{23649}Remember your distracters.
+{23654}{23747}Yawara to the sternum.|Yawara to the clavicle.
+{23752}{23846}Yawara to the rib break.|Yawara to the groin.
+{23851}{23920}Good. Let me see how|you're holding your Yawara stick.
+{23925}{24001}OK, put your thumb over here|a little bit.
+{24006}{24086}OK, perfect. Let's do it again.
+{24110}{24171}Yawara to the sternum.|Distracter.
+{24176}{24271}Yawara to the clavicle.|Yawara to the rib break.
+{24276}{24309}Yawara to the groin.
+{24680}{24777}Hi. I'm looking for|Inspector Delmarco.
+{24806}{24857}Delmarco!
+{24930}{24990}Where the hell is Delmarco?
+{25077}{25175}- Oh, you've got to be kidding me.|- Do I look like the kidding type?
+{25221}{25267}- Delmarco.|- Shepard.
+{25298}{25393}Follow me.|Boys, meet Inspector...
+{25398}{25433}- Shepard.|- Shepard.
+{25438}{25534}- Flanagan. Dale Becker.|- Nice to meet you. Nice to meet you.
+{25598}{25657}Shepard, here's a tip for you.
+{25662}{25770}Stumbling on a suspect does not|an inspector make. Good luck, honey.
+{25779}{25826}Thanks so much.
+{25918}{25959}Dale was primary on the Culter thing.
+{25964}{26064}Then you waltzed in with the suspect.|Congratulations.
+{26089}{26146}You've made enemies already.
+{26233}{26314}This job is about the fucking work.
+{26416}{26475}So how come you didn't say anything|in the bar last night?
+{26480}{26514}I couldn't.|I was following someone.
+{26519}{26565}- Oh, yeah? Who?|- You.
+{26570}{26651}Ask her.|She knows what she did.
+{26657}{26759}She picked me up|and she lured me to that place, sir.
+{26764}{26812}And then she got rough.
+{26817}{26891}That's it. That's the simple truth of it,|Mr. Porter.
+{26900}{26944}I had no idea she was a police officer.
+{26949}{27015}I mean, isn't that some form|of entrapment?
+{27020}{27070}Then she handcuffs me,|I'm down on my knees.
+{27075}{27161}She kicks me in the face,|knocks me out cold.
+{27166}{27267}Come on, isn't there some law|against police brutality, sir?
+{27272}{27329}I'm going through a lot of pain|and suffering, Mr. Porter.
+{27334}{27381}Yeah. Well, I'm very sorry|about that, Edmund.
+{27386}{27437}But now that I'm on the case,|we will be petitioning
+{27442}{27476}the judge to reconsider your bail.
+{27482}{27588}We will be pursuing|many, many other options. OK?
+{27862}{27908}I know your little dirty side.|I know you.
+{27930}{27970}You're me.
+{28010}{28047}Come on.
+{28097}{28184}Ray, please tell me you are not|gonna represent that loser.
+{28195}{28272}That loser's daddy|is Culter Pharmaceuticals.
+{28277}{28340}I golf with him Tuesdays|at the Olympic Club.
+{28345}{28412}He's asked me, as a favor,|to defend his boy.
+{28417}{28458}I'm gonna do that.|Is that a problem?
+{28463}{28520}When you were assistant DA,|you used to love
+{28525}{28596}to nail bad guys' asses to the wall|like trophies.
+{28602}{28679}Raymond Porter. I wonder whatever|happened to "crime doesn't pay"?
+{28684}{28730}Gee, Delmarco, I don't know.
+{28734}{28791}Whatever happened to|"innocent until proven guilty"?
+{28796}{28847}I mean, do cops|ever make mistakes?
+{28852}{28912}How about you, Mike?|Ever make a mistake?
+{28947}{29010}Yeah, you know|what I'm talking about.
+{29083}{29113}Would you excuse us?
+{29118}{29196}I need to speak with Jessica|for a minute. In private.
+{29341}{29385}OK, that guy, Delmarco,
+{29404}{29450}tends to go off the deep end.|You be careful.
+{29455}{29526}Ray, you got a client|with a string of murders in his past.
+{29530}{29595}Wait a second, every defendant|has the right to his day in court.
+{29600}{29641}That young man|has no prior convictions...
+{29646}{29683}Ray.
+{29688}{29738}He's the guy.|I nabbed him in the act.
+{29743}{29807}Well, sometimes nabbing the bad guy|is the easy part.
+{29812}{29869}The hard part is learning how to relax.
+{29888}{29961}Yeah. Maybe you know someone|who could help you with that?
+{30013}{30065}I think about that night.
+{30085}{30144}I think about it all the time.
+{30187}{30241}Always thought you'd come back...
+{30273}{30315}...but you never did.
+{30337}{30417}This fucking skell|runs around grabbing up girls,
+{30422}{30497}sticking a knife into them,|murdering them.
+{30502}{30558}Hell, he deserved|a piece of your mind.
+{30563}{30603}Yeah, Ray will say he was cuffed,
+{30608}{30712}and that you violated his civil rights|and all that bullshit, blah-blah-blah.
+{30717}{30802}But the bottom line is,|it's your word against his.
+{30807}{30839}He was resisting.|Remember that.
+{30848}{30899}And that's your story|and you stick to it.
+{30904}{30954}Don't get fancy, don't get creative.
+{30959}{31001}Just stick to your story,|you'll be fine.
+{31070}{31127}Hell, everything's fine.
+{31132}{31178}And what's not fine can be fixed.
+{31210}{31241}Right?
+{31264}{31319}I guess Culter did impact my life.|He got me promoted.
+{31366}{31409}So?
+{31430}{31471}Do I pass?
+{31499}{31546}Well, almost.
+{31550}{31615}There's just one more thing|I'd like to talk about today.
+{31620}{31656}Shoot. I'm an open book.
+{31674}{31712}I'd like to talk about your parents.
+{31754}{31824}My parents are dead.|They were killed in a car crash.
+{31883}{31941}OK. So...
+{31954}{31996}...now that's what you tell people.
+{32114}{32186}Thought this was supposed to be|related to my job.
+{32257}{32323}I don't see what my parents|have to do with my job.
+{32354}{32397}Well...
+{32402}{32474}...25 years ago,|your father went on a killing spree
+{32479}{32521}which ended with your mother
+{32526}{32594}and his own suicide.
+{32603}{32677}And you've devoted your life|to tracking killers
+{32682}{32740}and you don't see how it relates?
+{32815}{32853}You sure?
+{33015}{33063}I barely remember my parents.
+{33068}{33134}I was raised by John Mills,|my father's old partner.
+{33139}{33193}OK, but it...
+{33230}{33294}- It could be your anger problems...|- I don't have anger problems.
+{33299}{33349}I don't have any problems.|I feel fantastic.
+{33360}{33393}Wow.
+{33401}{33440}Aren't you lucky.|What's your secret?
+{33505}{33573}{y:i}Jessica, listen to me.
+{33614}{33696}{y:i}My job is to help you|{y:i}deal with your feelings.
+{33729}{33792}{y:i}I deal with my feelings plenty.
+{34286}{34315}Hello?
+{35742}{35793}I miss you, Mom.
+{36618}{36662}- Shepard.|- "Shepard,"
+{36667}{36728}- "where've you been all day?"|- Mike?
+{36733}{36799}{y:i}Be outside. I'll pick you up|{y:i}in 15 minutes.
+{36850}{36934}- "We got a 187."|- OK.
+{37246}{37280}- Jess.|- Hey.
+{37285}{37318}- How are you, Wilson?|- All right.
+{37323}{37394}Wilson, Delmarco. You remember|Wilson, my old patrol partner?
+{37399}{37453}- Hi.|- Hey.
+{37479}{37535}OK, here we go.
+{37551}{37591}Any signs of cause of death?
+{37596}{37692}I don't know, man. But at first glance,|I'd say he was beaten to death.
+{37734}{37769}What's the score?
+{37777}{37824}We're up three, top of the fifth.
+{37873}{37920}Jesus Christ.
+{37986}{38028}Who'd you piss off?
+{38033}{38097}OK, what have we got here?|Let's take a look.
+{38214}{38256}Interesting.
+{38299}{38380}OK, inspector,|let's see what you got.
+{38400}{38450}- I don't think it was done here.|- Right. Good.
+{38466}{38541}- So?|- We should check the tide charts.
+{38558}{38594}What's that?
+{38599}{38670}Hey, Lopez, my key still good?
+{38675}{38738}- Yeah, Mike. Anytime.|- Tomorrow.
+{38746}{38775}She'll be waiting.
+{38803}{38850}Marine unit, my old unit.
+{38855}{38912}Tomorrow, me and you,|we gonna go for a little boat ride.
+{38976}{39016}Hey. Check it out.
+{39077}{39129}- Cigarette burn.|- Nice.
+{39134}{39197}- Perfectly centered. Looks fresh.|- Yeah, let's get a photo.
+{39202}{39276}Get me a photo here.|Close-up of the cigarette burn.
+{39327}{39369}- Nice and tight.|- OK.
+{39394}{39439}One more. Good.
+{39455}{39490}Thank you.
+{39528}{39606}Looks like he's been hit|with a blunt instrument.
+{39685}{39783}Precise. Very professional.|Something like this.
+{40002}{40075}{y:i}Now batting, first baseman,|{y:i}J. T. Snow.
+{40083}{40138}- OK, see you later.|- You all right?
+{40143}{40187}Don't sweat it,|you'll get used to it.
+{40310}{40381}It's not that. I think I know him.
+{40434}{40516}His name's Bob, he drinks gin.|Nothing more you can tell us?
+{40521}{40603}I told you, I don't really know the guy.|I met him once, about a month ago.
+{40614}{40653}But you said you were intimate?
+{40752}{40828}I picked up a stranger in a bar|and had sex with him.
+{40833}{40874}You ever picked up a woman|in a bar, lieutenant?
+{40882}{40913}Yeah, in my fantasy life.
+{40922}{40953}All right, I'll give it|to Parker and Lewis then...
+{40958}{40995}- Hey.|- Wait a second. Hey.
+{41010}{41086}- What is she, a suspect?|- Come on, we got the call.
+{41128}{41174}All right, it's yours.
+{41274}{41313}Okey-dokey.
+{41320}{41376}We have got Bob Sherman.
+{41381}{41440}Confirmed death,|eight, nine hours prior to discovery.
+{41446}{41486}The weapon is a small blunt object,
+{41491}{41541}and the kill shot is a blow|to the right temple.
+{41546}{41613}Although this guy was definitely beaten|postmortem as well.
+{41618}{41678}And trace evidence...
+{41699}{41772}"... nada".|Look, there are no fibers, no hairs.
+{41777}{41826}I tented this guy.|I even super-glued him up.
+{41831}{41876}I could not raise a single latent.
+{41881}{41910}Sorry.
+{41941}{41981}Shepard?
+{42075}{42112}We'll talk later.
+{42193}{42232}- Hey, Mike.|- We'll find the current that carried
+{42237}{42328}this guy here. Last night was windy.|Flood tide was about five knots.
+{42333}{42392}The body could've drifted a long way.
+{42563}{42602}I bet they could tell us|what happened.
+{42607}{42660}They've seen all the bodies|floating on the tides.
+{42665}{42695}They've seen all the smugglers.
+{42748}{42824}There's hundreds of different|dumpsites, hiding places.
+{42829}{42950}Heroin, cocaine,|illegal pharmaceuticals, party drugs.
+{42955}{43043}You name it. I've chased a lot of guys|right down in there.
+{43057}{43139}I know every nook and cranny,|every secret spot.
+{43144}{43201}I'm like the sea lions.|They're my neighbors.
+{43206}{43281}- See that place in there?|- You live there?
+{43286}{43335}You're one big surprise|after another, stranger.
+{43340}{43428}- You up for a cappuccino?|- You up for finding out who done it?
+{43480}{43516}OK, inspector, back to work.
+{43538}{43589}So, what exactly are we looking for?
+{43594}{43690}Well, I assume you checked|the victim's cuffs last night, right?
+{43745}{43831}I also assume that you would've seen|there was sand inside those cuffs,
+{43836}{43880}which tells us...
+{43910}{43963}Maybe he was dragged|along the beach.
+{43968}{44009}Exactly.
+{44142}{44207}Let's go check out the beach|at Crissy Field.
+{44550}{44624}I don't think anything|would've happened here. Too risky.
+{44668}{44700}Not if it were late at night.
+{44923}{44997}So anyway, the ex confessed|after we shook him a little.
+{45004}{45083}Great. Delmarco, Shepard,|where are you guys on yours?
+{45088}{45158}Crime scene is clean.|No weapons, no prints, no witnesses.
+{45162}{45216}We're going out to known associates|and neighbors.
+{45221}{45280}All right. Anything else?
+{45291}{45328}All right, let's break it up.
+{45333}{45372}Yeah, actually,
+{45377}{45456}I'd like to put word out to be on the|lookout for similar victims coming in.
+{45461}{45508}Males, 20 to 30, severely beaten.
+{45514}{45543}Wait a second.
+{45548}{45605}You got only one body|and already you're thinking serial?
+{45610}{45665}I mean, what is this?|Spotlight withdrawal?
+{45670}{45724}Here's some advice I like to share|with new inspectors.
+{45729}{45803}It's sort of like Homicide AA.
+{45813}{45884}One body at a time. OK?
+{46417}{46446}Your boyfriend.
+{46475}{46511}He's not my boyfriend.
+{46547}{46602}He's an ex and he's the reason|I don't get friendly
+{46607}{46652}with my co-workers anymore.
+{46675}{46714}Well, that's good to know.
+{46742}{46815}- Let me talk to him.|- Thank you.
+{48757}{48789}Shepard.
+{48794}{48841}- "Jessica."|- Yeah?
+{48846}{48921}{y:i}Bridge Patrol found another floater.|{y:i}Someone pounded the shit out of him.
+{48926}{48960}OK.
+{49478}{49542}How much did we drink last night?
+{49559}{49621}Well, maybe next time you should|go easy on the sangria.
+{49626}{49682}I must have gotten wasted.
+{49696}{49744}I kind of blacked out.
+{49779}{49832}Too bad I wasn't there.
+{50275}{50354}Big inspector now, so you don't|call me back ever, right?
+{50359}{50402}I guess that's the reason.
+{50416}{50464}You patrol guys wanna rustle|me up some breakfast?
+{50470}{50541}A little bacon, eggs, toast,|black coffee.
+{50546}{50581}Seeing as how you're not busy.
+{50586}{50629}Fuck you, Delmarco.
+{50634}{50682}Make that bacon crisp.
+{51357}{51394}Check it out.
+{51477}{51523}Yeah. There's the cigarette burn.
+{51528}{51591}- It's our guy.|- OK. Let's get him out.
+{51596}{51651}- Keep it level!|- OK.
+{51686}{51730}Good, a little more.
+{51743}{51791}- How's that?|- Right there.
+{51796}{51831}All right.
+{52387}{52458}We got him. The guy was|in the system. Lawrence Geber.
+{52463}{52553}DOB 12-11-68.|Had a DUI a while back.
+{52586}{52639}- See you later, man.|- OK, bye.
+{52690}{52726}Tell me about it.
+{52730}{52765}How did you know|there'd be another body?
+{52770}{52824}There was that cigarette burn|on the back of the hand.
+{52834}{52909}It's not a simple homicide.|Cigarette burn's intentional.
+{52914}{52950}A signature.
+{52955}{52992}What's up?
+{53018}{53066}I can't say I'm happy|you were right about this,
+{53071}{53121}but it was a good call, Shepard.|Nice going.
+{53126}{53160}All right, let's get on this fast.
+{53196}{53269}I want this guy stopped|before the bodies pile up.
+{53488}{53548}This guy thinks he's a pro.
+{53554}{53635}This guy thinks he's being careful|by covering his tracks.
+{53640}{53685}Not with me, baby.
+{53690}{53764}Everybody leaves something behind.
+{53919}{53992}All I need is one little|speck of blood.
+{54006}{54068}Just one little...
+{54111}{54141}...drop.
+{54162}{54221}Oh, yeah. Oh...
+{54310}{54361}Like this little drop, for example.
+{54366}{54417}You see the blood spatter|on the front of his body.
+{54422}{54482}That matches the angle of the blows.
+{54486}{54575}So, what's this little drop of blood|doing all the way back here
+{54580}{54624}- behind his ear?|- Could be the killer's.
+{54629}{54666}How soon will you know?
+{54671}{54748}Well, I've got to extract it for DNA,|I've gotta amp it,
+{54753}{54784}I gotta type it.
+{54789}{54865}That'll tell us with absolute certainty|whether or not that drop
+{54870}{54922}matches the victim's blood.
+{54944}{55056}And, if I may say it, you are looking|a little rough around the edges.
+{55156}{55193}I've been a little stressed.
+{55198}{55241}You have been.
+{55246}{55345}At one point, you did suffer from|some stress-related symptoms.
+{55350}{55417}From when I was 6?|Is that what you've got there?
+{55451}{55552}My parents had died and I was sad.|I didn't know how to handle it.
+{55557}{55654}And what we have been discussing,
+{55659}{55729}your parents, your childhood,|that all could be stirring up a lot.
+{55734}{55763}Dr. Frank.
+{55798}{55902}I am working on my first case.|Looks like it could be a big one.
+{55933}{55991}Turns out I've slept|with both the victims.
+{56042}{56109}That's why I brought it up. You know,|for someone who's supposed to
+{56114}{56167}understand people,|you're a little slow on the uptake.
+{56172}{56234}Jessica, listen to me.|You have to tell your partner about this
+{56239}{56295}or your lieutenant,|or someone in the department.
+{56314}{56369}And what if it isn't a coincidence?
+{56401}{56443}{y:i}What if you're in danger?
+{56979}{57019}Fucking phone.
+{57105}{57161}Shoo! Go away! Go away!
+{57295}{57332}Goddamn it.
+{57843}{57880}Easy does it, Jessica.
+{58012}{58066}- You all right?|- Yeah...
+{58101}{58155}...just a few rats under the car.
+{58160}{58225}Rats. Yes, well, we live near water.
+{58337}{58405}- See you next session.|- Yeah, we'll see you.
+{59172}{59247}I just can't believe...
+{59304}{59335}...that there was no warning.
+{59344}{59397}That he just went...
+{59412}{59450}...off like that.
+{59558}{59650}Your father loved|your mother very much.
+{59690}{59745}So much, in fact,|that it twisted him.
+{59750}{59784}You know what I mean?
+{59789}{59868}You know, sometimes I wonder if|maybe I hadn't told him about her.
+{59873}{59931}About her affairs. Look,
+{59946}{60047}you need to focus on your case.|Do your job.
+{60052}{60113}That's the most important|thing right now.
+{60178}{60213}Hey.
+{60286}{60316}{y:i}OK, here's the deal.
+{60321}{60369}You all know about|serial killers taking trophies,
+{60374}{60431}a behavior which often|gets them caught.
+{60436}{60484}Well, in the past,|there have been killers
+{60489}{60519}who tried to smarten up,
+{60524}{60589}didn't take trophies. Instead...
+{60594}{60657}...they "signed" the bodies.
+{60662}{60720}It's been done|in different ways: Cuts...
+{60725}{60760}...brands...
+{60796}{60851}...burns.|But signing the bodies
+{60856}{60908}might not be that smart after all.
+{60913}{60977}Because the signature itself...
+{60993}{61042}...can be your best clue.
+{61347}{61379}So cigarette burns.
+{61426}{61494}We gotta think we're looking at|a smoker and the overkill...
+{61533}{61617}The overkill suggests some rage.|Any questions?
+{61622}{61685}Oh, me! Me!
+{61690}{61725}Me.
+{61747}{61801}I was wondering,|have we eliminated
+{61806}{61841}Inspector Shepard as a suspect?
+{61846}{61915}- That's very funny, Dale.|- No, Mike, I'm serious.
+{61920}{61977}I mean, we know she slept|with victim number one, right?
+{61982}{62012}- Sure.|- Yeah.
+{62017}{62081}So do we know if she slept|with victim number two?
+{62086}{62199}I mean, shit, Shepard,|he is kind of cute.
+{62378}{62421}- Motherfucker!|- Get off me! Come on!
+{62426}{62459}- Cunt!|- Take her outside, Mike.
+{62464}{62524}- I'm cool. I'm cool.|- Dale! In my office!
+{62554}{62593}Back off.
+{62598}{62643}Bad joke. You made your point.|Now let it go.
+{62648}{62744}Yeah, it is a bad joke.|You wanna know the punch line?
+{62749}{62814}I did sleep with|victim number two.
+{62910}{62939}Why the hell did you do|something like that?
+{62944}{62988}Listen, brother, it is none of your|business who I sleep with.
+{62993}{63037}Hey! Who the fuck cares|who you sleep with?
+{63042}{63097}I'm talking about you|lying to me!
+{63102}{63151}OK? Because partners|tell each other the truth!
+{63156}{63216}Well, I'm telling you now!
+{63407}{63468}She says she met|these guys in a bar.
+{63474}{63524}Our killer's probably trolling|the same places,
+{63529}{63582}and he was probably stalking her.
+{63587}{63629}Just to consider all options,|any enemies?
+{63634}{63721}Anyone got, like, a sick fixation on you,|might be stalking you?
+{63747}{63797}Lately, I've...
+{63809}{63877}...sort of felt like I'm being watched.|- So how do we handle it?
+{63882}{63935}- Do we pull her off the case?|- No.
+{63940}{64015}You need to operate as though|this is not a coincidence.
+{64020}{64068}That's the smart thing to do.
+{64073}{64123}From that angle, we pull her,
+{64128}{64191}it might tip the killer|and we blow a good lead.
+{64196}{64239}And if she is connected,
+{64244}{64305}we're gonna need her help|to find out how.
+{64310}{64360}- That's gonna put her at risk.|- She's a cop.
+{64366}{64439}- She knows the risks.|- OK.
+{64506}{64536}Hey.
+{64554}{64624}Thanks a lot for|backing me up in there.
+{64629}{64671}Backing you up?
+{64676}{64733}I was just giving|my professional opinion.
+{64738}{64783}You want my personal opinion?
+{64798}{64854}Just what the hell do you|think you're doing?
+{64876}{64918}- I'm not doing anything.|- Yeah?
+{64923}{64983}Well, that's not what I hear.
+{64988}{65046}These men you've been seeing.
+{65051}{65099}And today, you attacked|a fellow inspector.
+{65104}{65147}Oh, it was a...
+{65178}{65223}...a disagreement.
+{65241}{65295}And what's going on with you|and this Delmarco genius?
+{65300}{65346}For God's sake, John.|He's my partner!
+{65351}{65417}OK. Look, I know it's a new century
+{65422}{65509}and people think it's OK|to just have sex with whoever.
+{65514}{65580}But let me give you some advice.|Don't shit where you eat.
+{65585}{65635}Keep your social life|separate from the job.
+{65640}{65720}I do. John, I know|you worry about me
+{65725}{65802}and I love you for it,|but I can take care of myself.
+{65807}{65887}Really? Is that why people|keep dying around you?
+{65921}{65962}Nice. Nice.
+{66294}{66347}May I have your attention, please.
+{66352}{66383}S.F.P.D.
+{66477}{66511}Did I say that out loud?
+{66516}{66591}Hey, I know you.|You come in here all the time.
+{66596}{66632}You're a cop?|I don't believe it.
+{66638}{66686}- Believe it.|- I did think you were kind of hot
+{66691}{66741}for a working girl,|but I couldn't figure out
+{66746}{66793}why else you'd keep taking off|with those guys.
+{66798}{66866}Get it straight. We are not here|to discuss your opinion of me.
+{66871}{66935}We are here to discuss a guy|who used to look like this,
+{66940}{66999}and now looks like this.
+{67004}{67076}So I know for a fact|he spent time in here.
+{67081}{67110}Who'd you see him with?
+{67115}{67165}Look, the only person I've ever seen|that guy leave the bar with,
+{67171}{67220}aside from his girlfriend,|was you.
+{67769}{67819}The bastard was always late|with the rent.
+{67824}{67874}Played drums at night.
+{67879}{67925}Serves him right.|Know what I mean?
+{67930}{67983}Did Mr. Geber have many|regular visitors?
+{67988}{68062}The last person I saw him with|looked a lot like you.
+{68067}{68130}Seemed like he'd fuck|any skank that came on to him.
+{68243}{68277}You find out anything up there?
+{68289}{68352}We just wasted the entire day|tracking down me.
+{68378}{68443}Good. At least we|have a suspect.
+{68451}{68513}- It's a joke.|- Fuck you, Mike.
+{69496}{69549}How did you get in my place?
+{69589}{69676}Now, is that any kind of welcome|for a man who's seen you naked?
+{69710}{69756}- What do you want?|- I'm kidding. I'm kidding.
+{69761}{69841}I mean, I just... I just wanna...|I wanna see you.
+{69858}{69899}- Come on, Jimmy, it's over.|- I... I do.
+{69904}{69989}Don't you miss me just a little?|I miss you.
+{69994}{70026}What do you want?
+{70031}{70102}How many times do we have to|go over it? You know, it just...
+{70107}{70178}God, Jimmy!|Come on, knock it off!
+{70183}{70253}- No, no, no. Let me touch you.|- Jimmy!
+{70258}{70317}- Just let me touch you.|- Jimmy, knock it off!
+{70322}{70381}Just, please... Fuck.
+{70399}{70447}- Jimmy!|- I need you...
+{70579}{70643}Holy fuck.|Oh, my God!
+{70671}{70711}- Jimmy, man, I'm sorry.|- Get off of me!
+{70716}{70776}- Get off! Holy shit!|- Hey.
+{70806}{70856}- Hey, here.|- Get away from me!
+{70861}{70914}Goddamn it!|Get away from me!
+{70919}{70964}Oh, my God. You know what?
+{70969}{71028}You're a goddamn psychopath!|You know that?
+{71033}{71113}You've got a screw loose, man!|Wacko!
+{71135}{71207}Bitch! Holy shit!
+{71224}{71292}- I'll be seeing you!|- Jim...
+{71359}{71429}When did you first find out?
+{71451}{71501}When did you realize...
+{71528}{71617}When did you realize that|you had the capacity to kill?
+{71646}{71682}To take a human life?
+{71713}{71771}You know, we all have it in us.
+{71783}{71848}You. Me.
+{71873}{71937}It's a matter of who can control it.
+{71976}{72015}Can you?
+{72125}{72227}Jessica? What the hell are you|doing here with my client?
+{72232}{72287}A little police work.|Following through on some hunches.
+{72292}{72374}Oh, some hunches? I wanna|be here when you talk with him, OK?
+{72379}{72435}Every fucking time!|You got that?
+{72440}{72517}You don't have to have a hissy fit, Ray.|I'm cool with that.
+{72536}{72596}Edmund, do you remember|what I told you?
+{72602}{72668}OK? Only in my presence.
+{72673}{72725}Jesus fucking...
+{72730}{72789}I am not having a hissy fit, OK?
+{72794}{72856}I am protecting my client's|interests here.
+{72861}{72947}And you, you have got|a real battle on your hands here.
+{72952}{72989}- Oh, yeah?|- Yeah. I'm coming at you
+{72995}{73076}- with both guns blazing.|- At me? What did I do?
+{73081}{73200}Oh, yeah. Let's just say the law|works in mysterious ways, OK?
+{73205}{73244}What the hell is that|supposed to mean?
+{73249}{73318}Well, I will explain it|to you in detail.
+{73323}{73393}But this is not the time|nor the place.
+{73402}{73459}Let's say you come over|to my house Sunday morning
+{73464}{73506}and we will talk about it.
+{73527}{73557}You know.
+{73562}{73599}Like old times.
+{73653}{73719}God, I love that perfume.
+{73749}{73792}See you.
+{73899}{73929}Thank you.
+{73962}{74054}- Sometimes I could kill that guy.|...the arresting fucking officer...
+{74109}{74180}...without me present!|You got that? Never!
+{74186}{74254}OK, OK. Don't have a hissy fit,|Mr. Porter.
+{74344}{74433}The good news is,|I was right, as usual.
+{74440}{74536}That tiny little drop of blood,|no way did it match the victim.
+{74542}{74573}So we have our killer's blood?
+{74578}{74660}Well, the bad news is,|he wasn't in the system.
+{74665}{74741}CODIS, the convicted felon database,|it gave me zip.
+{74746}{74843}So all you gotta do is bring me the|guy's blood that matches my sample.
+{74848}{74880}That's all, huh?
+{74885}{74949}Hey, that's why they pay you|Homicide guys the big bucks.
+{74954}{74997}Surely, you have some leads.
+{75002}{75074}Bring your good pal Lisa|a little blood sample, will you?
+{75079}{75153}And I, one of law and order's|little people,
+{75158}{75221}will burn the midnight oil,|doing the task,
+{75226}{75310}making the match|that will lock that fucker up.
+{75315}{75403}And you get all the glory,|and what, do you ask, do I get?
+{75408}{75467}Hey, perhaps a dinner|at Chez Panisse.
+{75472}{75511}Downstairs, I would hope.
+{75610}{75640}Working late?
+{75645}{75703}Still going over all those|unanswered questions?
+{75708}{75746}The biggest question|of all still being,
+{75751}{75814}why is someone who would normally|be considered a prime suspect
+{75819}{75880}being allowed to participate|in this investigation?
+{75885}{75964}You got something to say to me,|Becker, quit being such a pussy
+{75969}{76013}and come out and say it.
+{76018}{76075}I'll say it, all right.|And I'm not gonna hold back
+{76080}{76137}because you're well-connected|to someone protecting you.
+{76142}{76204}I'm not gonna let you drag|this department through the mud.
+{76209}{76267}Are you listening to me?|I know about you.
+{76272}{76306}I know about you and Bob,
+{76311}{76370}and I also know about you and Larry.
+{76375}{76422}Let me ask you...
+{76431}{76522}...while you were sleeping with them,|were you thinking about hitting them?
+{76542}{76615}Are you thinking about|hitting me right now?
+{76620}{76694}Go ahead. You know you want to.
+{76699}{76736}You know, I don't know|about this case,
+{76742}{76789}but I do know one thing for sure.
+{76794}{76875}Every bone in your body|wants to hit me right now.
+{76915}{76952}Am I right?
+{77306}{77351}- Yeah, who is it?|- It's Jess.
+{77356}{77423}Hey, come in. It's open.
+{77466}{77508}How could you?
+{77513}{77553}- How could you do that to me?|- What's the matter with you?
+{77558}{77607}How could you tell Dale|about the victims and me?
+{77612}{77653}- What?|- I was just starting to trust you.
+{77658}{77717}Hey, listen to me!|You think I'd betray our loyalty?
+{77750}{77808}I would never do|something like that!
+{77813}{77855}What's the matter with you?
+{77962}{78011}What do I have to do...
+{78036}{78084}...to show you that|you're my partner?
+{78119}{78156}I'm sorry.
+{78294}{78361}Where the hell do you think|you're going, partner?
+{78366}{78409}We got work to do.
+{78422}{78469}Are you gonna let me in|on this thing or what?
+{78474}{78540}I'm starting to realize I have|more enemies than I thought.
+{78551}{78595}Everybody has more enemies|than they think.
+{78600}{78669}But the only reason why Dale and|the other guys give you a lot of shit
+{78674}{78769}is because they're afraid|that you might be better than them.
+{78973}{79014}I love the way you eat.
+{79127}{79209}You know, John would never tell me|anything about my mother.
+{79214}{79301}It didn't matter what I asked,|just a complete no-fly zone.
+{79338}{79383}Except at dinner.
+{79409}{79461}He tells me I eat just like her.
+{79466}{79505}Two-fisted.
+{79544}{79587}Yeah.
+{79592}{79673}What can I say?|I get hungry.
+{79782}{79821}Me too.
+{80121}{80156}Sorry.
+{81126}{81205}{y:i}Sounds like a little animal|{y:i}in your chest trying to get out.
+{81246}{81303}{y:i}Sounds like flesh.
+{81405}{81463}{y:i}You are in for a battle|{y:i}on this one, Jess!
+{81468}{81524}{y:i}I'm coming at you|{y:i}with both guns blazing.
+{83630}{83673}Ray?
+{83828}{83876}Ray?
+{83975}{84022}Anybody home?
+{84151}{84223}Ray, I am not jumping|in there with you.
+{85241}{85271}What is it?
+{85276}{85333}Looks like he was beaten,|thrown in the hot tub,
+{85338}{85397}and he's got the burn on the hand.
+{85491}{85550}Let's just get this over with.
+{85625}{85688}It'll take about five minutes.|It'll be standard form questions.
+{85693}{85736}{y:i}Let's go.
+{85751}{85818}I still think it might be best|if we just pulled her off the case.
+{85823}{85867}Do you have any physical|evidence on her?
+{85872}{85931}Anything to indicate that she|might have killed these men?
+{85936}{85988}- No, of course not.|- Didn't think so.
+{85993}{86042}Just knowing them|is not proof of a crime.
+{86047}{86095}Proof of bad judgment, yes.
+{86100}{86148}But I'm not pulling her|from her first homicide case.
+{86153}{86230}It would kill her career.|She'll come through this. Just watch.
+{86235}{86311}{y:i}And your involvement|{y:i}with all these victims was...
+{86336}{86379}Intimate?
+{86387}{86421}Yes.
+{86453}{86556}Do you think it's possible to do things|behind your own back?
+{86565}{86657}Maybe I drink too much.|I don't know. I...
+{86662}{86761}I pass out, and when I wake up|I think I've done terrible things.
+{86765}{86843}- What is it you think you've done?|- There's been another murder.
+{86954}{87011}And I'm my best suspect.
+{87023}{87089}This third victim...
+{87112}{87168}...I slept with him too.
+{87194}{87250}Jessica, listen to me.
+{87265}{87300}You grew up your whole life
+{87305}{87361}knowing that your father|has done these horrible things.
+{87366}{87473}So now you may be thinking,|"I have that in me too."
+{87488}{87541}I don't think I have it in me.
+{87553}{87582}I know.
+{87613}{87662}Am I losing my mind?
+{87667}{87758}{y:i}I have violent dreams. Flashes.
+{87771}{87849}- "I'm hearing voices."|- "When did you first find out?"
+{87854}{87925}{y:i}When did you realize that|{y:i}you had the capacity to kill?
+{87981}{88054}{y:i}To take a human life?
+{89178}{89223}Get away from me. Go!
+{90197}{90240}Hey.
+{90245}{90284}I...
+{90302}{90333}...need this right away.
+{90352}{90426}Right away takes 24 hours.
+{90452}{90510}Lisa, please. I need it.
+{90645}{90692}OK.
+{90697}{90726}I'll skip a couple of steps,
+{90731}{90820}and I'll run it straight through|the amplification process.
+{90865}{90921}You know, I always say,|you can tell a lot about a person
+{90926}{90976}from a drop of their blood.
+{90987}{91040}Can you tell|if they're a good person?
+{91087}{91128}Give me a little time.
+{91297}{91367}- Angela.|- Yes?
+{91382}{91429}I need you to run this up to the lab.
+{91434}{91532}Get a toxicology screening,|and I'm still gonna need to type it.
+{91537}{91592}- OK.|- Thank you.
+{91852}{91924}Hi, it's Lisa from the lab.
+{91929}{91979}I need to see you right away.
+{92899}{92968}{y:i}You're a goddamn psychopath!|{y:i}You know that?
+{93062}{93133}- "Bring me a drop of the killer's..."|- "I know about you."
+{93138}{93189}{y:i}Let's say you come over|{y:i}to my house Sunday morning.
+{93193}{93244}{y:i}Are you thinking|{y:i}about hitting me right now?
+{93249}{93301}{y:i}Killing spree. Killing spree.
+{93341}{93371}{y:i}Tell me something.
+{93376}{93430}{y:i}... saw him with looked a lot like you.
+{93435}{93494}{y:i}... I've ever seen that guy|{y:i}leave the bar with was you.
+{93523}{93586}{y:i}Have we eliminated|{y:i}Inspector Shepard as a suspect?
+{93591}{93664}{y:i}... keep dying around you?
+{93669}{93707}{y:i}What is it you think you've done?
+{93924}{93983}{y:i}I can hear your heart beating.
+{94000}{94032}{y:i}One body at a time.
+{94051}{94091}{y:i}Sounds like blood.
+{94096}{94168}{y:i}I know you. You're me.
+{94173}{94218}{y:i}At least we have a suspect.
+{94223}{94292}{y:i}So now you may be thinking,|{y:i}"I have that in me."
+{94297}{94348}{y:i}We all have it in us.
+{94353}{94427}{y:i}The capacity to kill.|{y:i}Capacity to kill.
+{96397}{96445}You OK?
+{96488}{96521}Why wouldn't I be OK?
+{96609}{96647}I tried calling you.
+{96660}{96718}Something's wrong. You know|that feeling you've been having
+{96723}{96815}that somebody's been following you?|I'm getting that same feeling tonight.
+{96820}{96876}Something's gonna happen tonight.
+{96949}{97000}Get away from me.
+{97277}{97332}- Put the gun down.|- Go away.
+{97377}{97434}- What are you doing, Jess?|- Mike...
+{97459}{97499}Mike.
+{97578}{97648}You've been drinking.|You gotta stop.
+{97653}{97700}- You've gotta be strong.|- Mike...
+{97705}{97745}No.
+{97894}{97968}Give me the gun. Give me the gun.
+{98161}{98227}Everyone who kisses me...
+{98232}{98271}...turns up dead.
+{98624}{98670}No, they don't.
+{98923}{98967}Mike, don't go.
+{98972}{99038}I ain't going anywhere, stranger.
+{101615}{101657}Hello?
+{101743}{101786}Mike?
+{102378}{102432}You asked to see me?
+{102549}{102613}Turn and face that wall.
+{102658}{102738}Test. The bulletin board behind you.
+{102743}{102785}Go.
+{102824}{102884}Crime scene photos.|Three black and white. Two color.
+{102890}{102976}Two black and white. Three color.
+{103040}{103112}What is going on with you?
+{103117}{103220}You know a couple of victims, so you|just let yourself fall to pieces, is that it?
+{103242}{103339}- I think I'm losing it, John.|- Hey, you have a job to do.
+{103685}{103741}- Hi, Jess.|- What the fuck, Jimmy?
+{103877}{103924}Jimmy, just go home.
+{103929}{103968}Oh, go home.
+{104034}{104082}Like I'm some kind of dog.
+{104228}{104282}Like I'm supposed to|obey you now?
+{104333}{104368}Is that it?
+{104573}{104628}We're gonna rumble?
+{105271}{105335}Open the fucking door, Jessica.
+{105423}{105474}Open the door.
+{105725}{105784}I'm coming to get you.
+{105866}{105916}I'm coming.
+{107026}{107069}Jessica Shepard?
+{107089}{107144}Chip Marshall, SID.
+{107549}{107610}Where were you|the night of September 25th,
+{107615}{107676}the night Bob Sherman was killed?
+{107747}{107784}I don't know.
+{107923}{107963}The night of October 1 st,
+{107968}{108033}the night Lawrence Geber|was murdered?
+{108079}{108150}- I don't know.|- The night of October 5th,
+{108155}{108201}the night Ray Porter was killed?
+{108205}{108251}I don't...
+{108256}{108302}...know.
+{108433}{108514}Jessica, did you kill these men?
+{108551}{108584}I don't...
+{108589}{108640}I don't know.
+{108679}{108746}I don't know.
+{108842}{108899}I'm sorry.
+{108977}{109016}I'm so sorry.
+{109104}{109171}I don't know what else|there is to say.
+{109200}{109301}I was raised to be a good girl,|but I was born to bad people.
+{109339}{109413}It's kind of comforting, in a way.
+{109453}{109528}I've been running from it all my life...
+{109533}{109609}...the fear of being the bad seed.
+{109664}{109747}But most of all, I feel bad for John.
+{109802}{109852}It's OK, though.
+{109857}{109904}It's good.
+{109977}{110034}It's good that I'm in here.
+{110049}{110116}It keeps other people safe.
+{110187}{110246}Have you given her any medication?
+{110251}{110316}- No, I've given her nothing.|- I didn't think so.
+{110321}{110382}The problem's not in her head,|it's in her bloodstream.
+{110387}{110484}- What's in her bloodstream?|- Report from forensics.
+{110489}{110540}I had them run her blood|through a drug screen.
+{110545}{110586}Rohypnol. Ever heard of it?
+{110591}{110645}Yeah, of course. Roofies.|It's a date rape drug.
+{110661}{110707}Completely incapacitating.
+{110740}{110812}Get dressed. You're out on bail.
+{110824}{110883}Thanks for all your help, doc.
+{110889}{110941}We won't be needing|your services anymore.
+{110985}{111061}All right, give me the headline. And|don't tell me you're not up for a test.
+{111065}{111103}This is the biggest test of your life,|inspector.
+{111111}{111160}Four men murdered.|Suspect slept with all of them.
+{111165}{111237}Incriminating evidence found on her|person the morning after the crimes.
+{111242}{111299}When she awakened|from a drug-induced blackout,
+{111304}{111376}which makes it physically impossible|for her to have committed the crime.
+{111381}{111420}- I didn't do it.|- Stick to business.
+{111425}{111482}The crime remains the same,|only the suspects change.
+{111487}{111534}- Who?|- What do they have in common?
+{111549}{111588}- Just me.|- Who knows your habits?
+{111593}{111655}Whose job is it to know|where you are at all times
+{111660}{111718}in case he might have to call you|at any hour of the day or night?
+{111723}{111775}No, you're off on that. Mike never|knew where I went at night.
+{111780}{111840}Didn't this start when you got|the new job, when you met him?
+{111852}{111895}It's not Mike.
+{111929}{111973}All right, I need you|to tell me where to go.
+{111978}{112021}Straight down Market|to the Embarcadero.
+{112025}{112087}- But why would Mike drug me?|- How better to incapacitate you
+{112092}{112173}while he went about the business|of doing what he had to do?
+{112257}{112328}Do you think he'd let you prowl|without following you?
+{112350}{112405}There were times when I felt like|I was being followed.
+{112409}{112479}Suspect follows the accused.|When? Where?
+{112529}{112595}The night she picked up|a man in a bar.
+{112603}{112660}Followed the victim back to his place|where he watched you
+{112665}{112747}do what you do through a window|or maybe a crack under the door.
+{112757}{112808}Just enough to make him crazy.
+{112871}{112932}Come on, inspector, I'm waiting|for you to tell me something.
+{112937}{112988}Suspect had...
+{113027}{113126}...intimate knowledge|of the habits of the accused.
+{113164}{113271}Access not only to her place,|but to her deepest fears.
+{113276}{113389}Plus, familiarity with the drug|that ultimately incapacitated her.
+{113943}{114024}Remember, he's a cop.|We give him the benefit of the doubt.
+{114029}{114129}No doubt. He'll get all|the benefits he deserves.
+{114344}{114389}You got out.
+{114433}{114473}Why didn't you come see me, Mike?
+{114478}{114548}Yeah, why didn't you|come see her, Mike?
+{114596}{114634}What do you mean?
+{114639}{114721}I was there. They brought me in.|They questioned the hell out of me.
+{114726}{114818}- I told them you were innocent.|- How could you be so sure?
+{114854}{114904}Hey, Jess.
+{114921}{114965}You're my partner.
+{114971}{115036}- We're partners.|- Partners lie for each other?
+{115041}{115097}- What are you talking about?|- Partners tell each other the truth.
+{115102}{115176}- Partners tell each other everything.|- Hey.
+{115181}{115245}Partners come see you|when you're in jail.
+{115291}{115360}- You didn't get my message?|- Oh, God. There was no message.
+{115365}{115413}- You're so fucking full of shit.|- I was there.
+{115418}{115457}Somebody put me|on the "no access" list.
+{115462}{115533}Excuse me, can I help you|with something over there?
+{115537}{115599}Looks like you were having some|wine before we got here, Mike.
+{115604}{115647}You celebrating something?
+{115652}{115717}No, I'm not celebrating anything.|What the fuck is going on here?
+{115721}{115762}- I'd like to propose a toast.|- What?
+{115806}{115860}To Jessica. You got|a problem with that, Mike?
+{115865}{115914}No. Why would I|have a problem with that?
+{115933}{115997}What's going on here?|Is this some kind of joke?
+{116002}{116050}You gonna toast or what?
+{116293}{116343}Here's to my partner.
+{116886}{116932}OK...
+{116964}{117014}...somebody better|say something.
+{117037}{117079}Rohypnol.
+{117105}{117170}Rohypnol? Yeah, Rohypnol.
+{117189}{117230}- And? What?|- Date rape drug.
+{117235}{117301}- You ever heard of it?|- Of course I've heard of it. Roofies.
+{117306}{117389}Roofies. That's what you|hip guys call it, right?
+{117393}{117456}I seem to remember you had|a little girlfriend who OD'd and died
+{117461}{117534}from this stuff. So you know|what Roofies do, don't you?
+{117539}{117572}What the fuck is going on here?
+{117577}{117660}Somebody has been following me|since these murders began.
+{117665}{117709}Someone has been drugging me.
+{117724}{117811}- How?|- Somebody who was lurking around.
+{117816}{117900}- You know, who was in my place.|- Incapacitate you, don't they?
+{117905}{118013}They make you feel|confused and anxious?
+{118018}{118053}You...
+{118057}{118108}...feeling confused, Mike?
+{118113}{118206}- Any anxiety?|- You put something in my wine.
+{118221}{118290}Whoa, this is quite a stash|you got here, Mike.
+{118354}{118392}- Stash?|- A little of this stuff
+{118397}{118485}must go a long way. You plan on date|raping a whole sorority house here?
+{118490}{118540}You planting evidence?
+{118586}{118656}Shit! This is not my stuff.
+{118661}{118695}Listen to me, this is not my stuff.
+{118702}{118793}- Party drugs.|- Whoa, lookie here what I found.
+{118802}{118892}This is one of those...|What do you call it?
+{118909}{118946}A Yawara.
+{118951}{119021}Those little Japanese sticks|that pound your features to a pulp.
+{119026}{119068}It's not mine.
+{119077}{119112}They didn't have these in my day,
+{119117}{119152}but I heard you're an expert|with one of these.
+{119157}{119242}- That's not mine.|- This one's got some blood on it.
+{119260}{119308}I wonder if that's Jimmy's blood.
+{119313}{119366}You think that could be poor Jimmy's?
+{119371}{119412}You didn't care too much for him,|did you?
+{119417}{119486}I seem to remember you threatened|to kill the poor bastard.
+{119521}{119578}You're not going for your gun,|are you, Mike?
+{119701}{119756}- Mike!|- No, no, no, no!
+{119761}{119817}No bruises. Just take it easy.
+{119821}{119873}Take it easy.
+{120201}{120284}We're in this together now. Partners.
+{120304}{120364}And now you understand.
+{120544}{120615}So we got a cop killer here.
+{120630}{120678}A man who's committed|a very special crime
+{120683}{120795}that requires a very|special form of justice.
+{120813}{120922}Step one, make sure|the crime scene is clean.
+{120927}{120969}Don't you touch anything, darling.
+{120974}{121087}Step two, no sign of|physical restraints or struggle.
+{121102}{121152}Step three...
+{121257}{121304}...motive.
+{121319}{121462}In this case, I'd say,|oh, remorse for what he's done.
+{121493}{121567}Unlucky in love.|That always works too.
+{121572}{121622}What are you doing?
+{121829}{121870}Tomorrow...
+{121875}{121948}...when those crime scene|boys show up...
+{121953}{122004}Photos never lie.
+{122009}{122067}They also save on those messy|courtroom appearances
+{122072}{122161}and some asshole judge|letting him out on bail.
+{122165}{122218}{y:i}And now you understand.
+{122256}{122314}We're in this together.|Give me the weapon.
+{122744}{122791}- Step away from Mike.|- What?
+{122835}{122908}Put your hands behind your head,|and get on your knees.
+{122913}{122983}- Don't you understand?|- Understand what?
+{122988}{123054}- I'm doing this for you!|- Get on your knees!
+{123059}{123125}Put your hands behind your head!
+{123157}{123264}Rule number one,|you gotta be crazy to be a cop.
+{123309}{123339}You ever heard that old saying,
+{123345}{123457}"Everybody runs away from a man with|a gun, but a cop runs toward him"?
+{123487}{123533}Give me the gun, Jess.|You're not gonna use it.
+{123538}{123627}Do it! Do it! Do it!
+{123632}{123688}Your father had that same rage.
+{123709}{123804}I told him about her. I had to!|He was my partner!
+{123809}{123930}You tell your partner everything!|You always tell your partner the truth!
+{123935}{124030}I told him she was fucking|that hippie scum!
+{124035}{124106}He lost his mind, ran in the house,|I heard arguing.
+{124116}{124193}Look, all my life, I wished that...
+{124197}{124243}Hey!
+{127133}{127187}You killed them all.
+{127219}{127256}They were scum.
+{127261}{127312}Don't you understand, darling?
+{127317}{127383}They weren't good enough|for you and her.
+{127404}{127478}You have the same|emotional problem.
+{127483}{127564}You have her disease.|I've tried to cure you.
+{127569}{127668}- You cured my mother by killing her?|- She was ruining my life.
+{127673}{127772}She was ruining her life|and your father's life.
+{127777}{127824}I loved her.
+{127829}{127901}I couldn't let her keep doing those|things. There was no other way.
+{127905}{127983}You killed my father.|You couldn't stop killing.
+{128021}{128068}Stop?
+{128073}{128180}I stopped for all those years,|and I can stop again.
+{128219}{128280}Control, Jess.
+{128285}{128335}It's all about control.
+{128417}{128465}Give me the gun.
+{128496}{128565}I kill you, I kill a fleeing felon.
+{128569}{128641}You kill me, you commit murder.
+{128662}{128707}{y:i}We've heard everything you said,|{y:i}commissioner.
+{128719}{128761}{y:i}You don't need the gun,|{y:i}commissioner.
+{128809}{128906}Test. Identify the voice|you are listening to.
+{128921}{128976}{y:i}I'm here, Jess. I got you.
+{128981}{129050}Recognize the voice of Officer Wilson,|my old patrol partner?
+{129055}{129144}{y:i}Go along with the program, sir.|{y:i}You don't want to destroy her.
+{129149}{129178}Move. Come on, come on.
+{129183}{129236}{y:i}Let her get the capture,|{y:i}commissioner.
+{129241}{129280}{y:i}Hold him there, Jess. I'm coming.
+{129285}{129346}Maybe some asshole judge|will cut you some slack.
+{129445}{129554}{y:i}10-4. Backup units rolling.|{y:i}Code three. We're on our way, Jess.
+{129728}{129796}Well done, inspector. Well done.
+{129817}{129864}You outsmarted the master.
+{129869}{129913}That means I did my job well.
+{129918}{129964}There's just one more test|you have to pass.
+{130035}{130067}Don't!
+{130080}{130114}No room for mistakes.
+{130183}{130216}- Test.|- No!
+{130825}{130891}- Mike.|- There she is. Let's go. Move it!
+{130948}{131053}- Come on, we got one in the water.|- Officer down. Call it in.
+{131088}{131148}There's no uniforms down here.|Get the paramedics.
+{131153}{131225}Always got your back, Jess.|You OK?
+{131449}{131513}- It's cold out here, kids.|- "This is Marine One. On our way."
+{131518}{131560}Copy that.
+{131893}{131968}Marine One, get someone in the water|right away to retrieve the body.
+{131973}{132012}Follow my light.
+{132017}{132086}- See us? Right here in front of the dock.|- Mike?
+{132097}{132138}Mike?
+{132143}{132184}Mike?
+{132209}{132265}I'm so sorry.
+{132307}{132365}I'm sorry I thought you were the guy.
+{132449}{132512}I am the guy.
+{132643}{132709}I'll see you later, stranger.
+{139373}{139421}Subtitles by|SDI Media Group
+{139425}{139473}[ENGLISH]
