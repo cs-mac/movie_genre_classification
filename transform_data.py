@@ -105,7 +105,7 @@ def main(argv):
     genres_chosen = ["Action", "Comedy", "Documentary", "Drama", "Horror", "Thriller"]
 
     #filtered_file = transform_data(file, genres_chosen) #file with movies with only 1 genre
-    #balanced_file = balance_data(filtered_file, genres_chosen, 200) #filtering later
+    #balanced_file = balance_data(filtered_file, genres_chosen, 200) #filtering later in movie_classification.py
     #data_info(filtered_file, genres_chosen)
     data_info("final_movies.csv", genres_chosen)
 

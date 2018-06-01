@@ -112,7 +112,7 @@ def read_files(genres):
     for genre in genres:
         filenames = [files for files in os.listdir('subtitles/' + genre)]
         file_counter = 0
-        for file in filenames:#[:100]:
+        for file in filenames:
             if file_counter == 150:
                 break
             file_counter += 1
@@ -308,7 +308,7 @@ def train(pipeline, X, y, categories, grid):
     print("Best parameters set found on development set:","\n")
     print(grid.best_params_)
     print("Grid best score:","\n")
-    print (grid.best_score_)
+    print(grid.best_score_)
 
 def to_list(string):
     string = string[1:-1]
@@ -448,10 +448,11 @@ def main():
 
             # weight components in FeatureUnion #think about using gridsearch on transformer weights
             transformer_weights={
-                'wpm': .1,
-                'dpm': .1,
-                'dd': 0,
-                'd2v': .1,
+                'wpm': .2,
+                'dpm': .2,
+                'dd': .3,
+                'd2v': .4,
+                #'pos': 0,
                 'text': 1,
             },
         )),

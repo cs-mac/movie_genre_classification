@@ -24,8 +24,8 @@ def get_subs(movie):
     '''
     scrapper = SubSceneScrapper(movie.title, is_filename=True)
     scrapper.get_subtitles()
-    best_match = scrapper.get_best_match_subtitle('English')
-    scrapper.download_subtitle_to_path(best_match, 'subtitles/'+movie.genres+'/')
+    best_match = scrapper.get_best_match_subtitle("English")
+    scrapper.download_subtitle_to_path(best_match, "subtitles/"+movie.genres+"/")
 
 
 def filter_no_subs(file, movies_with_no_subs):
@@ -33,7 +33,7 @@ def filter_no_subs(file, movies_with_no_subs):
     If we can not find subtitles of a movie -> remove that movie from our data, and creates a csv file that contains
     all movie subtitles downloaded
     '''
-    final_csv_file = open("final_movies.csv",'w')
+    final_csv_file = open("final_movies.csv", "w")
     final_csv_file.write("movieId,title,year,genres\n")
 
     for row in file.itertuples(index=False):

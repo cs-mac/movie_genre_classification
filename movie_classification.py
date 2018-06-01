@@ -7,6 +7,7 @@ import itertools
 import collections
 
 import spacy
+from textblob import Word
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
 from nltk.metrics import BigramAssocMeasures
@@ -19,30 +20,20 @@ from matplotlib import pyplot as plt
 from gensim.models.doc2vec import Doc2Vec
 
 from sklearn.svm import SVC
-from sklearn.naive_bayes import MultinomialNB, BernoulliNB
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import VotingClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction import stop_words
-from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 
 from sklearn.pipeline import Pipeline, FeatureUnion
 from sklearn.base import BaseEstimator,TransformerMixin
 from sklearn.model_selection import GridSearchCV, train_test_split, cross_validate, StratifiedKFold
 from sklearn import metrics
-
-# TODO:
-# Turn all numbers into NUMBER
-# Reorganize imports and delete ones not used anylonger (did some organizing still need to delete ones not used)
-# Add docstrings to all function
-# Seperate to more functions or !files! if necessary
-# Make every '' and "" consistent!
-# Try different way to get high information words
-# Ngrams don't seem to work (probably cause I create a set in bow method that scrambles the order! Test with different method)
 
 #nlp = spacy.load('en')
 
@@ -58,21 +49,21 @@ def remove_markup(text):
     '''
     Removes markup like <i></i> and returns the text that is left
     '''
-    return re.sub('<[^<]+?>', '$', text)
+    return re.sub('<[^<]+?>', '', text)
 
 def remove_hearing_impaired(text):
     '''
     Removes hearing impaired information, targeting specfically conventions used in hearing impaired subtitles like:
     (HEARING IMPAIRED PART) or music parts like "♪ Yeah, ah"
     '''
-    return re.sub("♪.*♪", "$", re.sub("♪.*\n.*", "$", re.sub("[\(\[].*?[\)\]]", "$", text)))
+    return re.sub("♪.*♪", "", re.sub("♪.*\n.*", "", re.sub("[\(\[].*?[\)\]]", "$", text)))
     
 def remove_speaker(text):
     '''
     Sometimes in subtitles the speaker will be displayed e.g. Speaker1: "hi". This function removes the speaker, and 
     only leaves the dialogue
     '''
-    return re.sub(".*:\n.*", "$", re.sub(".*: .*\n.*", "$", text))
+    return re.sub(".*:\n.*", "", re.sub(".*: .*\n.*", "$", text))
 
 def parse_subtitle(genre, file):
     '''
@@ -145,10 +136,11 @@ def read_files(genres):
                 continue
             #if item[5] >= 3 to remove things like "created by [Someone]" or "Subtitles by [Someone]"
             dialogue = [remove_speaker(remove_hearing_impaired(remove_markup(item[3]))) for item in data if item[5] >= 3]
-            dialogue_one_list = list(itertools.chain.from_iterable([tokenize(line) for line in dialogue]))
+            dialogue_one_list = list(itertools.chain.from_iterable([tokenize(line) for line in dialogue])) 
             #word_sum += len(dialogue)
-            bag = uniques([tok for tok in dialogue_one_list], union_stopword_set) 
+            bag = uniques([tok if not tok.isupper() else tok.lower() for tok in dialogue_one_list], union_stopword_set) 
             #bag = uniques([snow.stem(tok) for tok in dialogue_one_list], union_stopword_set) #stemming makes it slower and slightly less accuracte
+            #bag = uniques([Word(tok).lemmatize() for tok in dialogue_one_list], union_stopword_set) #lemmatizing made it slightly worse
             features.append(bag)
             all_genres.append(genre)
             files_used[genre].append(file)
@@ -386,10 +378,16 @@ def train(pipeline, X, y, categories, show_plots=False):
     plt.close()
 
 def to_list(string):
+    '''
+    Makes the format that I use before tfidf vectorizing from ['[text]',...] to ['text', ...]
+    '''
     string = string[1:-1]
     return [token[1:-1] for token in string.split(', ')]
 
 # def tag(tokens):
+#     '''
+#     Return a pos tag for each token in a document
+#     '''
 #     doc = nlp(tokens)
 #     return [t.pos_ for t in doc]
 
@@ -462,7 +460,7 @@ def main():
     X_dpm = dpm(files_used, categories, show_plots)
     X_dd = dialogue_distribution(files_used, categories)
 
-    doc2vec_model = Doc2Vec.load("d2v.model")
+    doc2vec_model = Doc2Vec.load("d2v_150.model")
 
     #Reason I don't infer the vector is that I used the data already while training the vector model (with tagged docoments), so I can just retrieve the data
     X_d2v = [doc2vec_model.docvecs[str(i)] for i in range(len(X))]
@@ -495,7 +493,7 @@ def main():
                 #Pipeline for standard bag-of-words model for body
                 ('text', Pipeline([
                     ('selector', ItemSelector(key='text')),
-                    ('tfidf', TfidfVectorizer(sublinear_tf=True)),
+                    ('tfidf', TfidfVectorizer(sublinear_tf=True, norm='l2')),
                 ])),
 
                 #Pipeline for wpm feature
@@ -531,11 +529,11 @@ def main():
             ],
 
             # weight components in FeatureUnion #think about using gridsearch on transformer weights
-            transformer_weights={
+            transformer_weights={ #best = wpm=0.2, dpm=0.2, dd=0, d2v=0.2, pos=0, text=1
                 'wpm': .2,
                 'dpm': .2,
-                'dd': .3,
-                'd2v': .6,
+                'dd': 0,
+                'd2v': .2,
                 #'pos': 0,
                 'text': 1,
             },
@@ -548,8 +546,8 @@ def main():
     train(pipeline, X_train, y_train, categories, show_plots)
 
     final_pred = pipeline.predict(X_test)
-    accuracy = metrics.accuracy_score(y_test, final_pred)
-    print("\nFinal accuracy: {}".format(accuracy))
+    print("\nScores on test set:\n")
+    print(metrics.classification_report(y_test, final_pred, digits=3))
 
 if __name__ == '__main__':
     main()

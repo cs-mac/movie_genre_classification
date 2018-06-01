@@ -19,16 +19,15 @@ def doc2vec_model(genres):
     '''
     features = []
     all_genres = []
-    nltk_stopword_set = set(stopwords.words('english')) #179 words
+    nltk_stopword_set = set(stopwords.words("english")) #179 words
     scikit_stopword_set = set(stop_words.ENGLISH_STOP_WORDS) #318 words
     union_stopword_set = nltk_stopword_set | scikit_stopword_set # 378 words
-    files_used = collections.defaultdict(list)
 
     for genre in genres:
-        filenames = [files for files in os.listdir('subtitles/' + genre)]
+        filenames = [files for files in os.listdir("subtitles/" + genre)]
         file_counter = 0
         for file in filenames:
-            if file_counter == 400:
+            if file_counter == 400: #max amount of files per genre
                 break
             file_counter += 1
             data = parse_subtitle(genre, file)
@@ -39,8 +38,8 @@ def doc2vec_model(genres):
                 continue
             dialogue = [remove_speaker(remove_hearing_impaired(remove_markup(item[3]))) for item in data if item[5] >= 3]
             dialogue_one_list = list(itertools.chain.from_iterable([tokenize(line) for line in dialogue]))
-            all_w = [tok for tok in dialogue_one_list if tok not in union_stopword_set]
-            features.append(all_w)
+            bag = uniques([tok if not tok.isupper() else tok.lower() for tok in dialogue_one_list], union_stopword_set) 
+            features.append(bag)
             all_genres.append(genre)
 
     features = [to_list(str(lst)) for lst in features]
@@ -75,7 +74,7 @@ def doc2vec_model(genres):
     print("Model Saved")
 
 def main():
-    categories = ["Drama","Comedy","Documentary","Horror"]
+    categories = ["Comedy", "Drama", "Documentary", "Horror"]
     doc2vec_model(categories)
 
 if __name__ == '__main__':
