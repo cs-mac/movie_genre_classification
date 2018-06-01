@@ -26,6 +26,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 
+from sklearn.feature_selection import chi2, SelectKBest
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction import stop_words
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
@@ -412,12 +413,13 @@ class FeaturesExtractor(BaseEstimator, TransformerMixin):
 
     def transform(self, subs):
         features = {}
-        features['text'] = [item[0] for item in subs]
         #features['text'] = [' '.join(to_list(item[0])) for item in subs] #cleaner looking, but same functionality
-        features['wpm'] = [[float(item[1])] for item in subs]
-        features['dpm'] = [[float(item[2])] for item in subs]
-        features['dd'] = [item[3] for item in subs]
-        features['d2v'] = [item[4] for item in subs]
+        features['text'] = [item[0] for item in subs]
+        features['text_high'] = [item[1] for item in subs]
+        features['wpm'] = [[float(item[2])] for item in subs]
+        features['dpm'] = [[float(item[3])] for item in subs]
+        features['dd'] = [item[4] for item in subs]
+        features['d2v'] = [item[5] for item in subs]
         #features['pos'] = [" ".join(tag(str(sentence))) for sentence in [' '.join(to_list(item[0])) for item in subs]]
 
         return features
@@ -466,7 +468,7 @@ def main():
     X_d2v = [doc2vec_model.docvecs[str(i)] for i in range(len(X))]
     #X_d2v = [doc2vec_model.infer_vector(to_list(str(i))) for i in X] 
 
-    X = [(str(lst), wpm, dpm, dd, d2v) for lst, wpm, dpm, dd, d2v in zip(X_high_info, X_wpm, X_dpm, X_dd, X_d2v)]
+    X = [(str(x), str(x_high), wpm, dpm, dd, d2v) for x, x_high, wpm, dpm, dd, d2v in zip(X, X_high_info, X_wpm, X_dpm, X_dd, X_d2v)]
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 10)
 
@@ -490,9 +492,16 @@ def main():
         # Use FeatureUnion to combine the features from subject and body
         ('union', FeatureUnion(
             transformer_list=[
-                #Pipeline for standard bag-of-words model for body
+                #Pipeline bag-of-words model 
                 ('text', Pipeline([
                     ('selector', ItemSelector(key='text')),
+                    ('tfidf', TfidfVectorizer(sublinear_tf=True, binary=True, norm='l2', ngram_range=(1,3))),
+                    ('chi-square', SelectKBest(chi2, 300)),
+                ])),
+
+                #Pipeline for high info words bag-of-words model 
+                ('text_high', Pipeline([
+                    ('selector', ItemSelector(key='text_high')),
                     ('tfidf', TfidfVectorizer(sublinear_tf=True, norm='l2')),
                 ])),
 
@@ -523,7 +532,7 @@ def main():
                 #Pipeline for POS tag features
                 # ('pos', Pipeline([
                 #     ('selector', ItemSelector(key='pos')),
-                #     ('words', TfidfVectorizer())
+                #     ('words', TfidfVectorizer(sublinear_tf=True, binary=True, norm='l2', ngram_range=(1,3)))
                 # ])),
 
             ],
@@ -536,6 +545,7 @@ def main():
                 'd2v': .2,
                 #'pos': 0,
                 'text': 1,
+                'text_high': 1,
             },
         )),
 
