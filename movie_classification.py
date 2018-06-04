@@ -82,7 +82,7 @@ def parse_subtitle(genre, file):
 
             conversation_id = sub[0]
             start_end = sub[1]
-            dialogue = sub[2]
+            dialogue = " ".join(sub[2:])
 
             if len(start_end.split(' --> ')) == 2:
                 start, end = start_end.split(' --> ') 
