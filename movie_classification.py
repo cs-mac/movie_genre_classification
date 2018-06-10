@@ -20,11 +20,7 @@ from matplotlib import pyplot as plt
 from gensim.models.doc2vec import Doc2Vec
 
 from sklearn.svm import SVC
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.linear_model import LogisticRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+from sklearn.naive_bayes import MultinomialNB, GaussianNB, BernoulliNB
 
 from sklearn.feature_selection import chi2, SelectKBest
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -152,7 +148,7 @@ def read_files(genres):
 
 def get_high_information_words(labelled_words, score_fn=BigramAssocMeasures.chi_sq, min_score=5):
     '''
-    Gets the high information words using chi square measure
+    Gets the high information words using chi square measure 
     '''
     word_fd = FreqDist()
     label_word_fd = ConditionalFreqDist()
@@ -194,7 +190,7 @@ def high_information_words(X, y):
         for word in words:
             distinct_words.add(word)
 
-    high_info_words = set(get_high_information_words(labelled_words, BigramAssocMeasures.chi_sq, 5)) #5 seems best with this amount of data
+    high_info_words = set(get_high_information_words(labelled_words, BigramAssocMeasures.chi_sq, 4.5)) #4.5 seems best with this amount of data
 
     print("\tNumber of words in the data: %i" % amount_words)
     print("\tNumber of distinct words in the data: %i" % len(distinct_words))
@@ -292,9 +288,9 @@ def dpm(files_used, genres, show_plots=False):
 
     return time_features
 
-def dialogue_distribution(files_used, genres, time_boundry_min=10):
+def word_distribution(files_used, genres, time_boundry_min=10):
     '''
-    Calculate the dialogue distribution of each movie of each genre
+    Calculate the word distribution of each movie of each genre
     '''
     print("\n#### CALCULATING DIALOGUE DISTRIBUTION OF MOVIES...")
     time_features = []
@@ -307,17 +303,17 @@ def dialogue_distribution(files_used, genres, time_boundry_min=10):
                 time_features.append([0])
                 continue
             check = 0
-            dialogue_during_boundry = 0
-            for dialogue in subs:
-                time_seconds = dialogue[5]
+            word_during_boundry = 0
+            for word in subs:
+                time_seconds = word[5]
                 if time_seconds-check <= time_boundry_min*60:
-                    dialogue_during_boundry += len(dialogue[3])
+                    word_during_boundry += len(word[3])
                     continue
-                dd_list.append(dialogue_during_boundry)
-                dialogue_during_boundry = 0
+                dd_list.append(word_during_boundry)
+                word_during_boundry = 0
                 check += time_boundry_min*60
-            if dialogue_during_boundry > 100:
-                dd_list.append(dialogue_during_boundry) #append last part left if size is reasonable
+            if word_during_boundry > 100:
+                dd_list.append(word_during_boundry) #append last part left if size is reasonable
             time_features.append(dd_list)
  
     longest = max(map(len, time_features))
@@ -358,7 +354,7 @@ def train(pipeline, X, y, categories, show_plots=False):
         pred_overall = np.concatenate([pred_overall, pred])
         y_test_overall = np.concatenate([y_test_overall, y_test])
 
-        #print (metrics.classification_report(y_test, pred, digits=3))
+        #print(metrics.classification_report(y_test, pred, digits=3))
 
     print("\n"+"Average accuracy: %.6f"%(accuracy/10) + "\n")
 
@@ -418,7 +414,7 @@ class FeaturesExtractor(BaseEstimator, TransformerMixin):
         features['text_high'] = [item[1] for item in subs]
         features['wpm'] = [[float(item[2])] for item in subs]
         features['dpm'] = [[float(item[3])] for item in subs]
-        features['dd'] = [item[4] for item in subs]
+        features['wd'] = [item[4] for item in subs]
         features['d2v'] = [item[5] for item in subs]
         #features['pos'] = [" ".join(tag(str(sentence))) for sentence in [' '.join(to_list(item[0])) for item in subs]]
 
@@ -437,7 +433,7 @@ class ItemSelector(BaseEstimator, TransformerMixin):
 def main():
     show_plots = False #set to True to show plots, False to not show plots
 
-    #read categories from arguments. e.g. "python3 test.py Drama Comedy Horror"
+    #read categories from arguments. e.g. "python3 test.py Comedy Drama Documentary Horror"
     categories = []
     for arg in sys.argv[1:]:
         categories.append(arg)
@@ -460,29 +456,26 @@ def main():
 
     X_wpm = wpm(files_used, categories, show_plots)
     X_dpm = dpm(files_used, categories, show_plots)
-    X_dd = dialogue_distribution(files_used, categories)
+    X_wd = word_distribution(files_used, categories)
 
     doc2vec_model = Doc2Vec.load("d2v_150.model")
+    #doc2vec_model = Doc2Vec.load("d2v_400.model")
 
     #Reason I don't infer the vector is that I used the data already while training the vector model (with tagged docoments), so I can just retrieve the data
     X_d2v = [doc2vec_model.docvecs[str(i)] for i in range(len(X))]
     #X_d2v = [doc2vec_model.infer_vector(to_list(str(i))) for i in X] 
 
-    X = [(str(x), str(x_high), wpm, dpm, dd, d2v) for x, x_high, wpm, dpm, dd, d2v in zip(X, X_high_info, X_wpm, X_dpm, X_dd, X_d2v)]
+    X = [(str(x), str(x_high), wpm, dpm, wd, d2v) for x, x_high, wpm, dpm, wd, d2v in zip(X, X_high_info, X_wpm, X_dpm, X_wd, X_d2v)]
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 10)
 
     clfs = [
-        LogisticRegression(solver='lbfgs'), #2nd best close to svm, but not yet used grid search on svm
-        SVC(C=10, cache_size=500, class_weight=None, coef0=0.0, #use cv grid search to parameter tune (works best for now with random parameters)
+        SVC(C=10, cache_size=500, class_weight=None, coef0=0.0, #parameters found using grid_search.py
         decision_function_shape=None, degree=3, gamma=0.0001, kernel='linear',
         max_iter=100000, probability=False, random_state=None, shrinking=True,
         tol=0.001, verbose=False),
-        KNeighborsClassifier(n_neighbors=3),
-        DecisionTreeClassifier(),
-        RandomForestClassifier(),
         MultinomialNB(alpha=1.0),
-        GradientBoostingClassifier(), #really slow
+        BernoulliNB(),
     ]
 
     pipeline = Pipeline([
@@ -517,9 +510,9 @@ def main():
                     ('scaler', MinMaxScaler()),
                 ])),
 
-                #Pipeline for dd feature
-                ('dd', Pipeline([
-                    ('selector', ItemSelector(key='dd')),
+                #Pipeline for wd feature
+                ('wd', Pipeline([
+                    ('selector', ItemSelector(key='wd')),
                     ('scaler', MinMaxScaler()),
                 ])),
 
@@ -537,11 +530,11 @@ def main():
 
             ],
 
-            # weight components in FeatureUnion #think about using gridsearch on transformer weights
-            transformer_weights={ #best = wpm=0.2, dpm=0.2, dd=0, d2v=0.2, pos=0, text=1
+            # weight components in FeatureUnion
+            transformer_weights={ 
                 'wpm': .2,
                 'dpm': .2,
-                'dd': 0,
+                'wd': 0,
                 'd2v': .2,
                 #'pos': 0,
                 'text': 1,
@@ -550,14 +543,26 @@ def main():
         )),
 
         # Use a classifier on the combined features
-        ('classifier', clfs[1]),
+        ('classifier', clfs[0]),
     ])
 
     train(pipeline, X_train, y_train, categories, show_plots)
 
     final_pred = pipeline.predict(X_test)
     print("\nScores on test set:\n")
+    print(metrics.accuracy_score(y_test, final_pred))
     print(metrics.classification_report(y_test, final_pred, digits=3))
+
+    confusion_m = metrics.confusion_matrix(y_test, final_pred, labels=categories)
+    plt.figure(figsize = (16, 9), dpi=150)
+    sn.set(font_scale=1.4) #label size
+    hm = sn.heatmap(confusion_m, annot=True, fmt='g', annot_kws={"size": 16}) #font size
+    hm.set(xticklabels = categories, yticklabels = categories)
+    plt.title(str(pipeline.named_steps['classifier']).split("(")[0] + ' Confusion Matrix')
+    if show_plots:
+        plt.show()
+    hm.figure.savefig(str(pipeline.named_steps['classifier']).split("(")[0] + '_confusion_matrix_test' + '.png', figsize = (16, 9), dpi=150)
+    plt.close()
 
 if __name__ == '__main__':
     main()

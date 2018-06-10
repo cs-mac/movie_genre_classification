@@ -27,7 +27,7 @@ def doc2vec_model(genres):
         filenames = [files for files in os.listdir("subtitles/" + genre)]
         file_counter = 0
         for file in filenames:
-            if file_counter == 400: #max amount of files per genre
+            if file_counter == 150: #max amount of files per genre
                 break
             file_counter += 1
             data = parse_subtitle(genre, file)
@@ -70,7 +70,7 @@ def doc2vec_model(genres):
 
     bar.finish()
 
-    model.save("d2v_400.model")
+    model.save("d2v_150.model")
     print("Model Saved")
 
 def main():
