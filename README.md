@@ -24,7 +24,11 @@ scrapper.py
 
 doc2vec.py
 
-grid_search.py
+grid_search.py (for parameters algorithms)
+
+gs_feature_weights.py (for weights of features)
+
+base_program.py (classifier with basic BOW model)
 
 movie_classification.py
 
@@ -37,6 +41,6 @@ Step2: python3 get_subs.py #This downloads all the subtitles for the movies chos
 
 Step3: python3 doc2vec.py #Create a doc2vec model 
 
-Step4: python3 movie_classification.py (Don't need grid_search.py, already used for parameters in classifier in movie_classification.py)
+Step4: python3 movie_classification.py (Don't need grid_search.py/gs_feature_weights.py, already used for parameters/weights in classifier in movie_classification.py)
 
 
