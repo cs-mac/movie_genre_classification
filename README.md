@@ -28,6 +28,8 @@ grid_search.py (for parameters algorithms)
 
 gs_feature_weights.py (for weights of features)
 
+base_program.py (classifier with basic BOW model)
+
 movie_classification.py
 
 
