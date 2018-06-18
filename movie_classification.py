@@ -190,7 +190,7 @@ def high_information_words(X, y):
         for word in words:
             distinct_words.add(word)
 
-    high_info_words = set(get_high_information_words(labelled_words, BigramAssocMeasures.chi_sq, 4.5)) #4.5 seems best with this amount of data
+    high_info_words = set(get_high_information_words(labelled_words, BigramAssocMeasures.chi_sq, 4.25)) #4.25 seems best with this amount of data
 
     print("\tNumber of words in the data: %i" % amount_words)
     print("\tNumber of distinct words in the data: %i" % len(distinct_words))
