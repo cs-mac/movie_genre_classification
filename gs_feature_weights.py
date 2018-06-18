@@ -5,9 +5,10 @@ import os
 import re
 import itertools
 import collections
+import progressbar #to prevent confusion this needs progressbar2 (pip3 install progressbar2 --user)
 
 import spacy
-from textblob import Word
+from textblob import TextBlob, Word
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
 from nltk.metrics import BigramAssocMeasures
@@ -198,6 +199,35 @@ def high_information_words(X, y):
 
     return high_info_words
 
+def sentiment(files_used, genres):
+    '''
+    Calculates for each genre and every file the average sentiment
+    '''
+    print("\n#### OBTAINING GENRE SENTIMENTS...")
+    sentiment_features = []
+    for genre in genres:
+        genre_sentiment = 0
+        for file in files_used[genre]:
+            file_sentiment = 0
+            subs = parse_subtitle(genre, file)
+            amount_correcter_file = 0
+            for content in subs:
+                dialogue = content[3]
+                sent = TextBlob(dialogue).sentiment.polarity
+                if sent != 0:
+                    file_sentiment += sent
+                else:
+                    amount_correcter_file += 1
+            if len(subs)-amount_correcter_file != 0:
+                file_sentiment = file_sentiment/(len(subs)-amount_correcter_file)
+            else:
+                file_sentiment = 0
+            genre_sentiment += file_sentiment
+            sentiment_features.append(file_sentiment)
+        genre_sentiment = genre_sentiment/len(files_used[genre])
+        print('\t',genre, genre_sentiment)
+    return sentiment_features
+
 def wpm(files_used, genres, show_plots=False):
     '''
     Calculate the word/minute of each genre
@@ -325,54 +355,29 @@ def word_distribution(files_used, genres, time_boundry_min=10):
 
     return time_features
 
-def train(pipeline, X, y, categories, show_plots=False):
+highest = 0
+best_param = []
+def train(pipeline, X, y, categories, grid):
     '''
     Train the classifier and evaluate the results
     '''
-    print("\n#### EVALUATION...")
-
+    global highest
+    global best_param
+   # print("\n#### PERFORMING GRID SEARCH...")
+    
     X = np.array(X, dtype=object)
     y = np.array(y, dtype=object)
 
-    print(pipeline.named_steps['classifier'])
-
-    accuracy = 0
-    confusion_m = np.zeros(shape=(len(categories),len(categories)))
-    kf = StratifiedKFold(n_splits=10).split(X, y)
-    pred_overall = np.array([])
-    y_test_overall = np.array([])
-    for train_index, test_index in kf:
-        X_train, X_test = X[train_index], X[test_index]
-        y_train, y_test = y[train_index], y[test_index]
-        trained  = pipeline.fit(X_train, y_train) 
-        pred = pipeline.predict(X_test)
-        accuracy += metrics.accuracy_score(y_test, pred)
-        #precision, recall, fscore = precision_recall_fscore_support(y_test, pred, labels=categories, average='macro')[:-1] #average
-        precision, recall, fscore = metrics.precision_recall_fscore_support(y_test, pred, average=None, labels=categories)[:-1] #per class
-        confusion_m = np.add(confusion_m, metrics.confusion_matrix(y_test, pred, labels=categories))
-        
-        pred_overall = np.concatenate([pred_overall, pred])
-        y_test_overall = np.concatenate([y_test_overall, y_test])
-
-        #print(metrics.classification_report(y_test, pred, digits=3))
-
-    print("\n"+"Average accuracy: %.6f"%(accuracy/10) + "\n")
-
-    print (metrics.classification_report(y_test_overall, pred_overall, digits=3))
-    print('Confusion matrix')
-    print(confusion_m)
-
-    plt.figure(figsize = (16, 9), dpi=150)
-    sn.set(font_scale=1.4) #label size
-    hm = sn.heatmap(confusion_m, annot=True, fmt='g', annot_kws={"size": 16}) #font size
-    hm.set(xticklabels = categories, yticklabels = categories)
-    plt.title(str(pipeline.named_steps['classifier']).split("(")[0] + ' Confusion Matrix')
-    if show_plots:
-        plt.show()
-
-    hm.figure.savefig(str(pipeline.named_steps['classifier']).split("(")[0] + '_confusion_matrix' + '.png', figsize = (16, 9), dpi=150)
-
-    plt.close()
+    grid.fit(X, y)
+    #print("\n","Grid scores on development set:","\n")  
+    #print(grid.cv_results_)
+    #print("Best parameters set found on development set:","\n")
+    #print(grid.best_params_)
+    #print("Grid best score:","\n")
+    #print(grid.best_score_)
+    if grid.best_score_ >= highest:
+        highest = grid.best_score_
+        best_param.append((grid.best_params_,highest))
 
 def to_list(string):
     '''
@@ -431,6 +436,8 @@ class ItemSelector(BaseEstimator, TransformerMixin):
         return data_dict[self.key]
 
 def main():
+    global highest
+    global best_param
     show_plots = False #set to True to show plots, False to not show plots
 
     #read categories from arguments. e.g. "python3 test.py Comedy Drama Documentary Horror"
@@ -489,7 +496,7 @@ def main():
                 ('text', Pipeline([
                     ('selector', ItemSelector(key='text')),
                     ('tfidf', TfidfVectorizer(sublinear_tf=True, binary=True, norm='l2', ngram_range=(1,3))),
-                    #('chi-square', SelectKBest(chi2, 300)),
+                    ('chi-square', SelectKBest(chi2, 300)),
                 ])),
 
                 #Pipeline for high info words bag-of-words model 
@@ -532,13 +539,13 @@ def main():
 
             # weight components in FeatureUnion
             transformer_weights={ 
-                'text': 0.2,
-                'text_high' : 1,
-                'wpm': 0,
-                'dpm': 0.2,
+                'wpm': .2,
+                'dpm': .2,
                 'wd': 0,
-                'd2v': 0,
+                'd2v': .2,
                 #'pos': 0,
+                'text': 1,
+                'text_high': 1,
             },
         )),
 
@@ -546,23 +553,32 @@ def main():
         ('classifier', clfs[0]),
     ])
 
-    train(pipeline, X_train, y_train, categories, show_plots)
+    permutations = set(itertools.permutations([0,0,0,0,0,1]))
+    #permutations = list(itertools.product([0,1], repeat=6))
+    bar = progressbar.ProgressBar(maxval=len(permutations)).start()
 
-    final_pred = pipeline.predict(X_test)
-    print("\nScores on test set:\n")
-    print(metrics.accuracy_score(y_test, final_pred))
-    print(metrics.classification_report(y_test, final_pred, digits=3))
+    for idx,perm in enumerate(permutations):
 
-    confusion_m = metrics.confusion_matrix(y_test, final_pred, labels=categories)
-    plt.figure(figsize = (16, 9), dpi=150)
-    sn.set(font_scale=1.4) #label size
-    hm = sn.heatmap(confusion_m, annot=True, fmt='g', annot_kws={"size": 16}) #font size
-    hm.set(xticklabels = categories, yticklabels = categories)
-    plt.title(str(pipeline.named_steps['classifier']).split("(")[0] + ' Confusion Matrix')
-    if show_plots:
-        plt.show()
-    hm.figure.savefig(str(pipeline.named_steps['classifier']).split("(")[0] + '_confusion_matrix_test' + '.png', figsize = (16, 9), dpi=150)
-    plt.close()
+        param_grid={'union__transformer_weights' : [dict(
+                    wpm = perm[0],
+                    dpm = perm[1],
+                    wd = perm[2],
+                    #pos = perm[3],
+                    d2v = perm[3],
+                    text = perm[4],
+                    text_high = perm[5])]}
+
+        grid = GridSearchCV(pipeline, param_grid, cv=3, scoring='accuracy', n_jobs=-1) 
+
+        train(pipeline, X_train, y_train, categories, grid)
+        bar.update(idx)
+
+    bar.finish()
+
+    print("\nBest permutation:\n")
+    print(best_param)
+    print(highest)
+
 
 if __name__ == '__main__':
     main()
