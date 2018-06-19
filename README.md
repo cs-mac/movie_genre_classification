@@ -5,6 +5,17 @@ Name: Chi Sam Mac
 
 Student-number: s2588382
 
+### HOW TO ###
+If you have all the subtitles files (directory subtitle, with subdirectories the genres: Comedy, Drama, Documentary, Thriller, etc.)
+
+The Doc2vec model: d2v_150.model
+
+The movie_classification.py file.
+
+Run movie_classification.py* as: # python3 movie_classification.py Comedy Drama Documentary Horror #
+
+*POS tag feature commented to increase efficiency of program, as the feature does not add anything to performance of the classifier. To turn it on uncomment the following lines: 35, 392-412, 427, 534-537, 549. 
+
 ### FILES AT START ###
 
 
