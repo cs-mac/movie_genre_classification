@@ -5,18 +5,18 @@ Name: Chi Sam Mac
 
 Student-number: s2588382
 
-### HOW TO ###
-If you have all the subtitles files (directory subtitle, with subdirectories the genres: Comedy, Drama, Documentary, Thriller, etc.)
+### How to run the classifier ###
+First you need to have all subtitles files (directory subtitle, with subdirectories the genres: Comedy, Drama, Documentary, Thriller, etc.)
 
 The Doc2vec model: d2v_150.model
 
 The movie_classification.py file.
 
-Run movie_classification.py* as: # python3 movie_classification.py Comedy Drama Documentary Horror #
+Then run movie_classification.py* as: __python3 movie_classification.py Comedy Drama Documentary Horror__
 
 *POS tag feature commented to increase efficiency of program, as the feature does not add anything to performance of the classifier. To turn it on uncomment the following lines: 35, 392-412, 427, 534-537, 549. 
 
-### FILES AT START ###
+### Files neccesary to gather all data from scratch ###
 
 
 Directory "subtitles" with in it directories of the genres ("Action", "Comedy", "Documentary", "Drama", "Horror", "Thriller")
@@ -44,7 +44,7 @@ base_program.py (classifier with basic BOW model)
 movie_classification.py
 
 
-### STEPS ###
+### Steps to gather all data from scratch and run the classifier ###
 
 Step1: python3 transform_data.py #To get the data of which movies to get subtitles from
 
